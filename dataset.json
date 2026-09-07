@@ -1,0 +1,68 @@
+{
+ "pretty_name": "US court decisions on generative AI — coded corpus",
+ "title": "US court decisions on generative AI",
+ "headline": "{n_decisions} court-authored US documents (opinions, orders, concurrences, dissents, administrative orders) that substantively discuss generative AI, each coded by topic, with the public-domain passage quoted, plus {n_litigation} legal-AI litigation dockets with dated milestones.",
+ "canonical_path": "/courts",
+ "tags": [
+  "courts",
+  "judicial-opinions",
+  "generative-ai",
+  "chatgpt",
+  "hallucination",
+  "evidence",
+  "public-domain"
+ ],
+ "what_a_row_is": "A `decisions` row is one court-authored document: `case_name`, `court`, `court_level`, `state`, `date_filed`, `citation`, `docket_number`, `document_type`, `topics[]` (fabricated-citations · court-ai-use · evidence-authentication · discovery-ediscovery · privilege-work-product · unauthorized-practice · criminal-justice-algorithms · pro-se-ai-use · competence-fees · rules-by-opinion · substantive-ai-law), `primary_topic`, `court_used_ai`, `ai_tool_named`, `disposition`, the verbatim public-domain `ai_passage`, `cited_authorities[]`, a 40–60-word `summary`, `incident{}` (conduct/outcome/actor/penalty when the row is a fabricated-citation decision) and `tracker_slug` (its canonical page in the SafeLegalAI incident tracker). A `litigation` row is one proceeding in which a legal-AI company or product is a party, with dated `milestones[]`.",
+ "method": "Leads came from Damien Charlotin's CC0 AI Hallucination Cases database, the CourtListener search index (discovery only, within its public rate limits; a partnership request to Free Law Project is pending), court-website searches and news reports; every document was then fetched from the issuing court's site, govinfo.gov or the public RECAP archive and read. Coding is conservative and the passage is quoted so readers can check it. Fabricated-citation decisions have one canonical page in the incident tracker; this corpus links to it rather than duplicating it.",
+ "licence_note": "Opinions, orders and rules of United States courts are public domain (17 U.S.C. § 105; *Banks v. Manchester* (1888); *Georgia v. Public.Resource.Org* (2020)).",
+ "banned_hosts": [
+  "advance.lexis.com",
+  "westlaw.com",
+  "law360.com",
+  "justia.com",
+  "scholar.google",
+  "casetext.com",
+  "casemine.com",
+  "vlex.com",
+  "leagle.com"
+ ],
+ "tables": {
+  "decisions": {
+   "id_field": "decision_id",
+   "dedupe_fields": [
+    "case_name",
+    "date_filed",
+    "court"
+   ],
+   "sort_field": "date_filed",
+   "sort_desc": true,
+   "site_path": "/courts/opinions/{decision_id}",
+   "row_is": "one court-authored document discussing generative AI",
+   "count_fields": [
+    "primary_topic",
+    "court_level",
+    "state",
+    "document_type",
+    "court_used_ai",
+    "verification"
+   ]
+  },
+  "litigation": {
+   "id_field": "case_id",
+   "dedupe_fields": [
+    "docket_number"
+   ],
+   "sort_field": "filed",
+   "sort_desc": true,
+   "site_path": "/courts/litigation/{case_id}",
+   "row_is": "one proceeding with a legal-AI company or product as a party",
+   "count_fields": [
+    "status",
+    "qualifier",
+    "court"
+   ]
+  }
+ },
+ "repo": "us-genai-court-opinions",
+ "version": "0.1.0"
+}

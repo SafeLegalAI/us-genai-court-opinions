@@ -1,0 +1,163 @@
+{
+ "$schema": "https://json-schema.org/draft/2020-12/schema",
+ "title": "SafeLegalAI legal-AI litigation docket",
+ "type": "object",
+ "additionalProperties": false,
+ "properties": {
+  "case_id": {
+   "type": "string",
+   "pattern": "^[a-z0-9][a-z0-9-]{3,90}$"
+  },
+  "caption": {
+   "type": "string",
+   "maxLength": 240
+  },
+  "court": {
+   "type": "string"
+  },
+  "docket_number": {
+   "type": "string"
+  },
+  "filed": {
+   "type": "string",
+   "pattern": "^\\d{4}-\\d{2}(-\\d{2})?$"
+  },
+  "country": {
+   "type": "string",
+   "pattern": "^[A-Z]{2}$"
+  },
+  "parties_legal_ai": {
+   "type": "array",
+   "items": {
+    "type": "string"
+   },
+   "description": "legal-AI companies/products that are parties"
+  },
+  "qualifier": {
+   "type": "string",
+   "enum": [
+    "copyright-training",
+    "upl-consumer",
+    "trade-secret-vendor",
+    "regulator-consumer",
+    "database-terms",
+    "antitrust",
+    "other"
+   ]
+  },
+  "status": {
+   "type": "string",
+   "enum": [
+    "active",
+    "on-appeal",
+    "stayed",
+    "settled",
+    "dismissed",
+    "judgment",
+    "consent-order",
+    "closed"
+   ]
+  },
+  "status_text": {
+   "type": "string",
+   "maxLength": 300,
+   "description": "current posture as of fetched_at, one sentence"
+  },
+  "milestones": {
+   "type": "array",
+   "minItems": 1,
+   "items": {
+    "type": "object",
+    "additionalProperties": false,
+    "properties": {
+     "date": {
+      "type": "string"
+     },
+     "event": {
+      "type": "string",
+      "maxLength": 200
+     },
+     "url": {
+      "type": [
+       "string",
+       "null"
+      ]
+     }
+    },
+    "required": [
+     "date",
+     "event"
+    ]
+   }
+  },
+  "summary": {
+   "type": "string",
+   "minLength": 120,
+   "maxLength": 520,
+   "description": "40–60 words, descriptive, present tense"
+  },
+  "next_expected": {
+   "type": [
+    "string",
+    "null"
+   ],
+   "maxLength": 200
+  },
+  "source_url": {
+   "type": "string",
+   "format": "uri",
+   "description": "primary source (court/regulator/legislature/agency/vendor own site or official API)"
+  },
+  "archive_url": {
+   "type": [
+    "string",
+    "null"
+   ],
+   "description": "web.archive.org snapshot of source_url, or null"
+  },
+  "fetched_at": {
+   "type": "string",
+   "description": "ISO timestamp of the read"
+  },
+  "verification": {
+   "type": "string",
+   "enum": [
+    "fetched-and-read",
+    "page-read-no-document",
+    "link-only"
+   ]
+  },
+  "lead_source": {
+   "type": "array",
+   "items": {
+    "type": "string"
+   },
+   "description": "where we learned the row exists (tracker/news/api/crawl); never a source_url"
+  },
+  "notes": {
+   "type": [
+    "string",
+    "null"
+   ],
+   "maxLength": 600
+  }
+ },
+ "required": [
+  "case_id",
+  "caption",
+  "court",
+  "docket_number",
+  "filed",
+  "country",
+  "parties_legal_ai",
+  "qualifier",
+  "status",
+  "status_text",
+  "milestones",
+  "summary",
+  "source_url",
+  "fetched_at",
+  "verification",
+  "lead_source"
+ ]
+}
