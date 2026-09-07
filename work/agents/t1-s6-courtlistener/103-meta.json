@@ -1,8 +1,0 @@
-{
-  "idx": 103,
-  "case": "Creditors Adjustment Bureau, Inc. v. All Season Power LLC, et al.",
-  "url": "https://www.courtlistener.com/api/rest/v4/search/?q=%22Creditors+Adjustment+Bureau%2C+Inc.+v.+All+Season+Power+LLC%2C+et+al.%22&type=r&filed_after=2026-01-01",
-  "curl_code": 0,
-  "curl_out": "429 72",
-  "curl_err": ""
-}
