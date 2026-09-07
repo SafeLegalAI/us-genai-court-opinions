@@ -1,0 +1,27 @@
+[
+  {
+    "index": 10,
+    "case_name": "Coomer v. Lindell/MyPillow, Inc. (2)",
+    "reason": "CourtListener discovery request was throttled; no permitted source document retrieved"
+  },
+  {
+    "index": 24,
+    "case_name": "Barber v. Morawa",
+    "reason": "official Michigan case page returned 403; no court-authored document retrieved"
+  },
+  {
+    "index": 46,
+    "case_name": "Braun v. Day",
+    "reason": "CourtListener discovery request was throttled; no permitted source document retrieved"
+  },
+  {
+    "index": 91,
+    "case_name": "Bunce v. Visual Technology Innovations (2)",
+    "reason": "CourtListener discovery request was throttled; no permitted source document retrieved"
+  },
+  {
+    "index": 103,
+    "case_name": "Zand v. Sukumar",
+    "reason": "document text does not substantively discuss AI or fabricated citations"
+  }
+]

@@ -1,0 +1,192 @@
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.3" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" ID="P0b002ee1c634cf6e">
+    <name type="corporate">
+         <namePart>United States Government Publishing Office</namePart>
+         <role>
+              <roleTerm authority="marcrelator" type="text">publisher</roleTerm>
+              <roleTerm authority="marcrelator" type="code">pbl</roleTerm>
+        </role>
+         <role>
+              <roleTerm authority="marcrelator" type="text">distributor</roleTerm>
+              <roleTerm authority="marcrelator" type="code">dst</roleTerm>
+        </role>
+    </name>
+    <name type="corporate">
+         <namePart>United States</namePart>
+         <namePart>United States District Court District of Columbia</namePart>
+         <role>
+              <roleTerm authority="marcrelator" type="text">author</roleTerm>
+              <roleTerm authority="marcrelator" type="code">aut</roleTerm>
+        </role>
+         <description>Government Organization</description>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="marcgt">government publication</genre>
+    <language>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+    <extension>
+         <collectionCode>USCOURTS</collectionCode>
+         <category>Judicial Publications</category>
+         <branch>judicial</branch>
+         <dateIngested>2024-04-12</dateIngested>
+    </extension>
+    <originInfo>
+         <publisher>Administrative Office of the United States Courts</publisher>
+         <dateIssued encoding="w3cdtf">2024-04-10</dateIssued>
+         <issuance>monographic</issuance>
+    </originInfo>
+    <physicalDescription>
+         <note type="source content type">deposited</note>
+         <digitalOrigin>born digital</digitalOrigin>
+    </physicalDescription>
+    <classification authority="sudocs">JU 4.15</classification>
+    <identifier type="uri">https://www.govinfo.gov/app/details/USCOURTS-dcd-1_21-cr-00032</identifier>
+    <identifier type="local">P0b002ee1c634cf6e</identifier>
+    <recordInfo>
+         <recordContentSource authority="marcorg">DGPO</recordContentSource>
+         <recordCreationDate encoding="w3cdtf">2024-04-12</recordCreationDate>
+         <recordChangeDate encoding="w3cdtf">2024-04-12</recordChangeDate>
+         <recordIdentifier source="DGPO">USCOURTS-dcd-1_21-cr-00032</recordIdentifier>
+         <recordOrigin>machine generated</recordOrigin>
+         <languageOfCataloging>
+              <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+        </languageOfCataloging>
+    </recordInfo>
+    <accessCondition type="GPO scope determination">fdlp</accessCondition>
+    <extension>
+         <docClass>USCOURTS</docClass>
+         <accessId>USCOURTS-dcd-1_21-cr-00032</accessId>
+         <courtType>District</courtType>
+         <courtCode>dcd</courtCode>
+         <courtCircuit>DC</courtCircuit>
+         <courtState>District of Columbia</courtState>
+         <courtSortOrder>2100</courtSortOrder>
+         <caseNumber>1:21-cr-00032</caseNumber>
+         <caseOffice>Washington, DC</caseOffice>
+         <caseType>criminal</caseType>
+         <party firstName="MATTHEW" fullName="MATTHEW RUSSELL LEE" lastName="LEE" middleName="RUSSELL" role="Interested Party"></party>
+         <party fullName="PRESS COALITION" lastName="PRESS COALITION" role="Movant"></party>
+         <party firstName="GUY" fullName="GUY WESLEY REFFITT" lastName="REFFITT" middleName="WESLEY" role="Defendant"></party>
+         <party fullName="USA" lastName="USA" role="Plaintiff"></party>
+    </extension>
+    <titleInfo>
+         <title>USA v. REFFITT</title>
+         <partNumber>1:21-cr-00032</partNumber>
+    </titleInfo>
+    <location>
+         <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/USCOURTS-dcd-1_21-cr-00032</url>
+    </location>
+    <classification authority="sudocs">JU 4.15</classification>
+    <identifier type="preferred citation">1:21-cr-00032;21-032</identifier>
+    <name type="corporate">
+         <namePart>United States District Court District of Columbia</namePart>
+         <namePart>DC Circuit</namePart>
+         <namePart>Washington, DC</namePart>
+         <affiliation>U.S. Courts</affiliation>
+         <role>
+              <roleTerm type="text" authority="marcrelator">author</roleTerm>
+              <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+         <displayForm>MATTHEW RUSSELL LEE</displayForm>
+         <namePart type="family">LEE</namePart>
+         <namePart type="given">MATTHEW</namePart>
+         <namePart type="termsOfAddress"></namePart>
+         <description>Interested Party</description>
+    </name>
+    <name type="personal">
+         <displayForm>PRESS COALITION</displayForm>
+         <namePart type="family">PRESS COALITION</namePart>
+         <namePart type="given"></namePart>
+         <namePart type="termsOfAddress"></namePart>
+         <description>Movant</description>
+    </name>
+    <name type="personal">
+         <displayForm>GUY WESLEY REFFITT</displayForm>
+         <namePart type="family">REFFITT</namePart>
+         <namePart type="given">GUY</namePart>
+         <namePart type="termsOfAddress"></namePart>
+         <description>Defendant</description>
+    </name>
+    <name type="personal">
+         <displayForm>USA</displayForm>
+         <namePart type="family">USA</namePart>
+         <namePart type="given"></namePart>
+         <namePart type="termsOfAddress"></namePart>
+         <description>Plaintiff</description>
+    </name>
+    <extension>
+         <docClass>USCOURTS</docClass>
+         <accessId>USCOURTS-dcd-1_21-cr-00032</accessId>
+         <courtType>District</courtType>
+         <courtCode>dcd</courtCode>
+         <courtCircuit>DC</courtCircuit>
+         <courtState>District of Columbia</courtState>
+         <courtSortOrder>2100</courtSortOrder>
+         <caseNumber>1:21-cr-00032</caseNumber>
+         <caseOffice>Washington, DC</caseOffice>
+         <caseType>criminal</caseType>
+         <party firstName="MATTHEW" fullName="MATTHEW RUSSELL LEE" lastName="LEE" middleName="RUSSELL" role="Interested Party"></party>
+         <party fullName="PRESS COALITION" lastName="PRESS COALITION" role="Movant"></party>
+         <party firstName="GUY" fullName="GUY WESLEY REFFITT" lastName="REFFITT" middleName="WESLEY" role="Defendant"></party>
+         <party fullName="USA" lastName="USA" role="Plaintiff"></party>
+         <state>District of Columbia</state>
+    </extension>
+    <relatedItem type="constituent" ID="id-USCOURTS-dcd-1_21-cr-00032-0" xlink:href="https://www.govinfo.gov/metadata/granule/USCOURTS-dcd-1_21-cr-00032/USCOURTS-dcd-1_21-cr-00032-0/mods.xml">
+         <titleInfo>
+              <title>USA v. REFFITT</title>
+              <subTitle>MEMORANDUM OPINION regarding the defendant&apos;s 128 Motion for Judgment of Acquittal, 129 Motion for New Trial or in the Alternative Judgment on Count 3(a), and 130 Motion to Arrest Judgment on Count Two. See text for details. Signed by Judge Dabney L. Friedrich on May 4, 2022. (lcdlf2)</subTitle>
+              <partNumber>0</partNumber>
+        </titleInfo>
+         <originInfo>
+              <dateIssued>2022-05-04</dateIssued>
+        </originInfo>
+         <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/USCOURTS-dcd-1_21-cr-00032/pdf/USCOURTS-dcd-1_21-cr-00032-0.pdf">
+              <identifier type="FDsys Unique ID">D09002ee1c6353f57</identifier>
+        </relatedItem>
+         <identifier type="uri">https://www.govinfo.gov/app/details/USCOURTS-dcd-1_21-cr-00032/USCOURTS-dcd-1_21-cr-00032-0</identifier>
+         <identifier type="former granule identifier">dcd-1_21-cr-00032_0.pdf</identifier>
+         <location>
+              <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/USCOURTS-dcd-1_21-cr-00032/USCOURTS-dcd-1_21-cr-00032-0</url>
+              <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/USCOURTS-dcd-1_21-cr-00032/pdf/USCOURTS-dcd-1_21-cr-00032-0.pdf</url>
+        </location>
+         <extension>
+              <searchTitle>USCOURTS 1:21-cr-00032; USA v. REFFITT; </searchTitle>
+              <courtName>United States District Court District of Columbia</courtName>
+              <state>District of Columbia</state>
+              <accessId>USCOURTS-dcd-1_21-cr-00032-0</accessId>
+              <sequenceNumber>0</sequenceNumber>
+              <dateIssued>2022-05-04</dateIssued>
+              <docketText>MEMORANDUM OPINION regarding the defendant&apos;s 128 Motion for Judgment of Acquittal, 129 Motion for New Trial or in the Alternative Judgment on Count 3(a), and 130 Motion to Arrest Judgment on Count Two. See text for details. Signed by Judge Dabney L. Friedrich on May 4, 2022. (lcdlf2)</docketText>
+        </extension>
+    </relatedItem>
+    <relatedItem type="constituent" ID="id-USCOURTS-dcd-1_21-cr-00032-1" xlink:href="https://www.govinfo.gov/metadata/granule/USCOURTS-dcd-1_21-cr-00032/USCOURTS-dcd-1_21-cr-00032-1/mods.xml">
+         <titleInfo>
+              <title>USA v. REFFITT</title>
+              <subTitle>MEMORANDUM OPINION &amp; ORDER denying the defendant&apos;s 179 Motion for Release Pending Appeal. See text for details. Signed by Judge Dabney L. Friedrich on April 10, 2024. (lcdlf2)</subTitle>
+              <partNumber>1</partNumber>
+        </titleInfo>
+         <originInfo>
+              <dateIssued>2024-04-10</dateIssued>
+        </originInfo>
+         <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/USCOURTS-dcd-1_21-cr-00032/pdf/USCOURTS-dcd-1_21-cr-00032-1.pdf">
+              <identifier type="FDsys Unique ID">D09002ee1c6353f58</identifier>
+        </relatedItem>
+         <identifier type="uri">https://www.govinfo.gov/app/details/USCOURTS-dcd-1_21-cr-00032/USCOURTS-dcd-1_21-cr-00032-1</identifier>
+         <identifier type="former granule identifier">dcd-1_21-cr-00032_1.pdf</identifier>
+         <location>
+              <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/USCOURTS-dcd-1_21-cr-00032/USCOURTS-dcd-1_21-cr-00032-1</url>
+              <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/USCOURTS-dcd-1_21-cr-00032/pdf/USCOURTS-dcd-1_21-cr-00032-1.pdf</url>
+        </location>
+         <extension>
+              <searchTitle>USCOURTS 1:21-cr-00032; USA v. REFFITT; </searchTitle>
+              <courtName>United States District Court District of Columbia</courtName>
+              <state>District of Columbia</state>
+              <accessId>USCOURTS-dcd-1_21-cr-00032-1</accessId>
+              <sequenceNumber>1</sequenceNumber>
+              <dateIssued>2024-04-10</dateIssued>
+              <docketText>MEMORANDUM OPINION &amp; ORDER denying the defendant&apos;s 179 Motion for Release Pending Appeal. See text for details. Signed by Judge Dabney L. Friedrich on April 10, 2024. (lcdlf2)</docketText>
+        </extension>
+    </relatedItem>
+</mods>

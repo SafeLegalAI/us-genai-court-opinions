@@ -1,0 +1,164 @@
+     Case 1:25-cv-09337-RA-RFT            Document 53        Filed 05/22/26      Page 1 of 4
+
+
+
+
+UNITED STATES DISTRICT COURT
+SOUTHERN DISTRICT OF NEW YORK
+
+
+ SANA HAZINA BUTLER,
+                                                                25-CV-09337 (RA) (RFT)
+                       Plaintiﬀ,
+        -against-                                                       ORDER
+ FIDELITY MANAGEMENT & RESEARCH
+ COMPANY LLC (FMR) et al,
+                       Defendant.
+
+
+ROBYN F. TARNOFSKY, United States Magistrate Judge:
+
+As discussed at the status conference held on May 22, 2026:
+
+   1. Defendant asks me to recommend that Plaintiff’s case be dismissed based on her most
+
+       recent late filing and her history of failing to make timely filings and to comply with
+
+       Court orders. (See ECF 46.) Courts have a strong preference for resolving matters on the
+
+       merits rather than based on procedural errors. Accordingly, I am sua sponte and nunc
+
+       pro tunc extending Plaintiff’s deadline for filing her opposition to file the opposition to
+
+       the motions to dismiss and for a stay of discovery until May 12, 2026. Defendant’s time
+
+       to reply is extended until June 12, 2026; and the word limit on Defendant’s filing is
+
+       enlarged to 4500 words in light of the length of Plaintiff’s opposition. Plaintiff is warned
+
+       that she must comply with Court orders or seek an extension of time before the
+
+       deadline has expired. Future late filings – even if the filings are late only by a day – may
+
+       not be accepted by the Court and may lead to a recommendation that this case be
+
+       dismissed.
+ Case 1:25-cv-09337-RA-RFT             Document 53        Filed 05/22/26       Page 2 of 4
+
+
+
+
+2. As I previously explained to Plaintiff, the “presentation of false citations, quotations, and
+
+   holdings by a party . . . to the Court is sanctionable conduct.” Romero v. Goldman Sachs
+
+   Bank USA, No. 25-CV-2857 (GHW), 2025 WL 1916119, at *12 (S.D.N.Y. June 25, 2025);
+
+   see also Park v. Kim, 91 F.4th 610, 615 (2d Cir. 2024) (per curiam) (observing that the
+
+   “attempt to persuade a court or oppose an adversary” by relying on “non-existent
+
+   precedent” is an “abuse of the adversary system”). (ECF 43). Plaintiff’s response to
+
+   Defendant’s request for a stay of discovery includes citation to a case, Rate Technology
+
+   Inc. v. Speakeasy Inc., that does not match the citation provided; the case has an
+
+   entirely different citation, and the case involves whether a settlement agreement
+
+   barring a patent licensee from later challenging a patent’s validity was void for public
+
+   policy reasons. See Rates Tech. Inc. v. Speakeasy, Inc., 685 F.3d 163, 167 (2d Cir. 2012).
+
+   Plaintiff has denied using AI. Whatever the cause of Plaintiff’s false citations, she is again
+
+   admonished that presentation of false citations, quotations, or holdings in the future
+
+   may lead me to impose sanctions. See, e.g., Advani v. App. Term, 2nd Jud. Dep’t, No. 25-
+
+   CV-1627 (JMF), 2025 WL 2201065, at *3 (S.D.N.Y. Aug. 1, 2025); Reilly v. Conn. Interlocal
+
+   Risk Mgmt. Agency, No. 25-CV-640 (VDO), 2025 WL 1726366, at *3 (D. Conn. June 20,
+
+   2025) (“Whether the issues with [the pro se plaintiff's] filings are the result of artificial
+
+   intelligence or some other mistake, the Court cautions [the plaintiff] to ensure that
+
+   future submissions to any court contain only accurate representations.”).
+
+3. Defendant’s motion for a stay of discovery (ECF 13) is GRANTED. Rule 26(c) of the
+
+   Federal Rules of Civil Procedure permits a court to stay discovery “for good cause
+
+   shown.” Fed. R. Civ. P. 26(c). When determining whether discovery should be stayed
+Case 1:25-cv-09337-RA-RFT            Document 53         Filed 05/22/26      Page 3 of 4
+
+
+
+
+ pending a decision on a motion to dismiss, courts consider the breadth of the discovery
+
+ being sought and the burden of responding to the discovery requests, the strength of
+
+ the motion to dismiss, and the prejudice to the party opposing the stay. See, e.g.,
+
+ Richardson v. City of New York, No. 21-CV-5080 (PAE) (KHP), 2022 WL 2003340, at *1
+
+ (S.D.N.Y. June 6, 2022); Sigma Lithium Corp. v. Gardner, No. 23-CV-7403 (DEH), 2024 WL
+
+ 2867504, at *1 (S.D.N.Y. June 4, 2024). After reviewing the complaint (ECF 4-1), the
+
+ memorandum in support of the motion to dismiss (ECF 8), the memorandum opposing
+
+ the motion to dismiss and supporting exhibit (ECF 51), the motion for a stay of discovery
+
+ (ECF 13), and Plaintiff’s responses to Defendant’s motion to stay discovery (ECF 47, 48), I
+
+ conclude that Defendant has met its burden of showing that there is good cause for the
+
+ stay. The parties have not yet exchanged discovery requests, so it is not clear how broad
+
+ discovery would be. However, the breadth of the complaint suggests that the scope of
+
+ the materials sought would be broad. Thus, the scope of the anticipated discovery
+
+ counsels in favor of a stay. See Richardson, 2024 WL 2003340, at *1. The strength of the
+
+ underlying motion to dismiss also counsels in favor of granting a stay, because the
+
+ motion is “not unfounded in the law.” See id. at *2; see also Spencer Trask Software &
+
+ Info. Servs., LLC v. RPost Int’l Ltd., 206 F.R.D. 367, 368 (S.D.N.Y. 2002). I do not, by this
+
+ observation, predict the outcome of the motion. However, Defendant’s memorandum
+
+ of law in support of the motion provides substantial arguments for dismissal of some if
+
+ not all the claims in the complaint. Those arguments are supported by case law from
+
+ courts in this Circuit, and so I cannot conclude that Defendant’s motion is unfounded in
+
+ the law. Because the motion to dismiss may be dispositive of some or all of Plaintiff’s
+    Case 1:25-cv-09337-RA-RFT            Document 53        Filed 05/22/26      Page 4 of 4
+
+
+
+
+      claims, which could narrow or eliminate the need for discovery, this factor weighs in
+
+      favor of granting a stay. See Richardson, 2024 WL 2003340, at *2. Defendant has
+
+      explained why there would be no prejudice to Plaintiff from a stay, and Plaintiff has not
+
+      identified any. Accordingly, discovery in this matter is stayed until after a decision
+
+      allowing any of Plaintiff’s claims to proceed.
+
+         The Clerk of Court is respectfully requested to terminate ECF 13.
+
+DATED: May 22, 2026                                            SO ORDERED.
+       New York, NY
+                                                               __________________________
+                                                               ROBYN F. TARNOFSKY
+                                                               United States Magistrate Judge
+

@@ -1,0 +1,256 @@
+Van Deel v. A-Plus Contracting, LLC, --- S.W.3d ---- (2026)
+© 2026 Thomson Reuters. No claim to original U.S. Government Works. 1
+2026 WL 1216594
+Only the Westlaw citation is currently available.
+NOTICE: THIS OPINION HAS NOT BEEN RELEASED
+FOR PUBLICATION IN THE PERMANENT LAW
+REPORTS. IT MAY BE SUBJECT TO A MOTION
+FOR REHEARING OR TRANSFER. IT MAY BE
+MODIFIED, SUPERSEDED OR WITHDRAWN.
+Missouri Court of Appeals, Eastern District.
+Jill VAN DEEL, Appellant,
+v.
+A-PLUS CONTRACTING, LLC,
+and
+Byron Cornell Jeffries, Respondents.
+ED114002
+|
+Filed: May 5, 2026
+Editor's Note: This decision contains discussion of citation
+references that are incorrect or do not actually exist. These
+invalid citations appeared in the original court opinion and
+have been preserved as written since they are part of the
+official record. Any links to these invalid citations have been
+removed.
+Appeal from the Circuit Court of St. Charles County The
+Honorable W. Christopher McDonough, Judge
+Attorneys and Law Firms
+FOR APPELLANT Andrew G. Toennies, 4185 Crescent Dr.
+Ste A, St. Louis, Mo 63129
+FOR RESPONDENT Bradley Hansmann (Christine K.
+Lesicko), 600 Kellwood Parkway Suite 120, St. Louis, Mo
+63017
+Rebeca Navarro-McKelvey, Presiding Judge
+Introduction
+*1 Jill Van Deel (Appellant) appeals from the circuit court's
+grant of summary judgment in favor of A-Plus Contracting,
+LLC (A-Plus) and Byron Jeffries (Jeffries) (collectively
+Respondents). Appellant sued Respondents for negligence
+alleging that they caused her injury when she rode her
+motorcycle through an oil spill coming from Respondents’
+leaking dump truck. On appeal, Appellant asserts two points:
+(1) that the circuit court erred by granting Respondents’
+summary judgment motion “based on the sudden emergency
+doctrine,” wherein genuine issues of material fact exist, and
+(2) the circuit court erred by denying her leave to amend
+and file a third-amended petition. Because Appellant fails
+to recite the facts as required by Rule 84.04(c)1
+and Rule
+74.04(c) (2008) we cannot engage in fair and meaningful
+review; thus, we dismiss Point One. Additionally, Appellant's
+Point Two fails to substantially comply with Rule 84.04(d)
+or (e), preserving nothing for appellate review and requires
+dismissal. We dismiss Point Two.
+Factual and Procedural Background
+In March 2019, Jeffries, an employee of A-Plus, drove a
+company-owned Sterling dump truck hauling rock to a job
+site in Earth City, Missouri. Although A-Plus owned the
+truck, A-Plus did not perform its own maintenance on the
+vehicle, and instead sent it to AA Roadrunner, an automotive
+repair company in St. Louis, Missouri, for all maintenance
+and repairs. While driving north on Missouri Highway 94,
+the truck suddenly shut off without warning. Jeffries coasted
+the vehicle onto the shoulder of the exit ramp to Missouri
+Highway 370, exited, put warning triangles behind the truck,
+and called for assistance. Despite the truck showing no signs
+of mechanical issues or oil leakage prior to shutting down,
+Jeffries then observed an oil spot on the road. While a
+highwaypatroltrooperwascleaninguptheoilspill,Appellant
+drove over the spill and crashed.
+In October 2019, Appellant filed suit against Respondents,
+and subsequently filed a First Amended Petition in January
+2020 and a Second Amended Petition in April 2024.
+In her Second Amended Petition, Appellant alleged that
+Respondents were negligent by allowing oil to spill on to
+the roadway; failing to keep a proper lookout; failing to
+stop, swerve, slacken, or sound a warning; and driving at an
+excessive speed.
+In May 2025, Respondents filed their Joint Motion for
+Summary Judgment and Statement of Uncontroverted
+Material Facts (Defendants’ SUMF). In June 2025, Appellant
+timely filed a response opposing the motion, including a
+response to Defendants’ SUMF. In her response, Appellant
+cited the original paragraph numbers, but did not set forthVan Deel v. A-Plus Contracting, LLC, --- S.W.3d ---- (2026)
+© 2026 Thomson Reuters. No claim to original U.S. Government Works. 2
+any of the statements of fact established in Defendants’
+SUMF. Instead, Appellant either admitted the allegation
+or stated “Plaintiff does not have sufficient information to
+admit or deny the allegations contained in paragraph [ ]
+of Defendants’ Uncontroverted Material Facts in Support
+of their Joint Motion for Summary Judgment and therefore
+denies.” Appellant did not reference any discovery, exhibit,
+or affidavit to support her denials.
+*2 In July 2025, the circuit court heard arguments on
+the summary judgment motion and took the motion under
+submission. After the hearing, while the motion was pending,
+Appellant filed a “Sur-Reply to Defendants’ Motion for
+Summary Judgment or, in the Alternative, Motion to Amend
+Petition.” The Sur-Reply sought leave to file a third amended
+petition, but no such petition was attached to the Sur Reply
+or to the record on appeal. On August 29, 2025, the circuit
+court issued its judgment granting summary judgment in
+favorofRespondents.ThecircuitcourtfoundthatAppellant's
+Response to Respondents’ Statement of Uncontroverted
+Material Facts did not comply with Rule 74.04(c)(2) and
+that all facts were therefore admitted. Under the summary
+judgmentrecord,thecircuitcourtfoundnofactsshowingthat
+RespondentsbreachedanydutyowedtoAppellant,andfound
+they were entitled to judgment in their favor as a matter of
+law. This appeal follows.
+Fundamentals of Appellate Review
+This Court reviews a circuit court's grant of summary
+judgment de novo. Martin Leigh, PC, v. Williamson, 699
+S.W.3d 538, 541 (Mo. App. S.D. 2024) (citing Green v.
+Fotoohighiam, 606 S.W.3d 113, 115 (Mo. banc 2020)). Facts
+come into a summary judgment record only via the Rule
+74.04(c) numbered-paragraphs and response framework, and
+we review a grant of summary judgment based on that
+recordalone,withaffidavits,exhibits,anddiscoveryplayinga
+supportingrole,onlyascitedtosupportnumberedparagraphs
+and responses. See Green, 606 S.W.3d at 116–17 (internal
+quotation omitted). “Summary judgment is only proper if
+the moving party establishes that there is no genuine issue
+as to the material facts and that the movant is entitled to
+judgment as a matter of law.” Z.S. by & through P.S. v.
+Rockwood Sch. Dist., 674 S.W.3d 818, 820 (Mo. App. E.D.
+2023) (internal quotation omitted). While our review of a
+grantofsummaryjudgmentisdenovo,thatstandardofreview
+does not grant Appellant permission to craft arguments free
+from the constraints of Rule 74.04. Great Southern Bank v.
+Blue Chalk Constr., LLC, 497 S.W.3d 825, 836 (Mo. App.
+S.D. 2016).
+Compliance with Rule 84.04 is mandatory. Murphree v.
+Lakeshore Ests., LLC, 636 S.W.3d 622, 623–24 (Mo. App.
+E.D. 2021) (internal citation omitted). The purpose of “Rule
+84.04 is [ ] to give notice to the other party of the precise
+matters at issue and to ensure that appellate courts do not
+become advocates for the appellant by speculating facts and
+arguments that have not been made.” Murphy v. Steiner, 658
+S.W.3d 588, 591 (Mo. App. W.D. 2022) (internal citation
+omitted).
+Analysis
+We dismiss Point One because Appellant's Brief fails to
+recite the facts as required by Rule 74.04(c) and Rule
+84.04(c)
+“[O]ur de novo decision on appeal must be in accordance
+with all the requirements of Rule 74.04 and, therefore, must
+be made in the very same manner the [circuit] court [ ] [ ]
+appliedthatruleinthefirstinstance.”BlueChalk,497S.W.3d
+at836(emphasisomitted).Anon-movant's“responseshallset
+forth each statement of fact in its original paragraph number
+and immediately thereunder admit or deny each of movant's
+factual statements.” Rule 74.04(c)(2). Here, Appellant failed
+to do as required. Furthermore, “the response shall support
+each denial with specific references to the discovery, exhibits
+or affidavits that demonstrate specific facts showing that
+there is a genuine issue for trial.” Appellant denied several
+allegations, but provided no supporting references. Failure to
+do so, “renders the truth of the fact admitted.” Montgomery
+v. Coreslab Structures (Missouri), Inc., 697 S.W.3d 766, 772
+(Mo. App. W.D. 2024); Rule 74.04(c)(2).
+Moreover, Compliance with Rule 84.04 is mandatory.
+Murphree, 636 S.W.3d at 623. Rule 84.04(c) requires a
+concise statement of the facts relevant to the questions
+presented for determination and that such statements have
+specific page references to the relevant portion of the record
+on appeal. A brief appealing the grant of summary judgment
+“should [ ] set forth the material facts established by Rule
+74.04(c)(1) and (2) together with the pages in the legal
+file where such facts were established.” Wichita Falls Prod.
+Credit Ass'n v. Dismang, 78 S.W.3d 812, 815 (Mo. App.
+S.D. 2002) (internal quotation omitted). The facts relevant
+to appealing a grant of summary judgment are those in the
+movant'sstatementofuncontrovertedmaterialfactsandintheVan Deel v. A-Plus Contracting, LLC, --- S.W.3d ---- (2026)
+© 2026 Thomson Reuters. No claim to original U.S. Government Works. 3
+non-movant'sproperlypleadedresponsesthereto.J.D.byand
+through Storment v. Sanders, 688 S.W.3d 828, 833 (Mo. App.
+S.D. 2024) (internal quotation omitted). From this record
+alone, we determine whether the established uncontroverted
+facts entitle a movant to judgment as a matter of law. Green,
+606 S.W.3d at 117–18 (internal quotation omitted).
+*3 Here, Appellant's brief fails to set out the uncontroverted
+materialfactsthatRespondents’establishedintheirStatement
+of Uncontroverted Material Facts, which were deemed
+admitted because Appellant's responses did not comply
+with Rule 74.04(c)(2). Appellant also fails to cite facts
+controverted by the summary judgment record, if any exist.
+Instead, Appellant relies on allegations from her pleadings,
+which also fail to comply with the requirements of Rule
+84.04(c), as they do not state with particularity the pages
+in the legal file where those averments may be found.2
+Such citations are “essential for the effective functioning of
+appellate courts because courts cannot spend time searching
+the record to determine if factual assertions in the brief are
+supported by the record.” Parkside Financial Bank & Trust
+v. Allen, 688 S.W.3d 83, 87 (Mo. App. E.D. 2024) (internal
+quotation omitted).
+Appellant's briefing deficiencies materially impede our
+ability to fairly and accurately review the point on the merits.
+See Lexow v. Boeing Co., 643 S.W.3d 501, 508 (Mo. banc
+2022). However, even if we had been able to do so, Appellant
+would not have prevailed, as under this record she fails to
+demonstrate the existence of disputed material facts, or that
+Respondents are not entitled to judgment as a matter of law.
+Point One is dismissed.
+We dismiss Point Two because Appellant's Brief does not
+substantially comply with Rule 84.04
+“A point relied on which does not state ‘wherein and why’
+the [circuit] court ... [ ] erred does not comply with Rule
+84.04(d) and preserves nothing for appellate review.” Lexow
+v.BoeingCo.,643S.W.3d501,505(Mo.banc2022)(internal
+quotation omitted). Because Appellant's Point Two fails to
+substantially comply with Rule 84.04(d) or (e) it preserves
+nothing for review and requires dismissal. See id. at 505–
+10. Rule 84.04(d)(1) requires that each point presented by
+Appellant shall: “(A) Identify the trial court ruling or action
+that the appellant challenges; (B) State concisely the legal
+reasons for the appellant's claim of reversible error; and (C)
+Explain in summary fashion why, in the context of the case,
+those legal reasons support the claim of reversible error.”3
+Appellant's second point on appeal merely states that “[t]he
+[circuit] court erred in not allowing plaintiff's motion to
+amend petition.” This statement lacks the legal reasons and
+support for Appellant's claim. This places the Court in a
+positionwhereitmustinterpretAppellant'sreasoning,risking
+either misinterpreting Appellant or advocating for her. See
+Murphy, 658 S.W.3d at 591–92 (internal citation omitted).
+This point also fails to comply with Rule 84.04(e), as
+Appellant provides no preservation statement or standard
+of review within the argument section of the brief.4
+See
+R.M. v. King, 671 S.W.3d 394, 399 (Mo. App. W.D. 2023)
+(finding claims of error with faulty preservation statements
+and standards of review violated the requirements of Rule
+84.04(e), thus requiring dismissal). Moreover, the amended
+petition that Appellant argues the trial court erroneously
+excluded was not made part of our record, so we are unable to
+review it. For the foregoing reasons, Point Two is dismissed.
+Conclusion
+*4 The appeal is dismissed.
+Gary M. Gaertner, Jr., Judge and James M. Dowd, Judge,
+concur.
+All Citations
+--- S.W.3d ----, 2026 WL 1216594
+Footnotes
+1 All Rule references are to Missouri Supreme Court Rules (2018) unless otherwise specified.Van Deel v. A-Plus Contracting, LLC, --- S.W.3d ---- (2026)
+© 2026 Thomson Reuters. No claim to original U.S. Government Works. 4
+2 Appellant's brief contains other deficiencies impeding appellate review, including multiple inaccurate or
+nonexistent caselaw citations. It also mistakenly denominates this Court as the “U.S. District Court for the
+Eastern District of Missouri,” rather than our proper name “The Missouri Court of Appeals Eastern District.”
+3 Rule 84.04(d)(1) also provides a format for points on appeal, stating that, “The point shall be in substantially
+the following form: ‘The trial court erred in [identify the challenged ruling or action], because [state the legal
+reasons for the claim of reversible error], in that [explain why the legal reasons, in the context of the case,
+support the claim of reversible error].’ ”
+4 Appellant's argument section for her second point on appeal includes only one caselaw citation, “B.M. [v.]
+J.S., 775 S.W. 2d 917 (Mo. App. W.P. 1989),” which this Court was unable to verify.
+End of Document © 2026 Thomson Reuters. No claim to original U.S. Government Works.

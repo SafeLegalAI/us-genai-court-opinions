@@ -1,0 +1,1436 @@
+               THE UNITED STATES DISTRICT COURT
+         FOR THE WESTERN DISTRICT OF NORTH CAROLINA
+                      ASHEVILLE DIVISION
+              CIVIL CASE NO. 1:24-cv-00037-MR-WCM
+
+
+WAYNE K. SMITH, SR., Individually)
+and as Personal Representative of)
+the Estate of Wayne K. Smith, Jr.,
+                                 )
+deceased,                        )
+                                 )
+                     Plaintiff,  )
+                                 )
+         vs.                     )              MEMORANDUM OF
+                                 )              DECISION AND ORDER
+POLK COUNTY, et al.,             )
+                                 )
+                     Defendants. )
+________________________________ )
+
+      THIS MATTER is before the Court on the Defendants’ Motion for
+
+Summary Judgment [Doc. 64], the Plaintiff’s Motion for Sanctions Against
+
+Non-Party North Carolina Criminal Justice Education and Training Standards
+
+Commission and for Fees for Destruction of Evidence [Doc. 61], and the
+
+Plaintiff’s Motion for Sanctions Against Polk County and Ben Page and for
+
+Fees for Destruction of Evidence [Doc. 68].
+
+I.    PROCEDURAL BACKGROUND
+
+      This action arises from the circumstances surrounding the death of
+
+Wayne K. Smith, Jr. On February 2, 2024, the Plaintiff Wayne K. Smith, Sr.,
+
+individually and as the personal representative of the Decedent, initiated this
+
+
+
+     Case 1:24-cv-00037-MR    Document 109    Filed 08/07/26   Page 1 of 33
+action asserting various constitutional violations pursuant to 42 U.S.C.
+
+§ 1983, violation of 42 U.S.C. § 1981, and claims for wrongful death, battery,
+
+false imprisonment, intentional infliction of emotional distress, negligent
+
+infliction of emotional distress, and punitive damages. [Doc. 1]. The Plaintiff
+
+filed an Amended Complaint asserting the same claims on February 12,
+
+2024. [Doc. 4]. The Defendants filed a Motion to Dismiss on April 24, 2024.
+
+[Doc. 6].
+
+      On January 13, 2025, the Magistrate Judge filed a Memorandum and
+
+Recommendation (“M&R”) recommending that the Defendants’ Motion to
+
+Dismiss be granted as to all claims against Polk County, Sheriff Timothy
+
+Wright, and Deputy Ben Page except for the Plaintiff’s § 1983 claim against
+
+Defendant Page in his individual capacity based on deliberate indifference
+
+to the Decedent’s serious medical need and the Plaintiff’s corresponding
+
+claim for punitive damages. [Doc. 10]. On April 7, 2025, the Court overruled
+
+the Plaintiff’s objections and accepted the M&R in full. 1 [Doc. 14]. On June
+
+
+1
+  The M&R also recommended that the Plaintiff be directed to show cause as to why his
+claims against the only other remaining Defendant, Western Surety Company, which had
+not yet been served, should not be dismissed. [Doc. 10 at 2 n.1, 23-24]. After the Court
+accepted the M&R, the Magistrate Judge granted the Plaintiff leave to amend his
+complaint for the sole purpose of replacing Western Surety Company with a different
+surety. [Doc. 22]. On May 20, 2025, the Plaintiff filed a Second Amended Complaint
+substituting Auto-Owners Insurance Company (“Auto-Owners”) for Western Surety
+Company as the Defendant surety in this matter. [Doc. 23]. Although the Second
+Amended Complaint restates the previously dismissed claims, it is undisputed that the
+Second Amended Complaint did not revive any of the previously dismissed claims or
+                                           2
+
+      Case 1:24-cv-00037-MR      Document 109      Filed 08/07/26    Page 2 of 33
+3, 2026, the Court denied the Plaintiff’s motion to reconsider the April 7, 2025
+
+Order and for leave to file a Third Amended Complaint. [Doc. 98].
+
+      The Plaintiff has filed two motions for sanctions based on spoliation.
+
+One of these seeks sanctions against the North Carolina Criminal Justice
+
+Education and Training Standards Commission (“Commission”), which is not
+
+a party in this action. [Doc. 61]. The other seeks sanctions against the
+
+remaining Defendant Page, but also against Polk County, which is no longer
+
+a defendant. [Doc. 68]. Both motions have been fully briefed. [Docs. 61,
+
+68, 86, 89, 95, 99, 104, 108]. On May 14, 2026, the Defendants Page and
+
+Auto-Owners moved for summary judgment. [Doc. 64]. The Plaintiff filed a
+
+Response on May 28, 2026, [Doc. 90], and the Defendants filed a Reply on
+
+June 4, 2026, [Doc. 101].          Accordingly, this matter is now ripe for
+
+adjudication.
+
+II.   STANDARD OF REVIEW
+
+      Summary judgment shall be granted “if the movant shows that there is
+
+no genuine dispute as to any material fact and the movant is entitled to
+
+judgment as a matter of law.” Fed. R. Civ. P. 56(a). A factual dispute is
+
+genuine “if the evidence is such that a reasonable jury could return a verdict
+
+
+
+assert any new claims. As a result, there is no claim pending against Defendant Auto-
+Owners. Rather, the Plaintiff alleges that Defendant Auto-Owners is the surety on
+Defendant Page’s bond. [Id. at ¶¶ 12-14].
+                                         3
+
+      Case 1:24-cv-00037-MR     Document 109     Filed 08/07/26   Page 3 of 33
+for the nonmoving party.” Anderson v. Liberty Lobby, Inc., 477 U.S. 242, 248
+
+(1986). A fact is material only if it might affect the outcome of the suit under
+
+governing law. Id. When ruling on a summary judgment motion, a court
+
+must view the evidence and any inferences from the evidence in the light
+
+most favorable to the nonmoving party. Id. at 255. However, courts “need
+
+not accept as true unwarranted inferences, unreasonable conclusions, or
+
+arguments.” Eastern Shore Mkt. Inc. v. J.D. Assocs., LLP, 213 F.3d 175, 180
+
+(4th Cir. 2000).
+
+III.   FACTUAL BACKGROUND
+
+       Viewing the forecast of evidence in the light most favorable to the
+
+Plaintiff, the following is a recitation of the relevant facts.
+
+       On February 2, 2021, Defendant Ben Page, a deputy with the Polk
+
+County Sheriff’s Office, was on patrol on Chesnee Road in Polk County,
+
+North Carolina, when he observed a vehicle speeding through the
+
+intersection of Chesnee Road and Prince Road.              [Doc. 91-1 at 85-88].
+
+Defendant Page turned onto Prince Road and began pursuing the vehicle,
+
+which was later determined to be driven by the Decedent. [Id. at 87-88].
+
+While pursuing the Decedent, Defendant Page used his radar to clock the
+
+Decedent’s speed at 77 miles per hour on a stretch of road where the speed
+
+limit was 45 miles per hour. [Id. at 89]. Upon clocking the Decedent’s speed,
+
+
+                                         4
+
+       Case 1:24-cv-00037-MR    Document 109     Filed 08/07/26   Page 4 of 33
+Defendant Page decided to initiate a traffic stop, so he activated his blue
+
+lights and sirens and began trying to catch up to the Decedent’s vehicle. [Id.
+
+at 92]. The Decedent continued on Prince Road toward the South Carolina
+
+border, and Defendant Page told his dispatch that he was attempting a traffic
+
+stop near the state line. [Id.]; see also [Doc. 105: Ex. 2. Ben Page Call to
+
+Dispatch at 00:01-00:03]. Defendant Page then told his dispatch that he was
+
+“going into South Carolina” and told dispatch to notify the South Carolina
+
+authorities. [Doc. 105: Ex. 2. Ben Page Call to Dispatch at 00:07-00:16].
+
+Defendant Page observed the Decedent run a stop sign at Peachtree Road
+
+in South Carolina, continue speeding, and turn onto Ray Blackley Road, also
+
+in South Carolina. [Id. at 00:018-00:44]. At a curve in Ray Blackley Road,
+
+the Decedent’s vehicle collided with a tree.                [Doc. 91-1 at 93, 105].
+
+Defendant Page did not witness the collision, but he arrived at the scene
+
+almost immediately after it occurred. [Id. at 106-07]. Upon arriving at the
+
+scene, Defendant Page immediately informed his dispatch that there had
+
+been an accident, told dispatch to call the fire department, and stated that
+
+there was “going to be an F-Frank.”2 [Doc. 105: Ex. 2. Ben Page Call to
+
+Dispatch].
+
+
+2
+  The Plaintiff makes much of Defendant Page’s statement that there was an “F-Frank,”
+contending that Page’s statement “led to EMS being downgraded to a non-emergent
+status while Smith Jr. helplessly remained in the wrecked vehicle.” [Doc. 90 at 8]. Neither
+                                            5
+
+      Case 1:24-cv-00037-MR       Document 109       Filed 08/07/26    Page 5 of 33
+      Defendant Page initially approached the Decedent’s vehicle on the
+
+driver’s side but could not see or access the Decedent well on that side due
+
+to the nature of the crash and the deployed airbag. [Doc. 91-1 at 108].
+
+Defendant Page then proceeded to the passenger’s side of the vehicle and
+
+saw that the Decedent appeared to be lifeless.3 [Id.]. Defendant Page did
+
+not attempt to render medical aid to the Decedent, and neither the collision
+
+nor Defendant Page’s initial approach to the vehicle was recorded on video.
+
+      The next person to arrive at the scene of the collision was Cody Bolt,
+
+who lived nearby and was driving in the area at the time. [Doc. 94-1 at 9-
+
+10]. Mr. Bolt pulled up behind Defendant Page’s vehicle, saw Defendant
+
+Page look into the Decedent’s vehicle, and “assume[d] death was apparent,
+
+judging by [Defendant Page’s] reaction.”             [Id. at 10, 17].     Mr. Bolt told
+
+Defendant Page that the Decedent’s vehicle was on fire before making a U-
+
+
+the Plaintiff nor the Defendant explains the meaning of “F-Frank,” so the Court is left to
+surmise that the phrase indicates the presence of a fatality. Regardless, there is no
+forecast of evidence that Defendant Page’s use of the phrase “F-Frank” resulted in the
+non-emergent status of emergency medical services. Instead, the deposition testimony
+of the paramedic who responded to the scene indicates that emergency medical services
+“were downgraded non-emergent traffic by one of the fire departments.” [Doc. 91-6 at
+42]; see also [id. at 83 (attributing the downgrading to Cooley Springs Fire Department)].
+3
+   In his interrogatory responses and deposition, Defendant Page testified that, upon
+accessing the vehicle from the passenger’s side, he checked the Decedent for a distal
+pulse and found no pulse. [Doc. 91-1 at 108; Doc. 91-7 at 2, 5, 7]. The Plaintiff disputes
+this assertion on grounds that Defendant Page did not mention checking for a distal pulse
+in the statements he gave on the night of the accident. [Doc. 90 at 8-9]. The absence of
+contemporaneous evidence that Defendant Page checked for a pulse, however, is not
+itself evidence that Defendant Page did not check for a pulse.
+                                            6
+
+      Case 1:24-cv-00037-MR       Document 109      Filed 08/07/26    Page 6 of 33
+turn and leaving the scene. [Id. at 10-11]. Mr. Bolt was at the scene for less
+
+than a minute in total. [Id. at 18, 27-28]. Shortly thereafter, Defendant Page
+
+extinguished the fire on the Decedent’s vehicle. [Doc. 91-1 at 123].
+
+      The Decedent was subsequently pronounced dead at the scene. [Doc.
+
+91-4 at 5]. Because the accident occurred in South Carolina, Spartanburg
+
+County EMS responded to the accident. [Id.]. Spartanburg County EMS
+
+reported that the frame of the Decedent’s vehicle had been pushed all the
+
+way into the vehicle’s cabin, and that the front left tire and wheel were at the
+
+Decedent’s face. [Id.]. The Decedent had suffered serious trauma to his
+
+entire body, and the Decedent’s body was trapped in the vehicle. [Id.]. EMS
+
+personnel were unable to use their cardiac monitor due to the positioning of
+
+the Decedent’s body, but they were able to determine that the Decedent did
+
+not have a pulse. [Id.; Doc. 91-6 at 60]. The Spartanburg County paramedic
+
+who responded to the scene concluded that, in his “professional opinion,”
+
+the Decedent “was dead on impact.” [Doc. 91-6 at 71]. The paramedic
+
+further concluded that, due to the manner in which the Decedent was trapped
+
+in the vehicle, there was nothing the paramedic could have done to render
+
+immediate life-saving aid to the Decedent even if the Decedent had been
+
+alive when the paramedic arrived on the scene. [Id. at 80-82].          The fire
+
+
+
+
+                                       7
+
+     Case 1:24-cv-00037-MR    Document 109    Filed 08/07/26   Page 7 of 33
+department eventually had to cut open the Decedent’s vehicle for the
+
+Decedent’s body to be extricated. [Id. at 87-91; Doc. 91-1 at 140-41].
+
+IV.    DISCUSSION
+
+       In Shaw v. Foreman, No. 24-7015, 2026 WL 159766 (4th Cir. June 4,
+
+2026), the Fourth Circuit recently held that when the evidence at issue in a
+
+motion for sanctions based on spoliation is significant to the merits of an
+
+issue, a district court may abuse its discretion “by granting summary
+
+judgment without considering the sanctions motion.” Id. at *3. In light of
+
+Shaw, the Court herein considers the Plaintiff’s motions for sanctions based
+
+on spoliation before proceeding to consider the Defendant’s motion for
+
+summary judgment.
+
+       A.     Motions for Sanctions4
+
+       “Spoliation refers to the destruction or material alteration of evidence
+
+or to the failure to preserve property for another's use as evidence in pending
+
+
+4
+  As a preliminary matter, the Court notes that the Plaintiff’s counsel has failed to show
+proper conferral or attempt to confer regarding both pending motions for sanctions. LCvR
+7.1(b); see [Docs. 61, 68]; see also [Doc. 86 at 2, 9 n.1 (contending that counsel for the
+Plaintiff “ignore[ed] meet and confer overtures” and failed to engage in a meet and confer
+requested by the Commission prior to filing the instant motion); Doc. 89 at 1-2
+(representing that counsel for the “Plaintiff did not make any attempt to consult with the
+Responding Parties prior to filing this motion”)]. While the Plaintiff’s motion for sanctions
+against the Commission mentions prior conferrals with the Commission about discovery,
+[Doc. 61-1 at 8-10], it gives no indication that the Plaintiff conferred with the Commission
+about the motion for sanctions itself. “A motion that fails to show that the parties have
+properly conferred or attempted to confer may be summarily denied.” LCvR 7.1(b).
+Although the Court could deny the Plaintiff’s motions for sanctions for failure to confer,
+the Court will nevertheless address the motions on the merits.
+                                             8
+
+      Case 1:24-cv-00037-MR        Document 109       Filed 08/07/26    Page 8 of 33
+or reasonably foreseeable litigation.” Silvestri v. General Motors Corp., 271
+
+F.3d 583, 590 (4th Cir. 2001) (citations omitted). The spoliation of evidence
+
+may give rise to court-imposed sanctions deriving from a court's inherent
+
+power to control the judicial process and litigation. Id. A court may, for
+
+instance, order dismissal, grant summary judgment, or permit an adverse
+
+evidentiary inference drawn against a party who destroys relevant evidence,
+
+to “level the evidentiary playing field and for the purpose of sanctioning
+
+improper conduct.” Hartford Ins. Co. of Midwest v. Am. Auto. Sprinkler Sys.,
+
+Inc., 23 F.Supp.2d 623, 626 (D. Md. 1998) (quoting Vodusek v. Bayliner
+
+Marine Corp., 71 F.3d 148, 156 (4th Cir. 1995)). However, “acts of spoliation
+
+do not themselves give rise in civil cases to substantive claims or defenses.”
+
+Silvestri, 271 F.3d at 590.
+
+      A party seeking sanctions for spoliation must prove the following
+
+elements:
+
+            (1) [T]he party having control over the evidence had
+            an obligation to preserve it when it was destroyed or
+            altered; (2) the destruction or loss was accompanied
+            by a “culpable state of mind;” and (3) the evidence
+            that was destroyed or altered was “relevant” to the
+            claims or defenses of the party that sought the
+            discovery of the spoliated evidence, to the extent that
+            a reasonable factfinder could conclude that the lost
+            evidence would have supported the claims or
+            defenses of the party that sought it.
+
+
+
+                                      9
+
+     Case 1:24-cv-00037-MR    Document 109    Filed 08/07/26   Page 9 of 33
+Goodman v. Praxair Services, Inc., 632 F. Supp. 2d 494, 509 (2009) (quoting
+
+Thompson v. U.S. Dep't of Housing & Urban Dev., 219 F.R.D. 93, 100 (D.
+
+Md. 2003)).
+
+              1.   Motion for Sanctions Against the Commission
+
+      On March 27, 2026—less than a month before the April 23, 2026
+
+discovery deadline then in place—the Plaintiff served a Rule 45 subpoena
+
+on the Commission commanding production of all Commission records
+
+pertaining to Defendant Page by April 17, 2026. [Doc. 86-1 at 10]. The
+
+Plaintiff specifically requested nine types of records: (1) “Certification
+
+Records,” (2) “Affidavits of Separation and Separation-Related Records,” (3)
+
+“Training Records,” (4) “Personal History Statements and Background
+
+Materials,” (5) “Medical and Psychological Screening Records,” (6)
+
+“Certification Investigations and Disciplinary Records,” (7) “Agency Transfer
+
+and Appointment Records,” (8) “Communications,” and (9) “Commission
+
+Policies.” [Id. at 10-11].
+
+      On April 8, 2026, the Commission objected to the subpoena on
+
+grounds that it requested privileged personnel records. [Doc. 61-12]. On
+
+April 13, 2026, four days before the April 17, 2026 deadline for production
+
+pursuant to the Rule 45 subpoena, the Plaintiff filed a motion to compel
+
+production of the records. [Doc. 47]. On April 16, 2026, the Commission
+
+
+                                     10
+
+     Case 1:24-cv-00037-MR   Document 109   Filed 08/07/26   Page 10 of 33
+produced 1,502 pages of documents that were not subject to the
+
+Commission’s written objection. [Doc. 61-2]. On April 19, 2026, the Plaintiff
+
+and the Commission filed a consent motion for a protective order regarding
+
+the personnel files, and the Plaintiff withdrew his motion to compel. [Docs.
+
+49, 50]. On April 22, 2026, upon consent motion of the parties, the Court
+
+extended the discovery deadline through and including May 4, 2026. [Text-
+
+Only Order entered April 22, 2026]. On April 23, 2026, the Commission
+
+produced additional documents. [Doc. 61-4].
+
+     On April 27, 2026, counsel for the Plaintiff emailed counsel for the
+
+Commission requesting supplementation of the Commission’s production,
+
+on grounds that the Commission’s production improperly failed to include
+
+Affidavits of Separation, also known as Forms F-5B, and other separation-
+
+related documents pertaining to Defendant Page. [Doc. 61-6 at 2]. On April
+
+28, 2026, counsel for the Commission replied and offered to meet with
+
+counsel for the Plaintiff to discuss the issue, but counsel for the Plaintiff
+
+requested a written response instead. [Doc. 61-5 at 1-2]. On April 29, 2026,
+
+counsel for the Commission provided a written response stating that “all
+
+responsive documents that have been located . . . have been provided,” and
+
+that no Form F-5B for Defendant Page had been found within the
+
+Commission’s records. [Doc. 61-6 at 1]. Counsel for the Commission further
+
+
+                                     11
+
+    Case 1:24-cv-00037-MR    Document 109   Filed 08/07/26   Page 11 of 33
+explained that, because Defendant Page had been separated from law
+
+enforcement positions certified by the Commission since 2019, the
+
+Commission believed that any law enforcement certification file for
+
+Defendant Page would have been destroyed pursuant to the Commission’s
+
+routine retention schedule. [Id.]. Because the Commission did not have a
+
+“destruction log,” however, the Commission could not confirm that there were
+
+any such records that were destroyed. [Id.].
+
+      On May 8, 2026, the Plaintiff filed the instant motion for sanctions
+
+based on the Commission’s purported destruction of law enforcement
+
+certification records pertaining to Defendant Page. [Doc. 61 at 2, 4; Doc. 61-
+
+1 at 3-7]. The Plaintiff, however, concedes that he received a copy of the
+
+one form his counsel specifically identified as missing—"the Affidavit of
+
+Separation submitted by the Rutherfordton Police Department in connection
+
+with Officer Page’s termination,” [Doc. 61-6 at 2]—from the Rutherfordton
+
+Police Department. [Doc. 61-1 at 7]. Nevertheless, the Plaintiff contends
+
+that the Commission also destroyed other documents—“the Commission’s
+
+own correspondence, investigative actions, determinations, and any
+
+certifications or disciplinary proceedings that followed receipt of the F-5B”—
+
+that the Plaintiff cannot obtain from other sources. [Id.].
+
+
+
+
+                                      12
+
+     Case 1:24-cv-00037-MR    Document 109    Filed 08/07/26   Page 12 of 33
+      In its Response, the Commission contends, at length, that “there is no
+
+basis to reasonably conclude [that some or all of the requested records] ever
+
+existed.” [Doc. 86 at 11]. The Commission specifically contends that while
+
+the “Plaintiff complains that investigation files regarding Defendant Page are
+
+not produced,” there is “no evidence . . . that such investigative files ever
+
+existed,” because there is no evidence that the Commission investigated the
+
+conduct leading to Defendant Page’s separation from the Rutherfordton
+
+Police Department. [Id. at 7, 14].
+
+      The operative questions before the Court are whether the Commission
+
+had an obligation to preserve the purportedly destroyed records, whether
+
+such destruction was accompanied by a culpable state of mind, and whether
+
+the records were relevant to the Plaintiff’s deliberate indifference claim, such
+
+that a reasonable factfinder could conclude that the records would have
+
+supported an element of the Plaintiff’s claim. See Goodman, 632 F. Supp.
+
+2d at 509 (articulating the elements for spoliation sanctions).
+
+      “The duty to preserve material evidence arises not only during litigation
+
+but also extends to that period before litigation when a party reasonably
+
+should know that the evidence may be relevant to the anticipated litigation.”
+
+Silvestri, 271 F.3d at 591.     The Plaintiff appears to contend that the
+
+Commission should have known to preserve the records because the
+
+
+                                      13
+
+     Case 1:24-cv-00037-MR    Document 109    Filed 08/07/26   Page 13 of 33
+“Plaintiff began requesting information from State agencies in 2021” and
+
+“[t]here was news coverage and Plaintiff made public records requests and
+
+a plea for justice and transparency.”       [Doc. 61-1 at 16].     However, the
+
+Commission has never been a party to this action. Thus, the Plaintiff’s
+
+requests for information and public pleas did not reasonably put the
+
+Commission on notice that it needed to preserve any files regarding
+
+Defendant Page, particularly ones that did not even concern the Decedent’s
+
+accident. The Commission did not receive the Plaintiff’s subpoena for the
+
+requested records until March 27, 2026. Nothing before the Court provides
+
+a basis for the Court to conclude that the requested records were destroyed
+
+after March 27, 2026, nor does anything before the Court provide a basis for
+
+the Court to conclude that, prior to the issuance of the Plaintiff’s subpoena,
+
+the Commission reasonably should have known that the requested records
+
+would be relevant to anticipated litigation.
+
+      The Plaintiff also contends that the Commission had a statutory duty
+
+to preserve the requested records, [Doc. 61-1 at 11-14; Doc. 95 at 4-6], but
+
+the Plaintiff has failed to present any basis for the Court to conclude that the
+
+Commission failed to properly follow its routine retention schedule. See
+
+[Doc. 86 at 10 (explaining that the Commission was not required to retain
+
+files for officers like Defendant Page who had been separated from relevant
+
+
+                                       14
+
+     Case 1:24-cv-00037-MR    Document 109     Filed 08/07/26   Page 14 of 33
+positions for more than three years)]; see also [Doc. 86-7 at 1 (discussing
+
+the relevant retention schedule)].      Thus, to the extent the Commission
+
+destroyed records pertaining to Defendant Page, it did not have a duty to
+
+preserve the records when they were destroyed. Moreover, because the
+
+Commission did not have a duty to preserve the records, any such
+
+destruction was not accompanied by a culpable state of mind.
+
+      As to the issue of relevance, the Plaintiff contends that the requested
+
+records would provide information about Defendant Page’s “training in
+
+emergency medical response, his employment history, disciplinary record,
+
+and his prior conduct in similar situations.” [Doc. 61-1 at 3]. The Plaintiff
+
+contends that such information is “directly relevant to establishing whether
+
+[Defendant Page’s] failure to provide medical assistance constituted
+
+deliberate indifference” and “directly bears on what the Commission knew
+
+about Page’s prior misconduct, what it did with that knowledge, and whether
+
+it took action affecting his re-certification.” [Id. at 3-4, 22]. Specifically, the
+
+Plaintiff contends that the records implicate an element of the Plaintiff’s
+
+deliberate indifference claim—namely, whether Defendant Page knew or
+
+should have known that the Decedent had a medical condition and that
+
+Defendant Page’s action or inaction posed an unjustifiably high risk of harm
+
+to the Decedent. [Id. at 22-23]; see also Short v. Hartman, 87 F.4th 593, 611
+
+
+                                        15
+
+     Case 1:24-cv-00037-MR     Document 109     Filed 08/07/26   Page 15 of 33
+(4th Cir. 2023) (stating the elements for a deliberate indifference claim). The
+
+Plaintiff has not, however, explained how the Commission’s records, which
+
+exclusively concern Defendant Page’s prior conduct and employment, could,
+
+in fact, bear on that inquiry. The Plaintiff’s deliberate indifference claim stems
+
+from Deputy Page’s alleged actions after the Decedent crashed his vehicle
+
+into a tree in 2021. Defendant Page’s conduct and employment prior to 2021
+
+are simply not relevant to his actions at the scene of the Decedent’s collision,
+
+and the records in question would therefore have no bearing on the success
+
+or failure of the Plaintiff’s deliberate indifference claim. Accordingly, the
+
+Court concludes that the Plaintiff has failed to establish the relevance of the
+
+records in question.
+
+      Because the Plaintiff has failed to establish any of the requisite
+
+elements for spoliation, the Court will deny the Plaintiff’s motion for sanctions
+
+against the Commission.
+
+            2.    Motion for Sanctions Against Page and Polk County
+
+      On May 19, 2026—fifteen days after the close of discovery in this
+
+case—the Plaintiff filed a motion for sanctions based on spoliation against
+
+Defendant Page and Polk County. [Doc. 68]. The Plaintiff’s motion concerns
+
+the purported destruction of a wide range of items: (1) the event data
+
+recorders from the Decedent’s vehicle and Defendant Page’s vehicle, (2) the
+
+
+                                       16
+
+     Case 1:24-cv-00037-MR    Document 109     Filed 08/07/26   Page 16 of 33
+Decedent’s vehicle, (3) Defendant Page’s vehicle, (4) in-car camera footage
+
+and body-worn camera footage of the Defendant Page’s pursuit and initial
+
+approach to the vehicle, (5) Defendant Page’s dispatch communications
+
+from the time of the incident, (6) the Polk County Sheriff’s Office’s internal
+
+investigation materials regarding the incident, (7) investigative crash files
+
+held by the North Carolina Department of Public Safety (“NCDPS”) that
+
+pertain to prior accidents involving Defendant Page, and (8) law enforcement
+
+certification records held by the Commission. [Doc. 68-1 at 3-8].
+
+      The operative questions before the Court are whether Defendant Page
+
+or Polk County had an obligation to preserve any of the purportedly
+
+destroyed items, whether any such destruction was accompanied by a
+
+culpable state of mind, and whether the items were relevant to the Plaintiff’s
+
+deliberate indifference claim, such that a reasonable factfinder could
+
+conclude that the records would have supported an element of the Plaintiff’s
+
+claim. See Goodman, 632 F. Supp. 2d at 509 (articulating the elements for
+
+spoliation sanctions).
+
+      As to the event data recorders and the vehicles, the Plaintiff contends
+
+that they “would have provided objective, unimpeachable data about the
+
+pursuit—including speed, braking, and the dynamics of the collision—
+
+against which Page’s self-serving written statement and deposition
+
+
+                                     17
+
+    Case 1:24-cv-00037-MR    Document 109    Filed 08/07/26   Page 17 of 33
+testimony could have been evaluated.” [Doc. 68-1 at 22-23]. Neither such
+
+data about the pursuit nor its potential inconsistency with Defendant Page’s
+
+testimony about the pursuit, however, is relevant to Defendant Page’s
+
+actions after the Decedent’s collision, and the Court has previously
+
+concluded that only those actions are relevant to the Plaintiff’s deliberate
+
+indifference claim. [Doc. 14 at 10]. Accordingly, no reasonable factfinder
+
+could conclude that the recorders or the vehicles would have supported the
+
+Plaintiff’s claim.
+
+      In any event, as the Plaintiff concedes, the Decedent’s event data
+
+recorder was “severely damaged” and “rendered unreadable because of the
+
+crash,” so no data from the Decedent’s recorder was recoverable in the first
+
+place. [Doc. 68-1 at 3]. Moreover, the Plaintiff never requested to review or
+
+inspect Defendant Page’s car or the event data recorder. [Doc. 89 at 6; Doc.
+
+99 at 8]. Defendant Page and Polk County cannot be sanctioned for failing
+
+to produce discovery which the Plaintiff never sought. Accordingly, for all
+
+these reasons, the Court will deny the Plaintiff’s motion as to the event data
+
+recorders and the vehicles.
+
+      As for the in-car camera footage and body-worn camera footage of
+
+Defendant Page’s pursuit and initial approach to the vehicle, it is undisputed
+
+that no such footage ever existed. [Doc. 68-1 at 5-6, 13-14]. Nevertheless,
+
+
+                                     18
+
+     Case 1:24-cv-00037-MR    Document 109   Filed 08/07/26   Page 18 of 33
+the Plaintiff appears to seek sanctions for “institutional inaction” and
+
+“institutional failure” by Polk County that resulted in such footage never being
+
+created. [Id. at 5-6]. The Plaintiff’s frustration with the circumstances that
+
+resulted in the absence of evidence, however, is not a basis for spoliation
+
+sanctions. Accordingly, the Court will deny the Plaintiff’s motion as to the in-
+
+car and body-worn camera footage.
+
+      As to Defendant Page’s dispatch communications, Defendant Page
+
+and Polk County represent that they produced the entirety of the
+
+communications. [Doc. 89 at 8]. The Plaintiff admits that one audio record
+
+of the communications was produced but contends that additional audio
+
+existed and must therefore have been destroyed. [Doc. 68-1 at 6-7, 14-15;
+
+Doc. 99 at 9-10]. To support his contention that additional audio existed, the
+
+Plaintiff argues that certain deposition testimony about the communications
+
+is not wholly consistent with the audio record that was produced. [Doc. 68-
+
+1 at 14-15; Doc. 99 at 10]. The Plaintiff’s dissatisfaction with the purported
+
+inconsistency between certain deposition testimony regarding the audio
+
+record and the audio record itself, however, is not a sufficient basis for the
+
+Court to infer that there were additional audio records that were destroyed
+
+by Polk County or Defendant Page. Accordingly, the Court will deny the
+
+Plaintiff’s motion as to the dispatch communications.
+
+
+                                      19
+
+     Case 1:24-cv-00037-MR    Document 109    Filed 08/07/26   Page 19 of 33
+      Similarly, as to the Polk County Sheriff’s Office’s internal investigation
+
+materials, Defendant Page and Polk County represent that they produced
+
+the entirety of the materials, which consisted of a single page. [Doc. 89 at
+
+8-9]. The Plaintiff does not dispute that the single page was produced but
+
+contends instead that there should have been additional materials created in
+
+the course of the internal investigation. [Doc. 68-1 at 7, 15-16; Doc. 99 at
+
+10-11].      The Plaintiff’s dissatisfaction with the thoroughness of the
+
+documentation of the internal investigation, however, is not a sufficient basis
+
+for the Court to infer that there were additional materials that were destroyed
+
+by Polk County or Defendant Page. Accordingly, the Court will deny the
+
+Plaintiff’s motion as to the Polk County Sheriff’s Office’s internal investigation
+
+materials.
+
+      As to the NCDPS and Commission records, Defendant Page and Polk
+
+County contend that they cannot be held responsible for such records
+
+because they never had those records in their possession. [Doc. 89 at 10].
+
+The Plaintiff does not dispute this in his Reply and states only that the
+
+NCDPS and Commission documents were “a very minor aspect of Plaintiff’s
+
+motion to show the magnitude and scope of the documents missing in this
+
+one case.” [Doc. 99 at 11]. Because the Plaintiff does not dispute that such
+
+records were held by other entities and not destroyed by Defendant Page or
+
+
+                                       20
+
+     Case 1:24-cv-00037-MR    Document 109     Filed 08/07/26   Page 20 of 33
+Polk County, the Court will deny the Plaintiff’s motion as to the NCDPS and
+
+Commission records.
+
+      Accordingly, because none of the grounds asserted by the Plaintiff offer
+
+a tenable basis for sanctions against Defendant Page or Polk County, the
+
+Court will deny the Plaintiff’s motion for sanctions against them. Because
+
+the Court will deny both of the Plaintiff’s motions for sanctions, the Court
+
+further concludes that neither motion poses an obstacle to disposition of the
+
+Defendant’s motion for summary judgment.
+
+      B.    Motion for Summary Judgment
+
+      The only remaining claim in this matter is the Plaintiff’s claim for
+
+deliberate indifference. To establish deliberate indifference, the Plaintiff must
+
+show (1) that the Decedent “had a medical condition or injury that posed a
+
+substantial risk of serious harm,” (2) that Defendant Page “intentionally,
+
+knowingly, or recklessly acted or failed to act to appropriately address the
+
+risk that the condition posed,” (3) that Defendant Page “knew or should have
+
+known (a) that the [Decedent] had that condition and (b) that [Defendant
+
+Page’s] action or inaction posed an unjustifiably high risk of harm,” and (4)
+
+that, “as a result, the [Decedent] was harmed.” Short v. Hartman, 87 F.4th
+
+593, 611 (4th Cir. 2023).
+
+
+
+
+                                       21
+
+     Case 1:24-cv-00037-MR    Document 109    Filed 08/07/26   Page 21 of 33
+      The Defendants contend that the Plaintiff’s deliberate indifference
+
+claim must fail because there is no forecast of evidence that the Decedent
+
+survived the collision of his vehicle with a tree and was alive at the time of
+
+Defendant Page’s alleged actions. The Plaintiff counters that “there is no
+
+undisputed evidence that [the Decedent] was ‘obviously’ dead” when
+
+Defendant Page approached the vehicle, and therefore summary judgment
+
+is inappropriate. [Doc. 90 at 22]. The Plaintiff, however, bears the burden of
+
+presenting a forecast of evidence as to this element. The mere absence of
+
+undisputed evidence to the contrary does not support an inference that the
+
+Decedent was alive. [Id.].
+
+      Nothing in the forecasts of evidence provides a reasonable basis for a
+
+non-speculative inference that the Decedent remained alive after the initial
+
+collision with the tree. As a result, any inference to establish the first element
+
+would necessarily be speculative.        The absence of evidence that the
+
+Decedent was alive also negates the other elements of the Plaintiff’s
+
+deliberate indifference claim, as the remaining elements presume that the
+
+Decedent had an addressable medical condition and could be further
+
+harmed by a failure to address the condition.
+
+      Moreover, even if the Decedent were alive when Defendant Page first
+
+approached the Decedent’s vehicle, there is no forecast of evidence as to
+
+
+                                       22
+
+     Case 1:24-cv-00037-MR    Document 109     Filed 08/07/26   Page 22 of 33
+what Defendant Page could have done to render material aid to the
+
+Decedent because of the manner in which the Decedent was trapped in his
+
+vehicle. The undisputed facts establish that, upon arriving at the scene of
+
+the collision, Defendant Page immediately notified his dispatch of the
+
+accident and the need to summon emergency services, as well as the likely
+
+presence of a fatality.       [Doc. 105: Ex. 2. Ben Page Call to Dispatch].
+
+Defendant Page then approached the Decedent’s vehicle, visually assessed
+
+the Decedent and perceived him to be lifeless, and extinguished a fire on the
+
+Decedent’s vehicle to mitigate further harm. [Doc. 91-1 at 108, 123]. Even
+
+if Defendant Page were negligent in his manner of assessing the Decedent,
+
+or acting to turn his attention to extinguishing the fire, negligence does not
+
+rise to the level of deliberate indifference.5
+
+      Accordingly, even if the Decedent survived the initial impact of his
+
+collision, there is no forecast of evidence on which a reasonable jury could
+
+find facts sufficient to conclude that Defendant Page intentionally, knowingly,
+
+
+5
+  The Plaintiff also contends that Defendant Page was deliberately indifferent because he
+“told his dispatch that the subject was dead” and thereby “encourage[ed] the downgrading
+of emergency services.” [Doc. 90 at 24]. The Plaintiff’s assertion that Defendant Page
+encouraged the downgrading of emergency services, however, has no support in the
+forecasts of evidence. The Plaintiff further contends that Defendant Page’s failure to
+respond appropriately to the collision “never gave [the paramedic] a ‘fair’ chance to save
+[the Decedent].” [Doc. 90 at 24]. The paramedic who responded to the scene, however,
+testified in his deposition that the Decedent “was entrapped in every way” and that “[t]he
+car was so bad, [he] didn’t have a way to actually access the patient . . . to get to his
+body.” [Doc. 91-6 at 48].
+                                           23
+
+     Case 1:24-cv-00037-MR       Document 109       Filed 08/07/26   Page 23 of 33
+or recklessly acted or failed to act to appropriately address the risk that the
+
+Decedent’s condition posed, or that Defendant Page reasonably should have
+
+known that his actions or inaction posed the Decedent an unjustifiably high
+
+risk of harm. Moreover, because there is no evidence that Defendant Page
+
+could have materially aided the Decedent, there is no basis for an inference
+
+that his failure to attempt to render such aid to the Decedent caused the
+
+Decedent harm.      The Plaintiff has therefore failed to forecast evidence
+
+sufficient for a reasonable jury, viewing the evidence in the light most
+
+favorable to the Plaintiff, to find facts establishing any of the elements of the
+
+Plaintiff’s deliberate indifference claim. The Plaintiff’s deliberate indifference
+
+claim therefore fails as a matter of law.
+
+      Moreover, deliberate indifference only applies to a situation where the
+
+law enforcement officer has a person in custody. DeShaney v. Winnebago
+
+Cnty. Dep't of Soc. Servs., 489 U.S. 189, 199-200 (1989) (“[W]hen the State
+
+takes a person into its custody and holds him there against his will, the
+
+Constitution imposes upon it a corresponding duty to assume some
+
+responsibility for his safety and general well-being.”); Patten v. Nichols, 274
+
+F.3d 829, 841 (4th Cir. 2001) (“[I]f there is no custodial relationship, then the
+
+state has no duty to protect.”). Here, however, the relevant undisputed facts
+
+are simple: the Decedent was never in Defendant Page’s custody. Prior to
+
+
+                                       24
+
+     Case 1:24-cv-00037-MR    Document 109     Filed 08/07/26   Page 24 of 33
+the Decedent’s collision with the tree, he was speeding away from Defendant
+
+Page; after the Decedent’s collision with the tree, he was trapped in his
+
+vehicle. Defendant Page never attempted to arrest, restrain, or otherwise
+
+detain the Decedent, and the Decedent was pronounced dead at the scene
+
+before being extricated from his vehicle. See Waybright v. Frederick Cnty.,
+
+MD, 528 F.3d 199, 207 (4th Cir. 2008) (characterizing a “custodial
+
+relationship” as a “circumscribed one,” requiring a state actor’s affirmative
+
+exercise of power to restrain an individual liberty through “[s]ome sort of
+
+confinement,” such as “incarceration, institutionalization, or the like”); see
+
+also Cnty. of Sacramento v. Lewis, 523 U.S. 833, 851 (1998) (emphasizing
+
+“the markedly different circumstances of normal pretrial custody and high-
+
+speed law enforcement chases” to show why different standards apply in the
+
+distinct circumstances).
+
+     The Plaintiff contends that custody is established by Defendant Page’s
+
+high-speed pursuit and by the fact that Defendant Page approached the
+
+Decedent’s vehicle with his weapon drawn.         [Doc. 90 at 18-19].         The
+
+Plaintiff’s argument, however, is directly contrary to Supreme Court
+
+precedent. In Brower v. County of Inyo, 489 U.S. 593 (1989), the Court
+
+concluded that a Fourth Amendment seizure occurs “only when there is a
+
+governmental termination of freedom of movement through means
+
+
+                                     25
+
+    Case 1:24-cv-00037-MR    Document 109    Filed 08/07/26   Page 25 of 33
+intentionally applied.”    Id. at 597. The Court considered a hypothetical
+
+wherein a “pursuing police car sought to stop the suspect only by the show
+
+of authority represented by flashing lights and continuing pursuit; and though
+
+he was in fact stopped, he was stopped by a different means—his loss of
+
+control of his vehicle and the subsequent crash.”                 Id.   Under those
+
+circumstances, the Court concluded, there would be no Fourth Amendment
+
+seizure.   Here, where Defendant Page pursued the Decedent and the
+
+Decedent lost control of his vehicle and crashed, there was no custody for
+
+purposes of the Fourteenth Amendment.              Nor could Defendant Page’s
+
+approach to the vehicle with his weapon drawn—especially in light of the fact
+
+that the Decedent was trapped in his vehicle—have given rise to a custodial
+
+relationship with the Decedent. Accordingly, because there was no custodial
+
+relationship, Defendant Page had no duty to protect the Decedent and could
+
+not be held liable for deliberate indifference to the Decedent’s condition.6
+
+
+
+
+6
+  The Plaintiff contends that there is a disputed factual issue regarding whether the
+Decedent was in custody because of a communication to the Spartanburg County
+emergency medical services that the Decedent was in custody. [Doc. 90 at 9-10, 17-20].
+The Plaintiff, however, has not presented a forecast of evidence that Defendant Page
+ever reported that the Decedent was in custody. Instead, the Plaintiff only points to
+inadmissible hearsay in deposition testimony and a report that a firefighter from the
+Cooley Springs Fire Department told a Spartanburg County paramedic that the Decedent
+was in custody. [Doc. 65-7 at 10; Doc. 91-4 at 5]. Moreover, the undisputed facts
+establish that the Decedent was never in custody, so any communication that the
+Decedent was in custody would have been in error. A mistaken report of custody is not
+sufficient to establish a genuine factual dispute regarding custody.
+                                         26
+
+     Case 1:24-cv-00037-MR      Document 109     Filed 08/07/26     Page 26 of 33
+       Finally, the Plaintiff also contends that Defendant Page created and
+
+caused the Decedent’s predicament by chasing him, and, as a result, had an
+
+affirmative duty to provide medical care when the “attempted apprehension”
+
+came to an end. [Doc. 90 at 16]. Under the state-created danger doctrine,
+
+“a state actor may be held liable for harm resulting from ‘affirmative actions’
+
+that created or enhanced the dangerous conditions that produced the
+
+plaintiff’s injury.”   Turner v. Thomas, 930 F.3d 640, 645 (4th Cir. 2019)
+
+(quoting Pinder v. Johnson, 54 F.3d 1169, 1175 (4th Cir. 1995)).               This
+
+doctrine, however, is “narrowly drawn, and the bar for what constitutes an
+
+‘affirmative act’ is high.”    Id. (quoting Pinder, 54 F.3d at 1175).      Such
+
+affirmative acts must be “immediate interactions” between the state actor and
+
+the individual that are the “direct cause” of the individual’s injuries. Callahan
+
+v. N. Carolina Dep't of Pub. Safety, 18 F.4th 142, 147-48 (4th Cir. 2021).
+
+Here, the relevant undisputed facts, though tragic, are quite simple: the
+
+Decedent was speeding unlawfully, Defendant Page pursued him, and the
+
+Decedent crashed into a tree.        There were no immediate interactions
+
+between Defendant Page and the Decedent, and Defendant Page’s pursuit
+
+of the Decedent for speeding cannot reasonably be construed as the direct
+
+cause of the Decedent’s injuries. See Cnty. of Sacramento, 523 U.S. at 854
+
+(“[W]e hold that high-speed chases with no intent to harm suspects physically
+
+
+                                       27
+
+     Case 1:24-cv-00037-MR     Document 109   Filed 08/07/26   Page 27 of 33
+or to worsen their legal plight do not give rise to liability under the Fourteenth
+
+Amendment, redressable by an action under § 1983.”). Additionally, there is
+
+no forecast of evidence that Defendant Page “took any action to push the
+
+pursuit to extreme speeds”; rather, the forecast of evidence indicates that the
+
+Decedent “engaged in a high-speed flight,” and Defendant Page “simply
+
+reacted to keep up with him in light of his behavior.” Mathis v. Anderson
+
+Cnty., No. CV 8:22-234-DCC-KFM, 2024 WL 4486601, at *13 (D.S.C. May
+
+29, 2024), report and recommendation adopted, No. 8:22-CV-00234-DCC,
+
+2024 WL 4024019 (D.S.C. Sept. 3, 2024). Defendant Page did “nothing to
+
+cause [the Decedent’s] high-speed driving in the first place, nothing to
+
+excuse his flouting of the commonly understood law enforcement authority
+
+to control traffic, and nothing (beyond a refusal to call off the chase) to
+
+encourage him to race . . . at breakneck speed.” Cnty. of Sacramento, 523
+
+U.S. at 855.       Accordingly, the state-created danger doctrine has no
+
+application here.7
+
+
+
+7
+  The Fourth Circuit has repeatedly noted that it has “never issued a published opinion
+recognizing a successful state-created danger claim.” Burns-Fisher v. Romero-Lehrer,
+57 F.4th 421, 425 (4th Cir. 2023); see also Callahan, 18 F.4th at 147; Turner, 930 F.3d at
+646. Moreover, “apart from situations involving custody, the Supreme Court has never
+applied a ‘deliberate indifference’ standard merely because the State created a danger
+that resulted in harm.” Slaughter v. Mayor & City Council of Balt., 682 F.3d 317, 321 (4th
+Cir. 2012). As a result, a successful state-created danger claim would likely require
+conduct that is not merely deliberately indifferent but that “shocks the conscience.” Id.;
+see also Cnty. of Sacramento, 523 U.S. at 847-55 (1998) (applying the “shocks the
+                                           28
+
+     Case 1:24-cv-00037-MR       Document 109       Filed 08/07/26   Page 28 of 33
+      The Court concludes that the Plaintiff’s deliberate indifference claim
+
+fails as a matter of law. The Court further concludes that, because the
+
+Decedent was never in custody and Defendant Page did not create the
+
+danger to the Decedent, the Decedent had no affirmative right to
+
+governmental aid, and Defendant Page’s failure to render any such aid was
+
+therefore not a constitutional violation. Based on the forecasts of evidence,
+
+taken in the light most favorable to the Plaintiff, no reasonable jury could find
+
+facts to support any different conclusion. The Court will therefore grant
+
+summary judgment in favor of Defendant Page.8
+
+      The Court also notes that there is no claim pending against Defendant
+
+Auto-Owners Insurance Company, which has remained in this case only as
+
+the surety on Defendant Page’s bond. [Doc. 23 at ¶¶ 12-14]. Because the
+
+Court has concluded that Defendant Page is entitled to summary judgment,
+
+the Plaintiff’s remaining claims against him will be dismissed. Accordingly,
+
+the Court will also dismiss Defendant Auto-Owners Insurance Company from
+
+this case.
+
+
+
+conscience” standard). The Plaintiff, however, has forecast no evidence of conscience-
+shocking conduct by Defendant Page.
+8
+  Because the Court has disposed of the Plaintiff’s deliberate indifference claim on the
+merits and concluded that Defendant Page did not violate the Decedent’s constitutional
+rights, the Court concludes that Defendant Page is also entitled to summary judgment
+based on qualified immunity. See Pearson v. Callahan, 555 U.S. 223, 236 (2009).
+                                          29
+
+     Case 1:24-cv-00037-MR       Document 109     Filed 08/07/26    Page 29 of 33
+      C.    Order to Show Cause
+
+      On June 3, 2026, the Court directed counsel for the Plaintiff to show
+
+cause in writing as to why she should not be sanctioned for failure to comply
+
+with the Court’s Standing Order Regarding the Use of Artificial Intelligence.
+
+[Doc. 98 at 15]. The Court specifically directed counsel for the Plaintiff to
+
+explain both the origin of the fabricated quotations in briefing she filed with
+
+the Court and her repeated failure to provide timely certifications that
+
+complied with the Court’s Standing Order. [Id. at 10].
+
+      On June 9, 2026, counsel for the Plaintiff filed a “Letter to the Court
+
+about Artificial Intelligence” in response to the Court’s Show Cause Order.
+
+[Doc. 106]. Regarding the failure to file proper certifications, counsel for the
+
+Plaintiff apologized to the Court and attributed the failure to an “inadvertent
+
+mistake.” [Id. at 2]. Counsel represented that she “does not use AI to
+
+conduct legal research,” and that “[t]o ensure the accuracy of citations . . .
+
+[she] runs briefs through LexisNexis brief analysis” and fixes any error that
+
+appears “alarming.” [Id.]. Counsel further represented that she “has AI
+
+embedded in her practice” but that her “AI program cannot conduct research
+
+and cannot hallucinate.” [Id. at 3]. Regarding the fabricated quotations,
+
+counsel for the Plaintiff says that she “must be the origin,” that “she made
+
+the errors, accepts full responsibility, attempted to properly verify her work
+
+
+                                      30
+
+     Case 1:24-cv-00037-MR    Document 109    Filed 08/07/26   Page 30 of 33
+and fell short,” and that “AI cannot be blamed.” [Id. at 3-4]. Counsel also
+
+represents that she has now “made changes to her practice” and “has added
+
+additional time to more thoroughly vet her work.” [Id. at 4].
+
+      The Court is deeply troubled by the errors previously identified in the
+
+Plaintiff’s filings, and counsel’s letter does little to allay the Court’s concerns.
+
+Counsel indicates that she relies on a LexisNexis program for citation
+
+verification rather than having an attorney, or a paralegal working at an
+
+attorney’s direction, verify citations as required by the Court’s Standing
+
+Order. Moreover, counsel has not explained the origin of the fabricated
+
+quotations other than to accept responsibility for them and assert that they
+
+were not produced by an artificial intelligence program. How such fabricated
+
+quotations could have appeared in the Plaintiff’s filings at all therefore
+
+remains a mystery.        Finally, while counsel asserts that the artificial
+
+intelligence program embedded in her practice cannot hallucinate, she has
+
+provided no corroboration for that assertion, nor has she even provided the
+
+name of the artificial intelligence program that she uses. As a result, the
+
+Court finds that counsel’s response has fallen well short of the Court’s
+
+expectations. Nevertheless, because counsel has accepted responsibility
+
+for the errors in the Plaintiff’s filings, the Court will discharge the Show Cause
+
+
+
+
+                                        31
+
+     Case 1:24-cv-00037-MR     Document 109     Filed 08/07/26   Page 31 of 33
+Order.   Counsel for the Plaintiff is cautioned, however, that any similar
+
+shortcomings in future filings will result in sanctions.
+
+V.    CONCLUSION
+
+      Because there is no forecast of evidence sufficient to support a
+
+reasonable jury’s determination that Defendant Page was deliberately
+
+indifferent to the Decedent’s medical needs, the Court will grant summary
+
+judgment in favor of the Defendants. The Plaintiff’s claims for deliberate
+
+indifference and punitive damages will therefore be dismissed.
+
+
+
+                                   ORDER
+
+      IT IS, THEREFORE, ORDERED that the Plaintiff’s Motion for
+
+Sanctions Against Non-Party North Carolina Criminal Justice Education and
+
+Training Standards Commission and for Fees for Destruction of Evidence
+
+[Doc. 61] is hereby DENIED.
+
+      IT IS FURTHER ORDERED that the Plaintiff’s Motion for Sanctions
+
+Against Polk County and Ben Page and for Fees for Destruction of Evidence
+
+[Doc. 68] is hereby DENIED.
+
+      IT IS FURTHER ORDERED that the Defendants’ Motion for Summary
+
+Judgment [Doc. 64] is GRANTED, and all the Plaintiff’s remaining claims are
+
+hereby DISMISSED WITH PREJUDICE.
+
+
+                                       32
+
+     Case 1:24-cv-00037-MR    Document 109     Filed 08/07/26   Page 32 of 33
+     IT IS FURTHER ORDERED that the Court’s Order to Show Cause
+
+[Doc. 98] is hereby DISCHARGED.
+
+     A Judgment consistent with the Memorandum of Decision and Order
+
+shall be entered contemporaneously herewith.
+
+     The Clerk is respectfully requested to close this civil case.
+
+     IT IS SO ORDERED.
+                                Signed: August 7, 2026
+
+
+
+
+                                      33
+
+    Case 1:24-cv-00037-MR   Document 109         Filed 08/07/26   Page 33 of 33
+

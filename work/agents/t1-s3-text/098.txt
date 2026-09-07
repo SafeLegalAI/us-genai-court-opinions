@@ -1,0 +1,1031 @@
+                               In the
+
+    United States Court of Appeals
+                 For the Seventh Circuit
+                     ____________________
+No. 25-2231
+NIKKO D’AMBROSIO,
+                                                  Plaintiff-Appellant,
+                                 v.
+
+META PLATFORMS INC., et al.,
+                                               Defendants-Appellees.
+                     ____________________
+
+         Appeal from the United States District Court for the
+           Northern District of Illinois, Eastern Division.
+           No. 1:24-cv-00678 — Sunil R. Harjani, Judge.
+                     ____________________
+
+    ARGUED FEBRUARY 13, 2026 — DECIDED MAY 15, 2026
+                ____________________
+
+   Before BRENNAN, Chief Judge, and HAMILTON and SCUDDER,
+Circuit Judges.
+    HAMILTON, Circuit Judge. In this appeal, we aﬃrm dismis-
+sal of a litany of claims arising from a few social media posts
+about the plaintiﬀ’s reportedly obnoxious behavior on dates
+and after a breakup. We also order plaintiﬀ and his attorneys
+to show cause why they should not face sanctions for frivo-
+lously appealing the dismissal of his claims against the author
+of some of those posts (a woman he brieﬂy dated) and her
+2                                                  No. 25-2231
+
+parents. Plaintiﬀ failed to oﬀer even colorable grounds for re-
+versing the claims against those defendants. Moreover, his at-
+torney submitted a brief with ﬁctitious quotations, citations,
+and claims that should have been avoided with routine cite-
+checking.
+I. Factual and Procedural Background
+    Because we are reviewing a grant of motions to dismiss
+under Federal Rule of Civil Procedure 12(b)(6), we recount the
+facts as alleged in plaintiﬀ’s Second Amended Complaint and
+the attached exhibits. See Thompson v. Illinois Dep’t of
+Professional Regulation, 300 F.3d 750, 754 (7th Cir. 2002). “Are
+We Dating the Same Guy? | Chicago” (“the Group”) is a
+Facebook group with around one hundred thousand
+members in which women discuss their experiences dating
+Chicago-area men. This case arises from several posts made
+in the Group about plaintiﬀ-appellant Nikko D’Ambrosio,
+who alleges that defendant Abbigail Rajala, a woman he
+brieﬂy dated, and over two dozen unidentiﬁed users
+published photographs of him, made defamatory statements,
+and invaded his privacy.
+    The complaint is not always clear about the precise timing
+and sequence of the relevant posts, but they occurred in No-
+vember and December 2023. As described in the complaint
+and according to the attached exhibits, they amount to the fol-
+lowing. Ms. Rajala wrote about her unpleasant experience
+brieﬂy dating D’Ambrosio:
+       We met organically in Chicago two and a half
+       months ago. Very clingy [and] very fast.
+       Flaunted money very awkwardly and kept talk-
+       ing about how I don’t want to see his bad side,
+No. 25-2231                                                   3
+
+       especially when he was on business calls. He
+       came to see me yesterday, and I explained how
+       I didn’t really want to stay the night[.] I just
+       wanted to spend the day together. And this was
+       his response.
+Her next comment was:
+       After I blocked his number, he texted me on an-
+       other one. Which is the other text screenshot[.]
+The ﬁrst message Ms. Rajala referred to is not in the com-
+plaint, but the second is as follows, with expletives cleaned up
+for this opinion:
+       Speak for yourself you ugly vial [sic] fake
+       whore. Your ego matches that fake f****** face
+       where you can’t even smile in pictures because
+       your teeth are so f*****. The truth hurts b**** and
+       my message will stay with you forever c***.
+The manner in which Ms. Rajala took the screenshot did not
+reveal D’Ambrosio’s alternate phone number or any other
+identifying information. Despite several opportunities,
+D’Ambrosio never disputed that he sent this last message un-
+til oral argument in this appeal.
+    Several users responded to Ms. Rajala’s comments with
+messages of support and consolation. At least one unidenti-
+ﬁed user asked for information about D’Ambrosio’s employer
+for the stated purpose of trying to have him ﬁred, but D’Am-
+brosio does not allege that Ms. Rajala or anyone else disclosed
+any such information.
+   Another unidentiﬁed user with the screenname “Monica
+Tska” responded with a link to a news article about a man
+4                                                         No. 25-2231
+
+charged with sexual assault. The story identiﬁed the man as
+“Anthony LaMonica.” A preview of the article, which appears
+in the exhibit attached to the complaint, shows a mugshot of
+a man who does not resemble D’Ambrosio. The comment in-
+cludes the link and preview alone, with no other commentary.
+Ms. Rajala and some of the unidentiﬁed users had posted
+photographs of D’Ambrosio, each of which showed him
+dressed in ordinary clothing, facing the camera and smiling. 1
+    Once D’Ambrosio became aware of the posts, he de-
+manded—of whom, exactly, was unclear to the district court
+and remains unclear to us—that they be taken down. The
+posts remained up, although Ms. Rajala republished her com-
+ments anonymously. D’Ambrosio’s complaint included
+sweeping, general allegations of economic, professional, emo-
+tional, and reputational harms he has suﬀered from the posts
+and their continued visibility.
+   D’Ambrosio ﬁled this suit in the Northern District of Illi-
+nois. He raised several statutory and common-law claims un-
+der Illinois law. The gravamen of the allegations against the
+defendants remaining in this case is that Ms. Rajala made
+some of the posts about him; that defendants Rodney and
+Carol Rajala, Ms. Rajala’s parents, were complicit in their
+adult daughter’s online activities because she used their home
+
+
+    1 The district court similarly concluded that the mugshot of the man
+
+did not resemble D’Ambrosio, citing Exhibit C, page 4 of the operative
+complaint. Page 1 of that exhibit shows another comment from “Monica
+Tska” responding to the same post as the link and describing a negative
+personal experience with D’Ambrosio. The comment is cut off on the
+right-hand side, but it starts with the words: “He is psycho! I met
+him . . . .” We ignore this other comment in addressing the defamation
+claim because D’Ambrosio has never specifically raised it.
+No. 25-2231                                                    5
+
+internet connection; that the Group’s administrators, defend-
+ants Blake Millbrand and Paola Sanchez, co-owners of de-
+fendant Spill the Tea, Inc. (collectively, the “STT defendants”),
+encouraged the allegedly tortious conduct of Ms. Rajala and
+the other users to promote the Group and to boost engage-
+ment for purposes of fundraising; and ﬁnally that defendant
+Meta Platforms, Inc., which operates Facebook, used its tar-
+geted recommendation algorithm to amplify the posts to
+drive advertising revenue.
+    Ms. Rajala, her parents, the STT defendants, and Meta
+each ﬁled separate motions under Federal Rule of Civil Pro-
+cedure 12(b)(6) to dismiss the Second Amended Complaint
+for failure to state a claim. The district court granted the mo-
+tions, concluded that any further amendment would be futile,
+and dismissed the case with prejudice.
+    D’Ambrosio appeals. The operative complaint asserts di-
+versity jurisdiction under 28 U.S.C. § 1332(a). D’Ambrosio
+properly alleged the state citizenship of every named defend-
+ant, none of whom are citizens of Illinois (as he is), but he did
+not allege the state citizenship of twenty-six other unidenti-
+ﬁed defendants, users of the Group he named as Jane Does,
+including “Monica Tska.” To ensure complete diversity and
+with this court’s leave, he dismissed the appeal as to the Jane
+Doe defendants so that their unknown state citizenships no
+longer matter. See Rao v. J.P. Morgan Chase Bank, N.A., 153
+F.4th 541, 549 (7th Cir. 2025), as amended on reh’g, 2025 WL
+2752720; Fed. R. App. P. 42(b)(2). We have appellate jurisdic-
+tion under 28 U.S.C. § 1291.
+6                                                    No. 25-2231
+
+II. Standard of Review
+    “To survive a motion to dismiss under Rule 12(b)(6), a
+complaint must ‘state a claim to relief that is plausible on its
+face.’” Adams v. City of Indianapolis, 742 F.3d 720, 728 (7th Cir.
+2014), quoting Bell Atlantic Corp. v. Twombly, 550 U.S. 544, 570
+(2007). “A claim has facial plausibility when the plaintiﬀ
+pleads factual content that allows the court to draw the rea-
+sonable inference that the defendant is liable for the miscon-
+duct alleged.” Ashcroft v. Iqbal, 556 U.S. 662, 678 (2009). We ac-
+cept the complaint’s factual allegations as true, but not
+“[t]hreadbare recitals of the elements of a cause of action, sup-
+ported by mere conclusory statements.” Adams, 742 F.3d at
+728, quoting Iqbal, 556 U.S. at 678. We next work our way
+through the claims argued on appeal and then turn to sanc-
+tions.
+III. Statutory Claims
+    A. Illinois Right of Publicity Act
+    This claim runs against all remaining defendants. The Illi-
+nois Right of Publicity Act (IRPA) prohibits the “use [of] an
+individual’s identity for commercial purposes during the in-
+dividual’s lifetime without having obtained previous written
+consent from the appropriate person.” 765 ILCS 1075/30(a). A
+person’s “identity” includes, among other things, his or her
+name, photograph, image, and likeness. 765 ILCS 1075/5. A
+“commercial purpose” is “the public use or holding out of an
+individual’s identity (i) on or in connection with the oﬀering
+for sale or sale of a product, merchandise, goods, or services;
+(ii) for purposes of advertising or promoting products,
+No. 25-2231                                                                  7
+
+merchandise, goods, or services; or (iii) for the purpose of
+fundraising.” Id. 2
+    D’Ambrosio’s IRPA claims fail because he has not suﬃ-
+ciently alleged that any defendant used his likeness for a com-
+mercial purpose. This section of D’Ambrosio’s opening brief
+mentioned Ms. Rajala only once, to note that her “repost was
+algorithmically ampliﬁed precisely because it generated reac-
+tions, which Meta then packaged for advertisers,” Pl. Br. at 3–
+6, and it mentioned her parents not at all. D’Ambrosio made
+no attempt to connect any factual allegation about any of the
+Rajalas’ conduct to a commercial purpose. He also has not
+identiﬁed any products, merchandise, goods, or services any
+of the Rajalas oﬀered for sale, advertised, or promoted, nor
+any fundraising campaigns they personally advanced. The
+IRPA claims fails as to each of the Rajalas.
+    D’Ambrosio fares little better with the other defendants.
+First, he argued that Meta “algorithmically ampliﬁed inﬂam-
+matory content, including unauthorized posts featuring his
+likeness, to maximize user engagement—a core monetization
+
+    2 In provisions effective January 1, 2025, after the events alleged in this
+
+case, Illinois amended the IRPA to create a claim for unauthorized public
+use of a “digital replica.” 765 ILCS 1075/5, 30(b); 2024 Ill. Laws 7585, 7590.
+Notably, the digital replica provision does not require a “commercial pur-
+pose” and extends liability not only to a principal violator but also to
+“[a]ny person who materially contributes to, induces, or otherwise facili-
+tates a violation of [§ 30(b)] by another person after having obtained actual
+knowledge that the other person is infringing upon an individual’s
+rights,” with an exception for digital service providers that is itself subject
+to certain complicated exceptions. See 740 ILCS 1075/30(d)–(e). Contrary
+to D’Ambrosio’s assertion at oral argument and notwithstanding ques-
+tions of retroactivity, this new provision is irrelevant here because he does
+not allege the use of a digital replica.
+8                                                    No. 25-2231
+
+vector for Meta through targeted ad revenue.” Pl. Br. at 4. He
+cited no case law recognizing an IRPA claim for merely dis-
+playing unrelated advertisements near an individual’s like-
+ness.
+    In Huston v. Hearst Communications, Inc., we wrote that an
+IRPA claim requires that the “identity must help sell some-
+thing—whether it is that product or a separate product or ser-
+vice.” 53 F.4th 1097, 1102 (7th Cir. 2022). Examples of using an
+identity to help sell something, we noted, include using a per-
+son’s image in a media kit to sell advertising space to adver-
+tisers; as a free preview for a subscription background report
+service; or as a teaser for a license for a higher-resolution, un-
+watermarked version of the same image. See id. at 1100–02,
+citing ﬁrst Trannel v. Prairie Ridge Media, Inc., 987 N.E.2d 923,
+930, 2013 IL App (2d) 120725, ¶ 22 (media kit); then Lukis v.
+Whitepages Inc., 542 F. Supp. 3d 831, 837–38 (N.D. Ill. 2020)
+(free preview of subscription service); and then Brown v.
+ACMI Pop Division, 873 N.E.2d 954, 959–64, 375 Ill. App. 3d
+276, 283–89 (2007) (teaser for license). By contrast, the defend-
+ant in Huston, which sold the names and personal information
+of nine million Good Housekeeping subscribers to direct mail-
+ing advertisers, lacked a commercial purpose because it never
+“held out [the plaintiﬀ’s identity] to aid, eﬀectuate, or propose
+a commercial transaction.” Id. at 1101–02, 1104. Still, Huston is
+not quite on-point, as there the plaintiﬀ’s identity was itself
+the product being sold, and the sale necessarily preceded the
+disclosure, a point we considered dispositive. Id. at 1101.
+    Trannel, on the other hand, is more instructive here. Tran-
+nel actually involved two uses of the image of the plaintiﬀ and
+her minor daughter, who together won a gardening contest
+organized by the defendant, a magazine publisher. 987
+No. 25-2231                                                              9
+
+N.E.2d at 925–26, ¶¶ 3–5. The ﬁrst use was in the defendant’s
+magazine, McHenry County Living, reporting on the winners
+of the contest, while the second was on the cover of a media
+kit the defendant used to sell advertising space in later edi-
+tions of the magazine. Id. at 926–27, ¶¶ 6–7. The Appellate
+Court of Illinois held that while the media kit was for a com-
+mercial purpose, the magazine itself was not: “Contrary to de-
+fendant’s argument, we believe that the two publications of
+the subject photograph were for entirely diﬀerent purposes,
+one covered by the Act, one not.” Id. at 931, ¶ 25. The pub-
+lisher could not be deemed to have had a commercial purpose
+for using the plaintiﬀ’s photograph in the magazine merely
+because virtually all of the magazine’s revenue came from ad-
+vertisements displayed in the magazine. See id. at 925, 927,
+¶¶ 3, 12. 3
+    A free-ﬂoating proﬁt motive is not enough. We assume
+Meta made money from displaying advertisements to people
+who viewed the posts. According to D’Ambrosio, advertising
+accounts for more than 98% of Meta’s revenue. But a newspa-
+per or magazine that prints a story featuring a photograph of
+the subject, as in Trannel, does not act with a “commercial pur-
+pose” and thereby open itself to potential liability under the
+
+    3 The court in Trannel went on to conclude that the magazine story
+
+was “news,” which the IRPA specifically lists as one of several “non-
+commercial purposes.” 987 N.E.2d at 931, ¶ 25; 765 ILCS 1075/35(b)(2). We
+do not decide whether the posts alleged in this case were “news,” and we
+do not read Trannel to suggest that the publisher would have had a
+commercial purpose for using the photograph in the magazine if the story
+did not qualify as “news,” which it defined as a “report of a recent event:
+new information: fresh tidings.” 987 N.E.2d at 931, ¶ 25. The point is that
+the mere display of advertisements next to a person’s identity does not
+create a commercial purpose under IRPA.
+10                                                  No. 25-2231
+
+IRPA merely because advertisements unrelated to the story
+appear in the same publication. Likewise, Meta did not have
+a commercial purpose in terms of the IRPA merely because it
+displayed advertisements for products or services unrelated
+to the posts on the same page with them.
+    As to the STT defendants, nothing in the complaint sup-
+ports D’Ambrosio’s assertion in his brief that his “identity
+and the surrounding controversy were engineered into a
+spectacle that drove traﬃc, galvanized support, and served as
+the emotional and narrative hook for soliciting funds.” Pl. Br.
+at 5. As D’Ambrosio appears to concede, his image “was not
+literally displayed on these fundraising pages,” nor were the
+posts linked to or from them. Id. Rather, he points to the
+“overall marketing scheme,” drawing on Jordan v. Jewel Food
+Stores, Inc., 743 F.3d 509 (7th Cir. 2014).
+    In Jordan, a basketball star asserted several state and fed-
+eral law claims, including the IRPA, against a Chicago-area
+grocery chain that ran a full-page advertisement in Sports Il-
+lustrated Presents “congratulating” him for his induction into
+the Hall of Fame and prominently featuring the store’s logo.
+Id. at 512, 518. We rejected the store’s First Amendment de-
+fense as to all claims. Looking to the “content and context” of
+the advertisement, it had an “implicit but easily inferred,”
+“dominant,” “unmistakable commercial function” and was
+therefore commercial speech for First Amendment purposes,
+even though the advertisement did not itself propose a com-
+mercial transaction. Id. at 518, 520. Critically, we expressed no
+opinion on the merits of any of the claims, including under
+the IRPA. Id. at 522. Indeed, on remand the district court de-
+nied Jordan’s motion for summary judgment on the IRPA
+claim because “the Seventh Circuit twice made clear it was not
+No. 25-2231                                                                11
+
+saying” that speech qualifying as “commercial speech” for
+First Amendment purposes means the speaker has a “com-
+mercial purpose” under the IRPA. Jordan v. Jewel Food Stores,
+Inc., 83 F. Supp. 3d 761, 769–70 (N.D. Ill. 2015).
+    Jordan does not support the conclusion that the STT de-
+fendants’ solicitation of funds in a manner not directly con-
+nected to the posts about D’Ambrosio, merely a few of thou-
+sands concerning many other men, could amount to the “pub-
+lic use or holding out of” his identity “for the purpose of fund-
+raising.” 765 ILCS 1075/5. The case addressed a completely
+diﬀerent issue, and D’Ambrosio’s name and likeness do not
+have the marketing value remotely comparable to Michael
+Jordan’s. 4
+    B. Civil Liability for Doxing Act
+   The Doxing Act claim runs against Ms. Rajala and the STT
+Defendants, but not against Ms. Rajala’s parents or Meta. Illi-
+nois’ Civil Liability for Doxing Act took eﬀect in 2024, and this
+court has not addressed it before. The Act allows a plaintiﬀ to
+obtain damages, injunctive relief, and attorney fees for “dox-
+ing,” deﬁned as follows:
+        An individual engages in the act of doxing
+        when that individual intentionally publishes
+
+    4 Because D’Ambrosio has not sufficiently alleged any defendant had
+
+a “commercial purpose,” we do not address whether the posts fall into the
+IRPA exception for the “use of an individual’s identity in an attempt to
+portray, describe, or impersonate that individual in a live performance, a
+single and original work of fine art, play, book, article, musical work, film,
+radio, television, or other audio, visual, or audio-visual work, provided
+that the performance, work, play, book, article, or film does not constitute
+in and of itself a commercial advertisement for a product, merchandise,
+goods, or services.” 765 ILCS 1075/35(b)(1).
+12                                                  No. 25-2231
+
+       another person’s personally identiﬁable infor-
+       mation without the consent of the person whose
+       information is published and:
+       (1) the information is published with the intent
+       that it be used to harm or harass the person
+       whose information is published and with
+       knowledge or reckless disregard that the person
+       whose information is published would be rea-
+       sonably likely to suﬀer death, bodily injury, or
+       stalking; and
+       (2) the publishing of the information:
+          (i) causes the person whose information is
+          published to suﬀer signiﬁcant economic in-
+          jury or emotional distress or to fear serious
+          bodily injury or death of the person or a fam-
+          ily or household member of the person; or
+          (ii) causes the person whose information is
+          published to suﬀer a substantial life disrup-
+          tion; and
+       (3) the person whose information is published
+       is identiﬁable from the published personally
+       identiﬁable information itself.
+740 ILCS 195/10(a), 15(b), 20. We read a Doxing Act claim to
+have six elements: (1) intentional publication of personally
+identiﬁable information; (2) the published information iden-
+tiﬁes a person without reliance on extrinsic sources; (3) lack of
+consent to the publication; (4) intent to harm or harass;
+(5) knowledge or reckless disregard of a reasonable likelihood
+of death, bodily injury, or stalking to the person whose
+No. 25-2231                                                     13
+
+information is published; and (6) one or more of the listed
+harms results.
+    “Stalking” is deﬁned by reference to the Illinois Criminal
+Code (with an additional exception for protected protest ac-
+tivity not relevant here), which states:
+      (a) A person commits stalking when he or she
+      knowingly engages in a course of conduct di-
+      rected at a speciﬁc person, and he or she knows
+      or should know that this course of conduct
+      would cause a reasonable person to:
+            (1) fear for his or her safety or the safety of a
+            third person; or
+            (2) suﬀer other emotional distress.
+      ...
+      (c) Deﬁnitions. For purposes of this Section:
+            (1) ”Course of conduct” means 2 or more
+            acts, including but not limited to acts in
+            which a defendant directly, indirectly, or
+            through third parties, by any action,
+            method, device, or means follows, monitors,
+            observes, surveils, threatens, or communi-
+            cates to or about, a person, engages in other
+            non-consensual contact, or interferes with or
+            damages a person’s property or pet. A
+            course of conduct may include contact via
+            electronic communications.
+            ...
+            (3) “Emotional distress” means signiﬁcant
+            mental suﬀering, anxiety or alarm.
+14                                                   No. 25-2231
+
+740 ILCS 195/5; 720 ILCS 5/12-7.3(a) & (c). In two cases pre-
+ceding the enactment of the Doxing Act, the Illinois Supreme
+Court had struck “communicates to or about” from this stat-
+ute as facially overbroad under the First Amendment and in-
+terpreted “threatens” to cover only true threats of unlawful
+violence. People v. Relerford, 104 N.E.3d 341, 356, 2017 IL
+121094, ¶¶ 63, 65; People v. Ashley, 162 N.E.3d 200, 218, 2020 IL
+123989, ¶ 73, as modiﬁed on denial of reh’g.
+   The required state of mind for a Doxing Act violation is
+“knowledge or reckless disregard that the person whose in-
+formation is published would be reasonably likely to suﬀer
+death, bodily injury, or stalking,” where stalking requires two
+or more acts in which a person “directly, indirectly, or
+through third parties, by any action, method, device, or
+means follows, monitors, observes, surveils, [or makes a true
+threat of unlawful violence about] . . . a person, engages in
+other non-consensual contact, or interferes with or damages a
+person’s property or pet.” 740 ILCS 195/5, 10(a); 720 ILCS
+5/12-7.3(a), (c); Relerford, 104 N.E.3d at 356, ¶¶ 63, 65; Ashley,
+162 N.E.3d at 218, ¶ 73.
+    D’Ambrosio’s allegations do not meet that high standard.
+Because he has engaged in classic “shotgun pleading,” pars-
+ing what exactly he alleges as to each particular defendant’s
+state of mind is not easy. See SEC v. Winemaster, 529 F. Supp.
+3d 880, 906 (N.D. Ill. 2021) (deﬁning shotgun pleading). The
+complaint makes and reincorporates into each count several
+sweeping allegations about “Defendants” without qualiﬁca-
+tion, a category that includes not only Ms. Rajala and the STT
+defendants but also Ms. Rajala’s parents, Meta, and, at the
+time, all twenty-six Jane Does. Among the undiﬀerentiated al-
+legations as to the states of mind of all defendants are “actual
+No. 25-2231                                                15
+
+knowledge of intellectual property violations” and “encour-
+age[ment]” of both those violations and the publication of
+“men’s personally identiﬁable information and potentially
+defamatory statements,” as well as acting “for ﬁnancial gain.”
+    Speciﬁc to the Doxing Act claim, the most relevant allega-
+tion as to Ms. Rajala and the STT defendants is:
+      That the Defendants published said information
+      with knowledge and/or reckless disregard to
+      the fact that the publishing of defamatory state-
+      ments accusing someone of horriﬁc crimes such
+      as criminal sexual assault alongside personally
+      identiﬁable information to an online platform of
+      over 100,000 individuals would cause Plaintiﬀ
+      to be reasonably likely or otherwise have rea-
+      sonable fear that he is likely to suﬀer signiﬁcant
+      injury, including risk of death, bodily injury, or
+      stalking.
+D’Ambrosio alleges even further as to Ms. Rajala that she
+acted “with the intent of causing him reputational harm and
+putting him in reasonable fear of bodily harm to himself or
+his family at the hands of any of the 100,000 unidentiﬁed
+women involved in the unlawful conduct apparent in the ‘Are
+We Dating the Same Guy?’ communities.” (Emphasis added.)
+    D’Ambrosio makes no eﬀort to explain how someone
+could reasonably infer from Ms. Rajala’s alleged conduct that
+she intended to put him in reasonable fear of death, bodily
+injury, or stalking. Nor does he explain how posting her im-
+pressions of D’Ambrosio as a date and a screenshot of a vile
+text message he sent her to a Facebook group of women shar-
+ing stories about men they have dated accomplishes that
+16                                                No. 25-2231
+
+purpose. None of the posts attributed to Ms. Rajala contain a
+call to action, much less a call to action for the Group’s mem-
+bers or anyone else to harm D’Ambrosio or his family.
+    Nor does D’Ambrosio explain how we could reasonably
+infer that, even if Ms. Rajala lacked intent, she nonetheless
+knew of or recklessly disregarded a reasonable likelihood of
+death, bodily injury, or stalking. We emphasize, once again,
+that D’Ambrosio never alleged that he was actually stalked or
+subjected to bodily injury, nor that anyone attempted to do
+so. D’Ambrosio identiﬁed no past incidents of physical harm
+or stalking directed against men discussed in the Group. The
+Group’s rules prohibit sharing screenshots with other people,
+and its administrators warn users about the risks of confront-
+ing men they personally know whom they see posted on it.
+The allegation that Ms. Rajala made “100,000 unidentiﬁed
+women” become aware of his conduct does not, without
+more, support an inference that she recklessly disregarded a
+reasonable likelihood that one of those women would physi-
+cally harm D’Ambrosio or stalk him. Recall that the purpose
+of this online group was to help women identify men to avoid.
+    The same holds true for the STT defendants. To be clear,
+D’Ambrosio’s allegations reasonably support an inference
+that the STT defendants recklessly encourage users to post
+sensational content regardless of its potentially tortious na-
+ture and that they take measures to prevent the subjects of
+such posts from becoming aware of their existence and to as-
+sist users in avoiding legal responsibility when they cross the
+line. Notwithstanding eﬀorts to prevent information posted
+on the Group (and the others nationwide) from leaving the
+platform, nothing can really stop allegations of anything from
+rudeness to serious felonies from spreading elsewhere, as
+No. 25-2231                                                         17
+
+other courts that have addressed these groups have noted. See
+Doe v. Weston & Sampson Engineers, Inc., 743 F. Supp. 3d 751,
+758–61, 765 (D.S.C. 2024) (denying anonymity because plain-
+tiﬀ posted in an “Are We Dating the Same Guy” group under
+her own name about subject matter of the lawsuit); Acosta v.
+Vann, No. 614173/2023, 2024 WL 3035174, at *4–7 (N.Y. Sup.
+Ct. June 17, 2024) (granting defendant’s anti-SLAPP motion
+because her statements in an “Are We Dating the Same Guy”
+group took place in a “public forum” despite vetting of pro-
+spective users). We ﬁnd no allegations in this case, however,
+from which we could reasonably infer that the STT defend-
+ants knew of or recklessly disregarded a risk to D’Ambrosio
+of death, bodily injury, or stalking.
+   Having dispensed with the merits of this claim, we can
+now turn to some serious problems with D’Ambrosio’s open-
+ing brief. These are not the only problems, but we focus on the
+Doxing Act claim because that section seemed to have the
+highest density of them.
+    D’Ambrosio’s attorney Aaron Walner wrote in his opening
+brief that Section 10 of the Doxing Act deﬁnes the term “per-
+sonally identiﬁable information” to include: “Name, address,
+telephone number, email address, social security number, or
+any other information that can be used to identify a speciﬁc
+individual.” Pl. Br. at 14, 20. But the deﬁnition comes in Sec-
+tion 5, not Section 10, and despite the use of quotation marks,
+that’s somewhat close but not quite right.5
+
+
+   5 In the Doxing Act:
+
+       “Personally identifiable information” means any infor-
+       mation that can be used to distinguish or trace a person’s
+       identity, such as name, prior legal name, alias, mother’s
+18                                                           No. 25-2231
+
+    We see such sloppy work in briefs fairly often, and almost
+always let it pass without comment as we try to focus on the
+merits of appeals. But the next sentence in attorney Walner’s
+opening brief for D’Ambrosio said: “First, Illinois courts have
+consistently recognized that ‘any other information that can
+be used to identify a speciﬁc individual’ must be understood
+contextually.” Pl. Br. at 14. No citation followed that claim
+about what the Illinois courts have actually done. We were not
+surprised to ﬁnd no cases supporting the proposition. In fact,
+we found, as of the date of the opening brief, only one Illinois
+court decision indexed on Westlaw or Lexis even citing this
+statute. To the extent that decision is relevant at all, it seems
+to suggest the opposite of what D’Ambrosio asserted. See
+Younge v. Berman, 267 N.E.3d 346, 358–59, 2025 IL App (2d)
+240354, ¶ 35 (publishing photograph of government oﬃcial’s
+
+
+       maiden name, and date or place of birth in combination
+       with any other information that is linked or linkable to a
+       person such as:
+       (1) social security number, home address, phone num-
+       ber, email address, social media accounts, or biometric
+       data;
+       (2) medical, financial, education, consumer, or employ-
+       ment information, data, or records;
+       (3) any other sensitive or private information that is
+       linked or linkable to a specific identifiable person, such as
+       gender identity, sexual orientation, or any sexually inti-
+       mate visual depiction; or
+       (4) any information that provides access to a person’s tel-
+       econferencing, video-teleconferencing, or other digital
+       meeting room.
+740 ILCS 195/5.
+No. 25-2231                                                                19
+
+house did not violate Doxing Act since nothing in photograph
+directly suggested the identity of the owner). 6
+    The next paragraph was worse:
+        Moreover, screen names, location tags, and
+        group context provide the connective tissue that
+        transforms partial identiﬁers into actionable
+        disclosures. This view is supported by broader
+        federal data privacy standards, which recognize
+        [personally identiﬁable information] to include
+        “any unique identiﬁer that permits the physical
+        or online contacting of a speciﬁc individual.”
+        (FTC v. Accusearch Inc., 570 F.3d 1187 (10th Cir.
+        2009)).
+Pl. Br. at 14. The cited Accusearch case is real, but the quotation
+is not. Accusearch concerned the disclosure of “individually
+identiﬁable customer proprietary network information” as
+that term is used in the federal Telecommunications Act, 47
+U.S.C. § 222. 570 F.3d at 1192. The words “unique,” “identi-
+ﬁer,” and “contacting” do not appear in the opinion, nor does
+the phrase “speciﬁc individual.”
+   In the next paragraph, attorney Walner’s brief for D’Am-
+brosio misstated the standard for liability under the Doxing
+Act and once again misstated the relevant section as follows:
+
+
+
+
+    6 D’Ambrosio’s reply brief, also apparently written by Walner, admit-
+
+ted: “No reported appellate decision has yet construed the statute.” Pl.
+Reply Br. 4, 10. We say “apparently” because while Walner signed the cer-
+tificates of compliance and service, the brief itself is unsigned. See Fed. R.
+App. P. 32(d).
+20                                                   No. 25-2231
+
+       1. Publication of [personally identiﬁable infor-
+       mation];
+       2. With the intent to cause or reckless disregard
+       of the risk of causing: (a) stalking, harassment,
+       physical harm, or emotional distress.
+Pl. Br. at 14. Once again, that’s not the standard. See 740 ILCS
+195/10(a)(1). In the following paragraphs, the brief applied
+this inaccurate standard and concluded as follows:
+       This is precisely the type of “ampliﬁed exposure
+       and endangerment” that the Act was designed
+       to prevent. As the Illinois General Assembly ex-
+       plained in its legislative ﬁndings, the doxing
+       statute addresses the growing problem of
+       “cyber vigilantism” that results in victims being
+       targeted, harassed, and shamed in their real
+       lives.
+Pl. Br. at 15. The brief included no citation to any legislative
+ﬁndings, let alone any including the statute’s targets as the
+brief asserted. We could not ﬁnd any reference to the phrases
+“ampliﬁed exposure and endangerment” or “cyber vigilan-
+tism” within the Doxing Act. There also are no legislative
+ﬁndings included in the codiﬁcation of the Doxing Act, 740
+ILCS 195/1 et seq., the session law, 2023 Ill. Laws 8103–07, or
+any publicly available version of the bill.
+    These mistakes and ﬁctitious quotations bear the hall-
+marks of the misuse of generative artiﬁcial intelligence. See,
+e.g., Jones v. Kankakee County Sheriﬀ’s Dep’t, 164 F.4th 967, 969–
+70 (7th Cir. 2026) (summarizing potential and problems with
+use of generative artiﬁcial intelligence in brieﬁng). The web-
+site of Trent Law Firm, P.C., where D’Ambrosio’s attorneys
+No. 25-2231                                                    21
+
+both practice, boasts of the ﬁrm’s extensive incorporation of
+artiﬁcial intelligence into all areas of its representation. See
+How Marc Trent Uses AI to Deliver Cutting-Edge Legal Solutions,
+MarcTrent.ai (Dec. 3, 2025), https://perma.cc/6UHF-ABK2.
+Without making any broad judgments about the use of artiﬁ-
+cial intelligence for help in drafting briefs, however, regard-
+less of how these particular errors came about, “submission
+of a brief with numerous ﬁctitious citations and quotations is
+a serious dereliction of counsel’s duty to serve as an oﬃcer of
+the court. ‘Citing nonexistent case law or misrepresenting the
+holdings of a case is making a false statement to a court. It
+does not matter if [generative AI] told you so.’” Prososki v. Re-
+gan, 32 N.W.3d 593, 607, 321 Neb. 38, ___ (2026) (alteration in
+original), quoting Maura R. Grossman et al., Is Disclosure and
+Certiﬁcation of the Use of Generative AI Really Necessary, 107 Ju-
+dicature 68, 75 (2023), citing in turn Model Rule of Profes-
+sional Conduct 3.3 (ABA 1983).
+    Submitting ﬁctitious quotations to a court, regardless of
+how they are generated, is obviously inconsistent with the
+standards of conduct this court expects from attorneys prac-
+ticing in this court and the standards of appellate brieﬁng im-
+posed by Federal Rule of Appellate Procedure 28. See
+McCurry v. Kenco Logistics Services, LLC, 942 F.3d 783, 791 (7th
+Cir. 2019); see also Dec v. Mullin, 171 F.4th 940, 947–48 (7th
+Cir. 2026) (under circuit’s standards of professional conduct,
+attorneys promise they will “not knowingly misrepresent,
+mischaracterize, misquote, or miscite facts or authorities in
+any oral or written communication to the court”).
+22                                                            No. 25-2231
+
+IV. Common-Law Claims
+     A. Defamation
+    The defamation claims run against Ms. Rajala, the STT de-
+fendants, and Meta. D’Ambrosio’s opening brief focuses on
+the comment made by “Monica Tska,” which he claims cre-
+ated a “clear” (and false) implication that he is the sex of-
+fender discussed in the article. D’Ambrosio does not allege
+that Ms. Rajala made this statement or is the same person as
+“Monica Tska.” Rather, he seeks to hold the STT defendants
+and Meta liable as publishers or re-publishers. Illinois law,
+with some wrinkles, imposes liability on authors, publishers,
+and re-publishers of actionable defamatory statements. See
+Catalano v. Pechous, 419 N.E.2d 350, 361, 83 Ill. 2d 146, 168
+(1980) (republisher liability); Kolegas v. Heftel Broadcasting
+Corp., 607 N.E.2d 201, 204, 154 Ill. 2d 1, 5–6 (1992) (defamation
+suit against radio hosts and broadcasting company); Bryson v.
+News America Publications, Inc., 672 N.E.2d 1207, 1212, 174 Ill.
+2d 77, 83 (1996) (defamation suit against writer and publisher
+of magazine article). 7
+    Under Illinois law, “words that impute the commission of
+a criminal oﬀense” are “considered actionable per se and give
+rise to a cause of action for defamation without a showing of
+special damages.” Bryson, 672 N.E.2d at 1214, 174 Ill. 2d at 88.
+However, Illinois applies the innocent construction rule, un-
+der which a statement “will not be actionable per se if it is rea-
+sonably capable of an innocent construction.” Tuite v. Corbitt,
+
+
+     7 We do not address Section 230 of the Communications Decency Act,
+
+47 U.S.C. § 230, an affirmative defense raised in the alternative by both the
+STT defendants and Meta. See G.G. v. Salesforce.com, Inc., 76 F.4th 544, 565–
+67 (7th Cir. 2023); Huon v. Denton, 841 F.3d 733, 741–42 (7th Cir. 2016).
+No. 25-2231                                                    23
+
+866 N.E.2d 114, 121, 224 Ill. 2d 490, 502 (2006). The question is
+whether, “in context, giving the words, and their implica-
+tions, their natural and obvious meaning,” the statement
+“may reasonably be innocently interpreted or reasonably be
+interpreted as referring to someone other than the plaintiﬀ.”
+Bryson, 672 N.E.2d at 1215, 174 Ill. 2d at 90, quoting Chapski v.
+Copley Press, 442 N.E.2d 195, 199, 92 Ill. 2d 344, 352 (1982). The
+innocent construction rule does not apply to an action for def-
+amation per quod, which under Illinois law requires a plaintiﬀ
+to plead and later to prove special damages. Tuite, 866 N.E.2d
+at 121, 123, 224 Ill. 2d at 501, 504.
+    On defamation per se, we agree with the district court that
+the comment made by “Monica Tska” is reasonably suscepti-
+ble to an innocent construction, namely that it refers to some-
+one else entirely, one Anthony LaMonica, and does not equate
+LaMonica and D’Ambrosio as the same person. Even if a user
+did not click the link to read the story, the string of characters
+“anthony-lamonica” is clearly visible in the comment itself.
+By contrast, D’Ambrosio was identiﬁed in the thread as
+“Nikko.” Furthermore, appearing immediately below the link
+is a teaser of the article which shows a mugshot of a man who
+does not resemble D’Ambrosio. (Recall that his likeness was
+shared by other users who responded to the post.) In sum, the
+names and faces of the two men do not match, “Monica Tska”
+did not say they are the same person, and there is no indica-
+tion in the complaint or exhibits that any other user re-
+sponded to her comment in any way, much less to suggest
+such an identiﬁcation. D’Ambrosio’s last argument is that the
+comment must be read to imply he is LaMonica because it was
+posted in response to a call for information about himself. See
+Tuite, 866 N.E.2d at 127, 224 Ill. 2d at 512 (noting in innocent
+construction case that “the context of a statement is critical in
+24                                                 No. 25-2231
+
+determining its meaning”). But the innocent construction is
+reasonable, so the defamation per se claim based on this com-
+ment must fail.
+    As for defamation per quod, Illinois law requires pleading
+special damages, so in federal court such damages sought
+must be “speciﬁcally stated.” Fed. R. Civ. P. 9(g); Muzikowski
+v. Paramount Pictures Corp., 322 F.3d 918, 927 (7th Cir. 2003).
+D’Ambrosio did not “itemize his losses or plead speciﬁc dam-
+ages of actual ﬁnancial injury.” Muzikowski, 322 F.3d at 927.
+Instead, he alleged in support of his defamation per quod claim
+only generally and without elaboration, “emotional distress,
+emotional loss, loss of professional opportunities, and dam-
+age to his reputation and relationships.” The damages alleged
+as to his other claims and incorporated by reference in this
+claim were similarly vague, and equally unsupported by fac-
+tual allegations. Nowhere did D’Ambrosio “identify a con-
+crete loss,” for example, speciﬁc professional opportunities
+denied to him because of the statements. See Pippen v. NBCU-
+niversal Media, LLC, 734 F.3d 610, 614 (7th Cir. 2013); see also
+Action Repair, Inc. v. American Broadcasting Cos., 776 F.2d 143,
+150 (7th Cir. 1985) (“Although an estimation of ﬁnal total dol-
+lar amounts lost is unnecessary, the pleadings must demon-
+strate some actual pecuniary loss.”) (citation omitted). That
+omission dooms any defamation per quod claim.
+    Questioned at oral argument about the basis of any defa-
+mation claim against Ms. Rajala, D’Ambrosio’s other attor-
+ney, Marc Trent, for the ﬁrst time disputed the authenticity of
+the text message Ms. Rajala attributed to him and asserted it
+was “plausible” that she made it up. That message, recall,
+calls her an “ugly vial [sic] fake whore,” a “b****,” and a
+“c***.” Despite having every incentive and multiple
+No. 25-2231                                                                25
+
+opportunities to do so, D’Ambrosio never disputed the au-
+thenticity of the text or its attribution to him before the district
+court, nor in his opening or reply briefs on appeal. At oral ar-
+gument, attorney Trent could identify no evidentiary basis for
+disputing his client sent the message. “Arguments raised for
+the ﬁrst time at oral argument are forfeited.” Marvin v. Hol-
+comb, 72 F.4th 828, 833 n.6 (7th Cir. 2023). Every other state-
+ment attributed to Ms. Rajala is an opinion protected by Illi-
+nois defamation law and the First Amendment. See Law Of-
+ﬁces of David Freydin, P.C. v. Chamara, 24 F.4th 1122, 1129 (7th
+Cir. 2022). And regardless, D’Ambrosio has never alleged or
+argued that anything else she said is false. The defamation
+claim fails. 8
+    B. False Light & Civil Conspiracy
+    The false light and civil conspiracy claims also run against
+Ms. Rajala, the STT defendants, and Meta. Illinois recognizes
+the common law tort of false light invasion of privacy. Lovgren
+v. Citizens First National Bank of Princeton, 534 N.E.2d 987, 989,
+126 Ill. 2d 411, 418 (1989). Decisions by Illinois courts and this
+court consistently conclude that the innocent construction
+rule in Illinois law applies to a false light claim unless the
+plaintiﬀ has met the requirement for pleading special dam-
+ages. See Muzikowski, 322 F.3d at 927 (“The ‘of and
+
+
+    8 Falsely attributing a text message of that nature does not fall into any
+
+of the categories of defamation per se recognized by Illinois law, but we
+assume it could give rise to a plausible claim for defamation per quod. It’s
+not hard to understand that being identified as the author of such a text
+“is a statement that harms a person’s reputation to the extent it lowers the
+person in the eyes of the community or deters the community from asso-
+ciating with her or him.” Green v. Rogers, 917 N.E.2d 450, 459, 234 Ill. 2d
+478, 491–92 (2009).
+26                                                   No. 25-2231
+
+concerning’ requirement is basically the same as the innocent
+construction rule. If the statements can reasonably be con-
+strued as referring to somebody other than Muzikowski, then
+they are not ‘of and concerning him,’ and cannot state a false
+light claim.”) (citation omitted), citing Harte v. Chicago Council
+of Lawyers, 581 N.E.2d 275, 280, 220 Ill. App. 3d 255, 263 (1991);
+see also Benton v. Little League Baseball, Inc., 181 N.E.3d 902,
+934, 2020 IL App (1st) 190549, ¶¶ 87–88; Schaﬀer v. Zekman, 554
+N.E.2d 988, 993 & n.2, 196 Ill. App. 3d 727, 734 & n.2 (1990);
+Gracia v. SigmaTron International, Inc., 244 F. Supp. 3d 762, 771
+(N.D. Ill. 2017) (dismissing false light claim because defama-
+tion claim failed due to reasonable construction), aﬀ’d, 986
+F.3d 1058, 1066 (7th Cir. 2021) (“The district court . . . rightly
+saw SigmaTron’s SEC disclosures as subject to an innocent
+construction.”). The failure of D’Ambrosio’s defamation per se
+claim on innocent construction grounds dooms his false light
+claim.
+     A civil conspiracy claim is not an independent tort under
+Illinois law, so when “a plaintiﬀ fails to state an independent
+cause of action underlying its conspiracy allegations, the
+claim for a conspiracy also fails.” Chamara, 24 F.4th at 1133,
+quoting Indeck North American Power Fund, L.P. v. Norweb PLC,
+735 N.E.2d 649, 662, 316 Ill. App. 3d 416, 432 (2000). D’Ambro-
+sio pleaded only the false light claim in support of the civil
+conspiracy claim, so the claims fall together.
+     C. Negligence & Products Liability
+    The claims for negligence, negligent entrustment, and
+strict products liability run against Meta alone. In its motion
+to dismiss, Meta argued that D’Ambrosio failed to state a
+claim on which relief could be granted because his own
+allegations (or lack thereof) foreclosed, as a matter of law, an
+No. 25-2231                                                    27
+
+essential element of each claim. D’Ambrosio did not respond
+at all as to products liability. His response on the two
+negligence-based claims consisted of only one paragraph that
+made sweeping assertions that did not actually address the
+elements of the claims Meta argued his own allegations
+foreclosed and did not support his assertions with citations to
+any authorities whatsoever. The district court held that
+D’Ambrosio waived these claims by failing to respond
+meaningfully to Meta’s arguments. In the alternative, the
+court also ruled for Meta on the merits of each claim.
+    D’Ambrosio addressed the merits of these claims in his
+opening brief—appropriate given the district court’s alterna-
+tive holdings—but he did not address the district court’s ﬁrst
+basis for dismissing each claim, its conclusion that he waived
+them. Whether or not we agree precisely with the district
+court’s waiver analysis, on appeal the appellant bears the bur-
+den of advancing reasons for reversal. See Rahn v. Board of
+Trustees of Northern Illinois University, 803 F.3d 285, 291 (7th
+Cir. 2015); see also Dotson v. Faulkner, 138 F.4th 1029, 1031 (7th
+Cir. 2025) (“[W]hen the district court decides a case on a par-
+ticular ground, that subject must be addressed in the appel-
+lant’s opening brief, if appellant wants it reviewed.”). We
+could not reverse dismissal of these claims without rejecting
+the district court’s conclusion that they were waived, and
+D’Ambrosio missed his chance to argue why we should do so.
+We therefore aﬃrm without addressing the merits of these
+claims.
+V. Sanctions
+    This is a relatively rare appeal in which sanctions appear
+to be appropriate. This court may, in its discretion and upon
+notice and a reasonable opportunity to respond, impose
+28                                                  No. 25-2231
+
+sanctions for a frivolous appeal by awarding just damages
+and single or double costs to the appellee, which may include
+an award of an appellee’s attorney fees “limited to work de-
+fending the appeal.” Fed. R. App. P. 38; Quincy Bioscience, LLC
+v. Ellishbooks, 967 F.3d 613, 616 (7th Cir. 2020).
+    “An appeal is frivolous if the appellant’s claims are cur-
+sory, totally undeveloped, or reassert a previously rejected
+version of the facts. An appeal is also frivolous if it presents
+arguments that are so insubstantial that they are guaranteed
+to lose.” McCurry, 942 F.3d at 791 (citation omitted); see also
+Mars Steel Corp. v. Continental Bank N.A., 880 F.2d 928, 938 (7th
+Cir. 1989) (en banc) (“An appeal is ‘frivolous’ when the result
+is foreordained by the lack of substance to the appellant’s ar-
+guments.”). Sanctions may be imposed “for the part of an ap-
+peal that is frivolous even if the presence of a colorable
+ground prevents the entire appeal from being adjudged friv-
+olous.” Hill v. Norfolk & Western Railway Co., 814 F.2d 1192,
+1200 (7th Cir. 1987), as amended. Both the party and his attor-
+ney may be sanctioned under Rule 38, and they may be held
+jointly and severally liable. See Upchurch v. O’Brien, 111 F.4th
+805, 814 (7th Cir. 2024).
+    Separate from Rule 38, when “a judgment is aﬃrmed by
+the Supreme Court or a court of appeals, the court in its dis-
+cretion may adjudge to the prevailing party just damages for
+his delay, and single or double costs.” 28 U.S.C. § 1912; see
+also § 1927 (“Any attorney or other person admitted to con-
+duct cases in any court of the United States or any Territory
+thereof who so multiplies the proceedings in any case unrea-
+sonably and vexatiously may be required by the court to sat-
+isfy personally the excess costs, expenses, and attorneys’ fees
+reasonably incurred because of such conduct.”).
+No. 25-2231                                                   29
+
+  The federal rules allow this court to discipline an attorney
+who comes before it:
+       A court of appeals may discipline an attorney
+       who practices before it for conduct unbecoming
+       a member of the bar or for failure to comply
+       with any court rule. First, however, the court
+       must aﬀord the attorney reasonable notice, an
+       opportunity to show cause to the contrary, and,
+       if requested, a hearing.
+Fed. R. App. P. 46(c). Such discipline may include a monetary
+ﬁne. See Camacho-Valdez v. Garland, 30 F.4th 675, 680 (7th Cir.
+2022). Federal courts also possess the inherent authority to
+sanction bad faith conduct, even conduct that also may be
+sanctioned under a statute or the federal rules. Chambers v.
+NASCO, Inc., 501 U.S. 32, 49–50 (1991).
+   This appeal was entirely frivolous at least as to each of the
+Rajalas. Outside of the statement of the case, the Rajalas were
+mentioned only once in D’Ambrosio’s opening brief. Even
+that was only a passing reference in a paragraph arguing why
+the IRPA claim against Meta should go forward. Pl. Br. at 6.
+For the IRPA claim, despite sections addressing the supposed
+“commercial purposes” of the STT defendants and Meta,
+D’Ambrosio conspicuously did not address the Rajalas, even
+though the district court concluded that his allegations as to
+them were insuﬃcient. IRPA was the only claim on appeal
+against Ms. Rajala’s parents.
+   For the Doxing Act claim against Ms. Rajala, D’Ambrosio’s
+arguments can plausibly be read to apply to her. Yet, as dis-
+cussed above, that section of his brief is replete with ﬁctitious
+30                                                    No. 25-2231
+
+quotations and misstatements of law, matter that cannot form
+the basis of a non-frivolous appeal. See id. at 13–16.
+    Finally, D’Ambrosio’s attorney Trent asserted that the ba-
+sis for the defamation and false light claims (and therefore
+also the civil conspiracy claim) against Ms. Rajala were her
+posts and her attribution of the text message to D’Ambrosio.
+But D’Ambrosio’s opening brief focused on the comment
+made by “Monica Tska,” not any of Ms. Rajala’s own posts,
+and in no way addressed the district court’s conclusion that
+everything she allegedly said was either a fact not in dispute
+or an opinion. Moreover, D’Ambrosio had not alleged or even
+suggested he did not send the vile text until oral argument in
+this appeal, meaning any potential claim based on that state-
+ment was doomed as well.
+    In short, D’Ambrosio and his attorneys failed to advance
+any conceivable reason for this court to reverse the dismissal
+of any of his claims against any of the Rajalas. D’Ambrosio
+and his attorneys, Walner and Trent, are ORDERED to show
+cause why this court should not impose the following sanc-
+tions:
+     •   Against D’Ambrosio and attorneys Walner and
+         Trent, jointly and severally, attorney fees the Ra-
+         jalas incurred defending this appeal and double
+         costs, payable to the Rajalas, for frivolously ap-
+         pealing the dismissal of the claims against them.
+         Fed. R. App. P. 38; 28 U.S.C. §§ 1912, 1927.
+     •   Against attorney Walner, a ﬁne payable to the
+         clerk of court for misrepresentations of law in
+         the section of the opening brief concerning the
+         Doxing Act claim. Fed. R. App. P. 46(c).
+No. 25-2231                                                   31
+
+   •   Against attorney Trent, a ﬁne payable to Ms. Ra-
+       jala for disputing at oral argument without any
+       evidentiary basis that his client sent the text
+       message she attributed to him. Fed. R. App. P.
+       46(c); Chambers, 501 U.S. at 49–50.
+    We will use the following procedure. No later than Mon-
+day, June 1, 2026, the Rajalas (Abbigail, Rodney, and Carol)
+may submit a statement of their costs and attorney fees in-
+curred in this appeal. No later than Tuesday, June 16, 2026,
+D’Ambrosio and attorneys Walner and Trent may ﬁle state-
+ments as to whether and to what extent the court should im-
+pose the sanctions proposed above, and they may make any
+objections they might have to fees and costs claimed by the
+Rajalas. The attorneys may also request an evidentiary hear-
+ing as to individual attorney sanctions. The Rajalas may then
+ﬁle a reply no later than ﬁfteen days after D’Ambrosio and his
+attorneys respond.
+VI. Conclusion
+    For the foregoing reasons, the judgment of the district
+court is AFFIRMED. D’Ambrosio, Walner, and Trent are
+ORDERED to show cause regarding possible sanctions as set
+forth above. Single costs are awarded to Meta and the STT de-
+fendants. Fed. R. App. P. 39(a)(2). Costs as to the Rajalas shall
+be addressed in a subsequent order after they and plaintiﬀ
+have submitted their post-opinion statements. The clerk of
+court shall forward a copy of this opinion to the Attorney Reg-
+istration and Disciplinary Commission of the Illinois Supreme
+Court for any action it deems appropriate. To be clear, how-
+ever, regardless of how the Illinois authorities assess and re-
+spond to circumstances like these, this court expects members
+of our bar to exercise diligence to ensure the accuracy of all
+32                                                No. 25-2231
+
+factual and legal representations in briefs and other ﬁlings.
+Briefs and other court submissions that include ﬁctitious quo-
+tations—inaccuracies discoverable with elementary profes-
+sional care—are unacceptable and unbecoming members of
+our bar.
+

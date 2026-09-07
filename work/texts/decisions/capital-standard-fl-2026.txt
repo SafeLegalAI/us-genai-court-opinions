@@ -1,0 +1,529 @@
+             DISTRICT COURT OF APPEAL OF FLORIDA
+                       SECOND DISTRICT
+
+
+        CAPITAL STANDARD, LLC; VLADIMIR O. TCHENTSOV,
+              as trustee of the TF15529 Land Trust; and
+        ANNA TCHENTSOV, as guardian for Oleg V. Tchentsov,
+            as beneficiary under the TF15529 Land Trust,
+
+                              Appellants,
+
+                                   v.
+
+          U.S. BANK NATIONAL ASSOCIATION, as trustee for
+            BEAR STEARNS ASSET BACKED SECURITIES I
+          TRUST 2005-AC9, ASSET-BACKED CERTIFICATES,
+                        SERIES 2005-AC9,
+
+                               Appellee.
+
+                           No. 2D2024-1392
+
+
+
+                            August 21, 2026
+
+Appeal from the Circuit Court for Pinellas County; Michael F. Andrews,
+Judge.
+
+Kenneth H. Keefe of The Keefe Law Firm, P.A., South Pasadena, for
+Appellants.
+
+Kathleen D. Dackiewicz, Sara F. Holladay, and Emily Y. Rottmann of
+McGuireWoods LLP, Jacksonville, for Appellee.
+
+
+ROTHSTEIN-YOUAKIM, Judge.
+     Capital Standard, LLC, Vladimir Tchentsov, as trustee of the
+TF15529 Land Trust, and Anna Tchentsov, as guardian of Oleg V.
+Tchentsov, beneficiary under the TF15529 Land Trust (collectively,
+Capital Standard), appeal a final declaratory judgment entered in favor of
+U.S. Bank National Association. We conclude that Capital Standard's
+arguments lack merit, and we affirm the judgment in all respects without
+further comment. We write, however, to sanction Capital Standard's
+counsel, Kenneth Keefe, for his rampant use of hallucinated citations to
+legal authority in his amended initial brief and subsequent reply brief
+and to explain the rationale for the sanctions that we impose. 1
+      It's been three years since the release of the widely publicized
+decision in Mata v. Avianca, Inc., 678 F. Supp. 3d 443 (S.D.N.Y. 2023), in
+which a federal district court sanctioned several attorneys and a law firm
+under rule 11 of the Federal Rules of Civil Procedure for, among other
+things, citing fake cases created by generative artificial intelligence (AI) in
+legal memoranda and then responding evasively when confronted with
+the issue. Since then, and as we have previously noted, see Clerk of Ct.
+& Comptroller for 13th Jud. Cir., Hillsborough Cnty. v. Rangel, 427 So. 3d
+1069, 1071 (Fla. 2d DCA 2025), the danger of using generative AI tools in
+
+
+      1 "Two types of mistakes, or 'hallucinations,' are most relevant:
+
+fabrications and inaccuracies." Malkeet Lnu v. Blanche, 177 F.4th 1014,
+1024 (9th Cir. 2026) (citing Magesh et al., Hallucination-Free? Assessing
+the Reliability of Leading AI Legal Research Tools, 22 J. Empirical Legal
+Stud. 216, 221 (2025)). "Fabrications are instances in which the
+generative AI tool provides cases or quotations that do not exist at all."
+Id. (citing 22 Empirical Legal Stud. at 221, 230). "Inaccuracies are more
+subtle. . . . The generative AI tool might cite to real authorities but
+provide an answer that is legally or factually inaccurate or not supported
+by the citation." Id. at 1024–25 (citing 22 Empirical Legal Stud. at 221–
+22). "Fabrications are the most notorious hallucinations, but
+inaccuracies may prove more dangerous to our profession in the long
+run. Inaccuracies are more likely to go unnoticed by attorneys and
+judges because they are not always susceptible to facial checks." Id. at
+1025.
+
+                                       2
+legal writing without reality-checking the results has been well
+documented in numerous opinions in state and federal courts across the
+United States, in legal publications, and in the national media. 2 It's been
+the ubiquitous subject of CLE courses and roundtable discussions of
+attorneys and the judiciary. What's more, it's been the focus of a
+mushrooming number of decisions from multiple Florida district courts
+of appeal.3 In short, at this point in time, it defies belief for a practicing
+
+
+
+      2 Damien Charlotin, a French attorney and lecturer in "legal data
+
+analysis," has developed a database referenced by multiple courts that
+tracks court orders related to AI-hallucinations. AI Hallucination Cases,
+Damien Charlotin, https://www.damiencharlotin.com/hallucinations
+(last visited Aug. 7, 2026). As of this opinion, Charlotin has identified
+497 cases in the United States involving attorneys' reliance on AI
+hallucinations. Id.
+      3 See, e.g., Avery v. Beauzil, 51 Fla. L. Weekly D1068 (Fla. 4th DCA
+
+May 27, 2026) (barring a pro se litigant from future filings due in part to
+AI hallucinations in filings); Gleason v. Marcus, 432 So. 3d 1265, 1265–
+66 (Fla. 2d DCA 2026) (cautioning on the dangers of using generative AI
+without confirming the results); Rodriguez v. Rodriguez, 51 Fla. L. Weekly
+D771 (Fla. 6th DCA Apr. 10, 2026) (ordering attorney to show cause why
+she should not be sanctioned for filing a petition for a writ of certiorari
+containing AI hallucinations); Gouveia v. Meridian Fin. Invs., LLC, 432 So.
+3d 49, 50–51 (Fla. 4th DCA 2026) (warning a pro se party against using
+generative AI without verifying the results in any future filings); Hessert
+v. Hessert, 431 So. 3d 610, 615 (Fla. 6th DCA 2026) (ordering a party to
+show cause why she should not be sanctioned for AI hallucinations in
+her petition for a writ of certiorari); Russell v. Mells, 426 So. 3d 913, 920
+(Fla. 2d DCA 2025) (referring attorney to The Florida Bar for AI
+hallucinations); Takefman v. Pickleball Club, LLC, 418 So. 3d 826, 826–
+27 (Fla. 3d DCA 2025) (warning about the use of generative AI without
+verifying the results); Goya v. Hayashida, 418 So. 3d 652, 656 (Fla. 4th
+DCA 2025) (warning a pro se party who had filed a "counterfeit brief"
+based on AI hallucinations); Rangel, 427 So. 3d at 1071–72 (referring
+attorney to The Florida Bar for AI hallucinations); Gutierrez v. Gutierrez,
+399 So. 3d 1185, 1188 (Fla. 3d DCA 2024) (imposing sanctions on a pro
+se litigant for submitting a brief that included "fictitious case law").
+
+                                       3
+attorney to plead ignorance of the risks of relying on generative AI
+without double-checking the results. See Fletcher v. Experian Info. Sols.,
+Inc., 168 F.4th 231, 235 (5th Cir. 2026) ("If it were ever an excuse to
+plead ignorance of the risks of using generative AI to draft a brief without
+verifying its output, it is certainly no longer so."); see also United States
+v. McGee, 806 F. Supp. 3d 1264, 1275 (S.D. Ala. 2025) ("Given the broad
+attention . . . to the problem with AI generated cases and authorities, no
+attorney can claim ignorance or simply bury their head in the sand when
+it comes to their own use of AI (regardless of what program they use).").
+      And yet here we are. Attorney Keefe used a generative AI tool from
+the beginning of this appeal without any apparent guardrails. Capital
+Standard's original initial brief was replete with nonexistent quotations
+and purported statements of law with wholly inaccurate cites. Soon after
+filing that initial brief, Capital Standard moved to file an amended initial
+brief because, Attorney Keefe claimed, he had identified "critical issues
+that require clarification and elaboration." Apparently, however,
+ensuring the accuracy of his purported authorities was not among those
+"critical issues" because Capital Standard's subsequent amended initial
+brief included at least thirty-one instances of Attorney Keefe's citing or
+quoting existing cases for propositions they do not contain. That
+amended initial brief contained numerous whoppers, including, to give
+just a few:
+      • Repeatedly citing Maciejewski v. Holland, 441 So. 2d 703
+        (Fla. 2d DCA 1983), a two-page opinion explaining why the
+        complaint there stated a cause of action for declaratory
+        relief, for unrelated propositions such as that "[u]nder
+        Florida law, a party's actions that affirm the validity of a
+        transaction preclude subsequent challenges to that
+
+     Only the 2026 cases referenced above postdate our January 8,
+2026, order to show cause to Attorney Keefe.
+
+                                       4
+        transaction" and that "[r]atification occurs when a party,
+        through its actions or inactions, affirms a transaction or
+        fails to repudiate it within a reasonable time."
+     • Serving up nonexistent quotes—complete with purported
+       pincites—such as, "[fundamental error] goes to the
+       foundation of the case or the merits of the cause of action
+       and is equivalent to a denial of due process," citing Hart
+       Properties, Inc. v. Slack, 159 So. 2d 236, 239 (Fla. 1963).
+     • Passing off Miami Country Day School v. Bakst, 641 So. 2d
+       467 (Fla. 3d DCA 1994), a case discussing the statutory
+       mechanics of whether a houseboat qualified for a
+       homestead exemption, as authority for a panoply of
+       propositions, including that "Florida law provides strong
+       protections to individuals who acquire property in good
+       faith, for valuable consideration, and without notice of
+       competing claims" and that "a party's delay or misleading
+       conduct bars recovery where another party suffers
+       detriment as a result."
+     • Relying on Gonzalez v. Deutsche Bank National Trust Co.,
+       95 So. 3d 251 (Fla. 2d DCA 2012), a case pertaining to the
+       adequacy of an undated assignment to confer standing, as
+       an all-purpose authority on a multitude of other subjects,
+       including that "substantive evidence, not speculation, is
+       needed to rebut possession-based presumptions" and that
+       "good faith reliance on recorded documents is sufficient to
+       establish bona fide purchaser status."
+     In its answer brief, U.S. Bank pointed out that Gonzalez says
+nothing whatsoever about a noteholder's rights and that Maciejewski
+does not even mention the word "ratification" (let alone the concept). The
+clear message behind its remarkably tempered response, however, went
+unheeded, if not completely unheard: Capital Standard's reply brief
+added another fifteen AI hallucinations, including the fake case Board of
+Regents v. Wilson, 365 So. 2d 213 (Fla. 1st DCA 1979); citations to
+several of the offending cases from the amended initial brief for
+additional propositions that are nowhere to be found in them; and, for
+good measure, citations to several new cases with that same problem.
+
+                                     5
+      Upon the ostensible completion of briefing, we began our review of
+the record and the operative briefs and very quickly determined that
+there was almost nothing trustworthy about Capital Standard's legal
+representations on appeal. On January 8, 2026, we issued a detailed
+show-cause order to Attorney Keefe, meticulously documenting the forty-
+six hallucinations we sample above (thirty-one in the amended initial
+brief and fifteen in the reply). We gave Attorney Keefe until 5:00 p.m. on
+January 12 to file with the court copies of every case that he had cited
+and required that "for every case, [A]ttorney Keefe, with highlighting and
+annotation, shall clearly identify the exact place in that case that
+corresponds to the indicated proposition(s) for which he has cited it in
+either the amended initial brief or the reply brief." We also instructed, "If
+the cited case does not exist, or if [A]ttorney Keefe cited an existing case
+for a proposition for which it does not stand, [A]ttorney Keefe shall
+explain how he permitted that to happen in a separate and complete
+written submission." And we warned him that failure to comply could
+result in "dismissal of this appeal, an award of attorney fees, referral to
+The Florida Bar, and any other sanctions permitted by Florida Rule of
+Appellate Procedure 9.410(a) or law."
+      Despite our warning, Attorney Keefe ignored us. Indeed, more than
+a month passed with no response. By that point, we were concerned not
+only that Attorney Keefe had disregarded an unequivocal court order but
+that his clients might be wholly unaware of what was transpiring. We
+therefore entered another order on February 20, 2026, striking Capital
+Standard's amended initial brief and reply and permitting the filing of a
+new initial brief. We explained that if Capital Standard would no longer
+be using Attorney Keefe's services, it would need to appear through new
+counsel because it was a corporation. We directed Attorney Keefe to
+
+
+                                      6
+provide his clients with a copy of the order; in addition, our Clerk sent a
+copy to his clients' last known addresses. We closed that order by noting
+that "[s]anctions against Attorney Keefe will be imposed by separate
+order."
+      Attorney Keefe finally surfaced on February 23. In a short,
+unsworn filing, he contended that he had not seen our January 8 order
+when it issued, suggesting that he had been busy preparing for a trip to
+Japan but also stating, "I do not have a specific explanation as to how
+this [January 8] Order was missed." He made no effort at that point to
+comply with the January 8 order other than to claim generally that he
+had not known that generative AI could produce bogus results:
+      In preparing portions of those filings, I utilized artificial
+      intelligence as a supplemental research tool. I did not fully
+      appreciate that such tools can generate inaccurate or
+      nonexistent citations unless each authority is independently
+      verified through reliable legal research sources.
+He stated that he would set up unspecified processes to ensure that this
+problem would not happen again. And although he said that he
+"accept[ed] full responsibility for [the] citation errors," he never
+apologized for wasting both the court's and U.S. Bank's time and
+resources.4
+      Because the bulk of Attorney Keefe's legal argument in the
+offending filings is based on hallucinated authority, it is obvious to us
+that generative AI was not merely Attorney Keefe's "supplemental
+research tool," as he claims, but his primary or only one.
+
+
+      4 After our court's February 20 order, Capital Standard, through
+
+Attorney Keefe, did eventually file a second amended initial brief and
+reply brief with verified citations. Our disposition on the merits is based
+on those corrected briefs and not on the amended initial brief and reply
+brief discussed herein.
+
+                                       7
+                                 Discussion
+      Florida Rule of Appellate Procedure 9.410(a) provides:
+      After 10 days' notice, on its own motion, the court may
+      impose sanctions for any violation of these rules, or for the
+      filing of any proceeding, motion, brief, or other document that
+      is frivolous or in bad faith. Such sanctions may include
+      reprimand, contempt, striking of briefs or pleadings,
+      dismissal of proceedings, costs, attorneys' fees, or other
+      sanctions.
+      There is no doubt here that Attorney Keefe violated our rules.
+Florida Rule of Appellate Procedure 9.045(d), specifies, "All documents
+filed with the court must be signed as required by Florida Rule of
+General Practice and Judicial Administration 2.515." After Attorney
+Keefe's offending filings, the Florida Supreme Court amended Florida
+Rule of General Practice and Judicial Administration 2.515(d) to specify
+that the signer of a court filing represents that "the legal authorities
+identified exist and are accurately cited." That amendment also provides:
+      The Court may, on its own motion or the motion of a party,
+      impose sanctions for any filing inconsistent with this
+      representation after providing the signer notice and an
+      opportunity to be heard. . . . includ[ing] reprimand, contempt,
+      striking of the document, dismissal of proceedings, costs,
+      attorneys' fees, or other sanctions.
+Fla. R. Gen. Prac. & Jud. Admin. 2.515(d) (eff. June 15, 2026).
+      These recent changes, however, have simply made more explicit
+what was already required by rule 2.515(d)(2) at the time Attorney Keefe
+signed the amended initial brief and reply brief. Pursuant to that rule,
+Attorney Keefe certified that he had "read the document[s]" and that to
+the best of his "knowledge, information, and belief, there are good
+grounds to support the document[s]." See Fla. R. Gen. Prac. & Jud.
+Admin. 2.515(d)(2). But that certification is patently false when an
+argument in the brief is based on AI hallucinations. See Hessert v.
+
+
+                                      8
+Hessert, 431 So. 3d 610, 613 (Fla. 6th DCA 2026) (citing rule 2.515(d)(2)
+and noting that "Florida's appellate courts, like other courts, require pro
+se litigants and attorneys to sign their filings and thereby represent the
+accuracy thereof"); see also Russell v. Mells, 426 So. 3d 913, 920 (Fla. 2d
+DCA 2025) (holding that signing a brief with AI hallucinations violates
+rule 2.515(d) and other ethical requirements); cf., e.g., Park v. Kim, 91
+F.4th 610, 615 (2d Cir. 2024) ("At the very least, the duties imposed by
+[Federal Rule of Civil Procedure 11] require that attorneys read, and
+thereby confirm the existence and validity of, the legal authorities on
+which they rely."); Noland v. Land of the Free, L.P., 336 Cal. Rptr. 3d 897,
+912 (Cal. Ct. App. 2025) ("To state the obvious, it is a fundamental duty
+of attorneys to read the legal authorities they cite in appellate briefs or
+any other court filings to determine that the authorities stand for the
+propositions for which they are cited.").
+      Attorney Keefe's amended initial brief also violated Florida Rule of
+Appellate Procedure 9.210(b)(5), which requires "argument with regard to
+each issue, with citation to appropriate authorities." It should go without
+saying that there is nothing "appropriate" about phony legal authority.
+See Goya v. Hayashida, 418 So. 3d 652, 656 (Fla. 4th DCA 2025) (noting
+that an appellate court has authority under Florida Rule of Appellate
+Procedure 9.410(a) to sanction a party for violating rule 9.210's legal-
+argument requirement for briefs); Gutierrez v. Gutierrez, 399 So. 3d 1185,
+1188 (Fla. 3d DCA 2024) (sanctioning a party under rule 9.210(b) for AI
+hallucinations).
+      Moreover, it does not matter that "some of the cases" that Attorney
+Keefe cited exist or that "some of the propositions of law were legitimate."
+See Whiting v. City of Athens, 170 F.4th 455, 461 (6th Cir. 2026).
+Indeed, we "reject[ ] any . . . notion that because some authority exists to
+
+
+                                      9
+support a legal proposition it should negate the harm caused by false
+and hallucinated cases. Put bluntly—absolutely not; period; end of
+story; all stop." McGee, 806 F. Supp. 3d at 1273; see also Russell, 426
+So. 3d at 919 ("But what counsel seems to imply—that since the
+substance of the analysis in her brief wasn't necessarily wrong, her
+misstatements are not an issue we should be overly concerned about—is
+simply unacceptable.").
+     Here, we gave Attorney Keefe detailed notice of the AI
+hallucinations in his amended initial brief and reply brief, and we gave
+him the opportunity to explain himself or be sanctioned. Rather than
+immediately fall on his sword, he ignored us for more than a month and
+responded only after we issued a new order directing that his clients be
+informed of the situation. We find neither his explanations satisfactory
+nor him apologetic, but even if we did, on this record, we would sanction
+him nonetheless. See Rangel, 427 So. 3d at 1071 (ordering sanctions for
+AI hallucinations even when counsel noted that he was "deeply
+remorseful for his lapses of professional judgment").
+     Accordingly, we fine Attorney Keefe $500 for his belated response to
+the order to show cause and $1,000 for his AI misuse. Further, we order
+that he personally pay U.S. Bank the attorney's fees it incurred in
+preparing its answer brief in response to Capital Standard's amended
+initial brief. In addition, we refer Attorney Keefe to The Florida Bar.
+These sanctions are commensurate with Attorney Keefe's misconduct
+and appear to us to be the minimum necessary under the circumstances
+to deter future misconduct. As we explain now, our sanctions are also
+consistent with an increasingly multifaceted strategy by the courts for
+handling AI misuse by attorneys in legal filings.
+
+
+
+
+                                     10
+      $1,500 fine on Attorney Keefe. Florida Rule of Appellate Procedure
+9.410(a) provides us with ample authority to fine attorneys for violating
+our rules and orders requiring a response. See, e.g., P.P. v. Dep't of
+Health & Rehab. Servs., 683 So. 2d 1098, 1098 (Fla. 2d DCA 1996)
+(imposing a $1,000 fine on counsel payable into the court registry based
+on counsel's failure to respond to court's orders or to rectify her failure to
+file an initial brief); D.A. v. Dep't of Health & Rehab. Servs., 614 So. 2d
+662, 664 (Fla. 2d DCA 1993) (imposing a $250 fine on counsel payable to
+the clerk of court based on counsel's willful failure to comply with court's
+orders or to rectify his failure to file an initial brief); Hagood v. Wells
+Fargo N.A., 125 So. 3d 1012, 1014 (Fla. 5th DCA 2013) (imposing a
+$1,000 fine on counsel payable to the clerk of court and noting that
+"[e]ven negligent violations of rules of procedure may justify sanctions");
+Dumas v. Marrero, 864 So. 2d 531, 532 (Fla. 5th DCA 2004) (imposing a
+$250 fine on counsel payable to the clerk of court based on counsel's
+failure to respond to an order to show cause); Banderas v. Advance
+Petroleum, Inc., 718 So. 2d 376, 377 (Fla. 3d DCA 1998) (imposing a
+$2,500 fine on counsel payable to the clerk of court based on counsel's
+filing of a frivolous and offensive motion for rehearing).
+      Further, filings that include AI hallucinations force the judiciary
+and its staff to waste time sloshing through bilge rather than analyzing
+cases on their merits. At bottom, they gut an appellate court's ability to
+rely on counsel to set out in the first instance the applicable law
+governing a dispute. See Azar v. Garza, 584 U.S. 726, 730 (2018) (noting
+the importance of "lawyers and courts alike be[ing] able to rely on one
+another's representations"); Boca Burger, Inc. v. Forum, 912 So. 2d 561,
+571 (Fla. 2005) ("[Appellate courts] depend on counsel to accurately state
+both the facts and the applicable law."). As the Sixth Circuit recently
+
+
+                                       11
+stated in Whiting, AI hallucinations " 'unnecessarily burden[] the court
+and the taxpayers,' so courts can and should fine the offending lawyers
+to reimburse the court for its time." 170 F.4th at 467–68 (quoting
+Noland, 336 Cal. Rptr. 3d at 914).
+     Indeed, fines have become a common sanction in both federal and
+state courts across the country when attorneys sign filings that include
+AI hallucinations, and $1,500 is on the gentler end of the spectrum. See,
+e.g., Whiting, 170 F.4th at 468 (imposing a $15,000 fine); Fletcher, 168
+F.4th at 240 (imposing a $2,500 fine); Deutsche Bank Nat'l Tr. Co. v.
+LeTennier, 250 N.Y.S.3d 260, 268 (N.Y. App. Div. 2026) (imposing a
+$5,000 fine); Benjamin v. Costco Wholesale Corp., 779 F. Supp. 3d 341,
+351 (E.D.N.Y. 2025) (imposing a $1,000 fine and observing that it was
+"lower than in many other similar cases in part because of [counsel's]
+candor and sincere regret," one-time use of generative AI, and voluntary
+CLE participation); Wadsworth v. Walmart Inc., 348 F.R.D. 489, 499 (D.
+Wyo. 2025) (imposing a $3,000 fine on counsel who drafted the brief that
+included fake cases and $1,000 fines on counsel who signed on to the
+brief); United States v. Hayes, 763 F. Supp. 3d 1054, 1073 (E.D. Cal.
+2025) (imposing a $1,500 fine); Noland, 336 Cal. Rptr. 3d at 915
+(imposing a "conservative" sanction of $10,000 because counsel "has
+represented that his conduct was unintentional, and because he has
+expressed remorse for his actions"); People v. Lerin H., 271 N.E.3d 524,
+530 (Ill. App. Ct. 2025) (imposing a $1,000 fine); Ringo v. Colquhoun
+Design Studio, LLC, 582 P.3d 695, 697 (Or. Ct. App. 2025) (imposing a
+$500 fine for each false citation and $1,000 for each false quotation or
+statement of law, for a total of $2,000); McGee, 806 F. Supp. 3d at 1266
+(imposing a $5,000 fine); Jackson v. Auto-Owners Ins. Co., No. 7-24-cv-
+136, 2025 WL 1932274, at *5 (M.D. Ga. July 14, 2025) (imposing a
+
+
+                                     12
+$1,000 fine); Gauthier v. Goodyear Tire & Rubber Co., No. 23-CV-281,
+2024 WL 4882651, at *3 (E.D. Tex. Nov. 25, 2024) (imposing a $2,000
+fine); Mata, 678 F. Supp. 3d at 466 (imposing a $5,000 fine).
+      We are confident that with this opinion, this court leaves no doubt
+that it considers the imposition of fines on counsel an appropriate
+sanction for the reliance on unverified AI-generated content in court
+filings. Consequently, we may not be so gentle on attorney offenders in
+the future.
+      Fee award to U.S. Bank for researching and answering the
+amended initial brief. As noted above, Florida Rule of Appellate
+Procedure 9.410(a) authorizes the court, on its own motion, to award fees
+to the opposing party. Fee awards against counsel personally have
+likewise become a common sanction across the country for including AI
+hallucinations in court filings. See, e.g., Whiting, 170 F.4th at 466
+(ordering appellant's counsel to reimburse appellees "in full" for all
+attorneys' fees incurred by appellees); Heimkes v. Fairhope Motorcoach
+Resort Condo. Owners Ass'n, 828 F. Supp. 3d 1317, 1344 (S.D. Ala.
+2026) (ordering counsel to pay $55,597 in attorneys' fees for time spent
+responding to counsel's misstatements of law); Amarsingh v. Frontier
+Airlines, Inc., No. 24-1391, 2026 WL 352016, at *7 (10th Cir. Feb. 9,
+2026) (ordering pro se attorney appellant to pay appellee $1,000 to offset
+attorneys' fees and costs incurred in responding to the problematic
+aspects of appellant's brief); In re Kenney, 422 So. 3d 905, 925 (La. Ct.
+App. 2025) (affirming trial court's order directing plaintiff's counsel to
+pay $1,368 of defendant's attorneys' fees); Grymes Dev. Co. v. Fodera,
+245 N.Y.S.3d 863, 869 (N.Y. Sup. Ct. 2025) (ordering plaintiff's counsel
+to reimburse third-party defendants $11,718 and $5,275 in attorneys'
+fees for having to respond to motion for summary judgment containing AI
+
+
+                                     13
+hallucinations); Garner v. Kadince, Inc., 571 P.3d 812, 816 (Utah Ct. App.
+2025) (ordering counsel to pay opposing party's attorneys' fees); Versant
+Funding LLC v. Teras Breakbulk Ocean Navigation Enters., No. 17-CV-
+81140, 2025 WL 1440351, at *7 (S.D. Fla. May 20, 2025) (ordering that
+counsel be jointly and individually liable for opposing party's attorneys'
+fees and costs incurred for time spent researching and replying to a filing
+containing AI hallucinations). Here, we award U.S. Bank fees for the
+time it spent researching and answering the amended initial brief.
+     Referral of Attorney Keefe to The Florida Bar. "[T]he unique role of
+attorneys as officers of the court mandates that attorneys be held to the
+highest of ethical standards." Fla. Bar v. Brown, 905 So. 2d 76, 82 (Fla.
+2005) (quoting DeBock v. State, 512 So. 2d 164, 168 (Fla. 1987)). Long
+before the misuse of AI became an issue, the supreme court observed
+that appellate counsel has an "independent ethical obligation to present
+both the facts and the applicable law accurately and forthrightly." Boca
+Burger, Inc., 912 So. 2d at 571.
+     As this court explained in Russell:
+            When a lawyer cites imaginary legal authorities to our
+     court as if they were law, we are compelled to refer that
+     lawyer to the Bar because of the professional rules of
+     conduct. It doesn't take much moral imagination to
+     understand why. As judges, we rely on attorneys to ethically
+     represent their clients. We expect that representation to be
+     zealous, honest, and competent. Indeed, lawyers owe the
+     courts and their clients a duty to practice with competence
+     and candor. See R. Regulating Fla. Bar 4-1.1 ("A lawyer must
+     provide competent representation to a client. Competent
+     representation requires the legal knowledge, skill,
+     thoroughness, and preparation reasonably necessary for the
+     representation."); R. Regulating Fla. Bar 4-3.3(a)(1) ("A lawyer
+     shall not knowingly: (1) make a false statement of fact or law
+     to a tribunal or fail to correct a false statement of material
+     fact or law previously made to the tribunal by the lawyer
+
+
+                                    14
+      . . . .").
+426 So. 3d at 920.
+      Attorney Keefe violated these basic ethical principles through his
+use of hallucinated legal authority in the amended initial brief and reply
+brief. We therefore refer him to The Florida Bar to proceed as
+appropriate.
+      We reiterate that the problem here is not Attorney Keefe's use of
+generative AI. See Fletcher, 168 F.4th at 235 (noting that generative AI in
+law practice may very well be "helpful if done properly and carefully").
+Indeed, "there is nothing inherently wrong with an attorney properly and
+competently utilizing AI or any of its subsets to practice law or litigate
+cases." Versant Funding LLC, 2025 WL 1440351, at *4. Rather, it is his
+use of generative AI without also "ensur[ing] that the legal propositions
+and authority generated are trustworthy." See ByoPlanet Int'l, LLC v.
+Johansson, 792 F. Supp. 3d 1341, 1347 (S.D. Fla. 2025). As one court
+has memorably put it, "[T]he use of artificial intelligence must be
+accompanied by the application of actual intelligence in its execution."
+Mid Cent. Operating Eng'rs Health & Welfare Fund v. HoosierVac LLC, No.
+2:24-CV-326, 2025 WL 574234, at *4 (S.D. Ind. Feb. 21, 2025), report
+and recommendation adopted as modified, 2025 WL 1511211 (S.D. Ind.
+May 28, 2025).
+      In conclusion, we impose on Attorney Keefe a $1,500 fine payable
+to the clerk of this court within fourteen days; we remand this matter to
+the trial court to determine the reasonable amount of appellate attorney's
+fees incurred by U.S. Bank for researching and answering Capital
+Standard's amended initial brief; and we refer Attorney Keefe to The
+Florida Bar for further proceedings. Attorney Keefe is solely responsible
+for paying the fee award and fine and may not charge his clients for
+
+
+                                     15
+those amounts. And as noted above, the declaratory judgment is
+affirmed in all respects.
+      Affirmed; remanded for further proceedings consistent with this
+opinion.
+
+NORTHCUTT and SMITH, JJ., Concur.
+
+
+Opinion subject to revision prior to official publication.
+
+
+
+
+                                     16
+

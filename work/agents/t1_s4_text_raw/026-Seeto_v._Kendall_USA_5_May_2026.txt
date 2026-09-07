@@ -1,0 +1,488 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+UNITED STATES DISTRICT COURT
+DISTRICT OF NEVADA
+Ryne M. Seeto,
+Plaintiff
+v.
+Frank Kendall III,
+Defendant
+Case No.: 2:25-cv-00038-JAD-EJY
+Order Denying Motions
+[ECF Nos. 48, 50]
+Pro se plaintiff Ryne Seeto, a former Air Force Captain, was discharged under “other-
+than-honorable conditions” following a conviction under the Uniform Code of Military Justice.1
+He alleges that the discharge was “arbitrary and capricious” and “an abuse of discretion” under
+the Administrative Procedure Act (APA) and that both his underlying conviction and the Air
+Force’s rejection of his resignation violated his constitutional right to procedural due process.2
+Seeto now moves for summary judgment theorizing that Dr. Gerald Curry, the official
+who signed the discharge “on behalf of the Secretary of the Air Force,” lacked lawful authority
+to act, violated the Federal Vacancies Reform Act and the Appointments Clause, and later tainted
+the discharge-review process through structural bias. Because Seeto’s complaint never mentions
+Curry or challenges Curry’s authority to act, I deny his motion for summary judgment on those
+unpled theories.
+Seeto also asks me to reconsider my order denying his sanctions motion. But he has not
+shown newly discovered evidence, clear error, manifest injustice, or an intervening change in
+controlling law to warrant reconsideration, so I deny that motion too.
+1
+ECF No. 24 at 3.
+2
+ECF No. 21.
+Seeto v. Kendall Doc. 64
+Dockets.Justia.com1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+2
+A. Seeto’s summary-judgment motion fails because it seeks judgment on facts that he
+did not plead.
+1. Summary-judgment standards
+Summary judgment is appropriate when the pleadings and admissible evidence “show
+that there is no genuine issue as to any material fact and that the (movant) is entitled to a
+judgment as a matter of law.”3
+“By its very terms, this standard provides that the mere existence
+of some alleged factual dispute between the parties will not defeat an otherwise properly
+supported motion for summary judgment; the requirement is that there be no genuine issue of
+material fact.”4
+A fact is material if it could affect the outcome of the case.5
+On summary
+judgment, the court must view all facts and draw all inferences in the light most favorable to the
+nonmoving party.6
+So the parties’ burdens on an issue at trial are critical.
+The moving party bears the initial responsibility of presenting the basis for its motion and
+identifying the portions of the record or affidavits that demonstrate the absence of a genuine
+issue of material fact.7
+When the plaintiff bears the burden of proof at trial “it must come
+forward with evidence [that] would entitle it to a directed verdict if the evidence went
+uncontroverted at trial.”8
+The plaintiff must establish “beyond controversy every essential
+3
+Celotex Corp. v. Catrett, 477 U.S. 317, 322 (1986) (citing Fed. R. Civ. P. 56(c)).
+4
+Anderson v. Liberty Lobby, Inc., 477 U.S. 242, 248–49 (1986).
+5
+Id. at 249.
+6
+Kaiser Cement Corp. v. Fischbach & Moore, Inc., 793 F.2d 1100, 1103 (9th Cir. 1986).
+7
+Celotex, 477 U.S. at 323; Devereaux v. Abbey, 263 F.3d 1070, 1076 (9th Cir. 2001) (en banc).
+8
+C.A.R. Transp. Brokerage Co. v. Darden Rests., Inc., 213 F.3d 474, 480 (9th Cir. 2000)
+(quoting Houghton v. South, 965 F.2d 1532, 1536 (9th Cir. 1992) (citation and quotations
+omitted)).1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+3
+element of its” claim in order to avoid trial and prevail on summary judgment.9
+If it does, the
+burden shifts to the nonmoving party, who “must present significant probative evidence tending
+to support its claim or defense.”10
+2. Seeto cannot use Rule 56 to convert his APA challenge into an unpled attack on
+Curry’s authority.
+As a threshold matter, the Secretary argues that Seeto’s summary-judgment motion
+should be denied because it attempts to inject entirely new theories into this case. Seeto
+responds that he is not asserting new claims at all but merely advancing additional legal bases for
+vacatur under the APA’s framework for unlawful agency action. The APA requires agencies to
+engage in reasoned decision-making, and it empowers courts to “hold unlawful and set aside
+agency action” that is (1) “arbitrary, capricious, an abuse of discretion, or otherwise not in
+accordance with law,” (2) “contrary to constitutional right,” or (3) “in excess of statutory
+jurisdiction, authority, or limitations.”11
+In his amended complaint, Seeto invokes the first two theories. He alleges that the Air
+Force acted arbitrarily and capriciously by discharging him for purported “serious misconduct”
+that he contends did not satisfy the governing Air Force Instruction and by rejecting his
+resignation under the parties’ pre-trial agreement.12
+He also alleges that the discharge process
+violated procedural due process because the Air Force failed to follow its own regulations and
+relied on a legally defective Article 133 specification.13
+The complaint says nothing about Dr.
+9
+S. California Gas Co. v. City of Santa Ana, 336 F.3d 885, 888 (9th Cir. 2003).
+10
+Id.
+11
+5 U.S.C. § 706(2).
+12
+See ECF No. 21 at 2–3.
+13
+Id. at 3.1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+4
+Gerald Curry, the Federal Vacancies Reform Act, the Appointments Clause, structural bias, or
+any contention that the discharge was void because the official who signed it lacked lawful
+authority to do so.
+Yet that is now the centerpiece of Seeto’s summary-judgment motion. For the first time,
+he argues that Curry’s alleged lack of authority rendered the discharge ultra vires, violative of the
+FVRA and Appointments Clause, and constitutionally infirm.14
+He insists that these are merely
+alternative legal grounds for relief under the APA rather than new claims altogether.15
+But even
+when liberally construing a pro se pleading, the Ninth Circuit does not permit a plaintiff to
+transform a case at summary judgment by introducing a wholly new theory premised on facts
+never alleged in the complaint. As the Ninth Circuit panel recently explained in Hartzell v.
+Marana Unified School District, “After having focused on one theory in [his] complaint and
+during discovery, [a plaintiff] cannot turn around and surprise the defendant at the summary
+judgment stage with a completely different theory.”16
+That principle applies even when the new
+theory arises under the same statutory framework because pleadings must still provide fair notice
+of the factual basis of the claim being asserted.17
+Seeto’s amended complaint challenged the substantive and procedural propriety of the
+Air Force’s discharge decision itself. His summary-judgment motion instead challenges the
+legal authority of the official who signed the discharge paperwork and the composition of the
+14
+ECF No. 48 at 1–2.
+15
+ECF No. 61 at 2–3.
+16
+Hartzell v. Marana Unified Sch. Dist., 130 F.4th 722, 744 (9th Cir. 2025) (cleaned up); see
+also Pickern v. Pier 1 Imports (U.S.), Inc., 457 F.3d 963, 968-69 (9th Cir. 2006) (finding that
+allegations in a complaint must give the defendant fair notice of what the plaintiff’s claim is and
+the grounds upon which it rests).
+17
+See Fed. R. Civ. P. 8, 12(b)(6).1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+5
+later review process. Those theories depend on materially different factual inquiries, different
+defenses, and a different administrative record than the one framed by the complaint. Because
+Seeto’s summary-judgment motion rests on theories and facts that his amended complaint never
+placed at issue, those theories cannot support judgment in his favor. I therefore deny the motion
+on that threshold ground.18
+B. Seeto’s motion for reconsideration is denied.
+Seeto also moves for reconsideration of my order denying his sanctions motion.19
+A
+district court “possesses the inherent procedural power to reconsider, rescind, or modify an
+interlocutory order for cause seen by it to be sufficient[,]” so long as it still has jurisdiction.20
+This court's local rule 59-1 contemplates reconsideration of an interlocutory order if “(1) there is
+newly discovered evidence that was not available when the original motion or response was
+filed, (2) the court committed clear error or the initial decision was manifestly unjust, or (3) there
+is an intervening change in controlling law.”21
+The rule cautions that “[m]otions for
+reconsideration are disfavored,” and “[a] movant must not repeat arguments already presented
+unless (and only to the extent) necessary to explain controlling, intervening law or to argue new
+facts. A movant who repeats arguments will be subject to appropriate sanctions.”22
+18
+To the extent Seeto’s motion gestures at the theories that were pled—his arbitrary-and-
+capricious challenge, his pretrial-agreement theory, and his procedural-due-process theory—he
+has not developed them as independent bases for judgment. Those points are offered only in
+service of his new voidness theory.
+19
+ECF No. 50.
+20
+City of Los Angeles, Harbor Div. v. Santa Monica Baykeeper, 254 F.3d 882, 885 (9th Cir.
+2001) (quotation and emphasis omitted); see also Smith v. Clark Cty. Sch. Dist., 727 F.3d 950,
+955 (9th Cir. 2013); L.R. 59-1.
+21
+L.R. 59-1(a).
+22
+L.R. 59-1(b). See also Sch. Dist. No. 1J v. ACandS, Inc., 5 F.3d 1255, 1263 (9th Cir. 1993).
+While the Ninth Circuit has not established a standard of review for motions to reconsider
+interlocutory orders like this one, district courts frequently apply the standard applicable to1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+6
+Seeto contends that reconsideration is warranted because my later denial of the
+Secretary’s motion to dismiss “vindicated” his sanctions theory, the Secretary waived Federal
+Rule of Civil Procedure 11’s safe-harbor requirement by opposing sanctions on the merits, his
+March 2025 phone call with government counsel substantially complied with Rule 11(c)(2)
+regardless, and the government’s later failure to oppose his summary-judgment motion
+constitutes new sanctionable conduct.23
+Seeto’s primary premise misunderstands both my earlier order and Rule 11 itself. He
+reasons that because the Secretary’s Tucker Act argument failed, it must have been frivolous
+from the outset. But Rule 11 does not operate that way. An argument is not sanctionable just
+because it’s a losing one. My earlier order held only that, accepting the amended complaint as
+pled, Seeto principally sought equitable APA relief rather than presently recoverable money
+damages, so dismissal under the Tucker Act was unwarranted. That ruling resolved a contested
+jurisdictional question; it did not find that the Secretary acted in bad faith, advanced knowingly
+frivolous arguments, or lacked any colorable basis for the motion. Courts routinely wrestle with
+whether requested relief is genuinely equitable or instead “money-mandating” in substance.24
+The Secretary lost that fight, but that alone does not render the motion sanctionable.
+Also, Seeto still has not cured the defect that doomed his original sanctions motion: he
+admittedly did not comply with Rule 11(c)(2)’s safe-harbor requirement.25
+In denying that
+motion, I explained that Seeto conceded he “did not serve the safe-harbor notice required by
+FRCP 59(e) motions to reconsider final judgments. See In re Intel Corp. CPU Mktg., Sales
+Pracs. & Prods. Liab. Litig., 614 F. Supp. 3d 783, 788 (D. Or. 2022), aff’d, 2023 WL 7211394
+(9th Cir. 2023) (collecting authorities).
+23
+ECF No. 50 at 2.
+24
+See, e.g., Marshall Leasing, Inc. v. United States, 893 F.2d 1096, 1099–1100 (9th Cir. 1990).
+25
+ECF No. 49 at 11.1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+7
+Rule 11(c)(2)” and instead asked the court to issue a show-cause order under Rule 11(c)(3).
+Ninth Circuit law strictly enforces that requirement. A party seeking Rule 11 sanctions must first
+serve the sanctions motion and then wait 21 days before filing it, giving the opposing party a
+chance to withdraw or correct the challenged filing.26
+When that step is skipped, the court
+cannot award Rule 11 sanctions—even if the challenged filing was frivolous.27
+Seeto argues that the Secretary waived the safe-harbor defect by opposing the sanctions
+motion on its merits instead of objecting to service. A merits opposition filed after the sanctions
+motion is already pending cannot retroactively create the prefiling withdrawal opportunity that
+Rule 11 requires, however. He also argues that his March 2025 phone call with the
+government’s counsel substantially complied with the rule because he told counsel that he was
+not seeking monetary damages. But informal notice of a litigant’s position is not service of a
+Rule 11 motion, and the Ninth Circuit has made clear that phone calls, letters, and other informal
+warnings cannot substitute for serving the motion itself.28
+So the same procedural defect that
+required denial of the sanctions motion remains fatal on reconsideration.
+26
+Fed. R. Civ. P. 11.
+27
+Barber v. Miller, 146 F.3d 707, 710–711 (9th Cir. 1998) (“An award of sanctions cannot be
+upheld” if the movant does not comply with the twenty-one day notice requirement); Winterrowd
+v. Am. Gen. Annuity Ins. Co., 556 F.3d 815, 826 (9th Cir. 2009) (affirming district court’s ruling
+that there was “no basis” for awarding Rule 11 sanctions because moving party did not comply
+with safe-harbor provision); Radcliffe v. Rainbow Const. Co., 254 F.3d 772, 789 (9th Cir. 2001)
+(reversing district court’s grant of Rule 11 sanctions because the moving party failed to comply
+with the safe-harbor provision); Divane v. Krull Elec. Co., Inc., 200 F.3d 1020, 1025–26 (7th
+Cir. 1999) (stating that “the twenty-one day safe harbor is not merely an empty formality,” and a
+“court that imposes sanctions by motion without adhering to this twenty-one day safe harbor has
+abused its discretion”); Holgate v. Baldwin, 425 F.3d 671, 678 (9th Cir. 2005) (stating that “(w)e
+must reverse the award of sanctions when the (moving) party failed to comply with the safe
+harbor provisions, even when the underlying filing is frivolous”).
+28
+See, e.g., Barber, 146 F.3d at 710 (“It would therefore wrench both the language and purpose
+of the amendment to the Rule to permit an informal warning to substitute for service of a
+motion.”).1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+8
+Seeto’s alternative sanctions theories do not fare any better. A losing motion, a later
+missed deadline, and Seeto’s speculation about “strategic default” do not amount to vexatious
+multiplication of proceedings or bad-faith conduct, particularly when the missed summary-
+judgment deadline fell during the government shutdown and this district’s stay of government
+filings during that time.29
+So these arguments neither justify sanctions nor establish any
+recognized basis for reconsideration.
+C. Seeto is cautioned to verify the authorities he cites before filing them.
+As a final point, I note that Seeto’s briefs cite cases for quotations or propositions that the
+cited authorities do not appear to support. Seeto attributes to Withrow v. Larkin30
+the phrase
+“would offer a possible temptation to the average man as a judge to forget the burden of proof,”
+but that language does not appear in Withrow.31
+Seeto also cites Bittinger v. Tecumseh Products
+Co.32
+for the proposition that voluntary engagement with a motion waives procedural objections
+not timely raised.33
+But Bittinger is an ERISA and res judicata case discussing privity, virtual
+representation, and class-related issues and does not appear to support the waiver proposition for
+which Seeto cites it.
+These errors may stem from carelessness, reliance on a secondary source without
+checking the original authority, or unverified reliance on an AI research or drafting tool.34
+When
+29
+General Order 2025-07 issued by Chief District Judge Andrew P. Gordon on October 2, 2025.
+30
+Withrow v. Larkin, 421 U.S. 35, 47 (1975).
+31
+ECF No. 48 at 2.
+32
+Bittinger v. Tecumseh Products Co., 123 F.3d 877, 881 (6th Cir. 1997).
+33
+ECF No. 50 at 4.
+34
+While AI tools can be useful, and this court does not prohibit litigants from using them, those
+services pull information from across the web—including from unreliable sources—and they
+often hallucinate (or make up fake) legal authority. Using AI to supply legal authority for briefs1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+9
+an unrepresented litigant or attorney signs any filing before this court, he certifies that “the
+claims, defenses, and other legal contentions are warranted by existing law.”35
+Parties must
+verify that the authorities they mention are accurate before presenting them to a court. Repeated
+violations of this sort may invite sanctions—including case dismissal.
+Conclusion
+IT IS THEREFORE ORDERED that plaintiff Ryne Seeto’s motion for summary
+judgment [ECF No. 48] and motion for reconsideration [ECF No. 50] are DENIED.
+_______________________________
+U.S. District Judge Jennifer A. Dorsey
+May 5, 2026
+may violate the Federal Rules if hallucinated or inaccurate legal citations are included to support
+arguments.
+35
+Fed. R. Civ. P. 11(b)(2).

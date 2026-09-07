@@ -1,0 +1,186 @@
+1
+UNITED STATES DISTRICT COURT
+EASTERN DISTRICT OF MICHIGAN
+SOUTHERN DIVISION
+ERIC TOBLER,
+Plaintiff,
+v.
+STEPHEN TOBLER, et al.,
+Defendants.
+Case No. 25-13384
+Honorable Judith E. Levy
+Magistrate Judge Elizabeth A. Stafford
+ORDER GRANTING THE DARREN FINDLING LAW FIRM’S
+MOTION TO QUASH SERVICE
+AND WARNING PLAINTIFF ABOUT IMPROPER USE OF AI
+(ECF NO. 25)
+I. Introduction and Background
+In October 2025 pro se Plaintiff Eric Tobler filed this case, suing
+several defendants under 42 U.S.C. § 1983, including “the Probate Pro”
+and “Findling Law” (collectively, “the firm”). ECF No. 1, PageID.1-2. In
+February 2026, the Honorable Judith E. Levy extended the service
+deadline for serving defendants until March 13, 2026. ECF No. 23,
+PageID.252. Judge Levy then referred the case to the undersigned for all
+pretrial matters under 28 U.S.C. § 636(b)(1). ECF No. 50.
+Case 5:25-cv-13384-JEL-EAS ECF No. 56, PageID.682 Filed 05/07/26 Page 1 of 82
+The firm states that its correct name is the “Darren Findling Law Firm”
+and that the Probate Pro is its registered assumed name. The firm moves
+to quash service of the summons and complaint under Federal Rule of Civil
+Procedure 12(b)(5). ECF No. 25. The Court GRANTS the motion.
+II. Analysis
+A.
+A defendant may assert the defense of insufficient service of process
+under Rule 12(b)(5). The plaintiff bears the burden of proving that service
+was proper. Metro. Alloys Corp. v. State Metals Indus., Inc., 416 F. Supp.
+2d 561, 563 (E.D. Mich. 2006). In deciding whether a plaintiff has met that
+burden, the “court may refer to record evidence in determining the
+sufficiency of service.” Id. Courts may also consider “[f]acts as attested to
+in uncontroverted affidavits.” Id. (cleaned up). Courts have broad
+discretion in deciding under Rule 12(b)(5) whether to dismiss an action for
+failure to serve or to retain the case but quash service. Voice Sys. Mktg.
+Co. v. Appropriate Tech. Corp., 153 F.R.D. 117, 129 (E.D. Mich. 1994).
+The firm requests only the latter relief—that the Court order Tobler to
+effectuate proper service. ECF No. 25, PageID.265.
+Federal Rule of Civil Procedures 4(h) allows plaintiffs to serve
+corporations, partnerships, and unincorporated associations:
+Case 5:25-cv-13384-JEL-EAS ECF No. 56, PageID.683 Filed 05/07/26 Page 2 of 83
+(A) in the manner prescribed by Rule 4(e)(1) for serving an
+individual; or
+(B) by delivering a copy of the summonsand of the complaint to
+an officer, a managing or general agent, or any other agent
+authorized by appointment or by law to receive service of
+process and—if the agent is one authorized by statute and
+the statute so requires—by also mailing a copy of each to
+the defendant.
+Tobler filed a proof of service indicating that “Findling Law” and “The
+Probate Pro” were served by his process server in January 2026:
+I served the summons on (name of individual) Diane Kelly,
+Assistant, who is designated by law to accept service of
+process on behalf of (name of organization) The Probate Pro
+on (date) Thu, Jan 22, 2026;
+. . . .
+I served the summons on (name of individual) Diane Kelly,
+Assistant, who is designated by law to accept service of
+process on behalf of (name of organization) Findling Law on
+(date) Thu, Jan 22, 2026;
+ECF No. 19, PageID.243-244.
+The firm states that the receptionist identified in the proof of service
+was not authorized to accept service of process on its behalf. ECF No. 25,
+PageID.260. It contends that Tobler never personally served a summons
+and complaint on an officer, managing agent, general agent, or any other
+agent authorized by appointment of law to receive process on its behalf.
+Id.
+Case 5:25-cv-13384-JEL-EAS ECF No. 56, PageID.684 Filed 05/07/26 Page 3 of 84
+Tobler responds that his “process server encountered assistant Diane
+Kelly” when he arrived at the firm, and “the process server explicitly
+inquired whether the assistant was authorized to accept legal service on
+behalf of the corporation. The assistant affirmatively stated they [sic] were
+authorized to do so.” ECF No. 33, PageID.326. Tobler then asserts:
+When an employee in an office represents to a process server
+that they are authorized to accept service, they are cloaked with
+apparent authority. Michigan courts have upheld service in such
+circumstances. In Bunner v. Blow-Rite Insulation Co., 162 Mich.
+App. 669 (1987), the court held that service was effective where
+the process server served an employee who “demonstrated
+such a degree of control over the affairs of the corporation” that
+it was reasonable to believe they were in charge. Here, the
+assistant’s express statement of authority to the process server
+satisfies this standard.
+Id., PageID.327.
+But Tobler provides no factual support for his assertion that Diane
+Kelly told his process server that she was authorized to accept service on
+behalf of the firm. And the firm’s reply brief notes that Tobler’s reliance on
+Bunner is worse than just misplaced; Tobler included a fake quote and
+holding.
+Plaintiff hallucinates the holding and his quote from Bunner.
+Bunner involved the issue of whether service of process under
+the Michigan Court Rules was proper on a bankruptcy trustee
+where the defendant corporation was defunct. Bunner is not
+controlling or relevant to any of the issues here. Further, the
+Case 5:25-cv-13384-JEL-EAS ECF No. 56, PageID.685 Filed 05/07/26 Page 4 of 85
+Court should be wary of Plaintiff’s hallucinated legal authority
+going forward.
+ECF No. 36, PageID.367.
+Tobler has not met his burden of showing that he properly served the
+firm so the Court orders him to do so.1
+B.
+The Court is troubled by the so-called “legal authority” cited in
+Tobler’s response. As the firm noted, Tobler’s response brief includes a
+false quote from Bunner and that opinion did not address the issue relevant
+here. Tobler’s fake quotation and holding likely resulted from him using
+generative artificial intelligence (AI) without confirming its accuracy.
+Courts and opposing parties are burdened by the careless use
+of AI by pro se filers.
+Litigants who simply file the material that AI tools generate,
+without carefully reviewing it first for accuracy, have the
+potential to swamp courts with what appear at first glance to be
+legal arguments built on law and precedent, but which are in
+fact nothing of the sort. And not only are these problems in their
+own right, but they also heighten the two concerns the Court
+highlighted above—that defendants will be forced to spend
+more time and incur more costs parsing through copious
+baseless filings to defend an action, and that Courts will waste
+1
+Tobler also asserts that quashing service would be pointless because the
+Firm is aware of this lawsuit. ECF No. 33, PageID.328. But “actual
+knowledge and lack of prejudice cannot take the place of legally sufficient
+service.” LSJ Inv. Co. v. O.L.D., Inc., 167 F.3d 320, 324 (6th Cir. 1999).
+Case 5:25-cv-13384-JEL-EAS ECF No. 56, PageID.686 Filed 05/07/26 Page 5 of 86
+precious time doing the same in ruling on motions and moving
+matters along.
+Muhammad v. Gap Inc., No. 2:24-cv-3676, 2025 WL 1836657, at *14 (S.D.
+Ohio July 3, 2025)). The Sixth Circuit recently emphasized that “even a
+single fake case can be sanctionable” and that “citing fake cases can harm
+the reputation of judges and courts whose names are falsely invoked as
+author of the bogus opinions and the reputation of a party attributed with
+fictional conduct.” Whiting v. City of Athens Tennessee, 170 F. 4th 455,
+461 (6th Cir. 2026) (cleaned up).
+District courts may sanction the misuse of AI under Federal Rule of
+Civil Procedure 11 and their inherent authority. Hardy v. Whittaker, __
+F.R.D. __, 2026 WL 575225, at *10-*11 (E.D. Mich. Mar. 2, 2026). Tobler
+is warned that further misuse of AI may result in sanctions as described
+below.
+III. Conclusion
+The Court GRANTS the motion and quashes service of the firm,
+EXTENDS the time for service until May 29, 2026, DIRECTS the Clerk to
+re-issue the summons for the Darren Findling Law Firm, and ORDERS
+Tobler to effect proper service upon the Darren Findling Law Firm by May
+29, 2026.
+Case 5:25-cv-13384-JEL-EAS ECF No. 56, PageID.687 Filed 05/07/26 Page 6 of 87
+The Court also ORDERS Tobler to review all briefs and motions he
+has filed thus far to confirm the accuracy of each legal citation, and any
+quoted language, and that each case cited stands for its asserted
+proposition. And in each of his future filings in this case, Tobler must
+include a written certification that he has personally checked each legal
+citation and quote for accuracy, and that he confirmed that the cited cases
+stand for their asserted propositions. See Everett J. Prescott, Inc. v. Beall,
+No. 1:25-cv-00071, 2025 WL 2084353, at *2 (D. Me. July 24, 2025); Evans
+v. Robertson, No. 24-cv-13435, 2025 WL 2737446, at *5 (E.D. Mich. Sept.
+25, 2025). Any document Tobler that files without the required certification
+will be stricken.
+The Court WARNS Tobler that he will be sanctioned if other filings
+include fake citations, quotations, or holdings. The available sanctions
+include involuntary dismissal with prejudice and the imposition of monetary
+fines or awards. Hardy, __ F.R.D. __, 2026 WL 575225, at *10-*11.
+s/Elizabeth A. Stafford
+ELIZABETH A. STAFFORD
+United States Magistrate Judge
+Dated: May 7, 2026
+Case 5:25-cv-13384-JEL-EAS ECF No. 56, PageID.688 Filed 05/07/26 Page 7 of 88
+NOTICE TO PARTIES ABOUT OBJECTIONS
+Within 14 days of being served with this order, any party may file
+objections with the assigned district judge. Fed. R. Civ. P. 72(a). The
+district judge may sustain an objection only if the order is clearly erroneous
+or contrary to law. 28 U.S.C. § 636. “When an objection is filed to a
+magistrate judge’s ruling on a non-dispositive motion, the ruling
+remains in full force and effect unless and until it is stayed by the
+magistrate judge or a district judge.” E.D. Mich. LR 72.2.
+CERTIFICATE OF SERVICE
+The undersigned certifies that this document was served on counsel
+of record and any unrepresented parties via the Court’s ECF System to
+their email or First Class U.S. mail addresses disclosed on the Notice of
+Electronic Filing on May 7, 2026.
+s/Caitlin Shrum
+CAITLIN SHRUM
+Case Manager
+Case 5:25-cv-13384-JEL-EAS ECF No. 56, PageID.689 Filed 05/07/26 Page 8 of 8

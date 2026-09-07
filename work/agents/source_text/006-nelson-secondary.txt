@@ -1,0 +1,391 @@
+            If this opinion indicates that it is “FOR PUBLICATION,” it is subject to
+                 revision until final publication in the Michigan Appeals Reports.
+
+
+
+
+                           STATE OF MICHIGAN
+
+                             COURT OF APPEALS
+
+
+ESTATE OF BERNIE LEYNELL NELSON by                                   UNPUBLISHED
+SHOYNEESE CHILES, Personal Representative,                           August 28, 2026
+and EUGENE NELSON, SR.,                                              3:10 PM
+
+               Plaintiffs-Appellants,
+
+v                                                                    No. 373551
+                                                                     Genesee Circuit Court
+HURLEY MEDICAL CENTER,                                               LC No. 21-115525-NH
+
+               Defendant-Appellee,
+and
+
+BOARD OF HOSPITAL MANAGERS FOR THE
+CITY OF FLINT, PHYSICIAN COVERAGE
+SERVICES, PC, doing business as MICHIGAN
+HEALTH SPECIALISTS, GUL RAJ SACHWANI-
+DASWANI, DO, TAREQ ISMAIL MARAQA,
+M.D., AND LEO C. MERCER, JR.,
+
+               Defendants.
+
+
+Before: GADOLA, C.J., and BOONSTRA and CAMERON, JJ.
+
+BOONSTRA, J. (dissenting).
+
+        I respectfully dissent and would affirm the trial court’s grant of summary disposition to
+defendant Hurley Medical Center (the hospital)1 because the hospital took sufficient action to
+dispel the decedent’s (Bernie Leynell Nelson) belief that her treating physicians were hospital
+employees. I write separately to reiterate and expand on my interpretation of Markel v William
+Beaumont Hosp, 510 Mich 1071 (2022) (Markel II), as previously expressed in Stempniak v Prime
+
+
+
+1
+ The hospital is a public safety-net hospital owned by the city of Flint. It is operated by defendant
+Board of Hospital Managers for the City of Flint, pursuant to the Flint City Charter.
+
+
+                                                -1-
+Healthcare Servs – Garden City, LLC, unpublished opinion of the Court of Appeals, issued July
+27, 2023 (Docket No. 361018).
+
+       As the majority acknowledges, when Nelson was admitted to the hospital on January 30,
+2018, she signed a consent-for-services form that stated, in relevant part:
+
+       I understand that my healthcare services are directed by my physician(s), and that
+       facility personnel provide services according to the physicians’ instructions. . . . I
+       also understand that some physicians directing my services are not agents or
+       employees of the facility, but are independent physicians who have been granted
+       the privilege of using its facilities for the care and treatment of their patients.
+
+
+        A week later, after her initial treatment in the emergency room and by other medical
+professionals, defendant Gul Raj Sachwani-Daswani, D.O. (Dr. Sachwani) performed a
+percutaneous tracheostomy on Nelson. It is undisputed that Dr. Sachwani was not employed by
+the hospital but rather was an employee of The Hurley Clinics2 and had privileges at the hospital.
+Plaintiffs now seek to hold the hospital accountable, under a theory of ostensible agency, for Dr.
+Sachwani’s alleged negligence.3
+
+        Generally, a hospital is not liable for the alleged negligence of an independent contractor
+using the hospital’s facilities to provide medical treatment. Grewe v Mt Clemens Gen Hosp, 404
+Mich 240, 250; 273 NW2d 429 (1978). But an exception exists under a theory of ostensible agency
+when the hospital “causes a third person to believe another to be his agent who is not really
+employed by him.” Id. at 252 (quotation marks and citation omitted). A “critical question is
+whether the plaintiff, at the time of his admission to the hospital, was looking to the hospital for
+treatment of his physical ailments or merely viewed the hospital as the situs where his physician
+would treat him for his problems.” Id. at 251.4 However,
+
+       [n]othing in Grewe indicates that a hospital is liable for the malpractice of
+       independent contractors merely because the patient “looked to” the hospital at the
+       time of admission or even was treated briefly by an actual nonnegligent agent of
+
+
+2
+ The Hurley Clinics is a Domestic Nonprofit Corporation that was incorporated in Michigan in
+1995. It does business as The Hurley Clinic.
+3
+  In opposing the hospital’s motion for summary disposition, plaintiffs admitted that Dr. Sachwani
+was not a hospital employee, but was instead an independent contractor, and plaintiffs then pursued
+their claim against the hospital (relative to Dr. Sachwani) under a theory of ostensible agency.
+4
+  The majority seizes upon the “critical question” language from Grewe to support its conclusion
+that the consent form in this case could not dispel a patient’s reasonable belief regarding whether
+a doctor is an agent of a hospital. However, “this Court has clarified that [Grewe’s ‘critical
+question’] is not the only question.” Wiegand v Yamasaki, MD, unpublished per curiam opinion
+of the Court of Appeals, issued December 19, 2017 (Docket No. 334598), p 2, citing Chapa v St
+Mary’s Hosp of Saginaw, 192 Mich App 29, 33; 480 NW2d 590 (1992) (citing Grewe, 404 Mich
+at 252-253).
+
+
+                                                -2-
+       the hospital. Such a holding would not only be illogical, but also would not comport
+       with fundamental agency principles noted in Grewe and subsequent cases. Those
+       principles have been distilled into the following three elements[5] that are necessary
+       to establish the creation of an ostensible agency: (1) the person dealing with the
+       agent must do so with belief in the agent’s authority and this belief must be a
+       reasonable one, (2) the belief must be generated by some act or neglect on the part
+       of the principal sought to be charged, and (3) the person relying on the agent’s
+       apparent authority must not be guilty of negligence.” [Chapa v St Mary’s Hosp of
+       Saginaw, 192 Mich App 29, 33; 480 NW2d 590 (1992), citing Grewe, 404 Mich
+       at 252-253.]6
+
+
+
+
+5
+  As the majority notes, our Supreme Court reiterated these three elements in Markel II, yet it is
+apparent from Grewe and the various opinions in Markel, including Markel II’s “put another way”
+juxtaposition of the first two elements, Markel II, 510 Mich at 1071-1072, that our Supreme Court
+has addressed the requirements for proving ostensible agency not as distinct elements, but rather
+as interrelated ones. The third element was a recognition by the Court in Grewe that “the plaintiff
+must rely on the agent’s apparent authority.” Markel v William Beaumont Hosp, 22 NW3d 545,
+547 (Mich, 2025) (Markel IV).
+6
+  I note that plaintiffs mis-cite Chapa as supposedly standing for the proposition that “consent
+forms alone are insufficient to defeat ostensible agency claims if other factors indicate that the
+patient looked to the hospital, not the individual physician, for treatment.” But Chapa says no
+such thing; indeed, in affirming the dismissal of the plaintiff’s claim, Chapa nowhere mentioned
+consent forms or other disclaimers. Plaintiffs similarly misrepresent this Court’s holding in
+VanStelle v Macaskill, 255 Mich App 1; 662 NW2d 41 (2003), overruled in part by Markel II, 510
+Mich 1071. Like Chapa, VanStelle did not address consent forms or disclaimers (contrary to
+plaintiffs’ representation that the Court in that case “emphasized that a mere disclaimer in a consent
+form is not determinative where there are other factors indicating that the patient believed the
+doctor was acting on behalf of the hospital”). Nor did the Court in Howard v Park, 37 Mich App
+496; 195 NW2d 39 (1972), again notwithstanding plaintiffs’ representation to the contrary.
+Finally, plaintiffs misrepresent the Supreme Court’s decision in Markel II as “reject[ing] the notion
+that a consent form alone was enough to defeat a claim of ostensible agency.” Once again, the
+Court in Markel II did not discuss consent forms (or other disclaimers) and instead held that a
+hospital need only do “something to dispel,” “in some manner,” a patient’s belief. Markel II, 510
+Mich at 1071-1072. Markel II only briefly mentioned Judge Hoekstra’s dissenting opinion in
+Reeves v MidMich Health, unpublished per curiam opinion of the Court of Appeals, issued
+September 30, 2010 (Docket No. 291855), in which he stated that “the hospital did not
+affirmatively act to create a belief of ostensible agency through its consent forms and lab coat
+insignia.” Markel II, 510 Mich at 1073. But the consent form in Reeves, unpub op at 3, did not
+include any disclaimers about the doctors’ employment status. Instead, the form was admitted as
+evidence that the hospital affirmatively represented the patient’s doctor to be its agent. Id. at 3-4.
+Markel II’s criticism of the Reeves dissent only means that a consent form is not needed to create
+an ostensible agency if a patient presents to the emergency room with no prior relationship to the
+doctor, not that a consent form cannot dispel a belief regarding agency.
+
+
+                                                 -3-
+       In VanStelle v Macaskill, 255 Mich App 1, 11; 662 NW2d 41 (2003), overruled in
+part by Markel II, 510 Mich 1071, this Court summarized the law regarding a doctor’s
+ostensible agency as follows:
+
+       Agency “does not arise merely because one goes to a hospital for medical care.
+       There must be some action or representation by the principal (hospital) to lead the
+       third person (plaintiff) to reasonably believe an agency in fact existed.” Sasseen v
+       Community Hosp Foundation, 159 Mich App 231, 240; 406 NW2d 193 (1986).
+       Further, the fact that a doctor used a hospital’s facilities to treat a patient is not
+       sufficient to give the patient a reasonable belief that the doctor was an agent of the
+       hospital. Heins v Synkonis, 58 Mich App 119, 124; 227 NW2d 247 (1975).
+
+
+        This Court then decided several ostensible-agency cases in which the plaintiff had signed
+a consent form that included a notice that some or all doctors providing services were independent
+contractors. See, e.g., Wiegand v Yamasaki, MD, unpublished per curiam opinion of the Court of
+Appeals, issued December 19, 2017 (Docket No. 334598), p 3-4 (some doctors); Purcell v Sturgis
+Hosp, unpublished per curiam opinion of the Court of Appeals, issued December 11, 2008 (Docket
+No. 277793), p 3-4 (all doctors); Tansil v Sherrod, unpublished per curiam opinion of the Court of
+Appeals, issued November 26, 2002 (Docket No. 237002), p 2 (all doctors).7 In each case, this
+Court held that the consent form detracted from any reasonable belief that the doctor was an agent
+of the hospital. Wiegand, unpub op at 4 (holding that the record lacked evidence of some action
+or representation to lead the decedent to reasonably believe an agency existed); Purcell, unpub op
+at 4 (holding that “any belief” in the doctors’ agency was “not reasonable” because it was
+“specifically negated by the plain language contained in the release and consent forms”); Tansil,
+unpub op at 2 (holding that the consent form precluded any reasonable belief that the doctors were
+agents).
+
+        Our Supreme Court later reiterated the elements of an ostensible agency in Markel
+II, 510 Mich at 1071, citing Grewe, 404 Mich at 253, and held that a plaintiff has a
+“reasonable belief” that a doctor is the agent of the hospital when the plaintiff “presents for
+treatment at a hospital emergency room and is treated during their hospital stay by a doctor
+with whom they have no prior relationship, . . . unless the hospital does something to dispel
+that belief.” (Emphasis added). In other words, “the patient’s belief that a doctor is the
+hospital’s agent is reasonable unless dispelled in some manner by the hospital or the
+treating physician.” Id. at 1072 (emphasis added). See also Markel v William Beaumont
+Hosp, 22 NW3d 545, 545 (Mich, 2025) (Markel IV).
+
+         Our Supreme Court also held that VanStelle overlooked that under Grewe, either an
+affirmative act or neglect may create an ostensible agency, and it overruled VanStelle “to the extent
+that [it] requires a plaintiff to show some additional, affirmative act by the hospital in every
+emergency room case to prove ostensible agency.” Markel II, 510 Mich at 1072. Wiegand,
+Purcell, and Tansil were decided before Markel II, and they relied in part on principles stated in
+
+
+7
+ Unpublished opinions are nonbinding but may be considered for their persuasive value. Cox v
+Hartman, 322 Mich App 292, 307; 911 NW2d 219 (2017).
+
+
+                                                 -4-
+VanStelle that Markel II overruled (i.e., that there must be evidence of some act or neglect beyond
+the operation of an emergency room). But the reasoning of those cases with respect to the effect
+of consent forms was not overruled by Markel II and remains persuasive. That is, this Court has
+long held that a written notice of a doctor’s independent-contractor status weighs against finding
+a patient’s belief in her doctor’s agency to be reasonable. Wiegand, unpub op at 3-4, Purcell,
+unpub op at 3-4, Tansil, unpub op at 2.
+
+        I agree with the majority that under Markel II and Markel IV, it would have been reasonable
+for Nelson to believe that Dr. Sachwani was an agent of the hospital. She presented to the
+hospital’s emergency room, and during her hospital stay she was treated by Dr. Sachwani, with
+whom she had no prior relationship. However, the hospital sufficiently acted to dispel any belief
+that Nelson may have held that Dr. Sachwani was an agent of the hospital. In Markel II, our
+Supreme Court recognized that it had, in Grewe, “acknowledged as significant that there was
+‘nothing in the record which should have put the plaintiff on notice that [the doctor] . . . was an
+independent contractor as opposed to an employee of the hospital.’ ” Markel II, 510 Mich at 1071,
+quoting Grewe, 404 Mich at 253. Markel II thus established that an emergency-room patient’s
+belief (that a doctor is a hospital employee) is reasonable “unless the hospital does something to
+dispel that belief.” Markel II, 510 Mich at 1071. The Court explained in Markel II that Grewe
+held “that when a patient presents at the emergency room for treatment, the patient’s belief that a
+doctor is the hospital’s agent is reasonable unless dispelled in some manner by the hospital or the
+treating physician.” Id. at 1072 (emphasis added). See also Markel IV, 22 NW3d at 545, 547.
+And it emphasized that “Grewe remains our rule.” Markel II, 510 Mich at 1073.
+
+       In this case, the hospital presented Nelson with a General Consent for Services form—
+which she signed—that stated, in relevant part:
+
+       I understand that my healthcare services are directed by my physician(s), and that
+       facility personnel provide services according to the physicians’ instructions. . . . I
+       also understand that some physicians directing my services are not agents or
+       employees of the facility, but are independent physicians who have been granted
+       the privilege of using its facilities for the care and treatment of their patients.
+
+
+        The hospital thereby did “something to dispel [any] belief” that Nelson may have had that
+Dr. Sachwani was an agent of the hospital. Markel II, 510 Mich at 1071. The majority holds that
+the consent form was insufficient to negate that belief because it only stated that some physicians—
+not Dr. Sachwani specifically—were independent contractors. But such specific notice is not
+required—Markel II merely requires that the hospital do something to dispel the reasonable
+assumption that any doctor working out of the hospital is its agent. Id. To hold that a hospital
+must inform patients about the employment status of each person involved in their treatment would
+be extremely impractical, especially when the patient requires immediate medical attention. See
+Markel II, 510 Mich at 1082 (VIVIANO, J., dissenting) (“It is not clear whether delaying treatment
+to provide this information would even be medically ethical let alone efficacious in helping
+distressed patients decide whether to seek treatment at the hospital.”). The majority’s position
+applies a nearly insurmountable standard, causing the ostensible-agency exception to swallow the
+rule that a hospital generally is not liable for the alleged negligence of an independent contractor
+using its facilities. See Grewe, 404 Mich at 250.
+
+
+                                                -5-
+       The majority follows a concerning trend in this Court’s recent, unpublished opinions that
+have addressed whether a consent form can preclude a claim of ostensible agency after Markel II.
+For example, in Webb v Hillsdale Hosp, unpublished opinion of the Court of Appeals, issued
+November 19, 2024 (Docket No. 364728), p 2,8 a patient presented to the emergency room at
+Hillsdale Hospital, where she signed a consent form that included the following: “Your doctors
+are not employees or agents of the hospital. They are independent contractors.” The majority
+opinion in that case stated:
+
+       [A] consent form is a critical piece of evidence that can negate a patient’s
+       reasonable belief that the physician is an agent of the hospital, but it does not
+       destroy an ostensible agency claim. Cases from this Court have traditionally found
+       a consent form as stronger evidence that an ostensible agency relationship is
+       lacking. . . . However, this court and the Supreme Court have never held that a
+       consent form per se precludes the existence of ostensible agency and here, the
+       record reflects a question of fact as to whether this form could. [Id. at 6.]
+
+According to the Webb majority, other statements in the consent form could have reinforced the
+belief that the doctors were agents of the hospital, so a genuine issue of material fact remained
+regarding whether the consent form was effective in dispelling that belief. Id. Judge Riordan
+dissented—he would have held that the consent form’s statement that the patient’s doctors were
+independent contractors, standing alone, entitled the hospital to summary disposition. Id.
+(RIORDAN, J., dissenting) at 2 (“ ‘A patient who has clear notice of a treating physician’s
+employment status . . . cannot reasonably assume that the same physician is an employee of the
+hospital merely because treatment is provided within a hospital.’ ”), quoting Markel II, 510 Mich
+at 1071.
+
+        In Stempniak, unpub op at 2, the patient presented to the emergency room and signed a
+consent form that stated, “Some doctors and staff are not employees of Garden City Hospital. I
+know that Garden City Hospital is not responsible for their actions.” Id. (emphasis added). She
+then received allegedly negligent care from her surgeon, Dr. Gross. Id. The Stempniak majority
+held that the consent form did not defeat the patient’s ostensible-agency claim:
+
+       While the [consent form] arguably informed Stempniak that “some” doctors and
+       staff were not employees of Garden City Hospital, it did not provide her with any
+       information regarding Dr. Gross’s employment status. Further, Stempniak testified
+       that she had no memory of signing the form, no memory of whether its contents
+       were explained to her, and no understanding of what it meant because she was in
+       significant pain at the time that she signed it. . . . Viewing the evidence in the light
+       most favorable to Stempniak as the non-moving party, we find that there is a
+       genuine issue of material fact whether Stempniak had a reasonable belief that Gross
+
+
+
+
+8
+  The Hillsdale Hospital’s application for leave to appeal this Court’s decision in Webb is pending
+in our Supreme Court. Webb v Hillsdale Hosp, 26 NW3d 742 (Mich, 2025).
+
+
+                                                 -6-
+       was an agent of the hospital and thus affirm the trial court’s denial of the hospital’s
+       motion for summary disposition. [Id. at 4-5.]
+
+
+        I dissented and would have held that the “some doctors” language was sufficient to defeat
+the patient’s ostensible-agency claim:
+
+       [T]he majority discounts or ignores the affirmative act taken by the hospital to
+       dispel any belief that Stempniak might have had that Dr. Gross was Garden City
+       Hospital’s employee. . . . [T]he majority apparently posits that, in order for the
+       General Consent for Treatment form to have been effective, it must have
+       specifically named Dr. Gross. This is simply not the law, nor is it required by
+       Grewe or Markel. [Id. (BOONSTRA, J., dissenting) at 2-3.]
+
+See also Wiegand, unpub op at 3-4 (addressing a consent form stating that some doctors were
+independent contractors).
+
+        My position has not changed. Indeed, as in Stempniak, it would be preposterous to suggest
+that the General Consent for Services form in this case was advising Nelson that some other
+patient’s doctors were not agents of the hospital. It of course was advising Nelson that her own
+doctors— including Dr. Sachwani—were not (or at least may not be) employees of the hospital,
+and that the hospital was therefore not responsible for their actions. By signing the form, Nelson
+affirmed her agreement to those terms, and she unmistakably did so in relation to her own provider,
+Dr. Sachwani, not someone else’s provider. See Stempniak (BOONSTRA, J., dissenting), unpub op
+at 3. And because “parties are bound by the documents they sign, as they are presumed to be aware
+of the contents of those documents; the failure to read a document is no excuse.” Id., citing Galea
+v FCA US LLC, 323 Mich App 360, 369; 917 NW2d 694 (2018). Nelson’s actual belief regarding
+whether Dr. Sachwani was an independent contractor is therefore irrelevant.
+
+        The dissenting opinions in Webb and Stempniak are more persuasive than the majority
+opinions. The majority in those cases misapplied Grewe and Markel by requiring the hospital to
+affirmatively create the belief that the treating physician is an independent contractor. But the law
+only requires the hospital to do something, in some manner, to dispel the belief that the physician
+is an employee or other agent. Markel II, 510 Mich at 1071-1072. Putting the patient on notice
+that her treating physician may not be a hospital employee is sufficient to dispel a belief that the
+doctor is a hospital employee, to make any such belief unreasonable, and therefore to defeat a
+claim of ostensible agency. Consequently, a signed consent form that states that some doctors
+providing services to the patient are not agents or employees should defeat an ostensible agency
+claim unless there is evidence that the consent form is void or unenforceable or that the hospital,
+through some additional affirmative action, renewed the reasonable belief that the specific
+physician alleged to have rendered negligent services was an agent or employee. This
+interpretation is consistent with how this Court has traditionally viewed consent forms in Wiegand,
+Purcell, and Tansil, as well as with Markel II’s restatement of the rule in Grewe that a belief by a
+patient (who presents to the emergency room for treatment by a doctor with whom she has no prior
+existing relationship) that her doctor is the hospital’s agent is reasonable unless the hospital does
+something to dispel that belief. Markel II, 510 Mich at 1071-1072.
+
+
+
+
+                                                -7-
+        In this case, plaintiffs do not allege that Nelson signed the consent form under duress, that
+her signature was obtained through fraud, or that the form was otherwise invalid. The disclaimer
+that some physicians were not agents or employees gave Nelson “clear notice” that her treating
+physician may not be an employee and that she should inquire about the employment status of a
+particular physician if that status was of significance to her in relation to her consent for medical
+treatment. See Markel II, 510 Mich at 1071. In other words, she could not have reasonably
+believed, in light of the consent form, that Dr. Sachwani was the hospital’s agent or employee.
+Under these circumstances, and because the record does not indicate that the hospital took any
+additional action to represent that Dr. Sachwani was its agent or employee, the trial court properly
+granted summary disposition to the hospital under MCR 2.116(C)(10).9 For these reasons, I
+respectfully dissent.
+
+
+
+                                                              /s/ Mark T. Boonstra
+
+
+
+
+9
+ I note that neither my interpretation of the law nor the trial court’s decision (granting summary
+disposition to the hospital) would leave plaintiffs without a remedy. When it granted the hospital’s
+motion for summary disposition, the trial court only dismissed plaintiffs’ claims against defendants
+Hurley Medical Center and the Board of Hospital Managers for the City of Flint (as well as those
+against defendant Dr. Tareq Ismail Maraqa, which aspect of the order is not at issue in this appeal).
+But plaintiffs still have pending claims against defendants Dr. Sachwani, Dr. Leo Mercer, Jr., and
+Physician Coverage Services, P.C. And if they prevail, plaintiffs’ damages may be covered by
+any liable party’s medical-malpractice insurer. See Welke v Kuzilla, 144 Mich App 245, 254; 375
+NW2d 403 (1985) (“In the typical malpractice action, the doctor is able to insure against the risk
+of liability through the required malpractice insurance.”) (quotation marks and citation omitted).
+
+
+                                                -8-
+

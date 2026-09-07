@@ -1,0 +1,267 @@
+Moses V. State, Slip Copy (2026)
+
+
+                                                                    complaint in accordance with Tenn. Code Ann. § 29-26-122.
+                    2026 WL 518478                                  Moses appeals. We affirm.
+      Only the Westlaw citation is currently available.
+                                                                    On November 30, 2023, Moses underwent a root canal
+     SEE COURT OF APPEALS RULES 11 AND 12                           performed by Dr. Bryan Drew Benbow, an endodontics
+                                                                    resident and UTHSC employee, under the supervision of
+               Court of Appeals of Tennessee.                       Dr. Harry T. Cosby. According to Moses’ account of the
+                                                                    events, complications arose after the root canal. Moses was
+                    Pamela MOSES                                    diagnosed with an infection and cellulitis, which required
+                          V.                                        additional treatment. In February 2024, Moses sent letters to
+                                                                    the University of Tennessee administration, as well as Drs.
+                  STATE of Tennessee
+                                                                    Benbow and Cosby, informing them of her intent to file a
+                                                                    negligence claim. Moses set out how the root canal caused
+               No. W2025-00386-COA-R3-CV
+                                                                    her pain and injury. Moses stated that she was “prepared to
+                              |
+                                                                    provide the required physicians’ affidavit/certificate of good
+              Assigned on Briefs January 5, 2026
+                                                                    faith as mandated by T.C.A. § 29-26-122.”
+                              |
+                     FILED 02/25/2026
+                                                                    Under Tenn. Code Ann. § 29-26-122, plaintiffs in health care
+Appeal from the Claims Commission for the State                     liability actions must file certificates of good faith with their
+of Tennessee, No. 0546-GL-24-0310908-001, James A.                  complaint. The statute provides, as relevant:
+Hamilton, III, Commissioner
+                                                                      (a) In any health care liability action in which expert
+Attorneys and Law Firms                                               testimony is required by § 29-26-115, the plaintiff or
+                                                                      plaintiff's counsel shall file a certificate of good faith
+Pamela Moses, Memphis, Tennessee, Pro Se appellant.                   with the complaint. If the certificate is not filed with the
+                                                                      complaint, the complaint shall be dismissed, as provided in
+Heather C. Colturi, Associate General Counsel, the                    subsection (c), absent a showing that the failure was due to
+University of Tennessee, Office of the General Counsel, for           the failure of the provider to timely provide copies of the
+the appellee, the State of Tennessee.                                 claimant's records requested as provided in § 29-26-121 or
+                                                                      demonstrated extraordinary cause.
+D. Kelly Thomas, Jr., Sp. J., delivered the opinion of the court,
+                                                                    ***
+in which J. Steven Stafford, P.J., W.S., and Jeffrey Usman, J.,
+joined.
+                                                                      (c) The failure of a plaintiff to file a certificate of good
+                                                                      faith in compliance with this section shall, upon motion,
+OPINION                                                               make the action subject to dismissal with prejudice. The
+                                                                      failure of a defendant to file a certificate of good faith in
+D. KELLY THOMAS, JR., SPECIAL JUDGE
+                                                                      compliance with this section alleging the fault of a non-
+                                                                      party shall, upon motion, make such allegations subject to
+Background                                                            being stricken with prejudice unless the plaintiff consents
+                                                                      to waive compliance with this section. If the allegations
+ *1 This appeal concerns a health care liability lawsuit.             are stricken, no defendant, except for a defendant who
+Pamela Moses (“Moses”) sued the State of Tennessee (“the              complied with this section, can assert, and neither shall the
+State”) in the Claims Commission after receiving dental               judge nor jury consider, the fault, if any, of those identified
+treatment from the University of Tennessee Health Science             by the allegations. The court may, upon motion, grant an
+Center (“UTHSC”). Moses alleged that her root canal was               extension within which to file a certificate of good faith if
+botched, leaving her injured. The State filed a motion to             the court determines that a health care provider who has
+dismiss. The Claims Commission granted the State's motion             medical records relevant to the issues in the case has failed
+to dismiss on multiple independent grounds including that             to timely produce medical records upon timely request, or
+Moses failed to file a certificate of good faith with her             for other good cause shown.
+
+
+                © 2026 Thomson Reuters. No claim to original U.S. Government Works.                                               1
+Moses V. State, Slip Copy (2026)
+
+
+Tenn. Code Ann. § 29-26-122 (West eff. April 23, 2012).               was sufficient. Nevertheless, the Commissioner dismissed
+                                                                      Moses’ case on grounds that she failed to file a certificate
+On May 1, 2024, Moses filed her Notice of Claim against               of good faith with her original complaint in accordance with
+the State with the Division of Claims and Risk Management.            Tenn. Code Ann. § 29-26-122 or file a properly supported
+Moses did not file a certificate of good faith with this Notice.      motion for an extension of time. The Commissioner found
+The case was then transferred to the Claims Commission. On            further that the certificate of good faith filed by Moses
+August 1, 2024, Moses filed her pro se complaint alleging             with her amended complaint was inadequate as it merely
+health care liability, naming as defendant “University of             stated that Moses had consultations with experts, and that
+Tennessee Health Science Center (UTHSC) (Endodontics                  she failed to identify individual defendants in the certificate.
+Department)/State of Tennessee.” Moses did not file a                 The Commissioner also ruled that the Claims Commission
+certificate of good faith with her complaint.                         lacked jurisdiction to consider Moses’ claim for intentional
+                                                                      infliction of emotional distress, as well as Moses’ request for
+In October 2024, the State filed a motion to dismiss pursuant         punitive damages. The Commissioner denied Moses’ motion
+to Tennessee Rule of Civil Procedure 12.02(6). The State              for additional time and to strike certain exhibits. Moses timely
+argued, among other things, that dismissal was required               appealed to this Court.1
+because Moses failed to file a certificate of good faith with her
+complaint in accordance with Tenn. Code Ann. § 29-26-122.
+The State also contended that the pre-suit notice was
+insufficient. On October 24, 2024, the Commissioner of the            Discussion
+Claims Commission granted Moses until November 25, 2024,
+                                                                      Moses raises several issues on appeal, and the State raises
+to respond to the State's motion to dismiss. On November
+                                                                      separate issues concerning whether Moses’ appeal should
+25, 2024, Moses filed a “Certificate of Consultation and
+                                                                      be dismissed for various briefing failures. We restate and
+Good Faith,” an amended complaint, and a response to the
+                                                                      consolidate the issues raised by the parties on appeal as
+State's motion to dismiss. It was Moses’ position that her
+                                                                      follows: 1) whether Moses’ appeal should be dismissed
+amended complaint cured any issue related to her original
+                                                                      for noncompliance with the rules of briefing; 2) whether
+failure to file a certificate of good faith. In her amended
+                                                                      Moses was denied a meaningful opportunity to be heard; and
+complaint, Moses identified individual doctors, including Dr.
+                                                                      3) whether the Commissioner erred in granting the State's
+Benbow, as defendants in addition to UTHSC. Moses also
+                                                                      motion to dismiss.
+filed a “motion to strike irrelevant collective exhibits.” In turn,
+the State filed a motion to strike Moses’ certificate of good
+                                                                      This is an appeal of a grant of a motion to dismiss. We
+faith and amended complaint. The State also filed a “reply in
+                                                                      review the Commissioner's granting of the State's motion to
+support of its motion to dismiss and response in opposition
+                                                                      dismiss de novo with no presumption of correctness. Cothran
+to claimant's motion to strike exhibits” in which the State
+                                                                      v. Durham Sch. Servs., L.P., 666 S.W.3d 369, 375 (Tenn. Ct.
+argued that Moses could not cure her failure to file a certificate
+                                                                      App. 2022).
+of good faith with her original complaint by way of filing
+one with an amended complaint and that, even if she could,
+                                                                      We first address whether Moses’ appeal should be dismissed
+the certificate she filed with the amended complaint was
+                                                                      for noncompliance with the rules of briefing. The State
+defective. On January 16, 2025, Moses filed a motion seeking
+                                                                      argues that Moses failed to properly cite the record or to
+additional time to file an amended complaint in the event
+                                                                      legal authority as required by Tennessee Rule of Appellate
+the Claims Commission found she needed leave to do so.
+                                                                      Procedure 27(a)(7). Moses’ brief contains several errors in
+Moses asked the Claims Commission to deem her amended
+                                                                      legal citation and at least one fictitious case. In addition,
+complaint as having been properly filed on November 25,
+                                                                      Moses fails to cite to the appellate record. We disregard
+2024, or at least by January 16, 2025, when she filed her
+                                                                      any legal authorities cited by Moses that we cannot verify
+motion to amend. Additional procedural history unfolded, and
+                                                                      as authentic. However, in view of Moses’ pro se status,
+neither party requested oral argument.
+                                                                      the straightforwardness of the issues on appeal, the relative
+                                                                      brevity of the record, and our general preference to resolve
+ *2 In February 2025, the Commissioner entered his final
+                                                                      cases on their merits, we decline to dismiss Moses’ appeal for
+order in which he granted the State's motion to dismiss and
+                                                                      noncompliance with the rules of briefing.
+to strike. The Commissioner ruled that Moses’ pre-suit notice
+
+
+
+                © 2026 Thomson Reuters. No claim to original U.S. Government Works.                                                2
+Moses V. State, Slip Copy (2026)
+
+
+                                                                  required dismissal of her complaint. The Commissioner went
+ *3 We next address whether Moses was denied a meaningful
+                                                                  on to find that, “[e]ven if it is assumed Claimant could
+opportunity to be heard. Moses asserts that the Claims
+                                                                  correct her deficiency by filing an Amended Complaint,”
+Commission wrongly held her to the same standard as a
+                                                                  the certificate accompanying the proposed amendment was
+licensed attorney; that her due process rights were violated
+                                                                  deficient in two separate ways. One, the Commissioner
+because her case was dismissed without a hearing; and that
+                                                                  found that under Tenn. Code Ann. § 29-26-122(a)(2)(B), the
+the legislative intent of Tenn. Code Ann. § 29-26-122 was
+                                                                  certificate must be based on the medical records reviewed or
+misapplied to yield an unduly harsh result. The State argues
+                                                                  another good faith basis, whereas Moses simply said that she
+that Moses failed to raise these purported issues below;
+                                                                  had consultations with experts. Two, the Commissioner stated
+therefore they are waived. However, the issues Moses raises
+                                                                  that the certificate was non-compliant for failure to identify
+regarding the alleged violations of her rights and unfair
+                                                                  specific defendants.
+treatment as a pro se litigant do not stem from anything she
+could have raised before the Claims Commission at the time.
+                                                                  Moses argues on appeal that filing a certificate of good faith
+Therefore, she has not waived these issues for failure to raise
+                                                                  with an amended complaint cures any error. However, she
+them below.
+                                                                  offers no argument on the Claims Commission's alternative
+                                                                  holding that the certificate of good faith filed with the
+With respect to Moses’ assertion that she was denied a
+                                                                  amended complaint in this instance is defective. “The failure
+hearing, we note that no hearing was requested.2 Moses was
+                                                                  to challenge [an] independent alternative ground requires this
+able to, and did, file papers setting out her arguments in
+                                                                  court to affirm the trial court's ruling without considering
+writing. Therefore, Moses was able to make her case; she
+                                                                  the issue that was raised on appeal.” Ramos v. Caldwell, No.
+simply did not prevail. As for Moses’ contention that she was
+                                                                  M2022-00222-COA-R3-CV, 2023 WL 1776243, at *4 (Tenn.
+treated unfairly as a pro se litigant, we have observed that
+                                                                  Ct. App. Feb. 6, 2023). “[W]here a trial court provides more
+“courts must not excuse pro se litigants from complying with
+                                                                  than one separate and independent ground for its judgment
+the same substantive and procedural rules that represented
+                                                                  and a party fails to appeal one or more of the independent
+parties are expected to observe.” Young v. Barrow, 130 S.W.3d
+                                                                  grounds, we must affirm the judgment of the trial court on
+59, 63 (Tenn. Ct. App. 2003). We find no evidence in this
+                                                                  the ground that was not challenged on appeal.” Buckley v.
+record that Moses was ever treated unfairly by the Claims
+                                                                  Elephant Sanctuary in Tennessee, Inc., 639 S.W.3d 38, 55
+Commission, which specifically considered pro se status in
+                                                                  (Tenn. Ct. App. 2021).
+finding the pre-suit notice sufficient. Finally, Moses argues
+that Tennessee's health care liability jurisprudence is unduly
+                                                                   *4 Given the alternative bases of the Commissioner's ruling,
+harsh and places procedural exactitude over substantive merit.
+                                                                  Moses cannot prevail in this appeal because she has not
+Moses also cites Tenn. Code Ann. § 9-8-307(a)(3) and its
+                                                                  challenged the finding that the certificate attached to the
+provision that the jurisdiction of the Claims Commission is
+                                                                  amended complaint was defective. We therefore affirm.
+to be liberally construed. However, the jurisdiction of the
+Claims Commission is not at issue. Respectfully, we discern
+Moses’ argument to be of a policy nature. Such views are
+better addressed to the Tennessee General Assembly than to        Conclusion
+this Court. In sum, Moses has failed to demonstrate that she
+                                                                  The judgment of the Claims Commission is affirmed, and this
+was denied a meaningful opportunity to be heard.
+                                                                  cause is remanded to the Claims Commission for collection
+                                                                  of the costs below. The costs on appeal are assessed against
+The final issue we address is whether the Commissioner erred
+                                                                  the Appellant, Pamela Moses, and her surety, if any.
+in granting the State's motion to dismiss. In this case, the
+Claims Commission concluded that Moses was required to
+file a certificate of good faith with her original complaint      All Citations
+and that her failure to file either the certificate or a motion
+for extension of time under Tenn. Code Ann. § 29-26-122           Slip Copy, 2026 WL 518478
+
+
+Footnotes
+
+
+
+
+               © 2026 Thomson Reuters. No claim to original U.S. Government Works.                                           3
+Moses V. State, Slip Copy (2026)
+
+
+
+1     On October 27, 2025, this Court entered an administrative order concerning the failure of appellee Bryan Drew Benbow
+      to file a brief. On November 14, 2025, we entered an order directing Dr. Benbow to file a brief or show cause why this
+      appeal should not be decided on the record and the State's and Moses’ briefs only. Moses then filed a “motion for finding
+      of waiver” asking that we find that Dr. Benbow waived his ability to defend this appeal. The State, for its part, filed a motion
+      asserting that we wrongly listed Dr. Benbow as a party and asking that we remove him as a party pursuant to Tenn. R.
+      App. P. 19(e), nunc pro tunc to March 18, 2025, when this appeal was docketed. The State goes further and argues that
+      we lacked subject matter jurisdiction to list Dr. Benbow as a party to begin with, citing among other cases Myers v. Hurst
+      Constr. Co., No. 01-A-01-9609-CV-00397, 1997 WL 92078, at *2 (Tenn. Ct. App. Mar. 5, 1997), no appl. perm. appeal
+      filed (stating that the Claims Commission has no jurisdiction against individuals). The State goes further still, asking that
+      we vacate our October 27, 2025, administrative order, and direct the Clerk's Office to eliminate any metadata showing
+      that Dr. Benbow ever was a party to this appeal. Based on our review of the record, the inclusion of Dr. Benbow as a
+      party-appellee was erroneous. We therefore vacate our October 27, 2025, administrative order concerning Dr. Benbow
+      and our November 14, 2025, show cause order. Dr. Benbow is dismissed as a party. We deny the State's other requested
+      relief. We also deny Moses’ motion for finding of waiver.
+
+2     The standing initial order governing regular docket claims in the Claims Commission contained in the appellate record
+      reflects that “[t]he Commission will normally decide motions on the written submissions, unless a party submits a written
+      request for oral argument of the motion or requested by the Commissioner.”
+
+
+
+End of Document                                                        © 2026 Thomson Reuters. No claim to original U.S.
+                                                                                                   Government Works.
+
+
+
+
+              © 2026 Thomson Reuters. No claim to original U.S. Government Works.                                                  4
+

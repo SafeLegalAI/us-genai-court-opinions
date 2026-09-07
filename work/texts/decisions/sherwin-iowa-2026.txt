@@ -1,0 +1,268 @@
+     IN THE COURT OF APPEALS OF IOWA
+                       _______________
+
+                           No. 25-0992
+                        Filed July 22, 2026
+                       _______________
+
+                   Cecilia and Joseph Sherwin,
+                       Plaintiffs–Appellants,
+                                  v.
+      State of Iowa, Division of Criminal Investigation and
+                 Jackson County Sheriff’s Office,
+                      Defendants–Appellees.
+                      _______________
+
+      Appeal from the Iowa District Court for Jackson County,
+              The Honorable Mark R. Lawson, Judge.
+                      _______________
+
+                          AFFIRMED
+                       _______________
+
+          Cecilia and Joseph Sherwin, Bellevue, Nebraska,
+                     self-represented appellants.
+
+ Brenna Bird, Attorney General; Eric H. Wessan, Solicitor General;
+    and Patrick C. Valencia, Deputy Solicitor General, attorneys
+   for appellees State of Iowa, Division of Criminal Investigation.
+Robert M. Livingston of Stuart Tinley Law Firm, LLP, Council Bluffs,
+        attorney for appellee Jackson County Sheriff’s Office.
+                        _______________
+
+                 Considered without oral argument
+            by Tabor, C.J., and Chicchelly and Sandy, JJ.
+                       Opinion by Tabor, C.J.
+
+
+                                  1
+TABOR, Chief Judge.
+
+        The parents of Anthony Sherwin, a suspect in the murders of three
+campers at a state park, challenge the dismissal of their lawsuit against the
+agencies investigating those crimes. Cecilia and Joseph Sherwin object to
+their treatment by county and state law enforcement as the investigation of
+the murders unfolded. Their petition alleged false imprisonment, intentional
+infliction of emotional distress, violation of their right to privacy, and loss of
+consortium. The district court found it lacked jurisdiction to consider the
+Sherwins’ claims against the State. The court also dismissed their claims
+against the county as untimely. Finding dismissal was proper, we affirm.
+
+I.     Facts and Prior Proceedings
+
+       In July 2022, the Jackson County Sheriff's Office and the Iowa
+Division of Criminal Investigation (DCI) responded to a triple homicide at
+the Maquoketa Caves State Park campground. 1 Officers located three
+bodies—a mother, a father, and their six-year-old child—as well as the body
+of the twenty-three-old Anthony Sherwin.
+
+       According to the Sherwins’ petition, Cecilia, Joseph, and Anthony
+arrived at the park around sunset on July 21. Having driven from Nebraska,
+Cecilia was tired and retired early. But she woke before dawn to “what
+sounded like children playing in the woods.” She recalled later hearing what
+
+
+
+       1
+         We take these facts from the Sherwins’ petition and the State’s brief in support
+of its motion to dismiss. The State’s brief links to an August 2022 press release from the
+Iowa Department of Public Safety revealing the autopsy results for the victims and the
+alleged perpetrator. The state medical examiner determined that the campers’ deaths
+were homicides and ruled that Sherwin’s death was suicide. The press release stated that
+Sherwin “died from a self-inflicted gunshot wound.”
+
+
+
+                                            2
+she believed were people fighting and yelled for Anthony to stay in his tent.
+Cecilia later heard four gunshots.
+
+       After the shooting stopped, Cecilia asserts that a young boy appeared
+at her tent, describing the person who fired a gun at his family. According to
+the petition, the boy’s description did not match Anthony’s build or clothing.
+The petition alleged that Cecilia “screamed for someone to call police.”
+When no campers responded, she took the boy to the park’s entrance and
+called 911.
+
+       At 7 a.m., a deputy with the Jackson County Sheriff’s Office arrived.
+Cecilia claims that “Anthony became a suspect” when the deputy found out
+that he was missing and the family was traveling with firearms. The petition
+then outlined law enforcement’s interactions with Cecilia and Joseph,
+including repeated questions about where Anthony was hiding. Officers kept
+the couple at the campsite all day. And, according to the petition: “All
+requests for phones, purses, medicine, and a pen and pencil were denied.”
+
+       Around 10:30 a.m., a DCI agent told Cecilia and Joseph that they
+found their son’s body using surveillance from an airplane, a claim which the
+plaintiffs viewed skeptically in their petition. The petition detailed health
+conditions suffered by Cecilia and Joseph that were exacerbated by the July
+heat and stress of being detained. Later in the day, law enforcement arranged
+for Cecilia and Joseph to stay at a local hotel. They were given permission to
+return to Nebraska the next morning.
+
+       In January 2025, Cecilia and Joseph, representing themselves, filed a
+petition in the Jackson County district court alleging four torts against the
+
+
+
+
+                                      3
+investigative agencies. 2 Under the statute-of-limitations heading, the
+Sherwins alleged that their action accrued when they began seeing a
+psychologist in April 2023 who diagnosed them with post-traumatic stress
+disorder and prolonged grief reaction. For their delayed pro se filing, the
+petition offered this explanation: “The severity of the detainment was so
+extreme and the investigation so biased that attorneys in Iowa did not want
+anything to do with it. Plaintiffs were therefore left with representing
+themselves while recovering from post-traumatic stress disorder brought on
+by defendants.”
+
+        Both the State and the county moved to dismiss on various grounds.
+The Sherwins responded by asking the district court to require the county
+and State to “certify whether or not they have, or plan to use Chat GPT, AI
+or any other generative AI in their filings.” When the county and State did
+not respond to their “motion to certify,” the Sherwins moved to “strike the
+defendants’ filings in full and to proceed to default judgment.” In a separate
+filing, the Sherwins resisted the motions to dismiss.
+
+       In May 2025, the district court ruled on the pending motions. At the
+outset, the court denied the Sherwins’ motion to strike, noting that they did
+not cite “any relevant legal authority that requires the defendants to ‘certify’
+that they have or have not used AI resources in their filings.” The court
+further declared: “There is nothing inherently wrong with any party using AI
+resources to assist their research and drafting.”
+
+      Next, the court dismissed the Sherwins’ claims against the State,
+without prejudice, finding it lacked subject matter jurisdiction because they
+
+       2
+         The petition names the State of Iowa, the DCI, and the Jackson County Sheriff’s
+Office as defendants. We refer to the first two defendants as the State and the third
+defendant as the county.
+
+
+
+                                           4
+did not exhaust their administrative remedies under Iowa Code chapter 669
+(2025). The court also dismissed their claims against the county, with
+prejudice, finding them time barred under Iowa Code section 670.5 and
+Venckus v. City of Iowa City, 930 N.W.2d 792, 809 (Iowa 2019).
+
+        The Sherwins moved to vacate the order, raising three alleged errors.
+First, they complained that the district court “falsely implie[d] that Anthony
+died of a single gunshot instead of two that the autopsy report” and their
+meeting with an agent allegedly confirmed. Second, they objected to the
+district court’s citation to a case that did not appear in the motions to
+dismiss.3 Third, the Sherwins insisted that, “[i]f defendants are using AI,
+then that constitutes [an] unlawful practice of law because its work has not
+been verified.” The court treated the motion to vacate as a motion to
+reconsider under Iowa Rule of Civil Procedure 1.904(2) and denied it. The
+Sherwins appeal.
+
+II.    Scope and Standard of Review
+
+       “Exhaustion of the administrative process is jurisdictional, and a suit
+commenced without complying with this process is subject to dismissal.”
+Swanger v. State, 445 N.W.2d 344, 347 (Iowa 1989). From there, the district
+court has inherent power to decide “whether it has jurisdiction over the
+subject matter of the proceedings before it.” Segura v. State, 889 N.W.2d 215,
+219 (Iowa 2017) (quoting Klinge v. Bentien, 725 N.W.2d 13, 15 (Iowa 2006)).
+
+
+       3
+         In ruling on the motion to dismiss, the district court cited Shumate v. Drake Univ.,
+846 N.W.2d 503, 507 (Iowa 2014), which was quoted in Benskin, Inc. v. West Bank, 952
+N.W.2d 292, 298 (Iowa 2020), the case the Sherwins were unable to find. The Sherwins
+believe that Shumate improperly replaced the case of Southard v. Visa U.S.A. Inc., 734
+N.W.2d 192, 194 (Iowa 2007), cited by the State for the general proposition that “[a]
+motion to dismiss tests the legal sufficiency of the challenged pleading.”
+
+
+
+                                             5
+We review the dismissal of the claims against the State for correction of
+errors at law. Id. Likewise, we review the dismissal of the untimely claims
+against the county for errors at law. Abrahamson v. Scheevel, 31 N.W.3d 20, 24
+(Iowa 2026).
+
+III.   Analysis
+
+       On appeal, the Sherwins reprise the three complaints from their
+motion to vacate: (1) they question the district court’s reliance on Shumate,
+(2) they contend that the defendants should have been required to “disclose
+whether they were using generative AI when their motion to dismiss
+contained a suspicious case,” and (3) they maintain that the court
+“prejudicially stated that [their] son died of a single gunshot wound.” For all
+three complaints, they contend the district court acted with prejudice.
+
+      But missing from the Sherwins’ appellate argument is a challenge to
+the grounds for dismissal. As the State points out, “[t]he Sherwins do not
+preserve error on any claim related to their failure to exhaust their
+administrative remedies because they do not raise that issue on appeal.”
+Likewise, for their claims against the county, the Sherwins do not contest the
+applicability of Iowa Code section 670.5 and thus have waived that issue.4 See
+Aluminum Co. of Am. v. Musal, 622 N.W.2d 476, 479–80 (Iowa 2001) (“Issues
+not raised in the appellate briefs cannot be considered by the reviewing
+court.”); see also Hubby v. State, 331 N.W.2d 690, 694 (Iowa 1983) (“[I]ssues
+
+       4
+         The Iowa Municipal Tort Claims Act (IMTCA) applies to the Sherwins’ claims
+against Jackson County. Iowa Code § 670.1(2). And actions brought under the IMTCA
+must be commenced “within two years after the alleged wrongful death, loss, or injury.”
+Id. § 670.5. “[T]he IMTCA bars any claim not filed within the requisite time period as
+measured from the date of injury rather than date of accrual.” Venckus, 930 N.W.2d at 807.
+Thus, the deadline for the Sherwins’ claims was July 2024. But they did not file their
+petition until January 2025.
+
+
+
+                                            6
+are deemed waived or abandoned when they are not stated on appeal by
+brief . . . .”)).
+
+       Returning to the Sherwins’ briefed arguments, those three collateral
+claims do not undermine the dismissals. On the first issue, the district court’s
+citation to Shumate was not a violation of any kind. A district court may rely
+on case law not cited by the parties. See, e.g., In re Marriage of Ulferts,
+No. 12-2144, 2013 WL 3458180, at *2 n.1 (Iowa Ct. App. July 10, 2013).
+
+       On the second issue, the district court properly denied the Sherwins’
+request to strike the defendants’ motions to dismiss because they did not
+certify whether they used “generative artificial intelligence” in their drafting.
+True, “self-represented litigants and attorneys alike have a duty to
+independently verify the authenticity and veracity of all sources and
+assertions when relying on artificial intelligence tools to prepare trial or
+appellate court filings.” Luke v. Dep’t of Health & Hum. Servs., 29
+N.W.3d 635, 636 (Iowa Ct. App. 2025). But nothing about the State’s citation
+to Benskin in its trial brief breached that duty. Even if the citation form was
+incomplete, the case was neither hallucinated nor “suspicious.” What’s
+more, the State cited the case for the familiar proposition that “[m]otions to
+dismiss are disfavored.” Benskin, 952 N.W.2d at 296. Thus, the district court
+did not act with prejudice by refusing to require the defendants to disclose
+any use of artificial intelligence.
+
+       In their third issue, the Sherwins focus on the district court’s opening
+paragraph stating that Anthony was “found dead of a gunshot wound.” The
+Sherwins allege their son died of two gunshot wounds. But their allegation
+that the district court misstated how their son died is not a legal error
+requiring reversal. As the State contends, “[t]he facts surrounding the death
+of the Sherwins’ son, though tragic, have no bearing on the Sherwins’ failure
+
+
+                                       7
+to exhaust their administrative remedies.” Likewise, proof of a factual error
+in the district court’s order would not make their claim against the county
+timely under section 670.5. The disputed fact is not relevant to the ruling on
+the motions to dismiss.
+
+       Because the district court properly dismissed the Sherwins’ case for
+failure to exhaust administrative remedies and failure to bring their claim
+within two years of the alleged injury, we affirm.
+
+      AFFIRMED.
+
+
+
+
+                                      8
+

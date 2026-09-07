@@ -1,0 +1,1692 @@
+Notice: This opinion is subject to formal revision before publication in the Atlantic
+and Maryland Reporters. Users are requested to notify the Clerk of the Court of
+any formal errors so that corrections may be made before the bound volumes go
+to press.
+
+              DISTRICT OF COLUMBIA COURT OF APPEALS
+
+                                  No. 23-CM-1067
+
+                              NIYA ROSS, APPELLANT,
+
+                                          v.
+
+                             UNITED STATES, APPELLEE.
+
+                          Appeal from the Superior Court
+                           of the District of Columbia
+                              (2023-CMD-006252)
+
+                      (Hon. Hiram E. Puig-Lugo, Trial Judge)
+
+(Submitted December 5, 2024                              Decided February 20, 2025)
+
+      Sweta Patel was on the brief for appellant.
+
+     Matthew M. Graves, United States Attorney at the time the brief was filed,
+and Chrisellen R. Kolb, Nicholas P. Coleman, Jasmine Dohemann, Nickolas Reck,
+and Kevin Birney, Assistant United States Attorneys, were on the brief for appellee.
+
+      Before DEAHL, HOWARD, and SHANKER, Associate Judges.
+
+      Opinion for the court by Associate Judge SHANKER.
+
+      Concurring opinion by Associate Judge HOWARD at page 20.
+
+      Dissenting opinion by Associate Judge DEAHL at page 27.
+
+      SHANKER, Associate Judge: Leaving a dog in a car on a hot day is always
+
+inadvisable. But is it always criminal? A statute tells us when it is, and, as with all
+                                          2
+
+crimes, the government must prove the elements of the statute beyond a reasonable
+
+doubt with evidence, not with appeals to common knowledge, common sense, or
+
+common understandings of right and wrong. Res ipsa loquitur is not a doctrine in
+
+the criminal law.
+
+
+      In this case, on a hot day in early September 2023, appellant Niya Ross left
+
+her dog Cinnamon in her car parked in the shade of a tree, with the windows lowered
+
+a few inches, for over an hour. Following a bench trial, Ms. Ross was convicted of
+
+animal cruelty in violation of D.C. Code §§ 22-1001, 22-1002.           At trial, the
+
+government presented little if any evidence regarding the temperature within the car,
+
+the weather conditions that Ms. Ross’s dog could comfortably tolerate, or symptoms
+
+of heat-related distress manifested by the dog.
+
+
+      On appeal, Ms. Ross argues that the evidence was insufficient to support her
+
+conviction. The government responds that it is “common knowledge” that a dog
+
+would suffer in the conditions present in Ms. Ross’s car that day. Because we do
+
+not believe common knowledge suffices to fill critical gaps in the government’s
+
+case, we reverse Ms. Ross’s conviction and remand with instructions to enter a
+
+judgment of acquittal.
+                                          3
+
+                   I.     Factual and Procedural Background
+
+
+      Viewing the evidence in the light most favorable to the verdict, the trial court
+
+could have found the following facts. On the hottest September fourth then on record
+
+in the District—reaching a high of ninety-eight degrees Fahrenheit1—Zachary
+
+Vasile was walking down N Street, NW, toward a supermarket when he heard
+
+“loud,” “incessant dog barking.” Turning toward the sound, Mr. Vasile noticed a
+
+dog—a “doodle” with “very dense sort of curled hair”—alone inside a car with the
+
+windows cracked open approximately three to five inches.               As Mr. Vasile
+
+approached the car, the dog noticed him and stopped barking.
+
+
+      Because of the “very hot” day and the “very loud,” “constant[ ]” nature of the
+
+dog’s barking, Mr. Vasile “realized this was a potentially dangerous situation for the
+
+dog.” He shouted for the dog’s owner and attempted to open the door of the vehicle,
+
+both to no avail. After about “five to six minutes” of shouting, Mr. Vasile called
+
+311 and explained the situation.
+
+
+      The 311 dispatcher sent “fire, animal control, and police” to Mr. Vasile’s
+
+location, putting out an “all call” for a “level [one] emergency,” defined as an animal
+
+
+      1
+        The trial court took judicial notice of “a printout from the National Weather
+Service, including temperature for Washington, D.C., on September the 4th, 2023.”
+Around the time of the incident, the dash thermometer of a responding police cruiser
+read approximately ninety-seven degrees Fahrenheit.
+                                            4
+
+“actively . . . in distress with a risk of death or great bodily injury.” Firefighters (the
+
+first on the scene) initially “looked around, trying to get a view of the dog.” They
+
+then forced a window further open, unlocked the car, and let the dog out. Shortly
+
+thereafter, Aristides Torres—an animal control officer—arrived. Officer Torres
+
+scanned the dog’s microchip, used the scan results to identify the owner’s phone
+
+number, and called the number repeatedly for ten to fifteen minutes. No one
+
+answered.
+
+
+       During his efforts, Officer Torres placed the dog inside his van. Once police
+
+officers arrived, Officer Torres opened the van to show them the dog. At that time,
+
+bodycam footage showed the dog’s tongue sticking out, suggesting that the dog was
+
+panting.
+
+
+       Mr. Vasile left the scene after approximately forty minutes, during which time
+
+the dog’s owner did not return to the car. Police officers, however, remained on the
+
+scene until Ms. Ross arrived at 6:11 p.m.—around an hour after responders were
+
+dispatched in response to Mr. Vasile’s call. Officers approached Ms. Ross as she
+
+was unlocking the car, asking, “Where’s your dog?” After Ms. Ross confirmed the
+
+dog belonged to her, officers placed her under arrest. Body-worn camera footage
+
+taken during the arrest shows Ms. Ross’s car parked in the shade of an adjacent tree.
+                                            5
+
+      The government charged Ms. Ross with one count of cruelty to animals under
+
+D.C. Code §§ 22-1001, 22-1002. At a bench trial, Ms. Ross contended that (1) the
+
+government failed to prove—particularly in the absence of expert testimony—that
+
+the dog suffered as a result of being left in the car and (2) she lacked the requisite
+
+intent for a conviction, relying in part on the testimony of a character witness. In
+
+support, she pointed out that Mr. Vasile did not testify regarding any symptoms of
+
+heat-related distress on the part of the dog. By contrast, Officer Torres affirmatively
+
+testified that when he arrived at the scene, the dog “didn’t look like it . . . was in
+
+distress.”
+
+
+      In response, the government referenced evidence showing that the dog was
+
+barking incessantly, that the dispatcher treated Mr. Vasile’s report as a level one
+
+emergency, and that Officer Torres, who had “responded to a dog locked in a [hot]
+
+car” more “than [fifty] times,” testified that if the dog had been left in the car longer,
+
+“it could definitely have been fatal.” The government also noted that Ms. Ross—a
+
+former pediatric nurse—testified that she had never left a child in a hot car for an
+
+hour because “that’s just not right.”
+
+
+      The trial court found Ms. Ross guilty. It explained that “the fact that Ms. Ross
+
+left not one, not two, but four windows rolled down a distance of about three to five
+
+inches shows that she knew that there was a plain and strong likelihood that harm
+                                          6
+
+might resolve to Cinnamon because of the heat.” It also found that there was no
+
+justification for Ms. Ross’s actions, as she did not remain within earshot of
+
+Cinnamon and left her alone for “roughly an hour and [fifteen] minutes,” not
+
+including “how long [Cinnamon] had been sitting in the car before Mr. Vasile’s
+
+arrival.” Finally, the trial court stated, “[Y]ou don’t need expert testimony to
+
+conclude that leaving a dog in a hot car for at least an hour and [twenty] minutes is
+
+failing to provide the dog with protection and shelter from the weather.”
+
+
+      This appeal followed.
+
+
+                                  II.    Analysis
+
+
+      Ms. Ross argues that the evidence presented at trial was insufficient to sustain
+
+her conviction, presenting two arguments to support this conclusion. First, she
+
+contends that, particularly in the absence of expert testimony, the government failed
+
+to demonstrate that “the circumstances in which [Cinnamon] was found” caused
+
+Cinnamon to suffer. Second, she attacks what in her view is the absence of evidence
+
+that she possessed the required mens rea—general intent with malice.
+
+
+      After discussing our standard of review and the elements of the District’s
+
+animal cruelty statute, we turn to Ms. Ross’s arguments.         As we agree with
+
+Ms. Ross’s first argument, we reverse without reaching her second.
+                                          7
+
+                             A.    Standard of Review
+
+
+      We review a claim of insufficient evidence de novo, considering “all the
+
+evidence in the light most favorable to the verdict[ and] according deference to the
+
+factfinder to weigh the evidence, determine credibility, and draw justifiable
+
+inferences of fact.” Wicks v. United States, 226 A.3d 743, 746-47 (D.C. 2020)
+
+(internal quotation marks omitted). It follows that, where bench trials are concerned,
+
+we “are deferential to the prerogatives and advantages of the trial judge” and “will
+
+not disturb the trial judge’s factual findings unless we can conclude they were plainly
+
+wrong or without evidence to support them.” Augustin v. United States, 240 A.3d
+
+816, 824 (D.C. 2020). We affirm the trial court’s judgment if “any rational trier of
+
+fact could have found the essential elements of the crime beyond a reasonable
+
+doubt.” Rivas v. United States, 783 A.2d 125, 134 (D.C. 2001) (en banc) (internal
+
+quotation marks omitted).
+
+
+      But this review “means more than that there must be some relevant evidence
+
+in the record in support of each essential element of the charged offense”; “[s]light
+
+evidence is not sufficient evidence.” Id. at 134. Indeed, evidence is not sufficient
+
+unless it “eliminate[s] the possibility that the [factfinder’s] verdict was based on
+
+surmise or conjecture.” See Long v. United States, 156 A.3d 698, 713 (D.C. 2017)
+
+(internal quotation marks omitted).
+                                           8
+
+                          B.   Elements of Animal Cruelty
+
+
+      D.C. Code § 22-1001 provides, in relevant part, that anyone with “charge or
+
+custody of any animal” who “unnecessarily fails to provide the same with proper
+
+food, drink, air, light, space, veterinary care, shelter, or protection from the weather”
+
+is guilty of a misdemeanor. And, although § 22-1001 uses the word “knowingly,”
+
+we have interpreted it to require a mens rea of “general intent with malice.”
+
+Dauphine v. United States, 73 A.3d 1029, 1032-33 (D.C. 2013). So, to sustain
+
+Ms. Ross’s conviction for animal cruelty, we must find sufficient evidence that
+
+(1) she failed to provide Cinnamon with proper protection from the weather, (2) she
+
+“had no justification, excuse or recognized mitigation” for her actions, and (3) she
+
+“was at least aware of the plain and strong likelihood” that harm may result,
+
+Dauphine, 73 A.3d at 1032-33 (internal quotation marks omitted).
+
+
+      Where prong one of the above test is concerned, generalized evidence is not
+
+sufficient evidence. Instead, evidence of improper protection from the weather must
+
+be particularized to both the dog and situation at hand. See Jordan v. United States,
+
+269 A.2d 848, 849 (D.C. 1970) (“In the absence of testimony . . . that the shelter or
+
+protection from the weather supplied this dog on this occasion would cause the dog
+
+to suffer, the evidence was insufficient to sustain the conviction.” (emphasis added
+
+and footnote omitted)).
+                                           9
+
+                    C.     Proper Protection from the Weather
+
+
+        With the preliminaries settled, we turn to Ms. Ross’s contention that the
+
+evidence was insufficient to support, beyond a reasonable doubt, the conclusion that
+
+she failed to properly protect Cinnamon from the weather. We agree with Ms. Ross
+
+that the government’s case was insufficient as a matter of law. Although the record
+
+supports the conclusion that some dogs, if left in a hot car for some undefined period
+
+of time, would suffer, no reasonable finder of fact could conclude beyond a
+
+reasonable doubt that Cinnamon suffered or would have suffered on September 4,
+
+2023.
+
+
+        We note at the outset that the evidence presented at trial does not establish
+
+two critical facts: (1) the actual temperature inside the car and (2) the presence of
+
+symptoms of heat-related distress in Cinnamon.
+
+
+        The government does not contend on appeal that it proved either of the above
+
+two facts. Instead, it suggests that it could rely on the factfinder to infer those facts
+
+by applying its common sense to other evidence in the record. According to the
+
+government, it was enough for it to prove only that (1) the temperature outside of
+
+the car was approximately ninety-eight degrees Fahrenheit and (2) Cinnamon would
+
+have (had she not been released) remained within the car for approximately one hour
+
+and twenty minutes.
+                                          10
+
+      We disagree. To be sure, a factfinder may, as a general matter, use their
+
+common sense and everyday experience to draw “reasonable inferences from the
+
+evidence presented in a trial.” Long, 156 A.3d at 714. But where these “common
+
+sense” inferences are grounded in the assumed nonexistence of mitigating facts, they
+
+will often “cross[ ] the line . . . into the prohibited territory of surmise and
+
+conjecture.” See id. at 714-15. Reasonable inferences must be drawn from, and
+
+common sense applied with respect to, evidence; inferences and common sense
+
+cannot serve as substitutes for evidence. See id. at 714. Cf. Galloway v. United
+
+States, 319 U.S. 372, 387 (1943).
+
+
+      The facts in Long amply illustrate this principle. There, we held that the
+
+evidence was insufficient for a jury to conclude beyond a reasonable doubt that a
+
+stolen, ten-year-old Dodge Intrepid was worth at least $1,000 absent evidence of the
+
+“cost of the Intrepid when new,” “the price [the complainant] paid for it at” auction,
+
+or the car’s “mileage, maintenance history, or Bluebook value at the time of the
+
+robberies.”   Long, 156 A.3d at 714.        This was so even though the evidence
+
+established that (1) the car was “pretty clean,” (2) the robbers were able to drive the
+
+car at significant speed during a police chase, (3) the car was operable throughout
+
+the more-than-two-year period between when the complainant recovered it and the
+
+robbers’ trial and (4) the body of the car was in “decent condition, with no significant
+
+dents or scratches beyond what one would ordinarily expect to see on a ten-year-old
+                                          11
+
+car in a busy urban area.” Id. In short, where the jury could not rule out the existence
+
+of facts that would reduce the value of the car, their “common sense” valuation could
+
+not make up the difference.
+
+
+      One might think that a functional car would obviously have been worth more
+
+than $1,000.2 That instinct, however, is not enough; Long teaches that a hunch as to
+
+whether a fact is obvious—even one supported by common sense and everyday
+
+experience—does not suffice where mitigating circumstances could reasonably have
+
+
+
+
+      2
+        We, like the dissent, harbor doubts about whether ChatGPT is “a good proxy
+for what is, and what isn’t, common knowledge.” Post at 37 n.4. But to the extent
+the dissent relies on ChatGPT’s degree of certainty as to whether leaving a dog in a
+hot car is harmful, we note that ChatGPT expresses similar certainty in its response
+to the query, “How much would a pretty clean, operable 2002 Dodge Intrepid with
+no significant dents or scratches have been worth in 2012?”:
+             In 2012, a 2002 Dodge Intrepid in pretty clean, operable
+             condition with no significant dents or scratches would
+             have likely been worth between $3,000 and $5,000.
+             The exact price would have depended on factors such as
+             mileage, location, and the specific condition of the car
+             (interior, mechanical health, etc.). For instance, a lower-
+             mileage model with a well-maintained engine could have
+             been closer to the higher end of that range, while a higher-
+             mileage model might have been valued closer to the lower
+             end. Generally, as a mid-size sedan from 2002, it would
+             not have been fetching a premium price by 2012, but it still
+             had decent value as an affordable used car.
+Note that $3,000 (ChatGPT’s minimum price) is significantly above the $1,000
+threshold at issue in Long. ChatGPT’s analysis, therefore, does not correspond to at
+least one of our sufficiency decisions.
+                                         12
+
+been in play. See 156 A.3d at 714-15; see also Mejia-Cortez v. United States, 256
+
+A.3d 210, 214 (D.C. 2021) (explaining that “due process generally requires actual
+
+proof beyond a reasonable doubt” of each “critical fact,” “even where the fact in
+
+question may seem incontrovertible”). With this conclusion in mind, we now turn
+
+to the case before us.
+
+
+      Where Cinnamon is concerned, a reasonable factfinder would have found that
+
+mitigating circumstances could have reasonably been in play.        We reach this
+
+conclusion for two reasons: (1) the specific conditions in which Cinnamon was
+
+found suggest that the temperature within the car may have been cooler than the
+
+unshaded surrounding area and (2) testimony established that Cinnamon manifested
+
+no symptoms of heat-related distress despite spending approximately forty minutes
+
+inside the car before she was let out.
+
+
+      We begin with the conditions in which Cinnamon was found. We, like our
+
+dissenting colleague, would balk at entering a closed car, parked in full sun, on a
+
+summer’s day. But we seek out shaded parking and leave windows cracked open to
+
+avoid just such an unpleasant circumstance. Here, no witness testified that the car
+
+was exposed to direct sunlight, the body-worn camera footage admitted by the
+
+government seems to show Ms. Ross’s car parked in the shade, and Ms. Ross left all
+                                         13
+
+four of the car’s windows open between three and five inches. 3 It seems to us,
+
+therefore, that the interior of the car could well have been cooler than the car’s
+
+unshaded surroundings. And this possibility, in our view, creates a reasonable doubt
+
+as to whether Cinnamon was enduring harsh conditions inside the car.
+
+
+      Our conclusion in this regard is bolstered by Officer Torres’s testimony that,
+
+despite having spent approximately forty minutes inside the car, Cinnamon “looked
+
+fine,” did not appear “in distress,” and seemed in good health. If the interior of the
+
+car were in fact hot enough to cause a dog like Cinnamon to suffer, we would expect
+
+Cinnamon to have manifested at least some symptoms of exposure to heat. Indeed,
+
+in each of the out-of-jurisdiction cases in which an appellate court has found the
+
+evidence sufficient to sustain an animal-cruelty conviction for leaving a dog in a hot
+
+car, the dog presented just such symptoms. See State v. Butler, 293 A.3d 191, 194
+
+(N.H. 2022) (explaining that the confined dog post-rescue registered an internal
+
+temperature of “over 105 degrees” and required “24-hour-care” in a “veterinary
+
+hospital”); State v. Washburn, 325 A.3d 136, 143 (Vt. 2024) (referencing the
+
+confined dog’s “panting,” “swollen” tongue, and diagnosis with the “early stages of
+
+
+
+      3
+        The trial court viewed the fact that the windows were lowered as evidence
+of Ms. Ross’s knowledge that leaving a dog in a car on a hot day is dangerous, but
+the fact certainly undermines any assumption that the temperature inside the car
+soared as it would in a completely closed car.
+                                           14
+
+heat exhaustion”); City of Beachwood v. Pearl, 111 N.E.3d 620, 636 (Ohio Ct. App.
+
+2018) (relying on testimony that the confined dogs were “panting profusely with
+
+very dry, hot tongues,” were “beginning to become distressed,” and were “showing
+
+signs of heatstroke or dehydration”).4 The absence of such symptoms here cements
+
+our conclusion that a reasonable factfinder must have had a reasonable doubt in this
+
+case.5
+
+
+         Before turning to the response of the government and the dissent, we pause to
+
+underscore why Long and Mejia-Cortez encourage caution where a factfinder relies
+
+on “common sense” assumptions: what we believe to be true may not be so. Take
+
+the inference that shade and ventilation could not have kept the temperature of
+
+Ms. Ross’s car within a tolerable range. A Department of Energy website suggests
+
+that “air temperatures directly under trees can be as much as 25°F cooler than air
+
+
+
+        The dissent points out that in these three cases, our sister courts found the
+         4
+
+evidence sufficient despite the dogs having been “left in cars for both briefer periods
+and on cooler days.” Post at 40. This critique misses the mark—we are not
+suggesting that no dog left in a car on a ninety-eight degree day for an hour and
+twenty minutes will suffer. Instead, we contend that because, despite being left
+within a car for a longer period and on a hotter day than those other dogs, Cinnamon
+did not manifest their symptoms, we see a reasonable probability that Cinnamon was
+differently situated from those other dogs. Put differently, the absence of symptoms
+of heat exhaustion in Cinnamon reinforces the conclusion that mitigating
+circumstances (e.g., shade, ventilation) were at play in her case.
+         Because this holding alone suffices to reverse Ms. Ross’s conviction, we
+         5
+
+need not address Ms. Ross’s contention that the evidence was insufficient to prove
+that she acted with malice.
+                                         15
+
+temperatures above nearby blacktop.” Landscaping for Shade, U.S. Dep’t Energy,
+
+https://www.energy.gov/energysaver/landscaping-shade;        https://perma.cc/DB76-
+
+HYJ6. If the Department of Energy’s estimate is correct, the temperature inside of
+
+the shaded car could have been seventy-three degrees Fahrenheit—twenty-five
+
+degrees cooler than the temperature recorded by the police car. Or, to give another
+
+example, the government suggests that Cinnamon’s fur acted “as an additional layer
+
+that retains heat,” but the American Kennel Club explains that many dogs with
+
+apparently thick fur have double coats that, by creating an insulating effect, in fact
+
+help keep them “cool in hot weather.” Harriet Meyers, Is It OK to Shave Your Dog’s
+
+Coat    in   Summer,    American      Kennel    Club,    https://www.akc.org/expert-
+
+advice/health/is-it-ok-to-shave-your-dog/; https://perma.cc/PVH5-B477.
+
+Cinnamon’s fur thus might cut against the government.
+
+
+       We express no opinion on the accuracy of the facts asserted by the above
+
+sources; adversarial testing at trial could well have debunked them. We cite them
+
+only to support the following point. When a factfinder engages in “common sense”
+
+adjudication in place of adjudication grounded in evidence, it creates a greater risk
+                                         16
+
+that its judgment will rest on factual error—the exact sort of risk that the “beyond a
+
+reasonable doubt standard” was designed to reduce. See Rivas, 783 A.2d at 133.6
+
+
+      The government and the dissent respond to our conclusion that the evidence
+
+was insufficient in two ways.
+
+
+      First, they dispute our conclusion that Cinnamon manifested no symptoms of
+
+heat-related distress. For its part, the government suggests that Cinnamon “showed
+
+outward signs of distress given her incessant barking.” But the government and
+
+Ms. Ross offer equally plausible, competing explanations for Cinnamon’s barking—
+
+the government reads it as a cry for relief from the heat, while Ms. Ross suggests it
+
+stemmed from separation anxiety. As neither we nor the trial court speak dog—and
+
+the government offered no witness who purported to do so—we are not convinced
+
+
+
+
+      6
+         The dissent recognizes that what a factfinder considers to be common
+knowledge may prove incorrect. We cannot agree, however, with the dissent’s
+implied solution—that a factfinder need only reexamine its assumptions when faced
+with evidence that “actually undermines or contradicts [them].” See post at 37. That
+contention runs headlong into the proposition, recognized by the trial court, that a
+criminal defendant is “not required to prove anything.” See also Porter v. United
+States, 826 A.2d 398, 407 (D.C. 2003) (“[E]very defendant in a criminal trial has a
+right not to testify or not to produce any evidence, and the burden of proving guilt
+rests with the government.”). We thus find the dissent’s reliance on Ms. Ross’s
+failure “to offer any contradictory evidence” ill-taken. Post at 30.
+                                          17
+
+that a reasonable factfinder, applying the beyond-a-reasonable-doubt standard, could
+
+adopt the government’s interpretation to the exclusion of Ms. Ross’s. 7
+
+
+      The dissent, rather than rely on Cinnamon’s barking, cites body-worn camera
+
+footage (taken while Cinnamon was inside Officer Torres’s van) that it contends
+
+shows Cinnamon “panting heavily.” Post at 41. It also notes that Officer Torres
+
+identified excessive panting as a sign of heat-related distress. We, however, think
+
+that Officer Torres is the better judge of what constitutes excessive panting. And
+
+Officer Torres reported no signs of distress when he examined Cinnamon. We do
+
+not believe that our obligation to view the evidence in the light most favorable to the
+
+government requires us to supplant a diagnosis made by an animal control officer
+
+present at the scene with our own “common sense.”
+
+
+      Second, the government and the dissent contend that Officer Torres’s
+
+testimony filled any record gaps regarding the conditions within Ms. Ross’s car. So,
+
+
+      7
+         At the risk of sounding like a broken record, the government’s “common
+sense” inference regarding the cause of Cinnamon’s barking again appears to rest on
+a shaky foundation. The Royal Society for the Prevention of Cruelty to Animals
+does not list barking as a symptom of heatstroke in dogs. Dog Heatstroke
+Treatment, RSCPA, https://www.rspca.org.uk/adviceandwelfare/pets/dogs/health/h
+eatstroke; https://perma.cc/9SUR-TZUW. By contrast, the American Kennel Club
+lists “barking” as indicative of separation anxiety. Randa Kriss, Anxiety in Dogs:
+Signs, Symptoms, Treatment, American Kennel Club, https://www.akc.org/expert-
+advice/health/treating-dog-anxiety/; https://perma.cc/6KBU-VJ7M. To reiterate,
+however, we do not rely on this extra-record evidence for purposes of resolving this
+appeal.
+                                          18
+
+let’s look at that testimony. Officer Torres testified that “dogs locked in cars can be
+
+fatal, given the time frame of how long they’ve been in a car.” He explained that
+
+the temperature inside a car, depending on its time of exposure, can be “double” the
+
+exterior temperature. Finally, he stated that if Cinnamon had been left in the car for
+
+longer, “it could definitely have been fatal.”
+
+
+      That’s a lot of caveats. We do agree, as a matter of common sense, with the
+
+thrust of Officer Torres’s testimony. Yes, the interior of a car can, depending on the
+
+car’s degree of exposure to the elements, become hotter than the exterior
+
+temperature. And yes, locking a dog in a car can be fatal, depending on how long
+
+the dog remains in the car and how hot the car’s interior becomes.              Those
+
+propositions are but truisms. What is missing from Officer Torres’s testimony is
+
+specifics. For how much longer did Cinnamon need to be left in the car? At what
+
+interior temperature does sustained exposure pose a risk of health consequences?
+
+Officer Torres did not say. And even if he had said, he had no way of knowing
+
+whether those thresholds were reached in Cinnamon’s case. How could he? After
+
+all, he (1) “didn’t inspect the vehicle” and (2) thought Cinnamon “looked fine.”
+
+
+      At bottom, Officer Torres’s testimony rests on similar assumptions to those
+
+we rejected above. To us, therefore, his testimony cannot fill the gaps we have
+                                         19
+
+identified. 8 Accordingly, we hold fast to our conclusion that the evidence presented
+
+in this case was insufficient.
+
+
+      By reaching this holding, we in no way intend to question the actions taken
+
+by Mr. Vasile, the firefighters, Officer Torres, and the responding police officers.
+
+To the contrary, we commend them for their heroic efforts; where a situation could
+
+be dangerous for an animal like Cinnamon, we hope all would respond just as
+
+Mr. Vasile did. And let us repeat: leaving a dog in a car on a hot day is at a minimum
+
+ill-advised. The question here, though, is whether it was criminal. And where
+
+criminal sanctions are concerned, “could be” is not enough. We thus reverse
+
+Ms. Ross’s conviction.
+
+
+
+
+      8
+        We do not think we are being too stingy with respect to Officer Torres’s
+testimony. After all, we have not created the requirement that the government’s
+showing be particularized to the circumstances involved in the alleged cruelty out of
+whole cloth—that requirement flows from our statements in Jordan. See 269 A.2d
+at 849 (noting that the factfinder’s determination of guilt must focus on “the shelter
+or protection from the weather supplied this dog on this occasion” (emphasis
+added)).
+                                           20
+
+                                   III.   Conclusion
+
+
+         For the foregoing reasons, we reverse and remand with instructions to enter a
+
+judgment of acquittal.
+
+
+                                                So ordered
+
+
+         HOWARD, Associate Judge, concurring: I join the majority opinion and write
+
+separately only to address a point of significant interest, raised by the writings of my
+
+colleagues, which together represent the first published discussion involving the use
+
+of AI tools in decision making at this court. Following in the recent footsteps of
+
+Judge Newsom from the U.S. Court of Appeals for the Eleventh Circuit, the dissent
+
+makes use of the ChatGPT large language model artificial intelligence tool by
+
+OpenAI, and the majority opinion responds in-kind to contrast the effort. See post
+
+at 37-39 & nn.4-5; ante at 11 n.2.         Deferring discussion to an opinion with
+
+precedential force, the dissent points to Judge Newsom’s thoughtful discussion in
+
+the Snell case. See Snell v. United Specialty Ins. Co., 102 F.4th 1208, 1221-35 (11th
+
+Cir. 2024) (Newsom, J., concurring). I write, since we have broached the topic, to
+
+highlight a few brief points not addressed in Judge Newsom’s insightful
+
+concurrence, that I have considered personally and as part of our D.C. Courts AI
+
+Task Force, which I find important considerations in judicial and court use of AI
+
+tools.
+                                           21
+
+      To be clear, I cast no aspersion on the use of AI by my colleagues. I find it
+
+interesting. AI tools are proliferating and we ignore them at our own peril. Not only
+
+for the concerning capabilities they now give parties with ill intent,1 but for the great
+
+utility such tools could potentially provide in easing the strain on our increasingly
+
+overburdened courts.2
+
+
+
+      1
+         Such as the ever-increasing ability to falsify evidence, like images, audio,
+and video, and sow disinformation in and outside of the courtroom. A prominent
+example is the memorable “deep fake” image, generated by a construction worker
+playing with an AI tool, of Pope Francis in a particularly stylish puffer coat, which
+appeared indistinguishable from reality and took the internet by storm. See Drake
+Bennett, AI Deep Fake of the Pope’s Puffy Coat Shows the Power of the Human
+Mind,        Bloomberg          (April        6,        2023,        7:00       AM),
+https://www.bloomberg.com/news/newsletters/2023-04-06/pope-francis-white-
+puffer-coat-ai-image-sparks-deep-fake-concerns; https://perma.cc/3D6V-ZCFW.
+       A cogent description and discussion of these concerns can be found in the
+interim guidance from the National Center for State Courts. AI Rapid Response
+Team, Nat’l Ctr. for State Cts., AI and the Courts: Digital Evidence and Deepfakes
+in         the           Age           of         AI           (June        2024),
+https://www.ncsc.org/__data/assets/pdf_file/0019/101683/ncsc-ai-rrt-deepfakes-
+june-2024.pdf; https://perma.cc/86VE-3WGM.
+      2
+        The D.C. Courts are such a system. It has been well covered in the news for
+several years that we face historic vacancies. The D.C. Superior Court has in the
+recent past, and may soon again, faced double digit vacancies. This court has been
+without a full complement of judges for more than a decade. Our current two-judge
+vacancy represents nearly one-third of our court. Compounding this issue is an ever-
+dwindling number of senior judges—former active judges who commit to continued
+public service—seasoned veterans who are valuable resources in accomplishing the
+work of this court. And, structurally, this court faces the challenge of having the
+same nine judgeships over the court’s approximate fifty-five-year existence, while
+the courts and agencies we review have grown to numbers of judges and
+administrative adjudicators regularly exceeding 100 each. Compare D.C. Code
+                                          22
+
+       AI tools are more than a gimmick; they are coming to courts in various ways,
+
+and judges will have to develop competency in this technology, even if the judge
+
+wishes to avoid using it. Courts, however, must and are approaching the use of such
+
+technology cautiously. Specific use cases are being considered and we must always
+
+keep in mind the limits of different AI tools in how and when we use them,
+
+particularly with regard to security, privacy, reliability, and bias, to ensure ethical
+
+use.
+
+
+       Broadly, an AI system can be susceptible to bias at multiple points in its
+
+execution.3 Model Code of Judicial Conduct Rules 2.2 and 2.3, dealing with
+
+impartiality and fairness and bias, prejudice, and harassment, are potentially
+
+implicated in reliance on a system infected with bias. Ignorance of the technology
+
+seems like little defense in consideration of the duty of competence in Rule 2.5.
+
+Other issues abound, but security and confidentiality of court information are
+
+particular concerns. Accordingly, before using an AI tool a judicial officer or staff
+
+
+
+§ 11-702 (1973 Ed.), with D.C. Code § 11-702 (composition of D.C. Court of
+Appeals); see D.C. Code § 11-903 (composition of D.C. Superior Court); D.C.
+Superior Court Judges, D.C. Cts., https://www.dccourts.gov/superior-court/judges;
+https://perma.cc/Q6GP-VMGL; D.C. Public Salary Information, D.C. Dep’t Hum.
+Res., https://dchr.dc.gov/public-employee-salary-information;
+https://perma.cc/L8Q6-KLJA (listing all D.C. employees).
+       3
+         IBM offers a relatively short, simplified breakdown of AI bias. James
+Holdsworth,     What      is    AI     Bias?,     IBM      (Dec.  22,    2023),
+https://www.ibm.com/think/topics/ai-bias; https://perma.cc/HL7S-YJW7.
+                                           23
+
+member should understand, among many other things, what data the AI tool collects
+
+and what the tool does with their data.
+
+
+      The quote has many attributions that “if it is free, you are the product.” Many
+
+AI tools benefit from what we feed into them, documents, prompts, etc., virtually
+
+every aspect of our interaction trains and hones such tools. That is part of the early-
+
+mover advantage of ChatGPT in particular, which blew away previous records to
+
+reach one million users in five days 4—and 100 million within two months of going
+
+live.5 As of January 30, 2025, it was estimated to have approximately 300 million
+
+weekly users. 6 It is hard to imagine a company that could afford to pay that many
+
+people to test and develop their model. However, such a system raises serious
+
+practical and ethical issues for a court. Security is a preeminent concern. I briefly
+
+look at a few hypotheticals in the context of this court to illustrate.
+
+
+
+
+      4
+         Bernard Marr, A Short History of ChatGPT: How We Got to Where We Are
+Today,         Forbes,       (May         19,      2023,       1:14        AM),
+https://www.forbes.com/sites/bernardmarr/2023/05/19/a-short-history-of-chatgpt-
+how-we-got-to-where-we-are-today/; https://perma.cc/5LCV-8TNH.
+      5
+        Krystal Hu, ChatGPT Sets Record for Fastest-Growing User Base – Analyst
+Note,       Reuters       (February        2,      2023,        10:33      AM),
+https://www.reuters.com/technology/chatgpt-sets-record-fastest-growing-user-
+base-analyst-note-2023-02-01/; https://perma.cc/425D-HGQU.
+      6
+         ChatGPT / OpenAI Statistics: How Many People Use ChatGPT?, Backlinko,
+https://backlinko.com/chatgpt-stats; https://perma.cc/3QY3-ZN59 (last updated
+January 30, 2025).
+                                          24
+
+      First, take the use case of a judge utilizing an AI tool to summarize briefs filed
+
+with the court well in advance of oral argument—a practice, along with summarizing
+
+voluminous records, that some AI tools appear to be quite adept at. It is the practice
+
+of this court to announce the members of a particular panel of judges the week before
+
+an oral argument. Should a judge be using an AI tool that trains on the data they
+
+submitted, they have now surrendered data which includes—at bare minimum—the
+
+submitted data, i.e. the briefs of the parties, and potentially personally identifying
+
+data, i.e. a username, IP address, and email address. Data which, reviewed together,
+
+could expose the judge’s involvement on the panel to individuals and systems with
+
+access to that data before that information is public.
+
+
+      Next, fast-forward past argument and assume our hypothetical technophile
+
+jurist decides they will have the AI tool aid them in the preparation of a decision. AI
+
+tools offer many potential use cases here. For one, perhaps with careful prompting,
+
+detailing the types of facts or story that is desired, the AI tool could be used to pull
+
+from the record and produce a first draft of the factual rendition section of the
+
+decision. It could develop an initial statement of the standard of review and
+
+controlling law. In varying degrees of quality, depending on the tool and inputs, it
+
+could formulate a first take at some analysis. However, again, should the AI tool be
+
+training itself on the data, someone with access to the data would have access to
+
+judicial deliberative information and potentially personally identifying login/user
+                                         25
+
+information that could identify the judge as well. Of even more concern, as the data
+
+trains the tool, another user could stumble upon it or some aspects of it regurgitated
+
+by the AI tool. Even if the odds are miniscule, confidential judicial deliberative
+
+information has potentially leaked out ahead of a decision in this scenario.
+
+
+      Consider further the scenario that any of the material used in either prior
+
+hypothetical contained sensitive information that would otherwise be subject to
+
+redaction, i.e. social security numbers, account numbers, minor’s names, etc. If
+
+unredacted briefs or records were loaded into the AI tool, it would be an instant
+
+failure of the court’s duty to protect such information. Three hundred million users,
+
+in the scenario of ChatGPT, described above, would potentially have access.
+
+
+      I pause briefly here to note that such concern does not appear to arise from the
+
+use of AI in this decision. The dissent’s generalized hypothetical questioning,
+
+without more, does not strike me as remotely unique to this case in a way that could
+
+even inadvertently expose deliberative information. The majority’s use of ChatGPT
+
+provides comparison by prompting the tool against the facts of a previous case for
+
+analysis. It strikes me that the thoughtful use employed by both of my colleagues
+
+are good examples of judicial AI tool use for many reasons—including the
+
+consideration of the relative value of the results—but especially because it is clear
+
+that this was no delegation of decision-making, but instead the use of a tool to aid
+                                           26
+
+the judicial mind in carefully considering the problems of the case more deeply.
+
+Interesting indeed.
+
+
+      The previous examples that I described as potential improper use of an AI
+
+tool, however, could be accomplished with the use of an AI tool with robust security
+
+and privacy protections. Even more exciting, AI companies have begun to announce
+
+the release of government oriented tools which promise to provide such protections
+
+and allow for such potential use cases.7
+
+
+      As state courts across the country cautiously consider these issues, the
+
+National Conference of State Courts has taken a lead in coordinating efforts. It has
+
+put together an AI Rapid Response Team and created a policy consortium,
+
+constantly updating resources. See Thomson Reuters Institute/NCSC AI Policy
+
+Consortium, Nat’l Ctr. for State Cts., https://www.ncsc.org/consulting-and-
+
+research/areas-of-expertise/technology/tri-ncsc-ai-policy-consortium;
+
+https://perma.cc/2Z66-GXB4. And the D.C. Courts have not stood idly by, creating
+
+our D.C. Courts AI Task Force and partnering with the National Conference of State
+
+
+      7
+         A particularly interesting discussion of the most recent announcements with
+thoughtful comments on the potential for courts—complete with what appears to be
+an AI generated image of judge with a holographic heads-up-display—comes from
+Judge Scott Schlegel of Louisiana. See The Wait May Be Over: Government AI
+Products Could Give Courts the Green Light, [sch]Legal Tech, (February 5, 2025),
+https://judgeschlegel.substack.com/p/the-wait-may-be-over-government-ai;
+https://perma.cc/5KY5-7TD4.
+                                         27
+
+Courts.    See District of Columbia Courts Administrative Order: Artificial
+
+Intelligence Task Force of the District of Columbia Courts, D.C. Cts. (March 5,
+
+2024), https://www.dccourts.gov/sites/default/files/Artificial_Intelligence_Task_F
+
+orce_Administrative_Order_Final.pdf; https://perma.cc/JCU7-V9FW. As the use of
+
+AI begins to appear at the D.C. Courts, litigants and the citizens of the District can
+
+be assured that cautious and proactive thought is being directed by our judges and
+
+D.C. Courts team members, toward the beneficial, secure, and safe use of AI
+
+technology.
+
+
+      DEAHL, Associate Judge, dissenting: Niya Ross left her dog alone in a parked
+
+car in ninety-eight degree heat for an hour and twenty minutes. Ross parked her car
+
+facing directly into the sun, with minimal shade coming off a nearby tree, and left
+
+during the hottest portion of the hottest September 4 on record in the District’s
+
+history—the late afternoon (from about 4:50 to 6:10 p.m.). Those are probably all
+
+the facts necessary for most people to conclude beyond a reasonable doubt that
+
+Ross’s actions created a “plain and strong likelihood” that her dog would be harmed.
+
+See Dauphine v. United States, 73 A.3d 1029, 1033 (D.C. 2013) (quoting Russell v.
+
+United States, 65 A.3d 1172, 1184 (D.C. 2013)). My colleagues conclude otherwise,
+
+ruling that no rational factfinder could draw that conclusion. I disagree and dissent.
+                                          28
+
+      There was considerable record evidence supporting the trial court’s guilty
+
+verdict for misdemeanor cruelty to animals, beyond the barest facts noted above
+
+(which alone strike me as sufficient to support the guilty verdict). All of the relevant
+
+witnesses and responders, other than Ross herself, recognized that leaving a dog in
+
+a car on a blazing hot summer day—even with the windows cracked a few inches,
+
+and even if only for a far shorter period than it turned out to be—required an
+
+immediate response to avoid harm to the dog. A bystander, Zachary Vasile, was the
+
+first on the scene. He heard the dog’s “very loud” and “incessant barking,”
+
+explaining that—aside from it being “very hot” that day—it was “[t]he constantness
+
+of” the barking that “gave [him] concern.” Vasile understood that “this was a
+
+potentially dangerous situation for the dog.” He spent several minutes trying to track
+
+down the dog’s owner, then tried but failed to open the car’s doors (risking at least
+
+a nasty confrontation on the owner’s return). When that didn’t work, he called 311.
+
+
+      The 311 receptionist then “put [Vasile] to a dispatcher” who put out “a level
+
+1 emergency call”—meaning the situation posed a “risk of death or great bodily
+
+injury”—and dispatched “fire, animal control, and police” to the scene in light of the
+
+temperature that day. At the time of that dispatch Ross was still an hour away from
+
+returning to her car. Firefighters arrived first, with several police and animal control
+
+officers arriving shortly thereafter. The firefighters acted quickly: one tried to
+
+unlock the driver’s side door by attempting to reach through its cracked window,
+                                           29
+
+and when his arm wouldn’t fit, he manually forced the window down so that they
+
+could unlock the door and free the dog.
+
+
+      Animal control officer Aristides Torres then arrived on the scene shortly after
+
+Cinnamon had been removed, and he placed the dog in the back of his animal control
+
+vehicle (equipped with dog crates). Video footage of the dog shortly after she had
+
+been freed from the car and placed in Torres’s animal control vehicle (at 5:29 p.m.)
+
+showed her panting heavily, and it would still be another forty-plus minutes before
+
+Ross returned to her car.
+
+
+      Torres provided the most critical testimony in support of the verdict. Torres
+
+testified that in his eight years on the job he had responded to calls for dogs locked
+
+in cars more than fifty times, largely in the summer months. He explained that the
+
+temperature inside of a car can “increase [to] double the temperature” of the external
+
+temperature, “[d]epending on the time” it is parked. And he also explained that it
+
+was “important to get [Cinnamon] out of the car” when the firefighters did because
+
+otherwise “it could definitely have been fatal.” My colleagues posit that Torres’s
+
+testimony in this respect “rests on . . . assumptions,” ante at 18, but eight years as an
+
+animal control officer is called experience, not assumptions. And if Ross wanted to
+
+cast some doubt on Torres’s testimony or test its foundations, cross-examination was
+
+the time to do it (not in a sufficiency appeal); I can understand why defense counsel
+                                          30
+
+didn’t want to do that given how readily a longtime animal control officer could
+
+presumably shore up that opinion and strengthen the government’s case. Ross also
+
+had an opportunity to offer any contradictory evidence in the defense case, but failed
+
+to do so. The trial court could thus reasonably rely on Torres’s testimony as ironclad
+
+support for the conclusion that Ross had put her dog in harm’s way.
+
+
+      All of that evidence was further supplemented by a heavy dose of common
+
+sense. Factfinders “need not check their common sense at the courthouse doors,”
+
+and “are permitted to use the saving grace of common sense and their everyday
+
+experience to draw reasonable inferences from the evidence presented.” Covington
+
+v. United States, 278 A.3d 90, 99 (D.C. 2022) (internal marks omitted) (quoting
+
+Long v. United States, 156 A.3d 698, 714 (D.C. 2017)). They are not tabula rasa
+
+bots whose only inputs are the evidence in the trial record; they can bring their prior
+
+knowledge and experiences to bear on their verdicts. And it is common knowledge
+
+that parked cars can quickly get far hotter than the ambient temperatures outside (just
+
+as Torres testified)—most people have opened a car door on a hot day to a blast of
+
+heat and a scorching steering wheel and belt buckles.1 It is similarly common
+
+knowledge that dogs with “dense” fur like Cinnamon are particularly vulnerable to
+
+
+
+
+      1
+        As a born-and-raised Arizonan, I’ve surely had more frequent, vivid, and
+painful experiences with this phenomenon than most people.
+                                          31
+
+heat. While I’m quite confident that any human would suffer if left in a car for an
+
+hour and twenty minutes in ninety-eight degree heat, if you put a dense fur coat on
+
+them, my confidence skyrockets.
+
+
+      Based on all of the above evidence, and the common sense inferences from it,
+
+the trial court quite rationally concluded beyond a reasonable doubt that Ross did
+
+not provide Cinnamon with “proper shelter or protection from the weather,” a
+
+misdemeanor offense per D.C. Code § 22-1001. Really, who could doubt that? As
+
+the trial court opined, “you don’t need expert testimony to conclude that leaving a
+
+dog in a hot car for at least an hour and 20 minutes is failing to provide the dog with
+
+protection . . . from the weather.”
+
+
+      The majority offers four main responses, but they are unpersuasive.
+
+
+      First, the majority suggests that maybe cars heat up to dangerous temperatures
+
+only when left “in full sun” with windows fully up, hypothesizing that the interior of
+
+Ross’s car might actually have been cooler than outside because her windows were
+
+cracked and there was some light shade. Ante at 12-13. I invite them to test out that
+
+theory on the next ninety-something degree day in the District, but there is no need
+
+to dissect the fallacies underlying it here. Suffice it to say that nobody has ever left
+
+their car parked on the street for an extended period on a hot day and then opened
+
+their car door to a gust of cool refreshing air, no matter how much shade they parked
+                                           32
+
+in. Some shade or cracked windows might slightly ameliorate how quickly and
+
+drastically a car heats up, but they will not reverse the effect. While the majority
+
+correctly notes that a defendant is not required to prove anything, neither is the
+
+government “required to negate every possible inference of innocence before an
+
+accused may be found guilty of an offense beyond a reasonable doubt.” Hebron v.
+
+United States, 837 A.2d 910, 911-12 (D.C. 2003) (en banc) (quoting Smith v. United
+
+States, 809 A.2d 1216, 1221 (D.C. 2002)). Prosecutors do not need to debunk every
+
+imaginative hypothesis one might later dream up.
+
+
+      The majority also fails to view the record in the light most favorable to the
+
+government, as we are required to do in this posture, when it posits that Ross parked
+
+in the shade. The video evidence shows otherwise. It shows Ross’s car facing
+
+directly into the beating sun, leaving her windshield to act as a giant magnifying
+
+glass for the sun’s rays. There was at most a light smattering of shade hitting some
+
+parts of her car, as depicted in the appendices to this opinion, which are still images
+
+taken from the video exhibits.2 And most importantly, the government produced an
+
+
+      2
+         Appendix A shows Ross and the conditions around her car when she and her
+companion returned to it at 6:11 p.m. Notice that the sun is hitting the street directly,
+with no shade, all around Ross’s car (her car, her companion, and Ross herself are
+casting the only shadows on the street around her car, though there are some
+reflections and glare on her car hood that could be mistaken for shadows). Appendix
+B comes from the vantage point of Torres’s animal control vehicle, which was
+parked front bumper to front bumper with Ross’s car, and it shows the tree that is
+                                          33
+
+experienced animal control officer who was on the scene and thus familiar with all
+
+of those relevant conditions, and he opined without refute that Ross’s dog might
+
+have died had she not been removed from the car some forty-five minutes before
+
+Ross’s eventual return. That is enough to conclude beyond a reasonable doubt that
+
+Ross’s actions created a plain and strong likelihood that Cinnamon would be harmed
+
+but for responders’ interventions.
+
+
+      Second, the majority invokes a countervailing principle to the one I have
+
+relied upon above, that factfinders can bring their common sense to bear on verdicts.
+
+The majority counters—citing to Mejia Cortez v. United States, 256 A.3d 210 (D.C.
+
+2021), and Long, 156 A.3d at 714—that “even where the fact in question may seem
+
+incontrovertible,” “inferences and common sense cannot serve as substitutes for
+
+evidence.” Ante at 10. That generic principle is too broad if taken at face value;
+
+common sense can obviously fill some evidentiary gaps in a record, as our
+
+
+the only candidate for providing some shade to Ross’s car. The reader will notice
+how its shadow is being cast away from the street and onto the nearby building.
+Some stray branches may have jutted out enough to lend some light shade to Ross’s
+car, but it wouldn’t have been much. Appendix C confirms the point. It shows the
+sun very directly hitting the back of Torres’s animal control vehicle (i.e., roughly as
+it would have hit Ross’s front windshield). The reader will also notice the direct and
+bright glare of the sun coming straight through the light tree cover. Further notice
+in Appendix C that while the trees and houses on the opposite side of the street are
+casting shadows into the street, none of the visible trees on Ross’s side of the street
+are doing so because they are of course casting shadows in the same direction—
+away from Ross’s side of the street. Even when viewed generously to Ross, Ross’s
+car was receiving only a light smattering of shade from a nearby tree.
+                                         34
+
+precedents make clear. For instance, there was no direct evidence at trial that a dog
+
+is an “animal” covered by the animal cruelty statute, but I assume the majority agrees
+
+with me that common sense can supply that link. And if Ross had intentionally
+
+broken each of Cinnamon’s legs with a baseball bat, or stabbed her in the abdomen
+
+with a buck knife, I hope the majority agrees that no further proof would be
+
+necessary to establish a plain and strong likelihood that those actions would harm
+
+the dog (despite its rhetoric that “[r]es ipsa loquitur” has no role to play in the
+
+criminal law).
+
+
+      The question always comes down to whether the particular fact at issue is truly
+
+common sense enough to be inferred from the record evidence, and both Mejia-
+
+Cortez and Long quite sensibly answered in the negative on their particular facts.
+
+The disputed fact at issue in Mejia-Cortez was whether the Washington Metro and
+
+Transit Authority “had been issued a license to sell alcoholic beverages,” and in that
+
+case the government did not even “suggest that it could satisfy its burden by pointing
+
+to the obviousness” of that fact. 256 A.3d at 214-15. In Long the particular fact was
+
+whether a decade-old 2002 Dodge Intrepid was worth more than $1000 when there
+
+was no direct evidence of its value and no circumstantial evidence about its mileage,
+
+maintenance, or mechanical condition—aside from it being operable—factors which
+
+could obviously drastically affect its value. 156 A.3d at 714. While we held that
+
+one could not rationally conclude beyond a reasonable doubt that the car was worth
+                                        35
+
+more than $1000 on that record, as necessary to support a felony receipt of stolen
+
+property offense, we directed entry of a misdemeanor receipt of stolen property
+
+conviction, because of course the car had some value despite no direct evidence of
+
+that. We also acknowledged our prior holding that one could rationally conclude
+
+beyond a reasonable doubt that a relatively new car “clearly had a fair market value
+
+of more than $250,” even absent direct evidence on the point. Id. at 714-15
+
+(discussing Curtis v. United States, 611 A.2d 51 (D.C. 1992)).
+
+
+      Both Mejia-Cortez and Long strike me as sensible because the disputed facts
+
+in those cases were not nearly so evident as the challenged fact here—that leaving a
+
+dog in a car for an hour and twenty minutes in ninety-eight degree heat creates a
+
+plain and strong likelihood of some harm to the animal. Had the government charged
+
+Ross with felony cruelty to animals, which would have required proof of a
+
+“substantial risk of death” or serious bodily injury, D.C. Code § 22-1001(c)-(d), I
+
+might agree that the evidence was insufficient to prove that aggravated five-year
+
+felony offense. But Torres’s testimony that Cinnamon might have died had she not
+
+been rescued from that car forty-five minutes before Ross’s return was itself a
+
+sufficient basis on which to conclude that Ross’s actions created a plain and strong
+
+likelihood of some harm to the animal, even if only some unquantifiable degree of
+
+suffering. Jordan v. United States, 269 A.2d 848, 849 (D.C. 1970) (examining
+
+whether dog was left in conditions that would “cause [it] to suffer” under animal
+                                         36
+
+cruelty statute). That is all that the government was required to prove for the
+
+misdemeanor offense that Ross was convicted of. Id.
+
+
+      Third, the majority relies on Jordan, id., in which we reversed an animal
+
+cruelty conviction due to a lack of sufficient evidence to support it. Ante at 8, 19
+
+n.8. But again, the particular facts matter a great deal to any sufficiency analysis,
+
+and the majority omits them. The facts in Jordan were that a full-grown German
+
+shepherd was left outside in roughly twenty-five degree temperatures for about five
+
+hours. We stressed that “[i]t is a matter of common knowledge that some breeds of
+
+dogs can remain exposed to extremely cold weather for many hours without
+
+injurious effects,”3 269 A.2d at 849, as anybody who’s even roughly familiar with
+
+the Iditarod knows. There is no corollary common knowledge—because it is
+
+counterfactual—that there are dog breeds that can be safely left in a car for an hour
+
+and twenty minutes in ninety-eight degree heat. They do not run a Death Valley
+
+summer Iditarod. So Jordan is of no help to the majority.
+
+
+      To be sure, a person can always be wrong in what they think to be common
+
+knowledge, so that a factfinder should always be willing to reexamine and abandon
+
+their priors in light of the evidence presented at trial. And an appeal to common
+
+
+      3
+        It strikes me as reasonably well known that German shepherds are one of
+those dog breeds that endure the cold well, or at least that is fairly inferable from
+their heavy coats.
+                                           37
+
+knowledge generally cannot stand up against evidence that actually undermines or
+
+contradicts it. But as I have detailed above, the evidence at trial only corroborated
+
+that Cinnamon was placed in a harmful and potentially deadly situation, so there was
+
+nothing irrational about the trial court’s verdict.
+
+
+      Let me nonetheless briefly scrutinize what I have claimed to be common
+
+knowledge, using both the relevant facts of this case and those presented in Jordan.
+
+I have asked ChatGPT, “Is it harmful to leave a dog in a car, with the windows down
+
+a few inches, for an hour and twenty minutes when it’s 98 degrees outside?” 4 Its
+
+response, with my emphasis added, follows:
+
+      Yes, leaving a dog in a car under these conditions is very harmful. Even
+      with the windows slightly open, the temperature inside a car can
+      quickly rise to dangerous levels. In fact, on a 98-degree day, the
+
+
+      4
+         I do not mean to suggest that ChatGPT is a good proxy for what is, and isn’t,
+common knowledge—it is definitely not. It can answer questions that are far from
+common knowledge. For instance, when I asked it what the forty-first element in
+the periodic table is, it responded (apparently correctly) with Niobium (Nb). But it
+is at least a point in favor of something being common knowledge that it is, in fact,
+true; and it is a far stronger point against it if it’s not. Also, when I had each of my
+three law clerks run this same inquiry, ChatGPT gave each of them a slightly
+different but substantively similar answer, all beginning with an unequivocal “Yes.”
+Because I am writing only for myself, I will not delve into the many issues and
+concerns surrounding using AI-powered large language models like ChatGPT in
+judicial decisionmaking. If this dissenting opinion had some precedential force, I
+would at least want to explore the value and dangers of using AI even when used
+only for this bit of color commentary. But for present purposes, I am content to point
+the reader to a thoughtful and engaging discussion on that topic, which I largely
+agree with. See Snell v. United Specialty Ins. Co., 102 F.4th 1208, 1221-35 (11th
+Cir. 2024) (Newsom, J., concurring).
+                                          38
+
+      temperature inside a car can escalate to over 120°F (49°C) in just a
+      matter of minutes, which can cause heatstroke or even be fatal to a dog.
+
+      Dogs can suffer from heatstroke when they are exposed to extreme
+      temperatures, as they do not regulate heat as efficiently as humans.
+      They rely on panting to cool down, but this becomes less effective in a
+      hot, confined space like a car. Symptoms of heatstroke in dogs include
+      excessive panting, drooling, weakness, vomiting, and even collapse.
+
+      For your dog’s safety and well-being, it’s important never to leave them
+      in a hot car, even with the windows cracked. If you need to run errands
+      or be in a hot environment, it’s best to leave your dog at home in a
+      cooler, safer space.
+
+
+      Now compare that unequivocal affirmative answer to how it responds to the
+
+facts of Jordan. I asked ChatGPT, “Is it harmful to leave a German shepherd
+
+outside in 25 degree temperature for five hours?” The first paragraph of its far
+
+lengthier response—which boils down to “it depends”—was:
+
+          Whether it’s harmful to leave a German Shepherd outside in 25°F (-
+          4°C) for five hours depends on several factors, including the dog’s
+          health, coat condition, and access to proper shelter. German
+          Shepherds are a hardy breed with a double coat that provides some
+          insulation, but prolonged exposure to cold can still be harmful.
+          Here’s what to consider:
+
+It then details five relevant factors that should be taken into consideration, including
+
+the dog’s “health and age,” its “coat condition,” its “activity level,” its access to
+
+shelter, and the “duration” (despite five hours being baked into the prompt). 5
+
+
+
+      5
+        The majority suggests that ChatGPT’s answer to its own question about the
+value of a 2002 Dodge Intrepid in 2012 is in some tension with Long, but it isn’t.
+                                         39
+
+      If I were to reframe ChatGPT’s answers in terms of the relevant legal
+
+standards, its first answer reads to me as something like, “Yes, beyond a reasonable
+
+doubt, leaving a dog in a car for an hour and twenty minutes in 98-degree
+
+temperature is very likely to cause it harm.” Its second answer, concerning Jordan,
+
+is “you could not say beyond a reasonable doubt that leaving a German shepherd
+
+outside in 25 degree temperature is likely to cause it harm, though it possibly could
+
+depending on a host of factors.” I think that aligns perfectly with what my own
+
+common sense tells me—and at least a factfinder would not be irrational in tracking
+
+those lines of thought—so that we rightly reversed the conviction in Jordan, while
+
+Ross’s conviction should be affirmed. But I digress.
+
+
+      Fourth, the majority seeks to distinguish a few analogous cases from other
+
+jurisdictions where animal cruelty convictions were upheld despite the dogs in each
+
+
+
+Using the majority’s own Q&A, ChatGPT answered that the Intrepid’s value would
+“likely” fall in the $3000 to $5000 range, but it noted that the very same factors we
+highlighted in Long—mileage and maintenance—could bring it outside of that
+range. By simply asking a more targeted question of ChatGPT, it confirms the point:
+“Would you say, beyond a reasonable doubt, that an operable 2002 Dodge Intrepid
+would be worth more than $1000 in 2012?” Its answer is roughly the same one we
+gave in Long. To paraphrase, it says that the car would “likely” be worth more than
+$1000, “but whether it was beyond a reasonable doubt depends on factors like
+condition, mileage, location, and market trends at the time.” Conversely, when I ask
+whether it can “say, beyond a reasonable doubt, that leaving a dog in a car for an
+hour and twenty minutes in 98 degree heat would raise a plain and strong likelihood
+of harming the dog,” its answer is “Yes, beyond a reasonable doubt,” with extensive
+elaboration.
+                                          40
+
+case being left in cars for both briefer periods and on cooler days. See City of
+
+Beachwood v. Pearl 111 N.E.3d 620, 636-37 (Ohio Ct. App. 2018) (forty minutes
+
+in 84 degree temperature); State v. Washburn, 325 A.3d 136, 139 (Vt. 2024) (more
+
+than “five to ten minutes” after an officer saw the dog in “moderate distress” in 78
+
+degree temperature); State v. Butler, 293 A.3d 191, 193-94 (N.H. 2022) (thirty
+
+minutes to an hour with the temperature “around 92 degrees outside”). Notably, it
+
+offers no analogous cases of its own where animal cruelty convictions were reversed
+
+on even roughly similar facts.
+
+
+      The majority attempts to distinguish the above cases on the basis that there
+
+was some evidence that the animal was in actual distress in each of them, whereas
+
+here, Torres opined that Cinnamon “looked fine” and did not appear “in distress”
+
+when he arrived on the scene. What the majority overlooks, or at least drastically
+
+downplays, is that Ross was not even halfway into her frolic when Cinnamon was
+
+rescued and Torres arrived on the scene—Cinnamon was freed roughly thirty-five
+
+minutes into Ross’s hour-and-twenty minute absence. So the fact that Cinnamon did
+
+not appear to be in distress yet, shortly after being removed from Ross’s car, hardly
+
+undercuts the conclusion that there was a strong likelihood that she would get there
+
+over the next forty-five minutes had she not been rescued (which is still longer than
+
+two of the cases cited above, and on par with the third). In fact, Torres testified that
+
+“excessive[] panting” is an early sign of distress in a dog, and video evidence taken
+                                          41
+
+several minutes after Cinnamon was removed from the car showed her to still be
+
+panting heavily. While Torres did not seem to think Cinnamon’s heavy panting
+
+alone amounted to actual distress, it is certainly some support for the conclusion that
+
+she was well on her way, less than halfway into Ross’s absence.
+
+
+      So whatever one thinks about what I have claimed to be common knowledge
+
+above, the actual and uncontradicted evidence in this case—taken in the light most
+
+favorable to the verdict—was that the temperature inside of Ross’s car would have
+
+been much hotter than the 98 degrees outside.6 And if firefighters did not rescue
+
+Cinnamon from the car when they did, “it could definitely have been fatal.” That is
+
+more than a sufficient evidentiary basis for a factfinder to rationally conclude that
+
+Ross’s actions created a “plain and strong likelihood” that Cinnamon would be
+
+harmed, and so I dissent. I would affirm Ross’s conviction.
+
+
+
+
+      6
+         While Torres said more specifically that the temperature could double inside
+a car depending on the time it was parked, he did not specify how much time it would
+take for that to occur. So I do not think one could fairly infer from his testimony
+that the temperatures in Ross’s car might have reached double the outside
+temperatures (196°F) in the time she was gone. Could the temperatures in that car
+have gotten about halfway there, and reached into the 140°s? Sure, I would say
+that’s within the realm of a reasonable inference that one could rationally draw in
+the government’s favor on this record. But it is safer still to say only that the
+temperatures would have been much hotter in that car than outside of it, and I think
+that is sufficient to support the conviction in this case.
+

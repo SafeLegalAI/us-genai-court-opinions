@@ -1,0 +1,1157 @@
+Case 3:23-cv-00160-RCY Document 103 Filed 07/17/23 Page 1 of 22 PageID# 616
+
+
+
+                        IN THE UNITED STATES DISTRICT COURT
+                        FOR THE EASTERN DISTRICT OF VIRGINIA
+                                   Richmond Division
+
+JOHN RODGERS BURNLEY,                        )
+     Plaintiff,                              )
+                                             )
+v.                                           )              Civil Action No. 3:23CV160(RCY)
+                                             )
+ALEXANDRA M. VALENTIN, et al.,               )
+    Defendants.                              )
+                                             )
+
+                                 MEMORANDUM OPINION
+
+       This matter is before the Court on a Motion to Dismiss (ECF No. 13) filed on behalf of the
+
+following Defendants: the City of Richmond, Richmond Police Department (“RPD”) Internal
+
+Affairs Division, RPD Chief of Police Richard G. Edwards, RPD Fourth Precinct Commander
+
+Donald Davenport, RPD Detective Margaret Cunningham, Richmond City Mayor Levar Stoney,
+
+Richmond City Council President Cynthia I. Newbille, Richmond City Council Vice-President
+
+Ellen F. Robertson, Richmond City Council 3rd District Councilwoman Ann-Frances Lambert,
+
+and certain Unknown Named [RPD] Police Officers (all collectively, the “City Defendants”). The
+
+motion has been fully briefed, and the Court dispenses with oral argument because the facts and
+
+legal contentions are adequately presented in the materials before the Court, and oral argument
+
+would not aid in the decisional process. E.D. Va. Loc. Civ. R. 7(J). For the reasons stated below,
+
+the Court will grant in part and deny in part the Motion to Dismiss.
+
+                                    I. FACTUAL HISTORY
+
+       Taking as true the facts alleged in the Complaint for purposes of the instant motion, Mylan
+
+Labs., Inc. v. Matkari, 7 F.3d 1130, 1134 (4th Cir. 1993), the Court will recount the relevant
+
+background facts surrounding the claims of Plaintiff John Rodgers Burnley (“Plaintiff”), against
+
+the City Defendants.
+Case 3:23-cv-00160-RCY Document 103 Filed 07/17/23 Page 2 of 22 PageID# 617
+
+
+
+        Plaintiff is a Black resident of Richmond, Virginia. (Compl. ¶ 4, ECF No. 1.) Plaintiff
+
+purchased his home in 1999, at which time the other residents of his block were “98 per cent
+
+[B]lack [A]fro- [A]mericans . . . .” (Id.) The demographic ratio has since changed to “96 per cent
+
+[W]hite [A]mericans.” (Id.) Plaintiff alleges that “[t]he [W]hites [sic] defendants named in this
+
+suit have harass[ed], intimidate[d] and discriminated against Plaintiff” (id.) and consistently
+
+employed racial slurs against him and told him to “move from this block” and to “move from his
+
+home or [they] will keep calling the police.” (See generally id. ¶¶ 5, 6, 8, 9, 11, 12, 13, 14.)
+
+        Plaintiff alleges that RPD Detective Margaret Cunningham (“Detective Cunningham” or
+
+“Cunningham”) conspired with Plaintiff’s White neighbors to harass Plaintiff, and specifically to
+
+“get[] the neighbors to call the Richmond Police Department on a daily basis and complain about
+
+the Plaintiff. Cunningham had the neighbors . . . allege that Plaintiff was a ‘drug dealer’ and th[at]
+
+Plaintiff was a ‘drug user.’” (Id. ¶ 16; see also id. ¶¶ 5, 8.) Plaintiff further alleges that, at various
+
+times during 2022, Detective Cunningham would sit on different neighbors’ porches and use racial
+
+slurs against Plaintiff, specifically calling him “n****r” and “porch monkey.” (Id. ¶¶ 11, 13.)
+
+Plaintiff alleges that Detective Cunningham is racist, and that her animus stems from both his race
+
+and the fact that he filed a complaint against her sometime previously. (Id. ¶¶ 16, 20; see id. ¶ 13
+
+(“n****r when I finish with you, you will wish you never filed a complaint against me, n****r”).)
+
+Plaintiff was separately told by other neighbors that Detective Cunningham “stood behind [them]”
+
+and that they and Cunningham had “got the police on [Plaintiff’s] a** now.” (Id. ¶¶ 6, 8.) Another
+
+neighbor told Plaintiff that Detective Cunningham “dispatched a Richmond City Police Detective
+
+to watch [Plaintiff]” for two days in February of 2023. (Id. ¶ 9.)
+
+        According to Plaintiff, Detective Cunningham has used her position as a supervisor with
+
+RPD to use the Unknown Named Police Officers to place Plaintiff under 24/7 police surveillance
+
+and to tailgate Plaintiff and his family when they leave the house. (Id. ¶¶ 17–18, 23.) Plaintiff
+
+                                                    2
+Case 3:23-cv-00160-RCY Document 103 Filed 07/17/23 Page 3 of 22 PageID# 618
+
+
+
+filed complaints with various state and federal agencies concerning Detective Cunningham and
+
+requested that Cunningham be investigated for her alleged “hate crimes” against him. (Id. ¶¶ 20–
+
+21.) Plaintiff alleges that RPD’s Internal Affairs Division lacks any “established policy, procedure
+
+and custom” for handling such complaints, as a result of which Cunningham was able to throw the
+
+two complaints in the trash can when they were forwarded to the Fourth Precinct where Detective
+
+Cunningham works. (Id. ¶ 21.) Later in the Complaint, Plaintiff alleges that, to the extent there
+
+are general policies and orders, the Internal Affairs Division does not follow them. (Id. ¶ 29.)
+
+       Plaintiff alleges that RPD Fourth Precinct Commander Donald Davenport (“Commander
+
+Davenport” or “Davenport”) is Detective Cunningham’s supervisor, and that Davenport acted with
+
+deliberate indifference to Plaintiff’s rights when he failed to contact Plaintiff concerning Plaintiff’s
+
+complaint against Cunningham. (Id. ¶ 18.) Plaintiff further alleges that Commander Davenport
+
+“fail[ed] to train, supervise and discipline Cunningham” and “allowed Cunningham to run around
+
+like a loose cannon without any type of supervision,” which allowed for Cunningham’s acts of
+
+discrimination against Plaintiff. (Id. ¶ 19 (corrected for punctuation).) Likewise, Plaintiff alleges
+
+that RPD Chief of Police Richard G. Edwards (“Chief Edwards” or “Edwards”) did not have an
+
+established policy and procedure in place within RPD for handling complaints such as Plaintiff’s,
+
+and that Chief Edwards “showed no concern” when Plaintiff informed him that, contrary to
+
+Edwards’s instruction, Commander Davenport never contacted Plaintiff concerning the
+
+complaints. (Id. ¶¶ 18, 22.)
+
+       Plaintiff contacted City of Richmond Mayor Levar Stoney (“Mayor Stoney”) three times
+
+from November 2022 through January 2023, informing Mayor Stoney of the police misconduct he
+
+was experiencing and the need for investigation by Mayor Stoney’s office. (Id. ¶ 24.) Mayor
+
+Stoney, however “ha[d] no ‘established policy and procedure’ in place to investigate [RPD]” and
+
+
+
+                                                   3
+Case 3:23-cv-00160-RCY Document 103 Filed 07/17/23 Page 4 of 22 PageID# 619
+
+
+
+“failed to train, supervise, and discipline” Chief Edwards. (Id.) Moreover, Mayor Stoney failed
+
+to act in the face of Plaintiff’s complaints and communications. (Id.)
+
+        Plaintiff similarly alleges that he contacted Richmond City Council President Cynthia I.
+
+Newbille, Richmond City Council Vice-President Ellen F. Robertson, and Richmond City Council
+
+3rd District Councilwoman Ann-Frances Lambert (collectively, the “City Council Defendants”)
+
+and requested that they look into Plaintiff’s complaints regarding RPD misconduct. (Id. ¶¶ 25–
+
+27.) Plaintiff specifically alleges that an RPD officer followed Plaintiff in his vehicle from his
+
+home into downtown Richmond, where the officer almost caused an accident when they cut in
+
+front of Plaintiff’s vehicle. (Id. ¶ 27.) Plaintiff alleges that he asked Newbille, Robertson and
+
+Lambert each to get the traffic footage from the intersection where this incident occurred, but all
+
+three refused to do so. (Id.) According to Plaintiff, this footage would have shown police
+
+misconduct and should have triggered an investigation. (Id.)
+
+        Finally, Plaintiff alleges that the General Counsel for RPD, Sharon Carr, stated to the
+
+Richmond Times Dispatch newspaper that “it takes her 150 hours to review the ‘general orders’
+
+that are currently in place” to govern RPD officer conduct. (Id. ¶ 28.) Based on this, Plaintiff
+
+alleges that “it is not possible for [Detective] Cunningham to know, follow and understand the
+
+‘required guidelines and general orders’ and act accordingly” and that this density of policies is a
+
+failure of policy making that “falls in the lap of the [M]ayor” and “result[s] in liability upon the
+
+City of Richmond.” (Id.)
+
+        As a result of the foregoing, Plaintiff alleges that he has suffered severe depression that has
+
+required him to seek medical treatment for symptoms such as sleep apnea, fright, gritting of teeth
+
+that requires sleeping with tooth guards on . . . and biting of [the] tongue while sleep[ing].” (See,
+
+e.g., id. ¶ 24.)
+
+
+
+                                                  4
+Case 3:23-cv-00160-RCY Document 103 Filed 07/17/23 Page 5 of 22 PageID# 620
+
+
+
+                          II. RELEVANT PROCEDURAL HISTORY
+
+       Plaintiff filed his Complaint on March 7, 2023. He subsequently requested in forma
+
+pauperis status, following approval of which the United States Marshals executed service on all
+
+Defendants. The City Defendants filed a collective Motion to Dismiss on April 18, 2023, seeking
+
+dismissal for failure to state a claim pursuant to Fed. R. Civ. P. 12(b)(6) and alternatively dismissal
+
+as “frivolous or malicious” pursuant to 28 U.S.C. 1915(e)(2)(B)(i). (Mot. Dismiss, ECF No. 13.)
+
+On May 2, 2023, Plaintiff filed a Motion for Judgment on the Pleadings (ECF No. 30) and
+
+Memorandum in Support thereof (ECF No. 31), which presented, inter alia, Plaintiff’s arguments
+
+in opposition to the City Defendants’ Motion to Dismiss. The City Defendants properly construed
+
+this filing as Plaintiff’s response and filed a Reply on May 8, 2023. (ECF No. 40.) The matter is
+
+accordingly ripe for review.
+
+                                    III. LEGAL STANDARD
+
+       “A motion to dismiss under Rule 12(b)(6) tests the sufficiency of a complaint; importantly,
+
+it does not resolve contests surrounding the facts, the merits of a claim, or the applicability of
+
+defenses.” Republican Party of N.C. v. Martin, 980 F.2d 943, 952 (4th Cir. 1992) (citing 5A
+
+Charles A. Wright & Arthur R. Miller, Federal Practice and Procedure § 1356 (1990)).
+
+Dismissals under Rule 12(b)(6) are generally disfavored by the courts because of their res judicata
+
+effect. Fayetteville Invs. v. Com. Builders, Inc., 936 F.2d 1462, 1471 (4th Cir. 1991). The Federal
+
+Rules of Civil Procedure only require that a complaint set forth “‘a short and plain statement of
+
+the claim showing that the pleader is entitled to relief,’ in order to ‘give the defendant fair notice
+
+of what the . . . claim is and the grounds upon which it rests.’” Bell Atl. Corp. v. Twombly, 550
+
+U.S. 544, 555 (2007) (quoting Conley v. Gibson, 355 U.S. 41, 47 (1957)). While the complaint’s
+
+“[f]actual allegations must be enough to raise a right to relief above the speculative level,”
+
+“detailed factual allegations” are not required in order to satisfy the pleading requirement of
+
+                                                  5
+Case 3:23-cv-00160-RCY Document 103 Filed 07/17/23 Page 6 of 22 PageID# 621
+
+
+
+Federal Rule 8(a)(2). Id. (citations omitted). In considering a motion to dismiss, a plaintiff’s well-
+
+pleaded allegations are assumed to be true, and the complaint is viewed in the light most favorable
+
+to the plaintiff. Mylan Labs., Inc., 7 F.3d at 1134 (citations omitted); see also Martin, 980 F.2d at
+
+952.
+
+       With respect to a complaint filed by a pro se Plaintiff who avails himself of in forma
+
+pauperis status, a court is obligated to dismiss a complaint if “the action . . . (i) is frivolous or
+
+malicious; (ii) fails to state a claim on which relief may be granted; or (iii) seeks monetary relief
+
+against a defendant who is immune from such relief.” 28 U.S.C. § 1915(e)(2)(B).
+
+       The standard for evaluating the sufficiency of a pro se pleading is somewhat flexible
+
+because “[a] document filed pro se is to be liberally construed, and a pro se complaint, however
+
+inartfully pleaded, must be held to less stringent standards than formal pleadings drafted by
+
+lawyers.” Erickson v. Pardus, 551 U.S. 89, 93 (2007) (internal citation omitted). This does not
+
+mean, however, that the court is required to accept a pro se plaintiff's contentions as true, Denton
+
+v. Hernandez, 504 U.S. 25, 32 (1992), and a court cannot ignore a clear failure to allege facts which
+
+set forth a cognizable claim. See Weller v. Dep’t of Soc. Servs., 901 F.2d 387, 391 (4th Cir. 1990)
+
+(“The ‘special judicial solicitude’ with which a district court should view such pro se complaints
+
+does not transform the court into an advocate.”). “[I]f the facts alleged are ‘clearly baseless,’ . . .
+
+‘fanciful,’ ‘fantastic,’ and ‘delusional,’” a court may dismiss a complaint as factually frivolous
+
+pursuant to 28 U.S.C. § 1915. Denton, 504 at 32–33 (quoting Neitzke v. Williams, 490 U.S. 319,
+
+325, 327–28 (abrogated in part by Twombly, 550 U.S. at 563)). Section 1915 notwithstanding, the
+
+Supreme Court in Denton cautioned that:
+
+       An in forma pauperis complaint may not be dismissed, however, simply because
+       the court finds the plaintiff’s allegations unlikely. Some improbable allegations
+       might properly be disposed of on summary judgment, but to dismiss them as
+       frivolous without any factual development is to disregard the age-old insight that
+       many allegations might be ‘strange, but true; for truth is always strange, [s]tranger
+       than fiction.’”
+                                                 6
+Case 3:23-cv-00160-RCY Document 103 Filed 07/17/23 Page 7 of 22 PageID# 622
+
+
+
+Id. at 33 (quoting Lord Byron, Don Juan, canto XIV, stanza 101 (T. Steffan, E. Steffan, & W. Pratt
+
+eds. 1977)).
+
+                                               IV. DISCUSSION
+
+         Plaintiff brings his suit pursuant to 42 U.S.C. § 1983, 42 U.S.C. § 1985(3), and 42 U.S.C.
+
+§ 2000a(a). (Compl. ¶ 2.) Generally speaking, Plaintiff alleges “racial profiling by the City of
+
+Richmond Police Department,” supplemented by a conspiracy by and between his neighbors and
+
+RPD to interfere with Plaintiff’s civil rights “because . . . Plaintiff is [B]lack with a criminal
+
+record.” (Id. ¶¶ 2–3.) Although not presented in numbered counts (the below numbering is added
+
+by the Court for organizational purposes), the “Relief Sought” section of Plaintiff’s Complaint
+
+states the following claims against Defendants:
+
+         Count One (against Defendants Valentin, Walburn, Brittany and Robert Bono,
+                   Andrew Joseph and Morgan Christine Nash, Jordan and Mary
+                   Niermeyer (all collectively, “Neighbor Defendants”), and Defendant
+                   Cunningham): Conspiracy to Deprive Plaintiff of his Constitutional
+                   Rights to be Free from Hate and Terror. (Id. pp. 14–16, 19.1)
+
+         Count Two (against Defendants Davenport and Cunningham): Conspiracy to
+                  Destroy Two Complaints Plaintiff Filed against Detective
+                  Cunningham. (Id. pp. 18–19.)
+
+         Count Three (against Defendant Cunningham): Racially motivated acts of police
+                    misconduct and racial discrimination. (Id. p.19.)
+
+         Count Four (against Defendants Edwards and Davenport): Failure to Train,
+                   Supervise, and Discipline Detective Cunningham. (Id. pp. 17–18.)
+
+         Count Five (against Defendants Edwards and Davenport): Deliberate and Reckless
+                     Indifference to Plaintiff’s Constitutional Rights. (Id. pp. 17–18.)
+
+         Count Six (against Defendants Edwards and Davenport): Failure to Have
+                   Established Policy, Procedure, General Orders and Guidelines for
+                   Police Officers. (Id. pp. 17–18.)
+
+
+
+         1
+            As Plaintiff did not number the paragraphs in the “Relief Sought” section of his Complaint, the Court uses
+the pagination applied by the court’s Electronic Case Filing (“ECF”) system, and not the pagination on the bottom of
+Plaintiff’s original Complaint.
+
+                                                          7
+Case 3:23-cv-00160-RCY Document 103 Filed 07/17/23 Page 8 of 22 PageID# 623
+
+
+
+       Count Seven (against Defendant Edwards, RPD Internal Affairs, the City of
+                 Richmond, Mayor Stoney, and the City Council Defendants): Failure
+                 to Have an Established Policy to Prevent the Destruction of Plaintiff’s
+                 Complaints. (Id. pp. 17, 20–22.)
+
+       Count Eight (against Defendant Davenport): Failure to Contact Plaintiff after
+                 Being Ordered by Chief Edwards. (Id. p. 18.)
+
+       Count Nine (against Defendant Cunningham): Failure to Follow Policy and
+                 Procedure, etc., Regarding Complaints. (Id. p. 19.)
+
+       Count Ten (against Unknown Named Police Officers): Harassment & Intimidation.
+                  (Id. p. 20.)
+
+       Count Eleven (against the City of Richmond and Mayor Stoney): Failure to Train,
+                  Supervise and Discipline RPD/RPD Police Officers. (Id. pp. 20, 21.)
+
+       Count Twelve (against Mayor Stoney and the City Council Defendants): Deliberate
+                 and Reckless Indifference to Complaints Plaintiff Submitted. (Id. pp.
+                 21, 22.)
+
+The Court will compare these counts against the statutory violations alleged by Plaintiff and
+
+attempt to discern whether Plaintiff has stated a claim against any of the City Defendants and
+
+whether the Complaint is frivolous or malicious.
+
+       As a preliminary matter, the Court agrees with the City Defendants that, under Virginia
+
+law, “an operating division of a governmental entity cannot be sued unless the legislature has
+
+vested the operating division with the capacity to be sued,” Davis v. City of Portsmouth, 579 F.
+
+Supp. 1205, 1210 (E.D. Va. 1983), aff’d 742 F.2d 1448 (4th Cir. 1984), and the Virginia legislature
+
+has declined to vest RPD Internal Affairs with such a capacity. (Mem. Supp. Mot. Dismiss 1, n.1,
+
+ECF No. 14.) Thus, Plaintiff’s claim against RPD Internal Affairs (in Count Seven) fails to state
+
+a claim and will be dismissed.
+
+A. 42 U.S.C. § 1983
+
+       Because the standard for stating a claim under § 1983 depends on the nature of the
+
+defendant being sued, the Court will analyze Plaintiff’s claims as they are stated against the various
+
+City Defendants.
+
+                                                  8
+Case 3:23-cv-00160-RCY Document 103 Filed 07/17/23 Page 9 of 22 PageID# 624
+
+
+
+       1. City of Richmond
+
+       “[A] municipality cannot be held liable solely because it employs a tortfeasor—or, in other
+
+words, a municipality cannot be held liable under § 1983 on a respondeat superior theory.” Monell
+
+v. Dep’t of Soc. Servs. of N.Y., 436 U.S. 658, 691 (1978). Liability will arise “when execution of
+
+a government’s policy or custom, whether made by its lawmakers or by those whose edicts or acts
+
+may fairly be said to represent official policy, inflicts the injury that the government as an entity
+
+is responsible [for] under § 1983.” Id. at 694. The Fourth Circuit has identified four avenues
+
+through which a § 1983 plaintiff, having established a deprivation of a constitutional or federal
+
+right, may demonstrate municipal liability for a policy or custom:
+
+       (1) through an express policy, such as a written ordinance or regulation; (2) through
+       the decisions of a person with final policymaking authority; (3) through an
+       omission, such as a failure to properly train officers, that “manifest[s] deliberate
+       indifference to the rights of citizens;" or (4) through a practice that is so “persistent
+       and widespread” as to constitute a “custom or usage with the force of law.”
+
+Lytle v. Doyle, 326 F.3d 463, 471 (4th Cir. 2003) (quoting Carter v. Morris, 164 F.3d 215, 217
+
+(4th Cir. 1999)).
+
+       Plaintiff’s two claims against the City fit into the third category, that of omission. In Count
+
+Seven, Plaintiff alleges that the City of Richmond failed to have an established policy that would
+
+prevent the destruction of the complaints Plaintiff submitted to RPD regarding Defendant
+
+Cunningham. (Compl. p. 20.) In Count Eleven, Plaintiff alleges that the City failed to train,
+
+supervise, and discipline its police officers. (Id.) The remainder of the Complaint, however, is
+
+lacking in factual allegations sufficient to support these claims.
+
+       Construing Plaintiff’s pro se Complaint liberally, De’Lonta v. Angelone, 330 F.3d 630, 633
+
+(4th Cir. 2003), the Court finds that he has alleged a violation of his rights under the Equal
+
+Protection Clause. To state an equal protection claim, a plaintiff must plead sufficient facts to
+
+“demonstrate that he has been treated differently from others with whom he is similarly situated
+
+                                                  9
+Case 3:23-cv-00160-RCY Document 103 Filed 07/17/23 Page 10 of 22 PageID# 625
+
+
+
+and that the unequal treatment was the result of intentional or purposeful discrimination.” Williams
+
+v. Hansen, 326 F.3d 569, 576 (4th Cir. 2003) (quoting Morrison v. Garraghty, 239 F.3d 648, 654
+
+(4th Cir. 2001)). Here, Plaintiff has alleged that he has been harassed and discriminated against
+
+on account of his race, particularly by Defendant Cunningham, and that this treatment stands in
+
+stark contrast to his White neighbors’ relationships with Cunningham. (Compl. ¶¶ 4, 11, 13.) This
+
+satisfies the constitutional harm prong. The next question, then, is whether Plaintiff has alleged
+
+sufficient facts to show that the City of Richmond’s alleged failures and omissions were the
+
+“moving force [behind] the constitutional violation.” City of Canton v. Harris, 489 U.S. 378, 389
+
+(1989) (internal quotations omitted).
+
+       The Court does not discern any facts in Plaintiff’s Complaint that support finding that the
+
+City failed to have a policy that would prevent the constitutional violation Plaintiff allegedly
+
+suffered. Plaintiff offers nothing but conclusory allegations to support his contention that no policy
+
+existed to prevent the destruction of his complaints against Detective Cunningham, and the alleged
+
+bad act does not alone demonstrate the absence of a policy. Plaintiff has therefore failed to state a
+
+claim against the City in Count Seven.
+
+       As to Count Eleven, that the City failed to train its police officers, the Court likewise finds
+
+that Plaintiff has not alleged sufficient facts to support this claim. To adequately allege a failure
+
+to train claim, a plaintiff “need not identify in detail the exact training policies in effect, or lack
+
+thereof, at the time of the events in question.” Newbrough v. Piedmont Reg’l Jail Auth., 822 F.
+
+Supp. 2d 558, 583 (E.D. Va. 2011). However, absent such detail, the plaintiff must allege facts
+
+that “reveal an ‘obvious’ need for improved personnel training.” Id. The most common way to
+
+plead a failure to train claim is to allege “a pattern of similar constitutional violations by untrained
+
+employees.” Tobey v. Napolitano, 808 F. Supp. 2d 830, 842 (E.D. Va. 2011) (quoting Connick v.
+
+Thompson, 536 U.S. 51, 62 (2011)). Alternatively, a plaintiff may plead that the constitutional
+
+                                                  10
+Case 3:23-cv-00160-RCY Document 103 Filed 07/17/23 Page 11 of 22 PageID# 626
+
+
+
+violation in his case “was the ‘obvious’ consequence of failing to provide [appropriate] training,”
+
+supervision, or discipline, or to have the proper safeguarding policies in place. Connick, 536 U.S.
+
+at 63 (citing City of Canton v. Harris, 429 U.S. 378, 390 (1989)).
+
+       Plaintiff’s allegations regarding the discrimination and harassment he experienced all trace
+
+back to the alleged actions of Detective Cunningham (whether by her, personally, or orchestrated
+
+by her in her role as a supervisor with RPD). In light of that fact, the Court finds that Plaintiff has
+
+not alleged a “pattern of similar constitutional violations by untrained employees.” See Tobey,
+
+808 F. Supp. 2d at 842. Rather, Plaintiff has simply alleged one long string of harassment he has
+
+reportedly suffered. And, because such a campaign of harassment could have multiple driving
+
+factors, the Court further finds that the constitutional violation he claims is not necessarily the
+
+“‘obvious’ consequence” of a failure to train, such that his individual experience of harassment
+
+and discrimination could have no other explanation than a failure to train, supervise or discipline.
+
+Plaintiff therefore has also failed to state a claim against the City in Count Eleven.
+
+       2. Chief Edwards
+
+        Plaintiff seeks judgment against RPD Chief Edwards in both his personal and official
+
+capacities. To state a claim for personal liability under § 1983, a plaintiff must aver that a person
+
+acting under color of state law deprived him or her of a constitutional right or of a right conferred
+
+by a law of the United States. Green v. Maroules, 211 F. App’x 159, 161 (4th Cir. 2006) (citing
+
+Dowe v. Total Action Against Poverty, 145 F.3d 653, 658 (4th Cir. 1998)). To state a § 1983
+
+official capacity claim, because such a suit is essentially a suit against the entity the defendant is
+
+an agent of, King v. Rubenstein, 825 F.3d 206, 223 (4th Cir. 2016), “the entity’s ‘policy or custom’
+
+must have played a part in the violation of federal law.” Kentucky v. Graham, 473 U.S. 159, 166
+
+(1985) (citing Monell, 436 U.S. at 694). Moreover, because a § 1983 claim against a municipal
+
+official in his official capacity is “essentially a claim against” the municipal entity, such a claim
+
+                                                  11
+Case 3:23-cv-00160-RCY Document 103 Filed 07/17/23 Page 12 of 22 PageID# 627
+
+
+
+“should be dismissed as duplicative” where the entity is also sued. Love-Lane v. Martin, 355 F.3d
+
+766, 783 (4th Cir. 2004). Based on this principle, the court will dismiss Plaintiff’s official-capacity
+
+claims against Chief Edwards and consider only his claims for personal liability.2
+
+         In this case, Plaintiff alleged that Chief Edwards is liable for failing to train, supervise, and
+
+discipline Detective Cunningham (Count Four), deliberate and reckless indifference to Plaintiff’s
+
+constitutional rights (Count Five), failing to have established policy, procedure, general orders and
+
+guidelines for police officers (Count Six), and failing to have an established policy in place to
+
+prevent the destruction of Plaintiff’s complaints against Detective Cunningham (Count Seven).
+
+To support these claims, Plaintiff alleges that when he informed Chief Edwards that Defendant
+
+Davenport never got in touch with Plaintiff as Edwards had directed, to discuss Plaintiff’s
+
+complaints against Detective Cunningham, Chief Edwards “showed no concern,” and because the
+
+complaints were never followed up on, Plaintiff suffered additional discrimination and pain and
+
+suffering. (Compl. ¶ 22.) He further alleges that Edwards does not follow or know the required
+
+“general orders” governing police conduct. (Id. ¶ 28.) Plaintiff presents no additional factual
+
+allegations regarding Edwards.
+
+         As the Court has recognized, supra, Plaintiff’s allegations of racial discrimination do
+
+(when leniently construed) state a claim for a constitutional violation. The question then becomes
+
+whether this violation was brought about by Chief Edwards. Generally speaking, liability under
+
+§ 1983 is “personal, based upon each defendant's own constitutional violations.” Trulock v. Freeh,
+
+
+
+         2
+            Where Plaintiff presented official-capacity claims and the related Counts did not include the City, the Court
+nevertheless also construes those as claims against the City. Rubenstein, 825 F.3d at 223. However, because Plaintiff
+has alleged no facts to support his claims concerning established policy or custom and otherwise no facts to show a
+clear pattern of constitutionally-violative behavior, see City liability analysis, supra Part IV.A.1, Plaintiff has failed
+to state a claim for municipal liability or otherwise for individual, official-capacity liability, and all such claims will
+be dismissed. The Court will likewise dismiss all of Plaintiff’s official-capacity claims against the other individual
+City Defendants, on the same grounds. The analysis will not be repeated for each Defendant in the subsequent
+sections.
+
+                                                           12
+Case 3:23-cv-00160-RCY Document 103 Filed 07/17/23 Page 13 of 22 PageID# 628
+
+
+
+275 F.3d 391, 402 (4th Cir. 2001) (internal citation omitted). Thus, a § 1983 claim requires factual
+
+detail about each defendant’s personal involvement. See Wilcox v. Brown, 877 F.3d 161, 170 (4th
+
+Cir. 2017). Alternatively, a § 1983 defendant may be liable under a theory of supervisory liability.
+
+Wilkins v. Montgomery, 751 F.3d 214, 226 (4th Cir. 2014). Plaintiff has not provided factual
+
+details to support Edwards’ liability under either theory.
+
+       Plaintiff’s allegation that Chief Edwards “showed no concern” when Plaintiff confronted
+
+him about Davenport’s lack of follow-up does not speak in any way to Edwards’ personal training
+
+(or lack thereof) of Davenport or Cunningham, or to the policies in place for police officers under
+
+his command. And while this single factual allegation is relevant to Plaintiff’s claim of deliberate
+
+indifference, it is not, standing alone, sufficient to state a claim under § 1983. To succeed on a
+
+§ 1983 claim for supervisory liability premised on deliberate indifference, a plaintiff must show:
+
+       (1) that the supervisor had actual or constructive knowledge that his subordinate
+           was engaged in conduct that posed “a pervasive and unreasonable risk” of
+           constitutional injury to citizens like the plaintiff;
+       (2) that the supervisor's response to that knowledge was so inadequate as to show
+           “deliberate indifference to or tacit authorization of the alleged offensive
+           practices,”; and
+       (3) that there was an “affirmative causal link” between the supervisor's inaction and
+           the particular constitutional injury suffered by the plaintiff.
+
+Id. (quoting Shaw v. Stroud, 13 F.3d 791, 799 (4th Cir. 1994)). As the Fourth Circuit made clear
+
+in Shaw, “[e]stablishing a ‘pervasive’ and ‘unreasonable’ risk of harm requires evidence that the
+
+conduct is widespread, or at least has been used on several different occasions and that the conduct
+
+engaged in by the subordinate poses an unreasonable risk of harm of constitutional injury.” Shaw,
+
+13 F.3d at 799. Plaintiff’s lone allegation about Chief Edwards’s lack of concern regarding
+
+Davenport’s failure to follow-up does not satisfy this pleading requirement, and the general
+
+allegation that Edwards neither knows nor follows the controlling “general orders” likewise does
+
+nothing to support Plaintiff’s claims. Thus, Plaintiff has failed to state a claim against Chief
+
+
+                                                 13
+Case 3:23-cv-00160-RCY Document 103 Filed 07/17/23 Page 14 of 22 PageID# 629
+
+
+
+Edwards on any of the grounds articulated in Counts Four, Five, Six, and Seven, and Chief
+
+Edwards will accordingly be dismissed from the action.
+
+       3. Commander Davenport
+
+       Plaintiff alleges that Commander Davenport violated Plaintiff’s constitutional rights
+
+through his conspiracy to destroy Plaintiff’s complaints against Detective Cunningham (Count
+
+Two), failing to train, supervise, and discipline Detective Cunningham (Count Four), deliberate
+
+and reckless indifference to Plaintiff’s constitutional rights (Count Five), failing to have
+
+established policy, procedure, general orders and guidelines for police officers to prevent racial
+
+profiling (Count Six), and failing to contact Plaintiff after being ordered by Chief Edwards (Count
+
+Eight). In support of these allegations, Plaintiff states that Davenport ignored Chief Edwards’s
+
+order to contact Plaintiff concerning Plaintiff’s complaints about Detective Cunningham and that
+
+he “allowed Cunningham to run around like a loose cannon.” (Compl. ¶¶ 18–19). Plaintiff also
+
+alleges that, like Edwards, Davenport neither knows nor follows the controlling “general orders.”
+
+(Id. ¶ 28.) The remainder of Plaintiff’s allegations concerning Davenport are conclusory.
+
+         Only Counts Two and Eight allege direct, personal conduct by Davenport. Plaintiff
+
+presents no facts to support his conspiracy claim (Count Two) against Davenport, however, and
+
+his allegation that Davenport failed to contact him (Count Eight) does not plausibly give rise to a
+
+constitutional violation.
+
+       The remainder of Plaintiff’s claims against Davenport (failure to train and supervise
+
+Cunningham, deliberate indifference, and failure to have established policies and procedures) fall
+
+into the supervisory liability category. No factual allegations support Plaintiff’s claim against
+
+Davenport for failing to have established policies and procedures (Count Six), but Plaintiff did
+
+provide facts in support of the other two counts. Construed liberally, the facts in the Complaint
+
+allege that Davenport had knowledge of Plaintiff’s complaints of Cunningham’s ongoing
+
+                                                14
+Case 3:23-cv-00160-RCY Document 103 Filed 07/17/23 Page 15 of 22 PageID# 630
+
+
+
+violations of his rights, via the communications with Chief Edwards. (Compl. ¶ 18.) Despite this
+
+knowledge, Davenport took no steps to engage with Plaintiff and instead allowed Cunningham to
+
+continue operating without supervision or discipline, which resulted in the racial discrimination
+
+allegedly suffered by Plaintiff. (Id. ¶ 19.) Taken together and read in the light most favorable to
+
+Plaintiff, the allegations do appear to state a claim for supervisory liability against Davenport for
+
+failing to supervise Cunningham and exhibiting deliberate indifference to the constitutional
+
+violations committed by Cunningham and potentially other officers. See Shaw, supra.
+
+       The Court further finds that Plaintiff’s allegations are sufficient to overcome Davenport’s
+
+defense of qualified immunity at this preliminary stage. When a government official is sued in
+
+their individual capacity, qualified immunity protects them “insofar as their conduct does not
+
+violate clearly established statutory or constitutional rights of which a reasonable person would
+
+have known.” Pearson v. Callahan, 555 U.S. 223, 231 (2009) (quoting Harlow v. Fitzgerald, 457
+
+U.S. 800, 818 (1982)). To determine whether qualified immunity applies, the Court must ask both
+
+whether a constitutional violation occurred and whether the right violated was “clearly
+
+established” at the time of the official’s conduct. Melgar ex rel. Melgar v. Greene, 593 F.3d 348,
+
+353 (4th Cir. 2010). A right can be clearly established by cases of controlling authority in this
+
+jurisdiction or by a consensus of persuasive authority from other jurisdictions. Owens ex rel.
+
+Owens v. Lott, 372 F.3d 267, 280 (4th Cir. 2004). Either way, these sources “must have placed
+
+the statutory or constitutional question beyond debate.” Kisela v. Hughes, 138 S. Ct. 1148, 1152,
+
+200 L. Ed. 2d 449 (2018) (per curiam). To determine whether the question is beyond debate, the
+
+right at issue must be defined with specificity. Sharpe v. Winterville Pol. Dept., 59 F.4th 674 (4th
+
+Cir. 2023) (citing City of Escondido, Cal. v. Emmons, 139 S. Ct. 500, 503 (2019)). The two prongs
+
+of the qualified immunity analysis (identifying the constitutional right and determining whether it
+
+
+
+                                                 15
+Case 3:23-cv-00160-RCY Document 103 Filed 07/17/23 Page 16 of 22 PageID# 631
+
+
+
+was clearly established) may be analyzed in any order. Pearson v. Callahan, 555 U.S. 223, 236
+
+(2009).
+
+          The constitutional violation alleged in this case is the violation of Plaintiff’s Fourteenth
+
+Amendment Equal Protection right to be free from racial discrimination and race-based harassment
+
+by the police. This right has been recognized by multiple Circuit Courts of Appeals, including the
+
+Fourth Circuit. See Greene v. Maroules, 211 F. App’x 159, 162 (4th Cir. 2006); Johnson v. Morel,
+
+876 F.2d 477, 479 (5th Cir. 1989) (“The Constitution does not tolerate intentional police
+
+harassment of racial minorities.”) (abrogated on other grounds, Harper v. Harris Cnty, Tex., 21
+
+F.3d 597 (5th Cir. 1994)); Smith v. Thornburg, 136 F. 3d 1070, 1089 (6th Cir. 1998) (recognizing
+
+a right to be free from racially motivated verbal abuse and harassment by police officers). Based
+
+on this precedent, the Court holds that Plaintiff’s constitutional right to be free of police harassment
+
+and discrimination was clearly established at the time of the alleged deprivation, and thus, on the
+
+face of the Complaint, Defendant Davenport is not entitled to qualified immunity at this time. The
+
+Court will therefore deny the Motion to Dismiss as to the supervisory liability claims in Counts
+
+Four and Five against Davenport.
+
+          4. Detective Cunningham
+
+          The Complaint claims that Detective Cunningham engaged in racially motivated acts of
+
+police misconduct and racial discrimination (Count Three) and failed to follow RPD guidelines,
+
+policy, procedure, and general orders regarding the handling of complaints (Count Nine).3 In
+
+contrast to the factual support (or lack thereof) provided in connection to his other claims, Plaintiff
+
+includes ample factual allegations about Detective Cunningham. He alleges that Cunningham had
+
+
+          3
+          The Complaint also alleges that Cunningham conspired with the Neighbor Defendants to deprive Plaintiff
+of his constitutional right to be free from hate and terror (Count One) and conspired with Davenport to destroy the
+two complaints he filed against her with RPD (Count Two), but the Court reserves its analysis of these allegations for
+the 42 U.S.C. § 1985 section, infra.
+
+                                                         16
+Case 3:23-cv-00160-RCY Document 103 Filed 07/17/23 Page 17 of 22 PageID# 632
+
+
+
+his neighbors harass Plaintiff and call the police on him on a daily basis and make false accusations
+
+about him. (Compl. ¶¶ 5, 8.) He further alleges that Cunningham would use racial slurs against
+
+Plaintiff while sitting on neighbors’ porches (id. ¶¶ 11, 13), and that she used her authority within
+
+RPD to dispatch patrol cars to tail and harass Plaintiff and his family. (Id. ¶¶ 17–18, 23.) Plaintiff
+
+further alleges that Cunningham threw two complaints Plaintiff filed against her with RPD into
+
+the trash. (Id. ¶ 21.)
+
+        With respect to Count Three, the Court finds that, on the basis of the above allegations,
+
+Plaintiff has alleged sufficient facts to state a § 1983 claim for personal liability against Detective
+
+Cunningham. Specifically, Plaintiff has alleged that Cunningham, a RPD Detective, deprived him
+
+of the equal protection of the laws of the United States when she treated him differently from his
+
+White neighbors by orchestrating and participating in a campaign of racially motivated
+
+harassment. Applying the liberal pleading standard due to pro se litigants, the Court finds that
+
+Plaintiff has stated an equal protection claim and thus a § 1983 claim against Cunningham for the
+
+alleged racially motivated police misconduct and racial discrimination (Count Three). See Green
+
+v. Maroules, 211 F. App’x 159, 161 (4th Cir. 2006) (liberally construing and reversing the
+
+dismissal of a pro se § 1983 claim alleging an Equal Protection Clause violation, “[b]ecause it is
+
+not apparent ‘beyond doubt’ that [the plaintiff] cannot prove a set of facts in support of [her] claim
+
+that would entitle her to relief.”) (citing Hughes v. Rowe, 449 U.S. 5, 10 (1980)).
+
+        And, for the same reasons that the Court found that Commander Davenport could not claim
+
+qualified immunity at this time, it holds the same to be true for Detective Cunningham, as the
+
+rights allegedly violated were clearly established at the time the harassment and discrimination
+
+occurred. See Part IV.A.3, supra.
+
+        The Court will grant the Motion to Dismiss as to Count Nine, however, as Plaintiff does
+
+not provide sufficient factual allegations to sustain this claim. Nothing in the Complaint indicates
+
+                                                  17
+Case 3:23-cv-00160-RCY Document 103 Filed 07/17/23 Page 18 of 22 PageID# 633
+
+
+
+that RPD had specific policies, guidelines, procedures, and/or general orders governing the
+
+handling of civilian complaints—in fact, Plaintiff alleges in other parts of the Complaint that other
+
+Defendants should be held liable for failing to have such policies. Accordingly, nothing but
+
+Plaintiff’s conclusory allegations support this claim, and the Court will dismiss Count Nine against
+
+Defendant Cunningham.
+
+       5. Mayor Stoney & the City Council Defendants
+
+       Plaintiff seeks to hold Mayor Stoney liable for his failure to have an established policy to
+
+prevent the destruction of Plaintiff’s complaint (Count Seven), failure to train, supervise and
+
+discipline RPD officers (Count Eleven), and for deliberate and reckless indifference to the
+
+complaints Plaintiff submitted (Count Twelve). Similarly, he seeks to hold the City Council
+
+Defendants for their failure to have an established policy to prevent the destruction of Plaintiff’s
+
+complaint (Count Seven) and their deliberate and reckless indifference to the complaints Plaintiff
+
+submitted to their offices (Count Twelve). Plaintiff provides few factual allegations to support
+
+these claims, beyond the fact of his having filed complaints with the Mayor and City Council
+
+Defendants concerning Detective Cunningham’s actions.
+
+       Contrary to Plaintiff’s conclusory allegation that the Mayor is the “gatekeeper” for the City
+
+of Richmond, the Mayor has no functional control over the operations of the RPD, nor over the
+
+training of the Chief of Police or other RPD officers. And because the Mayor does not hold a
+
+supervisory role over Detective Cunningham, the supervisory liability analysis available under
+
+§ 1983 is not available for Plaintiff to claim that the Mayor caused the deprivation of Plaintiff’s
+
+equal protection-rights through deliberate indifference to Plaintiff’s complaints. The same is true
+
+on all points for the City Council Defendants. Accordingly, Plaintiff has failed to state any § 1983
+
+claim against the Mayor or the City Council Defendants, and the Motion to Dismiss will be granted
+
+as to Plaintiff’s claims against them.
+
+                                                 18
+Case 3:23-cv-00160-RCY Document 103 Filed 07/17/23 Page 19 of 22 PageID# 634
+
+
+
+          6. Unknown Named Police Officers
+
+          Plaintiff claims that, in addition to Defendant Cunningham, certain Unknown Named
+
+Police Officers (“Unknown Officers”) engaged in harassing and intimidating Plaintiff (Count
+
+Ten). Plaintiff does provide some factual allegations in support of this claim, such as the fact that
+
+Unknown Officers followed him and his family when they left their home to attend church and
+
+that Unknown Officers surveilled Plaintiff all day long. (Compl. ¶¶ 18–19.) However, Plaintiff
+
+provides no allegations to suggest that these Unknown Officers engaged in this behavior based on
+
+some racially discriminatory motive. In fact, he directly alleges that they did so at the direction of
+
+Defendant Cunningham. (Id.) While the continual presence of officers may certainly have been
+
+stressful for Plaintiff, nothing in the Complaint suggests that the officers themselves engaged in
+
+any violations of constitutional or federal law. Accordingly, the Court finds that Plaintiff has failed
+
+to state a § 1983 claim against the Unknown Named Police Officers, and Count Ten will be
+
+dismissed.
+
+B. 42 U.S.C. § 1985(3)
+
+          Section 1985 of the United States Code, Chapter 42, provides a cause of action for
+
+individuals who have been the subject of a conspiracy to deprive them of the equal protection of
+
+the laws of the United States. To establish a cause of action under § 1985(3), a plaintiff must
+
+allege:
+
+          (1) a conspiracy of two or more persons, (2) who are motivated by a specific class-
+          based, invidiously discriminatory animus to (3) deprive the plaintiff of the equal
+          enjoyment of rights secured by the law to all, (4) and which results in injury to the
+          plaintiff as (5) a consequence of an overt act committed by the defendants in
+          connection with the conspiracy. Moreover, the law is well settled that to prove a
+          section 1985 ‘conspiracy,’ a claimant must show an agreement or a ‘meeting of the
+          minds’ by defendants to violate the claimant’s constitutional rights.
+
+Simmons v. Poe, 47 F.3d 1370, 1376–77 (4th Cir. 1995) (citations omitted). Plaintiff’s Complaint
+
+states two claims for relief predicated on conspiracy: first, that Defendant Cunningham conspired
+
+                                                   19
+Case 3:23-cv-00160-RCY Document 103 Filed 07/17/23 Page 20 of 22 PageID# 635
+
+
+
+with the Neighbor Defendants to deprive Plaintiff of his constitutional rights (Count One), and
+
+second, that Cunningham and Davenport conspired to destroy the complaints Plaintiff filed with
+
+RPD against Cunningham (Count Two). Plaintiff states ample facts in support of the first count
+
+of conspiracy; his second count is less well supported, however.
+
+       As to Count One, Plaintiff alleges that Cunningham conspired with his neighbors to get the
+
+neighbors to call RPD on a daily basis to complain about Plaintiff and to falsely allege that he is a
+
+drug dealer and drug user. (Compl. ¶ 16.) Plaintiff also alleges that Cunningham and the Neighbor
+
+Defendants all engaged in a campaign of harassment that was racially motivated, as evidenced by
+
+the racial epithets and slurs they employed. (Id. ¶¶ 4–6, 8–9, 11–14.) Based on this harassment
+
+and discrimination, Plaintiff alleges that he was deprived “of his equal rights and protections under
+
+the law to live in society without being harassed by the [RPD] every time [he] comes out of his
+
+house.” (Id. ¶ 16.) And, as a result, Plaintiff alleges that he suffered actual harm, including severe
+
+depression that requires long-term medical treatment. (See, e.g., id. ¶¶ 6, 9, 11, 13.)
+
+       Defendants argue that Plaintiff does not allege the requisite details to establish a “meeting
+
+of the minds” on the part of Defendants. (Mem. Supp. Mot. Dismiss 14 (citing Smith v. Town of
+
+South Hill, 611 F. Supp. 3d 148, 187 (E.D. Va. 2020). The Court disagrees. Plaintiff has identified
+
+the specific members of the conspiracy, their apparent goal (to harass and intimidate him, using
+
+the weight of RPD as wielded by Defendant Cunningham, until he moves from his home),
+
+interactions among the Defendants, and the steps taken by each Defendant in furtherance of the
+
+conspiracy. Taking all the alleged facts as true, the Court finds that, when read liberally as it must
+
+be, Plaintiff’s Complaint does state a claim for § 1985(3) conspiracy against Defendant
+
+Cunningham. See Maroules, 211 F. App’x at 163 (reversing the dismissal for failure to state a
+
+claim of a pro se § 1985(3) claim, where the plaintiff alleged “that her civil liberties were injured,
+
+resulting in physical and mental harm, by acts of the defendants, who behaved consistently with
+
+                                                 20
+Case 3:23-cv-00160-RCY Document 103 Filed 07/17/23 Page 21 of 22 PageID# 636
+
+
+
+their conspiracy to falsely arrest her.”). Plaintiff has alleged sufficient “meeting of the minds” and
+
+supporting facts concerning the members, communications amongst the conspirators, and the
+
+general shared purpose of the conspiracy. Id. at 162–63. Cf. A Soc’y Without a Name v. Virginia,
+
+655 F.3d 342, 346 (4th Cir. 2011) (affirming the dismissal of a § 1985 conspiracy claim where the
+
+plaintiff failed to allege facts concerning “the persons who agreed to the alleged conspiracy, the
+
+specific communications among the conspirators, or the manner in which such communications
+
+were made.”) And, once again, for the reasons set forth supra, the Court holds the Cunningham
+
+cannot claim qualified immunity for the alleged racially discriminatory harassment as to this claim.
+
+       Turning to Count Two, although Plaintiff couches his claim as another conspiracy count,
+
+he provides no additional facts to support the alleged conspiracy to destroy his complaints. None
+
+of Plaintiff’s allegations even suggest Defendant Davenport’s involvement in the destruction of
+
+Plaintiff’s complaints against Cunningham, other than the conclusory allegation asserting to the
+
+conspiracy itself. Accordingly, Plaintiff has failed to state a claim as to Count Two, and that count
+
+will be dismissed.
+
+C. 42 U.S.C. § 2000a(a)
+
+       United States Code Chapter 42, § 2000a(a), provides that “All persons shall be entitled to
+
+the full and equal enjoyment of the goods, services, facilities, privileges, advantages, and
+
+accommodations of any place of public accommodation, as defined in this section, without
+
+discrimination or segregation on the ground of race, color, religion, or national origin.” The Code
+
+goes on to define “place of public accommodation” as certain enumerated establishments. 42
+
+U.S.C. § 2000a(b). Notably, Plaintiff has not identified any place of public accommodation where
+
+he has been denied the full benefits and enjoyment otherwise available to the public. For this
+
+critical deficiency, to the extent that Plaintiff sought to rest any of his claims on 42 U.S.C. § 2000a,
+
+the City Defendants’ Motion to Dismiss will be granted.
+
+                                                  21
+Case 3:23-cv-00160-RCY Document 103 Filed 07/17/23 Page 22 of 22 PageID# 637
+
+
+
+D. 28 U.S.C. § 1915(e)(2)(B)(i)
+
+       The statute authorizing in forma pauperis actions, 28 U.S.C. § 1915, provides that Courts
+
+must dismiss cases that are frivolous or malicious. 28 U.S.C. § 1915(e)(2)(B)(i). While the Court
+
+recognizes that Plaintiff has a long history of filing pro se—and often unsuccessful—civil rights-
+
+based litigation (see Mem. Supp. Mot. Dismiss 2, n.2), that does not automatically render
+
+Plaintiff’s well-pleaded allegations incredible and/or subject to dismissal. See Denton, 504 at 33
+
+(quoted supra Part III). Because the Court has found that Plaintiff has in fact stated a claim as to
+
+Defendants Davenport and Cunningham, the Court rejects the City Defendants’ argument that
+
+Plaintiff’s Complaint is frivolous and malicious and declines to dismiss the case based on § 1915.
+
+                                       V. CONCLUSION
+
+       For the reasons detailed above, Defendant’s Motion to Dismiss (ECF No. 13) will be
+
+granted in part and denied in part.
+
+       An appropriate Order shall issue.
+
+                                                                   /s/
+                                                     Roderick C. Young
+                                                     United States District Judge
+Richmond, Virginia
+Date: July 1, 2023
+
+
+
+
+                                                22
+

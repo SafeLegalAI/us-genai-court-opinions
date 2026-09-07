@@ -1,0 +1,1135 @@
+Case No. 1:25-cv-03285-NYW-MDB          Document 49      filed 06/09/26   USDC Colorado
+                                        pg 1 of 21
+
+
+
+
+                     IN THE UNITED STATES DISTRICT COURT
+                        FOR THE DISTRICT OF COLORADO
+                               Judge Nina Y. Wang
+
+Civil Action No. 25-cv-03285-NYW-MDB
+
+TLINGIT HAIDA TRIBAL BUSINESS CORPORATION,
+
+      Plaintiff/Counterclaim Defendant,
+
+v.
+
+ONEPROMOM, LLC d/b/a COMBS CONSULTING LLC,
+
+      Defendant,
+
+and
+
+RHIANNA COMBS,
+
+      Defendant/Counterclaim Plaintiff/Crossclaim Plaintiff,
+
+v.
+
+RICHARD RINEHART, JR.,
+
+      Crossclaim Defendant.
+
+
+
+                           ORDER ON MOTION TO DISMISS
+
+
+      This matter is before the Court on the Partial Motion to Dismiss Plaintiff’s First
+
+Amended Complaint (the “Motion” or “Motion to Dismiss”). [Doc. 34]. The Motion is fully
+
+briefed. [Doc. 42; Doc. 48]. For the reasons set forth in this Order, the Motion to Dismiss
+
+is respectfully GRANTED in part and DENIED in part.
+
+                                    BACKGROUND
+
+      The following facts are drawn from the First Amended Complaint (the “Amended
+
+Complaint”), [Doc. 24], and are undisputed unless otherwise noted. Plaintiff Tlingit Haida
+Case No. 1:25-cv-03285-NYW-MDB           Document 49      filed 06/09/26    USDC Colorado
+                                         pg 2 of 21
+
+
+
+
+Tribal Business Corporation (“Plaintiff” or “THTBC”) is a corporation that “manages a
+
+diverse portfolio of companies” in “the highly competitive government contracting space.”
+
+[Id. at ¶¶ 1, 11, 18]. Its “Capture” team “obtain[s] information about potential business
+
+opportunities,” and the “Proposal” team then “steps in to draft the bid documents, interface
+
+with the potential client throughout the bidding process, and address any questions or
+
+issues the potential client has while it evaluates the bids.” [Id. at ¶¶ 15–16].
+
+       In 2007, Defendant Rhianna Combs (“Ms. Combs”) began working as an
+
+administrative support worker for Kira Inc., which is a “federal contractor that provide[s]
+
+facilities maintenance and base operations support for the United States and overseas.”
+
+[Id. at ¶¶ 12, 50]. In 2016, THTBC acquired Kira. [Id. at ¶ 12]. As part of that acquisition,
+
+Ms. Combs transitioned to a part-time contracts administrator role. [Id. at ¶ 51]. In 2017,
+
+Ms. Combs transitioned to become a full-time contracts compliance administrator and
+
+then later switched roles to become a contract compliance and corporate specialist for
+
+T&H Services LLC (“T&H”), a wholly owned subsidiary of THTBC. [Id. at ¶¶ 13, 51–52].
+
+“On September 21, 2018, Ms. Combs transitioned to working for THTBC . . . directly in
+
+the same role.” [Id. at ¶ 53].
+
+       The day before Ms. Combs transitioned to working for THTBC directly, Ms. Combs
+
+executed a confidentiality and non-solicitation agreement (the “Agreement”). [Id. at ¶¶ 23,
+
+55]. The signatories to the Agreement are Ms. Combs and T&H. See [id. at ¶ 111; Doc.
+
+24-1 at 6]. 1 The Agreement provides, among other things, that Ms. Combs “will not
+
+
+
+1 In ruling on a motion to dismiss under Rule 12(b)(6), the Court can consider “documents
+
+that a plaintiff (1) attaches to [the] complaint; (2) incorporates by reference in [the]
+complaint; or (3) refers to in [the] complaint and that are central to [the] complaint and
+indisputably authentic.” Fuqua v. Santa Fe Cnty. Sheriff’s Off., 157 F.4th 1288, 1297
+(10th Cir. 2025) (quotation omitted). The Agreement is attached to the Amended
+
+
+                                              2
+Case No. 1:25-cv-03285-NYW-MDB          Document 49      filed 06/09/26    USDC Colorado
+                                        pg 3 of 21
+
+
+
+
+disclose, use, lecture upon or publish any of” T&H’s confidential or proprietary
+
+information. [Doc. 24 at ¶¶ 25–28; Doc. 24-1 at 2]. The THTBC Employee Handbook
+
+also contains “instructions” regarding the protection of THTBC’s confidential and
+
+proprietary information. See [Doc. 24 at ¶¶ 41–47]. 2
+
+       Ms. Combs progressed in her employment with THTBC and eventually was named
+
+the vice president of proposals. [Id. at ¶ 56]. During her employment with THTBC, Ms.
+
+Combs was “provided with significant confidential and trade secret information.” [Id. at
+
+¶ 58]. But after becoming “extremely resentful” of being twice denied a promotion, Ms.
+
+Combs “began surreptitiously forwarding emails containing THTBC Parent’s confidential
+
+and trade secret information to her personal email address.” [Id. at ¶¶ 69–70]; see also
+
+[id. at ¶¶ 71–79]. In early 2025, Ms. Combs was laid off through a reduction in force. [Id.
+
+at ¶ 68].
+
+       Ms. Combs then created a company called “Combs Consulting LLC” (“Combs
+
+Consulting”). [Id. at ¶ 87]. Combs Consulting’s website advertised that it possessed
+
+“proprietary knowledge span[ning] a wide range of high-value installations” and offered
+
+“legally shareable, highly strategic knowledge to clients ready to compete—and win.” [Id.
+
+
+
+Complaint and is properly considered in ruling on the Motion to Dismiss.
+2 Defendant has attached what it claims to be THTBC’s Employee Handbook.     See [Doc.
+34 at 9; Doc. 34-1]. Typically, the Court would consider the Employee Handbook in ruling
+on the Motion to Dismiss because it is referenced in Plaintiff’s Amended Complaint,
+appears to be central to Plaintiff’s claims, and no Party disputes the Handbook’s
+authenticity. Fuqua v. Santa Fe Cnty. Sheriff’s Off., 157 F.4th 1288, 1297 (10th Cir.
+2025). Indeed, Plaintiff even quotes from the document filed by Defendants in its
+Response. See [Doc. 42 at 8–9]. However, the Amended Complaint alleges that the
+Employee Handbook contains certain language that does not appear in the document
+filed by Defendants. Compare [Doc. 24 at ¶¶ 42–47], with [Doc. 34-1]. Because the Court
+cannot verify the accuracy of the document filed by Defendants, the Court declines to
+consider it in ruling on the Motion to Dismiss.
+
+
+                                            3
+Case No. 1:25-cv-03285-NYW-MDB          Document 49      filed 06/09/26     USDC Colorado
+                                        pg 4 of 21
+
+
+
+
+at ¶ 90].   Plaintiff alleges that this “legally shareable” “proprietary knowledge” was
+
+“confidential and trade secret information and documents that Ms. Combs had obtained
+
+and retained from THTBC . . ., and which she used, disclosed, or planned to use or
+
+disclose, for or to Combs Consulting’s clients.” [Id. at ¶ 93]. In August 2025, Ms. Combs
+
+began working for CBRE Government & Defense Services, a direct competitor of THTBC.
+
+[Id. at ¶¶ 105–06].
+
+       THTBC initiated this action on October 17, 2025, [Doc. 1], and filed the Amended
+
+Complaint on February 6, 2026, [Doc. 24]. It asserts eight claims: (1) a breach of contract
+
+claim against Ms. Combs (“Claim One”), [id. at ¶¶ 109–23]; (2) a breach of fiduciary duty
+
+claim against Ms. Combs, [id. at ¶¶ 124–29]; (3) a trade secret misappropriation claim
+
+under the federal Defend Trade Secrets Act (“DTSA”) against Ms. Combs and Combs
+
+Consulting (“Claim Three”), [id. at ¶¶ 130–44]; (4) a trade secret misappropriation claim
+
+under the Colorado Uniform Trade Secrets Act (“CUTSA”) against Ms. Combs and
+
+Combs Consulting (“Claim Four”), [id. at ¶¶ 145–59]; (5) a claim for tortious interference
+
+with prospective business relations against Ms. Combs and Combs Consulting, [id. at
+
+¶¶ 160–66]; (6) a civil theft claim against Ms. Combs and Combs Consulting (“Claim Six”),
+
+[id. at ¶¶ 167–78]; (7) a claim under the Colorado Consumer Protection Act (“CCPA”)
+
+against Ms. Combs and Combs Consulting (“Claim Seven”), [id. at ¶¶ 179–96]; and (8) a
+
+Lanham Act claim against Ms. Combs and Combs Consulting, [id. at ¶¶ 197–215].
+
+       Ms. Combs and Combs Consulting (collectively, “Defendants”) filed an Answer on
+
+February 27, 2026, through which Ms. Combs asserted counterclaims against THTBC
+
+and crossclaims against Richard Rinehart, Jr., THTBC’s CEO.               [Doc. 32 at 1–2].
+
+Specifically, Ms. Combs asserts the following counterclaims against THTBC: (1) sex
+
+
+
+
+                                            4
+Case No. 1:25-cv-03285-NYW-MDB            Document 49      filed 06/09/26    USDC Colorado
+                                          pg 5 of 21
+
+
+
+
+discrimination under Title VII and the Colorado Antidiscrimination Act (“CADA”), [id. at
+
+24 ¶¶ 58–66]; and (2) retaliation under Title VII and CADA, [id. at 25 ¶¶ 67–71]. She
+
+asserts the following crossclaims against Mr. Rinehart: (1) aiding and abetting sex
+
+discrimination under CADA, [id. at 25 ¶¶ 72–79]; (2) aiding and abetting retaliation under
+
+CADA, [id. at 27 ¶¶ 80–86]; and (3) intentional interference with a contract, [id. at
+
+28 ¶¶ 87–93]. The counterclaims and crossclaims are not at issue in this Order.
+
+       Ms. Combs and Combs Consulting now move to dismiss Claims One, Three, Four,
+
+Six, and Seven for failure to state a claim under Rule 12(b)(6). [Doc. 34]. The Motion is
+
+fully briefed and ripe for resolution.
+
+                                    LEGAL STANDARD
+
+       Under Rule 12(b)(6) of the Federal Rules of Civil Procedure, a court may dismiss
+
+a complaint for “failure to state a claim upon which relief can be granted.” Fed. R. Civ. P.
+
+12(b)(6). In deciding a motion under Rule 12(b)(6), the Court must “accept as true all
+
+well-pleaded factual allegations . . . and view these allegations in the light most favorable
+
+to the plaintiff.” Casanova v. Ulibarri, 595 F.3d 1120, 1124 (10th Cir. 2010) (quotation
+
+omitted). The plaintiff may not rely on mere labels or conclusions, “and a formulaic
+
+recitation of the elements of a cause of action will not do.” Bell Atl. Corp. v. Twombly,
+
+550 U.S. 544, 555 (2007). Rather, “a complaint must contain sufficient factual matter,
+
+accepted as true, to state a claim to relief that is plausible on its face.” Ashcroft v. Iqbal,
+
+556 U.S. 662, 678 (2009) (quotation omitted).
+
+                                         ANALYSIS
+
+I.     Claim One: Breach of Contract
+
+       Defendants move to dismiss the breach of contract claim against Ms. Combs on
+
+
+
+
+                                              5
+Case No. 1:25-cv-03285-NYW-MDB          Document 49      filed 06/09/26   USDC Colorado
+                                        pg 6 of 21
+
+
+
+
+the basis that there is no privity of contract between Ms. Combs and THTBC. [Doc. 34 at
+
+4]. They assert that, because THTBC is not a party to the Agreement, it cannot sue Ms.
+
+Combs for breaching the Agreement. [Id.]. They also argue that to the extent Plaintiff
+
+relies on an assignment theory, Plaintiff’s allegations do not plausibly establish that
+
+T&H—as the signatory to the Agreement—assigned the contract to THTBC. [Id. at 6–7]. 3
+
+         In its Response, THTBC asserts that “at the pleading stage, THTBC need not
+
+prove its ultimate contract-enforcement theory. Rather, it need only allege facts making
+
+enforcement plausible, which it has done.” [Doc. 42 at 5]. Specifically, it contends that
+
+its allegations that “all parties understood and confirmed by their actions . . . that the
+
+Agreement was intended to be between Ms. Combs and THTBC,” see [Doc. 24 at ¶ 111],
+
+and that, “[a]lternatively, by transitioning Ms. Combs’s direct employment from T&H to
+
+THTBC . . . on September 21, 2018. . ., THTBC . . . constituted a successor or assignee
+
+of T&H for purposes of the Agreement,” [id. at ¶ 112], are “more than sufficient to survive
+
+dismissal,” [Doc. 42 at 5]. This argument is not supported by any legal authority. See
+
+[id.].   THTBC also argues that (1) the Amended Complaint “plausibly supports
+
+enforcement of the Agreement through reformation based on mutual mistake” or “a
+
+scrivener’s error,” [id. at 6–7 (emphasis omitted)], and (2) Ms. Combs has contractual
+
+duties to THTBC based on the Employee Handbook. [Id. at 8].
+
+         “Generally, only parties to a contract may seek to enforce its terms.” Bewley v.
+
+Semler, 432 P.3d 582, 586 (Colo. 2018). “In other words, a party must have privity of
+
+
+
+3 Defendants also argue that THTBC is not a third-party beneficiary of the Agreement, so
+
+it cannot enforce the Agreement on that basis. [Doc. 34 at 7]. Because Plaintiff does not
+argue that it is a third-party beneficiary to the Agreement, see [Doc. 42], the Court does
+not address this argument.
+
+
+                                             6
+Case No. 1:25-cv-03285-NYW-MDB           Document 49      filed 06/09/26    USDC Colorado
+                                         pg 7 of 21
+
+
+
+
+contract to sue for breach of that contract.” Id. at 586–87. Here, the Amended Complaint
+
+alleges—and the face of the Agreement confirms—that “the parties named on the
+
+Agreement are Ms. Combs and T&H.” [Doc. 24 at ¶ 111; Doc. 24-1 at 1, 6]. Indeed, the
+
+Agreement expressly states: “This Agreement is made by and between T&H Services
+
+LLC, a Colorado Limited Liability Company (the ‘Company’), and Rhianna L. Combs
+
+(‘Employee’).” [Doc. 24-1 at 1].
+
+       When interpreting a contract, courts “giv[e] words used their plain and ordinary
+
+meaning unless the intent of the parties, as expressed in the contract, indicates that an
+
+alternative interpretation is intended.” Figuli v. State Farm Mut. Fire & Cas., 304 P.3d
+
+595, 598 (Colo. App. 2012) (quotation omitted and emphasis added). Plaintiff does not
+
+point the Court to any language in the contract itself demonstrating the contracting parties’
+
+intent that “the Agreement was intended to be between Ms. Combs and THTBC,” as the
+
+Amended Complaint asserts. See [Doc. 24 at ¶ 111]. And Plaintiff’s allegation about the
+
+contracting parties’ intent “do[es] not overcome contradictory statements in the text of
+
+[the] contract attached to” the Amended Complaint. Gorsuch, Ltd., B.C. v. Wells Fargo
+
+Nat’l Bank Ass’n, 771 F.3d 1230, 1238 (10th Cir. 2014). While Plaintiff is correct that it
+
+need not prove its case at the pleading stage, it must nevertheless “allege sufficient facts
+
+to nudge [its] claims across the line from conceivable to plausible.” VDARE Found. v.
+
+City of Colorado Springs, 11 F.4th 1151, 1158 (10th Cir. 2021) (cleaned up). It has not
+
+met this burden here.
+
+       Plaintiff also alleges that “by transitioning Ms. Combs’s direct employment from
+
+T&H to THTBC . . . on September 21, 2018 (the very next day after the Agreement was
+
+signed), THTBC . . . constituted a successor or assignee of T&H for purposes of the
+
+
+
+
+                                             7
+Case No. 1:25-cv-03285-NYW-MDB            Document 49       filed 06/09/26   USDC Colorado
+                                          pg 8 of 21
+
+
+
+
+Agreement, pursuant to Sections 9(F)–(G).” [Doc. 24 at ¶ 112]. 4 Plaintiff argues in its
+
+Response that this allegation, “together with the surrounding facts pleaded in the
+
+[Amended Complaint],” is sufficient to survive dismissal. [Doc. 42 at 5]. This statement
+
+is not supported by citations to legal authority or developed argument. See [id.]. The
+
+Court is respectfully unconvinced that simply alleging that a non-party to a contract is an
+
+assignee or successor-in-interest, without any factual allegations establishing an
+
+assignment or transfer in interest, is sufficient to state a claim.
+
+       “An assignment of a right is a manifestation of the assignor's intention to transfer
+
+it by virtue of which the assignor’s right to performance by the obligor is extinguished in
+
+whole or in part and the assignee acquires a right to such performance.” Allstate Ins. Co.
+
+v. Med. Lien Mgmt., Inc., 348 P.3d 943, 947 (Colo. 2015) (quoting Restatement (Second)
+
+of Contracts § 317(1) (1981)). Although “[n]o particular formalities are necessary to effect
+
+a valid assignment,” the “‘intent to make the assignment must be apparent,’ and that intent
+
+‘may be reflected by the written instruments executed by the parties or . . . inferred from
+
+the acts and conduct of the assignor.’” Phoenix Cap., Inc. v. Dowell, 176 P.3d 835, 845
+
+(Colo. App. 2007) (quoting Lookout Mountain Paradise Hills Homeowners’ Ass’n v.
+
+Viewpoint Assocs., 867 P.2d 70, 73–74 (Colo. App. 1993) (alteration in original)). Here,
+
+Plaintiff directs the Court to no factual allegations in the Amended Complaint setting out
+
+T&H’s “acts and conduct” from which its intent to assign could plausibly be inferred, see
+
+[Doc. 42 at 5–6], and the Court could not locate any such allegations in its independent
+
+
+4 These provisions state:    “F. Successors and assigns. This Agreement will be binding
+upon Employee’s heirs, executors, administrators, and other legal representatives and
+will be for the benefit of the Company, its successors, and its assigns. G. Survival. The
+provisions of this Agreement shall survive the assignment of this Agreement by the
+Company to any successor in interest or other assignee.” [Doc. 24-1 at 5].
+
+
+                                               8
+Case No. 1:25-cv-03285-NYW-MDB              Document 49      filed 06/09/26   USDC Colorado
+                                            pg 9 of 21
+
+
+
+
+review of the Amended Complaint; indeed, Plaintiff does not even allege the circumstance
+
+surrounding the “transitioning” of Ms. Combs’s employment to THTBC, which Plaintiff
+
+claims was the trigger of the purported assignment, see [Doc. 24 at ¶¶ 53, 112]. Nor does
+
+Plaintiff meaningfully support its argument that THTBC is a successor-in-interest of the
+
+Agreement by virtue of Ms. Combs’s employment transition. See [Doc. 42 at 5–6].
+
+       Alternatively, THTBC argues that the Amended Complaint “plausibly supports
+
+enforcement of the Agreement through reformation based on mutual mistake” or a
+
+“scrivener’s error.” [Doc. 42 at 6–7 (emphasis omitted)]. The Court disagrees. Contract
+
+reformation is “an equitable remedy” that is “permissible when either the parties made a
+
+mutual mistake or one party made a unilateral mistake and the other party engaged in
+
+fraud or inequitable conduct.” Morris v. Belfor USA Grp., Inc., 201 P.3d 1253, 1260 (Colo.
+
+App. 2008); see also Dennett v. Mt. Harvard Dev. Co., 604 P.2d 699, 701 (Colo. App.
+
+1979) (“[S]criveners’ errors are a form of mutual mistake.”).            Plaintiff’s Amended
+
+Complaint neither seeks reformation of the Agreement nor expressly alleges the
+
+existence of a mistake or a scrivener’s error, see generally [Doc. 24], and Plaintiff cannot
+
+amend its pleading to add new factual allegations or a new request for relief through its
+
+Response. See Earles v. Cleveland, 418 F. Supp. 3d 879, 892 n.3 (W.D. Okla. 2019),
+
+aff’d, 825 F. App’x 544 (10th Cir. 2020); see also Fed. R. Civ. P. 8(a)(3) (“A pleading that
+
+states a claim for relief must contain . . . a demand for the relief sought, which may include
+
+relief in the alternative or different types of relief.”).
+
+       Finally, THTBC argues that Ms. Combs “owes contractual obligations to THTBC
+
+through the Employee Handbook.” [Doc. 42 at 8 (emphasis omitted)]. 5 It asserts that
+
+
+
+5 Defendants also argue that the Employee Handbook does not constitute a binding
+
+
+
+                                                  9
+Case No. 1:25-cv-03285-NYW-MDB            Document 49        filed 06/09/26     USDC Colorado
+                                          pg 10 of 21
+
+
+
+
+“Ms. Combs expressly agreed to comply with the provisions listed in the Employee
+
+Handbook,” which imposed contractual duties on her. [Id. at 9].
+
+       This argument is unconvincing for several reasons. First, the Amended Complaint
+
+does not allege that the Employee Handbook is a contract that imposes any duty on Ms.
+
+Combs. See [Doc. 24 at ¶¶ 41–49]. Second, and relatedly, Plaintiff’s breach of contract
+
+claim is based exclusively on allegations that Ms. Combs breached the Agreement—not
+
+the Employee Handbook. [Id. at ¶¶ 109–23].           Third, Plaintiff’s argument is conclusory
+
+and does not explain how the Employee Handbook meets the requirements of a binding
+
+contract. See Stansberry v. Elkerton, No. 22CA1715, 2023 WL 12051980, at *2 (Colo.
+
+App. Oct. 12, 2023) (“To form a valid contract, there must be an offer, acceptance, and
+
+consideration that supports the agreement.”). Plaintiff cannot state a breach of contract
+
+claim based on the Employee Handbook.
+
+       For these reasons, the Court finds that Plaintiff fails to state a breach of contract
+
+claim under Rule 12(b)(6). Claim One is respectfully DISMISSED without prejudice. 6
+
+II.    Claims Three and Four: Trade Secret Misappropriation
+
+       To plausibly state a misappropriation claim under CUTSA, a plaintiff must allege
+
+“(i) that [the plaintiff] possessed a valid trade secret, (ii) that the trade secret was disclosed
+
+
+contract because the document attached to their Motion “disclaims a contractual
+relationship” by informing employees that “‘[t]his Code is not an employment contract.’”
+[Doc. 34 at 9 (quoting Doc. 34-1 at 1)]. Plaintiff responds to this argument. [Doc. 42 at
+8–9]. However, because the Court has declined to consider Defendants’ exhibit in ruling
+on the Motion, see supra note 2, the Court does not address this argument.
+6 Defendants argue that Plaintiff’s claims should be dismissed with prejudice but provides
+
+no supporting argument. [Doc. 34 at 2]. “A dismissal with prejudice is appropriate where
+a complaint fails to state a claim under Rule 12(b)(6) and granting leave to amend would
+be futile.” Brereton v. Bountiful City Corp., 434 F.3d 1213, 1219 (10th Cir. 2006). The
+Court declines to undertake a futility analysis sua sponte and instead dismisses Claim
+One without prejudice.
+
+
+                                               10
+Case No. 1:25-cv-03285-NYW-MDB          Document 49       filed 06/09/26    USDC Colorado
+                                        pg 11 of 21
+
+
+
+
+or used without consent, and (iii) that the defendant knew, or should have known, that the
+
+trade secret was acquired by improper means.” Gates Rubber Co. v. Bando Chem.
+
+Indus., 9 F.3d 823, 847 (10th Cir. 1993). Similarly, a DTSA claim requires allegations
+
+establishing:
+
+       (1) the existence of a trade secret that relates to a product or service used
+       in, or intended for use in, interstate or foreign commerce; (2) the acquisition
+       of the trade secret, or the use or disclosure of the trade secret without
+       consent; and (3) the person acquiring, using, or disclosing the trade secret
+       knew or had reason to know that the trade secret was acquired by improper
+       means.
+
+DTC Energy Grp., Inc. v. Hirschfeld, 420 F. Supp. 3d 1163, 1175 (D. Colo. 2019)
+
+(quotation omitted).
+
+       Under CUTSA, “[t]o be a ‘trade secret’ the owner thereof must have taken
+
+measures to prevent the secret from becoming available to persons other than those
+
+selected by the owner to have access thereto for limited purposes.” Colo. Rev. Stat. § 7-
+
+74-102(4). The DTSA contains a similar requirement; information constitutes a “trade
+
+secret” if, among other things, “the owner thereof has taken reasonable measures to keep
+
+such information secret.” 18 U.S.C. § 1839(3)(A).
+
+       Defendants argue that Plaintiff cannot state a misappropriation claim under either
+
+CUTSA or DTSA because it has not alleged that it took reasonable and ongoing measures
+
+to keep the information secret. [Doc. 34 at 8]. Defendants contend that the information
+
+in question cannot constitute a trade secret because there is no confidentiality agreement
+
+in place between the Parties. See [id. (“[I]n [the] absence [of confidentiality agreements],
+
+(1) Ms. Combs lacks any post-employment confidentiality obligations to THTBC, and
+
+(2) THTBC lacks trade secret protection.”)]. The Court is not persuaded by this argument,
+
+which is not supported by any legal authority establishing a categorical rule that there
+
+
+
+                                             11
+Case No. 1:25-cv-03285-NYW-MDB           Document 49        filed 06/09/26    USDC Colorado
+                                         pg 12 of 21
+
+
+
+
+must be some sort of confidentiality or non-disclosure agreement in place for property to
+
+obtain trade-secret status. See [id. at 8–9]. Defendants have not established that
+
+dismissal of the misappropriation claims is warranted, and the Motion to Dismiss is
+
+DENIED with respect to Claims Three or Four. 7
+
+III.   Claim Six: Civil Theft
+
+       A.     The Sufficiency of Plaintiff’s Allegations
+
+       To state a claim of civil theft, “a plaintiff must allege the elements of criminal theft:
+
+that the defendant ‘knowingly obtain[ed], retain[ed], or exercise[d] control over anything
+
+of value of another without authorization or by threat or deception, and act[ed]
+
+intentionally or knowingly in ways that deprive[d] the other person of the property
+
+permanently.’” Scott v. Scott, 428 P.3d 626, 633 (Colo. App. 2018) (quoting Van Rees v.
+
+Unleaded Software, Inc., 373 P.3d 603, 608 (Colo. 2016)). The intent element can be
+
+established by showing the defendant’s “specific intent to permanently deprive the owner
+
+of the benefit of property.” Van Rees, 373 P.3d at 608 (quotation omitted).
+
+       Defendants contend that Plaintiff’s civil theft claim “fails because the [Amended
+
+Complaint] does not allege Defendants’ intent to permanently deprive Plaintiff of the
+
+property.” [Doc. 34 at 9]. They contend that the Amended Complaint’s “own allegations
+
+demonstrate that THTBC . . . never lost access to any information in its systems” because
+
+
+7 In their reply brief, Defendants expand on their argument, asserting that Plaintiff alleges
+
+only “one-time, general protective measures” to protect Plaintiff’s trade secrets, as
+opposed to ongoing protective measures, such as “standard offboarding procedures to
+secure confidential materials from discharged executives with access to Plaintiff’s alleged
+secrets.” See [Doc. 48 at 7 (emphasis omitted)]. These arguments attacking the specific
+sufficiency of Plaintiff’s allegations were not meaningfully raised in the Motion to Dismiss,
+see [Doc. 34 at 8–9], and the Court does not consider arguments raised for the first time
+in a reply brief, Aptive Env’t, LLC v. Town of Castle Rock, 959 F.3d 961, 986 (10th Cir.
+2020).
+
+
+                                              12
+Case No. 1:25-cv-03285-NYW-MDB           Document 49         filed 06/09/26   USDC Colorado
+                                         pg 13 of 21
+
+
+
+
+(1) Plaintiff does not allege that it lost access to any of the allegedly stolen information;
+
+and (2) Plaintiff alleges that Ms. Combs advertised the information as “legally shareable,”
+
+which “negat[es] specific intent.” [Id. at 10].
+
+       Plaintiff responds by directing the Court to the specific statutory language, which
+
+says that “[a] person commits theft when he or she . . . [u]ses, conceals, or abandons the
+
+thing of value intending that such use, concealment, or abandonment will deprive the
+
+other person permanently of its use or benefit.”           Colo. Rev. Stat. § 18-4-401(1)(c)
+
+(emphasis added); [Doc. 42 at 11–12].             Plaintiff contends that the inclusion of the
+
+language “or benefit” means that a civil theft claim does not arise only when the owner
+
+loses physical access to the stolen property. [Doc. 42 at 12]. It further argues that the
+
+entire benefit of possessing a trade secret is its value as a secret, and if the secret has
+
+been compromised, then the owner of the trade secret can no longer benefit from it. [Id.
+
+at 12–13].
+
+       At the outset, the Court pauses to note that CUTSA “displaces conflicting tort,
+
+restitutionary, and other law of this state providing civil remedies for misappropriation of
+
+a trade secret.” Colo. Rev. Stat. § 7-74-108(1). In other words, “CUTSA preempts
+
+common law claims that ‘conflict’ with its trade secret misappropriation provisions.”
+
+Abbott Labs v. Finkel, No. 17-cv-00894-CMA-KMT, 2017 WL 5517399, at *3 (D. Colo.
+
+Nov. 17, 2017) (citing Powell Prods., Inc. v. Marks, 948 F. Supp. 1469, 1474 (D. Colo.
+
+1996)). “[I]f a common law claim is no more than a restatement of the same operative
+
+facts which would plainly and exclusively spell out trade secret misappropriation,
+
+preemption is appropriate.” Id.
+
+       Plaintiff’s emphasis on the trade secret value of the alleged stolen information
+
+
+
+
+                                              13
+Case No. 1:25-cv-03285-NYW-MDB           Document 49       filed 06/09/26    USDC Colorado
+                                         pg 14 of 21
+
+
+
+
+suggests to this Court that Plaintiff’s civil theft claim may be nothing more than a
+
+restatement of its CUTSA claim. But because this case is still in its early stages, there
+
+has been no determination that the information at issue actually amounts to a trade secret,
+
+see Cypress Advisors, Inc. v. Davis, No. 16-cv-01935-MSK-MEH, 2019 WL 1242331, at
+
+*5 (D. Colo. Mar. 18, 2019) (“Courts in Colorado have found that CUTSA did not preempt
+
+a civil theft claim where the civil theft claim was premised upon the theft of items that were
+
+not trade secrets.”), and Defendants do not seek dismissal on this basis, see [Doc. 34 at
+
+9–10], the Court declines to sua sponte address preemption.
+
+       As for Defendants’ argument, the Court is unpersuaded by it. Relying on the Tenth
+
+Circuit case of Seale v. Peacock, Defendants contend that because Plaintiff does not
+
+allege that it lost access to the allegedly stolen electronic information, it cannot state a
+
+civil theft claim. See [id.]. In Seale, the plaintiff alleged that the defendant had improperly
+
+accessed the plaintiff’s client-management software account, which contained the
+
+plaintiff’s confidential information. 32 F.4th 1011, 1017, 1028 (10th Cir. 2022). The Tenth
+
+Circuit concluded that the plaintiff failed to state a claim for civil theft because he did not
+
+allege that the defendant “intended to permanently deprive him of property and its benefit”
+
+because “[a]ccessing and viewing electronic information that remains accessible to the
+
+information’s rightful owner cannot amount to a permanent deprivation of property.” Id.
+
+at 1028.
+
+       But the Colorado Court of Appeals recently explained that “to be liable for civil theft,
+
+it is only required that the defendant knowingly exercise unauthorized control over the
+
+property, with one of the requisite intents; it is not necessary that she maintain absolute
+
+control for her own personal use.” Dogwood Realty Grp. Tr. v. Tew, No. 24CA0772, 2025
+
+
+
+
+                                              14
+Case No. 1:25-cv-03285-NYW-MDB           Document 49        filed 06/09/26    USDC Colorado
+                                         pg 15 of 21
+
+
+
+
+WL 1702943, at *3 (Colo. App. June 18, 2025) (cleaned up and emphasis added).
+
+Indeed, to read Seale to hold that there can be no intent to deprive so long as electronic
+
+data is still available to the owner, see [Doc. 34 at 10], ignores the realities of the
+
+transferability of electronic information that have been commonplace for decades. Cf.
+
+Bermel v. Blueradios, Inc., No. 2014CV032139, 2015 WL 10013672, at *4 (Colo. Dist. Ct.
+
+Dec. 7, 2015) (“[A]lthough [plaintiff] still has copies or perhaps originals of the confidential
+
+and proprietary information, [defendant’s] compromise of the proprietary and confidential
+
+information negatively affects both the value of the proprietary and confidential
+
+information, and the value of [plaintiff] as an ongoing entity.”), aff’d in relevant part, rev’d
+
+in part, 442 P.3d 923 (Colo. App. 2017), aff’d and remanded, 440 P.3d 1150 (Colo. 2019).
+
+       And here, and unlike Seale, Plaintiff alleges more than the simple access or
+
+viewing of electronic information: THTBC alleges that Ms. Combs “obtained and retained”
+
+THTBC’s “confidential . . . information” and “used, disclosed, or planned to use or
+
+disclose[] for or to Combs Consulting’s clients.” [Doc. 24 at ¶¶ 93, 175]; see also [id. at
+
+¶¶ 72–79, 93–100 (describing the allegedly stolen confidential information)]. THTBC also
+
+alleges that “Ms. Combs has continued using [THTBC’s] confidential and trade secret
+
+information in her work for CBRE,” [id. at ¶ 107], and has asserted other allegations
+
+suggesting that Ms. Combs used Plaintiff’s confidential information for her own benefit
+
+and to Plaintiff’s detriment, see [id. at ¶¶ 93, 102–04].
+
+       To be sure, Plaintiff’s allegations are not robust. But they are sufficient, at the
+
+pleading stage, to plausibly allege that Defendants used Plaintiff’s confidential information
+
+with the intent to permanently deprive Defendants of the information’s benefit. See DTC
+
+Energy Grp., 420 F. Supp. 3d at 1181 (concluding that the plaintiff stated a civil theft claim
+
+
+
+
+                                              15
+Case No. 1:25-cv-03285-NYW-MDB          Document 49       filed 06/09/26    USDC Colorado
+                                        pg 16 of 21
+
+
+
+
+where it alleged that the defendant improperly accessed and used the plaintiff’s
+
+confidential information for competitive purposes to benefit his new employer, which the
+
+court “infer[red]” could deprive the plaintiff of the benefit of the confidential documents).
+
+As for Defendants’ argument that Plaintiff cannot allege Ms. Combs’s intent to deprive
+
+because she advertised the allegedly stolen information as “legally shareable,” [Doc. 34
+
+at 10], this argument requires the Court to construe Plaintiff’s allegations in Defendants’
+
+favor, which the Court cannot do, Casanova, 595 F.3d at 1124 (10th Cir. 2010). The
+
+Court will not dismiss Claim Six, and the Motion to Dismiss is DENIED to the extent it
+
+seeks dismissal of this claim.
+
+       B.     Defendant’s Erroneous Citation
+
+       In seeking dismissal of Claim Six, Defendants attribute the following language to
+
+the decision of Seale v. Peacock, 32 F.4th at 1028: “accessing and viewing electronic
+
+information without authorization, where that information remains accessible to the rightful
+
+owner, cannot constitute civil theft under Colorado law because it fails to establish the
+
+required element of intent to permanently deprive the owner of property.” See [Doc. 34
+
+at 9]. That quote does not appear in Seale or any other case, and for the reasons stated
+
+above, overstates the holding in Seale by suggesting the existence of a per se rule.
+
+Rather, the Seale opinion states: “Accessing and viewing electronic information that
+
+remains accessible to the information’s rightful owner cannot amount to a permanent
+
+deprivation of property.” Seale, 32 F.4th at 1028.
+
+       The Court also notes that Defendants’ Motion contains the following AI Certification
+
+from defense counsel:      “The undersigned counsel certifies that generative artificial
+
+intelligence—specifically, Eve Legal—was used to draft this filing. I further certify that
+
+
+
+
+                                             16
+Case No. 1:25-cv-03285-NYW-MDB         Document 49       filed 06/09/26   USDC Colorado
+                                       pg 17 of 21
+
+
+
+
+Defendants were advised of and consented to such use. All cited authority was manually
+
+reviewed by counsel of record.” [Doc. 34 at 12].
+
+       While the quotation appearing in Defendants’ Motion is not substantially different
+
+from the actual language contained in Seale, defense counsel’s incorrect attribution of
+
+the quoted language to Seale is nevertheless a misrepresentation to the Court—and a
+
+troubling one, in light of counsel’s acknowledgement that she used generative artificial
+
+intelligence in her preparation of the brief and her certification that she “manually
+
+reviewed” all cited authority.    All attorneys appearing before this Court have a
+
+“fundamental duty” to ensure that they are “accurately quoting from the cited authorities.”
+
+Amarsingh v. Frontier Airlines, Inc., No. 24-1391, 2026 WL 352016, at *7 (10th Cir. Feb.
+
+9, 2026); see also Park v. Kim, 91 F.4th 610, 615 (2d Cir. 2024) (“At the very least, the
+
+duties imposed by Rule 11 require that attorneys read, and thereby confirm the existence
+
+and validity of, the legal authorities on which they rely.”). This Court is concerned that
+
+counsel attributed an inaccurate quotation to Seale despite certifying that she “manually
+
+reviewed” all cited authority.
+
+       Accordingly, it is ORDERED that, no later than June 23, 2026, Marianna McLean
+
+SHALL SHOW CAUSE, in writing, (1) why the inclusion of an inaccurate quotation in the
+
+Motion to Dismiss does not amount to a violation of Rule 11(b) of the Federal Rules of
+
+Civil Procedure, and (2) why she should not be sanctioned under Rule 11 and/or the
+
+Court’s inherent authority under 28 U.S.C. § 1927.
+
+IV.    Claim Seven: CCPA Claim
+
+       “The Colorado Consumer Protection Act . . . is a broad remedial statute ‘intended
+
+to deter and punish deceptive trade practices committed by businesses in dealing with
+
+
+
+
+                                            17
+Case No. 1:25-cv-03285-NYW-MDB           Document 49         filed 06/09/26   USDC Colorado
+                                         pg 18 of 21
+
+
+
+
+the public.’” Examination Bd. of Pro. Home Inspectors v. Int’l Ass’n of Certified Home
+
+Inspectors, 519 F. Supp. 3d 893, 919 (D. Colo. 2021) (quoting Loughridge v. Goodyear
+
+Tire & Rubber Co., 192 F. Supp. 2d 1175 (D. Colo. 2002)), aff’d, 36 F.4th 1238 (10th Cir.
+
+2022). To state a claim under the CCPA, a plaintiff must allege:
+
+       (1) that the defendant engaged in an unfair or deceptive trade practice;
+       (2) that the challenged practice occurred in the course of defendant’s
+       business, vocation, or occupation; (3) that it significantly impacts the public
+       as actual or potential consumers of the defendant’s goods, services, or
+       property; (4) that the plaintiff suffered injury in fact to a legally protected
+       interest; and (5) that the challenged practice caused the plaintiff’s injury.
+
+Rhino Linings USA, Inc. v. Rocky Mountain Rhino Lining, Inc., 62 P.3d 142, 146–47 (Colo.
+
+2003). “[I]f a wrong is private in nature, and does not affect the public, a claim is not
+
+actionable under the CCPA.”        Id. at 149.     In deciding whether challenged conduct
+
+significantly impacts the public for purposes of the CCPA, courts consider “(1) the number
+
+of consumers directly affected by the challenged practice, (2) the relative sophistication
+
+and bargaining power of the consumers affected by the challenged practice, and
+
+(3) [allegations] that the challenged practice has previously impacted other consumers or
+
+has the significant potential to do so in the future.” Id.
+
+       Defendants argue that the CCPA claim should be dismissed because Plaintiff does
+
+not allege a significant public impact; rather, both Plaintiff and Defendants “aim their
+
+services at a single consumer—the federal government.” [Doc. 34 at 11 (citing Doc. 24
+
+at ¶¶ 10, 90, 180, 198)]. While this argument is not robust, 8 the Court agrees with it. In
+
+
+
+8 Defendants again expand their argument in their reply brief.   Compare [Doc. 34 at 11
+(asserting a three-sentence argument that Plaintiff did not allege a public impact)], with
+[Doc. 48 at 10–11 (significantly expanding this argument by making more developed
+arguments and addressing the Rhino Linings factors for the first time)]. The Court does
+not consider these arguments. Aptive Env’t, LLC v. Town of Castle Rock, 959 F.3d 961,
+986 (10th Cir. 2020). All Parties are specifically advised that, going forward, they must
+
+
+                                              18
+Case No. 1:25-cv-03285-NYW-MDB          Document 49       filed 06/09/26    USDC Colorado
+                                        pg 19 of 21
+
+
+
+
+its Response, Plaintiff contends that Defendants’ argument “mischaracterizes the factual
+
+allegations in the [Amended Complaint], the relevant case law, and the nature of THTBC’s
+
+claim.” [Doc. 42 at 14]. But tellingly, while Plaintiff points the Court to allegations about
+
+Defendants’ alleged wrongful trade practices, [id. (citing Doc. 24 at ¶¶ 88–91, 193–94,
+
+201)], allegations explaining why Defendants’ misrepresentations were deceptive, [id. at
+
+14–15 (citing Doc. 24 at ¶¶ 91–93)], and allegations in which Plaintiff “identified with
+
+specificity the provisions of the [CCPA] Defendants violated,” [id. at 15 (citing Doc. 24 at
+
+¶ 195)], Plaintiff fails to point the Court to any allegations plausibly establishing that
+
+Defendants’ actions had a significant public impact. See [id. at 14–15].
+
+       At best, Plaintiff argues that Defendants “created and operated a public website,”
+
+[id. at 14], which might be broadly construed as an argument that Defendants’ actions
+
+had a significant public impact.     But Plaintiff cites no legal authority that deceptive
+
+statements appearing on a “public website” necessarily create a significant public impact,
+
+see [id.], and the Court declines to hold that simply placing a deceptive statement on the
+
+internet—no matter how many people see or rely on the statement—necessarily and
+
+significantly impacts the public. Moreover, Plaintiff does not address the Rhino Linings
+
+factors relevant to determining whether a challenged practice has a significant public
+
+impact on the public as consumers of Defendants’ goods, see [id. at 14–15]; see also
+
+Rhino Linings, 62 P.3d at 149, and the Amended Complaint contains only vague
+
+allegations that an unspecified number of unidentified “clients” may have been deceived
+
+by Defendants’ statements, see [Doc. 24 at ¶¶ 100–02, 193]. These allegations are
+
+
+
+
+meaningfully raise all arguments they want the Court to consider in their affirmative
+motions rather than waiting to develop their arguments in their reply briefs.
+
+
+                                             19
+Case No. 1:25-cv-03285-NYW-MDB          Document 49        filed 06/09/26    USDC Colorado
+                                        pg 20 of 21
+
+
+
+
+insufficient to plausibly allege that Defendants’ conduct “significantly impact[ed] the public
+
+as actual or potential consumers of” Defendants’ services. Rhino Linings, 62 P.3d at 147;
+
+see also Vickerie v. Diversified Inv. Holdings, Inc., No. 19-cv-03256-REB-KMT, 2020 WL
+
+9432908, at *7 (D. Colo. Nov. 13, 2020) (finding “conclusory” allegations that the
+
+defendants’ “actions impact the potential and actual consumers of its products and
+
+services” and “other similarly situated customers have been injured by [the defendants’]
+
+unfair and deceptive trade practices” were insufficient to state a claim), recommendation
+
+adopted, 2021 WL 1753514 (D. Colo. Mar. 26, 2021).
+
+       The Court concludes that Plaintiff has not alleged that the challenged conduct
+
+significantly impacts the public as actual or potential consumers of Defendants’ services
+
+and has thus not alleged an essential element of its CCPA claim. The Motion to Dismiss
+
+is GRANTED with respect to Claim Seven, which is DISMISSED without prejudice.
+
+                                      CONCLUSION
+
+       For the reasons set forth above, IT IS ORDERED that:
+
+       (1)    The Partial Motion to Dismiss Plaintiff’s First Amended Complaint [Doc. 34]
+
+              is GRANTED in part and DENIED in part;
+
+       (2)    Claims One and Seven are DISMISSED without prejudice; and
+
+
+
+
+                                             20
+Case No. 1:25-cv-03285-NYW-MDB     Document 49      filed 06/09/26   USDC Colorado
+                                   pg 21 of 21
+
+
+
+
+     (3)   No later than June 23, 2026, Marianna McLean SHALL SHOW CAUSE, in
+
+           writing, (1) why the inclusion of an inaccurate quotation in the Motion to
+
+           Dismiss does not amount to a violation of Rule 11(b) of the Federal Rules
+
+           of Civil Procedure, and (2) why she should not be sanctioned under Rule
+
+           11 and/or the Court’s inherent authority under 28 U.S.C. § 1927.
+
+
+
+
+DATED: June 9, 2026                          BY THE COURT:
+
+
+                                             _________________________
+                                             Nina Y. Wang
+                                             United States District Judge
+
+
+
+
+                                        21
+

@@ -1,0 +1,537 @@
+                                COURT OF CHANCERY
+                                      OF THE
+                                STATE OF DELAWARE
+     LORI W. WILL                                                LEONARD L. WILLIAMS JUSTICE CENTER
+    VICE CHANCELLOR                                                 500 N. KING STREET, SUITE 11400
+                                                                   WILMINGTON, DELAWARE 19801-3734
+
+
+                                     October 21, 2024
+
+
+    Kimberly A. Evans, Esquire                 S. Michael Sirkin, Esquire
+    Lindsey K. Faccenda, Esquire               Benjamin M. Whitney, Esquire
+    Irene R. Lax, Esquire                      Ross Aronstam & Moritz LLP
+    Robert Erikson, Esquire                    1313 North Market Street, Suite 1001
+    Block & Leviton LLP                        Wilmington, Delaware 19801
+    3801 Kennett Pike, Suite C-305
+    Wilmington, Delaware 19807
+
+          RE:    Berger v. Graf Acquisition, LLC, et al.,
+                 C.A. No. 2023-0873-LWW
+
+Dear Counsel:
+
+          I write regarding the plaintiff’s motion to compel.1        The motion seeks
+
+additional document productions and an interrogatory response from former
+
+directors and officers of Graf Industrial Corp.—a special purpose acquisition
+
+company. The motion is granted in part and denied in part, as outlined below.
+
+I.        RELEVANT BACKGROUND
+
+          This putative class action is brought by a former stockholder of Graf Industrial
+
+who asserts that the defendants impaired his redemption right in connection with a
+
+
+
+
+1
+  Pl.’s Mot. to Compel the Indiv. Defs. to Produce Docs. and Respond to Interrogs.
+(Dkt. 54) (“Mot.”).
+C.A. No. 2023-0873-LWW
+October 21, 2024
+Page 2 of 12
+
+September 2020 de-SPAC merger.2 He invokes the entire fairness standard of
+
+review due to the lucrative founder shares awarded to the defendants, which
+
+allegedly created misaligned incentives.3 He asserts that the defendants sought to
+
+minimize redemptions in order to close a value-destructive transaction with
+
+Velodyne Lidar, Inc. They did so through disclosures that allegedly left public
+
+stockholders’ redemption decisions uninformed.4
+
+         The defendants have answered the plaintiff’s complaint, and the case is in
+
+discovery. Several motions to compel have been filed; all have been resolved, save
+
+one.5 At issue in the remaining motion are the plaintiff’s first set of requests for
+
+production and first set of interrogatories, which were served on the individual
+
+defendants.6 Though some discovery has been provided, the parties are at an
+
+impasse on whether more is warranted.
+
+
+
+
+2
+    See Verified Am. Class Action Compl. (Dkt. 1) (“Compl.”) ¶¶ 11, 131-45.
+3
+  See In re MultiPlan Corp. S’holder Litig., 268 A.3d 784, 792 (Del. Ch. 2022) (outlining
+how founder shares without redemption and liquidation rights created “mismatched
+incentives” in the context of a value-destructive business combination relative to public
+stockholder who had liquidation and redemption rights).
+4
+    Compl. ¶ 9.
+5
+    E.g., Dkts. 53, 55.
+6
+    Mot. Exs. 3-4.
+C.A. No. 2023-0873-LWW
+October 21, 2024
+Page 3 of 12
+
+II.      ANALYSIS
+
+         Court of Chancery Rule 26(b) states that “[p]arties may obtain discovery
+
+regarding any non-privileged matter that is relevant to any party’s claim or defense
+
+and proportional to the needs of the case.”7 “Although the scope of discovery is
+
+broad, it is not limitless.”8 This court has the discretion to set limits on discovery
+
+and address the “annoyance, embarrassment, oppression or undue burden or
+
+expense” placed on a party.9
+
+         I first apply these concepts to the plaintiff’s requests for document production.
+
+Although I conclude that the documents sought are relevant, the defendants may
+
+employ measures—including technology—to limit the cost and burden associated
+
+with reviewing them. I next consider the plaintiff’s interrogatory request and
+
+conclude that it is overly intrusive.
+
+
+
+
+7
+    Ct. Ch. R. 26(b)(1).
+8
+    Brown v. Matterport, 2023 WL 3830501, at *1 (Del. Ch. June 5, 2023).
+9
+  Fitzgerald v. Cantor, 1998 WL 780129, at *1 (Del. Ch. Oct. 23, 1998) (explaining that
+the scope of discovery “is within this Court’s discretion”); see also In re Tyson Foods Inc.,
+2007 WL 2685011, at *3 (Del. Ch. Sept. 11, 2007) (“[T]his Court may exercise its sound
+discretion in delineating the appropriate scope of discovery.”).
+C.A. No. 2023-0873-LWW
+October 21, 2024
+Page 4 of 12
+
+         A.     Document Production
+
+         The plaintiff seeks documents from two periods: (1) June 16, 2018 through
+
+January 1, 2020 (the “Pre-2020 Documents”); and (2) January 1, 2020 through
+
+March 31, 2021 (the “2020-2021 Documents”).10 I take them in reverse.
+
+                1.    2020-2021 Documents
+
+         The defendants generally agree that the 2020-2021 Documents are relevant.11
+
+They insist that the plaintiff’s proposed search criteria, which would require the
+
+review of 125,000 documents, is burdensome and disproportionate to the needs of
+
+this case.12 The search terms alone support their argument. They include unlimited
+
+terms like “Dee” (80,053 hits with family), “Velodyne” (41,182 hits with family),
+
+and “grafcq.com” (77,573 hits with family).13 But the defendants’ counterproposal
+
+went too far. It eliminated terms relating to important issues such as Velodyne’s
+
+
+
+
+10
+     Mot. ¶¶ 8, 11.
+11
+  See Indiv. Defs.’ Opp’n to Pl.’s Mot. to Compel the Indiv. Defs.’ to Produce Docs. and
+Respond to Interrogs. ¶¶ 3-5 (Dkt. 65) (“Opp’n”); see also Mot. Ex. 10 at 2.
+12
+   Opp’n ¶ 3. The defendants also raise several merits-based damages arguments that have
+little bearing on my resolution of this motion. See Fox v. Paine, 2010 WL 2163148, at *1
+(Del. Ch. May 20, 2010) (“I must resolve the discovery dispute as a discovery dispute
+before parties can complete additional briefing and I can examine the claims and their
+merits.”).
+13
+     Mot. Ex. 10.
+C.A. No. 2023-0873-LWW
+October 21, 2024
+Page 5 of 12
+
+products and Graf Industrial founder shares, and it applied extensive proximity
+
+limiters to other terms.14
+
+         Fortunately, the defendants also propose a reasonable means to address their
+
+burden concerns: a technology assisted review (TAR).15 That is, the defendants are
+
+willing to review the universe of documents captured by the plaintiff’s broad search
+
+terms so long as they can employ a TAR protocol. But the plaintiff rejected this
+
+offer and insists that the defendants conduct a manual review instead.16
+
+         TAR, or predictive coding, leverages machine learning techniques with the
+
+guidance of attorneys to facilitate the document review process.17 The TAR system
+
+is trained with a representative seed set of documents selected and reviewed by
+
+attorneys for relevance.18 The system ingests this initial set of documents and
+
+
+14
+     See Mot. Exs. 10-11.
+15
+     Mot. Ex. 12.
+16
+     Mot. ¶ 19 n.23.
+17
+   See Paul E. Burns & Mindy M. Morton, Technology-Assisted Review: The Judicial
+Pioneers, 15 Sedona Conf. J. 35, 36 (2014) (defining TAR as “a computerized system that
+harnesses human judgments . . . on a smaller set of [d]ocuments and then extrapolates those
+judgments to the remaining [d]ocument [c]ollection” and predictive coding as an industry-
+specific term for the TAR process); see also Thomson Reuters, How to make the e-
+discovery process more efficient with predictive coding, https://legal.thomsonreuters.com
+/en/insights/articles/how-predictive-coding-makes-e-discovery-more-efficient (last visited
+October 21, 2024); Wallis M. Hampton, Predictive Coding: It’s Here to Stay, Skadden,
+Arps Discovery Bulletin, https://www.skadden.com/media/files/publications/2014/06/lit_
+junejuly14_ediscoverybulletin.pdf (last visited October 21, 2024).
+18
+  See Moore v. Publicis Groupe, 287 F.R.D. 182, 185 (S.D.N.Y. 2012) (explaining the
+process of training TAR software systems).
+C.A. No. 2023-0873-LWW
+October 21, 2024
+Page 6 of 12
+
+undergoes iterative rounds of sampling and manual review, during which it learns
+
+and improves.19 Human reviewers remain involved in quality control, including by
+
+reviewing and running keyword searches over documents coded by the program as
+
+non-responsive.20
+
+      TAR promotes efficiency in the discovery process in several meaningful
+
+ways.21 First, with appropriate quality control and system training, TAR reduces the
+
+document set for human review and limits it to documents more likely to be
+
+responsive.22 Second, TAR processes apply a more uniform relevance standard than
+
+
+
+
+19
+  See id.; Robert M. Abrahams & Scott S. Balber, Technology-assisted review—Predictive
+coding, 4 New York Practice, Commercial Litigation in New York State Courts § 30:40
+(Robert L. Haig ed., 5th ed. 2024), Westlaw (database updated October 2024) (describing
+the iterative training process for TAR programs).
+20
+  See Moore, 287 F.R.D. at 184 (describing a quality control review of the TAR software);
+see also Rio Tinto PLC v. Vale S.A., 306 F.R.D. 125, 128-29 (S.D.N.Y. 2015) (same).
+21
+  See Hyles v. New York City, 2016 WL 4077114, at *3 (S.D.N.Y. Aug. 1, 2016) (opining
+that “TAR is the best and most efficient search tool”).
+22
+  See Chen-Oster v. Goldman, Sachs & Co., 2014 WL 716521, at *1 (S.D.N.Y. Feb. 18,
+2014) (“This approach essentially elides the search process with the substantive
+determination of relevance, and it has the advantage of saving resources for the producing
+party, which need not conduct a further review for responsiveness.”); see also The Sedona
+Conf., The Sedona Principles, Third Edition: Best Practices, Recommendations &
+Principles for Addressing Electronic Document Production, 19 Sedona Conf. J. 1, 166
+(2018) (“Courts should encourage and promote the use of technology and processes to . . .
+ensure that the costs and burdens associated with the . . . production of responsive ESI is
+proportional to the needs of the case.”).
+C.A. No. 2023-0873-LWW
+October 21, 2024
+Page 7 of 12
+
+manual document review using keyword searches.23 Third, and relatedly, a more
+
+manageable document set for manual review means lower costs for litigants.24
+
+         TAR can also yield superior results. The plaintiff fears that TAR has “the
+
+potential [to] exclud[e] responsive documents from the review process.”25 But this
+
+is a risk in any document review—including by human reviewers. “[S]tatistics
+
+clearly show that computerized searches are at least as accurate, if not more so, than
+
+manual review.”26
+
+         TAR provides a balanced solution to the conflict between a requesting party’s
+
+desire for broad discovery and a producing party’s incentives to limit burden and
+
+resource depletion. Whether to employ it is a matter for the producing party to
+
+decide since it is “best situated to evaluate the procedures, methodologies, and
+
+
+
+23
+  See Moore, 287 F.R.D. at 190-91 (noting that keyword searches often operate like “the
+child’s game of ‘Go Fish’” and result in “large numbers of irrelevant documents”); see also
+Maura R. Grossman & Gordon V. Cormack, Technology-Assisted Review in E-Discovery
+Can Be More Effective and More Efficient Than Exhaustive Manual Review, 12 Rich J.L.
+Tech. 1 (2011) (discussing computer-assisted review as an available alternative to address
+inefficiencies in keywords searches).
+24
+  See Moore, 287 F.R.D. at 193 (observing that computer-assisted review may result in
+lower legal fees for both parties); The Sedona Conf., Commentary on Proportionality in
+Electronic Discovery, 18 Sedona Conf. J. 141, 173 (2017) (discussing “significant cost
+savings in furtherance of proportionality”).
+25
+     Mot. ¶ 19 n.23.
+26
+  Moore, 287 F.R.D. at 190 (citing Herbert L. Roitblatt et al., Document Categorization in
+Legal Electronic Discovery: Computer Classification vs. Manual Review, 61 J. Am. Soc’y
+for Info. Sci. & Tech. 70, 79 (2010)).
+C.A. No. 2023-0873-LWW
+October 21, 2024
+Page 8 of 12
+
+technologies     appropriate      for   producing      [its]   own     electronically     stored
+
+information.”27 It is not up to the requesting party to block TAR if the producing
+
+party prefers it. Nor is it necessarily a matter for the court to dictate.28 “[W]here a
+
+producing party wants to utilize TAR for document review, courts will permit it.”29
+
+       Thus, the defendants may use TAR to reduce their discovery burden, so long
+
+as they are transparent with the plaintiff about their computer-assisted review
+
+process.30 Delaware counsel must remain closely involved in the review and
+
+
+
+27
+   In re Mercedes-Benz Emissions Litig., 2020 WL 103975, at *1 (D.N.J. Jan. 9, 2020)
+(citing The Sedona Conf., The Sedona Principles, Second Edition: Best Practices,
+Recommendations & Principles for Addressing Electronic Document Production
+(Sedona Conf. Working Gp. Series, Phx., Ariz.) June 2007, at 38 (available at
+https://thesedonaconference.org/publication/The_Sedona_Principles)).
+28
+  See Dynamo Hldgs. v. Comm’r of Internal Revenue, 143 T.C. 183, 188-89 (2014) (“[T]he
+Court is not normally in the business of dictating to parties the process that they should use
+when responding to discovery. If our focus were on paper discovery, we would not (for
+example) be dictating to a party the manner in which it should review documents for
+responsiveness or privilege, such as whether that review should be done by a paralegal, a
+junior attorney, or a senior attorney. Yet that is, in essence, what the parties are asking the
+Court to consider—whether document review should be done by humans or with the
+assistance of computers.”); cf. Hyles, 2016 WL 4077116, at *4 (explaining that it is “not
+up to the Court, or the requesting party” to force the responding party to use TAR).
+29
+   The Sedona Conf., supra note 22, at 118 (recognizing that each party should be able to
+“fulfill[] . . . its obligations without direction from the court or opposing counsel . . . unless
+a specific deficiency is shown in a party’s production”); see also Rio Tinto, 306 F.R.D. at
+127-28 (collecting cases).
+30
+  Moore, 287 F.R.D. at 192 (“[S]uch transparency allows the opposing counsel (and the
+Court) to be more comfortable with computer-assisted review, reducing fears about the so-
+called ‘black box’ of the technology. This Court highly recommends that counsel in future
+cases be willing to at least discuss, if not agree to, such transparency in the
+computer-assisted review process.”).
+C.A. No. 2023-0873-LWW
+October 21, 2024
+Page 9 of 12
+
+sampling process for the TAR review. If the plaintiff believes that the defendants’
+
+response is deficient, it may seek relief from this court.
+
+                2.     Pre-2020 Documents
+
+         As to the Pre-2020 Documents, relevance is in dispute. The plaintiff requests
+
+documents predating the SPAC’s initial public offering. He asserts that these
+
+documents relate to potential conflicts of interest—specifically, the award of founder
+
+shares to the individual defendants.31 The defendants counter that the requests are
+
+designed to shore up a baseless theory and are disproportionate to the needs of the
+
+case.32
+
+         The plaintiff’s requests are generally relevant under Rule 26.33 The financial
+
+incentives created by the founder shares could create a motive to withhold material
+
+information that would make public stockholders more likely to redeem. The
+
+plaintiff’s request, however, would have the defendants undertake extensive
+
+electronic discovery to address a narrow topic. Limits must be applied to reduce the
+
+disproportionate burden posted by these requests.34
+
+
+
+31
+  See Mot. ¶ 26; Pl.’s Reply in Supp. of Mot. to Compel the Indiv. Defs.’ to Produce Docs.
+and Respond to Interrogs. (Dkt. 66) ¶ 18.
+32
+     See Opp’n ¶¶ 28-31.
+33
+     Ch. Ct. R. 26(b)(1).
+34
+  See Plaza Sec. Co. v. Office, 1986 WL 14417, at *5 (Del. Ch. Dec. 15, 1986) (noting
+that “considerations of subject matter, time, and space are important to confine the scope
+C.A. No. 2023-0873-LWW
+October 21, 2024
+Page 10 of 12
+
+         It would be vexatious to require the defendants to collect eighteen months of
+
+data from six document custodians so that a hit report can prove the obvious: the
+
+requests are overbroad.35 A more proportionate approach can uncover the desired
+
+information. The individual defendants can provide documents sufficient to show
+
+their compensation arrangements for service as directors or officers of the SPAC and
+
+(if different) their receipt of founder shares. If there are any similarly discrete topics
+
+in the pre-2020 period still in dispute, the plaintiff should identify them and the
+
+parties can meet and confer on a similarly targeted production.
+
+         B.        Written Discovery
+
+         The plaintiff’s Interrogatory No. 17 asks that the individual defendants
+
+“[s]tate [their] net worth and [their] annual income in each of 2020 and 2021.”36 The
+
+defendants objected on relevance grounds.37 The plaintiff asks that I compel
+
+responses.
+
+
+of discovery to those matters that are truly relevant and to prevent discovery from evolving
+into a fishing expedition”).
+35
+   See Fortis Advisors v. Johnson & Johnson, 2021 WL 4314115, at *3 (Del. Ch. Sept. 21,
+2021) (observing that it is “no small task” to provide search term reports, which requires a
+party to “interview the potential custodian, identify the locations of documents, collect
+documents from all potential sources (often including cell phones), load the data into a
+review database, deduplicate it, and then run search terms”); see also Edward P. Welch et
+al., Mergers & Acquisitions Deal Litigation § 8.02[D] (2020) (describing the document
+collection process).
+36
+     Mot. Ex. 3.
+37
+     Mot. Ex. 6.
+C.A. No. 2023-0873-LWW
+October 21, 2024
+Page 11 of 12
+
+       It is hard to say that this information is irrelevant under Delaware law. A
+
+director’s economic circumstances may put in context the materiality of relevant
+
+financial interests.38 If the value of founder shares were material to a director, for
+
+example, it may bear on her incentives in making disclosures that might affect public
+
+stockholders’ redemption decisions.
+
+       At the same time, one’s net worth and income are deeply personal. The
+
+plaintiff’s unsupported and untested allegations are insufficient to require the
+
+provision of this sensitive information in narrative form. There are less intrusive
+
+ways to convey it.39
+
+       The parties are to meet and confer about a more measured way for the
+
+individual defendants to provide general information. Such means may include
+
+documents, deposition testimony, or written discovery aimed at the materiality of
+
+the founder shares in the context of the director’s approximate financial
+
+
+
+
+38
+  See, e.g., Orman v. Cullman, 794 A.2d 5, 30 (Del. Ch. 2002) (finding that there is “no
+bright-line dollar amount” for material benefit, and a reasonable inference of materiality
+can be based on context in which the benefit was received); Kahn v. Portnoy, 2008 WL
+5197164, at *2 (Del. Ch. Dec. 11, 2008) (finding allegations of materiality sufficient based
+on dollar amount alone).
+39
+   See Ct. Ch. R. 26(c) (authorizing the court to protect against discovery causing
+“annoyance, embarrassment, oppression, or undue burden” where “good cause” exists);
+see Sokol Hldgs. v. Dorsey & Whitney, LLP, 2009 WL 2501542, at *9 (Del. Ch. Aug. 5,
+2009) (“[M]inor relevance does not justify invading the privacy of [a party].”).
+C.A. No. 2023-0873-LWW
+October 21, 2024
+Page 12 of 12
+
+circumstances.40     The plaintiff’s request for an order requiring the individual
+
+defendants to convey detailed financial information in an interrogatory response is
+
+denied.
+
+III.   CONCLUSION
+
+       The plaintiff’s motion to compel is granted insofar as the 2020-2021
+
+Documents may be reviewed using a TAR protocol and the Pre-2020 Documents
+
+sufficient to show the nature of the individual defendants’ compensation must be
+
+produced. It is denied as to Interrogatory No. 17, except that the parties must confer
+
+on a less intrusive way for general information to be provided. The motion is
+
+otherwise denied.41 IT IS SO ORDERED.
+
+                                           Sincerely yours,
+
+                                           /s/ Lori W. Will
+
+                                           Lori W. Will
+                                           Vice Chancellor
+
+
+40
+   Cf. Seaford Funding v. M&M Assocs., 1996 WL 255886, at *2 (Del. Ch. Apr. 9, 1996)
+(“[T]ax returns are not discoverable when the information sought is readily available from
+other sources or if disclosure of some portion of the return would be sufficient.” (citing
+Cleveland v. Cleveland, 1985 WL 21135, at *1 (Del. Ch. June 26, 1985))); Walbert v. C.F.
+Schwartz Motor Co., 1987 WL 9609, at *2 (Del. Super. 1987) (noting, in the context of
+assessing the defendant’s ability to pay damages, that “[r]equests aimed at ascertaining a
+defendant’s net worth ‘must be reasonable and should only disclose [the d]efendant’s
+general financial condition with some detail when essential’”).
+41
+  On October 18, the plaintiff wrote a letter raising additional issues concerning his motion.
+After reviewing this decision, the parties are to inform the court by joint letter of any
+remaining matters on which the parties are at an impasse after meeting and conferring.
+

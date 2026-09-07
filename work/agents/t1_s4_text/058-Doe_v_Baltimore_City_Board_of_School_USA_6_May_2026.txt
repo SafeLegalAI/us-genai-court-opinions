@@ -1,0 +1,2449 @@
+      Case 1:23-cv-02899-SAG               Document 84     Filed 05/06/26       Page 1 of 50
+
+
+
+                         IN THE UNITED STATES DISTRICT COURT
+                            FOR THE DISTRICT OF MARYLAND
+
+                                                   *
+JANE DOE                                           *
+                        Plaintiff,                 *
+                                                   *        Civil Case No.: SAG-23-2899
+          v.                                       *
+                                                   *
+BALTIMORE CITY BOARD OF                            *
+SCHOOL COMMISSIONERS                               *
+                                                   *
+                        Defendant.                 *
+                                                   *
+                *       *      *       *       *       *     *       *      *       *
+                                     MEMORANDUM OPINION
+
+          Plaintiff Jane Doe (“Plaintiff”) brings this action against her former employer, Baltimore
+
+City Board of School Commissioners (“Defendant” or “City Schools”), alleging failure to
+
+accommodate, discrimination in hiring, and retaliation in violation of the Americans with
+
+Disabilities Act (“ADA”). ECF 22 (the Amended Complaint). The parties have filed cross-motions
+
+for summary judgment, ECF 63, 65, to which each have filed their respective opposition and
+
+replies. ECF 65, 71, 73. This Court has reviewed the filings and has determined that no hearing is
+
+necessary to resolve the motions. See Loc. R. 105.6 (D. Md. 2023). For the reasons explained
+
+below, Defendant’s motion will be granted in part and denied in part, Plaintiff’s motion will be
+
+denied, and judgment will be entered for Defendant on Plaintiff’s discrimination and retaliation
+
+claims.
+Case 1:23-cv-02899-SAG   Document 84   Filed 05/06/26   Page 2 of 50
+      Case 1:23-cv-02899-SAG            Document 84        Filed 05/06/26      Page 3 of 50
+
+
+
+Plaintiff reported directly to Supervisor , who himself reported to Chief HCO          , who himself
+
+reported to Dr. Santelises. ECF 63-1 at 10 (citing ECF 63-12 (“Organizational Structure”)).
+
+       At the time, the T&O Dept. “le[d] the district’s strategy around . . . staff leadership.” ECF
+
+63-7 (Job description for the “       Director-Level Position A                ” position) at 2. The
+
+Educator Pipelines and Induction team was formed “to plan and execute strategies and activities
+
+to build stronger, equity-centered talent pipelines and robust supports for teachers and principals
+
+in the first years in role.” ECF 63-9 (Notice of appointment) at 1. Among an extensive list of
+
+“Performance Responsibilities: Essential Functions” listed in the job description for the Director
+
+position, Defendant has highlighted the following:
+
+          Translates cross-departmental human capital strategy into specific, prioritized
+           plans and actions for the Educator Pipelines and Induction unit, guiding staff to
+           maintain clear links between their responsibilities, actions, and performance
+           and the Human Capital Office’s strategic plan and results.
+          Creates and monitors an annual calendar of pipeline-building and induction
+           program activities, ensuring that participants and their supervisors have clear
+           understanding of program components and objectives.
+          Prepares materials for and delivers presentations to key stakeholder groups
+           regarding principal pipelines, teacher pipelines, principal induction, and teacher
+           induction. This includes facilitating decision-making processes with senior
+           leaders (e.g., chief officers) and adapting project plans based on their decisions.
+          Recommends new approaches, policies, and procedures to effect continual
+           improvements in efficiency of department and services performed.
+          Ability to remain flexible in a creative and challenging work environment.
+          Excellent interpersonal and organizational skills with demonstrated ability to
+           identify, prioritize, organize tasks in order to efficiently and effectively
+           accomplish assigned and self-generated tasks.
+          Demonstrated ability to work collaboratively with teams and independently.
+
+
+
+
+                                                 3
+       Case 1:23-cv-02899-SAG           Document 84        Filed 05/06/26      Page 4 of 50
+
+
+
+ECF 63-7 (Job description) at 2–5; ECF 63-1 at 9.2 Defendant asserts that, “very early in her
+
+tenure” in her new position, Plaintiff’s performance was impacted by her “lack of central office
+
+experience” which “manifested in her asking her supervisors—Supervisor , Chief HCO                  ,
+
+and Dr. Santelises—for a disproportionate amount of support.” ECF 63-1 at 10 (citing ECF 63-5
+
+(Chief HCO Dep.) at 67–68; ECF 10 (Santelises Dep.) at 31–33). The existence—or not—of
+
+strategic plans, and Plaintiff’s responsibilities regarding creation versus implementation of such
+
+plans, was a particular point of disconnect between Plaintiff and her supervisors. See ECF 63-1 at
+
+10–11; ECF 63-13 (October 30, 2020 email to Supervisor and Chief HCO                 ) at 1; ECF 63-
+
+15 (November 17, 2020 email to Supervisor ) at 1; ECF 63-10 (Santelises Dep.) at 47–48, 67–69.3
+
+Plaintiff informs supervisors of medical conditions
+
+       On November 17, 2020, in the course of an exchange regarding an assignment, Plaintiff
+
+emailed to Supervisor , “I suffer from chronic depression and anxiety, and last-minute directives
+
+and unclear expectations trigger panic attacks.” ECF 63-15 at 2. Plaintiff requested scheduled
+
+“triad meetings” between herself,       Supervisor , and Chief HCO                   “for effective
+
+communications and clear expectations of desired outcomes,” and a “transition plan template” to
+
+identify “[r]ealistic timeline expectations.” Id.; ECF 65-1 at 6. In response, Supervisor asked
+
+Plaintiff to elaborate on how she would manage her depression and anxiety in her new work
+
+
+
+2
+  While Defendant characterized these as “essential functions and skills” of the position, citing to
+the job description, ECF 63-7, that document actually reflects that the last three items in
+Defendant’s list appear not in the list of “Essential Functions,” but in a list of “Additional Skills
+and Experiences We Seek.” ECF 63-7 (Job description) at 4–5.
+3
+  Defendant notes that “[t]he Office of Human Capital as a whole, . . . adopted a comprehensive
+three-year strategic plan in 2019.” ECF 63-1 at 10 n.2 (citing ECF 63-14 (Office of Human Capital
+April 21, 2021 Powerpoint) at 2). Plaintiff has asserted that “in October 2020, she immediately
+requested the strategic plans she expected to implement, and Chief HCO apologized for the
+‘miscommunication’ about their existence.” ECF 65-1 at 10 (citing ECF 63-13). However, the
+word “miscommunication” does not appear in the cited October 30, 2020 email exchange.
+
+
+                                                 4
+Case 1:23-cv-02899-SAG   Document 84   Filed 05/06/26   Page 5 of 50
+       Case 1:23-cv-02899-SAG           Document 84        Filed 05/06/26      Page 6 of 50
+
+
+
+       On December 22, 2020, Plaintiff emailed Courtney Calhoun, City Schools’ Equal
+
+Employment Manager / Title IX Coordinator, to formally request reasonable accommodations
+
+under the ADA. ECF 63-1 at 12; ECF 65-1 at 6; ECF 63-20; ECF 63-21; ECF 63-31. As
+
+accommodations for her PTSD, anxiety, and depression, which she represented affected job duties
+
+of “last-minute tasks/expectations,” “completion of tasks with unclear next steps,” decreased work
+
+productivity,” “decreased energy to concentrate,” “completion of tasks,” and “memory retrieval,”
+
+Plaintiff requested that supervisors provide “[c]lear expectations, realistic deadlines, clear &
+
+effective communication, [f]lexible schedule, . . . instructions & expectations in written form, goal
+
+oriented management method, [and] work from home or isolated space.” ECF 63-21 at 1. That
+
+same day, Mr. Calhoun attempted to provided certain paperwork to Plaintiff for her to have her
+
+doctor complete, to “assist in a your [sic] approval of the accommodation decision.” ECF 63-1 at
+
+13; 63-23 at 2 (Screenshot of Dec. 22, 2020 email from Mr. Calhoun to Plaintiff, contained within
+
+Mar. 1, 2021 email from Plaintiff to Jane Ehrenfeld). However, he sent the email to an incorrect
+
+email address for Plaintiff, leaving a single letter off of the domain name. Id.5
+
+       No further action was taken regarding Plaintiff’s ADA accommodations request until
+
+Plaintiff followed up with Mr. Calhoun on March 1, 2021, requesting paperwork for her physician.
+
+ECF 63-1 at 13; ECF 65-1 at 6; ECF 63-20 at 1; ECF 63-23 at 2; ECF 65-4 (“Calhoun Interview,”
+
+dated Jan. 6, 2022). While Mr. Calhoun had been unaware that Plaintiff had not received his
+
+
+5
+  In her motion for summary judgment, Plaintiff describes the error as a representation by
+Defendant, and states, “Defendant’s discovery productions contain no evidence of any email
+delivery failure notification or ‘bounceback’ message. The only evidence produced is a screenshot
+provided by Mr. Calhoun to Plaintiff showing the misspelled email address.” ECF 65-1 at 6 n.4.
+However, Plaintiff accepted this representation in 2021 (see ECF 63-23 at 2 (attaching screenshot)
+(“Mr. Calhoun did send this form back in December, but left the (m) off .com. Despite the error, I
+am grateful that I saw his attempt.”)). See also ECF 63-3 (Pl. Dep.) at 52 (“He spelled my email
+address incorrectly and he forgot to put the M on dot com, so I never received the information
+from him.”).
+
+
+                                                  6
+Case 1:23-cv-02899-SAG   Document 84   Filed 05/06/26   Page 7 of 50
+        Case 1:23-cv-02899-SAG              Document 84       Filed 05/06/26      Page 8 of 50
+
+
+
+Plaintiff’s performance—including interaction with supervisors—in her central office role, and
+alleged violations of accommodations
+
+         While Defendant, through the affidavit of Supervisor , has represented that a “performance
+
+review conversation” was held between Supervisor t and Plaintiff on June 15, 2021, and that
+Supervisor
+             gave Plaintiff a rating of “meets expectations,” there was no written documentation of that
+
+evaluation, purportedly due to Supervisor's computer crashing. ECF 63-1 at 16; ECF 65-1 at 9;
+
+ECF 63-35 (“Supervisor Aff.”). Thus, Plaintiff asserts that she “received no formal evaluation
+
+between July 2020 and December 2021.” ECF 65-1 at 9 (citing ECF 63-57 (Report prepared by
+
+Shawe Rosenthal for EEO Investigation (“EEO Report”)). Further, she asserts that “[t]he record is
+
+devoid of any formal reprimands, Performance Improvement Plans, or documented disciplinary
+
+actions against Plaintiff during her fourteen-year tenure with Baltimore City Public Schools.” ECF
+
+65-1 at 5.
+
+         Defendant highlights a number of email exchanges occurring between December 2020 and
+
+February 2021—prior to approval of her accommodations—that it argues “demonstrate that
+
+Plaintiff was not efficiently or effectively advancing the work for which she was responsible,”
+
+“required a disproportionate amount of assistance from her supervisors,” and “continued to push
+
+back against clear directives given to her by Supervisor and Chief HCO               .” ECF 63-1 at 10,
+
+13 (citing ECF 63-18, ECF 63-19, ECF 63-24; ECF 63-25). Defendant, further, cites deposition
+
+testimony from Dr. Santelises in which she described having provided Plaintiff with outsized
+
+support. Dr. Santelises also testified that Plaintiff had offered “subpar work” in a presentation. ECF
+
+63-1 at 10, 17–18; ECF 63-10 (Santelises Dep.) at 32–38, 73–74.
+
+         Plaintiff asserts that she “submitted accommodation-related complaints to the EEO Unit
+
+on August 5, October 15, October 28, and December 9, 2021.” ECF 65-1 at 8 (citing ECF 63-57
+
+
+
+
+                                                     8
+        Case 1:23-cv-02899-SAG         Document 84        Filed 05/06/26     Page 9 of 50
+
+
+
+(EEO Report) at 13). The following events allegedly occurred between August and November,
+
+2021:
+
+    As part of an August 5, 2021 email exchange regarding Plaintiff’s handling of an
+     assignment request, Plaintiff shared a link to an article regarding toxic work environments,
+     which Plaintiff stated “helps to crystalize the experiences I have endured since my arrival.”
+     ECF 63-16 at 4. Chief HCO             responded by suggesting that he and Plaintiff “have a
+     conversation about whether you believe this role and team are the right fit for you.” Id.
+     “Plaintiff immediately forwarded Chief HCO's               response to City Schools’ Director
+     of Fair Practices & Compliance—Jane Ehrenfeld, Esq.—requesting a ‘private consultation
+     to flag [her] concerns.’” ECF 63-1 at 19 (citing ECF 63-45). Plaintiff specifically flagged
+     Chief HCO's            statement about fit as “an example of my accommodations being
+     neglected.” ECF 63-45 at 3. Ms. Ehrenfeld met with Plaintiff the next day, August 6, 2021.
+     ECF 63-1 at 19 (citing ECF 63-45).
+    After another email exchange in mid-August, 2021 between Plaintiff and Supervisor , in
+     which Plaintiff, responding to Supervisor's suggestion of a “reflection moment,” stated
+     that his behavior was “beginning to feel abusive,” ECF 63-1 at 19; ECF 63-44, Plaintiff,
+     Supervisor , and Chief HCO            engaged in a “triad meeting” on August 27, 2021. ECF
+     63-1 at 20. After the meeting, Plaintiff asked Chief HCO             if she “could reconsider
+     your option to report to someone else.” ECF 63-1 at 20; 63-42 at 1.
+       At 10:50 a.m., on October 6, 2021, Chief HCO            asked Plaintiff to provide him with
+        certain information by noon. ECF 63-1 at 20; ECF 65-1 at 8; ECF 63-46 at 2. While
+        Plaintiff completed the task, she experienced a panic attack. ECF 65-1 at 8; ECF 63-3 (Pl.
+        Dep.) at 180–81.
+       Later in October 2021, other requests were directed to Plaintiff which she characterized as
+        “last minute tasks that violated the prohibition on assigning work without collaborative
+        planning.” ECF 65-1 at 8. These included:
+           1) a request on October 7 for information, with a deadline of October 11;
+           2) a request on October 12, 2021 for assistance, with a same-day deadline, which
+              Plaintiff completed within two hours;
+           3) a request on October 14 from Chief HCO                 for portions of a Title II
+              application, with an “ASAP” turnaround, to which Plaintiff responded that she was
+              “unable to meet my deadline with having this completed because I am continuously
+              being pulled to achieve lagged deadlines,” and “ha[d] to request more streamlined
+              communication and outcomes due to [her] accommodations”; and
+           4) a request on October 20 at 12:41 a.m. from Supervisor for review and revision to
+              a draft, with a deadline of 10:00 a.m. that morning, which Plaintiff responded to
+              with input at 9:15 a.m.
+           ECF 63-1 at 20; ECF 65-1 at 8; ECF 63-57 (EEO Report) at 8–9; ECF 63-47. On
+           October 15, 2021, Plaintiff reached out to Mr. Calhoun regarding (1) updates to or
+           extension of her approved accommodations, and (2) the process for handling violations
+           of those accommodations. ECF 63-1 at 21; ECF 63-48.
+
+
+                                                 9
+       Case 1:23-cv-02899-SAG          Document 84        Filed 05/06/26     Page 10 of 50
+
+
+
+       “On October 28, 2021, Plaintiff informed Calhoun she was receiving tasks with same-day
+        deadlines in violation of her accommodations, which was triggering panic attacks.” ECF
+        65-1 at 8 (citing ECF 63-57 (EEO Report) at 12).
+       Plaintiff and Chief HCO        had a check-in meeting on November 8, 2021 regarding
+        Plaintiff’s accommodations. ECF 63-1 at 21; ECF 65-1 at 8–9.
+
+
+Conclusion of Plaintiff’s tenure at the central office and reassignment
+
+        On December 1, 2021, Chief HCO               and Plaintiff had a check-in meeting, at which
+
+Chief HCO          informed Plaintiff that he and Supervisor would be leaving City Schools and
+
+would be replaced on an interim basis by Sarah Diehl and Monica Logan, respectively. ECF 63-1
+
+at 21–22. The same day, Plaintiff formally requested an extension of her ADA accommodations.
+
+ECF 63-1 at 25; ECF 65-1 at 5; ECF 63-59. On December 9, 2021, in an email thread including
+
+Plaintiff, Chief HCO          Supervisor , Ms. Diehl, and Ms. Logan, Chief HCO              opined
+
+on a number of points, including the regularity of supervisor meetings and other aspects of the
+
+supervisor relationship for Plaintiff and Ms. Diehl going forward. Chief HCO           also “clearly
+
+and directly ma[de] an offer” “to create an additional Senior Principal Coach position specifically
+
+for [Plaintiff] to fill.” ECF 63-1 at 22; ECF 63-53. After Plaintiff responded taking exception to
+
+Chief HCO's          sharing of confidential information, Chief HCO          responded that he had
+
+“serious concerns at this point about [Plaintiff’s] ability to effectively serve in this role,” and
+
+changed the focus of a meeting, scheduled for the following day, to this topic. ECF 63-53 at 3–4.
+
+Plaintiff responded that she would like to have “representation in the room to support” her; she
+
+later requested that her current supervisor be present at the next day’s meeting and that her future
+
+supervisors not be. Id. at 2–3. Chief HCO         responded that the decision as to the attendees at
+
+the meeting was his to make, and stated, “Frankly, your continued questioning of a decision that
+
+the chief officer has made is itself significant evidence of the problem with fit and performance.”
+
+Id. at 2; ECF 63-1 at 22–23; ECF 65-1 at 10.
+
+
+                                                10
+      Case 1:23-cv-02899-SAG            Document 84         Filed 05/06/26      Page 11 of 50
+
+
+
+       In a later email thread on December 9, 2021, Chief HCO               reiterated that the purpose
+
+of the next day’s meeting would be for him “to communicate [his] serious concerns at this point
+
+about [Plaintiff’s] ability to effectively serve in this role.” Plaintiff responded, “This feels abusive
+
+and grounded in retaliation,” and stated that she would attend the meeting if she was “emotionally
+
+present.” ECF 63-1 at 23; ECF 63-54; ECF 65-1 at 5. Plaintiff “immediately forwarded this
+
+exchange” to Mr. Calhoun. ECF 65-1 at 5; ECF 63-31 (Calhoun Timeline) at 2.
+
+       At a meeting held the next day, December 10, 2021, Chief HCO                 informed Plaintiff
+
+that she was to be reassigned to a new position. ECF 63-1 at 24; ECF 65-1 at 5. According to a
+
+letter addressed to Plaintiff from Chief HCO           , dated December 10, 2021, Plaintiff was being
+
+reassigned because she had “not effectively performed the duties of            the Director-level
+          role” and had “demonstrated that this role is not an appropriate fit.” ECF 63-55.
+
+       The letter did not identify a new position for Plaintiff, nor did it identify a date by which
+
+that decision would be made. Id.; ECF 65-1 at 11; ECF 65-1 at 11. Plaintiff was not placed in a
+
+new role, that of “   Director-Level Position B              ,” until 14 months later, in late February,
+
+2023. ECF 63-1 at 25; ECF 65-1 at 11; ECF 63-63 (Notification of reassignment). Her salary was
+
+not reduced (and had not been throughout the duration of her pending reassignment), and she was
+
+approved for updated accommodations.6 ECF 63-1 at 25 (citing ECF 63-62 (Grant of
+
+accommodations); ECF 63-63 (Notification of reassignment); ECF 63-3 (Pl. Dep.) at 82–83; ECF
+
+63-64). Plaintiff asserts, without supplying evidence, that during the interim period before her
+
+
+
+
+6
+  These included “one meeting per week with your immediate supervisor . . . to discuss position
+responsibilities and progress in implementing those responsibilities,” “a quiet workspace,” and
+“reasonable break time.” ECF 63-62.
+
+
+                                                  11
+      Case 1:23-cv-02899-SAG            Document 84        Filed 05/06/26       Page 12 of 50
+
+
+
+reassignment, she “lost her PSASA affiliation7 and         award winner            designation.” ECF
+
+65-1 at 11.
+
+EEO investigation and subsequent reviews of reassignment decision
+
+       On December 11, 2021, Plaintiff filed a complaint with City Schools’ EEO Unit. ECF 63-
+
+1 at 24; ECF 63-56. City Schools engaged a private law firm to complete an EEO investigation.
+
+ECF 63-1 at 24 (citing ECF 63-57 (EEO Report)). On January 27, 2022, City Schools notified
+
+Plaintiff of the investigative findings, including that Chief HCO        , Supervisor , and Ms. Diehl
+
+did not violate City Schools policies and did not discriminate, harass, or retaliate against Plaintiff,
+
+and that the December 10, 2021 reassignment and suspension of Plaintiff’s access to City Schools’
+
+systems did not constitute retaliation. ECF 63-1 at 25 (citing ECF 63-58 (Determination Letter)).
+
+In the same Determination Letter, Defendant, “recogniz[ing] [Plaintiff’s concern about the
+
+reference to performance issues in [the December 10, 2021] letter,” said it would “revise and
+
+reissue the December 10, 2021 letter to remove any reference to your performance or fit for the
+
+position.” ECF 63-1 at 25; ECF 65-1 at 11–12; ECF 63-58 at 1; ECF 63-68 (Revised Reassignment
+
+Letter). Plaintiff emphasizes that the EEO report noted that the investigators were unable to
+
+determine whether Plaintiff’s perceived performance issues, including in her interactions with
+
+others, were the manifestation of her disability. ECF 65-1 at 10 (citing ECF 63-57 (EEO Report)
+
+at 14). Plaintiff appealed the reassignment decision to the Baltimore City Board of School
+
+Commissioners, which affirmed the decision. ECF 65-6. Plaintiff then appealed that decision to
+
+the Maryland State Board of Education (“MSBE”). ECF 65-8. On February 28, 2023, the MSBE,
+
+apparently with nothing in the record identifying Plaintiff’s new position following the
+
+
+
+
+7
+ The acronym refers to the Public School Administrators & Supervisors Association of Baltimore
+City (“PSASA”).
+
+
+                                                  12
+      Case 1:23-cv-02899-SAG           Document 84        Filed 05/06/26      Page 13 of 50
+
+
+
+reassignment (despite Plaintiff having been sent a notice of reassignment on February 9, 2023
+
+(ECF 63-63)), held that the matter was “not ripe for review until the reassignment to another
+
+position has occurred.” ECF 65-9 at 1. The MSBE did find, however, that “[i]t exceed[ed] the
+
+limits of the local Superintendent’s authority to place a transferred employee into a ‘yet to be
+
+determined position’ for an indefinite waiting period,” in this case, “over two school years,” and
+
+ordered that Defendant identify a new position for Plaintiff within 45 days. Id. at 1–2
+
+II.    LEGAL STANDARD
+
+       Both parties seek summary judgment under Rule 56(a) of the Federal Rules of Civil
+
+Procedure. That rule provides that summary judgment is appropriate only “if the movant shows
+
+that there is no genuine dispute as to any material fact and the movant is entitled to judgment as a
+
+matter of law.” The moving party bears the burden of showing that there is no genuine dispute of
+
+material fact. See Casey v. Geek Squad, 823 F. Supp. 2d 334, 348 (D. Md. 2011) (citing Pulliam
+
+Inv. Co. v. Cameo Props., 810 F.2d 1282, 1286 (4th Cir. 1987)). If the moving party establishes
+
+that there is no evidence to support the non-moving party’s case, the burden then shifts to the non-
+
+moving party to proffer specific facts to show a genuine issue exists for trial. Id. The non-moving
+
+party must provide enough admissible evidence to “carry the burden of proof in [its] claim at trial.”
+
+Id. at 349 (quoting Mitchell v. Data Gen. Corp., 12 F.3d 1310, 1315–16 (4th Cir. 1993)). The mere
+
+existence of a scintilla of evidence in support of the non-moving party’s position will be
+
+insufficient; there must be evidence on which the jury could reasonably find in its favor. Id. at 348
+
+(citing Anderson v. Liberty Lobby, Inc., 477 U.S. 242, 251 (1986)). Moreover, a genuine issue of
+
+material fact cannot rest on “mere speculation, or building one inference upon another.” Id. at 349
+
+(quoting Miskin v. Baxter Healthcare Corp., 107 F. Supp. 2d 669, 671 (D. Md. 1999)).
+
+
+
+
+                                                 13
+      Case 1:23-cv-02899-SAG           Document 84        Filed 05/06/26      Page 14 of 50
+
+
+
+       Additionally, summary judgment shall be warranted if the non-moving party fails to
+
+provide evidence that establishes an essential element of the case. Id. at 352. The non-moving party
+
+“must produce competent evidence on each element of [its] claim.” Id. at 348–49 (quoting Miskin,
+
+107 F. Supp. 2d at 671). If the non-moving party fails to do so, “there can be no genuine issue as
+
+to any material fact,” because the failure to prove an essential element of the case “necessarily
+
+renders all other facts immaterial.” Id. at 352 (quoting Celotex Corp. v. Catrett, 477 U.S. 317, 322–
+
+23 (1986); Coleman v. United States, 369 F. App’x 459, 461 (4th Cir. 2010) (unpublished)). In
+
+ruling on a motion for summary judgment, a court must view all of the facts, including reasonable
+
+inferences to be drawn from them, “in the light most favorable to the party opposing the motion.”
+
+Matsushita Elec. Indus. Co. v. Zenith Radio Corp., 475 U.S. 574, 587–88 (1986) (quoting United
+
+States v. Diebold, Inc., 369 U.S. 654, 655 (1962)).
+
+       “When faced with cross-motions for summary judgment, the court must review each
+
+motion separately on its own merits to determine whether either of the parties deserves judgment
+
+as a matter of law.” Rossignol v. Voorhaar, 316 F.3d 516, 523 (4th Cir. 2003) (internal quotation
+
+marks omitted); see also Kantsevoy v. LumenR LLC, No. ELH-17-359, 2019 WL 1441982, at *6
+
+(D. Md. Apr. 1, 2019). In considering each motion, the court should “resolve all factual disputes
+
+and any competing, rational inferences in the light most favorable to the party opposing that
+
+motion.” Defs. of Wildlife v. N.C. Dep’t of Transp., 762 F.3d 374, 392 (4th Cir. 2014) (quoting
+
+Rossignol, 316 F.3d at 523). If the court finds that there is a genuine issue of material fact, both
+
+motions must be denied; but the court will render judgment if there is no genuine issue of material
+
+fact and “one or the other party is entitled to prevail as a matter of law.” Kantsevoy, 2019 WL
+
+1441982, at *6 (citation omitted).
+
+
+
+
+                                                 14
+         Case 1:23-cv-02899-SAG          Document 84        Filed 05/06/26      Page 15 of 50
+
+
+
+III.      DISCUSSION
+
+          Plaintiff’s amended complaint includes three Counts: Count I (Failure to Accommodate),
+
+Count II (Discrimination in Hiring), and Count III (Retaliation). Each is addressed in turn below.
+
+       A. Failure to accommodate (Count I)
+
+          “To survive summary judgment” on a failure to accommodate claim under the ADA, “a
+
+plaintiff must show (i) she was disabled, (ii) the employer had notice of her disability, (iii) she
+
+could perform the essential functions of her position with a reasonable accommodation, and (iv)
+
+the employer refused to make such accommodation.” Cowgill v. First Data Techs., Inc., 41 F.4th
+
+370, 378 (4th Cir. 2022). There is no dispute among the parties as to Plaintiff’s disability. It is also
+
+undisputed that Defendant did approve accommodations for Plaintiff in June, 2021. Nevertheless,
+
+Plaintiff rests her failure-to-accommodate claim on two bases:
+
+          First, Plaintiff claims that violations of her granted accommodations constituted a “failure
+
+to accommodate.” ECF 22 at 23. Only Defendant has sought summary judgment on this theory of
+
+liability.
+
+          Second, however, Plaintiff asserts that the delay between her first request for
+
+accommodations and the ultimate approval of those accommodations constituted a “failure to
+
+accommodate.” Both parties seek summary judgment as to the delay theory. This Court will
+
+proceed chronologically and address it first.
+
+          1. The Alleged Delay in Provision of Accommodations
+
+          Both parties seek summary judgment on Plaintiff’s failure-to-accommodate claim on the
+
+question of whether the period between Plaintiff’s notice to Defendant of her requested
+
+accommodations and the ultimate provision of those accommodations constituted an unreasonable
+
+delay and a de facto denial of accommodations. Because the parties do not dispute that Defendant
+
+
+
+
+                                                  15
+      Case 1:23-cv-02899-SAG           Document 84       Filed 05/06/26      Page 16 of 50
+
+
+
+was given notice of Plaintiff’s disability and request for accommodation, this Court need only
+
+examine the third and fourth elements of Plaintiff’s prima facie case. It will begin with the fourth
+
+element; namely, whether the alleged delay amounted to a refusal by Defendant to make reasonable
+
+accommodations.8
+
+       “[W]hile ‘employers need not immediately implement or accept accommodations
+
+proposed by an employee’ and need not move ‘with maximum speed in addressing a request for
+
+accommodations,’ an ‘unreasonable delay in providing an accommodation for an employee’s
+
+known disability can amount to a failure to accommodate.’” Marshall v. Univ. of Md. Med. Ctr.,
+
+No. TDC-17-2779, 2020 WL 5106788, at *7 (D. Md. Aug. 31, 2020) (quoting Farquhar v.
+
+McCarthy, 814 F. App’x 786 (4th Cir. 2020) (unpublished per curiam) (internal quotation marks
+
+and citations omitted) (discussing a failure to accommodate under the Rehabilitation Act)), aff’d,
+
+No. 20-2067, 2023 WL 3018424 (4th Cir. Apr. 20, 2023) (unpublished per curiam). In considering
+
+whether a delay in provision of accommodations is so unreasonable as to constitute a denial of
+
+those accommodations, “[a] relatively short delay of a few weeks (or even a few months) in
+
+approving a request typically does not support such a claim.” Smith v. CSRA, 12 F.4th 396, 415
+
+(4th Cir. 2021) (Rehabilitation Act case) (quoting Marks v. Wash. Wholesale Liquor Co., 253 F.
+
+Supp. 3d 312, 324 (D.D.C. 2017)) (alteration in Smith). However, “[i]n making a determination
+
+about the unreasonableness of a delay, ‘[n]o hard and fast rule will suffice.’” Marshall, 2020 WL
+
+5106788, at *7 (quoting Crabill v. Charlotte Mecklenburg Bd. of Educ., 423 F. App’x 314, 323
+
+(4th Cir. 2011) (internal quotation marks and citations omitted)) (second alteration in Marshall).
+
+“Courts instead consider the length of the delay, the reasons for the delay, whether the employer
+
+
+
+8
+  As discussed within this Court’s analysis of Plaintiff’s violations-based failure-to-accommodate
+claim, Defendant does not contest the reasonableness of Plaintiff’s accommodations.
+
+
+                                                16
+      Case 1:23-cv-02899-SAG             Document 84        Filed 05/06/26       Page 17 of 50
+
+
+
+has offered any alternative accommodations while evaluating a particular request, and whether the
+
+employer has acted in good faith.” Id. at *7 (citing Selenke v. Med. Imaging of Colo., 248 F.3d
+
+1249, 1262–63 (10th Cir. 2001)). This analysis requires an inquiry into whether the employer and
+
+employee engaged in an interactive process to identify limitations resulting from the disability and
+
+potential reasonable accommodations.
+
+        While the parties do not dispute that Defendant was given notice of Plaintiff’s disability
+
+and desire for accommodation, they do dispute the specific date and form of that notice.
+
+Consequently, the length of the delay in providing accommodations is also in dispute. Plaintiff
+
+argues that her November 17, 2020 email to Supervisor provided the requisite notice for her claim;
+
+thus, the delay between request and approval would be seven months. Defendant counters that the
+
+email, while mentioning her disabilities, did not provide sufficient notice that she was requesting
+
+reasonable accommodations. Thus, Defendant argues it did not have adequate notice until Plaintiff
+
+submitted a formal request to Defendant’s EEO Unit on December 22, 2020, six months before her
+
+accommodations were approved.
+
+        Regardless of the precise length of the delay, Plaintiff asserts that it was “caused entirely
+
+by Defendant’s administrative failures” beginning in December, 2020. Specifically, she asserts (1)
+
+that Mr. Calhoun’s misspelling of Plaintiff’s email address, and consequent failure to provide
+
+necessary paperwork to Plaintiff for more than three months before the error was discovered on
+
+March 1, 2021, delayed action on Plaintiff’s accommodations request for that time, and (2) that
+
+because of that delay, she suffered “panic attacks that would have been mitigated by approved
+
+accommodations,” and was consequently “forced onto continuous FMLA [leave] from March 4
+
+through April 18, 2021,” further delaying the approval of her accommodations. ECF 65-1 at 25.
+
+But looking at the timeline detailed in the statement of facts, it is clear that both parties contributed
+
+
+
+
+                                                   17
+      Case 1:23-cv-02899-SAG           Document 84       Filed 05/06/26      Page 18 of 50
+
+
+
+to the delay. While an employer may be liable under the ADA for failure to engage in the interactive
+
+process, “a reciprocal obligation is assumed by the employee; employers are not responsible when
+
+a breakdown of the interactive process ‘is traceable to the employee and not the employer.’” Strife
+
+v. Aldine Indep. Sch. Dist., 138 F.4th 237, 246 (5th Cir. 2025) (quoting Loulseged v. Asko Nobel,
+
+Inc., 178 F.3d 731, 736 (5th Cir. 1991)); see also Dressel v. Safeway, Inc., No. ELH-19-1556, 2021
+
+WL 2291806, at *9 (D. Md. June 4, 2021) (“The responsibility to engage in the interactive process
+
+is ‘shared between the employee and the employer.’”) (quoting Loulseged, 178 F.3d at 736)
+
+(emphasis in Loulseged); Tarquinio v. Johns Hopkins Univ. Applied Physics Lab, No. RDB-23-
+
+0727, 2024 WL 1604493, at *4 (D. Md. Apr. 11, 2024) (“[B]oth the employer and employee have
+
+a duty to participate in the interactive process in good faith; an employer may not be held liable
+
+for failing to provide a reasonable accommodation where the employee refused to engage in or
+
+caused the breakdown of the interactive process.”) (emphasis in original).
+
+       Defendant’s primary contribution to the delay, as stated by Plaintiff, was that at no point
+
+after Mr. Calhoun believed he had sent Plaintiff the required paperwork on December 22, 2020 did
+
+Mr. Calhoun or anyone at City Schools follow up with Plaintiff about her accommodations request.
+
+Rather, it was only when Plaintiff followed up with Mr. Calhoun on March 1, 2021 that the
+
+interactive process resumed. In the interactive process, where necessary “missing information is
+
+of the type that can only be provided by one of the parties, failure to provide the information may
+
+be the cause of the breakdown and the party withholding the information may be found to have
+
+obstructed the process. The determination must be made in light of the circumstances surrounding
+
+a given case.” Beck v. Univ. of Wisc. Bd. of Regents, 75 F.3d 1130, 1136 (7th Cir. 1996). Here, Mr.
+
+Calhoun’s attempted but unsuccessful delivery of the required paperwork to Plaintiff resulted in
+
+each party, in their mind, waiting on missing information from the other.
+
+
+
+
+                                                18
+      Case 1:23-cv-02899-SAG            Document 84         Filed 05/06/26      Page 19 of 50
+
+
+
+       The Fourth Circuit’s analysis in Murphy v. County. of New Hanover, No. 21-1471, 2021
+
+WL 4704780 (4th Cir. Oct. 8, 2021) (unpublished per curiam), is somewhat persuasive. The Fourth
+
+Circuit held that a two month delay in providing requested accommodations was not unreasonable
+
+where it was attributable, in part, to a human resources employee’s failure (an “oversight,” as she
+
+testified) to attach necessary paperwork to an email to the plaintiff, and to the plaintiff’s failure to
+
+follow up for nearly three weeks after receiving the deficient email. Id. at *2. In so holding, the
+
+Fourth Circuit rejected the plaintiff’s assertion that the human resources employee’s negligence
+
+constituted a bad faith failure to engage in the interactive process. Id.
+
+       Here, Plaintiff failed to follow up for more than two months after submitting her formal
+
+accommodations request, a much longer period. However, whereas in Murphy the plaintiff had
+
+received an email referring to attachments that were simply not there, in the instant case, Plaintiff
+
+received no email to which there might be a similar expectation of a follow-up. As for Mr. Calhoun,
+
+Plaintiff has specifically cited to an “Interview,” dated January 6, 2022, in which Mr. Calhoun
+
+apparently “conceded that it was his responsibility to follow up with [Plaintiff.]” ECF 65-4 at 1.
+
+       After she did receive the necessary paperwork from Mr. Calhoun on March 1, 2021,
+
+however, Plaintiff did not submit it to Defendant until June 4, 2021, more than three months later.
+
+Plaintiff asserts that six weeks of that delay was attributable to her being forced to take continuous
+
+FMLA leave due to the lack of accommodations. Even were this Court to accept this factually
+
+unsupported assertion, it does not explain why, upon return from that FMLA leave on April 18,
+
+2021, Plaintiff took another nearly seven weeks to submit the paperwork. Thus, a substantial
+
+portion of the breakdown of the interactive process was traceable to Plaintiff. See Beck, 75 F.3d at
+
+1136. This District and others have held that where the delay is attributable to the plaintiff
+
+employee’s failure to engage, the delay was not unreasonable. See Marshall, 2020 WL 5106788,
+
+
+
+
+                                                  19
+      Case 1:23-cv-02899-SAG           Document 84         Filed 05/06/26      Page 20 of 50
+
+
+
+at *8 (holding that “no reasonable jury could conclude that [defendant] failed to participate in the
+
+interactive process in good faith such that the six-month delay amounted to a failure to
+
+accommodate,” where “the length of that [interactive] process was attributable in part to delays
+
+caused by [plaintiff] and her physician in responding to [defendant’s] inquiries.”); Weatherspoon
+
+v. Azar, 380 F. Supp. 3d 65, 71–74 (D.D.C. 2019) (Rehabilitation Act case) (holding that a six-
+
+month delay in providing accommodation (new computer equipment) was reasonable where,
+
+among other things, the employee had been on medical leave for six weeks of the six-month period
+
+and did not pick up the new equipment immediately), appeal dismissed, No. 19-5182, 2019 WL
+
+7602215 (D.C. Cir. Dec. 30, 2019).
+
+       Plaintiff’s inaction contributed significantly to the delay in the approval of her requested
+
+accommodations; thus, this Court cannot conclude, viewing the facts in the light most favorable
+
+to Defendant, that no reasonable juror could find the delay to have been reasonable. However,
+
+neither can this Court say, viewing the facts in the light most favorable to Plaintiff, that no
+
+reasonable juror could find that Defendant’s failure to follow up with Plaintiff until she took action
+
+on March 1, 2021 amounted to a denial of accommodations in that time. A genuine dispute exists
+
+as to the length and reasonableness of the delay.
+
+       The remaining element of Plaintiff’s prima facie case is whether she could perform the
+
+essential functions of her position during the relevant time (November 2020 through June 2021)
+
+with reasonable accommodations. “If the plaintiff cannot perform the essential functions of the
+
+job, with or without reasonable accommodation, then she is not a ‘qualified individual’ under the
+
+ADA and therefore has no legal entitlement to an accommodation.’” Tartaro-McGowan v. Inova
+
+Home Health, LLC, 91 F.4th 158, 165 (4th Cir. 2024) (citing 42 U.S.C. §§ 12111(8),
+
+12112(b)(5)(A)). Because Plaintiff was granted reasonable accommodations in June, 2021, this
+
+
+
+
+                                                 20
+Case 1:23-cv-02899-SAG   Document 84   Filed 05/06/26   Page 21 of 50
+      Case 1:23-cv-02899-SAG              Document 84      Filed 05/06/26      Page 22 of 50
+
+
+
+Cnty., 884 F. Supp. 991, 997 (D. Md. 1995) (quoting 42 U.S.C. § 12111(8)), aff’d, 91 F.3d 129
+
+(4th Cir. 1996) (unpublished per curiam).
+
+       Defendant acknowledges that Plaintiff “may have completed certain discrete tasks,” but
+
+asserts that Plaintiff demonstrated an inability to perform multiple specific functions from the job
+
+description for Plaintiff’s position as         Director-Level Position A                . Defendant
+
+highlights that the job description specified that the position holder would “[t]ranslate[] cross-
+
+departmental human capital strategy into specific, prioritized plans and actions for the Educator
+
+Pipelines and Induction unit,” and “[p]repare[] materials for and deliver[] presentations to key
+
+stakeholder groups . . . . This includes facilitating decision-making processes with senior leaders .
+
+. . and adapting project plans based on their decisions.” ECF 71 at 13 (quoting ECF 63-7 (Job
+
+description) at 2–3); ECF 63-1 at 28–29 (quoting same). Defendant asserts that “[t]he record is
+
+replete with examples of Plaintiff demonstrating an inability to create strategic plans for her
+
+department, present effectively before key stakeholders (including the CEO), and adopt project
+
+plans based on the decisions of chief officers (including Chief HCO              ).” ECF 71 at 13.9
+
+Notably, though, the majority of the evidence that Defendant cites to in support of this statement
+
+
+9
+  Defendant also asserts—in fact, this is the primary example they offer in their motion of
+Plaintiff’s inability to perform—that Plaintiff was unable to “remain flexible in a creative and
+challenging work environment.” ECF 63-1 at 29 (quoting ECF 63-7 (Job Description) at 5), and
+that “[t]his lack of flexibility continued even after Plaintiff’s accommodations were in place.” ECF
+63-1 at 29. This Court notes, first, that the “[a]bility to remain flexible” was not listed among the
+“Essential Functions” in the job description but, rather, was among a list of “Additional Skills and
+Experiences We Seek.” But moreover, the concept of “flexibility” is one of inherently subjective
+assessment; thus, this Court cannot conclude, on this basis, that, even if it were considered an
+essential function of her position, no reasonable juror could find Plaintiff was able to perform. For
+example, among the examples of this alleged “inflexibility” that Defendant highlights—though
+from prior to Defendant’s grant of accommodations, is Plaintiff’s request, after Supervisor asked
+her to reschedule her June, 2021 evaluation meeting to two hours earlier, to “stick to the
+recommended time.” See ECF 63-1 at 29 (quoting ECF 63-67). Surely, even if the vague directive
+to “remain flexible” was considered an essential function of Plaintiff’s position, that function could
+not be reasonably construed to require that Plaintiff acquiesce to every rescheduling request.
+
+
+                                                 22
+      Case 1:23-cv-02899-SAG            Document 84         Filed 05/06/26       Page 23 of 50
+
+
+
+(ECF 63-13 at 1; ECF 63-15 at 3; ECF 63-19 at 1–4; ECF 63-25 at 2–7) pre-dates June, 2021, and
+
+so does not necessarily speak to how Plaintiff could perform essential functions with
+
+accommodations.
+
+       It is Plaintiff’s “burden to establish[] [her] ability to perform the essential functions of [her]
+
+job with a reasonable accommodation.” Fleetwood v. Hartford Sys., Inc., 380 F. Supp. 2d 688, 697
+
+(D. Md. 2005). Plaintiff’s brief argument in her cross-motion on this point does not identify any
+
+“essential functions” of her position; she simply asserts that that, after approval of her
+
+accommodations, she “successfully completed assignments, including time-sensitive Board
+
+requests,”10 and highlights that Supervisor , on June 15, 2021, rated her performance as “meets
+
+expectations.” ECF 65-1 at 25; see also ECF 63-35 (Supervisor Aff.) ¶ 6.
+
+       The “meets expectations” rating was issued a week before Plaintiff’s accommodations were
+
+approved, on June 22, 2021. Nevertheless, it remains compelling evidence of Defendant’s
+
+assessment of Plaintiff’s job performance for purposes of her prima facie case; the rating was
+
+issued after Plaintiff had been in her role for nearly eight months, in which time she had taken both
+
+intermittent and continuous FMLA leave and had already demonstrated many of the behaviors and
+
+approaches that Defendant now cites as evidence of her inability to perform the essential functions
+
+of her position. If, notwithstanding that performance and evidence, Defendant still gave Plaintiff
+
+a rating of “meets expectations,” a reasonable juror could conclude that Plaintiff was continuing
+
+
+10
+   Looking at Plaintiff’s “Statement of Facts” in her cross-motion, the only post-June, 2021
+assignments that she highlights are also those “last-minute tasks” which she alleges violated her
+accommodations’ “prohibition on assigning work without collaborative planning,” including a
+“Board-requested task” on October 6, 2021 and an “ESSA Consolidated Strategic Plan task” on
+October 12, 2021. ECF 65-1 at 8; see also ECF 63-46 at 2; ECF 63-57 (EEO Report) at 8. Thus,
+while Plaintiff may cite her completion of these assignments as evidence of her ability to perform
+the essential functions of the job with accommodations, they, in fact, by Plaintiff’s telling,
+demonstrate her ability to perform those functions in spite of her accommodations not being
+honored.
+
+
+                                                  23
+      Case 1:23-cv-02899-SAG            Document 84        Filed 05/06/26       Page 24 of 50
+
+
+
+to “meet expectations” with the benefit of her accommodations, particularly when the asserted
+
+deficiencies in her performance were not formally raised at any point after her accommodations
+
+were approved. The record does not reflect that Plaintiff was counseled for performance
+
+deficiencies or placed on a PIP between the provision of her accommodations and her December
+
+10, 2021 reassignment.
+
+       To demonstrate she was able to perform the essential functions of their position—and thus,
+
+was a “qualified individual” under the ADA—“all that is required is that the plaintiff establish
+
+basic eligibility for the position at issue, and not the greater showing that [she] satisfies the
+
+employer.” Slattery v. Swiss Reinsurance Am. Corp., 248 F.3d 87, 92 (2d Cir. 2001), as amended
+
+(June 6, 2001). “When the question [of a plaintiff’s ability to perform essential functions] is . . . a
+
+matter of degree . . . a plaintiff fails to perform the essential function only if her failure
+
+detrimentally affects the purpose of the employment.” Rohan v. Networks Presentations LLC, 375
+
+F.3d 266, 279–80 (4th Cir. 2004) (where actress’s PTSD and depression affected her ability to
+
+interact with others—an essential function of her job—“to some extent,” and primarily in “one,
+
+narrow aspect of her job” (offstage interactions), the court was unwilling to find that plaintiff could
+
+not perform that essential function). See also Searls v. Johns Hopkins Hosp., 158 F. Supp. 3d 427,
+
+437 (D. Md. 2016) (holding, in assessing whether requested accommodations were reasonable,
+
+that deaf plaintiff, with the aid of an interpreter, “could perform a substantial portion of the
+
+essential job functions of communicating and responding to alarms . . . so that her inability to hear
+
+did not detrimentally affect the purpose of employing her as a nurse”; thus, her request for a full-
+
+time ASL interpreter was reasonable) (emphasis added). Here, the nature of the essential functions
+
+of Plaintiff’s position raises questions of degree of performance, as opposed to ability to perform.
+
+And the record reflects that questions of “fit,” many stemming from Plaintiff’s apparent
+
+
+
+
+                                                  24
+      Case 1:23-cv-02899-SAG           Document 84         Filed 05/06/26      Page 25 of 50
+
+
+
+misconceptions of her job responsibilities, were the primary concern. Indeed, Chief HCO
+
+testified at his deposition that “while there were some concerns about performance, they were
+
+coupled with a much more serious mismatch in terms of fit.” ECF 63-5 at 106. The factual question
+
+of how questions about “fit” factor into an assessment of ability to perform essential functions is
+
+one better reserved for the jury.
+
+        Having found genuine disputes as to multiple elements of Plaintiff’s prima facie case for
+
+her failure-to-accommodate claim as it pertains to the alleged delay in provision of
+
+accommodation, this Court will deny both parties’ motions for summary judgment on that issue.
+
+        2. Alleged violations of Plaintiff’s accommodations.
+
+       This Court need not undertake a separate analysis of the first three required elements for
+
+Plaintiff’s prima facie claim of failure to accommodate based on post-approval violations. For the
+
+reasons stated above, this Court finds no dispute as to Plaintiff’s demonstration of her disability
+
+and Defendant having been on notice of her disability,11 and finds a genuine dispute as to Plaintiff’s
+
+ability to perform the essential functions of her position with reasonable accommodation.
+
+
+11
+   Defendant, in seeking judgment on Plaintiff’s claim specifically as it pertains to her allegations
+of violations of her approved accommodations, has argued that Plaintiff must, and has failed to,
+show that Defendant had sufficient notice not only of Plaintiff’s disability, but also of the alleged
+violations. See ECF 63-1 at 27–28 (quoting Henson v. Balt. City Bd. of Sch. Comm’rs, No. ADC-
+23-0004, 2023 WL 2992727, at *5 (D. Md. Apr. 18, 2023) (“Even if Defendant did violate the
+accommodation, Plaintiff would be precluded from bringing the claim as she has not pleaded that
+she informed Defendant that the accommodation was, in her view, being violated or that she
+needed a more specific accommodation.”)). More accurately, Defendant, while acknowledging
+that “Plaintiff was in regular contact with several members of City Schools’ EEO Unit” regarding
+alleged violations, nevertheless asserts that there is no evidence that she alleged violations of her
+accommodations by Chief HCO               “with sufficient specificity.” ECF 63-1 at 28 (citing ECF
+63-5 (Chief HCO Dep.) at 52; ECF 63-10 (Santelises Dep.) at 60). It is not clear from where
+Defendant draws this requirement of “sufficient specificity” for allegations of violations; there is
+no case law cited in support, and Defendant does not, itself, define the term. By any definition,
+though, Plaintif’s August 5, 2021 complaint to Ms. Ehrenfeld in the EEO unit would certainly
+suffice as notice of alleged violations. ECF 63-45 at 3 (“Below is an example of my
+accommodations being neglected . . .”).
+
+
+                                                 25
+         Case 1:23-cv-02899-SAG         Document 84       Filed 05/06/26     Page 26 of 50
+
+
+
+          As for the fourth factor—whether Defendant effectively refused to provide Plaintiff with
+
+accommodations through its violations of Plaintiff’s approved accommodations—the parties offer
+
+completely different assessments of the record. Defendant insists there is not “even a scintilla of
+
+evidence suggesting that Chief HCO             violated [Plaintiff’s] accommodation,” ECF 63-1 at
+
+30; Plaintiff counters that her accommodations were “systematically violated.” ECF 65-1 at 34.
+
+Where the facts lie between these two extreme assertions is a question best settled by a jury.
+
+Defendant argues that “[t]he record is . . . replete with examples of Chief HCO       . . . providing
+
+outsized support, offering coaching, participating in meetings, and developing communication
+
+strategies to ensure that Plaintiff was properly accommodated.” ECF 63-1 at 30–31. However, the
+
+exhibits Defendant cites do not merit such a conclusion and are insufficient to support awarding
+
+judgment to Defendant on Plaintiff’s failure-to-accommodate claim.
+
+          Plaintiff has raised the following events as examples of Defendant’s “systemic[]
+
+violat[ion]” of her accommodations:
+
+         On July 19, 2021, after Plaintiff completed an assignment from Chief HCO for
+          written presentation on NTC budget issue, Chief HCO “demanded revisions due
+          July 20,” a one-day deadline. ECF 65-1 at 7 (citing ECF 65-6 at 5; ECF 63-38 at 3;
+          ECF 63-27 at 3);12
+
+         “On August 25, 2021, Plaintiff’s request for clarification went unanswered for 39
+          days.” ECF 65-1 at 34;
+
+         “On October 6, 2021, Chief HCO sent Plaintiff an email at 10:50 AM with a
+          Board-requested task requiring a noon deadline[;] . . . [d]espite completing it on
+          time at 12:04 PM, Plaintiff experienced a panic attack.” ECF 65-1 at 8 (citing ECF
+
+12
+  In opposing Defendant’s motion on the violations-based failure-to-accommodate claim, Plaintiff
+refers to having received assignments with one-day deadlines “[o]n July 14, and July 20, 2021.”
+ECF 65-1 at 34. This Court will treat this statement as being in reference to the July 19–20 events.
+Moreover, this Court rejects Defendant’s argument that Chief HCO             could not have violated
+Plaintiff’s accommodations during this time frame because he had not been made aware that they
+had been approved. The issue is whether Defendant, not Chief HCO                    , accommodated
+Plaintiff’s disability, and a jury should decide whether the failure to promptly communicate the
+approved accommodations up the supervisory chain constituted a failure to accommodate.
+
+
+                                                 26
+       Case 1:23-cv-02899-SAG          Document 84         Filed 05/06/26      Page 27 of 50
+
+
+
+        63-46 at 2; ECF 63-3 (Pl. Dep.) at 180–81); ECF 65-1 at 34. “The assignment
+        violated the accommodation’s requirement for collaborative conversation to align
+        on expectations, resources, constraints, outcomes, and timelines.” Id. (citing ECF
+        63-32);
+
+       “On October 7, 2021, Ronda Lasko assigned Title II monitoring information with
+        a Monday, October 11, deadline.” ECF 65-1 at 8 (citing ECF 63-57 (EEO Report)
+        at 8);
+
+       “On October 12, 2021, Kasey Mengel assigned an ESSA Consolidated Strategic
+        Plan task Supervisor failed to complete, with a same-day deadline. Plaintiff completed
+        it within two hours.” ECF 65-1 at 8 (citing ECF 63-57 (EEO Report) at 8);
+
+       “On October 14, 2021, Chief HCO assigned portions of a Title II application due
+        to Mengel’s last-minute request”; in response, “Plaintiff explicitly stated: ‘I have
+        to request more streamlined communication and outcomes due to my
+        accommodations.’” ECF 65-1 at 8 (citing ECF 63-47);
+
+       “On October 20, 2021, Supervisor emailed Chief HCO and Plaintiff at 12:41 AM
+        requesting agenda revisions due at 10:00 AM.” ECF 65-1 at 8 (citing ECF 63-57
+        (EEO Report) at 9).
+
+
+        Plaintiff has not cited any record evidence pertaining to the purported “request for
+
+clarification” on August 25, 2021, and there is no other mention of this event in either her cross-
+
+motion or her reply. Thus, this “violation” cannot be considered.
+
+        As for the remainder, Defendant argues generally that Plaintiff’s accommodations
+
+requiring “collaborative conversation to align on expectations, resources, constraints,
+
+expectations, outcomes, timelines, and progress monitoring” applied only where “new primary or
+
+process tasks” were “introduced to [Plaintiff’s] portfolio of work,” and not to “discrete
+
+assignments related to work previously introduced to Plaintiff’s portfolio of work.” ECF 71 at 52
+
+(emphasis added). However, Defendant’s only evidence of this interpretation comes from
+
+Chief HCO's deposition testimony explaining his understanding of the accommodation, see
+
+ECF 63-5 at 118–20, and Defendant does not make any argument as to whether the specific
+
+assignments and timelines that Plaintiff has highlighted would or would not constitute violations
+
+
+
+                                                 27
+      Case 1:23-cv-02899-SAG          Document 84        Filed 05/06/26     Page 28 of 50
+
+
+
+of her accommodations under that interpretation. The nature of the assignments, whether
+
+Plaintiff’s accommodations, consequently, applied to them, and whether the length of the required
+
+timelines for their completion violated those accommodations are all disputes of fact best resolved
+
+by a jury.
+
+       Defendant also argues that, contrary to Plaintiff’s argument that “Defendant took no
+
+corrective action” in response to her “formal complaints,” ECF 65-1 at 35, the EEO unit “continued
+                                                                                         Chief HCO
+to support Plaintiff after her accommodations were originally approved,” and that
+
+         invited Plaintiff to “text him” if she had difficulty reaching him. While the record does
+
+suggest that Plaintiff met with Ms. Ehrenfeld and Mr. Calhoun on multiple occasions, and
+
+Chief HCO at least once, to discuss her accommodations and/or allegations of violations, this,
+without evidence of some further action in response to those allegations, is not enough to entitle
+
+Defendant to judgment on Plaintiff’s violations-based failure-to-accommodate claim.
+
+       When interviewed as part of the EEO investigation of Plaintiff’s formal complaint after her
+
+removal from the Director position, Chief HCO            said, “it would be impossible to comply
+
+[with Plaintiff’s approved accommodations] 100% of the time given the dynamic nature of the
+
+job” and that the accommodations were “untenable.” ECF 63-6 at 2. This assessment of the
+
+feasibility of compliance would be relevant if Defendant were challenging the reasonableness of
+
+the requested accommodations. But the problem for Defendant is that it approved these
+
+accommodations, without challenging their reasonableness or meaningfully seeking to modify
+
+them. See ECF 65-4 (January 6, 2022 Calhoun Interview) at 2 (“Calhoun described the
+
+determination letter and accommodation as a ‘win-win for everyone’ and that it was ‘masterful’
+
+and an ‘excellent response to the situation.’”); ECF 63-57 (EEO Report) at 3). The
+
+accommodations that Defendant approved appear to be broad enough in nature (“clear
+
+
+
+
+                                                28
+      Case 1:23-cv-02899-SAG          Document 84       Filed 05/06/26     Page 29 of 50
+
+
+
+expectations,” “clear and effective communication”) to lend themselves readily to invocation and,
+
+thus, assertions of violation. A genuine dispute exists as to whether Defendant violated these
+
+accommodations; thus, this Court will deny Defendant’s motion for summary judgment regarding
+
+Plaintiff’s violations-based failure-to-accommodate claim.
+
+   B. Discrimination in Hiring
+
+       Both parties seek summary judgment on Plaintiff’s claim for discrimination in hiring, but
+
+their analyses do not neatly align. In Count II of her Amended Complaint, Plaintiff expressly
+
+referenced the following events as bases for her claim for “discrimination in hiring”: (1)
+
+Defendant’s failure to hire Plaintiff into new positions for which she applied and was qualified,
+
+negatively affecting her professional development, ECF 22 ¶¶ 139, 141; (2) Defendant’s
+
+requirement of reviewing Plaintiff’s medical information and records before placing her in a new
+
+position (e.g., Director-Level Position C            ), and threats of demotion or placement in
+
+lower position if she declined to provide them, ECF 22 ¶¶ 140, 142–45; (3) Defendant’s rescission
+
+of an offer to Plaintiff for the       Director-Level Position C                , after Plaintiff’s
+                                                                                       Director-Level Position B
+acceptance, ECF 22 ¶ 146; and (4) Defendant’s eventual placement of Plaintiff in the
+
+                                   , “an ad hoc position outside of the District Headquarters with
+
+no department, no firm funding, [and] no opportunities for advancement.” ECF 22 ¶ 147.
+
+       In its motion for summary judgment, Defendant reduces Plaintiff’s claim to two theories:
+
+“(A) Defendant discriminated against [Plaintiff] by requiring that she provide updated medical
+
+information and (B) Defendant discriminated against her by reassigning her to the role of
+
+   Director-Level Position B          .” ECF 63-1 at 31. It seeks summary judgment on both
+
+theories, arguing that (1) requiring Plaintiff to submit updated medical information prior to her
+
+reassignment did not violate the ADA, see ECF 63-1 at 31–36; and (2) Plaintiff cannot make out
+
+
+
+
+                                               29
+      Case 1:23-cv-02899-SAG             Document 84       Filed 05/06/26      Page 30 of 50
+
+
+
+a prima facie case that her reassignment was discriminatory because (a) there is no evidence that
+
+she was not selected for other roles because of unlawful discrimination, and (b) “Defendant had
+
+legitimate non-discriminatory reasons for reassigning her to the role of Director-Level Position B
+
+                  ” rather than the role of “Director of Professional Development Academics.” ECF
+
+63-1 at 36–39.
+
+          In her responses, Plaintiff failed to address either of the bases of her “discrimination in
+
+hiring” claim briefed by Defendant. Instead, Plaintiff’s cross-motion/opposition seeks summary
+
+judgment for a disability discrimination claim predicated on Defendant’s December 10, 2021
+
+action, alternatively characterized at various points in the briefing as a “removal,” a “transfer,” a
+
+“suspension,” and a “reassignment”. Defendant has challenged Plaintiff’s revised position as an
+
+impermissible attempt to amend her complaint at summary judgment. Thus, between Plaintiff’s
+
+apparent abandonment of the pleaded bases for her “discrimination in hiring” claim and her
+
+apparently new articulation of a claim for disability discrimination, Defendant argues that it is
+
+entitled to summary judgment on Count II of Plaintiff’s amended complaint. See ECF 71 at 17–
+
+18, 54.
+
+          Regarding the claim based on Defendant’s alleged requirement of updated medical
+
+information prior to reassignment, Plaintiff makes no reference anywhere in her briefing to these
+
+allegations; thus, this Court finds that Plaintiff has abandoned her discrimination claim to the
+
+extent it relies on such allegations, and grants summary judgment to Defendant in this respect. See
+
+Rodgers v. Eagle All., 586 F. Supp. 3d 398, 448–449 (D. Md. 2022) (“A plaintiff who fails to
+
+respond to an argument for summary judgment is deemed to have abandoned the claim.”) (citing
+
+Ferdinand-Davenport v. Children’s Guild, 742 F. Supp. 2d 772, 783 (D. Md. 2010)); Palazzo v.
+
+Bayview Loan Servicing LLC, No. DLB-20-2392, 2024 WL 4361857, at *15 (D. Md. Sept. 30,
+
+
+
+
+                                                  30
+      Case 1:23-cv-02899-SAG           Document 84        Filed 05/06/26      Page 31 of 50
+
+
+
+2024) (“When a court finds the plaintiff has abandoned a claim, the court may grant summary
+
+judgment on the abandoned claim.”) (collecting cases), aff’d on other grounds, No. 24-2169, --
+
+F.4th --, 2026 WL 784984 (4th Cir. Mar. 31, 2026).
+
+       In fact, Plaintiff commits only two paragraphs in her cross-motion/opposition to respond
+
+to Defendant’s request for summary judgment on her disability discrimination claim. Within those
+
+two paragraphs, the first is devoted entirely to her new theory regarding the December 10, 2021
+
+“transfer.” The only statements Plaintiff makes (with no citations to the record) that pertain to the
+
+other expressly pleaded bases for her discrimination in hiring claim are the following:
+
+       The 444-day exclusion from the workplace—found improper by the Maryland State
+       Board of Education—constituted significant harm to career progression even under
+       pre-Muldrow standards. When finally placed, Plaintiff was given the only Director
+       position without supervisory responsibilities. The rescission of the Director of
+       Professional Development offer, coupled with the subsequent appointment of
+       another candidate to that position, demonstrates unwillingness to accommodate
+       Plaintiff’s disability. Comparator evidence shows Plaintiff was treated less
+       favorably than similarly situated employees without disabilities. These disputed
+       facts preclude summary judgment.
+
+
+ECF 65-1 at 36–37. It is not clear whether Plaintiff is necessarily responding to Defendant’s
+
+arguments regarding these events or citing them as harms that flowed from the event she is now
+
+seeking to predicate her claim on—the December 10, 2021 “removal.” But even if treated as a
+
+reference to her “discrimination in hiring” claim as pleaded in her amended complaint, this single
+
+paragraph—which essentially just restates the allegations in her amended complaint (see ECF 22
+
+¶¶ 96, 99–102, 105, 106, 119–23, 141, 146–48) with no evidentiary support—is too fleeting a
+
+discussion to sustain her claim against Defendant’s summary judgment motion. See Palazzo, 2024
+
+WL 4361857, at *15–16 (collecting cases) (“The party opposing summary judgment must say
+
+more than merely passing remarks in support of his position.”). Thus, this Court concludes that
+
+Plaintiff has also effectively abandoned her claims of discrimination in Defendant’s identification
+
+
+
+                                                 31
+      Case 1:23-cv-02899-SAG           Document 84         Filed 05/06/26      Page 32 of 50
+
+
+
+of and placement in a new position; it will grant summary judgment to Defendant on Count II in
+
+this respect as well. Notably, even after Defendant highlighted that Plaintiff had not challenged its
+
+arguments regarding the “Discrimination in Hiring” claim, see ECF 71 at 54, Plaintiff did not, in
+
+her reply, attempt to revive a dispute as to those theories. Essentially, Plaintiff appears to have
+
+decided, at the summary judgment stage, to rest her disability discrimination claim entirely on
+
+alleged discrimination on December 10, 2021.13
+
+       But as to that claim, Defendant is correct that “[a] plaintiff may not amend her complaint
+
+through argument in a brief opposing summary judgment.” Barclay White Skanska, Inc. v. Battelle
+
+Mem’l Inst., 262 F. App’x 556, 563 (4th Cir. 2008) (quoting Gilmour v. Gates, McDonald & Co.,
+
+382 F.3d 1312, 1315 (11th Cir. 2004)). And the legal authority that Plaintiff cites in support of her
+
+assertion of this variation of her disability discrimination claim at this stage arose in distinct
+
+procedural contexts from that here.
+
+       First, in presenting her December 10, 2021 discrimination claim for the first time in her
+
+cross-motion, Plaintiff invokes Sydnor v. Fairfax Cnty., 681 F.3d 591, 594 (4th Cir. 2012), in
+
+which, she avers, the Fourth Circuit held that “EEOC charges are liberally construed to encompass
+
+claims ‘reasonably related’ to the charge that ‘can be expected to follow from a reasonable
+
+
+
+13
+   Lending support to this conclusion, Plaintiff’s statements of her claims at the opening and
+closing of her cross-motion make no mention of her pleaded discrimination in hiring claims. See
+ECF 65-1 at 4 (“The undisputed facts establish that Defendant failed to accommodate Plaintiff’s
+known disability for six months due to its own administrative error, discriminated against her by
+removing her from her Director position one day after she complained about accommodation
+violations, and retaliated against her for asserting her ADA rights.”) (emphasis added); id. at 37
+(“The undisputed facts establish that Defendant failed to provide reasonable accommodations
+during the November 2020 through June 2021 period, discriminated against Plaintiff by subjecting
+her to an unlawful transfer in December 2021 under Muldrow, 601 U.S. 346 (2024), and retaliated
+against Plaintiff for engaging in protected activity.”) (emphasis added); id. (“Plaintiff respectfully
+requests that this Court: 1. GRANT Plaintiff’s Cross-Motion for Summary Judgment as to Court
+1 (November 2020-June 2021 period), Count II (December 2021 transfer), and Count III
+(Retaliation)” (emphasis added).
+
+                                                 32
+      Case 1:23-cv-02899-SAG           Document 84        Filed 05/06/26        Page 33 of 50
+
+
+
+administrative investigation,’” ECF 65-1 at 26, to argue that “[a]ny reasonable investigation of
+
+Plaintiff’s charges—detailing discrimination based on disability, the December 2021
+
+reassignment, and barriers to obtaining new positions—would necessarily encompass the unlawful
+
+transfer itself. Count II properly includes the December 2021 transfer.” ECF 65-1 at 26. However,
+
+the standard announced in Sydnor compares a claim brought in court to a charge originally filed
+
+with the EEOC, and is relevant to an analysis of whether a plaintiff has exhausted administrative
+
+remedies before an administrative body. See Sydnor, 681 F.3d at 594. That is an entirely separate
+
+question from the one at issue here, which is whether, at summary judgment, a plaintiff can
+
+advance, for the first time, a new variation of her originally pleaded claim.
+
+       Second, in her reply, Plaintiff, on the one hand, argues that “[c]hallenging both the
+
+reassignment and the hiring process for the new role is not a constructive amendment—it
+
+represents an alternative legal theory for a unified discriminatory course of conduct based on the
+
+same core operative facts,” ECF 73 at 39, and on the other, seems to acknowledge amendment but
+
+states that “the critical inquiry is whether amendment would prejudice the defendant, not whether
+
+the legal theory precisely matches the initial pleading.” ECF 73 at 38. This contradiction is further
+
+indicated by her almost exclusive citation, in opposing Defendant’s “constructive amendment”
+
+argument, to the Fourth Circuit’s decision in Laber v. Harvey, 438 F.3d 404 (4th Cir. 2006) (en
+
+banc). In that case, the court reviewed the district court’s denial of the plaintiff’s motion for
+
+reconsideration and leave to amend after summary judgment had been granted. It held that denial
+
+of the motions was an abuse of discretion because plaintiff “did not act in bad faith, his proposed
+
+amendment would not cause any prejudice to the [defendant], and the proposed amendment is not
+
+futile.” Laber, 438 F.3d at 410. Plaintiff here argues that because Defendant would not be
+
+prejudiced by her “alternative theory for recovery,” that, “[u]nder Laber, Defendant’s constructive
+
+
+
+
+                                                 33
+      Case 1:23-cv-02899-SAG            Document 84        Filed 05/06/26       Page 34 of 50
+
+
+
+amendment argument must fail.” ECF 73 at 40. However, Laber did not deal with constructive
+
+amendment at all; it was specifically weighing the merits of a motion to amend, which Plaintiff
+
+has not filed here. Thus, the standards articulated and applied in Laber are inapposite.
+
+       Plaintiff argues that her Amended Complaint contained various allegations about what
+
+happened on December 10, 2021, including reference to it as “a discriminatory and retaliatory
+
+transfer that severely disadvantaged Plaintiff and caused harm to her employment.” ECF 22 ¶ 117.
+
+That point is well taken—Plaintiff does not here seek to advance new factual allegations. But a
+
+single reference to an event as “discriminatory” where (1) Count II is entitled “discrimination in
+
+hiring” and expressly sets forth other specific alleged discriminatory acts and (2) Count III
+
+expressly ties her retaliation claim to the December 10, 2021 transfer does not suffice to provide
+
+fair notice that Plaintiff intended to assert a “discrimination in hiring” claim as to the events of
+
+December 10, 2021 (when no “hiring” occurred). And the applicable standard is higher than “fair
+
+notice” at the summary judgment stage. See Barclay White Skanska, Inc., 262 F. App’x at 563
+
+(“Efficiency and judicial economy require that the liberal pleading standards under Swierkiewicz
+
+and Rule 8(a) are inapplicable after discovery has commenced. At the summary judgment stage,
+
+the proper procedure for plaintiffs to assert a new claim is to amend the complaint in accordance
+
+with Fed. R. Civ. P. 15(a).”) (quoting Gilmour, 382 F.3d at 1315).
+
+       Finally, the introductory paragraph of Count II, through which Plaintiff argues that Count
+
+II “expressly incorporates by reference all factual allegations . . . , including extensive details of
+
+the December 10, 2021 transfer,” ECF 65-1 at 26, does not lead this Court to a different conclusion.
+
+The first paragraph of Plaintiff’s pleaded “discrimination in hiring” count states that she “re-alleges
+
+and incorporates by reference the previous averments, and the paragraphs, infra, into this count as
+
+though fully set forth herein,” but the paragraph continues, “and further alleges that Defendant
+
+
+
+
+                                                  34
+      Case 1:23-cv-02899-SAG            Document 84        Filed 05/06/26       Page 35 of 50
+
+
+
+discriminated against her by making her hire into a new position contingent upon her disability
+
+and by,” followed by Plaintiff’s allegations of discrimination in the hiring process and her ultimate
+
+placement in a new position. ECF 22 ¶ 138. The latter portion of this paragraph, thus, appears to
+
+clarify the scope of the count, just as the first paragraph of Plaintiff’s retaliation count did in re-
+
+alleging and incorporating the previous allegations before “further alleg[ing] that Defendant
+
+retaliated against [Plaintiff] by placing her on a suspension under the guise of a transfer,” ECF 22
+
+¶ 149. In other words, the Amended Complaint expressly tied the retaliation count to the events of
+
+December 10, 2021 before making additional express allegations pertaining to those events. The
+
+“incorporating” paragraph of Count II of the amended complaint is an insufficient basis upon
+
+which to conclude, in the face of Defendant’s challenge, that Plaintiff’s amended complaint raised
+
+a disability discrimination claim based on the December 10, 2021 action. See James v. Nalley
+
+BMW of Decatur, No. 1:18-cv-03216-TWT-LTW, 2020 WL 13664375, at *4 (N.D. Ga. Feb. 19,
+
+2020), report and recommendation adopted sub. nom, James v. Asbury Auto. Atlanta, LLC, No.
+
+1:18-CV-3216-TWT, 2020 WL 13664284 (N.D. Ga. Mar. 12, 2020) (“Plaintiff may try to argue
+
+the allegations regarding his resignation are incorporated by reference into each of his claims,
+
+because he attempted to ‘incorporate[]’ every factual allegation into every claim,” “[b]ut the liberal
+
+pleading standard ‘does not require that, at the summary judgment stage, defendants must infer all
+
+possible claims that could arise out of facts set forth in the complaint.’”) (quoting Gilmour, 382
+
+F.3d at 1315).
+
+       Beyond the allegations in the Amended Complaint, a review of the record at summary
+
+judgment reflects little indication that Plaintiff intended to pursue a discrimination claim based on
+
+the December 10, 2021 events. Exchanges during the three depositions taken during discovery in
+
+this case indicate that Plaintiff—and Plaintiff’s counsel—considered the events of December 10,
+
+
+
+
+                                                  35
+        Case 1:23-cv-02899-SAG            Document 84        Filed 05/06/26       Page 36 of 50
+
+
+
+2021 to be the basis for her retaliation claim, rather than her discrimination claim. First, in
+
+Plaintiff’s deposition, when asked by her counsel why she brought her lawsuit, Plaintiff said, inter
+
+alia:
+
+         My civil rights and my civil liberties were violated. . . . I never thought . . . I would
+         be in a space where someone was allowed to say I was a poor performance and the
+         only thing that I received to date from – only thing I received was something that
+         was written after I filed my complaints. . . . I shouldn’t have been in a space where
+         . . . my white male chief , because he was chief, could say I was a poor performer
+         and not have any evidence of such after reporting him on several occasions.
+
+ECF 63-3 (Pl. Dep.) at 312–13. Plaintiff’s repeated reference to the December 10, 2021 action
+
+being taken in response to her reporting Chief HCO               is consistent with the retaliation claim
+
+that she specifically pleaded in Count III. Further, the following exchange from the deposition of
+
+Chief HCO           , taken on May 21, 2025, clearly ties the December 10, 2021 action to Plaintiff’s
+
+retaliation claim, but makes no express mention of a discrimination claim based on those events:
+
+         [Plaintiff’s Counsel:] How do you respond to the claim of [Plaintiff] that you
+         retaliated against her for filing EEO complaints by transferring her?
+
+         [Defendant’s Counsel:] Objection. You may answer, if you can.
+
+         [Chief HCO          :] Which claim are you referring to? The only time I ever
+         learned of such a claim is by e-mail on December 9, 2021.
+
+         [Plaintiff’s Counsel:] Are you aware of the substance of this lawsuit?
+
+         [Chief HCO       :] I’m aware that [Plaintiff] is claiming that the district violated
+         her accommodations.
+
+         [Plaintiff’s Counsel:] Okay. Are you aware that she’s also claiming that her transfer
+         – transfer out of the director role was retaliatory?
+
+ECF 63-5 at 132–33. Finally, in the September 25, 2025 deposition of Dr. Santelises, while
+
+Plaintiff’s counsel did ask Dr. Santelises whether, if she “believe[d] that a transfer would be done,
+
+or was being done for a retaliatory or discriminatory reason,” she could stop that transfer, ECF 63-
+
+10 at 13, Plaintiff’s counsel later asked, in apparent reference to the substance of the lawsuit, “Are
+
+
+
+                                                    36
+      Case 1:23-cv-02899-SAG           Document 84         Filed 05/06/26      Page 37 of 50
+
+
+
+you at all concerned about your legacy in relation to this case and you know, failure to
+
+accommodate and potential retaliation happening under your leadership of the school system?”
+
+ECF 63-10 at 119.
+
+       In addition, the summary of Plaintiff’s December 22, 2021 interview during the EEO
+
+investigation lists, under “Basis for Disability Discrimination: “[1] Every task assigned to
+                                                                                              Chief HCO
+[Plaintiff] violated her accommodations[;] [2] Accommodations were not being honored by
+
+        [;] [and] [3] Told by Chief HCO that she must ‘direct herself.’” ECF 63-27 at 7. Later,
+
+in elaborating on why Chief HCO                was identified as a “Discriminatory Actor,” this
+
+document says, “[1] The bulk of allegations are against Chief HCO [;] [2] Consistent violation
+
+of ADA accommodations[;] [3] Relied on his position as Chief to not follow polices/procedures
+
+[sic][;] [4] Retaliated against her after she spoke with Dr. Santelises.” Id. Thus, in this interview,
+
+Plaintiff apparently did not allege that the December 10, 2021 action was, itself, discriminatory,
+
+as opposed to retaliatory.
+
+       Overall, the summary judgment record does not change this Court’s assessment that
+
+Plaintiff’s introduction of the December 10, 2021 action as an “alternative” basis for her disability
+
+discrimination claim under Count II of her amended complaint is an improper amendment of her
+
+pleading. See Laber, 438 F.3d at 413 n.3 (concluding that plaintiff had not sufficiently put his
+
+employer’s alleged discrimination at issue, in part because “[o]ther documents in the record”
+
+demonstrated that “[n]ot once before the district court’s grant of summary judgment did [plaintiff]
+
+attempt to disabuse either [his employer] or the district court of any alleged misunderstanding of
+
+his religious discrimination claim.”). A cross-motion for summary judgment is not the proper
+
+vehicle by which to amend. See Allegis Grp., Inc. v. Bero, 689 F. Supp. 3d 81, 142 (D. Md. 2023)
+
+(“[T]he Fourth Circuit has made clear that the only way to raise new claims after discovery has
+
+
+
+
+                                                 37
+      Case 1:23-cv-02899-SAG           Document 84         Filed 05/06/26      Page 38 of 50
+
+
+
+begun is through amendment of the complaint.”) (citing Wahi v. Charleston Area Med. Ctr., Inc.,
+
+562 F.3d 599, 617 (4th Cir. 2009)), aff’d, No. 23-2023 (4th Cir. July 29, 2025) (unpublished per
+
+curiam). Because Plaintiff has not established a genuine issue of material fact as to her pleaded
+
+discrimination in hiring claims, Defendant’s motion for summary judgment will be granted as to
+
+Count II and Plaintiff’s cross-motion will be denied.
+
+   C. Retaliation
+
+       Plaintiff’s final claim is that Defendant retaliated against her for “seeking reasonable
+
+accommodations, advocating for her supervisor to follow her accommodations, and filing informal
+
+and formal EEO complaints.” ECF 22 ¶ 150. As summarized by the Fourth Circuit, the ADA
+
+retaliation standard is as follows:
+
+       Under 42 U.S.C. § 12203, “[n]o person shall discriminate against any individual
+       because such individual has opposed any act or practice made unlawful by this
+       chapter or because such individual made a charge, testified, assisted, or participated
+       in any manner in an investigation, proceeding, or hearing under this chapter.”
+       (emphasis added). In order to establish a prima facie case of retaliation, a plaintiff
+       must allege (1) that she has engaged in conduct protected by the ADA; (2) that she
+       suffered an adverse action subsequent to engaging in the protected conduct; and (3)
+       that there was a causal link between the protected activity and the adverse action.
+       Rhoads v. FDIC, 257 F.3d 373, 392 (4th Cir. 2001). In reviewing retaliation claims,
+       courts recognize the need to balance the desire to encourage employees to oppose
+       unlawful discrimination, with “an employer’s interest in maintaining a harmonious
+       productive and loyal workforce.” Fitch v. Solipsys Corp., 94 F. Supp. 2d 670, 678
+       (D. Md. 2000).
+
+Freilich v. Upper Chesapeake Health, Inc., 313 F.3d 205, 216 (4th Cir. 2002). “Courts typically
+
+apply the standards for Title VII retaliation claims to ADA retaliation claims.” Parker v. Children’s
+
+Nat’l Med. Ctr., Inc., No. ELH-20-3523, 2021 WL 5840949, at *23 (D. Md. Dec. 9, 2021) (citing
+
+Laird v. Fairfax Cnty., 978 F.3d 887 893 n.5 (4th Cir. 2020); S.B. ex rel. A.L. v. Bd. of Educ. of
+
+Hartford Cnty., 819 F.3d 69, 78 (4th Cir. 2016); Rhoads v. F.D.I.C., 257 F.3d 373, 391 (4th Cir.
+
+2001)). “Therefore, ‘[i]n order to prevail on a claim of retaliation [under the ADA], a plaintiff must
+
+
+
+
+                                                 38
+      Case 1:23-cv-02899-SAG           Document 84         Filed 05/06/26      Page 39 of 50
+
+
+
+either offer sufficient direct and indirect evidence of retaliation, or proceed under [the McDonnell
+
+Douglas] burden-shifting method.’” Id. (quoting Rhoads, 257 F.3d at 391) (alteration in Parker).
+
+Each element of a prima facie case is addressed below.
+
+       1. Conduct Protected by the ADA
+
+       As protected conduct, Plaintiff rests her retaliation claim on her “complain[ts] about
+
+accommodation violations on August 5, October 15, October 28, and December 9, 2021.” ECF 65-
+
+1 at 30.14 Defendant has not disputed the “protected conduct” element of Plaintiff’s prima facie
+
+case in its filings. Thus, Plaintiff has adequately demonstrated this element of her prima facie case.
+
+       2. Adverse Action
+
+       As for the second element—adverse action—it is useful first to outline the actions that
+
+Plaintiff, at summary judgment, is alleging as adverse actions for purposes of her retaliation claim.
+
+In her amended complaint, Plaintiff expressly alleged that Defendant took the following actions in
+
+retaliation against her engaging in protected activity:
+
+       (1) “failing to follow its own regulations, rules, and policies regarding the Plaintiff”
+           (ECF 22 ¶ 152);
+
+       (2) removing Plaintiff from her position as Director—Educator Pipeline and
+           Induction on December 10, 2021 and thereby “transferring” her into a “non-
+           position” while awaiting reassignment (ECF 22 ¶¶ 154–156, 158);
+
+
+
+14
+  Plaintiff also cites her first reasonable accommodation request in November/December, 2020 as
+an example of protected conduct, ECF 65-1 at 5, 30, but does not make any argument that
+Defendant retaliated against her for that request. In addition, Plaintiff noted in her “Retaliation
+Timeline Overview” her formal request for extension of her ADA accommodations on December
+1, 2021, see ECF 63-59, ECF 65-1 at 5; however, she has not attempted to argue that Defendant
+retaliated against her for this request, either. Finally, she cites her December 9, 2021 statement to
+Chief HCO            that their email interaction “feels abusive and grounded in retaliation,” ECF
+63-54 at 2, as an “activit[y] . . . protected under the ADA.” ECF 65-1 at 30. This statement, which
+makes no reference to her disability or her accommodations, cannot fairly be read to suggest or
+refer to opposition to any discriminatory activity such that would render the statement “protected
+conduct” for purposes of Plaintiff’s prima facie case.
+
+
+                                                 39
+      Case 1:23-cv-02899-SAG           Document 84          Filed 05/06/26       Page 40 of 50
+
+
+
+       (3) improperly vesting Chief HCO               with the right to transfer Plaintiff (Id. ¶
+           157);
+
+       (4) alleging to EEO investigators that Plaintiff had inadequate job performance (Id.
+           ¶ 153);
+
+       (5) conditioning Plaintiff’s placement in a new position on her providing medical
+           documentation (Id. ¶ 159); and
+
+       (6) ultimately placing Plaintiff in an “ad hoc position without job security, terms,
+           conditions, or privileges of her previous employment” (Id. ¶ 161).
+
+Defendant, in its motion for summary judgment, only expressly challenges the “adverse” nature
+
+of the third and sixth alleged actions in the above list, arguing, respectively, that the Chief HCO
+
+had the authority to internally transfer employees pursuant to administrative regulation and that
+
+Plaintiff’s new position pays her the same salary and has “significant responsibilities and requires
+
+a substantial number of essential functions.” ECF 63-1 at 42–43.
+
+       Plaintiff opposes Defendant’s arguments in a single two-sentence paragraph, arguing that
+
+“[t]he one-day temporal proximity, pattern of escalating adverse treatment, shifting justifications,
+
+policy violations, lack of formal discipline, and disparate treatment of comparators create genuine
+
+issues of material fact.” ECF 65-1 at 36. While Plaintiff identifies no particular adverse action, her
+
+reference to “one-day temporal proximity” echoes her argument that the December 10, 2021
+
+removal was adverse.
+
+       In fact, in Plaintiff’s cross-motion, she narrows the list of actions that she is asserting were
+
+“adverse” for purposes of her retaliation claim to the following: (1) the December 10, 2021
+
+reassignment which she asserts had the effect of a suspension; (2) the restriction of her access to
+
+email and other internal systems; and (3) the rescission of an offer made to her in September 2022
+
+
+
+
+                                                 40
+      Case 1:23-cv-02899-SAG           Document 84         Filed 05/06/26      Page 41 of 50
+
+
+
+for the Director of Professional Development Academics position. ECF 65-1 at 30.15 The rest of
+
+Plaintiff’s briefing of her retaliation claim (discussing causation, pretext, and “Comparators and
+
+Performance Justifications”) pertains to the December 10, 2021 action only. While the restriction
+
+of her access to internal systems may have coincided with her removal, she makes no other mention
+
+of this action in briefing her retaliation claim. Further, regarding the rescission of the job offer
+
+made to Plaintiff in September, 2022, Plaintiff has not, in her cross-motion, identified any protected
+
+activity other than her actions before the December 10, 2021 removal. Thus, while this Court
+
+understands that the rescission of the job offer made to Plaintiff in September, 2022 extended the
+
+length of the “constructive suspension” effectuated by the December 10, 2021 removal, it does not
+
+find that Plaintiff has effectively asserted the rescission as a discrete adverse action with a
+
+sufficient causal connection to her much earlier protected conduct. Thus, for Plaintiff’s retaliation
+
+claim, the December 10, 2021 removal is the sole adverse action in dispute.
+
+       Notably, the extent of Plaintiff’s argument as to the adversity of this action is a short
+
+invocation of the standard for the requisite “material[] advers[ity]” in retaliation claims: “These
+
+actions ‘might have dissuaded a reasonable worker from making or supporting a charge of
+
+discrimination.’” ECF 65-1 at 30 (quoting Burlington N. & Santa Fe Ry. Co. v. White, 548 U.S.
+
+53, 68 (2006)). Notwithstanding her sparse argument, this Court finds that Plaintiff has created a
+
+genuine dispute of material fact as to whether the December 10, 2021 removal was an “adverse
+
+action.”
+
+       Defendant argues that because, between her removal and ultimate placement in a new role,
+
+Plaintiff “continued to receive all of her employment benefits—including her full salary,” ECF 71
+
+
+15
+   Plaintiff also asserts that she “lost PSASA affiliation[] [and]         award winner
+designation”; however, these harms stem from the December 10, 2021 action and relate to a
+determination of “material[] advers[ity]” of the action. ECF 65-1 at 30; ECF 71 at 44.
+
+
+                                                 41
+      Case 1:23-cv-02899-SAG             Document 84      Filed 05/06/26      Page 42 of 50
+
+
+
+at 44 (citing ECF 63-3 (Pl. Dep.) at 82–83)), and because Defendant “worked diligently” to identify
+
+a position to place her in, that she has failed to adduce evidence that this action was “materially
+
+adverse.” This Court is not convinced. It agrees with Plaintiff that the action taken on December
+
+10, 2021 amounted to either a suspension or placement on administrative leave, though with pay.
+
+The fact of a suspension being with pay does not, by definition, preclude a finding that the action
+
+was materially adverse. See Hawkins v. Leggett, 955 F. Supp. 2d 474, 488 (D. Md. 2013) (ruling
+
+that the plaintiff had created a triable issue regarding material adversity where he had been placed
+
+on administrative leave for more than six months because, while he received full pay, he could not
+
+earn overtime or holiday pay.), aff’d sub. nom, In re Canarte, 558 F. App’x 327 (4th Cir. 2014)
+
+(unpublished per curiam); Blakes v. City of Hyattsville, 909 F. Supp. 2d 431, 441-42 (D. Md. 2012)
+
+(holding that a reasonable juror could conclude that a suspension with pay was materially adverse
+
+because “[a] reasonable person might well be dissuaded from filing a charge of discrimination due
+
+to, for instance, the loss of prestige, privileges, and respect that may accompany a suspension. This
+
+concern figures to be especially sensitive where, as here, the employee . . . , inferably, boasts a
+
+strong track record of performance.”).
+
+       Here, Plaintiff has adduced sufficient evidence, through her deposition testimony, for a
+
+reasonable juror to conclude that her suspension, even with pay, could constitute a materially
+
+adverse action. But more than anything, the length of time that Plaintiff was without a position is
+
+telling. Plaintiff has provided a February 28, 2023 MSBE Order in which MSBE found that where,
+
+at the time, Plaintiff’s “transfer to another position ha[d] been on hold for 14 months, over two
+
+school years,” Defendant had “exceed[ed] the limits of the local Superintendent’s authority to
+
+place a transferred employee.” ECF 63-9 at 1. While MSBE did not, itself, characterize the holding
+
+pattern in which Plaintiff had been left as “administrative leave” or a “constructive suspension,” it
+
+
+
+
+                                                 42
+      Case 1:23-cv-02899-SAG           Document 84         Filed 05/06/26      Page 43 of 50
+
+
+
+implicitly recognized that Plaintiff’s status could not be characterized as a “reassignment,” which
+
+is how the action was initially presented to Plaintiff. ECF 63-9 at 1 (“Implicit in our decisions is
+
+the principle that a reassignment involves the transfer of an employee from one position to another
+
+position.”) (emphasis added). A reasonable juror could readily conclude that Defendant took a
+
+materially adverse action against Plaintiff.
+
+       3. Causation
+
+       The remaining question for Plaintiff’s prima facie case is whether she has put forward
+
+sufficient evidence to sustain a reasonable finding that Defendant removed Plaintiff from her
+
+position on December 10, 2021 in retaliation for Plaintiff’s protected activity. The parties have
+
+briefed two theories of causation, which this Court will address in turn. Plaintiff has first asserted
+
+that her removal on December 10, 2021, just one day after she filed her EEO complaint forwarding
+
+that day’s email exchange with the Chief HCO to the EEO unit, was so close in temporal proximity
+
+as to demonstrate the requisite causal connection. ECF 65-1 at 20, 30–31. The Fourth Circuit has
+
+stated that “[i]n retaliation cases, temporal proximity suggests a correlation between an employee’s
+
+protected action and his employer’s adverse reaction.” Kelly v. Town of Abington, 90 F.4th 158,
+
+170 (4th Cir. 2024); see also Roberts v. Glenn Indus. Grp., Inc., 998 F.3d 111, 126 (4th Cir. 2021)
+
+(“[A] causal connection for purposes of demonstrating a prima facie case exists where the
+
+employer takes adverse employment action shortly after learning of the protected activity.”)
+
+(quoting Price v. Thompson, 380 F.3d 209, 213 (4th Cir. 2004)). However, Plaintiff’s theory fails
+
+for the simple reason that she has not adduced sufficient evidence that the Chief HCO was
+
+aware of her December 9, 2021 complaint to the EEO unit when he effectuated the adverse action.
+
+The Fourth Circuit requires actual knowledge by the decisionmaker, not constructive knowledge
+
+imputed from other employees’ knowledge; if the “decisionmaker is unaware of any prior
+
+
+
+
+                                                 43
+      Case 1:23-cv-02899-SAG           Document 84         Filed 05/06/26      Page 44 of 50
+
+
+
+complaints, a plaintiff ‘cannot establish the necessary causal connection.’” Roberts, 998 F.3d at
+
+123–26 (rejecting Title VII retaliation claim by a former employee who complained about sexual
+
+harassment to his supervisors but not to the CEO who terminated him); see also Strothers v. City
+
+of Laurel, 895 F.3d 317, 335–36 (4th Cir. 2018) (“An employee may satisfy [her] burden simply
+
+by showing that (1) the employer either understood or should have understood the employee to be
+
+engaged in protected activity and (2) the employer took adverse action against the employee soon
+
+after becoming aware of such activity.”) (emphasis added); Jennings v. Frostburg State Univ., 679
+
+F. Supp. 3d 240, 281 (D. Md. 2023) (“The Fourth Circuit has made clear that to establish a causal
+
+relationship between the protected activity and the adverse action, ‘a plaintiff must show that the
+
+decisionmaker was aware of the protected activity at the time the alleged retaliation occurred.’”)
+
+(quoting Roberts, 998 F.3d at 124).
+
+       Plaintiff argues that because the Chief HCO was a participant in the email exchange
+
+that Plaintiff subsequently forwarded to the EEO, “[a] reasonable jury could infer that the Chief HCO
+
+        , as the author and recipient of these emails, recognized their content related to
+
+accommodation compliance.” ECF 75 at 15. But the fact that the Chief HCO was on the thread
+
+that Plaintiff subsequently forwarded to the EEO does nothing to establish his knowledge.
+
+       Alternatively, Plaintiff argues that “Defendant’s assertion of lack of knowledge is precisely
+
+the type of disputed fact that precludes summary judgment when supported by circumstantial
+
+evidence of awareness.” ECF 73 at 16. Plaintiff’s suggestion that the Chief HCO's lack of
+
+knowledge of Plaintiff’s December 9, 2021 complaint to the EEO unit “creates, rather than
+
+resolves, a genuine dispute of material fact,” id. at 15, indicates a misunderstanding of her ultimate
+
+burden to show each element of her case by a preponderance of the evidence. With Defendant
+
+having offered evidence that the Chief HCO had no knowledge, it is Plaintiff’s burden to create
+
+
+
+
+                                                 44
+      Case 1:23-cv-02899-SAG          Document 84        Filed 05/06/26     Page 45 of 50
+
+
+
+a genuine dispute by adducing evidence from which a reasonable factfinder could conclude that
+
+he possessed such knowledge. However, the evidence that Plaintiff cites only supports a finding
+
+that she forwarded the December 9, 2021 email exchange to Mr. Calhoun the day before the
+
+adverse action; it offers nothing regarding the Chief HCO's awareness.
+
+       Plaintiff next cites, as circumstantial evidence of causation in the events of December 9
+
+and 10, 2021, the events of August 5, 2021. By Plaintiff’s telling, on that day, “Plaintiff
+
+complain[ed] to EEO about accommodation violations; the same day, the Chief HCO email[ed]
+
+questioning her ‘fit’ for the position.” ECF 73 at 16 (citing ECF 65-6 at 5–6, ¶¶ 26–29; ECF 63-
+
+16 at 5; and ECF 63-57 (EEO Report) at 6–7). Plaintiff argues that the events of August 5, 2021
+
+thus are evidence of an “established pattern” of retaliation closely following protected conduct,
+
+into which the events of December 9 and 10, 2021 fall. But this argument misrepresents the record,
+
+which actually reflects that the Chief HCO's August 5 statement regarding “fit” (“We should
+
+have a conversation about whether you believe this role and team are the right fit for you”) came
+
+before Plaintiff submitted her EEO complaint. See ECF 65-6 ¶¶ 29 (“On August 5, 2021, [Plaintiff]
+
+contacted Jane Ehrehfeld, to state that the Chief HCO's response to her e-mail was aggressive
+
+and neglectful of her accommodations, and forward the e-mail chain . . . .”); ECF 63-57 (EEO
+
+Report) at 7 (describing Plaintiff’s complaint to Ehrenfeld that “the Chief HCO's response
+
+neglected her accommodations”). In light of the above, this Court cannot conclude that a
+
+reasonable juror, from the evidence presented, could find that Plaintiff was removed from her
+
+position in retaliation for her December 9, 2021 complaint to the EEO unit, specifically.
+
+       As an alternative theory of causation, Plaintiff argues that “[t]he intervening period
+
+between [the] June 2021 accommodations and December 2021 reassignment demonstrates
+
+escalating retaliatory animus,” and that retaliation can be inferred from a “pattern of escalating
+
+
+
+
+                                                45
+      Case 1:23-cv-02899-SAG           Document 84         Filed 05/06/26      Page 46 of 50
+
+
+
+adverse treatment” following protected activity. ECF 65-1 at 31 (“quoting” “Nita H. v. Frederick
+
+Cnty. Pub. Sch., No. AW-13-3499, 2014 WL 3788011, at *6–8 (D. Md. July 31, 2014)).16 Between
+
+her cross-motion and her reply, however, Plaintiff seemingly abandoned the “intervening period”
+
+theory—the phrase does not appear in her reply—relying solely on a theory of a “pattern of
+
+escalating adverse actions.” ECF 73 at 17–18.17 Specifically, Plaintiff cites the following as
+
+instances of “escalating retaliatory conduct where each protected complaint was followed
+
+immediately by adverse action”:
+
+       (1) August 5, 2021 – Plaintiff asserts that, on the same day she filed her first formal
+           complaint to the EEO unit regarding accommodation violations, the Chief HCO
+                   emailed Plaintiff questioning her “fit” for her position (“the first time
+           he expressed any performance concerns”). ECF 65-1 at 31; ECF 73 at 17 (citing
+           ECF 63-57 (EEO Report) at 6–7);
+
+       (2) November 8, 2021 – Plaintiff asserts that, during her meeting with the Chief HCO
+                   , he “stated her accommodations were being violated by ‘repeatedly
+           giving her work with deadline demands,’” but told her that the accommodations
+           were “‘guiding principles’ to be followed only ‘to the extent possible,’” and that
+           she “needed to be ‘more flexible’ rather than insisting on adherence to approved
+
+
+16
+   This “quote” and “citation” were one of a number of issues previously raised to Plaintiff’s
+counsel in this Court’s March 12, 2026 Letter Order. ECF 75. In light of the fabricated citation,
+this Court has sufficient cause, in its discretion, to decline to consider the proposition purportedly
+drawn from “Nita H.,” for which Plaintiff cites no other case in either its cross-motion or its reply.
+However, the point is moot because, as discussed infra, even if this Court were to accept Plaintiff’s
+argument based on the fabricated citation, Plaintiff still has not adequately shown causation.
+17
+   Under the “intervening period” theory of causation, where “temporal proximity between
+protected activity and allegedly retaliatory conduct is missing, courts may look to the intervening
+period for other evidence of retaliatory animus.” Lettieri v. Equant, Inc., 478 F.3d 640, 650 (4th
+Cir. 2007) (quoting Farrell v. Planters Lifesavers Co., 206 F.3d 271, 281 (3d Cir. 2000)). In her
+reply, Plaintiff, confusingly, takes issue with Defendant having argued the “intervening period”
+theory on the terms defined by Plaintiff in her cross-motion. That is, while Plaintiff originally
+referred to “the intervening period between June 2021 accommodations and December 2021
+reassignment,” in her reply, she says that “Defendant’s focus on ‘July 2021’ as the relevant date
+misapprehends the nature of the protected activity. The protected conduct is not merely ‘having
+accommodations’—it includes complaining about accommodation violations.” ECF 73 at 17.
+Plaintiff’s position is contradictory and may be a tacit acknowledgment of the peculiarity of an
+argument regarding an “intervening period” bounded, on the front end, not by the employee’s
+request for, but by the employer’s grant of accommodations as the alleged “protected conduct.”
+
+
+                                                 46
+      Case 1:23-cv-02899-SAG           Document 84        Filed 05/06/26      Page 47 of 50
+
+
+
+           accommodations”; Plaintiff reported these remarks to the EEO unit. ECF 65-1
+           at 31; ECF 73 at 17 (citing ECF 63-31 at 2; ECF 63-6 at 2);
+
+       (3) December 9 and 10, 2021 – Plaintiff asserts that the Chief HCO “responded
+           to Plaintiff’s advocacy by stating that her “continued questioning of a decision
+           that the chief officer has made is itself significant evidence of the problem with
+           fit and performance”; Plaintiff forwarded this email exchange to the EEO unit
+           and her reassignment was announced one day later. ECF 65-1 at 17; ECF 73 at
+           17–18 (citing ECF 63-53 at 2–7; ECF 63-31 at 2; ECF 65-55).
+
+       As already discussed, Plaintiff’s assertions regarding the events of August 5, 2021
+
+materially misrepresent the record. ECF 71 at 47. the Chief HCO's remark regarding Plaintiff’s
+
+“fit” did not come after she had filed her EEO complaint on that day; rather, it was this email from
+
+the Chief HCO that Plaintiff provided to the EEO unit with her first formal complaint. See ECF
+
+63-45 at 3. Thus, the remark, even if considered an “adverse action,” cannot be considered to have
+
+been in retaliation for Plaintiff’s filing of her EEO complaint.
+
+       As for the events of December 9th and 10th, this Court has already found, for reasons stated
+
+above, that the Chief HCO's lack of knowledge of Plaintiff’s December 9th complaint to the
+
+EEO unit precludes a finding that her removal was in retaliation for that complaint.18 To the extent
+
+that Plaintiff is arguing that the Chief HCO's statement regarding “the problem with fit and
+
+performance” was made with retaliatory animus in response to Plaintiff’s advocacy, Plaintiff’s
+
+“advocacy” did not touch upon her disability or accommodations; rather, the exchange reflects
+
+Plaintiff advocating for her inclusion at leadership meetings, “for [her] salary and union based on
+
+updated information and as an African American woman,” for her to have “representation in the
+
+
+
+18
+   Also, this Court notes that an exhibit attached to Defendant’s reply may contradict Plaintiff’s
+assertion that she forwarded Mr. Calhoun the December 9 exchange including the Chief HCO's
+statement about “the problem with fit and performance.” The exhibit indicates that the exchange
+was brought to Mr. Calhoun’s attention sometime before 1:34 P.M. (at which time Mr. Calhoun
+forwarded it to himself); Chief HCO's           statement was made in an email sent at 3:06 P.M.
+Compare ECF 63-53 at 2 with ECF 71-3 (Ex. 74).
+
+
+                                                 47
+      Case 1:23-cv-02899-SAG           Document 84        Filed 05/06/26      Page 48 of 50
+
+
+
+room” at the December 10th meeting, and for input regarding the individuals invited to attend that
+
+meeting. Thus, Plaintiff’s statements in the email thread cannot be reasonably read as “protected
+
+conduct” such that a reasonable factfinder could conclude that the Chief HCO's statements, or
+
+Plaintiff’s removal the following day, constituted retaliation for protected conduct.
+
+       That leaves the November 8, 2021 meeting between Plaintiff and the Chief HCO , which
+
+the undisputed record reflects was intended to feature a discussion of Plaintiff’s accommodations.
+
+See ECF 63-50. However, there is some inconsistency in Plaintiff’s characterization of statements
+
+purportedly made at the meeting. Plaintiff has not cited to any record evidence for her assertion
+
+that the Chief HCO told her she needed to be “more flexible.” And certain of the statements
+
+regarding violations that she attributes to the Chief HCO she alternatively attributes to herself
+
+in other filings. 19 While, in a December 22, 2021 interview, the Chief HCO apparently
+
+characterized Plaintiff’s accommodations as “something that should be complied with ‘to the
+
+extent possible’ and that the accommodations were ‘guiding principles,’” ECF 63-6 at 2, nothing
+
+in this document suggests that these sentiments, as quoted, were conveyed to Plaintiff at the
+
+November 8, 2021 meeting.
+
+       In her reply to her cross-motion for summary judgment, Plaintiff first argues that “even if
+
+the Chief HCO lacked knowledge of the December 9 EEO forwarding, temporal proximity
+
+
+
+19
+   For example, Plaintiff asserts that “[d]uring the November 8, 2021 accommodation check-in,
+[she] reported to Calhoun that the Chief HCO stated her accommodations were being violated by
+‘repeatedly giving her work with deadline demands.’” ECF 65-1 at 8–9 (quoting ECF 63-31 at 2));
+see also ECF 73 at 17. However, review of the cited exhibit, ECF 63-31 (a “Timeline Summary”
+prepared by Mr. Calhoun on December 15, 2021) suggests that the quoted language may have been
+a representation that Plaintiff made to Mr. Calhoun in the course of a meeting with Calhoun in the
+Office of Legal Counsel. Indeed, later in her reply (in discussion of her discrimination claim),
+Plaintiff states that “Calhoun’s ADA Timeline . . . documents the November 8 meeting where
+Plaintiff reported that her accommodations were being violated by ‘repeatedly giving her work
+with deadline demands.’” ECF 73 at 27 (quoting ECF 63-31 at 2) (emphasis added).
+
+
+                                                48
+      Case 1:23-cv-02899-SAG            Document 84        Filed 05/06/26       Page 49 of 50
+
+
+
+analysis still applies to earlier protected activity”; specifically, her complaints filed with the EEO
+
+unit on August 5, October 15, and October 28, 2021. She asserts that the alleged violations
+
+underlying those complaints were discussed with the Chief HCO at their November 8, 2021
+
+meeting, and that her removal, “32 days later[,] [was] well within the temporal proximity window
+
+established by Fourth Circuit precedent.” ECF 73 at 15.
+
+       However, this argument suffers from the same defect as multiple others; namely, that it was
+
+not raised in Plaintiff’s opposition to Defendant’s motion for summary judgment. As discussed,
+
+while citing her August, October, and December, 2021 complaints about accommodation
+
+violations as her “protected activity,” the only argument she made for causation based on temporal
+
+proximity was the “one-day temporal proximity” between her December 9, 2021 complaint and
+
+her December 10, 2021 removal, and her only reference to the November 8, 2021 meeting was for
+
+purposes of demonstrating retaliatory animus, based on a “quote” that Plaintiff subsequently
+
+abandoned.
+
+       Plaintiff’s proposal, in her reply, to use the November 8, 2021 meeting as the “protected
+
+conduct” from which the period to be assessed for “temporal proximity” should run is not offered
+
+to rebut arguments specifically raised by Defendant in opposition to Plaintiff’s cross-motion for
+
+summary judgment; rather, it is a new, alternative argument that Plaintiff invites this Court to credit
+
+in the event that her theory of “one-day temporal proximity” is rejected. “The ordinary rule in
+
+federal courts is that an argument raised for the first time in a reply brief or memorandum will not
+
+be considered.” Clawson v. FedEx Ground Package Sys., Inc., 451 F. Supp. 2d 731, 734 (D. Md.
+
+2006). See also Mackey v. Secure Evaluation and Therapeutic Treatment, No. MJM-23-cv-02910,
+
+2024 WL 4335687, at * n.8 (D. Md. Sept. 26, 2024) (“Because this argument does not appear to
+
+be directly responsive to arguments made in Plaintiff’s opposition and is presented for the first
+
+
+
+
+                                                  49
+      Case 1:23-cv-02899-SAG           Document 84         Filed 05/06/26      Page 50 of 50
+
+
+
+time in Defendants’ reply, depriving Plaintiff of an opportunity to respond, the Court declines to
+
+consider it.”) (citing Clawson); CDC-LCGH, LLC v. Mayor and City Council of Baltimore, No.
+
+WDQ-06-2235, 2007 WL 9728949, at *6 (D. Md. Jan. 29, 2007) (where motion to dismiss failed
+
+to address certain counts in amended complaint, and defendant argued for dismissal of these counts
+
+for first time in its reply, court denied the motion at to those counts, notwithstanding the fact that
+
+the plaintiff had not requested leave to file a surreply) (“Not requesting leave to file a surreply
+
+should not prejudice [plaintiff] against [defendant’s] belated arguments . . . , which could and
+
+should have been raised in its motion and supporting memorandum.”), aff’d, 313 F. App’x 637
+
+(4th Cir. 2009) (unpublished per curiam). No circumstances are present here to warrant this Court
+
+departing from the ordinary rule.
+
+       This Court cannot hold that a reasonable factfinder could find Plaintiff to have
+
+demonstrated a prima facie case of retaliation by a preponderance of the evidence. Defendant’s
+
+motion for summary judgment will be granted on this count, and Plaintiff’s motion will be denied.
+
+IV.    CONCLUSION
+
+       For the reasons stated above, Defendant’s Motion for Summary Judgment, ECF 63, will
+
+be granted in part and denied in part, Plaintiff’s Motion for Summary Judgment, ECF 65, will be
+
+denied, and judgment will be entered in favor of Defendant on Plaintiff’s discrimination and
+
+retaliation claims. Plaintiff’s failure-to-accommodate claim will proceed to trial on both the delay
+
+and violation theories. A separate Order follows.
+
+
+
+Dated: April 29, 2026                                                   /s/
+                                                              Stephanie A. Gallagher
+                                                              United States District Judge
+
+
+
+
+                                                 50
+

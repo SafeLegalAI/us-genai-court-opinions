@@ -1,0 +1,8 @@
+{
+  "idx": 5,
+  "case": "John A. Griffiths",
+  "url": "https://www.courtlistener.com/api/rest/v4/search/?q=%22John+A.+Griffiths%22&type=r&filed_after=2026-01-01",
+  "curl_code": 0,
+  "curl_out": "200 1968",
+  "curl_err": ""
+}

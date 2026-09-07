@@ -1,0 +1,674 @@
+Jurkowski v. Berkowitz, 2026 WL 1345470 (2026)
+
+
+
+
+                                       2026 WL 1345470 (D.C.Super.) (Trial Order)
+                                         Superior Court of the District of Columbia,
+                                                      Civil Division.
+
+                                        Kimberlynn JURKOWSKI, Plaintiff,
+                                                      v.
+                                       Mscott BERKOWITZ et al., Defendants.
+
+                                                     No. 2025-CAB-8255.
+                                                       April 21, 2026.
+
+            *1 Editor's Note: This decision contains discussion of citation references that are incorrect or do not
+           actually exist. These invalid citations appeared in the original court opinion and have been preserved as
+           written since they are part of the official record. Any links to these invalid citations have been removed.
+                                             Next Event: Remote Status Conference
+                                                   July 17, 2026, at 10:30 a.m.
+
+
+                                                             Order
+
+
+
+                                                   Veronica Sanchez, Judge.
+
+This matter is before the Court on: (1) the WTU Defendants'1Motion for Extension of Time to Respond to Complaint, filed on
+January 9, 2026; (2) the DCPS Defendants'2Motion for Clarification and Motion for Extension of Time to Respond, filed on
+January 12, 2026; (3) Defendant Lona Valmoro's Motion to Dismiss, filed on January 14, 2026; (4) Plaintiff's Motion to Amend
+Complaint, filed on January 17, 2026; (5) Defendant Jonathan Stivers' Motion to Dismiss, filed on February 3, 2026; (6) District
+Defendants, Capital Hill PTA, and Lona Valmoro's Joint Motion to Dismiss Amended Complaint, filed on February 21, 2026;
+(7) Plaintiff's Motion Disqualify OAG Opposing Counsel for Private Individuals and or Co-Defendants, filed on February 26,
+2026; (8) the WTU Defendants' Consolidated Motion to Dismiss, filed on February 23, 2026; (9) Defendant Applebaum's and
+Weir's Motion to Dismiss, filed on February 26, 2026; (10) Defendant Tull's Motion to Dismiss, filed on February 26, 2026; (11)
+Defendant Kitchel's Motion to Dismiss, filed on March 6, 2026; (12) Plaintiff's Motion to File Second Amended Complaint, filed
+on March 11, 2026; (13) Plaintiff's Motion for Admission of Video Evidence, filed on March 13, 2026; (14) Plaintiff's Second
+Motion for Admission of Video Evidence, filed on March 13, 2026; (15) Plaintiff's Motion for Admission of Audio Evidence,
+filed on March 13, 2026; (16) Plaintiff's Motion for Admission of 28 Signed Declarations for Evidence of Plaintiff, filed on
+March 14, 2026; (17) Defendant Black's Motion to Dismiss, filed on March 16, 2026; and (18) Defendant Black's Amended
+Motion to Dismiss, filed on March 19, 2026.
+
+
+                                                        I. Background
+
+Plaintiff initiated this case on December 15, 2025. The initial Complaint includes three paragraphs. The Complaint is not very
+clear, however, the allegations appear to be as follows: In December of 2021, Plaintiff was employed as a librarian at Watkins
+Elementary School in the District of Columbia. Compl. ¶ 1. At that time, Defendant Berkowitz was employed as the school's
+principal, and Defendant Moxley was employed by the school as a teacher. Id. On December 17, 2021, Defendant Moxley
+“forced her students to write papers” that stated the students had participated in a Holocaust reenactment during their library
+class with Plaintiff. Id. Defendant Moxley then brought those papers to Defendant Berkowitz, who initiated an investigation into
+whether such a reenactment had taken place. Id. Plaintiff was placed on administrative leave, and her employment was ultimately
+
+
+
+ WESTLAW           © 2026 Thomson Reuters. No claim to original U.S. Government Works.                                       1
+Jurkowski v. Berkowitz, 2026 WL 1345470 (2026)
+
+
+terminated on February 14, 2022. Id. Plaintiff raises eight counts: (1) Civil Conspiracy; (2) Tortious Interference with Contract;
+(3) Defamation; (4) “Fraud Misrepresentation”; (5) Intentional Infliction of Emotional Distress; (6) Negligence; (7) Wrongful
+Termination; and (8) Retaliation in violation of the DCHRA. Id. Plaintiff requests a variety of relief, including compensatory
+and punitive damages, an order that Plaintiff's position be reinstated, and attorney fees and costs. Id. ¶ 2. The Complaint states
+that several Defendants other than Defendants Berkowitz and Moxley are connected to the case. However, the Complaint makes
+no clear allegations against those Defendants. Id. ¶ 3. Plaintiff filed the Complaint against thirty-one Defendants.
+
+ *2 Since the initiation of the case, the Parties have filed multiple motions. Notably, Plaintiff has filed two motions to amend
+the Complaint, which are among the motions that are addressed herein. Plaintiff also filed motions for default against all of the
+Defendants, as well as Motions for Default Judgment.
+
+On March 20, 2026, the Court held a Remote Initial Scheduling Conference. At the hearing, the Court set a Status Hearing to
+provide the Court time to resolve the pending Motions. The Court granted the District Defendants until March 27, 2026, to file
+a response to Plaintiff's Second Motion to Amend the Complaint, and granted the remaining Defendants until April 3, 2026, to
+file their response to Plaintiff's Second Motion to Amend the Complaint.
+
+On March 23, 2026, the Court issued a written order denying Plaintiff's Motions for Default and Motions for Default Judgment.
+
+
+                                                         II. Discussion
+
+                                              A. Plaintiff's Motion to Disqualify
+
+On February 21, 2026, Plaintiff filed a motion seeking to disqualify the Office of the Attorney General (“OAG”) from
+representing individual Defendants. “[D]isqualification of an attorney is a matter which rests within the sound discretion of the
+trial court ....” Derrickson v. Derrickson, 541 A.2d 149, 152 (D.C. 1988) (citing O'Neil v. Bergan, 452 A.2d 337, 344 (D.C.
+1982)).
+
+The Court notes that Plaintiff's motion is frequently disjointed and lacks focus. However, ultimately, the motion includes two
+main contentions. Plaintiff suggests on one hand that OAG may not represent private individuals in matters that do not involve
+the District of Columbia's legal interests. Mot. to Disqualify at 8–12. Plaintiff also suggests that OAG should not be able to
+represent the individual District Defendants because a conflict of interest exists. Id. at 7–8.
+
+The District Defendants filed an Opposition on March 5, 2026. In the Opposition, the District Defendants argue that OAG has
+only entered an appearance on behalf of individual defendants who are current or former employees of the District of Columbia
+and that both common law and the D.C. Code support its authority to do so. Opp'n at 3–5. The District Defendants also argue
+that no conflict of interest exists. Id. at 5–6.
+
+
+                                                       1. OAG Authority
+
+Plaintiff suggests that OAG does not have the authority to represent the individual Defendants. See id. at 8–12. The parties
+have not provided, and the Court has not found precedent that directly addresses the issue. However, D.C. Code § 1-301.81
+provides that:
+  The Attorney General for the District of Columbia (“Attorney General”) shall have charge and conduct of all law business
+  of the said District and all suits instituted by and against the government thereof, and shall possess all powers afforded
+  the Attorney General by the common and statutory law of the District and shall be responsible for upholding the public
+  interest. The Attorney General shall have the power to control litigation and appeals, as well as the power to intervene in
+  legal proceedings on behalf of this public interest.
+
+
+
+
+ WESTLAW           © 2026 Thomson Reuters. No claim to original U.S. Government Works.                                         2
+Jurkowski v. Berkowitz, 2026 WL 1345470 (2026)
+
+
+In this case, the Court finds that Plaintiff has not offered a sufficient argument as to why the representation of the individual
+District Defendants in this lawsuit is not part of the law business of the District or a matter of public interest. Plaintiff's claims
+arise from Plaintiff's employment with the District and the events surrounding the decision to terminate Plaintiff's employment.
+The termination of Plaintiff's employment with the District is the business of the District. A legal claim arising from the decision
+to terminate Plaintiff's employment is therefore very plausibly law business of the District. While Plaintiff contends that this
+a private matter, and that the Defendants have acted in their individual capacity outside the scope of their employment, those
+bare allegations are not sufficient to disqualify OAG from providing representation in connection with this case.
+
+ *3 Additionally, as the Defendants argue, OAG has reason to be concerned that the District could potentially be liable under
+a respondeat superior theory. See Opp'n at 4 (citing D.C. v. Davis, 386 A.2d 1195, 1202 (D.C. 1978)). This provides further
+reason why this proceeding may constitute law business of the district.
+
+The Court notes that Plaintiff cites to a variety of rules in support of her Motion. However, Plaintiff simply provides no coherent
+or sufficient argument for disqualifying OAG from representing the individual District Defendants. Accordingly, Plaintiff's
+motion to disqualify OAG for lack of authority is denied.
+
+
+                                                        2. Conflict of Interest
+
+Plaintiff argues that OAG may not represent individual Defendants in this matter because of a conflict of interest. Mot. to
+Disqualify at 1–2, 7–8. For a motion to disqualify based on a conflict of interest, the rule is that “[w]here any substantial
+relationship can be shown between the subject matter of a former representation and that of a subsequent adverse representation,
+the latter will be prohibited.” Derrickson, 541 A.2d at 151 (quoting Brown v. District of Columbia Board of Zoning Adjustment,
+486 A.2d 37, 42 (D.C. 1984) (internal quotation omitted). For such a motion to succeed, the movant must show “than an attorney-
+client relationship formerly existed,” and that “the current litigation is substantially related to the prior representation.” Id. at 152.
+
+The Court finds that Plaintiff has not demonstrated that she previously had an attorney-client relationship with OAG in
+connection with any lawsuit. Nor does Plaintiff's motion appear to argue that one existed. The motion appears to argue that there
+is a conflict among the Defendants, not between Plaintiff and OAG. See Mot. to Disqualify at 2 (“It is these defendants who
+have not been given full disclosure, and it is these defendants who do not realize the conflict that exists between the loyalties
+of both OAG and James & Hoffman …”). However, Plaintiff's motion does not succeed on this ground for multiple reasons.
+First, Plaintiff does not explain the facts of the alleged conflict between the Defendants at all. Second, even if there were such a
+conflict between the defendants, Plaintiff does not provide a sufficient reason why the conflict would be grounds for Plaintiff's
+motion to disqualify. Therefore, Plaintiff's motion to disqualify based on a conflict of interest is denied.
+
+
+                                B. WTU Defendants' Motion for Extension of Time to Respond
+
+On January 9, 2026, the WTU Defendants moved to extend the time to respond to Plaintiff's Complaint. The Court may grant
+an extension of time to respond to the Complaint upon a showing of good cause. Super. Ct. Civ. R. 6(b).
+
+In support of the Motion, the WTU Defendants represent that they “require additional time to address internal authorization for
+its Counsel to represent the former officers named as Defendants in this matter and for the execution of appropriate retainer
+agreements.” WTU Def.'s Mot. Extend ¶ 6. The WTU Defendants also represented that their Counsel would be on medical
+leave from January 21, 2026 to February 5, 2026. Id. ¶ 7. Counsel also represented that they had spoken with OAG regarding
+the District Defendants' motion that requested similar relief. Id. ¶ 9.
+
+Plaintiff filed an Opposition on January 15, 2026. The Court finds that the January 15, 2026, Opposition does not make any
+real argument against the extension of the deadline. It appears that the Opposition mainly argues that the WTU should not
+be permitted to represent individual Defendants. Opp'n to WTU Def.'s Mot. Extend at 2. Plaintiff cites to a variety of rules,
+
+
+
+ WESTLAW            © 2026 Thomson Reuters. No claim to original U.S. Government Works.                                                3
+Jurkowski v. Berkowitz, 2026 WL 1345470 (2026)
+
+
+primarily citing to the D.C. Rules of Professional conduct. Id. at 1. However, Plaintiff provides little to no explanation of how
+those rules apply to the request for an extension or to the contention that WTU counsel should be disqualified from representing
+Defendants Fuchs, Pogue-Lyons, and Bell.
+
+ *4 First, as it relates to disqualification, the Court finds that Plaintiff has not provided a sufficient argument as to why the
+WTU Counsel should not be permitted to represent individual defendants. Plaintiff's Opposition appears to suggest that the
+individual WTU defendants are being sued in their individual capacity for acts taken outside the scope of their employment.
+Id. at 2. However, neither Plaintiff's Opposition, nor the pleadings make it clear that the individual Defendants are being sued
+for acts unrelated to their relationship with the WTU.
+
+Second, the Court finds good cause to grant the requested extension. The extension was requested early in the litigation. This
+Complaint involves a large number of Defendants, which makes the administration of the case more difficult for all Parties.
+The Defendant's motion notes that counsel needed to research the issue of organizational representation of individuals in a legal
+matter, which may take time. WTU Def.'s Mot. Extend ¶ 6. Defense counsel also noted that the extension was partly predicated
+on a personal medical issue of limited duration. Id. ¶ 7. These factors weigh in favor of granting the requested extension and
+outweigh any prejudice to Plaintiff that an extension may cause. Accordingly, the Court will grant the requested extension.
+
+
+                               C. The DCPS Defendants' Contested Motion for Clarification
+
+On January 12, 2026, the District of Columbia Public Schools, Susan Bloom, Katherine Moxley, Kathryn Kayne, Courtney
+DeAnda, and Jill Stewart (collectively the “DCPS Defendants”)3, jointly filed a Contested Motion for Clarification and Motion
+for Extension of Time to Respond. The Motion requests:
+
+“(1) clarification on the response deadline for former District of Columbia Employees sued in an individual capacity for an
+act or omission occurring in connection with the duties performed on the District's behalf under Super. Ct. Civ. R. 12(a)(3),
+and (2) that the deadline for all defendants who have been served be 60 days from the date of service or February 23, 2026,
+whichever is later.” Mot. Clarification at 1–2.
+
+Plaintiff filed an Opposition on January 15, 2026. Similar to Plaintiff's Opposition to the WTU Defendants' Motion to Extend,
+Plaintiff cites to a variety of rules, but does not explain how the rules apply. Plaintiff also does not argue against the requested
+extension. In fact, the Opposition does not appear to make a request at all but asserts that the individual defendants are being
+sued in their individual capacity, unrelated to DCPS business.
+
+
+                                                   1. Motion for Clarification
+
+The Court will address the Defendants' motion for clarification first. The Court is persuaded that Super. Ct. Civ. R. 12(a)(3)
+should apply to former District employees. First, Defendant is correct that the Comment to the Super. Ct. Civ. R. 12 indicates
+that the Rules are nearly identical. And it is well established the Superior Court looks to the interpretation of the Federal
+Rules for guidance to the extent that the Rules are the same. See e.g., In Re Herndon, 596 A.2d 592, 596, n.5 (D.C. 1991)
+(“We look to federal rule precedent in interpreting Superior Court discovery rules that are substantially the same as the federal
+rules.”) (citation omitted). Defendant is also correct that the Advisory Committee Notes for the Federal Rules of Civil Procedure
+explicitly provide that the Federal Rule12(a)(3) should apply to former employees who are sued in an individual capacity in
+connection with their duties. Given the similarity between the rules, the Court does not find a reason for the Court to apply
+the Rule differently. Therefore, the Court finds that Super. Ct. Civ. R. 12(a)(3) applies to former employees sued in connection
+with their duties.
+
+
+                                         2. Motion to Extend Time for All Defendants
+
+
+
+ WESTLAW           © 2026 Thomson Reuters. No claim to original U.S. Government Works.                                           4
+Jurkowski v. Berkowitz, 2026 WL 1345470 (2026)
+
+
+*5 As for extending the time to respond for all Defendants, the Court may grant an extension of time to respond to the
+Complaint upon a showing of good cause. Super. Ct. Civ. R. 6(b).
+
+In support of extending the time to respond for all Defendants, the DCPS Defendants argue that some individual Defendants were
+served shortly before the December holiday season, that OAG required additional time to confirm representation of individual
+Defendants, and that the extension would streamline proceedings by putting all of the Defendants on a similar schedule. Mot.
+Clarification at 3. Defense also counsel indicated that they were preparing for a seven-day trial beginning on February 2, 2026.
+Id.
+
+The Court finds that under the circumstances, there is good cause to grant the extension for all Defendants. First, the numerosity
+of Defendants complicates the administration of the case. Second, the factual allegations of the claims are old, which could
+complicate drafting a response. Third, providing the extension for all Defendants promotes the orderly administration of the
+case. Accordingly, the Court will grant the Defendants' Motion.
+
+
+                                             D. Plaintiff's First Motion to Amend
+
+On January 17, 2026, Plaintiff filed a Motion to File First Amended Petition and Complaint. The Motion suggests that it is
+filed as of right pursuant to Rule 15.
+
+Rule 15 provides:
+  A party may amend its pleading once as a matter of course no later than: (A) 21 days after serving it; or (B) if the pleading
+  is one to which a responsive pleading is required, 21 days after service of a responsive pleading or 21 days after service of
+  a motion under Rule 12(b), (e), or (f), whichever is earlier.
+
+Super. Ct. Civ. R. 15(a)(1). In this case, Plaintiff's Complaint is one to which a responsive pleading is required. Defendant
+Valmoro filed an Answer and Motion to Dismiss on January 7, 2026. Plaintiff filed her Motion to file First Amended Petition
+and Complaint ten days later on January 17, 2026. Therefore, Plaintiff's First Amended Complaint was filed as of right pursuant
+to Rule 15, and the Court will grant Plaintiff's Motion to File First Amended Petition and Complaint.
+
+Additionally, as Defendant Valmoro's first Motion to Dismiss, filed on January 14, 2026, refers to the initial Complaint, that
+Motion is moot.
+
+
+                                            E. Plaintiff's Second Motion to Amend
+
+On March 11, 2026, Defendant filed a Motion to File 2nd Proposed Amended Petition and Complaint (“Second Motion to
+Amend”). The filing does not formally request leave to amend, and it does not provide argument in support of a request for leave
+to amend. The filing primarily appears to be a Proposed Second Amended Complaint as well as a variety of exhibits, totaling
+more than three hundred pages. When the Court refers to the Proposed Second Amended Complaint, the Court is referring to
+Pages 1–17 of Plaintiff's Second Motion to Amend.
+
+On March 27, 2026, the District Defendants filed an Opposition to Defendant's Second Motion to Amend. The Opposition makes
+two arguments. Defendants argue that Plaintiff's proposed Second Amended Complaint would be futile. Defendants also assert
+that the proposed pleading contains false citations that appear to have been generated by an artificial intelligence tool and argue
+that requiring the Defendants to respond to such a Complaint would be prejudicial. Regarding the merit of the Complaint, the
+Defendants argue that (i) all of Plaintiff's claims are time-barred; (ii) Plaintiff's claims are employment related and therefore
+barred by the Comprehensive Merit Personnel Act; and (iii) the Proposed Second Amended Complaint fails to state a legally
+cognizable cause of action against the Defendants.
+
+
+
+
+ WESTLAW           © 2026 Thomson Reuters. No claim to original U.S. Government Works.                                          5
+Jurkowski v. Berkowitz, 2026 WL 1345470 (2026)
+
+
+*6 On March 30, 2026, Defendant Kitchel filed an Opposition that joins and adopts the District Defendants' Opposition. On
+April 3, 2026, Defendants Applebaum and Weir also filed an Opposition that joins the District Defendants' Opposition.
+
+On April 2, 2026, the WTU Defendants filed an Opposition that argues the claims against them cannot proceed because the
+claims are properly within the scope of the CMPA, and therefore, this Court does not have jurisdiction.
+
+
+                                                 1. Applicable Legal Standards
+
+                                                      a. Motions to Amend
+
+The Civil Rules provide that the Court should freely grant leave to amend “as justice so requires.” Super. Ct. Civ. R. 15(a)(3).
+“In determining whether ‘justice so requires' granting leave, [the court considers] five factors: (1) the number of requests to
+amend made by the movant; (2) the length of time the case has been pending; (3) bad faith or dilatory tactics on the part of the
+movant; (4) the merit of the proffered pleading; and (5) prejudice to the nonmoving party.” Taylor v. D.C. Water & Sewer Auth.
+957 A.2d 45, 51 (D.C. 2008) (quoting Sherman v. Adoption Ctr. Of Washington, Inc., 741 A.2d 1031, 1037 (D.C. 1999)). While
+the decision to grant leave to amend is within the discretion of the trial court, “there is a ‘virtual presumption’ a court should
+grant leave to amend unless there is a good reason to the contrary.” Id. (quoting Howard University v. Good Food Services,
+Inc., 608 A.2d 116, 120 (D.C. 1992) (citation omitted)).
+
+Leave to amend may be denied where the amendment would be futile. Miller-McGee v. Wash. Hosp. Ctr., 920 A.2d 430, 436
+(D.C. 2007). “An amended complaint is futile if it merely restates the same facts as the original complaint in different terms,
+reasserts a claim on which the court previously ruled, fails to state a legal theory or could not withstand a motion to dismiss.”
+Robinson v. Detroit News, Inc., 211 F. Supp. 2d 101, 114 (D.D.C. 2002); see also Rayner v. Yale Steam Laundry Condo. Ass'n,
+289 A.3d 387, 402 (D.C. 2023) (declining to find an abuse of discretion in denying leave to amend where trial court considered
+the proffered pleading and concluded it did not have merit).
+
+
+                                                      b. Motions to Dismiss
+
+“To survive a motion to dismiss, a complaint must contain sufficient factual matter, accepted as true, to state a claim to relief
+that is plausible on its face.” Potomac Development Corp. v. District of Columbia, 28 A.3d 531, 544 (D.C. 2011) (quotation
+and citations omitted). “A claim has facial plausibility when the plaintiff pleads factual content that allows the court to draw
+the reasonable inference that the defendant is liable for the misconduct alleged.” Id. (quotation and citations omitted). “Where
+a complaint pleads facts that are merely consistent with a defendant's liability, it stops short of the line between possibility
+and plausibility of entitlement to relief.” Id. (quotation and citation omitted). “To satisfy Rule 8(a), plaintiffs must nudge their
+claims across the line from conceivable to plausible.” Tingling-Clemons v. District of Columbia, 133 A.3d 241, 246 (D.C. 2016)
+(quotation and citation omitted).
+
+“A complaint should not be dismissed because a court does not believe that a plaintiff will prevail on its claim; indeed it may
+appear on the face of the pleadings that a recovery is very remote and unlikely but that is not the test.” Carlyle Investment
+Management, LLC v. Ace American Insurance Co., 131 A.3d 886, 894 (D.C. 2016) (quotations, brackets, and citations omitted).
+In addition, the Court should “draw all inferences from the factual allegations of the complaint in the plaintiff's favor.”
+Id. (quotations and citations omitted). However, legal conclusions “are not entitled to the assumption of truth,” Potomac
+Development Corp., 28 A.3d at 544 (quotation and citation omitted), so “[t]hreadbare recitals of the elements of a cause of
+action, supported by mere conclusory statements, do not suffice.” Sundberg v. TTR Realty, LLC, 109 A.3d 1123, 1128–29 (D.C.
+2015) (quotation omitted). The “complaint must plead factual content that allows the court to draw the reasonable inference that
+defendant is liable for the misconduct alleged.” Poola v. Howard University, 147 A.3d 267, 276 (D.C. 2016) (quotation omitted).
+
+
+
+
+ WESTLAW           © 2026 Thomson Reuters. No claim to original U.S. Government Works.                                           6
+Jurkowski v. Berkowitz, 2026 WL 1345470 (2026)
+
+
+
+
+                                                   2. Futility of Amendment
+
+*7 Upon review, the Court finds that granting leave to amend would be futile because the Proposed Second Amended
+Complaint would not overcome a motion to dismiss based on the untimeliness of the claims.
+
+In short, the Proposed Second Amended Complaint does not include allegations from which the Court could reasonably infer
+that any of the alleged conduct took place within the applicable statute of limitations period. The pleading mentions only the
+following dates: December 14, 2021, December 17, 2021, January 6, 2022, and March 7, 2022. The pleading alleges that on
+December 14, 2021, Plaintiff participated in an unspecified complaint process. See Second Mot. Am. at 6, 12. There does not
+appear to be any allegation that any Defendant took any action against Plaintiff on that date. As for December 17, 2021, the
+pleading generally states the Defendants' alleged wrongful conduct began on this date. Id. at 2, 6, 9, 10. Plaintiff indicates that
+to be the date on which Plaintiff alleges Defendant Moxley brought the student's papers to Defendant Berkowitz. Id. at 3. As
+for January 6, 2022, Plaintiff appears to claim that statements were published on the Edwin Black Show, and possibly a variety
+of other social media outlets. Id. at 4. The pleading indicates that Plaintiff's employment was terminated on March 7, 2022.
+Id. at 12. Finally, the Court notes that in multiple places in the proposed Second Amended Complaint, Plaintiff claims that the
+Defendants' violations have occurred from “12-17-21-present,” or some variation thereof. Id. at 2, 9, 10, 13.
+
+The statute of limitations for defamation claims is one year. D.C. Code § 12-301. The statute of limitations for Plaintiff's DCHRA
+claims are also one year. D.C. Code § 2-1403.04. The statute of limitations for the remaining claims is three years. D.C. Code §
+12-301(8). Plaintiff initiated this case on December 15, 2025. Except for the allegation that some of the conduct occurred from
+“12-17-21-present,” the Complaint does not allege that any Defendant took any action within three years prior to December
+15, 2025. As for Plaintiff's allegations that conduct has occurred “12-17-21-present,” the Court finds these allegations are
+insufficient to establish that any of the alleged conduct occurred within the limitation period because the claims are extremely
+vague and functionally conclusory. The claims simply do not provide sufficient factual information from which the Court could
+reasonably infer that any Defendant is responsible for the alleged conduct within the limitation period.
+
+
+                                                  a. Continuing-Tort Theory
+
+The Court notes that Plaintiff appears to allege that Defendants have committed a continuing tort. Second Mot. Am. at 2
+(“Because this conspiracy involved continuous, ongoing, and interconnected wrongful acts causing cumulative harm, the statute
+of limitations under D.C. Code § 12-301 did not begin to run until the final act on [2025].”) (brackets in original). A continuing
+tort may function to toll a statute of limitations. See e.g., National Tel. Coop. Ass'n v. Exxon Corp., 38 F. Supp. 2d 1, 5 (D.D.C.
+1998). However, the Court finds that Plaintiff has not sufficiently pled a continuing tort theory.
+
+“Under District of Columbia law, a plaintiff establishes a continuing tort by showing ‘(1) a continuous and repetitious wrong,
+(2) with damages flowing from the act as a whole rather than from each individual act, and (3) at least one injurious act within
+the limitation period.”’ National Tel. Coop. Ass'n, 38 F. Supp. 2d at 5 (D.D.C. 1998) (quoting Whelan v. Abell, 953 F.2d 663,
+673 (D.C. Cir. 1992)). Because the Proposed Second Amended Complaint does not allege sufficient facts from which the Court
+could infer that the Defendants took any actions taken after March 7, 2022, there is nothing in the pleading from which the Court
+could infer that at least one injurious act occurred within the limitation period. Further, the proposed pleading does not allege
+how the damages flowed from the acts as a whole rather than from each individual act, and it is not otherwise clear from the
+nature of the allegations that they would have. Therefore, a continuing tort theory does not overcome the issue of the time bar.
+
+
+                                                   b. Discovery-Rule Theory
+
+ *8 In Plaintiff's Reply to the District Defendants' Opposition, Plaintiff suggests that she recently discovered information that
+gave rise to her claims. See Reply in Supp. of Second Mot. Am. at 2–3. As a general rule, under D.C. law, “[w]here the fact
+of an injury can be readily determined, a claim accrues for purposes of the statute of limitations at the time the injury actually
+
+
+
+ WESTLAW           © 2026 Thomson Reuters. No claim to original U.S. Government Works.                                          7
+Jurkowski v. Berkowitz, 2026 WL 1345470 (2026)
+
+
+occurs.” Johnson v. Long Beach Mortg. Loan Trust 2001-4, 451 F. Supp. 2d 16, 41 (D.D.C. 2006) (quoting Mullin v. Wash. Free
+Weekly, Inc., 785 A.2d 296, 298 (D.C. 2001)). However, where the fact of an injury is not readily apparent, the Court may apply
+the discovery rule to determine when the claim accrued. Id. “Under the discovery rule, ‘the statute of limitations will not run
+until [a] plaintiff[] know[s] or reasonably should have known that they suffered injury due to the defendants' wrongdoing.”’ Id.
+(quoting Colbert v. Georgetown Univ., 614 A.2d 469, 473 (D.C. 1994)). “[F]or a cause of action to accrue where the discovery
+rule is applicable, one must know or by the exercise of reasonable diligence should know (1) of the injury, (2) its cause in fact,
+and (3) of some evidence of wrongdoing.” Id. at 42. The discovery rule may apply where fraudulent concealment has prevented
+a plaintiff from discovering an injury. See Wash. Metro Area Transit Auth. v. Quik Serve Foods, Inc., 402 F. Supp. 2d 198, 202
+(D.D.C. 2005) (“Situations where the discovery exception tolls the statute of limitations include … fraudulent concealment.”).
+
+In this case, Plaintiff's Reply seems to suggest that she has discovered that Defendants have fraudulently concealed some
+information. See Reply 5–6. However, Plaintiff does not explain how Defendants fraudulently concealed the alleged injury
+either in her Reply, or in the proposed pleading. The central allegation of the proposed Second Amended Complaint is that
+the Defendants engaged in a civil conspiracy to defame Plaintiff by falsely accusing her of certain workplace actions, and that
+the defamation led to Plaintiff's termination and related injuries that resulted from widespread publication of the accusations.
+Nowhere in the proposed Second Amended Complaint does Plaintiff suggest that she was not made aware of the allegedly
+defamatory statements prior to her employment termination. In fact, Plaintiff alleges that some of the Defendants “joined to
+push the news story out to the local, national, and international news [], starting 2pm 12-17-21.” Second Mot. Am. at 3. This
+is significant because, “[i]n defamation cases … at least where mass media are involved, ‘the fact of … injury can be readily
+determined,’ and thus any resulting defamation claims will ‘accrue … for purposes of the statute of limitations at the time the
+injury actually occurs,’ i.e., publication.” Mullin v. Wash. Free Weekly, 785 A.2d 296, 299 (D.C. 2001) (quoting Colbert, 614
+A.2d at 472 (D.C. 1994)). Therefore, assuming Plaintiff's allegations are true, and that publication was in fact made by local,
+national, and international news, then the alleged defamatory statements would likely have begun to accrue at least within the
+period between December 17, 2021, and March 7, 2022. Accordingly, it appears from the Proposed Second Amended Complaint
+that Plaintiff was aware of the alleged injuries, and therefore the discovery rule would not apply to Plaintiff's claims.
+
+For these reasons, the Court finds that the proposed amendment would time-barred, and therefore, amendment would be futile.
+Therefore, the Court will deny Plaintiff's Second Motion to Amend. Because the time-bar is sufficient at this stage to deny the
+Motion, the Court will not address the Defendants' arguments related to the Comprehensive Merit Personnel Act or failure to
+state a claim, though the Court acknowledges that they may be merited. The Court addresses the District Defendants' arguments
+regarding the use of artificial intelligence below.
+
+
+                                        F. Additional Opportunity to Move to Amend
+
+Although the Court herein denies Plaintiff's Second Motion to Amend because the claims appear to be untimely, the Court will
+grant Plaintiff an additional opportunity to move to amend the Complaint. In the District of Columbia, the Court recognizes the
+strong judicial and societal preference for resolution of disputes on the merits, and a strong presumption in favor of amendment.
+See e.g., Abell v. Wang, 697 A.2d 796, 800 (D.C. 1997) (discussing the preference for resolution on the merits); Taylor v. D.C.
+Water & Sewer Auth., 957 A.2d 45, 51 (D.C. 2008). While the Court finds that Plaintiff's proposed Second Amended Complaint
+is deficient, the Court recognizes that Plaintiff has attempted to add factual allegations in an attempt to cure the deficiencies of
+her prior pleadings. The Court also recognizes that Plaintiff has attempted to argue theories that she believes may overcome the
+time bar or otherwise overcome the Defendants' arguments for dismissal of this action. The Court acknowledges that Plaintiff
+is proceeding pro se, and the Court considers its obligation to construe pro se pleadings liberally. See e.g., Elmore v. Stevens,
+824 A.2d 44, 46 (D.C. 2003) (discussing limitations to the Court's duty to construe pro se pleadings liberally). The Court also
+considers the strong presumption in favor of granting leave to amend. Taylor v. D.C. Water & Sewer Auth., 957 A.2d 45, 51
+(D.C. 2008).
+
+ *9 Therefore, the Court will grant Plaintiff an additional opportunity to file a motion to amend the Complaint. Plaintiff may
+file a new motion to amend the Complaint within thirty days of the issuance of this Order. In the motion, Plaintiff must address
+
+
+ WESTLAW           © 2026 Thomson Reuters. No claim to original U.S. Government Works.                                           8
+Jurkowski v. Berkowitz, 2026 WL 1345470 (2026)
+
+
+why the Court should grant leave to amend under the circumstances. Plaintiff should be aware that the Court will not grant
+leave to amend if Plaintiff is unable to cure the deficiencies of her Complaint. The Defendants may file an opposition to any
+motion to amend in the ordinary course pursuant to Super. Ct. Civ. R. 12-I, i.e. within fourteen days after service of the motion.
+Plaintiff may file a reply within seven days after service of an opposition.
+
+
+                                       F. Plaintiff's Motions for Admission of Evidence
+
+On March 13, 2026, Plaintiff filed three Motions to Admit Evidence. These motions ask the Court to rule that certain audio and
+video evidence is admissible. At this juncture, the motions are moot. The three motions do not relate the described evidence
+that Plaintiff seeks to admit to any other motion or relevant filing. The Court will not decide, prior to the parties engaging in
+any discovery, whether the proposed evidence would be admissible at trial or for any other unspecified purpose. The Court will
+deny these three motions as moot.
+
+On March 14, 2026, Plaintiff filed a Motion to Admit 28 Signed Declarations into the record. For this Motion, Plaintiff appears
+to request that the Court admit her own declarations into the record. No party has filed an opposition. To the extent that Plaintiff
+seeks to admit her own affidavits into the record, the Court will grant Plaintiff's motion. However, to the extent that Plaintiff
+wishes for the Court to review these affidavits in connection with a motion or pleading, Plaintiff must reference them specifically.
+This filing consists of three-hundred and ninety pages. Many of these pages are extremely unfocused. The Court is not obligated
+to sift through Plaintiff's voluminous record to determine whether Plaintiff has made her case. It is Plaintiff's responsibility to
+direct the Court to the specific portion of the record that she believes supports her claims.
+
+
+                                               G. Remaining Motions to Dismiss
+
+There remain nine pending Motions to Dismiss, which are listed below.4 Because the Court is granting Plaintiff an additional
+opportunity to move to amend the Complaint, the Court will at this time deny the pending Motions to Dismiss as moot, and
+without prejudice. The Defendants may renew their motions to dismiss at a later date, if the motions remain relevant.
+
+
+                                                 F. Use of Artificial Intelligence
+
+Multiple Defendants have suggested that Plaintiff has used artificial intelligence tools to draft her pleadings. In particular, the
+District Defendants assert that Plaintiff's use of artificial intelligence resulted in Plaintiff submitting nonexistent or spurious
+case citations to this Court. District. Def.'s Opp'n to Second Mot. Am. at 12–14.
+
+First, the Court finds that Plaintiff's Proposed Second Amended Complaint, and other filings, such as Plaintiff's Reply to the
+District Defendants in support of the Second Motion to Amend, and Plaintiff's Motion to Disqualify do appear to have been
+constructed using artificial intelligence tools. The Court bases this finding on the extremely disjointed, and often incoherent
+nature of the writing combined with the use and misuse of technical legal language, as well as the appearance that some portion
+of Plaintiffs' filings appear to include questions that were generated by an artificial intelligence tool in response to user prompts.
+
+ *10 Additionally, the Court finds that Plaintiff did submit one case citation to this Court that does not exist. In Plaintiff's
+Proposed Second Amended Complaint, Plaintiff submitted the citation Chisholm v. Kidder Peabody Asset Mgmt, Inc., 810 A.2d
+900 (D.C. 2002) for the proposition that “civil conspiracy is a ‘parasitic tort.[’]” Second Mot. Am. at 2. This Court was unable
+to find this case in the Court reporters, either by searching the case name or the reporter number. A Lexis search of the case
+name within District of Columbia precedent returns no results. A Lexis search of the reporter number returns the case Harkins
+v. United States, 810 A.2d 895 (D.C. 2002). Harkin does not include the proposition that Plaintiff states, nor does Harkin appear
+to be otherwise relevant to this case.
+
+
+
+
+ WESTLAW           © 2026 Thomson Reuters. No claim to original U.S. Government Works.                                             9
+Jurkowski v. Berkowitz, 2026 WL 1345470 (2026)
+
+
+The Court also finds that Plaintiff did submit case law that does not stand for the proposition that it is asserted for. Plaintiff
+submitted the citation Jonathan Woodner Co. v. Breeden, 665 A.2d 929 (D.C. 1995), asserting that it “distinguish[es] between a
+continuous tort and a single act with continuous effects.” Second, Mot. Am. at 2. This case does not discuss such a distinction.
+
+While the use of artificial intelligence tools is not in and of itself a violation of the Civil Rules, the submission of nonexistent
+or egregiously inaccurate legal citations may violate Superior Court Civil Rule 11. To ensure that the Parties are aware of their
+obligations, the Court will remind the parties that Rule 11 states:
+   By presenting to the court a pleading, written motion, or other paper, including an electronic filing—whether by signing, filing,
+   submitting, or later advocating it—an attorney or unrepresented party certifies that to the best of the person's knowledge,
+   information, and belief, formed after an inquiry reasonable under the circumstances:
+
+  (1) it is not being presented for any improper purpose, such as to harass, cause unnecessary delay, or needlessly increase
+  the cost of litigation;
+
+  (2) the claims, defenses, and other legal contentions are warranted by existing law or by a nonfrivolous argument for
+  extending, modifying, or reversing existing law or for establishing new law;
+
+  (3) the factual contentions have evidentiary support or, if specifically so identified, will likely have evidentiary support after
+  a reasonable opportunity for further investigation or discovery; and
+
+  (4) the denials of factual contentions are warranted on the evidence or, if specifically so identified, are reasonably based on
+  belief or a lack of information.
+
+D.C. SCR-Civil Rule 11. Failure to comply with Rule 11 may result in sanctions, including the striking of a motion or pleading.
+
+
+                                         H. Continued Initial Scheduling Conference
+
+Finally, given that the Court herein grants Plaintiff an additional opportunity to move to amend the Complaint, the Court will
+continue the Remote Status Hearing now set for April 22, 2026, to provide for a briefing schedule. The Court will reschedule
+the hearing for July 17, 2026 at 10:30 a.m.
+
+
+Accordingly, it is on this, 21st day of April, 2026, hereby:
+
+ORDERED that (1) the WTU Defendants Motion for Extension of Time to Respond to Complaint, filed on January 9, 2026,
+is GRANTED; it is further
+
+ORDERED that the DCPS Defendants Motion for Clarification and Motion for Extension of Time to Respond, filed on January
+12, 2026 is GRANTED; it is further
+
+ORDERED that Defendant Lona Valmoro's Motion to Dismiss, filed on January 14, 2026, is DENIED AS MOOT; it is further
+
+ORDERED Plaintiff's Motion to Amend Complaint, filed on January 17, 2026, is GRANTED AS OF RIGHT; it is further
+
+ORDERED that Defendant Jonathan Stivers' Motion to Dismiss, filed on February 3, 2026, is DENIED AS MOOT; it is further
+
+*11 ORDERED that the District Defendants, Capital Hill PTA, and Lona Valmoro's Joint Motion to Dismiss Amended
+Complaint, filed on February 21, 2026, is DENIED AS MOOT; it is further
+
+
+
+
+ WESTLAW           © 2026 Thomson Reuters. No claim to original U.S. Government Works.                                          10
+Jurkowski v. Berkowitz, 2026 WL 1345470 (2026)
+
+
+ORDERED that Plaintiff's Motion Disqualify OAG Opposing Counsel for Private Individuals and or Co-Defendants, filed on
+February 21, 2026, is DENIED; it is further
+
+ORDERED that the WTU Defendants' Consolidated Motion to Dismiss, filed on February 23, 2026, is DENIED AS MOOT;
+it is further
+
+ORDERED that Defendants Applebaum and Weir's Motion to Dismiss, filed on February 26, 2026, is DENIED AS MOOT;
+it is further
+
+ORDERED that Defendant Tull's Motion to Dismiss, filed on February 26, 2026, is DENIED AS MOOT; it is further
+
+ORDERED that Defendant Kitchel's Motion to Dismiss, filed on March 6, 2026, is DENIED AS MOOT; it is further
+
+ORDERED that Plaintiff's Motion to File Second Amended Complaint, filed on March 11, 2026, is DENIED; it is further
+
+ORDERED that Plaintiff's Motion for Admission of Video Evidence, filed on March 13, 2026, Plaintiff's [Second] Motion for
+Admission of Video Evidence, filed on March 13, 2026, and Plaintiff's Motion for Admission of Audio Evidence, filed on March
+13, 2026, are DENIED AS MOOT; it is further
+
+ORDERED that Plaintiff's Motion for Admission of 28 Signed Declarations for Evidence of Plaintiff, filed on March 14, 2026,
+is GRANTED to the extent that Plaintiff seeks to admit her own affidavits into the record; it is further
+
+ORDERED that Defendant Black's Motion to Dismiss, filed on March 16, 2026; and Defendant Black's Amended Motion to
+Dismiss, filed on March 19, 2026, are DENIED AS MOOT; it is further
+
+ORDERED that Plaintiff may file a motion to amend the Complaint within thirty days of the issuance of this Order, and that
+the parties may file opposition and replies in the ordinary course pursuant to Super. Ct. Civ. R. 12-I; it is further
+
+ORDERED that the Remote Status Hearing scheduled for April 22, 2026 is CONTINUED to July 17, 2026 at 10:30 a.m.
+
+SO ORDERED.
+
+<<signature>>
+
+Judge Veronica Sanchez
+
+Copies to parties.
+
+
+                     Instructions for Remote Hearings Before Judge Veronica Sanchez Courtroom 200
+
+Parties and counsel may access Virtual Courtroom 200 in the following ways:
+
+(1) Going to the WebEx website at https://dccourts.webex.com/meet/ctb200 or going to https://dccourts.webex.com and, under
+“Join a Meeting,” entering Meeting ID number 179 813 6225; or
+
+(2) Downloading the WebEx Meetings app, opening the app, selecting Join Meeting, and entering https://dccourts.webex.com/
+meet/ctb200; or
+
+(3) Calling 1-844-992-4726 or 202-860-2110 and entering Meeting ID number 179 813 6225 #, then # again.
+
+
+ WESTLAW             © 2026 Thomson Reuters. No claim to original U.S. Government Works.                                11
+Jurkowski v. Berkowitz, 2026 WL 1345470 (2026)
+
+
+
+
+Parties having trouble connecting to their remote hearing may contact chambers at JudgeSanchezChambers@dcsc.gov. Staff
+will be monitoring the e-mail closely during hearings. Failure to appear at a proceeding, including remote proceedings,
+may result in dismissal of a case or entry of default.
+
+PLEASE NOTE: Counsel is required to appear via WebEx video and log in so that their name appears on screen, absent
+extenuating circumstances that make it necessary for them to appear via telephone, or unless telephonic appearance is
+approved by Chambers prior to the hearing. All other parties are highly encouraged, but not required, to appear via
+WebEx video and identify themselves by name.
+
+ *12 When entering the virtual courtroom (by dialing in on a phone, or signing in through the website or app), the party should
+not attempt to speak because another hearing may be underway. Each party should be automatically muted by the courtroom
+clerk when you first arrive. If you are using the WebEx website or the app, you may check in with the courtroom clerk using
+the “chat” function. If you are on a telephone, you should wait for your case to be called.
+
+
+
+Footnotes
+1      The WTU Defendants include the Washington Teachers' Union, Local #6, AFT, AFL-CIO (“WTU”), and Defendants Fuchs, Pogue-
+       Lyons, and Bell.
+
+2      The DCPS Defendants include District of Columbia Public Schools, Susan Bloom, Katherine Moxley, Kathryn Kayne, Courtney
+       DeAnda, and Jill Stewart. This filing was submitted prior to the Office of the Attorney General entering their appearance on behalf
+       of the current set of District Defendants.
+
+3      The Court notes that at this time, OAG had not entered an appearance on behalf of all of the current District Defendants.
+
+4      (1) Defendant Jonathan Stivers' Motion to Dismiss, filed on February 3, 2026; (2) District Defendants, Capital Hill PTA, and Lona
+       Valmoro's Joint Motion to Dismiss Amended Complaint, filed on February 21, 2026; (3) the WTU Defendants' Consolidated Motion
+       to Dismiss, filed on February 23, 2026; (4) Defendant Applebaum's and Weir's Motion to Dismiss, filed on February 26, 2026; (5)
+       Defendant Tull's Motion to Dismiss, filed on February 26, 2026; (6) Defendant Kitchel's Motion to Dismiss, filed on March 6, 2026;
+       (7) Plaintiff's Motion to File Second Amended Complaint, (8) Defendant Black's Motion to Dismiss, filed on March 16, 2026; and
+       (9) Defendant Black's Amended Motion to Dismiss, filed on March 19, 2026.
+
+
+
+End of Document                                                       © 2026 Thomson Reuters. No claim to original U.S. Government Works.
+
+
+
+
+    WESTLAW        © 2026 Thomson Reuters. No claim to original U.S. Government Works.                                               12
+

@@ -1,0 +1,662 @@
+IN THE UNITED STATES DISTRICT COURT
+FOR THE MIDDLE DISTRICT OF NORTH CAROLINA
+BRANDON RULUND AKINS, )
+)
+Plaintiff, )
+)
+v. ) 1:25cv712
+)
+TASHI LATWON RATLIFF, et al., )
+)
+Defendants. )
+MEMORANDUM OPINION, ORDER, AND RECOMMENDATION
+OF UNITED STATES MAGISTRATE JUDGE
+This matter comes before the undersigned United States
+Magistrate Judge on an Application to Proceed in District Court
+Without Prepaying Fees or Costs (Docket Entry 1) (the
+“Application”) filed by Brandon Rulund Akins (the “Plaintiff”) in
+conjunction with Plaintiff’s pro se complaint (Docket Entry 2) (the
+“Complaint”) against, as relevant here, GEICO Indemnity Company
+(the “Defendant”) (see id. at 1).1
+For the reasons that follow,
+the undersigned will (i) grant the Application for the limited
+purpose of recommending dismissal of Plaintiff’s lone federal
+claim, under 28 U.S.C. § 1915(e)(2)(B), for failure to state a
+claim, as well as dismissal without prejudice of any state claim(s)
+under 28 U.S.C. § 1367(c)(3), and (ii) resolve ancillary motions
+relevant to the Application and Complaint (see Docket Entries 7,
+13, 21, 23, 26).
+1 Docket Entry page citations utilize the CM/ECF footer’s
+pagination.
+Case 1:25-cv-00712-DAB-LPA Document 32 Filed 04/28/26 Page 1 of 23LEGAL STANDARD
+“The federal in forma pauperis statute, enacted in 1892 and
+presently codified as 28 U.S.C. § 1915, is designed to ensure that
+indigent litigants have meaningful access to the federal courts.”
+Neitzke v. Williams, 490 U.S. 319, 324 (1989). To balance this
+public interest with the potential administrative burden on the
+courts, the statute provides, in relevant part, that “the court
+shall dismiss the case at any time if the court determines that the
+action . . . fails to state a claim on which relief may be
+granted,” 28 U.S.C. § 1915(e)(2)(B)(ii).
+A complaint falls short of that requirement when it does not
+“contain sufficient factual matter, accepted as true, to ‘state a
+claim to relief that is plausible on its face.’” Ashcroft v.
+Iqbal, 556 U.S. 662, 678 (2009) (internal citations omitted)
+(quoting Bell Atl. Corp. v. Twombly, 550 U.S. 544, 570 (2007)). “A
+claim has facial plausibility when the plaintiff pleads factual
+content that allows the court to draw the reasonable inference that
+the defendant is liable for the misconduct alleged.” Id. Further,
+“the tenet that a court must accept as true all of the allegations
+contained in a complaint is inapplicable to legal conclusions.
+Threadbare recitals of the elements of a cause of action, supported
+by mere conclusory statements, do not suffice.” Id.2
+2 Although “[a] document filed pro se is to be liberally
+construed, and a pro se complaint, however inartfully pleaded, must
+(continued...)
+2
+Case 1:25-cv-00712-DAB-LPA Document 32 Filed 04/28/26 Page 2 of 23BACKGROUND
+The Complaint seeks relief against Defendant (see Docket Entry
+2 at 14-15) for its alleged “failure to comply with its obligations
+under the Medicare Secondary Payer Act (‘MSPA’)” (id. at 2), see 42
+U.S.C. § 1395y, its “breach of [the] common law duty of good faith
+and fair dealing” (Docket Entry 2 at 2), and its “repeated
+violations of the North Carolina Unfair Claims Settlement Practices
+Act, N.C. Gen. Stat. § 58-63-15(11), and the Unfair and Deceptive
+Trade Practices Act, N.C. Gen. Stat. § 75-1.1” (Docket Entry 2 at
+2).3
+2(...continued)
+be held to less stringent standards than formal pleadings drafted
+by lawyers,” Erickson v. Pardus, 551 U.S. 89, 94 (2007) (internal
+citation and quotation marks omitted), the United States Court of
+Appeals for the Fourth Circuit has “not read Erickson to undermine
+Twombly’s requirement that a pleading contain more than labels and
+conclusions,” Giarratano v. Johnson, 521 F.3d 298, 304 n.5 (4th
+Cir. 2008) (internal quotation marks omitted) (dismissing pro se
+complaint); accord Atherton v. District of Columbia Off. of Mayor,
+567 F.3d 672, 681-82 (D.C. Cir. 2009) (“A pro se complaint . . .
+‘must be held to less stringent standards than formal pleadings
+drafted by lawyers.’ But even a pro se complainant must plead
+‘factual matter’ that permits the court to infer ‘more than the
+mere possibility of misconduct.’” (first quoting Erickson, 551 U.S.
+at 94; then quoting Iqbal, 556 U.S. at 679)).
+3 In addition to Defendant and its insured, the Complaint
+named “Government Employees Insurance Company (GEICO)” and “Geico
+Insurance Company, LLC” as defendants upon its filing. (Docket
+Entry 2 at 1.) Plaintiff thereafter moved twice to amend the
+caption and clarify his claims against Defendant, rather than the
+other entities named in the Complaint. (See Docket Entries 13,
+26.) Defendant “consent[ed] to Plaintiff’s [first] request”
+(Docket Entry 17 at 1) to “remov[e ] other named entities [aside
+from Defendant]” (Docket Entry 13 at 2) and did not respond to the
+second, substantially similar motion (see Docket Entry 26; Docket
+(continued...)
+3
+Case 1:25-cv-00712-DAB-LPA Document 32 Filed 04/28/26 Page 3 of 23According to the Complaint:
+On or about the evening of July 25, 2024, at
+approximately 9:00 p.m., Plaintiff [ ] operated his
+vehicle lawfully and responsibly when he was violently
+rear-ended by a vehicle operated by Defendant[’s insured]
+. . . [who] was at the time insured by Defendant [ ].
+The force of the collision caused immediate and serious
+physical injuries to [ ] Plaintiff, necessitating
+emergency medical attention and transport via ambulance
+to Hoke Hospital.
+Plaintiff was diagnosed and treated for multiple
+injuries, including:
+• Acute cervical and lumbar strains
+• Paraspinal tenderness
+• Persistent migraines
+• Concussion-like symptoms including
+dizziness, lethargy, confusion, and vision
+disturbances
+• Psychological trauma
+These injuries required, and continue to require, ongoing
+treatment including physical therapy and psychological
+counseling.
+On or about date [sic], [Defendant] offered Plaintiff a
+settlement of $3,000 without requiring any Medicare or
+TRICARE lien documentation. However, this directly
+contradicts [Defendant’s] current position and
+demonstrates an inconsistent and unreasonable delay
+tactic.
+3(...continued)
+Entries dated Nov. 17, 2025, to present). The undersigned will
+therefore grant the first of those motions (Docket Entry 13) as to
+the termination of “Government Employees Insurance Company (GEICO)”
+and “Geico Insurance Company, LLC” (id. at 1-2) as defendants and
+will terminate the second motion (Docket Entry 26) as moot. See
+Fed. R. Civ. P. 15(a)(2). Additionally, Plaintiff pursued a
+negligence claim against Defendant’s insured (see Docket Entry 2 at
+4) before settling with that individual (see Docket Entry 25 at 1-2
+(noticing voluntary dismissal of Defendant’s insured); id. at 4-5
+(providing copy of written release)).
+4
+Case 1:25-cv-00712-DAB-LPA Document 32 Filed 04/28/26 Page 4 of 23(Id. at 3-4 (paragraph numbering, parenthetical, internal brackets,
+and stray quotation mark omitted); see also Docket Entry 2-1 at 1;
+Docket Entry 2 at 10 (alleging that “Plaintiff declined to accept
+[Defendant’s] inadequate offer”).)
+The Complaint further alleges that “Defendant . . . has
+acknowledged liability and issued partial [p]ayments to [ ]
+Plaintiff in the amount of: $18,846.37 for the total loss of
+[ P]laintiff’s vehicle [and] $788.72 for rental car reimbursement”
+(id. at 4 (bullet points omitted)) and that “the remaining dispute
+pertains solely to damages, not liability” (id. at 5).
+Continuing, the Complaint alleges:
+Plaintiff provided [Defendant] with clear, undeniable,
+and thoroughly documented evidence of medical expenses,
+physical injuries, and legal liability stemming from the
+July 25, 2024 collision caused by Defendant[’s insured].
+These irrefutable facts were supported by hospital
+records, diagnostic imaging, therapy notes, and incident
+reports which left no reasonable doubt regarding the
+extent of the damages or [ ] Defendant’s responsibility.
+[Defendant’s] refusal to engage fairly, despite this
+overwhelming documentation, constitutes a severe and
+deliberate breach of its duty to act in good faith.
+Over the course of several months, Plaintiff consistently
+communicated with [Defendant], submitting multiple
+requests for resolution via phone calls, emails, portal
+messages, and formal written notices for a settlement
+instead of litigation. At each turn, [Defendant] either
+ignored or misrepresented the law about legal
+requirements, intentionally delaying a response, [and]
+refusing to enter into good-faith negotiations.
+(Id.; see also id. at 5-6 (alleging that Defendant’s
+“representative made false and obstructive statements approximately
+20 times” and listing allegedly false and obstructive statements).)
+5
+Case 1:25-cv-00712-DAB-LPA Document 32 Filed 04/28/26 Page 5 of 23Additionally, the Complaint alleges that “Plaintiff is
+enrolled in both Medicare and TRICARE and, as a result of injuries
+sustained in the [ ] collision, incurred substantial medical
+expenses related to treatment, therapy, and diagnostic care.” (Id.
+at 8; see also id. at 11 (alleging that “Plaintiff is a Medicare
+recipient with TRICARE as secondary insurance”).) According to the
+Complaint, Defendant “[f]alse[ly s]tate[d]” that it “is legally
+required to obtain a summary of verification of Medicare and
+TRICARE lien payments prior to making a settlement offer or
+discussing settlement numbers with [ ] Plaintiff.” (Id. at 6
+(internal quotation marks omitted).) That statement, the Complaint
+alleges, “is entirely inaccurate and serves as a delay tactic” (id.
+at 10).
+Moreover, the Complaint alleges that “Plaintiff provid[ed
+Defendant with] all medical notes, bills and billing statements
+from Tricare” (id. at 6; see also id. at 11 (alleging that
+“Plaintiff submitted all required documentation to Defendant [ ],
+including proof of significant injuries and medical expenses
+exceeding $25,000”)). The Complaint further alleges that
+Defendant’s “continued refusal to make an offer [of settlement]
+under the pretext of needing lien information” (id. at 12) caused
+“Plaintiff [to] suffer[] financial losses, worsening physical
+conditions due to delayed treatment, prolonged emotional distress,
+and interference with his federally protected rights” (id.), all of
+6
+Case 1:25-cv-00712-DAB-LPA Document 32 Filed 04/28/26 Page 6 of 23which “should be compensated accordingly” (id. at 8; see also id.
+at 14-15 (requesting, among other forms of relief, “compensatory
+damages in the amount of $500,000” and “punitive damages in the
+amount of $500,000”)).
+DISCUSSION
+I. Failure to State a Claim
+Plaintiff seeks relief against Defendant for its alleged
+“failure to comply with its obligations under the Medicare
+Secondary Payer Act” (id. at 2).
+“During the initial years of the Medicare program after its
+enactment in 1965, Medicare acted as the first payer for many
+medical services . . . . In 1980 and 1981, in part due to rising
+Medicare costs, Congress enacted and amended the Medicare Secondary
+Payer statute.” Marietta Mem’l Hosp. Emp. Health Benefit Plan v.
+DaVita Inc., 596 U.S. 880, 882 (2022). “That statute as amended
+makes Medicare a ‘secondary’ payer,” id. at 882-83, “in certain
+circumstances when both Medicare and a non-Medicare entity have
+independent duties to pay for a covered person’s healthcare costs,”
+DaVita Inc. v. Virginia Mason Mem’l Hosp., 981 F.3d 679, 684 (9th
+Cir. 2020). The MSPA “creates a federal coordination of benefits
+between primary and secondary payers. Worker’s compensation plans,
+liability insurance plans, and no fault insurance plans act as
+primary payers, and Medicare benefits act as secondary payers.”
+Humana Ins. Co. v. Paris Blank LLP, 187 F. Supp. 3d 676, 677–78
+7
+Case 1:25-cv-00712-DAB-LPA Document 32 Filed 04/28/26 Page 7 of 23(E.D. Va. 2016) (internal citations omitted). “When a primary plan
+is responsible for payment for medical services, a secondary payer
+may make a conditional payment on behalf of the beneficiary and
+then seek recovery for such conditional payment from the primary
+plan.” Id. at 678.
+“The MSP[A ] provides two mechanisms for enforcing a primary
+plan’s recoupment obligation. First, the United States may sue to
+recover the amount from the primary plan or from the individual or
+entity to whom the primary plan has paid the funds.” Penegar v.
+Liberty Mut. Ins. Co., 115 F.4th 294, 297 (4th Cir. 2024) (citing
+42 U.S.C. § 1395y(b)(2)(B)(iii)). “Second, and pertinent to [this]
+case, private parties may sue to recover double damages from a
+primary plan that has failed to provide for primary payment in
+accordance with the MSP[A ].” Id. (citing 42 U.S.C.
+§ 1395y(b)(3)(A)). “The ostensible purpose of [the private cause
+of action] . . . is ‘to help the government recover conditional
+payments from insurers or other primary payers.’” Id. at 298
+(quoting Netro v. Greater Balt. Med. Ctr., Inc., 891 F.3d 522, 524
+(4th Cir. 2018)).
+Turning to the text of the statute, the MSPA “establishe[s] a
+private cause of action for damages (which shall be in an amount
+double the amount otherwise provided) in the case of a primary plan
+which fails to provide for primary payment (or appropriate
+reimbursement) in accordance with paragraphs (1) and (2)(A)” of
+8
+Case 1:25-cv-00712-DAB-LPA Document 32 Filed 04/28/26 Page 8 of 23subsection (b) of the statute. 42 U.S.C. § 1395y(b)(3)(A).4
+“Paragraph (2)(A) . . . forbids Medicare from paying for services
+when a primary plan is responsible, ‘except as provided in
+subparagraph (B).’” MSPA Claims 1, LLC v. Kingsway Amigo Ins. Co.,
+950 F.3d 764, 771 (11th Cir. 2020) (quoting 42 U.S.C.
+§ 1395y(b)(2)(A)). In turn, “subparagraph (B) states that a
+primary plan must reimburse Medicare ‘if it is demonstrated that
+such primary plan has or had a responsibility to make payment with
+respect to such item or service.’” Id. (quoting
+§ 1395y(b)(2)(B)(ii)). “A primary plan’s responsibility for such
+payment,” according to the MSPA, “may be demonstrated by a
+judgment, a payment conditioned upon the recipient’s compromise,
+waiver, or release (whether or not there is a determination or
+admission of liability) of payment for items or services included
+in a claim against the primary plan or the primary plan’s insured,
+or by other means.” 42 U.S.C. § 1395y(b)(2)(B)(ii).5
+4 Paragraph (1) sets forth “[r]equirements of group health
+plans,” 42 U.S.C. § 1395y(b)(1), not implicated here.
+5 “Other means” of demonstrating responsibility to pay “must
+involve an enforceable obligation such as a judgment or
+settlement,” Caldera v. Ins. Co. of the State of Pa., Civ. Action
+No. 11-321, 2012 WL 360183, at *4 (S.D. Tex. Feb. 2, 2012), aff’d
+on other grounds, 716 F.3d 861 (5th Cir. 2013); see also Sullivan
+v. Farm Bureau Mut. Ins. Co. of Mich., No. 1:10cv909, 2011 WL
+1231264, at *3 (W.D. Mich. Apr. 1, 2011) (requiring a showing of
+“something akin to judicial determination or settlement”).
+9
+Case 1:25-cv-00712-DAB-LPA Document 32 Filed 04/28/26 Page 9 of 23Accordingly, “[t]he private cause of action under the MSPA
+requires three elements: (1) a primary plan, (2) that is
+responsible to pay for an item or service, and (3) that failed to
+make the appropriate payment to Medicare for the item or service.”
+Sims v. PMA Ins. Co., No. 1:20cv249, 2021 WL 369675, at *7 n.8
+(M.D.N.C. Feb. 3, 2021).
+As to the first element, the term “primary plan” includes, as
+relevant here, “an automobile or liability insurance policy or
+plan,” 42 U.S.C. § 1395y(b)(2)(A)(ii). The second and third
+elements of an MSPA claim represent “two important conditions
+precedent that must be satisfied prior to invoking this cause of
+action. First, Medicare must have actually made payments on
+Plaintiff’s behalf.” Sullivan v. Farm Bureau Mut. Ins. Co. of
+Mich., No. 1:10cv909, 2011 WL 1231264, at *3 (W.D. Mich. Apr. 1,
+2011) (internal quotation marks and citation omitted). See also,
+e.g., Leggette v. B.V. Hedrick Gravel & Sand Co., No. 3:04cv530,
+2006 WL 6809606, at *11 (W.D.N.C. May 24, 2006) (“[An] MSP[A]
+‘double damages’ claim may be maintained only where Medicare has,
+in fact, paid claims that a primary insurer should have, but
+refused, to pay.”). “The second condition precedent is that the
+insurer must be ‘responsible’ for making the payments.” Sullivan,
+2011 WL 1231264, at *3. “Until [a d]efendant[’s] responsibility to
+pay for a Medicare beneficiary’s expenses has been demonstrated
+(for example, by a judgment), [a d]efendant[’s] obligation to
+10
+Case 1:25-cv-00712-DAB-LPA Document 32 Filed 04/28/26 Page 10 of 23reimburse Medicare does not exist under the relevant provisions.”
+Glover v. Liggett Grp., Inc., 459 F.3d 1304, 1309 (11th Cir. 2006).
+Here, the Complaint fails to allege the existence of any
+payments made on Plaintiff’s behalf by Medicare; instead, it merely
+alleges that “Plaintiff is a Medicare recipient” (Docket Entry 2 at
+11) who “incurred substantial medical expenses” (id. at 8), and
+that the “total cost of [those] medical expenses exceeds $25,000”
+(id. at 4). Even liberally construed, these allegations fall short
+of “[t]he requirement of actual payment by Medicare as a
+prerequisite to maintaining a[n MSPA] action,” Leggette, 2006 WL
+6809606, at *11, as nothing in the Complaint indicates that
+Medicare or its affiliates “incurred costs covering [Plaintiff’s]
+medical expenses,” MSP Recovery Claims, Series LLC v. Grange Ins.
+Co., No. 5:19cv219, 2019 WL 6770729, at *17 (N.D. Ohio Dec. 12,
+2019), which a primary payer (such as Defendant) should have born,
+or for which Plaintiff may properly seek “reimbursement,” 42 U.S.C.
+§ 1395y(b)(3)(A), under the MSPA.6
+“Moreover, absent [allegations
+6 The Complaint’s allegations that “Plaintiff provid[ed
+Defendant with] all medical notes, bills and billing statements
+from Tricare” (Docket Entry 2 at 6 (emphasis added)) — “a federal
+health insurance program administered by [the Department of
+Defense] to provide medical care to current and retired service
+members and their families,” County Bd. of Arlington Cnty. v.
+Express Scripts Pharmacy, Inc., 996 F.3d 243, 248-49 (4th Cir.
+2021) (internal quotation marks and brackets omitted) — also prove
+insufficient, because only “the United States [or its authorized
+representative] may institute and prosecute legal proceedings
+against a third party payer to enforce a right of the United States
+under [TRICARE],” 32 C.F.R. § 220.7(a)-(b); see also 10 U.S.C.
+(continued...)
+11
+Case 1:25-cv-00712-DAB-LPA Document 32 Filed 04/28/26 Page 11 of 23concerning Plaintiff’s] submission of [his medical] claims to and
+payment of at least some portion of them by Medicare, it [would be]
+impossible to calculate the amount of damages subject to doubling,”
+Leggette, 2006 WL 6809606, at *11, further rendering the
+Complaint’s allegations insufficient. See id. (explaining that
+“the baseline for double damages is not the amount billed by the
+provider, but the damages Medicare actually incurred as a result of
+the primary plan’s failure to pay” (citing 42 U.S.C.
+§ 1395y(b)(3)(A))).
+The Complaint also fails to allege facts “demonstrat[ing] that
+[a] primary plan has or had a responsibility to make a payment with
+respect to” Plaintiff’s medical expenses. 42 U.S.C.
+§ 1395y(b)(2)(B)(ii). As noted above, “[o]ne way to demonstrate
+such a responsibility is by showing that the primary plan had a
+contractual obligation to pay.” MSP Recovery Claims, Series LLC v.
+American Fam. Connect Prop. & Cas. Ins. Co., No. 23cv20105, 2023 WL
+2536444, at *3 (S.D. Fla. Mar. 16, 2023) (brackets and internal
+6(...continued)
+§ 1095(e)(1) (“The United States may institute and prosecute legal
+proceedings against a third-party payer to enforce a right of the
+United States under this section.”). However, even if the
+Complaint’s allegations that (A) “Plaintiff is a Medicare recipient
+with TRICARE as secondary insurance” (Docket Entry 2 at 11) and (B)
+TRICARE produced “bills and billing statements” to Plaintiff (id.
+at 6) combined to support the inference that (C) Medicare incurred
+expenses, too, given TRICARE’s status “as secondary” to Medicare
+(id. at 11 (emphasis added)), the Complaint nonetheless fails to
+allege Defendant’s demonstrated responsibility to reimburse
+Medicare’s expenses, as explained in the discussion that follows
+above.
+12
+Case 1:25-cv-00712-DAB-LPA Document 32 Filed 04/28/26 Page 12 of 23quotation marks omitted). Despite alleging that Defendant
+“acknowledged liability and issued partial [p]ayments . . . for the
+total loss of [ P]laintiff’s vehicle . . . [and his] rental car
+[expenses]” (Docket Entry 2 at 4), the Complaint does not allege
+the existence of a settlement agreement that could “demonstrate[]
+. . . [Defendant’s] responsibility,” 42 U.S.C.
+§ 1395y(b)(2)(B)(ii), to reimburse Medicare for Plaintiff’s medical
+expenses.7
+On the contrary, the Complaint attempts to hold
+Defendant liable for its “refusal to make a settlement offer”
+(Docket Entry 2 at 12 (emphasis added); see also id. at 2 (alleging
+“delay and obstruction of settlement”), 5 (alleging that Plaintiff
+“submitt[ed]” and Defendant “ignored” multiple “written notices for
+a settlement instead of litigation”), 6 (alleging existence of
+7 The Complaint’s contention that, because Defendant
+“acknowledged liability and issued partial payments” for
+Plaintiff’s vehicle and rental car expenses (Docket Entry 2 at 4),
+“the [instant] dispute pertains solely to damages, not liability”
+(id. at 5) represents a legal conclusion which the Court need not
+accept at this stage of the proceedings, see Iqbal, 556 U.S. at
+678. Moreover, as a general matter, “[Defendant’s] payment of
+property damages cannot create an acknowledg[]ment of its liability
+for [Plaintiff’s] personal injuries,” Denis v. Liberty Mut. Ins.
+Co., 791 F.2d 846, 849 (11th Cir. 1986), nor can it
+“demonstrate[ Defendant’s] . . . responsibility,” 42 U.S.C.
+§ 1395y(b)(2)(B)(ii), to reimburse Medicare for the cost of those
+injuries. Likewise, Defendant’s “offer[ of] a settlement of
+$3,000” (Docket Entry 2 at 4) cannot suffice “to prove the validity
+of the claim [against Defendant] that the [ ] offer was meant to
+settle,” Macsherry v. Sparrows Point, LLC, 973 F.3d 212, 224 (4th
+Cir. 2020); see also Sharp v. City of Elizabeth City, No. 2:23cv52,
+2023 WL 9051270, at *3 (E.D.N.C. Dec. 29, 2023) (refusing to
+“consider [a] settlement demand for purposes of determining whether
+[the] plaintiff has stated a valid claim”).
+13
+Case 1:25-cv-00712-DAB-LPA Document 32 Filed 04/28/26 Page 13 of 23promises to “provide a settlement offer” which “[Defendant] failed
+to honor” (internal quotation marks omitted)), 14 (alleging that
+Defendant “withh[eld] settlement”)). That attempt falls short,
+however, as “[t]he MSP[A] itself does not impose a duty to pay on
+[Defendant but] . . . [i]nstead[ ] presupposes an existing
+obligation,” Virginia Mason Mem’l Hosp., 981 F.3d at 684 (internal
+quotation marks omitted), which the Complaint does not plead. See
+also Fresenius Med. Care Holdings, Inc. v. Brooks Food Grp., Inc.,
+Civ. Action No. 3:07cv14, 2007 WL 2480251, at *7-8 (W.D.N.C. Aug.
+28, 2007) (explaining that “[t]he MSPA makes it a condition
+precedent to reimbursement that there be a ‘demonstrated
+responsibility’ to pay for items or services” and that “[t]o hold
+otherwise would open a primary insurer to double damages each time
+it contests a claim, rather than only when it fails to pay after
+responsibility has been established”).
+In sum, the Complaint fails to allege payments made by
+Medicare and “Defendant[’s demonstrated] responsibility for th[ose]
+payments. If and when such a [settlement or] determination is made
+. . . [and] Defendant[] fail[s] to reimburse [Medicare for] the
+appropriate funds, then the MSPA allows for a private cause of
+action for double damages.” Fresenius, 2007 WL 2480251, at *8.
+Absent such facts, the Complaint fails to state a claim.8
+8 Alternatively, because “[Plaintiff’s] suit remains
+contingent upon Defendant[’s] failing to [reimburse Medicare] after
+(continued...)
+14
+Case 1:25-cv-00712-DAB-LPA Document 32 Filed 04/28/26 Page 14 of 23II. State-Law Claims
+The Complaint pursues claims against Defendant for breach of
+the “duty of good faith and fair dealing” (Docket Entry 2 at 5;
+accord id. at 12) and “violat[ions of] North Carolina’s Unfair
+Claims Settlement Practices Act . . . and the Unfair and Deceptive
+Trade Practices Act” (id. at 12; accord id. at 9, 13, 14-15).
+Facts supporting jurisdiction must appear in the complaint,
+see Pinkley, Inc. v. City of Frederick, 191 F.3d 394, 399 (4th Cir.
+1999), and the party asserting federal jurisdiction bears the
+burden of “show[ing] that jurisdiction does, in fact, exist,” Davis
+v. Pak, 856 F.2d 648, 650 (4th Cir. 1988) (internal quotation marks
+omitted). Here, the Complaint invokes (A) the Court’s “original
+jurisdiction under 28 U.S.C. § 1331” (Docket Entry 2 at 3),
+alleging that “Plaintiff’s [MPSA] claims arise under the laws the
+United States” (id.), and (B) the Court’s “supplemental
+jurisdiction over Plaintiff’s state law claims” (id.).
+8(...continued)
+[a demonstration of its responsibility to pay] occurs . . .
+[Plaintiff’s] claim is not currently fit for judicial decision
+. . . [and] should be dismissed as premature.” Sims, 2021 WL
+369675, at *7; see also id. at *5-7, *7 n.8 (dismissing MSPA for
+failure to plead both responsibility to pay and failure to
+pay/reimburse and noting that a “merits analysis would turn on the
+same factors affecting the jurisdictional analysis”); Sullivan,
+2011 WL 1231264, at *3 (“[The p]laintiff’s original [c]omplaint
+attempts to simultaneously litigate his MSP[A] claim with the
+underlying claim. The MSP[A] claim is accordingly premature
+. . . .”); Mason v. American Tobacco Co., 346 F.3d 36, 43 (2d Cir.
+2003) (“[T]he trigger for bringing a[n] MSP[A] claim is not the
+pendency of a disputed tort claim, but the established obligation
+to pay medical costs . . . .” (internal quotation marks omitted)).
+15
+Case 1:25-cv-00712-DAB-LPA Document 32 Filed 04/28/26 Page 15 of 23Federal courts possess “original jurisdiction of all civil
+actions arising under the Constitution[ and] laws . . . of the
+United States,” 28 U.S.C. § 1331. When a court possesses federal
+question jurisdiction over a federal claim, “[a] claim that neither
+arises from a federal question nor satisfies the requirements for
+diversity jurisdiction may nevertheless be entertained in federal
+court [via] supplemental jurisdiction under 28 U.S.C. § 1367.”
+Mebane v. GKN Driveline N. Am., Inc., 499 F. Supp. 3d 220, 231
+(M.D.N.C. 2020). “Under supplemental jurisdiction, ‘[t]he state
+and federal claims must derive from a common nucleus of operative
+fact’ where a plaintiff ‘would ordinarily be expected to try them
+all in one judicial proceeding.’” Id. (quoting United Mine Workers
+of Am. v. Gibbs, 383 U.S. 715, 725 (1966)).
+Importantly, supplemental jurisdiction constitutes “a doctrine
+of discretion,” United Mine Workers, 383 U.S. at 726, in regards to
+which “[n]eedless decisions of state law should be avoided,” id.
+As such, if “federal claims are dismissed before trial, . . . the
+state claims should be dismissed as well.” Id.; see also 28 U.S.C.
+§ 1367(c)(3) (“The district courts may decline to exercise
+supplemental jurisdiction over a claim . . . [if] the district
+court has dismissed all claims over which it has original
+jurisdiction[.]”).
+Although Plaintiff’s MSPA claim raises a federal question, the
+Complaint pursues state-law claims which arise under North Carolina
+16
+Case 1:25-cv-00712-DAB-LPA Document 32 Filed 04/28/26 Page 16 of 23law9
+and thus do not satisfy federal question jurisdiction.
+Therefore, given the foregoing recommendation of dismissal of
+Plaintiff’s federal claim, the Court should decline to exercise
+supplemental jurisdiction over Plaintiff’s state-law claims. See
+Carnegie-Mellon Univ. v. Cohill, 484 U.S. 343, 350 n.7 (1988)
+(“[I]n the usual case in which all federal-law claims are
+eliminated before trial, the balance of factors to be considered
+. . . — judicial economy, convenience, fairness, and comity — will
+point toward declining to exercise jurisdiction over the remaining
+state-law claims.”).10
+III. Ancillary Motions
+In addition to the Application, Complaint, and the motions to
+amend resolved in footnote 3 above, this case comes before the
+undersigned on Defendant’s Motion to Dismiss (Docket Entry 7)
+(“Dismissal Motion”), Defendant’s Motion to Strike Plaintiff’s
+9 “North Carolina [law, rather than federal law,] recognizes
+a cause of action for a breach of the implied covenant of good
+faith and fair dealing,” Nadendla v. WakeMed, 24 F.4th 299, 307
+(4th Cir. 2022) (emphasis added), and Plaintiff’s claims for
+“[s]tatutory violations under North Carolina law” (Docket Entry 2
+at 14) plainly arise under state law.
+10 Additionally, diversity of citizenship jurisdiction —
+which the Complaint does not invoke (see Docket Entry 2 at 3) —
+does not exist for Plaintiff’s state-law claims because the
+Complaint fails to allege Defendant’s citizenship (see id. at 2
+(alleging only Plaintiff’s status as a “resident of . . . North
+Carolina”)). See also MicroPicture Int’l, Inc. v. Kickartz, No.
+3:05cv34, 2005 WL 8174556, at *1 (W.D. Va. July 25, 2005) (“[A]
+party alleging jurisdiction based on diversity of citizenship
+clearly must state the citizenship of all parties involved in the
+action.”).
+17
+Case 1:25-cv-00712-DAB-LPA Document 32 Filed 04/28/26 Page 17 of 23Surreply to the Dismissal Motion (Docket Entry 23) (“Motion to
+Strike”), and Plaintiff’s Motion for “In Camera Inspection of
+Exhibit A” (Docket Entry 21) (“Inspection Motion”), which Plaintiff
+attached to his response in opposition the Dismissal Motion (see
+Docket Entry 15-1). (See also Docket Entry dated Dec. 10, 2025
+(referring Inspection Motion); Docket Entry dated Feb. 19, 2026
+(referring Dismissal Motion and Motion to Strike).)
+In light of the foregoing recommendation that the Court
+dismiss this action, the undersigned (A) will terminate the Motion
+to Strike as moot and (B) will recommend that the Court terminate
+the Dismissal Motion as moot. Likewise, the Inspection Motion asks
+the “Court to conduct an in-camera inspection of [ ] transcribed
+audio recordings” (Docket Entry 21 at 1 (emphasis omitted))
+submitted with Plaintiff’s response to the Dismissal Motion (see
+Docket Entry 15; Docket Entry 15-1). The undersigned has reviewed,
+and thus “inspected,” those materials (which appear on the public
+docket and generally amount to verified pleadings (see, e.g.,
+Docket Entry 15-1 at 2)) in the course of addressing the Dismissal
+Motion, Application, and Complaint, and will therefore terminate
+the Inspection Motion as moot.
+IV. Plaintiff’s Inaccurate Pleadings
+Lastly, in recommending dismissal of the instant action, the
+undersigned also admonishes Plaintiff for failing to confirm the
+accuracy of his pleadings, as required under Federal Rule of Civil
+18
+Case 1:25-cv-00712-DAB-LPA Document 32 Filed 04/28/26 Page 18 of 23Procedure (the “Rules”) 11, and warns Plaintiff that any future
+filings containing errant or fabricated citations may result in
+sanctions, including orders to pay an opposing party’s reasonable
+attorney’s fees. See Fed. R. Civ. P. 11(c).
+Rule 11(b) provides, in relevant part, that:
+By representing to the court a pleading, written motion,
+or other paper . . . [an] unrepresented party certifies
+that to the best of the persons’s knowledge, information,
+and belief, formed after an inquiry reasonable under the
+circumstances . . . the claims, defenses, and other legal
+contentions are warranted by existing law or by a
+nonfrivolous argument for extending, modifying, or
+reversing existing law or for establishing new law.
+Fed. R. Civ. P. 11(b) (emphasis added).
+“Rule 11 applies to pro se parties as well as parties
+represented by counsel.” Walker v. Tillerson, No. 1:17cv732, 2018
+WL 1187599, at *9 (M.D.N.C. Mar. 7, 2018), aff’d sub nom. Walker v.
+Pompeo, 735 F. App’x 69 (4th Cir. 2018). “All litigants, pro se
+and practitioners [alike], must ensure that the legal authority
+they cite actually exists and is properly characterized in all
+filings.” United States v. Boice, No. 1:20cr167, 2025 WL 2076452,
+at *4 n.4 (E.D. Va. June 23, 2025).
+Here, the Complaint alone contains at least 11 citations to
+cases that either do not exist or do not stand for the legal
+propositions that Plaintiff invoked. (See, e.g., Docket Entry 2 at
+7, 9, 10, 11, 13 (citing Alford v. Motors Ins. Corp., 104 N.C. App.
+537 (1991), Barber v. Perry, 61 N.C. App. 134, 300 S.E.2d 387
+(1983), Estate of Harvey v. Kore-Kut, Inc., 364 N.C. 394, 700
+19
+Case 1:25-cv-00712-DAB-LPA Document 32 Filed 04/28/26 Page 19 of 23S.E.2d 231 (2010), Estate of McCall v. United States, 206 F. Supp.
+3d 1304 (N.D. Fla. 2016), and Calderon v. GEICO Gen. Ins. Co., No.
+1:19cv362 (M.D.N.C. Jan. 26, 2021) — none of which exist at those
+citations); id. at 14 (citing “Kusulas v. GEICO” without further
+identifying information), 15 (citing “In re. COVIDrelated coverage,
+[as a] 2024 NC Supreme Court decision affirming insurer liability
+for wrongful denial,” despite a cursory search revealing that the
+only potentially relevant North Carolina Supreme Court decision
+from that year affirmed dismissal of a plaintiff’s insurance-
+related claims, see Cato Corp. v. Zurich Am. Ins. Co., 386 N.C.
+667, 676, 909 S.E.2d 144, 151 (2024)).
+Similarly, Plaintiff’s subsequent filings contain over a dozen
+dubious citations. (See, e.g., Docket Entry 4 at 1, 5, 6, 8
+(citing Calderon three times and Estate of McCall five times at
+non-existent citations); Docket Entry 5 at 3 (citing United States
+v. Harris, No. 1:19cr44, 2021 WL 1089411, at *2 (M.D.N.C. Mar. 22,
+2021), and Robinson v. Bowser, No. 1:15cv596, 2015 WL 11571094, at
+*1 (M.D.N.C. Mar. 22, 2021), neither of which exists as cited);
+Docket Entry 8 at 3 (again citing Harris and Bowser at non-existent
+citations); Docket Entry 13 at 2 (citing R.S. v. Board of Dirs. of
+Woods Charter Sch. Co., No. 1:16cv119 (M.D.N.C. Apr. 19, 2016), and
+stating that “[t]his Court granted a pro se plaintiff’s motion to
+amend to add and correct parties early in litigation” in that case,
+despite (A) the absence of any docket entry or decision rendered in
+20
+Case 1:25-cv-00712-DAB-LPA Document 32 Filed 04/28/26 Page 20 of 23R.S. v. Board on the date cited, compare id., Docket Entry 5 (Mar.
+11, 2016), with id., Docket Entry 6 (May 9, 2016), and (B) the
+plaintiff in that case proceeding exclusively with counsel, not pro
+se, see id., Docket Entry 2 at 1 (noticing appearance of counsel on
+action’s commencement); Docket Entry 26 at 3 (again citing R.S. v.
+Board for same unfounded proposition).)
+“The [undersigned] understands that Plaintiff is proceeding
+pro se, but that does not allow [him] to flaunt the [ R]ules and
+haphazardly file pleadings without completing any due diligence.”
+Lucas v. Scharf, No. 3:25cv1015, 2026 WL 642917, at *2 (W.D.N.C.
+Feb. 25, 2026); see also id. (“Even a cursory Google search would
+[have] reveal[ed] that these cases do not exist [as cited].”).
+More pointedly, Plaintiff’s submissions foreground an issue that
+“[c]ourts across the country are grappling with,” In re Nwaubani,
+No. 25-9517, 2026 WL 687194, at *3 (4th Cir. Mar. 11, 2026), in
+that citations such as Plaintiff’s to “nonexistent cases . . . are
+the frequent posterchild” for “the use of generative [artificial
+intelligence] in materials submitted to the court,” id.; see also
+Kruglyak v. Home Depot U.S.A., Inc., 774 F. Supp. 3d 767, 770 (W.D.
+Va. 2025) (“It has become widely known that [artificial
+intelligence] platforms sometimes ‘hallucinate,’ meaning they
+provide inaccurate responses. In the legal research context, these
+hallucinations can include the generation of fictitious case cites
+and misrepresentations of case summaries or holdings[.]”).
+21
+Case 1:25-cv-00712-DAB-LPA Document 32 Filed 04/28/26 Page 21 of 23At this juncture, the undersigned need not determine “whether
+[Plaintiff] drafted [the foregoing pleadings] with the assistance
+of artificial intelligence or not,” Kideckel v. Foreign Nation of
+Can., No. 1:24cv2907, 2026 WL 125208, at *3 (D.D.C. Jan. 16, 2026)
+(internal quotation marks omitted), appeal filed, 2026 WL 125208
+(Jan. 23, 2026), and need only advise that Plaintiff’s citations to
+non-existent or wholly inapplicable authorities almost certainly
+contravene his obligations under Rule 11. See, e.g., Suiter v. Gm
+- Gen. Motors, LLC, No. 5:24cv54, 2026 WL 701683, at *8 (W.D. Va.
+Mar. 12, 2026) (“Regardless of whether [the plaintiff] used these
+tools, submitting a filing containing fabricated authority . . . is
+unacceptable and . . . could also constitute a violation of [Rule]
+11, for which the court may impose sanctions.” (internal quotation
+marks omitted)). The undersigned therefore warns Plaintiff that
+subsequent filings containing such blatant fabrications may result
+in sanctions.
+CONCLUSION
+The Complaint fails to state a claim on which relief may be
+granted, and the Court should decline to exercise supplemental
+jurisdiction over Plaintiff’s state-law claims. Consistent with
+that recommendation, the undersigned has resolved or recommended
+resolution of ancillary motions and has warned Plaintiff that
+filings containing citations to inaccurate or non-existent
+authorities may subject him to sanctions under Rule 11.
+22
+Case 1:25-cv-00712-DAB-LPA Document 32 Filed 04/28/26 Page 22 of 23IT IS THEREFORE ORDERED (A) that the Application (Docket Entry
+1) is GRANTED for the sole purpose of entering this Recommendation
+and (B) that Plaintiff is WARNED that the Court may impose
+sanctions for future failures to confirm the accuracy of his
+pleadings and other filings.
+IT IS FURTHER ORDERED (A) that Plaintiff’s first Motion to
+Amend Caption and Clarify Defendants (Docket Entry 13) is GRANTED
+as to the termination of “Government Employees Insurance Company
+(GEICO)” and “Geico Insurance Company, LLC” as defendants and (B)
+that the Inspection Motion (Docket Entry 21), the Motion to Strike
+(Docket Entry 23), and Plaintiff’s second Motion to Amend Caption
+and Clarify Defendants (Docket Entry 26) are TERMINATED AS MOOT.
+IT IS RECOMMENDED (A) that Plaintiff’s lone federal claim be
+dismissed pursuant to 28 U.S.C. § 1915(e)(2)(B)(ii) for failure to
+state a claim, as well as that the Court decline to exercise
+supplemental jurisdiction over Plaintiff’s state claim(s) under 28
+U.S.C. § 1367(c)(3), and (B) that the Dismissal Motion (Docket
+Entry 7) be TERMINATED AS MOOT.
+This 28th
+day of April, 2026.
+/s/ L. Patrick Auld
+L. Patrick Auld
+United States Magistrate Judge
+23
+Case 1:25-cv-00712-DAB-LPA Document 32 Filed 04/28/26 Page 23 of 23

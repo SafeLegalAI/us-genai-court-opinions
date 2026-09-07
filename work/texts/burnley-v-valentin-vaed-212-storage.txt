@@ -1,0 +1,1109 @@
+Case 3:23-cv-00160-RCY         Document 212        Filed 07/16/26     Page 1 of 21 PageID# 1389
+
+
+
+
+                       IN THE UNITED STATES DISTRICT COURT
+                       FOR THE EASTERN DISTRICT OF VIRGINIA
+                                  Richmond Division
+
+ JOHN RODGERS BURNLEY,
+      Plaintiff,
+
+ v.                                                   Civil Action No. 3:23-cv-00160 (RCY)
+
+ ALEXANDRA M. VALENTIN, et al.,
+     Defendants.
+
+                                  MEMORANDUM OPINION
+
+        This matter is before the Court on Defendant Jeffrey W. Walburn’s (“Walburn”) Motion
+
+ for an Award of Attorney Fees and Costs (the “Motion for Attorneys’ Fees,” ECF No. 199) and
+
+ the accompanying Memorandum in Support (ECF No. 200). Having considered the Motion for
+
+ Attorneys’ Fees and related briefings, the Court will GRANT IN PART and DENY IN PART
+
+ Walburn’s request for an award of attorney fees and costs (ECF No. 199). After making downward
+
+ adjustments to the total hours requested, the Court shall award reasonable fees and expenses of
+
+ $7,818.46 in favor of Walburn and against Plaintiff John Rodgers Burnley (“Burnley”).
+
+ Additionally, Burnley’s request for judicial recusal is DENIED.
+
+                  I.      BACKGROUND AND PROCEDURAL HISTORY
+
+        On March 7, 2023, Burnley filed a Complaint against Walburn, et al., alleging claims under
+
+ 42 U.S.C. § 1985(3) and 42 U.S.C. § 2000a(a). (ECF No. 1.) The parties appeared before the
+
+ undersigned on November 17, 2023 for a judicial settlement conference at which the parties
+
+ entered into a Settlement and Mutual Agreement (the “Settlement Agreement”) dated November
+
+ 17, 2023. (ECF No. 200-3.) Paragraph nine of the Settlement Agreement provides, inter alia, that
+
+ “in the event that any litigation is commenced in connection with . . . enforcement of this
+
+ Agreement or to enforce any obligation imposed . . . the prevailing Party or Parties . . . shall be
+Case 3:23-cv-00160-RCY         Document 212           Filed 07/16/26    Page 2 of 21 PageID# 1390
+
+
+
+
+ entitled to recover their reasonable attorney’s fees . . . from the non-prevailing Party or Parties.”
+
+ (Id. at 3.) 1
+
+          On August 27, 2024, Defendants Valentin and Walburn filed a Motion to Enforce
+
+ Settlement Agreement, alleging that Burnley made “defamatory statements to Walburn’s new
+
+ employer” in “blatant contravention of the Settlement Agreement.” (ECF No. 163 at 3-4.) By
+
+ Order dated October 1, 2024, the Court requested that Defendants provide “additional briefing
+
+ certifying that they ha[d] satisfied the Parties’ Settlement Agreement conditions providing for
+
+ Notice of Breach.” (ECF No. 164.) On October 7, 2024, Valentin and Walburn moved to withdraw
+
+ their Motion to Enforce, which the Court subsequently granted on October 8, 2024. (ECF No.
+
+ 166.)
+
+          On April 16, 2025, Walburn filed a Motion to Enforce the Settlement Agreement and
+
+ accompanying Memorandum in Support, alleging that Burnley had made “defamatory statements
+
+ to Walburn’s new employer” in “blatant contravention” of the Settlement Agreement. (ECF Nos.
+
+ 167, 168.) The District Court referred the matter to the undersigned for full disposition, in
+
+ accordance with the terms of the Settlement Agreement. (ECF No. 169.) 2 The Court entered an
+
+ Order and Notice directing Burnley to respond by June 10, 2025, and to certify compliance with
+
+ the Settlement Agreement’s notice requirements. (ECF No. 172.) On May 27, 2025, Burnley filed
+
+ responses to the Motions to Enforce. (ECF Nos. 173, 174, 175, 176.) On the same day, Burnley
+
+ filed appeals in both the present matter and Civil Action No. 3:25cv210, all of which were
+
+ dismissed by the Fourth Circuit. (ECF Nos. 177, 180.)
+
+
+
+ 1
+  The Court employs the pagination utilized by the CM/ECF system.
+ 2
+  Defendant Cunningham filed a separate Motion to Enforce (ECF No. 170) that the Court then
+ denied in part as moot and denied in part without prejudice. (ECF Nos. 195, 196.) Cunningham’s
+ motion is not relevant to Walburn’s fee petition.
+
+
+                                                  2
+Case 3:23-cv-00160-RCY         Document 212           Filed 07/16/26   Page 3 of 21 PageID# 1391
+
+
+
+
+        By Order dated February 9, 2026, the Court ordered Walburn to file supplemental briefing
+
+ addressing the authenticity of a voice recording submitted as Exhibit B. (ECF No. 184.) After the
+
+ parties submitted supplemental briefing, the Court held an evidentiary hearing on March 4, 2026.
+
+ (ECF No. 193.) By Memorandum Opinion dated March 18, 2026, the Court granted Walburn’s
+
+ Motion to Enforce (ECF No. 167) and awarded reasonable attorneys’ fees and costs against
+
+ Burnley in an amount subject to a reasonableness review. (ECF Nos. 195, 196.)
+
+        On April 10, 2026, Walburn filed his Motion for Attorneys’ Fees and accompanying
+
+ Memorandum in Support, seeking “reasonable attorney costs and fees in the amount of $9,410.46
+
+ . . . .” (ECF Nos. 199, 200.) In this submission, Walburn attached two exhibits: (1) an affidavit
+
+ from his attorney, Julie S. Palmer, and (2) a “Matter Ledger Report” containing redactions “made
+
+ pursuant to the attorney-client privilege and work product doctrine.” (ECF Nos. 200-1, 200-2.) In
+
+ her affidavit, Ms. Palmer noted that “[u]nredacted copies of these billing records are available for
+
+ in camera review by the Court if requested.” (ECF No. 200-1 at 3.) On April 23, 2026, Burnley
+
+ filed his Response in Opposition and the accompanying Memorandum in Support. (ECF Nos. 201,
+
+ 202), 3 and Walburn filed his Reply on April 30, 2026. (ECF No. 203.)
+
+        Upon review of Walburn’s fee petition, the Court directed Walburn to file either: (1) an
+
+ unredacted Matter Ledger Report or (2) to submit an unredacted copy directly to chambers for
+
+ review in camera. (ECF No. 204.) As part of this Order, the Court provided Burnley an opportunity
+
+ to file a supplemental response in opposition based on Walburn’s unredacted Matter Ledger
+
+
+
+ 3
+  Burnley styled this submission as a “Motion to Dismiss Motion to Enforce and Award of Attorney
+ Fees.” (ECF No. 201.) However, the Court will construe Burnley’s submission as a Response in
+ Opposition based on the Court’s discretion to liberally construe pro se filings. Accordingly, the
+ Court will take no action on Walburn’s Response in Opposition to Burnley’s “Motion to Dismiss”
+ (ECF No. 205) to the extent that it responds to what might have been construed as a separate
+ motion.
+
+
+                                                  3
+Case 3:23-cv-00160-RCY           Document 212          Filed 07/16/26    Page 4 of 21 PageID# 1392
+
+
+
+
+ Report. (Id.) On May 8, 2026, Walburn filed a supplemental ledger removing the redactions he
+
+ claimed were to protect privileged attorney-client communications and maintaining redactions
+
+ only for those entries which describe: (1) matters for which Walburn is not seeking any award and
+
+ the billing totals for such entries; (2) Walburn’s counsel’s street address in Charlottesville,
+
+ Virginia; (3) the name of a non-party insurance adjuster. (ECF No. 206 at 2.)
+
+        On May 14, 2026, Burnley filed his Supplemental Response in Opposition to Walburn’s
+
+ Fee Petition (ECF Nos. 207, 208), 4 and Walburn filed his Supplemental Reply on May 21, 2026
+
+ (ECF No. 209).
+
+            II.     ADDRESSING BURNLEY’S ARGUMENTS IN OPPOSITION
+
+        In his Response in Opposition and Supplemental Response in Opposition, Burnley argues
+
+ that Walburn’s request for attorney fees in the amount of $9,410.46 is “‘unreasonable and
+
+ excessive’ and would impose hardship upon [him] and his family.” (ECF No. 202 at 1.) In support,
+
+ he claims the following:
+
+ 1. Walburn’s attorneys are not entitled to their attorneys’ fees because they have been paid by
+
+     Walburn’s Homeowner’s Insurance Policy carrier, which is not a party to this matter, has not
+
+     entered its appearance on the docket, and therefore lacks standing to recover its attorneys’ fees.
+
+     (ECF No. 202 at 1, 2, 6);
+
+ 2. Burnley’s status of filing the underlying lawsuit in forma pauperis necessarily precludes the
+
+
+
+
+ 4
+  Burnley again styled this submission as a “Motion to Dismiss Award of Attorney Fees and Motion
+ to Dismiss Motion to Enforce.” (ECF No. 207.) The Court again construes Burnley’s submission
+ as a Supplemental Response in Opposition consistent with the Court’s discretion to liberally
+ construe pro se filings and pursuant to the requirements set forth in the Court’s May 5, 2026 Order.
+ (See ECF No. 204.)
+                                                   4
+Case 3:23-cv-00160-RCY           Document 212           Filed 07/16/26   Page 5 of 21 PageID# 1393
+
+
+
+
+     Court from ordering him to pay Walburn’s attorney’s fees (ECF No. 202 at 3-4);
+
+ 3. The requested attorneys’ fees erroneously include the costs of representing Alexandra
+
+     Valentin, who was not a party to the underlying Motion to Enforce (ECF No. 202 at 3; 208 at
+
+     1);
+
+ 4. The Court should recuse itself because of the manner it conducted the settlement conference
+
+     (ECF No. 202 at 5-6); and;
+
+ 5. Walburn violated the Court’s May 5, 2026 Memorandum Order because he failed to serve
+
+     Burnley with the Declaration of Benjamin P. Abel and supplemental Matter Ledger Report
+
+     (ECF No. 208 at 2-3). 5
+
+           The Court briefly addresses each argument before turning to the award of attorneys’ fees.
+
+           A.     The Involvement of Walburn’s Insurance Company
+
+           At the outset, the Court notes that the underlying case involved a dispute between neighbors
+
+ over allegations of harassment and racial discrimination. Here, as in many cases involving
+
+ homeowner-related disputes, Walburn’s insurer provided liability insurance coverage, which
+
+ included legal representation. (Aff. Julie S. Palmer, ECF No. 200-1 ¶ 2 (“Harman, Claytor,
+
+ Corrigan & Wellman was retained . . . by the insurance company for Jeffrey W. Walburn to defend
+
+ his interests in this matter.”).) His insurer “incurred $9,410.46 in attorney’s fees and expenses
+
+ related to litigating Defendants’ Motion to Enforce Settlement Agreement in this matter.” (Id. ¶
+
+ 10.) Burnley now argues that the insurer, by virtue of its contractual relationship with Walburn,
+
+ “became a third-party when [it] intervened . . . to protect Walburn and [its] interest and to seek
+
+
+
+ 5
+   In addition to these arguments, Burnley reiterates grievances previously addressed in his
+ oppositional pleadings which the Court need not address at this stage. (See ECF No. 208 at 2
+ (alleging that the Court abused its discretion in allowing the Roskam and Walburn affidavits into
+ evidence during the evidentiary hearing).)
+
+
+                                                    5
+Case 3:23-cv-00160-RCY           Document 212           Filed 07/16/26     Page 6 of 21 PageID# 1394
+
+
+
+
+ reimbursement.” (ECF No. 202 at 5.) By failing to file a notice of appearance on behalf of the
+
+ interested third party, Burnley argues, Walburn’s insurer cannot now seek an award for Walburn’s
+
+ attorney’s fees. (ECF No. 202 at 5.)
+
+         In Virginia, insurers are not parties to lawsuits absent claims directly against the insurance
+
+ companies. See, e.g., Brown v. Slenker, 197 F. Supp. 2d 497, 500 n.4 (E.D. Va. 2002) (“Virginia
+
+ is not a direct action state; insurers are not parties to lawsuits filed against their insureds.”). Here,
+
+ Walburn’s insurer is not a party to the action simply because it entered into an insurance agreement
+
+ with Walburn, for which Walburn personally contributed valuable consideration. Instead, the
+
+ Settlement Agreement between Walburn and Burnley remains the operative document before the
+
+ Court. In the Settlement Agreement, Walburn and Burnley affirmatively agreed that:
+
+                 in the event that any litigation is commenced in connection with the
+                 . . . enforcement of this Agreement or to enforce an obligation
+                 imposed by or contained in this Agreement, the prevailing Party or
+                 Parties shall be entitled to recover their reasonable attorney’s fees,
+                 expenses, disbursements, and costs of suit, including appellate fees
+                 and costs, from the non-prevailing Party or Parties.
+
+ (ECF No. 200-3 at 3.) The Court has already found that Walburn is the prevailing party and is
+
+ entitled to his “reasonable attorney’s fees[.]” That Walburn has a contractual relationship with his
+
+ insurer to advance or otherwise pay for the costs of his legal defense is of no moment; Walburn,
+
+ as signatory to the Settlement Agreement, is contractually entitled to recover his “reasonable
+
+ attorney’s fees” from the non-prevailing party, Burnley.
+
+         B.      The Applicability of the American Rule
+
+         Likewise, Burnley’s arguments that the American Rule precludes Walburn from
+
+ recovering his reasonable attorney’s fees through this enforcement action is unavailing given the
+
+ express contractual provision set forth in the Settlement Agreement. As the Fourth Circuit
+
+ explained, the American Rule is displaced when parties execute a contract that allows for an award
+
+
+                                                    6
+Case 3:23-cv-00160-RCY         Document 212           Filed 07/16/26    Page 7 of 21 PageID# 1395
+
+
+
+
+ of attorneys’ fees to the prevailing party. See, e.g., Hitachi Credit Am. Corp. v. Signet Bank, 166
+
+ F.3d 614, 631 (4th Cir. 1999) (“In general, absent a contractual or statutory provision to the
+
+ contrary, a prevailing party cannot recover attorneys’ fees and expenses from a losing party.”).
+
+ Here, the parties clearly contemplated whether to adhere to or divert from the principle that each
+
+ party is responsible for its own attorney’s fees when they drew up the provision entitled “Fees and
+
+ Costs” in the Settlement Agreement. (See ECF No. 200-3 at 3.) That provision expressly provides
+
+ that:
+
+                Except as otherwise specifically stated in this Agreement, each Party
+                will bear his or her own respective fees and costs incurred in
+                connection with the Lawsuit or the preparation and execution of this
+                Agreement, including each Party’s own attorney’s fees . . . and costs
+                . . . . However, in the event that any litigation is commenced in
+                connection with the . . . enforcement of this Agreement . . , the
+                prevailing Party or Parties shall be entitled to recover their
+                reasonable attorney’s fees . . . from the non-prevailing Party or
+                Parties.
+
+ Id. Thus, there can be no doubt that the parties intended to supplant the American Rule in the
+
+ event one of them prevails in a Motion to Enforce the Settlement Agreement, as is the case here.
+
+         Moreover, the Settlement Agreement does not make an exception for a party proceeding
+
+ pro se and in forma pauperis. Contrary to Burnley’s contention, the Fourth Circuit has explicitly
+
+ stated that “28 U.S.C. § 1915 authorizes the assessment of costs,” against “litigants who have been
+
+ granted leave to proceed in forma pauperis.” Flint v. Haynes, 651 F.2d 970, 971 (4th Cir. 1981).
+
+ Nonetheless, the “court has broad discretion to reduce the fee award in light of mitigating factors,
+
+ such as the difficulty of the case, the motivation of the plaintiff, and the relative economic status
+
+ of the litigants.” Arnold v. Burger King Corp., 719 F.2d 63, 68 (4th Cir. 1983). Here, the Court
+
+ recognizes that Burnley has proceeded as a litigant filing in forma pauperis in this matter.
+
+ However, his willful breach of the Settlement Agreement by calling Walburn’s employer despite
+
+
+
+                                                  7
+Case 3:23-cv-00160-RCY          Document 212           Filed 07/16/26   Page 8 of 21 PageID# 1396
+
+
+
+
+ clear proscription in the contract demonstrates that Burnley both knew and appreciated the risk of
+
+ his conduct. Further, Burnley did not take accountability for his actions, show contrition for them,
+
+ or recognize the considerable expense incurred by Walburn for Burnley’s conduct. Therefore,
+
+ Burnley’s status as a litigant proceeding in forma pauperis does not preclude the Court from
+
+ awarding attorney’s fees pursuant to the contract Burnley signed.
+
+        C.      The Disputed Ledger Entries That Include Alexandra Valentin
+
+        Burnley points out that Walburn’s Matter Ledger Report includes tasks taken on behalf of
+
+ Alexandra Valentin, who is not party to the motion to enforce, on February 12, 2026, February 26,
+
+ 2026, and February 27, 2026 [collectively hereinafter, the “Disputed Entries”]. (ECF No. 202 at
+
+ 3.) The Disputed Entries purportedly relate to email correspondence sent to Walburn and Valentin
+
+ requesting and disseminating information about the Motion to Enforce. (Id.) In response, Walburn
+
+ notes that Valentin was an original Defendant and co-movant in the first motion to enforce, and
+
+ that “the work attributed to representing Valentin was equally attributable to representing Walburn
+
+ and is subject to award.” (ECF No. 203 at 3 n.3.) He adds that “Burnley fails to identify any fee or
+
+ cost attributable to Valentin’s representation alone.” (Id.).
+
+        As to the latter point, the Court notes that it is Walburn’s burden, not Burnley’s, to provide
+
+ adequate records in support of his request for reasonable attorneys’ fees. See Banks v. City of
+
+ Virginia Beach, No. 2:24-CV-149, 2026 WL 500857, at *1 (E.D. Va. Feb. 23, 2026). Further,
+
+ while the Court understands that Valentin previously moved to enforce the settlement agreement,
+
+ Valentin withdrew that motion on October 7, 2024. (ECF No. 165.) Nonetheless, the entries
+
+ sufficiently describe work done on Walburn’s behalf to progress the Motion to Enforce. (See ECF
+
+ No. 206-1.) Specifically, these emails requested evidence and information specifically relating to
+
+ the authenticity of the voice recording, as well as providing details about the evidentiary hearing
+
+
+
+                                                   8
+Case 3:23-cv-00160-RCY         Document 212           Filed 07/16/26    Page 9 of 21 PageID# 1397
+
+
+
+
+ to Walburn and Valentin. (ECF No. 206-1 at 2, 3.) Therefore, the Court finds that Walburn has
+
+ sufficiently provided adequate records showing that these entries are directly relevant to the legal
+
+ work done on his behalf to prevail on the Motion to Enforce.
+
+        D.      Burnley’s Request for the Judicial Recusal is Denied
+
+        Burnley raises, for the first time, an argument that the Court must recuse itself because
+
+ Burnley was:
+
+                prejudiced at the evidentiary hearing on March 4, 2026 as a result of
+                . . . prejudicial remarks made by Judge Colombell on November 17,
+                2023. Therefore, [Burnley] ask[s] Judge Colombell to recuse
+                himself from this case where he have [sic] shown to have a personal
+                interest in its outcome.
+
+ (ECF No. 202 at 5-6 (cleaned up).) Curiously, and only after the Court found in favor of Walburn
+
+ on his Motion to Enforce, Burnley now claims that the undersigned’s remarks during the parties’
+
+ settlement conference nearly three years ago are disqualifying under 28 U.S.C. Section 455(a).
+
+ However, Burnley has not adequately explained or provided sufficient support to substantiate his
+
+ claims that recusal is required under § 445(a), and the Court need not entertain mere conclusory
+
+ remarks about personal bias or prejudice. Moreover, even if Burnley’s serious allegations
+
+ regarding this Court’s impartiality are made in good faith, such behavior on the part of a settlement
+
+ judge does not rise to a level warranting recusal. See, e.g., Belue v. Leventhal, 640 F.3d 567, 573
+
+ (4th Cir. 2011) (“If it were otherwise—if strong views on a matter were disqualifying—then a
+
+ judge would hardly have the freedom to be a judge . . . ‘[E]xpressions of impatience,
+
+ dissatisfaction, annoyance, and even anger, that are within the bounds of what imperfect men and
+
+ women, even after having been confirmed as federal judges, sometimes display,’ are generally
+
+ insufficient to support a recusal motion.”) (quoting Liteky v. United States, 510 U.S. 540, 555-56
+
+ (1994)). Moreover, following the settlement conference, Burnley expressly agreed that the
+
+
+
+                                                  9
+Case 3:23-cv-00160-RCY         Document 212        Filed 07/16/26     Page 10 of 21 PageID# 1398
+
+
+
+
+  undersigned would retain jurisdiction to enforce the Settlement Agreement, which necessarily
+
+  indicates that the manner in which the undersigned conducted the settlement conference was not
+
+  disqualifying. Therefore, Burnley’s request for judicial recusal is DENIED.
+
+         E.      Service of the Declaration of Benjamin P. Abel and the Supplemental Matter
+                 Ledger Report
+
+         Finally, Burnley makes a series of grievances that do not pertain to the substance of the
+
+  Matter Ledger Report or its supplement; rather, they relate to the way it was produced to him and
+
+  filed. (ECF No. 208 at 2-3.) He accuses Walburn’s attorney of failing to serve him, via mail, with
+
+  a copy of the Declaration of Benjamin P. Abel (ECF No. 206) and the Supplemental Matter Ledger
+
+  Report (ECF No. 206-1) (ECF No. 208 at 2.) In response, Walburn claims that he filed the
+
+  Declaration of Benjamin P. Abel and the supplemental exhibit “on May 8, 2026, at approximately
+
+  6:46pm ET. Because this filing occurred on a Friday evening and after hours, [Walburn’s] counsel
+
+  was unable to send a copy of that filing to [Burnley] via U.S. Mail until the following Monday.”
+
+  (ECF No. 209 at 1.) Here, the Court finds Burnley’s grievances without merit, particularly because
+
+  Burnley himself “personally appeared at the front desk of the district court clerk’s office on May
+
+  12, 2026 and . . . was given a copy of Mr. Abel [sic] filing on May 8, 2026.” (ECF No. 208 at 2.)
+
+  Therefore, the Court will take no action on this grievance, as Burnley was neither prejudiced by
+
+  the delay nor was Walburn demonstrably out of compliance with this Court’s Memorandum Order.
+
+         Having found Burnley’s arguments regarding Walburn’s fees to be without merit, the Court
+
+  now turns to the assessment of Walburn’s reasonable attorneys’ fees.
+
+                                III.    STANDARD OF REVIEW
+
+         “Reasonableness is the touchstone of any award of attorneys’ fees and expenses.” Banks v.
+
+  City of Virginia Beach, No. 2:24-CV-149, 2026 WL 500857, at *1 (E.D. Va. Feb. 23, 2026)
+
+  (quoting SunTrust Mortg., Inc. v. AIG United Guar. Corp., 933 F. Supp. 2d 762,769 (E.D. Va.
+
+
+                                                 10
+Case 3:23-cv-00160-RCY          Document 212        Filed 07/16/26      Page 11 of 21 PageID# 1399
+
+
+
+
+  2013)). The party seeking attorneys’ fees bears the burden of demonstrating the reasonableness of
+
+  the fee request and must provide adequate records in support of the request. Id. (citations omitted).
+
+         The Fourth Circuit has outlined a three-step framework for calculating reasonable
+
+  attorneys’ fees: (1) determine the lodestar fee; (2) subtract fees for hours spent on unsuccessful,
+
+  unrelated claims; and (3) award some percentage of the remaining amount based on the degree of
+
+  success of the prevailing party. See McAfee v. Boczar, 738 F.3d 81, 88 (4th Cir. 2013).
+
+         The lodestar fee is determined “by multiplying the number of reasonable hours expended
+
+  times a reasonable rate.” Banks, 2026 WL 500857, at *2 (citation omitted). In making this
+
+  determination of reasonableness, the Fourth Circuit has adopted the twelve Johnson factors. 6 See
+
+  Barber v. Kimbrell’s Inc., 577 F.2d 216, 226 (4th Cir. 1978) (adopting the twelve factors set forth
+
+  in Johnson v. Ga. Highway Express, Inc., 488 F.2d 714, 717-19 (5th Cir. 1974)). The first factor
+
+  in the lodestar analysis, the number of hours reasonably expended, encompasses the first, second,
+
+  and seventh Johnson factors. See Page v. Virginia State Bd. of Elections, No. 3:13-CV-678, 2015
+
+  WL 11256614, at *3 (E.D. Va. Mar. 11, 2015) (citations omitted). The second multiplier, the
+
+  reasonable hourly rate, encompasses the third, fourth, fifth, sixth, and ninth Johnson factors. Id.
+
+  However, “to the extent that any of the Johnson factors has already been incorporated into the
+
+  lodestar analysis, such factor(s) should not later be considered a second time to make an upward
+
+  or downward adjustment to the lodestar figure because doing so would inappropriately weigh such
+
+
+
+
+  6
+   The Johnson factors include: (1) the time and labor required; (2) the novelty and difficulty of the
+  questions; (3) the skill requisite to properly perform the legal service; (4) the preclusion of other
+  employment by the attorneys due to acceptance of the case; (5) the customary fee; (6) whether the
+  fee is fixed of contingent; (7) time limitations imposed by the client or the circumstances; (8) the
+  amount involved and the results obtained; (9) the experience, reputation, and ability of the
+  attorneys; (10) the undesirability of the case; (11) the nature and length of the professional
+  relationship with the client; and (12) awards in similar cases. Banks, 2026 WL 500857, at *2.
+                                                   11
+Case 3:23-cv-00160-RCY           Document 212         Filed 07/16/26       Page 12 of 21 PageID# 1400
+
+
+
+
+  factor[s].” Prison Legal News v. Stolle, 129 F. Supp. 3d 390, 396 (E.D. Va. 2015), aff’d, 681 F.
+
+  App’x 182 (4th Cir. 2017) (citations omitted).
+
+                                           IV.     ANALYSIS
+
+           Walburn seeks an award for attorneys’ fees in the amount of $9,410.46. The Court will
+
+  determine a reasonable attorneys’ fees award by assessing the two lodestar multipliers, reducing
+
+  any award for unrelated and unsuccessful claims, and discussing the success of the prevailing
+
+  party.
+
+           A.     The Lodestar Fee
+
+                  1.      The Number of Hours Reasonably Expended
+
+           The Court must determine that the hours requested were “reasonably expended.” Banks,
+
+  2026 WL 500857, at *3 (citation omitted). In Walburn’s Motion for Attorneys’ Fees, the requested
+
+  fee award is based on a total of 50.2 billable hours for attorneys 7 and 1.4 billable hours for paralegal
+
+  staff. (ECF No. 200 at 3.) Burnley does not make arguments opposing any specific hours identified
+
+  on the attached “Matter Ledger Report,” other than general remarks that the requested fees are
+
+  “unreasonable and excessive.” (ECF No. 202 at 1.) Nevertheless, the Court will engage a thorough
+
+  review of Walburn’s requested fees. See Two Men & A Truck/Int’l, Inc. v. A Mover Inc., 128 F.
+
+  Supp. 3d 919, 925 (E.D. Va. 2015) (“In addition to considering materials submitted by the parties,
+
+  the court may, on its own, review the billing statement for reasonableness.”) (citation omitted).
+
+
+
+
+  7
+   Walburn’s filings include the following hours broken down for each attorney: (1) Attorney Julie
+  Palmer, 4.6 hours; (2) Attorney Benjamin Abel, 10.9 hours; (3) Attorney Austin Wade-Vicente,
+  25.5 hours; and (4) Attorney Soroush Moghaddassi, 9.2 hours. (ECF No. 200 at 3.)
+                                                     12
+Case 3:23-cv-00160-RCY            Document 212         Filed 07/16/26       Page 13 of 21 PageID# 1401
+
+
+
+
+          Ultimately, the Court finds that 41.0 hours were reasonably expended by attorneys and 1.4
+
+  hours were reasonably expended by paralegal staff. The Court explains the reduction of 9.2 hours
+
+  to the requested hours for attorneys below.
+
+                          a.      Billing of Clerical Tasks
+
+          The Court will reduce the attorneys’ hours by 0.8 based on the improper billing of clerical
+
+  tasks. See, e.g., Brown v. Mountainview Cutters, LLC, 222 F. Supp. 3d 504, 514 (W.D. Va. 2016)
+
+  (“[T]he court notes that ‘in this circuit . . . purely clerical tasks are ordinarily part of a law office’s
+
+  overhead, (which is covered in the hourly rate), [and] they should not be compensated for at all.’”)
+
+  (quoting Two Men & A Truck/Int’l, Inc., 128 F. Supp. 3d at 929). Accordingly, the Court has
+
+  identified the following clerical tasks that are not compensable:
+
+              1. Attorney Julie Palmer billed 0.1 hours on February 11, 2026 for “[p]repar[ing] and
+
+                  fil[ing] Notice of Appearance in district court.” (ECF No. 206-1);
+
+              2. Attorney Austin Wade-Vincente billed 0.3 hours on March 2, 2026 for a call with
+
+                  the Court “to discuss permission and protocol for bringing [a] laptop and [a] USB
+
+                  drive into [the] Court.” (Id.) He then billed 0.3 hours and 0.1 hours each on March
+
+                  2, 2026 related to drafting and printing an electronic authorization form related to
+
+                  the evidentiary hearing. (Id.)
+
+          Each of these entries is similar to the non-compensable clerical tasks identified by other
+
+  courts in this circuit. See Brown, 222 F. Supp. 3d at 514 (“Examples of clerical tasks include: filing
+
+  documents with the court, printing pleadings . . . emailing documents, and making logistical
+
+  telephone calls.”) (citation omitted). These tasks should not be billed at attorney or paralegal rates.
+
+
+
+
+                                                      13
+Case 3:23-cv-00160-RCY          Document 212         Filed 07/16/26       Page 14 of 21 PageID# 1402
+
+
+
+
+  See Banks, 2026 WL 500857, at *3. Therefore, the Court will reduce the attorneys’ hours by 0.8
+
+  hours. 8
+
+                          b.     Time Incurred for Evidentiary Hearing
+
+             Next, the Court addresses the hours billed by Attorneys Abel and Wade-Vicente with
+
+  regard to the March 4, 2026 evidentiary hearing: 1.5 hours and 1.6 hours, respectively. (ECF No.
+
+  206-1.) Attorney Abel’s entry states: “Attend court-mandated evidentiary hearing.” (ECF No. 200-
+
+  3.) Attorney Wade-Vicente’s entry is slightly more descriptive: “Attend and argue at evidentiary
+
+  hearing . . . on authentication of voice recording for the purpose of enforcing settlement
+
+  agreement.” (Id.) Based on the Court’s records and the transcript from the evidentiary hearing, the
+
+  hearing was less than thirty minutes long. 9 Absent further explanation for their accounting, the
+
+  Court finds a reasonable deduction is necessary to each attorney’s time spent at the roughly thirty-
+
+  minute evidentiary hearing. See, e.g., Harwood v. Am. Airlines, Inc., No. 1:17-CV-0484, 2019 WL
+
+  3244200, at *4 (E.D. Va. May 16, 2019) (“[V]ague billing entries present the same problem as
+
+  block billed entries - in both cases the court cannot ‘weigh the hours claimed and exclude hours
+
+  that were not reasonably expended.’”) (quoting Rum Creek Coal Sales v. Caperton, 31 F.3d
+
+  169,175 (4th Cir. 1994)). Factoring in that counsel were fifteen minutes early to the hearing and
+
+  stayed fifteen minutes after the hearing to discuss issues related to this matter, the Court finds that
+
+  billing 1.0 hours for each attorney is reasonable. Therefore, the Court will reduce the hours billed
+
+  for the evidentiary hearing by 0.5 and 0.6, respectively, to Mr. Abel and Mr. Wade-Vicente.
+
+
+
+
+  8
+    This reduction includes 0.1 hours for Attorney Julie Palmer and 0.7 hours for Attorney Austin
+  Wade-Vicente.
+  9
+    The court reporter’s transcript available to the Court (ECF No. 194) states that the hearing began
+  at 10:01 a.m. and concluded at 10:26 a.m.
+                                                    14
+Case 3:23-cv-00160-RCY           Document 212        Filed 07/16/26     Page 15 of 21 PageID# 1403
+
+
+
+
+                           c.     Hours Billed for Withdrawn Motion to Enforce
+
+            The Court will further reduce Walburn’s requested attorneys’ fees award based on his
+
+  withdrawn Motion to Enforce (ECF Nos. 162, 166). By way of background, Walburn filed a
+
+  Motion to Enforce the Settlement Agreement on August 27, 2024. (ECF No. 162.) By Order dated
+
+  October 1, 2024, the Court directed Walburn to file additional briefing certifying that Walburn had
+
+  satisfied the notice provision of the Settlement Agreement which requires that, prior to filing a
+
+  motion to enforce, the moving party provides a notice of breach to the party against whom
+
+  enforcement is sought. (ECF No. 164.) Shortly thereafter, Walburn filed a Motion to Withdraw
+
+  the August 27, 2024 Motion to Enforce, which the Court granted. (ECF Nos. 165, 166.)
+
+            Walburn now seeks 7.3 hours for work incurred between July 30, 2024 and October 10,
+
+  2024, all of which are related to Walburn’s withdrawn Motion to Enforce (ECF No. 162). (ECF
+
+  No. 200-2.) While pre-litigation work can be compensable, see, e.g., Page, 2015 WL 11256614,
+
+  at *11, that work must be “reasonably expended on the litigation.” Id. (citation omitted). Here, the
+
+  Court finds the 7.3 hours related to Walburn’s first motion to enforce is not compensable pre-
+
+  litigation work. The Court notes that Walburn withdrew the Motion only after the Court entered
+
+  an Order directing him to provide evidence that he complied with the very Settlement Agreement
+
+  he then sought to enforce. Given that Walburn subsequently withdrew the Motion after the Court’s
+
+  order, the Court finds it unreasonable to require Burnley to pay for legal work done on a Motion
+
+  that was facially deficient and which was voluntarily withdrawn before it became fully ripe for
+
+  review.
+
+            Indeed, in the billing entry dated October 30, 2024, roughly three weeks after withdrawing
+
+  the Motion to Enforce, Walburn’s attorney billed 0.5 hours to “Determine pre-conditions required
+
+  by Court/settlement agreement for bringing enforcement action of agreement against Plaintiff in
+
+
+
+                                                    15
+Case 3:23-cv-00160-RCY         Document 212        Filed 07/16/26      Page 16 of 21 PageID# 1404
+
+
+
+
+  order to avoid dismissal of enforcement action.” (ECF No. 200-2.) However, this work should
+
+  have been done prior to filing the first Motion to Enforce and, had it been done at that time, then
+
+  counsel might not have expended additional effort to re-brief and file the subsequent Motion to
+
+  Enforce on April 16, 2025. Had counsel determined the “pre-conditions required” for bringing the
+
+  enforcement action prior to filing it, then he would have avoided a majority of the 7.3 hours he
+
+  expended on the withdrawn Motion to Enforce. Therefore, the Court will reduce the attorney hours
+
+  by 7.3 to account for the hours billed by Attorney Soroush Moghaddassi related to the withdrawn
+
+  Motion to Enforce.
+
+                 2.     The Requested Hourly Rates are Reasonable
+
+         The remaining lodestar multiplier is the reasonable hourly rate. “This Court must . . .
+
+  determine whether [Walburn’s] fee request incorporates hourly rates that are ‘in line with those
+
+  prevailing in the community for similar services by lawyers of reasonably comparable skill,
+
+  experience, and reputation.’” Lux v. Judd, 868 F. Supp. 2d 519, 531 (E.D. Va. 2012) (quoting Blum
+
+  v. Stenson, 465 U.S. 886, 895 n.11 (1984)).
+
+         Here, Walburn provided the following hourly rates for the attorneys involved in this
+
+  settlement enforcement action. Attorney Julie Palmer ($195.00/hour); Attorney Benjamin Abel
+
+  ($195.00/hour); Attorney Austin Wade-Vicente ($180.00/hour); Attorney Soroush Moghaddassi
+
+  ($170.00/hour and $180.00/hour); and Paralegal Kendra Richman ($95.00/hour). (ECF No. 200 at
+
+  3; ECF No. 200-1 at 1-2.)
+
+         By affidavit, Walburn’s counsel, Julie Palmer, states that these rates are “comparable to
+
+  rates charged by Richmond lawyers of comparable experience in defense of similar cases.” (ECF
+
+  No. 200-1 at 1-2.) Further, Walburn cites a case in this division in which the court applied
+
+  reasonable hourly rates for Richmond, Virginia that were significantly higher than the hourly rates
+
+
+
+                                                  16
+Case 3:23-cv-00160-RCY           Document 212            Filed 07/16/26   Page 17 of 21 PageID# 1405
+
+
+
+
+  Walburn seeks here. (ECF No. 200 at 3 (citing Page v. Va. State Bd. of Elections, 2015 WL
+
+  11256614, at *5 (E.D. Va. Mar. 11, 2015)). While Burnley makes a general challenge to the overall
+
+  award requested, he does not specifically challenge the hourly rates or provide any cogent
+
+  argument related to the rates themselves. (See ECF No. 202 at 1 (“[Burnley] says that the attorney
+
+  fees are ‘unreasonable and excessive’ . . . .”).) 10
+
+          Walburn does not provide additional affidavits from attorneys outside of the law firm
+
+  Harmon, Claytor, Corrigan & Wellman regarding the prevailing market rates in Richmond for
+
+  similar work. See SS Richmond LLC v. Harrison, No. 3:22CV405, 2023 WL 7646505, at *6 (E.D.
+
+  Va. Nov. 14, 2023) (finding that the prevailing party failed to produce specific evidence of
+
+  prevailing market rates, in part, because the prevailing party did not file any affidavits from
+
+  attorneys outside of their own law firm). Therefore, the Court will “rely on its own knowledge to
+
+  determine the reasonable hourly rates in this community for attorneys of comparable skill,
+
+  experience and reputation.” Id. at *7.
+
+          Other cases in this division dealing with the prevailing market rates in Richmond have
+
+  found significantly higher hourly rates than those presented here to be reasonable, albeit from
+
+  larger law firms and in cases involving more complex litigation. See, e.g., Sealed Plaintiff 1 v.
+
+  Patriot Front, No. 3:22-CV-00670, 2026 WL 917477, at *4 (E.D. Va. Mar. 31, 2026) (concluding
+
+  that $400 and $600 hourly rates for associates and partners in Richmond, Virginia were reasonable
+
+  in a complex civil rights litigation); SS Richmond LLC, 2023 WL 7646505, at *7 (concluding that
+
+  $400 and $650 hourly rates for associates and partners in Richmond, Virginia were reasonable in
+
+
+
+
+  10
+    Burnley incorrectly relies on Colorado Bankers Life Ins. Co. v. Academy Financial Assets, LLC,
+  60 F.4th 148 (2023) (limiting attorneys’ fees to fifteen percent (15%) of the debt sued for under a
+  specific North Carolina statute) to the present action. This matter is decided on Virginia law, not
+  North Carolina law.
+                                                     17
+Case 3:23-cv-00160-RCY           Document 212       Filed 07/16/26      Page 18 of 21 PageID# 1406
+
+
+
+
+  a complex business dispute); Jones v. Southpeak Interactive Corp. of Delaware, No. 3:12CV443,
+
+  2014 WL 2993443, at *7-8 (E.D. Va. July 2, 2014), aff'd, 777 F.3d 658 (4th Cir. 2015) (finding
+
+  that $250 and $420 hourly rates for associates and partners in Richmond, Virginia were reasonable
+
+  in an employment discrimination action). While the previously cited cases involved issues more
+
+  complex than this matter, the Court nevertheless finds Walburn’s requested rates are reasonable
+
+  since Walburn seeks an award based on hourly rates that are significantly below what this Court
+
+  has previously found to be reasonable.
+
+          Applying the Johnson factors related to this multiplier (factors one, two, three, eight, and
+
+  nine) supports the reasonableness of the hourly rates sought by Walburn. Walburn’s counsel
+
+  expended considerable time since 2024 seeking to enforce the Settlement Agreement (factor one).
+
+  While there were not necessarily novel issues involved (factor two), the enforcement action
+
+  required moderate skill to identify and prove that Burnley was the individual who placed the call
+
+  to Walburn’s employer in violation of the Settlement Agreement (factor three). Walburn’s counsel
+
+  obtained a positive result for their client (factor eight) and have demonstrated experience and
+
+  ability in doing so (factor nine).
+
+          Therefore, for the second lodestar figure, the Court will apply the reasonable hourly rates
+
+  provided by Walburn.
+
+
+
+
+                                                  18
+Case 3:23-cv-00160-RCY            Document 212         Filed 07/16/26      Page 19 of 21 PageID# 1407
+
+
+
+
+                   3.      The Lodestar Summary
+
+            The Court’s lodestar fee, $7,445.00 is based on the calculations reflected in the table below.
+
+       Attorney Name       Hours Requested       Hours Awarded             Rate              Total
+
+        Julie S. Palmer        4.6 hours            4.5 hours 11         $195/hr            $877.50
+       Benjamin P. Abel       10.9 hours           10.4 hours 12         $195/hr           $2,028.00
+       Austin T. Wade-        25.5 hours           24.2 hours 13         $180/hr           $4,356.00
+            Vicente
+          Soroush N.       7.8 hours (2024)      .5 hours (2024) 14      $170/hr             $85.00
+         Moghaddassi       1.4 hours (2025)      1.4 hours (2025)        $180/hr            $252.00
+       Paralegal Kendra        1.4 hours             1.4 hours           $95/hr             $133.00
+           Richman
+             Totals       50.2 attorney hours   41.0 attorney hours          -             $7,731.50
+                            / 1.4 paralegal       / 1.4 paralegal
+                                 hours                 hours
+
+
+            B.     Reduction for Unrelated and Unsuccessful Claims
+
+            There were no unsuccessful claims as Walburn prevailed on his Motion to Enforce the
+
+  Settlement Agreement, therefore there will be no reduction based on this step. See, e.g., Torres-
+
+  Baez v. Giovenco-Montano, No. 2:20CV580, 2022 WL 15482678, at *11 (E.D. Va. Oct. 4, 2022),
+
+  report and recommendation adopted, No. 2:20-CV-580, 2022 WL 14975888 (E.D. Va. Oct. 26,
+
+  2022) (“Where the [prevailing party’s] claims are based on different facts and legal theories, and
+
+  the plaintiff has prevailed on only some of those claims, . . . these unrelated claims [must] be
+
+  treated as if they had been raised in separate lawsuits, and therefore no fee may be awarded for
+
+
+
+
+  11
+     Reduced by 0.1. See supra note 8 and accompanying text.
+  12
+     Reduced by 0.5 for the evidentiary hearing, see supra Section IV.A.1.b.
+  13
+     Reduced by 0.7 for clerical tasks, see supra Section IV.A.1.a;; and 0.6 for the evidentiary
+  hearing, see supra Section IV.A.1.b.
+  14
+     Reduced by 7.3 hours for the withdrawn motion to enforce. See supra Section IV.A.1.c.
+                                                      19
+Case 3:23-cv-00160-RCY              Document 212     Filed 07/16/26       Page 20 of 21 PageID# 1408
+
+
+
+
+  services on the unsuccessful claim.”) (quoting Tex. State Tchrs. Ass’n v. Garland Indep. Sch. Dist.,
+
+  489 U.S. 782, 789 (1989)).
+
+         C.      Degree of Success
+
+         The final step for the Court is to determine “what percentage of the lodestar figure to award
+
+  based on the degree of success enjoyed by the [prevailing party].” Page, 2015 WL 11256614, at
+
+  *13 (quotation and citations omitted). This determination is made by “comparing the relief sought
+
+  to that actually obtained.” Id.
+
+         In his Motion to Enforce, Walburn requested that the Court: (1) impose sanctions against
+
+  Burnley in the amount of $5,000; (2) assess costs and fees against Burnley; and (3) enter an order
+
+  barring [Burnley] from engaging in future violations of the Settlement Agreement. (ECF No. 168,
+
+  at 5.) By Memorandum Opinion and the accompanying Order dated March 18, 2026, the Court
+
+  found that Burnley had “not only circumvented the [S]ettlement [A]greement in bad faith, but
+
+  willfully breached it.” (ECF No. 195 at 15.) As such, the Court determined it would assess
+
+  reasonable attorneys’ fees and costs against Burnley, to be determined through a formal fee petition
+
+  by Walburn. (ECF Nos. 195, 196.)
+
+         Walburn obtained the only relief that the Settlement Agreement provided for: attorneys’
+
+  fees and costs. (See ECF No. 168-1, ¶ 9.) The Settlement Agreement did not provide for liquidated
+
+  damages, and the Court may not impose liquidated damages sua sponte in the absence of such a
+
+  provision. See, e.g., Golding v. Floyd, 261 Va. 190, 192 (2001) (“The guiding light [of contract
+
+  interpretation] . . . is the intention of the parties as expressed by them in the words they have used,
+
+  and courts are bound to say that the parties intended what the written instrument plainly declares.”)
+
+  (citation omitted).
+
+
+
+
+                                                    20
+Case 3:23-cv-00160-RCY         Document 212       Filed 07/16/26     Page 21 of 21 PageID# 1409
+
+
+
+
+          As Walburn was successful in proving Burnley violated the Settlement Agreement and was
+
+  awarded the only remedy available to him, the Court finds that no further reduction is necessary
+
+  based on the degree of success analysis. The Court is satisfied that Walburn “achieved a level of
+
+  success that makes the hours reasonably expended a satisfactory basis for making a fee award.”
+
+  Torres-Baez, 2022 WL 15482678, at *12 (citations omitted).
+
+          D.      Litigation Expenses
+
+          Walburn seeks $86.96 in expenses related to parking and mileage. (ECF No. 200-2.) These
+
+  expenses are identified on the “Matter Ledger Report” and supported by affidavit. (ECF No. 200-
+
+  1 at 2.) Burnley has not challenged these expenses. Given the parties’ Settlement Agreement that
+
+  provides for the prevailing party to recover expenses, the Court awards Walburn $86.96 in
+
+  expenses.
+
+                                        V.   CONCLUSION
+
+          For the reasons stated above, the Court will GRANT IN PART and DENY IN PART
+
+  Walburn’s Motion for Attorneys’ Fees (ECF No. 199) and make a downward adjustment to the
+
+  requested award. The Court hereby: (1) awards reasonable fees and litigation expenses in the
+
+  amount of $7,818.46 in favor of Walburn and against Burnley; and (2) denies Burnley’s request
+
+  for judicial recusal.
+
+          An appropriate Order will accompany this Memorandum Opinion.
+
+          Let the Clerk file a copy of the Memorandum Opinion electronically and send a copy to
+
+  John Rodgers Burnley.
+
+
+                                                            /s/
+                                              Mark R. Colombell
+                                              United States Magistrate Judge
+  Date: July 16, 2026
+  Richmond, Virginia
+
+
+                                                 21
+

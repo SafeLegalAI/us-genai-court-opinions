@@ -1,0 +1,360 @@
+JAMIE LEE SAUNDERS, Plaintiff, v. ALBERTSONS/SAFEWAY,..., Slip Copy (2026)
+
+
+                                                                 Public Policy against Defendant Safeway,” based on the
+                   2026 WL 1040465                               alleged “mishandling of products in the Meat Department”).
+      Only the Westlaw citation is currently available.          Dr. Echeverry is identified as an “Associate Professor of
+        United States District Court, D. Colorado.               Practice in Food Microbiology and Food Engineering” in the
+                                                                 “Department of Animal and Food Sciences at Texas Tech
+                                                                 University.” Expert Opinion of Alejandro Echeverry, Ph.D.,
+        JAMIE LEE SAUNDERS, Plaintiff,
+                                                                 dated June 16, 2025, ECF No. 96-2 at 4.
+                     v.
+   ALBERTSONS/SAFEWAY, LLC,1 and                                  *2 The record indicates that Ms. Saunders has paid Dr.
+                                                                 Echeverry a total of $10,000 thus far:
+   UNITED FOOD AND COMMERCIAL                                    $5,000 as an initial retainer and an additional $5,000 in expert
+  WORKERS UNION, LOCAL #7, Defendants.                           fees after that, realized over ten hours at a rate of $500 per
+                                                                 hour. See ECF No. 74-3 at 3 (referencing a $5,000 “Second
+          Civil Action No. 1:24-cv-00814-PAB-SBP                 Retainer” paid by Ms. Saunders on August 5, 2025). Ms.
+                               |                                 Saunders has offered no argument as to why the original
+                         04/16/2026                              $5,000 retainer could be charged to Safeway and, accordingly,
+                                                                 the court denies her request for reimbursement of that initial
+                                                                 retainer. As to the remaining $5,000 Ms. Saunders paid
+Susan Prose, United States Magistrate Judge
+                                                                 Dr. Echeverry, the court must decide whether Safeway is
+                                                                 obliged to reimburse that amount4 under Federal Rule of Civil
+ORDER
+                                                                 Procedure 26(b)(4)(E)(i), which states that “[u]nless manifest
+Susan Prose, United States Magistrate Judge                      injustice would result, the court must require that the party
+ *1 This matter comes before the court on three motions filed    seeking discovery pay the expert a reasonable fee for time
+by Plaintiff Jamie Lee Saunders: a motion for costs, ECF         spent in responding to discovery under Rule 26(b)(4)(A) or
+No. 74 (“Motion for Costs”); a motion for ruling (styled as      (D).”5 Safeway contends the answer to that question is no.
+a “Third Motion for Costs”), ECF No. 126; and a motion to
+strike a notice of lien filed by her former attorney, ECF No.    Safeway explains that it paid Dr. Echeverry $500—his
+125. The undersigned considers these motions pursuant to the     requested hourly rate—for each of the five hours he sat for his
+Order of Reference, ECF No. 32, the memoranda referring the      deposition on September 5, 2025, for a total payment to him
+motions, ECF Nos. 75, 127, and 28 U.S.C. § 636(b)(1).            of $2,500. See ECF No. 76-1. This, Safeway argues, is the
+                                                                 “time [he] spent in responding to discovery,” ECF No. 76 at 4
+The court has reviewed the motions, the related filings, and     (quoting Fed. R. Civ. P. 26(b)(4)(E)(i)), and “Plaintiff's expert
+the applicable law. For the reasons set forth below, the court   witness deposition preparation is an expense that properly fell
+now respectfully issues the following ORDER2 concerning          on Plaintiff.” Id. (citing Benjamin v. Gloz, 130 F.R.D. 455, 457
+each of the motions.                                             (D. Colo. 1998)). The analysis of whether a party is entitled
+                                                                 to compensation for an expert's deposition preparation time is
+                                                                 somewhat more nuanced than Safeway acknowledges.
+A. Motion for Costs (ECF No. 74)3
+
+1. Background                                                    2. Legal Principles
+Ms. Saunders, a former meat cutter at Safeway's store in         Nothing in Rule 26(b)(4)(E)(i) itself, or in the accompanying
+Montrose, Colorado, see ECF No. 1 ¶ 3, disclosed Alejandro       Advisory Committee Note—which states only that “the
+Echeverry, Ph.D., as an expert witness “on the Food & health     expert's fees for the deposition will ordinarily be borne by the
+Safety issued [sic] raised in her complaint” and the “Public     party taking the deposition”—explicitly defines “responding
+Policy claim set forth in her complaint[.]” See Plaintiff's      to discovery” to encompass an expert's deposition preparation
+Expert Witness's Report Disclosure dated June 19, 2025, ECF      time. See Fed. R. Civ. P. 26 advisory committee's note
+No. 96-2 at 1; see also ECF No. 1 ¶¶ 139-149 (claim asserting    to 1993 amendment; see also Fiber Optic Designs, Inc.
+“Retaliation, Harassment and Wrongful Termination for            v. New England Pottery, LLC, 262 F.R.D. 586, 591 (D.
+Reporting Compliance and Safety Issues in violation of           Colo. 2009) (observing that “Rule 26(b)(4)(C)6 does not
+
+
+               © 2026 Thomson Reuters. No claim to original U.S. Government Works.                                             1
+JAMIE LEE SAUNDERS, Plaintiff, v. ALBERTSONS/SAFEWAY,..., Slip Copy (2026)
+
+
+specifically address whether fees can be recovered for time            preparing for a deposition falls within this language.
+spent preparing for a deposition, and case law does not                So all of the circuit courts to have considered this
+provide any consistent guidance for resolving that issue”).            question have held that experts may seek compensation
+This court has located no opinion by the Tenth Circuit Court of        for deposition preparation.
+Appeals evaluating whether expert witness fees for deposition       Phillips v. Tangilag, 14 F.4th 524, 543 (6th Cir. 2021)
+preparation time are recoverable under Rule 26(b)(4)(E)(i),         (emphasis added) (citing Halasa v. ITT Educ. Servs., Inc., 690
+and the parties have pointed to none.                               F.3d 844, 852 (7th Cir. 2012) (affirming decision to reimburse
+                                                                    an expert for deposition preparation); Knight v. Kirby Inland
+ *3 Courts within the Tenth Circuit have expressed differing        Marine Inc., 482 F.3d 347, 356 (5th Cir. 2007) (affirming
+points of view on the question of compensability of                 award of discovery costs, including deposition preparation
+preparation time for expert depositions. See Sterisil, Inc. v.      time of two expert witnesses); Haarhuis v. Kunnan Enters.,
+ProEdge Dental Prods., Inc, No. 13-cv-01210-REB, 2019               Ltd., 177 F.3d 1007, 1015 (D.C. Cir. 1999)). Very recently,
+WL 1429280, at *4 (D. Colo. Mar. 29, 2019) (finding                 the Ninth Circuit “join[ed] the Fifth, Sixth, Seventh, and D.C.
+that “[c]ompensation for reasonable [expert deposition]             Circuits in holding that reasonable expert witness deposition
+preparation time is reasonable,” and awarding 7.5 hours             preparation fees are recoverable under Rule 26. [Plaintiffs’]
+of preparation time for an expert's deposition that lasted          suggestion that such fees are never recoverable cannot be
+seven hours) (citing McCulloch v. Hartford Life and Accident        squared with Rule 26’s plain text, which requires the ‘party
+Ins. Co., No. Civ. 3:01CV1115AHN, 2004 WL 2601134,                  seeking discovery’ to ‘pay the expert a reasonable fee for
+at *2 (D. Conn. 2004)); Fiber Optic Designs, 262 F.R.D.             time spent in responding to discovery under Rule 26(b)(4)
+at 594 (“elect[ing] to follow the line of cases requiring           (A).’ ” Miller v. Sawant, 114 F.4th 1071, 1076 (9th Cir. 2024)
+reimbursement under Rule 26(b)(4)(C) for an expert's                (quoting Fed. R. Civ. P. 26(b)(4)(E)) (citing Phillips, 14 F.4th
+deposition preparation,” and ordering reimbursement for             at 543); id. at 1075 (observing that “all of the circuit courts to
+four hours of deposition preparation time, rather than the          have considered this question have held that experts may seek
+requested sixteen hours); Gloz, 130 F.R.D. at 457 (finding          compensation for deposition preparation”) (quoting Phillips,
+that “exclusion of ‘preparation’ time is supported by the lack      14 F.4th at 543).
+of a provision for compensation for time spent by experts
+in responding to interrogatories under Rule 26(b)(4)(A)(i)”)        This court, like the many others referenced here, cannot
+(quoting Rhee v. Witco Chem. Corp., 126 F.R.D. 45, 47 (N.D.         reasonably construe Rule 26(b)(4)(E)(i), and its “time spent
+Ill. 1989)); Cricut, Inc. v. Enough for Everyone, Inc., No.         in responding to discovery” language, as imposing a ban on
+2:21-cv-00601, 2024 WL 1585600, at *2 (D. Utah Apr. 11,             recovery for time an expert expends in deposition preparation.
+2024) (declining to shift fees for time spent preparing for an      The court is not persuaded to a different interpretation by
+expert deposition “[a]gainst [a] legal backdrop” in which “the      Safeway's argument that “ ‘time spent in responding to
+Tenth Circuit has not addressed this issue and district courts in   discovery’ does not include the time an expert spen[ds]
+this circuit are divided”); Jones v. OfficeMax N. Am., Inc., No.    preparing for deposition” where, as here, “a deposition is
+17-1219-JTM-KGG, 2018 WL 6590100, at *1 (D. Kan. Dec.               wholly related to pending litigation,” ECF No. 76 at 3
+14, 2018) (“Courts have interpreted the phrase ‘time spent in       (emphasis added)—a proposition that appears to be premised
+responding to discovery’ to include the ‘expert's reasonable        on language extracted from the Fiber Optic Designs case.
+time in preparation for the deposition.’ ”) (quoting Monsour's      Safeway, in this court's view, reads too much into the “wholly
+Inc. v. Menu Maker Foods, Inc., No. 05-1204-MLB, 2007 WL            related” language from that case, which merely reflected
+437780, at *1-2 (D. Kan. Feb. 6, 2007)).                            that court's observation that the plaintiffs reaped a double
+                                                                    benefit from the deposition of defendant's expert because
+Looking outside the Tenth Circuit, all Circuit Courts of            there was a related parallel proceeding before the United
+Appeals to address the matter have construed Rule 26(b)(4)          States Patent and Trademark Office. See 262 F.R.D. at 594
+(E) as encompassing expert witness fees for preparation of          (“Having made the tactical decision to take [the] deposition
+deposition testimony. As the Sixth Circuit Court of Appeals         [of the defendant's expert] in advance of a USPTO ruling
+observed:                                                           and the filing of dispositive motions in this case, I conclude
+                                                                    that Plaintiffs reaped the lion's share of any benefit derived
+  This text [of Rule 26(b)(4)(E)(i)] is not limited to an           from the expert's deposition preparation.”). Yet the court in
+  expert's time in the deposition; it covers the expert's           Fiber Optic Designs still made a partial award for the expert's
+  “time spent in responding to discovery.” The time spent
+
+
+                © 2026 Thomson Reuters. No claim to original U.S. Government Works.                                                2
+JAMIE LEE SAUNDERS, Plaintiff, v. ALBERTSONS/SAFEWAY,..., Slip Copy (2026)
+
+
+deposition preparation time. Put simply, the court neither           ECF No. 76 at 2. In total, the bill reflects 3.0 hours
+made nor recognized a rule that expert deposition preparation        for preparation of documentary materials in response
+fees cannot be recovered in cases where the deposition is            to the subpoena. Id. Dr. Echeverry also bills for a
+“wholly related” to the litigation, nor does this court find any     “Conference Call Laureen Rogers (Holland & Hart)
+justification for doing so.                                          Document Preparation and secure sharing link, Deposition
+                                                                     Details,” on which he expended 1.50 hours. Id.; see also
+ *4 Regardless, this court is not obliged to shift all of Dr.        September 2, 2025 email from Laurie Rogers at Holland &
+Echeverry's deposition preparation time to Safeway without           Hart LLP to Ms. Saunders, ECF No. 74-2 at 1 (stating that
+further consideration of the question. Instead, reasonableness       “my office worked with Dr. Echeverry directly to obtain
+is the touchstone for the court's assessment because only “a         the documents responsive to Safeway's subpoena request
+reasonable fee for time spent in responding to discovery”            to him,” and that “[a]ll of the documents he produced to us
+need be paid. Fed. R. Civ. P. 26(b)(4)(E)(i) (emphasis added);       were provided to you and the Union”).
+see, e.g., Cricut, 2024 WL 1585600, at *2 (recognizing as
+“the fundamental questions governing whether an expert's             • 5.5 hours for deposition preparation: Dr. Echeverry
+deposition preparation time may be properly shifted under            describes his deposition preparation as “Colorado Retail
+the rule” to be whether the fee was “reasonable” and whether         Food Establishment Rules and Regulations”; “Colorado
+the expert's “bill reflects only ‘time spent in responding to        Retail Food Establishment Rules and Regulations, 2013
+discovery under Rule 26(b)(A)(4)’ ”). “The party seeking             & 2024 versions”; “FDA 2022 Food Code”; and “Final
+reimbursement for the fee bears the burden of establishing           Opinion.” ECF No. 76 at 2. Although not clearly
+reasonableness.” Cricut, 2024 WL 1585600, at *3 (citation            articulated, the court assumes that Dr. Echeverry means to
+modified) (citing Barnes v. District of Columbia, 272 F.R.D.         state that he prepared for his deposition by reviewing these
+135, 137 (D.D.C. 2011)); Fiber Optic Designs, 262 F.R.D.             materials, including the report he generated in this case.
+at 589 (same). In assessing the reasonableness of the fee,
+                                                                     • .50 hours for a conference call with Ms. Saunders:
+courts look to a variety of factors: “(1) the witness’ area of
+                                                                     Dr. Echeverry seeks $250 for a thirty-minute conference
+expertise; (2) the education and training required to provide
+                                                                     call with Ms. Saunders on August 1, 2025, regarding
+the expert insight that is sought; (3) the prevailing rates of
+                                                                     “Deposition update, Document Delivery.” Id.
+other comparably respected available experts; (4) the nature,
+quality and complexity of the discovery responses provided;
+                                                                   Examining the record here pursuant to a reasonableness
+(5) the fee actually being charged to the party who retained the
+                                                                   standard, the court begins by observing that Safeway has
+expert; (6) fees traditionally charged by the expert on related
+                                                                   not contested the reasonableness of Dr. Echeverry's rate of
+matters; and [7] any other factor likely to be of assistance to
+                                                                   $500 per hour, at least insofar as that is his fee for the time
+the court in balancing the interests implicated by Rule 26.”
+                                                                   he actually spent in deposition; as to the reasonableness of
+Young v. Glob. 3, Inc., No. CIV.A.03-N-2255(CBS), 2005
+                                                                   any fee for deposition preparation time, Safeway has not
+WL 1423594, at *1 (D. Colo. May 26, 2005) (quoting U.S.
+                                                                   addressed the question. See generally ECF No. 76. Safeway
+Energy Corp. v. Nukem, Inc., 163 F.R.D. 344, 345-46 (D.
+                                                                   also has not disputed the reasonableness of the foregoing
+Colo. 1995)).
+                                                                   breakdown of Dr. Echeverry's pre-deposition activities. Even
+                                                                   so, Ms. Saunders has presented nothing that would allow
+3. Application of the Legal Principles to the Facts Here           the court to evaluate the reasonableness of the $500-per-
+Dr. Echeverry's August 26, 2025 bill to Ms. Saunders contains      hour fee demanded by an expert in food safety—including
+the following categories of pre-deposition activities billed by    any information about the rates of other experts in this field,
+Dr. Echeverry at a rate of $500 per hour for most of the           see generally ECF Nos. 74, 77, 84—and so the court may
+activities, with the exception of a $250 hourly rate for one       exercise its discretion in determining a reasonable fee for
+call with Ms. Saunders and one half-hour block for “Material       Dr. Echeverry's pre-deposition activities. See, e.g., Oakley v.
+                                                                   MSG Networks, Inc., No. 17-CV-6903 (RJS) (RFT), 2025
+Preparation” for defense counsel7 :
+                                                                   WL 3041936, at *16-17 (S.D.N.Y. Oct. 31, 2025) (“Where
+  • 4.5 hours for responding to Safeway's subpoena                 parties do not provide sufficient evidence to support the
+  and communications with defense counsel: Under the               reasonableness of the rate requested, courts may use their
+  heading “Material Preparation,” Dr. Echeverry lists a            discretion to determine a reasonable fee or ‘simply apply
+  “Subpoena Duces Tecum,” which defense counsel issued.            an across-the-board reduction of expert's fees.’ ”) (quoting
+
+
+                © 2026 Thomson Reuters. No claim to original U.S. Government Works.                                            3
+JAMIE LEE SAUNDERS, Plaintiff, v. ALBERTSONS/SAFEWAY,..., Slip Copy (2026)
+
+
+Matteo v. Kohl's Dept. Stores, Inc., No. 09-CV-7830 (RJS),          Next, as to Dr. Echeverry's rate for this work, in his
+2012 WL 5177491, at *5 (S.D.N.Y. Oct. 19, 2012), aff'd, 533         report, he stated that his rate for “review of documents
+F. App'x 1 (2d Cir. 2013)); Addison v. Gordon, 338 F.R.D. 577,      and materials” is $250 per hour, in contrast with his $500-
+579 (S.D.N.Y. 2021) (“If the parties provide little evidence to     per-hour rate for the deposition itself. Id. at 6. In the
+support their interpretation of a reasonable rate, the court may    absence of any information concerning “the prevailing rates
+use its discretion to determine a reasonable fee.”) (quotation      of other comparably respected available experts” or “fees
+omitted); Kernke v. Menninger Clinic, Inc., No. 00-cv-2263-         traditionally charged by the expert on related matters,” which
+GTV, 2002 WL 334901, at *1 (D. Kan. Feb. 26, 2002) (same).          Ms. Saunders did not provide,8 see Young, 2005 WL 1423594,
+                                                                    at *1, the court finds the $250-per-hour rate reasonable for
+ *5 Start with the work that Dr. Echeverry did in                   the time Dr. Echeverry expended in responding to Safeway's
+response to Safeway's subpoena, including pre-deposition            subpoena and for his conversations with defense counsel.
+communications with defense counsel. This is the type of            ECF No. 76 at 2; see Oakley, 2025 WL 3041936, at *18
+work ordinarily deemed to be compensable under Rule 26(b)           (concluding that “[t]he time spent on the work appears
+(4)(E). See, e.g., Cash v. Laurens Cnty., No. 6:23-CV-1235-         reasonable, but because Defendant has not shown that [the
+DCC-TER, 2025 WL 509272, at *3 (D.S.C. Feb. 14,                     expert's] rates were reasonable, I award Defendant half the
+2025) (“Because time spent preparing documents requested            fees requested in connection with [the expert's] work”).
+in connection with a deposition is time preparing for a
+deposition, the undersigned agrees with Defendant that it           Accordingly, Safeway is ordered to pay Dr. Echeverry $500
+is compensable under Rule 26(b)(4)(E).”); Thorne v. Union           —for two hours of time compensated at a rate of $250 per
+Pac. Corp., No. 1:15-CV-561-RP, 2018 WL 11422083, at                hour—for his work in responding to Safeway's subpoena,
+*2 (W.D. Tex. Sept. 27, 2018) (“Time an expert spends               including his communications with defense counsel regarding
+responding to a deposition subpoena is time spent preparing         the subpoena and deposition logistics.
+for that deposition. The Court therefore finds that time spent
+responding to a deposition subpoena is compensable under            Turning next to the “Deposition Preparation” component
+Rule 26(b)(4)(E)(i), so long as it is reasonable.”). Safeway        of Dr. Echeverry's bill, several points bear emphasizing.
+does not address this point, nor does it attempt to challenge the   First, the record suggests no particular complexity in the
+conclusion that Dr. Echeverry expended a reasonable amount          analysis provided by Dr. Echeverry. See Young, 2005 WL
+of time in doing it.                                                1423594, at *1. His June 16, 2025 report hinges on two
+                                                                    points: (1) his review of “photographic evidence,” i.e.,
+Nevertheless, it was Ms. Saunders's burden to demonstrate           photographs taken by Ms. Saunders during her employment
+that the amount she seeks for Dr. Echeverry's work was              with Safeway, and (2) Safeway's purported failure to maintain
+reasonable, and this she has failed to do. She did not place        certain records. See generally ECF No. 96-2 passim (repeated
+the subpoena in the record, and the list of discovery materials     references to “lack of records,” “lack of equipment logs,”
+Dr. Echeverry reviewed in preparing his expert report just ten      “lack of temperature logs,” and “lack of product traceability
+weeks prior to his scheduled deposition is limited and would        and supplier verification documentation”). Second, the
+have been readily accessible to him. See ECF No. 96-2 at 5-6.       finalization of Dr. Echeverry's report occurred just seven
+And to the extent Dr. Echeverry was asked to produce the            weeks before the first billing entry reflecting his deposition
+seven documents contained within the “References” section           preparation on August 6, 2025. See ECF No. 76 at 2.
+of his report, see id. at 29-30, these are materials published
+by federal and state regulatory agencies to which an expert in       *6 Under these circumstances—where the subject of
+food safety presumably would have had ready access. Taking          an expert's deposition was a very recently prepared,
+into account these circumstances—and with no information            straightforward report focused on the alleged nonexistence of
+concerning the exact length of time Dr. Echeverry spoke             records—the court does not find the deposition preparation
+by phone with defense counsel to accomplish the simple              time for which reimbursement is sought to be reasonable. The
+logistical tasks of disseminating his responses to the subpoena     court respectfully declines to countenance the idea that 5.5
+and setting up his remote deposition—the court reduces the          hours of preparation was required to prepare for a five-hour
+compensable hours for this category of work from 4.5 hours          deposition. That said, it is reasonable for an expert witness to
+to two hours.                                                       spend some amount of time preparing for a deposition. See
+                                                                    Sterisil, 2019 WL 1429280, at *2. Exercising its discretion
+
+
+
+                © 2026 Thomson Reuters. No claim to original U.S. Government Works.                                              4
+JAMIE LEE SAUNDERS, Plaintiff, v. ALBERTSONS/SAFEWAY,..., Slip Copy (2026)
+
+
+                                                                    ***
+to consider the close proximity between the finalization of
+Dr. Echeverry's report and his deposition, the straightforward
+                                                                    Based on the relevant record and in accordance with the
+nature of the opinions at issue, and a record that reflects no
+                                                                    analysis set forth above, the court respectfully orders that
+significant complexity, the court finds that it is reasonable
+                                                                    Safeway pay to Dr. Echeverry a total of $1,125 for 4.5 hours
+to attribute 2.5 hours of Mr. Echeverry's time as necessary
+                                                                    of his pre-deposition preparation work, at a rate of $250 per
+to prepare for his deposition and to award him fees for that
+                                                                    hour.
+time in the amount of $250 per hour—the hourly amount
+that he bills for “review of documents and materials,” see
+ECF No. 96-2 at 6—for a total of $625 for his deposition            B. Other Motions (ECF Nos. 125, 126)
+preparation work. See Hampton v. Utah Dep't of Corr., No.           The court construes Ms. Saunders's Third Motion for Costs
+1:18-cv-00079-CMR, 2022 WL 22888394, at *4 (D. Utah                 (ECF No. 126) as a motion for a ruling on the Motion for
+Jan. 31, 2022) (“[T]he court is not persuaded that a $500           Costs docketed at ECF No. 74. Accordingly, the Motion at
+hourly rate for preparation time is reasonable given that this      ECF No. 126 is granted through the issuance of this Order.
+was the rate charged for attending the deposition.”) (citing
+Boos, 212 F.R.D. at 580) (declining to apply the same hourly        With regard to Ms. Saunders's motion to strike her former
+rate for preparation time and deposition time and finding $200      attorney's notice of lien (ECF No. 125), Ms. Saunders does
+per hour to be a more reasonable rate for preparation time than     not address why striking the notice of lien would be an
+the $500 per hour claimed by expert)).                              appropriate remedy to impose in response to the deficiencies
+                                                                    alleged by Ms. Saunders. The court finds no cause to strike the
+Finally, the court finds that it is not reasonable to award Dr.     notice of lien, nor does the court find it necessary to address
+Echeverry $250 for a thirty-minute conference call with Ms.         the validity of the notice at this time. Accordingly, the motion
+Saunders on August 1, 2025, concerning “Deposition update,          to strike is denied.
+Document Delivery.” ECF No. 96 at 2. Time that an expert
+spends conferring with a party (or, more typically, a party's
+attorney) in preparation for a deposition is generally not          C. Conclusion
+compensable. See, e.g., Hampton, 2022 WL 22888394, at *2            Consistent with the foregoing analysis, it is respectfully
+(“[T]he court agrees with Defendant that the opposing party
+‘is not responsible to pay for the time that [the expert witness]   ORDERED that Plaintiff's Motion for Costs (ECF No. 74)
+spent meeting with [the retaining] attorneys to review her          is GRANTED in part and DENIED in part. Defendant
+preparation.’ ”) (quoting Conroy v. Schafer, No. 2:06-cv-867,       Safeway Inc. is ordered to pay Dr. Echeverry $1,125 for his
+2010 WL 11566118, at *1 n.13 (D. Utah Feb. 24, 2010) (citing        pre-deposition preparation work as delineated above. It is
+Boos, 212 F.R.D. at 580; Sinclair v. Hembree & Hodgson              further
+Constr., L.L.C., No. CIV-18-938-D, 2020 WL 6479782, at
+*4 (W.D. Okla. July 14, 2020) (“Although Rule 26(b)(4)(E)           *7 ORDERED that Plaintiff's motion seeking a ruling (ECF
+encompasses a reasonable fee for time spent by an expert            No. 126) is GRANTED. It is further
+preparing for a deposition, it does not include compensation
+for time devoted by the retaining attorney to defending the         ORDERED that Plaintiff's motion to strike (ECF No. 125) is
+deposition.”)); Cricut, 2023 WL 8019047, at *2 (D. Utah,            DENIED.9
+Nov. 20, 2023) (“[T]ime spent consulting with counsel is
+commonly excluded—even by courts holding that deposition
+preparation is generally compensable. The rationale for fee-        DATED: April 16, 2026 BY THE COURT:
+shifting under Rule 26(b)(4)(E) does not support requiring
+Defendants to pay for such consultation, which may fairly be        Susan Prose
+characterized as part of trial preparation.”).
+                                                                    United States Magistrate Judge
+
+The court discerns no justification for taking a different          All Citations
+approach here and accordingly awards no fees for
+conversations between Ms. Saunders and Dr. Echeverry.               Slip Copy, 2026 WL 1040465
+
+
+
+
+                © 2026 Thomson Reuters. No claim to original U.S. Government Works.                                              5
+JAMIE LEE SAUNDERS, Plaintiff, v. ALBERTSONS/SAFEWAY,..., Slip Copy (2026)
+
+
+
+
+Footnotes
+1     Counsel has explained that this defendant is properly referred to as “Safeway Inc.,” see ECF No. 76 at 1, and so the
+      court will refer to it as “Safeway” in this Order.
+
+2     Because the motions addressed here are non-dispositive, the court proceeds by order. See Fiber Optic Designs, Inc.
+      v. New England Pottery, LLC, 262 F.R.D. 586, 594 (D. Colo. 2009) (magistrate judge granting in part and denying in
+      part a request to shift deposition-related fees via an order); see also Fed. R. Civ. P. 72(a) (“When a pretrial matter not
+      dispositive of a party's claim or defense is referred to a magistrate judge to hear and decide, the magistrate judge must
+      promptly conduct the required proceedings and, when appropriate, issue a written order stating the decision.”).
+
+3     As a preliminary matter, in its surreply, Safeway includes an embedded motion to strike the Motion for Costs on grounds
+      that Ms. Saunders's reply brief was not timely filed and that she relied on a fictional, AI-generated case. See ECF No.
+      86 at 3; see also ECF No. 77 at 3 (citing Lampe v. United States, 18 F. App'x 744 (10th Cir. 2001)). The court declines
+      to strike the Motion for Costs. The approximately two-week delay in filing the reply caused no prejudice to Safeway, and
+      as to the reference to an AI-generated case, Ms. Saunders has acknowledged this error and apologized to the court and
+      opposing counsel. See ECF No. 84 at 2. Ms. Saunders, however, is respectfully warned that future filings must comply
+      with all applicable procedural rules and that citing to hallucinated cases may result in her filings being stricken without
+      further analysis.
+
+4     Ms. Saunders asks the court to direct that Safeway pay this $5,000 directly to Dr. Echeverry. ECF No. 74 at 3.
+
+5     Rule 26(b)(4)(A) permits the deposition of experts, and Rule 26(b)(4)(D) regulates discovery of experts employed only
+      for trial preparation.
+
+6     This is the predecessor version of Rule 26(b)(4)(E)(i). See Boos v. Prison Health Servs., 212 F.R.D. 578, 579 (D. Kan.
+      2002) (observing that “[p]ursuant to Federal Rule of Civil Procedure 26(b)(4)(C)(i), a party seeking discovery from an
+      expert is required to pay ‘a reasonable fee for time spent in responding to discovery’ ”).
+
+7     It is unclear to the court why the latter work was billed at a $250 hourly rate in one instance and at a $500 hourly rate
+      in other instances.
+
+8     Although not obliged to do so, the court undertook its own research on this point, utilizing the Westlaw database, and
+      was unable to locate any information identifying rates for comparable experts in the food safety arena.
+
+9     Rule 72 of the Federal Rules of Civil Procedure provides that within fourteen (14) days after service of a Magistrate
+      Judge's order or recommendation, any party may serve and file written objections with the Clerk of the United States
+      District Court for the District of Colorado. 28 U.S.C. §§ 636(b)(1)(A), (B); Fed. R. Civ. P. 72(a), (b). Failure to make any
+      such objection will result in a waiver of the right to appeal the Magistrate Judge's order or recommendation. See Sinclair
+      Wyo. Ref. Co. v. A & B Builders, Ltd., 989 F.3d 747, 783 (10th Cir. 2021) (firm waiver rule applies to non-dispositive
+      orders); but see Morales-Fernandez v. INS, 418 F.3d 1116, 1119, 1122 (10th Cir. 2005) (firm waiver rule does not apply
+      when the interests of justice require review, including when a “pro se litigant has not been informed of the time period
+      for objecting and the consequences of failing to object”).
+
+
+
+End of Document                                                      © 2026 Thomson Reuters. No claim to original U.S.
+                                                                                                 Government Works.
+
+
+
+
+              © 2026 Thomson Reuters. No claim to original U.S. Government Works.                                              6
+

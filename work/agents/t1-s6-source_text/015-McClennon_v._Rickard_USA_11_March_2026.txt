@@ -1,0 +1,1225 @@
+    Case 1:24-cv-10053-VSB-BCM                   Document 50   Filed 03/11/26   Page 1 of 22
+
+
+
+
+UNITED STATES DISTRICT COURT
+SOUTHERN DISTRICT OF NEW YORK
+----------------------------------------------------------X
+                                                          :
+DONTE MCCLELLON,                                          :
+                                                          :
+                                        Petitioner,       :
+                                                          :    24-CV-10053 (VSB) (BCM)
+                      - against -                         :
+                                                          :      OPINION & ORDER
+                                                          :
+E. RICKARD, Warden of FCI Otisville; and :
+WILLIAM K. MARSHALL III, Director of                      :
+Federal Bureau of Prisons,                                :
+                                                          :
+                                         Respondents. :
+                                                          :
+----------------------------------------------------------X
+
+Appearances:
+
+Donte McCellon
+Seattle, WA
+Pro se Petitioner
+
+Leslie A. Ramirez-Fisher
+United States Attorney’s Office, SDNY
+New York, NY
+Counsel for Respondents
+
+VERNON S. BRODERICK, United States District Judge:
+
+        Petitioner Donte McClellon (“McClellon” or “Petitioner”) filed a motion for a writ of
+
+habeas corpus pursuant to 28 U.S.C. § 2241 (“Petition”) seeking to apply his earned time credits
+
+to recalculate his sentence of incarceration. (Docs. 1 (“Pet.”), 17 (“Am. Pet.”).) Before me is the
+
+Report and Recommendation of United States Magistrate Judge Barbara C. Moses (the “Report”
+
+or “R&R”) recommending that I deny the Petition, (Doc. 30 (“Report”)), Petitioner’s Motion for
+
+a Preliminary Injunction and Temporary Restraining Order, (Doc. 31), and Petitioner’s Motion
+
+for Reconsideration of Denial of Appointment of Counsel, (Doc. 49). Petitioner’s objections (the
+    Case 1:24-cv-10053-VSB-BCM                     Document 50            Filed 03/11/26         Page 2 of 22
+
+
+
+
+“Objections”) to the Report are also before me. (Doc. 47 (“Obj.”).) 1 Because Petitioner fails to
+                                                                                  0F
+
+
+
+
+raise any proper objections to the Report and raises arguments that are not grounded in the record
+
+or the law, I ADOPT the Report in almost its entirety and DENY the Petition. Moreover, I also
+
+DENY Petitioner’s Motion for a Preliminary Injunction and Temporary Restraining Order, (Doc.
+
+31), and his Motion for Reconsideration of Denial of Appointment of Counsel, (Doc. 49), as
+
+moot.
+
+                  Background 2    1F
+
+
+
+
+         On December 21, 2018, Congress enacted the First Step Act (“FSA”), which permits
+
+federal inmates to participate in recidivism reduction programs to earn time credits qualifying
+
+them for early release from custody. See 18 U.S.C. §§ 3632(d)(4), 3624(g)(1). Under this
+
+system, an incarcerated person who successfully completes evidence-based recidivism reduction
+
+(“EBBR”) programming or “productive activities” (“PAs”), id. § 3632(d)(4), earns “credits [that]
+
+may be applied either toward earlier placement in pre-release custody or toward a term of
+
+supervised release.” Rodriguez-Morales v. Jamison, No. 23-CV-7956, 2024 WL 4479911, at *1
+
+(S.D.N.Y. Sept. 24, 2024).
+
+
+
+1
+  Petitioner claims in his objections that he was never served with a copy of the Report and proceeds based “on the
+docket summary available for free via PacerMonitor.com and using citations derived from the Respondents’
+opposition to Petitioner’s Request for Preliminary Injunction and Temporary Restraining Order.” (Obj. 2.) I am
+aware that because Petitioner’s location changed multiple times during the pendency of this litigation, Petitioner has
+had issues with the service of some pleadings in this case. (See Doc. 41.) However, on November 24, 2025,
+Magistrate Judge Moses again extended Petitioner’s deadline to file his objections until December 15, 2025 after
+acknowledging these service issues and noted that “[n]o further extensions of this deadline will be granted absent
+compelling circumstances.” (Doc. 44.) Additionally, pro se Petitioner consented to receiving electronic service on
+November 30, 2025. (Doc. 48.) Despite the fact that Magistrate Judge Moses sua sponte extended Petitioner’s
+deadline for his objections, Petitioner filed his objections on November 24, 2025 without seeking additional
+extensions. (See generally Obj.) On December 10, 2025, Petitioner also filed another motion after he consented to
+receiving electronic service. (Doc. 49.) Since Petitioner has not amended his objections or filed any supplemental
+objections after he consented to electronic service, I construe this as his final set of objections to Magistrate Judge
+Moses’ Report and Recommendation.
+2
+ For purposes of this Opinion & Order, I assume familiarity with the underlying facts and analysis as set forth in
+Magistrate Judge Moses’ Report and Recommendation. (See generally Report.) However, I provide a short
+summary of the factual and procedural history of this case in the Background section of this Opinion & Order.
+
+
+
+                                                               2
+   Case 1:24-cv-10053-VSB-BCM              Document 50        Filed 03/11/26      Page 3 of 22
+
+
+
+
+       Petitioner was sentenced on May 29, 2024 in the Western District of Washington to 42
+
+months of incarceration, followed by 36 months of supervised release—two years after he was
+
+indicted for multiple counts of wire fraud and bank fraud. (Report 1–2.) On December 20,
+
+2024, Petitioner filed a writ of habeas corpus under 28 U.S.C. § 2241 challenging his
+
+incarceration, (Doc. 1), which he supplemented on March 18, 2025, (Doc. 17). McClellon
+
+makes four categories of arguments. First, Petitioner argues that, under the First Step Act
+
+(“FSA”), 8 U.S.C. § 3632(d)(4)(A), his sentence was incorrectly calculated because he is entitled
+
+to time credits earned during the approximately 18 months that he spent in pre-trial detention
+
+before he pled guilty and was sentenced to his term of incarceration. (Report 1). This includes
+
+his participation in EBBR programming and PAs while detained at the Federal Detention Center
+
+in SeaTac, Washington (“SeaTac”), which entitles to him at least six months of earned time
+
+credit. (Report 6.) Second, Petitioner, in his reply, alleges that he is entitled to a 12-month
+
+sentence reduction because he completed a residential drug abuse program (“RDAP”). (Doc. 25
+
+(“Reply”) at 2–4, 8, 14–18, 19–21.) Third, Petitioner proffers conditions of confinement claims
+
+that hinge on the poor working conditions and inadequate medical care at the Federal
+
+Correctional Institution in Otisville, New York (“FCI Otisville’), where he was confined at the
+
+time the Petition was filed. (Report 6, 21). Finally, Petitioner also requests compassionate
+
+release or a reduction of his sentence. (Am. Pet. 4.)
+
+       On June 24, 2025, Magistrate Judge Moses issued her Report recommending that: (1)
+
+insofar as the Petition and Amended Petition “seeks (i) immediate release or (ii) an order
+
+requiring the [Federal Bureau of Prisons (“BOP”)] to provide credit against petitioner’s sentence
+
+for [EBBR] programming or [PAs] that he completed in pretrial detention, or for completing a
+
+residential drug abuse program, it be denied”; (2) insofar as the Petition and Amended Petition
+
+
+
+
+                                                        3
+    Case 1:24-cv-10053-VSB-BCM                      Document 50            Filed 03/11/26          Page 4 of 22
+
+
+
+
+“challenges petitioner's conditions of confinement at FCI Otisville,” it should be dismissed as
+
+moot; (3) Petitioner’s compassionate release or a reduction or correction of sentence claims
+
+should be dismissed for lack of jurisdiction, without prejudice to refiling in the Western District
+
+of Washington; and (4) Petitioner should be directed to submit a copy of the Report and the
+
+future Opinion & Order to every court before which he has an active case. (Report 24.) The
+
+Report notified the parties that they had “14 days from this date to file written objections to this
+
+Report and Recommendation.” (Id. at 25.)
+
+         On July 10, 2025, Petitioner filed a motion for a preliminary injunction (“PI”) and
+
+temporary restraining order (“TRO”) in both this case and McClellon v. USA, No. 25-CV-2988, a
+
+related matter in front of me against the United States asserting claims under the Federal Tort
+
+Claims Act and pursuant to Bivens v. Six Unknown Named Agents of Federal Bureau of
+
+Narcotics, 403 U.S. 388 (1971). In the motion, Petitioner requests “immediate release from BOP
+
+custody and relocation to the Southern District of New York from the Western District of
+
+Washington for [the] Supervised Release portion of [his] sentence.” (Doc. 31 (“PI Mot.”) at 1.)
+
+Similar to his habeas petition, Petitioner’s request for a PI and TRO hinges on his argument that
+
+he had performed “productive activities” for which he should have received earned time credits
+
+under the FSA. (PI Mot. 2.) McClellon alleges that he is entitled to “30 months of creditable
+
+time (365 days of FSA earned time credits; 365 days of RDAP sentence reduction credit; and
+
+189 days of Good Conduct time credit).” (Id.) Petitioner also maintains that BOP regulations at
+
+28 C.F.R. § 523.42, providing that a prisoner may not earn time credits under the FSA until his
+
+arrival at his designated facility, are inconsistent with the statute, 18 U.S.C. § 3585(a). 3 On July      2F
+
+
+
+
+3
+ Petitioner also alleges claims regarding his incarceration that are more closely related to the relief he is seeking in
+his related matter, McClellon v. USA, No. 25-CV-2988, which is also in front of me. (PI Mot. 4–5.) Thus, I will
+address other portions of the PI and TRO in the related matter, as appropriate.
+
+
+
+                                                                4
+   Case 1:24-cv-10053-VSB-BCM              Document 50       Filed 03/11/26      Page 5 of 22
+
+
+
+
+25, 2025, Respondents filed their opposition brief to the preliminary injunction motion. (Doc.
+
+35.)
+
+       On October 1, 2025, Petitioner was released from BOP Custody and began his sentence
+
+of supervised release. (Obj. 2.) On November 24, 2025, Petitioner filed his reply in support of
+
+his PI and TRO motion, modifying his request to an “an order immediately releasing Petitioner
+
+from further supervision” based on the same arguments regarding his earned time credits. (Doc.
+
+45 at 2.) That same day, November 24, 2025, Petitioner also filed his objections to Magistrate
+
+Judge Moses’ Report, after several extensions due to service issues, arguing that his earned time
+
+credit should apply to reduce his supervised release term. (See generally Obj.) Respondents did
+
+not file any objections to the report, nor did they seek additional time to do so. Respondents also
+
+did not file a response to Petitioner’s objections. Moreover, after Magistrate Judge Moses denied
+
+Petitioner’s request for the appointment of pro bono counsel on November 24, 2025, (Doc. 44),
+
+on December 10, 2025, Petitioner filed a motion for reconsideration of the denial of appointment
+
+of counsel, (Doc. 49).
+
+               Legal Standards
+
+               A.        Review of a Magistrate Judge’s Report
+
+       In reviewing a magistrate judge’s report and recommendation, a district court “may
+
+accept, reject, or modify, in whole or in part, the findings or recommendations made by the
+
+magistrate judge.” 28 U.S.C. § 636(b)(1)(C). “If a party timely objects to any portion of a
+
+magistrate judge’s report and recommendation, the district court must ‘make a de novo
+
+determination of those portions of the report or specified proposed findings or recommendations
+
+to which objection is made.’” United States v. Romano, 794 F.3d 317, 340 (2d Cir. 2015)
+
+(quoting 28 U.S.C. § 636(b)(1)(C)).
+
+
+
+
+                                                    5
+   Case 1:24-cv-10053-VSB-BCM              Document 50         Filed 03/11/26       Page 6 of 22
+
+
+
+
+       Pursuant to the standard often articulated by the district courts of this Circuit, “[i]f a party
+
+. . . ‘simply relitigates his original arguments, the Court reviews the Report and Recommendation
+
+only for clear error.’” Antrobus v. N.Y. City Dep’t of Sanitation, 2016 WL 5390120, at *1
+
+(E.D.N.Y. Sept. 26, 2016) (quoting Barrat v. Joie, No. 96-CV-324, 2002 WL 335014, at *1
+
+(S.D.N.Y. Mar. 4, 2002)); see also Pena v. Rivera, No. 05-CV-3109, 2006 WL 2529771, at *1
+
+(S.D.N.Y. Aug. 31, 2006). General and conclusory objections are also only reviewed for clear
+
+error. See Fed. R. Civ. P. 72(b)(2) (“[A] party may serve and file specific written objections to
+
+the [magistrate judge’s] proposed findings and recommendations.”); Benitez v. Parmer, 654 F.
+
+App’x 502, 503–04 (2d Cir. 2016) (summary order) (“[G]eneral objection[s] [are] insufficient to
+
+obtain de novo review by [a] district court.”). Under a clear error standard of review, “[s]o long
+
+as there is a basis in the evidence for a challenged inference, [the court] do[es] not question
+
+whether a different inference was available or more likely.” Siewe v. Gonzales, 480 F.3d 160,
+
+168 (2d Cir. 2007). Notably, a reviewing court need “respond only to ‘those portions of the
+
+recommendations to which objection is made.’” Shukla v. Deloitte Consulting LLP, No. 19-CV-
+
+10578, 2021 WL 3721349, at *3 (S.D.N.Y. Aug. 20, 2021) (quoting United States v. Male
+
+Juvenile (95-CR-1074), 121 F.3d 34, 38 (2d Cir. 1997)).
+
+               B. Habeas Relief
+
+       Habeas corpus relief under 28 U.S.C. § 2241 is available to individuals “in custody in
+
+violation of the Constitution or laws or treaties of the United States.” 28 U.S.C. § 2241(c)(3).
+
+Courts have the authority to review a petition for a writ of habeas corpus and “award the writ or
+
+issue an order directing the respondent to show cause why the writ should not be granted, unless
+
+it appears from the application that the applicant or person detained is not entitled [to such
+
+relief].” 28 U.S.C. § 2243. The Second Circuit has noted that a “challenge to the execution of a
+
+
+
+
+                                                      6
+   Case 1:24-cv-10053-VSB-BCM              Document 50         Filed 03/11/26      Page 7 of 22
+
+
+
+
+sentence—in contrast to the imposition of a sentence—is properly filed pursuant to § 2241.”
+
+Levine v. Apker, 455 F.3d 71, 78 (2d Cir. 2006) (cleaned up). Execution of a sentence may
+
+include “such matters as the administration of parole, computation of a prisoner’s sentence by
+
+prison officials, prison disciplinary actions, prison transfers, type of detention and prison
+
+conditions.” Jiminian v. Nash, 245 F.3d 144, 146 (2d Cir. 2001); see also Chi v. Fernandez, No.
+
+18-CV-1212, 2019 WL 6894837, at *4 (N.D.N.Y. Dec. 18, 2019) (“Execution of a sentence
+
+includes, among other things, prison disciplinary actions, loss of [good time credit], and the
+
+computation of the sentence. . . .”). Therefore, “[t]he proper vehicle for a challenge to the BOP’s
+
+calculation of earned time credit is a petition for a writ of habeas corpus under 28 U.S.C. §
+
+2241.” Sanchez v. Warden at F.C.I. Hazelton, No. 24-CV-1251, 2024 WL 1969792, at *2
+
+(S.D.N.Y. May 1, 2024). “When a petitioner brings a habeas petition pursuant to § 2241, the
+
+petitioner ‘bears the burden of proving that he is being held contrary to law; and because the
+
+habeas proceeding is civil in nature, the petitioner must satisfy his burden of proof by a
+
+preponderance of the evidence.’” Dzhabrailov v. Decker, 2020 WL 2731966, at *3 (S.D.N.Y.
+
+May 26, 2020) (quoting Skaftouros v. United States, 667 F.3d 144, 158 (2d Cir. 2011)).
+
+               C. Mootness
+
+       “In order to satisfy the case-or-controversy requirement, a party must, at all stages of the
+
+litigation, have an actual injury which is likely to be redressed by a favorable judicial decision.”
+
+United States v. Blackburn, 461 F.3d 259, 261 (2d Cir. 2006) (internal quotation marks omitted).
+
+Because federal courts are without power to consider a case unless it presents a “live
+
+controversy,” judges have a duty to consider mootness sua sponte. In re Bed Bath & Beyond Inc.
+
+Section 16(B) Litig., No. 22-CV-9327, 2024 WL 2958743, at *4 (S.D.N.Y. June 11, 2024)
+
+(internal quotation marks omitted).
+
+
+
+
+                                                      7
+   Case 1:24-cv-10053-VSB-BCM              Document 50        Filed 03/11/26      Page 8 of 22
+
+
+
+
+       “‘[A] case is moot when the issues presented are no longer live or the parties lack a
+
+legally cognizable interest in the outcome.’” Cnty. of L.A. v. Davis, 440 U.S. 625, 631 (1979)
+
+(quoting Powell v. McCormack, 395 U.S. 486, 496 (1969) (cleaned up)). Once a case becomes
+
+moot, a federal court no longer has subject-matter jurisdiction over the action, Fox v. Bd. of Trs.
+
+of State Univ. of N.Y., 42 F.3d 135, 140–41 (2d Cir. 1994), and the court “must dismiss the case,”
+
+Blackburn, 461 F.3d at 261 (internal quotation marks omitted). While a habeas petition is not
+
+automatically terminated upon the release of the petitioner from custody, see Carafas v.
+
+LaVallee, 391 U.S. 234, 237–40 (1968), the petition will be moot if the petitioner does not stand
+
+to suffer from “collateral consequences adequate to meet Article III’s injury-in-fact
+
+requirement,” Spencer v. Kemna, 523 U.S. 1, 13–14 (1998).
+
+               D. Preliminary Injunction
+
+       A preliminary injunction is “an extraordinary remedy that may only be awarded upon a
+
+clear showing that the plaintiff is entitled to such relief.” Winter v. Natural Res. Def. Council,
+
+Inc., 555 U.S. 7, 22 (2008). “Any party seeking a preliminary injunction ‘must demonstrate that
+
+it will suffer irreparable harm in the absence of the requested relief.’” Sussman v. Crawford, 488
+
+F.3d 136, 140 (2d Cir. 2007) (quoting Latino Officers Ass’n v. Safir, 170 F.3d 167, 171 (2d Cir.
+
+1999)). To succeed on an application for a preliminary injunction, a movant must demonstrate:
+
+“(1) irreparable harm; (2) either a likelihood of success on the merits or both serious questions on
+
+the merits and a balance of hardships decidedly favoring the moving party; and (3) that a
+
+preliminary injunction is in the public interest.” N. Am. Soccer League, LLC v. United States
+
+Soccer Fed’n, Inc., 883 F.3d 32, 37 (2d Cir. 2018). “The purpose of a preliminary injunction is
+
+not to award the movant the ultimate relief sought in the suit but is only to preserve the status
+
+quo by preventing during the pendency of the suit the occurrence of that irreparable sort of harm
+
+
+
+
+                                                     8
+   Case 1:24-cv-10053-VSB-BCM               Document 50        Filed 03/11/26       Page 9 of 22
+
+
+
+
+which the movant fears will occur.” Kane v. De Blasio, 19 F.4th 152, 163 (2d Cir. 2021) (per
+
+curiam) (internal quotation marks omitted).
+
+       A movant seeking injunctive relief has a “heavier burden” than a plaintiff who must plead
+
+a “plausible claim necessary to avoid dismissal.” New Hope Fam. Servs., v. Poole, 966 F.3d
+
+145, 165 (2d Cir. 2020) (citation omitted). Indeed, in considering the motion for a preliminary
+
+injunction, a court “need not accept as true the well-pleaded allegations in [p]laintiff’s
+
+complaint.” Nat’l Coal. on Black Civic Participation v. Wohl, 498 F. Supp. 3d 457, 469
+
+(S.D.N.Y. 2020) (internal quotation marks omitted).
+
+               Discussion
+
+               A. Mootness
+
+       As an initial matter, before I evaluate the habeas petition, Judge Moses’ Report, or
+
+Petitioner’s objections, I must consider the changed circumstances in the case since the Report
+
+was issued—namely, Petitioner’s release from BOP custody. (Obj 2.) “[M]ootness is not fixed
+
+at the time of filing but must be considered at every stage of the habeas proceeding.”
+
+Nowakowski v. New York, 835 F.3d 210, 217 (2d Cir. 2016). “If, as a result of changed
+
+circumstances, a case that presented an actual redressable injury at the time it was filed ceases to
+
+involve such an injury, it ceases to fall within a federal court’s Article III subject matter
+
+jurisdiction and must be dismissed for mootness.” Janakievski v. Exec. Dir., Rochester
+
+Psychiatric Ctr., 955 F.3d 314, 319 (2d Cir. 2020).
+
+       However, “a habeas petition does not necessarily become moot when the order it
+
+challenges is no longer in effect, so long as the petitioner suffers some concrete and continuing
+
+injury or collateral consequence resulting from the challenged order.” Id. (internal quotation
+
+marks omitted). The Second Circuit has made clear that the release of a prisoner who has filed a
+
+
+
+
+                                                      9
+    Case 1:24-cv-10053-VSB-BCM                  Document 50           Filed 03/11/26         Page 10 of 22
+
+
+
+
+habeas petition challenging the execution of his sentence “does not automatically render the
+
+petition moot because the court could fashion a post-release remedy such as a reduction in the
+
+petitioner’s term of supervised release.” Walker v. Killian, No. 07-CV-8837, 2010 WL 8266201,
+
+at *1 (S.D.N.Y. Jan. 26, 2010), report and recommendation adopted, 2012 WL 34097 (S.D.N.Y.
+
+Jan. 6, 2012) (citing Levine, 455 F.3d at 76–77). In other words, evaluating and potentially
+
+modifying the length of a petitioner’s supervised relief term would qualify as “effectual relief”
+
+sufficient to articulate a live “case or controversy.” Apker, 455 F.3d at 77.
+
+        While some courts, including at least one in this district, have determined that “FSA
+
+Credits cannot be applied to reduce a term of supervised release under the statute,” which means
+
+that release would moot petitioner’s earned time claims, see Goggans v. Jamison, No. 23-CV-
+
+03645, 2023 WL 7389136, at *1 (S.D.N.Y. Oct. 13, 2023), the Ninth Circuit has recently
+
+clarified that “Congress intended for the FSA’s earned time credits to reduce a prisoner’s
+
+supervised release term.” Gonzalez v. Herrera, 151 F.4th 1076, 1081 (9th Cir. 2025). 4 I find the    3F
+
+
+
+
+Ninth Circuit’s holding persuasive enough to proceed to address the merits of Petitioner’s claims.
+
+        Therefore, McClellon’s Petition seeking relief based on his earned time credits is not
+
+moot simply because of his release from BOP custody in October 2025, since his claims could
+
+still apply to modify his current term of supervised release.
+
+                 B. Objections
+
+        I now turn to the merits of Petitioner’s habeas petition—namely, his objections to
+
+Magistrate Judge Moses’ Report. Petitioner asserts twelve objections to the Report. Those
+
+objections are summarized by the following headers contained in his objections:
+
+
+
+
+4
+ The Second Circuit has not issued a ruling on whether FSA credits can be applied to reduce an individual’s
+supervised release term.
+
+
+
+                                                            10
+Case 1:24-cv-10053-VSB-BCM    Document 50     Filed 03/11/26   Page 11 of 22
+
+
+
+
+   1. “THE R&R MISAPPLIES THE FIRST STEP ACT AND MISCHARACTERIZES
+
+   PETITIONER’S FSA CLAIMS.” (Obj. 2.)
+
+   2. “PETITIONER IS NOT MERELY SEEKING ‘CONDITIONS OF CONFINEMENT’
+
+   RELIEF.” (Id. at 8.)
+
+   3. “COMPASSIONATE-RELEASE / SENTENCE MODIFICATION ISSUES SHOULD
+
+   NOT FORECLOSE FSA RELIEF.” (Id. at 9.)
+
+   4. “THE DIRECTIVE TO FILE THE R&R IN ‘EVERY COURT’ IS UNDULY
+
+   PREJUDICIAL AND BEYOND THE PROPER SCOPE OF RELIEF.” (Id. at 10.)
+
+   5. “RECENT CASE LAW (HEATH, MOHAMMED, LOPER BRIGHT) CONFIRMS
+
+   THAT THE R&R APPLIED THE WRONG LEGAL STANDARD AND FAILED TO
+
+   CONDUCT INDEPENDENT STATUTORY ANALYSIS.” (Id. at 11.)
+
+   6. “STATUTORY CONSTRUCTION REQUIRES RECOGNITION OF
+
+   PETITIONER’S FSA CREDITS—INCLUDING FOR PRODUCTIVE ACTIVITIES—
+
+   AND PROHIBITS UNEXPLAINED REVOCATION OF PREVIOUSLY AWARDED
+
+   CREDITS.” (Id. at 14.)
+
+   7. “PETITIONER IS ENTITLED TO COURT-APPOINTED COUNSEL.” (Id. at 15.)
+
+   8. “ADDITIONAL PERSUASIVE AUTHORITY (PATEL v. BARRON AND
+
+   SHARMA v. PETERS, JACKSON V. DOERER) CONFIRMS THAT THE BOP’S FSA
+
+   TIMING POLICIES ARE CONTRARY TO STATUTE AND CANNOT BE ADOPTED
+
+   WITHOUT INDEPENDENT ANALYSIS.” (Id. at 16.)
+
+   9. “PRODUCTIVE ACTIVITIES PROVIDE A STATUTORY PATHWAY FOR
+
+   PRESENTENCING / PRETRIAL FSA CREDITS—A SEPARATE CREDIT-EARNING
+
+   MECHANISM THAT THE R&R FAILED TO ANALYZE.” (Id. at 19.)
+
+
+
+
+                                         11
+   Case 1:24-cv-10053-VSB-BCM                Document 50       Filed 03/11/26       Page 12 of 22
+
+
+
+
+       10. “THERE IS NO ‘SPLIT AUTHORITY’ ON § 523.42(a)—THE OVERWHELMING
+
+       WEIGHT OF AUTHORITY HOLDS THAT THE BOP’S REGULATION IS
+
+       CONTRARY TO THE FSA, AND THE R&R MISCHARACTERIZES THE LAW.”
+
+       (Id. at 22 (emphasis in original).)
+
+       11. “BECAUSE PETITIONER HAS NOW COMPLETED HIS TERM OF
+
+       IMPRISONMENT AND IS ON SUPERVISED RELEASE, ALL FSA, PA, RDAP, AND
+
+       GCT CREDITS MUST BE APPLIED TO REDUCE THE SUPERVISED RELEASE
+
+       TERM UNDER Gonzalez v. Herrera AS STORED VALUE.” (Id. at 27.)
+
+       12. “THE BOP’S SENTRY-BASED CREDIT-TRACKING SYSTEM IS DEFECTIVE
+
+       AND UNRELIABLE — OFFICIAL GOVERNMENT REPORTS CONFIRM THAT IT
+
+       CANNOT BE RELIED ON AS A BASIS FOR DEFERENCE.” (Id. at 33.)
+
+       Each of Petitioner’s objections falls under one of the following categories of arguments:
+
+(1) his earned-time credits should reduce his sentence of incarceration or supervised release
+
+term; (2) BOP policy and regulations conflict with the FSA and are not entitled deference; (3) the
+
+directive to file the R&R and this Opinion & Order in every court as a sanction, because
+
+Petitioner cited case law that does not exist, is unduly prejudicial; and (4) petitioner is entitled to
+
+court appointed counsel. I address each objection in turn.
+
+                       1. Earned-Time Credit Claims
+
+       Petitioner’s first, second, third, sixth, ninth, and eleventh objections are essentially claims
+
+that his earned-time credits should reduce his sentence. Three of Petitioner’s objections—his
+
+first, sixth, and ninth—hinge on his argument that the Report “misapplies the First Step Act,”
+
+(Obj. 2 (First Objection)) and that “Productive Activities” are an equal, but distinct pathway,
+
+from EBRR credits to warrant a sentence reduction, (see Obj. 7 (First Objection), 14 (Sixth
+
+
+
+
+                                                      12
+      Case 1:24-cv-10053-VSB-BCM                    Document 50           Filed 03/11/26         Page 13 of 22
+
+
+
+
+Objection), 19 (Ninth Objection)), even if Petitioner earned those credits before sentencing, (see
+
+Obj. 7, 21).
+
+           As Magistrate Judge Moses correctly notes, however, the FSA “does not allow credits to
+
+be awarded for a prisoner’s pre-sentencing rehabilitation programming.” Smith v. Stover, No.
+
+23-CV-01645, 2024 WL 3279014, at *1 (D. Conn. June 20, 2024). The statute clearly notes that
+
+a person cannot earn time credits “during official detention prior to the date that the prisoner’s
+
+sentence commences under section 3585(a).” 18 U.S.C. § 3632(d)(4)(B)(ii). “[U]nder 18 U.S.C.
+
+§ 3585(a), a federal sentence cannot commence prior to the date on which it is imposed.” Lopez
+
+v. Terrell, 654 F.3d 176, 185 (2d Cir. 2011) (paraphrasing United States v. Labeille-Soto, 163
+
+F.3d 93, 98 (2d Cir. 1998)). Thus, the FSA does not allow Petitioner “to receive credit for any
+
+rehabilitation programming [he] completed before [he] was sentenced” on May 29, 2024. Smith,
+
+2024 WL 3279014, at *2.
+
+           This analysis is not changed by arguments attempting to clarify and distinguish
+
+Productive Activities. As other courts in this circuit have made clear, “no [earned time credits]
+
+may be earned for any EBRRs or PAs completed before the inmate’s sentence commences.”
+
+Perevoznikov v. Stover, 747 F. Supp. 3d 329, 332 (D. Conn. 2024); see also Brodie v. Pliler, No.
+
+22-CV-3821, 2022 WL 16751908, at *1 (S.D.N.Y. Nov. 7, 2022) (“The FSA provides that no
+
+such [time credits] can be earned . . . during a period of detention prior to the incarcerated
+
+person’s sentence commencing.”). 5 Contrary to Petitioner’s argument, the Report did not fail to
+                                            4F
+
+
+
+
+consider Productive Activities as a separate and equal way to earned time credits to reduce
+
+sentencing. Magistrate Judge Moses considered both Petitioner’s EBRR and PA time, including
+
+when he worked as a “unit orderly,” and explicitly rejected this argument. (Report 6, 16–17.)
+
+
+5
+    There does not appear to be any directly on point guidance from the Second Circuit on this specific issue.
+
+
+
+                                                                13
+   Case 1:24-cv-10053-VSB-BCM             Document 50        Filed 03/11/26      Page 14 of 22
+
+
+
+
+Here, McClellon tries to relitigate the same arguments and claims he raised in his Petition using
+
+different language, and I do not find clear error. See Antrobus, 2016 WL 5390120, at *1
+
+(explaining that when a party is simply relitigating the original arguments, a district court judge
+
+reviewed the report and recommendation only for clear error). Indeed, even under a de novo
+
+review, Petitioner is not entitled to time credits for rehabilitation programming before sentencing.
+
+       Next, Petitioner’s second and third objections address points that were never made in
+
+Magistrate Judge Moses’ Report. In his second objection, Petitioner argues that to the extent
+
+“the R&R characterizes Petitioner’s FSA time-credit and RDAP-related claims as ‘conditions of
+
+confinement’ rather than challenges to the execution of his sentence, that is error.” (Obj. 9)
+
+Moreover, he requests that the court “sever any pure conditions claims” and “adjudicate his time-
+
+credit/sentence-execution claims on the merits.” (Id.) In his third objection, Petitioner similarly
+
+argues that his compassionate release claims should not foreclose FSA relief and that these
+
+claims should be considered separately. (Id. at 9–10.) Magistrate Judge Moses did not do what
+
+Petitioner claims in his second and third objections. Instead, Magistrate Judge Moses evaluated
+
+Petitioner’s FSA and RDAP claims separately on their merits before deciding that Petitioner is
+
+not entitled to these earned time credits. (Report 21–22.) She also: (1) dismissed Petitioner’s
+
+conditions-of-confinement claim for lack of subject-matter jurisdiction, since these claims are
+
+moot since he is no longer confined at FCI Otisville; and (2) dismissed his compassionate release
+
+claim—or his request for a reduction of his sentence—for lack of jurisdiction, without prejudice
+
+to refiling in the Western District of Washington. (Id. at 21–22, 24.) In short, Petitioner’s
+
+second and third objections do not actually address Magistrate Judge Moses’ findings in the
+
+Report, and to the extent he makes any arguments regarding his additional claims, they merely
+
+repeat arguments already rejected by Magistrate Judge Moses. Since Petitioner is “simply
+
+
+
+
+                                                     14
+   Case 1:24-cv-10053-VSB-BCM              Document 50        Filed 03/11/26      Page 15 of 22
+
+
+
+
+relitigat[ing] his original arguments, [I] review[] the Report and Recommendation only for clear
+
+error.” Antrobus, 2016 WL 5390120, at *1 (internal quotation marks omitted). I find no such
+
+clear error in Magistrate Judge Moses’ Report with regard to Petitioner’s compassionate release
+
+or conditions of confinement claims.
+
+       Petitioner’s eleventh objection argues that because he is now on supervised release, his
+
+“status change is legally critical because it triggers the mandatory application of all earned FSA
+
+credits toward the reduction of Petitioner’s supervised release.” (Obj. 27 (emphasis in original).)
+
+Although these “earned time credits [can] be applied to reduce the length of a supervised release
+
+term,” Gonzalez, 151 F.4th at 1083, Magistrate Judge Moses already correctly found that
+
+Petitioner’s credits cannot be applied at all. Here, it does not matter whether Petitioner is in
+
+custody or on supervised release. The Report made clear that McClellon’s earned time claims
+
+fail regardless. Again, Petitioner simply tries to relitigate the same argument under the guise of
+
+the case’s changed posture, but this fails too.
+
+       Moreover, in his eleventh objection, Petitioner also tries to bring up new points regarding
+
+his earned time credit. For example, he explains that the BOP “also revoked 54 days of Good
+
+Conduct Time without providing constitutionally required due process.” (Obj. 29). Petitioner
+
+did not make this due process argument in his original Petition or Amended Petition, nor does he
+
+clarify any details about when or how he earned these time credits. “[P]arties may not raise new
+
+arguments for the first time in objections to a report and recommendation.” Erickson v. Jernigan
+
+Cap., Inc., 692 F. Supp. 3d 114, 120 (S.D.N.Y. 2023). Thus, I do not evaluate Petitioner’s new
+
+argument.
+
+                       2. BOP Deference Claims
+
+
+
+
+                                                     15
+   Case 1:24-cv-10053-VSB-BCM             Document 50        Filed 03/11/26       Page 16 of 22
+
+
+
+
+       Petitioner’s fifth, eighth, tenth, and twelfth objections are essentially claims arguing that
+
+BOP policy and regulations conflict with the FSA and are not entitled to deference. Here, again,
+
+Petitioner primarily repeats the same claims he made to Magistrate Judge Moses that she
+
+addressed and rejected. His fifth objection claims that recent case law “rebut[s] the R&R’s
+
+assumption that BOP interpretations are controlling or that FSA-credit claims may be denied
+
+without detailed analysis.” (Obj. 11.) Similarly, Petitioner’s eighth objection argues that the
+
+“statute, not BOP regulation or policy, controls FSA eligibility.” (Id. at 16.) In his tenth
+
+objection, McCellon argues that “Congress—not BOP policy—controls” and that the
+
+“overwhelming weight of authority” holds that the BOP regulation governing the FSA, 28 C.F.R.
+
+§ 523.42, is contrary to the FSA. (Id. at 22–23.) Petitioner’s twelfth objection argues that the
+
+BOP case management system insufficiently tracks earned-time credits and is not a “reliable
+
+basis for deference.” (Id. at 35.) However, Petitioner has already argued that “[c]ourts owe no
+
+deference to the BOP’s internal rules or informal interpretations that conflict with clear statutory
+
+mandates” in his original habeas briefing, an argument that was already considered by Magistrate
+
+Judge Moses. (Reply 2–3; see also Am. Pet. 5.) Because Petitioner “simply reiterates the
+
+original arguments, the Court will review the Report strictly for clear error.” Harris v. TD
+
+Ameritrade Inc., 338 F. Supp. 3d 170, 174 (S.D.N.Y. 2018).
+
+       I find no such clear error. As Magistrate Judge Moses carefully notes, I “need not pick
+
+sides” on whether BOP policies and regulations are warranted any deference in this case or
+
+conflict with the FSA, because these questions are not outcome determinative in this case.
+
+(Report 19.) It is irrelevant whether Petitioner was eligible to earn FSA time credits “from the
+
+moment he was sentenced, on May 29, 2024, or not until he arrived at FCI Otisville on July 3,
+
+2024,” because he “did not actually participate in any EBRR activity or PAs after sentencing but
+
+
+
+
+                                                     16
+   Case 1:24-cv-10053-VSB-BCM              Document 50        Filed 03/11/26      Page 17 of 22
+
+
+
+
+before his arrival at FCI Otisville.” (Id. (internal quotation marks omitted).) Contrary to
+
+Petitioner’s objections, the Report did not actually defer to the BOP or follow its policies and
+
+regulations in recommending the denial of the habeas petition. Magistrate Judge Moses made
+
+clear “the prohibition on persons in prejudgment custody receiving FSA credits does not derive
+
+from BOP policy, but from the FSA itself.” (Report 19–20 (citing Schaefer v. Eischen, 2025 WL
+
+1118627, at *2 (D. Minn. Mar. 12, 2025)). In other words, Magistrate Judge Moses’ decision
+
+was based on the FSA, not BOP policy or regulations. Since Magistrate Judge Moses was
+
+correct on both the law and its application here, I find no clear error.
+
+       Even if I were to evaluate Petitioner’s objections regarding BOP deference de novo, as
+
+discussed supra, it is the FSA, not BOP policy, that makes clear that Petitioner cannot earn time
+
+credit while in pre-trial detention prior to sentencing. “[T]he FSA prohibits prisoners from
+
+earning time credits during the period when he or she is in ‘official detention’ but has not yet
+
+reached the date his or her ‘sentence commences under [18 U.S.C. §] 3585(a).’” Yufenyuy v.
+
+Warden, FCI Berlin, 659 F. Supp. 3d 213, 216 (D.N.H. 2023) (quoting 18 U.S.C. §
+
+3632(d)(4)(B)(ii)). In other words, “the FSA does not allow credits to be awarded for a
+
+prisoner’s pre-sentencing rehabilitation programming.” Smith, 2024 WL 3279014, at *1.
+
+Therefore, Petitioner’s arguments regarding BOP deference here are irrelevant and carry no
+
+weight, since it is the FSA itself that bars the accrual of earned-time credits before his sentence
+
+commenced. I also agree with Magistrate Judge Moses’ conclusion that this case does not
+
+implicate the question of whether I need to defer to BOP’s regulations in construing if FSA time
+
+credits can be earned when the sentence is first issued or only when the individual “arrives” at
+
+the BOP facility where the sentence will be served. (Report 18.) There is no evidence that
+
+Petitioner completed any FSA programming between the date he was sentenced and his arrival at
+
+
+
+
+                                                     17
+    Case 1:24-cv-10053-VSB-BCM                   Document 50               Filed 03/11/26      Page 18 of 22
+
+
+
+
+FCI Otisville. Despite Petitioner’s claims that the BOP credit-tracking system, SENTRY, is
+
+inaccurate and that he “participated in a range of FSA qualifying activities from . . . January 31,
+
+2023, to June 26, 2024,” which includes time after his May 29, 2024 sentencing, (Obj 32–33), he
+
+provides no evidence to support this claim. See Hattrick v. FMC-Devens Staff, No. CV 06-
+
+40238, 2009 WL 10873024, at *3 (D. Mass. Mar. 30, 2009) (“Although plaintiff suggests that
+
+SENTRY’s listing of claims is inaccurate this contention is belied by the record.”) Moreover,
+
+Respondents provide records showing otherwise—that Petitioner did not “complete any
+
+education programming or participate in any productive activities” between his May 29, 2024
+
+sentencing and his arrival at FCI Otisville on July 3, 2024. 6 (Doc. 20 at 2.) Therefore,
+                                                                      5F
+
+
+
+
+Petitioner’s fifth, eighth, tenth, and twelfth objections also fail.
+
+                           3.    Remaining Objections
+
+         I now turn to the only remaining objections—that the directive to file the Report and this
+
+Opinion & Order in every court is “unduly prejudicial,” (Obj. 10), and Petitioner is entitled to
+
+court-appointed counsel, (id. at 15).
+
+         First, Magistrate Judge Moses correctly identifies at least three cases cited in Petitioner’s
+
+reply memorandum in support of his Petition that do not exist. (Report 23.) Based on these
+
+erroneous citations, I surmise that these citation problems are due to Petitioner’s use of
+
+generative artificial intelligence tools (“AI”). See, e.g., Advani v. App. Term, 2nd Jud. Dep’t,
+
+No. 25-CV-1627, 2025 WL 2201065, at *3 (S.D.N.Y. Aug. 1, 2025). These citations are likely
+
+“hallucinated,” a term used for citations produced by AI “that conform to the Bluebook, but
+
+
+
+6
+  Petitioner provides inconsistent statements across multiple briefs regarding his FSA program participation. In his
+Motion for a Preliminary Injunction, Petitioner claims to have worked as an orderly from “01/31/2023 to 06/26/24”
+and participated in various FSA programming recommended by his unit team “during [the] period of
+06/26/2024 to 07/03/2024.” (PI Mot. 2.) However, in his reply in support of his motion for a preliminary
+injunction, McClellon alleges that he “continuously participated in EBRR and PA activities” from January 2023 to
+October 2025. (Doc. 45 at 29.) Petitioner does not provide any documentary evidence to support these claims.
+
+
+                                                             18
+   Case 1:24-cv-10053-VSB-BCM              Document 50        Filed 03/11/26      Page 19 of 22
+
+
+
+
+ultimately are not real.” Benjamin v. Costco Wholesale Corp., 779 F. Supp. 3d 341, 342
+
+(E.D.N.Y. 2025). Courts in this circuit have repeatedly found that presenting AI-generated
+
+hallucinations as valid caselaw constitutes subjective bad faith. See Mata v. Avianca, Inc., 678
+
+F. Supp. 3d 443, 448–49 (S.D.N.Y. 2023); Benjamin, 779 F. Supp. 3d at 349–50; Ramirez v.
+
+Humala, No. 24-CV-242, 2025 WL 1384161, at *2 (E.D.N.Y. May 13, 2025); Kaur v. Desso,
+
+No. 25-CV-726, 2025 WL 1895859, at *3 (N.D.N.Y. July 9, 2025). “This conduct undermines
+
+the integrity of the judicial process and disrespects and wastes the Court’s and parties’ time and
+
+resources.” Andre v. Warden, FCI Danbury, No. 24-CV-01295, 2025 WL 3281732, at *10 (D.
+
+Conn. Nov. 25, 2025). “Without question, it is improper and unacceptable for litigants—
+
+including pro se litigants—to submit non-existent judicial opinions with fake quotes and
+
+citations.” Anonymous v. New York City Dep’t of Educ., No. 24-CV-04232, 2024 WL 3460049,
+
+at *7 (S.D.N.Y. July 18, 2024) (internal quotation marks omitted).
+
+       In order to address the increase in generative AI use and hallucinations, many of my
+
+colleagues and I have adopted individual rules requiring all litigants, whether pro se or
+
+represented by counsel, to “disclose that AI has been used.” See, e.g., Individual R. & Prac. in
+
+Civ. Cases 4(J). In my rules, I also require the party to “further certify in the document that it
+
+has independently reviewed and verified the accuracy of any portion of the document drafted by
+
+generative AI” and “[f]ailure to comply with this rule may result in sanctions, the document
+
+being stricken, or other remedies that the Court deems appropriate.” Id. This obligation requires
+
+litigants to carefully review every statement and citation drafted by AI to ensure that it is legally
+
+and factually correct, particularly given that AI tools make it much easier for pro se litigants to
+
+submit “voluminous” briefing. See Thornock v. Corp. of the Presiding Bishop of the Church of
+
+Jesus Christ of Latter-Day Saints, No. 25-CV-56, 2025 WL 1900314, at *4 n.5 (E.D. Va. July 9,
+
+
+
+
+                                                     19
+   Case 1:24-cv-10053-VSB-BCM               Document 50         Filed 03/11/26       Page 20 of 22
+
+
+
+
+2025). “Even as a pro se plaintiff, Plaintiff is required to comply with the Local Rules and
+
+Federal Rules of Civil Procedure.” Zheng v. Internet Corp. for Assigned Names & Numbers, No.
+
+25-CV-04808, 2025 WL 4055401, at *4 (C.D. Cal. Dec. 23, 2025).
+
+        Although I do not agree with Petitioner’s contention that the requirement to file the
+
+Report and this Opinion & Order in “every court before which he has an active case” is unduly
+
+prejudicial, I note that other courts in this District and throughout the Circuit have simply
+
+cautioned pro se parties after their first violation of this issue. See, e.g., Romero v. Goldman
+
+Sachs Bank USA, No. 25-CV-2857, 2025 WL 1916119, at *1–2 (S.D.N.Y. June 25, 2025)
+
+(placing the parties on notice that “citations, quotations, and holdings that have been generated
+
+by generative artificial intelligence may be hallucinations”); Reilly v. Conn. Interlocal Risk
+
+Mgmt. Agency, No. 25-CV-640, 2025 WL 1726366, at *2–3 (D. Conn. June 20, 2025) (“Whether
+
+the issues with [the pro se litigant’s] filings are the result of artificial intelligence or some other
+
+mistake, the Court cautions [the litigant] to ensure that future submissions to any court contain
+
+only accurate representations.”); Advani, 2025 WL 2201065, at *3 (finding that because of
+
+plaintiff’s pro se status, the court declines to pursue the matter of AI hallucinations). Thus,
+
+although I adopt Magistrate Judge Moses’ reasoning regarding the harms of AI hallucinations in
+
+legal briefs, I decline to adopt her recommendation that Petitioner must submit a copy of the
+
+Report and this Opinion & Order to every court before which he has an active case. However,
+
+Petitioner is warned that he should disclose his use of AI in the future, and that the use of AI
+
+resulting in hallucinated cases can result in sanctions.
+
+        Second, because I adopt Magistrate Judge Moses’ Report dismissing the Petition, as
+
+discussed supra, “petitioner’s request for the appointment of counsel is . . . moot.” Bacchus v.
+
+New York, No. CV-93-1247, 1995 WL 62599, at *8 (E.D.N.Y. Feb. 8, 1995). Even if I were to
+
+
+
+
+                                                       20
+   Case 1:24-cv-10053-VSB-BCM              Document 50        Filed 03/11/26      Page 21 of 22
+
+
+
+
+consider this argument, “parties may not raise new arguments for the first time in objections to a
+
+report and recommendation.” Erickson, 692 F. Supp. 3d at 120. Therefore, Petitioner’s
+
+appointment of counsel objection fails.
+
+       Almost all of Petitioner’s objections are attempts to relitigate issues that Magistrate Judge
+
+Moses already considered and rejected or attempts to raise completely new arguments. Because
+
+I find that the Report did not commit any clear error for all other arguments, I hereby ADOPT
+
+the Report in its entirety, except for the requirement Petitioner file the Report and this Opinion &
+
+Order in other cases as a sanction, and DENY the Petition.
+
+               C. Preliminary Injunction
+
+       Petitioner’s preliminary injunction and temporary restraining order motion requests
+
+“immediate release from BOP custody and relocation to the Southern District of New York from
+
+the Western District of Washington for [the] supervised release portion of [his] sentence.” (PI
+
+Mot. 1.) Similar to his habeas petition, Petitioner’s request for a PI and TRO hinges on his
+
+argument that he had performed “productive activities” while in pre-trial custody for which he
+
+should have received earned time credits under the FSA. (Id. at 2.) Petitioner’s PI and TRO
+
+motion fails for multiple reasons. First, the denial of his Petition moots his request for a
+
+preliminary injunction on the same grounds. See Jackson v. Capra, No. 14-CV-202, 2015 WL
+
+1064900, at *1 (S.D.N.Y. Mar. 2, 2015). Second, even if I were to evaluate Petitioner’s PI and
+
+TRO on its merits, McClellon has failed to show a likelihood of success, a key tenant to this
+
+relief. His request for immediate release, even if interpreted as a reduction to his supervised
+
+release sentence now that he is out of custody, clearly fails. As Magistrate Judge Moses and this
+
+Opinion & Order outline, Petitioner’s pre-sentencing earned-time credits cannot apply at all.
+
+Smith, 2024 WL 3279014, at *1. Moreover, Petitioner’s claim for supervised release within the
+
+
+
+
+                                                     21
+   Case 1:24-cv-10053-VSB-BCM             Document 50       Filed 03/11/26         Page 22 of 22
+
+
+
+
+Southern District of New York does not relate to the BOP, as Defendants note, since he is
+
+contesting a New York Probation Office decision to deny his proposed pre-release plan. See
+
+Anderson v. FPC Yankton, No. 23-CV-4136, 2025 WL 416939 at *2 (D.S.D. Feb. 6, 2025)
+
+(“‘[W]hen a habeas petitioner ‘challenges a form of custody other than present physical
+
+confinement,’ the proper respondent is the ‘entity or person who exercises legal control with
+
+respect to the challenged ‘custody.’” (quoting Rumsfeld v. Padilla, 542 U.S. 426 (2004) (cleaned
+
+up))). Thus, I also deny Petitioner’s PI and TRO motion as moot.
+
+                Conclusion
+
+         Based on the articulated reasons, I ADOPT Magistrate Judge Moses’ Report in its
+
+entirety, except for the requirement that Petitioner file the Report and this Opinion & Order in
+
+his other active cases, and DENY the Petition. Moreover, I also DENY Petitioner’s Motion for a
+
+Preliminary Injunction and Temporary Restraining Order, (Doc. 31), and his Motion for
+
+Reconsideration of Denial of Appointment of Counsel, (Doc. 49), as moot. The Clerk of Court is
+
+respectfully directed to close the motions at Documents 31 and 49 and terminate the case.
+
+SO ORDERED.
+
+Dated:          March 11, 2026
+                New York, New York
+                                                    ____________________
+                                                    Vernon S. Broderick
+                                                    United States District Judge
+
+
+
+
+                                                    22
+

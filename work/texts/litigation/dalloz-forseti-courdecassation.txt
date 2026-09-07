@@ -1,0 +1,12 @@
+Attack detected
+.container {
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+            }
+            .content {
+                align-self: flex-start;
+            }
+Your request has been blocked
+Date: 2026-09-07T21:35:45+0000
+Request UID: ap8uMXsjO5VXLJR7kUUgXAAAAAs

@@ -1,0 +1,278 @@
+RYAN-MICHAEL JARVIS, Plaintiff - Appellant, v. COUNTY..., Not Reported in Fed....
+
+
+                                                                  under federal law. The district court dismissed the complaint
+                     2026 WL 1122106                              under Federal Rule of Civil Procedure 12(b)(6). Exercising
+      Only the Westlaw citation is currently available.           jurisdiction under 28 U.S.C. § 1291, we affirm
+       United States Court of Appeals, Tenth Circuit.
+                                                                  I. Background
+             RYAN-MICHAEL JARVIS,                                 Mr. Jarvis attended a music festival in Teton County,
+               Plaintiff - Appellant,                             Wyoming. Teton County Sheriff's Department officers
+                          v.                                      Sergeant Seth Lewis, Deputy Sarah King, Corporal Travis
+                                                                  Kinslow, and Corporal Erik Elizondo were on patrol. At some
+     COUNTY OF TETON WYOMING;                                     point, Sergeant Lewis, Deputy King, and Corporal Kinslow
+     DISTRICT ATTORNEY ANDREW                                     were called into the venue to investigate a report of a man
+  HARDENBROOK; CORPORAL TRAVIS                                    with a firearm. The officers arrived, and Mr. Jarvis admitted
+                                                                  to having a “brief dispute with a gang of unknown people.” R.
+   KINSLOW; SERGEANT SETH LEWIS;
+                                                                  at 18. According to the police reports, multiple people stated
+ DEPUTY SARAH KING; CORPORAL ERIK                                 Mr. Jarvis had threatened them. Based on that information, the
+ ELIZONDO; CORPORAL JUSTIN JENKINS;                               officers advised Mr. Jarvis he was being detained and asked
+                                                                  him if he had a gun. Mr. Jarvis said he did not, and Officer
+    SHERIFF CODY WRIGHT; SHERIFF
+                                                                  Lewis proceeded with a pat-down search and escorted Mr.
+  ANTHONY-SCOTT COOMBES; SHERIFF                                  Jarvis out of the concert.
+ DOUG RAFFELSON, Defendants - Appellees.
+                                                                  The remaining officers then took additional witness
+                          No. 25-8034                             statements that included reports that Mr. Jarvis wouldn't leave
+                                |                                 a woman's friends alone, he grabbed and put his hands on
+                         April 24, 2026                           women, he threatened he had a gun, and he was generally
+                                                                  being aggressive. While Mr. Jarvis was detained outside the
+Editor's Note: This decision contains discussion of citation      venue, Corporal Elizondo searched him again and removed
+references that are incorrect or do not actually exist. These     Mr. Jarvis's wallet, keys, glasses, and other personal items.
+invalid citations appeared in the original court opinion and      The officers then discussed the situation and decided to arrest
+have been preserved as written since they are part of the         Mr. Jarvis. Mr. Jarvis asked on what grounds, and Corporal
+official record. Any links to these invalid citations have been   Elizondo told him: “They will tell you when you get there.”
+removed.                                                          R. at 46.
+
+                                                                  Mr. Jarvis arrived at the Teton County Jail around 9:00 p.m.
+(D.C. No. 2:24-CV-00245-ABJ) (D. Wyo.)
+                                                                  and asked why he was being detained. Sherriff Anthony-Scott
+Before PHILLIPS, EID, and FEDERICO, Circuit Judges.               Coombes responded that he would produce warrants soon and
+                                                                  conducted a third search of Mr. Jarvis. Following the search,
+                                                                  Mr. Jarvis had to remove and relinquish everything but his
+                                                                  pants and undergarments. Mr. Jarvis was released the next day
+ORDER AND JUDGMENT*                                               at noon after he paid his bail in the amount of $769.13. Upon
+                                                                  his release, Mr. Jarvis received citations and an affidavit in
+Gregory A. Phillips Circuit Judge
+                                                                  support of a warrantless arrest.
+ *1 After a dispute at a music festival, pro se appellant
+Ryan-Michael Jarvis was arrested and detained overnight by        District Attorney Hardenbrook proceeded with prosecuting
+the Teton County Sheriff's Department. The county cited           Mr. Jarvis. He extended a plea offer, but Mr. Jarvis refused it.
+him with two misdemeanor charges. His case was eventually         Mr. Hardenbrook eventually moved the state court to dismiss
+dismissed. Thereafter, he sued the County of Teton Wyoming,       the case. At some point, Mr. Jarvis was refunded $750.00 of
+District Attorney Andrew Hardenbrook, and several Teton           the bail he had paid.
+County Sheriff's Department officers alleging various claims
+
+
+
+               © 2026 Thomson Reuters. No claim to original U.S. Government Works.                                             1
+RYAN-MICHAEL JARVIS, Plaintiff - Appellant, v. COUNTY..., Not Reported in Fed....
+
+
+Mr. Jarvis then commenced the underlying action against           citation, and internal quotation marks omitted). “If so, then
+Teton County, District Attorney Hardenbrook, and the              our appellate jurisdiction is proper.” Id.
+following Teton County Sheriff's Department officers:
+Corporal Kinslow, Sergeant Lewis, Deputy King, Corporal           Here, the district court gave Mr. Jarvis leave to amend. Under
+Elizondo, Sheriff Justin Jenkins, Sheriff Cody Wright, Sheriff    Moya, if Mr. Jarvis didn't want to amend his complaint, he
+Coombes, and Sheriff Doug Raffelson (together, the Officer        was supposed to “notify the district court of his ... decision
+Defendants). Mr. Jarvis alleged various constitutional claims     to stand on the original complaint and, once a final order or
+under 42 U.S.C. § 1983, a civil rights conspiracy claim under     judgment [was] entered, appeal the grounds for dismissal.”
+42 U.S.C. § 1985, conspiracy and racketeering claims under        Id. at 451 n.9. At bottom, though, our analysis “look[s] to
+18 U.S.C. §§ 1961-1968, and criminal violations under 18          the language of the district court's order, the legal basis of
+U.S.C. §§ 241-242 and 18 U.S.C. § 1001. The defendants filed      the district court's decision, and the circumstances attending
+two motions to dismiss, one to dismiss the official capacity      dismissal to determine the district court's intent in issuing its
+claims against all defendants and the individual capacity         order—dismissal of the complaint alone or actual dismissal of
+claims against Mr. Hardenbrook, and the second to dismiss         plaintiff's entire action.” Id. at 451 (internal quotation marks
+the individual capacity claims against the Officer Defendants.    omitted).
+
+ *2 The district court dismissed with prejudice the criminal      Even though Mr. Jarvis may have been premature in filing the
+claims asserted against all the defendants under 18 U.S.C. §§     notice of appeal, it is now ripe for review. See In re Syngenta
+241-242 and § 1001, concluding any amendment as to those          AG MIR 162 Corn Litig., 61 F.4th 1126, 1174 (10th Cir. 2023)
+claims would be futile. The district court dismissed without      (concluding that premature notice of appeal may ripen upon
+prejudice the official capacity and individual capacity claims    district court's adjudication of all remaining claims); see also
+asserted under 42 U.S.C. §§ 1983 and 1985, and 18 U.S.C.          Fed. R. App. P. 4(a)(2) (“A notice of appeal filed after the
+§§ 1961-1968. The district court also entered a separate order    court announces a decision or order--but before the entry of
+stating the claims dismissed without prejudice would convert      the judgment or order--is treated as filed on the date of and
+into a dismissal with prejudice if Mr. Jarvis did not amend the   after the entry.”). Although the district court never issued a
+complaint within thirty days (the Order to Amend).                separate final judgment, we are convinced of our jurisdiction
+                                                                  because the language in the Order to Amend shows that if Mr.
+                                                                  Jarvis chose not to amend the complaint, the district court's
+II. Jurisdiction                                                  objective intent was to dismiss the claims with prejudice. See
+In the Order to Amend, the district court stated: “If [Mr.        In re Syngenta, 61 F.4th at 1175 (“[R]ipening occurs so long as
+Jarvis] chooses not to [amend his Complaint], our dismissal       the prematurely appealed order bears some indicia of finality
+shall convert to a dismissal with prejudice and a final           and is likely to remain unchanged during subsequent court
+judgment will be entered.” R. at 317. Rather than amend the       proceedings.” (internal quotation marks omitted)).
+complaint, Mr. Jarvis appealed. After the thirty-day period,
+the district court never entered a final judgment. This left
+some ambiguity in whether the order was final and appealable      III. Discussion
+under our case law, so the Clerk's Office entered an order to      *3 Mr. Jarvis challenges the district court's orders dismissing
+show cause as to why the appeal should not be dismissed for       his claims under Federal Rule of Civil Procedure 12(b)
+lack of jurisdiction. Mr. Jarvis timely responded.                (6).1 We review de novo the district court's dismissal under
+                                                                  Rule 12(b)(6). McNellis v. Douglas Cnty. Sch. Dist., 116
+“In evaluating finality, ... we look to the substance and         F.4th 1122, 1130 (10th Cir. 2024). We “must take as true
+objective intent of the district court's order, not just its      all well-pleaded facts, as distinguished from conclusory
+terminology.” Moya v. Schollenbarger, 465 F.3d 444, 449           allegations, [and] view all reasonable inferences in favor
+(10th Cir. 2006). “In cases where the district court order        of the nonmoving party,” but “a complaint cannot rely on
+is ambiguous, our approach is to determine as best we             labels or conclusory allegations—a formulaic recitation of the
+can whether the district court's order evidences an intent        elements of a cause of action will not do.” Id. at 1130-31
+to extinguish the plaintiff's cause of action, and whether        (brackets and internal quotation marks omitted). Instead,
+the plaintiff has been effectively excluded from federal          “[t]o survive a motion to dismiss, a complaint must contain
+court under the present circumstances.” Id. at 450 (brackets,     sufficient factual matter, accepted as true, to state a claim to
+
+
+
+               © 2026 Thomson Reuters. No claim to original U.S. Government Works.                                              2
+RYAN-MICHAEL JARVIS, Plaintiff - Appellant, v. COUNTY..., Not Reported in Fed....
+
+
+relief that is plausible on its face.” Ashcroft v. Iqbal, 556 U.S.   accountability. Simply put, he argues that this case shows “a
+662, 678 (2009) (internal quotation marks omitted). “A claim         pattern of neglect and tolerance for constitutional violations.”
+has facial plausibility when the plaintiff pleads factual content    Aplt. Opening Br. at 67.
+that allows the court to draw the reasonable inference that the
+defendant is liable for the misconduct alleged.” Id.                  *4 Despite his numerous filings and the breadth of
+                                                                     allegations Mr. Jarvis raised in the district court, he did not
+Mr. Jarvis only challenges the district court's rulings on the       allege facts to show what the policy or custom might be or, if
+§ 1983 official capacity claims and the § 1983 individual            there was one, that it was a widespread practice within Teton
+capacity claims against District Attorney Hardenbrook and            County.2 Mr. Jarvis's failure to show that a Teton County
+the Officer Defendants. He has therefore waived any                  policy or custom caused the constitutional violations is fatal
+challenge to the remaining claims. See Sawyers v. Norton,            to this claim.
+962 F.3d 1270, 1286 (10th Cir. 2020) (“Issues not raised in
+the opening brief are deemed abandoned or waived.” (internal
+quotation marks omitted)).                                              B. Individual Capacity Claims under § 1983
+                                                                     Like the district court, we address the individual capacity
+                                                                     claims against Mr. Hardenbrook and the Officer Defendants
+   A. Official Capacity Claims under § 1983                          separately.
+“[A] [§ 1983] suit against a state official in his or her
+official capacity is not a suit against the official but rather
+is a suit against the official's office.” Will v. Mich. Dep't of
+State Police, 491 U.S. 58, 71 (1989). Such a suit allows a           i. Mr. Hardenbrook
+plaintiff to sue a local official's office for a constitutional
+                                                                     Mr. Jarvis alleged a malicious prosecution claim and a Sixth
+violation stemming from the governing body's policies. See
+                                                                     Amendment claim against Mr. Hardenbrook for both damages
+Monell v. Dep't of Soc. Servs., 436 U.S. 658, 690 (1978). To
+                                                                     and injunctive relief. Mr. Jarvis argues Mr. Hardenbrook's
+plausibly allege a Monell claim, Mr. Jarvis had to “allege facts
+                                                                     decision to proceed with the prosecution despite no probable
+showing (1) an official policy or custom, (2) causation, and
+                                                                     cause supporting his arrest was evidence of malicious
+(3) deliberate indifference.” Lucas v. Turn Key Health Clinics,
+                                                                     prosecution. Mr. Jarvis also cites Mr. Hardenbrook's motion
+LLC, 58 F.4th 1127, 1145 (10th Cir. 2023). A municipal policy
+                                                                     to continue the trial and his plea deal offer as additional
+or custom may take one of the following forms:
+                                                                     evidence of malicious prosecution. He argues that arresting
+   (1) a formal regulation or policy statement; (2) an informal      and charging someone without probable cause or evidence is
+   custom amounting to a widespread practice that, although          conduct like that of an investigator and therefore prosecutorial
+   not authorized by written law or express municipal policy,        immunity does not apply. For the Sixth Amendment claim,
+   is so permanent and well settled as to constitute a custom or     Mr. Jarvis contends Mr. Hardenbrook took deliberate actions
+   usage with the force of law; (3) the decisions of employees       to delay the trial and to deny his ability to confront witnesses.
+   with final policymaking authority; (4) the ratification by
+   such final policymakers of the decisions—and the basis for        The district court determined absolute prosecutorial
+   them—of subordinates to whom authority was delegated              immunity barred the claims against Mr. Hardenbrook for
+   subject to these policymakers’ review and approval; or (5)        damages because his actions were associated with the
+   the failure to adequately train or supervise employees, so        judicial process. See Pfeiffer v. Hartford Fire Ins. Co., 929
+   long as that failure results from deliberate indifference to      F.2d 1484, 1489 (10th Cir. 1991) (“It is well established
+   the injuries that may be caused.                                  that prosecutors are absolutely immune from suit under
+Id. (internal quotation marks omitted).                              section 1983 concerning activities intimately associated
+                                                                     with the judicial process, such as initiating and pursuing
+Mr. Jarvis appears to argue that the Teton County Sheriff's          criminal prosecutions.” (ellipsis and internal quotation marks
+Department and the District Attorney's Office engaged in             omitted)). The district court also determined the claims for
+conduct to delay trial, failed to disclose relevant evidence,        injunctive relief failed because Mr. Jarvis did not plead facts
+wrongfully detained him without prompt judicial review, and          sufficient to support either claim. After reviewing the briefs,
+charged him without probable cause. He asserts this conduct          record, and relevant law, we discern no error in the district
+is reflective of a systemic failure in training, supervision, and    court's reasoning. So, we affirm for substantially the same
+
+
+
+                © 2026 Thomson Reuters. No claim to original U.S. Government Works.                                                3
+RYAN-MICHAEL JARVIS, Plaintiff - Appellant, v. COUNTY..., Not Reported in Fed....
+
+
+
+reasons discussed in the district court's thorough and well-         cause.4 Mr. Jarvis also takes issue with the district court's
+reasoned June 10, 2025 order granting the motion to dismiss          application of qualified immunity to the individual capacity
+the individual capacity claims against Mr. Hardenbrook. See          claims.
+R. at 273-88.
+                                                                     The district court determined the Officer Defendants had
+                                                                     probable cause to arrest Mr. Jarvis and that qualified
+                                                                     immunity applied because Mr. Jarvis did not plead facts
+ii. Officer Defendants
+                                                                     sufficient to make out a constitutional violation. See VDARE
+Mr. Jarvis raises several issues challenging the district court's    Found. v. City of Colo. Springs, 11 F.4th 1151, 1175 (10th Cir.
+ruling on the individual capacity claims against the Officer         2021) (“In resolving a motion to dismiss based on qualified
+Defendants. Two issues involve new claims: (1) a Franks              immunity, the court considers (1) whether the facts that a
+v. Delaware, 438 U.S. 154 (1978) violation claim and (2)             plaintiff has alleged make out a violation of a constitutional
+a First Amendment retaliation claim. Because he did not              right, and (2) whether the right at issue was clearly established
+present these issues to the district court and does not argue        at the time of the defendant's alleged misconduct.” (internal
+for plain error review now, we deem them waived and decline          quotation marks omitted)). Despite the breadth of Mr. Jarvis's
+to consider them. See United States v. Leffler, 942 F.3d 1192,       arguments, after reviewing the record, briefs, and relevant
+1196 (10th Cir. 2019) (“When an appellant fails to preserve          law, we find no error in the district court's reasoning. So, we
+an issue and also fails to make a plain-error argument on            affirm for substantially the same reasons articulated by the
+appeal, we ordinarily deem the issue waived (rather than             district court in its thorough and well-reasoned June 17, 2025
+merely forfeited) and decline to review the issue at all—for         order granting the motion to dismiss the individual capacity
+plain error or otherwise.”).                                         claims against the Officer Defendants. See R. at 289-316.
+
+
+ *5 Mr. Jarvis's remaining issues challenge the district
+                                                                     IV. Conclusion
+court's determinations regarding his (1) Fourth Amendment
+                                                                      *6 We affirm the district court judgment.
+unlawful seizure, false arrest, and malicious prosecution
+claims, asserting there was no probable cause to support
+                                                                     Entered for the Court
+the seizure, arrest, and prosecution;3 (2) Fifth and Sixth
+Amendment claims, asserting he plausibly alleged them
+because he was arrested without a warrant, a clear explanation       All Citations
+of the charges against him, or the ability to confront witnesses;
+                                                                     Not Reported in Fed. Rptr., 2026 WL 1122106
+and (3) Eighth Amendment excessive bail claim asserting the
+Officer Defendants prolonged his detention without probable
+
+
+Footnotes
+*       After examining the briefs and appellate record, this panel has determined unanimously that oral argument would not
+        materially assist in the determination of this appeal. See Fed. R. App. P. 34(a)(2); 10th Cir. R. 34.1(G). The case is
+        therefore ordered submitted without oral argument. This order and judgment is not binding precedent, except under the
+        doctrines of law of the case, res judicata, and collateral estoppel. It may be cited, however, for its persuasive value
+        consistent with Fed. R. App. P. 32.1 and 10th Cir. R. 32.1.
+
+1       Because Mr. Jarvis proceeds pro se, his filings “are ... construed liberally and held to a less stringent standard than formal
+        pleadings drafted by lawyers.” Garrett v. Selby Connor Maddux & Janer, 425 F.3d 836, 840 (10th Cir. 2005) (internal
+        quotation marks omitted). However, the court will not act as his advocate or “take on the responsibility of serving as [his]
+        attorney in constructing arguments and searching the record.” Id.
+
+2       In the Opening Brief, Mr. Jarvis presents anecdotal evidence of others who had experiences similar to his. But that
+        evidence is not in the record. Accordingly, we decline to consider it. See Regan-Touhy v. Walgreen Co., 526 F.3d 641,
+        648 (10th Cir. 2008) (“We generally limit our review on appeal to the record that was before the district court when it
+        made its decision.”).
+
+
+
+
+                © 2026 Thomson Reuters. No claim to original U.S. Government Works.                                                4
+RYAN-MICHAEL JARVIS, Plaintiff - Appellant, v. COUNTY..., Not Reported in Fed....
+
+
+
+3     Mr. Jarvis contends that the unsworn witness testimony the Officer Defendants collected was insufficient to support
+      probable cause. In support, he includes a quote purportedly from Spinelli v United States, 393 U.S. 410, 416 (1969)
+      abrogated by Illinois v. Gates, 462 U.S. 213 (1983): “The mere assertion of a complaint ... without corroboration or
+      personal knowledge of a crime, fails to establish probable cause.” Aplt. Opening Br. at 21 (alteration in original) (internal
+      quotation marks omitted). But we cannot find this quote (or any similar proposition) in Spinelli. Nor does the quotation
+      appear in any other federal or state case. We therefore suspect that Mr. Jarvis's quotation is a fabrication generated
+      by his use of a generative artificial intelligence (AI) tool. Cf. Wadsworth v. Walmart Inc., 348 F.R.D. 489, 497 (D. Wyo.
+      2025) (“It is ... well-known in the legal community that AI resources generate fake cases.”). Such fabrications are often
+      referred to as “AI [h]allucination[s],” which happen “where an AI large language model generates an output that is fictional,
+      inaccurate, or nonsensical.” Jones v. Kankakee Cnty. Sheriff's Dep't, 164 F.4th 967, 969 (7th Cir. 2026). We must, of
+      course, disregard Mr. Jarvis's reliance on this quotation. Although we decline to sanction Mr. Jarvis for this fabrication, we
+      warn him—and all litigants appearing before this court, whether pro se or represented by counsel—of the responsibility
+      to ensure that quotations actually appear in the cases to which they are attributed and cited cases arguably stand for the
+      propositions for which they are cited. See 10th Cir. R. 46.5(B)(2).
+
+4     Mr. Jarvis claims that in Meechaicum v. Fountain, 696 F.2d 790, 791 (10th Cir. 1983) this court “held that a pretrial
+      detainee may raise an Eighth Amendment claim where false or misleading information prolongs detention.” Aplt. Opening.
+      Br. at 40. But this holding is not found in Meechaicum. Again, we suspect that Mr. Jarvis's citation was a fabrication
+      generated by his use of an AI tool. Cf. Wadsworth, 348 F.R.D. at 497; Jones, 164 F.4th at 969.
+
+
+
+End of Document                                                       © 2026 Thomson Reuters. No claim to original U.S.
+                                                                                                  Government Works.
+
+
+
+
+              © 2026 Thomson Reuters. No claim to original U.S. Government Works.                                                5
+

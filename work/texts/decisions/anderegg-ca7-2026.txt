@@ -1,0 +1,871 @@
+                               In the
+
+    United States Court of Appeals
+                 For the Seventh Circuit
+                     ____________________
+No. 25-1354
+UNITED STATES OF AMERICA,
+                                                  Plaintiﬀ-Appellant,
+                                 v.
+
+STEVEN ANDEREGG,
+                                                 Defendant-Appellee.
+                     ____________________
+
+         Appeal from the United States District Court for the
+                   Western District of Wisconsin.
+         No. 3:24-cr-0050 — James D. Peterson, Chief Judge.
+                     ____________________
+
+   ARGUED OCTOBER 30, 2025 — DECIDED AUGUST 25, 2026
+               ____________________
+
+   Before LEE, PRYOR, and KOLAR, Circuit Judges.
+    LEE, Circuit Judge. Steven Anderegg is charged with pro-
+ducing, distributing, and possessing visual depictions of mi-
+nors engaged in sexually explicit conduct and transferring
+such material to a minor under the age of sixteen. According
+to the government, Anderegg produced these images using
+Stable Diﬀusion, a generative artiﬁcial intelligence (“GenAI”)
+software that allowed him to create hyper-realistic images of
+prepubescent children engaging in sexually explicit acts.
+2                                                               No. 25-1354
+
+    When Anderegg moved to dismiss the indictment, the dis-
+trict court granted the motion as to the possession charge and
+denied the remainder. In doing so, the court held that 18
+U.S.C. § 1466A(b)(1) was unconstitutional as applied to An-
+deregg because, under Stanley v. Georgia, individuals have a
+First Amendment right to possess obscenity in the privacy of
+their home. 394 U.S. 557 (1969). Moreover, in the district
+court’s view, the government’s attempts to justify a prohibi-
+tion on the possession of virtual child sexual abuse material
+(“CSAM”) ran headlong into Ashcroft v. Free Speech Coalition,
+where the Supreme Court rejected substantially identical ar-
+guments. 1 535 U.S. 234, 250 (2002). This is despite the Su-
+preme Court’s prior holding in Osborne v. Ohio, which permit-
+ted the government to proscribe the in-home possession of
+
+
+    1 Federal criminal law deﬁnes “child pornography” as the “visual de-
+
+piction” of a minor “engaging in sexually explicit conduct.” 18 U.S.C.
+§ 2256(8); see also United States v. Williams, 553 U.S. 285, 288 (2008) (child
+pornography generally “consists of sexually explicit visual portrayals that
+feature children.”). More recently, the Fourth Circuit has recognized that
+“the term ‘child sexual abuse material’ more ‘accurately reﬂects what is
+depicted—the sexual abuse and exploitation of children.’” United States v.
+Tucker, 60 F.4th 879, 887 (4th Cir. 2023) (citation modiﬁed); see also Child
+Sexual Abuse Material, U.S. Dep’t of Just. 1 (June 2023), https://www.jus-
+tice.gov/d9/2023-06/child_sexual_abuse_material_2.pdf
+[https://perma.cc/E3HM-AX7Q] (Department of Justice explaining that
+although the term “child pornography” appears in some federal statutes,
+the term “child sex abuse material” is preferred). Thus, the Fourth Circuit
+has used “child sexual abuse material” interchangeably with the term
+“child pornography” to “reﬂect more accurately the abusive and exploita-
+tive nature of [the act].” United States v. Kuehner, 126 F.4th 319, 322 n.1 (4th
+Cir. 2025). The Second Circuit has followed suit. United States v. Guard, 152
+F.4th 375, 381 n.2 (2d Cir. 2025). Following their lead, we also employ the
+term CSAM where possible.
+No. 25-1354                                                    3
+
+CSAM depicting actual children. 495 U.S. 103, 109–11 (1990).
+The government then ﬁled this interlocutory appeal, chal-
+lenging the dismissal of the possession charge.
+    We now live in an age where GenAI models can render
+images depicting the abuse of virtual children that are virtu-
+ally indistinguishable from those depicting the abuse of actual
+children. This case illuminates how this evolving technology
+complicates the lines drawn by the Supreme Court in Stanley,
+Osborne, and Free Speech Coalition. Indeed, in Free Speech Coali-
+tion, the Supreme Court addressed the scope of First Amend-
+ment protections for virtual CSAM, but that was nearly
+twenty-ﬁve years ago, and the image-generation technology
+available today was likely unimaginable back then. Given the
+relentless advancement in artiﬁcial intelligence models, we
+have some concerns about the lines these cases draw, but we
+are not free to redraw them ourselves. See United States v.
+Rush, 130 F.4th 633, 637, 638 (7th Cir. 2025) (“The rule of law
+demands we follow binding Supreme Court precedent. …
+[W]e leave to the Supreme Court the prerogative of overrul-
+ing its own decisions.”). Because we conclude that Stanley and
+Free Speech Coalition control Anderegg’s as-applied challenge
+to § 1466A(b)(1), we must aﬃrm.
+                        I. Background
+   According to the government, in October 2023, Meta Plat-
+forms, Instagram’s parent company, reported the online
+transmission of potential CSAM to the CyberTipline of the
+National Center for Missing and Exploited Children
+(“NCMEC”). See 18 U.S.C. § 2258A. An Instagram user appar-
+ently sent a direct message containing what appeared to be
+AI-generated images depicting CSAM to an account belong-
+ing to a minor. According to Meta, at least one image depicted
+4                                                          No. 25-1354
+
+“what appeared to be a … prepubescent juvenile male … with
+his legs spread far apart exposing his erect penis.” Meta also
+noted that the image appeared to be computer-generated. The
+corresponding message history showed the account user ex-
+plaining to the minor how he had created the images by in-
+putting text prompts into Stable Diﬀusion, a text-to-image
+GenAI model.
+   Law enforcement linked the account to Anderegg, whose
+résumé indicated that he was a software engineer with a back-
+ground in AI models. Law enforcement then executed a
+search warrant of his home, his personal laptop, two other cell
+phones, and other devices.
+    The government alleges that Anderegg installed Stable
+Diﬀusion on his personal laptop and added software compo-
+nents that provided the program with the ability to create de-
+pictions of human genitalia. He then used the program to gen-
+erate photo-realistic images of minors in sexually explicit po-
+sitions. To produce these images, Anderegg used curated text
+prompts to generate these images and further reﬁned the out-
+put by employing negative prompts to exclude depictions of
+adults. This process generated hundreds of images depicting
+nude or semi-clothed prepubescent minors displaying or
+touching their genitals. Other images, according to the gov-
+ernment, portrayed prepubescent minors touching adult male
+penises or engaging in sexual intercourse. 2
+   Anderegg was charged with (1) “knowingly produc[ing]”
+and (2) “knowingly distribut[ing]” visual depictions of
+
+    2 The government concedes that the images for which Anderegg is
+
+charged do not depict an actual child, nor can they be linked to an actual
+child. Oral Argument at 21:43.
+No. 25-1354                                                    5
+
+minors engaged in sexually explicit conduct as well as (3)
+“knowingly transferr[ing]” such material to a minor under
+the age of sixteen in violation of 18 U.S.C. § 1466A(a)(1),
+(d)(1). He was also charged in Count 4 with “knowingly pos-
+sess[ing] at least one visual depiction that depicted a minor
+engaging in sexually explicit conduct and was obscene, and
+any depiction involved in the oﬀense had been shipped and
+transported in interstate and foreign commerce” in violation
+of 18 U.S.C. § 1466A(b)(1), (d)(4).
+    Anderegg ﬁled a ﬂurry of motions, including a motion to
+dismiss Count 4. As to that count, he argued that being con-
+victed of possessing CSAM would violate his First Amend-
+ment rights as recognized by Stanley. The district court agreed
+and dismissed the possession charge but left the remaining
+counts intact. The government appeals.
+                        II. Discussion
+    We review de novo the district court’s determination that
+§ 1466A(b)(1) is unconstitutional as applied to Anderegg. See
+United States v. Sheikh, 164 F.4th 629, 633 (7th Cir. 2026) (“We
+review the constitutionality of a federal statute de novo.”) (ci-
+tation omitted). In considering an as-applied challenge, “we
+examine only the facts of the case before us and not any set of
+hypothetical facts under which the statute might be unconsti-
+tutional.” United States v. Phillips, 645 F.3d 859, 863 (7th Cir.
+2011). And, when reviewing the dismissal of Count 4, we ac-
+cept the indictment’s allegations as true. United States v.
+Moore, 563 F.3d 583, 586 (7th Cir. 2009). We start with a dis-
+cussion of the Supreme Court cases most pertinent to our in-
+quiry.
+6                                                     No. 25-1354
+
+A. Applicable Supreme Court Precedent
+    1. Obscenity, CSAM, and the Home
+    The First Amendment provides that “Congress shall make
+no law … abridging the freedom of speech.” U.S. Const.
+Amend. I. “At the same time, not all speech is protected.” Free
+Speech Coal., Inc. v. Paxton, 606 U.S. 461, 471 (2025). Obscenity,
+along with certain other categories of speech, has historically
+fallen “outside the scope of the First Amendment.” Id. (cita-
+tion omitted); see also Roth v. United States, 354 U.S. 476, 485
+(1957) (“[O]bscenity is not within the area of constitutionally
+protected speech.”). And, although the precise meaning of
+“obscenity” is diﬃcult to pin down, the Supreme Court has
+oﬀered the following articulation: “[S]peech is obscene to the
+public at large—and thus proscribable—if (a) ‘the average
+person, applying contemporary community standards[,]
+would ﬁnd that the work, taken as a whole, appeals to the
+prurient interest’; (b) ‘the work depicts or describes, in a pa-
+tently oﬀensive way, sexual conduct speciﬁcally deﬁned by
+the applicable state law’; and (c) ‘the work, taken as a whole,
+lacks serious literary, artistic, political, or scientiﬁc value.’”
+Paxton, 606 U.S. at 472 (quoting Miller v. California, 413 U.S. 15,
+24 (1973)).
+    At the same time, “[t]he Constitution extends special safe-
+guards to the privacy of the home.” United States v. Orito, 413
+U.S. 139, 142 (1973). The Supreme Court addressed the clash
+of these two principles—the government’s interest in pro-
+scribing obscenity and an individual’s privacy in one’s
+home—in Stanley. 394 U.S. 557. There, law enforcement dis-
+covered three reels of eight-millimeter ﬁlms containing ob-
+scene material at the defendant’s home, and he was later
+charged and convicted of knowingly possessing obscene
+No. 25-1354                                                    7
+
+matter in violation of Georgia law. The defendant challenged
+the conviction on First Amendment grounds, and the Su-
+preme Court agreed.
+     Acknowledging that the government retains “broad
+power to regulate obscenity,” the Supreme Court held that the
+State’s “power simply does not extend to mere possession by
+the individual in the privacy of his own home.” 394 U.S. at
+568. “If the First Amendment means anything,” the Court ex-
+plained, “it means that a State has no business telling a man,
+sitting alone in his own house, what books he may read or
+what ﬁlms he may watch.” Id. at 565.
+    Along the way, the Court had no trouble rejecting the
+State’s argument that its “right to protect the individual’s
+mind from the eﬀects of obscenity” entitled it to reach into an
+individual’s home. Id. Indeed, “the right to be free, except in
+very limited circumstances, from unwanted governmental in-
+trusions into one’s privacy,” the Supreme Court declared, is
+“fundamental to our free society.” Id. at 564; see United States
+v. Reidel, 402 U.S. 351, 356 (1971) (“The personal constitutional
+rights of those like Stanley to possess and read obscenity in
+their homes and their freedom of mind and thought do not
+depend on whether the materials are obscene or whether ob-
+scenity is constitutionally protected. Their rights to have and
+view that material in private are independently saved by the
+Constitution.”).
+    Approximately a decade after Stanley, the Supreme Court
+addressed whether the promotion and sale of CSAM impli-
+cated First Amendment rights. In New York v. Ferber, New
+York had enacted a broadly worded statute proscribing the
+use of a child under the age of sixteen in a “performance” that
+includes “sexual conduct.” 458 U.S. 747, 751 (1982) (citation
+8                                                    No. 25-1354
+
+omitted). The statute deﬁned “performance” as “any play,
+motion picture, photograph or dance,” and deﬁned “sexual
+conduct” as “actual or simulated sexual intercourse … or
+lewd exhibition of the genitals.” Id. (citation modiﬁed). The
+defendant was arrested after selling two ﬁlms to an under-
+cover police oﬃcer that depicted young boys masturbating;
+he was later convicted and appealed. The New York Court of
+Appeals reversed, holding that the statute violated the First
+Amendment because, among other things, it was over-inclu-
+sive by prohibiting the distribution of “materials which are
+traditionally entitled to constitutional protection,” such as
+medical books and educational sources. Id. at 752 (citation
+modiﬁed). In making this determination, the Court of Ap-
+peals relied on a state-law deﬁnition of obscenity that mir-
+rored the standard espoused in Miller. Id. at 753 (citation mod-
+iﬁed).
+    The Supreme Court reversed. Recognizing that the New
+York Court of Appeals’ reliance on Miller was not “unreason-
+able,” id., the Court nevertheless held that “[t]he test for child
+pornography is separate from the obscenity standard enunci-
+ated in Miller” because CSAM was diﬀerent from adult ob-
+scene materials in several important ways, id. at 764. First, the
+state’s interest in protecting the physical and psychological
+well-being of minors and preventing the sexual exploitation
+and abuse of children “constitute[d] a government objective
+of surpassing importance.” Id. at 757. Second, the distribution
+of CSAM was “intrinsically related to the sexual abuse of chil-
+dren” because the materials “are a permanent record of the
+children’s participation and the harm to the child is exacer-
+bated by their circulation.” Id. at 759 (footnote omitted). Third,
+the advertising and selling of CSAM “provide[d] an economic
+motive for and are thus an integral part of the production of
+No. 25-1354                                                     9
+
+such materials.” Id. at 761 (footnote omitted). Fourth, the
+value of performances and photographs of children engaged
+in lewd sexual conduct was “exceedingly modest, if not de
+minimis.” Id. at 762. Lastly, classifying CSAM as outside the
+protection of the First Amendment was not inconsistent with
+the historical approach the Court employed when analyzing
+speech. Id. at 763. Thus, the Court concluded, CSAM (whether
+obscene or not) was not constitutionally protected.
+    Eight years later, the Supreme Court addressed whether
+the protections articulated in Stanley would extend to the pos-
+session of CSAM in one’s home. In Osborne v. Ohio, the de-
+fendant was convicted of violating an Ohio law prohibiting
+the possession and viewing of CSAM after the police found in
+his home four photographs of adolescents in sexually explicit
+positions. 495 U.S. at 107. In the defendant’s view, the statute
+was unconstitutional under Stanley. The Supreme Court disa-
+greed. “Stanley should not be read too broadly,” the Court re-
+marked, adding that it had “previously noted that Stanley was
+a narrow holding.” Id. at 108. The main distinction between
+Osborne and Stanley, the Court observed, was “obvious”: “The
+State does not rely on a paternalistic interest in regulating Os-
+borne’s mind. Rather, Ohio has enacted [the statute] in order
+to protect the victims of child pornography; it hopes to de-
+stroy a market for the exploitative use of children.” Id. at 109.
+    Thus, it was reasonable, the Supreme Court concluded, for
+Ohio to believe that criminalizing the possession and viewing
+of CSAM would lessen demand and decrease its production.
+Id. at 109–10. “Given the importance of the State’s interest in
+protecting the victims of child pornography,” the Court de-
+clared, “we cannot fault Ohio for attempting to stamp out this
+vice at all levels in the distribution chain.” Id. at 110. What is
+10                                                    No. 25-1354
+
+more, the Court observed that the distribution and viewing of
+CSAM “permanently record the victim’s abuse” and “evi-
+dence suggest[ed] that pedophiles use child pornography to
+seduce other children into sexual activity.” Id. at 111 (citing
+Ferber, 458 U.S. at 759). Such grave interests, the Supreme
+Court held, allowed Ohio to prohibit the possession and view-
+ing of CSAM even in one’s own home notwithstanding Stan-
+ley. See United States v. 12 200-Foot Reels of Super 8mm. Film, 413
+U.S. 123, 127 (1973) (noting that Stanley rests on an “explicitly
+narrow and precisely delineated privacy right”); United States
+v. Andersson, 803 F.2d 903, 906 (7th Cir. 1986) (ﬁnding that the
+Supreme Court has “limited” Stanley’s holding “severely”).
+     2. Free Speech Coalition—Virtual CSAM
+    Before 1996, Congress had deﬁned child pornography as
+images made using actual minors. 18 U.S.C. § 2252 (1994). But
+with the rapid advancement of computer technology, Con-
+gress passed the Child Pornography Prevention Act (“CPPA”)
+in 1996 to expand federal prohibitions on CSAM. As relevant
+here, the CPPA extended the ban beyond images involving
+actual children to include “any visual depiction, including
+any … computer-generated image or picture” that “is, or ap-
+pears to be, of a minor engaging in sexually explicit conduct.”
+18 U.S.C. § 2256(8)(B) (1996). Thus, the statute criminalized
+the production, distribution, and possession of virtual CSAM,
+that is, CSAM “produced without using any real children.”
+Free Speech Coal., 535 U.S. at 239.
+    In Ashcroft v. Free Speech Coalition, the Supreme Court con-
+fronted the question of whether virtual CSAM, like actual
+CSAM, was beyond the First Amendment’s reach. Id. at 234.
+In that case, Free Speech Coalition, a trade association for the
+adult-entertainment industry, mounted a facial challenge to
+No. 25-1354                                                      11
+
+§ 2256(8)(B), arguing that the provision violated its members’
+First Amendment rights by chilling protected speech. Id. Tak-
+ing great care to note that the materials at issue did not in-
+volve actual children, the Supreme Court agreed.
+    As an initial matter, the Supreme Court observed that the
+CPPA sought “to reach beyond obscenity, and it makes no at-
+tempt to conform to the Miller standard.” Id. at 240. Put an-
+other way, “the CPPA cannot be read to prohibit obscenity,
+because it lacks the required link between its prohibitions and
+the aﬀront to community standards prohibited by the deﬁni-
+tion of obscenity.” Id. at 249. As a result, the government re-
+lied on Ferber, where the Supreme Court had allowed States
+to regulate CSAM whether obscene or not. But the Supreme
+Court found Ferber inapt.
+    “By prohibiting child pornography that does not depict an
+actual child,” the Court stated, “the statute goes beyond [Fer-
+ber] which distinguished child pornography from other sex-
+ually explicit speech because of the State’s interest in protect-
+ing the children exploited by the production process.” Id. at
+240 (citing Ferber, 458 U.S. at 747, 758); see Williams, 553 U.S. at
+289 (“[T]he child-protection rationale for speech restriction
+does not apply to materials produced without children.”)
+(quoting Free Speech Coal., 535 U.S. at 249–51). Consistent with
+this purpose, the statute challenged in Ferber had targeted the
+“production of the work, not its content.” Id. at 249 (citation
+modiﬁed). And Ferber upheld the statute’s prohibition on the
+production, distribution, and sale of CSAM, because (1) the
+material constituted “a permanent record of the child’s abuse,
+the continued circulation itself would harm the child,” and (2)
+“the traﬃc in child pornography was an economic motive for
+its production.” Id. at 250 (citing Ferber, 458 U.S. at 759–60).
+12                                                           No. 25-1354
+
+Here, the CPPA targeted virtual CSAM, and because “virtual
+child pornography is not intrinsically related to the sexual
+abuse of children, as were the materials in Ferber,” id. at 250
+(citation modiﬁed), the Court found Ferber not to control. 3
+     For much the same reason, the Court remarked, Osborne
+too was distinguishable, because it had “anchored its holding
+in the concern for the participants, those whom it called the
+‘victims of child pornography.’” Id. (citation modiﬁed). In Os-
+borne, the state had a compelling interest in protecting chil-
+dren by attempting to eliminate CSAM at all levels of the dis-
+tribution chain and preventing CSAM from being used to so-
+licit minors. Id. This was not the case in Free Speech Coalition,
+the Supreme Court declared, because the depictions did not
+involve actual children.
+    The Supreme Court then proceeded to refute the various
+arguments the government had raised to justify the CPPA’s
+prohibition on virtual CSAM. First, the government argued
+that the CPPA was necessary because virtual CSAM could be
+used to seduce children. But, if this was the law’s purpose, the
+Court concluded, it was “not narrowly drawn,” because
+“[t]he Government cannot ban speech ﬁt for adults simply be-
+cause it may fall into the hands of children.” Id. at 252.
+
+
+     3 Importantly, the Supreme Court in Free Speech Coalition distin-
+
+guished § 2256(8)(B) from § 2256(8)(C), which “prohibits a more common
+and lower tech means of creating virtual images, known as computer
+morphing,” where creators alter innocent images of real children so that
+they appear to be engaging in sexual acts. Id. at 242. “Although morphed
+images may fall within the deﬁnition of virtual child pornography,” the
+Court remarked, “they implicate the interests of real children and are in
+that sense closer to the images in Ferber. Respondents do not challenge this
+provision, and we do not consider it.” Id.
+No. 25-1354                                                 13
+
+    Second, the government argued that virtual CSAM “whets
+the appetites of pedophiles and encourages them to engage in
+illegal conduct.” Id. at 253. But again the Supreme Court was
+unpersuaded. “The mere tendency of speech to encourage un-
+lawful acts is not a suﬃcient reason for banning it,” the Court
+noted, and the government had “shown no more than a re-
+mote connection between speech that might encourage
+thoughts or impulses and any resulting child abuse.” Id.
+    Third, in the government’s view, it was necessary to pro-
+scribe virtual CSAM if it wanted to accomplish its goal to
+eliminate the market for real CSAM. The Court, however,
+found this theory “implausible,” noting that if the two were
+completely interchangeable, the actual images would be
+“driven from the market by the indistinguishable substi-
+tutes,” since “[f]ew pornographers would risk prosecution by
+abusing real children if ﬁctional, computerized images would
+suﬃce.” Id. at 254.
+    For its ﬁnal argument, the government asserted that, be-
+cause it was often hard to distinguish virtual CSAM from real
+CSAM, prosecuting those who produced such material using
+actual children was very diﬃcult. But the Court made short
+shrift of this argument, declaring that “[t]he Government may
+not suppress lawful speech as the means to suppress unlaw-
+ful speech. Protected speech does not become unprotected
+merely because it resembles the latter.” Id. at 255.
+   After Free Speech Coalition, Congress went back to the
+drawing board and enacted the statute at issue here. The Pros-
+ecutorial Remedies and Other Tools to end the Exploitation of
+Children Today Act of 2003 (“PROTECT Act”) included a new
+provision which, in part, proscribed possession of “a visual
+depiction of any kind … that (1)(A) depicts a minor engaging
+14                                                 No. 25-1354
+
+in sexually explicit conduct; and (B) is obscene.” 18 U.S.C.
+§ 1466A(a)(1), (b)(1) (emphasis added). This includes any
+“digital image or picture, computer image or picture, or com-
+puter generated image or picture.” 18 U.S.C. § 1466A(f)(1).
+And it expressly does not require that “the minor depicted ac-
+tually exist.” 18 U.S.C. § 1466A(c).
+B. The Merits
+    Here, Anderegg challenges the count charging him with
+possessing obscene virtual CSAM. Anderegg relies on Stanley
+to argue that § 1466A(b)(1) is unconstitutional as applied to
+him. In essence, he asserts that obscene virtual CSAM should
+have the same protections as other obscene materials when
+possessed and viewed at home. Unpacking this argument re-
+quires several parts. First, assuming for the sake of argument
+that obscene virtual CSAM is equivalent to other forms of ob-
+scenity, we must assess whether Anderegg’s circumstances
+would fall within the contours of Stanley. If the answer to that
+question is yes, we must evaluate whether obscene virtual
+CSAM, like actual CSAM, should be treated diﬀerently from
+obscene material generally (and therefore fall outside Stan-
+ley’s purview) for the reasons articulated in Osborne. Finally,
+as we consider this second question, we must be mindful of
+the diﬀerences between virtual CSAM and actual CSAM that
+the Supreme Court identiﬁed in Free Speech Coalition.
+     1. Stanley
+   First, the government asks us to distinguish this case from
+Stanley in two ways. First, it contends that Anderegg’s alleged
+possession has a nexus with interstate commerce whereas
+Stanley’s did not. Second, the government reads Stanley to
+No. 25-1354                                                             15
+
+apply only to obscene materials depicting adults not children.
+Neither argument is persuasive.
+    Under § 1466A(d)(4), the depiction (or materials used to
+produce the depiction) must be “shipped or transported in in-
+terstate or foreign commerce by any means, including by
+computer.” 18 U.S.C. § 1466A(d)(4). According to the govern-
+ment, “Stanley does not apply where the criminal conduct was
+facilitated through the use of interstate commerce.” Because,
+the argument goes, the government must prove the interstate-
+commerce link before Anderegg could be convicted under
+§ 1466A(b)(1), Count 4 criminalizes more than the mere pos-
+session of obscene material in his home. 4 Instead, it criminal-
+izes Anderegg’s use of interstate commerce to come into pos-
+session of obscene and sexually explicit images of children.
+    It is true that Stanley only applies to in-home possession of
+obscenity and that “commerce in obscene material is unpro-
+tected by any constitutional doctrine of privacy.” Paris Adult
+Theatre I v. Slaton, 413 U.S. 49, 69 (1973) (citations omitted).
+This is so because “the protected right to possess obscene ma-
+terial in the privacy of one’s home does not give rise to a cor-
+relative right to have someone sell or give it to others.” 12 200-
+Foot Reels, 413 U.S. at 128 (citations omitted). “Nor is there any
+correlative right to transport obscene material in interstate
+commerce.” Id. (citation omitted).
+   As the Fourth Circuit put it, Stanley “did not prohibit the
+government from regulating the channels of commerce.”
+
+
+   4 The government notes that at trial, it “intends to prove that the com-
+
+puter that Anderegg used to produce and possess his imagery had trav-
+eled in interstate commerce and that he had downloaded Stable Diﬀusion
+from the internet to create those images.”
+16                                                    No. 25-1354
+
+United States v. Whorley, 550 F.3d 326, 332 (4th Cir. 2008). And,
+pursuant to the Commerce Clause, “Congress may impose
+relevant conditions and requirements on those who use the
+channels of interstate commerce in order that those channels
+will not become the means of promoting or spreading evil,
+whether of a physical, moral or economic nature.” Orito, 413
+U.S. at 144 (quoting N. Am. Co. v. SEC, 327 U.S. 686, 705
+(1946)).
+    Nevertheless, we are not convinced by the government’s
+reasoning. The interstate-commerce requirement does not
+change the fact that the government is using § 1466A(d)(4) to
+punish Anderegg for possessing obscene material in the
+home. Although the right Stanley pronounced may be narrow,
+it speaks to the crux of the oﬀense alleged here—Anderegg’s
+actions in “the privacy of the home.” Paris Adult Theatre, 413
+U.S. at 66 (citation modiﬁed).
+    Furthermore, it is worth noting that later Supreme Court
+cases narrowing Stanley all involved to some degree the im-
+porting, transporting, or distributing of obscene materials;
+none expressly addressed in-home possession in and of itself.
+See, e.g., United States v. Thirty-Seven (37) Photographs, 402 U.S.
+363, 376 (1971) (selling or giving obscene material to others);
+12 200-Foot Reels, 413 U.S. at 128 (importing obscene materials
+even for private use); Orito, 413 U.S. at 141–43 (transporting
+obscene material in interstate commerce); Whorley, 550 F.3d at
+333 (distinguishing Stanley by “focusing on the movement of
+obscene material in channels of commerce, and not on its
+mere possession.”).
+   Similarly, here, the government has also charged An-
+deregg with production of obscene virtual CSAM (Count 1)
+and with distributing and transferring obscene virtual CSAM
+No. 25-1354                                                              17
+
+(Counts 2 and 3). The question before us is narrow: does the
+First Amendment allow the government to proscribe the in-
+home possession of obscene virtual CSAM. And, during oral
+argument, the government conceded that, with respect to
+Count 4, it planned to rely solely on the fact that Anderegg
+possessed the obscene material in his home. Oral Argument
+at 6:46.
+    Thus, as a practical matter, the government’s interstate-
+commerce argument has no force. As the district court ob-
+served, “the obscene materials in Stanley (reels of eight-milli-
+meter ﬁlm) almost certainly moved in interstate commerce
+too.” But this did not matter to the Supreme Court in Stanley.
+Once the production materials left the public sphere and en-
+tered the home, the government’s regulatory power was
+eclipsed by the individual’s First Amendment “right to re-
+ceive information and ideas, regardless of their social worth.”
+Stanley, 394 U.S. at 564. 5
+
+
+    5 The purpose of the interstate-commerce requirement is likely less
+
+substantive and more jurisdictional. “In our federal system, ‘Congress
+cannot punish felonies generally,’ Cohens v. Virginia, 6 Wheat. 264, 428
+(1821); it may enact only those criminal laws that are connected to one of
+its constitutionally enumerated powers, such as the authority to regulate
+interstate commerce. As a result, most federal oﬀenses include, in addition
+to substantive elements, a jurisdictional one, like the interstate commerce
+requirement.” Torres v. Lynch, 578 U.S. 452, 457 (2016). And “[j]urisdic-
+tional elements do not describe the ‘evil Congress seeks to prevent,’ but
+instead simply ensure that the Federal Government has the constitutional
+authority to regulate the defendant’s conduct.” Rehaif v. United States, 588
+U.S. 225, 230 (2019) (citation omitted). “Because jurisdictional elements
+normally have nothing to do with the wrongfulness of the defendant’s
+conduct,” id., we hesitate to rely on them as meaningful distinctions for
+purposes of substantive constitutional analysis.
+18                                                   No. 25-1354
+
+   The government next posits that Stanley is best read as ap-
+plying only to obscene materials involving adults engaged in
+sexually explicit activity, not children. According to the gov-
+ernment, the phrase “obscene material” from Stanley does not
+necessarily cover the entire universe of obscene materials. Ra-
+ther, citing Williams, 553 U.S. at 288, the government argues
+that “obscene material” is best understood to only address the
+obscene material at issue there, adult pornography.
+    We see no basis to read Stanley in such a limited fashion. It
+is true that in Williams, the Supreme Court stated, “We have
+held that the government may criminalize the possession of
+child pornography, even though it may not criminalize the
+mere possession of obscene material involving adults.” Id. But
+immediately following this sentence, the Court cited to Stan-
+ley with Osborne. Rather than inferring from the words “in-
+volving adults” the broad proposition the Supreme Court
+would apply Stanley only to obscene adult-based materials,
+the sentence is better understood to reﬂect the distinction its
+cases have historically drawn between CSAM and obscenity
+generally. See Nat’l Pork Producers Council v. Ross, 598 U.S. 356,
+373 (2023) (“The language of an opinion is not always to be
+parsed as though we were dealing with the language of a stat-
+ute.”). What is more, the reasoning of Stanley did not turn on
+the contents of the obscene materials at issue, rather its hold-
+ing was predicated on the location—the home. See 394 U.S. at
+568 (“[The] power to regulate obscenity … simply does not
+extend to mere possession by the individual in the privacy of
+his own home.”).
+    Accordingly, assuming that the First Amendment would
+treat obscene virtual CSAM the same as other obscene
+No. 25-1354                                                   19
+
+materials, we conclude that the facts of this case fall within
+the bounds of Stanley.
+   2. Virtual CSAM versus CSAM
+     The preceding conclusion begs the next question: whether,
+for First Amendment purposes, obscene virtual CSAM is
+more akin to actual CSAM or obscene materials generally. If
+it is the former, then Osborne and not Stanley would apply. To
+recap: Stanley prohibits the criminalization of possession of
+obscene material in the home. Ferber held that CSAM involv-
+ing actual children is not obscenity but its own category of
+speech not entitled to First Amendment protection due to the
+government’s compelling interests in protecting child vic-
+tims. For the same reasons, Osborne permits the government
+to proscribe the possession of CSAM involving actual chil-
+dren in the home. Then came Free Speech Coalition, which pro-
+hibits the criminalization of CSAM that involves no actual
+children and that is not obscene. Anderegg is charged with
+possessing in his home virtual CSAM that does not depict an
+actual child but that is obscene.
+    Because the images for which Anderegg is charged do not
+depict an actual child, Ferber and Osborne do not directly ap-
+ply to this case. See Free Speech Coal., 535 U.S. at 249–51. That
+said, Stanley left open the possibility that “compelling reasons
+may exist for overriding the right of the individual to possess
+[certain] materials.” 394 U.S. at 568 n.11.
+     The government argues that the same compelling interest
+the Supreme Court recognized in Ferber and Osborne exists
+here—the protection of actual children from sexual exploita-
+tion and abuse. And it attempts to distinguish Free Speech Co-
+alition by pointing out that § 1466A(b)(1) is limited to obscene
+20                                                    No. 25-1354
+
+material unlike the statute in Free Speech Coalition. The prob-
+lem for the government, however, is that the justiﬁcations it
+oﬀers here for proscribing the possession of obscene virtual
+CSAM were all expressly discussed and rejected by the Su-
+preme Court in Free Speech Coalition.
+    First, the government argues that oﬀenders may use ob-
+scene virtual CSAM to groom minors into engaging in sex-
+ually explicit conduct. To be sure, it is well-known that abus-
+ers utilize obscene images to groom their minor victims. See,
+e.g., United States v. Chambers, 642 F.3d 588, 593 (7th Cir. 2011);
+United States v. Reilly, 662 F.3d 754, 761 (6th Cir. 2011); United
+States v. Reaves, 253 F.3d 1201, 1205 (10th Cir. 2001); Child Por-
+nography Prevention Act of 1996, Pub. L. No. 104-208, § 121
+subsection 1(8), 110 Stat. 3009 (congressional ﬁnding that the
+grooming risks are “the same” whether the imagery shows
+actual or computer-generated children). Moreover, as techno-
+logical advances allow creators to render virtual images indis-
+tinguishable from real ones, virtual CSAM may come to pose
+more of a danger than the cartoons or video games referenced
+in Free Speech Coalition. But we cannot ignore the fact that the
+Supreme Court ﬂatly rejected the same argument the govern-
+ment advances here. Free Speech Coal., 535 U.S. at 251. In the
+Supreme Court’s words, “the government may not prohibit
+speech because it increases the chance an unlawful act will be
+committed at some indeﬁnite future time.” Id. at 253 (citation
+modiﬁed).
+    Relatedly, the government argues that an individual’s en-
+gagement with AI-generated material depicting children en-
+gaged in sexual conduct may normalize sexual activity with
+children in a way that poses risks to actual children. But, once
+again, Free Speech Coalition is on all fours. “Without a
+No. 25-1354                                                            21
+
+signiﬁcantly stronger, more direct connection [between vir-
+tual CSAM and child exploitation],” the Supreme Court de-
+clared, “the Government may not prohibit speech on the
+ground that it may encourage pedophiles to engage in illegal
+conduct.” Id. at 253–54.
+    To be sure, the Supreme Court left open the door for the
+government to make “a signiﬁcantly stronger, more direct
+connection” between virtual CSAM and child abuse. Id. But,
+rather than providing more support for its contention here,
+the government merely restates the same arguments it made
+in Free Speech Coalition. Compare Brief for the Petitioners at 4–
+5, Ashcroft v. Free Speech Coal., 535 U.S. 234 (2002) (No. 00-795)
+2001 WL 432538, at *4–5 (arguing that Congress determined
+that “child pornography is often used as part of a method of
+seducing other children into sexual activity,” and “Congress
+found that computer-generated images of children engaged
+in sexually explicit conduct can be just as eﬀective in seducing
+children into sexual activity as photographic images of real
+children.”), with Opening Brief for the United States at 15,
+United States v. Anderegg, No. 25-1354 (7th Cir. May 14, 2025)
+(“[O]ﬀenders may use images of the type that Anderegg pos-
+sessed, like they commonly use similar-type images showing
+actual children, to groom minors into engaging in sexually ex-
+plicit conduct.”). 6
+
+
+    6 Our own nonexhaustive perusal of the relevant literature reveals in-
+
+conclusive results. Most recently, the United States Sentencing Commis-
+sion released a study ﬁnding that “43.9 percent of possession oﬀenders …
+engaged in aggravating conduct either prior to or concurrently with their
+instant federal child pornography oﬀense.” U.S. Sent’g Comm’n, Federal
+Sentencing of Child Pornography, Non-Production Oﬀenses, 41 (2021).
+22                                                            No. 25-1354
+
+    Next, the government argues that prohibiting the posses-
+sion of obscene virtual CSAM will help the government re-
+duce the commercial market for actual CSAM. But the Su-
+preme Court in Free Speech Coalition squarely addressed and
+rejected this argument as well, ﬁnding it “somewhat implau-
+sible.” Free Speech Coal., 535 U.S. at 254. After all, the Court
+noted, if the demand for virtual CSAM were the same as for
+actual CSAM, few would create actual CSAM and “risk pros-
+ecution by abusing real children if ﬁctional, computerized im-
+ages would suﬃce.” Id.
+   Finally, the government argues that due to technological
+advancements, AI-generated images are becoming increas-
+ingly indistinguishable from imagery depicting actual chil-
+dren, making the task of proving that an image depicts an ac-
+tual child increasingly diﬃcult. Thus, permitting the in-home
+possession of virtual CSAM, it contends, would make prose-
+cuting the possession of actual CSAM exceedingly compli-
+cated and may insulate oﬀenders who possess images of
+
+
+“Most current social science research suggests that viewing child pornog-
+raphy, in the absence of other risk factors, does not “cause” individuals to
+commit sex oﬀenses.” U.S. Sent’g Comm’n, Federal Child Pornography
+Oﬀenses 102 (2012) (citation modiﬁed). As such, it remains “unclear if (a)
+fantasies encourage the acting out of behaviors, (b) fantasies represent ac-
+tive reliving of previous acts, or (c) some third variable (e.g., sex drive)
+independently generates both fantasies and behavior.” Kevin M. Williams
+et al., Inferring Sexually Deviant Behavior From Corresponding Fantasies: The
+Role of Personality and Pornography Consumption, 36 Crim. Justice & Behav.
+198, 206 (2009) (citation modiﬁed). Indeed, “some research reports that,
+for oﬀenders who were already assessed as low risk for future sexual of-
+fending, frequency of pornography use does not appear to predict crimi-
+nal recidivism.” U.S. Sent’g Comm’n, Federal Child Pornography Of-
+fenses, 104 (2012).
+No. 25-1354                                                       23
+
+actual children. Along similar lines, the government worries
+that it will be forced to spend its limited time and resources
+searching for children who do not exist to the detriment of
+children who do exist.
+     And so, the government urges us to look beyond Free
+Speech Coalition entirely, given the twenty-three years that
+have passed since the case was decided. Cf. Paxton, 606 U.S. at
+489 (noting that Free Speech Coalition was decided “when the
+internet was ‘still more of a prototype than a ﬁnished prod-
+uct’”) (citation omitted). But despite the rapid advances in
+technology over that span, “[t]he broad authority to proscribe
+child pornography is not … unlimited.” Williams, 553 U.S. at
+289. And the argument the government advances today—that
+it is becoming increasingly diﬃcult to distinguish between
+virtual CSAM and CSAM produced with actual children—is
+still identical to the one the Supreme Court rejected in Free
+Speech Coalition.
+   Given the ever-accelerating march of imaging-generation
+technology, we have some misgivings about applying Free
+Speech Coalition here, but “unless we wish anarchy to prevail
+within the federal judicial system,” we are dutybound to fol-
+low it. Hutto v. Davis, 454 U.S. 370, 375 (1982); see id. (“[A] prec-
+edent of this Court must be followed by the lower federal
+courts no matter how misguided the judges of those courts
+may think it to be.”); see Paxton, 606 U.S. at 491 (noting that
+cases “do not cease to be precedential simply because technol-
+ogy has changed so dramatically”).
+   In sum, because Anderegg is accused of possessing ob-
+scene materials at home, we agree that his circumstances fall
+within the bounds of Stanley. And, because the arguments the
+government advances to remove the materials in question
+24                                               No. 25-1354
+
+from Stanley’s purview have all been squarely rejected by the
+Supreme Court in Free Speech Coalition, we conclude that
+§ 1466A(b)(1) is unconstitutional as applied to Anderegg.
+                       *      *     *
+     For the foregoing reasons, the judgment is AFFIRMED.
+No. 25-1354                                                   25
+
+    LEE, Circuit Judge, joined by KOLAR, Circuit Judge, concur-
+ring. As the court’s opinion explains, this case is controlled by
+Stanley and Free Speech Coalition. I write separately to note
+that, given the signiﬁcant advances in computer-generated
+image technology, particularly in the ﬁeld of artiﬁcial intelli-
+gence, we would beneﬁt from additional guidance from the
+Supreme Court regarding the intersection between the First
+Amendment and virtual CSAM if an appropriate case should
+arise.
+    As one commentator observed, “In 2002, the Court’s rea-
+soning [in Free Speech Coalition] made sense: Technology was
+far less developed than it is today.” Jessica L. Terkovich, The
+Emerging Danger of AI-Generated Child Sexual Abuse Material
+and an Unprepared Crim. Code, 45 N. Ill. U. L. Rev. 398, 404
+(2025). Yet nearly twenty ﬁve years after the Court’s decision,
+Free Speech Coalition controls in a day where “AI-generated
+CSAM is virtually indistinguishable from CSAM created
+through the physical abuse of a child.” Id.; see Cecilia Kang,
+A.I.-Generated Images of Child Sexual Abuse Are Flooding the In-
+ternet, N.Y. Times (July 18, 2025), https://www.ny-
+times.com/2025/07/10/technology/ai-csam-child-sexual-
+abuse.html [https://perma.cc/HZ2A-Y9MN] (“Only in recent
+months have A.I. tools become good enough to trick the hu-
+man eye with an image or video.”).
+   At the time of Free Speech Coalition, several Justices pre-
+dicted as much. Justice O’Connor echoed many of the con-
+cerns the government argues today, namely that “rapidly ad-
+vancing technology soon will make it all but impossible to”
+enforce prohibitions of actual CSAM and “[c]omputer-gener-
+ated images … bear a remarkable likeness to actual human
+26                                                 No. 25-1354
+
+beings.” Free Speech Coal., 535 U.S. at 267, 264 (O’Connor, J.
+concurring in the judgment in part and dissenting in part).
+    Justice Thomas too forecasted that “technology may
+evolve to the point where it becomes impossible to enforce ac-
+tual child pornography laws because the Government cannot
+prove that certain pornographic images are of real children.”
+Id. at 259 (Thomas, J. concurring). In his view, “if technologi-
+cal advances thwart prosecution of ‘unlawful speech,’ the
+Government may well have a compelling interest in barring
+or otherwise regulating some narrow category of ‘lawful
+speech’ in order to enforce eﬀectively laws against pornogra-
+phy made through the abuse of real children.” Id.
+    According to some experts, that day may have arrived. Re-
+cent data suggests that the influx of AI-generated images re-
+ported to the NCMEC CyberTipline imposes increasing bur-
+dens on law enforcement. See Addressing Real Harm Done by
+Deepfakes: Hearing Before the Subcomm. on Cybersecurity, Info.
+Tech., and Gov’t Innovation of the H. Comm. on Oversight and Ac-
+countability, 118th Cong. 6 (2024) (testimony of John Shehan,
+Vice      President,      Exploited      Children     Division,
+NCMEC), https://www.congress.gov/118/meeting/house/116
+953/witnesses/HHRG-118-GO12-Wstate-ShehanJ-
+20240312.pdf [https://perma.cc/94JL-EAZK]; see also Genera-
+tive AI CSAM is CSAM, Nat’l Ctr. for Missing & Exploited
+Child.      (Mar.     11,       2024),   https://www.missing-
+kids.org/blog/2024/generative-ai-csam-is-csam
+[https://perma.cc/37KT-AZ5N] (“Even the images that do not
+depict a real child put a strain on law enforcement resources
+and impede identification of real child victims.”); State Laws
+Criminalizing AI-Generated or Computer-Edited Child Sexual
+Abuse        Material      (CSAM),        Enough         Abuse,
+No. 25-1354                                                  27
+
+https://enoughabuse.org/get-vocal/laws-by-state/state-laws-
+criminalizing-ai-generated-or-computer-edited-child-sexual-
+abuse-material-csam/ [https://perma.cc/KS7J-YCB5] (noting
+that perpetrators may “disguise pictures of real children be-
+ing abused by making the image look computer-generated”).
+   What is more, AI-generated CSAM may also present other
+challenges not raised by the government in this appeal. For
+example, researchers have found that “a major dataset used
+for training image-generating AI contained hundreds of
+CSAM images.” Benjamin L.W. Sobel, A Real Account of Deep
+Fakes, 124 Mich. L. Rev. 871, 930 (2026) (citation omitted).
+Thus, unlike the virtual CSAM at issue in Free Speech Coalition,
+the market for AI-generated virtual CSAM images may im-
+pact the demand for actual CSAM on which the AI models
+can train. Such a ﬁnding would implicate many of the con-
+cerns raised in Osborne. See 495 U.S. at 110.
+    In this case, the record is insuﬃcient to evaluate these
+complex issues, and, of course, we are bound by the dictates
+of Free Speech Coalition. But it goes without saying that “[t]he
+prevention of sexual exploitation and abuse of children con-
+stitutes a government objective of surpassing importance.”
+Ferber, 458 U.S. at 757. The stakes are high, and we must be
+mindful of the ever-accelerating advancements in image gen-
+eration technology.
+

@@ -1,0 +1,372 @@
+SWSZ HOLDING INC., Plaintiff, Counterclaim Defendant, v. SZ GLOBAL INC., Defendant,..., Not Reported in
+Atl. Rptr. (2026)
+
+
+                                                                   Counterclaims, and Third-Party Complaint.2 The latter filing
+                   2026 WL 1482293                                 named Mr. Uusiheimala (hereinafter “Movant”) as a Third-
+      Only the Westlaw citation is currently available.            Party Defendant. Count IV seeks damages for Movant's
+                                                                   alleged breach of provisions under two agreements—a Non-
+           UNPUBLISHED OPINION. CHECK                              Disclosure Agreement (“NDA”) and a Non-Circumvention
+           COURT RULES BEFORE CITING.
+                                                                   Agreement (“NCA”).3
+                 Superior Court of Delaware.
+                                                                   Appearing pro se, Movant submitted his first filings
+          SWSZ HOLDING INC., Plaintiff,                            on August 27, 2025.4 These comprised a Motion
+                                                                   and “Memorandum of Law in Support of Motion to
+             Counterclaim Defendant,
+                                                                   Dismiss” (collectively the “First Motion”).5 Under the
+                        v.
+                                                                   Motion, he moved “to seal or redact improper and defamatory
+           SZ GLOBAL INC., Defendant,                              material” within the Third-Party Complaint, under Superior
+              Counterclaim Plaintiff,                              Court Civil Rules 5(g), 12(f), “and the Court's inherent
+                        v.                                         equitable authority to seal or redact specific portions....”6
+                                                                   Within the attached Memorandum of Law in Support, Movant
+           STEPHEN WICH AND ANTTI
+                                                                   asserted four defenses.7 However, he did not object to the
+    UUSIHEIMALA, Third-Party Defendants.
+                                                                   Court's exercise of jurisdiction over his person. Instead, while
+                                                                   seeking dismissal or alternative relief on other grounds, he
+                  C.A. No. N25C-05-105 SSA
+                              |                                    challenged the merits,8 even noting he “stands prepared
+                   Submitted: May 22, 2026                         to introduce [preserved evidence] at deposition or trial if
+                              |                                    necessary.”9
+                    Decided: May 27, 2026
+                                                                    *2 At this point, an issue arose regarding Movant's citation
+                                                                   to nonexistent legal authorities to this Court. The Court
+MEMORANDUM OPINION                                                 convened an in-person hearing on October 15, 2026. The
+                                                                   Court could not verify or locate quoted language from seven
+Judge Sonia Augusthy                                               cases cited by Movant in the First Motion. The hearing's focus
+                                                                   was to clarify that despite Movant's pro se status, the Court
+ *1 The Court must determine if a Third-Party Defendant            will not tolerate citation to nonexistent authorities. Therefore,
+who has filed numerous motions in this matter can now
+                                                                   the First Motion to Dismiss was denied, without prejudice.10
+assert a defense for lack of personal jurisdiction. The Court
+                                                                   Recognizing Movant's pro se status, the Court provided leave
+must also determine if a forum selection clause within the
+non-disclosure agreement (“NDA”) requires this Third-Party         to refile by November 14.11
+Complaint to be brought in New York instead of Delaware.
+Finally, the Court must consider whether the Third-Party           But Movant took other routes first. Within days of his in-
+Complaint's dismissal is warranted where the Counterclaim          person appearance at the hearing, Movant filed a Letter
+Plaintiff's corporate status was purportedly void at the time of   asserting his intention to seek sanctions.12 Movant argued the
+filing but later revived.                                          Third-Party Complaint was filed while the corporate charter
+                                                                   was “forfeited.”13 Movant sought discovery concerning the
+                                                                   Third-Party Complaint's filing and Defendant's corporate
+Procedural History                                                 status.14
+
+SWSZ Holding, Inc. (hereinafter “Plaintiff”) commenced             On the same day, Movant filed what he deemed a
+this action on May 5, 2025, against SZ Global Inc.                 “Supplemental Motion” (hereinafter the “Second Motion”)
+(hereinafter “Defendant”) for breach of contract.1 On              challenging this litigation on several fronts.15 This new filing
+July 4, 2025, Defendant responded with its Answer,                 raised entirely distinct arguments for dismissal, centering on
+
+
+
+ WESTLAW           © 2026 Thomson Reuters. No claim to original U.S. Government Works.                                           1
+SWSZ HOLDING INC., Plaintiff, Counterclaim Defendant, v. SZ GLOBAL INC., Defendant,..., Not Reported in
+Atl. Rptr. (2026)
+
+Defendant's corporate status. Once again, he did not raise lack   the proceedings. And if the party overlook it, and take steps
+of personal jurisdiction as a defense.                            in the cause, he cannot afterward turn back and object.”25
+
+Several weeks later, Movant filed a “Motion to Dismiss             *3 As for the defense of improper venue under Rule
+for Lack of Personal Jurisdiction and to Protect His              12(b)(3), “this Court ‘may consider materials outside the
+Constitutional Right to Due Process.”16 In this Motion—the        complaint.’ ”26 “When ruling on such a motion, the Court
+“Third Motion”—Movant challenged the Court's exercise of          should ‘give effect to the terms of private agreements to
+personal jurisdiction over him.17 He revisited his argument       resolve disputes in a designated judicial forum out of respect
+that New York is the proper forum for this action, per the        for the parties’ contractual designation.’ ”27
+NDA.18 Some time elapsed: Defense Counsel withdrew,19
+new Counsel entered.20 The Court heard argument at an in-
+person hearing on May 14.21                                       Analysis
+
+                                                                  Personal Jurisdiction
+                                                                  Movant failed to exercise the diligence required to challenge
+Defenses and Objections Under Rule 12                             personal jurisdiction. At the outset, Movant filed a Motion
+                                                                  to Strike and Dismiss under Rules 12(f), (b)(3), and (b)
+Superior Court Civil Rule 12(b) establishes the defense of
+lack of jurisdiction over the person “shall be asserted in the    (6).28 These filings were silent on the matter of personal
+responsive pleading ... [or] by motion[.]” Further, Rule 12(g)    jurisdiction. The Court finds waiver under Rule 12(h)(1)(A).
+states that “[i]f a party makes a motion under this Rule but
+omits therefrom any defense or objection then available to        Beyond waiver, his conduct has indicated assent to personal
+the party which this Rule permits to be raised by the motion,     jurisdiction.29 On October 15, Movant appeared before
+the party shall not thereafter make a motion based on the         this Court for a hearing regarding his filings. After that
+defense or objection so omitted, except[ing]” the defenses        appearance, Movant copied this Court on his correspondence
+identified under Rule 12(h)(2).22 A defense asserting lack of     with Counsel, asserting his intention to seek sanctions and
+personal jurisdiction is not within the exceptions established    limited discovery. He filed a second Motion to Dismiss, based
+in Rule 12(h)(2). To put a finer point on the matter, Rule        on an entirely new argument, which still did not challenge the
+12(h)(1) provides that “[a] defense of lack of jurisdiction       Court's jurisdiction over his person. Movant's filings indicate
+over the person ... is waived” in two scenarios. The first,       his participation as “an ‘active actor’ in this litigation.”30
+under (h)(1)(A), contemplates “the circumstances described        He has taken numerous steps that are inconsistent with an
+in subdivision (g)”—i.e., where a party moves under Rule          objection to personal jurisdiction: omitting the defense from
+12 but omits defenses then available. The second scenario         his first two Motions, making a general in-person appearance,
+imputes waiver where the party fails to raise the defense via     and directing litigation.31 Thus, he cannot now object on
+motion, responsive pleading, or permitted amendments to the       personal jurisdiction grounds.
+pleading.
+                                                                   *4 Movant now suggests his Third Motion relates back to
+In short, Rule 12(h)(1) is “quite clear.”23 As this Court         his earlier filings. Specifically, since the Court gave him leave
+has described the Rule: “[i]t advises a litigant to exercise      to refile his First Motion, he suggests he did not waive the
+great diligence in challenging personal jurisdiction, venue,      defense. The Court disagrees. Raising entirely new arguments
+or service of process. If he wishes to raise any of these         (after dismissal because the merits could not be reached due
+defenses he must do so at the time he makes his first             to Movannt's citation to nonexistent authorities) does not
+defensive move—whether it be a Rule 12 motion or a                constitute a refiling. The Court gave Movant a chance to
+responsive pleading.”24 Failure to exercise diligence on this     correct his misrepresentations—not a chance to begin the case
+front carries consequences: “[i]n Delaware issues questioning     anew.
+the Court's jurisdiction over the person of the defendant have
+historically been required to be raised at the earliest time in
+                                                                  Venue
+
+
+
+
+ WESTLAW           © 2026 Thomson Reuters. No claim to original U.S. Government Works.                                          2
+SWSZ HOLDING INC., Plaintiff, Counterclaim Defendant, v. SZ GLOBAL INC., Defendant,..., Not Reported in
+Atl. Rptr. (2026)
+
+The First and Third Motions raised the issue of venue.               exclusive forum.’ ”41 New York recognizes the public policy
+Quoting the NDA, Movant argues “[t]his permissive clause
+                                                                     “of respecting forum selection clauses....”42
+authorizes New York jurisdiction and, by implication, negates
+Delaware jurisdiction.”32 While the argument from Movant             The Court finds the parties intended application of New
+conflates venue and personal jurisdiction, the Court will            York law, therefore the above-cited standard for interpretation
+consider the pro se filing liberally and conduct a venue             of a forum selection clause governs this analysis. Even
+analysis. Because the parties contracted for the application of      under that standard—which differs from that under Delaware
+New York law, interpretation of the at-issue forum selection
+                                                                     law43— the Court does not find the language of this
+clause is governed by the law of New York.33                         NDA reasonably conveys an intent to select New York
+                                                                     as the exclusive forum. Paragraphs four and six compel
+The NDA states “[t]his Agreement shall be governed by the            this conclusion. Specifically, paragraph four references “any
+laws of the State of New York without regard to principles of        court of competent jurisdiction,” and paragraph six merely
+conflicts of law. Receiver [Movant] consents to jurisdiction         indicates Movant “consents” to jurisdiction in New York.
+and venue in Manhattan, New York, USA.”34 Further,                   For language to be exclusive, it necessarily limits other
+paragraph four states “[i]f Receiver [Movant] violates or            courts from hearing an action; however, paragraph four
+threatens to violate this Agreement, the Company shall be            plainly allows the parties to take action outside of New
+entitled to an injunction or similar equitable relief to be issued   York. Further, paragraph six lacks mandatory language.
+by any court of competent jurisdiction....”35                        Consequently, venue is proper.
+
+
+Choice of law is our starting point, since that analysis will
+                                                                     Motion to Dismiss for Lack of Corporate Capacity
+provide the framework for interpreting the forum selection
+                                                                     Movant asserts “[p]ublic records of the Delaware Division
+clause. Our Supreme Court has articulated “a three part
+                                                                     of Corporations show that [Defendant's] certificate of
+test to determine the choice of law in a dispute before the
+                                                                     incorporation had been forfeited for failure to comply with
+Delaware courts....”36 This Court need only employ the first         statutory franchise tax/reporting obligations prior to July 4,
+part—whether “the parties made an effective choice of law            2025 and that the Certificate of Revival was not issued until
+through their contract”—given that the second and third
+                                                                     July 9, 2025.”44 As addressed at oral argument, the document
+steps address conflicting laws in the absence of a contractual
+                                                                     Movant relied upon and filed as an exhibit does not say much.
+agreement.37 Under that inquiry, “Delaware courts enforce            Specifically, Exhibit A notes it is “Not an Official Certificate
+contractual choice of law provisions” so long as “there is a
+                                                                     of Status.”45 Moreover, this document indicates the entity is
+material connection between the chosen jurisdiction and the
+                                                                     in good standing as of July 9, 2025.
+transaction.”38
+                                                                     Even assuming Movant is correct that Defendant's certificate
+New York has a material connection to the transaction at issue.      was at one point forfeited or void, he still is not entitled to
+The contracting parties are both materially connected to the         dismissal. 8 Del. C. § 312(e) addresses revival:
+state: Movant resides in New York, and Defendant's principal
+place of business is in New York.39 Accordingly, New York               *6 [R]evival shall validate all contracts, acts, matters
+law will govern the NDA's forum selection clause.                      and things made, done and performed within the scope
+                                                                       of its certificate of incorporation by the corporation, its
+ *5 Delaware Courts have previously considered a                       directors or members of its governing body, officers, agents
+contractual forum selection clause applying New York law.              and stockholders or members during the time when its
+Although “the topic of the clause can be characterized as              certificate of incorporate was forfeited or void pursuant to
+‘procedural[,]” ’ the chosen law “must be applied when                 this title, with the same force and effect and to all intents
+                                                                       and purposes as if the certificate of incorporation had at all
+interpreting the Forum Selection Clause.”40 “The court does
+                                                                       times remained in full force and effect.
+recognize that under New York law[ ] a forum selection clause
+should be deemed exclusive if it contains ‘[a]ny language
+                                                                     Therefore, by statute, even if the certificate was void at the
+that reasonably conveys the parties’ intention to select an
+                                                                     time of the filing of the Third-Party Complaint, since it is now
+
+
+
+
+ WESTLAW            © 2026 Thomson Reuters. No claim to original U.S. Government Works.                                           3
+SWSZ HOLDING INC., Plaintiff, Counterclaim Defendant, v. SZ GLOBAL INC., Defendant,..., Not Reported in
+Atl. Rptr. (2026)
+
+                                                                   Motion to Dismiss for lack of corporate capacity is also
+in good standing, Defendant's action is validated.46 Movant
+                                                                   DENIED.
+acknowledged Defendant's revival on July 9, 2025; further,
+his own paperwork demonstrates Defendant is now in good
+                                                                   IT IS SO ORDERED.
+standing.
+
+                                                                   All Citations
+Conclusion
+                                                                   Not Reported in Atl. Rptr., 2026 WL 1482293
+The Motions to Dismiss for lack of personal jurisdiction
+and improper venue are hereby DENIED. The Supplemental
+
+
+Footnotes
+1      Compl., D.I. 1. The Complaint also states several claims in the alternative to the breach of contract claim.
+
+2      SZ Global Inc.’s Answ., Affirmative Defenses, Countercis., and Third-Party Compl., D.I. 5.
+
+3      Id. at 52. The NDA and NCA are attached to the Third-Party Complaint as Exhibits 3 and 5.
+
+4      Mot., D.I. 10; Mem. of Law in Support of Mot. to Dismiss, 11. The referenced date is when the Office of the Prothonotary
+       accepted the filings. Movant dated the documents August 11. At any rate, the exact date is not relevant to the Court's
+       conclusion.
+
+5      D.I. 10, 11.
+
+6      D.I. 10, ¶ 1. None of Movant's filings are paginated. Where possible, the Court employs the section and paragraph
+       numbers for pincites. Where those identifiers are unavailable, the Court designates page number one as starting at the
+       cover page.
+
+7      D.I. 11. Movant cites Rules 12(b)(3) and 12(b)(6) for improper venue and failure to state a claim. He also argued over
+       the facts and requested that certain allegations be struck under Rule 12(f). Id. at 1, 5-6, 11-22.
+
+8      See D.I. 11, § II, ¶ 11 (framing the Third-Party Complaint as “a retaliatory action”); id. § II, ¶ 14 (“The NDA and non-
+       circumvention agreement at the center of [Defendant's] theory is time-limited by its own terms.”); id. § III, ¶ 26 (“[Facts
+       asserted by Movant] directly undermine [Defendant's] present claims of circumvention, interference, or breach. They
+       demonstrate a transparent, collaborative dynamic that only became ‘misconduct’... after litigation was threatened.”) (citing
+       to “Exhibits O—S”).
+
+9      D.I. 11, at 22.
+
+10     Judicial Action Form, D.I. 31.
+
+11     Id.
+
+12     Rule 11 Safe-Harbor Notice, Preservation Demand, and Request for Withdrawal/Explanation, D.I. 32.
+
+13     Id. at 2.
+
+14     Id. at 1-2. See also id. at 2-4.
+
+15     Supplemental Mot. to Dismiss, D.I. 34.
+
+16     Mot. to Dismiss, D.I. 39.
+
+
+
+
+ WESTLAW              © 2026 Thomson Reuters. No claim to original U.S. Government Works.                                       4
+SWSZ HOLDING INC., Plaintiff, Counterclaim Defendant, v. SZ GLOBAL INC., Defendant,..., Not Reported in
+Atl. Rptr. (2026)
+
+17    Id. at 1-9.
+
+18    Id. at 8.
+
+19    D.I. 48, 49.
+
+20    D.I. 61. Counsel for Defendant opposed Movant's Motion to Dismiss. Resp. and Opp'n to Mot. to Dismiss, D.I. 72.
+
+21    Judicial Action Form, D.I. 73.
+
+22    Super. Ct. Civ. R. 12(g) (emphasis added). Rule 12(h)(3) provides an exception for lack of subject matter jurisdiction.
+
+23    Mason v. Allstate Indem. Co., 2024 WL 4563935, at *3 (Del. Super.) (citations omitted) quoting Mergenthaler v. Asbestos
+      Corp. of Am., 1989 WL 158501, at *2 (Del. Super.).
+
+24    Id. (alteration to punctuation) (citations omitted) quoting Mergenthaler, 1989 WL 158501, at *2
+
+25    Id. quoting Mergenthaler, 1989 WL 158501, at *3.
+
+26    Degregorio v. Marriott Int‘l, Inc., 2018 WL 3096627, at *5 (Del. Super.) quoting Simon v. Navellier Series Fund, 2000
+      WL 1597890, at *4 (Del. Ch.).
+
+27    Nachbar v. Coronados Pool Plaster Inc., 2025 WL 1863255, at *1 (Del. Super.) (citations omitted) quoting Loveman v.
+      Nusmile, Inc., 2009 WL 847655, at *2 (Del. Super.).
+
+28    See D.I. 10, 11. Once again, he did not raise personal jurisdiction.
+
+29    Massey v. Ball, 595 A.2d 390, 394 (Del. 1991) quoting Ins. Corp. of Tr., Ltd. v. Compagnie des Bauxites de Guinee, 456
+      U.S. 694, 703-04 (1982). See also City of Wilmington v. Baker, 1986 WL 3635, at *3 (Del. Ch.) (citations omitted) (“It
+      is settled law that the entrance of a general appearance by a defendant is a submission to the in personam jurisdiction
+      of the Court....”). “[T]he ordinary meaning of the word ‘appearance’ in law imports ... submission [to jurisdiction over the
+      person].” Sands v. Lefcourt Realty Corp., 117 A.2d 365, 368 (Del. 1955) (citations omitted). Although “mere physical
+      appearance ... may not constitute an appearance[,]” courts have held that “an appearance is effectuated” where one
+      “seeks in any way to participate in the case....” 6 C.J.S. Appearances § 27 (citations omitted). “An appearance at ...
+      hearing signifies an overt act by which a person against whom suit has commenced submits himself ... to the jurisdiction
+      of the court.” Id. § 30 (citation omitted). Similarly, “a motion to dismiss on an issue other than jurisdiction is a request
+      which invokes the power of the court and is a ‘general appearance’ conferring jurisdiction.” Id. § 31 (citation omitted).
+
+30    Sussex Farms Ltd. v. Mbanefo, 2022 WL 2126228, at *2 (Del. Super.) (citations omitted). See generally Hornberger
+      Mgmt. Co. v. Haws & Tingle Gen. Contractors, Inc., 768 A.2d 983, 988 (Del. Super. Ct. 2000) (citations omitted) quoting
+      Alger v. Hayes, 452 F.2d 841, 844 (8th Cir. 1972) (“[A] substantial body of law ... holds that a defendant can waive a
+      defense of lack of personal jurisdiction because the defendant's conduct did ‘not reflect a continuing objection to the
+      power of the court to act over the defendant's person.’ ”).
+
+31    See D.I. 11, at 22 (emphasis added) (“[Movant] has preserved extensive contemporaneous documentation, third-
+      party witness statements, and corroborating materials, and stands prepared to introduce them at deposition or trial if
+      necessary.”); D.I. 32, at 5 (emphasis added) (providing that Letter filed “is given without waiver of any rights, remedies, or
+      claims [Movant] may have, including the right to seek expedited relief from the Court....”); D.I. 34, at 5 (“[Movant] therefore
+      seeks fees and other relief if the record so warrants.”). Cf. Hornberger Mgmt. Co., 768 A.2d at 989 quoting Yeldell v. Tutt,
+      913 F.2d 533, 539 (8th Cir. 1990) (“The personal jurisdiction defense ‘may be lost by failure to assert it seasonably, by
+      formal submission in a cause, or by submission through conduct.’ ”).
+
+32    D.I. 39, at 8. Movant draws from the NDA for “consent[ ] to the jurisdiction and venue in Manhattan, New York, US.” Id.
+
+
+
+
+ WESTLAW             © 2026 Thomson Reuters. No claim to original U.S. Government Works.                                          5
+SWSZ HOLDING INC., Plaintiff, Counterclaim Defendant, v. SZ GLOBAL INC., Defendant,..., Not Reported in
+Atl. Rptr. (2026)
+
+33    See D.I. 5, Ex. 3. By contrast, Delaware law governs the NCA—and “disputes arising under or in connection with this
+      Agreement shall be resolved in the courts of Delaware.” Id., Ex. 5. The Court's analysis accordingly addresses only the
+      NDA.
+
+34    D.I. 39, Ex. 3, ¶ 6.
+
+35    Id. ¶ 4. Of course, this Court does not traditionally hold the power of equitable relief, but the issue of subject matter
+      jurisdiction has not been raised, and, at this time, the Court will not sua sponte conduct such analysis.
+
+36    Stillwater Mining Co. v. Nat'l Union Fire Ins. Co. of Pittsburgh, Pa, 289 A.3d 1274, 1283 (Del. 2023) citing Certain
+      Underwriters at Lloyds, London v. Chemtura Corp., 160 A.3d 457, 464 (Del. 2017).
+
+37    Id. quoting Certain Underwriters at Lloyds, London, 160 A.3d at 464.
+
+38    MTA Can. Royalty Corp. v. Compania Minera Pangea, S.A. de C.V., 2020 WL 5554161, at *3 (Del. Super.) citing Edelist
+      v. MBNA Am. Bank, 790 A.2d 1249, 1256 (Del. 2001).
+
+39    D.I. 5, at 4, 28. This analysis should not be conflated with the personal jurisdiction inquiry. New York's connection to the
+      NDA does not change Movant's submission to this Court's jurisdiction.
+
+40    Fitzgerald v. Cantor, 1998 WL 842304, at *1 (Del. Ch.). See also Brastor Mercantile, Ltd. v. Cent. Citrus S/A, 1989 WL
+      70971, at *5 (Del. Super.) (citations omitted) (applying Ontario law to surmise “the forum selection clause here does not
+      vest exclusive jurisdiction in Ontario and Brazilian courts....”).
+
+41    Troy Corp. v. Schoon, 2007 WL 949441, at *4 (Del. Ch.) (emphasis removed) quoting Fitzgerald, 1998 WL 842304, at *2.
+
+42    Del Pharms., Inc. v. Access Pharms., Inc., 2004 WL 161355, at *8 (Del. Ch.) citing Babcock & Wilcox Co. v. Control
+      Components, Inc., 614 N.Y.S.2d 678 (N.Y. Sup. Ct. 1993).
+
+43    Delaware law provides that “[i]f a forum selection clause validly limits a plaintiff to a single forum, that clause operates
+      to divest a court that otherwise has jurisdiction of its status as a proper venue for the plaintiff to sue.” Del Pharms.,
+      Inc., 2004 WL 161355, at *5 quoting Simon v. The Navellier Series Fund, 2000 WL 1597890, at *4 (Del. Ch.). Under
+      Delaware law, this Court should only dismiss “where the parties use express language clearly indicating that the forum
+      selection clause excludes all other courts before which those parties could otherwise properly bring an action.” In re Bay
+      Hills Emerging Partners I, L.P., 2018 WL 3217650, at *4 (Del. Ch.) quoting Scanbuy, Inc. v. NeoMedia Techs., 2014 WL
+      5500245, at *2 (Del. Ch.). The specific language used within the forum selection clause matters, as it “may be permissive
+      or mandatory.” Id. at *5.
+
+44    D.I. 34, at 3.
+
+45    D.I. 35, Ex. A.
+
+46    In short, revival will “retroactively validate all actions that occurred since [the corporation] became void.” Paul Rivera &
+      Kalibrr, Inc. v. Angkor Cap. Ltd., 2024 WL 3873050, at *9 n.90 (Del. Ch.) citing 8 Del. C. § 312(e). See also Dorsey v.
+      Jones, 2026 WL 850417, at *4 n.31 (Del. Ch.) (citations omitted).
+
+
+
+End of Document                                                      © 2026 Thomson Reuters. No claim to original U.S.
+                                                                                                 Government Works.
+
+
+
+
+ WESTLAW          © 2026 Thomson Reuters. No claim to original U.S. Government Works.                                          6
+

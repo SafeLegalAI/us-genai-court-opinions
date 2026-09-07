@@ -1,0 +1,29 @@
+more fact finding before pleading, such as reverse engineering the ROSS platform.® Plaintiffs
+explain that “[o]ne cannot tell from using ROSS’s platform how it was created or what materials
+were copied. That information [would be] solely in ROSS’s possession.” (D.1. 15 at 11; see also
+Malibu Media, LLC v. Doe, 2014 WL 7188822, at *3-4 (D. Md. Dec. 16, 2014) (finding
+allegations of copyright infringement based upon information and belief plausible)) Considering
+the totality of the allegations made against Defendant, accepting them as true, and drawing all
+reasonable inferences in favor of Plaintiffs, the complaint plausibly alleges acts of infringement — |
+namely that Defendants have engaged in mass, illicit downloading of copyrighted Westlaw
+material through LegalEase, which material was then used to develop the ROSS platform.
+Therefore, the complaint satisfies the fourth prong of the analysis.
+As all four prongs of the four-factor test have been met, the Court concludes that the |
+complaint adequately states a claim for direct copyright infringement. Accordingly, the Court
+will deny ROSS’s motion to dismiss Count I. 7 |
+|
+B. Tortious Interference With Contract )
+Count II of the complaint alleges tortious interference with contract, but the claim is not
+asserted under any particular state’s law. (See D.I. 1, {{] 49-53) ROSS moves to dismiss Count
+6 Defendant’s analogy to cases, including patent infringement cases that have not
+required pre-suit reverse engineering in order to state a claim, is unpersuasive. (See Tr. at 11,
+63-64, 69-70; see also id. at 34; Network Managing Sols., LLC v. AT&T Inc., 2017 WL 472080,
+at *1 (D. Del. Feb. 3, 2017) (finding allegations based on information and belief sufficient where
+defendants kept “information about their . . . technology secret and . . . [did] not offer some
+public product that can be reverse engineered”)
+7 It follows that, to the extent Defendant also intended its motion to challenge Plaintiffs’
+pleading of indirect infringement based on the lack of adequate allegations of direct infringement
+(see Tr. at 67-68; see also id, at 64 (“It’s the same [failing] as the direct infringement claim.”) — a
+matter on which the parties disagree, and which the Court need not decide (see D.I. 15 at 2 n.1;
+D.L 17 at 6 n.5; Tr. at 15-18, 41, 64-65) — that portion of the motion is also denied.
+12

@@ -1,0 +1,380 @@
+                             Fourth Court of Appeals
+                                    San Antonio, Texas
+                                MEMORANDUM OPINION
+
+                                       No. 04-25-00278-CV
+
+                               Lance J. MEYER and Kerry L. Meyer,
+                                           Appellants
+
+                                                 v.
+
+                                CASTROVILLE STATE BANK,
+                                        Appellee
+
+                    From the 454th Judicial District Court, Medina County, Texas
+                                 Trial Court No. 24-05-29099-CV
+                           Honorable Daniel J. Kindred, Judge Presiding
+
+Opinion by:      Rebeca C. Martinez, Chief Justice
+
+Sitting:         Rebeca C. Martinez, Chief Justice
+                 Irene Rios, Justice
+                 Lori I. Valenzuela, Justice
+
+Delivered and Filed: April 22, 2026
+
+AFFIRMED
+
+           Appellants Lance J. Meyer and Kerry Meyer borrowed approximately $672,938.52 from
+
+appellee Castroville State Bank to finance renovations on their home. The Meyers executed deeds
+
+of trust, pledging their home as security for the loans. After the Meyers failed to pay, the Bank
+
+filed a petition for judicial foreclosure. See TEX. R. CIV. P. 309. Lance, proceeding pro se,
+
+answered with a general denial and pleaded numerous affirmative defenses. Eventually, the Bank
+
+filed a hybrid motion for traditional summary judgment on its request for judicial foreclosure and
+                                                                                      04-25-00278-CV
+
+
+a no evidence motion on all of Lance’s affirmative defenses. Lance filed an “objection” to the
+
+Bank’s motion, and he attached approximately two-hundred-seventeen pages to his objection. The
+
+Bank replied that none of the documents or statements attached to Lance’s objection were sworn,
+
+verified, made under penalty of perjury, or certified, and therefore they were inadmissible. The
+
+trial court signed a final summary judgment in the Bank’s favor. The Meyers, continuing to
+
+proceed pro se, timely appeal. They raise what we construe to be two issues. We affirm.
+
+                                           I. DISCUSSION
+
+A.     Pro Se Considerations
+
+       As pro se litigants, the Meyers are held to the same standards as a licensed attorney and
+
+must comply with all applicable procedural rules. See Mansfield State Bank v. Cohn, 573 S.W.2d
+
+181, 184–85 (Tex. 1978) (“There cannot be two sets of procedural rules, one for litigants with
+
+counsel and the other for litigants representing themselves.”). “The Texas Rules of Appellate
+
+Procedure require adequate briefing.” ERI Consulting Eng’rs, Inc. v. Swinnea, 318 S.W.3d 867,
+
+880 (Tex. 2010). It is well-settled that, under these rules, an appellant’s brief must concisely state
+
+the facts, supported by record references, and contain a clear and concise argument for the
+
+contentions made with appropriate citations to authorities and to the appellate record. See TEX. R.
+
+APP. P. 38.1(g), (i); Williams v. Stiles, No. 04-18-00575-CV, 2020 WL 1277701, at *2 (Tex.
+
+App.—San Antonio Mar. 18, 2020, no pet.) (mem. op.).
+
+       While pro se litigants must comply with the applicable procedural rules, application of the
+
+rules “may require a different result when the actor is not a lawyer.” Li v. Pemberton Park Cmty.
+
+Ass’n, 631 S.W.3d 701, 706 (Tex. 2021) (per curiam) (quoting Wheeler v. Green, 157 S.W.3d 439,
+
+444 (Tex. 2005)). Courts should “review and evaluate pro se pleadings with liberality and
+
+patience.” Li, 631 S.W.3d at 706 (citation omitted); see also In re A.G.D., No. 07-15-00201-CV,
+
+
+
+
+                                                 -2-
+                                                                                     04-25-00278-CV
+
+
+2016 WL 316879, at *2 (Tex. App.—Amarillo Jan. 22, 2016, no pet.) (applying standard to pro se
+
+appellate brief) (cited by Li, 631 S.W.3d at 706 n.5). In addition, the Texas Supreme Court “ha[s]
+
+admonished appellate courts to ‘reach the merits of an appeal whenever reasonably possible’ and
+
+cautioned that ‘disposing of appeals for harmless procedural defects is disfavored.’” Horton v.
+
+Stovall, 591 S.W.3d 567, 570 (Tex. 2019) (per curiam) (quoting Perry v. Cohen, 272 S.W.3d 585,
+
+587 (Tex. 2008)). “Nevertheless, it is ‘settled’ that ‘an appellate court has some discretion to
+
+choose between deeming a point waived and allowing amendment or rebriefing’ and ‘whether that
+
+discretion has been properly exercised depends on the facts of the case.’” Horton, 591 S.W.3d at
+
+569–70 (quoting Fredonia State Bank v. Gen. Am. Life Ins. Co., 881 S.W.2d 279, 284 (Tex. 1994));
+
+see also Phillips Motors Co. v. Million Auto Parts, No. 04-19-00391-CV, 2020 WL 1159062, at
+
+*2 (Tex. App.—San Antonio Mar. 11, 2020, no pet.) (mem. op.) (affirming judgment where
+
+appellant waived complaints by failing to comply with briefing rules).
+
+B.     Hybrid Summary Judgment Standard of Review
+
+       “We review summary judgments de novo.” Tex. Workforce Comm’n v. Wichita Cnty., 548
+
+S.W.3d 489, 492 (Tex. 2018). In doing so, “we take as true all evidence favorable to the
+
+nonmovant and we indulge every reasonable inference and resolve any doubts in the nonmovant’s
+
+favor.” Dall. Morning News, Inc. v. Tatum, 554 S.W.3d 614, 624 (Tex. 2018) (quoting Exxon
+
+Mobil Corp. v. Rincones, 520 S.W.3d 572, 579 (Tex. 2017)). “Summary judgment is proper when
+
+no genuine issues of material fact exist and the movant is entitled to judgment as a matter of law.”
+
+Wichita Cnty., 548 S.W.3d at 492.
+
+       When, as here, the Bank, as the plaintiff, moves for summary judgment on its affirmative
+
+claim, it must conclusively prove all elements of its cause of action as a matter of law. Universal
+
+MRI & Diagnostics, Inc. v. Med. Lien Mgmt. Inc., 497 S.W.3d 653, 658 (Tex. App.—Houston
+
+
+
+
+                                                -3-
+                                                                                      04-25-00278-CV
+
+
+[14th Dist.] 2016, pet. denied). Once a movant establishes its right to summary judgment as a
+
+matter of law, the burden shifts to the nonmovant to present evidence raising a genuine issue of
+
+material fact. Id. This shifting burden includes the obligation for a defendant to raise a genuine
+
+issue of material fact on each element of any affirmative defense that might have prevented the
+
+trial court from rendering judgment on the plaintiff’s claim. See Nwokenwo v. JP Morgan Case
+
+Bank, N.A., No. 14-22-00001-CV, 2023 WL 3115697, at *11 (Tex. App.—Houston [14th Dist.]
+
+Apr. 27, 2023, no pet.) (mem. op.) (first citing Baptist Mem’l Hosp. Sys. v. Sampson, 969 S.W.2d
+
+945, 947 (Tex. 1998); and then Brownlee v. Brownlee, 665 S.W.2d 111, 112 (Tex. 1984)).
+
+       A plaintiff moving for summary judgment is not under any obligation to negate affirmative
+
+defenses. Tesoro Petroleum Corp. v. Nabors Drilling USA, Inc., 106 S.W.3d 118, 124 (Tex.
+
+App.—Houston [1st Dist.] 2002, pet. denied); see Woodside v. Woodside, 154 S.W.3d 688, 691
+
+(Tex. App.—El Paso 2004, no pet.). An affirmative defense prevents the granting of a summary
+
+judgment for the plaintiff on its own claim only if each element of the affirmative defense is
+
+supported by summary-judgment evidence. Tesoro Petroleum, 106 S.W.3d at 124. Accordingly,
+
+a party raising an affirmative defense in opposition to a summary-judgment motion must either (1)
+
+present a disputed fact issue on the opposing party’s failure to satisfy its own summary judgment
+
+burden of proof or (2) establish the existence of a fact issue on each element of his affirmative
+
+defense. Id.; see Woodside, 154 S.W.3d at 691–92.
+
+C.     Analysis
+
+       The Meyers’s opening brief spans 11,000 words, and it purports to raise five issues. Of
+
+these, we discern two primary complaints. First, the Meyers contend that the Bank was obligated
+
+to inspect the progress made by their contractor, and it failed to do so. To this, the Bank responds
+
+that the applicable lien provision gave it the right — but not the obligation — to review the progress
+
+
+
+
+                                                 -4-
+                                                                                      04-25-00278-CV
+
+
+of work on the construction project. The Bank argues that the Meyers’s appellate arguments are
+
+inadequately briefed because they lack record references and legal argument with citations to
+
+authorities and the appellate record. The Bank also argues that the Meyers’s brief fails to identify
+
+any errors in the trial court’s judgment. Lastly, the Bank apprises us of at least two opinions
+
+referenced by the Meyers — “In re Carothers, 780 S.W.2d 820, 823 (Tex. App.—Corpus Christi
+
+1990, orig. proceeding)” and “Exxon Corp. v. Allsup / Exxon Corp. v. Alembik, 602 S.W.2d 695
+
+(Tex. 1980)” — that do not exist. Our own research verifies the Bank’s assertion.
+
+       The trial court granted the Bank a traditional summary judgment on its request for judicial
+
+foreclosure. “To foreclose under a security instrument in Texas with a power of sale, the lender
+
+must demonstrate that: (1) a debt exists; (2) the debt is secured by a lien created under Art. 16, §
+
+50(a)(6) of the Texas Constitution; (3) plaintiffs are in default under the note and security
+
+instrument; and (4) plaintiffs received notice of default and acceleration.” Bracken v. Wells Fargo
+
+Bank, N.A., No. 05-16-01334-CV, 2018 WL 1026268, at *5 (Tex. App.—Dallas Feb. 23, 2018,
+
+pet. denied) (mem. op.) (quoting Huston v. U.S. Bank Nat’l Ass’n, 988 F. Supp. 2d 732, 740 (S.D.
+
+Tex. 2013), aff’d, 583 Fed. Appx. 306 (5th Cir. 2014)).
+
+       Even reading the Meyers’s briefs with “liberality and patience,” Li, 631 S.W.3d at 706, the
+
+Meyers fail to explain, with references to legal authority and the appellate record, how the Bank’s
+
+right — but not the obligation — to review the progress of work on the construction project raised
+
+a question of material fact on the Bank’s request for judicial foreclosure. Accordingly, the Meyers
+
+failed to present the trial court with evidence raising a genuine issue of material fact on the Bank’s
+
+request for a judicial foreclosure. See Universal MRI & Diagnostics, Inc., 497 S.W.3d at 658. The
+
+Meyers also failed to establish the existence of a fact issue on each element of their affirmative
+
+
+
+
+                                                 -5-
+                                                                                      04-25-00278-CV
+
+
+defenses. Tesoro Petroleum Corp., 106 S.W.3d at 124; Woodside, 154 S.W.3d at 691. We
+
+overrule the Meyers’s first issue.
+
+       Second, the Meyers contend that “the trial court violate[d] [their] constitutional due process
+
+rights by permitting [the Bank’s] counsel to suppress deposition testimony and exhibits.” As we
+
+understand the Meyers’s second issue, the Bank, over the course of discovery, purchased
+
+deposition transcripts from the court reporter. When the Bank moved for summary judgment, it
+
+did not include in the summary judgment record the transcripts that the Meyers desired. This,
+
+according to the Meyers, constitutes “suppression” of evidence. On appeal, the Meyers’s complain
+
+that such “suppression” violates several provisions in the Texas Rules of Professional Conduct.
+
+They also complain that the Bank’s conduct disparately impacts pro se litigants and that the United
+
+States Supreme Court in M.L.B. v. S.L.J., 519 U.S. 102, 119–20 (1996), “condemned such wealth-
+
+based denials of justice.”
+
+       Regarding their “suppression” theory, the closest the Meyers’s come to making such an
+
+argument in their summary judgment response is when they argue:
+
+       Castroville State Bank (CSB) and Langley & Banack / Robert Barrows (Opposing
+       Counsel) have had adequate time for discovery, yet failed to supply the Defendant
+       a copy of the subpoenaed deposition, presentation of listed discovery items, or
+       response to demands, presented during the deposition (l1/11/2024). Plus, Defendant
+       provided all copies of substantiating documentation for claims, which were
+       cataloged, accepted, and marked as evidence, in accordance with Deposition
+       procedures and requested by CSB.
+
+This argument is not couched in terms of any alleged violation of the Texas Rules of Professional
+
+Conduct. It is accordingly, waived. See City of Houston v. Clear Creek Basin Auth., 589 S.W.2d
+
+671, 678 (Tex. 1979) (“[T]he non[]movant must expressly present to the trial court any reasons
+
+seeking to avoid movant’s entitlement [to summary judgment].”); see also Kester v. State Farm
+
+Lloyds, 692 S.W.3d 670, 674 n.3 (Tex. App.—Fort Worth 2023, pet. dism’d) (“A nonmovant must
+
+
+
+
+                                                -6-
+                                                                                      04-25-00278-CV
+
+
+therefore ‘expressly present to the trial court in writing any reasons for avoiding the movant’s right
+
+to summary judgment. Any summary-judgment issues not raised in a timely, written response to
+
+the movant’s summary-judgment grounds are waived.’”) (quoting Ahmad v. Mathur, No. 02-13-
+
+00314-CV, 2014 WL 1859369, at *2 (Tex. App.—Fort Worth May 8, 2014, no pet.) (mem. op.)).
+
+       In M.L.B., the only other legal authority the Meyers’ reference for their second issue, the
+
+Court addressed whether an indigent mother whose parental rights had been terminated was
+
+entitled to an appellate record at no cost. See M.L.B., 519 U.S. at 119–20 (“For the purpose at
+
+hand, M.L.B. asks us to treat her parental termination appeal as we have treated petty offense
+
+appeals; she urges us to adhere to the reasoning in Mayer v. Chicago, [citations omitted], and rule
+
+that Mississippi may not withhold the transcript M.L.B. needs to gain review of the order ending
+
+her parental status.”). The Bank’s failure to include in the summary judgment record deposition
+
+transcripts that the Meyers’s desired does not violate M.L.B., 519 U.S. at 124 (“In accord with the
+
+substance and sense of our decisions in Lassiter and Santosky, [citation omitted], we place decrees
+
+forever terminating parental rights in the category of cases in which the State may not ‘bolt the
+
+door to equal justice[.]’”). We overrule the Meyers’s second issue.
+
+D.     Nonexistent Authority
+
+       Before concluding, we would be remiss without acknowledging the Meyers’s reference to
+
+two non-existent cases. “Courts across the country have issued sanctions against attorneys and
+
+pro se parties for submitting fictitious case citations, fictitious quotations, and related
+
+misrepresentations to the court, including” dismissing or denying the appeal. United States v.
+
+Hayes, 763 F. Supp. 3d 1054, 1071–72 (E.D. Cal. 2025) (collecting cases); see also Ex parte Lee,
+
+673 S.W.3d 755, 756–57 (Tex. App.—Waco 2023, no pet.) (affirming trial court’s denial of
+
+criminal defendant’s habeas request for pre-trial release or reduction of bail and holding defendant
+
+
+
+
+                                                 -7-
+                                                                                      04-25-00278-CV
+
+
+inadequately briefed appeal where brief cited three non-existent cases and did not cite the record).
+
+In our discretion, we respectfully decline to initiate sanctions proceedings. See Ex parte Lee, 673
+
+S.W.3d at 757 n.2 (“Because we have no information regarding why the briefing is illogical, and
+
+because we have addressed the issue raised on appeal, we resist the temptation to issue a show
+
+cause order.”).
+
+                                         II. CONCLUSION
+
+       The judgment of the trial court is affirmed.
+
+
+                                                  Rebeca C. Martinez, Chief Justice
+
+
+
+
+                                                -8-
+

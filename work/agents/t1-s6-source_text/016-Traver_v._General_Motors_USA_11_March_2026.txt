@@ -1,0 +1,593 @@
+       Case 1:25-cv-11890-AK         Document 87        Filed 03/11/26     Page 1 of 11
+
+
+
+
+                          UNITED STATES DISTRICT COURT
+                           DISTRICT OF MASSACHUSETTS
+____________________________________
+                                      )
+COLIN TRAVER and ANGELA               )
+BOLTON,                               )
+                                      )
+            Plaintiffs,               )
+                                      )
+                                      )    Civil Action No. 25-CV-11890-AK
+v.                                    )
+                                      )
+GENERAL MOTORS FINANCIAL              )
+COMPANY INC., AMERICREDIT             )
+FINANCIAL SERVICES, INC. d/b/a GM )
+FINANCIAL Inc., et al., SANTANDER     )
+CONSUMER USA INC., UNITED AUTO )
+RECOVERY, and EASTERN RECOVERY )
+INC.,                                 )
+                                      )
+            Defendants.               )
+                                      )
+
+               MEMORANDUM AND ORDER ON MOTION TO DISMISS
+
+KELLEY, D.J.
+
+       Plaintiffs Colin Traver and Angela Bolton bring this action against Defendants General
+
+Motors Financial Company, Inc. (“General Motors”), AmeriCredit Financial Services, Inc. d/b/a
+
+GM Financial (“GM Financial”), Santander Consumer USA Inc. (“Santander”), Eastern
+
+Recovery Inc. (“Eastern Recovery”), and United Auto Recovery. Plaintiffs allege that
+
+Defendants unlawfully repossessed two vehicles and engaged in false credit reporting. [Dkt. 16].
+
+Defendants GM Financial and Santander move to dismiss the action in its entirety for failure to
+
+state a claim. [Dkt. 53]. For the following reasons, Defendants’ Motion to Dismiss is
+
+GRANTED IN PART and DENIED IN PART.
+
+
+
+
+                                                1
+        Case 1:25-cv-11890-AK          Document 87        Filed 03/11/26       Page 2 of 11
+
+
+
+
+I.      BACKGROUND
+
+        Unless otherwise noted, the facts are presented as alleged in Plaintiffs’ Amended
+
+Complaint.1 [Dkt. 16]. For purposes of this Motion to Dismiss, brought under Fed. R. Civ. P.
+
+12(b)(6), the Court takes all well-pleaded factual allegations asserted in the Amended Complaint
+
+as true. García-Catalán v. United States, 734 F.3d 100, 103 (1st Cir. 2013).
+
+        Plaintiffs Colin Traver and Angela Bolton are individuals residing in Massachusetts.
+
+[Dkt. 16 ¶ 1]. In or around 2021, Plaintiffs entered into two consumer loan contracts, serviced
+
+by GM Financial and Santander, to finance their purchase of two vehicles. [Id. ¶¶ 7-8; Dkt. 54-3
+
+at 5]. Plaintiffs made regular payments on the loans for four years. [Dkt. 16 ¶ 7]. In April 2025,
+
+Plaintiffs requested information about the loans from GM Financial and Santander regarding the
+
+chain of title and the identity of any assignees. [Id. ¶ 8]. These requests were not answered. [Id.].
+
+In June 2025, GM Financial and Santander engaged collateral recovery businesses to repossess
+
+both vehicles from Plaintiffs. [Id. ¶ 9]. Plaintiffs sought to recover the vehicles, paying
+
+approximately $2,800 to regain possession of one of them from GM Financial, but they were
+
+unable to retrieve the other vehicle from Santander. [Id. ¶¶ 10-11]. Plaintiffs allege that
+
+Santander staff was instructed not to speak with Plaintiffs, instead providing them with two non-
+
+functioning fax numbers. [Id. ¶ 11]. Santander also revoked Plaintiffs’ access to their online
+
+account. [Id.].
+
+        Defendants reported the events to consumer reporting agencies. [Id. ¶ 13]. Plaintiffs
+
+contacted the agencies to dispute the reports, claiming they list inaccurate account balances, loan
+
+
+
+
+1
+ As discussed below in Part II.A.1, the Court adopts Plaintiffs’ most recently filed Amended
+Complaint [Dkt. 16] as the operative version of the Complaint.
+
+
+                                                  2
+        Case 1:25-cv-11890-AK           Document 87         Filed 03/11/26       Page 3 of 11
+
+
+
+
+ownership status, and repossession events. [Id. ¶ 14]. As of the date of filing their Amended
+
+Complaint, Plaintiffs are awaiting a response from the agencies. [Id.].
+
+        On June 9, 2025, Plaintiffs filed their original complaint for this action in the Bristol
+
+County Superior Court, alleging claims against GM Financial and Eastern Recovery. [Dkt. 1-1 at
+
+5]. On June 26, 2025, Plaintiffs filed a Supplemental Complaint and Amended Claims for
+
+Relief, which added Santander as a Defendant and amended a number of Plaintiffs’ claims. [Dkt.
+
+1-2 at 1-3]. On July 2, 2025, General Motors Financial Company removed the case to this Court.
+
+[Dkt. 1]. On July 10, 2025, Plaintiffs filed another Supplemental and Amended Complaint,
+
+which added United Auto Recovery as a Defendant. [Dkt. 13]. Later that day, Plaintiffs filed a
+
+fourth Supplemental and Amended Complaint, which added, removed, and modified certain
+
+claims. [Dkt. 16].
+
+        On August 4, 2025, Defendants GM Financial and Santander moved to dismiss [Dkt. 53],
+
+to which Plaintiffs filed an Opposition [Dkt. 55], and Defendants filed a Reply [Dkt. 74].
+
+II.     LEGAL STANDARD
+
+        To survive a motion to dismiss under Fed. R. Civ. P. 12(b)(6), a complaint must allege
+
+sufficient facts to state a claim for relief that is “plausible on its face” and actionable as a matter
+
+of law. Ashcroft v. Iqbal, 556 U.S. 662, 678 (2009) (quoting Bell Atl. Corp. v. Twombly, 550
+
+U.S. 544, 570 (2007)). Reading the complaint “as a whole,” the Court must conduct a two-step,
+
+context-specific inquiry. García-Catalán, 734 F.3d at 103. First, the Court must perform a close
+
+reading of the complaint to distinguish factual allegations from conclusory legal statements. Id.
+
+Factual allegations must be accepted as true, while legal conclusions are not entitled to
+
+credit. Id. A court may not disregard properly pleaded factual allegations even if actual proof of
+
+those facts is improbable. Ocasio-Hernández v. Fortuño-Burset, 640 F.3d 1, 12 (1st Cir.
+
+
+
+
+                                                   3
+        Case 1:25-cv-11890-AK          Document 87        Filed 03/11/26      Page 4 of 11
+
+
+
+
+2011). Second, the Court must determine whether the factual allegations present a “reasonable
+
+inference that the defendant is liable for the misconduct alleged.” Haley v. City of Boston, 657
+
+F.3d 39, 46 (1st Cir. 2011) (citation omitted). Dismissal is appropriate when the complaint fails
+
+to allege a “plausible entitlement to relief.” Rodriguez-Ortiz v. Margo Caribe, Inc., 490 F.3d 92,
+
+95 (1st Cir. 2007) (quoting Twombly, 550 U.S. at 559).
+
+III.   DISCUSSION
+
+       A.      Preliminary Matters
+
+       Before assessing the merits of Defendants’ Motion, the Court addresses several threshold
+
+matters disputed by the Parties regarding the operative version of the complaint at issue, the
+
+proper defendants to this action, and facts and arguments presented improperly.
+
+               1.      Operative Complaint
+
+       Plaintiffs have filed three Amended Complaints [Dkts. 1-2, 13, 16]. Plaintiffs’ first
+
+Amended Complaint was filed as of right pursuant to Fed. R. Civ. P. 15(a)(1)(A) and thus
+
+superseded the initial complaint in its entirety. [See Dkt. 1-2]. Plaintiffs did not, however, seek
+
+leave of the Court to file their second and third Amended Complaints, as required under Fed. R.
+
+Civ. P. 15(a)(2) for subsequent amendments. Both Amended Complaints seek to add United
+
+Auto Recovery as a Defendant, and the most recent Amended Complaint [Dkt. 16]—when
+
+compared against the first Amended Complaint—adds two claims against all Defendants (Fair
+
+Debt Collection Practices Act and Fair Credit Reporting Act), adds GM Financial and United
+
+Auto Recovery as Defendants to their wrongful possession and conversion claim, and drops two
+
+claims (negligence based on failure to conduct due diligence and abuse of process).
+
+       Rule 15 instructs courts to “freely give leave when justice so requires.” Fed. R. Civ. P.
+
+15(a). A district court may deny leave to amend when the request is characterized by “undue
+
+
+
+
+                                                 4
+         Case 1:25-cv-11890-AK          Document 87       Filed 03/11/26      Page 5 of 11
+
+
+
+
+delay, bad faith, futility, [or] the absence of due diligence on the movant’s part.” Palmer v.
+
+Champion Mortg., 465 F.3d 24, 30 (1st Cir. 2006). Once filed, an amended complaint
+
+“supersedes the antecedent complaint.” Brait Builders Corp. v. Mass. Div. of Cap. Asset Mgmt.,
+
+644 F.3d 5, 9 (1st Cir. 2011) (quoting Connectu LLC v. Zuckerberg, 522 F.3d 82, 91 (1st Cir.
+
+2008).
+
+         Here, there was no evidence of undue delay, as Plaintiffs filed the most recent Amended
+
+Complaint only eight days after the case was removed and one month after the case was
+
+originally filed. [See Dkt. 16]. There is also no evidence or allegations of bad faith or prejudice.
+
+United Auto Recovery has appeared and filed an Answer (while preserving arguments regarding
+
+improper service) [Dkts. 56-58], and GM Financial and Santander responded to the new claims
+
+in their Motion to Dismiss without moving to strike [Dkt. 54]. Accordingly, the Court adopts the
+
+most recent Amended Complaint as the operative complaint.
+
+         Plaintiffs’ most recent Amended Complaint supersedes earlier versions of the Complaint
+
+in their entirety, and the Court considers only the facts and claims in the Amended Complaint.
+
+                2.      Proper Corporate Defendant
+
+         The Parties dispute the proper corporate entity to name as a defendant in this action.
+
+Defendants assert that General Motors Financial Company Inc. “is the parent company of GM
+
+Financial,” and does not “own[] and service[] retail installment sale contracts such as the one at
+
+issue in this case.” [Dkt. 54 at 1 n.1]. Plaintiffs propose that the proper name for Defendant is
+
+“AmeriCredit Financial Services, Inc. d/b/a General Motors Financial Company, Inc., also
+
+known as GM Financial.” [Dkt. 8].
+
+         Plaintiffs’ proposal, as well as the allegations and claims in the Amended Complaint,
+
+suggest that they believe “General Motors Financial Company” is one of the names of the
+
+
+
+
+                                                  5
+        Case 1:25-cv-11890-AK          Document 87        Filed 03/11/26      Page 6 of 11
+
+
+
+
+corporate subsidiary. They do not appear to allege any facts or claims against the corporate
+
+parent. Because Plaintiffs’ apparent intention is to bring claims against the corporate subsidiary,
+
+not the corporate parent as an independent entity, Plaintiffs are directed to amend their
+
+Complaint pursuant to Rule 15(a) by removing “General Motors Financial Company” as a
+
+separate defendant. See Ufret-Vega v. Biomet Orthopedics P.R., No. CV 08-1786, 2009 WL
+
+10720110, at *2 (D.P.R. Aug. 14, 2009), report and recommendation adopted, No. CV 08-1786,
+
+2009 WL 10720151 (D.P.R. Sept. 30, 2009) (“A party may also amend the complaint pursuant to
+
+Rule 15(a) to correct a misnomer.”).
+
+               3.      Nonexistent Case Citations
+
+       Defendants bring to the Court’s attention that Plaintiffs’ Opposition cites cases that do
+
+not exist and contain mischaracterizations of legal precedent and rules of law. The Court has
+
+conducted its own research into Plaintiffs’ citations and concludes that they are indeed
+
+nonexistent. [See Dkt. 74 at 2-3, 5 (citing, inter alia, nonexistent cases such as Schuh v.
+
+Weltman, Weinberg & Reis Co., LPA, 602 F. Supp. 2d 832 (S.D. Ohio 2009); Barbosa v. Target
+
+Corp., 2013 WL 6336093 (D. Mass. 2013); and Fleet Nat’l Bank v. Hunt, 385 Mass. 307
+
+(1982)].
+
+       Although courts construe pro se filings liberally, there are “reasonable limits.” United
+
+States v. Valdez. 88 F.4th 334, 344 n. 7 (1st Cir. 2023) (quoting Dutil v. Murphy, 550 F.3d 154,
+
+158 (1st Cir. 2008)). Pro se litigants “must be held generally to the same standards as an
+
+attorney.” Doe v. Solvay Pharms., Inc., 350 F. Supp. 2d 257, 260 n.3 (D. Me. 2004). Here, if an
+
+attorney had made a filing “rife with miscitations and AI hallucinations, that attorney would
+
+likely be subject to sanctions.” Everett J. Prescott, Inc. v. Beall, No. 25-CV-00071, 2025 WL
+
+2084353, at *2 (D. Me. July 24, 2025). The Court does not take this lightly and reminds
+
+
+
+
+                                                  6
+        Case 1:25-cv-11890-AK          Document 87        Filed 03/11/26       Page 7 of 11
+
+
+
+
+Plaintiffs that they may not make false or fictitious representations to the Court. Plaintiffs are
+
+ordered to certify in any future filings that they have reviewed the filings to confirm that citations
+
+are not hallucinated or falsely represented. See id. (imposing similar warnings for AI-
+
+hallucinated cases filed by pro se litigant). Plaintiffs are warned that if they make further false or
+
+fictitious filings, they may be subject to more severe sanctions, including dismissal of the case.
+
+               4.      Facts and Arguments Outside Pleadings
+
+       In their Opposition, Plaintiffs allege facts that are not in the Amended Complaint. For
+
+example, they assert that “Defendants knowingly retained Eastern Recovery, which was not
+
+properly licensed in Massachusetts or Rhode Island.” [Dkt. 55 at 3]. Plaintiffs have not moved
+
+to amend or supplement the pleadings, nor has the Court approved such a motion. Moreover,
+
+many of these claims involve Eastern Recovery, who is not a party to the instant Motion to
+
+Dismiss. Accordingly, the Court will disregard any such additional facts or claims for purposes
+
+of this Order. See Ramos v. United States Postal Serv., No. 23-CV-12848, 2024 WL 5009052, at
+
+*4 (D. Mass. Dec. 6, 2024) (“[A]n opposition to a motion to dismiss is not the place for new
+
+factual allegations.” (quoting Decoulos v. Town of Aquinnah, No. 17-CV-11532, 2018 WL
+
+3553351, at *12 (D. Mass. July 24, 2018) (“[Plaintiff] cannot bolster the allegations of the
+
+Amended Complaint through the late addition of new facts in opposing a motion to dismiss.”))).
+
+       Moreover, Plaintiffs filed a Sur-reply and “addendum” to their Opposition without
+
+seeking leave of the Court, as the Court requires in its Standing Order Regarding Motion
+
+
+
+
+                                                  7
+        Case 1:25-cv-11890-AK          Document 87        Filed 03/11/26      Page 8 of 11
+
+
+
+
+Practice. [Dkts. 66, 78]. Thus, the Court does not regard facts or legal arguments presented in
+
+either Plaintiffs’ Sur-reply or addendum to their Opposition for purposes of this Order.
+
+       B.      Count 1 - Federal Debt Collection Practices Act
+
+       Moving on to the merits, Plaintiffs assert that Defendants violated the Federal Debt
+
+Collection Practices Act (“FDCPA”), 15 U.S.C. § 1692 et seq., because they failed to respond to
+
+Plaintiffs’ request for information about the true creditor of their financing agreements and
+
+repossessed the vehicles despite dispute over ownership. Defendants contend that Plaintiffs have
+
+failed to state a claim because Defendants are not “debt collectors” under the Act. The Court agrees.
+
+       The FDPCA establishes private causes of action in connection with certain debt
+
+collection practices against debt collectors. See Henson v. Santander Consumer USA Inc., 582
+
+U.S. 79, 81 (2017). To properly plead a claim under the FDCPA, the plaintiff must show that
+
+“(1) [he] was the object of collection activity arising from consumer debt, (2) [defendant] [is] [a]
+
+debt collector[] as defined by the FDCPA, and (3) [the defendant] engaged in an act or omission
+
+prohibited by the FDCPA.” Neathery v. Lucky 13 Recovery Inc., No. 22-CV-10769, 2023 WL
+
+7924149, at *2 (D. Mass. Nov. 16, 2023). As relevant to this case, the FDCPA defines a “debt
+
+collector” as “any person who uses any instrumentality of interstate commerce or the mails in
+
+any business the principal purpose of which is the collection of any debts, or who regularly
+
+collects or attempts to collect, directly or indirectly, debts owed or due or asserted to be owed or
+
+due another.” 15 U.S.C. § 1692a(6). In Henson v. Santander Consumer USA Inc., the Supreme
+
+Court held that the definition of “debt collector” does not include “a debt owner seeking to
+
+collect debts for itself.” 582 U.S. at 83 (“[I]t would seem a debt purchaser like Santander may
+
+indeed collect debts for its own account without triggering the statutory definition in dispute.”).
+
+
+
+
+                                                 8
+        Case 1:25-cv-11890-AK          Document 87        Filed 03/11/26       Page 9 of 11
+
+
+
+
+        Here, GM Financial and Santander were the creditors of Plaintiffs’ consumer financing
+
+agreements, which provided for loans on the two vehicles at issue.2 [Dkt. 16 ¶ 7-8; Dkt. 54-3 at
+
+5]. Defendants’ repossession of the vehicles was thus an action to collect on their own debts.
+
+Accordingly, they are not “debt collectors” subject to the FDCPA, see id., and Plaintiffs fail to
+
+sufficiently plead facts supporting this claim.
+
+        C.     Counts 2 and 4 - Inaccurate Credit Reporting
+
+        Plaintiffs assert claims under both state and federal law contending that Defendants
+
+“reported inaccurate or misleading information to credit reporting agencies without a lawful
+
+basis.” [Dkt. 16 ¶ 25]. Their state claim is brought under the Massachusetts Consumer
+
+Protection Act (“Chapter 93A”), Mass. Gen. Laws ch. 93A, § 9. [Id. ¶¶ 19-21]. Their federal
+
+claim is brought pursuant to the Federal Credit Reporting Act (“FCRA”), 15 U.S.C. § 1681s-2.
+
+[Id. ¶¶ 26].
+
+        Plaintiffs’ state claim is unavailable because Chapter 93A claims are preempted by
+
+FCRA. As another session of this Court explained in dicta in Leet v. Cellco P’ship, “Chapter
+
+93A qualifies as a requirement imposed by state law, and to the extent the claim is based on
+
+[defendant]’s reporting of plaintiff’s consumer credit information, it directly relates to the subject
+
+matter of § 1681 s-2 [of FCRA].” 480 F. Supp. 2d 422, 434 (D. Mass. 2007); see also Dawe v.
+
+Cap. One Bank, No. CIV A 04-40192, 2007 WL 3332810, at *1-2 (D. Mass. Oct. 24, 2007)
+
+(finding plaintiff’s Chapter 93A claims preempted by FCRA); Brown v. JPMorgan Chase & Co.,
+
+
+
+2
+  Defendants filed the two consumer financial agreements at issue as attachments to their Motion
+to Dismiss. [See Dkts. 54-1, 54-3]. The Court considers these exhibits without converting this
+Motion to a motion for summary judgment under Fed. R. Civ. P. 12(d) because the Amended
+Complaint alleges facts that are “expressly linked to” the agreements, and Plaintiffs have not
+challenged the authenticity of the agreements. Beddall v. State St. Bank & Trust Co., 137 F.3d
+12, 16-17 (1st Cir. 1998); Alternative Energy, Inc. v. St. Paul Fire & Marine Ins. Co., 267 F.3d
+30, 33 (1st Cir. 2001).
+
+
+                                                  9
+       Case 1:25-cv-11890-AK          Document 87         Filed 03/11/26      Page 10 of 11
+
+
+
+
+22-CV-11298, 2023 WL 3511363, at *4-5 (D. Mass. May 17, 2023) (same). Plaintiffs’ Chapter
+
+93A claim is based on Defendants’ alleged actions related to reporting their credit information to
+
+consumer credit agencies, and is therefore preempted.
+
+       Plaintiffs’ federal claim is likewise unavailable, as there is no private right of action
+
+under FCRA Section 1681s-2(a). Under 15 U.S.C. §§ 1681s-2(c)(1) and 1681s-2(d),
+
+“enforcement of violations of § 1681s-2(a) is limited exclusively to designated state and federal
+
+officials.” Gibbs v. SLM Corp., 336 F. Supp. 2d 1, 11 (D. Mass. 2004), aff’d, No. 05-1057, 2005
+
+WL 5493113 (1st Cir. Aug. 23, 2005). As such, “courts have consistently held that there is no
+
+private action for violations of § 1681s-2(a).” Id. (collecting cases). The avenue for relief, as
+
+prescribed by Congress, is to pursue claims with the relevant state and federal agencies, such as
+
+the Federal Trade Commission or equivalent. See 15 U.S.C. § 1681s-2(d).
+
+       D.      Count 3 - Wrongful Repossession and Conversion
+
+       Finally, Plaintiffs assert wrongful repossession and conversion claims under common law
+
+and Article 9 of the Uniform Commercial Code (“UCC”).
+
+       Common law conversion is the “intentional or wrongful exercise of ownership or control
+
+by defendant over the personal property of another to which it has no right of possession.” Omori
+
+v. Brandeis Univ., 533 F. Supp. 3d 49, 56 (D. Mass. 2021) (citing Third Nat’l Bank v. Cont’l Ins.
+
+Co., 446 N.E.2d 380, 383 (Mass. 1983)). A conversion claim requires “proof that the defendant
+
+either did some positive wrongful act with the intention to appropriate the property to himself or
+
+to deprive the rightful owner of it.” Kelley v. LaForce, 288 F.3d 1, 12 (1st Cir. 2002). Here,
+
+Plaintiffs allege that they made regular payments on the loans for both vehicles and deny that
+
+they were in default or otherwise behind on payments. [Dkt. 16 ¶ 7]. The repossession
+
+companies thus would not have the right to repossess the vehicles. Cf. In re Visnicky, 401 B.R.
+
+
+
+
+                                                 10
+         Case 1:25-cv-11890-AK          Document 87       Filed 03/11/26      Page 11 of 11
+
+
+
+
+61 (Bankr. D.R.I. 2009) (“Unless there is a default, the creditor is not entitled to repossession of
+
+the collateral.”). Accordingly, taking Plaintiffs’ allegations as true for purposes of this Motion,
+
+Plaintiffs have pled sufficient facts as to this claim.
+
+         Similarly, UCC Article 9-609, codified in Mass. G.L. ch. 106 § 9-609, allows a creditor
+
+to use self-help to repossess collateral only “[a]fter default.” Mass. G.L. ch. 106 § 9-609(b); see
+
+Neathery, 2023 WL 7924149, at *3. As with Plaintiffs’ common law conversion claim,
+
+accepting as true their allegations that they were up to date on their vehicle loan obligations,
+
+Plaintiffs have pleaded sufficient facts supporting their claim that Defendants were not entitled to
+
+repossess the vehicles at this stage.
+
+IV.      CONCLUSION
+
+         For the foregoing reasons, GM Financial and Santander’s Motion to Dismiss [Dkt. 53] is
+
+GRANTED IN PART and DENIED IN PART. Count 1 (FDCPA), Count 2 (Chapter 93A),
+
+and Count 4 (FCRA) are DISMISSED, while Count 3 (wrongful repossession and conversion)
+
+remains. Pursuant to Fed. R. Civ. P. 12(a)(4), Defendants must file a responsive pleading within
+
+fourteen (14) days of this Order.
+
+         Additionally, Plaintiffs are DIRECTED to amend the Complaint to remove “General
+
+Motors Financial Company Inc.” as a separate defendant within fourteen (14) days of this
+
+Order.
+
+         Lastly, Plaintiffs are ORDERED to certify in any future filings that they have reviewed
+
+the filings to confirm that citations are not hallucinated or falsely represented.
+
+         SO ORDERED.
+
+Dated: March 11, 2026                                          /s/ Angel Kelley
+                                                               Hon. Angel Kelley
+                                                               United States District Judge
+
+
+
+
+                                                   11
+

@@ -1,0 +1,335 @@
+THE UNITED STATES DISTRICT COURT
+FOR THE WESTERN DISTRICT OF NORTH CAROLINA
+ASHEVILLE DIVISION
+CIVIL CASE NO. 1:24-cv-00037-MR-WCM
+WAYNE K. SMITH, SR., Individually )
+and as Personal Representative of )
+the Estate of Wayne K. Smith, Jr., )
+deceased, )
+)
+Plaintiff, )
+)
+vs. ) MEMORANDUM OF
+) DECISION AND ORDER
+POLK COUNTY, et al., )
+)
+Defendants. )
+________________________________ )
+THIS MATTER is before the Court on the Plaintiff’s Motion for Relief
+from Judgment Pursuant to Federal Rule of Civil Procedure 59(e), or, in the
+Alternative, 60(b)(2) and 60(b)(6), and for Leave to File Third Amended
+Complaint [Doc. 48].
+I. BACKGROUND
+This action arises from the circumstances of the Decedent Wayne K.
+Smith, Jr.’s death. On February 2, 2021, Defendant Deputy Ben Page
+noticed the Decedent speeding, activated his blue lights, and pursued the
+Decedent. [Doc. 4 at ¶¶ 36-40]. The vehicles exceeded 75 miles per hour
+in a 45 mile-per-hour zone, and, as the vehicles neared a curve in the road,
+Case 1:24-cv-00037-MR Document 98 Filed 06/03/26 Page 1 of 162
+the Decedent’s vehicle “spun out of control and collided into a tree.” [Id. at
+¶¶ 38, 42-45]. The collision caused the Decedent’s death. [Id. at ¶ 50].
+On February 2, 2024, the Plaintiff Wayne K. Smith, Sr., individually and
+as the personal representative of the Decedent, initiated this action asserting
+various constitutional violations pursuant to 42 U.S.C. § 1983, violation of 42
+U.S.C. § 1981, and claims for wrongful death, battery, false imprisonment,
+intentional infliction of emotional distress, negligent infliction of emotional
+distress, and punitive damages. [Doc. 1]. The Plaintiff filed an Amended
+Complaint asserting the same claims on February 12, 2024. [Doc. 4]. The
+Defendants filed a Motion to Dismiss onApril 24, 2024. [Doc. 6]. On January
+13, 2025, the Magistrate Judge filed a Memorandum and Recommendation
+(“M&R”) recommending that the Defendants’ Motion to Dismiss be granted
+as to all claims against Defendants Polk County, Sheriff Timothy Wright, and
+Deputy Page except for the Plaintiff’s § 1983 claim against Defendant Page
+in his individual capacity based on deliberate indifference to the Decedent’s
+serious medical need and the Plaintiff’s corresponding claim for punitive
+damages. [Doc. 10]. The M&R also recommended that the Plaintiff be
+directed to show cause as to why his claims against the remaining
+Defendant, Western Surety Company, which had not yet been served,
+should not be dismissed [Id. at 2 n.1, 23-24].
+Case 1:24-cv-00037-MR Document 98 Filed 06/03/26 Page 2 of 163
+On April 7, 2025, the Court overruled the Plaintiff’s objections to the
+M&R and accepted the M&R in full. [Doc. 14]. In that Order, the Court
+explained that there were “no surviving claims arising out of (1) Deputy
+Page’s actions during the high-speed chase, up to Deputy Page approaching
+the Decedent’s vehicle after the crash; (2) unlawful seizure or excessive
+force; (3) alleged racial discrimination; (4) the County’s policies; or (5) state
+law.” [Id. at 14]. As a result, since April 7, 2025, the only claims that have
+remained in this matter are a § 1983 deliberate indifference claim stemming
+from Defendant Page’s alleged actions after the Decedent crashed into a
+tree, and the Plaintiff’s corresponding claim for punitive damages. [Id.].
+On April 15, 2026, over a year after the Court accepted the M&R, the
+Plaintiff filed a motion seeking reconsideration of the Court’s Order and leave
+to file a Third Amended Complaint.1
+[Doc. 48]. For grounds, the Plaintiff
+contends that evidence developed through discovery in this matter is
+sufficient to state plausible § 1983 claims against Polk County and Sheriff
+1
+The Plaintiff previously filed a Second Amended Complaint for the sole purpose of
+substituting Auto-Owners Insurance Company (“Auto-Owners”) for Western Surety
+Company as the Defendant surety in this matter. See [Docs. 21-23]. Although the Second
+Amended Complaint restates the previously dismissed claims, it is undisputed that the
+Second Amended Complaint, which was filed after the Court’s Order accepting the M&R,
+did not revive any of the previously dismissed claims or assert any new claims. As a
+result, there is no claim pending against Defendant Auto-Owners. Rather, the Plaintiff
+alleges that Defendant Auto-Owners is the surety on Defendant Page’s bond. [Doc. 23
+at ¶¶ 12-14].
+Case 1:24-cv-00037-MR Document 98 Filed 06/03/26 Page 3 of 164
+Wright pursuant to Monell v. Department of Social Services of City of New
+York, 436 U.S. 658 (1978) for failure to train Defendant Page, negligent hiring
+of Defendant Page, and a custom of deliberate indifference to Defendant
+Page’s misconduct, as well as a plausible supervisory liability claim under 42
+U.S.C. § 1983. [Doc. 48-1 at 16-17]. Having been fully briefed, the Plaintiff’s
+motion is ripe for disposition.
+II. STANDARD OF REVIEW
+A. Motion for Relief from Judgment
+The Plaintiff’s motion for relief from judgment has been filed pursuant
+to Rules 59(e), 60(b)(2), and 60(b)(6) of the Federal Rules of Civil Procedure,
+and both parties have spilled a fair amount of ink regarding the
+appropriateness of those rules for the instant motion. [Doc. 48-1 at 5; Doc.
+60 at 3-6; Doc. 63 at 6-8]. Motions under Rule 59(e) and Rule 60(b),
+however, are appropriate only after entry of final judgment. See Fed. R. Civ.
+P. 59(e), 60(b); see also Fayetteville Invs. v. Com. Builders, Inc., 936 F.2d
+1462, 1469 (4th Cir. 1991). Because no final judgment has been entered in
+this matter, neither Rule 59(e) nor Rule 60(b) is an appropriate vehicle for
+the Plaintiff’s motion. Instead, the appropriate vehicle is Rule 54(b), which
+provides that an interlocutory order “is subject to revision at any time before
+the entry of judgment adjudicating all the claims and the rights and liabilities
+Case 1:24-cv-00037-MR Document 98 Filed 06/03/26 Page 4 of 165
+of the parties.” Fed. R. Civ. P. 54(b). The Fourth Circuit has permitted district
+courts to consider motions inappropriately filed under Rules 59(e) and Rule
+60(b) as motions for reconsideration under Rule 54(b), and the Court will do
+so here. See Fayetteville Invs., 936 F.2d at 1470.
+A Rule 54(b) motion seeks reconsideration and modification of an
+interlocutory order on grounds that “(1) there has been an intervening change
+in controlling law; (2) there is additional evidence that was not previously
+available; or (3) the prior decision was based on clear error or would work
+manifest injustice.” Akeva, L.L.C. v. Adidas Am., Inc., 385 F. Supp. 2d 559,
+566 (M.D.N.C. 2005). The standard for a Rule 54(b) motion “closely
+resembles the standard applicable to motions to reconsider final orders
+pursuant to Rule 59(e), but it departs from such standard by accounting for
+potentially different evidence discovered during litigation as opposed to the
+discovery of ‘new evidence not available at trial.’” Carlson v. Bos. Sci. Corp.,
+856 F.3d 320, 325 (4th Cir. 2017) (quoting Pac. Ins. Co. v. Am. Nat. Fire Ins.
+Co., 148 F.3d 396, 403 (4th Cir. 1998)). “However, a motion to reconsider
+an interlocutory order should not be used to rehash arguments the court has
+already considered merely because the movant is displeased with the
+outcome.” In Re:Aqueous Film-Forming Foams Prods. Liab. Litig., No. 2:18-
+MN-2873-RMG, 2025 WL 4072671, at *1 (D.S.C. Oct. 14, 2025).
+Case 1:24-cv-00037-MR Document 98 Filed 06/03/26 Page 5 of 166
+B. Motion for Leave to File Third Amended Complaint
+Rule 15 of the Federal Rules of Civil Procedure provides that leave to
+amend should be “freely give[n] . . . when justice so requires.” Fed. R. Civ.
+P. 15. However, “a district court has discretion to deny a motion to amend a
+complaint, so long as it does not outright refuse ‘to grant the leave without
+any justifying reason.’” Equal Rights Ctr. v. Niles Bolton Assocs., 602 F.3d
+597, 603 (4th Cir. 2010) (citing Foman v. Davis, 371 U.S. 178, 182 (1962)).
+A district court may deny a motion to amend when the amendment would be
+prejudicial to the opposing party, the moving party has acted in bad faith, or
+the amendment would be futile. Id.
+III. DISCUSSION
+A. Compliance with Local Rules and Standing Orders
+1. Consultation Required by Local Rule 7.1(b)
+The Defendants contend that the “Plaintiff did not make any attempt to
+consult with Defendants prior to filing his motion,” in violation of the Court’s
+Local Rules. [Doc. 60 at 1]; see also LCvR 7.1(b). Counsel for the Plaintiff
+“acknowledges that no pre-filing conferral was conducted pursuant to Local
+Rule 7.1(b).” [Doc. 63 at 4]. Moreover, counsel for the Plaintiff represents
+that the failure to confer “was not inadvertent—it was the product of a
+litigation-long pattern that made conferral an exercise in futility.” [Id.].
+Case 1:24-cv-00037-MR Document 98 Filed 06/03/26 Page 6 of 167
+Counsel for the Plaintiff states that “[t]here was nothing to confer about”
+because counsel for the Plaintiff expected the Defendants to oppose the
+motion.2
+[Id. at 5].
+The Plaintiff’s counsel’s admissions establish that she intentionally
+violated the Court’s rules.3
+The Local Rules do not apply only when the
+Plaintiff’s counsel expects acquiescence. On this basis alone, the Plaintiff’s
+motion may be subject to summary denial. LCvR 7.1(b). Nevertheless, in
+the interest of justice, the Court will address the motion on its merits. The
+Court admonishes the Plaintiff’s counsel to comply with the Court’s rules and
+puts counsel for the Plaintiff on notice that any future motions filed without
+consultation in violation of Local Civil Rule 7.1(b) will be summarily denied.
+2. Artificial Intelligence
+The Defendants contend that the Plaintiff’s memorandum in support of
+the instant motion contains two fabricated quotations, along with multiple
+quoted statements lacking citation to any authority, and that such
+deficiencies suggest that the memorandum was drafted using artificial
+2
+The Plaintiff complains that the Defendants tookthe “position” throughout discovery “that
+neither the vehicular pursuit nor policies are at issue in this case.” [Doc. 63 at 4]. The
+Court notes, however, that neither the vehicular pursuit nor the county’s policies are, in
+fact, at issue in this case.
+3
+The Plaintiff’s counsel has also failed to show proper conferral or attempt to confer
+regarding one motion to compel and two motions for sanctions that are currently pending
+in this matter. LCvR 7.1(b); see generally [Docs. 46, 61, 68].
+Case 1:24-cv-00037-MR Document 98 Filed 06/03/26 Page 7 of 168
+intelligence and without adequate human verification. [Doc. 60 at 2, 4 n.1, 9
+n.3, 14 n.4]. The Defendants further note that the Plaintiff did not file the
+required certification regarding use of artificial intelligence with the
+memorandum, in violation of the Court’s Standing Order Regarding the Use
+of Artificial Intelligence, No. 3:24-mc-00104-MR (W.D.N.C. June 18, 2024)
+(“Standing Order”). [Id. at 2].
+The Plaintiff’s counsel acknowledges the failure to include the requisite
+certification and states that “the substance and factual record set forth in the
+opening brief are grounded in deposition transcripts, personnel records, and
+policy documents produced during discovery – not in AI-generated content.”
+[Doc. 63 at 3]. The Plaintiff’s counsel also acknowledges that “the ‘quotation’
+attributed to Board of County Commissioners v. Brown, 520 U.S. 397 (1997)
+in Plaintiff’s opening brief does not appear verbatim in that decision.” [Doc.
+63 at 3]. The Plaintiff’s counsel nevertheless contends that the “very
+elementary legal principle for which Brown was cited . . . is accurately stated
+in Brown.” [Doc. 63 at 3]. The Plaintiff’s counsel similarly acknowledges a
+misquotation attributed to Laber v. Harvey, 428 F.3d 404, 426 (4th Cir. 2006)
+in the Plaintiff’s opening brief and contends that the “operative point . . . is
+unambiguous Fourth Circuit law.” [Doc. 63 at 3]. Finally, to “provide[ ]
+additional context for the one aspect of the Plaintiff’s briefing that the Court
+Case 1:24-cv-00037-MR Document 98 Filed 06/03/26 Page 8 of 169
+may find deficient,” the Plaintiff’s counsel represents that she was involved
+in a motor vehicle accident the day before filing the memorandum at issue.
+[Id. at 4].
+The Plaintiff’s counsel has not provided an adequate explanation for
+the fabricated quotations identified by the Defendants. The Plaintiff’s
+counsel attempts to allay concerns about the fabricated quotations by stating
+that the principles of law for which the fabricated quotations were offered are
+nevertheless accurate. [Id. at 3]. That says nothing, however, about the
+inaccuracy of the fabricated quotations themselves. While the Plaintiff’s
+counsel represents that the “substance and factual record” in the
+memorandum at issue were not “grounded” in “AI-generated content,” the
+Plaintiff does not directly deny that the fabricated quotations of legal authority
+were the result of hallucinations by artificial intelligence. [Id.]. Moreover, in
+the midst of responding to concerns about use of artificial intelligence, the
+Plaintiff’s counsel represents that “[e]very factual assertion in this Reply has
+been verified by the undersigned attorney.” [Id. (emphasis added)]. The
+Plaintiff’s counsel fails, however, to say anything about verification of the
+legal citations in the Reply, and the Plaintiff’s counsel failed to submit the
+requisite certification regarding use of artificial intelligence with the Reply.
+[Doc. 63].
+Case 1:24-cv-00037-MR Document 98 Filed 06/03/26 Page 9 of 1610
+Counsel for the Plaintiff also failed to include the required certification
+regarding use of artificial intelligence with memoranda filed in support of
+three of the Plaintiff’s four other pending motions in this matter. See
+generally [Docs. 46-1, 57-1, 61-1]. On May 21, 2026, counsel for the Plaintiff
+filed a certification regarding use of artificial intelligence in memoranda filed
+in support of the instant motion as well as in “any other filing that was made
+before this Court in which the certification was inadvertently left off.” [Doc.
+85 at 1]. That certification, however, does not cure the issue regarding the
+fabricated quotations in the Plaintiff’s opening brief and the Plaintiff’s
+counsel’s insufficient explanation of those errors. Those errors, along with
+the Plaintiff’s counsel’s repeated failures to file timely certifications in
+compliance with the Court’s Standing Order, raise serious questions about
+the Plaintiff’s counsel’s conduct. Accordingly, the Court will direct the
+Plaintiff’s counsel to show cause as to why she should not be sanctioned for
+failure to comply with the Court’s Standing Order. In so doing, the Plaintiff’s
+counsel must explain the origin of the fabricated quotations and her repeated
+failure to provide timely certifications that comply with the Court’s Standing
+Order prior to the filing of a general certification on May 21, 2026.
+Case 1:24-cv-00037-MR Document 98 Filed 06/03/26 Page 10 of 1611
+B. Motions for Relief from Judgment and for Leave to Amend
+The Plaintiff contends that evidence developed through discovery in
+this matter is sufficient to establish plausible Monell claims against Polk
+County and Sheriff Wright for failure to train Defendant Page, negligent hiring
+of Defendant Page, and a custom of deliberate indifference to Defendant
+Page’s misconduct, as well as a plausible supervisory liability claim under 42
+U.S.C. § 1983. [Doc. 48-1 at 16-17]. Accordingly, the Plaintiff asks the Court
+to reconsider its prior dismissal of the Plaintiff’s Monell claim4
+and grant the
+Plaintiff leave to file a Third Amended Complaint. [Doc. 48-1 at 2-3].
+“To hold a municipality liable for a constitutional violation pursuant to
+Monell, a plaintiff must establish ‘the existence of an official policy or custom
+that is fairly attributable to the municipality and that proximately caused the
+deprivation of their rights.’” Johnson v. Baltimore City, Maryland, 163 F.4th
+808, 821–22 (4th Cir. 2026) (quoting Howard v. City of Durham, 68 F.4th 934,
+952 (4th Cir. 2023)). The official policy or custom must be the “moving force
+4
+The Plaintiff repeatedly states that the Court previously dismissed the Plaintiff’s
+“negligent hiring” claim. [Doc. 48 at 1; Doc. 48-1 at 2, 4, 6, 19]. That is incorrect, however,
+because the Plaintiff has never asserted a negligent hiring claim. Negligent hiring is never
+mentioned, let alone discussed, in the Plaintiff’s First Amended Complaint [Doc. 4], the
+Magistrate Judge’s Memorandum and Recommendation [Doc. 10], or the Court’s Order
+[Doc. 14] accepting the M&R. While the Court acknowledges the Plaintiff’s desire to
+assert a negligent hiring claim in a Third Amended Complaint, the Court admonishes the
+Plaintiff not to misrepresent the Court’s rulings or the Plaintiff’s own prior assertions.
+Case 1:24-cv-00037-MR Document 98 Filed 06/03/26 Page 11 of 1612
+[behind] the constitutional violation.” City of Canton, Ohio v. Harris, 489 U.S.
+378, 389 (1989).
+Regarding an alleged failure to train, “[o]nly where a municipality's
+failure to train its employees in a relevant respect evidences a deliberate
+indifference to the rights of its inhabitants can such a shortcoming be
+properly thought of as a city policy or custom that is actionable under § 1983.”
+Id. (internal quotation marks omitted). “The specifically identified deficiency
+in training also must be shown to have in fact caused the ultimate violation.”
+Jordan by Jordan v. Jackson, 15 F.3d 333, 341 (4th Cir. 1994).
+Regarding Monell claims based on a custom or practice of
+“condonation”—of failing to stop or correct a pattern of unconstitutional
+conduct—a Plaintiff must allege a “persistent and widespread” practice of
+condoning constitutional violations. Owens v. Baltimore City State's Att'ys
+Off., 767 F.3d 379, 403 (4th Cir. 2014). “A sufficiently close causal link
+between such a known but uncorrected custom or usage and a specific
+violation is established if occurrence of the specific violation was made
+reasonably probable by permitted continuation of the custom.” Spell v.
+McDaniel, 824 F.2d 1380, 1391 (4th Cir. 1987). “[F]ailure to correct the
+known practices must be such as to make the specific violation ‘almost
+Case 1:24-cv-00037-MR Document 98 Filed 06/03/26 Page 12 of 1613
+bound to happen, sooner or later,’ rather than merely ‘likely to happen in the
+long run.’” Id.
+Here, the only available predicate constitutional violation for a Monell
+claim is the Plaintiff’s Fourteenth Amendment deliberate indifference claim
+against Defendant Page. The Plaintiff contends that discovery has revealed
+evidence about Defendant Page’s driving record, his prior on-duty vehicular
+accidents, and instances of his alleged misconduct, as well as evidence
+about Polk County’s decision to hire Defendant Page and its responses to
+his prior on-duty vehicular accidents and the crash at issue in this matter.
+[Doc. 48-1 at 6-11]. None of that evidence, however, would provide a
+sufficient basis for the Plaintiff to state a plausible Monell claim or § 1983
+supervisory liability claim against Polk County or Sheriff Wright based on
+Defendant Page’s alleged deliberate indifference, which concerns only
+Defendant Page’s actions regarding the Decedent’s medical needs after the
+Decedent’s vehicle collided with a tree. The Plaintiff has not identified an
+official policy, custom, or practice regarding treatment of medical needs, nor
+has the Plaintiff identified an official policy, custom or practice that has a
+sufficient causal connection to the alleged constitutional violation by
+Defendant Page.
+Case 1:24-cv-00037-MR Document 98 Filed 06/03/26 Page 13 of 1614
+Moreover, the Plaintiff filed his motion for leave to amend just twenty-
+two days prior to the then-scheduled dispositive motions deadline. This is
+far too late. The Court dismissed nine of the claims in the Plaintiff’sAmended
+Complaint more than a year prior to the instant motion for leave to amend.
+Those claims were dismissed pursuant to Rule 12(b)(6) because they were
+not plausibly pled. The Plaintiff now contends that discovery uncovered
+evidence supporting those claims. The fact that the Plaintiff went fishing for
+evidence regarding dismissed claims, however, does not rehabilitate the
+Plaintiff’s failure to plausibly present allegations supporting those claims.
+Instead, it merely shows that the Plaintiff failed to do adequate pre-filing
+investigation and filed suit without a sufficient understanding of his own case.
+Accordingly, the Court will deny both the Plaintiff’s motion for relief from
+judgment, which the Court has construed as a motion for reconsideration,
+and the Plaintiff’s motion for leave to amend, as the motion is untimely and,
+in any event, such amendment would be futile. The Plaintiff’s case proceeds
+only on the Plaintiff’s deliberate indifference claim against Defendant Page
+in his individual capacity and the Plaintiff’s corresponding claim for punitive
+damages.
+Case 1:24-cv-00037-MR Document 98 Filed 06/03/26 Page 14 of 1615
+IV. CONCLUSION
+Having considered the Plaintiff’s characterization of the additional
+evidence revealed during discovery, the Court reaffirms its prior dismissal of
+the Plaintiff’s Monell claim and will deny the Plaintiff’s motion. The Court
+further admonishes the Plaintiff’s counsel to comply with the Court’s rules
+regarding conferral and will direct the Plaintiff’s counsel to show cause as to
+why she should not be sanctioned for violating the Court’s Standing Order.
+O R D E R
+IT IS, THEREFORE, ORDERED that the Plaintiff’s Motion for Relief
+from Judgment Pursuant to Federal Rule of Civil Procedure 59(e), or, in the
+Alternative, 60(b)(2) and 60(b)(6), and for Leave to File Third Amended
+Complaint is hereby DENIED. The Plaintiff’s case will proceed only on the
+Plaintiff’s deliberate indifference claim against Defendant Page in his
+individual capacity and the Plaintiff’s corresponding claim for punitive
+damages.
+IT IS FURTHER ORDERED that within fourteen (14) days of entry of
+this Order the Plaintiff’s counsel is hereby DIRECTED TO SHOW CAUSE in
+writing as to why she should not be sanctioned for failure to comply with the
+Court’s Standing Order Regarding the Use of Artificial Intelligence.
+Case 1:24-cv-00037-MR Document 98 Filed 06/03/26 Page 15 of 1616
+IT IS SO ORDERED. Signed: June 3, 2026
+Case 1:24-cv-00037-MR Document 98 Filed 06/03/26 Page 16 of 16

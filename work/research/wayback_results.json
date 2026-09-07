@@ -1,0 +1,294 @@
+{
+  "https://opinions.arcourts.gov/ark/supremecourt/en/523724/1/document.do": {
+    "source_url": "https://opinions.arcourts.gov/ark/supremecourt/en/523724/1/document.do",
+    "attempted": true,
+    "save_status": 200,
+    "archive_url": "https://web.archive.org/web/20250624154249/https://opinions.arcourts.gov/ark/supremecourt/en/523724/1/document.do",
+    "error": null
+  },
+  "https://opinions.arcourts.gov/ark/supremecourt/en/523726/1/document.do": {
+    "source_url": "https://opinions.arcourts.gov/ark/supremecourt/en/523726/1/document.do",
+    "attempted": true,
+    "save_status": null,
+    "archive_url": "https://web.archive.org/web/20250624164842/https://opinions.arcourts.gov/ark/supremecourt/en/523726/1/document.do",
+    "error": "HTTPError: HTTP Error 429: TOO MANY REQUESTS"
+  },
+  "https://opinions.arcourts.gov/ark/supremecourt/en/524043/1/document.do": {
+    "source_url": "https://opinions.arcourts.gov/ark/supremecourt/en/524043/1/document.do",
+    "attempted": true,
+    "save_status": null,
+    "archive_url": null,
+    "error": "HTTPError: HTTP Error 429: TOO MANY REQUESTS"
+  },
+  "https://opinions.arcourts.gov/ark/supremecourt/en/524044/1/document.do": {
+    "source_url": "https://opinions.arcourts.gov/ark/supremecourt/en/524044/1/document.do",
+    "attempted": true,
+    "save_status": 200,
+    "archive_url": "https://web.archive.org/web/20260907215115/https://opinions.arcourts.gov/ark/supremecourt/en/524044/1/document.do",
+    "error": null
+  },
+  "https://www.oscn.net/applications/oscn/deliverdocument.asp?citeid=551159": {
+    "source_url": "https://www.oscn.net/applications/oscn/deliverdocument.asp?citeid=551159",
+    "attempted": true,
+    "save_status": null,
+    "archive_url": "https://web.archive.org/web/20260220102219/https://www.oscn.net/applications/oscn/deliverdocument.asp?citeid=551159",
+    "error": "HTTPError: HTTP Error 429: TOO MANY REQUESTS"
+  },
+  "https://courts.delaware.gov/forms/download.aspx?id=266848": {
+    "source_url": "https://courts.delaware.gov/forms/download.aspx?id=266848",
+    "attempted": true,
+    "save_status": null,
+    "archive_url": "https://web.archive.org/web/20241022201623/https://courts.delaware.gov/forms/download.aspx?id=266848",
+    "error": "HTTPError: HTTP Error 429: TOO MANY REQUESTS"
+  },
+  "https://ilcourtsaudio.blob.core.windows.net/antilles-resources/resources/e43964ab-8874-4b7a-be4e-63af019cb6f7/Illinois%20Supreme%20Court%20AI%20Policy.pdf": {
+    "source_url": "https://ilcourtsaudio.blob.core.windows.net/antilles-resources/resources/e43964ab-8874-4b7a-be4e-63af019cb6f7/Illinois%20Supreme%20Court%20AI%20Policy.pdf",
+    "attempted": true,
+    "save_status": null,
+    "archive_url": "https://web.archive.org/web/20241218165948/https://ilcourtsaudio.blob.core.windows.net/antilles-resources/resources/e43964ab-8874-4b7a-be4e-63af019cb6f7/Illinois%20Supreme%20Court%20AI%20Policy.pdf",
+    "error": "HTTPError: HTTP Error 429: TOO MANY REQUESTS"
+  },
+  "https://www.txcourts.gov/media/1462936/269054.pdf": {
+    "source_url": "https://www.txcourts.gov/media/1462936/269054.pdf",
+    "attempted": true,
+    "save_status": null,
+    "archive_url": null,
+    "error": "URLError: <urlopen error [Errno 61] Connection refused>",
+    "cdx_error": "URLError: <urlopen error [Errno 61] Connection refused>"
+  },
+  "https://www.ded.uscourts.gov/sites/ded/files/opinions/20-613_5.pdf": {
+    "source_url": "https://www.ded.uscourts.gov/sites/ded/files/opinions/20-613_5.pdf",
+    "attempted": true,
+    "save_status": null,
+    "archive_url": null,
+    "error": "URLError: <urlopen error [Errno 61] Connection refused>",
+    "cdx_error": "URLError: <urlopen error [Errno 61] Connection refused>"
+  },
+  "https://www.govinfo.gov/content/pkg/USCOURTS-cand-3_24-cv-05417/pdf/USCOURTS-cand-3_24-cv-05417-0.pdf": {
+    "source_url": "https://www.govinfo.gov/content/pkg/USCOURTS-cand-3_24-cv-05417/pdf/USCOURTS-cand-3_24-cv-05417-0.pdf",
+    "attempted": true,
+    "save_status": null,
+    "archive_url": null,
+    "error": "URLError: <urlopen error [Errno 61] Connection refused>",
+    "cdx_error": "URLError: <urlopen error [Errno 61] Connection refused>"
+  },
+  "https://www.govinfo.gov/content/pkg/USCOURTS-cand-3_23-cv-03417/pdf/USCOURTS-cand-3_23-cv-03417-37.pdf": {
+    "source_url": "https://www.govinfo.gov/content/pkg/USCOURTS-cand-3_23-cv-03417/pdf/USCOURTS-cand-3_23-cv-03417-37.pdf",
+    "attempted": true,
+    "save_status": null,
+    "archive_url": null,
+    "error": "URLError: <urlopen error [Errno 61] Connection refused>",
+    "cdx_error": "URLError: <urlopen error [Errno 61] Connection refused>"
+  },
+  "https://media.cadc.uscourts.gov/opinions/docs/2025/03/23-5233.pdf": {
+    "source_url": "https://media.cadc.uscourts.gov/opinions/docs/2025/03/23-5233.pdf",
+    "attempted": true,
+    "save_status": null,
+    "archive_url": null,
+    "error": "URLError: <urlopen error [Errno 61] Connection refused>",
+    "cdx_error": "URLError: <urlopen error [Errno 61] Connection refused>"
+  },
+  "https://media.ca7.uscourts.gov/cgi-bin/OpinionsWeb/processWebInputExternal.pl?Submit=Display&Path=Y2026/D08-25/C:25-1354:J:Lee:autconi:T:fnOp:N:3597567:S:0": {
+    "source_url": "https://media.ca7.uscourts.gov/cgi-bin/OpinionsWeb/processWebInputExternal.pl?Submit=Display&Path=Y2026/D08-25/C:25-1354:J:Lee:autconi:T:fnOp:N:3597567:S:0",
+    "attempted": true,
+    "save_status": null,
+    "archive_url": "https://web.archive.org/web/20260826150534/https://media.ca7.uscourts.gov/cgi-bin/OpinionsWeb/processWebInputExternal.pl?Submit=Display&Path=Y2026/D08-25/C:25-1354:J:Lee:autconi:T:fnOp:N:3597567:S:0",
+    "error": "TimeoutError: The read operation timed out"
+  },
+  "https://ecf.dcd.uscourts.gov/cgi-bin/show_public_doc?2023cr0309-148": {
+    "source_url": "https://ecf.dcd.uscourts.gov/cgi-bin/show_public_doc?2023cr0309-148",
+    "attempted": true,
+    "save_status": null,
+    "archive_url": null,
+    "error": "HTTPError: HTTP Error 429: TOO MANY REQUESTS",
+    "cdx_error": "TimeoutError: The read operation timed out"
+  },
+  "https://www.supremecourt.ohio.gov/rod/docs/pdf/1/2026/2026-Ohio-3371.pdf": {
+    "source_url": "https://www.supremecourt.ohio.gov/rod/docs/pdf/1/2026/2026-Ohio-3371.pdf",
+    "attempted": true,
+    "save_status": null,
+    "archive_url": null,
+    "error": "HTTPError: HTTP Error 523: UNKNOWN",
+    "cdx_error": "TimeoutError: The read operation timed out"
+  },
+  "https://cdn.ca9.uscourts.gov/datastore/opinions/2026/08/24/25-3366.pdf": {
+    "source_url": "https://cdn.ca9.uscourts.gov/datastore/opinions/2026/08/24/25-3366.pdf",
+    "attempted": true,
+    "save_status": null,
+    "archive_url": null,
+    "error": "URLError: <urlopen error [Errno 61] Connection refused>",
+    "cdx_error": "URLError: <urlopen error [Errno 61] Connection refused>"
+  },
+  "http://www.nycourts.gov/reporter/current/3dseries/2026/2026_04580.shtml": {
+    "source_url": "http://www.nycourts.gov/reporter/current/3dseries/2026/2026_04580.shtml",
+    "attempted": true,
+    "save_status": null,
+    "archive_url": null,
+    "error": "URLError: <urlopen error [Errno 61] Connection refused>",
+    "cdx_error": "URLError: <urlopen error [Errno 61] Connection refused>"
+  },
+  "https://flcourts-media.flcourts.gov/content/download/2492720/opinion/Opinion_2024-1368.pdf": {
+    "source_url": "https://flcourts-media.flcourts.gov/content/download/2492720/opinion/Opinion_2024-1368.pdf",
+    "attempted": true,
+    "save_status": null,
+    "archive_url": null,
+    "error": "URLError: <urlopen error [Errno 61] Connection refused>",
+    "cdx_error": "URLError: <urlopen error [Errno 61] Connection refused>"
+  },
+  "http://www.nycourts.gov/reporter/current/3dseries/2026/2026_03905.shtml": {
+    "source_url": "http://www.nycourts.gov/reporter/current/3dseries/2026/2026_03905.shtml",
+    "attempted": true,
+    "save_status": null,
+    "archive_url": null,
+    "error": "HTTPError: HTTP Error 429: TOO MANY REQUESTS",
+    "cdx_error": "URLError: <urlopen error [Errno 61] Connection refused>"
+  },
+  "https://www.iowacourts.gov/courtcases/26743/embed/CourtAppealsOpinion": {
+    "source_url": "https://www.iowacourts.gov/courtcases/26743/embed/CourtAppealsOpinion",
+    "attempted": true,
+    "save_status": null,
+    "archive_url": null,
+    "error": "URLError: <urlopen error [Errno 61] Connection refused>",
+    "cdx_error": "URLError: <urlopen error [Errno 61] Connection refused>"
+  },
+  "https://public.courts.in.gov/Decisions/api/Document/Opinion?Id=uoSKh2ZTbRrLwSerm_bxyrjR0VR0LYNez_3P-mhIJOQx9d2zt4ATxguguKw5REq20": {
+    "source_url": "https://public.courts.in.gov/Decisions/api/Document/Opinion?Id=uoSKh2ZTbRrLwSerm_bxyrjR0VR0LYNez_3P-mhIJOQx9d2zt4ATxguguKw5REq20",
+    "attempted": true,
+    "save_status": null,
+    "archive_url": null,
+    "error": "URLError: <urlopen error [Errno 61] Connection refused>",
+    "cdx_error": "URLError: <urlopen error [Errno 61] Connection refused>"
+  },
+  "https://www.supremecourt.ohio.gov/rod/docs/pdf/7/2026/2026-Ohio-2993.pdf": {
+    "source_url": "https://www.supremecourt.ohio.gov/rod/docs/pdf/7/2026/2026-Ohio-2993.pdf",
+    "attempted": true,
+    "save_status": null,
+    "archive_url": null,
+    "error": "URLError: <urlopen error [Errno 61] Connection refused>",
+    "cdx_error": "URLError: <urlopen error [Errno 61] Connection refused>"
+  },
+  "https://www.supremecourt.ohio.gov/rod/docs/pdf/12/2026/2026-Ohio-2862.pdf": {
+    "source_url": "https://www.supremecourt.ohio.gov/rod/docs/pdf/12/2026/2026-Ohio-2862.pdf",
+    "attempted": true,
+    "save_status": null,
+    "archive_url": null,
+    "error": "URLError: <urlopen error [Errno 61] Connection refused>",
+    "cdx_error": "URLError: <urlopen error [Errno 61] Connection refused>"
+  },
+  "https://www.supremecourt.ohio.gov/rod/docs/pdf/11/2026/2026-Ohio-2769.pdf": {
+    "source_url": "https://www.supremecourt.ohio.gov/rod/docs/pdf/11/2026/2026-Ohio-2769.pdf",
+    "attempted": true,
+    "save_status": null,
+    "archive_url": null,
+    "error": "URLError: <urlopen error [Errno 61] Connection refused>",
+    "cdx_error": "URLError: <urlopen error [Errno 61] Connection refused>"
+  },
+  "https://flcourts-media.flcourts.gov/content/download/2492962/opinion/Opinion_2025-2986.pdf": {
+    "source_url": "https://flcourts-media.flcourts.gov/content/download/2492962/opinion/Opinion_2025-2986.pdf",
+    "attempted": true,
+    "save_status": null,
+    "archive_url": null,
+    "error": "URLError: <urlopen error [Errno 61] Connection refused>"
+  },
+  "https://efast.gaappeals.gov/download?filingId=33effe0f-f312-412d-aaae-4ceaee6d5229": {
+    "source_url": "https://efast.gaappeals.gov/download?filingId=33effe0f-f312-412d-aaae-4ceaee6d5229",
+    "attempted": true,
+    "save_status": 200,
+    "archive_url": "https://web.archive.org/web/20260907215437/https://efast.gaappeals.gov/download?filingId=33effe0f-f312-412d-aaae-4ceaee6d5229",
+    "error": null
+  },
+  "https://guamcourts.gov/sites/default/files/SupremeCourtOpinions/2026%20Guam%205.pdf": {
+    "source_url": "https://guamcourts.gov/sites/default/files/SupremeCourtOpinions/2026%20Guam%205.pdf",
+    "attempted": true,
+    "save_status": null,
+    "archive_url": null,
+    "error": "URLError: <urlopen error [Errno 61] Connection refused>",
+    "cdx_error": "URLError: <urlopen error [Errno 61] Connection refused>"
+  },
+  "https://flcourts-media.flcourts.gov/content/download/2494385/opinion/Opinion_2025-2209.pdf": {
+    "source_url": "https://flcourts-media.flcourts.gov/content/download/2494385/opinion/Opinion_2025-2209.pdf",
+    "attempted": true,
+    "save_status": 200,
+    "archive_url": "https://web.archive.org/web/20260907215457/https://flcourts-media.flcourts.gov/content/download/2494385/opinion/Opinion_2025-2209.pdf",
+    "error": null
+  },
+  "https://www.iowacourts.gov/courtcases/26168/embed/CourtAppealsOpinion": {
+    "source_url": "https://www.iowacourts.gov/courtcases/26168/embed/CourtAppealsOpinion",
+    "attempted": true,
+    "save_status": 200,
+    "archive_url": "https://web.archive.org/web/20260907215503/https://www.iowacourts.gov/courtcases/26168/embed/CourtAppealsOpinion",
+    "error": null
+  },
+  "https://www.iowacourts.gov/courtcases/26716/embed/CourtAppealsOpinion": {
+    "source_url": "https://www.iowacourts.gov/courtcases/26716/embed/CourtAppealsOpinion",
+    "attempted": true,
+    "save_status": null,
+    "archive_url": null,
+    "error": "URLError: <urlopen error [Errno 61] Connection refused>",
+    "cdx_error": "URLError: <urlopen error [Errno 61] Connection refused>"
+  },
+  "https://ecf.mnd.uscourts.gov/cgi-bin/show_public_doc?2018cv1445-119": {
+    "source_url": "https://ecf.mnd.uscourts.gov/cgi-bin/show_public_doc?2018cv1445-119",
+    "attempted": true,
+    "save_status": null,
+    "archive_url": null,
+    "error": "URLError: <urlopen error [Errno 61] Connection refused>",
+    "cdx_error": "URLError: <urlopen error [Errno 61] Connection refused>"
+  },
+  "https://www.ftc.gov/system/files/ftc_gov/pdf/2323042_donotpay_decision_and_order_0.pdf": {
+    "source_url": "https://www.ftc.gov/system/files/ftc_gov/pdf/2323042_donotpay_decision_and_order_0.pdf",
+    "attempted": true,
+    "save_status": null,
+    "archive_url": null,
+    "error": "URLError: <urlopen error [Errno 61] Connection refused>",
+    "cdx_error": "URLError: <urlopen error [Errno 61] Connection refused>"
+  },
+  "https://www.govinfo.gov/content/pkg/USCOURTS-cand-3_23-cv-01692/pdf/USCOURTS-cand-3_23-cv-01692-0.pdf": {
+    "source_url": "https://www.govinfo.gov/content/pkg/USCOURTS-cand-3_23-cv-01692/pdf/USCOURTS-cand-3_23-cv-01692-0.pdf",
+    "attempted": true,
+    "save_status": null,
+    "archive_url": null,
+    "error": "URLError: <urlopen error [Errno 61] Connection refused>",
+    "cdx_error": "URLError: <urlopen error [Errno 61] Connection refused>"
+  },
+  "https://www.govinfo.gov/content/pkg/USCOURTS-ilsd-3_23-cv-00863/pdf/USCOURTS-ilsd-3_23-cv-00863-0.pdf": {
+    "source_url": "https://www.govinfo.gov/content/pkg/USCOURTS-ilsd-3_23-cv-00863/pdf/USCOURTS-ilsd-3_23-cv-00863-0.pdf",
+    "attempted": true,
+    "save_status": null,
+    "archive_url": null,
+    "error": "URLError: <urlopen error [Errno 61] Connection refused>",
+    "cdx_error": "URLError: <urlopen error [Errno 61] Connection refused>"
+  },
+  "https://ecf.cand.uscourts.gov/": {
+    "source_url": "https://ecf.cand.uscourts.gov/",
+    "attempted": true,
+    "save_status": null,
+    "archive_url": null,
+    "error": "HTTPError: HTTP Error 429: TOO MANY REQUESTS",
+    "cdx_error": "URLError: <urlopen error [Errno 61] Connection refused>"
+  },
+  "https://blog.canlii.org/2026/03/20/announcement-regarding-settlement-between-canlii-and-caseway/": {
+    "source_url": "https://blog.canlii.org/2026/03/20/announcement-regarding-settlement-between-canlii-and-caseway/",
+    "attempted": true,
+    "save_status": null,
+    "archive_url": null,
+    "error": "URLError: <urlopen error [Errno 61] Connection refused>",
+    "cdx_error": "URLError: <urlopen error [Errno 61] Connection refused>"
+  },
+  "https://www.courdecassation.fr/decision/681c3dea1ca45fa20a739723": {
+    "source_url": "https://www.courdecassation.fr/decision/681c3dea1ca45fa20a739723",
+    "attempted": true,
+    "save_status": null,
+    "archive_url": null,
+    "error": "URLError: <urlopen error [Errno 61] Connection refused>",
+    "cdx_error": "URLError: <urlopen error [Errno 61] Connection refused>"
+  },
+  "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2020/I_ZR_113-20.pdf?__blob=publicationFile&v=1": {
+    "source_url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2020/I_ZR_113-20.pdf?__blob=publicationFile&v=1",
+    "attempted": true,
+    "save_status": null,
+    "archive_url": null,
+    "error": "HTTPError: HTTP Error 429: TOO MANY REQUESTS",
+    "cdx_error": "URLError: <urlopen error [Errno 61] Connection refused>"
+  }
+}

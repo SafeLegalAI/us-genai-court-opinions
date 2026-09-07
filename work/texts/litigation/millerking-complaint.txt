@@ -1,0 +1,1762 @@
+  Case 3:23-cv-00863-RJD Document 1 Filed 03/15/23 Page 1 of 40 Page ID #1
+
+
+
+
+                     IN THE UNITED STATES DISTRICT COURT
+                    FOR THE SOUTHERN DISTRICT OF ILLINOIS
+
+MILLERKING, LLC, on behalf of itself     )
+and all others similarly situated,       )
+                                         )    Case No. 23-cv-863
+             Plaintiff,                  )
+                                         )    JURY TRIAL DEMANDED
+      v.                                 )
+                                         )
+DONOTPAY, INC.,                          )
+                                         )
+             Defendant.                  )
+
+                           CLASS ACTION COMPLAINT
+   Case 3:23-cv-00863-RJD Document 1 Filed 03/15/23 Page 2 of 40 Page ID #2
+
+
+
+
+                                                    TABLE OF CONTENTS
+
+NATURE OF THE ACTION ......................................................................................................... 1
+
+THE PARTIES................................................................................................................................ 2
+
+JURISDICTION AND VENUE ..................................................................................................... 2
+
+FACTUAL ALLEGATIONS ......................................................................................................... 3
+
+          I.         States Regulate and Prohibit the Unauthorized Practice of Law ............................ 3
+
+          II.        DoNotPay Advertises and Provides Legal Services and Engages
+                     in the Practice of Law ............................................................................................. 5
+
+          III.       DoNotPay Touts Its Customer and Investor Growth ............................................ 19
+
+          IV.        DoNotPay’s Unlicensed Legal Services Cause Real-World Harm ...................... 20
+
+          V.         DoNotPay Willfully Ignores Warnings that it is Engaged in the
+                     Unauthorized Practice of Law and Continues Doing So Despite Promising
+                     to Stop ................................................................................................................... 22
+
+CLASS ALLEGATIONS ............................................................................................................. 23
+
+COUNT I:             Violation of the Lanham Act, 15 U.S.C. § 1125(a)(1)(a)
+                     False Affiliation, Connection, Association, Sponsorship, or
+                     Approval ............................................................................................................... 27
+
+COUNT II:            Violation of the Lanham Act, 15 U.S.C. § 1125(a)(1)(B)
+                     False Advertising .................................................................................................. 31
+
+COUNT III:           Violation of the Illinois Uniform Deceptive Trade Practices Act,
+                     815 ILCS 510/1 et seq........................................................................................... 33
+
+COUNT IV: Unauthorized Practice of Law in Illinois .............................................................. 35
+
+PRAYER FOR RELIEF ............................................................................................................... 37
+
+JURY DEMAND .......................................................................................................................... 38
+  Case 3:23-cv-00863-RJD Document 1 Filed 03/15/23 Page 3 of 40 Page ID #3
+
+
+
+
+       Plaintiff MillerKing, LLC (“MillerKing”), on behalf of itself and all others similarly
+
+situated, for its Class Action Complaint against Defendant DoNotPay, Inc. (“DoNotPay”), states
+
+as follows:
+
+                                  NATURE OF THE ACTION
+
+       1.      DoNotPay is a subscription service that purports to utilize artificial intelligence to
+
+provide a variety of legal services to its customers, including, among others, appealing parking
+
+tickets, drafting contracts, drafting demand letters, preparing estate planning documents,
+
+registering trademarks, preparing and filing lawsuits, and providing scripts to read in court.
+
+       2.      DoNotPay holds itself out as a “robot lawyer” and an “artificially intelligent robot
+
+attorney.” But DoNotPay is not a licensed attorney or law firm employing licensed attorneys.
+
+       3.      Every jurisdiction in the United States strictly regulates the practice of law and
+
+prohibits those without a legal license from engaging in the practice of law. Among other things,
+
+licensed attorneys must maintain their legal education, they are subject to a code of ethical conduct,
+
+and they are liable to clients, and insured, for professional malpractice.
+
+       4.      Dispensing legal advice without possessing the requisite expertise, competence,
+
+and licensure requirements causes, and predictably will continue to cause, irreparable harm to
+
+many citizens in need of legal services, and also infringes on the rights of law firms employing
+
+those who are properly licensed—particularly small law firms whose services overlap with those
+
+offered by DoNotPay.
+
+       5.      Despite numerous warnings from state bar associations that DoNotPay is
+
+improperly practicing law, and despite promises by DoNotPay months ago that it would
+
+“immediately” remove its legal services, DoNotPay continues to advertise and engage in the
+
+unauthorized practice of law.
+
+
+
+
+                                                  1
+  Case 3:23-cv-00863-RJD Document 1 Filed 03/15/23 Page 4 of 40 Page ID #4
+
+
+
+
+        6.      Accordingly, this lawsuit seeks relief for DoNotPay’s violations of the Lanham Act
+
+and the Illinois Uniform Deceptive Trade Practices Act, and all remedies available for the
+
+unauthorized practice of law.
+
+                                           THE PARTIES
+
+        7.      MillerKing is a law firm that is an Illinois limited liability company with its
+
+principal place of business in Illinois. Pursuant to 28 U.S.C. § 1332(d)(10), it is, therefore, a citizen
+
+of Illinois. MillerKing is and has been at all times relevant hereto duly authorized to practice law
+
+in Illinois.
+
+        8.      MillerKing has six attorneys licensed in Illinois. The firm advertises its services
+
+online and provides legal services across various practice areas including personal injury, wrongful
+
+death, family law, divorce law, child custody, criminal law, traffic law, estate planning, probate,
+
+workers’ compensation, business law, municipal law, and mediation.
+
+        9.      DoNotPay is a Delaware corporation with its principal place of business in
+
+California. It is, therefore, a citizen of Delaware and California.
+
+                                  JURISDICTION AND VENUE
+
+        10.     This Court has personal jurisdiction over Defendant because Defendant
+
+purposefully directs its activities at residents of Illinois and this litigation arises out of, or relates
+
+to, Defendant’s contacts with Illinois.
+
+        11.     Pursuant to 28 U.S.C. § 1331, this Court has original jurisdiction over Plaintiff’s
+
+claims arising under federal law. Pursuant to the Class Action Fairness Act, 28 U.S.C. § 1332(d),
+
+this Court has original jurisdiction over Plaintiff’s claims because members of the Class of
+
+plaintiffs are citizens of a State different from Defendant, the total claims of Class Members exceed
+
+$5,000,000 exclusive of interest and costs, and there are at least 100 Class Members. The Court
+
+has supplemental jurisdiction over Plaintiff’s state law claims pursuant to 28 U.S.C. § 1367.
+
+
+                                                    2
+     Case 3:23-cv-00863-RJD Document 1 Filed 03/15/23 Page 5 of 40 Page ID #5
+
+
+
+
+         12.    Venue is proper in this District pursuant to 28 U.S.C. § 1391(b) because a
+
+substantial part of the events giving rise to each claim occurred within this judicial district or
+
+because this Court has personal jurisdiction over Defendant.
+
+                                  FACTUAL ALLEGATIONS
+
+I.       States Regulate and Prohibit the Unauthorized Practice of Law.
+
+         13.    The practice of law is an area heavily regulated by States and their courts.
+
+         14.    For example, the State of Illinois, like other states, “requires minimum levels of
+
+education, training, and character before granting a license to practice law.” King v. First Cap.
+
+Fin. Servs. Corp., 828 N.E.2d 1155, 1162 (Ill. 2005).
+
+         15.    As in most states, before a person can sit for the Illinois bar exam, she must
+
+complete law school.1       To receive a license, the person must also complete a Multi-State
+
+Professional Responsibility Examination (MPRE), pass the bar exam, and pass a character and
+
+fitness determination.2
+
+         16.    The requirements continue after a lawyer receives a license. The lawyer must
+
+complete continuing education requirements and adhere to ethical standards to keep her license.
+
+         17.    Every State in the United States, plus the District of Columbia, regulates and
+
+prohibits the unauthorized practice of law, with civil penalties that can include contempt of court,
+
+injunctive relief, actual damages, civil fines, and some categorizing the offense as a misdemeanor
+
+or felony.
+
+
+1
+ This is true in all but seven states, four of which require certain work requirements in lieu of law
+school and three of which require a mix of law school and work. Two states allow degrees from
+certain law schools in lieu of a bar exam, and some states allow law students to take the bar exam
+when nearly finished with law school. See Am. Bar Assoc., Comprehensive Guide to Bar
+Admission Requirements 2021 (the “ABA Guide”) https://www.americanbar.org/content/
+dam/aba/publications/misc/legal_education/2021-comp-guide.pdf (last visited March 2, 2023).
+2
+    See ABA Guide at 5-6.
+
+
+                                                  3
+  Case 3:23-cv-00863-RJD Document 1 Filed 03/15/23 Page 6 of 40 Page ID #6
+
+
+
+
+        18.     For example, in Illinois, “[t]he power to regulate and define the practice of law is a
+
+prerogative of [the Illinois Supreme] court under the Illinois Constitution.” King, 828 N.E.2d at
+
+1162.
+
+        19.     The Illinois General Assembly also prohibits the unauthorized practice of law:
+
+                No person shall be permitted to practice as an attorney or counselor
+                at law within this State without having previously obtained a license
+                for that purpose from the Supreme Court of this State.
+
+                No person shall receive any compensation directly or indirectly for
+                any legal services other than a regularly licensed attorney, nor may
+                an unlicensed person advertise or hold himself or herself out to
+                provide legal services.
+
+705 ILCS 205/1.
+
+        20.     The statute allows for remedies that “include, but are not limited to” equitable relief
+
+and a civil penalty of $5,000 to be paid to the Illinois Equal Justice Foundation,” and explains that
+
+courts have an “inherent right . . . to restrain the unauthorized practice of law.” Id.
+
+        21.     The Illinois General Assembly has also made it “unlawful for a corporation to
+
+practice law . . . or to hold itself out to the public as being entitled to practice law or to render or
+
+furnish legal services or advice . . . or to render legal services of any kind in actions or proceedings
+
+of any nature or in any other way or manner to assume to be entitled to practice law, or to assume,
+
+use and advertise the title of lawyers or attorney, attorney at law, or equivalent terms in any
+
+language in such manner as to convey the impression that it is entitled to practice law, or to furnish
+
+legal advice . . . .” 705 ILCS 220/1. See also Ill. Sup. Ct. R. 721(c) (“No corporation, association,
+
+limited liability company, or registered limited liability partnership shall engage in the practice of
+
+law in Illinois, or open or maintain an establishment for that purpose in Illinois, without a
+
+certificate of registration issued by [the Illinois Supreme] court.”).
+
+
+
+
+                                                   4
+     Case 3:23-cv-00863-RJD Document 1 Filed 03/15/23 Page 7 of 40 Page ID #7
+
+
+
+
+          22.    The purpose of requiring certain levels of education, training, and character prior
+
+to and after granting a license “is to protect the public from potential injury resulting from
+
+laypersons performing acts that require the training, knowledge, and responsibility of a licensed
+
+attorney.” King, 828 N.E.2d at 1162.
+
+          23.    “An unlicensed corporation dispensing legal advice without possessing the
+
+requisite expertise or competence is predictably apt to cause irreparable harm to many citizens, as
+
+well as to the judicial system itself.” Richard F. Mallen & Assocs. v. Myinjuryclaim.com Corp.,
+
+769 N.E.2d 74, 76 (Ill. App. Ct. 2002).
+
+          24.    “Because the practice of law by an entity not licensed constitutes an infringement
+
+upon the rights of those who are properly licensed, attorneys and law firms have standing to bring
+
+a cause of action for such unauthorized practice.” Id.
+
+II.       DoNotPay Advertises and Provides Legal Services and Engages in the Practice of
+          Law.
+
+          25.    In its advertising and promotion, DoNotPay holds itself out as “The World’s First
+
+Robot Lawyer.” As shown in the screenshots below, the home page of DoNotPay’s website3 touts
+
+its app as “the home of the world’s first robot lawyer.” DoNotPay represents to potential
+
+consumers that it allows people to “[f]ight corporations, beat bureaucracy and sue anyone at the
+
+press of a button.”
+
+
+
+
+3
+    https://donotpay.com/ (last visited March 15, 2023).
+
+
+                                                  5
+  Case 3:23-cv-00863-RJD Document 1 Filed 03/15/23 Page 8 of 40 Page ID #8
+
+
+
+
+       26.     DoNotPay is a subscription service, whereby the customer must provide bank
+
+account or credit card information to pay a fixed price (currently $36 for two months of service),
+
+which automatically renews, as shown in the following screenshot.
+
+
+
+
+       27.     The homepage for DoNotPay lists numerous legal services that the “robot lawyer”
+
+provides, including the following:
+
+               •      “Annul My Marriage”
+               •      “Appeal Parking Tickets in Any City”
+               •      “Appeal Speeding Tickets”
+               •      “Appeal Toll Booth Tickets”
+               •      “Breach of Contract”
+               •      “Break My Lease”
+               •      “Cancel Timeshares”
+
+
+
+                                                6
+    Case 3:23-cv-00863-RJD Document 1 Filed 03/15/23 Page 9 of 40 Page ID #9
+
+
+
+
+               •       “Casino Taxes”
+               •       “Child Support Payments”
+               •       “Copyright Protection”
+               •       “Create a Power of Attorney”
+               •       “Defamation Demand Letters”
+               •       “Dispute Seatbelt Tickets”
+               •       “Dispute Traffic Tickets”
+               •       “Divorce Settlement Agreement”
+               •       “Fight Workplace Discrimination”
+               •       “File a Complaint Against Any Company”
+               •       “File a Restraining Order”
+               •       “HOA Fines and Complaints”
+               •       “Landlord Protection”
+               •       “Reducing Property Taxes”
+               •       “Release of Liability”
+               •       “Remove My Lien”
+               •       “Revocable Living Trust”
+               •       “Standardized Legal Documents”
+               •       “Sue Anyone in Small Claims Court”
+               •       “Trademark Registration”
+
+       28.     DoNotPay does not simply offer information about these legal areas. Instead, it
+
+offers to perform legal work personalized for each person’s situation and state laws.
+
+       29.     DoNotPay’s website purports to offer an “artificially intelligent robot attorney” and
+
+explains that is “uses artificial intelligence to provide legal assistance instead of the usual human
+
+knowledge.”4
+
+
+
+
+4
+  https://donotpay.com/learn/someone-owes-me-money/; https://donotpay.com/learn/legalzoom-
+divorce-review/ (last visited March 10, 2023).
+
+
+                                                   7
+    Case 3:23-cv-00863-RJD Document 1 Filed 03/15/23 Page 10 of 40 Page ID #10
+
+
+
+
+         30.     DoNotPay’s homepage advertises that its robot attorney will not just provide
+
+information about these matters, but that it will work on these matters “behind the scenes.”
+
+
+
+
+         31.     Each category of services advertised on DoNotPay’s homepage listed in paragraph
+
+27 above leads to additional webpages in which DoNotPay advertises specific legal services
+
+provided by the “Robot Lawyer”.
+
+         32.     For example, clicking “Standardized Legal Documents” leads to a DoNotPay
+
+webpage with a heading of “Top Resources” and numerous additional links below the heading.
+
+The first link under “Top Resources” at the top of the screen is a webpage titled “The Best Contract
+
+Template at Your Disposal.”5
+
+         33.     Clicking on that link leads to a page that offers much more than a simple contract
+
+template. And DoNotPay is explicit about this, stating the customer can “Use DoNotPay to Make
+
+Personalized Contracts.” Likewise, after providing information about various types of contracts,
+
+DoNotPay states: “If all that you have read so far about contracts and contract forms makes you
+
+feel a bit overwhelmed, we’ve got some good news for you! You don’t have to waste time with
+
+unreliable legal document samples or templates. With DoNotPay, you can easily generate a
+
+personalized contract.”
+
+
+
+
+5
+    https://donotpay.com/learn/standardized-legal-documents/ (last visited March 14, 2023).
+
+
+                                                 8
+ Case 3:23-cv-00863-RJD Document 1 Filed 03/15/23 Page 11 of 40 Page ID #11
+
+
+
+
+       34.   The webpage also lists a variety of legal documents that DoNotPay offers to
+
+generate:
+
+
+
+
+                                           9
+    Case 3:23-cv-00863-RJD Document 1 Filed 03/15/23 Page 12 of 40 Page ID #12
+
+
+
+
+         35.     Clicking on the “Non-Compete Agreement” link shown above leads to another
+
+webpage titled “Everything About the Non-Compete Agreement.”6            The webpage provides
+
+generalized information about non-compete agreements. Near the end of the page, DoNotPay
+
+states: “The simplest way to draw up a non-compete agreement is with DoNotPay” and advertises
+
+that the Robot Lawyer will create a document “personalized to your needs” that “will become
+
+official once all parties sign it or notarize it.”
+
+
+
+
+6
+    https://donotpay.com/learn/non-compete-agreement/ (last visited March 8, 2023).
+
+
+                                                     10
+ Case 3:23-cv-00863-RJD Document 1 Filed 03/15/23 Page 13 of 40 Page ID #13
+
+
+
+
+       36.    The webpage goes on to advertise additional types of contracts that DoNotPay “can
+
+help you draw up.”
+
+
+
+
+                                             11
+    Case 3:23-cv-00863-RJD Document 1 Filed 03/15/23 Page 14 of 40 Page ID #14
+
+
+
+
+         37.     Clicking on the “Residential Lease Agreement” link above leads to a webpage7 in
+
+which DoNotPay advertises that it will “draw up a detailed lease contract” without the user having
+
+to “waste money on a lawyer”; that it “will adjust your contract to the state’s laws”: and it “will
+
+generate a personalized lease ready for your and your tenant’s signature” in “any American state,
+
+including Florida, Texas, and California.”
+
+
+
+
+7
+    https://donotpay.com/learn/lease-agreement/ (last visited March 8, 2023).
+
+
+                                                 12
+    Case 3:23-cv-00863-RJD Document 1 Filed 03/15/23 Page 15 of 40 Page ID #15
+
+
+
+
+         38.     Immediately above this portion of the webpage is a picture of a Tweet by
+
+DoNotPay’s founder and CEO, Joshua Browder, decrying that lawyers have to be involved to draft
+
+“a simple legal document” and touting that DoNotPay can “generate over 30 types of legal
+
+documents automatically.”
+
+
+
+
+         39.     DoNotPay likewise advertises that “[s]ince lawyers are too expensive,” its robot
+
+lawyer can draft a “personalized” durable power of attorney “according to your state laws and
+
+personal requirements.”8
+
+
+
+
+8
+    https://donotpay.com/learn/durable-power-of-attorney/ (last visited March 8, 2023).
+
+
+                                                 13
+    Case 3:23-cv-00863-RJD Document 1 Filed 03/15/23 Page 16 of 40 Page ID #16
+
+
+
+
+          40.    DoNotPay’s advertised services are not limited to drafting legal documents.
+
+Elsewhere on its website, DoNotPay advertises that it will “provid[e] you with the best advice on
+
+[property tax] appeal procedures”9 and also “create a property tax guide customized to your needs”
+
+so that “[a]ll you need to do now is wait for your personalized guide to arrive.”10
+
+
+9
+    https://donotpay.com/learn/property-tax-appeal/ (last visited March 9, 2023).
+10
+     https://donotpay.com/learn/illinois-property-tax-appeal/ (last visited March 9, 2023).
+
+
+                                                  14
+ Case 3:23-cv-00863-RJD Document 1 Filed 03/15/23 Page 17 of 40 Page ID #17
+
+
+
+
+           41.   DoNotPay also advertises that it can provide advice on how to appeal traffic tickets
+
+“in any city,” and promotes this service with examples of how it can dispute tickets in specific
+
+cities, such as Chicago, Illinois.11
+
+
+
+
+                                                 ****
+
+
+
+
+           42.   DoNotPay’s website advises that “[i]t is always worth disputing your ticket because
+
+by doing so, you can either eliminate or reduce your fine,” and it states that “[w]ith DoNotPay,
+
+your chances of beating it are even higher.” DoNotPay also advertises that it provides “arguments
+
+that work for most parking ticket disputes.”12
+
+
+
+
+11
+     https://donotpay.com/learn/chicago-parking-tickets/ (last visited March 6, 2023).
+12
+     Id.
+
+
+                                                  15
+ Case 3:23-cv-00863-RJD Document 1 Filed 03/15/23 Page 18 of 40 Page ID #18
+
+
+
+
+         43.    The same webpage states that, DoNotPay’s “‘Robot lawyer’ fights parking tickets”
+
+and with DoNotPay, “it is not necessary” to hire a lawyer to appeal parking tickets.
+
+
+
+
+         44.    DoNotPay also advertises that it provides legal services to initiate litigation and
+
+obtain a judgment, and that it can “assist with all your legal needs” in “small claims and more.” It
+
+states further that “DoNotPay offers you the help of the world’s first artificial intelligence (AI)
+
+lawyer” that “guides you through the process of filing a court case with the specific documents
+
+you need to get you on your way to a favorable judgment.”13
+
+
+
+
+13
+     https://donotpay.com/learn/someone-owes-me-money/ (last visited March 14, 2023).
+
+
+                                                16
+ Case 3:23-cv-00863-RJD Document 1 Filed 03/15/23 Page 19 of 40 Page ID #19
+
+
+
+
+          45.    DoNotPay has numerous webpages about how DoNotPay can sue specific entities
+
+in small claims court. It advertises that these services include DoNotPay “generat[ing] a perfectly
+
+composed demand letter”; “fill[ing] out the correct forms to submit to your local small claims court
+
+. . . [with] the correct number of copies”; “tell[ing] you how to [serve the defendant] in accordance
+
+with your local court’s rules”; providing a “script to state your case in court”; and “giv[ing] you
+
+instructions for every eventuality.”14
+
+
+
+
+14
+     https://donotpay.com/learn/comcast-lawsuit/ (last visited March 6, 2023).
+
+
+                                                 17
+ Case 3:23-cv-00863-RJD Document 1 Filed 03/15/23 Page 20 of 40 Page ID #20
+
+
+
+
+          46.    To a subscriber seeking to file a lawsuit for over $500, DoNotPay states it “can
+
+generate demand letters, court filings and give you a script to read in court.”
+
+
+
+
+          47.    In a Bloomberg interview posted on DoNotPay’s website, DoNotPay’s founder and
+
+CEO Browder explained that the legal advice and services provided “isn’t rocket science.”15
+
+          48.    In another video posted at the top of the “About” DoNotPay website, Browder
+
+stated that one of the goals of DoNot Pay is “to be like the general counsel for the consumer and
+
+fight back against these issues.”16 Elsewhere, Browder has also asserted DoNotPay is “trying to
+
+be a general counsel for all.”
+
+          49.    In January 2023, Browder stated in an interview that “for years, we’ve represented
+
+people over letters, sending angry letters to companies, and getting people out of tickets.”
+
+          50.    In January 2023, Browder touted that DoNotPay’s “robot lawyer” would represent
+
+someone in a courtroom, though Browder would not disclose what case or courtroom so that the
+
+
+15
+     https://donotpay.com/about/ (last visited March 10, 2023).
+16
+     Id.
+
+
+                                                 18
+ Case 3:23-cv-00863-RJD Document 1 Filed 03/15/23 Page 21 of 40 Page ID #21
+
+
+
+
+judge could not prohibit the conduct. Browder also explained that DoNotPay had sent out a
+
+subpoena, presumably as the defendant’s “robot lawyer”.
+
+
+
+
+III.      DoNotPay Touts Its Customer and Investor Growth.
+
+          51.    DoNotPay’s commercial advertising and promotion has worked.
+
+          52.    DoNotPay’s website repeats an assertion in a 2016 Newsweek article that
+
+DoNotPay had taken on 250,000 parking ticket cases, and in two years overturned $4 million in
+
+parking ticket fines in 160,000 of them.17 It repeats this headline from other news organization on
+
+other of its webpages18:
+
+
+
+
+          53.    DoNotPay’s website omits that these figures were provided by Browder himself.19
+
+
+17
+     https://donotpay.com/learn/daly-city-parking-ticket/ (last visited March 6, 2023).
+18
+  See, e.g., https://donotpay.com/learn/chicago-parking-tickets/ (last visited March 14, 2023).
+19
+      See      https://www.theguardian.com/technology/2016/jun/28/chatbot-ai-lawyer-donotpay-
+parking-tickets-london-new-york (“Browder says DoNotPay has taken on 250,000 cases and won
+
+
+                                                  19
+ Case 3:23-cv-00863-RJD Document 1 Filed 03/15/23 Page 22 of 40 Page ID #22
+
+
+
+
+          54.     In 2017, Browder estimated that DoNotPay had successfully challenged 375,000
+
+parking tickets in three cities alone.
+
+          55.     DoNotPay’s metrics of “cases” and successful outcomes are questionable, as
+
+Browder explained in 2017 that his early counts of ticket appeals included all completed
+
+interactions with the bot and his success rate was based on a user poll followed by application of
+
+that “win” percentage to total interactions. Yet the website still touts these figures today.
+
+          56.     In a Bloomberg article posted on DoNotPay’s website, Browder also stated that
+
+“there are a lot of our users who make a lot of money by picking up the phone and suing the
+
+robocallers.”20
+
+          57.     By July 2021, DoNotPay had attracted numerous investors, doubled its valuation
+
+to about $210 million, and had approximately 250,000 subscribers.
+
+          58.     On June 20, 2022, Browder stated that DoNotPay had “initiated over 1,000 small
+
+claims lawsuits” against a single company in 42 different states.
+
+
+
+
+          59.     On January 23, 2023, Browder stated that “DoNotPay has processed over 2 million
+
+cases.”
+
+IV.       DoNotPay’s Unlicensed Legal Services Cause Real-World Harm.
+
+          60.     Several consumers who have used DoNotPay have posted accounts of their poor
+
+experience online. For example, one customer who used the service to dispute two parking tickets
+
+
+
+
+160,000, giving it a success rate of 64% appealing over $4m of parking tickets.”) (emphasis
+added).
+20
+     https://donotpay.com/about/ (last visited March 10, 2023).
+
+
+                                                 20
+ Case 3:23-cv-00863-RJD Document 1 Filed 03/15/23 Page 23 of 40 Page ID #23
+
+
+
+
+explained that no one actually responded to his tickets and his fines increased. Another customer
+
+who used the service to dispute a parking ticket explained that DoNotPay produced a document
+
+that admitted fault, which caused him to have to pay a fine. Another customer explained that some
+
+requested tasks are simply never completed or “just get ‘lost’ (this happened with 2 parking tickets.
+
+I filed them 8 months ago and it still shows as ‘pending’).”
+
+       61.        Likewise, far from generating a “perfectly composed demand letter” as promoted
+
+on DoNotPay’s website, one user who posted an online review uploaded the breach of contract
+
+demand letter produced by DoNotPay. According to this account, DoNotPay’s prompts did not
+
+ask any choice of law questions, conduct any statute of limitations analysis, or ask questions about
+
+payment preferences, and the demand letter, inter alia, used the terms “offer of services” and
+
+“performance of services” interchangeably, threatened a suit in small claims court despite a
+
+$17,000 demand exceeding the jurisdictional limit of small claims court, and stated the person was
+
+agreeable to a lump sum or payment plan, and sought 10% interest in a jurisdiction permitting
+
+12%.
+
+       62.        Other public examples of inadequate legal documents and services by DoNotPay
+
+include demand letters that go undelivered and which do not actually contain demands, and other
+
+contracts that have basic information, such as the names of the parties, printed inaccurately.
+
+       63.        These mistakes are likely to cause adverse legal effects. For example, undelivered
+
+demands or documents can create statute of limitations problems; the offering of a payment plan
+
+could prejudice a demander by delaying the period in which a failure to pay is deemed ripe; and if
+
+the jurisdiction governing a dispute does not permit a certain rate of interest, the mere act of
+
+seeking an unlawful amount of interest could expose the sender to civil or criminal liability under
+
+usury statutes.
+
+
+
+
+                                                  21
+ Case 3:23-cv-00863-RJD Document 1 Filed 03/15/23 Page 24 of 40 Page ID #24
+
+
+
+
+       64.     As of the end of January 2023, paying subscribers are not permitted to test the robot
+
+lawyer’s products before seeking help on a real legal problem. On or about January 27, 2023,
+
+DoNotPay updated its Terms of Service to prohibit subscribers from testing the service by included
+
+a provision that all submitted requests had to be for “authentic problem[s]”:
+
+               You represent that any dispute or request submitted is an authentic
+               problem you are having. You are responsible for any damages to
+               DoNotPay or others from disputes with fake or inauthentic
+               information, or from reselling our services.
+
+V.     DoNotPay Willfully Ignores Warnings that it is Engaged in the Unauthorized Practice
+       of Law and Continues Doing So Despite Promising to Stop.
+
+       65.     DoNotPay disregards the law’s licensure requirements, which, as set forth above,
+
+are intended to protect the public from potential injury resulting from laypersons performing acts
+
+that require the training, knowledge, and responsibility of a licensed attorney.
+
+       66.     As word of DoNotPay has grown, including by its publicity stunts of sneaking the
+
+robot lawyer into a courtroom, so too have complaints from States and bar organizations.
+
+       67.     According to Browder, “Multiple state bars have threatened [DoNotPay]”; “One
+
+even said a referral to the district attorney’s office and prosecution and prison time would be
+
+possible.”
+
+       68.     On January 25, 2023, Browder announced that DoNotPay would “postpone” its
+
+stunt of secretly utilizing the robot lawyer in court because of “threats from State Bar prosecutors”:
+
+
+
+
+                                                 22
+ Case 3:23-cv-00863-RJD Document 1 Filed 03/15/23 Page 25 of 40 Page ID #25
+
+
+
+
+           69.   According to Browder, “The letters have become so frequent that we thought it was
+
+just a distraction and that we should move on.”
+
+           70.   Browder also Tweeted on January 25, 2023, that “non-consumer rights legal
+
+products (e.g. defamation demand letters, divorce agreements and others) . . . are a distraction”
+
+and “[w]e are removing them from DoNotPay effective immediately, to focus solely on consumer
+
+rights.”
+
+           71.   On January 27, 2023, Browder stated that DoNotPay removed seven products
+
+including immigration, bankruptcy, divorce, child settlement agreements, and defamation demand
+
+letters.
+
+           72.   At some time after January 27, 2023, DoNotPay removed some content, such as its
+
+efforts to provide immigration and bankruptcy legal services, but not the other five listed above.21
+
+           73.   As of the date of this filing, DoNotPay continues to advertise and promote legal
+
+products and services including defamation demand letters, divorce certificates, divorce settlement
+
+agreements, and all the other categories of legal services identified in paragraph 27 above.
+
+                                      CLASS ALLEGATIONS
+
+           74.   Plaintiff brings this action on behalf of itself and all others similarly situated, as a
+
+representative of the following class (the “Class”):
+
+                 All law firms in the United States in existence during the Class
+                 Period.
+
+
+
+
+21
+  https://web.archive.org/web/20230127023724/https://donotpay.com/learn/certificate-of-
+naturalization/ (“If you’re worried about the length and complexity of the application process for
+a certificate of naturalization, rely on DoNotPay.”) (as of Jan. 27, 2023);
+https://web.archive.org/web/20230129053952/https://donotpay.com/learn/filing-for-bankruptcy/
+(“Let DoNotPay walk you through your bankruptcy options and help you determine whether a
+Chapter 7, Chapter 12, or Chapter 13 bankruptcy is right for you!”) (as of Jan. 29, 2023).
+
+
+                                                   23
+ Case 3:23-cv-00863-RJD Document 1 Filed 03/15/23 Page 26 of 40 Page ID #26
+
+
+
+
+          75.    Plaintiff brings this action on behalf of itself and all other similarly situated, as a
+
+representative of the following subclass (the “Subclass”):
+
+                 All law firms that, at any time during the Class Period, were
+                 registered with the Illinois Supreme Court to practice law in
+                 Illinois.22
+
+          76.    Excluded from the Class are counsel or law firms representing Plaintiff and
+
+Defendant, and the judges, court personnel, and jury in this case, and any members of their
+
+immediate families.
+
+          77.    Plaintiff reserves the right to amend or modify the Class definitions with greater
+
+specificity or division into subclasses after having had an opportunity to conduct discovery.
+
+          78.    The Class Period is that period within the statute of limitations for this action and
+
+extending until a Class is certified herein.
+
+          79.    The Class is certifiable under Fed. R. Civ. P. 23.
+
+          80.    Numerosity. The members of the Class are so numerous that joinder of all
+
+members is impractical.
+
+          81.    Typicality. Plaintiff’s claims are typical of the claims of the Class Members.
+
+Plaintiff and all Class Members have had their rights violated based on Defendant’s conduct as set
+
+forth herein.
+
+          82.    Commonality and Predominance. There are questions of law and fact common
+
+to the Class, which predominate over any questions affecting individual members of the Class.
+
+These common questions of law and fact include, without limitation:
+
+                 a.      Whether Defendant, in connection with any goods or services, used
+                         words, terms, names, symbols, or devices, or any combination
+                         thereof, or any false or misleading description of fact, or false or
+                         misleading representation of fact, which is likely to cause confusion,
+                         or to cause mistake, or to deceive as to the affiliation, connection, or
+
+22
+     Unless otherwise indicated, the Class and Subclass are collectively referred to as the Class.
+
+
+                                                   24
+Case 3:23-cv-00863-RJD Document 1 Filed 03/15/23 Page 27 of 40 Page ID #27
+
+
+
+
+                association with another person, or as to the sponsorship, or
+                approval of the goods, services, or commercial activities by another
+                person;
+
+          b.    Whether any or all of Defendant’s statements described herein were
+                false or misleading statements of fact in a commercial advertisement
+                or promotion about Defendant’s own product;
+
+          c.    Whether the statement(s) described herein were material;
+
+          d.    Whether the statement(s) described herein actually deceived or had
+                the tendency to deceive Defendant’s customers;
+
+          e.    Whether the deception was material, in that it was likely to influence
+                the purchasing decision of Defendant’s customers;
+
+          f.    Whether Defendant caused the statement(s) to enter interstate
+                commerce;
+
+          g.    Whether Plaintiff and the Class have been or are likely to be injured
+                as a result of the confusing, mistaken, and/or deceptive affiliation,
+                connection, association, sponsorship, or approval, either by direct
+                diversion of sales from themselves to Defendant or by a lessening
+                of the goodwill associated with their goods and services;
+
+          h.    Whether Plaintiff and the Class have been or are likely to be injured
+                as a result of the false or misleading statement(s), either by direct
+                diversion of sales from themselves to Defendant or by a lessening
+                of the goodwill associated with their products;
+
+          i.    Whether Defendant represented that Defendant has a sponsorship,
+                approval, status, affiliation, or connection that it does not have;
+
+          j.    Whether Defendant represented that its goods or services are of a
+                particular standard, quality, or grade when they are of another;
+
+          k.    Whether Defendant disparages the goods, services, or business of
+                another by false or misleading representation of fact;
+
+          l.    Whether Defendant advertises its goods or services with intent not
+                to sell them as advertised;
+
+          m.    Whether Defendant engaged in other conduct that created a
+                likelihood of confusion or misunderstanding;
+
+          n.    Whether Plaintiff and the Subclass are likely to be damaged by
+                Defendant’s conduct;
+
+          o.    Whether Defendant’s conduct was willful;
+
+
+                                         25
+ Case 3:23-cv-00863-RJD Document 1 Filed 03/15/23 Page 28 of 40 Page ID #28
+
+
+
+
+                p.      Whether Defendant’s conduct constitutes the unauthorized practice
+                        of law;
+
+                q.      Whether Defendant’s profits should be disgorged, and in what
+                        amount; and
+
+                r.      Whether Defendant’s conduct should be enjoined.
+
+        83.     Adequacy. Plaintiff is a member of the Class and Subclass it seeks to represent,
+
+committed to the vigorous prosecution of this action, and has retained competent counsel
+
+experienced in the prosecution of class actions. Plaintiff has no conflicts of interest with other class
+
+members and is an adequate representative that will fairly and adequately protect the interests of
+
+the Class and Subclass.
+
+        84.     Superiority. A class action is a superior method for the fair and efficient
+
+adjudication of the controversy. Because the amount of each individual Class member’s claim is
+
+small relative to the complexity of the litigation, Class members are unlikely to seek legal redress
+
+individually for the claims alleged herein. Therefore, absent a class action, Class members will
+
+continue to suffer losses and the misconduct of Defendant will proceed without remedy. Moreover,
+
+given the complex legal and factual issues involved, individualized litigation would significantly
+
+increase the delay and expense to all parties and to the Court. Individualized litigation would also
+
+create the potential for inconsistent or contradictory rulings. By contrast, a class action presents
+
+far fewer management difficulties, allows claims to be heard that might otherwise go unheard
+
+because of the relative expense of bringing individual lawsuits, and provides the benefits of
+
+adjudication, economies of scale and comprehensive supervision by a single court. Finally,
+
+Plaintiff knows of no difficulty that will be encountered in the management of this litigation that
+
+would preclude its maintenance as a class action.
+
+        85.     Class Action on Limited Issues and Injunctive Relief. As set forth above, it is
+
+appropriate for this action to be maintained as a class action pursuant to Fed. R. Civ. P. 23(b)(3).
+
+
+                                                  26
+ Case 3:23-cv-00863-RJD Document 1 Filed 03/15/23 Page 29 of 40 Page ID #29
+
+
+
+
+Because there are common individual issues among the Class, it is appropriate for this action to be
+
+maintained as a class action with respect to particular issues if necessary. See Fed. R. Civ. P.
+
+23(c)(4). Additionally, it is appropriate to maintain a class action with respect to the claims for
+
+injunctive relief pursuant to Fed. R. Civ. P. 23(b)(2).
+
+                                              COUNT I
+
+                    Violation of the Lanham Act, 15 U.S.C. § 1125(a)(1)(A)
+             False Affiliation, Connection, Association, Sponsorship, or Approval
+                              (On behalf of Plaintiff and the Class)
+
+       86.      Plaintiff incorporates and realleges each paragraph above as if fully set forth herein.
+
+       87.      The Lanham Act prohibits the use of statements in commerce in connection with
+
+goods or services that are likely to cause confusion, mistake, or deception as to the affiliation,
+
+connection, or association with another person, or as to the origin, sponsorship, or approval of
+
+goods, services, or commercial activities by another person:
+
+                Any person who, on or in connection with any goods or services, . . .
+                uses in commerce any word, term, name, symbol, or device, or any
+                combination thereof, or any false designation of origin, false or
+                misleading description of fact, or false or misleading representation
+                of fact, which-
+
+                (A) is likely to cause confusion, or to cause mistake, or to deceive as
+                to the affiliation, connection, or association of such person with
+                another person, or as to the origin, sponsorship, or approval of his or
+                her goods, services, or commercial activities by another person . . . .
+
+                                               ****
+
+                shall be liable in a civil action by any person who believes that he or
+                she is or is likely to be damaged by such act.
+
+15 U.S.C. § 1125(a)(1)(A).
+
+       88.      The term “any person” in § 1125(a) “includes any State, instrumentality of a State
+
+or employee of a State or instrumentality of a State acting in his or her official capacity.” 15 U.S.C.
+
+§ 1125(a)(2).
+
+
+
+                                                  27
+ Case 3:23-cv-00863-RJD Document 1 Filed 03/15/23 Page 30 of 40 Page ID #30
+
+
+
+
+       89.     Defendant used the words, terms, names, devices, false or misleading descriptions
+
+of fact, and/or false or misleading representations of fact that are described herein on Defendant’s
+
+websites and in its owner’s public statements promoting DoNotPay (the “Representations”), which
+
+included, inter alia:
+
+               •        The description of the service as a robot “lawyer” and as an
+                        “artificially intelligent robot attorney”;
+
+               •        The description that the service can be used to “fight anyone, beat
+                        bureaucracy and sue anyone at the press of a button”;
+
+               •        The description that the service “provide[s] legal assistance”;
+
+               •        The description that legal services are performed “behind the
+                        scenes”;
+
+               •        The description that the services include “generat[ing] over 30 types
+                        of legal documents”;
+
+               •        The description that a user can “tailor a document according to
+                        [his/her] state laws and personal requirements”;
+
+               •        The description that the service will “provid[e] [the user] with the
+                        best advice”;
+
+               •        The description that “all you need to do now is wait for your
+                        personalized guide to arrive”;
+
+               •        The description that Defendant can “assist with all your legal needs”
+                        in “small claims and more”;
+
+               •        The description that the service can be used to appeal traffic tickets
+                        “in any city”;
+
+               •        The description that “it is always worth disputing your ticket
+                        because by doing so, you can either eliminate or reduce your fine”;
+
+               •        The description that “with DoNotPay, your chances of beating [a
+                        parking ticket] are even higher”;
+
+               •        The description that the service provides “arguments that work for
+                        most parking ticket disputes”;
+
+
+
+
+                                                 28
+Case 3:23-cv-00863-RJD Document 1 Filed 03/15/23 Page 31 of 40 Page ID #31
+
+
+
+
+          •     The description that the service “guides you through the process of
+                filing a court case with the specific documents you need to get you
+                on your way to a favorable judgment”;
+
+          •     The description that the service will “generate a perfect demand
+                letter”;
+
+          •     The description that the service will “generate . . . court filings”;
+
+          •     The description that the service will “fill out the correct forms to
+                submit to your local small claims court [and] provide the correct
+                number of copies”;
+
+          •     The description that the service will “tell you how to [serve the
+                defendant] in accordance with your local court’s rules”;
+
+          •     The description that the service will provide a “script to state your
+                case in court” or “a script to read in court” or “instructions for every
+                eventuality”;
+
+          •     The representations that the robot “lawyer” provides numerous legal
+                services described above, such as drafting legal documents that are
+                personalized for the user and relevant to specific state laws, fighting
+                parking tickets, drafting demand letters, and drafting and filing
+                complaints and providing scripts for litigation;
+
+          •     The representation that the service is intended “to be like the general
+                counsel for the consumer”
+
+          •     The representation that DoNotPay would represent a person in a
+                courtroom;
+
+          •     The representation that DoNotPay prepared and sent out a subpoena
+                on behalf of a party in litigation;
+
+          •     The representation that DoNotPay has, for years, “represented
+                people” and is for “getting people out of tickets”;
+
+          •     The representation that DoNotPay has taken on hundreds of
+                thousands of parking ticket cases;
+
+          •     The representation that DoNotPay successfully challenged hundreds
+                of thousands of parking tickets; and
+
+          •     The representation that DoNotPay had “initiated over 1,000 small
+                claims lawsuits.”
+
+
+
+
+                                          29
+ Case 3:23-cv-00863-RJD Document 1 Filed 03/15/23 Page 32 of 40 Page ID #32
+
+
+
+
+       90.     The Representations were and continue to be used in interstate commerce.
+
+       91.     The Representations were and continue to be used in connection with Defendant’s
+
+goods or services.
+
+       92.     The Representations are likely to cause confusion, mistake, and/or to deceive as to:
+
+               (a)     the affiliation, connection, or association of Defendant with another
+                       person—namely, licensed attorneys, the States, and/or State
+                       authorities that regulate the licensure requirements for the practice
+                       of law; and/or
+
+               (b)     the sponsorship or approval of Defendant’s goods, services, or
+                       commercial activities by another person—namely, the State or
+                       State authorities that regulate the licensure requirements for the
+                       practice of law.
+
+       93.     Plaintiff and the Class are competitors of DoNotPay.
+
+       94.     As a Bloomberg article explained, DoNotPay’s “name originally stood for ‘do not
+
+pay parking tickets’ but morphed into another ethos: Do not pay lawyers.”
+
+       95.     Plaintiff and the Class have been or are likely to be injured as a result of the
+
+Representations and confusing, mistaken, and/or deceptive affiliation, connection, association,
+
+sponsorship, or approval, either by direct diversion of clients from themselves to Defendant or by
+
+a lessening of the goodwill associated with their goods and services.
+
+       96.     Defendant has, for years, willfully made the Representations knowing of their
+
+confusing, mistaken, or deceptive effect, but has willfully chosen not to alter them.
+
+       97.     As set forth above, Defendant knowingly and willfully continues to make the
+
+Representations.
+
+       98.     In the alternative, even if Defendant’s conduct was unintentional, Defendant knew
+
+or should have known the Representations were likely to cause the confusion, mistake, or
+
+deception described herein.
+
+
+
+
+                                                30
+ Case 3:23-cv-00863-RJD Document 1 Filed 03/15/23 Page 33 of 40 Page ID #33
+
+
+
+
+       99.     Pursuant to 15 U.S.C. § 1117, recovery of Defendant’s profits and the costs of this
+
+action are warranted.
+
+       100.    Pursuant to 15 U.S.C. § 1117, this is an exceptional case warranting the recovery
+
+of Plaintiff’s and the Class Members’ reasonable attorneys’ fees.
+
+       101.    Defendant’s unlawful conduct is continuing, and Plaintiff and the Class face a risk
+
+of future harm with no adequate legal remedy given the ongoing Representations by Defendant.
+
+       102.    As a result, and in addition to the relief described above, Plaintiff and the Class
+
+seek injunctive relief pursuant to 15 U.S.C. § 1116.
+
+       WHEREFORE, Plaintiff and the Class pray for the relief requested in the Prayer for Relief
+
+set forth below.
+
+                                            COUNT II
+
+                   Violation of the Lanham Act, 15 U.S.C. § 1125(a)(1)(B)
+                                      False Advertising
+                            (On behalf of Plaintiff and The Class)
+
+       103.    Plaintiff incorporates and realleges each paragraph above as if fully set forth herein.
+
+       104.    The Lanham Act also prohibits false advertising about one’s own goods, services,
+
+or commercial activities:
+
+               Any person who, on or in connection with any goods or services, . . .
+               uses in commerce any word, term, name, symbol, or device, or any
+               combination thereof, or any false designation of origin, false or
+               misleading description of fact, or false or misleading representation
+               of fact, which-
+                                               ****
+               (B) in commercial advertising or promotion, misrepresents the
+               nature, characteristics, qualities, or geographic origin of his or her or
+               another person’s goods, services, or commercial activities,
+
+               shall be liable in a civil action by any person who believes that he or
+               she is or is likely to be damaged by such act.
+
+15 U.S.C. § 1125(a)(1)(B).
+
+
+                                                 31
+ Case 3:23-cv-00863-RJD Document 1 Filed 03/15/23 Page 34 of 40 Page ID #34
+
+
+
+
+       105.    The Representations were made in commercial advertising or promotion.
+
+       106.    The Representations were made on Defendant’s website or on other public websites
+
+promoting DoNotPay, and constitute systematic communicative endeavors by Defendant made to
+
+a particular class of consumers (potential DoNotPay users) to persuade those possible customers
+
+to buy Defendant’s product/service.
+
+       107.    The Representations were and are material to potential DoNotPay subscribers in
+
+that they purport to inform potential customers of various legal services and products that will be
+
+provided via a robot “lawyer” and “attorney” and influenced, or are likely to influence, purchasing
+
+decisions.
+
+       108.    The Representations were and remain materially false and/or misleading statements
+
+of fact that misrepresent the nature, characteristics, and qualities of Defendant’s goods, services,
+
+or commercial activities, as Defendant is not authorized to provide the legal services and products
+
+it advertises will be provided.
+
+       109.    The false and/or misleading Representations actually deceived or had the tendency
+
+to deceive a substantial segment of Defendant’s audience.
+
+       110.    Plaintiff and the Class have been or are likely to be injured as a result of the false
+
+and/or misleading Representations, either by direct diversion of clients from themselves to
+
+Defendant or by a lessening of the goodwill associated with their goods and services.
+
+       111.    Defendant has, for years, knowingly and willfully made Representations that were
+
+false and/or misleading, but has willfully chosen not to alter them.
+
+       112.    As set forth above, Defendant knowingly and willfully continues to make the false
+
+and/or misleading Representations.
+
+
+
+
+                                                32
+ Case 3:23-cv-00863-RJD Document 1 Filed 03/15/23 Page 35 of 40 Page ID #35
+
+
+
+
+       113.    In the alternative, even if Defendant’s conduct was unintentional, Defendant knew
+
+or should have known the Representations were false and/or misleading.
+
+       114.    Pursuant to 15 U.S.C. § 1117, recovery of Defendant’s profits and the costs of this
+
+action are warranted.
+
+       115.    Pursuant to 15 U.S.C. § 1117, this is an exceptional case warranting the recovery
+
+of Plaintiff’s and the Class Members’ reasonable attorneys’ fees.
+
+       116.    Defendant’s unlawful conduct is continuing, and Plaintiff and the Class face a risk
+
+of future harm with no adequate legal remedy given the ongoing false and/or misleading
+
+Representations by Defendant.
+
+       117.    As a result, and in addition to the relief described above, Plaintiff and the Class
+
+seek injunctive relief pursuant to 15 U.S.C. § 1116.
+
+       WHEREFORE, Plaintiff and the Class pray for the relief requested in the Prayer for Relief
+
+set forth below.
+
+                                            COUNT III
+
+  Violation of the Illinois Uniform Deceptive Trade Practices Act, 815 ILCS 510/1 et seq.
+                           (On behalf of Plaintiff and the Subclass)
+
+       118.    Plaintiff incorporates and realleges each paragraph above as if fully set forth herein.
+
+       119.    As set forth herein, Defendant engaged in deceptive trade practices under the
+
+Illinois Uniform Deceptive Trade Practices Act, 815 ILCS § 510/2, by, in the course of its business:
+
+               a.       causing likelihood of confusion or misunderstanding as to the
+                        source, sponsorship, approval, or certification of goods or services;
+
+               b.       causing likelihood of confusion or misunderstanding as to
+                        affiliation, connection, or association with or certification by
+                        another;
+
+               c.       representing that its goods or services have sponsorship, approval,
+                        characteristics, uses, or benefits that they do not have;
+
+
+
+                                                 33
+ Case 3:23-cv-00863-RJD Document 1 Filed 03/15/23 Page 36 of 40 Page ID #36
+
+
+
+
+                d.        representing that Defendant has a sponsorship, approval, status,
+                          affiliation, or connection that it does not have;
+
+                e.        representing that goods or services are of a particular standard,
+                          quality, or grade when they are of another;
+
+                f.        disparaging the goods, services, or business of another by false or
+                          misleading representation of fact;
+
+                g.        advertising its goods or services with intent not to sell them as
+                          advertised; and/or
+
+                h.        engaging in other conduct that created a likelihood of confusion or
+                          misunderstanding.
+
+        120.    Defendant’s conduct that directly affects the Subclass occurred primarily and
+
+substantially in Illinois.
+
+        121.    As set forth herein, Defendant knowingly and willfully engaged in, and continues
+
+to willfully engage in, the above-described deceptive trade practices.
+
+        122.    In the alternative, even if Defendant’s conduct was unintentional, it still has resulted
+
+in deceptive trade practices prohibited by Illinois law.
+
+        123.    Plaintiff and the Subclass Members are likely to be damaged by Defendant’s
+
+deceptive trade practices.
+
+        124.    Defendant’s unlawful conduct is continuing, and Plaintiff and the Subclass face a
+
+risk of future harm with no adequate legal remedy.
+
+        125.    As a result, Plaintiff and the Subclass seek all available relief, including injunctive
+
+relief and attorneys’ fees pursuant to 815 ILCS 510/3.
+
+        WHEREFORE, Plaintiff and the Subclass pray for the relief requested in the Prayer for
+
+Relief set forth below.
+
+
+
+
+                                                  34
+ Case 3:23-cv-00863-RJD Document 1 Filed 03/15/23 Page 37 of 40 Page ID #37
+
+
+
+
+                                            COUNT IV
+
+                            Unauthorized Practice of Law in Illinois
+                            (On behalf of Plaintiff and the Subclass)
+
+       126.    Plaintiff incorporates and realleges each paragraph above as if fully set forth herein.
+
+       127.    Defendant’s conduct described herein constitutes the unauthorized practice of law
+
+that violates Illinois law and the rules of the Illinois Supreme Court.
+
+       128.    As set forth herein, Defendant has violated the Illinois Attorney Act, 705 ILCS
+
+205/1, by:
+
+               •       engaging in the practice of law in Illinois without obtaining a license
+                       for that purpose from the Illinois Supreme Court;
+
+               •       charging or receiving compensation, directly or indirectly, for legal
+                       services in Illinois that were not performed by a regularly licensed
+                       attorney; and/or
+
+               •       advertising and holding itself out as providing legal services within
+                       Illinois without a license.
+
+       129.    As set forth herein, Defendant has violated the Corporation Practice of Law
+
+Prohibition Act, 705 ILCS 220/1, by:
+
+               •       practicing law;
+
+               •       holding itself out to the public as being entitled to practice law;
+
+               •       rendering or furnishing legal services or advice;
+
+               •       rendering legal services of any kind in actions or proceedings of any
+                       nature;
+
+               •       in any other way or manner, assuming to be entitled to practice law;
+
+               •       assuming, using and advertising the title of lawyers or attorney,
+                       attorney at law, or equivalent terms in any language in such manner
+                       as to convey the impression that it is entitled to practice law; and/or
+
+               •       furnishing legal advice.
+
+
+
+
+                                                  35
+ Case 3:23-cv-00863-RJD Document 1 Filed 03/15/23 Page 38 of 40 Page ID #38
+
+
+
+
+       130.     As set forth herein, Defendant has violated the Corporation Practice of Law
+
+Prohibition Act, 705 ILCS 220/2, by:
+
+                •      soliciting any claim or demand for the purpose of bringing an action
+                       at law thereon;
+
+                •      furnishing legal advice, services, or counsel to a person sued or
+                       about to be sued in any action or proceeding;
+
+                •      furnishing legal advice, services, or counsel to a person against
+                       whom an action or proceeding has been or is about to be brought;
+
+                •      furnishing legal advice, services, or counsel to a person who may be
+                       affected in any action or proceeding which has been or may be
+                       instituted in any court or before any judicial body; and/or
+
+                •      furnishing legal advice, services, or counsel for the purpose of
+                       representing any person as attorney or counsel in securing or
+                       attempting to secure any civil remedy.
+
+       131.     Defendant’s conduct “is predictably apt to cause irreparable harm to many citizens,
+
+as well as to the judicial system itself,” and “constitutes an infringement upon the rights of those
+
+who are properly licensed, [including] attorneys and law firms . . . .” Richard F. Mallen & Assocs.,
+
+769 N.E.2d at 76.
+
+       132.     Despite receiving numerous warnings from “[m]ultiple state bars” and “frequent”
+
+letters that it is engaged in the unauthorized practice of law, Defendant willfully continues to
+
+engage in its unauthorized practice of law.
+
+       133.     Defendant’s unlawful conduct is continuing, and Plaintiff and the Subclass face a
+
+risk of future harm with no adequate legal remedy given the ongoing unauthorized practice of law
+
+by Defendant.
+
+       134.     As a result, Plaintiff and the Subclass seek all available equitable relief, including
+
+injunctive relief and disgorgement of Defendant’s profits pursuant to the Illinois Attorney Act,
+
+plus civil penalties permitted by law.
+
+
+
+                                                 36
+ Case 3:23-cv-00863-RJD Document 1 Filed 03/15/23 Page 39 of 40 Page ID #39
+
+
+
+
+       WHEREFORE, Plaintiff and the Subclass pray for the relief requested in the Prayer for
+
+Relief set forth below.
+
+                                    PRAYER FOR RELIEF
+
+       WHEREFORE, Plaintiff, on behalf of itself, the Class, and Subclass, pray for judgment
+
+against Defendant as follows:
+
+       A.      entering an order certifying the Class and Subclass as requested herein and
+
+               appointing the undersigned as lead counsel for the Class and Subclass;
+
+       B.      awarding Plaintiff, the Class, and Subclass injunctive relief, including, but not
+
+               limited to, enjoining Defendant from continuing the unlawful practices as set forth
+
+               herein and ordering Defendant to engage in a corrective advertising campaign;
+
+       C.      awarding Plaintiff, the Class, and the Subclass compensation in the form of
+
+               disgorgement of Defendant’s profits pursuant to 15 U.S.C. § 1117(a), 705 ILCS
+
+               205/1, and/or other applicable law;
+
+       D.      entering an order finding Defendant in contempt of court and determining an
+
+               appropriate penalty pursuant to 705 ILCS 205/1;
+
+       E.      assessing a civil penalty to be paid to the Illinois Equal Justice Foundation
+
+               pursuant to 705 ILCS 205/1;
+
+       F.      awarding Plaintiff, the Class, and the Subclass its costs and reasonable attorneys’
+
+               fees pursuant to 15 U.S.C. § 1117(a), 815 ILCS 510/3, or other applicable law;
+
+       G.      awarding Plaintiff, the Class, and the Subclass any pre-judgment and post-
+
+               judgment interest, as provided by law; and
+
+       H.      awarding such other and further relief as is just and appropriate.
+
+
+
+
+                                                37
+ Case 3:23-cv-00863-RJD Document 1 Filed 03/15/23 Page 40 of 40 Page ID #40
+
+
+
+
+                                       JURY DEMAND
+
+      Plaintiff demands a trial by jury on all claims so triable.
+
+Dated: March 15, 2023                        Respectfully submitted,
+
+                                             GOLDENBERG HELLER
+                                             & ANTOGNOLI, P.C.
+
+                                             By: /s/ Kevin P. Green
+                                             Thomas P. Rosenfeld #06301406
+                                             Kevin P. Green #06299905
+                                             Thomas C. Horscroft #06327049
+                                             Daniel S. Levy #6315524
+                                             2227 South State Route 157
+                                             Edwardsville, IL 62025
+                                             618-656-5150
+                                             tom@ghalaw.com
+                                             kevin@ghalaw.com
+                                             thorscroft@ghalaw.com
+                                             daniel@ghalaw.com
+
+                                             Attorneys for Plaintiff
+
+
+
+
+                                                38
+

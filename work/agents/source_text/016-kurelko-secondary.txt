@@ -1,0 +1,674 @@
+Case 3:25-cv-11917-ZNQ-JBD        Document 68      Filed 08/25/26    Page 1 of 14 PageID:
+                                        3853
+
+
+
+                        UNITED STATES DISTRICT COURT
+                           DISTRICT OF NEW JERSEY
+
+     STEVEN KURELKO,                           Civ. No. 25-11917 (ZNQ)(JBD)
+
+                 Plaintiff,                    MEMORANDUM ORDER
+
+           v.
+
+     ROBERT A. BALLARD, et al.,
+
+                 Defendants.
+
+
+
+        Plaintiff Steven Kurelko, proceeding pro se, has filed two motions to
+
+disqualify the New Jersey Office of the Attorney General (“NJOAG”) from
+
+representing the following defendants (collectively, the “Judiciary Defendants”):
+
+the Honorable Robert A. Ballard, Jr., P.J. Civ. (“Judge Ballard”), the Honorable
+
+Wendy A. Reek, J.S.C. (“Judge Reek”), and the Honorable Michael V. Cresitello, Jr.,
+
+A.J.S.C. (“Judge Cresitello”). [Dkts. 15, 46.] For the reasons set forth below,
+
+plaintiff’s motions to disqualify are DENIED.
+
+I.      BACKGROUND
+
+        Plaintiff initiated this lawsuit on June 17, 2025. [Dkt. 1.] The action stems
+
+from a state court proceeding in the Superior Court of New Jersey. See generally
+
+[Dkt. 54]. Relevant here, on February 24, 2025, Judge Reek—who was presiding
+
+over the state court case at the time—imposed a filing restriction on plaintiff that
+
+required him to seek leave of court before filing any additional motions in that case.
+
+Id. at 21-24. In this action, plaintiff challenges the constitutionality of that filing
+Case 3:25-cv-11917-ZNQ-JBD         Document 68    Filed 08/25/26    Page 2 of 14 PageID:
+                                         3854
+
+
+
+restriction and its enforcement by the Judiciary Defendants, as well as the
+
+invocation of the restriction by other defendants. See generally id. 1
+
+      On July 8, 2025, the NJOAG entered an appearance on behalf of Judge
+
+Ballard in this action. [Dkt. 13.] Later that day, plaintiff filed his first motion to
+
+disqualify the NJOAG as counsel for Judge Ballard. [Dkt. 15.] While that motion
+
+was pending, the NJOAG entered appearances on behalf of Judge Reek and Judge
+
+Cresitello. [Dkts. 16, 26.] The NJOAG also filed a brief in opposition to plaintiff’s
+
+motion to disqualify. [Dkt. 30.]
+
+      Shortly thereafter, on August 5, 2025, plaintiff filed another action in this
+
+Court against Judge Ballard, then-Attorney General Matthew Platkin, and several
+
+John and Jane Does. Kurelko v. Platkin, Civ. No. 25-14114, [Dkt. 1]. Plaintiff
+
+amended his complaint twice in that action, and named Judge Reek and Judge
+
+Cresitello as defendants as well. Id., [Dkt. 15]. In this second federal case, plaintiff
+
+brought an as-applied challenge to a provision of the New Jersey Tort Claims Act
+
+
+
+1      In his original complaint, plaintiff also named the Attorney General as a
+defendant and alleged, inter alia, that “the State of New Jersey, through its Rules of
+Court and the Attorney General’s ongoing defense of their constitutionality, has
+created and maintained a system that permits the denial of judicial access without
+notice, standards, findings, or remedy.” [Dkt. 1] at 2-3. In his amended complaint,
+plaintiff removed the Attorney General as a defendant and narrowed his claims to
+focus this litigation on the alleged conduct of the Judiciary Defendants and other
+private litigants in the state court proceedings. See [Dkt. 54]. Because the Attorney
+General is no longer a defendant in this action, the Court does not address here any
+aspect of plaintiff’s first motion to disqualify the NJOAG on the basis that the
+Attorney General formerly was a defendant in the suit. Separately, the Court notes
+that plaintiff has sued the Honorable Kevin M. Shanahan, A.J.S.C. (“Judge
+Shanahan”) in his amended complaint. Id. The docket reflects that Judge
+Shanahan has not yet been served, and no attorney has entered an appearance on
+Judge Shanahan’s behalf.
+                                            2
+Case 3:25-cv-11917-ZNQ-JBD        Document 68      Filed 08/25/26    Page 3 of 14 PageID:
+                                        3855
+
+
+
+(“TCA”), N.J.S.A. § 59:10A, based on the NJOAG’s decision to represent the
+
+Judiciary Defendants in connection with plaintiff’s first federal action, and he
+
+alleged that the Judiciary Defendants’ continued control over his state court
+
+proceedings during the pendency of his federal litigations is unconstitutional.
+
+Id. at 38-188. Additionally, plaintiff asserted a facial challenge to N.J.S.A. § 59:10A
+
+on the grounds that it authorizes the NJOAG to represent sitting judges “without
+
+standards, safeguards, or any reviewable record”; and that § 59:10A “delegates
+
+discretion in a way that invites arbitrary application [], erodes the guarantee of a
+
+neutral and impartial tribunal . . . and omits threshold procedures where the risk of
+
+error is intolerable,” thereby raising separation-of-powers concerns. Id. at 9-10;
+
+see also id. at 188-231. The NJOAG also represented the New Jersey Attorney
+
+General and the Judiciary Defendants in plaintiff’s second federal action. Id.,
+
+[Dkts. 6, 18].
+
+       On January 23, 2026, the Judicial Defendants and the NJOAG moved to
+
+dismiss plaintiff’s complaint in the second federal action. Civ. No. 25-14114,
+
+[Dkt. 21]. In lieu of an opposition brief, plaintiff filed a motion for leave to file an
+
+amended complaint, in which he reasserted many of the same allegations in his first
+
+amended complaint, but proposed five causes of action instead of his original three.
+
+Id., [Dkt. 24]; see also id., [Dkt. 27] at 3-4 (summarizing plaintiff’s proposed second
+
+amended complaint). On August 21, 2026, the Court issued an Opinion and Order
+
+granting defendants’ motion to dismiss and denying plaintiff’s motion for leave to
+
+
+
+
+                                             3
+Case 3:25-cv-11917-ZNQ-JBD       Document 68      Filed 08/25/26    Page 4 of 14 PageID:
+                                       3856
+
+
+
+amend. Id., [Dkts. 27, 28]. The Court directed the Clerk to mark that case closed.
+
+[Dkt. 28.]
+
+      After plaintiff filed his second federal action but before the Court dismissed
+
+the complaint in that case, plaintiff requested leave in this case to withdraw his
+
+first motion to disqualify and to “file a renewed motion . . . incorporating the
+
+original bases together with newly arisen facts and [ ] additional supporting
+
+authority.” [Dkt. 35.] The Court denied the request to withdraw the motion to
+
+disqualify “simply to enable [plaintiff] to re-file it with recent developments,” but
+
+permitted plaintiff “to incorporate any recent facts/developments in a reply brief.”
+
+[Dkt. 36.] Despite that directive, on November 5, 2025, plaintiff filed a second
+
+motion to disqualify the NJOAG as counsel for all of the Judiciary Defendants.
+
+[Dkt. 46.] In that motion, plaintiff alternatively requests that the Court stay this
+
+action pending resolution of his second federal action, “or until the identified conflict
+
+conditions are eliminated.” [Dkt. 46-2] at 17.
+
+      The Court originally terminated plaintiff’s second motion because he already
+
+filed a motion to disqualify, [Dkt. 52], but later changed course and decided to
+
+consider all briefing filed in connection with plaintiff’s disqualification motions.
+
+[Dkt. 59.] The Court also permitted plaintiff and the Judiciary Defendants to file a
+
+supplemental opposition and reply. Id.; [Dkts. 66, 67].
+
+
+
+
+                                            4
+Case 3:25-cv-11917-ZNQ-JBD       Document 68      Filed 08/25/26   Page 5 of 14 PageID:
+                                       3857
+
+
+
+II.   LEGAL STANDARDS
+
+      The Court’s “power to disqualify an attorney derives from its inherent
+
+authority to supervise the professional conduct of attorneys appearing before it.”
+
+United States v. Miller, 624 F.2d 1198, 1201 (3d Cir. 1980). “As a general rule, the
+
+exercise of this authority is committed to the sound discretion of the district
+
+court . . . .” Id. When considering a motion to disqualify counsel, this court is
+
+guided by Local Civil Rule 103.1(a), which establishes that attorney professional
+
+ethics and responsibility standards in the District Court of New Jersey are governed
+
+by the Rules of Professional Conduct as revised by the New Jersey Supreme Court.
+
+L. Civ. R. 103.1(a); see also Residences at Bay Point Condo. Assoc., Inc v. Chernoff
+
+Diamond & Co., LLC, Civ. No. 16-5190 (MAH), 2017 WL 3531683, at *3 (D.N.J.
+
+Aug. 17, 2017) (stating that “issues of professional ethics in the District Court of
+
+New Jersey are governed by L. Civ. R. 103.1(a).”).
+
+      The movant bears the burden of establishing that disqualification is
+
+appropriate. Kaselaan & D’Angelo Associates, Inc v. D’Angelo, 144 F.R.D. 235, 238
+
+(D.N.J. 1992). “Although doubts are to be resolved in favor of disqualification, the
+
+party seeking disqualification must carry a ‘heavy burden’ and must meet a ‘high
+
+standard of proof’ before a lawyer [or law firm] is disqualified.” Carlyle Towers
+
+Condo. Ass’n, Inc. v. Crossland Sav., FSB, 944 F. Supp. 341, 345 (D.N.J. 1996)
+
+(quoting Alexander v. Primerica Holdings, Inc., 822 F. Supp. 1099, 1114 (D.N.J.
+
+1993)). This is because courts disfavor disqualification, viewing it as a “drastic
+
+measure which courts should hesitate to impose except when absolutely necessary.”
+
+
+
+                                           5
+Case 3:25-cv-11917-ZNQ-JBD        Document 68      Filed 08/25/26    Page 6 of 14 PageID:
+                                        3858
+
+
+
+Shaikh v. Germadnig, Civ. No. 22-2053 (RLS), 2022 WL 16716116, at *3 (D.N.J.
+
+Nov. 4, 2022) (quoting Carlyle Towers, 944 F. Supp. at 345).
+
+      Indeed, courts recognize that disqualification motions can be used for
+
+“tactical reasons” and they “inevitably cause delay” in the proceedings. Carlyle
+
+Towers, 944 F. Supp. at 345 (citation omitted). Furthermore, a party’s selection of
+
+counsel is afforded “substantial deference.” Rohm and Haas Co. v. American
+
+Cyanamid Co., 187 F. Supp. 2nd 221, 227 (D.N.J. 2001) (citations omitted). “When
+
+determining whether to disqualify counsel[,] the Court must closely and carefully
+
+scrutinize the facts to prevent unjust results.” Martin v. AtlantiCare, Civ. No. 10-
+
+6793 (JS), 2011 WL 5080255, at *2 (D.N.J. Oct. 25, 2011); see also Steel v. Gen.
+
+Motors Corp., 912 F. Supp. 724, 733 (D.N.J. 1995) (adjudicating motions to
+
+disqualify “involves a painstaking analysis of the facts and precise application of
+
+precedent.” (citations omitted)), aff’d sub nom. Cardona v. Gen. Motors Corp.,
+
+942 F. Supp. 968 (D.N.J. 1996).
+
+      Relevant to the present motions to disqualify, the NJOAG’s authority to
+
+represent state officials in litigation derives from two sources: the Department of
+
+Law and Public Safety Act of 1944 (“DLPSA”) and the TCA. The DLPSA authorizes
+
+the NJOAG to “act as the sole legal advisor, attorney or counsel . . . for all officers,
+
+departments, boards, bodies, commissions and instrumentalities of the State
+
+Government.” N.J.S.A. § 52:17A-4. The TCA provides that, when a state officer or
+
+employee is subject to a tort action, the NJOAG shall provide for the defense of that
+
+officer or employee “on account of an [alleged] act or omission in the scope of his
+
+
+
+                                            6
+Case 3:25-cv-11917-ZNQ-JBD       Document 68      Filed 08/25/26   Page 7 of 14 PageID:
+                                       3859
+
+
+
+employment.” N.J.S.A. § 59:10A-1. The TCA permits the NJOAG to refuse to
+
+provide for the defense of an officer or employee if: (a) “the act or omission was not
+
+within the scope of employment;” (b) “the act or failure to act was because of actual
+
+fraud, willful misconduct or actual malice;” or (c) “the defense of the action or
+
+proceeding by the Attorney General would create a conflict of interest between the
+
+State and the employee or former employee.” N.J.S.A. § 59:10A-2.
+
+      Pursuant to the TCA, the NJOAG must defend a state officer or employee
+
+unless the NJOAG “determines that it is more probable than not that” one of the
+
+aforementioned exceptions applies. Prado v. State, 186 N.J. 413, 427 (2006). This
+
+Court generally defers to the NJOAG’s discretion in considering whether an
+
+exception applies, unless there is evidence to support an incurable
+
+conflict-of-interest. See, e.g., Aruanno v. Booker, Civ. No. 08-305 (JLL), 2009 WL
+
+1173438, at *2 (D.N.J. Apr. 29, 2009) (denying plaintiff’s motion to disqualify,
+
+explaining that the “court [wa]s in no position to question” the Attorney General’s
+
+decision to defend a state employee), aff’d, 384 F. App’x 69 (3d Cir. 2010). Courts
+
+therefore are especially reluctant to grant a motion to disqualify when the NJOAG
+
+is representing defendants pursuant to the TCA. Marchisotto v. Malik, Civ. No.
+
+20-20426 (JRS), 2024 WL 1929504, at *2 (D.N.J. May 2, 2024).
+
+
+
+
+                                           7
+Case 3:25-cv-11917-ZNQ-JBD       Document 68     Filed 08/25/26    Page 8 of 14 PageID:
+                                       3860
+
+
+
+III.     DISCUSSION
+
+         Plaintiff’s motions to disqualify the NJOAG from representing the Judiciary
+
+Defendants rest on three principal arguments. 2 First, plaintiff argues that the
+
+NJOAG’s representation of the Judiciary Defendants in this case violates
+
+New Jersey Rules of Professional Conduct (“RPC”) 1.7(a) and 1.13 because the
+
+NJOAG will be “materially limited” by its simultaneous defense of the
+
+constitutionality of N.J.S.A § 59:10A in Civil Action No. 25-14114. [Dkt. 46-2] at
+
+8-12. More specifically, plaintiff argues that the state and/or public interest was the
+
+NJOAG’s true client in Civil Action No. 25-14114, and that the Judiciary
+
+Defendants’ interests in this case diverge from the public interest because the
+
+NJOAG’s defense of judicial officials destroys the appearance of a neutral judiciary.
+
+Id. Second, plaintiff contends that the NJOAG’s representation of the Judiciary
+
+Defendants in this action while simultaneously defending that representation
+
+framework in his second federal action “invites a reasonable observer to question
+
+whether advocacy interests are interlaced with adjudicative functions,” which
+
+destroys the appearance of impartial justice and implicates separation of powers
+
+concerns. Id. at 14-15. Third, plaintiff argues that the NJOAG must decline
+
+representation of the Judiciary Defendants pursuant to the TCA’s exceptions. Id. at
+
+13-14.
+
+
+
+
+2      Plaintiff’s theories of relief are, at times, confusing and not clearly
+articulated. To the extent the Court has not specifically addressed a particular
+point, it is because it was not sufficiently developed in plaintiff's submissions and
+otherwise lacks merit.
+                                           8
+Case 3:25-cv-11917-ZNQ-JBD        Document 68     Filed 08/25/26    Page 9 of 14 PageID:
+                                        3861
+
+
+
+      Plaintiff’s arguments are unpersuasive and do not meet his high burden of
+
+demonstrating that disqualification is warranted. Plaintiff’s motions to disqualify
+
+are therefore denied.
+
+                                            *
+
+      At the outset, the central premise of plaintiff’s motions to disqualify in this
+
+case depend largely on the pendency of plaintiff’s claims in the second federal
+
+action, Civil Action No. 25-14114. Because the Court recently dismissed the
+
+complaint in that case without leave to amend and closed the case, the main basis
+
+for plaintiff’s motions to disqualify no longer exists. In any event, plaintiff’s
+
+motions to disqualify fail on their own terms and do not meet the high burden of
+
+demonstrating that disqualification is warranted here.
+
+      First, plaintiff does not sufficiently explain why the NJOAG’s defense of
+
+N.J.S.A § 59:10A-2 in Civil Action No. 25-14114 creates a conflict of interest under
+
+any of the RPCs, including RPC 1.7(a) 3 and RPC 1.13, 4 or how it otherwise impedes
+
+
+
+3      RPC 1.7(a) provides in relevant part that “a lawyer shall not represent a
+client if the representation involves a concurrent conflict of interest,” which arises if
+“(1) the representation of one client will be directly adverse to another client; or
+(2) there is a significant risk that the representation of one of more clients will be
+materially limited by the lawyer’s responsibilities to another client . . . .”
+
+4      RPC 1.13 provides, in pertinent part, that “a lawyer employed or retained to
+represent an organization represents the organization as distinct from its directors,
+officers, employees, members, shareholders or other constituents.” RPC 1.13(a).
+The Rule further provides that if a lawyer representing an organization “knows that
+an officer, employee or other person associated with the organization” violates “a
+legal obligation to the organization, or a . . . law which reasonably might be imputed
+to the organization, and is likely to result in substantial injury to the organization,
+the lawyer shall proceed as is reasonably necessary in the best interest of the
+organization.” RPC 1.13(b). Additionally, “[a] lawyer representing an organization
+                                            9
+Case 3:25-cv-11917-ZNQ-JBD       Document 68      Filed 08/25/26   Page 10 of 14 PageID:
+                                       3862
+
+
+
+ the NJOAG’s ability to advocate zealously on behalf of the Judiciary Defendants in
+
+ this action. Instead, plaintiff offers only general and vague assertions—without
+
+ compelling authority 5 or examples—that the NJOAG has a conflict of interest by
+
+ representing the Judiciary Defendants here. Plaintiff asserts in a conclusory
+
+ manner that the NJOAG’s representation of the Judiciary Defendants in this action
+
+ while simultaneously defending N.J.S.A. § 59:10A—the statute authorizing that
+
+ representation—in his second federal action creates a concurrent conflict of interest
+
+ and materially limits its defense. This is so, according to plaintiff, because the
+
+ NJOAG must simultaneously represent the State’s institutional interest in
+
+ maintaining the appearance and reality of a neutral judiciary and the Judiciary
+
+ Defendants’ personal interests which, plaintiff asserts, requires them to defend the
+
+ Judiciary Defendants’ alleged unconstitutional conduct that he believes evinces a
+
+ lack of judicial neutrality. [Dkt. 46-2] at 8-12. Conclusory assertions do not suffice:
+
+ Plaintiff fails to explain how the NJOAG’s representation of the Judiciary
+
+
+ may also represent any of its directors, officers, employees, members, shareholders
+ or other constituents, subject to the provisions of RPC 1.7.” RPC 1.13(e).
+ 5      Plaintiff’s first motion to disqualify contains several inaccurate or non-
+ existent case citations and quotations. See [Dkt. 15.] “‘[I]t is improper and
+ unacceptable for litigants—including pro se litigants—to submit ‘non-existent
+ judicial opinions with fake quotes and citations.’” Fagan v. Barnhiser, Civ. No.
+ 24-06012 (CCC), 2025 WL 2654994, at *2 (D.N.J. Sept. 17, 2025) (quoting
+ Anonymous v. New York City Dep’t of Educ., Civ. No. 24-4232, 2024 WL 3460049, at
+ *7 (S.D.N.Y. July 18, 2024) (further citations omitted)). “While some Courts have
+ opted to sanction pro se litigants for this conduct, others have chosen to warn,
+ rather than sanction, in these situations.” Id. (citation omitted). At this time, the
+ Court will not impose sanctions. But plaintiff is now on notice: The Court
+ “admonishes [p]laintiff for his improper conduct and warns that he will be subject to
+ sanctions, including monetary penalties, should he [engage in similar conduct]
+ again in the future.” Id.
+                                           10
+Case 3:25-cv-11917-ZNQ-JBD         Document 68     Filed 08/25/26    Page 11 of 14 PageID:
+                                         3863
+
+
+
+ Defendants will be “materially limited” within the meaning of the RPCs or
+
+ otherwise. The total lack of substance to plaintiff’s motions is apparent;
+
+ disqualification is an extreme measure, and movants must carry a heavy burden to
+
+ prove why disqualification is necessary. Shaikh, 2022 WL 16716116, at *3.
+
+ Plaintiff has not done so here.
+
+       In truth, NJOAG’s defense of the statute in the second federal action
+
+ authorizing it to appear on behalf of the Judiciary Defendants in the two federal
+
+ proceedings will not materially limit the defense of its clients in either case.
+
+ The defense of N.J.S.A. § 52:17A’s constitutionality in the second federal action does
+
+ not require the NJOAG to assert that the Judiciary Defendants acted
+
+ extra-judiciously, unlawfully, not impartially, or unconstitutionally toward plaintiff,
+
+ or to take any position inconsistent with the Judiciary Defendants’ interests here.
+
+ To the contrary, the NJOAG’s defense of N.J.S.A. § 59:10A in the second action is
+
+ fully aligned with the interests of the Judiciary Defendants in this case:
+
+ The statute provides judicial officers, like other state employees, a legal defense
+
+ when they face suit arising from their public employment. See N.J.S.A. § 59:10A-1.
+
+ The Court accordingly rejects plaintiff’s conclusory assertions that the NJOAG faces
+
+ a conflict of interest and that it will be materially limited in its representation of
+
+ the Judiciary Defendants. See Ramirez v. Harper, Civ. No. 22-04986 (ESK), 2023
+
+ WL 4492384, at *3 (D.N.J. June 26, 2023) (“There is not necessarily a conflict of
+
+ interest when the NJOAG represents a state agency and that agency’ employees in
+
+ separate related matters.”).
+
+
+
+                                            11
+Case 3:25-cv-11917-ZNQ-JBD       Document 68      Filed 08/25/26    Page 12 of 14 PageID:
+                                       3864
+
+
+
+       Second, the Court rejects plaintiff’s argument that allowing the NJOAG to
+
+ defend the Judiciary Defendants will destroy the appearance and function of a
+
+ neutral judiciary. [Dkt. 46-2] at 14-15. The NJOAG is a component of the State’s
+
+ executive branch and promulgates and enforces the Executive’s directives.
+
+ N.J.S.A. § 52:17B-1. The NJOAG is not a component of the State’s judicial branch
+
+ and is constitutionally prohibited from promulgating or enforcing judicial powers.
+
+ See N.J. Const. art. III, ¶ 1 (establishing that a member of one governmental branch
+
+ is prohibited from exercising the powers assigned to another branch); N.J. Const.
+
+ art. VI, § 1, ¶ 1 (establishing that “judicial power shall be vested in a Supreme
+
+ Court, a Superior Court, and other courts of limited jurisdiction.”). Because the
+
+ NJOAG has no authority to exercise the judicial power, there is no risk that the
+
+ NJOAG’s representation of the Judiciary Defendants in this case will compromise
+
+ the judiciary’s neutrality or independence. See N.J.S.A. § 52:17B-1 (creating the
+
+ Department of Law and Public Safety under the Executive Branch); N.J. Const. art.
+
+ III, ¶ 1 (separating governmental powers between the legislature, executive, and
+
+ judiciary and mandating that “[n]o person or persons belonging to or constituting
+
+ one branch shall exercise any of the powers properly belonging to either of the
+
+ others, except as expressly provided in this Constitution.”); N.J. Const. art. VI, § 2,
+
+ ¶ 3 (“The Supreme Court shall make rules governing the administration of all
+
+ courts in the State and, subject to the law, the practice and procedure in all such
+
+ courts.”). While it is of course true that a neutral judiciary is fundamental, the
+
+ NJOAG’s representation of a judicial officer pursuant to a statute in no way
+
+
+
+                                            12
+Case 3:25-cv-11917-ZNQ-JBD        Document 68      Filed 08/25/26    Page 13 of 14 PageID:
+                                        3865
+
+
+
+ jeopardizes the judiciary’s neutrality. Plaintiff cites no authority supporting his
+
+ request to disqualify the NJOAG for this reason, and the Court has found none.
+
+       Third, plaintiff misunderstands the TCA. The statute grants the NJOAG
+
+ discretion to accept or decline representation of state officials if it believes an
+
+ exception applies. N.J.S.A. § 59:10A-2; Prado, 186 N.J. at 426-27 (noting the
+
+ burden is on the Attorney General to justify a denial of representation);
+
+ El Mujaddid v. Wehling, Civ. No. 25-738 (EAP), 2026 WL 594048, at *7 (D.N.J.
+
+ Mar. 3, 2026) (holding that the “[p]laintiff lack[ed] standing to challenge the
+
+ Attorney General’s decision to represent [a county detective].”). Indeed,
+
+ “the Attorney General must provide a defense for a state employee who requests
+
+ representation, unless the Attorney General determines that it is more probable
+
+ than not” that an enumerated exception applies. Prado, 186 N.J. at 428 (citing
+
+ N.J.S.A. 59:10A-2); see also Aruanno, 2009 WL 1173438, at *2; El Mujaddid,
+
+ 2026 WL 594048, at *7 (“N.J.S.A. 59:10A-2 does not ‘prohibit’ the NJOAG from
+
+ representing a state employee accused of misconduct.” (emphasis in original)).
+
+ Given plaintiff’s failure to identify an actual, potential, or even conceivable conflict
+
+ of interest, the Court will not second-guess the NJOAG’s decision to represent the
+
+ Judiciary Defendants in this case.
+
+
+
+
+                                             13
+Case 3:25-cv-11917-ZNQ-JBD       Document 68     Filed 08/25/26   Page 14 of 14 PageID:
+                                       3866
+
+
+
+ IV.   CONCLUSION
+
+       For the reasons stated,
+
+       IT IS on this 25th day of August, 2026,
+
+       ORDERED that plaintiff’s motions to disqualify [Dkts. 15, 46] are DENIED;
+
+ and it is further
+
+       ORDERED that in light of the Court’s recent Opinion and Order dismissing
+
+ the complaint in Civil Action No. 25-14115 without leave to amend, plaintiff’s
+
+ request to stay this action pending the resolution of Civil Action No. 25-14115 is
+
+ DENIED.
+
+
+
+
+                                          14
+

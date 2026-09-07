@@ -1,0 +1,697 @@
+MICHAEL T-ALEXANDER, Plaintiff and Appellant, v...., Not Reported in...
+© 2026 Thomson Reuters. No claim to original U.S. Government Works. 1
+2026 WL 1004593
+Not Officially Published
+(Cal. Rules of Court, Rules 8.1105 and 8.1110, 8.1115)
+Only the Westlaw citation is currently available.
+California Rules of Court, rule 8.1115, restricts
+citation of unpublished opinions in California courts.
+NOT TO BE PUBLISHED IN OFFICIAL REPORTS
+California Rules of Court, rule 8.1115(a), prohibits
+courts and parties from citing or relying on
+opinions not certified for publication or ordered
+published, except as specified by rule 8.1115(b).
+This opinion has not been certified for publication
+or ordered published for purposes of rule 8.1115.
+Court of Appeal, Sixth District, California.
+MICHAEL T-ALEXANDER, Plaintiff and Appellant,
+v.
+MICHELLE BAASS et al., Defendants and Respondents.
+H052046
+|
+Filed 04/14/2026
+Editor's Note: This decision contains discussion of citation
+references that are incorrect or do not actually exist. These
+invalid citations appeared in the original court opinion and
+have been preserved as written since they are part of the
+official record. Any links to these invalid citations have been
+removed.
+(Santa Cruz County Super. Ct. No. 23CV01552)
+Opinion
+Wilson, J.
+*1 MichaelT-Alexanderchallengesanorderdeclaringhima
+vexatious litigant pursuant to Code of Civil Procedure section
+391.11
+and imposing a prefiling order on him pursuant to
+section 391.7. T-Alexander argues that California's vexatious
+litigant statutes violate the supremacy clause of the United
+States Constitution and are preempted by federal law
+governing disability rights. He further argues that improper
+conduct by the trial court denied him due process and
+necessitates reversal.
+We reject the arguments and affirm.
+I. FACTUAL AND PROCEDURAL BACKGROUND
+A. Underlying petition
+On July 3, 2023, T-Alexander2
+filed a petition for a
+writ mandate and complaint for declaratory and injunctive
+relief (petition) against Michelle Baass and Kim Johnson
+(respondents), in their respective capacities as the directors
+of the Department of Health Care Services (DHCS) and
+the Department of Social Services (CDSS).3
+The petition
+alleges that T-Alexander is a Medi-Cal beneficiary who is
+permanently disabled. After moving from San Mateo County
+to Santa Cruz County, T-Alexander allegedly requested in
+January 2022 that his benefits be transferred to Santa Cruz
+County, pursuant to Welfare and Institutions Code section
+10003. However, he alleges, after he made that request, the
+Santa Cruz County CDSS “used a defective process and
+policy that had been outdated and expired by two years and
+replaced by [Welfare and Institutions Code section 10003],
+the ‘inter-county transfer (ICT) process.’ ” According to T-
+Alexander, by improperly shifting the transfer-of-benefits
+process back to the Social Security Administration, the Santa
+Cruz CDSS violated federal and state law and his due process
+rights.
+The petition further alleges that respondents refused to enroll
+him in the required managed care plan, unenrolled him from
+the San Mateo County managed care plan without notice, and
+denied his request for a hearing.
+B. Motion to declare T-Alexander a vexatious litigant
+On September 7, 2023, respondents filed a motion to declare
+T-Alexander a vexatious litigant pursuant to section 391,
+and later an amended motion on November 16, 2023. They
+argued first that T-Alexander is a vexatious litigant pursuant
+to section 391, subdivision (b)(1), which defines a vexatious
+litigant as any person who, “[i]n the immediately preceding
+seven-yearperiodhascommenced,prosecuted,ormaintained
+in propria persona at least five litigations other than in a small
+claims court that have been (i) finally determined adversely
+to the person or (ii) unjustifiably permitted to remain pending
+at least two years without having been brought to trial or
+hearing.” (§ 391, subd. (b)(1).)
+*2 Respondents requested that the trial court take judicial
+notice of five judgments and orders of dismissal in cases
+that had been determined adversely to T-Alexander in theMICHAEL T-ALEXANDER, Plaintiff and Appellant, v...., Not Reported in...
+© 2026 Thomson Reuters. No claim to original U.S. Government Works. 2
+previous seven years: (1) Alexander v. Cal. Dept. of Motor
+Vehicles (N.D. Cal., No. 19-cv-03996), in which a civil
+complaintwasdismissedwithprejudice;(2)Alexanderv.Cal.
+Dept.ofMotorVehicles(9thCir.,No.20-15252),inwhichthe
+appeal was dismissed as frivolous; (3) Alexander v. County
+of San Mateo et al. (N.D. Cal., No. 20-cv-05179), in which
+the court denied T-Alexander injunctive relief and dismissed
+the matter with prejudice; (4) Michael Alexander v. County
+of San Mateo et al. (9th Cir., No. 20-16861), in which T-
+Alexander's appeal was dismissed for lack of jurisdiction;
+and (5) Michael Alexander v. County of San Mateo et al.,
+(9th Cir., No. 20-17189), in which T-Alexander's claims were
+dismissedonthebasishisappealwasfrivolous,andjudgment
+was entered against him.
+Respondents also argued that T-Alexander is a vexatious
+litigant pursuant to section 391, subdivision (b)(3), which
+defines it as any person who, “[i]n any litigation while
+acting in propria persona, repeatedly files unmeritorious
+motions, pleadings, or other papers, conducts unnecessary
+discovery, or engages in other tactics that are frivolous or
+solely intended to cause unnecessary delay.” (§ 391, subd. (b)
+(3).)Respondentsthenlistedninedistinctmotions,pleadings,
+or papers that T-Alexander had filed in the 2023 lawsuit, and
+in a related lawsuit already pending in the same court—T.
+Alexander v. Michelle Baass, et. al., Case No. 22cv00899
+(2022 lawsuit).
+As respondents noted in their motion, T-Alexander had filed
+a notice of related case when he filed the petition in the
+2023 lawsuit, which asserted that the pending 2022 lawsuit
+involved the same parties, was based on the same or similar
+claims, and arose from the same or substantially identical
+transactions, incidents, or events requiring the determination
+of the same or substantially identical questions of law or fact.
+Accordingly, respondents requested an order requiring T-
+Alexander to seek leave of court before proceeding in propria
+persona with a lawsuit in any California court, pursuant to
+section 391.7, subdivision (a). That section provides: “In
+addition to any other relief provided in this title, the court
+may, on its own motion or the motion of any party, enter
+a prefiling order which prohibits a vexatious litigant from
+filing any new litigation in the courts of this state in propria
+persona without first obtaining leave of the presiding justice
+orpresidingjudgeofthecourtwherethelitigationisproposed
+to be filed. Disobedience of the order by a vexatious litigant
+may be punished as a contempt of court.” (§ 391.7, subd. (a).)
+In addition, respondents requested an order requiring T-
+Alexander to post security sufficient to cover respondents'
+anticipated attorney fees and costs before T-Alexander may
+proceed further in the 2023 lawsuit, pursuant to section 391.1
+subdivision (a), which provides: “In any litigation pending
+in any court of this state, at any time until final judgment
+is entered, a defendant may move the court, upon notice
+and hearing, for an order requiring the plaintiff to furnish
+security or for an order dismissing the litigation pursuant to
+subdivision (b) of Section 391.3. The motion for an order
+requiring the plaintiff to furnish security shall be based upon
+the ground, and supported by a showing, that the plaintiff is a
+vexatiouslitigantandthatthereisnotareasonableprobability
+that they will prevail in the litigation against the moving
+defendant.” (§ 391.1, subd. (a).)
+*3 In support of that request, respondents argued that there
+was no reasonable probability that T-Alexander could prevail
+inthe2023lawsuitbecausetheclaimsareduplicativeofthose
+raisedinthe2022lawsuit.Asaresult,respondentsargued,the
+2023lawsuitissubjecttospecialdemurrerpursuanttosection
+430.10, subdivision (c), because another action is pending
+which involves the same parties and the same cause of action.
+After respondents filed their motion, T-Alexander initially
+filed a pleading labeled “dismissal of case” on January 22,
+2024, in which he asked the court to “[p]lease dismiss this
+case.” However, he then filed an opposition to respondents'
+amended motion on January 29, 2024. T-Alexander argued
+that the prior lawsuits did not satisfy application of section
+391, subdivision (b)(1), because they were not final adverse
+determinations on the merits, but rather were dismissed on
+procedural grounds, were appeals of the underlying cases that
+did not count as separate proceedings, or were still pending.
+He also argued that the definition in section 391, subdivision
+(b)(3), was not satisfied because the cited motions and
+pleadings he had filed were legitimate and raised valid
+arguments.
+Finally, he argued that, because “identical claims” remained
+pending in the 2022 lawsuit, there was a reasonable
+probability he could succeed on the merits, and an order
+requiring the posting of security was not warranted pursuant
+to section 391.1.
+C. Hearing and orderMICHAEL T-ALEXANDER, Plaintiff and Appellant, v...., Not Reported in...
+© 2026 Thomson Reuters. No claim to original U.S. Government Works. 3
+A hearing was held on March 14, 2024.4
+T-Alexander failed
+to properly contest the trial court's tentative ruling as required
+by the local rules, but nevertheless appeared remotely at the
+hearing and sought to argue against the ruling. The trial court
+initially allowed T-Alexander to present oral argument, but
+then stopped him when he began addressing the merits of the
+underlying petition, rather than the subject motion.
+The trial court issued its order granting respondents' motion
+on March 25, 2024 (order). The court first stated that T-
+Alexander's “proposed dismissal”—which it described as an
+apparent attempt to avoid respondents' motion—had been
+rejected for failing to use the appropriate form.
+Next, the court determined T-Alexander to be a vexatious
+litigant pursuant to section 391, subdivision (b)(1). The court
+based that ruling on eight distinct actions T-Alexander had
+filedinpropriapersonaintheprevioussevenyearswhichhad
+been adversely decided against him.
+Thecourtthenheldthattherewasnotareasonableprobability
+T-Alexander would succeed in the 2023 lawsuit because it
+was “duplicative and based upon the same facts and incident
+as in [the 2022 lawsuit], which is pending.” The trial court
+therefore required T-Alexander to post a $20,000 security
+within 30 days to prevent dismissal of the 2023 lawsuit,
+pursuant to sections 391.1 and 391.3.
+Finally, the order stated that the court would issue a prefiling
+order pursuant to section 391.7, thereby preventing T-
+Alexander from filing new litigation in any California court
+without first obtaining leave from the presiding judge where
+the proposed litigation would be filed, unless represented by
+an attorney.
+The following month, on April 18, 2024, the trial court filed
+the prefiling order declaring T-Alexander a vexatious litigant
+pursuanttosection391.7(prefilingorder).Pursuanttosection
+391.7, subdivision (f), the prefiling order also directed the
+clerk of the court to provide a copy of the order to the Judicial
+Council, which maintains a record of vexatious litigants
+subject to prefiling orders and annually disseminates a list of
+thosepersonstotheclerksofCaliforniacourts.(§391.7,subd.
+(f).)
+D. Appeal
+*4 T-Alexander timely appealed. This court subsequently
+granted T-Alexander's motion for permission to file this
+appeal pursuant to section 391.7, subdivision (c).
+II. DISCUSSION
+T-Alexander presents numerous arguments on appeal, chiefly
+contending that section 391 violates the supremacy clause of
+the United States Constitution, and is preempted by federal
+law regarding disability rights, such as the Rehabilitation
+Act of 1973 (Rehabilitation Act) and the Americans with
+Disabilities Act (ADA). As we explain below, many of
+his contentions are unsupported by reasoned argument and
+citations to authority, or they otherwise challenge non-
+appealable aspects of the trial court's order.
+A. Appealability
+Respondents first argue that the appeal should be dismissed
+for lack of jurisdiction because T-Alexander appeals from an
+interlocutory vexatious litigant order, which is not directly
+appealable, and the trial court proceedings remain pending.
+~(RB 16-17)~
+Respondents cite Golin v. Allenby (2010) 190 Cal.App.4th
+616 (Golin) which held that an “order determining a party to
+be a vexatious litigant and requiring the posting of security
+under [Code of Civil Procedure] section 391.3 is not directly
+appealable.” (Id. at p. 635.) Only after a plaintiff fails to
+furnish the security and the matter is subsequently dismissed
+pursuant to section 391.4 will an appeal lie. (Ibid.)
+There is no evidence in the record here that any subsequent
+order or judgment of dismissal was entered. For that reason,
+the trial court's order requiring the posting of security is not
+directly appealable by itself. (Golin, supra, 190 Cal.App.4th
+at p. 636.)
+However, the court's order was not limited to the security
+requirementpursuanttosection391.3—instead,thecourtalso
+stated that it would enter a prefiling order pursuant to section
+391.7, which it then did on April 18, 2024.
+A prefiling order pursuant to section 391.7 is essentially an
+injunction—“it is, literally, an order requiring [the litigant] to
+refrain from doing a particular act—filing any new litigation
+[in propria persona] without certain permission.” (Luckett
+v. Panos (2008) 161 Cal.App.4th 77, 90 [“there is noMICHAEL T-ALEXANDER, Plaintiff and Appellant, v...., Not Reported in...
+© 2026 Thomson Reuters. No claim to original U.S. Government Works. 4
+question that the prefiling order contemplated by section
+391.7, subdivision (a) is an injunction”].) Because an order
+granting an injunction is appealable pursuant to Code of Civil
+Procedure section 904.1, subdivision (a)(6), the prefiling
+order here is appealable. (In re Marriage of Rifkin & Carty
+(2015) 234 Cal.App.4th 1339, 1347 (Rifkin).)
+T-Alexander filed his initial notice of appeal on April 17,
+2024, the day before the trial court entered the prefiling order.
+In addition, neither that notice of appeal, nor his subsequent
+amended notice of appeal filed on May 16, 2024, identified
+theprefilingorderastheorderbeingappealedfrom—instead,
+theamendednoticeofappealidentifiedthetrialcourt'sMarch
+25,2024,order.Nevertheless,wewillconstrueT-Alexander's
+initial notice of appeal as a premature notice of appeal of
+the prefiling order, which we will treat as filed immediately
+after entry of the prefiling order. (Cal. Rules of Court, rule
+8.104(d)(1), (e) [“notice of appeal filed after judgment [or
+order]isrenderedbutbeforeitisenteredisvalidandistreated
+as filed immediately after entry of judgment [or order]”];
+Bosetti v. United States Life Insurance Company in City of
+New York (2009) 175 Cal.App.4th 1208, 1223, fn. 11; see
+also rule 8.100(a)(2) [“The notice of appeal must be liberally
+construed.”]; Verceles v. Los Angeles Unified School District
+(2021) 63 Cal.App.5th 776, 783 [“ ‘[N]otices of appeal are
+to be liberally construed so as to protect the right of appeal
+if it is reasonably clear what appellant was trying to appeal
+from, and where the respondent could not possibly have been
+misled or prejudiced.’ ”]
+B. Applicable law
+1. Vexatious litigant statutes
+*5 California's vexatious litigant statutes (§§ 391–391.7)
+“are designed to curb misuse of the court system by
+those persistent and obsessive litigants who, repeatedly
+litigating the same issues through groundless actions, waste
+the time and resources of the court system and other
+litigants.” (Shalant v. Girardi (2011) 51 Cal.4th 1164, 1169
+(Shalant).)
+These statutes provide two distinct, but complementary,
+sets of remedies. (Shalant, supra, 51 Cal.4th at p. 1171.)
+First, sections 391.1 through 391.6 provide that, in pending
+litigation, “a defendant may have the plaintiff declared a
+vexatious litigant and, if the plaintiff has no reasonable
+probability of prevailing, ordered to furnish security.” (Ibid.;
+§§ 391.1–391.6.) Then, “if the plaintiff fails to furnish the
+security, the action will be dismissed.” (Shalant, supra, at p.
+1171.)
+Second, a defendant may prevent a vexatious litigant “from
+filing any new litigation in propria persona by obtaining a
+prefiling order and, if any new litigation is inadvertently
+permitted to be filed in propria persona without the presiding
+judge's permission, may then obtain its dismissal.” (Shalant,
+supra, 51 Cal.4th at p. 1171; § 391.7.) Section 391.7, added
+by the Legislature in 1990 to provide an additional means
+to counter misuse of the system by vexatious litigants, “
+‘operates beyond the pending case’ and authorizes a court
+to enter a ‘prefiling order’ that prohibits a vexatious litigant
+from filing any new litigation in propria persona without first
+obtaining permission from the presiding judge.” (Shalant,
+supra, at p. 1171, citation omitted.)
+The prefiling requirement in section 391.7 does not deny a
+vexatious litigant access to the courts, but rather “ ‘operates
+solely to preclude the initiation of meritless lawsuits and their
+attendant expenditures of time and costs.’ ” (In re Marriage
+of Deal (2022) 80 Cal.App.5th 71, 77.)
+2. Rehabilitation Act and ADA
+The Rehabilitation Act of 1973 (29 U.S.C. § 701 et seq.),
+was the “ ‘first major federal statute designed to protect
+the rights of ... the [disabled] people of this country.’
+” (Fleming v. Yuma Regional Medical Center (9th Cir.
+2009) 587 F.3d 938, 940 (Fleming), quoting Smith v. Barton
+(9th Cir. 1990) 914 F.2d 1330, 1338.) Section 504 of the
+Rehabilitation Act (section 504) “creates a private right of
+action for individuals subjected to disability discrimination
+by any program or activity receiving federal financial
+assistance [citation] including employment discrimination in
+such programs [citations].” (Fleming, supra, at p. 940 [“[n]o
+otherwise qualified individual with a disability ... shall, solely
+by reason of her or his disability, be excluded from the
+participation in, be denied the benefits of, or be subjected
+to discrimination under any program or activity receiving
+Federal financial assistance”].)
+The ADA, enacted in 1990, “aims ‘to provide a clear
+and comprehensive national mandate for the elimination
+of discrimination against individuals with disabilities.’
+” (Daubert v. Lindsay Unified School District (9th Cir. 2014)
+760 F.3d 982, 985, quoting 42 U.S.C. § 12101(b)(1).) “TheMICHAEL T-ALEXANDER, Plaintiff and Appellant, v...., Not Reported in...
+© 2026 Thomson Reuters. No claim to original U.S. Government Works. 5
+ADA contains five titles separately addressing employment,
+public entities, public accommodations, telecommunications,
+and miscellaneous matters.” (Stanley v. City of Sanford,
+Florida (2025) 606 U.S. 46, 51.)
+C. Principles of appellate review and standard of review
+*6 A fundamental principle of appellate review is that we
+presume a trial court's judgment is correct and the burden is
+on the appellant to demonstrate that the court committed an
+error that justifies reversal of the judgment. (L.O. v. Kilrain
+(2023) 96 Cal.App.5th 616, 620 (Kilrain).) The appellant
+must support each claim of error with meaningful analysis
+andcitationtolegalauthority.(Ewaldv.NationstarMortgage,
+LLC (2017) 13 Cal.App.5th 947, 948.) An appellant's failure
+either to raise a point or support it with reasoned argument
+and citations to authority allows the reviewing court to deem
+the unsupported contentions forfeited. (Ibid.; Kilrain, supra,
+at p. 620.)
+We review a trial court's determination that an individual is
+a vexatious litigant for substantial evidence. (Rifkin, supra,
+234 Cal.App.4th at p. 1346, citing Holcomb v. U.S. Bank
+National Association (2005) 129 Cal.App.4th 1494, 1498–
+1499.) “Review of the order is accordingly limited and the
+Court of Appeal will uphold the ruling if it is supported by
+substantial evidence. Because the trial court is best suited
+to receive evidence and hold hearings on the question of
+a party's vexatiousness, we presume the order declaring a
+litigant vexatious is correct and imply findings necessary to
+support the judgment.” (Golin, supra, 190 Cal.App.4th at p.
+636.)
+By contrast, we exercise de novo review of the
+constitutionality of statutes and whether they are preempted
+by federal law. (Persky v. Bushey (2018) 21 Cal.App.5th
+810, 817–818; People ex rel. Renne v. Servantes (2001)
+86 Cal.App.4th 1081, 1087.) “ ‘ “[A]ll presumptions and
+intendments favor the validity of a statute and mere
+doubt does not afford sufficient reason for a judicial
+declaration of invalidity. Statutes must be upheld unless
+their unconstitutionality clearly, positively, and unmistakably
+appears.” ’ ” (Voters for Responsible Retirement v. Board of
+Supervisors (1994) 8 Cal.4th 765, 780, citations omitted.)
+D. Analysis
+1. Supremacy clause and preemption
+T-Alexander first argues that the supremacy clause of the
+United States Constitution precludes using section 391 to
+“convertfederallyprotectedADAdisabilitycomplaintsunder
+42 USC § 12101 and Section 504 complaints into grounds
+for restricting state court access.” According to T-Alexander,
+penalizing an individual for exercising his federal rights in
+that manner “creates precisely the type of procedural obstacle
+that ‘burdens, frustrates and defeats’ federal rights….”
+We begin with a brief overview of the supremacy clause and
+the law regarding preemption. As a general matter, “ ‘in our
+system of federalism, federal law and state law ordinarily
+coexist.” (Ranger v. Alamitos Bay Yacht Club (2025) 17
+Cal.5th 532, 547, citing Ward v. United Airlines, Inc. (2020) 9
+Cal.5th732,757(Ward).)Whenstateandfederallawoverlap,
+“tensions between them are resolved not by interstate comity
+and choice of law principles but by the supremacy clause and
+preemption principles.” (Ward, supra, at p. 757.)
+The supremacy clause of the United States Constitution
+provides: “This Constitution, and the Laws of the United
+States which shall be made in Pursuance thereof; and all
+Treaties made, or which shall be made, under the Authority
+of the United States, shall be the supreme Law of the Land;
+and the Judges in every State shall be bound thereby, any
+ThingintheConstitutionorLawsofanyStatetotheContrary
+notwithstanding.” (U.S. Const. Art. VI, cl. 2.) As a result,
+“Congressmayconsequentlypre-empt,i.e.,invalidate,astate
+law through federal legislation. It may do so through express
+language in a statute. But even where ... a statute does not
+refer expressly to pre-emption, Congress may implicitly pre-
+empt a state law, rule, or other state action.” (Oneok, Inc. v.
+Learjet, Inc. (2015) 575 U.S. 373, 376–377.)
+*7 There are “ ‘three different types of preemption
+—“conflict,” “express,” and “field,” [citation]—but all of
+them work in the same way: Congress enacts a law that
+imposes restrictions or confers rights on private actors; a
+state law confers rights or imposes restrictions that conflict
+with the federal law; and therefore the federal law takes
+precedenceandthestatelawispreempted.’”(CountyofButte
+v.DepartmentofWaterResources(2022)13Cal.5th612,628,
+quoting Murphy v. National Collegiate Athletic Assn. (2018)
+584 U.S. 453.)
+Here, T-Alexander broadly argues that section 391 violates
+the supremacy clause by penalizing “the filing of federal
+ADA disability complaints under 42 USC § 12101 and
+Section 504 complaints.” As support, he cites numerousMICHAEL T-ALEXANDER, Plaintiff and Appellant, v...., Not Reported in...
+© 2026 Thomson Reuters. No claim to original U.S. Government Works. 6
+United States Supreme Court cases for the general
+propositions described above.
+However,T-Alexanderhasfailedtoanalogizeanyofthecases
+to the facts at issue here, or otherwise describe how section
+391—or any of the vexatious litigant statutes—conflicts with
+federal disability laws or rights. Nor do his case references
+include any pin citations to specific portions of the opinions
+that purportedly support his assertions.5
+We consider the
+arguments forfeited. (Handyman Connection of Sacramento,
+Inc. v. Sands (2004) 123 Cal.App.4th 867, 880, fn. 14
+(Handyman) [declining to consider points supported only by
+case citations with no pin cites].) “ ‘It is not our place to
+construct theories or arguments to undermine the judgment
+and defeat the presumption of correctness.’ ” (Kilrain, supra,
+96 Cal.App.5th at p. 620; see also, In re S.C. (2006) 138
+Cal.App.4th 396, 412 [not court's role to carry out appellate
+burden to explain how authorities support claim of error];
+Nwosu v. Uba (2004) 122 Cal.App.4th 1229, 1246– 1247
+[rules apply equally to self-represented parties].)
+Similarly, with respect to preemption, T-Alexander merely
+recites the various types of preemption—conflict, express,
+and field—but fails to provide any analysis or discussion
+of how the doctrines might apply here. And he again cites
+numerous United States Supreme Court cases but provides
+no discussion or application to the facts here.6
+To the
+extent T-Alexander has asserted any arguments regarding
+preemption, we consider them forfeited. (Handyman, supra,
+123 Cal.App.4th at p. 880, fn. 14.)
+*8 T-Alexander also argues that “[t]he imposition of [§
+391] bond requirements on individuals exercising their rights
+under the ADA (42 USC § 12101) and Section 504 creates
+an impermissible financial barrier that directly conflicts with
+federal disability law's guarantee of meaningful access to
+legal remedies.” However, as explained above, the trial
+court's order requiring the posting of security is not directly
+appealable here. (Golin, supra, 190 Cal.App.4th at p. 636.)
+T-Alexander next argues that the use of section 391 to
+penalize the federally protected act of filing disability
+complaints constitutes prohibited state interference with
+federal law, pursuant to Nash v. Florida Industrial
+Commission (1967) 389 U.S. 235 (Nash). In Nash, the United
+States Supreme Court considered whether a Florida state
+law that denied unemployment insurance to those who had
+filed an unfair labor practice charge violated the supremacy
+clause because it conflicted with the federal National Labor
+Relations Act (NLRA), “a comprehensive code passed by
+Congress to regulate labor relations in activities affecting
+interstate and foreign commerce.” (Nash, supra, at pp. 235–
+237.) Implementation of the NLRA, the Court explained,
+“is dependent upon the initiative of individual persons who
+must,aspetitionerhasdonehere,invokeitssanctionsthrough
+filing an unfair labor practice charge,” and “Congress has
+made it clear that it wishes all persons with information about
+such practices to be completely free from coercion against
+reporting them to the Board,” as shown by section 8(a)(4) of
+the NLRA, “which makes it an unfair labor practice for an
+employer to discriminate against an employee because he has
+filed charges.” (Nash, supra, at p. 238.)
+The Court held that the state law, “like the coercive actions
+which employers and unions are forbidden to engage in, has
+a direct tendency to frustrate the purpose of Congress to
+leave people free to make charges of unfair labor practices to
+the Board.” (Nash, supra, 389 U.S. at p. 239.) Specifically,
+because Florida had applied its law so that an employee
+who believes he has been wrongly discharged must either
+“keepquietandreceiveunemploymentcompensationuntilhe
+finds a new job,” or file an unfair labor practice charge and
+thereby surrender his right to unemployment compensation,
+the financial burden imposed by the state law impedes resort
+to the federal law and “thwart[s] congressional reliance on
+individual action.” (Ibid.)
+T-Alexander argues the case is directly analogous here
+because:(1)filingADAandsection504disabilitycomplaints
+are similarly protected federal acts; (2) California uses
+section 391 to penalize disability rights filings; (3) California
+similarlyforcesachoicebetweenexercisingfederaldisability
+rights through complaints or avoiding state penalties under
+section 391; (4) section 391's financial burdens and its bar on
+access to state courts to enforce state and federal disability
+complaints impede access to ADA and section 504 remedies;
+and (5) using section 391 to burden federal disability rights
+“retards, impedes, burdens” federal rights and creates “an
+obstacle to the accomplishment and execution of the full
+purposes and objectives of Congress.”
+We find the analogy unpersuasive. As a threshold matter,
+T-Alexander has not identified any specific sections of the
+RehabilitationActorADAwhichheclaimsareimpededhere.
+Instead, he refers only to “section 504” or the “ADA” as a
+whole. For that reason, we are unable to conduct the kind
+of analysis the United States Supreme Court undertook in
+Nash, when it determined that Florida's state law thwartedMICHAEL T-ALEXANDER, Plaintiff and Appellant, v...., Not Reported in...
+© 2026 Thomson Reuters. No claim to original U.S. Government Works. 7
+the specific cited sections of the NLRA which made it an
+unfair labor practice to discriminate against an employee
+because he had filed charges. (Nash, supra, 389 U.S. at p.
+238.)AlthoughT-Alexanderrefersgenerallytoarighttofilea
+federal disability complaint, he does not identify any specific
+statutory authority immunizing his federal litigation activity
+from the operation of section 391 et seq.7
+*9 In any event, California's vexatious litigant statutes
+do not preclude the filing of federal disability, or other,
+complaints. Instead, where applicable, they merely require a
+vexatious litigant plaintiff to (1) furnish security to maintain
+an action where the plaintiff has no reasonable probability
+of prevailing, or (2) obtain permission from the presiding
+judge before filing any new litigation in propria persona.
+(§§ 391.1–391.7.) T-Alexander has failed to articulate how
+those statutes thwart congressional intent of any part of the
+Rehabilitation Act or ADA.
+Relatedly, T-Alexander argues that the ADA and section 504
+create a protected class of litigants for qualified individuals
+with disabilities, thereby creating a “ ‘fundamental
+distinction’betweendisabilityrightslitigationandthegeneral
+civilcases[section391]wasdesignedtoregulate.”Itfollows,
+he contends, that section 391's inclusion of “any civil
+action or proceeding” within its scope “impermissibly fails
+to recognize the special status of federal disability rights
+claims.”
+However, T-Alexander has again failed to support his
+contentions with reasoned argument or citations to authority.
+For instance, he cites generally to Tennessee v. Lane (2004)
+541 U.S. 509, for its purported statements that “Title II of
+the ADA unambiguously confers fundamental rights,” and
+that Congress enacted the ADA “to provide clear, strong,
+consistent, enforceable standards addressing discrimination
+against individuals with disabilities.” Yet the cited quotations
+do not appear in the opinion at all.8
+We consider the
+arguments forfeited.
+Lastly, T-Alexander argues that section 391 is
+unconstitutional, both facially and as applied, because it
+does not exempt federally protected claims from those
+that can be considered to determine a vexatious litigant.
+AccordingtoT-Alexander,“thestatute'sfailuretodistinguish
+between ordinary civil litigation (overly-broad language)
+and congressionally created rights of action for a protected
+class (not narrowly tailored) raises serious constitutional
+concerns under both the Supremacy Clause and fundamental
+principles of federal preemption.” Yet T-Alexander again
+merely asserts general propositions without any reasoned
+argument or authority. As we have explained, California's
+vexatious litigant statutes do not preclude the filing of federal
+disabilitycomplaints,andT-Alexanderhasfailedtoarticulate
+how the statutes thwart or impede the Rehabilitation Act or
+ADA.9
+2. Trial court conduct and due process
+T-Alexanderarguesthat“improperjudicialconduct”violated
+his due process and invalidates the trial court's order.
+Specifically, he contends that the trial court improperly
+considered and relied on the 2022 lawsuit as a basis for its
+ruling, even though the complaint from the 2022 lawsuit was
+never entered into evidence. He asserts that the trial court's
+relianceonthe2022lawsuitconstitutesimproperuseofextra-
+record evidence; constitutional violations through extra-
+judicial knowledge; improper independent investigation;
+improper ex parte communication between trial court judges;
+and violation of due process.
+*10 First, we note that T-Alexander himself identified the
+2022 lawsuit as a related case, and asserted that it involved
+thesameparties,wasbasedonthesameorsimilarclaims,and
+arose from the same or substantially identical transactions,
+incidents, or events requiring the determination of the same
+or substantially identical questions of law or fact as the 2023
+lawsuit.
+More importantly, though, it is immaterial whether the
+complaint from the 2022 lawsuit was entered into evidence
+or whether the trial court relied on it. Only the trial court's
+prefiling order pursuant to section 391.7 is properly before
+this court on appeal. And the trial court based its prefiling
+order on its determination that T-Alexander is a vexatious
+litigantpursuanttosection391,subdivision(b)(1),forhaving
+filedatleastfiveproperlawsuitsintheprecedingsevenyears
+that were finally determined adversely to him, which did not
+include the 2022 lawsuit.10
+3. No federal court vexatious litigant designation
+T-Alexander argues that the federal courts' decision not to
+declare him a vexatious litigant “carries significant legal
+weight that cannot be disregarded.” He contends that theMICHAEL T-ALEXANDER, Plaintiff and Appellant, v...., Not Reported in...
+© 2026 Thomson Reuters. No claim to original U.S. Government Works. 8
+federal courts' “choice not to impose such restrictions,
+particularly given their special expertise in federal disability
+rightslaw,shouldinformanystatecourt'sconsiderationofthe
+same conduct under [section 391.]”
+However, T-Alexander has cited no evidence of whether any
+of the federal courts that presided over his prior litigation
+actually considered declaring him a vexatious litigant and
+decided not to. Nor has he cited any authority for the
+proposition that such a determination would be relevant or
+legally preclude a California court from declaring him a
+vexatious litigant pursuant to section 391.
+4. Procedural versus substantive determinations
+T-Alexander argues that because the prior federal litigation
+was resolved on procedural grounds, rather than on the merits
+of his disability claims, it cannot serve as the basis for a
+vexatious litigant determination pursuant to section 391.
+Contrary to T-Alexander's assertion, though, it is well
+established that “litigation is finally determined adversely
+to a plaintiff if he does not win the action or proceeding
+he began, including cases that are voluntarily dismissed
+by a plaintiff.” (Garcia v. Lacey (2014) 231 Cal.App.4th
+402, 406–407, citing Tokerud v. Capitolbank Sacramento
+(1995) 38 Cal.App.4th 775, 779; In re Whitaker (1992) 6
+Cal.App.4th 54, 56.) In short, there is no requirement that
+prior litigation be resolved on the merits for purposes of
+section 391, subdivision (a)(1). Nor has T-Alexander has
+cited any authority for that proposition.
+III. DISPOSITION
+*11 The order is affirmed. In the interests of justice, the
+parties shall bear their own costs on appeal. (Cal. Rules of
+Court, rule 8.278(a)(5).)
+WE CONCUR:
+Grover, Acting P. J.
+Lie, J.
+All Citations
+Not Reported in Cal.Rptr., 2026 WL 1004593
+Footnotes
+1 Subsequent undesignated statutory references are to the Code of Civil Procedure.
+2 Appellant alternately refers to himself as “T-Alexander,” “T. Alexander,” or “Alexander.” We will refer to him
+as “T-Alexander,” which matches the name listed on the operative petition and complaint and the notice of
+appeal in this action.
+3 We refer to this lawsuit as the “2023 lawsuit” because, as explained below, T-Alexander had previously filed
+a related lawsuit in 2022 against the same respondents in the same court, which remained pending at the
+time he filed the 2023 lawsuit.
+4 The hearing was not transcribed by a court reporter. T-Alexander elected to designate a settled statement
+on appeal, which the trial court ultimately prepared and certified on December 10, 2024.
+5 See, e.g., McCulloch v. Maryland (1819) 17 U.S. 316; Felder v. Casey (1988) 487 U.S. 131; Howlett v. Rose
+(1990) 496 U.S. 356; Wisconsin Public Intervenor v. Mortier (1991) 501 U.S. 597; Sperry v. Florida ex rel.
+Florida Bar (1963) 373 U.S. 379; Pacific Gas & Electric Co. v. State Energy Resources Conservation &
+Development Commission (1983) 461 U.S. 190; Arizona v. United States (2012) 567 U.S. 387; Leslie Miller,
+Inc. v. Arkansas (1956) 352 U.S. 187.MICHAEL T-ALEXANDER, Plaintiff and Appellant, v...., Not Reported in...
+© 2026 Thomson Reuters. No claim to original U.S. Government Works. 9
+6 See, e.g., Rice v. Santa Fe Elevator Corporation (1947) 331 U.S. 218; Fidelity Federal Savings and Loan
+Association v. de la Cuesta (1982) 458 U.S. 141; Lawrence County v. Lead-Deadwood School District No.
+40-1 (1985) 469 U.S. 256; Metropolitan Life Insurance Co. v. Taylor (1987) 481 U.S. 58; Brown v. Hotel
+and Restaurant Employees and Bartenders International Union Local 54 (1984) 468 U.S. 491; Hillsborough
+County, Florida v. Automated Medical Laboratories, Inc. (1985) 471 U.S. 707; Boyle v. United Technologies
+Corporation (1988) 487 U.S. 500; Geier v. American Honda Motor Company, Inc. (2000) 529 U.S. 861.
+7 Elsewhere in his opening brief, T-Alexander claims that section 391 “impermissibly converts protected federal
+acts (filing disability complaints) (39 CFR 255.6) into grounds for state penalties.” The cited regulation
+appears to be part of the United States Postal Service regulations implementing section 504, which includes
+administrative procedures for filing section 504 complaints “alleging disability discrimination in any program
+or activity of the Postal Service and brought by members of the public.” (39 C.F.R. § 255.6(b); Muhammad
+v. United States (D.D.C. 2018) 300 F.Supp.3d 257, 263.) T-Alexander has not articulated how the regulation
+is applicable or relevant here.
+8 This is not the only instance of T-Alexander including quotations in his opening brief that do not appear in
+the cited source. We note another such incident below.
+9 T-Alexander also contends that respondents' request for judicial notice in the trial court had “merely listed
+federal case dispositions without providing the underlying complaints,” so the trial court failed to recognize
+that the cases involved statutorily protected ADA and section 504 claims. However, T-Alexander has not
+established that the nature of the underlying complaints makes any difference in the analysis of a vexatious
+litigant determination pursuant to section 391.
+10 T-Alexander cites People v. Superior Court (Humberto S.) (2008) 43 Cal.4th 737, 750, for the following
+quotation: “a judge may not act on personal knowledge of facts not presented in evidence or conduct an
+independent investigation of facts not in evidence.” However, no such quotation appears in that case, or
+in any other case this court was able to locate. In addition to the other such instance in his opening brief
+identified above, T-Alexander's reply brief contains numerous similar fabricated quotations. The record also
+shows that T-Alexander acknowledged having included inaccurate citations in briefing in the trial court. We
+caution appellant that such conduct violates the California Rules of Court and Code of Civil Procedure,
+notwithstandingthefactthatheisunrepresented.(See,e.g.,Cal.RulesofCourt,rule8.204(a)(1)(B)[requiring
+all assertions of law in brief be supported by citation to legal authority]; § 128.7, subd. (b)(2) [requiring “legal
+contentions” in a brief to be “warranted by existing law or by a nonfrivolous argument for the extension,
+modification, or reversal of existing law or the establishment of new law”].)
+End of Document © 2026 Thomson Reuters. No claim to original U.S. Government Works.

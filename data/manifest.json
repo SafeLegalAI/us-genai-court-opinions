@@ -1,0 +1,135 @@
+{
+ "dataset": "US court decisions on generative AI — coded corpus",
+ "version": "0.1.0",
+ "built": "2026-09-07",
+ "canonical": "https://safelegalai.com/courts",
+ "repository": "https://github.com/SafeLegalAI/us-genai-court-opinions",
+ "huggingface": "https://huggingface.co/datasets/safelegalaidata/us-genai-court-opinions",
+ "license_data": "CC BY 4.0 (SafeLegalAI, Cognesio LLP); underlying official documents keep their own status (see NOTICE)",
+ "notice": "Provided as is, without warranty. Not legal advice. SafeLegalAI (Cognesio LLP) records what courts, regulators, legislatures and vendors' own public pages state; the linked official documents are the record. Names and marks belong to their owners. Anyone named may reply: https://safelegalai.com/report. Full terms: https://safelegalai.com/disclaimer",
+ "tables": {
+  "decisions": {
+   "file": "data/decisions.jsonl",
+   "schema": "schema/decisions.schema.json",
+   "stats": {
+    "rows": 567,
+    "rejected": 0,
+    "by_primary_topic": {
+     "fabricated-citations": 522,
+     "pro-se-ai-use": 10,
+     "rules-by-opinion": 8,
+     "criminal-justice-algorithms": 6,
+     "substantive-ai-law": 5,
+     "evidence-authentication": 5,
+     "court-ai-use": 4,
+     "discovery-ediscovery": 3,
+     "competence-fees": 2,
+     "privilege-work-product": 2
+    },
+    "by_court_level": {
+     "federal-district": 319,
+     "state-appellate": 145,
+     "federal-appellate": 28,
+     "state-supreme": 26,
+     "state-trial": 26,
+     "federal-bankruptcy": 11,
+     "federal-specialty": 10,
+     "other": 2
+    },
+    "by_state": {
+     "CA": 53,
+     "NY": 49,
+     "TX": 32,
+     "FL": 28,
+     "IL": 27,
+     "AZ": 21,
+     "MI": 19,
+     "OH": 18,
+     "IN": 18,
+     "PA": 16,
+     "WA": 16,
+     "AL": 13,
+     "OR": 13,
+     "MD": 12,
+     "NV": 11,
+     "NC": 11,
+     "OK": 11,
+     "GA": 10,
+     "CO": 10,
+     "IA": 9,
+     "TN": 9,
+     "DC": 8,
+     "UT": 8,
+     "DE": 8,
+     "MA": 8,
+     "NJ": 7,
+     "MO": 7,
+     "AR": 7,
+     "CT": 7,
+     "MN": 7,
+     "KS": 7,
+     "LA": 7,
+     "MS": 6,
+     "NM": 5,
+     "VA": 5,
+     "ND": 4,
+     "KY": 4,
+     "HI": 3,
+     "WI": 3,
+     "ME": 2
+    },
+    "by_document_type": {
+     "order": 220,
+     "opinion": 172,
+     "memorandum-opinion": 122,
+     "report-and-recommendation": 36,
+     "other": 9,
+     "administrative-order": 4,
+     "concurrence": 3,
+     "dissent": 1
+    },
+    "by_court_used_ai": {
+     "False": 563,
+     "True": 4
+    },
+    "by_verification": {
+     "mirror-read": 514,
+     "fetched-and-read": 53
+    }
+   }
+  },
+  "litigation": {
+   "file": "data/litigation.jsonl",
+   "schema": "schema/litigation.schema.json",
+   "stats": {
+    "rows": 9,
+    "rejected": 0,
+    "by_status": {
+     "judgment": 3,
+     "dismissed": 2,
+     "active": 1,
+     "settled": 1,
+     "consent-order": 1,
+     "on-appeal": 1
+    },
+    "by_qualifier": {
+     "upl-consumer": 3,
+     "database-terms": 2,
+     "copyright-training": 2,
+     "trade-secret-vendor": 1,
+     "regulator-consumer": 1
+    },
+    "by_court": {
+     "U.S. District Court for the Northern District of California": 2,
+     "Supreme Court of British Columbia": 1,
+     "Federal Trade Commission": 1,
+     "U.S. District Court for the Southern District of Illinois": 1,
+     "Bundesgerichtshof": 1,
+     "U.S. District Court for the District of Delaware; U.S. Court of Appeals for the Third Circuit": 1,
+     "Cour d’appel de Paris, Pôle 5, Chambre 1": 1,
+     "U.S. District Court for the District of Minnesota": 1
+    }
+   }
+  }
+ }
+}

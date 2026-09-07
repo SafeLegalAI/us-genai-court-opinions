@@ -1,0 +1,341 @@
+                                  COURT OF CHANCERY
+                                        OF THE
+                                  STATE OF DELAWARE
+     LORI W. WILL                                                  LEONARD L. WILLIAMS JUSTICE CENTER
+    VICE CHANCELLOR                                                   500 N. KING STREET, SUITE 11400
+                                                                     WILMINGTON, DELAWARE 19801-3734
+                                        July 1, 2026
+
+    Richard P. Rollo, Esquire                      Margaret M. DiBianca, Esquire
+    Travis S. Hunter, Esquire                      DiBianca Law, LLC
+    Richards, Layton & Finger, P.A.                1201 North Orange Street, Suite 504
+    920 North King Street                          Wilmington, Delaware 19801
+    Wilmington, Delaware 19801
+
+          RE: Kevin Leiske et al. v. Robert Gregory Kidd et al.,
+              C.A. No. 2025-0426-CDW (LWW)
+
+Dear Counsel,
+
+          This is an advancement case pending before a Magistrate in Chancery. It was
+
+reassigned to me for the limited purpose of resolving exceptions to the Magistrate’s
+
+final report on advancement.
+
+          On January 22, 2026, the plaintiffs filed an answering brief in opposition to
+
+the defendants’ exceptions (the “Answering Brief”) to the Magistrate’s advancement
+
+order.1 On January 27, the defendants’ reply brief identified that the Answering
+
+Brief contained fictitious citations, fabricated quotations, and hallucinated legal
+
+propositions.2
+
+
+1
+    Pls.’ Answering Br. in Opp’n to Defs.’ Exceptions (Dkt. 62).
+2
+  Reply Br. in Further Supp. of Defs.’ Exceptions to Magistrate’s Jan. 2, 2026 Report
+(Dkt. 65) 12-13 nn. 4-6, 16 n.7; see Harris as Next Friend of RNH v. Adams, 757 F.
+Supp. 3d 111, 119 n.3 (D. Mass. 2024) (“AI hallucination is a phenomenon wherein a large
+language model (LLM)—often a generative AI chatbot or computer vision tool—perceives
+patterns or objects that are nonexistent or imperceptible to human observers, creating
+C.A. No. 2025-0426-CDW (LWW)
+July 1, 2026
+Page 2 of 8
+
+          The next day, on January 28, plaintiffs’ counsel filed a letter acknowledging
+
+the use of a generative artificial intelligence (“GenAI”) tool to revise the text of the
+
+Answering Brief.3 Counsel admitted failing to verify the accuracy of the citations
+
+before filing, attributing the oversight to a paralegal’s review.4 The plaintiffs also
+
+filed a corrected Answering Brief.5 Although this submission removed quotation
+
+marks around erroneous statements of law, it did not correct the inaccurate
+
+descriptions.6
+
+          The defendants’ counsel then filed a letter detailing the remaining
+
+misrepresentations in the corrected Answering Brief and identifying similar citation
+
+problems in the plaintiffs’ summary judgment briefing.7
+
+
+
+
+outputs that are nonsensical or altogether inaccurate.” (quoting What Are Hallucinations?,
+IBM, https://www.ibm.com/topics/ai-hallucinations (last visited July 1, 2026))).
+3
+  Letter Providing Corrected Answering Br. in Opp’n to Defs.’ Exceptions (Dkt. 68); see
+also An v. Archblock, Inc., 2025 WL 1024137, at *1 (Del. Ch. Apr. 4, 2025) (ORDER)
+(defining “GenAI” as “models or tools that generate new content, including text, based
+upon machine learning from existing data”).
+4
+    Letter Providing Corrected Answering Br. in Opp’n to Defs.’ Exceptions (Dkt. 68).
+5
+ Pls.’ Corrected Answering Br. in Opp’n to Defs.’ Exceptions (Dkt. 69) (“Pls.’ Corrected
+Answering Br.”).
+6
+  See Letter in Resp. to Pls.’ Letter Regarding GenAI Errors (Dkt. 70) 1-2 (asserting that
+the corrected brief “merely fixes citation errors as if they are typographical only” and “still
+mischaracterizes some of the Courts’ analyses”).
+7
+    Id. at 2-4.
+C.A. No. 2025-0426-CDW (LWW)
+July 1, 2026
+Page 3 of 8
+
+           On January 29, plaintiffs’ counsel filed a letter faulting the defendants’
+
+counsel for failing to “meet and confer” about the errors before bringing them to the
+
+court’s attention.8 The letter insisted on the accuracy of the underlying legal
+
+propositions in the Answering Brief, stating that the cited authorities “are real” and
+
+“support the arguments advanced.”9 Counsel also accused the defendants of using
+
+the GenAI errors to gain a “litigation advantage.”10
+
+           On February 2, I issued a letter opinion overruling the defendants’ exceptions
+
+and affirming the Magistrate’s final report.11 In doing so, I expressly retained
+
+jurisdiction to determine what remedy, if any, should issue to address the non-
+
+existent citations and misrepresentations in the plaintiffs’ Answering Brief.12
+
+           In the interim, on April 2, the Magistrate resolved the plaintiffs’ motion for
+
+contempt and sanctions concerning the defendants’ advancement obligations.13 No
+
+exceptions were taken to that report, leaving the collateral issue of plaintiffs’
+
+counsel’s GenAI misuse ripe for resolution.
+
+
+8
+    Letter in Resp. to Defs.’ Jan. 28 Letter (Dkt. 71) 1.
+9
+    Id. at 2.
+10
+     Id.
+11
+     Letter Op. Resolving Exceptions (Dkt. 74).
+12
+  Id. at 7 n.40 (“I retain jurisdiction to determine what remedy, if any, should issue to
+address the GenAI errors in the plaintiffs’ brief.”).
+13
+  See Tr. of Apr. 2, 2026 Telephonic Report of the Magistrate on Pls.’ Mot. for Contempt
+and Sanctions (Dkt. 100).
+C.A. No. 2025-0426-CDW (LWW)
+July 1, 2026
+Page 4 of 8
+
+Legal Standard and Analysis
+
+         Court of Chancery Rule 11(b) provides that an attorney or litigant presenting
+
+a pleading or written motion to the court certifies that “to the best of the person’s
+
+knowledge, information, and belief, formed after an inquiry reasonable under the
+
+circumstances[,]” the “legal contentions” made “are warranted by existing law.”14
+
+An attorney’s signature on a court filing is not a procedural formality; it is a
+
+certification to the tribunal.15
+
+         GenAI offers a powerful tool to streamline legal practice and assist in
+
+advocacy.16         Using GenAI in preparing court filings is “not inherently
+
+problematic”—provided the attorney (or litigant) carefully verifies the accuracy of
+
+the output.17 Here, counsel acknowledges that the GenAI output was not verified
+
+before the Answering Brief was filed.18
+
+
+
+
+14
+     Ct. Ch. R. 11(b)(2).
+15
+   See Crumplar v. Superior Ct. ex rel. New Castle Cnty., 56 A.3d 1000, 1005-06
+(Del. 2012) (quoting Rule 11 to emphasize that an attorney’s signature “constitutes a
+certificate” that the filing is warranted by existing law after a reasonable inquiry).
+16
+   An v. Archblock, Inc., 2025 WL 1024661, at *2 (Del. Ch. Apr. 5, 2025) (“GenAI
+streamlines legal research, assists in drafting documents, and supports efficient document
+review and summarization.”).
+17
+     Id. (“The use of GenAI in legal work is not inherently problematic.”).
+18
+     Id. (“GenAI carries significant risks to the legal system if it is used carelessly.”).
+C.A. No. 2025-0426-CDW (LWW)
+July 1, 2026
+Page 5 of 8
+
+         The submission of hallucinated legal propositions raises an inference of a Rule
+
+11(b) violation, requiring counsel to show cause why sanctions should not issue.19
+
+A fictitious citation is not “existing law.”20 The duty of candor to the court, and the
+
+obligation to conduct a reasonable inquiry under Rule 11, are nondelegable.21
+
+Counsel cannot discharge those obligations by relying on a paralegal, much less on
+
+an artificial intelligence program.
+
+         Here, the concerns raised by the initial filing were compounded by counsel’s
+
+response after the errors were identified.22 In correcting the Answering Brief,
+
+counsel merely deleted quotation marks while preserving the fabricated legal
+
+synthesis.23 Additionally, counsel’s assertion that parties should meet and confer
+
+
+19
+   See Lexos Media IP LLC v. Overstock.com, Inc., 2026 WL 265581, at *1, *9, *17 (D.
+Kan. Feb. 2, 2026) (admonishing and sanctioning attorneys for filing “defective legal
+citations created through the use of generative artificial intelligence”); Johnson v. Dunn,
+792 F. Supp. 3d 1241, 1262, 1267-68 (N.D. Ala. 2025) (disqualifying an attorney who
+submitted unverified, hallucinated GenAI citations, finding the conduct reflected a
+“complete and utter disregard for [his] professional duty of candor” and “recklessness in
+the extreme . . . tantamount to bad faith”).
+20
+  Ct. Ch. R. 11(b); see Mata v. Avianca, Inc., 678 F. Supp. 3d 443, 461 (S.D.N.Y. 2023)
+(holding that “[a] fake opinion is not ‘existing law’”).
+21
+     See Lexos, 2026 WL 265581, at *9 (noting the duty to verify is “nondelegable”).
+22
+  See Mata, 678 F. Supp. 3d at 464 (finding bad faith where attorneys “advocated for the
+fake cases and legal arguments . . . after being informed by their adversary’s submission
+that their citations were non-existent”).
+23
+  For example, the corrected Answering Brief continues to rely on Perconti v. Thornton
+Oil Corp. for the principle that “Delaware courts recognize that fiduciaries almost always
+have personal financial stakes aligned with the entities they serve.” Pls.’ Corrected
+Answering Br. 9; see Perconti v. Thornton Oil Corp., 2002 WL 982419 (Del. Ch. May 3,
+C.A. No. 2025-0426-CDW (LWW)
+July 1, 2026
+Page 6 of 8
+
+before alerting the court to GenAI errors misstates the purpose of that requirement.
+
+The meet-and-confer requirement is designed to facilitate the resolution of disputes
+
+among parties. There is nothing to negotiate or compromise when an attorney
+
+submits false citations to a tribunal, and opposing counsel is justified in bringing
+
+such misrepresentations directly to the court’s attention.
+
+         Finally, Rule 11(c)(1) mandates that “[a]bsent exceptional circumstances, a
+
+law firm must be held jointly responsible for violations committed by its partners,
+
+associates, or employees.”24 Because this incident may implicate the firm’s training,
+
+supervision, and deployment of GenAI, the firm must answer alongside the
+
+individual signatory.25
+
+Rule to Show Cause
+
+         Richard P. Rollo, Esq.—the signatory to the brief and letters—and Richards,
+
+Layton & Finger, P.A. (“RLF”) are ordered to show cause why they should not be
+
+sanctioned under Rule 11(c) and this court’s inherent authority.26
+
+
+
+2002). That concept is absent from Perconti, which concerns the use of corporate funds
+for one’s personal benefit. Perconti, 2002 WL 982419, at *1.
+24
+     Ct. Ch. R. 11(c)(1).
+25
+     E.g., Mata, 678 F. Supp. 3d at 465; Johnson, 792 F. Supp. 3d at 1261-62.
+26
+  See Ct. Ch. R. 11(c)(3) (confirming the court’s authority to “order an attorney, law firm,
+or party to show cause why conduct specifically described in the order has not violated
+Rule 11(b)”); see also Ct. Ch. R. 11(c)(1) (stating that the court may impose sanctions only
+“after notice and a reasonable opportunity to respond”).
+C.A. No. 2025-0426-CDW (LWW)
+July 1, 2026
+Page 7 of 8
+
+      By no later than July 15, 2026, Mr. Rollo and an authorized representative of
+
+RLF must each file an affidavit showing good cause, if any, why sanctions should
+
+not be imposed.
+
+      The affidavit of Mr. Rollo must address:
+
+         • A timeline of how and when the GenAI tool was utilized in
+           drafting the Answering Brief, including who entered the prompts
+           and how the generated output was incorporated into the
+           Answering Brief.
+
+         • A description of the cite-checking process before filing the
+           Answering Brief, including instructions given to the paralegal(s)
+           involved, the tools used for verification (e.g., Westlaw,
+           LexisNexis), whether attorneys verified the cited text, and
+           whether the paralegal’s cite checking edits were incorporated
+           into the final Answering Brief.
+
+         • An explanation of the remedial steps taken between
+           January 27, 2026 (when opposing counsel flagged the errors)
+           and January 28, 2026 (when the corrected Answering Brief was
+           filed). Mr. Rollo must explain why quotation marks were
+           removed but flawed legal propositions were retained, and
+           whether he personally reviewed the underlying judicial opinions
+           at that time.
+
+      The affidavit of RLF must address:
+
+         • The firm’s written policies, guidelines, and restrictions regarding
+           the use of GenAI by attorneys and staff (including paralegals)
+           that were in effect during December 2025 and January 2026.
+
+         • How the firm’s policies regarding GenAI were communicated to
+           Mr. Rollo and the other individuals involved in this matter.
+C.A. No. 2025-0426-CDW (LWW)
+July 1, 2026
+Page 8 of 8
+
+         • The internal procedures, technological safeguards, or training
+           programs the firm has implemented or plans to implement to
+           ensure that the legal authority contained in the firm’s future court
+           filings is accurate.
+
+         • A showing of “exceptional circumstances,” if any exist,
+           demonstrating why the law firm should not be held jointly
+           responsible for any Rule 11 violations committed by its partner.
+
+      Upon receipt and review of the affidavits, I will determine whether an
+
+evidentiary hearing or oral argument is necessary, or whether the Rule to Show
+
+Cause will be resolved on the papers.
+
+      IT IS SO ORDERED.
+
+                                             Sincerely yours,
+
+                                             /s/ Lori W. Will
+
+                                             Lori W. Will
+                                             Vice Chancellor
+

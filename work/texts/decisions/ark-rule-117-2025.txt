@@ -1,0 +1,94 @@
+                                   Cite as 2025 Ark. 117
+                SUPREME COURT OF ARKANSAS
+
+                                                Opinion Delivered: June 5, 2025
+
+
+
+
+ IN RE CREATION OF ARKANSAS
+ SUPREME COURT
+ ADMINISTRATIVE ORDER NO. 25.
+ ARTIFICIAL INTELLIGENCE
+
+
+
+
+                                       PER CURIAM
+
+       In response to the growing use of Artificial Intelligence (AI), the Arkansas Supreme
+
+Court Committee on Automation created a subcommittee to study the use of AI in the
+
+courts. As this committee continues its work, it will make recommendations to the court.
+
+The court plans to implement a new administrative order specific to AI that may be modified
+
+as the knowledge of its implication on the justice system develops. The use of AI has become
+
+increasingly prominent. Members of the public, attorneys, and personnel who interact in
+
+the State’s justice system may be using it intentionally, or even unintentionally.
+
+       We now publish for comment the proposed new Administrative Order No. 25:
+
+Artificial Intelligence. It begins by specifically addressing the use of generative artificial
+
+intelligence with confidential court data. The comment period shall end on August 1, 2025.
+
+Comments should be submitted in writing to: Kyle E. Burton, Clerk of the Arkansas
+
+Supreme Court, Attention: The Creation of Administrative Order No. 25, Justice Building,
+
+625 Marshall Street, Little Rock, AR 72201, or by email: rulescomments@arcourts.gov.
+The court will consider any submitted comments and make subsequent changes if
+
+necessary.
+
+Order 25. Artificial Intelligence.
+Section 1. Awareness.
+Everyone participating in the court system must be mindful of the following when entering
+client or court data into any electronic system that generates responses or generative artificial
+intelligence (GAI):
+(a) Certain GAI tools retain the data submitted into their system and use it to keep building
+their large language models (LLM), or what you would consider their database.
+(b) Anyone who enters confidential or sealed information into a GAI should determine
+whether the system is retaining and using the confidential or sealed data.
+(c) Anyone who either intentionally or inadvertently discloses confidential or sealed
+information related to a client or case may be violating established rules, some examples are:
+             (1) Arkansas Supreme Court Administrative Order No. 19, which limits access
+             to certain court records and data;
+             (2) the Arkansas Code, which has many statutes that limit access to certain court
+             records and data;
+             (3) the Arkansas Rules of Professional Conduct;
+             (4) the Arkansas Code of Judicial Conduct; and
+             (5) the many other rules governing other court staff––for example, court
+             reporters.
+
+Section 2. Prohibition.
+
+The Administrative Office of the Courts is responsible for maintaining several court
+management systems for our state courts including case management, electronic filing,
+online payment, jury management, and others.
+(a) The following are prohibited from intentionally exposing our state courts’ internal data
+to a GAI:
+             (1) Administrative Office of the Courts staff;
+             (2) All clerks of the courts and their staff (district, circuit, and appellate); and
+             (3) Anyone else with access to internal CourtConnect.
+
+
+
+
+                                                  2
+(b) Research and Analysis. Anyone subject to the prohibition in Section 2 may request the
+approval of the Supreme Court’s Automation Committee to engage in a research and
+analysis project related to the use of generative AI tools and general AI for the benefit of
+our courts.
+(c) The CIS Division is allowed to engage in research and analysis related to the use of
+generative AI tools and general AI for the benefit of our courts.
+
+
+
+
+                                             3
+

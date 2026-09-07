@@ -1,0 +1,458 @@
+[Cite as State v. Wooden, 2026-Ohio-2895.]
+
+
+                             IN THE COURT OF APPEALS OF OHIO
+
+                                  TENTH APPELLATE DISTRICT
+
+
+State of Ohio,                                     :
+
+                 Plaintiff-Appellee,               :
+                                                                    No. 24AP-237
+v.                                                 :              (C.P.C. No. 22CR-820)
+
+John W. Wooden,                                    :           (REGULAR CALENDAR)
+
+                 Defendant-Appellant.              :
+
+
+
+
+                                             D E C I S I O N
+
+                                      Rendered on July 28, 2026
+
+
+                 On brief: Shayla D. Favor, Prosecuting Attorney, and
+                 Benjamin A. Tracy, for appellee. Argued: Benjamin A.
+                 Tracy.
+
+                 On brief: Elizabeth Miller, Public Defender, Max Hersch,
+                 and Russell Patterson, for appellant. Argued: Max Hersch.
+
+                  APPEAL from the Franklin County Court of Common Pleas
+
+LELAND, J.
+        {¶ 1} Defendant-appellant, John W. Wooden, appeals the decision of the Franklin
+County Court of Comon Pleas denying his motions to suppress evidence in a murder case.
+Because we hold that the trial court’s actions were constitutionally valid, we affirm.
+I. Facts and Procedural History
+        {¶ 2} On December 22, 2021, Mohamed Adam disappeared after dropping his
+children off at school. Later that evening, his family received a video call from Adam but
+there was no sound, and a friend received a call from Adam’s cell phone where two
+unknown men were speaking about payment for a truck. Adam had purchased a truck from
+No. 24AP-237                                                                             2
+
+
+Wooden on October 31, 2021, but the truck had been stolen on November 2, 2021.
+Disturbed by the calls, family and friends began to search for Adam.
+      {¶ 3} On December 24, 2021, Adam’s body was found near his van in a gated vacant
+lot owned by Wooden’s family at 1486 Windsor Avenue, and he had been shot several times.
+Gunshot detection technology indicated several shots were fired near the vacant lot the
+night of December 22, 2021. Adam’s cell phone case was located in the van containing his
+identification but no phone. Police acquired the call records for Adam’s missing cell phone
+and obtained warrants for numbers in contact with Adam around the time of his
+disappearance and death. A cell phone associated with number (740) 647-7015 (“7015”)
+was activated on December 19, 2021 in the name of James Cook and a subscriber’s address
+of 1421 E. 18th Avenue, Columbus, Ohio 43211. Wooden used this address for vehicle
+registration, banking, and correspondence.       A cell phone associated with number
+(614) 288-7925 (“7925”) was in the name of Asia Miller and had been used by Wooden as
+a contact with his probation officer. Both cell phone numbers were used by Wooden, and
+location data showed that the cell phone numbers 7015 and 7925 were near the vacant lot
+at the same time the gunshots were reported. Police also obtained a warrant to search his
+residence where evidence including the murder weapon was recovered.
+      {¶ 4} On March 3, 2022, Wooden was indicted for charges associated with the
+death of Adam. On January 24, 2023, Wooden filed a motion to suppress evidence relating
+to and stemming from the search of cell phone records, and he filed a companion motion
+to suppress evidence from the search of his residence. Plaintiff-appellee, State of Ohio,
+opposed the motions.
+      {¶ 5} The trial court conducted a hearing on the motions to suppress on April 7,
+2023. The state presented Columbus Division of Police Detective Earl Westfall as its sole
+witness, and Wooden did not present any evidence. The court allowed the parties to submit
+final arguments through post-hearing briefs and denied the motions, finding that Wooden
+lacked standing to challenge the phone-records search and that the good faith exception to
+the exclusionary rule applied. Alternatively, the court found that the affidavits presented
+in support of the search warrants established probable cause.
+      {¶ 6} The matter proceeded to a jury trial, and Wooden was convicted of murder,
+kidnapping, and aggravated robbery. The trial court found Wooden guilty of having a
+No. 24AP-237                                                                                 3
+
+
+weapon under disability and repeat violent offender specifications, but not guilty of
+unlawful use of a weapon by a violent career criminal and violent career criminal
+specifications. Wooden was sentenced to a total aggregate sentence of 73 to 78 and a half
+years to life imprisonment.
+       {¶ 7} Wooden now brings the instant appeal.
+II. Assignments of Error
+       {¶ 8} Wooden appeals and assigns the following as trial court error:
+              [I.] The trial court erred by overruling Mr. Wooden’s motion
+              to suppress the evidence associated with phone numbers 614-
+              288-7925 and 740-647-7015.
+
+              [II.] The trial court erred by overruling Mr. Wooden’s motion
+              to suppress the evidence found at 96 N. Guilford.
+
+              [III.] Mr. Wooden was denied the effective assistance of
+              counsel.
+
+III. Discussion
+       {¶ 9} Wooden’s first and second assignments of error address motions to
+suppress, and our review usually presents a mixed question of law and fact. State v.
+Burnside, 2003-Ohio-5372. When considering a motion to suppress, the trial court, as the
+trier of fact, is thus in the best position to resolve factual questions and evaluate witness
+credibility. State v. Brown, 2019-Ohio-4753, ¶ 7 (10th Dist.). Therefore, when reviewing
+the denial of a motion to suppress, a reviewing court “must accept the trial court’s findings
+of fact if they are supported by competent, credible evidence.” State v. Smith, 2014-Ohio-
+712, ¶ 9 (10th Dist.). “Accepting these facts as true, the appellate court must then
+independently determine, without deference to the conclusion of the trial court,
+whether the facts satisfy the applicable legal standard.” State v. Foster, 2019-Ohio-2580,
+¶ 5 (10th Dist.). Our determination of whether the good faith exception applies is a question
+of law, and thus we accept the trial court’s factual findings and review the application of the
+law to the facts de novo. State v. Shaskus, 2019-Ohio-2190 (10th Dist.).
+       {¶ 10} Before we tackle issues related specifically to the motion, it is necessary to
+address whether Wooden had standing to challenge the search of the cell phones. The
+Fourth Amendment to the United States Constitution provides in part: “[t]he right of the
+people to be secure in their persons, houses, papers, and effects, against unreasonable
+No. 24AP-237                                                                                 4
+
+
+searches and seizures, shall not be violated[.]” There are limits, however, on who may
+assert the right to suppress evidence from a search obtained in violation of the Fourth
+Amendment. Suppression of the product of a Fourth Amendment violation is restricted to
+only those whose rights were violated by the search itself. Alderman v. United States, 394
+U.S. 165 (1969). “Fourth Amendment rights are personal in nature and may not be
+vicariously asserted by others.” State v. Dennis, 1997-Ohio-372, ¶ 28.
+       {¶ 11} A defendant bears the burden of establishing standing, a legitimate
+expectation of privacy in the place or object searched. Dennis. This burden is “triggered
+only when the government argues that the defendant lacks a protected privacy interest
+affected by the search or seizure.” State v. Wintermeyer, 2019-Ohio-5156, ¶ 13. Prior to
+the suppression hearing, the state did not challenge Wooden’s standing regarding the cell
+phone numbers because it believed that Wooden was not contesting ownership. However,
+once Wooden refused to admit a Fourth Amendment interest in the cell phone numbers,
+the state challenged standing, thus placing the burden on the defendant to establish a
+constitutional interest.
+       {¶ 12} The record reflects, contrary to his denial, that Wooden had a fair opportunity
+to address Fourth Amendment standing. During the suppression hearing, the trial court
+directed the parties to submit post-hearing briefs, and asked if the defense was making an
+admission that the cell phone numbers belonged to Wooden. Defense counsel responded
+that no admission was being made because Wooden had standing based on the state’s
+attributing the cell phone numbers to him. The state chose to respond in writing, and
+defense counsel acknowledged that he would address standing in a post-hearing
+memorandum. Because the issue of standing was raised in the trial court, “ ‘the burden is
+on the defendant to establish standing.’ ” State v. Pleasant, 2025-Ohio-115, ¶ 66 (4th Dist.),
+quoting State v. Burton, 2017-Ohio-322, ¶ 12 (4th Dist.). Wooden was on notice that he
+must demonstrate that his own Fourth Amendment rights were violated and establish
+standing.
+       {¶ 13} In his post-hearing memorandum Wooden cited the automatic standing
+principle set forth in Jones v. United States, 362 U.S. 257 (1960) as the basis for challenging
+the search. In Jones, a defendant who denied ownership of drugs was granted standing
+because the fruits of a search was being used against him. Id. However, it is no longer
+No. 24AP-237                                                                                  5
+
+
+sufficient for a defendant to simply show that he is aggrieved by the introduction of such
+evidence without asserting a Fourth Amendment protected interest, and the automatic
+standing principle in Jones was expressly overruled in United States v. Salvucci, 448 U.S.
+83 (1980). “A person who is aggrieved by an illegal search and seizure only through the
+introduction of damaging evidence secured by a search of a third person’s premises or
+property has not had any of his Fourth Amendment rights infringed.” State v. Horsley,
+2013-Ohio-901, ¶ 12 (4th Dist.). “ ‘[T]o have standing to challenge a search or seizure, the
+defendant must have a reasonable expectation of privacy in the evidence seized.’ ” State v.
+Camper, 2023-Ohio-4673, ¶ 24 (10th Dist.), quoting State v. Jackson, 2004-Ohio-3206,
+¶ 8. Wooden argued that alternative methods exist to prove a legitimate expectation of
+privacy, and contended the evidence does not have to come from a defendant. However, a
+defendant must independently present evidence of their subjective expectation of privacy
+through their conduct, not merely through litigation arguments or reliance on the state’s
+evidence. United States v. Mathis, 738 F.3d 719 (6th Cir. 2013). See United States v.
+Jenkins, 743 Fed.Appx. 636 (6th Cir. 2018) (defendant does not meet his baseline burden
+to demonstrate standing when he failed to present any evidence indicating an expectation
+of privacy). If a defendant denies ownership of a cell phone number, the state’s attribution
+of a defendant’s ownership does not relieve the defendant of their burden to establish
+standing. State v. Williams, 1995-Ohio-275. Instead, the defendant must affirmatively
+demonstrate a legitimate expectation of privacy in the cell phone if the state disputes their
+standing. Pleasant.
+       {¶ 14} Wooden argued that the state waived the issue of standing. We disagree.
+Waiver occurs when the state failed to raise the issue of standing at all during the trial court
+proceedings, and then attempts to raise it for the first time on appeal. Wintermeyer, 2019-
+Ohio-5156. Because Fourth Amendment standing is not jurisdictional in nature, there is
+no need to address standing at the outset of a suppression hearing. Byrd v. United States,
+584 U.S. 395, 411 (2018).
+       {¶ 15} Courts have consistently held that only those whose personal rights have
+been violated may challenge a search. Rakas v. Illinois, 439 U.S. 128 (1978). A defendant
+who denies ownership in an item may not claim an actual expectation of privacy in the item.
+State v. Hawkins, 2016-Ohio-1404 (10th Dist.). A defendant who denies or disclaims
+No. 24AP-237                                                                                 6
+
+
+ownership of a cell phone number is unlikely to demonstrate a legitimate expectation of
+privacy in the phone under the Fourth Amendment. State v. Campbell, 2014-Ohio-5315
+(12th Dist.) (defendant had no standing to challenge validity of warrant used to track
+defendant’s wife’s phone). See State v. Crawford, 2013-Ohio-1659, ¶ 45 (8th Dist.)
+(defendant did not have standing to challenge a search of codefendant’s phone because
+“[he] could not challenge the cell phone records of anyone but his own”). A defendant
+lacked standing to challenge the seizure of a cell phone after he disclaimed ownership of
+the phone. United States v. Jackson, 2018 U.S. Dist. LEXIS 81132 (D.C. Mich. May 15,
+2018). The Sixth Circuit concluded that a defendant who disclaimed ownership of luggage
+could not claim a legitimate expectation of privacy in its contents, as the disclaimer
+demonstrated an intent to disassociate from the property. United States v. Tolbert, 692
+F.2d 1041 (6th Cir. 1982).
+       {¶ 16} Wooden did not direct our attention to any evidence from the suppression
+hearing to demonstrate standing. He did not testify or put on any witnesses. Wooden failed
+to present any evidence indicating a reasonable expectation of privacy in the cell phone data
+and has not met his baseline burden to demonstrate standing. We find that Wooden did
+not have standing to challenge the search warrants related to the cell phone numbers.
+       {¶ 17} The trial court also determined that even if Wooden had standing to challenge
+the cell phone records search, his challenge would fail. We agree.
+       {¶ 18} Both the Fourth Amendment to the United States Constitution and Article I,
+Section 14 of the Ohio Constitution protect individuals from unreasonable searches and
+seizures. State v. Fielding, 2014-Ohio-3105 (10th Dist.). The Fourth Amendment states
+the following:
+                 The right of the people to be secure in their persons,
+                 houses, papers, and effects, against unreasonable searches and
+                 seizures, shall not be violated, and no Warrants shall issue, but
+                 upon probable cause, supported by Oath or affirmation, and
+                 particularly describing the place to be searched, and the
+                 persons or things to be seized.
+
+       {¶ 19} To issue a search warrant, a magistrate or judge must have sufficient evidence
+to conclude that there is a fair probability that evidence of a crime will be found in the item
+to be searched. State v. Castagnola, 2015-Ohio-1565. Probable cause is defined as
+“ ‘ “reasonable grounds for belief, supported by less than prima facie proof but more than
+No. 24AP-237                                                                                  7
+
+
+mere suspicion.” ’ ” State v. Maddox, 2021-Ohio-586, ¶ 16 (1oth Dist.), quoting Smith v.
+Thornburg, 136 F.3d 1070, 1074 (6th Cir. 1998), quoting United States v. Bennett, 905 F.2d
+931, 934 (6th Cir. 1990).
+       {¶ 20} When determining the sufficiency of probable cause in an affidavit
+submitted in support of a search warrant, the issuing judge or magistrate must make a
+practical, common-sense decision under the totality of the circumstances set forth in the
+affidavit whether there is a fair probability that evidence of a crime will be found in a
+particular place. A search warrant and its supporting affidavits are presumed valid. State
+v. Craine, 2024-Ohio-2501 (10th Dist.).
+       {¶ 21} The Fourth Amendment provides no guidance on the fate of evidence
+obtained through a constitutional violation, but the United States Supreme Court created
+the exclusionary rule to police its use. Davis v. United States, 564 U.S. 229 (2011). The
+exclusionary rule precludes evidence obtained in violation of the Fourth Amendment from
+being used in court. State v. Dickman, 2015-Ohio-1915 (10th Dist.). “The exclusionary rule
+is designed to deter police misconduct that flagrantly, deliberately, or recklessly violates the
+Fourth Amendment.” State v. Hoffman, 2014-Ohio-4795, ¶ 46.
+       {¶ 22} A limited exception to the exclusionary rule applies if law enforcement acted
+in good faith on a subsequently invalidated search warrant. State v. Thomas, 2018-Ohio-
+758, ¶ 29 (10th Dist.). This “good faith” exception, as recognized in United States v. Leon,
+468 U.S. 897 (1984), and adopted in Ohio in State v. Wilmoth, 22 Ohio St.3d 251 (1986),
+provides that “ ‘the exclusionary rule should not be applied to bar use of evidence obtained
+by officers acting in objectively reasonable reliance on a search warrant issued by a
+detached and neutral magistrate but ultimately found to be unsupported by probable
+cause.’ ” State v. Sears, 2020-Ohio-4654, ¶ 28 (10th Dist.), quoting Hoffman at ¶ 29. “[A]
+warrant should be upheld when the issuing judicial officer had a substantial basis for
+believing that probable cause existed, regardless of what the reviewing court’s independent
+determination regarding probable cause might be.” State v. Schubert, 2022-Ohio-4604,
+¶ 11. “Under the good-faith exception, evidence obtained during a search conducted
+pursuant to a warrant that is unsupported by probable cause will not be excluded if the
+officers who obtained the evidence acted reasonably in relying on the warrant.” State v.
+Dibble, 2020-Ohio-546 ¶ 9. The good faith exception allows admission of evidence if a
+No. 24AP-237                                                                                  8
+
+
+police officer has a good faith belief that his or her actions are in compliance with the Fourth
+Amendment. Id.
+       {¶ 23} A trial court cannot apply the good faith exception to the exclusionary rule
+without first addressing whether there was probable cause for the search. State v. George,
+45 Ohio St.3d 325 (1989). Ohio courts have consistently emphasized a two-step approach
+in analyzing the validity of a search warrant. First, the court must determine whether the
+affidavit supporting the search warrant provided a “substantial basis” for the issuing
+magistrate or judge to conclude that there was a “fair probability that contraband or
+evidence of a crime will be found in a particular place.” Id. at 329. If that determination is
+made, “a reviewing court then advance[s] to the good faith exception to the exclusionary
+rule.” State v. Harry, 2008-Ohio-6380, ¶ 9 (12th Dist.). This approach ensures that the
+Fourth Amendment’s protections are not undermined by prematurely applying the good
+faith exception. Id.
+       {¶ 24} However, the “good faith” exception has limits, and suppression of evidence
+is appropriate when any of the following applies: “(1) the supporting affidavit contained
+information the affiant knew to be false or would have known to be false but for reckless
+disregard for the truth; (2) the issuing judge wholly abandoned his [or her] judicial role;
+(3) the warrant was based on an affidavit so lacking in indicia of probable cause as to render
+official belief in its existence entirely unreasonable, or (4) the warrant was so facially
+deficient in terms of particularity that the executing officers could not reasonably presume
+it to be valid.” State v. Battles, 2021-Ohio-3005, ¶ 31 (10th Dist.). On appeal, Wooden only
+argues that the affidavit lacked probable cause.
+       {¶ 25} Under certain circumstances an officer will not have any reasonable grounds
+to believe a search warrant was properly issued. Leon, 468 U.S. at 922-23. When an
+affidavit “that states suspicions, beliefs, or conclusions, without providing some underlying
+factual circumstances regarding veracity, reliability, and basis of knowledge,” it is
+commonly referred to as a bare bones affidavit. United Sates v. Weaver, 99 F.3d 1372, 1378
+(6th Cir. 1996). To avoid being labeled as “bare bones,” an affidavit must state more than
+“ ‘suspicions, or conclusions, without providing some underlying factual circumstances
+regarding veracity, reliability, and basis of knowledge’ ” that go beyond bare conclusions
+No. 24AP-237                                                                              9
+
+
+and suppositions. United States v. Christian, 925 F.3d 305, 312 (6th Cir. 2019), quoting
+United States v. Washington, 380 F.3d 236, 241, fn. 4 (6th Cir. 2004).
+       {¶ 26} The affidavit in support of a search warrant must “name or describe the
+person to be searched or particularly describe the place to be searched, name or describe
+the property to be searched for and seized, state substantially the offense in relation
+thereto, and state the factual basis for the affiant’s belief that such property is there
+located.” Crim.R. 41(C)(1).
+       {¶ 27} The 7015 number is a burner phone associated with Wooden. The affidavit
+presented in support of the search warrant indicates that a murder occurred, and Adam’s
+cell phone communicated with this number multiple times on the day Adam disappeared,
+which is also the date of the murder. Although no subscriber’s name is listed, the affidavit
+demonstrated a nexus between 7015 and the murder, establishing a substantial basis to find
+probable cause.
+       {¶ 28} The 7925 number was used by Wooden but no call data was retrieved from
+that cell phone. Wooden’s girlfriend was listed as the subscriber. However, this number
+moved in tandem with 7015 on December 22, 2021. The affidavit associated with 7925
+states that the owner has been developed as a suspect, but little else. The state arguably
+conceded that the affidavit was weak.
+       {¶ 29} Assuming, arguendo, that the trial court erred in finding the affidavit was
+proper, any error in this regard would be harmless. State v. Nelson, 2017-Ohio-5568 (8th
+Dist.). Under the harmless error standard, “[a]ny error, defect, irregularity, or variance
+which does not affect substantial rights shall be disregarded.” Crim.R. 52(A). “Not every
+error requires that a conviction be vacated or a new trial granted.” State v. Morris, 2014-
+Ohio-5052, ¶ 24. To determine harmless error, we must assess the error’s prejudicial
+impact on the verdict and consider the weight of the remaining evidence. Morris.
+       {¶ 30} The Supreme Court of Ohio developed a three part harmless error analysis
+“ ‘questioning (1) whether the error had an impact on the verdict; (2) whether the error
+was harmless beyond a reasonable doubt; [and] (3) whether the remaining evidence
+establishes the defendant’s guilt beyond a reasonable doubt.’ ” State v. Hodge, 2025-
+Ohio-4434, ¶ 92 (10th Dist.), quoting State v. Carswell, 2021-Ohio-3379, ¶ 57 (6th Dist.),
+citing Morris. The analysis was established to guide appellate courts in determining
+No. 24AP-237                                                                                 10
+
+
+whether an error has affected the substantial rights of a defendant, thereby requiring a new
+trial.
+         {¶ 31} Here, even assuming that the trial court erred in failing to suppress data from
+the 7925 number, the remaining evidence confirmed Wooden’s guilt. State v. Blue, 2021-
+Ohio-1703 (5th Dist.). In light of the remaining evidence, the trial court’s failure to suppress
+the 7925 cell phone records is harmless error. State v. Williams, 6 Ohio St.3d 281, 290
+(1983). We have previously held that improper testimony regarding a search warrant was
+harmless when it “was cumulative of matters already properly before the jury, and appellant
+was not prejudiced by that testimony.” State v. Loch, 2003-Ohio-4701, ¶ 14 (10th Dist.).
+         {¶ 32} We note that the state in this matter has limited its search to a review of cell
+phone subscriber information and location data and is not searching the physical contents
+of a cell phone. While searching a cell phone is subject to heightened Fourth Amendment
+protections due to the vast amount of personal information contained in a cell phone, the
+search of cell phone records and data now involves an analysis of whether an individual has
+a legitimate expectation of privacy in the information. Smith v. Maryland, 442 U.S. 735,
+743 (1979).
+         {¶ 33} Cell-site location information (“CSLI”) is data that records when a cell phone
+connects to radio antennas and can be used to allow for mapping of a cell phone’s location
+and past movements. The information is collected and stored by wireless carriers. Law
+enforcement previously obtained CSLI through subpoena to the provider. State v. Jones,
+2019-Ohio-2134 (10th Dist.). See also State v. Burke, 2019-Ohio-1951 (11th Dist.).
+         {¶ 34} The Carpenter decision recognized a narrow privacy interest in CSLI sought
+to determine a record of an individual’s physical movements, and held “the Government
+must generally obtain a warrant supported by probable cause before acquiring such
+records.” Carpenter v. United States, 585 U.S. 296, 316 (2018). The Supreme Court noted
+the prevalence of cell phones and recognized a new privacy interest in cell phone records
+that opened an “ ‘intimate window into a person’s life, revealing not only his particular
+movements, but through them, his ‘familial, political, professional, religious, and sexual
+associations.’ ” State v. Giles, 2021-Ohio-2865, ¶ 62 (6th Dist.), quoting Carpenter at 311.
+         {¶ 35} The Carpenter decision involved approximately 130 days of specific location
+information obtained without a warrant and provided the state with “an all-encompassing
+No. 24AP-237                                                                              11
+
+
+record of the holder’s whereabouts.” Carpenter at 311. Extended terms of electronic
+monitoring “impinges on expectations of privacy.” Jones v. United States, 565 U.S. 400,
+415 (2012) (warrantless acquisition of 28 days’ worth of location data that tracked the
+defendant’s every movement was found to be a search). In separate opinions, justices
+would have found that while “relatively short-term monitoring of a person’s movements on
+public streets accords with expectations of privacy that our society has recognized as
+reasonable,” longer periods of electronic monitoring “impinges on expectations of privacy.”
+Id. at 430 (Alito, J., concurring in the judgment); Id. at 415 (opinion of Sotomayor, J.).
+Accordingly, the Supreme Court of Ohio determined that one day of location data did not
+impact privacy concerns and was not a search. State v. Diaw, 2025-Ohio-2323.
+       {¶ 36} The Fourth Amendment “prohibits unreasonable searches.” In re B.A.R.,
+2013-Ohio-5712, ¶ 13 (10th Dist.). Under the totality of the circumstances analysis, we find
+that the affidavits filed in support of the warrant contained sufficient information to
+establish probable cause and the requisite nexus between Adam’s murder and the cell
+phones to be searched. Even if probable cause did not exist, the search warrant was
+executed in good faith, and that the “good faith exception” to the exclusionary rule applies.
+Leon, 468 U.S. 897. The motion to suppress the cell phone records was properly denied.
+Wooden’s first assignment of error is overruled. Wooden’s second assignment of error
+similarly challenges the trial court’ s overruling his motion to suppress evidence recovered
+as a result of a search warrant at his Guilford Avenue residence. We apply the same
+standard of review as for the cell phone data and review questions of law de novo. State v.
+Taylor, 2023-Ohio-2994 (4th Dist.).
+       {¶ 37} Wooden argued that the affidavit to search his residence was largely based on
+unconstitutional information retrieved from his cell phone and that the bare bones
+affidavits lacked probable cause. However, having overruled appellant’s first assignment
+of error and determined that the cell phone evidence was not subject to suppression, the
+use of the information derived from the phone search is permissible to support the
+residence search warrant.
+       {¶ 38} Our review of the record confirms that probable cause existed to issue a
+search warrant for Wooden’s residence. The affidavit was presented to a judge on
+February 17, 2022, after law enforcement had the benefit of several weeks of investigation.
+No. 24AP-237                                                                            12
+
+
+The affidavit stated Wooden sold Adam a box truck which was reported stolen a few weeks
+later. On the night of the murder, a friend of Adam received a call from someone using
+Adam’s cell phone demanding money for the return of the box truck. Cell phone records
+reflected calls and texts between Wooden and Adam on the night of the murder, and the
+7015 and 7925 cell phones were in the area of the murder when it occurred. The affidavit
+also stated that Adam’s body was found in a lot owned by Wooden’s father. Shell casings
+recovered from the murder scene matched casings fired during a bank robbery where the
+suspect drove an identical vehicle to Wooden’s vehicle. Surveillance confirmed Wooden
+lived at the residence with Asia Miller and he was in contact with her close to the time of
+the murder.
+      {¶ 39} The issuing judge properly found a fair probability that evidence of the
+murder would be found at Wooden’s residence and issued the search warrant. State v.
+Spells, 2024-Ohio-6052 (2d Dist.). Wooden’s second assignment of error is overruled.
+      {¶ 40} In his third assignment of error, Wooden argued that trial counsel was
+ineffective by basing a standing argument on an overruled case. As discussed earlier,
+Wooden cited Jones v. United States, 362 U.S. 257 (1960) as the basis for standing in his
+post-hearing memorandum.
+      {¶ 41} We apply a two-step process in evaluating claims of ineffective assistance of
+counsel. A defendant must show that counsel’s performance fell below an objective
+standard of reasonable representation and, but for counsel’s deficient performance, the
+results of the proceeding would have been different. State v. Waddell, 2014-Ohio-4829
+(10th Dist.). Both prongs must be established, and “it is unnecessary for a court to
+approach the inquiry in the same order or to address both components of the inquiry if the
+defendant makes an insufficient showing on one of the components.” State v. Barker,
+2010-Ohio-2191, ¶ 31 (10th Dist.).
+      {¶ 42} Prejudice is established if “there is a reasonable probability that, but for
+counsel’s unprofessional errors, the result of the proceeding would have been different.”
+Strickland v. Washington, 466 U.S. 668, 694 (1984). Prejudice is not presumed merely
+because an attorney relied on an overruled case. A defendant must show that the reliance
+on the overruled case had a material impact on the outcome of the proceedings, and
+requires more than speculative or conceivable effects on the outcome.           Ineffective
+No. 24AP-237                                                                              13
+
+
+assistance of counsel claims cannot be based on mere supposition or vague speculation of
+prejudice. State v. Bunch, 2024-Ohio-5085 (7th Dist.).
+          {¶ 43} A reviewing court affords great deference to the trial court’s decision, and
+there is a strong presumption that counsel’s conduct fell within the wide range of
+reasonable professional assistance. State v. Hamblin, 37 Ohio St.3d 153 (1988). A claim
+for ineffective assistance may not be based on trial strategy and tactical decisions,
+regardless of whether a better strategy was available. State v. Swick, 2001-Ohio-8831 (11th
+Dist.).
+          {¶ 44} As part of counsel’s approach to standing, counsel declined to stipulate
+Wooden’s ownership of the cell phone numbers because the state attributed the cell phones
+to Wooden and counsel presumed standing would not be contested. Tactical decisions,
+even if debatable, are generally not considered deficient unless they are so egregious that
+they undermine the adversarial process. State v. Ikharo, 2003-Ohio-2319 (10th Dist.).
+Here, Wooden’s counsel pursued a strategy, i.e., establish standing to challenge the cell
+phone data and residence search, without conceding any interest in the phones. Based on
+the record presented, counsel’s approach fell within reasonable trial strategy.
+          {¶ 45} Wooden argued he was prejudiced because, but for counsel’s error, the trial
+court would have found standing and he would have prevailed on his motion. However,
+the trial court found that even if Wooden had standing, his motion would fail. We have
+determined probable cause existed and the good faith exception applied earlier in this
+decision, and the trial court was correct. Because the result would be the same, there is no
+prejudice from counsel’s actions, and this assignment of error is overruled. State v. Prater,
+2019-Ohio-2535 (10th Dist.). See also State v. Rosemond, 2022-Ohio-111 (1st Dist.).
+          {¶ 46} Wooden’s third assignment of error is overruled.
+IV. Conclusion
+          {¶ 47} Having overruled Wooden’s three assignments of error, the judgment of the
+Franklin County Court of Common Pleas is affirmed.
+                                                                        Judgment affirmed.
+
+                             DORRIAN and MENTEL, JJ., concur.
+

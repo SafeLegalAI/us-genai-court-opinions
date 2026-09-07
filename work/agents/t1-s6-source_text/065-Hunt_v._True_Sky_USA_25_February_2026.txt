@@ -1,0 +1,215 @@
+ROOSEVELT HUNT, JR., Plaintiff, v. TRUE SKY FEDERAL..., Slip Copy (2026)
+
+
+                                                                  not cover the entire balance owed and there was a shortfall of
+                    2026 WL 516955                                $45.77. (Id. ¶ 7.) In February, Plaintiff contacted Defendant
+      Only the Westlaw citation is currently available.           who told Plaintiff that the account was late. On March 25,
+         United States District Court, D. Kansas.                 CarMax issued a supplemental payment of $290.65. This was
+                                                                  deposited on April 2 and it was sufficient to cover the loan in
+         ROOSEVELT HUNT, JR., Plaintiff,                          full. (Id. ¶ 10.)
+                     v.
+   TRUE SKY FEDERAL CREDIT UNION, Defendant.                      Although the loan was paid off in April 2024, Defendant
+                                                                  began reporting to TransUnion credit bureau that Plaintiff's
+                    Case No. 25-1209-JWB                          account was 30-days delinquent. (Id. ¶ 14.) In January
+                               |                                  2025, Plaintiff discovered the derogatory tradeline during a
+                         02/25/2026                               mortgage application. He then gathered records regarding the
+                                                                  payoff amounts. Plaintiff alleges that he was denied credit
+Editor's Note: This decision contains discussion of citation      from multiple banks as a result. These actions occurred in
+references that are incorrect or do not actually exist. These     January, April, and June 2025. (Docs. 15-3, 15-4, 15-5.)
+invalid citations appeared in the original court opinion and      Plaintiff repeatedly complained to Defendant that the loan
+have been preserved as written since they are part of the         was paid off and the reporting was inaccurate but it was not
+official record. Any links to these invalid citations have been   corrected. On July 3, Plaintiff submitted a written dispute
+removed.                                                          to TransUnion. (Doc. 15 ¶ 17.) On or about August 12, the
+                                                                  tradeline was corrected.
+
+Attorneys and Law Firms
+                                                                  Plaintiff filed this action asserting a violation of the Fair
+Roosevelt E. Hunt Jr., Bel Aire, KS, Pro Se.                      Credit Reporting Act (“FCRA”), 15 U.S.C. § 1681s-2(b), a
+                                                                  claim for breach of contract, and a claim for breach of the duty
+Vincent Edward Gunter, Gordon Rees Scully Mansukhani,             of good faith. Defendant now moves to dismiss.
+LLP, Kansas City, MO, for Defendant.
+
+                                                                  II. Standard
+JOHN W. BROOMES,               CHIEF     UNITED      STATES       In order to withstand a motion to dismiss for failure to state a
+DISTRICT JUDGE                                                    claim under Rule 12(b)(6), a complaint must contain enough
+                                                                  allegations of fact to state a claim to relief that is plausible
+             MEMORANDUM AND ORDER                                 on its face. Robbins v. Oklahoma, 519 F.3d 1242, 1247 (10th
+                                                                  Cir. 2008) (citing Bell Atl. Corp. v. Twombly, 550 U.S. 544
+ *1 This matter is before the court on Defendant's motion         (2007)). All well-pleaded facts and the reasonable inferences
+to dismiss. (Doc. 18.) The motion has been fully briefed          derived from those facts are viewed in the light most favorable
+and is ripe for decision. (Docs. 19, 20, 22.) The motion is       to Plaintiff. Archuleta v. Wagner, 523 F.3d 1278, 1283 (10th
+GRANTED IN PART and TAKEN UNDER ADVISEMENT                        Cir. 2008). Conclusory allegations, however, have no bearing
+IN PART for the reasons stated herein.                            upon the court's consideration. Shero v. City of Grove, Okla.,
+                                                                  510 F.3d 1196, 1200 (10th Cir. 2007).
+
+I. Facts
+                                                                  Because Plaintiff is proceeding pro se, the court is to liberally
+The facts set forth herein are taken from the amended
+                                                                  construe his filings. United States v. Pinson, 584 F.3d 972,
+complaint and the exhibits attached thereto. (Doc. 15.)
+                                                                  975 (10th Cir. 2009). However, liberally construing filings
+Plaintiff obtained a car loan from Defendant for his 2020
+                                                                  does not mean supplying additional factual allegations or
+Toyota Camry. Plaintiff also had deposit accounts with
+                                                                  constructing a legal theory on Plaintiff's behalf. Whitney v.
+Defendant in excess of $28,000 during the relevant time
+                                                                  New Mexico, 113 F.3d 1170, 1173-74 (10th Cir. 1997).
+period. (Id. ¶ 11.) On December 8, 2023, Plaintiff traded in
+his vehicle to CarMax. CarMax agreed to pay off the loan
+balance with Defendant. On January 5, 2024, CarMax issued         III. Analysis
+a check to Defendant on the loan. The check, however, did
+
+
+
+               © 2026 Thomson Reuters. No claim to original U.S. Government Works.                                              1
+ROOSEVELT HUNT, JR., Plaintiff, v. TRUE SKY FEDERAL..., Slip Copy (2026)
+
+
+                                                                   before July 6 and Defendant did not investigate the tradeline
+A. FCRA Claim                                                      within 30 days as required by the FCRA.
+ *2 Defendant argues that Plaintiff has not plausibly stated
+a claim under the FCRA. The FCRA obligates furnishers of           Finally, Defendant asserts that Plaintiff has failed to
+information like Defendant to provide accurate information         sufficiently allege an injury that occurred during the time
+to consumer reporting agencies, like TransUnion. 15 U.S.C.         frame at issue: July 3 to August 12. Plaintiff must have an
+§ 1681s–2(a). After receiving notice of a dispute from             injury in fact to have standing to bring his claim. TransUnion
+TransUnion, a furnisher is to “(1) investigate the disputed        LLC v. Ramirez, 594 U.S. 413, 423 (2021). Plaintiff has
+information; (2) review all relevant information provided          alleged that he was injured due to the denial of credit, credit
+by the CRA; (3) report the results of the investigation            score deduction, increased loan interest rates, and loss of
+to the CRA; (4) report the results of the investigation            favorable credit terms. (Doc. 15 ¶ 31.) Plaintiff's factual
+to all other CRAs if the investigation reveals that the            allegations and exhibits, however, relate to a time period
+information is incomplete or inaccurate; and (5) modify,           prior to July 3. (Id. ¶ 24, Doc. 15-3, 15-4, 15-5.) In his
+delete, or permanently block the reporting of the disputed         response to the motion to dismiss, Plaintiff asserts that he has
+information if it is determined to be inaccurate, incomplete,      suffered injuries during the requisite time period. (Doc. 20
+or unverifiable.” Pinson v. Equifax Credit Info. Servs., Inc.,     at 2.) Therefore, the court will allow Plaintiff to amend his
+316 F. App'x 744, 750–51 (10th Cir. 2009) (quoting §               complaint to allege injuries that occurred in the time period
+1681s–2(b)). Once receiving such a notice, furnishers must         relevant to his FCRA claim. Should he fail to file an amended
+“complete all investigations, reviews, and reports...before the    complaint, his complaint will be dismissed without prejudice
+expiration of the period under section 1681i(a)(1)” which is       for lack of standing.
+30 days. § 1681s-2(b)(2). Notably, these duties only arise after
+furnishers like Defendant receive notice from a CRA and not
+notice directly from the consumer. Pinson, 316 F. App'x at         B. Breach of Contract and Breach of the Duty of Good
+751. As such, Defendant's failure to take action after receiving   Faith
+verbal notice from Plaintiff is not actionable under the FCRA.     Plaintiff has also alleged breach of contract and a separate
+                                                                   claim of breach of the duty of good faith. The court will
+In order to state a claim under § 1681s–2(b)(1), Plaintiff must    address these claims together as a claim of breach of duty of
+plausibly allege: (1) he notified a credit reporting agency        good faith is simply another theory of breach of contract. To
+(“CRA”) of a dispute; (2) the CRA notified Defendant, who          determine what law applies to Plaintiff's state law breach of
+was the furnisher of the information of the dispute; and (3)       contract claim, the court applies the substantive law of the
+after notification, Defendant failed to adequately investigate.    forum state, including its conflict-of-laws rules. Emps. Mut.
+Keller v. Bank of Am., N.A., 228 F. Supp. 3d 1247, 1255            Cas. Co. v. Bartile Roofs, Inc., 618 F.3d 1153, 1170 (10th
+(D. Kan. 2017). Plaintiff has alleged that he notified a CRA       Cir. 2010). Kansas “follows the general rule that the law of
+of the dispute on July 3, 2025. Plaintiff also alleged that        the state where the [ ] contract is made controls.” Safeco Ins.
+Defendant failed to adequately investigate by failing to delete    Co. of America v. Allen, 941 P.2d 1365 (1997). However,
+the tradeline within 30 days.                                      “[w]here the parties to a contract have entered an agreement
+                                                                   that incorporates a choice of law provision, Kansas courts
+Defendant first argues that Plaintiff has failed to plausibly      generally effectuate the law chosen by the parties to control
+allege that it was notified of the dispute and the contents of     the agreement.” Brenner v. Oppenheimer & Co., 44 P.3d 364,
+that notification. In response, Plaintiff asserts that Defendant   375 (Kan. 2002). Here, the agreement states that the law of
+was notified by July 6. (Doc. 20 at 2.) Reviewing Plaintiff's      Defendant's headquarters will apply. (Doc. 15-7 at 3.) Both
+exhibits to his complaint, he has attached emails from             parties agree that Defendant's headquarters are in Oklahoma
+TransUnion reflecting that he submitted a dispute on July 3.       and that Oklahoma law applies. Therefore, the court will look
+On July 6, TransUnion informed him that they had contacted         to Oklahoma law. 1
+Defendant regarding the dispute. (Doc. 15-9.) Therefore, at
+this stage of the proceedings the court finds that Plaintiff        *3 To prevail on his claim of breach of contract, Plaintiff
+has plausibly alleged a violation of the FCRA. Plaintiff's         must show “(1) formation of a contract; (2) breach of the
+complaint and exhibits reflect that Defendant was notified         contract; and (3) damages as a result of that breach.” Morgan
+of Plaintiff's dispute challenging the negative tradeline on or    v. State Farm Mut. Auto. Ins. Co., 488 P.3d 743, 748 (Okla.
+
+
+
+                © 2026 Thomson Reuters. No claim to original U.S. Government Works.                                             2
+ROOSEVELT HUNT, JR., Plaintiff, v. TRUE SKY FEDERAL..., Slip Copy (2026)
+
+
+
+2021). Here, Plaintiff alleges that Defendant breached the            to Hall v. Farmers Ins. Exchange, 713 P.2d 1027, 1029 (Okla.
+loan agreement by failing to apply the funds in his deposit           1985). Hall involved the termination of an employment
+account to his outstanding car loan. In moving to dismiss,            contract and did not stand for the general proposition that
+Defendant argues that it does not have a duty under the               Plaintiff suggests. 3 Rather, the Oklahoma Supreme Court
+agreement to apply the deposit funds to the outstanding               held that the defendant in that case could not terminate an
+loan balance; rather, the provisions at issue are discretionary.      agreement in bad faith to deprive its agent of fees. Hall, 713
+(Doc. 19 at 7–8.) Plaintiff acknowledges that the duties              P.2d at 1030.
+he referred to in his amended complaint are discretionary
+and fails to otherwise respond to Defendant's argument in              *4 Plaintiff's remaining arguments are entirely conclusory.
+                       2
+support of dismissal. (Doc. 20 at 3.) Plaintiff also fails to         Plaintiff also fails to identify the provisions at issue that were
+identify a provision in the loan agreement that Defendant has         breached by Defendant's conduct. The provisions allowing
+allegedly breached. Therefore, his claim of breach of contract        Defendant to set off its losses when Plaintiff defaults are
+is subject to dismissal as Plaintiff has not plausibly alleged        discretionary, i.e. “we may apply these shares and deposits
+that Defendant breached the loan agreement.                           to the payment of all sums due at the time of default.” (Doc.
+                                                                      15-7 at 3.) Moreover, they are for the benefit of Defendant and
+Next, Plaintiff alleges that Defendant breached the contract by       not Plaintiff. Plaintiff makes no colorable argument as to how
+failing to act in good faith in performing the loan agreement.        Defendant's actions here breached the agreement by failing to
+Defendant argues that this claim is subject to dismissal              act in good faith. In the absence of Oklahoma law in support
+because the provisions at issue are discretionary and it cannot       of his claim that Defendant's actions were a violation of its
+breach the duty of good faith by not undertaking an action it         duty to act in good faith, the court will not read the agreement
+did not agree to take.                                                to require Defendant to set off funds from Plaintiff's deposit
+                                                                      account to pay the outstanding balance on his car loan.
+Oklahoma courts have recognized that “[e]very contract in
+Oklahoma contains an implied duty of good faith and fair
+                                                                      IV. Conclusion
+dealing.” Wathor v. Mutual Assur Adm'rs, Inc., 2004 OK 2, ¶
+                                                                      Defendant's motion to dismiss (Doc. 18) is GRANTED
+5, 87 P.3d 559, 561. A party may not act in a way that would
+                                                                      IN PART and TAKEN UNDER ADVISEMENT IN PART.
+injure the other party's reasonable expectations or impair the
+                                                                      Plaintiff's claims of breach of contract are dismissed.
+right of the other to receive the contractual benefits. First Nat'l
+                                                                      Defendant's motion is taken under advisement as to Plaintiff's
+Bank & Trust Co. of Vinita v. Kissee, 1993 OK 96, ¶ 24, 859           FCRA claim. Plaintiff may file an amended complaint setting
+P.2d 502. However, “the obligation of good faith cannot be            for his FCRA claim on or before March 1, 2026 to address the
+employed to override express contract terms or to obligate a          deficiencies identified herein. Failure to do so will result in a
+party to accept additional terms or a material change in the          dismissal without further notice. IT IS SO ORDERED. Dated
+contract's terms.” Walker v. First Nat'l Bank of Med. Lodge,          this 25th day of February, 2026.
+129 F. App'x 411, 414 (10th Cir. 2005). Further, “the concept
+of good faith becomes irrelevant in the interpretation of a
+contractual provision which grants ‘uncontrolled discretion’
+                                                                                   __s/ John W. Broomes __________
+to one of the parties.” Devery Implement Co. v. J.I. Case Co.,
+944 F.2d 724, 729 (10th Cir. 1991).
+
+In response to Defendant's motion, Plaintiff agrees that
+Defendant was not required to use the deposit funds for               JOHN W. BROOMES
+payment of his car loan. Plaintiff asserts that Oklahoma
+                                                                      CHIEF UNITED STATES DISTRICT JUDGE
+“courts hold that when a contract grants one party
+discretionary authority, that discretion must be exercised in         All Citations
+good faith and not in a manner that frustrates the justified
+expectations of the other party.” (Doc. 20 at 3.) Plaintiff cites     Slip Copy, 2026 WL 516955
+
+
+
+
+                © 2026 Thomson Reuters. No claim to original U.S. Government Works.                                                  3
+ROOSEVELT HUNT, JR., Plaintiff, v. TRUE SKY FEDERAL..., Slip Copy (2026)
+
+
+
+
+                                                     Footnotes
+
+
+1     The court notes that application of Kansas law in this case would also result in dismissal of the breach of
+      contract claims.
+
+2     Although Plaintiff's argument section is titled “Plaintiff's contract claims are properly pled,” Plaintiff only
+      addresses his claim of breach of the implied duty of good faith. (Doc. 20 at 3.)
+
+3     Plaintiff also cites to a non-existent case in support of his arguments on the FCRA claim. (Doc. 20 at 1) (citing
+      to Howard v. CitiMortgage, Inc., 2019 WL 1401348 (D. Kan. Mar. 28, 2019)). There is no case with such a
+      caption in Westlaw and Plaintiff has not provided a case number for the court to locate the case in its records.
+      Since the filing of Plaintiff's brief, this court has entered a standing order on the use of Artificial Intelligence
+      (“AI”) in court filings. Standing Order 26-01 (In Re: Use of Artificial Intelligence In Preparing Court Filings).
+      This order requires a litigant to review and verify the accuracy of all content filed with the court that was
+      drafted or assisted using an AI tool. Should Plaintiff violate this standing order in subsequent filings, he can
+      be subject to sanctions as set forth in the standing order.
+
+
+
+End of Document                                           © 2026 Thomson Reuters. No claim to original U.S. Government Works.
+
+
+
+
+             © 2026 Thomson Reuters. No claim to original U.S. Government Works.                                           4
+

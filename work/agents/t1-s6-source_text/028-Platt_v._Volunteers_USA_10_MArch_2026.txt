@@ -1,0 +1,206 @@
+Case 1:25-cv-01866-SEB-KMB                  Document 27       Filed 03/10/26   Page 1 of 4 PageID #:
+                                                  109
+
+
+
+                               UNITED STATES DISTRICT COURT
+                               SOUTHERN DISTRICT OF INDIANA
+                                  INDIANAPOLIS DIVISION
+
+ MICHAEL PLATT,                                           )
+                                                          )
+                               Plaintiff,                 )
+                                                          )
+                          v.                              )       No. 1:25-cv-01866-SEB-KMB
+                                                          )
+ VOLUNTEERS OF AMERICA OHIO &                             )
+ INDIANA,                                                 )
+                                                          )
+                               Defendant.                 )
+
+                     ORDER STRIKING PRO SE PLAINTIFF'S FILING
+                       CONTAINING NONEXISTENT CITATIONS
+
+        Defendant Volunteers of America Ohio & Indiana’s ("VOA") has alleged that pro se
+
+ Plaintiff Michael Platt cited allegedly fictious caselaw in his response brief to the VOA's Motion
+
+ for Leave to File Amended Answer. [Dkt. 22 at 7.] Specifically, in its reply brief supporting its
+
+ Motion, VOA alleges that Mr. Platt "relies on authority that appears to be at most fictitious or at
+
+ least unverifiable through the citation provided." [Id. (identifying Bodine v. Warwick Valley
+
+ Central School District, No. 14-CV-1989, 2015 WL 1298999 (S.D.N.Y. Mar. 23, 2015) and
+
+ Williams v. Board of Education of the City of Chicago, 982 F.3d 495 (7th Cir. 2020)).] In his
+
+ surreply, Mr. Platt does not expressly concede that any cited authority is fabricated. [Dkt. 23.]
+
+ Rather, he argues that even if Bodine does not exist, that case is unnecessary to the resolution of
+
+ the pending Motion and is, therefore, immaterial to the Court’s analysis. [Id. at 3.] Mr. Platt does
+
+ not respond to VOA’s assertion that the quotation he attributed to Williams does not exist in that
+
+ decision.
+
+        The Court independently reviewed the authorities cited by Mr. Platt and conducted searches
+
+ of Westlaw, Lexis, and PACER for the decisions identified in his response brief. The Court did
+
+
+                                                    1
+Case 1:25-cv-01866-SEB-KMB             Document 27         Filed 03/10/26      Page 2 of 4 PageID #:
+                                             110
+
+
+
+ not locate any decision corresponding to Bodine v. Warwick Valley Central School District, No.
+
+ 14-CV-1989, 2015 WL 1298999 (S.D.N.Y. Mar. 23, 2015), and it could not find the quoted
+
+ language that Mr. Platt attributed to Williams v. Board of Education of the City of Chicago, 982
+
+ F.3d 495 (7th Cir. 2020). Accordingly, the Court agrees with VOA that some of Mr. Platt's cited
+
+ authorities either do not exist or are materially misrepresented.
+
+        It is becoming increasingly common for parties in litigation to use artificial intelligence to
+
+ prepare filings. The Court suspects that Mr. Platt did so here. Courts in this District have
+
+ recognized that citing nonexistent authority or misrepresenting a case’s holding constitutes a false
+
+ statement that may warrant sanctions under Federal Rule of Civil Procedure 11. See, e.g., Davis
+
+ v. Marion Cnty. Superior Ct. Juv. Det. Ctr., No. 1:24-cv-01918-JRS-MJD, 2025 U.S. Dist. LEXIS
+
+ 170047, at *8 (S.D. Ind. Sept. 2, 2025); Mid Cent. Operating Eng'rs Health & Welfare Fund v.
+
+ Hoosiervac LLC, 2025 U.S. Dist. LEXIS 100748 at *3 (S.D. Ind. May 28, 2025); Virgil v. Experian
+
+ Info. Sols. Inc., No. 1:25-cv-01641-MPB-MJD, 2026 U.S. Dist. LEXIS 29090, at *11 (S.D. Ind.
+
+ Feb. 12, 2026).
+
+        Although Mr. Platt is proceeding pro se, he is not excused from compliance with procedural
+
+ rules. Jones v. Kankakee Cnty. Sheriff's Dep't, 164 F.4th 967, 969 (7th Cir. 2026) (holding that
+
+ although "the [Rule 11] inquiry is different for pro se and represented parties" pro se litigants still
+
+ "shoulder responsibility too" and "in no way will we allow a court filing to include
+
+ misrepresentations on legal or factual points that an unrepresented party reasonably knows or
+
+ should know exist"); see also Pearle Vision, Inc. v. Romm, 541 F.3d 751, 758 (7th Cir. 2008)
+
+ (noting that "pro se litigants are not excused from compliance with procedural rules"). Federal
+
+ Rule of Civil Procedure 11 provides, in relevant part:
+
+        (b) Representations to the Court. By presenting to the court a pleading, written
+        motion, or other paper—whether by signing, filing, submitting, or later advocating
+
+                                                   2
+Case 1:25-cv-01866-SEB-KMB             Document 27        Filed 03/10/26       Page 3 of 4 PageID #:
+                                             111
+
+
+
+        it—an . . . unrepresented party certifies that to the best of the person's knowledge,
+        information, and belief, formed after an inquiry reasonable under the
+        circumstances: . . . .
+
+            (2) the claims, defenses, and other legal contentions are warranted by
+            existing law or by a nonfrivolous argument for extending, modifying, or
+            reversing existing law or for establishing new law; . . . .
+
+ Fed. R. Civ. P. 11(b).
+
+        The Court may sua sponte order a party to show cause why certain conduct has not violated
+
+ Rule 11(b) and, if the Court determines a violation has occurred, impose sanctions. Fed. R. Civ.
+
+ P. 11(c). Courts have consistently held that failing to check the treatment, soundness, or existence
+
+ of cases warrants sanctions. See, e.g., Mid Cent. Operating Eng’rs Health & Welfare Fund, 2025
+
+ U.S. Dist. LEXIS 100748, at *1–4 (adopting in part a report and recommendation and imposing a
+
+ $6,000 personal sanction where counsel admitted to filing briefs containing fictitious AI-generated
+
+ citations); Virgil, 2026 U.S. Dist. LEXIS 29090, at *11 (recommending a $10,000 personal
+
+ sanction for counsel filing five briefs that contained citations to non-existent cases); Salahuddin v.
+
+ Coughlin, 999 F. Supp. 526, 529 (S.D.N.Y. 1998); Brown v. Lincoln Towing Serv., Inc., No.
+
+ 88C0831, 1988 WL 93950 (N.D. Ill. 1988); Pravic v. U.S. Indus.-Clearing, 109 F.R.D. 620, 623
+
+ (E.D. Mich. 1986). While these cited cases involve attorneys failing to check the treatment and
+
+ soundness of case citations, many of the principles on which those decisions are based also apply
+
+ to pro se parties. See, e.g., Tsupko v. Kinetic Advantage, LLC, 2025 WL 2677157, at *5 (S.D. Ind.
+
+ Sept. 17, 2025) (admonishing pro se plaintiff for citing non-existent caselaw and warning that "any
+
+ further non-compliance with all applicable Federal Rules of Civil Procedure and the Local Rules
+
+ of this Court will result in sanctions against him which may include dismissal of this case . . . .").
+
+        In consideration of Mr. Platt's pro se status, the Court will not at this time order him to
+
+ show cause why the fictitious citations identified did not violate Rule 11(b) and why he should not
+
+
+
+                                                   3
+Case 1:25-cv-01866-SEB-KMB              Document 27        Filed 03/10/26       Page 4 of 4 PageID #:
+                                              112
+
+
+
+ be sanctioned. Instead, the Court STRIKES Mr. Platt's response brief from the record, [dkt. 21],
+
+ and sua sponte GRANTS him leave to refile a response brief within fourteen (14) days of the
+
+ date of this Order. Mr. Platt is formally ADMONISHED that in preparing and submitting all
+
+ future filings, he must FULLY COMPLY with all applicable Federal Rules of Civil Procedure
+
+ and the Local Rules of this Court. Failure to do so may result in sanctions, up to and including
+
+ dismissal of his case.
+
+        For purposes of clarity on the docket, the Clerk is directed to STRIKE Mr. Platt's response
+
+ brief at dkt. 21. VOA's reply brief at dkt. 22 and Mr. Platt's surreply at dkt. 23 will not be
+
+ considered further in ruling on the pending Motion for Leave to File Amended Answer, [dkt. 20],
+
+ which remains UNDER ADVISEMENT. VOA has fourteen (14) days from the refiling of Mr.
+
+ Platt's response brief to file a reply brief supporting its motion. No surreply brief will be permitted.
+
+         SO ORDERED.
+
+         Date: 3/10/2026
+
+
+
+ Distribution:
+
+ All ECF-registered counsel of record via email
+
+ MICHAEL PLATT
+ 750 Third Avenue Ste. 1042
+ Chula Vista, CA 91910
+
+
+
+
+                                                    4
+

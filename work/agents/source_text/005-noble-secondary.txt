@@ -1,0 +1,734 @@
+                                     2026 IL App (1st) 251168-U
+                                            No. 1-25-1168
+                                      Order filed August 28, 2026
+                                                                                        Fifth Division
+
+
+ NOTICE: This order was filed under Supreme Court Rule 23 and is not precedent except in the
+ limited circumstances allowed under Rule 23(e)(1).
+ ______________________________________________________________________________
+                                                IN THE
+                                  APPELLATE COURT OF ILLINOIS
+                                           FIRST DISTRICT
+ ______________________________________________________________________________
+ SANJA NOBLE,                                                   )   Appeal from the
+                                                                )   Circuit Court of
+           Plaintiff-Appellant,                                 )   Cook County.
+                                                                )
+     v.                                                         )   No. 23 CH 09267
+                                                                )
+ WMC MORTGAGE CORP., U.S. BANK NATIONAL                         )   Honorable
+ ASSOCIATION, as Trustee for Mastr Asset Backed                 )   David B. Atkins,
+ Securities Trust 2006-WMC3 Mortgage Pass-Through               )   Judge, Presiding.
+ Certificates, Series 2006-WMC3,                                )
+                                                                )
+           Defendant-Appellee.                                  )
+
+
+
+           JUSTICE ODEN JOHNSON delivered the judgment of the court.
+           Justices Mikva and Wilson concurred in the judgment.
+
+                                              ORDER
+
+¶1        Held: The trial court did not err in denying plaintiff’s section 2-1401 (735 ILCS 5/2-1401
+                (West 2024)) petition seeking leave to file a third amended complaint where the
+                proposed amendments failed to cure the defect of failing to state a cause of action
+                for quiet title.
+
+¶2        Plaintiff Sanja Noble (Noble) filed a pro se complaint against defendant WMC Mortgage
+
+Corp., U.S. Bank National Association, as Trustee for Mastr Asset Backed Securities Trust 2006-
+No. 1-25-1168
+
+
+WMC3 Mortgage Pass-Through Certificates, Series 2006-WMC3 (WMC Mortgage), seeking to
+
+quiet title to real estate located at 16338 Emerald Avenue in Harvey, Illinois. That complaint was
+
+dismissed on defendant’s motion, as was Noble’s amended complaint. The circuit court denied
+
+Noble leave to file a second amended complaint with prejudice. More than 30 days after the circuit
+
+court’s final order, Noble sought leave to file a third amended complaint but the circuit court held
+
+that it lacked jurisdiction to enter any further orders. Noble then filed a pro se section 2-1401 (735
+
+ILCS 5/2-1401 (West 2024)) petition to vacate the circuit court’s order finding that it lacked
+
+jurisdiction because she did not receive the court’s order denying her leave to file her second
+
+amended complaint. The circuit court denied that petition and Noble appeals pro se from the denial
+
+of her section 2-1401 petition.
+
+¶3     On appeal, Noble contends that: (1) the circuit court erred in dismissing Noble’s verified
+
+complaint to quiet title where the certified record contains no evidence of any valid assignment of
+
+the 2006 WMC mortgage after WMC Mortgage withdrew from Illinois in 2008 and later dissolved,
+
+and where no defendant established standing as a real party in interest; (2) the circuit court abused
+
+its discretion in denying Noble leave to amend her complaint despite newly-presented, record-
+
+anchored evidence that would have cured any pleading defects and warranted an evidentiary
+
+hearing on standing and chain of title; (3) dismissal and denial of amendment permitted unjust
+
+enrichment by allowing SPS to collect payments without proof of authority or standing, contrary
+
+to Illinois equity and federal servicing law; and (4) the court’s refusal to adjudicate standing and
+
+its disparate treatment of a pro se litigant constituted structural due process violations warranting
+
+reversal and targeted remand. For the following reasons, we affirm.
+
+¶4                                       BACKGROUND
+
+
+
+                                                -2-
+No. 1-25-1168
+
+
+¶5        In May 2006, Noble borrowed $85,500 from WMC Mortgage and the loan was secured by
+
+a mortgage recorded in 2006 against real property located at 16338 Emerald Avenue in Harvey,
+
+Illinois (the property).
+
+¶6        A pro se verified complaint was filed by the prior plaintiff, SQD Revocable Living Trust
+
+(the Trust), on November 6, 2023, alleging that Noble, Trustee of the Trust, owned the property
+
+since September 27, 2005. The Trust alleged that it refinanced the property with WMC Mortgage
+
+on May 3, 2006, and that there was a note and mortgage recorded on the property by WMC
+
+Mortgage on May 26, 2006. The Trust alleged that WMC Mortgage claimed an interest in the
+
+property adversely affecting the Trust, which claimed to have “exclusive, complete, actual, open,
+
+notorious, hostile, and continuous possession of the property adverse to the defendants for more
+
+than 17 years.” Additionally, the Trust alleged that Noble had made and paid for all repairs, upkeep
+
+and insurance on the property for more than 17 years but was unable to borrow on the property.
+
+The Trust attempted to allege an adverse possession claim and sought to be declared the owner of
+
+the property and that WMC Mortgage had no interest in the property. Noble represented the Trust
+
+pro se.
+
+¶7        Defendant U.S. Bank National Association, as Trustee for Mastr Asset Backed Securities
+
+Trust 2006-WMC3 Mortgage Pass-Through Certificates, Series 2006-WMC3 moved to dismiss
+
+the Trust’s complaint on three grounds: (1) Noble, who was not an attorney, could not represent
+
+the Trust; (2) the Trust could not maintain an adverse possession claim because it was not in
+
+possession of the property for 20 years; and (3) the Trust failed to and was required to name Noble,
+
+the Trustee of the Trust, as a necessary and indispensable party.
+
+
+
+
+                                                -3-
+No. 1-25-1168
+
+
+¶8     In January 2024, the Trust deeded the property to Noble, subject to mortgages and other
+
+instruments of record insofar as they may lawfully affect the property. After the deed was recorded,
+
+the circuit court granted the Trust leave to substitute Noble as the plaintiff and also granted her
+
+leave to file an amended complaint. In her amended complaint, Noble alleged that she refinanced
+
+the property with WMC Mortgage and that a note and mortgage were recorded against the property
+
+on May 26, 2006. Noble alleged that she called the loan servicer in September 2023 to request the
+
+name of the lender on the loan they were servicing for the property. She alleged that to date, she
+
+had not received any information validating an entity that SPS was collecting for. Nobel concluded
+
+in her quiet title claim that from this, she was entitled to a judicial declaration that she was the
+
+100% owner of the property and she sought to quiet title to the property in her name alone as of
+
+the date of the first amended complaint.
+
+¶9     Defendant moved to dismiss Noble’s amended complaint under section 2-619(a)(9) (735
+
+ILCS 5/2-619(a)(9) (West 2022)), arguing that she could not, on the one hand, borrow $85,500
+
+and grant a mortgage to secure payment of the loan, and on the other hand, seek to quiet title to
+
+the property when she agreed to take title to the property subject to the mortgage. Defendant argued
+
+that the mortgage was not a cloud on title since it was neither unfounded nor inequitable to enforce,
+
+and that the Conveyances Act (765 ILCS 5/30 (West 2022)) provided that the mortgage took effect
+
+when it was recorded in 2006. Defendant also argued that Noble pointed to no authority that her
+
+mortgage was invalid or unenforceable because her loan servicer may not have informed her of
+
+the identity of the current owner of the loan and mortgage. Defendant’s counsel provided Noble
+
+with documentation regarding the current owner of the loan and mortgage. Defendant further
+
+
+
+
+                                                -4-
+No. 1-25-1168
+
+
+maintained that when Noble re-took title to the property in January 2024, she agreed to and took
+
+title to the property subject to the mortgage.
+
+¶ 10    The circuit court granted defendant’s motion and dismissed Noble’s amended complaint
+
+without prejudice on July 1, 2024. The court reasoned that plaintiff admitted that she entered into
+
+the mortgage in 2006 and as recently as January 2024, transferred title on the property expressly
+
+subject to any mortgages to herself individually. The court noted that defendant provided all of the
+
+information sought by Noble, but found that even if it had not, lack of information on an admittedly
+
+valid mortgage was clearly no basis to extinguish it. The court further noted that this was a fact-
+
+pleading jurisdiction and as pled Noble had not stated a cause of action for quiet title.
+
+¶ 11    Noble filed a motion to reconsider, which was denied on November 7, 2024, but the circuit
+
+court indicated that it had not denied leave to amend. Plaintiff filed a motion for leave to file a
+
+second amended complaint, alleging that: (1) since filing her first amended complaint, additional
+
+facts emerged regarding SPS’s failure to validate its authority as a loan servicer and provide
+
+requested documentation; (2) her amended complaint specified the legal bases for her claims,
+
+including the quiet title statute and provisions of the Code of Federal Regulations concerning error
+
+resolution and request for information from mortgage loan services; (3) her second amended
+
+complaint included a breakdown of damages she suffered due to payments made under SPS’s
+
+misrepresentations; and (4) her proposed amended pleading incorporated arguments and facts to
+
+preemptively address potential defenses. On January 27, 2025, the circuit court denied Noble’s
+
+motion with prejudice. Noble did not file a notice of appeal or motion to reconsider within 30 days
+
+of that order.
+
+
+
+
+                                                 -5-
+No. 1-25-1168
+
+
+¶ 12   On March 6, 2025, Noble filed a motion for leave to file a third amended complaint. On
+
+March 12, 2025, the circuit court found that it lacked jurisdiction to enter any further orders
+
+pursuant to section 2-1203 (735 ILCS 5/2-1203 (West 2024)). Noble then filed a section 2-1401
+
+(735 ILCS 5/2-1401 (West 2024)) petition, arguing that she did not receive the court’s January 27,
+
+2025, order until March 12, 2025. She further argued that the March 12, 2025, order should be
+
+vacated because she was “deprived of her constitutional right to due process” and her lack of notice
+
+of the court’s January 27, 2025, order constituted a valid legal basis for relief under the statute.
+
+Noble asked the circuit court to vacate the March 12, 2025, order so that she could file a motion
+
+to reconsider the January 27, 2025, order.
+
+¶ 13   The circuit court denied Noble’s section 2-1401 petition on June 16, 2025. The court’s
+
+order stated that there was no basis to grant that relief because Noble raised the same arguments
+
+to the merits already repeatedly rejected and the only new argument raised was that Noble did not
+
+receive a copy of the January 27, 2025, order. However, the circuit court found that section 2-1401
+
+required due diligence in filing such a claim, which included following the progress of one’s own
+
+case. The court noted that section 2-1401 also required a showing of a meritorious claim, which
+
+Noble again relied solely on the same arguments raised (and rejected) throughout the case and
+
+denied the petition.
+
+¶ 14   Nobel filed a notice of appeal on June 18, 2025. No report of proceedings or certified
+
+bystander’s report was filed with the record on appeal.
+
+¶ 15                                         ANALYSIS
+
+¶ 16   On appeal, Noble contends that: (1) the circuit court erred in dismissing Noble’s verified
+
+complaint to quiet title where the certified record contains no evidence of any valid assignment of
+
+
+
+                                               -6-
+No. 1-25-1168
+
+
+the 2006 WMC mortgage after WMC Mortgage withdrew from Illinois in 2008 and later dissolved,
+
+and where no defendant established standing as a real party in interest; (2) the circuit court abused
+
+its discretion in denying Noble leave to amend her complaint despite newly-presented, record-
+
+anchored evidence that would have cured any pleading defects and warranted an evidentiary
+
+hearing on standing and chain of title; (3) dismissal and denial of amendment permitted unjust
+
+enrichment by allowing SPS to collect payments without proof of authority or standing, contrary
+
+to Illinois equity and federal servicing law; and (4) the court’s refusal to adjudicate standing and
+
+its disparate treatment of a pro se litigant constituted structural due process violations warranting
+
+reversal and targeted remand.
+
+¶ 17   We initially note that Noble’s issues on appeal include issues related to the dismissal of
+
+Noble’s second amended complaint; however, the denial of her section 2-1401 (735 ILCS 5/2-
+
+1401 (West 2024)) petition is the actual order appealed from. Some of Noble’s arguments on
+
+appeal relate to the dismissal of her second amended complaint with prejudice, from which she
+
+failed to file a timely motion to reconsider or notice of appeal within 30 days of the date of the
+
+order in accordance with Supreme Court Rule 303 (Ill. S. Ct. R. 303(a)(1) (eff. July 1, 2017). Filing
+
+of a timely notice of appeal is both mandatory and jurisdictional. Taylor v. Highline Auto Sales,
+
+Inc., 2023 IL App (1st) 221590, ¶ 37. We therefore have no jurisdiction to review such matters as
+
+they are not properly before this court. Our review on appeal is therefore confined to review of the
+
+denial of Noble’s section 2-1401 petition.
+
+¶ 18                            A. Violations of Supreme Court Rule 341
+
+¶ 19   We must first address the failure of Noble’s opening brief to fully conform with the
+
+requirements of Illinois Supreme Court Rule 341 (eff. Oct. 1, 2020). “The rules of procedure
+
+
+
+                                                -7-
+No. 1-25-1168
+
+
+concerning appellate briefs are rules and not mere suggestions.” Niewold v. Fry, 306 Ill. App. 3d
+
+735, 737 (1999). The purpose of the rules is to require parties before a reviewing court to present
+
+clear and orderly arguments so that the court can properly ascertain and dispose of the issues
+
+involved. Hall v. Naper Gold Hospitality LLC, 2012 IL App (2d) 111151, ¶ 7. A brief that lacks
+
+any substantial conformity to the pertinent supreme court rules may justifiably be stricken. Hall,
+
+2012 IL App (2d) 111151, ¶ 7.
+
+¶ 20   Here, Noble’s brief is deficient in many ways.
+
+¶ 21   Noble’s brief does not contain a proper summary statement or introductory paragraph as
+
+required by Supreme Court Rule 341(h)(1). Ill. S. Ct. R. 341(h)(1) (eff. Oct. 1, 2020). Additionally,
+
+Noble’s brief violates supreme court rules 341(h)(2) (eff. Oct. 1, 2020), which requires an
+
+introductory paragraph that includes the nature of the action and of the judgment appealed from
+
+and whether the judgment was based upon the verdict or a jury and whether any question is raised
+
+on the pleadings.
+
+¶ 22   Rule 341(h)(6) requires a statement of facts that contain the facts “necessary to an
+
+understanding of the case.” Ill. S. Ct. R. 341(h)(6) (eff. Oct. 1, 2020). While Noble’s brief contains
+
+a section captioned “material facts,” it does not contain any facts related to the procedural history
+
+of the case.
+
+¶ 23   Rule 341(h)(7) requires that an appellant’s brief must contain contentions and the reasons
+
+in support, with citations to the authorities upon which Noble relies. Ill. S. Ct. R. 341(h)(7) (eff.
+
+Oct. 1, 2020). Noble’s brief contains only conclusory statements for those issues she chose to
+
+address, but no argument directly related to the denial of her section 2-1401 petition. Her
+
+arguments are mostly related to the dismissal of her amended complaint. A reviewing court is
+
+
+
+                                                -8-
+No. 1-25-1168
+
+
+entitled to the benefit of clearly defined issues with pertinent authority cited and a cohesive legal
+
+argument. Wing v. Chicago Transit Authority, 2016 IL App (1st) 153517, ¶11. Arguments that are
+
+unsupported by citation do not meet the requirements of Rule 341(h)(7) and are procedurally
+
+defaulted. Wing, 2016 IL App (1st) 153517, ¶11. We also note that Noble’s brief contains a
+
+“hallucinated” citation on page 10, which occurs when AI-generated responses are used and not
+
+verified. See In re Baby Boy, 2025 IL App (4th) 241427, ¶¶ 102-105. She cites Ferguson v.
+
+Georges, 389 Ill. App. 3d 543, 553-54 (2010) to state the standard of review for the circuit court’s
+
+denial of leave to amend. However, our research has determined that the citation is actually
+
+contained within People v. Mott, 389 Ill. App. 3d 539 (2009) and does not address the standard of
+
+review relied on.
+
+¶ 24   An appellant’s pro se status does not alleviate the duty to comply with our supreme court
+
+rules governing appellate procedure. Wing, 2016 IL App (1st) 153517, ¶ 7. It is well settled that
+
+this court is not required to search the record to determine what legal issues are involved in an
+
+appeal. Twardowski v. Holiday Hospitality Franchising, Inc., 321 Ill. App. 3d 509, 511 (2001).
+
+Although a pro se appellant’s deficient brief does not affect our jurisdiction to consider an appeal,
+
+when the procedural violations interfere with our review of issues, we may exercise our discretion
+
+and strike a brief for failure to comply with the rules. Wing, 2016 IL App (1st) 153517, ¶ 11.
+
+¶ 25   However, along with these general rules, this court has held that we may entertain an appeal
+
+as long as we can understand the issues an appellant intends to raise and especially where we have
+
+the benefit of a cogent brief from the other party. Twardowski, 321 Ill. App. 3d at 511. Here, as
+
+we have found, plaintiff’s brief clearly violates Rule 341 in many respects. However, WMC
+
+Mortgage has filed a brief and it is clear from the circuit court’s order what the subject matter of
+
+
+
+                                                -9-
+No. 1-25-1168
+
+
+this appeal is. Thus, we decline to strike plaintiff’s brief and will not dismiss the appeal. That being
+
+said, we will not consider any inappropriate matters or unsupported assertions contained in Noble’s
+
+brief because mere contentions, without argument or citation of authority, do not merit
+
+consideration on appeal. Progressive Universal Insurance Company of Illinois v. Taylor, 375 Ill.
+
+App. 3d 495, 501-02 (2007).
+
+¶ 26      Additionally, as noted above, Noble failed to file a report of proceedings or certified
+
+bystander's report. It is the duty of every appellant in a reviewing court to provide a sufficient
+
+record to support a claim of error, and in the absence of such a record, the reviewing court will
+
+presume that the trial court's order was in conformity with established legal principles and had a
+
+sufficient factual basis. Foutch v. O'Bryant, 99 Ill. 2d 389, 391-92 (1984). In the absence of a
+
+proper record, a reviewing court may dismiss the appeal, or alternately, summarily affirm the
+
+judgment of the trial court. Marx Transport, Inc. v. Air Express International Corp., 379 Ill. App.
+
+3d 849, 853 (2008). However, the failure to present a report of proceedings does not require
+
+automatic dismissal or affirmance where the issues can be resolved on the record as it stands. Marx
+
+Transport, 379 Ill. App. 3d at 853.
+
+¶ 27      We find that dismissal or summary affirmance is not necessary in this case as the issues on
+
+appeal can be resolved on the record, and we proceed to address the issues raised by plaintiff on
+
+appeal.
+
+¶ 28                     B. Denial of Noble’s Section 2-1401 Petition (Issues 1-3)
+
+¶ 29      As stated above, this appeal is before us on the denial of Noble’s section 2-1401 (735 ILCS
+
+5/2-1401 (West 2024)) petition challenging the circuit court’s denial of leave to amend the
+
+underlying complaint for the second time. Noble argues that she sought to amend the complaint to
+
+
+
+                                                 - 10 -
+No. 1-25-1168
+
+
+add curative facts and exhibits: SPS’s written responses and communications evidencing an
+
+inability to validate authority and her sworn affidavit of no assignment. Noble asserts that such
+
+material directly addressed any perceived pleading deficiencies by (1) identifying the absence of
+
+any assignment from WMC, (2) demonstrating SPS’s lack of validation, and (3) alleging concrete
+
+damages and ongoing impairment of title. Noble concludes that denying leave to amend under
+
+those circumstances, particularly as to a pro se litigant, was an abuse of discretion and the proper
+
+remedy is reversal and remand with directions to grant leave to amend.
+
+¶ 30   On appeal, we review the judgment, not the reasoning of the circuit court, and we may
+
+affirm on any grounds in the record, regardless of whether the circuit court relied on those grounds.
+
+Couglan v. Beck, 2013 IL App (1st) 120891, ¶ 24. Section 2-1401 of the Code of Civil Procedure
+
+(Code) (735 ILCS 5/2-1401 (West 2024)) provides a comprehensive procedure by which final
+
+orders, judgments, and decrees may be vacated after 30 days from the entry thereof. The filing of
+
+a section 2-1401 petition is considered a new proceeding, not a continuation of the old one. City
+
+of Rockford v. Gilles, 2022 IL App (2d) 210521, ¶ 55.
+
+¶ 31   The standard of review for a dismissed section 2-1401 petition turns on whether the petition
+
+presents a purely legal challenge or whether it is fact- dependent. Warrant Conservation District
+
+v. Walters, 2015 IL 117783, ¶ 31. Where a section 2-1401 petition presents a purely legal
+
+challenge, the order on the petition is reviewed de novo. Id. Where the petition raises a fact-
+
+dependent challenge, the petition must set forth factual allegations supporting each of the
+
+following elements: (1) the existence of a meritorious defense (or claim); (2) due diligence in
+
+presenting this defense; and (3) due diligence in filing the section 2-1401 petition for relief. Id. ¶
+
+
+
+
+                                                - 11 -
+No. 1-25-1168
+
+
+51. The circuit court’s ultimate decision on a fact-dependent petition is reviewed for an abuse of
+
+discretion. Id.
+
+¶ 32    In this case, Noble’s section 2-1401 petition was filed after she failed to file either a motion
+
+to reconsider or appeal within 30 days of the January 27, 2025, order denying her leave to file a
+
+second amended complaint with prejudice. Noble’s petition sought leave to reconsider the filing
+
+of a second amended complaint with curative facts and exhibits, which raises a legal challenge as
+
+to whether the proposed amendments to the complaint stated a cause of action as a matter of law.
+
+Accordingly, our review is de novo.
+
+¶ 33    Section 2-616(a) of the Code (735 ILCS 5/2-616(a) (West 2024)) provides that at any time
+
+before final judgment, amendments may be allowed on just and reasonable terms. Although courts
+
+in Illinois are encouraged to freely and liberally allow the amendment of pleadings, the right to
+
+amend is not absolute and unlimited. In re Marriage of Lyman, 2015 IL App (1st) 132832, ¶ 51.
+
+Whether to allow an amendment of a complaint is a matter within the discretion of a trial court,
+
+and we review a court’s denial of leave to amend under the abuse of discretion standard. Id. In
+
+determining whether a trial court abused its discretion by denying leave to amend, Illinois courts
+
+must determine “(1) whether the proposed amendment would cure the defective pleading; (2)
+
+whether other parties would sustain prejudice or surprise by virtue of the proposed amendment;
+
+(3) whether the proposed amendment is timely; and (4) whether previous opportunities to amend
+
+the pleading could be identified.” Loyola Academy v. S & S Roof Maintenance, Inc., 146 Ill. 2d
+
+263, 273 (1992). The plaintiff must meet all four factors, and if the proposed amendment does not
+
+state a cognizable claim, and thus fails the first factor, courts of review will often not proceed with
+
+
+
+
+                                                 - 12 -
+No. 1-25-1168
+
+
+further analysis. Marriage of Lyman, 2015 IL App (1st) 132832, ¶ 51. Where it is apparent even
+
+after amendment that no cause of action can be stated, leave to amend should be denied. Id.
+
+¶ 34   Here, Noble sought leave to file a second amended complaint to quiet title. As noted above,
+
+she states that she wished to “add curative facts and exhibits: SPS’s written responses and
+
+communications evidencing an inability to validate authority and her sworn affidavit of no
+
+assignment.” She contends that such material directly addressed any perceived pleading
+
+deficiencies by (1) identifying the absence of any assignment from WMC, (2) demonstrating SPS’s
+
+lack of validation, and (3) alleging concrete damages and ongoing impairment of title.
+
+¶ 35   An action to quiet title in property is an equitable proceeding in which a party seeks to
+
+remove a cloud on his title to the property. Hoch v. Boehme, 2013 IL App (2d) 120664, ¶ 41. A
+
+cloud on title is the semblance of title, either legal or equitable, appearing in some legal form but
+
+which is, in fact, unfounded or which it would be inequitable to enforce. Id. To prevail in an action
+
+to quiet title, the plaintiff must actually have title, though it need not be perfect. Id. The plaintiff
+
+must recover on the strength of his own title rather than on defects in the defendant’s title. Id. Any
+
+instrument or proceedings in writing appearing of record and casting a doubt on the validity of the
+
+record title constitutes a cloud on title. Allensworth v. First Galesburg National Bank & Trust Co.,
+
+7 Ill. App. 2d 1, 4 (1955). A suit to quiet title generally applies only to instruments or other
+
+proceedings in writing which appear of record and cast doubt on the validity of the record title.
+
+Kile v. Swiney, 413 Ill. 350, 354 (1952). A valid property interest does not constitute a cloud on
+
+title. Illinois District of American Turners, Inc. v. Rieger, 329 Ill. App. 3d 1063, 1072 (2002).
+
+¶ 36   Applying the first Loyola factor, whether the proposed amendment would cure a defective
+
+pleading, we find that Noble’s proposed curative facts and exhibits would not have cured the
+
+
+
+                                                 - 13 -
+No. 1-25-1168
+
+
+defective pleading. Noble’s verified complaint admits that she executed a mortgage with WMC
+
+Mortgage on May 3, 2006, which is not negated by whether or not there was a valid assignment
+
+of the mortgage recorded for the property. The proposed amended complaint does not allege
+
+specific violation of the statutes relevant to her requested relief, namely the Conveyances Act (765
+
+ILCS 5/28 (West 2024)) and the Illinois Mortgage Foreclosure Act (735 ILCS 5/15-1207). She
+
+does not allege any facts indicating that the mortgage that she executed was somehow invalid,
+
+unenforceable, or that it did not create a valid security interest in the property. Nor does Noble’s
+
+complaint set forth any facts to support her claim that there was no valid assignment. The
+
+supporting documentation provided indicated only that the information Noble sought was housed
+
+with a third party. Therefore, Noble’s verified complaint, even with the proposed “curative facts
+
+and exhibits,” would not state a cause of action to quiet title as a matter of law.
+
+¶ 37   As such, Noble has not established that her proposed amendment would have cured the
+
+defects in her verified complaint. Because Noble cannot satisfy the first Loyola factor, we need
+
+not examine this issue further, including her arguments regarding lack of standing or authority of
+
+SPS to service the valid mortgage. Marriage of Lyman, 2015 IL App (1st) 132832, ¶ 51.
+
+Accordingly, we conclude that Noble’s section 2-1401 petition seeking leave to file a second
+
+amended complaint was properly denied.
+
+¶ 38                                  C. Noble’s Pro Se Status
+
+¶ 39   Although our determination above disposes of Noble’s appeal, we pause for a moment to
+
+address Noble’s argument that the circuit court’s refusal to adjudicate the issues raised in her
+
+complaint denied her a fair hearing and constituted a structural due process violation against a pro
+
+se litigant. This argument is without merit. The record indicates that Noble’s second amended
+
+
+
+                                                - 14 -
+No. 1-25-1168
+
+
+complaint was dismissed for failure to state a claim. Pro se litigants are presumed to have full
+
+knowledge of applicable court rules and procedures and must comply with the same rules and
+
+procedures as would be required of litigants represented by attorneys. In re Estate of Pellico, 394
+
+Ill. App. 3d 1052, 1067 (2009) (citing Steinbrecher v. Steinbrecher, 197 Ill. 2d 514, 528 (2001)).
+
+A party’s pro se status does not entitle them to more leniency.
+
+¶ 40   Nevertheless, the Illinois Code of Judicial Conduct, Rule 2.2, Comment [4] states, “It is
+
+not a violation of this Rule for a judge to make reasonable accommodations, consistent with the
+
+law and court rules, to ensure pro se litigants the opportunity to have their matters fairly heard.”
+
+However, “reasonable accommodations” is not the same as leniency and does not permit lax
+
+application of the rules. A court cannot overlook a plaintiff’s failure to state a claim properly.
+
+Defendants are entitled to notice of the claims against them, and the court must have a sufficient
+
+basis to assess the claim’s legal merits. When, as here, the complaint fails to articulate a valid
+
+claim, the case cannot proceed. There is nothing in the record to suggest that the circuit court
+
+denied Noble as a pro se litigant a fair opportunity to present her claims or violated her rights to
+
+due process.
+
+¶ 41   Having disposed of Noble’s due process and unjust enrichment claims on other grounds,
+
+we will not address defendant’s claims of waiver.
+
+¶ 42                                     CONCLUSION
+
+¶ 43   For the foregoing reasons, the judgment of the circuit court of Cook County is affirmed.
+
+¶ 44   Affirmed.
+
+
+
+
+                                               - 15 -
+

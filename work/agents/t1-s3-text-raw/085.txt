@@ -1,0 +1,448 @@
+IN THE UNITED STATES DISTRICT COURT
+FOR THE MIDDLE DISTRICT OF NORTH CAROLINA
+JAMES CURTIN, )
+)
+Plaintiff, )
+)
+v. ) 1:25CV782
+)
+CHUCK WATTS, et al., )
+)
+Defendants. )
+MEMORANDUM OPINION AND ORDER
+THOMAS D. SCHROEDER, District Judge.
+In this case, Plaintiff James Curtin, who proceeds pro se,
+asserts claims against Defendants Chuck Watts (“Watts”), his law
+firm, Watts Law PLC (“Watts Law”)1, Cyberlux Corporation
+(“Cyberlux”), and HII Mission Technologies Corporation (“HII”),
+alleging various acts of misconduct relating to federal defense
+contracts, as well as a conspiracy to retaliate against Curtin for
+exposing the alleged misconduct on his blog. Before the court are
+motions by Defendants HII (Doc. 20), Watts (Doc. 32), and Cyberlux
+(Doc. 44) to dismiss the claims against them in the amended
+complaint (Doc. 7)(the “complaint”) pursuant to Federal Rules of
+Civil Procedure 12(b)(1) and (6). All three motions are fully
+briefed and ready for decision. (Docs. 21, 29, 34; Docs. 32, 35,
+40; Docs. 45, 48, 51.) For the reasons set forth below, the
+1
+The complaint does not allege any conduct by Watts Law separate from
+Watts. Therefore, the court will construe Watts’s pro se motion to
+dismiss (Doc. 32) as a motion on behalf of both Watts and Watts Law.
+Case 1:25-cv-00782-TDS-JGM Document 66 Filed 05/20/26 Page 1 of 182
+motions will be granted and the complaint dismissed.
+I. BACKGROUND
+The well-pleaded allegations in the complaint, viewed in the
+light most favorable to Curtin as the non-moving party, show the
+following:
+Curtin is the owner and principal of Carotank Road Holdings
+Inc, a Virginia corporation engaged in consulting and technology
+development, as well as an author publishing under the pen name
+“Jackson Holt.” (Doc. 7 at 6.) In 2023, executives of Defendant
+Cyberlux approached Curtin “for joint ventures and technical
+partnerships involving one of [Curtin’s] clients.” (Id. at 10.)
+While conducting diligence on Cyberlux for his client, Curtin
+uncovered “legal, regulatory, and financial red flags including
+judgments, liens, lawsuits, and questionable public
+representations.” (Id.) Curtin communicated his findings to his
+client as well as Cyberlux executive Bill Maadarani and Cyberlux
+principal Denis Kalenja.2 (Id.) In November 2024, Curtin began
+publishing a series of articles under his “Jackson Holt” alias,
+accusing Cyberlux of “compliance irregularities” and misuse of
+foreign military financing (“FMF”) funds. (Id. at 8.)
+Curtin alleges that he “observed an individual photographing
+him” On May 10, 2025, around the same time that he received a
+2 Neither Kalenja nor Maadarani is named as a Defendant in the present
+action.
+Case 1:25-cv-00782-TDS-JGM Document 66 Filed 05/20/26 Page 2 of 183
+message from Maadarani. (Id. at 11.) On May 27, 2025, an anonymous
+X (formerly Twitter) account published tweets “doxxing and
+harassing [Curtin] and his family” as well as “referencing
+investigators”, once again around the same time that he received
+a message from Maadarani. (Id.) In June 2025, Maadarani contacted
+one of Curtin’s clients. (Id.) Curtin alleges without elaboration
+that in May 2025 and June 2025, “[m]ultiple partners withdrew from
+negotiations or cancelled deals [presumably with Curtin’s company]
+tied to the harassment campaign [against him].” (Id.)
+Based on the foregoing, Curtin asserts claims against
+Defendants Cyberlux, Watts, and Watts Law for “tortious
+interference with business expectancy” (Count 1) and civil
+conspiracy (Count 2), claims against all Defendants for “breach of
+fiduciary duty/misuse of public office” (Count 3), and claims
+against HII and Cyberlux for negligent supervision (Count 4).
+II. ANALYSIS
+Federal Rule of Civil Procedure 8(a)(2) provides that a
+complaint must contain “a short and plain statement of the claim
+showing that the pleader is entitled to relief.” Fed. R. Civ. P.
+(8)(a)(2). Under Federal Rule of Civil Procedure 12(b)(6), “a
+complaint must contain sufficient factual matter . . . to ‘state
+a claim to relief that is plausible on its face.’” Ashcroft v.
+Iqbal, 556 U.S. 662, 678 (2009) (quoting Bell Atl. Corp.
+v. Twombly, 550 U.S. 544, 570, (2007)). A claim is plausible “when
+Case 1:25-cv-00782-TDS-JGM Document 66 Filed 05/20/26 Page 3 of 184
+the plaintiff pleads factual content that allows the court to draw
+the reasonable inference that the defendant is liable for the
+misconduct alleged.” Id. In considering a Rule 12(b)(6) motion,
+a court “must accept as true all of the factual allegations
+contained in the complaint,” Erickson v. Pardus, 551 U.S. 89, 94
+(2007) (per curiam), and all reasonable inferences must be drawn
+in the plaintiff’s favor, Ibarra v. United States, 120 F.3d 472,
+474 (4th Cir. 1997). However, mere legal conclusions are not
+accepted as true, and “[t]hreadbare recitals of the elements of a
+cause of action, supported by mere conclusory statements, do not
+suffice.” Iqbal, 556 U.S. at 678.
+“[D]etermining whether a complaint states a plausible claim
+for relief is a ‘context-specific task.’ ” Langford v. Joyner, 62
+F.4th 122, 126 (4th Cir. 2023) (quoting Iqbal, 556 U.S. at 679).
+There is no categorical rule that a complaint cannot make
+allegations collectively against multiple defendants. Id.
+However, if a plaintiff employs a “global manner of pleading,” he
+must still allege “sufficient facts to allow the court to infer
+liability as to each defendant.” Id. (internal citations omitted).
+Defendants have identified myriad problems with Curtin’s
+lawsuit. Relevant to the motions to dismiss, Curtin’s complaint
+fails to state a claim because the federal statutory violations he
+alleges do not give rise to a private right of action, he has not
+alleged any legally cognizable duty that the Defendants breached,
+Case 1:25-cv-00782-TDS-JGM Document 66 Filed 05/20/26 Page 4 of 185
+and his claims are not otherwise cognizable under Virginia law.
+A. No Federal Private Right of Action
+HII, Cyberlux, and Watts all argue that Curtin’s claims rest
+on federal statutes that do not create a private right of action.3
+(Doc. 21 at 8-9; Doc. 45 at 11-15; Doc. 32 at 2-3.) In Count 1,
+Curtin alleges that Defendants Watts and Cyberlux violated 18
+U.S.C. §§ 2261A, 875(c)¸and 1030 in a way that interfered with his
+“business expectancy.” (Doc. 7 at 15.) In Count 2, he alleges
+that Watts and Cyberlux conspired to commit violations of 18 U.S.C.
+§§ 1343, 2261A, 875(c), and 1512. (Id. at 17.) In Count 3, he
+alleges that all Defendants breached “fiduciary duties” in ways
+that implicate 41 U.S.C. § 4712 and 18 U.S.C. §§ 1001 and 1343 as
+well as unspecified “provisions of the [Federal Acquisition
+Regulations (“FAR”)], [Defense Federal Acquisition Regulations
+Supplement (“DFARS”)], and [International Traffic in Arms
+Regulations (“ITAR”)] governing the allowability of costs, ethical
+conduct, and contractor responsibility.” (Id. at 22.). In Count
+4, he likewise alleges that HII and Cyberlux were negligent in
+their supervision of Watts in ways that implicate 41 U.S.C. § 4712,
+18 U.S.C. §§ 1343 and 1512, and “applicable FAR, DFARS, and ITAR
+provisions.” (Id. at 24.)
+3
+HII and Cyberlux also argue that this deficiency deprives the court of
+subject matter jurisdiction as to Counts 3 and 4. (See Doc. 45 at 13-
+15.) However, a statute may support federal question jurisdiction
+without creating a private right of action. See Grable & Sons Metal
+Products, Inc. v. Darue Engineering & Mfg., 545 U.S. 308, 317 (2005).
+Case 1:25-cv-00782-TDS-JGM Document 66 Filed 05/20/26 Page 5 of 186
+As Cyberlux notes, none of these federal statutes or
+regulations provides a right of action for plaintiffs in Curtin’s
+position. (Doc. 45 at 11.) As for Defendants’ alleged violations
+of FAR, DFARS, and ITAR, these cannot provide a private right of
+action unsupported by statute. See Alexander v. Sandoval, 532
+U.S. 275, 291 (2001)(“Language in a regulation may invoke a private
+right of action that Congress through statutory text created, but
+it may not create a right that Congress has not.”). Curtin’s
+complaint does not identify which specific regulatory provisions
+Defendants allegedly violated, much less any underlying statutes
+that would authorize him to bring a private suit. As for the
+alleged violations of 18 U.S.C. §§ 2261A, 875(c), 1343, and 1001,
+these are all criminal statues whose enforcement “has been
+entrusted exclusively to the federal government.” State of Ga. v.
+Pennsylvania R. Co., 324 U.S. 439, 447 (1945).
+Only two of the federal statutes cited by Curtin contain any
+private right of action. First, the Computer Fraud and Abuse Act,
+18 U.S.C. § 1030 (the “CFAA”), creates a limited civil cause of
+action, but the plaintiff must plead a qualifying loss “by reason
+of a violation of this section.” See 18 U.S.C. § 1030(g). But as
+Cyberlux notes, Curtin has not alleged any particular violation of
+§ 1030. (Doc. 45 at 12.) Second, 41 U.S.C. § 4172 provides a cause
+of action for employees of government contractors, subcontractors,
+grantees, subgrantees, or personal service contractors who have
+Case 1:25-cv-00782-TDS-JGM Document 66 Filed 05/20/26 Page 6 of 187
+suffered retaliation for protected disclosures and exhausted
+administrative remedies. See 41 U.S.C. § 4172(a) and (c)(2).
+Curtin represents in his brief that he filed whistleblower
+disclosures with the General Services Administration and
+Department of Defense in 2024, and that 210 days have elapsed
+without a determination, which he contends “satisf[ies] the
+exhaustion requirement under 41 U.S.C. § 4712.” (Doc. 48 at 11.)
+But as Cyberlux points out, Curtin does not allege that he is or
+ever was an employee of any Defendant, and thus the anti-
+retaliation protections of § 4712 simply do not apply to him.
+(Doc. 45 at 14.)
+In sum, Defendants are correct that none of the federal
+statutes or regulations in the complaint provides Curtin with a
+private right of action for his claims. Thus, Defendants’ motion
+to dismiss these claims will be granted.
+B. Failure to State a Claim under Virginia Law
+The court next considers whether Curtin has stated a claim
+under applicable state law. “A federal court sitting in diversity
+is required to apply the substantive law of the forum state,
+including its choice-of-law rules.” Francis v. Allstate Ins. Co.,
+709 F.3d 362, 369 (4th Cir. 2013). The Supreme Court of North
+Carolina’s “jurisprudence favors the use of the lex loci test in
+cases involving tort or tort-like claims.” SciGrip, Inc. v. Osae,
+838 S.E.2d 334, 343 (N.C. 2020). Pursuant to the lex loci test,
+Case 1:25-cv-00782-TDS-JGM Document 66 Filed 05/20/26 Page 7 of 188
+the court should apply the substantive law of the state “where the
+injury or harm was sustained or
+suffered.” Id. (quoting Harco Nat’l Ins. Co. v. Grant Thornton
+LLP, 698 S.E.2d 719, 724 (N.C. Ct. App. 2010)). HII and Cyberlux
+both contend, and Curtin does not dispute, that Curtin suffered
+his alleged injuries in Virginia, where his company is located.
+(Doc. 21 at 12-13; Doc. 45 at 9 n.8; see Doc. 7 at 4-6.) Thus,
+Virginia substantive law governs his claims.
+1. Tortious Interference (Count 1)
+Watts argues that Count 1 fails to state a claim because the
+complaint fails to allege that he engaged in any conduct that would
+be actionable in Virginia under a recognized theory of tort
+liability. (Doc. 32 at 4-5.) Meanwhile, Cyberlux argues that
+Carotank Road Holdings, Inc., and not Curtin, is the true party in
+interest for this claim.4 (Doc. 45 at 2.) Responding to Watts,
+Curtin argues that unspecified Cyberlux officers “circulated false
+espionage claims and disclosed [his] private information,” and
+that this occurred “while Watts directed legal affairs,” which he
+contends is sufficient conduct to support tort liability. (Doc.
+35 at 16.) To Cyberlux, Curtin responds that he is willing to
+stipulate to the joinder of Carotank Road Holdings, Inc., but only
+4
+Curtin’s complaint and accompanying declaration do indeed suggest that
+Carotank Road Holdings, Inc., is the true party in interest for any claim
+pertaining to Curtin’s “business.” (See Doc. 7 at 6; Doc. 7-1.) The
+court need not reach this issue, however, because the claim suffers from
+more fundamental defects.
+Case 1:25-cv-00782-TDS-JGM Document 66 Filed 05/20/26 Page 8 of 189
+if certain Cyberlux shareholders will consent to be joined in their
+individual capacities because they “are the company’s largest
+Series B shareholders, control insiders, and beneficiaries of the
+conduct at issue.” (Doc. 48 at 2.)
+In Virginia, the elements of a prima facie case of tortious
+interference with business expectancy are (1) the existence of a
+valid business expectancy; (2) knowledge of the expectancy on the
+part of the interferer; (3) intentional interference inducing or
+causing a breach or termination of the relationship or expectancy;
+and (4) resultant damage to the party whose relationship or
+expectancy has been disrupted. Dunlap v. Cottman Transmission
+Systems, LLC, 754 S.E.2d 313, 318, (Va. 2014). Defendants argue
+that Curtin’s allegations fail to state a plausible claim. (Doc.
+45 at 5-9; Doc. 32 at 4-5.)
+Here, Defendants are correct. While a complaint need not
+make out a prima facie case, it must still “allege facts to satisfy
+the elements of a cause of action.” McCleary-Evans v. Md. Dep't
+of Transp., 780 F.3d 582, 585 (4th Cir. 2015). A “formulaic
+recitation” of the necessary elements does not suffice to render
+a claim plausible. Id. (quoting Iqbal, 556 U.S. at 678–79).
+Here, the complaint fails to state a plausible claim of intentional
+interference. It alleges generally that “Defendants,” acting
+“individually and in concert,” committed the following acts of
+interference:
+Case 1:25-cv-00782-TDS-JGM Document 66 Filed 05/20/26 Page 9 of 1810
+(a) Public “doxxing” of [Curtin] by releasing personal
+identifying information without consent;
+(b) Retaliatory statements;
+(c) Direct, inappropriate contact by Cyberlux officer
+Bill Maadarani with one of [Curtin’s] clients, intended
+to disrupt that business relationship;
+(d) False accusations and reputational attacks
+communicated to third parties with the intent and
+knowledge they would damage [Curtin’s] credibility;
+[and]
+(e) Threats, both explicit and implicit, designed to
+deter third parties from associating with [Curtin.]
+(Doc. 7 at 14.) Because Curtin employs a “global manner of
+pleading,” he must allege “sufficient facts to allow the court to
+infer liability as to each defendant.” Langford, 62 F.4th at 126.
+The only conduct attributed to a specific Defendant is the
+“[d]irect, inappropriate contact” between Cyberlux officer
+Maadarani and one of the clients of Curtin’s business (which is
+not a party). But the record is devoid of any facts to support
+the conclusory allegations that this conduct was “inappropriate”
+or “intended to disrupt [Curtin’s] business relationship.” On the
+contrary, the screenshot of the communication (Doc. 7-12), which
+Curtin attached to his complaint,5 shows that Maadarani was merely
+asking if the client (with whom he was evidently already
+acquainted) knew why Curtin had been posting anonymous criticisms
+5
+In evaluating a motion to dismiss, the court may consider documents
+attached to the complaint without converting the motion to one for
+summary judgment. Fed. R. Civ .P. 10(c); see Philips v. Pitt Cty. Mem’l
+Hosp., 572 F.3d 176, 180 (4th Cir. 2009).
+Case 1:25-cv-00782-TDS-JGM Document 66 Filed 05/20/26 Page 10 of 1811
+of Maadarani as “Jackson Holt,” and noting his intention to seek
+legal advice regarding the posts. (See id. at 2.) It does not,
+contrary to Curtin’s allegation, contain anything that could be
+described as a “veiled threat.” (Doc. 7 at 11.)
+Because Curtin’s allegations fail to set forth specific facts
+to support a claim of interference by any Defendant, Count 1 fails
+to plausibly state a claim against any specific Defendant and will
+be dismissed without prejudice.
+2. Civil Conspiracy (Count 2)
+Cyberlux argues that Curtin has failed to state a claim for
+civil conspiracy because he offers only a conclusory allegation
+that the Defendants conspired for purpose of “[i]njuring Plaintiff
+in his business, reputation, and creative work.” (Doc. 45 at 9-
+10; see Doc. 7 at 16.) Curtin does not respond to this argument.
+In Virginia, civil conspiracy is a statutory claim that arises
+when “two or more persons . . . combine, associate, agree, mutually
+undertake or concert together . . . for the purpose of willfully
+and maliciously injuring another in his reputation, trade,
+business or profession by any means whatever.” Va. Stat. Ann.
+§§ 18.2-499 and 18.2-500; see Simmons v. Miller, 544 S.E.2d 666,
+676-77 (Va. 2001.) “To recover in a civil conspiracy action both
+under the common law and under Virginia Code § 18.2-499, a
+plaintiff must establish that at least one member of the
+conspiracy, in agreement with another member, committed an act
+Case 1:25-cv-00782-TDS-JGM Document 66 Filed 05/20/26 Page 11 of 1812
+that was itself wrongful or tortious, and that such act damaged
+the plaintiff.” L-3 Commc'ns Corp. v. Serco, Inc., 926 F.3d 85,
+92 (4th Cir. 2019) (citing Gelber v. Glock, 800 S.E.2d 800, 821
+(Va. 2017)). For a statutory business conspiracy claim, a
+plaintiff must also plausibly allege legal malice, or that one of
+the conspiracy's purposes was to injure “Plaintiff's reputation,
+trade, or business.” Schlegel v. Bank of America, N.A., 505 F.
+Supp. 2d 321, 326 (W.D. Va. 2007) (citing Simmons, 544 S.E.2d at
+677).
+The Federal Rules of Civil Procedure govern the requirements
+for pleading “in all civil actions and proceedings in the United
+States district courts.” Fed. R. Civ. P. 1; see Iqbal, 556 U.S.
+at 684. Rule 9(b) provides that “[m]alice, intent, knowledge, and
+other conditions of a person's mind may be alleged generally.”
+Fed. R. Civ. P. 9(b). However, because a civil conspiracy claim
+in Virginia requires proof of some underlying unlawful conduct, a
+plaintiff must still adequately plead the underlying act or acts.
+Aimbridge Hospitality, LLC v. Provident Group – Radford
+Properties, LLC, No. 7:24-cv-00262, 2024 WL 3534150, at *8 (W.D.
+Va. July 24, 2024). Here, the complaint fails to allege sufficient
+facts to make plausible that any Defendant committed a wrongful or
+tortious act in furtherance of the conspiracy. It alleges that
+undifferentiated “Defendants” engaged in various acts in
+furtherance of the conspiracy, but the only act attributed to a
+Case 1:25-cv-00782-TDS-JGM Document 66 Filed 05/20/26 Page 12 of 1813
+specific Defendant is the same communication from Count 1 between
+Cyberlux’s Maadarani and the “client” of Curtin’s business. (Doc.
+7 at 16-17.) As discussed above, this communication is innocuous
+on its face. It is not a wrongful or tortious act that can support
+the civil conspiracy claim. Thus, Defendants’ motion will be
+granted and Count 2 will be dismissed without prejudice.
+3. Breach of Fiduciary Duty (Count 3)
+HII, Watts, and Cyberlux all argue that Count 3 must be
+dismissed because Curtin does not allege that Defendants owed any
+fiduciary duty to him specifically. (Doc. 21 at 14-15; Doc. 32 at
+3; Doc. 45 at 10.) In response, Curtin reiterates that Defendants
+had a general duty to comply with federal laws and regulations.
+(Doc. 29 at 8-9.)
+To state a plausible breach of fiduciary duty claim under
+Virginia law, a plaintiff must allege facts to show (1) the
+existence of a fiduciary duty, (2) the breach of that duty, and
+(3) resulting damages. Carstensen v. Chrisland Corp., 442 S.E.2d
+660, 666–67 (Va. 1994); Broadhead v. Watterson, No. 5:15-cv-00020,
+2016 WL 742127, at *6 (W.D. Va. Feb. 24, 2016) (applying Virginia
+law). Here, the complaint alleges that Defendants breached duties
+owing to “the public,” “the U.S. government,” and “foreseeable
+persons impacted by non-compliance” with various federal and state
+laws and regulations. (Doc. 7 at 18-22.) As Cyberlux notes, none
+of these allegations describes a fiduciary duty owed to Curtin.
+Case 1:25-cv-00782-TDS-JGM Document 66 Filed 05/20/26 Page 13 of 1814
+(Doc. 45 at 10.) Thus, Count 3 fails to state a claim under
+Virginia law, and it will be dismissed.
+4. Negligent Supervision (Count 4)
+As HII and Cyberlux both note, Virginia courts do not
+recognize an independent cause of action for negligent
+supervision. See Elrod v. Busch Entertainment Corp., Nos.
+4:09cv164, 4:09cv165, 4:09cv166, 2010 WL 5620918, at *6 (E.D. Va.
+Dec. 14, 2010) (collecting cases), report and recommendation
+adopted 2011 WL 166636 (E.D. Va. Jan 19, 2011). Curtin appears to
+concede this, as his briefs in opposition do not address the
+negligent supervision claim in Count 4. It will thus be dismissed.
+C. Rule 11(b) and Fabrication of Legal Authority
+Finally, Curtin points to reprimands issued against Cyberlux
+in other litigation, specifically an order to pay attorneys’ fees
+and a show-cause order for fabricating or misrepresenting legal
+authorities. (Doc. 48 at 9.) He contends that Cyberlux has
+engaged in a “persistent pattern of deception and obstruction”
+that undermines Cyberlux's argument that the complaint’s “well-
+documented facts” are implausible. (Id.)
+There is a certain irony in all of this. Curtin’s brief
+contains fabricated quotations that directly contradict the actual
+holdings of the cited cases – the same misconduct he invokes to
+discredit Cyberlux. Cyberlux’s conduct has already been addressed
+Case 1:25-cv-00782-TDS-JGM Document 66 Filed 05/20/26 Page 14 of 1815
+by those courts.6 Meanwhile, this court must address Curtin’s
+conduct in the present case.
+Curtin represents that in Sinochem International Co. Ltd. v.
+Malaysia International Shipping Corp., 549 U.S. 422, 430 (2007),
+the United States Supreme Court held that “[a] court lacking
+jurisdiction . . . must dismiss, it cannot transfer.” (See Doc.
+29 at 7.) This quotation is a fabrication. On the contrary, the
+court in Sinochem reaffirmed that a case may be transferred
+“whether the court in which it was filed had personal jurisdiction
+over the defendants or not.” 549 U.S. at 430 (quoting Goldlawr,
+Inc. v. Heiman, 369 U.S. 463, 466 (1962)). Similarly, in
+Christianson v. Colt Industries Operating Corp., 486 U.S. 800, 817
+(1988), the Supreme Court never stated that a transferee court
+“should not revisit a jurisdictional ruling made by a coordinate
+court unless it is clearly erroneous,” as Curtin represents. (See
+Doc. 29 at 7.) Rather, it noted that a court “has the power to
+revisit prior decisions of its own or of a coordinate court in any
+circumstance, although as a rule courts should be loathe to do so
+in the absence of extraordinary circumstances such as where the
+initial decision was ‘clearly erroneous and would work a manifest
+injustice.’” Christianson, 486 U.S. at 817 (quoting Arizona v.
+6
+See Atlantic Wave Holdings, LLC v. Cyberlux Corporation, No. 25-1689,
+2025 WL 3493221 (S.D. Tex. May 14, 2025); HII Mission Technologies Corp.
+v. Cyberlux Corp., No. 3:25-cv-483-JAG, Doc. 118 (E.D. Va. December 15,
+2025).
+Case 1:25-cv-00782-TDS-JGM Document 66 Filed 05/20/26 Page 15 of 1816
+California, 460 U.S. 605, 618, n.8 (1983)).
+All litigants, whether pro se or represented, are bound by
+the Federal Rules of Civil Procedure. See, e.g., McNeil v. United
+States, 508 U.S. 106, 113, (1993); Hansan v. Fairfax Cty. Sch.
+Bd., 405 F. App'x 793, 794 (4th Cir. 2010) (per curiam).
+Rule 11(b)(2) states that by signing a filing, an attorney or
+unrepresented party certifies that, to the best of his knowledge
+and after a reasonable inquiry, “the claims, defenses, and other
+legal contentions are warranted by existing law or by a
+nonfrivolous argument for extending, modifying, or reversing
+existing law or for establishing new law.” The rule permits courts
+to sanction litigants for citations to non-existent case law,
+misrepresentations of case law, or frivolous legal arguments,
+regardless of the filer’s pro se status. See, e.g., Ferris v.
+Amazon.com Services, LLC, 778 F. Supp. 3d 879, 881-82 (N.D. Miss.
+2025) (ordering a pro se plaintiff to pay the defendant’s costs
+incurred in responding to fabricated citations). “Courts across
+the country have issued sanctions against attorneys and pro se
+parties for submitting fictitious case citations, fictitious
+quotations, and related misrepresentations to the court.” United
+States v. Hayes, 763 F. Supp. 3d 1054, 1071 (E.D. Cal. 2025)
+(collecting cases) (emphasis added).
+It is not clear whether Curtin’s complaint and briefs are the
+product of artificial intelligence. To be sure, this court has
+Case 1:25-cv-00782-TDS-JGM Document 66 Filed 05/20/26 Page 16 of 1817
+seen an uptick in the use of artificial intelligence in complaints
+and briefs, especially by pro se filers. Whether or not Curtin
+used such tools, he is admonished that every filer, including a
+pro se filer, is “obligated to read the legal authority he intends
+to rely upon, confirm its existence and validity, and confirm that
+it supports his legal contentions, before citing to that authority
+in any submission to this Court.” Allen v. Western Governors
+University, No. 2:25-cv-00325-RFB-NJK, 2026 WL 893368, at *1 (D.
+Nev. Mar. 31, 2026). Obviously, Curtin did not do that. Curtin
+is thus warned that any future filings containing fabricated legal
+authority may result in sanctions under Rule 11.
+III. CONCLUSION
+For the reasons stated, therefore,
+IT IS ORDERED that Defendant HII’s motion to dismiss (Doc.
+20) is GRANTED, Defendant Watts’s motion to dismiss (Doc. 32) is
+GRANTED as to both Defendant Watts and co-Defendant Watts Law, and
+Defendant Cyberlux’s motion to dismiss (Doc. 44) is GRANTED, and
+the complaint is dismissed: all claims founded on violation of
+statutes for which the court has held there is no private right of
+action are DISMISSED WITH PREJUDICE, Counts 3 and 4 are DISMISSED
+WITH PREJUDICE, and the remaining claims in Counts 1 and 2 are
+DISMISSED WITHOUT PREJUDICE.
+Curtin is hereby WARNED that any future filings containing
+fabricated legal authority may result in sanctions under Rule 11.
+Case 1:25-cv-00782-TDS-JGM Document 66 Filed 05/20/26 Page 17 of 1818
+/s/ Thomas D. Schroeder
+United States District Judge
+May 20, 2026
+Case 1:25-cv-00782-TDS-JGM Document 66 Filed 05/20/26 Page 18 of 18

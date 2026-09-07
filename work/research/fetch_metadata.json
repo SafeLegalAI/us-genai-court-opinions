@@ -1,0 +1,599 @@
+[
+  {
+    "url": "https://www.dccourts.gov/sites/default/files/2026-09/Douglas%20v.%20Deutsche%20Bank%20Nat%27l%20Trt%20Co.%2024-CV-1099%20ORDER.pdf",
+    "queries": [
+      "court-ai-artificial-intelligence",
+      "court-ai-chatgpt-concurring",
+      "evidence-auth-deepfake",
+      "evidence-enhanced",
+      "privilege-chatgpt",
+      "privilege-work-product"
+    ],
+    "case": "Douglas v. Deutsche Bank National Trust Co., Published Order",
+    "date": "2026-09-03",
+    "court": "dc",
+    "docket": "24-CV-1099",
+    "cluster_id": 10965874,
+    "slug": "2026-09-03-dc-douglas-v-deutsche-bank-national-trust-co-published-order",
+    "robots": "robots-403",
+    "fetched": false
+  },
+  {
+    "url": "https://courts.delaware.gov/opinions/download.aspx?id=400580",
+    "queries": [
+      "court-ai-chatgpt-concurring",
+      "evidence-enhanced"
+    ],
+    "case": "ATG Capital Opportunities Fund LP v. Ryan Lane",
+    "date": "2026-08-28",
+    "court": "delch",
+    "docket": "2026-0447-LWW",
+    "cluster_id": 10962880,
+    "slug": "2026-08-28-delch-atg-capital-opportunities-fund-lp-v-ryan-lane",
+    "robots": "ok",
+    "fetched": true,
+    "raw_path": "work/sources/2026-08-28-delch-atg-capital-opportunities-fund-lp-v-ryan-lane.pdf",
+    "content_type": "application/pdf",
+    "status": 200,
+    "final_url": "https://courts.delaware.gov/opinions/download.aspx?id=400580",
+    "text_sha256": "b876c8689a2b1d3c1b6aab5b243dcf56b3bc5a6c55affbd0b3763cea89cfadc0",
+    "bytes": 496195,
+    "text_path": "work/texts/2026-08-28-delch-atg-capital-opportunities-fund-lp-v-ryan-lane.txt",
+    "extract_ok": true,
+    "extract_error": "",
+    "text_chars": 80462
+  },
+  {
+    "url": "https://www.illinoiscourts.gov/resources/23d7df84-ed51-48df-8477-3a6872db40d5/file",
+    "queries": [
+      "court-ai-artificial-intelligence",
+      "court-ai-chatgpt-concurring",
+      "evidence-auth-deepfake",
+      "evidence-enhanced",
+      "privilege-chatgpt",
+      "privilege-work-product"
+    ],
+    "case": "Scott v. Illinois Human Rights Comm'n",
+    "date": "2026-07-28",
+    "court": "illappct",
+    "docket": "1-25-1462",
+    "cluster_id": 10935788,
+    "slug": "2026-07-28-illappct-scott-v-illinois-human-rights-comm-n",
+    "robots": "ok",
+    "fetched": true,
+    "raw_path": "work/sources/2026-07-28-illappct-scott-v-illinois-human-rights-comm-n.pdf",
+    "content_type": "application/pdf",
+    "status": 200,
+    "final_url": "https://ilcourtsaudio.blob.core.windows.net/antilles-resources/resources/23d7df84-ed51-48df-8477-3a6872db40d5/Scott%20v.%20IL%20Human%20Rights%20Commn%202026%20IL%20App%20(1st)%20251462.pdf",
+    "text_sha256": "fb4a0924fbb5ef0c42fd86f8cc7d544d05d47bc7f6d74eed68dbb3575acfb20e",
+    "bytes": 146452,
+    "text_path": "work/texts/2026-07-28-illappct-scott-v-illinois-human-rights-comm-n.txt",
+    "extract_ok": true,
+    "extract_error": "",
+    "text_chars": 61410
+  },
+  {
+    "url": "http://www.nycourts.gov/reporter/current/3dseries/2026/2026_03935.shtml",
+    "queries": [
+      "court-ai-artificial-intelligence",
+      "court-ai-chatgpt-concurring",
+      "evidence-auth-deepfake",
+      "evidence-enhanced",
+      "privilege-chatgpt",
+      "privilege-work-product"
+    ],
+    "case": "Landberg v. City of New York",
+    "date": "2026-06-23",
+    "court": "nyappdiv",
+    "docket": "2025-02380",
+    "cluster_id": 10879078,
+    "slug": "2026-06-23-nyappdiv-landberg-v-city-of-new-york",
+    "robots": "robots-403",
+    "fetched": false
+  },
+  {
+    "url": "https://www.courts.ca.gov/opinions/documents/A174202.PDF",
+    "queries": [
+      "court-ai-artificial-intelligence",
+      "court-ai-chatgpt-concurring",
+      "privilege-chatgpt",
+      "privilege-work-product"
+    ],
+    "case": "Quinteros v. Harbor Distributing",
+    "date": "2026-06-11",
+    "court": "calctapp",
+    "docket": "A174202",
+    "cluster_id": 10873879,
+    "slug": "2026-06-11-calctapp-quinteros-v-harbor-distributing",
+    "robots": "ok",
+    "fetched": true,
+    "raw_path": "work/sources/2026-06-11-calctapp-quinteros-v-harbor-distributing.pdf",
+    "content_type": "application/pdf",
+    "status": 200,
+    "final_url": "https://www4.courts.ca.gov/opinions/documents/A174202.PDF",
+    "text_sha256": "d634c17b1e38c1447257b9a815d21c49a1ddc36706de9aa06a16c7e8e629f71e",
+    "bytes": 172526,
+    "text_path": "work/texts/2026-06-11-calctapp-quinteros-v-harbor-distributing.txt",
+    "extract_ok": true,
+    "extract_error": "",
+    "text_chars": 52152
+  },
+  {
+    "url": "https://www.supremecourt.ohio.gov/rod/docs/pdf/8/2026/2026-Ohio-2185.pdf",
+    "queries": [
+      "court-ai-artificial-intelligence",
+      "court-ai-chatgpt-concurring"
+    ],
+    "case": "Lendmark Fin. Servs., L.L.C. v. Nixon",
+    "date": "2026-06-11",
+    "court": "ohioctapp",
+    "docket": "115636",
+    "cluster_id": 10873859,
+    "slug": "2026-06-11-ohioctapp-lendmark-fin-servs-l-l-c-v-nixon",
+    "robots": "ok",
+    "fetched": false,
+    "fetch_error": "URLError(timeout('timed out'))"
+  },
+  {
+    "url": "https://www.oscn.net/applications/oscn/deliverdocument.asp?citeid=551746",
+    "queries": [
+      "court-ai-artificial-intelligence",
+      "court-ai-chatgpt-concurring",
+      "court-ai-large-language-model",
+      "discovery-ai-review",
+      "evidence-auth-deepfake",
+      "evidence-enhanced"
+    ],
+    "case": "STATE OF OKLAHOMA ex rel. OBA v. REEVES",
+    "date": "2026-05-27",
+    "court": "okla",
+    "docket": "SCBD",
+    "cluster_id": 10864894,
+    "slug": "2026-05-27-okla-state-of-oklahoma-ex-rel-oba-v-reeves",
+    "robots": "ok",
+    "fetched": false,
+    "fetch_error": "URLError(timeout('timed out'))"
+  },
+  {
+    "url": "http://www.nycourts.gov/reporter/current/3dseries/2026/2026_03074.shtml",
+    "queries": [
+      "court-ai-artificial-intelligence",
+      "court-ai-chatgpt-concurring"
+    ],
+    "case": "Matter of Lewis",
+    "date": "2026-05-14",
+    "court": "nyappdiv",
+    "docket": "Motion No. 2026-01135|Case No. 2026-00170|",
+    "cluster_id": 10866620,
+    "slug": "2026-05-14-nyappdiv-matter-of-lewis",
+    "robots": "host-blocked:robots-403",
+    "fetched": false
+  },
+  {
+    "url": "https://www2.ca3.uscourts.gov/opinarch/242704p.pdf",
+    "queries": [
+      "court-ai-artificial-intelligence",
+      "court-ai-chatgpt-concurring",
+      "evidence-auth-deepfake",
+      "privilege-chatgpt",
+      "privilege-work-product"
+    ],
+    "case": "Stephen McCarthy v. DEA",
+    "date": "2026-03-27",
+    "court": "ca3",
+    "docket": "24-2704",
+    "cluster_id": 10826367,
+    "slug": "2026-03-27-ca3-stephen-mccarthy-v-dea",
+    "robots": "ok",
+    "fetched": true,
+    "raw_path": "work/sources/2026-03-27-ca3-stephen-mccarthy-v-dea.pdf",
+    "content_type": "application/pdf",
+    "status": 200,
+    "final_url": "https://www2.ca3.uscourts.gov/opinarch/242704p.pdf",
+    "text_sha256": "f758e31863a3e7f1cfb66a0822dd1719cfa3b52994550e4f50d6159a8f32aba8",
+    "bytes": 249204,
+    "text_path": "work/texts/2026-03-27-ca3-stephen-mccarthy-v-dea.txt",
+    "extract_ok": true,
+    "extract_error": "",
+    "text_chars": 32791
+  },
+  {
+    "url": "https://search.txcourts.gov/SearchMedia.aspx?MediaVersionID=86fe2b93-c896-4c1b-aded-1b5a52a1f690&coa=coa04&DT=Opinion&MediaID=a00b33cd-091a-46ef-89e5-f58914a221c6",
+    "queries": [
+      "court-ai-artificial-intelligence",
+      "court-ai-chatgpt-concurring"
+    ],
+    "case": "In the Interest of C.R., a Child v. the State of Texas",
+    "date": "2026-03-25",
+    "court": "txctapp4",
+    "docket": "04-24-00576-CV",
+    "cluster_id": 10830064,
+    "slug": "2026-03-25-txctapp4-in-the-interest-of-c-r-a-child-v-the-state-of-texas",
+    "robots": "robots-403",
+    "fetched": false
+  },
+  {
+    "url": "https://flcourts-media.flcourts.gov/content/download/2486572/opinion/Opinion_2025-0843.pdf",
+    "queries": [
+      "court-ai-artificial-intelligence",
+      "court-ai-chatgpt-concurring",
+      "court-ai-large-language-model",
+      "privilege-chatgpt"
+    ],
+    "case": "Elilton Alves Gouveia v. Meridian Financial Investments, LLC",
+    "date": "2026-03-25",
+    "court": "fladistctapp",
+    "docket": "4D2025-0843",
+    "cluster_id": 10814752,
+    "slug": "2026-03-25-fladistctapp-elilton-alves-gouveia-v-meridian-financial-investments-l",
+    "robots": "ok",
+    "fetched": false,
+    "fetch_error": "URLError(gaierror(8, 'nodename nor servname provided, or not known'))"
+  },
+  {
+    "url": "https://www.supremecourt.ohio.gov/rod/docs/pdf/11/2026/2026-Ohio-965.pdf",
+    "queries": [
+      "court-ai-chatgpt-concurring",
+      "discovery-ai-review",
+      "privilege-chatgpt"
+    ],
+    "case": "State v. Coleman",
+    "date": "2026-03-20",
+    "court": "ohioctapp",
+    "docket": "2024-A-0040",
+    "cluster_id": 10812807,
+    "slug": "2026-03-20-ohioctapp-state-v-coleman",
+    "robots": "ok",
+    "fetched": false,
+    "fetch_error": "URLError(timeout('timed out'))"
+  },
+  {
+    "url": "http://www.ca5.uscourts.gov/opinions/pub/25/25-20086-CV0.pdf",
+    "queries": [
+      "court-ai-chatgpt-concurring",
+      "discovery-ai-review"
+    ],
+    "case": "Fletcher v. Experian Info Solutions",
+    "date": "2026-02-18",
+    "court": "ca5",
+    "docket": "25-20086",
+    "cluster_id": 10795846,
+    "slug": "2026-02-18-ca5-fletcher-v-experian-info-solutions",
+    "robots": "ok",
+    "fetched": true,
+    "raw_path": "work/sources/2026-02-18-ca5-fletcher-v-experian-info-solutions.pdf",
+    "content_type": "application/pdf",
+    "status": 200,
+    "final_url": "https://www.ca5.uscourts.gov/opinions/pub/25/25-20086-CV0.pdf",
+    "text_sha256": "5e5c200bfc40b0b7b09ea785b6dfb3b892013a92ffb466818067b8ccecd30ed9",
+    "bytes": 204291,
+    "text_path": "work/texts/2026-02-18-ca5-fletcher-v-experian-info-solutions.txt",
+    "extract_ok": true,
+    "extract_error": "",
+    "text_chars": 31333
+  },
+  {
+    "url": "https://www.oscn.net/applications/oscn/deliverdocument.asp?citeid=551159",
+    "queries": [
+      "court-ai-chatgpt-concurring",
+      "privilege-chatgpt"
+    ],
+    "case": "IN RE: ADDITION OF A NEW RULE TO THE RULES OF THE COURT OF CRIMINAL APPEALS",
+    "date": "2026-02-18",
+    "court": "oklacrimapp",
+    "docket": "CCAD-2026-1",
+    "cluster_id": 10795792,
+    "slug": "2026-02-18-oklacrimapp-in-re-addition-of-a-new-rule-to-the-rules-of-the-court-of",
+    "robots": "ok",
+    "fetched": false,
+    "fetch_error": "URLError(timeout('timed out'))"
+  },
+  {
+    "url": "http://www.nycourts.gov/reporter/3dseries/2026/2026_00619.htm",
+    "queries": [
+      "court-ai-chatgpt-concurring",
+      "privilege-chatgpt"
+    ],
+    "case": "Matter of Zareh",
+    "date": "2026-02-10",
+    "court": "nyappdiv",
+    "docket": "Motion No. 2025-04518; Case No. 2025-05041",
+    "cluster_id": 10786648,
+    "slug": "2026-02-10-nyappdiv-matter-of-zareh",
+    "robots": "host-blocked:robots-403",
+    "fetched": false
+  },
+  {
+    "url": "http://www.opn.ca6.uscourts.gov/opinions.pdf/25a0264p-06.pdf",
+    "queries": [
+      "court-ai-chatgpt-concurring"
+    ],
+    "case": "Thomas Smith v. P.A.M. Transp., Inc.",
+    "date": "2025-09-25",
+    "court": "ca6",
+    "docket": "24-5549",
+    "cluster_id": 10677708,
+    "slug": "2025-09-25-ca6-thomas-smith-v-p-a-m-transp-inc",
+    "robots": "ok",
+    "fetched": true,
+    "raw_path": "work/sources/2025-09-25-ca6-thomas-smith-v-p-a-m-transp-inc.pdf",
+    "content_type": "application/pdf",
+    "status": 200,
+    "final_url": "http://www.opn.ca6.uscourts.gov/opinions.pdf/25a0264p-06.pdf",
+    "text_sha256": "58134384b615cf29d256f1f4cf83e37c6ca3899189fc0dd4d888b74acb481f93",
+    "bytes": 245075,
+    "text_path": "work/texts/2025-09-25-ca6-thomas-smith-v-p-a-m-transp-inc.txt",
+    "extract_ok": true,
+    "extract_error": "",
+    "text_chars": 63506
+  },
+  {
+    "url": "https://www.courts.ca.gov/opinions/documents/B331918.PDF",
+    "queries": [
+      "court-ai-chatgpt-concurring"
+    ],
+    "case": "Noland v. Land of the Free, L.P.",
+    "date": "2025-09-12",
+    "court": "calctapp",
+    "docket": "B331918",
+    "cluster_id": 10670865,
+    "slug": "2025-09-12-calctapp-noland-v-land-of-the-free-l-p",
+    "robots": "ok",
+    "fetched": false,
+    "fetch_error": "HTTP 404"
+  },
+  {
+    "url": "https://www.illinoiscourts.gov/resources/e3fae0bc-07b9-44a6-9b16-249027907502/file",
+    "queries": [
+      "court-ai-chatgpt-concurring",
+      "privilege-chatgpt"
+    ],
+    "case": "In re Baby Boy",
+    "date": "2025-07-21",
+    "court": "illappct",
+    "docket": "4-24-1427",
+    "cluster_id": 10638645,
+    "slug": "2025-07-21-illappct-in-re-baby-boy",
+    "robots": "ok",
+    "fetched": true,
+    "raw_path": "work/sources/2025-07-21-illappct-in-re-baby-boy.pdf",
+    "content_type": "application/pdf",
+    "status": 200,
+    "final_url": "https://ilcourtsaudio.blob.core.windows.net/antilles-resources/resources/e3fae0bc-07b9-44a6-9b16-249027907502/In%20re%20Baby%20Boy%202025%20IL%20App%20(4th)%20241427.pdf",
+    "text_sha256": "1eb10a80e55b69a3fab88b2d9a96bd4109ee9add3228ce83c2dc421f0988738d",
+    "bytes": 1516878,
+    "text_path": "work/texts/2025-07-21-illappct-in-re-baby-boy.txt",
+    "extract_ok": true,
+    "extract_error": "",
+    "text_chars": 107260
+  },
+  {
+    "url": "https://efast.gaappeals.us/download?filingId=79d42b0d-5d00-45f1-94ae-962b14203df7",
+    "queries": [
+      "court-ai-chatgpt-concurring",
+      "court-ai-large-language-model"
+    ],
+    "case": "Nimat Shahid v. Sufyan Esaam",
+    "date": "2025-06-30",
+    "court": "gactapp",
+    "docket": "A25A0196",
+    "cluster_id": 10620062,
+    "slug": "2025-06-30-gactapp-nimat-shahid-v-sufyan-esaam",
+    "robots": "ok",
+    "fetched": false,
+    "fetch_error": "URLError(gaierror(8, 'nodename nor servname provided, or not known'))"
+  },
+  {
+    "url": "https://www.illinoiscourts.gov/resources/ebab997d-8a2f-464a-a482-c7231d883f19/file",
+    "queries": [
+      "court-ai-chatgpt-concurring"
+    ],
+    "case": "Kroft v. Viper Trans, Inc.",
+    "date": "2025-03-31",
+    "court": "illappct",
+    "docket": "1-24-0220",
+    "cluster_id": 10369029,
+    "slug": "2025-03-31-illappct-kroft-v-viper-trans-inc",
+    "robots": "ok",
+    "fetched": true,
+    "raw_path": "work/sources/2025-03-31-illappct-kroft-v-viper-trans-inc.pdf",
+    "content_type": "application/pdf",
+    "status": 200,
+    "final_url": "https://ilcourtsaudio.blob.core.windows.net/antilles-resources/resources/ebab997d-8a2f-464a-a482-c7231d883f19/Kroft%20v.%20Viper%20Trans,%20Inc.,%202025%20IL%20App%20(1st)%20240220.pdf",
+    "text_sha256": "36df551332afa673def82487f12f0405ef91f36253c43d44127951007485a01d",
+    "bytes": 1498226,
+    "text_path": "work/texts/2025-03-31-illappct-kroft-v-viper-trans-inc.txt",
+    "extract_ok": true,
+    "extract_error": "",
+    "text_chars": 88924
+  },
+  {
+    "url": "https://dts.poderjudicial.pr/ts/2026/2026tspr41.pdf",
+    "queries": [
+      "court-ai-artificial-intelligence",
+      "court-ai-large-language-model",
+      "evidence-auth-deepfake",
+      "privilege-chatgpt"
+    ],
+    "case": "In Re: Mar\u00eda v. Irizarry CentenoAnissa M. Bonilla Irizarry",
+    "date": "2026-04-21",
+    "court": "prsupreme",
+    "docket": "AB-2025-0232",
+    "cluster_id": 10847320,
+    "slug": "2026-04-21-prsupreme-in-re-mar-a-v-irizarry-centenoanissa-m-bonilla-irizarry",
+    "robots": "ok",
+    "fetched": true,
+    "raw_path": "work/sources/2026-04-21-prsupreme-in-re-mar-a-v-irizarry-centenoanissa-m-bonilla-irizarry.pdf",
+    "content_type": "application/pdf",
+    "status": 200,
+    "final_url": "https://dts.poderjudicial.pr/ts/2026/2026tspr41.pdf",
+    "text_sha256": "75b1f5398388f0521e78f6aaa3764835fb9aa64919ab84ef19306184247f28c6",
+    "bytes": 874396,
+    "text_path": "work/texts/2026-04-21-prsupreme-in-re-mar-a-v-irizarry-centenoanissa-m-bonilla-irizarry.txt",
+    "extract_ok": true,
+    "extract_error": "",
+    "text_chars": 80895
+  },
+  {
+    "url": "https://www.txcourts.gov/media/1462462/25-bc03a-0012-gosecure-v-crowdstrike-2026-tex-bus-13.pdf",
+    "queries": [
+      "court-ai-large-language-model",
+      "discovery-ai-review"
+    ],
+    "case": "GoSecure v. CrowdStrike",
+    "date": "2026-03-13",
+    "court": "texbizct",
+    "docket": "25-BC03A-0012",
+    "cluster_id": 10809420,
+    "slug": "2026-03-13-texbizct-gosecure-v-crowdstrike",
+    "robots": "robots-403",
+    "fetched": false
+  },
+  {
+    "url": "http://courts.delaware.gov/Opinions/Download.aspx?id=377750",
+    "queries": [
+      "court-ai-large-language-model"
+    ],
+    "case": "Daniel Jaiyong An v. Archblock, Inc.",
+    "date": "2025-04-04",
+    "court": "delch",
+    "docket": "2024-0102-LWW",
+    "cluster_id": 10373608,
+    "slug": "2025-04-04-delch-daniel-jaiyong-an-v-archblock-inc",
+    "robots": "ok",
+    "fetched": true,
+    "raw_path": "work/sources/2025-04-04-delch-daniel-jaiyong-an-v-archblock-inc.pdf",
+    "content_type": "application/pdf",
+    "status": 200,
+    "final_url": "https://courts.delaware.gov/Opinions/Download.aspx?id=377750",
+    "text_sha256": "06a50602f2472d6742449988215204d384c81d1849c318ac7fff86b7464212cb",
+    "bytes": 175141,
+    "text_path": "work/texts/2025-04-04-delch-daniel-jaiyong-an-v-archblock-inc.txt",
+    "extract_ok": true,
+    "extract_error": "",
+    "text_chars": 10435
+  },
+  {
+    "url": "https://www.dccourts.gov/sites/default/files/2025-02/Ross-v-United-States-23-CM-1067-S.pdf",
+    "queries": [
+      "court-ai-large-language-model",
+      "user-lead"
+    ],
+    "case": "Ross v. United States",
+    "date": "2025-02-20",
+    "court": "dc",
+    "docket": "23-CM-1067",
+    "cluster_id": 10336428,
+    "slug": "2025-02-20-dc-ross-v-united-states",
+    "robots": "host-blocked:robots-403",
+    "fetched": false
+  },
+  {
+    "url": "https://flcourts-media.flcourts.gov/content/download/2494161/opinion/Opinion_2024-1392.pdf",
+    "queries": [
+      "evidence-auth-deepfake",
+      "evidence-enhanced"
+    ],
+    "case": "Capital Standard, LLC, Tchentsov v. US Bank National Association, Bear Stearns Asset Backed Securities I Trust 2005-AC9",
+    "date": "2026-08-21",
+    "court": "fladistctapp",
+    "docket": "2D2024-1392",
+    "cluster_id": 10954406,
+    "slug": "2026-08-21-fladistctapp-capital-standard-llc-tchentsov-v-us-bank-national-associ",
+    "robots": "ok",
+    "fetched": false,
+    "fetch_error": "URLError(gaierror(8, 'nodename nor servname provided, or not known'))"
+  },
+  {
+    "url": "https://flcourts-media.flcourts.gov/content/download/2492735/opinion/Opinion_2025-1289.pdf",
+    "queries": [
+      "evidence-auth-deepfake",
+      "evidence-enhanced"
+    ],
+    "case": "Rose Lannquist Gouldy v. Timothy Michael Chiasson",
+    "date": "2026-07-22",
+    "court": "fladistctapp",
+    "docket": "4D2025-1289",
+    "cluster_id": 10933819,
+    "slug": "2026-07-22-fladistctapp-rose-lannquist-gouldy-v-timothy-michael-chiasson",
+    "robots": "ok",
+    "fetched": false,
+    "fetch_error": "URLError(gaierror(8, 'nodename nor servname provided, or not known'))"
+  },
+  {
+    "url": "https://coa1.azcourts.gov/Portals/1/OpinionFiles/Div1/2026/1%20CA-CV%2025-0606%20PB%20Dineen%20Shibata%20v%20Kotchka.pdf?ver=ZlKfunCALkNNqzZkEO15Xg%253d%253d",
+    "queries": [
+      "evidence-auth-deepfake",
+      "evidence-enhanced",
+      "privilege-work-product"
+    ],
+    "case": "dineen/shibata v. Kotchka",
+    "date": "2026-07-15",
+    "court": "arizctapp",
+    "docket": "1 CA-CV 25-0606 PB",
+    "cluster_id": 10931696,
+    "slug": "2026-07-15-arizctapp-dineen-shibata-v-kotchka",
+    "robots": "robots-403",
+    "fetched": false
+  },
+  {
+    "url": "https://ecf.cofc.uscourts.gov/cgi-bin/show_public_doc?2022cv0062-72-0",
+    "queries": [
+      "court-ai-artificial-intelligence",
+      "discovery-ai-review",
+      "evidence-auth-deepfake",
+      "evidence-enhanced",
+      "privilege-chatgpt"
+    ],
+    "case": "PENLAND v. United States",
+    "date": "2026-07-07",
+    "court": "uscfc",
+    "docket": "22-62",
+    "cluster_id": 10925064,
+    "slug": "2026-07-07-uscfc-penland-v-united-states",
+    "robots": "ok",
+    "fetched": true,
+    "raw_path": "work/sources/2026-07-07-uscfc-penland-v-united-states.pdf",
+    "content_type": "application/pdf",
+    "status": 200,
+    "final_url": "https://ecf.cofc.uscourts.gov/cgi-bin/show_public_doc?2022cv0062-72-0",
+    "text_sha256": "c4efad330bf442d385dfa6ab7ec1d6d67d2c3d59cf1bbabf7f398f43b6306440",
+    "bytes": 469918,
+    "text_path": "work/texts/2026-07-07-uscfc-penland-v-united-states.txt",
+    "extract_ok": true,
+    "extract_error": "",
+    "text_chars": 80837
+  },
+  {
+    "url": "https://www.supremecourt.ohio.gov/rod/docs/pdf/1/2026/2026-Ohio-2432.pdf",
+    "queries": [
+      "evidence-auth-deepfake",
+      "evidence-enhanced"
+    ],
+    "case": "Morgan v. Jones",
+    "date": "2026-06-26",
+    "court": "ohioctapp",
+    "docket": "C-250217",
+    "cluster_id": 10880916,
+    "slug": "2026-06-26-ohioctapp-morgan-v-jones",
+    "robots": "ok",
+    "fetched": false,
+    "fetch_error": "URLError(timeout('timed out'))"
+  },
+  {
+    "url": "https://publicportal-api.alappeals.gov/courts/1da1a297-c391-4e4f-9480-1bc68b46f21a/cms/case/F3542CBD-C6D2-497F-B0B5-005809B6A51C/docketentrydocuments/F92EE654-A4F8-497A-B0EF-6B7D264E70C3",
+    "queries": [
+      "evidence-auth-deepfake",
+      "evidence-enhanced"
+    ],
+    "case": "In re: T.B.E. v. A.I.F.",
+    "date": "2026-06-26",
+    "court": "alacivapp",
+    "docket": "CL-2025-0966",
+    "cluster_id": 10880787,
+    "slug": "2026-06-26-alacivapp-in-re-t-b-e-v-a-i-f",
+    "robots": "ok",
+    "fetched": false,
+    "fetch_error": "URLError(gaierror(8, 'nodename nor servname provided, or not known'))"
+  }
+]

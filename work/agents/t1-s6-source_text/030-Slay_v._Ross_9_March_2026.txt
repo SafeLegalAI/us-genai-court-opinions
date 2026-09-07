@@ -1,0 +1,258 @@
+SLAY v. ROSS., --- S.E.2d ---- (2026)
+
+
+                                                                    cases and citations may result in the imposition of sanctions
+                    2026 WL 656355                                  against her. See Shahid, 376 Ga. App. at 149(1); Court of
+      Only the Westlaw citation is currently available.             Appeals Rule 7(e)(2) (“The panel of the Court ruling on
+               Court of Appeals of Georgia.                         a case, with or without motion, may by majority vote to
+                                                                    impose a penalty not to exceed $10,000 against any party
+                                                                    and/or a party's counsel in any civil case in which there is a
+                            SLAY
+                                                                    direct appeal, application for discretionary appeal, application
+                              v.                                    for interlocutory appeal, or motion that is determined to be
+                            ROSS.                                   frivolous.”).
+
+                          A25A2100                                  Turning now to the merits of the case, “we view the evidence
+                               |                                    in the light most favorable to upholding the trial court's
+                         March 9, 2026                              order.”Granados v. Newsome, 373 Ga. App. 859 (910 SE2d
+                                                                    341) (2024).
+
+DOYLE, P. J., MARKLE and PADGETT, JJ.
+                                                                    So viewed, the record shows that Slay and Ross were divorced
+Opinion                                                             in 2013 and are the parents of a minor child. Ross was
+                                                                    granted primary physical custody of the child, and the parties
+Markle, Judge.                                                      shared joint legal custody. The record reflects a contentious
+                                                                    and litigious history between the parties. In 2015, the trial
+*1 In this modification of custody and contempt case,               court ordered Ross to reimburse Slay for his child support
+Everett B. Slay appeals from several orders of the trial court.1    payments for the months of June and July, as Slay was entitled
+On appeal, Slay contends that the trial court erred by granting     to summer visitation during those months under the custody
+Stacie Ross's motion to modify visitation without a showing         schedule. In 2016, the trial court held Ross in wilful contempt
+of any material change in circumstances, denying his motion         for, among other things, refusing to allow Slay to exercise
+to hold Ross in contempt, awarding attorney fees to Ross in         certain of his visitation rights under the divorce decree. In
+violation of OCGA § 19-6-2, and denying Slay's motions to           2018, the trial court ordered certain modifications to the
+recuse. Finding no error, we affirm.                                visitation schedule.
+
+Before addressing the merits of the case, we are troubled by         *2 Pertaining to the case at hand, in 2022, Slay moved for a
+certain irregularities in the brief filed on Slay's behalf by his   downward modification of his child support payments. Slay
+attorney, Loletha Hale. We note that several of the cases cited     then amended his petition, seeking to increase the amount of
+therein appear to be fictitious.2 Such “hallucinated” cases are     his visitation time during spring break and certain holidays.
+typically a hallmark of the irresponsible use of regenerative       In response, Ross requested a reduction in Slay's visitation
+artificial intelligence (A.I.) in legal drafting. See Shahid v.     time. Following a hearing, the trial court denied Slay's petition
+Esaam, 376 Ga. App. 145, 146(1) (918 SE2d 198) (2025).              for modification of his child support payments and visitation
+Although we can only surmise that the brief was drafted with        time, while granting Ross's request to reduce Slay's summer
+the use of unchecked generative A.I., we are aware that Hale        visitation time. The trial court awarded Ross attorney fees
+has submitted a brief with seemingly similar defects in federal     under OCGA §§ 19-6-15(k)(5) and 19-9-3(g) as to these
+district court. See Boston v. Williams, No. 1:23-CV-00752-          claims.
+WMR (ND Ga. Dec. 5, 2025) (2025 WL 3895555). However,
+Ross has not complained, nor does it appear that the fictitious     Contemporaneous with his petition to modify child support
+cases impeded her ability to respond to Slay's arguments.           and visitation, Slay filed a petition for contempt, alleging
+Compare Shahid, 376 Ga. App. at 147(1) (finding the use             Ross had failed to reimburse him for his summer child
+of bogus cases and citations in appellate brief “deprived the       support payments, as previously ordered. This petition was
+opposing party of the opportunity to appropriately respond”).       consolidated and addressed at the same hearing as the
+And, we are unaware of the imposition of any sanctions              preceding petition. The trial court denied Slay's petition for
+against Hale for similar conduct in this Court. We thus caution     contempt. Ross moved for attorney fees under OCGA §
+Hale that any future filings in this Court containing fictitious    9-15-14(b), which the trial court granted, concluding that the
+
+
+
+                 © 2026 Thomson Reuters. No claim to original U.S. Government Works.                                              1
+SLAY v. ROSS., --- S.E.2d ---- (2026)
+
+
+petition lacked substantial justification because Slay had not     Mendoza, 303 Ga. App. 758, 763(2) (695 SE2d 47) (2010)
+paid child support for the summer months.                          (citation modified). “Trial courts have broad discretion in
+                                                                   ruling on a motion for contempt, and the trial court's ruling
+Additionally, the trial court granted Ross's motion to hold Slay   will be affirmed on appeal if there is any evidence in the
+in wilful contempt for his failure to comply with an earlier       record to support it.”Brown v. Brown, 300 Ga. 559, 560 (796
+order of the court compelling him to respond to discovery          SE2d 269) (2017) (citation modified); Pate v. Pate, 280 Ga.
+requests. On this basis, the trial court awarded Ross attorney     796, 798(3) (631 SE2d 103) (2006).
+fees under OCGA § 9-11-37(b)(2).
+                                                                    *3 Here, the underlying order directed Ross to reimburse
+Finally, Slay filed three motions to recuse the trial judge, all   Slay the amount of his child support payments she received
+of which were denied. This appeal followed.                        from him for the months of June and July. However, at the
+                                                                   hearing, she testified that she never received child support
+1. Slay first contends that the trial court erred in modifying     from Slay in those months. And, Slay confirmed that he
+his visitation rights where there was no showing of a material     had not paid child support for those months. Thus, there
+change in circumstances. We disagree.                              was record evidence supporting the trial court's denial of
+                                                                   Slay's contempt motion. See Brown, 300 Ga. at 560; Wright
+Slay cites to OCGA § 19-9-3(b), but that statute places no         v. Wright, 367 Ga. App. 15, 22(1) (884 SE2d 610) (2023)
+such restriction on the trial court under the circumstances of     (reversing contempt judgment where there was no evidence
+this case.3 Rather, that statute provides:                         father wilfully disobeyed child support order). To the extent
+                                                                   there was any conflicting evidence, it was for the trial court to
+ In any case in which a judgment awarding the custody of a         resolve, and we will not interfere with its ruling. Pate, 280 Ga.
+ child has been entered, on the motion of any party or on the      at 798(4) (“A trial court in a contempt action acts as the trier
+ motion of the judge, that portion of the judgment effecting       of fact, and is vested with broad discretionary power when the
+ visitation rights between the parties and their child or          evidence is conflicting.”).
+ parenting time may be subject to review and modification
+ or alteration without the necessity of any showing of a           3. Slay next contends the trial court erred in awarding
+ change in any material conditions and circumstances of            attorney fees against him under OCGA § 19-6-2 because it
+ either party or the child, provided that the review and           failed to consider the parties’ financial circumstances, and
+ modification or alteration shall not be had more often than       under OCGA § 9-15-4(b) because there was no evidence of
+ once in each two-year period following the date of entry of       frivolous conduct on his part. This enumeration of error is
+ the judgment.                                                     unavailing.
+OCGA § 19-9-3(b) (emphasis added).
+                                                                   (a) The trial court awarded attorney fees to Ross pursuant
+The record reflects that the last order of the court affecting     to OCGA §§ 19-6-15, 19-9-3, 9-11-37, and 9-15-14(b).
+visitation rights issued in 2018, more than two years prior        Nevertheless, Slay contends the trial court was required to
+to the judgment at issue here. Accordingly, the trial court        consider the parties’ financial circumstances as if it awarded
+was not required to determine there was a material change          attorney fees under OCGA § 19-6-2.4
+in circumstances prior to modifying visitation, and Slay's
+argument fails. See Spirnak v. Meadows, 355 Ga. App. 857,          19-6-2(a)(1) authorizes an award of attorney fees for actions
+861(1) (844 SE2d 482) (2020); OCGA § 19-9-3(b).                    “for alimony, divorce and alimony, or contempt of court
+                                                                   arising out of either an alimony case or a divorce and alimony
+2. Slay next argues that the trial court erred by denying his      case.”
+motion to hold Ross in contempt for failing to comply with the
+court's previous order to reimburse his child support payments     Because this action is not for alimony, divorce, or contempt
+when he exercised his visitation rights during the summer
+                                                                   for noncompliance with the original divorce decree,5 OCGA
+months. Again, we disagree.
+                                                                   § 19-6-2 does not apply, and the trial court was not required
+                                                                   to consider the relative financial circumstances of the parties.
+As we have explained, “[t]he essence of civil contempt
+                                                                   See Spirnak, 355 Ga. App. at 871(7)(a) (statute does not
+is willful disobedience of a prior court order.” Saravia v.
+                                                                   apply to petition for modification of custody); Claybrooks v.
+
+
+                © 2026 Thomson Reuters. No claim to original U.S. Government Works.                                              2
+SLAY v. ROSS., --- S.E.2d ---- (2026)
+
+
+Claybrooks, 364 Ga. App. 157, 160(2)(b) (874 SE2d 190)                 determination, assuming any of the facts alleged in the
+(2022) (statute does not apply to contempt action involving a          affidavit to be true, whether recusal would be warranted.
+consent order modifying custody, visitation, and child support
+rights); Cothran v. Mehosky, 286 Ga. App. 640, 641 (649              To be timely, the recusal motion must be filed “not later
+SE2d 838) (2007). Slay's argument to this effect is thus             than five (5) days after the affiant first learned of the alleged
+misguided.6                                                          grounds for disqualification, and not later than ten (10) days
+                                                                     prior to the hearing or trial which is the subject of recusal
+(b) Slay argues that the record does not support the trial court's   or disqualification.” USCR 25.1. With regard to the affidavit
+award of fees under OCGA § 9-15-14(b). This argument is              requirements, USCR 25.2 provides:
+baseless.
+                                                                       The affidavit shall clearly state the facts and reasons for
+  Under OCGA § 9–15–14(b), a court may assess reasonable               the belief that bias or prejudice exists, being definite and
+  and necessary attorney fees and expenses of litigation if            specific as to time, place, persons and circumstances of
+  it finds that an attorney or party brought or defended               extra-judicial conduct or statements, which demonstrate
+  an action, or any part thereof, that lacked substantial              either bias in favor of any adverse party, or prejudice
+  justification, i.e., was substantially frivolous, groundless,        toward the moving party in particular, or a systematic
+  or vexatious. A decision under OCGA § 9–15–14(b) must                pattern of prejudicial conduct toward persons similarly
+  be sustained unless the trial court abused its discretion            situated to the moving party, which would influence the
+Glaza v. Morgan, 248 Ga. App. 623, 624 (548 SE2d 389)                  judge and impede or prevent impartiality in that action.
+(2001) (quotation marks omitted).                                      Allegations consisting of bare conclusions and opinions
+                                                                       shall not be legally sufficient to support the motion or
+Here, the trial court concluded that Slay's contempt action            warrant further proceedings.
+for reimbursement of child support payments for the summer
+months lacked substantial justification pursuant to OCGA             We review de novo a trial court's denial of a motion to recuse
+§ 9-15-14(b) because the overwhelming evidence showed                for failure to meet the USCR 25.3 requirements. Mayor &
+that he did not pay child support for the months he sought           Aldermen of City of Savannah v. Batson-Cook Co., 291 Ga.
+reimbursement. The trial court found that Slay's claim for           114, 119(1) (728 SE2d 189) (2012).
+additional parenting time also merited an award of attorney
+fees under OCGA § 9-15-14(b) because the evidence showed             Here, Slay filed an emergency motion to recuse the senior
+that Slay had voluntarily forfeited a considerable amount of         judge presiding over this matter in August 2023, on the first
+                                                                     day of hearings. He attached an unsworn “declaration” of
+parenting time in the past years.7 Notably, Slay points to
+                                                                     his counsel, alleging, inter alia, the judge was biased against
+no evidence of record to challenge either of the trial court's
+                                                                     her and her clients based on prior adverse rulings and racial
+findings. Having reviewed the record, we cannot say the trial
+                                                                     prejudice, and due to a grievance she filed against the judge
+court abused its discretion in sanctioning Slay under OCGA
+§ 9-15-14(b). See generally Carson v. Carson, 277 Ga. 335,           with the Judicial Qualifications Committee (JQC).8 The trial
+336(2) (588 SE2d 735) (2003) (record supported trial court's         court deemed this motion timely because Slay could not have
+award of fees under OCGA § 9-15-14(b)).                              known prior to that date of the senior judge assignment. See
+                                                                     USCR 25.1 (trial court may extend time limit for filing motion
+ *4 4. Finally, Slay argues the trial court erred by refusing to     upon showing of good cause for the delay). Nevertheless, the
+recuse from the case. We discern no error.                           trial court correctly denied the motion because Slay failed to
+                                                                     attach a sworn affidavit. See Post v. State, 298 Ga. 241, 247(2)
+In pertinent part, Uniform Superior Court Rule (USCR) 25.3           (b) (779 SE2d 624) (2015) (“The Uniform Superior Court
+provides:                                                            Rules could not be clearer in their requirement that the motion
+                                                                     be accompanied by an affidavit.”) (quotation marks omitted);
+  When a judge is presented with a motion to recuse, or              Oduok v. Fulton Dekalb Hosp. Auth., 340 Ga. App. 205,
+  disqualify, accompanied by an affidavit, the judge shall           212-213(3) (797 SE2d 133) (2017) (unsworn “declaration
+  temporarily cease to act upon the merits of the matter and         was legally insufficient to satisfy Rule 25”); USCR 25.1, 25.2.
+  shall immediately determine the timeliness of the motion
+  and the legal sufficiency of the affidavit, and make a
+
+
+
+                © 2026 Thomson Reuters. No claim to original U.S. Government Works.                                                3
+SLAY v. ROSS., --- S.E.2d ---- (2026)
+
+
+                                                                   for disqualification.” Indeed, all of the grounds alleged in the
+Slay then filed substantially the same motion to recuse the
+                                                                   motion and affidavit to show bias occurred well beyond the
+senior judge in June 2024, again alleging that the judge's prior
+adverse rulings in cases involving his counsel, as well as the     five-day limitation period.10 And counsel's affidavit makes
+JQC grievance filed by his counsel, were evidence of the           no showing to establish good cause for the late filing. See
+judge's bias against him. Additionally, his counsel opined that    USCR 25.1. Accordingly, the trial court committed no error in
+the judge suffered from dementia.9 The trial court correctly       denying this motion as untimely. See Battlefield Invs. v. City
+denied this motion because Slay again violated the procedural      of Lafayette, 326 Ga. App. 405, 408(2) (756 SE2d 639) (2014)
+requirements of Rule 25 by failing to attach a sworn affidavit     (trial court properly denied motion to recuse as untimely
+to the motion. Oduok, 340 Ga. App. at 212-13(3); USCR 25.1,        where it was not filed within five days of knowledge of
+25.2.                                                              alleged bias and without good cause for delay); Long v. State,
+                                                                   324 Ga. App. 882, 895(5) (752 SE2d 54) (2013); USCR 25.1.
+ *5 Later that same month, Slay filed a third motion,
+now seeking the permanent recusal of the judge based on
+substantially the same reasons as the prior two motions. Slay      Judgment affirmed. Doyle, P. J., and Padgett, J., concur.
+attached a sworn affidavit to this motion, in compliance with
+USCR 25.1 and 25.2. However, the trial court deemed the            All Citations
+motion untimely because it had not been filed within five
+                                                                   --- S.E.2d ----, 2026 WL 656355
+days “after [the affiant] first learned of the alleged grounds
+
+
+Footnotes
+1      Because this appeal involves a modification of child custody, we have jurisdiction over this direct appeal. See Voyles v.
+       Voyles, 301 Ga. 44, 45 (799 SE2d 160) (2017); OCGA § 5-6-34(a)(11), (d).
+
+2      Slay's brief purports to cite to these following cases: Waller v. Waller, 288 Ga. 164, 164-165 (2010); Johnson v. Johnson,
+       286 Ga. 720, 721 (2010); Durden v. Barron, 287 Ga. 858 (2010); and In re Waitz, 255 Ga. 474 (1986), none of which
+       actually exist.
+
+3      Slay misstates the holding of Bodne v. Bodne, 277 Ga. 445 (588 SE2d 728) (2003). That opinion has no bearing on the
+       case at hand as it specifically dealt with “what weight should be given a custodial parent's move to another state in an
+       action seeking a change in primary physical custody.” Id. at 446.
+
+4      The trial court's order briefly mentions OCGA § 19-6-2, but when the order is viewed in its entirety, it is clear the trial
+       court mistakenly named this statute in place of OCGA § 19-6-15(k)(5). Pursuant to OCGA § 9-11-60(g), the trial court
+       may correct this error upon the return of the remittitur.
+
+5      The order addresses the parties’ contempt motions for violations of an order compelling discovery and for violations of
+       orders entered in 2015 and 2018 — not the original divorce decree.
+
+6      To the extent Slay contends that the trial court improperly based its fee award on a petition he had previously withdrawn,
+       he fails to point to any such withdrawal in the record. Our review of the hearing transcripts contradicts this claim.
+
+7      The trial court also found an award of attorney fees under OCGA § 9-15-14(a) was warranted on this ground, but,
+       ultimately, did not award fees pursuant to this provision.
+
+8      The judge stated on the record that he was not aware of the JQC grievance.
+
+9      Counsel states that this diagnosis is based solely on her “personal and professional” opinion, and is thus unfounded.
+
+10     In her affidavit, Slay's counsel surmises that the trial court and opposing counsel engaged in improper ex parte
+       communications because the trial court used opposing counsel's proposed order in denying the second motion to recuse
+       — entered just days before the third motion was filed. But, “[a]llegations consisting of bare conclusions and opinions
+       that the assigned judge is biased or prejudiced for or against a party, USCR 25.2, are not legally sufficient to support a
+
+
+
+                © 2026 Thomson Reuters. No claim to original U.S. Government Works.                                             4
+SLAY v. ROSS., --- S.E.2d ---- (2026)
+
+
+       recusal motion or to justify forwarding the motion for decision by another judge.”Mondy v. Magnolia Advanced Materials,
+       303 Ga. 764, 767(2) (815 SE2d 70) (2018). Moreover, the motion to recuse must be based on extra-judicial acts, and
+       therefore cannot be based on the issuance of an order. Echols v. Echols, 281 Ga. 546, 548(1)(a) (640 SE2d 257) (2007);
+       USCR 25.2.
+
+
+
+End of Document                                                    © 2026 Thomson Reuters. No claim to original U.S.
+                                                                                               Government Works.
+
+
+
+
+               © 2026 Thomson Reuters. No claim to original U.S. Government Works.                                         5
+

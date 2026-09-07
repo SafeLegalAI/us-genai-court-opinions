@@ -1,0 +1,508 @@
+EAGLE TOWNSHIP, Plaintiff-Appellee, v. SHAUN..., Not Reported in N.W....
+© 2026 Thomson Reuters. No claim to original U.S. Government Works. 1
+2026 WL 1194667
+Only the Westlaw citation is currently available.
+UNPUBLISHED OPINION. CHECK
+COURT RULES BEFORE CITING.
+If this opinion indicates that it is “FOR
+PUBLICATION,” it is subject to revision until
+final publication in the Michigan Appeals Reports.
+UNPUBLISHED
+Court of Appeals of Michigan.
+EAGLE TOWNSHIP, Plaintiff-Appellee,
+v.
+SHAUN VANALSTINE, Defendant-Appellant.
+No. 375687
+|
+April 30, 2026
+Editor's Note: This decision contains discussion of citation
+references that are incorrect or do not actually exist. These
+invalid citations appeared in the original court opinion and
+have been preserved as written since they are part of the
+official record. Any links to these invalid citations have been
+removed.
+Clinton Circuit Court LC No. 2024-012489-CZ
+Before: Riordan, P.J., and Redford and Patel, JJ.
+Opinion
+Per Curiam.
+*1 Defendant, Shaun VanAlstine, built a structure on his
+property in Eagle Township, Michigan without the proper
+permitting and in violation of the Eagle Township Interim
+Zoning Ordinance (IZO)’s size and setback requirements.
+Plaintiff, Eagle Township, brought this action seeking
+declaratory and injunctive relief. The township moved for
+summary disposition under MCR 2.116(C)(10) and requested
+an injunction to abate the zoning violations by removing
+the structure. The trial court granted the township's motion,
+ordered VanAlstine to remove the structure, authorized the
+township to enter the property to abate the violations if
+VanAlstine failed to do so, and awarded the township its costs
+and attorney fees. VanAlstine appeals by right the trial court's
+order. We affirm.
+I. PERTINENT FACTS AND PROCEDURAL HISTORY
+VanAlstine is the record owner of the subject property, which
+is approximately 2.43 acres and located in an agricultural
+zoning district. Although the property does not conform to
+the 10-acre minimum lot size for the agriculture district,
+it is considered to be a legal nonconformity because the
+parcel existed before the township's adoption of the IZO,
+which became effective on January 1, 2024. Previously,
+Clinton County promulgated all zoning regulations for the
+township. All exterior construction work within the township
+requires a zoning permit approved by the township's zoning
+administrator. The zoning permit must be obtained before
+applying for a building permit from the county.
+Early in 2024, VanAlstine planned to build an addition to the
+existing pole barn on the property. He intended to use the
+addition to store and maintain work vehicles and equipment.
+In March 2024, VanAlstine's wife, Brittney, contacted Joel
+Haviland, Clinton County's building official, and informally
+inquired about the required setbacks for an addition to an
+existing pole barn. She did not provide any information about
+the property address, the lot size, the size of the current
+pole barn, or the size of the proposed addition. Haviland
+responded:
+The minimum front yard setback is
+83”, measuring from the center of
+the road. However, there are many
+other requirements for barns that you
+will need to consider. Please see the
+link below to Clinton County Zoning
+requirements for Accessory Buildings
+(barn) section 4.1.
+Brittney clarified, “The add on of the polebarn [sic] will
+be toward the road and not toward any other structure.
+So essentially, it needs to be 83” from the center of the
+roadway and all of the matching structure colors and roofing
+material[?]”Havilandresponded,“Yes,thatiscorrect.Letme
+know if you need anything else.”
+On June 9, 2024, Brittney e-mailed Haviland to inquire about
+obtaining a permit to build the addition. The following day,
+Haviland e-mailed Brittney the applications and instructedEAGLE TOWNSHIP, Plaintiff-Appellee, v. SHAUN..., Not Reported in N.W....
+© 2026 Thomson Reuters. No claim to original U.S. Government Works. 2
+her to provide the construction plans and site plan with the
+completed applications for consideration. A few hours later,
+Brittney inquired whether the permits should be requested
+through the township or the county.
+*2 VanAlstine began constructing the addition before
+applying for a zoning permit from the township or a building
+permit from the county. On July 1, 2024, after construction
+of the addition was mostly complete, VanAlstine applied to
+thetownshipforazoningpermit.VanAlstinereportedthatthe
+proposed addition would be 18 feet tall, 40 feet wide, and 60
+feet long.
+On July 10, 2024, the zoning administrator denied the
+application.1
+The zoning administrator stated that the
+existing pole barn was “considered as a legal non-conforming
+structure due to the placement of the structure within the
+required front yard.” The zoning administrator explained
+that the minimum front yard setback was 50 feet, but the
+proposed addition would only be approximately 24 feet from
+theright-of-way.Thezoningadministratoralsostatedthatthe
+maximumfloorareaofanaccessorystructurefortheproperty
+was approximately 2,654 square feet,2
+but the existing pole
+barnwasapproximately2,160squarefeetoffloorareaandthe
+proposedadditionwouldbeanadditional2,400squarefeetof
+floor area. The application was denied because the addition
+would violate the minimum front yard setback, exceed the
+maximum floor area for accessory buildings on the property,
+and would unlawfully expand the legally nonconforming
+structure toward the front lot line.
+Following the zoning permit denial, VanAlstine applied for
+three variances: (1) a variance to reduce the required front
+yard setback from 50 feet to 24 feet; (2) a variance to increase
+the allowable square footage of accessory buildings on the
+site to 4,560 square feet; and (3) a variance to expand a
+legal nonconforming structure. VanAlstine maintained that
+the county zoning commissioner had stated that the proposed
+addition followed all guidelines for Clinton County, the
+neighbors all agreed to the addition, and the addition would
+not interfere with any roadway travel or safety. On August
+8, 2024, the township issued a stop work order to halt
+construction of the structure. On August 26, 2024, the
+township Zoning Board of Appeals (the ZBA) held a public
+hearing on the variance application. The ZBA adopted the
+findings of the zoning administrator, and denied the variance
+requests. VanAlstine did not appeal the ZBA's decision.
+On September 11, 2024, Ken Skunda, the township's code
+enforcement officer, sent a letter to VanAlstine stating that
+the pole barn addition violates the IZO and demanded that it
+be removed from the property by October 11, 2024. Skunda
+stated that the township would take legal action to abate the
+nuisanceandenforcetheIZOifthestructurewasnotremoved
+by the deadline. VanAlstine did not remove the structure.
+In December 2024, the township commenced this action
+alleging that the pole barn addition violated the IZO and
+thus was a nuisance per se. The township further alleged that
+VanAlstinecontinuedbuildingthestructureinviolationofthe
+stop work order. The township sought a declaration that the
+structure was a nuisance per se and requested an injunction
+to enjoin construction. On January 7, 2025, the parties
+stipulated to a preliminary injunction enjoining VanAlstine
+from continuing construction.
+*3 In his answer to the township's complaint, VanAlstine
+admitted that he constructed the structure without a zoning
+or building permit but maintained that he acted in a good
+faith manner. He also admitted to the size and location
+of the structure. VanAlstine maintained that construction
+was completed before the stop work order was issued. He
+contended that any additional steps taken after the stop work
+orderweresimply“toprotectthealready-builtstructure,”and
+denied that any further construction was done. VanAlstine
+asserted a series of affirmative defenses, including equitable
+estoppel, regulatory taking, and arguments contesting the
+equityofthetownship'srequestthatthestructureberemoved.
+The township moved for summary disposition under MCR
+2.116(C)(10) arguing that there were no genuine issues of
+material fact whether the structure violates the IZO and thus
+is a nuisance per se. The township requested an injunction
+to abate the zoning violations by removing the structure.
+In response, VanAlstine maintained that he relied in good
+faith on his wife's communications with Haviland about
+the setback requirements, which were incorrect. VanAlstine
+argued that he had a right to conduct discovery to develop
+his affirmative defenses. For example, he contended that
+the township's denial of his zoning permit and his variance
+application resulted in a regulatory taking. He asserted that
+he should be afforded “the chance to prove his affirmative
+defense by presenting evidence of the impact of the
+Township's actions on his investment-backed expectations,
+the economic impact of the Township's action, and the
+character of the Township's actions.” The township replied
+that discovery would be futile because VanAlstine admittedEAGLE TOWNSHIP, Plaintiff-Appellee, v. SHAUN..., Not Reported in N.W....
+© 2026 Thomson Reuters. No claim to original U.S. Government Works. 3
+that he built the structure without a zoning or building permit,
+did not dispute the size and location of the structure, and
+acknowledged that the structure remained on the property.
+ThetownshiparguedthatVanAlstinewasliableforanuisance
+per se regardless of his alleged defenses.
+Following a hearing, the trial court granted the township's
+motion, ordered VanAlstine to remove the structure,
+authorized the township to enter the property to abate the
+violations if VanAlstine failed to do so, and awarded the
+township its costs and attorney fees. This appeal followed.
+II. STANDARDS OF REVIEW
+“We review de novo a trial court's decision on a motion
+for summary disposition.” El-Khalil v Oakwood Healthcare,
+Inc, 504 Mich 152, 159; 934 NW2d 665 (2019). Summary
+disposition under MCR 2.116(C)(10) is warranted when,
+“[e]xcept as to the amount of damages, there is no genuine
+issue as to any material fact, and the moving party is entitled
+to judgment or partial judgment as a matter of law.” MCR
+2.116(C)(10). “A genuine issue of material fact exists when
+the record leaves open an issue upon which reasonable minds
+might differ.” El-Khalil, 504 Mich at 160 (cleaned up). When
+reviewing a motion for summary disposition under MCR
+2.116(C)(10), a court must consider the evidence submitted
+by the parties in the light most favorable to the nonmoving
+party. Id. Summary disposition should be granted when, after
+reviewing the evidence in the light most favorable to the
+nonmoving party, there are no remaining issues of material
+fact and the moving party is entitled to judgment as a matter
+of law. Lowrey v LMPS & LMPJ, Inc, 500 Mich 1, 5; 890
+NW2d 344 (2016).
+The interpretation and application of an ordinance poses
+a question of law, which we also review de novo. Great
+Lakes Society v Georgetown Charter Twp, 281 Mich App
+396, 407; 761 NW2d 371 (2008).3
+Nuisance-abatement
+proceedings are generally equitable in nature, and equitable
+rulings are reviewed de novo, but we review for clear error
+anyunderlyingfactualfindingsrenderedbyacourtinsupport
+of its decision. Ypsilanti Charter Twp v Kircher, 281 Mich
+App 251, 270; 761 NW2d 761 (2008). Whether an act or
+condition constitutes a nuisance per se is a question of law.
+Id. at 269.
+*4 Finally, “a trial court's decision to grant injunctive
+relief is reviewed for an abuse of discretion.” Dep't of
+Environmental Quality v Gomez, 318 Mich App 1, 32; 896
+NW2d 39 (2016). “An abuse of discretion occurs when the
+court's decision falls outside the range of reasonable and
+principled outcomes.” Id. at 33-34 (cleaned up).
+III. ANALYSIS
+VanAlstine argues that the trial court erred by concluding
+that the structure constitutes a nuisance per se and abused its
+discretion by ordering removal of the structure. We disagree.
+The township's complaint alleged that the structure violated
+the IZO and thus was a nuisance per se. A nuisance per se
+is “an act, occupation, or structure which is a nuisance at all
+times and under any circumstances, regardless of location or
+surroundings.” Ypsilanti, 281 Mich App at 269 n 4 (cleaned
+up). Under the plain language of § 407 of the Michigan
+Zoning Enabling Act, MCL 125.3101 et seq., “a structure
+erected in violation of a zoning ordinance constitutes a
+nuisance per se,” Morse v Colitti, 317 Mich App 526, 554;
+896 NW2d 15 (2016), and a court shall order it abated:
+Except as otherwise provided by
+law, a use of land or a dwelling,
+building, or structure, including a
+tent or recreational vehicle, used,
+erected, altered, razed, or converted
+in violation of a zoning ordinance
+or regulation adopted under this act
+is a nuisance per se. The court
+shall order the nuisance abated, and
+the owner or agent in charge of
+the dwelling, building, structure, tent,
+recreational vehicle, or land is liable
+for maintaining a nuisance per se.
+[MCL 125.3407 (emphasis added).]
+As the moving party, the township bore the initial burden
+to identify the issues about which there were no material
+factual disputes and provide supporting evidence. Barnard
+MfgCo,IncvGatesPerformanceEngineering,Inc,285Mich
+App 362, 369-370; 775 NW2d 618 (2009). The township
+maintained that VanAlstine erected the structure without the
+proper permitting and in violation of the IZO's size and
+setback requirements, which constituted a nuisance per se.EAGLE TOWNSHIP, Plaintiff-Appellee, v. SHAUN..., Not Reported in N.W....
+© 2026 Thomson Reuters. No claim to original U.S. Government Works. 4
+Section 6.02.C.1 of the IZO generally prohibits detached
+accessory buildings and structures in any front yard, unless
+one of two sets of conditions are met. Eagle Township
+Ordinance 03-2023, § 6.02.C.1.4
+The existing pole barn is
+a detached accessory structure in the property's front yard.
+It does not meet either set of criteria § 6.02.C.1, but it is
+considered a legal nonconforming structure because it was
+constructed before the township adopted the IZO.5
+Although
+it is a legal nonconforming structure, the pole barn can
+remain in place and be used. However, § 7.04.A of the
+IZO prohibits enlarging, extending, or structurally altering
+any nonconforming structure. Eagle Township Ordinance
+03-2023, § 7.04.A6
+The township presented evidence that
+the structure violated the IZO because it did not meet the
+minimum front yard setback requirement and enlarged a
+nonconforming structure. In both sets of criteria for allowing
+anaccessorybuildinginafrontyard,§6.02.C.1statesthatthe
+accessorybuildingmustmeettheminimumfrontyardsetback
+requirement for principal buildings. In the agricultural zoning
+district, the minimum front yard setback requirement is 50
+feet. The existing pole barn has setback of approximately 80
+feet and thus meets the requirement. But the addition reduced
+the setback to 24 feet. VanAlstine knew that the addition did
+not comply with the IZO because he applied for a variance
+from § 6.02.C.1 to reduce the required front yard setback
+from 50 feet to 24 feet. He also applied for a variance from
+§ 7.04.A to expand a legal nonconforming structure. Both
+requests were denied, and VanAlstine did not appeal either
+denial.
+*5 The township also presented evidence that the structure
+violated the IZO's square-foot limitations for accessory
+buildings. Section 6.02.C.5 of the IZO limits the total floor
+area of accessory buildings on lots larger than one acre but
+smaller than five acres to 1,600 square feet plus an additional
+two square feet of floor area for every 100 square feet of
+lot area, up to 5,000 square feet. Eagle Township Ordinance
+03-2023, § 6.02.C.5.7
+Because the property is approximately
+2.43 acres, all detached accessory buildings are limited to
+3,708 total square feet. The existing pole barn is 2,160 square
+feet, and the addition's floor area is approximately 2,400
+square feet. The total square footage of detached accessory
+structures on the property is 4,560 square feet, which violates
+§6.02.C.5.VanAlstineknewthatthestructuredidnotcomply
+with § 6.02.C.5 because he applied for a variance to increase
+the allowable square footage of accessory buildings on the
+site to 4,560 square feet. The ZBA denied the request, and
+VanAlstine did not appeal the denial.
+Additionally, all exterior construction work within the
+townshiprequiresazoningpermitapprovedbythetownship's
+zoning administrator. The zoning permit must be obtained
+before applying for a building permit from the county. Eagle
+Township Ordinance 03-2023, § 14.02.8
+VanAlstine did not
+obtain a zoning or a building permit. His July 1, 2024 zoning
+permit application was denied on July 10, 2024.9
+According
+to VanAlstine, “The structure was mostly complete by July
+14, 2024.”
+The township met its initial burden of establishing that the
+structure was erected in violation of the IZO and thus was a
+nuisance per se under MCL 125.3407. See Morse, 317 Mich
+App at 554. Accordingly, the burden shifted to VanAlstine
+as the nonmoving party to present evidence that a factual
+dispute remained to be resolved by the finder of fact. See
+Barnard Mfg, 285 Mich App at 370. VanAlstine conceded
+that he did not obtain the necessary permits and that the
+structure violated the IZO's size and setback requirements.
+Becausetherewerenogenuineissuesofmaterialfactwhether
+the structure violated the IZO, the trial court did not err by
+determiningthatthestructurewasanuisanceperse.SeeMCL
+125.3407; see also Morse, 317 Mich App at 554.
+On appeal, VanAlstine admits that MCL 125.3407 provides
+that a use of land in violation of a zoning ordinance is a
+nuisance per se. But he contends that “is not an absolute
+rule.” Rather, VanAlstine claims that our Supreme Court has
+held that a “ ‘nuisance per se’ requires more than a technical
+violation—it must involve a use inherently injurious to public
+health, safety, or morals.” We find no merit in this argument.
+The Supreme Court case cited by VanAlstine, Highland Park
+v Grifith Motors, 336 Mich 588, 592; 59 NW2d 54 (1953),
+does not exist—it's a hallucinated citation that is likely the
+product of generative artificial intelligence (AI).
+*6 VanAlstine contends that he “made diligent efforts to
+comply with local requirements, including consulting with
+Clinton County Building officials,” and there is “no evidence
+of health or safety risks caused by the structure with the
+zoning requirement.” VanAlstine began construction before
+applying for the required building and zoning permits, and
+he stated that construction was “mostly complete” before
+he requested a zoning variance. “[E]veryone dealing with a
+municipality and its agents is charged with knowledge of
+the restrictive provisions of lawfully adopted ordinances.”
+Hughes v Almena Twp, 284 Mich App 50, 78; 771 NW2d 453
+(2009). “The general rule is that zoning authorities will not beEAGLE TOWNSHIP, Plaintiff-Appellee, v. SHAUN..., Not Reported in N.W....
+© 2026 Thomson Reuters. No claim to original U.S. Government Works. 5
+estopped from enforcing their ordinance absent exceptional
+circumstances.” Williamston Twp v Sandalwood Ranch, LLC,
+325 Mich App 541, 553; 927 NW2d 262 (2018) (cleaned up).
+“Casual private advice or assurance of success from township
+officials does not constitute exceptional circumstances.”
+Hughes, 284 Mich App at 78.
+Further, VanAlstine confuses a nuisance in fact with a
+nuisance per se. “The difference between a nuisance per se
+and one in fact is not in the remedy but only in the proof
+of it.” Ypsilanti, 281 Mich App at 269-270 (cleaned up). “To
+prove that a condition constitutes a nuisance in fact, it is
+generally necessary to establish that the condition is harmful
+to the public health, safety, morals, or welfare.” Id. at 278.
+Whether an act or condition constitutes a nuisance in fact is
+a question of fact. Id. at 269. Conversely, a nuisance per se
+is “an act, occupation, or structure which is a nuisance at all
+times and under any circumstances, regardless of location or
+surroundings.” Id. at 269 n 4 (cleaned up). Whether an act or
+condition constitutes a nuisance per se is a question of law.
+Id. at 269. There is no genuine issue of material fact whether
+structure violates the IZO; therefore, the trial court did not err
+bydeterminingthatthestructurewasanuisanceperse.10
+See
+MCL 125.3407; see also Morse, 317 Mich App at 554.
+VanAlstine further argues that the trial court abused its
+discretion by ordering that the structure be removed. We
+disagree. After determining that the structure violated the
+IZO, the trial court was required to order it abated under
+the plain language of MCL 125.3407, which states, “The
+court shall order the nuisance abated, and the owner ... of
+the ... structure ...is liable for maintaining a nuisance per
+se.” (Emphasis added.) This Court has interpreted the use
+of “shall” in statutory language as specifying a mandatory
+directive. Ellison v Dep't of State, 320 Mich App 169, 180;
+906 NW2d 221 (2017). See also Lima Twp v Bateson, 302
+Mich App 483, 493; 838 NW2d 898 (2013) (“Generally, a
+violation of a zoning ordinance constitutes a nuisance per se,
+and a court must order it abated.”). The trial court did not
+abuse its discretion by ordering the structure removed.
+Finally, VanAlstine argues that township violated his
+due-process rights under the Fourteenth Amendment by
+withholding “critical information regarding setback rules” in
+contravention of “disclosure obligations” and failed to act
+reasonably. “In civil cases, Michigan follows the ‘raise or
+waive’ruleofappellatereview.”TolasOil&GasExploration
+Co v Bach Servs & Mfg, LLC, 347 Mich App 280, 289; 14
+NW3d 472 (2023) (cleaned up). A party must raise an issue
+in the lower court for it to be preserved for appellate review.
+Id. We will generally decline to address an unpreserved issue
+unless the failure to do so “would result in manifest injustice,
+if consideration is necessary for a proper determination of
+the case, or if the issue involves a question of law and
+the facts necessary for its resolution have been presented.”
+Id. at 289-290. Our Supreme Court has cautioned that
+this discretion should be exercised sparingly and only in
+exceptional circumstances. Napier v Jacobs, 429 Mich 222,
+233-234, 414 NW2d 862 (1987). Because this issue was not
+raisedinthetrialcourt,itiswaived,andwedeclinetoexercise
+our discretion to review it. Tolas Oil & Gas Exploration, 347
+Mich App at 289.
+*7 Affirmed. The township, being the prevailing party, may
+tax costs pursuant to MCR 7.219.
+Michael J. Riordan
+James Robert Redford
+Sima G. Patel
+All Citations
+Not Reported in N.W. Rptr., 2026 WL 1194667
+Footnotes
+1 McKenna, a planning firm, serves as the township's zoning administrator.
+2 The township alleged in its complaint that detached accessory buildings were limited to a total square footage
+of3,708feet,whichwasconfirmedbySkunda.Regardlessofthediscrepancyinthemaximumsquarefootage
+allowed, the 4,560 total square footage of the detached accessory structures clearly exceeded the limit.EAGLE TOWNSHIP, Plaintiff-Appellee, v. SHAUN..., Not Reported in N.W....
+© 2026 Thomson Reuters. No claim to original U.S. Government Works. 6
+3 “Ordinances are treated as statutes for the purposes of interpretation and review.” Great Lakes, 281 Mich
+App at 407. “The goal of statutory construction, and thus of construction and interpretation of an ordinance,
+is to discern and give effect to the intent of the legislative body.” Id. at 407-408. “Terms used in an ordinance
+must be given their plain and ordinary meanings[.]” Id. at 408.
+4 Section 6.02.C.1 of the IZO states:
+(C) Detached Accessory Buildings.
+(1) Location. Detached accessory buildings and structures shall not be located in a front yard, except if
+one of the following sets of conditions are met:
+(a) Condition Set One:
+(i) The parcel exceeds five (5) acres in lot area; and
+(ii) All setback requirements of the district in which the accessory structure is to be located are complied
+with; and
+(iii) The accessory structure shall be located not less than two-hundred and twenty-five (225) feet from
+the road right-of-way; and
+(iv) The accessory structure shall be located no closer than fifty (50) feet to an existing residential
+structure on an adjacent parcel.
+(b) Condition Set Two:
+(i) Accessory structure exterior siding generally matches the color of the principal structure of which it
+is accessory to; and
+(ii) Accessory structure roofing material generally matches the color of the principal structure of which
+it is accessory to; and
+(iii) Accessory structure must meet the minimum front yard setback of a principal structure in the district
+that it is located and must be located no more than seventy-five (75) feet from the principal structure; and
+(iv) The accessory structure shall be located no closer than fifty (50) feet to an existing residential
+structure on an adjacent parcel; and
+(v) No more than twenty (20) percent of an accessory structure floor area shall be located within an
+area defined as between the principal structure's front building line and the public right-of-way and the
+principal structures side building lines so as to not obstruct the view of the principal structure from the
+public road right-of-way. [Eagle Township Ordinance 03-2023, § 6.02.C.1.]
+5 Condition set one is not met because the property is less than five acres. Condition set two is not met because
+the existing pole barn has more than 20% of its floor area within the front yard.
+6 Section 7.04.A of the IZO states in pertinent part:
+(A) No nonconforming use or structure shall be enlarged, extended, or structurally altered, nor shall
+any nonconformity be changed to a different nonconformity which increases the intensity of use or
+nonconformity, except as permitted in this Section.EAGLE TOWNSHIP, Plaintiff-Appellee, v. SHAUN..., Not Reported in N.W....
+© 2026 Thomson Reuters. No claim to original U.S. Government Works. 7
+* * *
+(4) Enlargement, Extension, or Alteration.
+(a) Increase in Nonconformity Prohibited. Except as specifically provided in this section, no person may
+engage in any activity that causes an increase in the extent of any nonconformity. For example, physical
+alteration of structures or the placement of new structures on open land is unlawful if such activity results
+in:
+(i) An increase in the total amount of space devoted to a nonconforming use, or
+(ii) Greater nonconformity with respect to dimensional restrictions, such as setback requirements, height
+limitations, density requirements, or other requirements in the district in which the property is located.
+(b) Permitted Extension. Any nonconforming use may be extended throughout any part of a building
+which was manifestly arranged or designed for such use at the time of adoption or amendment of
+this Ordinance, but no such use shall be extended to occupy any land outside such building. No
+nonconforming use of land shall be enlarged, increased, or extended to occupy a greater area of land,
+nor shall any such use be moved in whole or in part to any portion of the lot or parcel than was occupied
+on the effective date of this Ordinance or amendment thereto.
+(c) Alterations that Decrease Nonconformity. Any nonconforming structure or any structure or portion
+thereof containing a nonconforming use, may be altered if such alteration serves to decrease the
+nonconforming nature of the structure or use. [Eagle Township Ordinance 03-2023, § 7.02.A.]
+7 Section 6.02.C.5 of the IZO states:
+Size. The total of all detached accessory buildings located on a parcel shall be subject to maximum lot
+coverage requirements and accessory structure size shall be subject to the restrictions in floor area based
+upon parcel size listed in the schedule below.
+MAXIMUM FLOOR AREA OF ACCESSORY BUILDINGS Parcel (Lot) Size Total Accessory Floor Area
+One-half (1/2) acre or less 1,200 sq. ft. More than one-half (1/2) and less than one (1) acre 1,600 sq. ft.
+More than one (1) acre and less than five (5) acres 1,600 sq. ft. plus 2 sq. ft. of floor area for 100 sq. ft.
+of lot area not to exceed 5,000 sq. ft. More than five (5) acres 1,600 sq. ft. plus 2 sq. ft. of floor area for
+100sq. ft. of lot area not to exceed 7,500 sq. ft.
+[Eagle Township Ordinance 03-2023, § 6.02.C.5.]
+8 Section 14.02 of the IZO states:
+A Zoning Permit, approved by the Zoning Administrator, shall be required prior to the any application to
+the Clinton County Building Department for a building permit for any exterior construction work in Eagle
+Township. Interior construction work shall not require a Zoning Permit. For activities requiring Site Plan
+Approval, the Site Plan Approval shall be considered the Zoning Permit. Alterations to the exterior of
+a building that do not alter the footprint, or the height of the building shall be exempt from the Zoning
+Permit requirement. [Eagle Township Ordinance 03-2023, § 14.02.]
+9 VanAlstine contended he did not receive the denial until July 18, 2024.
+10 VanAlstine argued to the trial court that he had a right to develop his affirmative defenses through discovery.
+He does not raise this argument on appeal; therefore, he has waived it.EAGLE TOWNSHIP, Plaintiff-Appellee, v. SHAUN..., Not Reported in N.W....
+© 2026 Thomson Reuters. No claim to original U.S. Government Works. 8
+End of Document © 2026 Thomson Reuters. No claim to original U.S. Government Works.

@@ -1,0 +1,600 @@
+         Case 1:21-cr-00032-DLF Document 182 Filed 04/10/24 Page 1 of 11
+
+
+
+
+                            UNITED STATES DISTRICT COURT
+                            FOR THE DISTRICT OF COLUMBIA
+
+
+ UNITED STATES OF AMERICA,
+
+        v.
+                                                           No. 21-cr-32 (DLF)
+ GUY WESLEY REFFITT,
+
+                 Defendant.
+
+
+                           MEMORANDUM OPINION & ORDER
+
+       A jury convicted Guy Wesley Reffitt on five counts arising from the January 6, 2021 riot
+
+at the U.S. Capitol. At sentencing, Reffitt argued, among other things, that the eight-level
+
+enhancement under Guideline § 2J1.2(b)(1)(B) and the three-level enhancement under Guideline
+
+§ 2J1.2(b)(2) did not apply to the calculation of his Sentencing Guidelines offense level because
+
+he did not “obstruct” nor cause “substantial interference with the administration of justice,” as the
+
+enhancements respectively require. The Court rejected this argument and sentenced Reffitt to 87
+
+months’ imprisonment. On appeal, Reffitt challenges this ruling. After Reffitt filed his appeal,
+
+the D.C. Circuit decided in United States v. Brock that Guideline § 2J1.2(b)(2)’s “administration
+
+of justice” enhancement “does not apply to interference with the legislative process of certifying
+
+electoral votes.” 94 F.4th 39, 42 (D.C. Cir. 2024). Following Brock, Reffitt filed a Motion for
+
+Release Pending Appeal. Dkt. 179. For the reasons that follow, the Court will deny the motion.
+
+I.     BACKGROUND
+
+       The Court recounts here only the most relevant facts to Reffitt’s motion for release pending
+
+appeal. The Court’s Memorandum Opinion of May 4, 2022 provides a more comprehensive
+
+discussion of the record. See Mem. Op. of May 4, 2022, Dkt. 148.
+         Case 1:21-cr-00032-DLF Document 182 Filed 04/10/24 Page 2 of 11
+
+
+
+
+       Reffitt was arrested and ordered detained shortly after the January 6, 2021 riot at the U.S.
+
+Capitol. See Order of Detention Pending Trial at 3–4, Dkt. 14. Reffitt moved to revoke his pretrial-
+
+detention order, but this Court denied the motion. See Min. Order of May 13, 2021. In reaching
+
+this decision, the Court concluded that the government proved by clear and convincing evidence
+
+that Reffitt posed “a threat of future dangerousness” based on several factors: namely, Reffitt’s
+
+plans to conduct “recon and then come back with weapons hot,” “attempt[s] to push past Capitol
+
+police stationed on the Capitol steps,” preparation “to fight” on January 6 with “tactical gear and
+
+weapons,” and efforts “to recruit new members to his m[i]litia.” Tr. of May 13, 2021 Mot. Hearing
+
+& Status Conference at 31–33, Dkt. 84. After January 6, Reffitt threatened “at least one member
+
+of his family” if that family member reported him to law enforcement, and to avoid being “taken
+
+down again” in “his next battle,” he also “purchased bear spray and a riot shield.” Id. at 33.
+
+       On March 8, 2022, a jury convicted Reffitt on five counts: (1) transporting a firearm in
+
+furtherance of a civil disorder in violation of 18 U.S.C. § 231(a)(2); (2) obstruction of an official
+
+proceeding in violation of 18 U.S.C. § 1512(c)(2); (3) entering or remaining in a restricted building
+
+or grounds with a firearm in violation of 18 U.S.C. §§ 1752(a)(1), (b)(1)(A); (4) obstructing
+
+officers during a civil disorder in violation of 18 U.S.C. § 231(a)(3); and (5) obstruction of justice
+
+by threatening physical force to hinder communication concerning the commission of a federal
+
+offense in violation of 18 U.S.C. § 1512(a)(2)(C). See Verdict Form, Dkt. 123.
+
+       At sentencing, the parties disputed whether two Guidelines enhancements applied to the
+
+offense level associated with Count 2. First, Guideline § 2J1.2(b)(1)(B) imposes an 8-point
+
+enhancement if the defendant’s “offense involved causing or threatening to cause physical injury
+
+to a person, or property damage, in order to obstruct the administration of justice.” Second,
+
+Guideline § 2J1.2(b)(2) requires a 3-point increase if the defendant’s “offense resulted in
+
+
+
+
+                                                  2
+        Case 1:21-cr-00032-DLF Document 182 Filed 04/10/24 Page 3 of 11
+
+
+
+
+substantial interference with the administration of justice.”     Reffitt contended that neither
+
+enhancement applied because Congress’s counting of electoral votes on January 6, 2021 did not
+
+constitute “the administration of justice.” See Second Revised Final Presentence Investigation
+
+Report at 33. At sentencing, the Court acknowledged that the enhancements do not “include the
+
+phrase ‘official proceeding of Congress’” as in 18 U.S.C. § 1512(c)(2)’s text, but nevertheless, it
+
+concluded that both enhancements apply to the “type of offense prosecuted under Section
+
+1512(c)(2).”   Sentencing Tr. at 38:2–4.     The Court further suggested that even if neither
+
+enhancement applied, the Court could, under the 18 U.S.C. § 3553(a) factors, “enhance [Reffitt’s]
+
+sentence in a commensurate amount . . . get[ting] to the same place.” Id. at 36:25–37:3.
+
+       After applying the grouping rules, the Court determined that Count 2 produced the highest
+
+total offense level. As such, Reffitt’s Guidelines range was calculated as follows:
+
+    Base Offense Level for Count 2     § 2J1.2(a)                       14
+
+    Threat   to     Obstruct      the § 2J1.2(b)(1)(B)                  +8
+    Administration of Justice
+
+    Substantial Interference with the § 2J1.2(b)(2)                     +3
+    Administration of Justice
+
+    Extensive in Scope, Planning, or § 2J1.2(b)(3)(C)                   +2
+    Preparation
+
+    Obstruction of Justice             § 3C1.1                          +2
+
+    Total Offense Level                                                 29
+
+
+With a criminal-history category of I, Reffitt’s corresponding Guidelines range was 87 to 108
+
+months’ imprisonment. See Sentencing Tr. 68:7–9, 14–16. The Court sentenced Reffitt to 87
+
+months’ imprisonment and three years’ supervised release. See id. at 176:12–13, 22–23.
+
+       Reffitt appealed to challenge, among other things, the Court’s application of Guidelines
+
+§ 2J1.2(b)(1)(B) and § 2J1.2(b)(2). The D.C. Circuit stayed his appeal pending the Supreme
+
+
+                                                 3
+         Case 1:21-cr-00032-DLF Document 182 Filed 04/10/24 Page 4 of 11
+
+
+
+
+Court’s decision in Fischer v. United States, No. 23-5572, concerning the application of 18 U.S.C.
+
+§ 1512(c)(2), and the D.C. Circuit’s decision in United States v. Brock, No. 23-3045, concerning
+
+the application of Guidelines §§ 2J1.2(b)(1)(B), (b)(2). See Order, United States v. Reffitt, No. 22-
+
+3056 (D.C. Cir. Jan. 18, 2024). On March 1, 2024, the D.C. Circuit issued its decision in Brock,
+
+holding that “for purposes of Sentencing Guideline 2J1.2, the phrase ‘administration of justice’
+
+does not encompass Congress’s role in the electoral certification process.” 94 F.4th at 51. Rather,
+
+“‘administration of justice’ refers to judicial, quasi-judicial, and adjunct investigative
+
+proceedings.” Id. Applying that definition, the D.C. Circuit concluded that the district court “erred
+
+in applying [Guideline] § 2J1.2(b)(2)’s three-level sentencing enhancement to [a] Section
+
+1512(c)(2) conviction.” Id. at 59.
+
+       The next day, Reffitt filed his motion for release pending appeal. See Mot. for Release
+
+Pending Appeal, Dkt. 179. He argues that under Brock this Court’s application of Guidelines
+
+§§ 2J1.2(b)(1)(B) and (b)(2) to his Count 2 offense was erroneous. See id. at 3. As such, his
+
+revised total offense level should be 19, and his corresponding Guidelines range should be 30 to
+
+37 months’ imprisonment—less than the 38 months he has already served. See id. at 2–3.
+
+Although acknowledging “this Court’s prior pretrial finding that he was a danger to the community
+
+under the Bail Reform Act,” Reffitt argues that he “has been able to reflect on his actions . . . and
+
+appreciate the wrongfulness of his conduct.” Id. at 4. The Court could thus, in his view, “fashion
+
+conditions of release to protect the safety of the community pending his likely resentencing” after
+
+the Supreme Court decides Fischer. Id. The government opposes Reffitt’s motion.
+
+II.    LEGAL STANDARDS
+
+       18 U.S.C. § 3143(b) provides that “a person who has been found guilty of an offense and
+
+sentenced to a term of imprisonment, and who has filed an appeal” “shall . . . be detained,” unless
+
+
+
+
+                                                 4
+         Case 1:21-cr-00032-DLF Document 182 Filed 04/10/24 Page 5 of 11
+
+
+
+
+the defendant satisfies two requirements. See United States v. Libby, 498 F. Supp. 2d 1, 3 (D.D.C.
+
+2007) (noting that the defendant “bears the burden of rebutting this presumption”). First, the
+
+defendant must show “by clear and convincing evidence that [he] is not likely to flee or pose a
+
+danger to the safety of any other person or the community if released.” 18 U.S.C. § 3143(b)(1)(A).
+
+Second, the defendant must also show, as relevant here, his “appeal is not for the purpose of delay
+
+and raises a substantial question of law or fact likely to result in . . . a reduced sentence to a term
+
+of imprisonment less than the total of the time already served plus the expected duration of the
+
+appeal process.” Id. § 3143(b)(1)(B); see United States v. Perholtz, 836 F.2d 554, 555 (D.C. Cir.
+
+1987). If the defendant satisfies these requirements, the Court “shall order the detention terminated
+
+at the expiration of the likely reduced sentence.” 18 U.S.C. § 3143(b)(1)(B).
+
+III.   ANALYSIS
+
+       The Court will deny Reffitt’s motion for three independent reasons.
+
+       First, Reffitt has failed to show “by clear and convincing evidence” that he “is not likely to
+
+flee or pose a danger to the safety of any other person or the community.”                 18 U.S.C.
+
+§ 3143(b)(1)(A). Under the Bail Reform Act of 1984, pretrial detention based on a defendant’s
+
+dangerousness requires the government to prove by “clear and convincing evidence” that “no
+
+condition or combination of conditions will reasonably assure the safety of any other person and
+
+the community.” Id. § 3142(f). In other words, before trial, there is a presumption of release. But
+
+after a defendant has been convicted and sentenced to a term of imprisonment, the presumption
+
+flips in favor of custody, and it falls to the defendant to present “clear and convincing evidence”
+
+that he “is not likely to flee or pose a danger to the safety of any other person or the community if
+
+released.” Id. § 3143(b)(1)(A).
+
+
+
+
+                                                  5
+        Case 1:21-cr-00032-DLF Document 182 Filed 04/10/24 Page 6 of 11
+
+
+
+
+       Reffitt fails to make such a showing. His motion lacks any mention of his risk of flight,
+
+and as to the risk of danger, Reffitt states only that he “has been able to reflect on his actions
+
+surrounding January 6, 2021 and appreciate the wrongfulness of his conduct.” Mot. for Release
+
+Pending Appeal at 4. This representation, standing alone, is insufficient to rebut the presumption
+
+of custody, and Reffitt provides no new facts to mitigate the evidence presented at trial of his
+
+“danger to the safety of any other person or the community.” 18 U.S.C. § 3143(b)(1)(A).
+
+Specifically, Reffitt “carried a gun on Capitol grounds that he trespassed on,” “refused to abide
+
+the lawful commands of law enforcement officers,” “stored an AK-47 in a D.C. parking lot,”
+
+“possessed an unlicensed and unlawful silencer in his home,” and made violent threats to his
+
+children if they reported him to law enforcement. Sentencing Tr. 174:22–175:8. His motion does
+
+little, if anything, to assuage the Court that Reffitt’s dangerous conduct on January 6 is behind
+
+him. Further, the Court remains skeptical that even now Reffitt “appreciate[s] the wrongfulness
+
+of his conduct.” Mot. for Release Pending Appeal at 4. As recently as September 2023, he told a
+
+Washington Post reporter that “he does not regret going to the Capitol that day.” Dan Rosenzweig-
+
+Ziff, Jan. 6 Shattered Her Family. Now They’re Trying to Forgive, Wash. Post (Sept. 9, 2023 at
+
+7:00 AM), https://www.washingtonpost.com/politics/interactive/2023/jan-6-reffitt-family-repair-
+
+relationships [https://perma.cc/B524-CX2Q]. For these reasons, Reffitt has failed to rebut the
+
+presumption of detention that applies after sentencing.
+
+       Second, contrary to Reffitt’s assertion, see Mot. for Release Pending Appeal at 2–3, his
+
+revised Guidelines range would not be “less than the total of the time already served plus the
+
+expected duration of the appeal process.” 18 U.S.C. § 3143(b)(1)(B)(iv). In calculating a
+
+defendant’s Guidelines range, the Court must first “[d]etermine the base offense level and apply
+
+any appropriate specific offense characteristics, cross references, and special instructions” “for
+
+
+
+
+                                                6
+         Case 1:21-cr-00032-DLF Document 182 Filed 04/10/24 Page 7 of 11
+
+
+
+
+each count.” Guideline § 1B1.1(a)(1)–(4). Then, the Court “[a]ppl[ies] Part D of Chapter Three
+
+to group the various counts and adjust[s] the offense level accordingly.” Id. § 1B1.1(a)(4).
+
+        As relevant here, the Court focuses on the Guideline calculations for Counts 2 and 5. 1
+
+Following Brock, the offense level for Count 2 (obstruction of an official proceeding in violation
+
+of 18 U.S.C. § 1512(c)(2)) drops from 29 to 18 because the enhancements under Guidelines
+
+§§ 2J1.2(b)(1)(B) and (b)(2) no longer apply:
+
+    Base Offense Level for Count 2        § 2J1.2(a)                         14
+
+    Extensive in Scope, Planning, or § 2J1.2(b)(3)(C)                        +2
+    Preparation
+
+    Obstruction of Justice                § 3C1.1                            +2
+
+    Count 2 Offense Level                                                    18
+
+        Although Count 2 previously drove Reffitt’s total offense level, the Court’s inquiry does
+
+not end there. Indeed, a jury also convicted Reffitt of Count 5 (obstruction of justice by threatening
+
+physical force to hinder communication in violation of 18 U.S.C. § 1512(a)(2)(C)). Before Brock,
+
+Count 5 was subject to the § 2J1.2(b)(1)(B) enhancement, so the Court must determine whether
+
+that enhancement still applies post-Brock.
+
+        Like Count 2, Count 5 has a base offense level of 14. See Guideline § 2J1.2(a). But unlike
+
+Count 2, Count 5 is still buoyed by an 8-point enhancement under Guideline § 2J1.2(b)(1)(B)
+
+because Count 5’s offense conduct includes Reffitt telling his children that “[i]f you turn me in,
+
+you are traitor[s]. Traitors get shot.” Mar. 3, 2022 Trial Tr. at 1003:7–8, Dkt. 141. “Later in the
+
+conversation,” Reffitt also “snapped” at his daughter and told her she “better not be recording this
+
+
+
+1
+ The Court focuses on Count 2’s offense level because the offense levels for Counts 1 and 3 are driven
+by a cross-reference to Count 2. See Guideline §§ 2K2.1(c)(1)(A), 2X1.1(a). The Court does not focus
+on Count 4 here because its offense level of 13 is lower than Count 2’s and Count 5’s. Second Revised
+Final PSR ¶ 61.
+
+
+                                                    7
+         Case 1:21-cr-00032-DLF Document 182 Filed 04/10/24 Page 8 of 11
+
+
+
+
+or I will put a bullet in your phone.” Id. at 1004:21–23. Reffitt’s son testified at trial that he
+
+interpreted his father’s statements and actions as threats, see id. at 1008:5, and the guilty verdict
+
+as to Count 5 reflects that the jury credited this testimony. Thus, even under Brock’s holding that
+
+the “administration of justice” under Guideline § 2J1.2(b) is limited to “judicial, quasi-judicial,
+
+and adjunct investigative proceedings,” Count 5—which was based on Reffitt’s threats to his
+
+children “to obstruct” the FBI’s criminal investigation into January 6 (rather than Reffitt’s
+
+obstruction of a Congressional proceeding)—is plainly covered by § 2J1.2(b)(1)(B). Brock, 94
+
+F.4th at 51. Because the 8-level enhancement in Guideline § 2J1.2(b)(1)(B) continues to apply to
+
+Count 5, even post-Brock, the Count 5 offense level is calculated as follows:
+
+    Base Offense Level for Count 5       § 2J1.2(a)                         14
+
+    Threat   to     Obstruct        the § 2J1.2(b)(1)(B)                    +8
+    Administration of Justice
+
+    Count 5 Offense Level                                                   22
+
+
+        As discussed at sentencing, Counts 1, 2, 3, and 5 group under Guideline § 3D1.2 as closely
+
+related counts. 2 Sentencing Tr. at 141–42. To calculate the total offense level, the Court looks to
+
+the count with the highest offense level in the group. See Guideline § 3C1.1 n.8; id. §§ 3D1.2,
+
+3D1.3(a). After Brock, that is now Count 5 (22), not Count 2 (18). Contrary to Reffitt’s contention,
+
+see Mot. for Release Pending Appeal at 2–3, his revised total offense level is thus 22, and this
+
+corresponds to a revised Guidelines range of 41 to 51 months’ imprisonment. As a result, Reffitt
+
+is not entitled to release pending appeal. His reduced Guidelines range is not “less than the total
+
+
+
+
+2
+ Count 4 “cannot be grouped with the other Counts as it represents a separate and distinct harm.” Second
+Revised Final PSR ¶¶ 43, 61. Per Guideline § 3D1.4(c), the Court must “[d]isregard” Count 4 for total-
+offense-calculation purposes because Count 4, with an offense level of 13, is “9 or more levels less
+serious than the Group with the highest offense level,” i.e., the group with Counts 1, 2, 3, and 5
+corresponding to an offense level of 22.
+
+
+                                                   8
+        Case 1:21-cr-00032-DLF Document 182 Filed 04/10/24 Page 9 of 11
+
+
+
+
+of the time already served” (38 months) “plus the expected duration of the appeal process”
+
+(approximately 3 months, i.e., until the Supreme Court decides Fischer).                18 U.S.C.
+
+§ 3143(b)(1)(B)(iv). And at any resentencing, the Court anticipates sentencing Reffitt above the
+
+Guidelines range for the below stated reasons. Id.
+
+       Finally, even after Brock, the Court could arrive at the same sentence of 87 months’
+
+imprisonment by applying the § 3553(a) factors. “[U]pon a resentencing occasioned by a remand,
+
+unless the court of appeals expressly directs otherwise, the district court may consider . . . such
+
+new arguments or new facts as are made newly relevant by the court of appeals,” including the
+
+application of an “upward variance.” United States v. Miller, 35 F.4th 807, 815 (D.C. Cir. 2022).
+
+At Reffitt’s sentencing, the Court observed that even if the enhancements under Guideline
+
+§ 2J1.2(b)(1)(B) and § 2J1.2(b)(2) did not apply, it could “under [the section] 3553(a) [factors]
+
+enhance [Reffitt’s] sentence in a commensurate amount.” Sentencing Tr. 36:25–37:1.
+
+       Despite Brock, the Court continues to believe that an upward variance could be justified in
+
+this case. To start, Reffitt’s “conduct was more harmful or egregious than the typical case
+
+represented by the relevant Sentencing Guidelines range.” United States v. Murray, 897 F.3d 298,
+
+308–09 (D.C. Cir. 2018). In resentencing Reffitt, the Court retains broad discretion to consider all
+
+“information concerning the background, character, and conduct” of the defendant, 18 U.S.C.
+
+§ 3661, including “uncharged or even acquitted conduct,” United States v. Norman, 926 F.3d 804,
+
+811 (D.C. Cir. 2019). See Williams v. New York, 337 U.S. 241, 246 (1949) (noting sentencing
+
+courts retain “wide discretion in the sources and types of evidence used to assist [them] in
+
+determining the kind and extent of punishment to be imposed within limits fixed by law”). Taking
+
+into account the entire record, including relevant conduct, the Court concludes that Reffitt’s
+
+revised Guidelines range of 41 to 51 months does not adequately capture the full scope of his
+
+
+
+
+                                                 9
+        Case 1:21-cr-00032-DLF Document 182 Filed 04/10/24 Page 10 of 11
+
+
+
+
+culpable conduct, which the Court previously categorized as “in a class of [its] own.” Sentencing
+
+Tr. 163:11; see Kimbrough v. United States, 552 U.S. 85, 109 (2007) (“[A] district court’s decision
+
+to vary from the advisory Guidelines may attract greatest respect when the sentencing judge finds
+
+a particular case outside the heartland to which the Commission intends individual Guidelines to
+
+apply.”). What makes Reffitt’s conduct (as captured by Count 5) more egregious than that of a
+
+typical obstruction defendant is that he threatened the physical safety of his own children.
+
+Moreover, Reffitt sought to conceal a much grander “stated purpose” than a typical defendant:
+
+“literally overthrowing . . . elected officials, removing them, and coming down here for the
+
+constitutionalist judges to install a new government.” Sentencing Tr. at 163:14–16. He attempted
+
+to cover up carrying a firearm on Capitol grounds, plotting with fellow Texas Three Percenters,
+
+and storing an AK-47 and silencer. See id. 164–65, 175. Given “the nature and circumstances of
+
+the offense and the history and characteristics of the defendant,” the Court does not believe the
+
+Guidelines range of 41 to 51 months for obstructive threats adequately captures the gravity of
+
+Reffitt’s conduct related to the January 6 riot. 18 U.S.C. § 3553(a)(1).
+
+       Further, as the government points out, see Opp’n at 14, Dkt. 181, an upward variance is
+
+“need[ed] to avoid unwarranted sentence disparities among defendants,” 18 U.S.C. § 3553(a)(6).
+
+Following Brock, obstructive conduct is subject to a potential 11-point Guidelines swing
+
+depending on whether it interfered with, on one hand, a “judicial, quasi-judicial, and adjunct
+
+investigative proceedings,” or on the other hand, any other type of formal proceeding. Brock, 94
+
+F.4th at 51. This disparity—though tracking the Guidelines’ text—does not reflect the importance
+
+and solemnity of the Congressional proceeding to certify the electoral vote count, nor does it reflect
+
+the gravity of Reffitt’s obstructive conduct. Indeed, as other judges in this district have noted, the
+
+proceedings at issue on January 6, 2021 were of much greater significance than run-of-the-mill
+
+
+
+
+                                                 10
+        Case 1:21-cr-00032-DLF Document 182 Filed 04/10/24 Page 11 of 11
+
+
+
+
+“judicial, quasi-judicial, and adjunct investigative proceedings.” Id.; see, e.g., Sentencing Tr. at
+
+86:01–07, United States v. Hale-Cusanelli, No. 21-cr-37, Dkt. 120 (“Regardless of whether the
+
+‘administration of justice’ language actually applies to this situation, I have no doubt that the
+
+Commission would have intended for this to apply to substantial interference with an official
+
+proceeding like a certification process, which is itself more significant than almost any court
+
+proceeding.”); United States v. Roche, No. 22-cr-86, 2024 WL 1328459, at 5 n.5 (D.D.C. Mar. 28,
+
+2024). Here, the Court believes that an upward variance would be further justified to avoid
+
+disparities between Reffitt’s sentence and those of defendants who interfered with “what we
+
+classically think of as administration of justice.” Sentencing Tr. at 36:9. In other words, Reffitt’s
+
+sentence should reflect that he risked greater danger to others’ physical safety and the rule of law
+
+than a run-of-the-mill defendant subject to the § 2J1.2(b) enhancements.
+
+       Although the Court remains inclined to vary upward above the top of Reffitt’s Guidelines
+
+range—i.e., above 51 months’ imprisonment—it will refrain from issuing an indicative sentencing
+
+ruling at this juncture. Any such decision would be premature because the parties have not filed
+
+briefs for a full resentencing, and the Court has determined that Reffitt’s revised post-Brock
+
+Guidelines range is not “less than the total of the time already served plus the expected duration
+
+of the appeal process.” 18 U.S.C. § 3143(b)(1)(B)(iv).
+
+                                             *   *    *
+       For the foregoing reasons, the Court concludes that Reffitt has failed to demonstrate his
+
+entitlement to release pending appeal under 18 U.S.C. § 3143(b). Accordingly, it is
+
+       ORDERED that the Motion for Release Pending Appeal, Dkt. 179, is DENIED.
+
+       SO ORDERED.
+
+                                                              ________________________
+                                                              DABNEY L. FRIEDRICH
+April 10, 2024                                                United States District Judge
+
+
+                                                 11
+

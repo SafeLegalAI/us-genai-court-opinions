@@ -1,0 +1,322 @@
+1
+IN THE UNITED STATES DISTRICT COURT
+FOR THE WESTERN DISTRICT OF TENNESSEE
+WESTERN DIVISION
+KORINE BAILEY,
+Plaintiff,
+)
+)
+)
+) No. 2:24-cv-02749-TLP-tmp
+v. )
+)
+)
+)
+)
+)
+JURY DEMAND
+SEDGWICK CLAIMS MANAGEMENT
+SERVICES, INC.,
+Defendants.
+ORDER GRANTING CORRECTED MOTION FOR PRELIMINARY
+APPROVAL OF SETTLEMENT
+Plaintiff Korine Bailey (“Plaintiff”), on behalf of herself and the proposed Settlement
+Class, asserts claims for alleged violations of the Employee Retirement Income Security Act of
+1974 (“ERISA”) against Defendant Sedgwick Claims Management Services, Inc. (ECF No.
+1.) The Parties have reached a Settlement, memorialized in an Agreement, which they signed.
+In her Corrected Motion1
+, Plaintiff moves, unopposed, for the Court to preliminarily approve the
+1
+AI is seemingly everywhere these days. As great as it is, it still makes significant mistakes.
+This is a cautionary tale about the use of artificial intelligence programs to draft legal documents.
+Plaintiff first filed a Motion that included citations to cases that did not exist or quotes that did
+not appear in real cases. (ECF No. 91.) The Court held a video status conference in which it
+voiced concerns that Plaintiff’s counsel used an AI tool to help draft its Motion. Plaintiff’s
+counsel agreed that these errors were most likely the result of the AI tool. Apparently that AI
+program hallucinated over some citations. As a result, the Court required Plaintiff’s counsel to
+correct the citations and submit a Corrected Motion. They did so. (ECF No. 94.) The Sixth
+Circuit has recently addressed the role of AI in the realm of litigation. That court imposed
+significant sanctions and pointed out that lawyers cannot outsource their ethical obligations to an
+AI program. In fact, the Sixth Circuit has sanctioned lawyers for doing just that. In United
+States v. Farris, the court noted the “baseline ethical obligations as they relate to the use of
+artificial intelligence.” 171 F.4th
+920, 922 (6th Cir. 2026). Even though this new technology
+holds great potential, the court explained that “all in the legal profession must be clear eyed
+Case 2:24-cv-02749-TLP-tmp Document 97 Filed 06/08/26 Page 1 of 10
+PageID 11202
+Agreement so that they can send notice to the Settlement Class.2
+(ECF No. 94.)
+Having considered Plaintiff’s Motion and the Agreement to determine whether the
+Settlement warrants notice to members of the proposed Settlement Class, the Court ORDERS,
+ADJUDGES, AND DECREES as follows:
+I. Jurisdiction
+The Court has jurisdiction over the subject matter of this Action and over all Parties to
+this Action, including all Class Members.
+II. Class Findings
+The Court preliminarily finds, for purposes of the Settlement only, that the requirements
+of the Federal Rules of Civil Procedure, the United States Constitution, the Rules of the Court,
+and any other applicable law have been met as to the Settlement Class, in that:
+A. The Settlement Class is ascertainable from records kept with respect to
+the Sedgwick Welfare Benefits Plan (“Plan”) and from other objective
+criteria, and the Settlement Class is so many that their joinder before the
+Court would be impracticable.
+B. Based on allegations, the Court preliminarily finds that there are one or
+more questions of fact and/or law common to the Settlement Class.
+about technology’s potential pitfalls,” which “is especially critical in today’s rapidly evolving
+[AI] landscape.” Id. As the Farris court noted, Plaintiff’s counsel is reminded that a lawyer’s
+duty of competence requires one to keep up with “changes in the law and its practice” which
+includes “relevant technology.” Id. (quoting the Model Rules of Prof. Conduct. r.1.1 cmt. 8
+(A.B.A 2012.) So if counsel wants to use AI technology it “must do so in a manner consistent
+with their ethical obligations.” Id. at 922–23 (citing the compilation of state bar ethics rules and
+guidance on GAI found in A.B.A. Task Force on L. & A.I., Addressing the Legal Challenges of
+AI: Year 2 Report on the Impact of AI on the Practice of Law, 47–48 (2025)). In its discretion,
+the Court did not impose sanctions here. It likely could have. See Whiting v. City of Athens
+Tennessee, 170 F.4th 455, 461 (6th Cir. 2026) (“Citing even a single fake case can be
+sanctionable because ‘no brief, pleading, motion, or any other paper filed in any court should
+contain any citations—whether provided by generative AI or any other source—that’ a lawyer
+has not personally ‘read and verified.’”) (quoting Noland v. Land of the Free, L.P., 114
+Cal.App.5th 426, 336 Cal. Rptr. 3d 897, 901 (2025)) (emphasis in original). The hope is that
+Plaintiff’s counsel has received the message.
+2
+Capitalized terms not otherwise defined in this Order will have the same meaning as in the
+Agreement. The “Settlement Class” is defined in this Order below.
+Case 2:24-cv-02749-TLP-tmp Document 97 Filed 06/08/26 Page 2 of 10
+PageID 11213
+C. Based on allegations, the Court preliminarily finds that the claims of
+Plaintiff are typical of the claims of the Settlement Class.
+D. Plaintiff will fairly and adequately protect the interests of the
+Settlement Class in that: (i) the interests of Plaintiff and the nature of
+her alleged claims track those of the Settlement Class; (ii) there are no
+significant conflicts between or among Plaintiff and the Settlement
+Class; and (iii) Plaintiff is represented by qualified, reputable counsel
+who are experienced in preparing and prosecuting ERISA class actions
+of this type.
+E. The prosecution of separate actions by individual members of the
+Settlement Class would create a risk of: (i) inconsistent or varying
+adjudications as to individual class members, that would establish
+incompatible standards of conduct for the parties opposing the claims
+asserted in the Action; or (ii) adjudications as to individual class members
+that would, as a practical matter, resolve the interests of the other
+members not parties to the Action, or would substantially impair or
+impede those persons’ ability to protect their interests.
+III. Class Certification
+Based on the findings set out above, the Court PRELIMINARILY CERTIFIES the
+following Settlement Class for settlement purposes under Federal Rule of Civil Procedure
+23(b)(1), including all individuals satisfying the criteria below:
+A. The individual resides in the United States; and
+B. was a Plan participant or beneficiary at any point from October 8, 2018,
+through the date of entry of the Preliminary Approval Order; and
+C. paid a tobacco or nicotine surcharge in connection with their participation
+in the Plan from October 8, 2018, through the entry of the Preliminary
+Approval Order; and
+D. The individual was not fully reimbursed the tobacco or nicotine surcharge
+payments made from October 8, 2018, through the date of entry of the
+Preliminary Approval Order.
+The “Class Period” is October 8, 2018, through the date of this Order.
+The Court finds that the Settlement Class is sufficiently well-defined and cohesive to
+warrant certification as a non-opt-out class under Fed. R. Civ. P. 23(a) and 23(b)(1). As required
+Case 2:24-cv-02749-TLP-tmp Document 97 Filed 06/08/26 Page 3 of 10
+PageID 11224
+by Fed. R. Civ. P. 23(g), the Court has considered: (i) the work Class Counsel has done in
+identifying or investigating potential claims; (ii) Class Counsel’s experience in handling class
+actions, other complex litigation, and claims of the type asserted here; (iii) Class Counsel’s
+knowledge of the applicable law and, in particular, its knowledge of ERISA as it applies to
+claims of the type asserted here; and (iv) the resources Class Counsel has committed to
+representing the Settlement Class. Based on these factors, the Court finds that Class Counsel has
+and will continue to represent fairly and adequately the interests of the Settlement Class.
+Accordingly, under Federal Rule of Civil Procedure 23(g)(2) the Court preliminarily designates
+Siri & Glimstad LLP as Class Counsel for the Settlement Class.
+As reflected above, the Court finds that Plaintiff is an adequate and typical class
+representative for the Settlement Class for settlement purposes and therefore appoints Plaintiff
+Korine Y. Bailey as the Representative of the Settlement Class for settlement purposes.
+The Court having determined preliminarily that this Action may proceed as a non-opt-out
+class action under Fed. R. Civ. P. 23(a) and 23(b)(1), the Settlement Class will be bound by any
+judgment concerning the Settlement, subject to the Court’s final determination about whether
+this case may proceed.
+IV. Preliminary Approval of Settlement
+The Court PRELIMINARILY APPROVES the Settlement as documented in the
+Agreement, as the Court preliminarily finds that: (a) the proposed Settlement resulted from
+arm’s-length negotiations; (b) the Agreement was executed only after Class Counsel had
+researched and investigated multiple legal and factual issues pertaining to Plaintiff’s claims; (c)
+there is a genuine controversy between the Parties involving Defendant’s compliance with the
+requirements of ERISA; (d) the Settlement appears on its face to be fair, reasonable, and
+Case 2:24-cv-02749-TLP-tmp Document 97 Filed 06/08/26 Page 4 of 10
+PageID 11235
+adequate; and (e) the Settlement is sufficiently fair, reasonable, and adequate to warrant sending
+notice to the Settlement Class.
+V. Plan of Allocation
+The Court preliminarily finds that the proposed Plan of Allocation is fair, reasonable, and
+adequate.
+VI. Final Approval Hearing
+A hearing (“Final Approval Hearing”) pursuant to Fed. R. Civ. P. 23(e) is scheduled to be
+held before the Court on October 9, 2026, at 9 a.m. in Courtroom 2, 11th Floor, at the Odell
+Horton Federal Building, 167 North Main Street, Memphis, TN 38103, to determine finally,
+among other things:
+A. Whether the Settlement should be approved as fair, reasonable, and
+adequate;
+B. Whether the Settlement Class satisfies the requirements of Fed. R. Civ. P.
+23, and should be finally certified as preliminarily found by the Court;
+C. Whether the litigation should be dismissed with prejudice under the
+Agreement;
+D. Whether the Final Approval Order attached to the Agreement should be
+entered and whether the Released Parties should be released of and from
+the Released Claims, as provided in the Agreement;
+E. Whether the notice and notice methodology implemented pursuant to the
+Agreement (i) were reasonably calculated, under the circumstances, to
+apprise the Class of the pendency of the litigation, their right to object to
+the Settlement, and their right to appear at the Final Approval Hearing; (ii)
+were reasonable and constituted due, adequate, and sufficient notice to all
+persons entitled to notice; and (iii) met all applicable requirements of the
+Federal Rules of Civil Procedure, and any other applicable law;
+F. Whether Class Counsel adequately represents the Settlement Class for
+entering into and implementing the Agreement as required by Fed. R. Civ.
+P. 23(g) and as preliminarily found by the Court;
+G. Whether the proposed Plan of Allocation of the Net Settlement Amount is
+Case 2:24-cv-02749-TLP-tmp Document 97 Filed 06/08/26 Page 5 of 10
+PageID 11246
+fair, reasonable, and adequate and should be approved by the Court;
+H. Whether the Settlement has been negotiated at arm’s length by Class
+Counsel on behalf of the Plan and the Settlement Class, whether Plaintiff
+has acted independently, whether Plaintiff’s interests are identical to the
+interests of the Plan and the Settlement Class, and whether the negotiations
+and consummation of the Settlement by Plaintiff on behalf of the Plan and
+the Settlement Class do not constitute “prohibited transactions” as defined
+by ERISA §§ 406(a) or (b), including whether Prohibited Transaction
+Exemption 2003-39 or another class exemption from the prohibited
+transaction rules applies;
+I. Whether the application for attorneys’ fees and costs to be filed by Class
+Counsel should be approved;
+J. Whether a case contribution award should be awarded to Plaintiff; and
+K. Any other issues necessary for approval of the Settlement.
+VII. Class Notice
+The Parties have presented to the Court a proposed Settlement Notice, which is attached
+to the Agreement as Exhibit A. The Court APPROVES the form and content of the Settlement
+Notice finding that it fairly and adequately: (1) describes the terms and effect of the Agreement
+and of the Settlement; (2) gives notice to the Settlement Class of the time and place of the
+Final Approval Hearing; and (3) describes how the recipients of the Settlement Notice may
+object to approval of the Settlement. The Parties have proposed sending the Settlement Notice
+to Class Members via U.S. Mail, and the Court finds that is adequate. By no later than sixty
+(60) calendar days before the Final Approval Hearing, Plaintiff will cause the Settlement Notice,
+with such non-substantive modifications as may be agreed upon by the Parties, to be
+disseminated via U.S. Mail to the last known address of each member of the Settlement Class
+who can be identified by reasonable effort. At or before the Final Approval Hearing, Class
+Counsel will file with the Court proof of timely compliance with this mailing requirement.
+Case 2:24-cv-02749-TLP-tmp Document 97 Filed 06/08/26 Page 6 of 10
+PageID 11257
+VIII. Objections to Settlement
+“Objector” means any member of the Settlement Class who wishes to object to the
+fairness, reasonableness, or adequacy of the Settlement, to the Plan of Allocation, to any term of
+the Agreement, to the proposed case contribution awards, or to the proposed award of attorneys’
+fees and costs. Any Objector must file with the Court a statement of his, her, or its objection(s),
+specifying the reason(s), if any, for each such objection made, including any legal support or
+evidence that such Objector wishes to bring to the Court’s attention or introduce in support of
+such objection. Any objection must be signed by the Settlement Class member. The Objector
+must also mail the objection and all supporting law and evidence to counsel for the Parties, as
+stated below. The addresses for filing objections with the Court and service on counsel are:
+COURT CLERK
+Clerk of the Court
+U.S. District Court, Western District of
+Tennessee
+Odell Horton Federal Building
+167 North Main Street
+Memphis, TN 38103
+PLAINTIFF’S COUNSEL
+Oren Faircloth
+Siri & Glimstad
+100 Pearl Street, 14th Floor
+#16946876
+Hartford, CT 06103
+DEFENDANT’S
+COUNSEL
+Blake Crohan
+Alston & Bird, LLP
+1201 W Peachtree Street
+Atlanta, GA 30309
+The Objector, or, if represented by counsel, his, her, or its counsel, must both effect
+service of the objection on counsel listed above and file the objection with the Court at least
+fourteen (14) calendar days before the Final Approval Hearing. Any Settlement Class member
+or other person who does not timely file and serve a written objection complying with the terms
+of this paragraph will be deemed to have waived, and will be foreclosed from raising, any
+objection to the Settlement and any untimely objection will be barred.
+IX. Appearance at Final Approval Hearing
+An Objector who files and serves a timely, written objection in accordance with the
+paragraph above may also appear at the Final Approval Hearing either in person or through
+counsel retained at the Objector’s expense. Objectors or their attorneys intending to appear at the
+Case 2:24-cv-02749-TLP-tmp Document 97 Filed 06/08/26 Page 7 of 10
+PageID 11268
+Final Approval Hearing must effect service of a “Notice of Intention to Appear” setting forth,
+among other things, the name, address, and telephone number of the Objector (and, if applicable,
+the name, address, and telephone number of the Objector’s attorney). The Notice of Intention to
+Appear must be filed with the Court and provided to Class Counsel and Defendant’s counsel at
+least fourteen (14) calendar days before the Final Approval Hearing. Any Objector who does not
+timely file and serve a “Notice of Intention to Appear” in accordance with this paragraph shall
+not be permitted to appear at the Final Approval Hearing, except for good cause shown. The
+Parties’ counsel shall promptly furnish each other with copies of all Objections and Notices of
+Intention to Appear that come into their possession.
+X. Response to Objectors
+The Parties will respond to any Objector at least seven (7) calendar days before the Final
+Approval Hearing.
+XI. Compliance with Class Action Fairness Act
+Defendant shall, on or before ten (10) calendar days before the Final Approval Hearing,
+file with the Court proof of compliance with the Class Action Fairness Act of 2005, as specified
+in 28 U.S.C. § 1715.
+XII. Notice Expenses
+Reasonable expenses for carrying out Class Notice will be paid out of the Gross
+Settlement Amount from the Qualified Settlement Fund.
+XIII. Fees and Expenses Incurred by the Independent Fiduciary and Settlement
+Administrator
+The Court understands that Defendant has retained or will retain an Independent
+Fiduciary to evaluate the Settlement to determine whether to authorize the Settlement on behalf
+of the Plan. The fees and expenses incurred by the Independent Fiduciary (including fees and
+Case 2:24-cv-02749-TLP-tmp Document 97 Filed 06/08/26 Page 8 of 10
+PageID 11279
+expenses incurred by consultants, attorneys, and other professionals retained or employed by the
+Independent Fiduciary) in evaluating and authorizing the Settlement on behalf of the Plan
+(defined as the “Independent Fiduciary Fees” in the Agreement), will be paid out of the Gross
+Settlement Amount from the Qualified Settlement Fund. The expenses incurred by the
+Settlement Administrator in administering the Settlement and allocating the Qualified Settlement
+Fund pursuant to the Plan of Allocation approved by the Court, including any payable expenses
+of the Settlement Administrator, shall also be paid out of the Gross Settlement Amount.
+XIV. Application for Attorneys’ Fees
+Any application by Class Counsel for attorneys’ fees and reimbursement of expenses, for
+case contribution awards to the Plaintiff, and all papers in support thereof, must be filed with the
+Court and served on all counsel of record at least forty-five (45) calendar days before the Final
+Approval Hearing.
+XV. Motion for Final Approval of Settlement and Plan of Allocation
+Class Counsel must file with the Court a motion for entry of the Final Approval Order
+and approval of the Plan of Allocation at least thirty (30) calendar days before the Final
+Approval Hearing.
+XVI. Certification of Compliance
+At or before the FinalApproval Hearing, the Parties must file a proof of mailing the Class
+Notice and a statement of theAdministrator’s compliance with the terms of theAgreement, from
+theAdministrator.
+XVII. Injunction
+Pending final determination of whether the Settlement should be approved, the Court
+ENJOINS Plaintiff, all Class Members, including their respective heirs, beneficiaries, executors,
+Case 2:24-cv-02749-TLP-tmp Document 97 Filed 06/08/26 Page 9 of 10
+PageID 112810
+administrators, estates, past and present partners, officers, directors, agents, predecessors,
+successors, and assigns, and the Plan from instituting or prosecuting any action that asserts any
+Released Claim against any of the Released Parties.
+XVII. Termination of Settlement
+If the Settlement is terminated in accordance with the Settlement Agreement or does
+not become Final under the terms of the Settlement Agreement for any other reason, this Order
+and all class findings the Court has made will become null and void and shall be without
+prejudice to the rights of the Parties, all of whom will be restored to their respective positions
+existing just before this Court entered this Order.
+XVIII.Use of Order
+In the event this Order becomes of no force or effect, no part of it will be construed or
+used as an admission, concession, or declaration by or against Defendant of any fault,
+wrongdoing, breach, or liability, nor will the Order be construed or used as an admission,
+concession, or declaration by or against Plaintiff or the Settlement Class that their claims lack
+merit or that the relief requested in the Action is inappropriate, improper, or unavailable, or as a
+waiver by any party of any defenses or claims he, she, or it may have.
+XIX. Continuance of Final Approval Hearing
+The Court reserves the right to continue the Final Approval Hearing, or to hold the Final
+Approval Hearing by remote means, without further written notice.
+SO ORDERED, this 8th day of June, 2026.
+s/Thomas L. Parker
+THOMAS L. PARKER
+UNITED STATES DISTRICT JUDGE
+Case 2:24-cv-02749-TLP-tmp Document 97 Filed 06/08/26 Page 10 of 10
+PageID 1129

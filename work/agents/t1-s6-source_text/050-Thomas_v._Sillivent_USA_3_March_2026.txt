@@ -1,0 +1,199 @@
+ Case 4:25-cv-01207-JDK-JDL     Document 26     Filed 03/02/26   Page 1 of 4 PageID #:
+                                       166
+
+
+
+                    IN THE UNITED STATES DISTRICT COURT
+                     FOR THE EASTERN DISTRICT OF TEXAS
+                             SHERMAN DIVISION
+
+FABIAN ANTONIO THOMAS,                     §
+                                           §
+      Plaintiff,                           §
+                                           §
+v.                                         §    Case No. 4:25-cv-1207-JDK
+                                           §
+OFFICER SKYLAR SILLIVENT, in               §
+his individual capacity, et al.,           §
+                                           §
+      Defendants.                          §
+
+            ORDER ADOPTING REPORT AND RECOMMENDATION
+              OF THE UNITED STATES MAGISTRATE JUDGE
+
+       Plaintiff Fabian Antonio Thomas, proceeding pro se, filed this lawsuit against
+
+ Defendants Officer Skylar Sillivent, Officer Aaron Gillespie, Officer Russell Douglas,
+
+ Officer Joaquin Reyes, Sergeant T.S. Vowell-Zundel, and the City of The
+
+ Colony, Texas (collectively “Defendants”) on November 4, 2025. Docket No. 1. The
+
+ case was referred to United States Magistrate Judge John D. Love for
+
+ findings of fact, conclusions of law, and recommendations for disposition of the
+
+ action.
+
+       On January 19, 2026, Defendants filed motions to dismiss pursuant to Federal
+
+ Rule of Civil Procedure 12(b)(6). Docket Nos. 12, 14. On February 10, 2026, Judge
+
+ Love issued a Report recommending that Defendants’ motions be granted and
+
+ that this action be dismissed with prejudice.      Docket No. 24.    Plaintiff timely
+
+ filed objections to the Report and Recommendation. Docket No. 25.
+
+       The Court reviews objected-to portions of the Magistrate Judge’s Report and
+
+ Recommendation de novo. See FED. R. CIV. P. 72 and 28 U.S.C. § 636(b)(1) (“A judge
+
+                                           1
+Case 4:25-cv-01207-JDK-JDL      Document 26     Filed 03/02/26    Page 2 of 4 PageID #:
+                                       167
+
+
+
+of the court shall make a de novo determination of those portions of the report or
+
+specified proposed findings and recommendations to which objection is made.”). The
+
+Court conducting a de novo review examines the entire record and makes an
+
+independent assessment under the law. Douglass v. United Servs. Auto. Ass’n, 79
+
+F.3d 1415, 1430 (5th Cir. 1996) (en banc), superseded on other grounds by statute, 28
+
+U.S.C. § 636(b)(1) (extending the time to file objections from ten to fourteen days).
+
+      Plaintiff first objects to Judge Love’s recommendation that Plaintiff’s claims
+
+against Officer Sillivent be dismissed. Plaintiff objects that the Report improperly
+
+resolved factual disputes because Judge Love considered the arrest affidavit and
+
+warrant attached to the motion to dismiss. Docket No. 25 at 2. However, “[a] court
+
+may consider certain documents attached or referred to in the complaint or the
+
+motion to dismiss, and critical to the claims, without converting a Rule 12(b)(6)
+
+motion into one for summary judgment.” Tellabs, Inc. v. Makor Issued & Rights, 551
+
+U.S. 308 (2007). Judge Love acted properly.
+
+      Judge Love was also correct in finding that Officer Sillivent did not obtain the
+
+arrest warrant unlawfully. To establish that an arrest was obtained unlawfully, a
+
+challenger must show that (1) an officer gave a knowingly or recklessly false
+
+statement to procure a warrant and (2) the warrant would not establish probable
+
+cause without the false information. Franks v. Delaware, 438 U.S. 154, 171 (1978).
+
+Plaintiff argues that he has met the first Franks prong because Officer Sillivent
+
+allegedly gave a false statement by omitting the fact that he did not observe bruises
+
+or bodily injury to the victim. Docket No. 25 at 2. But Plaintiff demonstrates no
+
+
+
+
+                                           2
+Case 4:25-cv-01207-JDK-JDL                     Document 26           Filed 03/02/26          Page 3 of 4 PageID #:
+                                                      168
+
+
+
+reason to believe that this omission was made knowingly or recklessly. Nor does he
+
+show any reason to believe the omission constituted a false statement to procure a
+
+warrant. Because Plaintiff fails to meet the first Franks prong, this objection is
+
+overruled. And because the first Franks prong is dispositive in determining the
+
+lawfulness of an arrest warrant, Plaintiff’s objections relying on the second Franks
+
+prong are also overruled. 1 Id. ¶¶ III–IV.
+
+           Next, Plaintiff objects that he stated a viable claim for failure to intervene and
+
+supervisory liability against the remaining individual Defendants. Id. at 3. This
+
+objection is nothing more than a cursory argument without factual support. See
+
+Collins v. Morgan Stanley Dean Witter, 224 F.3d 496, 498 (5th Cir. 2000) (“In order
+
+to avoid dismissal for failure to state a claim, however, a plaintiff must plead specific
+
+facts, not mere conclusory allegations.”). A review of the pleadings indicates that
+
+these claims were not sufficiently pleaded and fail to state a claim. Plaintiff makes
+
+the same generic objection with respect to the Monell claims, which also fails to carry
+
+weight in light of the pleaded allegations. Docket No. 25 at 3. Accordingly, these
+
+objections are overruled.
+
+           Lastly, Plaintiff objects to a dismissal with prejudice. Id. Plaintiff argues that
+
+his claims should not be dismissed without leave to amend and that at a minimum
+
+they should be dismissed without prejudice. Id. Here, Plaintiff already had an
+
+opportunity to amend his complaint in response to the motion (Docket No. 23), which
+
+was addressed in the Report. Judge Love considered that the amended complaint did
+
+
+1
+    Plaintiff’s citation in support of one of these objections, United States v. Lopez, 817 F.3d 541, 545 (5th Cir. 2016),
+    appears to be a phantom case that does not exist.
+
+
+                                                             3
+Case 4:25-cv-01207-JDK-JDL      Document 26    Filed 03/02/26   Page 4 of 4 PageID #:
+                                       169
+
+
+
+not change the viability of the asserted claims and found that further amendment
+
+was futile in light of the affidavit of arrest. Docket No. 24 at 16 (citing Wilson v.
+
+Grest, No. 17-2997, 2017 WL 4998651, at *4 (E.D. La. Nov. 2, 2017) (holding any
+
+amendment to plaintiff’s complaint would be futile where “plaintiff’s allegations are
+
+contradicted by the documentary evidence”)). Having reviewed the allegations, the
+
+Court agrees with the futility analysis and finds that the claims are subject to
+
+dismissal without an additional opportunity to amend.
+
+      Accordingly, it is hereby ORDERED that the Magistrate Judge’s Report
+
+(Docket No. 24) is ADOPTED. Defendants’ motions to dismiss (Docket Nos. 12, 14)
+
+are GRANTED, and this matter is DISMISSED with prejudice. Final judgment will
+
+be entered by separate order.
+
+     So ORDERED and SIGNED this 2nd day of March, 2026.
+
+
+
+                                         ___________________________________
+                                         JEREMY D. KERNODLE
+                                         UNITED STATES DISTRICT JUDGE
+
+
+
+
+                                         4
+

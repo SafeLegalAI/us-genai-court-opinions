@@ -1,0 +1,947 @@
+DAVENPORT v. CHURILLA et al
+
+Doc. 30
+
+IN THE UNITED STATES DISTRICT COURT
+FOR THE WESTERN DISTRICT OF PENNSYLVANIA
+DYRAN DAVENPORT,
+
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+
+Plaintiff,
+v.
+DETECTIVE
+WILLIAM
+CHURILLA,
+SCOTT SCHUBERT, Chief of Police, TOM
+STANGRECKI, Chief of Police, and CITY
+OF PITTSBURGH,
+
+No. 3:25-cv-00330-rjc
+Judge Robert J. Colville
+
+Defendants.
+MEMORANDUM OPINION
+Robert J. Colville, United States District Judge
+Before the Court are the following motions filed by Plaintiff, Dyran Davenport: a “Notice
+and Clarification Regarding Conflicts of Interest, Mandatory Ethical Disclosures, and Resulting
+Prejudice to Plaintiff” (ECF No. 14); a “Notice and Clarification Regarding Conflicts of Interest,
+Ethical Violations, and Mandatory Default as a Matter of Law” (ECF No. 16); a Motion to Strike
+Defendants’ Motion to Dismiss (ECF No. 19); a Motion to Strike Defendants’ Reply (ECF No.
+25); a “Notice of Clerk’s Mandatory Ministerial Duty Under Fed. R. Civ. P. 55(a) and Motion to
+Compel Entry of Default” (ECF No. 26); a Request for Default as to all Defendants (ECF No. 27);
+and a Praecipe for Sum Certain and Non-Rebutted Claims (ECF No. 28). Also before the Court is
+the Motion to Dismiss (ECF No. 17) filed by Defendants, the City of Pittsburgh and Detective
+William Churilla. The Court has jurisdiction in this matter pursuant to 28 U.S.C. § 1331. The
+Motions have been fully briefed and are ripe for disposition.
+
+1
+
+Dockets.Justia.com
+
+I.
+
+Procedural History and Factual Background
+Plaintiff initiated this action with the filing of a Motion for Leave to Proceed in forma
+
+pauperis on October 3, 2025. ECF No. 1. This matter was originally assigned to the Honorable
+Stephanie L. Haines.
+
+On October 10, 2025, Judge Haines entered a deficiency order and
+
+administratively closed this action. ECF No. 3. On October 14, 2025, Plaintiff filed a Motion for
+Clarification (ECF No. 4), and on October 30, 2025, Plaintiff filed a Motion to Alter Judgment
+(ECF No. 6). On November 10, 2025, Judge Haines issued an order finding that Plaintiff had
+corrected certain deficiencies and, as a result, granted Plaintiff’s Motion to Proceed in forma
+pauperis and directed the U.S. Marshals to serve the Amended Complaint on each Defendant. ECF
+No. 7.
+On January 2, 2026, this matter was reassigned to the undersigned. On January 12, 2026,
+Defendants the City of Pittsburgh and William Churilla filed their waivers of service. ECF Nos.
+12, 13. On January 13, 2026, Plaintiff filed his “Notice and Clarification Regarding Conflicts of
+Interest, Mandatory Ethical Disclosures, and Resulting Prejudice to Plaintiff.” ECF No. 14. Also,
+on January 13, 2025, Plaintiff’s Amended Complaint was docketed in light of the Court’s grant of
+his Motion to Proceed in forma pauperis. ECF No. 15. On January 28, 2026, Plaintiff filed his
+“Notice and Clarification Regarding Conflicts of Interest, Ethical Violations, and Mandatory
+Default as a Matter of Law.” ECF No. 16.
+On February 27, 2026, Defendants City of Pittsburgh and Churilla filed their Motion to
+Dismiss (ECF No. 17) along with their Brief in Support (ECF No. 18). On February 27, 2026,
+Plaintiff filed his “Omnibus Brief in Opposition to Defendants’ Motion to Dismiss and CounterMotion to Strike ECF 17 & 18 for Untimeliness, Conflict of Interest, and Bad Faith.” ECF No.
+19. On March 5, 2026, Plaintiff filed a Supplement to his Motion to Strike. ECF No. 21. On
+March 10, 2026, Plaintiff filed a request for default as to Defendants Scott Schubert and Tom
+2
+
+Stangrecki. ECF No. 22. On March 11, 2026, the relevant service documents for Schubert and
+Stangrecki were filed on the docket. ECF No. 23. On March 12, 2026, Defendants City of
+Pittsburgh and Churilla filed their Reply in support of their Motion to Dismiss, which also
+addresses some of Plaintiff’s other filings. ECF No. 24. On March 13, 2026, Plaintiff filed his
+Motion to Strike Defendants’ Reply. ECF No. 25. On March 13, 2026, Plaintiff filed his “Notice
+of Clerk’s Mandatory Ministerial Duty Under Fed. R. Civ. P. 55(a) and Motion to Compel Entry
+of Default.” ECF No. 26. On April 20, 2026, Plaintiff filed his Request for Default as to all
+Defendants (ECF No. 27), his Praecipe for Sum Certain and Non-Rebutted Claims (ECF No. 28),
+and his Supplement to his Request for Default (ECF No. 29).
+In the Amended Complaint, Plaintiff alleges that he was federally indicted on November
+17, 2021 in the matter of U.S. v. Davenport, 2:21-cr-00480 (W.D. Pa.). Am. Compl. ¶¶ 5, 10. He
+further alleges that, despite Churilla knowing his location and employment, Churilla made no
+effort to serve the warrant, knock on Plaintiff’s door, or contact Plaintiff’s employers, and that, as
+a result, the police delayed his arrest until March 16, 2023. Id. ¶¶ 5, 12, 14-15. Plaintiff then
+remained incarcerated until April 3, 2024, when his criminal case was dismissed with prejudice.
+Id. ¶ 5. Plaintiff alleges that the delay in arresting him resulted in the death of a key alibi witness,
+irreparably harmed Plaintiff’s defense, and caused Plaintiff significant emotional, reputational, and
+physical injuries. Id. ¶ 13. Plaintiff further alleges that Schubert and Stangrecki, acting as
+supervisors, failed to ensure the execution of the warrant and failed to take action to correct
+systematic delays. Id. ¶¶ 18, 19. Plaintiff alleges the City of Pittsburgh maintained customs and
+policies that allowed for the unconstitutional delay, as well as due process and Brady violations.
+Id. ¶ 21. Plaintiff brings claims for Section 1983 Due Process Violation against Churilla (Count
+I), Section 1983 Supervisory Liability against Schubert and Stangrecki (Count II), Section 1983
+
+3
+
+Municipal Liability against the City of Pittsburgh (Count III), and Malicious Prosecution and Fair
+Trial Violation against all Defendants (Count IV).
+II.
+
+Notice and Clarification Regarding Conflicts of Interest, Mandatory Ethical
+Disclosures, and Resulting Prejudice to Plaintiff (ECF No. 14) and Notice and
+Clarification Regarding Conflicts of Interest, Ethical Violations, and Mandatory
+Default as a Matter of Law (ECF No. 16)
+Plaintiff has filed two “Notices,” presented as motions on the docket, arguing that he has
+
+been prejudiced by Defendants’ choice of legal counsel. ECF Nos. 14, 16. In these Notices,
+Plaintiff seeks, in sum, to disqualify defense counsel for the City and Churilla by arguing that it is
+a conflict of interest for defense counsel to represent both Defendants. Specifically, Plaintiff asks
+the Court to determine whether a conflict exists, whether such a conflict is waivable, and whether
+such a conflict has been properly waived. ECF No. 14 at 4-5.
+
+Additionally, Plaintiff seeks
+
+clarification as to whether defense counsel has final authority as to settlement. Id. at 5. Lastly,
+Plaintiff requests that the Court order defense counsel to clarify its representation as to each
+Defendant. Id. at 6. Outside of the above, Plaintiff generally asks whether collateral estoppel
+applies to this action and, if it does, whether the application of collateral estoppel creates a conflict
+of interest between Defendants. Id. at 6. Plaintiff’s protestations are meritless. The motions at
+ECF Nos. 14 and 16 are therefore denied.
+To begin, there are questions as to whether Plaintiff has standing to raise the issue of
+disqualification for opposing counsel. The Third Circuit has not addressed the issue, but many
+courts within the Third Circuit assume, out of an abundance of caution, that a Plaintiff does have
+such standing. See Lake v. Brennan, Civil No. 3:25-cv-00548, 2026 WL 401197, at *2-3 (M.D.
+Pa. Feb. 12, 2026) (collecting cases). As such, the Court will likewise assume arguendo that
+Plaintiff has standing.
+
+4
+
+Here, despite Plaintiff’s request for further clarification, the record is clear that the City of
+Pittsburgh and Churilla are represented by the City of Pittsburgh Law Department, and that
+Schubert and Stangrecki have not appeared in this matter. As such, there is no need for the Court
+to order defense counsel to clearly identify which defendants are represented by which attorneys
+and whether joint representation is at issue. The record already speaks for itself on these issues.
+As for Plaintiff’s arguments that a potential conflict of interest exists in this matter, the
+Court disagrees that such a conflict exists. With respect to conflicts of interest involving current
+clients, the Pennsylvania Rules of Professional Conduct 1 provide:
+(a) Except as provided in paragraph (b), a lawyer shall not represent a client if the
+representation involves a concurrent conflict of interest. A concurrent conflict of
+interest exists if:
+(1) the representation of one client will be directly adverse to another client;
+or
+(2) there is a significant risk that the representation of one or more clients
+will be materially limited by the lawyer’s responsibilities to another client,
+a former client or a third person or by a personal interest of the lawyer.
+(b) Notwithstanding the existence of a concurrent conflict of interest under
+paragraph (a), a lawyer may represent a client if:
+(1) the lawyer reasonably believes that the lawyer will be able to provide
+competent and diligent representation to each affected client;
+(2) the representation is not prohibited by law;
+(3) the representation does not involve the assertion of a claim by one client
+against another client represented by the lawyer in the same litigation or
+other proceeding before a tribunal; and
+(4) each affected client gives informed consent.
+Pa. R. Prof. Conduct 1.7.
+
+1
+
+This Court has adopted the Pennsylvania Rules of Professional Conduct. LCvR 83.3(A)(2).
+
+5
+
+The Third Circuit has explained that a district court “may disqualify an attorney only when
+‘disqualification is an appropriate means of enforcing the applicable disciplinary rule[,]’ keeping
+in mind ‘any countervailing policies, such as permitting a litigant to retain the counsel of his choice
+and enabling attorneys to practice without excessive restrictions.’” Jackson v. Rohm & Haas Co.,
+366 F. App’x 342, 347 (3d Cir. 2010) (quoting United States v. Miller, 624 F.2d 1198, 1201 (3d
+Cir.1980)). “The moving party ‘bears the burden of clearly showing that continued representation
+would be impermissible. Vague and unsupported allegations are not sufficient to meet this
+standard.’” Griffin-El v. Beard, No. Civ. A. 06-2719, 2009 WL 2929802, at *4 (E.D. Pa. Sept. 8,
+2009) (quoting Reg’l Employers’ Assur. Leagues Voluntary Employees’ Beneficiary Ass’n Tr. v.
+Castellano, No. CIV A 03-6903, 2009 WL 1911671, at *2 (E.D. Pa. July 1, 2009)).
+Plaintiff has not proffered any argument or evidence that satisfies his burden of
+demonstrating that there is a significant risk that defense counsel cannot adequately represent its
+clients in this matter. Rather, he has only made the sort of “[v]ague and unsupported allegations”
+that cannot support disqualification. Plaintiff essentially seems to argue that counsel cannot
+represent two parties who may each have liability, but this is not the rule. The represented parties
+are not directly adverse, and the Court is aware of no risk that their representation will be
+“materially limited” by the joint representation. Cf. Pa. R. Prof. Conduct 1.7(a). As such, there is
+no basis for the Court to disturb the choices that Defendants the City of Pittsburgh and Churilla
+have made about their representation. See Jackson, 366 F. App’x at 347.
+Next, Plaintiff argues that there are questions as to Defendants’ counsel’s settlement
+authority in this matter. ECF No. 14 at 5. The exhibits that Plaintiff filed demonstrate that
+Defendants’ counsel has engaged in settlement discussions with Plaintiff, and that they have
+explained to Plaintiff that any settlement award would be approved by City Council via legislation.
+
+6
+
+See ECF No.14-1 at 3-4. Plaintiff may be frustrated that Defendants are unable or unwilling to
+approve a settlement according to his preferred timeline, but that does not mean that he has
+experienced prejudice. In any event, parties have no obligation to negotiate settlement, so there
+has been no prejudice to Plaintiff. See Watson v. Nationwide Mut. Ins. Co. of North America, No.
+11-1762, 2012 WL 2159297, at *10 (E.D. Pa. June 14, 2012).
+The Court will not make findings in response to Plaintiff’s question about the potential
+applicability of the collateral estoppel doctrine. See ECF No. 14 at 6. If Plaintiff wishes to argue
+that preclusion applies to certain issues, he may raise that argument as appropriate, but this Court
+will not offer a legal ruling on preclusion based on Plaintiff’s abstract request for “collateral
+estoppel clarification.” See Hackett v. Metzger, No. 16-741, 2019 WL 4751286, at *2 (D. Del.
+Sept. 30, 2019).
+For the foregoing reasons, Plaintiff’s motions at ECF Nos. 14 and 16 are hereby denied.
+III.
+
+Motions to Strike (ECF Nos. 19, 25)
+Plaintiff has moved to strike Defendants the City of Pittsburgh and Churilla (together,
+
+“Moving Defendants”)’s Motion to Dismiss, as well as their Reply in support of their Motion to
+Dismiss. 2 Plaintiff argues, in essence, that the Moving Defendants’ Motion to Dismiss should be
+dismissed because: (1) it is untimely; (2) Moving Defendants’ counsel is improperly conflicted;
+and (3) because Defendants have demonstrated bad faith.
+As discussed supra, Plaintiff has offered no support for his argument that Moving
+Defendants’ legal representation is impermissible due to a prejudicial conflict. The Court declines
+
+Plaintiff styled the filing at ECF No. 19 as both his “Omnibus Brief in Opposition to Defendants’ Motion to Dismiss”
+and as a “Counter-Motion to Strike ECF 17 & 18 for Untimeliness, Conflict of Interest, and Bad Faith.”
+
+2
+
+7
+
+to reexamine this meritless argument. Plaintiff’s remaining arguments are addressed in turn. As
+Plaintiff has failed to offer support for his arguments, his Motions to Strike are dismissed, and the
+Court will consider the arguments raised in Moving Defendants’ Motion to Dismiss.
+A. Timeliness of Motion
+Moving Defendants filed their Motion to Dismiss on February 27, 2026. ECF No. 17.
+Plaintiff argues that this Motion to Dismiss was untimely because a response to his Second
+Amended Complaint was due by January 27, 2026, or two weeks after the amended complaint was
+filed. See ECF No. 19 at 2 (citing F.R.C.P. 15(a)(3)). Moving Defendants respond that they
+waived service of summons on December 29, 2025, and that they had 60 days from that date to
+respond to Plaintiff’s complaint. ECF No. 24 at 4 (citing F.R.C.P. 12(a)(1)(A)(ii)).
+Moving Defendants are correct that their Motion to Dismiss was filed timely. A review of
+the docket makes clear that Defendants City of Pittsburgh and Churilla waived service on
+December 29, 2025, and accordingly that their response under Rule 12 was due 60 days from that
+date. See ECF Nos. 12, 13. Sixty days from December 29, 2025 is February 27, 2026, which is
+the date when Moving Defendants filed their Motion to Dismiss.
+Plaintiff reads Rule 15 to require Moving Defendants’ response within 14 days, but Rule
+15 is clear that upon amendment, Defendants may respond “within the time remaining to respond
+to the original pleading” when that time is longer than 14 days. F.R.C.P. 15(a)(3). Moving
+Defendants, when they waived service, were entitled to 60 days to respond to Plaintiff’s complaint.
+Plaintiff’s further amendments did not serve to truncate the response time for Moving Defendants.
+The Court thus finds that Moving Defendants’ Motion to Dismiss was filed timely and declines to
+strike on this basis.
+B. Bad Faith
+
+8
+
+Plaintiff appears to offer only one fact in support of his argument that Moving Defendants
+have litigated in bad faith such that their Motion to Dismiss should be struck. In the brief filed
+with Moving Defendants’ Motion to Dismiss, Moving Defendants refer to Plaintiff’s Second
+Amended Complaint as “incoherent,” which Plaintiff characterizes as “baselessly mock[ing] a pro
+se litigant.” ECF No. 19 at 3 (quoting ECF No. 18). While this is no doubt strong language,
+counsel is expected to zealously advocate for their clients. 3 See Pa. R. Prof. Conduct 1.3,
+Comment 1 (“A lawyer must [] act . . . with zeal in advocacy upon the client’s behalf.”). And
+indeed, Plaintiff has similarly advocated zealously for his own position. See, e.g., ECF No. 19 at
+2 (arguing that Moving Defendants “current dilatoriness obstructs justice and evidence
+preservation”). Moving Defendants’ counsel’s description of Plaintiff’s complaint was not in bad
+faith. Plaintiff has presented no evidence to support that Moving Defendants have litigated in bad
+faith such that their Motion to Dismiss should be struck.
+C. Conclusion
+Plaintiff’s arguments in his Motions to Strike Moving Defendants’ Motion to Dismiss and
+its related filings are meritless. The Court will deny Plaintiff’s Motions to Strike and will next
+consider the fully briefed Motion to Dismiss.
+IV.
+
+Motion to Dismiss (ECF No. 17)
+Defendants the City of Pittsburgh and Churilla moved to dismiss Plaintiff’s Second
+
+Amended Complaint, 4 arguing that Plaintiff’s claims were barred by the statute of limitations and
+
+The Court further notes that, as discussed at Section IV infra, Moving Defendants were correct that Plaintiff’s Second
+Amended Complaint did not coherently state an entitlement to legal relief.
+
+3
+
+Plaintiff now seems to object to Moving Defendants’ characterization of the operative complaint as his “Second
+Amended Complaint.” See ECF No. 21 at 2; ECF No. 25 at 2. Nonetheless, Plaintiff had previously referred to the
+complaint as such. See ECF No. 19 at 2. Moreover, the docket does reflect two amended complaints. See ECF Nos.
+2, 15. As such, the Court refers to Plaintiff’s complaint as his “Second Amended Complaint.” In any event, the Court
+
+4
+
+9
+
+further that his complaint failed to state a claim consistent with the pleading requirements of Rule
+12(b)(6). Because Plaintiff has failed to plead the facts necessary to support his claims, they are
+dismissed. For the reasons discussed infra, to the extent Plaintiff intended to assert Section 1983
+claims for violation of his speedy trial right, Plaintiff’s claims are dismissed with prejudice, as the
+remedy Plaintiff seeks is not available for such a violation. However, to the extent that Plaintiff
+instead intended to assert Section 1983 claims for violation of a different constitutional right, such
+claims are dismissed without prejudice. If warranted, Plaintiff may amend his complaint to address
+the issues identified herein. Failure to file an amended complaint within 21 days will result in
+dismissal with prejudice.
+At the outset, the Court notes that it will not construe Moving Defendants’ Motion to
+Dismiss as a Motion for Summary Judgment. Plaintiff contends that this is required because
+“Defendants’ motion relies on matters outside the pleadings—specifically their own version of the
+criminal history which contradicts Judge Hardy’s Order [in the underlying criminal proceedings].”
+Br. in Opp. at 3. On the contrary, Moving Defendants included Judge Hardy’s order and opinion
+dismissing Plaintiff’s charges as an exhibit to their Motion to Dismiss. See ECF Nos. 17-1, 17-2.
+Moving Defendants then quoted extensively from these filings in their recitation of the facts. See
+Br. in Supp. at 3. Because Moving Defendants do not go beyond the pleadings, the Rule 12
+standard will apply.
+Moreover, the Court acknowledges that Plaintiff’s briefs appear to include at least one AI
+hallucinated citation. Plaintiff has also made unsupported, and to the extent unsupportable,
+arguably outrageous allegations about Defendants and their counsel. Notably, for example,
+
+agrees with Moving Defendants that it is immaterial whether this is Plaintiff’s first or second amended complaint. See
+ECF No. 24 at 1, n.1.
+
+10
+
+Plaintiff writes that Defendants and their counsel “caused the death” of an alibi witness in
+Plaintiff’s underlying criminal case and, that they are currently engaged in efforts to create further
+delay as to “obstruct[] justice.” ECF No. 19 at 2. Plaintiff has proffered and the Court has seen
+no evidence to suggest that either of these allegations is at all true. Plaintiff is sternly warned that
+he must confirm the accuracy of both asserted facts and law cited in his filings to this Court. The
+Court will not countenance inaccurate or inflammatory allegations.
+A. Legal Standard
+A motion to dismiss filed pursuant to Federal Rule of Civil Procedure 12(b)(6) tests the
+legal sufficiency of the complaint. Kost v. Kozakiewicz, 1 F.3d 176, 183 (3d Cir. 1993). In
+deciding a motion to dismiss, the court is not opining on whether the plaintiff will likely prevail
+on the merits; rather, when considering a motion to dismiss, the court accepts as true all well-pled
+factual allegations in the complaint and views them in a light most favorable to the plaintiff. U.S.
+Express Lines Ltd. v. Higgins, 281 F.3d 383, 388 (3d Cir. 2002). While a complaint does not need
+detailed factual allegations to survive a Rule 12(b)(6) motion to dismiss, a complaint must provide
+more than labels and conclusions. Bell Atlantic Corp. v. Twombly, 550 U.S. 544, 555 (2007). A
+“formulaic recitation of the elements of a cause of action will not do.” Id. (citing Papasan v.
+Allain, 478 U.S. 265, 286 (1986)).
+“To survive a motion to dismiss, a complaint must contain sufficient factual matter,
+accepted as true, to ‘state a claim to relief that is plausible on its face.’” Ashcroft v. Iqbal, 556
+U.S. 662, 678 (2009) (quoting Bell Atl. Corp. v. Twombly, 550 U.S. 544, 554 (2007)). “A claim
+has facial plausibility when the plaintiff pleads factual content that allows the court to draw the
+reasonable inference that the defendant is liable for the misconduct alleged.” Iqbal, 556 U.S. at
+678 (citing Twombly, 550 U.S. at 556). The Supreme Court of the United States has explained:
+
+11
+
+The plausibility standard is not akin to a “probability requirement,” but it asks for
+more than a sheer possibility that a defendant has acted unlawfully. Where a
+complaint pleads facts that are “merely consistent with” a defendant’s liability, it
+“stops short of the line between possibility and plausibility of ‘entitlement to
+relief.’”
+Id. (quoting Twombly, 550 U.S. at 556) (internal citations omitted).
+The United States Court of Appeals for the Third Circuit instructs that “a court reviewing
+the sufficiency of a complaint must take three steps.” Connelly v. Lane Constr. Corp., 809 F.3d
+780, 787 (3d Cir. 2016). The Third Circuit explained:
+First, it must “tak[e] note of the elements [the] plaintiff must plead to state a claim.”
+Iqbal, 556 U.S. at 675. Second, it should identify allegations that, “because they
+are no more than conclusions, are not entitled to the assumption of truth.” Id. at
+679; see also Burtch v. Milberg Factors, Inc., 662 F.3d 212, 224 (3d Cir. 2011)
+(“Mere restatements of the elements of a claim are not entitled to the assumption of
+truth.” (citation and editorial marks omitted)). Finally, “[w]hen there are wellpleaded factual allegations, [the] court should assume their veracity and then
+determine whether they plausibly give rise to an entitlement to relief.” Iqbal, 556
+U.S. at 679.
+Connelly, 809 F.3d at 787. “Determining whether a complaint states a plausible claim for relief
+will . . . be a context-specific task that requires the reviewing court to draw on its judicial
+experience and common sense.” Iqbal, 556 U.S. at 679 (internal citations omitted).
+In addition to reviewing the facts contained in the complaint, a court may consider “matters
+of public record, orders, exhibits attached to the complaint and items appearing in the record of
+the case.” Oshiver v. Levin, Fishbein, Sedran & Berman, 38 F.3d 1380, 1384 n.2 (3d Cir. 1994).
+When a document integral to or relied upon in the complaint is included, the court may also
+consider that document. In re Burlington Coat Factory Sec. Litig., 114 F.3d 1410, 1426 (3d Cir.
+1997).
+The Court further notes that Plaintiff is proceeding pro se, and, as such, he is entitled to
+liberal construction of his submissions in federal court. This means that the Court must liberally
+
+12
+
+construe the factual allegations of the complaint because pro se pleadings, “however inartfully
+pleaded, must be held to less stringent standards than formal pleadings drafted by lawyers.”
+Erikson v. Pardus, 551 U.S. 89, 94 (2007) (internal quotation omitted); Haines v. Kerner, 404 U.S.
+519, 520 (1972). In addition, the court should “‘apply the applicable law, irrespective of whether
+a pro se litigant has mentioned it by name.’” Higgins v. Beyer, 293 F.3d 683, 688 (3d Cir. 2002)
+(quoting Holley v. Dep’t of Veterans Affairs, 165 F.3d 244, 247-48 (3d Cir. 1999)). However,
+“pro se litigants still must allege sufficient facts in their complaints to support a claim.” Mala v.
+Crown Bay Marina, Inc., 704 F.3d 239, 245 (3d Cir. 2013). Further, pro se litigants are not free
+to ignore the Federal Rules of Civil Procedure. Pruden v. Long, Civ. A. No. 3:CV-06-2007, 2006
+WL 3325439, *1 (M.D. Pa. Oct. 24, 2006).
+B. Discussion
+1. Statute of Limitations
+“[A] defendant may raise a limitations defense in a motion to dismiss,” provided that “the
+plaintiff’s tardiness in bringing the action [is] apparent from the face of the complaint.” West Penn
+Allegheny Health Sys., Inc. v. UPMC, 627 F.3d 85, 105 n.13 (3d Cir. 2010). Each of the claims
+asserted in Plaintiff’s Second Amended Complaint are brought under 42 U.S.C. § 1983. See Sec.
+Am. Compl. ¶¶ 23-27. Moving Defendants contend that these claims are barred by the applicable
+statute of limitations.
+“The length of the statute of limitations for a § 1983 claim is governed by the personal
+injury tort law of the state where the cause of action arose.” Kach v. Hose, 589 F.3d 626, 634 (3d
+Cir. 2009) (citing Wallace v. Kato, 549 U.S. 384, 387 (2007)); see also Pappert v. Borough of
+Bridgeville of Allegheny Cnty., Pa., No. 10-cv-1672, 2011 WL 197899, at *8 (W.D. Pa. Jan. 20,
+2011). For claims arising in Pennsylvania, the applicable limitations period is, therefore, two
+years. Kach, 589 F.3d at 634 (citing 42 Pa. Cons. Stat. § 5524(2)). The “cause of action accrues,
+13
+
+and the statute of limitations begins to run, ‘when the plaintiff knew or should have known of the
+injury upon which its action is based.’” Id. (quoting Sameric Corp. v. City of Philadelphia, 142
+F.3d 582, 599 (3d Cir. 1998)). The inquiry is objective, asking when a reasonable person would
+have known of the injury. Id. The cause of action will ordinarily accrue “at the time of the last
+event necessary to complete the tort,” which is “usually at the time the plaintiff suffers an injury.”
+Id.
+Here, Plaintiff asserts injuries stemming from the sixteen-month period between when he
+was indicted (November 17, 2021) and when he was arrested (March 16, 2023). See Sec. Am.
+Compl. ¶ 2 (“Plaintiff seeks compensatory and punitive damages for the unconstitutional 16month delay between indictment and arrest”); see also id. ¶¶ 10-11. Moving Defendants contend
+that the injury was suffered by Plaintiff at the time of his arrest, and that accordingly the statute of
+limitations started to run on March 16, 2023. Br. in Supp. at 5. Plaintiff responds that his claim
+did not accrue until the underlying criminal proceedings were terminated in his favor. Br. in Opp.
+at 1. Because Plaintiff’s criminal case was not dismissed until April 3, 2024, Plaintiff argues that
+the statute of limitations did not begin to run until that time. Id. at 2. Plaintiff initially filed his
+complaint on October 3, 2025. See ECF No. 1. As such, if Moving Defendants’ interpretation is
+correct, Plaintiff’s claims are time barred, but if Plaintiff is correct, his claims were timely filed.
+The Court notes that Plaintiff appears to have cited an AI-hallucinated case in support of
+his argument on this point. See Br. in Opp. at 2 (citing the nonexistent case “Loder v. City of
+Philadelphia, 838 F.3d 311 (3d Cir. 2016)”). Nonetheless, Plaintiff has also cited relevant
+caselaw, and indeed, the Court finds that Plaintiff’s interpretation is the better one.
+A determination as to when a cause of action under Section 1983 accrued requires
+identifying “‘the specific constitutional right’ alleged to have been infringed” and then “referring
+
+14
+
+to the common-law principles governing analogous torts.” McDonough v. Smith, 588 U.S. 109,
+115-16 (2019) (quoting Manuel v. Joliet, 580 U.S. 357, 370 (2017)); see also Heck v. Humphrey,
+512 U.S. 477, 483 (1994) (courts should look to the common law of torts, including the claims’
+elements and applicable prerequisites for recovery, to determine applicable rules for Section 1983
+liability). For claims seeking “damages for confinement imposed pursuant to legal process,” the
+common law malicious prosecution claim is the closest available tort analogue. Heck, 512 U.S. at
+484. A prerequisite for a malicious prosecution claim is “termination of the prior criminal
+proceeding in favor of the accused,” and therefore the claim will not accrue until such a favorable
+termination. Id.; see also McDonough, 588 U.S. at 123 (“[T]he injury caused by a classic
+malicious prosecution [] first occurs as soon as legal process is brought to bear on a defendant, yet
+favorable termination remains the accrual date.”).
+Accordingly, the Court finds that Plaintiff’s claims are most analogous to the common law
+tort of malicious prosecution, 5 and that they therefore did not accrue until he received a favorable
+termination of the underlying criminal proceedings. Plaintiff’s favorable termination came on
+April 3, 2024. Sec. Am. Compl. ¶ 12. As such, Plaintiff’s October 2025 complaint was filed
+within the applicable two-year statute of limitations.
+Moving Defendants contend that Plaintiff’s claims are in fact not brought based upon a
+malicious prosecution, but rather “based on the delay that resulted in his criminal charges being
+dismissed pursuant to speedy trial rules.” Reply Br. at 1. However, due to the remedies sought
+by Plaintiff, the Court declines to construe his claims as seeking relief from speedy trial violations.
+
+The Court further notes that Plaintiff appears to argue that these are the claims that he sought to plead, as he cites
+McDonough and Heck for the proposition that “a § 1983 claim for Due Process and Fair Trial violations does not
+accrue until the criminal proceedings terminate in the defendant’s favor.” See Br. in Opp. at 1; see also ECF No. 21
+at 2 (raising arguments about “the limitations period for malicious prosecution”).
+5
+
+15
+
+“The sole remedy for a violation of the speedy trial right [is] dismissal of the charges.” Betterman
+v. Montana, 578 U.S. 437, 445 (2016). Plaintiff alleges that the charges relevant to his claim have
+already been dismissed, Sec. Am. Compl. ¶ 12, and he now seeks damages for both the period
+before he was arrested and the period during which he was incarcerated. Id. ¶ 28. Accordingly,
+as discussed, Plaintiff’s claims are better analogized to the common-law malicious prosecution
+tort. See Heck, 512 U.S. at 484. The Court therefore concludes that Plaintiff’s claims are not
+barred by the statute of limitations.
+Moving Defendants concede that if Plaintiff’s claims are determined to be Fourth
+Amendment Malicious Prosecution claims, then they are timely. Reply Br. at 2. However, they
+contend that Plaintiff’s claims nonetheless fail and should be dismissed for failure to state a claim.
+Those arguments are assessed in turn.
+2. Monell Claims Against the City of Pittsburgh
+Moving Defendants next argue that each of Plaintiff’s numerous claims against the City of
+Pittsburgh should be dismissed because Plaintiff has failed to allege facts sufficient to support
+municipal liability under Monell. Br. in Supp. at 6. Plaintiff fails to respond to this argument in
+his opposition brief. 6 Because Plaintiff has failed to allege facts to establish that the Defendant
+
+Plaintiff makes some argument in response in a Motion to Strike Moving Defendants’ Reply brief. See ECF No. 25
+at 3-4. Because Plaintiff was not entitled to a sur-reply, arguments made in this filing that were not addressed to
+Plaintiff’s Motion to Strike were not properly before the Court. See Sarker v. Citigroup Inc., No. 24-8517, 2025 WL
+283148, at *2 n.3 (D.N.J. Jan. 7, 2025) (refusing to consider arguments raised in a sur-reply filed without leave of the
+court). Nonetheless, the Court finds Plaintiff’s uncited argument that the City of Pittsburgh’s mayor “admitted today
+(3/12/26) the City is in a ‘state of crisis’ and ‘management failure’” to be unavailing. The context around these
+purported comments is not at all clear, and it is not evident to the Court that they have any relation at all to the City’s
+policies and customs with respect to training and supervising its police officers. In any event, these facts are not
+included in Plaintiff’s complaint and therefore cannot be considered in support of his claims. See Cruz Next Friend
+of K.H. v. Loughman, No. 20-cv-1490, 2021 WL 2156502, at *3 (D. Del. May 27, 2021) (“Plaintiffs’ reliance on facts
+not alleged in the complaint is improper, and a complaint cannot be amended by a brief.”).
+6
+
+16
+
+City maintained a policy or custom that caused his injuries, his claims against the City of Pittsburgh
+are dismissed.
+Section 1983 extends liability for civil rights violations to municipalities and other units of
+local government when their actions, by policy or custom, deprive a plaintiff of his constitutional
+rights. Monell v. Dep’t of Soc. Servs., 436 U.S. 658, 690-91 (1978); Estate of Roman v. City of
+Newark, 914 F.3d 789, 798 (3d Cir. 2019) (“To plead a municipal liability claim, a plaintiff must
+allege that a local government’s policy or custom inflicted the injury in question.”) (alterations
+omitted).
+
+However, respondeat superior liability does not extend to municipalities; “a
+
+municipality cannot be held liable solely because it employs a tortfeasor.” Monell, 436 U.S. at
+691. Municipal policy can be established by demonstrating that a decision maker with final
+authority to set municipal policy implemented “an official proclamation, policy, or edict.” Estate
+of Roman, 914 F.3d at 798 (quoting Andrews v. City of Philadelphia, 895 F.2d 1469, 1480 (3d Cir.
+1990)). Custom is established when “a given course of conduct, although not specifically endorsed
+or authorized by law, is so well-settled and permanent as virtually to constitute law.” Id. (quoting
+Bielevicz v. Dubinon, 919 F.2d 845, 850 (3d Cir. 1990)); see also Davila v. Northern Regional
+Joint Police Bd., 730 F. Supp. 3d 498, 535 (W.D. Pa. 2019) (“The existence of a ‘custom’ can be
+established by showing that a final policymaker had knowledge of a widespread practice and
+acquiesced to it.”).
+To prevail on a Monell claim for failure to train police officers, a plaintiff must establish
+that the failure to train is the result of “deliberate indifference to the rights of persons with whom
+the police come into contact.” Estate of Roman, 914 F.3d at 798 (quoting City of Canton v. Harris,
+489 U.S. 378, 388 (1989)). Deliberate indifference is sufficiently pled by “showing that (1)
+municipal policymakers know that employees will confront a particular situation, (2) the situation
+
+17
+
+involves a difficult choice or a history of employees mishandling, and (3) the wrong choice by an
+employee will frequently cause deprivation of constitutional rights.” Id. (internal citations and
+alterations omitted).
+Here, Plaintiff alleges that Defendant the City of Pittsburgh is liable under Monell because
+its customs and polices allowed: (1) “[u]nconstitutional delay in post-indictment arrests;” (2)
+“[f]ailure to train officers on due process and Brady obligations;” and (3) “[s]upervisory
+indifference to rights violations.” Sec. Am. Compl. ¶ 21. Plaintiff has not pled facts sufficient to
+establish the existence of either a policy or custom supporting municipal liability.
+a. Official Policy or Custom
+A “policy” supporting municipal liability exists when a policymaker has “issue[d] an
+official proclamation, policy, or edict” that led to the plaintiff’s injury. Estate of Roman, 914 F.3d
+at 798 (complaint that “fail[ed] to refer to ‘an official proclamation, policy, or [an] edict’” did not
+satisfy standard for municipal liability). “A policy need not be passed by a legislative body, or
+even be in writing, to constitute an official policy for the purposes of § 1983. A pertinent decision
+by an official with decision-making authority on the subject constitutes official policy.” Porter v.
+City of Philadelphia, 975 F.3d 374, 383 (3d Cir. 2020). However, “[t]o satisfy the pleading
+standard, [a plaintiff] must identify a custom or policy, and specify what exactly that custom or
+policy was.” McTernan v. City of York, PA, 564 F.3d 636, 658 (3d Cir. 2009). An allegation that
+plaintiff’s “rights were violated ‘due to the City’s policy of ignoring [constitutional] right[s]’” is
+not pled with sufficient specificity. Id.
+Plaintiff makes conclusory allegations that the Defendant City has “maintained customs
+and policies” that made his injuries possible. See Sec. Am. Compl. ¶¶ 9, 21, 25. But Plaintiff
+refers to no particular policy that allegedly caused his injuries. See Estate of Roman, 914 F.3d at
+
+18
+
+798 (Plaintiff did not plead municipal policy when his “amended complaint fail[ed] to refer to ‘an
+official proclamation, policy, or [an] edict’”). Though Plaintiff refers generally to policies in his
+complaint, he fails to make any factual showing to support the existence of a particular policy that
+harmed him. Wood v. Williams, 558 F. App’x 100, 103-04 (3d Cir. 2014) (Plaintiff did not
+“identify any unlawful policy or custom” when she alleged that defendants had a “policy and/or
+custom … to inadequately screen during the hiring process and to inadequately train, retrain and/or
+supervise [] employees … thereby failing to adequately discourage Constitutional violations”).
+The Court next considers whether Plaintiff has alleged facts sufficient to establish a policy or
+custom through deliberate indifference.
+b. Deliberate Indifference
+Plaintiff further offers that Monell liability exists because the Defendant City has
+“maintained customs” allowing for unconstitutional delays, inadequate training, and inadequate
+supervision. Sec. Am. Compl. ¶ 21. According to Plaintiff, “[t]hese systemic failures constitute
+deliberate indifference.” Id. ¶ 22.
+When a Monell plaintiff seeks to establish municipal liability by demonstrating that the
+municipality had a policy or custom of violating rights through its failure to train or supervise, the
+plaintiff must establish that “this failure amounts to deliberate indifference to the rights of persons
+with whom the municipality’s employees will come into contact.” Johnson v. City of Philadelphia,
+975 F.3d 394, 403 (3d Cir. 2020) (internal quotations omitted). This showing typically requires
+plaintiff to identify a “pattern of similar constitutional violations by untrained employees that puts
+municipal decision makers on notice that a new program is necessary.” Id. (internal quotations
+omitted). Otherwise, the plaintiff can show that the need for training or supervision was “so
+obvious” that a failure to adequately train or supervise reflects defendant’s deliberate indifference.
+
+19
+
+Id. (quoting City of Canton v. Harris, 489 U.S. 378, 390 (1989)). Municipal liability in such cases
+“depends on ‘[t]he likelihood that the situation will recur and the predictability that an officer
+lacking specific tools to handle that situation will violate citizens’ rights.” Thomas v. Cumberland
+Cnty., 749 F.3d 217, 223-24 (3d Cir. 2014) (quoting Bd. Of Cnty. Cmm’rs of Bryan Cnty., Okla.
+v. Brown, 520 U.S. 397, 407 (1997)).
+Here, Plaintiff alleges deficient support for his theory that municipal liability is appropriate
+for failure to adequately train or supervise, as he has failed to establish a “pattern of similar
+constitutional violations.” In a section of his complaint titled “Supervisory Failures,” Plaintiff
+explains that the Defendant City’s police chiefs had “failed to ensure that warrant executions and
+post-indictment procedures were timely and constitutional.” Sec. Am. Compl. ¶ 18-19. However,
+though he referred to these failures as plural, his complaint only describes the alleged failure to
+follow post-indictment procedures in his own case. See Sec. Am. Compl. ¶¶ 10-17. Indeed,
+Moving Defendants rightly note that “Plaintiff fails to identify any facts, indictment[s], arrests, or
+cases outside of his own singular criminal case. . . He does not point to any other incidents at all.”
+Br. in Supp. at 9. Absent such fact assertions, Plaintiff cannot establish a pattern of violations to
+support Monell liability. See Thivener v. Nero, No. 22-238, 2023 WL 4295826, at *2 (W.D. Pa.
+June 30, 2023) (Plaintiff “rely[ing] on the ‘single incident’ theory, i.e., his own treatment” had
+“failed to claim that his alleged mistreatment ‘was caused by an existing, unconstitutional
+[government] policy, which policy can be attributed to a . . . policymaker.’”) (quoting Wood v.
+Williams, 568 F. App’x 100, 105-06 (3d Cir. 2014).
+Plaintiff fares no better when considering whether the exception for “obvious” failures to
+train applies. See Johnson, 975 F.3d at 403. Plaintiffs must provide at least a “modicum” of
+factual support for their allegations; “[m]ere conclusory allegations. . .that the defendants
+
+20
+
+deliberately elected not to train are not enough to support a constitutional claim.” Freedman v.
+City of Allentown, Pa., 853 F.2d 1111, 1116-17 (3d Cir. 1988). Plaintiff argues that police officers
+were not properly “train[ed]” or “supervise[d]. . . in accordance with Barker v. Wingo, due process
+standards, and departmental obligations.” While it is, of course, obvious that police officers will
+be faced with situations implicating due process and speedy trial obligations, Plaintiff’s broad
+allegations are not enough. Because Plaintiff has not alleged facts to support a finding that the
+Defendant City’s policymakers should have known that their course of action was “likely” to result
+in constitutional violation, he has not established a policy or custom through deliberate
+indifference. Johnson, 975 F.3d at 403.
+Plaintiff’s allegation of a single constitutional violation does not create a pattern of
+constitutional violations.
+
+Further, he has failed to allege particular facts showing that the
+
+Defendant City failed to train or supervise, and that that failure created an obvious risk of
+constitutional violations. Therefore, Plaintiff has failed to plead facts sufficient to support Monell
+liability on a failure to train or supervise theory.
+c. Causation
+In addition to establishing that the injurious conduct alleged can be properly attributed to
+a municipal policy or custom, a plaintiff asserting a Monell claim pursuant to Section 1983 must
+also “plausibly allege” that the policy or custom “was the proximate cause of [his] injuries.” G.S.
+v. Penn-Trafford Sch. Dist., No. 20-3281, 2023 WL 4486667, at *4 (3d Cir. July 12, 2023).
+Proximate causation requires the plaintiff to “demonstrate a ‘plausible nexus’ or ‘affirmative link’
+between the municipality’s policy and the specific deprivation of constitutional rights at issue.”
+Id. (quoting Bielevicz v. Dubinon, 919 F.2d at 850-51).
+
+21
+
+Because Plaintiff has failed to allege facts sufficient to support the existence of a policy or
+custom, as required by Monell, the Court declines to address whether Plaintiff has adequately pled
+causation. His claims against the City of Pittsburgh are dismissed without prejudice.
+3. Claims Against Defendant Churilla
+Moving Defendants next argue that Plaintiff’s claims against Defendant Churilla suffer
+from three primary deficiencies. First, they contend that Plaintiff’s claims are barred by the statute
+of limitations. Second, they argue that Plaintiff has “failed to state facts raising an inference of a
+constitutional injury as to a malicious prosecution claim.” Third, they contend that claims against
+Defendant Churilla are barred by qualified immunity. Br. in Supp. at 13.
+As discussed supra, with respect to the statute of limitations, the Court disagrees with
+Moving Defendants and holds that Plaintiff’s claims are not time barred. Moving Defendants’
+remaining arguments with respect to the claims stated against Defendant Churilla are discussed in
+turn. Because Plaintiff has failed to allege the facts necessary to support a Section 1983 claim
+vindicating a malicious prosecution, his claims against Defendant Churilla are dismissed without
+prejudice.
+a. Failure to Allege Necessary Facts for Malicious Prosecution Claim
+Moving Defendants argue that Plaintiff has failed to allege facts sufficient to support a
+malicious prosecution claim under Section 1983. Br. in Supp. at 12-13. Plaintiff does not respond
+in his opposition brief. 7
+“To prove malicious prosecution under section 1983, a plaintiff must show that: (1) the
+defendants initiated a criminal proceeding; (2) the criminal proceeding ended in plaintiff’s favor;
+
+As discussed supra, the Court construes Plaintiff’s claims as brought pursuant to Section 1983 for Fourth
+Amendment malicious prosecution violations, as a Section 1983 claim for speedy trial violations could not supply the
+remedies that Plaintiff seeks. See Betterman, 578 U.S. at 445.
+7
+
+22
+
+(3) the proceeding was initiated without probable cause; (4) the defendants acted maliciously or
+for a purpose other than bringing the plaintiff to justice; and (5) the plaintiff suffered deprivation
+of liberty consistent with the concept of seizure as a consequence of a legal proceeding.” Estate
+of Smith v. Marasco, 318 F.3d 497, 521 (3d Cir. 2003).
+Moving Defendants first contend that Plaintiff’s malicious prosecution claim “should be
+considered moot because Plaintiff was essentially not prosecuted beyond his indictment and arrest,
+neither of which he claims to have caused injury.” Br. in Supp. at 13. On the contrary, Plaintiff
+seeks damages not only from his indictment and his arrest, but also for his period of incarceration.
+See Sec. Am. Compl. ¶ 28. And Plaintiff alleges that his incarceration was caused by the
+indictment and arrest. Id. ¶ 2. Therefore, the Court finds that Plaintiff did allege an injury resulting
+from his indictment and arrest.
+Nonetheless, Plaintiff’s malicious prosecution claim fails because he has failed to plead the
+facts necessary to support his claim. For his claim to succeed, Plaintiff must plead that the
+proceeding against him was “initiated without probable cause.” Estate of Smith, 318 F.3d at 521.
+In his complaint, Plaintiff alleges that he was federally indicted and provides a case number (2:21cr-480) for the related criminal proceedings. Sec. Am. Compl. ¶ 5. A review of that case’s docket
+reveals that Plaintiff was indicted by grand jury. See U.S. v. Davenport, No. 2:21-cr-480, ECF
+No. 3 (W.D. Pa. Nov. 17, 2021). “[A]n indictment, ‘fair upon its face,’ and returned by a ‘properly
+constituted grand jury,’ conclusively determines the existence of probable cause.” Gerstein v.
+Pugh, 420 U.S. 103, 117 n.19 (1975).
+
+Though Plaintiff argues that Defendants were
+
+unconstitutionally delayed in acting post-indictment, his complaint alleges no facts to suggest that
+the underlying indictment itself was substantively unfair. Accordingly, based upon Plaintiff’s
+
+23
+
+version of the facts, there was conclusively probable cause to support his arrest. He therefore
+cannot satisfy the third element of his malicious prosecution claim, and the claim fails. 8
+b. Qualified Immunity
+“The doctrine of qualified immunity shields officials from civil liability so long as their
+conduct does not violate clearly established statutory or constitutional rights of which a reasonable
+person would have known.” Peroza-Benitez v. Smith, 994 F.3d 157, 165 (3d Cir. 2021) (internal
+quotation marks omitted) (quoting Mullenix v. Luna, 577 U.S. 7, 11 (2015) (per curiam)). A twopronged inquiry is used to determine whether a police officer is entitled to qualified immunity. Id.
+First, the court must determine whether, when viewed in the light most favorable to the injured
+party, the facts show that the officer violated a constitutional right. Id. (citing Davenport v.
+Borough of Homestead, 870 F.3d 273, 280 (3d Cir. 2017)). Second, the court determines whether
+the allegedly violated constitutional right was so clearly established as to be “‘clear to a reasonable
+officer that his conduct was unlawful in the situation he confronted.’” Id. (quoting Lamont v. New
+Jersey, 637 F.3d 177, 182 (3d Cir. 2011) (quoting Saucier v. Katz, 533 U.S. 194, 202 (2001))). If
+either prong is answered in the negative, qualified immunity shields the officer from liability. Id.
+Moving Defendants argue that Plaintiff cannot satisfy the first prong, and that therefore
+Defendant Churilla is shielded from liability by qualified immunity.
+
+Br. in Supp. at 14.
+
+Plaintiff also references Brady obligations, suggesting that he may instead be using Section 1983 as a vehicle to
+vindicate Brady violations. See Sec. Am. Compl. ¶¶ 21, 27. To prove a Brady violation, a plaintiff must establish a
+suppression of material evidence favorable to the defense, with materiality meaning that “had [the evidence] been
+disclosed, the result of the proceeding would have been different.” Boyle v. Evanchick, No. 19-3270, 2020 WL
+1330712, at *4 (E.D. Pa. Mar. 19, 2020) (quoting Strickler v. Greene, 527 U.S. 263, 282 (1999)). As the ordinary
+remedy for a Brady violation is retrial, it is not clear whether a plaintiff who prevailed in the underlying state criminal
+proceedings can ever successfully pursue a Section 1983 Brady claim. See id. (discussing Smith v. Holtz, 210 F.3d
+186, 196 (3d Cir. 2000)). Regardless, Plaintiff has alleged no facts regarding the suppression of evidence, and because
+the charges against him were dismissed, it is not clear to the court how he could possibly establish prejudice
+attributable to withheld evidence. See id. (Plaintiff “[n]ecessarily” could not establish that suppression of evidence
+had affected the outcome of the criminal proceedings when charges in underlying criminal proceedings had been
+dismissed).
+8
+
+24
+
+Specifically, Moving Defendants contend that Plaintiff did not plead facts to support that
+Defendant Churilla “violated [Plaintiff’s] Fourth Amendment constitutional rights because, based
+on the indictment, there was probable cause to arrest Plaintiff.” Br. in Supp. at 14. Because the
+Court has found that Plaintiff did not plead facts to support his claim, there is no need to decide
+whether Defendant Churilla would have also been protected by qualified immunity had Plaintiff
+properly stated a claim. See Stafford v. Morris, 816 F. App’x 712, 718 n.3 (3d Cir. 2020).
+4. Conclusion
+Plaintiff fails to allege facts that can support municipal liability against the City of
+Pittsburgh pursuant to Monell, or that can generally support a claim for malicious prosecution
+pursuant to Section 1983. Therefore, Plaintiff’s claims against Defendants the City of Pittsburgh
+and William Churilla are dismissed. To the extent Plaintiff intended to assert a Section 1983 claim
+for violation of his speedy trial rights, such claims are dismissed with prejudice, as the relief that
+Plaintiff seeks is unavailable for such a violation. Plaintiff’s Section 1983 malicious prosecution
+claims against the Moving Defendants are dismissed without prejudice. Plaintiff may amend his
+complaint to address the issues addressed herein within 21 days. Failure to amend within 21 days
+will result in dismissal with prejudice.
+V.
+
+Notice of Clerk’s Mandatory Ministerial Duty Under Fed. R. Civ. P. 55(a) and
+Motion to Compel Entry of Default (ECF No. 25)
+In his Notice, Plaintiff requests that the Court compel the Clerk to enter default as to
+
+Defendants Scott Schubert and Tom Stangrecki. As set forth above, on November 10, 2025, Judge
+Haines entered an Order directing the Marshals to serve the Amended Complaint once Plaintiff
+returned the remaining service document, “Notice of a Lawsuit and Request to Waive Service of
+a Summons form.” ECF No. 7. On March 11, 2026, the Marshals’ “Process Receipt and Returns”
+were filed as to each Defendant. ECF No. 23. The Court understands that on December 19, 2025,
+25
+
+the Marshals mailed to Defendants Schubert and Stangrecki a Notice of a Lawsuit and Request to
+Waive Service of a Summons, Waiver of the Service of a Summons, the Complaint, and the
+Court’s November 10, 2025 Order. ECF No. 23. On March 10, 2026, Plaintiff filed a request for
+entry of default as to Schubert and Stangrecki, arguing that they were served on February 13, 2026,
+and that they had failed to appear within the timeframe set forth in Fed. R. Civ. P. 12(a)(1)(A)(i).
+ECF No. 22. Plaintiff then filed the instant Motion to Compel Entry of Default on March 13, 2026.
+The Court declines to compel the entry of default in this matter. Rule 55(a) sets forth that
+“[w]hen a party against whom a judgment for affirmative relief is sought has failed to plea or
+otherwise defend, and that failure is shown by affidavit or otherwise, the clerk must enter the
+party’s default.” Fed. R. Civ. P. 55(a). Here, Plaintiff has set forth no authority in support of his
+request that the Court compel the Clerk’s office to enter default. Further, Plaintiff has failed to
+show that default is appropriate in this matter.
+While Plaintiff asserts that Schubert and Stangrecki were served on February 13, 2026, the
+only documentation he provides in support of this statement is a letter from the Marshals, dated
+February 13, 2026, indicating that four parties were served in this matter and setting forth the total
+amount due for service. ECF No. 22-2. This document is insufficient proof of service. As such,
+the only proof of service is the service documents filed by the Marshals and addressed by the Court
+above. See ECF No. 23. These documents clearly indicate that all Defendants in this matter,
+including Schubert and Stangrecki, were mailed waiver of service forms as allowed for in Fed. R.
+Civ. P. 4(d). 9
+
+This is further evidenced by the fact that the other Defendants in this case, the City of Pittsburgh and Detective
+William Churilla, filed waiver of service forms on January 12, 2026. ECF Nos. 12, 13.
+
+9
+
+26
+
+As waiver of service forms were sent to Defendants Schubert and Stangrecki, service could
+only be completed as to these defendants if they actually waived service. Here, there is no
+indication that Schubert or Stengrecki waived service in this matter, meaning they have not been
+properly served under Rule 4. Therefore, default is not proper, and the Court will deny Plaintiff’s
+Motion to Compel the Entry of Default. In light of this Court’s ruling, Plaintiff’s Notice for the
+Entry of Default is moot.
+VI.
+
+Request for Default as to All Defendants (ECF No. 27) and Praecipe for Sum
+Certain (ECF No. 28)
+Additionally, Plaintiff has filed a second Request for Default asking that the clerk of court
+
+enter default as to all Defendants. ECF No. 27. The Request for Default is denied as to Schubert
+and Stangrecki for the reasons discussed above. It is also denied as to the City of Pittsburgh and
+Churilla because said Defendants have appeared in this matter.
+Further, Plaintiff has filed a praecipe for sum certain requesting that the marshals collect
+certain property from Defendants to satisfy the judgment in this action. ECF No, 28. This request
+is also denied. No final judgment has been entered in this action.
+The Court also takes this opportunity to note that in his Praecipe for Sum Certain and in
+his Supplement to his Request for Default, Plaintiff refers to counsel for the City of Pittsburgh and
+Churilla as defendants to this action. Plaintiff did not name defense counsel as defendants to this
+action and, therefore, should not refer to defense counsel as defendants in future filings with the
+Court. Such behavior is not appropriate and is not an accurate representation of the facts before
+the Court.
+VII.
+
+Screening of Amended Complaint
+
+With the instant Motions resolved, the Court additionally finds that Plaintiff’s Amended
+Complaint should be dismissed as to Defendants Schubert and Stangrecki without prejudice, under
+27
+
+the Court’s screening authority. Plaintiff asserts in his Request for Default that this Court
+“previously screened the Amended Complaint (ECF No. 15) pursuant to 28 U.S.C. §
+1915(e)(2)(B)” and that “[b]y granting IFP status and directing service by the U.S. Marshals, the
+Court has already determined that the Amended Complaint states a claim upon which relief may
+be granted.” ECF No. 22-1. However, these arguments are not valid. When Judge Haines granted
+Plaintiff’s Motion to Proceed In Forma Pauperis, she simply found that he was entitled to IFP
+status, not that his Amended Complaint survived the screening allowed for under § 1915(e). See
+ECF No. 7 (finding that Plaintiff had “sufficiently carried his burden to show entitlement to IFP
+status” but also acknowledging that the Court “may dismiss a complaint under 28 U.S.C. §
+1915(e)(2)(B) if the court finds that the complaint is frivolous or malicious or fails to state a claim
+upon which relief can be granted”). As such, because the Court has not previously screened
+Plaintiff’s Amended Complaint, the Court’s obligation to screen Plaintiff’s Amended Complaint
+remains. See Pagliaroli v. New Jersey Dep’t of Corrections, Civ. No. 19-21505, 2023 WL 314352
+(D. N.J. Jan. 19, 2023) (screening complaint as to defendant who had not yet been served/appeared
+in the case despite previously ruling on motions to dismiss filed by other defendants). Separately,
+as discussed supra, the City of Pittsburgh and Detective Churilla have appeared and filed a motion
+to dismiss, and the Court has dismissed the claims asserted against them.
+The Court’s screening authority exists pursuant to the following standard: Pursuant to 28
+U.S.C. §1915(a), Plaintiff requested and has been granted leave to proceed in forma pauperis.
+Thus, his allegations must be reviewed in accordance with the directives provided in 28 U.S.C.
+§1915(e). Section 1915(e)(2), as amended, requires the federal courts to review complaints filed
+
+28
+
+by persons 10 who are proceeding in forma pauperis and to dismiss, at any time, any action that is
+frivolous or malicious, fails to state a claim on which relief may be granted, or seeks monetary
+relief against a defendant who is immune from such relief. 28 U.S.C. §1915(e)(2)(B).
+“[A] complaint . . . is frivolous where it lacks an arguable basis either in law or in fact.”
+Neitzke v. Williams, 490 U.S. 319, 325 (1989); Hawkins v. Coleman Hall, C.C.F., No. 11-3467,
+2011 WL 5970977, at *2 (3d Cir. Nov. 30, 2011). Thus, under §1915(e)(2)(B), courts are
+“authorized to dismiss a claim as frivolous where ‘it is based on an indisputable meritless legal
+theory or where the factual contentions are clearly baseless.’” O’Neal v. Remus, No. 09-14661,
+2010 WL 1463011, at *1 (E.D. Mich. Mar. 17, 2010) (quoting Price v. Heyrman, No. 06-C-632,
+2007 WL 188971, at *1 (E.D. Wis. Jan. 22, 2007) (citing Neitzke, 490 U.S. at 327)). 11
+In determining whether a complaint fails to state a claim upon which relief may be granted
+for purposes of Section 1915(e)(2)(B), courts apply the same standard applied to motions to
+dismiss under Rule 12(b)(6) of the Federal Rules of Civil Procedure. D’Agostino v. CECOM
+RDEC, 436 F. App’x 70, 72 (3d Cir. 2011) (citing Tourscher v. McCullough, 184 F.3d 236, 240
+(3d Cir. 1999)). A complaint must be dismissed pursuant to Rule 12(b)(6) if it does not allege
+“enough facts to state a claim to relief that is plausible on its face.” Bell Atlantic Corp. v. Twombly,
+
+10
+Although the Third Circuit has not ruled on the issue, several district courts in this Circuit have considered the
+question of whether this revised in forma pauperis statute applies only to people who are incarcerated and have
+concluded that it does not. Leatherman v. Obama, C.A. No. 12-1486, 2012 WL 5398912 (W.D. Pa. 2012) (Fisher,
+J.), adopting R&R 2012 WL 5398856 (W.D. Pa. October 22, 2012); Harrison v. Shapiro, No, 97–2133, 1997 WL
+197950, at * 1 (E.D. Pa. 1997); Jones v. North Atlantic Treaty Organization, No. 98–1185, 1998 WL 136511, at *1
+n. 1 (E.D. Pa.1998); McAllen v. Attic Away From Home, No. 00–941, 2000 WL 1752618, at *2 n. 7 (D. Del. 2000).
+Each of these courts has found the mention of the word “prisoner” to be a typographical error, and that the Congress
+meant the statute to read “person.” The Court finds this reasoning persuasive. See also, Anyanwutaku v. Moore, 151
+F.3d 1053 (D.C. Cir. 1998); Mitchell v. Farcass, 112 F.3d 1483, 1484 (11th Cir. 1997); Powell v. Hoover, 956 F.Supp.
+564, 568 (M.D. Pa. 1997).
+
+Dismissal under Section 1915(e)(2) is “often made sua sponte prior to the issuance of process, so as to spare
+prospective defendants the inconvenience and expense of answering [frivolous] complaints,” Neitzke, 490 U.S. at 324,
+or complaints that fail to state a claim on which relief may be granted.
+
+11
+
+29
+
+550 U.S. 554, 556 (2007) (rejecting the traditional 12(b)(6) standard set forth in Conley v. Gibson,
+355 U.S. 41, 45-46 (1957)); Ashcroft v. Iqbal, 556 U.S. 662, 678 (2009) (citing Twombly). “A
+claim has facial plausibility when the plaintiff pleads factual content that allows the court to draw
+the reasonable inference that the defendant is liable for the misconduct alleged.” Iqbal, 556 U.S.
+at 678 (citing Twombly, 550 U.S. at 556). The United States Court of Appeals for the Third Circuit
+has expounded on this standard in light of its decision in Phillips v. County of Allegheny, 515 F.3d
+224 (3d Cir. 2008) (construing Twombly in a civil rights context), and the Supreme Court’s
+decision in Iqbal:
+After Iqbal, it is clear that conclusory or “bare-bones” allegations will no longer
+survive a motion to dismiss: “threadbare recitals of the elements of a cause of action,
+supported by mere conclusory statements, do not suffice.” Iqbal, 129 S.Ct. at 1949.
+To prevent dismissal, all civil complaints must now set out “sufficient factual
+matter” to show that the claim is facially plausible. This then “allows the court to
+draw the reasonable inference that the defendant is liable for the misconduct
+alleged.” Id. at 1948. The Supreme Court’s ruling in Iqbal emphasizes that a
+plaintiff must show that the allegations of his or her complaints are plausible. See
+id. at 1949-50; see also Twombly, 505 U.S. at 555, & n. 3.
+Fowler v. UPMC Shadyside, 578 F.3d 203, 210 (3d Cir. 2009). In making this determination, the
+court must accept as true all allegations of the complaint and all reasonable factual inferences must
+be viewed in the light most favorable to the plaintiff. Angelastro v. Prudential-Bache Sec., Inc.,
+764 F.2d 939, 944 (3d Cir. 1985). “To the extent that a complaint filed in forma pauperis which
+fails to state a claim lacks even an arguable basis in law, Rule 12(b)(6) and §1915([e]) both counsel
+dismissal.” Neitzke, 490 U.S. at 328 (footnote omitted).
+Here, for the same reasons discussed in response to Moving Defendants’ Motion to Dismiss
+supra, Plaintiff’s operative complaint fails to state a claim against Defendants Schubert and
+Stangrecki. Plaintiff seeks compensatory relief from Defendants Schubert and Stangrecki pursuant
+to Section 1983. See Sec. Am. Compl. ¶¶ 24, 28. An action for damages for violation of Plaintiff’s
+speedy trial right cannot be sustained. Betterman, 578 U.S. at 445. Likewise, the facts that
+30
+
+Plaintiff has alleged cannot support a claim for malicious prosecution or a claim for a Brady
+violation. See Estate of Smith, 318 F.3d at 521 (malicious prosecution claimant must establish that
+proceeding was initiated without probable cause); Gerstein, 420 U.S. at 117 n.19 (explaining that
+a fair indictment conclusively establishes that there was probable cause to support an arrest); see
+also Boyle, 2020 WL 1330712, at *4 (Plaintiff could not establish elements of Section 1983 claim
+for Brady violation when criminal charges in underlying proceeding were dismissed). Plaintiffs’
+claims against Defendants Schubert and Stangrecki are therefore dismissed without prejudice. If
+warranted, Plaintiff may amend his complaint within 21 days to address the issues with his claims
+against Defendants Schubert and Stangrecki that are discussed herein.
+Because Defendants Schubert and Stangrecki did not waive service, service must be
+conducted in accordance with Rule 4(e). Given the Court’s November 10, 2025 Order and Fed.
+R. Civ. P. 4(c)(3), requiring service by the Marshals when plaintiff is in forma pauperis, this Court
+will order personal service by the Marshals, when appropriate. Should Plaintiff provide the Court
+with copies of the Amended Complaint, Summonses, and a USM 285 form for both Schubert and
+Stangrecki within 21 days, the Court will issue further orders. The time for service on the
+Defendants is hereby extended to allow for Plaintiff to provide the necessary service documents
+and, after the same, service by the Marshals.
+VIII. Conclusion
+For the reasons discussed above, the Court will deny Plaintiff’s: Notice and Clarification
+Regarding Conflicts of Interest, Mandatory Ethical Disclosures, and Resulting Prejudice to
+Plaintiff (ECF No. 14); Notice and Clarification Regarding Conflicts of Interest, Ethical
+Violations, and Mandatory Default as a Matter of Law (ECF No. 16); Motion to Strike Defendants’
+Motion to Dismiss (ECF No. 19); Motion to Strike Defendants’ Reply (ECF No. 25); Notice of
+Clerk’s Mandatory Ministerial Duty Under Fed. R. Civ. P. 55(a) and Motion to Compel Entry of
+31
+
+Default (ECF No. 26); Request for Default as to all Defendants (ECF No. 27); and Praecipe for
+Sum Certain and Non-Rebutted Claims (ECF No. 28). The Court will grant the Motion to Dismiss
+(ECF No. 17) filed by Defendants the City of Pittsburgh and Detective William Churilla and will
+dismiss the claims asserted against these defendants without prejudice. Further, pursuant to the
+Court’s screening authority, the Court will dismiss without prejudice the claims asserted in
+Plaintiff’s Second Amended Complaint against Defendants Schubert and Stangrecki.
+
+An
+
+appropriate Order of Court follows.
+
+BY THE COURT:
+/s/ Robert J. Colville
+Robert J. Colville
+United States District Judge
+
+DATED: August 12, 2026
+
+cc: All counsel of record
+Dyran Davenport
+704 Clark St.
+Johnstown, PA 15902
+
+32
+
+

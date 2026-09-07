@@ -1,0 +1,4043 @@
+                           UNITED STATES DISTRICT COURT
+                           FOR THE DISTRICT OF COLUMBIA
+
+UNITED STATES OF AMERICA                        :
+                                                :
+       v.                                       :       Criminal Action No.: 23-309 (RC)
+                                                :
+SHAMELL NAQUAN JOYNER,                          :       Re Document Nos.:     49, 52, 53, 54, 98,
+                                                                              99, 100, 101, 102,
+       Defendant.                                                             103, 104, 105, 106
+                                                                              107, 108, 125
+                                                                              128, 143
+
+                                 MEMORANDUM OPINION
+
+     DENYING DEFENDANT’S MOTION TO SUPPRESS TANGIBLE EVIDENCE (ECF NO. 52);
+    GRANTING IN PART AND DENYING IN PART THE GOVERNMENT’S MOTION TO ADMIT
+   EVIDENCE OF OTHER CRIMES (ECF NOS. 53, 98); DENYING DEFENDANT’S MOTION FOR
+ NOTICE OF INTENT TO USE RULE 404(B) EVIDENCE (ECF NO. 49); DENYING DEFENDANT’S
+ MOTION IN LIMINE REGARDING HIS CRIMINAL HISTORY (ECF NO. 99); GRANTING IN PART
+  AND DENYING IN PART DEFENDANT’S MOTION IN LIMINE REGARDING PROPENSITY-BASED
+  ARGUMENTS (ECF NO. 100); DENYING DEFENDANT’S MOTION IN LIMINE REGARDING IN-
+   COURT IDENTIFICATION (ECF NOS. 54, 101); GRANTING IN PART AND DENYING IN PART
+ DEFENDANT’S MOTION IN LIMINE REGARDING TOOLMARK IDENTIFICATION (ECF NO. 102);
+ DENYING DEFENDANT’S MOTION TO STRIKE THE GOVERNMENT’S OPPOSITION BRIEF (ECF
+   NO. 128); GRANTING IN PART AND DENYING IN PART DEFENDANT’S MOTION IN LIMINE
+REGARDING LAW ENFORCEMENT IDENTIFICATION (ECF NO. 103); GRANTING DEFENDANT’S
+    MOTION IN LIMINE REGARDING JAIL CALLS (ECF NO. 104); GRANTING IN PART AND
+  DENYING IN PART DEFENDANT’S MOTION IN LIMINE REGARDING CERTAIN PHOTOGRAPHS
+(ECF NO. 105); GRANTING IN PART AND DENYING IN PART DEFENDANT’S MOTION IN LIMINE
+ REGARDING THE TESTIMONY OF OFFICER JERMONE MCCLINTON (ECF NO. 106); DENYING
+ DEFENDANT’S MOTION FOR AN EVIDENTIARY HEARING (ECF NO. 143); GRANTING IN PART
+   AND DENYING IN PART DEFENDANT’S MOTION IN LIMINE REGARDING CERTAIN EXPERT
+ TESTIMONY (ECF NO. 107); DENYING DEFENDANT’S MOTION IN LIMINE REGARDING LATE-
+  NOTICED EXPERT TESTIMONY (ECF NO. 125); GRANTING IN PART AND DENYING IN PART
+       DEFENDANT’S MOTION IN LIMINE REGARDING DNA EVIDENCE (ECF NO. 108).
+
+                                     I. INTRODUCTION
+
+       Shamell Naquan Joyner is charged in twenty-eight counts of a Superseding Indictment
+
+with Hobbs Act robbery, carjacking, transportation of a stolen vehicle, brandishing or discharge
+
+of a firearm during a crime of violence, and unlawful possession of a firearm and ammunition by
+
+a convicted felon. See Superseding Indictment, ECF No. 27. A jury trial will begin in this case
+on June 29, 2026. In this opinion, the Court addresses over a dozen pretrial motions pending
+
+from the parties, including Mr. Joyner’s motion to suppress tangible evidence, the Government’s
+
+motion to introduce evidence of other crimes under Federal Rules of Evidence 404(b) and 609,
+
+and various motions in limine filed by Mr. Joyner. The Court heard oral arguments on the
+
+motions on June 15, 2026. For the reasons below, the Court denies Mr. Joyner’s motion to
+
+suppress, grants in part and denies in part the Government’s motion to admit evidence of other
+
+crimes, and grants in part and denies in part Mr. Joyner’s motions in limine.
+
+                                II. FACTUAL BACKGROUND
+
+       In a prior opinion, the Court recently denied Mr. Joyner’s motions to dismiss or sever
+
+certain counts of the Superseding Indictment. See United States v. Joyner, No. 23-cr-309, 2026
+
+WL 1622706, at *1 (D.D.C. June 5, 2026). The facts and procedural history of this case are set
+
+forth in detail in that ruling. In brief, Mr. Joyner is accused of committing ten armed robberies
+
+(“Armed Robberies 1–10”) and two armed carjackings (“Armed Carjackings 1–2) in a three-
+
+week period between April and May of 2023. See generally Superseding Indictment. As
+
+relevant to the present motions, some of the Government’s key evidence with respect to several
+
+of the offenses appears to be CCTV footage from targeted convenience stores depicting a
+
+masked robber. See Gov’t’s Mot. Admit Other Crimes Evid. Pursuant to Fed. R. Evid. 404(b)
+
+and to Impeach Def. with Prior Convictions Pursuant to Fed. R. Evid. 609 (“Gov’t’s Mot.”) at 2–
+
+18, ECF No. 53. The parties agree that the identity of the masked perpetrator is a central issue
+
+for trial. Thus, the Government proposes to offer a variety of evidence linking Mr. Joyner to the
+
+charged offenses, including photographs of Mr. Joyner’s prior possession of firearms, evidence
+
+of Mr. Joyner wearing the same clothing as the perpetrator on other occasions, and testimony
+
+from a firearm and toolmark expert opining that cartridge casings recovered from the scenes of
+
+
+
+
+                                                 2
+two of the robberies were fired from the same gun. Mr. Joyner’s present motions seek to exclude
+
+or limit much of this evidence.
+
+                                         III. ANALYSIS
+
+       The Court first addresses Mr. Joyner’s motion to suppress tangible evidence, which it
+
+denies. Next, the Court considers the Government’s motion to introduce evidence under Federal
+
+Rules of Evidence 404(b) and 609, which the Court grants in part and denies in part. Finally, the
+
+Court turns to Mr. Joyner’s motions in limine, which it grants in part and denies in part.
+
+            A. Defendant’s Motion to Suppress Tangible Evidence (ECF No. 52)
+
+       Mr. Joyner moves to suppress tangible evidence seized by law enforcement agents from
+
+inside his home, located at 413 Valley Avenue, SE, in Washington, D.C. See Def.’s Mot.
+
+Suppress Tangible Evid. (“Def.’s Mot. Suppress”), ECF No. 52. Metropolitan Police
+
+Department Detective Thomas O’Donnell applied for a warrant to search the Valley Avenue
+
+address on May 2, 2023. See id. at Ex. 1 (“Search Warrant”). As the affiant in the application,
+
+Detective O’Donnell summarized the facts of Armed Carjacking 1, Armed Robbery 2, and other
+
+crimes attributed to Mr. Joyner, including eyewitness accounts, surveillance footage, and a
+
+description of the specific articles of clothing worn by Mr. Joyner during the crimes and the
+
+items he is alleged to have stolen. Id. at 4–7. Detective O’Donnell affirmed that he had probable
+
+cause to believe that evidence related to these crimes was present inside the Valley Avenue
+
+address. Id. at 9. After reviewing the application, D.C. Superior Court Judge Zoe Bush issued a
+
+search warrant on May 2, 2023. Id. at 10. Later that day, the warrant was executed. According
+
+to the Government, “law enforcement agents seized clothing and shoes that were consistent with
+
+those worn by [Mr. Joyner] during several of the robberies as well as numerous identity and
+
+payment cards taken from employees during the course of the defendant’s armed carjacking and
+
+
+
+
+                                                 3
+robbery spree.” Gov’t’s Opp’n to Def.’s Mot. Suppress at 9–10, ECF No. 60. As set forth
+
+below, the Court finds that the search warrant at issue supports a finding of probable cause and
+
+therefore denies Mr. Joyner’s motion to suppress.
+
+       The Fourth Amendment to the U.S. Constitution protects “[t]he right of the people to be
+
+secure in their persons, houses, papers, and effects, against unreasonable searches and seizures,”
+
+and provides that “no Warrants shall issue, but upon probable cause, supported by Oath or
+
+affirmation, and particularly describing the places to be searched, and the persons or things to be
+
+seized.” U.S. Const. amend. IV. In seeking the issuance of a warrant, the government must
+
+submit “[a]n affidavit . . . provid[ing] the magistrate with a substantial basis for determining the
+
+existence of probable cause.” Illinois v. Gates, 462 U.S. 213, 239 (1983). The task of the
+
+issuing magistrate is then “simply to make a practical, common-sense decision whether, given all
+
+the circumstances set forth in the affidavit before him, including the ‘veracity’ and ‘basis of
+
+knowledge’ of persons supplying hearsay information, there is a fair probability that contraband
+
+or evidence of a crime will be found in a particular place.” Id. at 238. The duty of the reviewing
+
+court, meanwhile, “is simply to ensure that the magistrate had a substantial basis for concluding
+
+that probable cause existed.” Id. at 238–39 (citation modified).
+
+       Although the Fourth Amendment “contains no provision expressly precluding the use of
+
+evidence obtained in violation of its commands,” Supreme Court decisions “establish an
+
+exclusionary rule that, when applicable, forbids the use of improperly obtained evidence at trial.”
+
+United States v. Ali, 870 F. Supp. 2d 10, 24 (D.D.C. 2012) (quoting Herring v. United States,
+
+555 U.S. 135, 139 (2009)). This rule “is designed to safeguard Fourth Amendment rights
+
+generally through its deterrent effect, and therefore applies only where it results in appreciable
+
+deterrence.” Id. Nevertheless, under the “good faith exception” set forth in United States v.
+
+
+
+
+                                                  4
+Leon, if “an officer acting with objective good faith has obtained a search warrant from a judge
+
+or magistrate and acted within its scope,” evidence seized pursuant to such warrant is admissible
+
+even if the warrant is subsequently invalidated. 468 U.S. 897, 920–22 (1984). “[C]ourts
+
+determine the objective reasonableness of the police’s reliance on a warrant by considering
+
+‘whether a reasonably well trained officer would have known that the search was illegal’ in light
+
+of ‘all of the circumstances.’” Ali, 870 F. Supp. 2d at 25 (quoting Herring, 555 U.S. at 145).
+
+Suppression is not appropriate unless “the affidavit supporting the warrant was so lacking in
+
+indicia of probable cause as to render official belief in its existence entirely unreasonable.” Id.
+
+(citation modified).
+
+       Mr. Joyner argues that the search warrant for the Valley Avenue address lacked probable
+
+cause because Detective O’Donnell’s affidavit failed to establish a nexus between that address
+
+and Mr. Joyner’s alleged criminal activity. See Def.’s Mot. Suppress at 5. The Court disagrees.
+
+Detective O’Donnell connected Mr. Joyner to the Valley Avenue address in two ways. First,
+
+according to Detective O’Donnell, on April 26, 2023, he and other detectives executed a search
+
+warrant on the Honda HR-V that Mr. Joyner allegedly stole during Armed Carjacking 1. Search
+
+Warrant at 8. Among other items, the detectives located a bank card in the name of Zaniyah
+
+Johnson. Id. A detective conducted a database query and found that Ms. Johnson had reported a
+
+domestic assault by Mr. Joyner inside the Valley Avenue address on April 7, 2023. Id. Second,
+
+also on April 26, 2023, Prince George’s County police officers responded to a report of a stolen
+
+vehicle in the area. Id. As a result of this call for service, Mr. Joyner was arrested and charged
+
+with unauthorized removal of a motor vehicle and related theft. 1 Id. As part of being released
+
+
+
+       1
+        The conduct for which Mr. Joyner was arrested on April 26, 2023, is not part of the
+Superseding Indictment.
+
+
+                                                  5
+from police custody for this arrest, Mr. Joyner provided a Prince George’s County Commissioner
+
+with a home address of 413 Valley Avenue, SE. 2 Id. at 9.
+
+       Detective O’Donnell also sufficiently connected Mr. Joyner’s residence to his alleged
+
+criminal activity. “[P]robable cause requires not only a fair probability of criminal activity but
+
+also a nexus between that activity and the place to be searched.” United States v. Savoy, 889 F.
+
+Supp. 2d 78, 88 (D.D.C. 2012). In this case, no criminal activity was directly observed in the
+
+vicinity of the Valley Avenue address. Nevertheless, as the D.C. Circuit explained in United
+
+States v. Thomas, “observations of illegal activity outside of the home can provide probable
+
+cause for the issuance of a search warrant for a suspect’s house . . . if there is a reasonable basis
+
+to infer from the nature of the illegal activity observed, that relevant evidence will be found in
+
+the residence.” 989 F.2d 1252, 1254–55 (D.C. Cir. 1993). The Court agrees with the
+
+Government here that the facts presented in Detective O’Donnell’s affidavit would “warrant a
+
+man of reasonable caution” to believe that evidence of the crimes described therein would be
+
+found at the Valley Avenue address. Texas v. Brown, 460 U.S. 730, 742 (1983); Gov’t’s Opp’n
+
+to Def.’s Mot. Suppress at 17–18.
+
+       First, Detective O’Donnell described the clothing worn by Mr. Joyner during the alleged
+
+offenses. Search Warrant at 2–9. In Thomas, the D.C. Circuit found that there was probable
+
+cause to search a defendant’s residence for business records and the clothing that the defendant
+
+wore when he sold cocaine to an undercover officer, even though the affiant officer’s affidavit in
+
+support of the search warrant for the defendant’s house “offered no facts indicating that criminal
+
+
+       2
+         Mr. Joyner faults Detective O’Donnell for not performing an investigation to confirm
+that Mr. Joyner in fact lived at the Valley Avenue address. Def.’s Mot. Suppress at 6. However,
+the Court agrees with the Government that an independent investigation was not necessary given
+that Mr. Joyner himself provided that address as his residence to a Prince George’s County
+Commissioner mere days before the search warrant at issue was executed.
+
+
+                                                  6
+activity occurred at the house.” 989 F.2d at 1253–54. Like in Thomas, it was reasonable here
+
+for Judge Bush to conclude, based on Detective O’Donnell’s description of the specific articles
+
+of clothing worn by Mr. Joyner during the alleged offenses, that some of these articles would be
+
+found in Mr. Joyner’s residence.
+
+       Second, Detective O’Donnell described the items allegedly stolen by Mr. Joyner,
+
+including specific quantities of cash, cigarettes, a cell phone, a wallet, and a credit card
+
+belonging to one of the victims. Search Warrant at 2–9. In United States v. Feliz, the First
+
+Circuit found that the facts presented in the affiant officer’s affidavit allowed a reasonable
+
+inference to be drawn as to the probable presence of incriminating evidence in the defendant’s
+
+apartment—including money he collected from illicit drug sales and records describing such
+
+transactions—even though no drug sales were described to have occurred at the apartment. 182
+
+F.3d 82, 87 (1st Cir. 1999). The First Circuit explained that it was reasonable to infer that the
+
+defendant had stashed drug paraphernalia in a safe and accessible place, and because no other
+
+drug-dealing headquarters of his was identified, “[i]t followed that a likely place to seek to find
+
+incriminating items would be [his] residence.” Id. at 87–88. Here, too, it was reasonable for
+
+Judge Bush to suppose that Mr. Joyner kept the stolen items in his home.
+
+       Because the Court has found that Detective O’Donnell’s affidavit amply supports a
+
+finding of probable cause, it could deny Mr. Joyner’s motion to suppress on that basis alone. But
+
+even if Judge Bush had erred in finding probable cause, Leon’s good faith exception would also
+
+require the Court to deny Mr. Joyner’s motion. In view of Detective O’Donnell’s extensive and
+
+detailed summary of Mr. Joyner’s alleged criminal activity in the affidavit, including the specific
+
+items Mr. Joyner is alleged to have stolen, no “reasonably well trained officer would have known
+
+that the search was illegal” based on the affidavit alone. Ali, 870 F. Supp. 2d at 25 (quoting
+
+
+
+
+                                                  7
+Herring, 555 U.S. at 145). The evidence recovered during the search of Mr. Joyner’s Valley
+
+Avenue residence can therefore be introduced at trial.
+
+      B. Government’s Motion to Admit Evidence of Other Crimes (ECF Nos. 53, 98)
+
+       In May of 2025, the Government provided Mr. Joyner notice (1) that it will seek to
+
+introduce evidence at trial of other crimes he has committed pursuant to Federal Rule of
+
+Evidence 404(b), and (2) that if he testifies at trial, it will seek to impeach him with evidence of
+
+his prior convictions pursuant to Federal Rule of Evidence 609. See Gov’t’s Mot. Then, a few
+
+weeks ago, the Government filed a supplement informing Mr. Joyner of its intent to admit
+
+several other categories of evidence falling under Rule 404(b). See Gov’t’s Suppl. Mot. Admit
+
+Other Crimes Evid. Pursuant to Fed. R. Evid. 404(b) (“Gov’t’s Suppl. Mot.”), ECF No. 98. The
+
+Court addresses the Rule 404(b) and Rule 609 motions in turn. 3
+
+                                      1. Rule 404(b) Motion
+
+       Pursuant to Rule 404(b), the Government asks the Court to admit (1) five photographs
+
+depicting firearms or Mr. Joyner holding firearms on occasions other than the charged offenses;
+
+(2) evidence of the clothing that Mr. Joyner was wearing when he was arrested on April 26,
+
+2023, for another offense not charged in the instant case; and (3) evidence of a contemporaneous
+
+robbery of a 7-Eleven employee and a fraudulent transaction that occurred on the employee’s
+
+credit card. 4 Gov’t’s Suppl. Mot. at 1. For the reasons below, the Court denies the
+
+
+
+       3
+           Because the Government has provided notice of its intent to use Rule 404(b) evidence at
+trial, the Court denies Mr. Joyner’s motion for an order requiring the Government to do so. See
+Def.’s Mot. for Notice of Gov’t’s Intention to Use Rule 404(b) Evid. at Trial, ECF No. 49.
+       4
+         In its supplemental motion, the Government also provided notice of its intent to
+introduce evidence of all offenses currently charged in the Superseding Indictment if the Court
+granted Mr. Joyner’s previously pending motions to dismiss or sever various offenses. See
+Gov’t’s Suppl. Mot. at 18. Because the Government has now denied Mr. Joyner’s motion to
+dismiss and motion for severance, this issue is moot.
+
+
+                                                  8
+Government’s Rule 404(b) motion with respect to the five photographs depicting Mr. Joyner’s
+
+prior firearm use but grants the motion otherwise.
+
+       Under Federal Rule of Evidence 404(b), “[e]vidence of any other crime, wrong, or act is
+
+not admissible to prove a person’s character in order to show that on a particular occasion the
+
+person acted in accordance with the character.” Fed. R. Evid. 404(b)(1). However, “[t]his
+
+evidence may be admissible for another purpose, such as proving motive, opportunity, intent,
+
+preparation, plan, knowledge, identity, absence of mistake, or lack of accident.” Fed. R. Evid.
+
+404(b)(2). Despite being phrased in restrictive terms, Rule 404(b) “is actually one of ‘inclusion
+
+rather than exclusion.’” United States v. Cassell, 292 F.3d 788, 792 (D.C. Cir. 2002) (quoting
+
+United States v. Bowie, 232 F.3d 923, 929 (D.C. Cir. 2000)). Evidence of a defendant’s other
+
+crimes is prohibited under the Rule only “if it is offered for the impermissible inference that a
+
+defendant is of bad character” and therefore prone to criminality. Id. But this evidence is
+
+admissible for any other purpose “so long as the evidence is not offered solely to prove
+
+character.” United States v. Miller, 895 F.2d 1431, 1436 (D.C. Cir. 1990).
+
+       Courts undertake a two-step analysis to determine whether evidence of other crimes is
+
+admissible under Rule 404(b). The “threshold inquiry” is “whether the evidence is probative of a
+
+material issue other than character,” including any of the permissible purposes listed in Rule
+
+404(b)(2). Id. at 1435 (citation modified). “If offered for such a proper purpose, the evidence is
+
+then subject only to general strictures limiting admissibility, the most important of which being
+
+the requirement of Rule 403 that the probative value of the evidence not be ‘substantially
+
+outweighed’ by its potential prejudice.” Id. (citation modified); see also Fed. R. Evid. 403 (“The
+
+court may exclude relevant evidence if its probative value is substantially outweighed by a
+
+
+
+
+                                                 9
+danger of one or more of the following: unfair prejudice, confusing the issues, misleading the
+
+jury, undue delay, wasting time, or needlessly presenting cumulative evidence.”).
+
+                            a. Evidence of Prior Firearm Possession
+
+       First, the Government seeks to introduce five photographs demonstrating that Mr. Joyner
+
+possessed firearms on occasions other than the charged offenses as “evidence that he knowingly
+
+and intentionally possessed a firearm during the incidents that form the basis of the charged
+
+conduct.” Gov’t’s Suppl. Mot. at 3. These photos were recovered from the phone of Mr.
+
+Joyner’s relative, N.L., after the two individuals were arrested for conduct charged in the instant
+
+case on May 2, 2023. See Gov’t’s Mot. at 6, 27; Hr’g Tr. at 9:11–10:7. One of the photos, dated
+
+around April 20, 2023 (“April 20 Photo”), 5 shows Mr. Joyner inside of the Honda HR-V
+
+allegedly stolen in Armed Carjacking 1, holding a firearm in his left hand and a wad of cash in
+
+his right hand. Id. at 6 fig. 5. See Gov’t Ex. (“GX”) 1601A. The other four photos (“Two-Tone
+
+Gun Photos”) either depict Mr. Joyner holding a two-tone gun or, in one of the photos, simply a
+
+two-tone gun lying on the floor. Gov’t’s Suppl. Mot. at Exs. 1–4. Metadata for the Two-Tone
+
+Gun Photos suggests that these were taken in January of 2023. See GX-1601B–E.
+
+       The Government contends that it wishes to offer the April 20 Photo and the Two-Tone
+
+Gun Photos for two alleged non-propensity purposes: (1) as evidence that Mr. Joyner’s
+
+possession of a firearm during the indicted robberies and carjackings was knowing; and (2) as
+
+evidence that he had ready access to firearms, and thus could commit these crimes. Gov’t’s
+
+Reply in Supp. Mot. at 1, ECF No. 63. For example, the Government explains that because “no
+
+witness will be able to testify that they saw [Mr. Joyner] in actual possession of [a] firearm”
+
+
+
+       5
+         Although the Government represents that the photograph was taken on April 20, its
+associated metadata suggests that it was captured on April 19, 2023.
+
+
+                                                 10
+during Armed Robberies 1 and 3, photos of Mr. Joyner holding a firearm at other times will
+
+make this fact more likely. Gov’t’s Mot. at 39. The Government also explains that to prove that
+
+Mr. Joyner brandished or discharged a firearm during the commission of Armed Robberies 1–10
+
+and Armed Carjackings 1–2, in violation of 18 U.S.C. § 924(c)(1)(A)(ii) or (iii), it needs to
+
+establish that he knowingly possessed a firearm. See Gov’t’s Reply in Supp. Mot. at 2–3; see
+
+also United States v. Coleman, 78 F.3d 154, 156 n.1 (5th Cir. 1996) (“In order to convict
+
+defendants of using a firearm in the commission of a crime of violence in violation of 18 U.S.C.
+
+§ 924(c)(1), the government must prove: (1) that defendant knowingly used or carried a firearm,
+
+and (2) the use or carrying of the firearm occurred during and in relation to a crime of violence.”
+
+(emphasis added)). Accordingly, the Government contends, evidence that Mr. Joyner possessed
+
+a gun on occasions other than the indicted robberies and carjackings can help it establish the
+
+required mens rea element of the charged § 924(c) offenses. 6
+
+       The Court finds, however, that photographs of Mr. Joyner’s firearm possession on such
+
+other occasions are not particularly probative of his knowledge regarding his alleged firearm use
+
+during the charged offenses. It is true, as the Government observes, that “in cases where a
+
+defendant is charged with unlawful possession of something, evidence that he possessed the
+
+same or similar things at other times is often quite relevant to his knowledge and intent with
+
+regard to the crime charged.” Cassell, 292 F.3d at 793 (quoting United States v. King, 254 F.3d
+
+1098, 1100 (D.C. Cir. 2001)). However, the Government overlooks that this principle is
+
+
+
+
+       6
+          Mr. Joyner is also charged in two counts with being a felon in possession of a firearm
+and ammunition, in violation of 18 U.S.C. § 922(g)(1). See Superseding Indictment at 2–3, 14.
+However, the Government has not indicated that it seeks to introduce evidence of Mr. Joyner’s
+prior firearm possession to establish the mens rea element of the § 922(g)(1) charges.
+
+
+                                                11
+generally confined to cases in which the defendant is charged with constructive possession. 7 See
+
+United States v. Williams, 620 F.3d 483, 489 (5th Cir. 2010) (“In the context of a weapon-
+
+possession case, Rule 404(b) evidence of intent is relevant to a theory of constructive possession,
+
+but not to a theory of actual possession.”). “The government can prove possession by showing
+
+that a defendant exercised either direct physical control over a thing (actual possession) or
+
+‘dominion or control’ over the thing itself or the area in which it was found (constructive
+
+possession).” United States v. Jones, 484 F.3d 783, 787 (5th Cir. 2007). Here, the
+
+Government’s theory appears to be that Mr. Joyner exercised actual control over a firearm when
+
+he brandished or discharged it while committing Armed Robberies 1–10 and Armed Carjackings
+
+1–2. See generally Superseding Indictment. But “[t]he D.C. Circuit has never held, as far as the
+
+Government notes or this Court is aware, that evidence of prior possession of a gun is probative
+
+of knowledge, absence of mistake, or any other non-propensity purpose to support an actual-
+
+possession theory in a gun case.” United States v. Burns, No. 24-cr-151, 2025 WL 1078781, at
+
+*4 (D.D.C. Apr. 10, 2025).
+
+
+       7
+          Indeed, although the Government is correct that courts routinely admit evidence of prior
+firearm possession to establish a defendant’s knowing possession of a firearm, the cases it cites
+in support of this proposition all involved constructive possession charges. See Hr’g Tr. at
+12:14–16 (The Court: “Okay. And do you have an actual possession case that you think applies
+here?” The Government: “No, Your Honor, not off the bat, not with regards to actual
+possession.”). In Cassel, for example, the defendant was charged with constructive possession
+of firearms and ammunition found in his bedroom in his uncle’s house, which the defendant
+claimed belonged to his uncle. 292 F.3d at 793. The D.C. Circuit affirmed the district court’s
+decision to admit evidence of the defendant’s prior gun possession to rebut this claim, finding
+that this evidence “was relevant to show [the defendant’s] knowledge of, and intent to possess,
+the firearms recovered from his room.” Id. at 792. Similarly, in United States v. Williams, also
+cited by the Government, the district court admitted images of the defendant previously holding
+a gun to prove knowledge and absence of mistake with respect to a firearm found inside the
+defendant’s backpack. 507 F. Supp. 3d 181, 191 (D.D.C. 2020). The district court agreed with
+the prosecution that these images “ma[d]e it more likely that [the defendant] knew of the firearm
+in his backpack.” Id.
+
+
+
+
+                                                12
+       Unlike for actual possession, “[i]t is settled law” in this Circuit and others that “prior
+
+firearm possession by a defendant is probative of his knowledge and intent to possess a weapon
+
+when the theory of prosecution is one of constructive possession.” United States v. Fields,
+
+No. 18-cr-267, 2019 WL 690347, at *1 (D.D.C. Feb. 19, 2019). This is intuitive. As the Fifth
+
+Circuit has explained, “knowledge and intent are frequently at issue” in such cases, given that
+
+“[a] defendant will often deny any knowledge of a thing found in an area that is under his control
+
+(e.g., a residence, an automobile) or claim that it was placed there by accident or mistake.”
+
+Jones, 484 F.3d at 788. This scenario offers “a classic case for introducing prior instances of gun
+
+possession, since the government would otherwise find it extremely difficult to prove that the
+
+charged possession was knowing.” United States v. Garner, 396 F.3d 438, 443–44 (D.C. Cir.
+
+2005) (quoting United States v. Linares, 367 F.3d 941, 949 (D.C. Cir. 2004)). That is, evidence
+
+of prior firearm possession can help the prosecution show that the defendant “knew of, and was
+
+in a position to exercise dominion and control over,” a firearm recovered from an area under his
+
+control. Cassell, 292 F.3d at 792 (citation modified).
+
+       In contrast, once the prosecution establishes actual possession by showing that a
+
+“defendant had a firearm under his immediate physical control, any contention that he did not
+
+know the nature of what he possessed is effectively precluded.” Jones, 484 F.3d at 788. And
+
+when the prosecution can make this showing, the value of Rule 404(b) evidence in proving
+
+knowledge or intent lessens significantly. The D.C. Circuit underscored this point in United
+
+States v. Linares. See 367 F.3d at 946–47. There, the evidence at trial established that Linares,
+
+while inside a car with two friends, got into an argument with a group of people standing outside
+
+of a nightclub that ended in “the firing of six shots from Linares’s car, and with Linares speeding
+
+away.” Id. at 943–44. One of the passengers in the car testified that she saw Linares shoot the
+
+
+
+
+                                                 13
+gun. Id. at 944. Furthermore, police officers pursued Linares and saw him holding the gun out
+
+of the car window before throwing it over a nearby fence. Id. Linares was charged with being a
+
+felon in possession of a handgun, and at trial, the district court admitted evidence of Linares’s
+
+prior firearm possession to prove intent, knowledge, and absence of mistake with respect to the
+
+discarded handgun. Id. at 945. The D.C. Circuit concluded this was error, however. Amid
+
+eyewitness testimony that Linares had physically possessed the gun before throwing it out of his
+
+car window, the D.C. Circuit rejected the idea that “Linares’s previous possession of a pistol
+
+ma[de] it any more likely that he knowingly possessed a gun this time.” Id. at 946. As the D.C.
+
+Circuit explained, “it is hard to see how Linares could possibly have possessed the gun
+
+unknowingly, i.e., without being aware that he possessed it or without realizing that the object in
+
+his hand was a gun.” Id.
+
+       Similar to Linares, the Government here will present evidence that the perpetrator of the
+
+indicted robberies and carjackings actually used a firearm. See, e.g., Gov’t’s Mot. at 3 fig. 1
+
+(surveillance footage from the store targeted during Armed Robbery 1 depicting the robber
+
+holding a gun), 9 fig. 7 (same for Armed Robbery 2), 14 fig. 11 (same for Armed Robbery 4), 18
+
+fig. 13 (same for Armed Robbery 6). This is the case even for Armed Robberies 1 and 3. See,
+
+e.g., id. at 2–3, 9–11 (noting that surveillance footage from Armed Robbery 1 captured the
+
+perpetrator holding a gun and that cartridge casings were recovered from the scenes of Armed
+
+Robberies 1 and 3). If the Government can present non-Rule 404(b) evidence to the jury
+
+demonstrating that Mr. Joyner—assuming he is the perpetrator—brandished or discharged a gun
+
+during the indicted offenses, it has little need to show the jury five photographs of Mr. Joyner
+
+holding a gun on unrelated occasions to prove that his use of the gun during those offenses was
+
+knowing. By showing the jury these photographs, the Government would effectively be inviting
+
+
+
+
+                                                 14
+it to draw an impermissible propensity inference—that because Mr. Joyner possessed and had
+
+ready access to guns on other occasions, he is the sort of person who is likely to have used a gun
+
+while committing the indicted robberies and carjackings.
+
+        The Government argues that Linares is distinguishable because here, the identity of the
+
+perpetrator of the offenses is at issue. See Gov’t’s Reply in Supp. Suppl. Mot. at 5, ECF No.
+
+126. “Because the individual depicted in the surveillance footage is masked,” the Government
+
+contends, Mr. Joyner “may argue that he is not the person depicted in the surveillance footage.”
+
+Id. at 3. At the motions hearing, the Government thus suggested that if Mr. Joyner “can simply
+
+deny even being present, that, too, is grounds for allowing the introduction” of the photographs
+
+depicting his prior firearm use. Hr’g Tr. at 12:11–13. The Court does not follow this reasoning.
+
+Evidently, proof that Mr. Joyner has had guns in the past does not make it more likely that he is
+
+the masked robber simply because the masked robber also had a gun. 8 The photos will thus be
+
+of no use to the jury as it attempts to determine if the masked robber is, in fact, Mr. Joyner.
+
+Indeed, based on the surveillance footage—which clearly shows a masked robber wielding a
+
+gun—no reasonable jury could find that the robber (whoever he is) did not knowingly use a gun.
+
+It is not the robber’s knowledge of the gun that is at issue here; it is his identity.
+
+        Still, the Court agrees with the Government that knowledge would be placed at issue if
+
+Mr. Joyner claims that he “lacked access to firearms and thus did not have an opportunity to
+
+commit armed robbery.” Gov’t’s Reply in Supp. Suppl. Mot. at 3. In that situation, evidence of
+
+
+
+        8
+          The photographs might have more relevance in this regard if the Government had
+sought to connect the firearms depicted therein to the ones used to commit the charged offenses.
+But the Government has not represented that it seeks to introduce the five photographs as proof
+that the firearms in the photographs are the same as those used in the charged offenses. The
+Court therefore need not address whether, under those circumstances, such photographs might
+otherwise be admissible under Rule 404(b).
+
+
+                                                   15
+Mr. Joyner’s uncharged firearm possession could come in pursuant to Rule 404(b) “not to show
+
+[his] propensity to possess firearms, but as ‘similar acts’ evidence to prove, inter alia, his access
+
+to firearms and thus his ‘knowledge’ or the ‘absence of [a] mistake or accident.’” United States
+
+v. Sepulveda, 420 F. Supp. 3d 153, 164 (S.D.N.Y. 2019) (quoting Fed. R. Evid. 404(b)(2)). Such
+
+evidence becomes admissible once a defendant proffers a “lack of access” or “lack of
+
+possession” defense. Cf. id. (“To be sure, evidence of uncharged firearms is irrelevant, and thus
+
+inadmissible, if the defendant takes a position that completely removes his mental state . . . from
+
+dispute at trial.”). Thus, if Mr. Joyner testifies that he lacked ready access to firearms, evidence
+
+that he used a gun a few months before the charged offenses (Two-Tone Gun Photos) and in the
+
+middle of the offenses (April 20 Photo) would bear directly on this defense and could therefore
+
+be admitted as rebuttal evidence under Rule 404(b).
+
+       Another court in this District recently reached a similar conclusion. In United States v.
+
+Fairnot, the defendant was charged with constructive possession of two firearms found in his
+
+car, and the prosecution moved to admit text messages from his phone discussing firearm sales to
+
+prove his knowledge and absence of mistake with respect to the recovered guns. No. 23-cr-24,
+
+2025 WL 3534277, at *1 (D.D.C. Dec. 10, 2025). The district court admitted messages
+
+discussing the sale of a firearm of the same make and caliber as one of the recovered guns as
+
+intrinsic evidence of the charged offense, as the messages helped explain “how Fairnot might
+
+have come to possess such a weapon and constitute direct evidence . . . that Fairnot knowingly
+
+possessed the recovered [weapon].” Id. at *6. But the court declined to admit similar messages
+
+concerning an unrelated pistol, explaining that such messages “reveal[ed] little about Fairnot’s
+
+intent or absence of mistake in knowingly possessing” the recovered guns. Id. Still, the court
+
+went on to find that the latter messages would be relevant and admissible as rebuttal evidence if
+
+
+
+
+                                                 16
+the defendant “were to testify that he lacked familiarity with firearms in general,” as the
+
+messages “would speak directly to his acquaintance with firearms.” Id. The court therefore
+
+permitted the prosecution to offer these messages in rebuttal, but “only if Defendant . . . open[ed]
+
+the door by placing his knowledge of firearms at issue.” Id.
+
+       Here, the Government anticipates that Mr. Joyner will raise a “lack of possession”
+
+defense at trial. See Gov’t’s Reply in Supp. Mot. at 2. It notes that at the time of the charged
+
+conduct, Mr. Joyner had prior felony convictions that precluded him from lawfully possessing
+
+firearms. Id. According to the Government, Mr. Joyner could therefore argue that he did not
+
+commit the offenses charged because he knew he was a felon who was not permitted to possess
+
+firearms and who therefore did not have access to firearms. Gov’t’s Reply in Supp. Suppl. Mot.
+
+at 5. On the current record, however, it is unclear to the Court whether Mr. Joyner will pursue
+
+this defense. Mr. Joyner has neglected to confirm this, and in his opposition brief, he emphasizes
+
+that he “has not opened the door to the admission of otherwise inadmissible firearm evidence.”
+
+Def.’s Opp’n to Gov’t’s Suppl. Mot. at 7 (citation modified).
+
+       The Court will therefore preclude the Government from moving to introduce photographs
+
+of Mr. Joyner’s prior firearm use until and unless Mr. Joyner raises a defense opening the door to
+
+this evidence. 9 Cf. United States v. Midyett, 603 F. Supp. 2d 450, 454–55 (E.D.N.Y. 2009)
+
+(barring the government from introducing Rule 404(b) evidence in its case-in-chief to rebut a
+
+lack-of-possession defense where it was unclear whether the defendant would pursue this
+
+defense at trial); United States v. Jobson, 102 F.3d 214, 221 (6th Cir. 1996) (“Although the
+
+government is required under 18 U.S.C. § 922(g)(1) to prove defendant’s knowledge of the
+
+
+       9
+         If Mr. Joyner raises such a defense in opening statements or cross-examination of a
+Government witness, the Government is, of course, free to move to introduce these photographs
+during its case-in-chief.
+
+
+                                                 17
+firearm . . . prior bad acts are not admissible to prove defendant’s knowledge unless defendant
+
+places his mental state at issue or his knowledge of the firearm is not inferable from proof of
+
+possession itself.”). If Mr. Joyner raises such a defense, the Government is free to renew its
+
+motion to admit the photographs. At that point, the Court will consider whether any of the
+
+photos, although admissible under Rule 404(b), must nevertheless be excluded as unfairly
+
+prejudicial under Rule 403. 10
+
+                 b. Evidence of Clothing Worn During Arrest on April 26, 2023
+
+       Second, the Government also seeks to introduce evidence of the clothing Mr. Joyner
+
+wore during his April 26, 2023, arrest—for an offense not charged in the instant case—for the
+
+purpose of proving his identity as the perpetrator of Armed Carjacking 1 and Armed Robberies 2
+
+and 3. 11 Gov’t’s Suppl. Mot. at 3–4. As explained above, although Rule 404(b) precludes the
+
+
+       10
+          Mr. Joyner suggests that the Two-Tone Gun Photos should not be admitted because the
+Government failed to “provide reasonable [written] notice” of its intent to introduce them. Fed.
+R. Evid. 404(b)(3)(A); Def.’s Opp’n to Gov’t’s Suppl. Mot. at 3 n.1, ECF No. 122. However,
+Rule 404(b) requires that the prosecutor provide written notice “before trial,” which the
+Government here has done. Fed. R. Evid. 404(b)(3)(C). And the Court has now ordered the
+Government to provide Mr. Joyner with further context for the Two-Tone Gun Photos. Under
+the circumstances, the Court does not believe that Mr. Joyner will be prejudiced in the
+preparation of his defense.
+       11
+           The Government also provided notice of its intent “to [e]licit at trial the fact that [Mr.]
+Joyner’s [home] address is included in Prince George’s County Commissioner paperwork when
+he was arrested on April 26, 2023.” Gov’t’s Suppl. Mot. at 1. Mr. Joyner challenged the
+paperwork as hearsay. See Def.’s Opp’n to Gov’t’s Suppl. Mot. at 8–9. However, in reply, the
+Government clarified that it does not seek to admit the paperwork, but instead to elicit testimony
+of statements Mr. Joyner made to a police officer. See Gov’t’s Reply in Supp. Suppl. Mot. at 5–
+6. The Government provides body-worn camera footage showing that after Mr. Joyner was
+arrested, he disclosed his first and middle name and “current address” to a police officer. See id.
+at Ex. 1 at 18:36:45. The Court agrees with the Government that these statements are not
+hearsay under Rule 801(d)(2). See Fed. R. Evid. 801(d)(2)(A) (noting that a statement is not
+hearsay if it “is offered against an opposing party” and “was made by the party in an individual
+or representative capacity”); United States v. Houston, 40 F. App’x 836, 839 (4th Cir. 2002) (“To
+the extent Houston avers his statements made to police officers were inadmissible hearsay, an
+out-of-court statement by a party against that party is admissible.”). Nevertheless, at the motions
+hearing, defense counsel stated that in the last few days, the Government informed counsel that
+
+
+                                                 18
+use of evidence of other crimes, wrongs, or acts to prove a defendant’s character, the Rule
+
+“specifically lists ‘identity’ as one of the purposes for which [such evidence] may be
+
+admissible.” United States v. Lawson, 410 F.3d 735, 741 (D.C. Cir. 2005). At this stage of the
+
+Rule 404(b) analysis, the Court must balance probative value against “the prejudice that ‘lies in
+
+the danger of jury misuse of the evidence.’” United States v. Mitchell, 49 F.3d 769 (D.C. Cir.
+
+1995) (quoting United States v. Brown, 490 F.2d 758, 764 (D.C. Cir. 1973)).
+
+       On the threshold question of purpose, the evidence the Government seeks to introduce as
+
+to Mr. Joyner’s identity satisfies Rule 404(b). The Government’s proffered evidence here
+
+includes body-worn camera footage and/or still photographs of Mr. Joyner’s attire when officers
+
+arrested him on April 26, 2023, for the unauthorized removal of a motor vehicle and related theft
+
+in Oxon Hill, Maryland. See Gov’t’s Suppl. Mot. at 7–8. These images show that Mr. Joyner
+
+was wearing gray New Balance shoes and a necklace with a double “S” medallion upon arrest.
+
+See id. at 8–9 fig. 4; Gov’t’s Reply in Supp. Suppl. Mot. at 7–9.
+
+       The Court agrees with the Government that these articles of clothing are “similar to the
+
+distinctive pieces [of] attire of the person captured on video from the earlier armed carjacking
+
+and robberies charged in this case.” Gov’t’s Suppl. Mot. at 11. In particular, the necklace
+
+captured during Mr. Joyner’s April 26, 2023, arrest strongly resembles the necklace that the
+
+suspect was pictured wearing shortly after Armed Carjacking 1 on April 13, 2023. Compare
+
+Gov’t’s Suppl. Mot. at 8 fig. 4, with id. at 5 fig. 1. Mr. Joyner was also pictured wearing a
+
+double “S” necklace during his May 2, 2023, arrest in connection with this case. See id. at 9 fig.
+
+
+
+
+when Mr. Joyner was arrested in the present case on May 2, 2023, he also told police officers
+that he lived at the Valley Avenue address. See Hr’g Tr. at 22:5–7. If the Government can elicit
+Mr. Joyner’s address from the May 2 arrest, the Court sees no need for it to use the April 26
+arrest to prove this fact.
+
+
+                                                19
+5. Likewise, the gray shoes Mr. Joyner wore during his April 26, 2023, arrest resemble those
+
+captured in surveillance footage from Armed Carjacking 1 and Armed Robberies 2 and 3, as well
+
+as those found in his residence on May 2, 2023. See id. at 10 figs. 6–7. In light of these
+
+similarities, the images from Mr. Joyner’s arrest in late April are plainly probative of the
+
+perpetrator’s identity with respect to the carjacking and robbery offenses at issue. Cf. Lawson,
+
+410 F.3d at 741 (concluding that Rule 404(b) evidence of a second, uncharged robbery was
+
+admissible because, inter alia, the perpetrator “appeared to wear the same clothes” during both
+
+robberies). Indeed, Mr. Joyner concedes that the identity of the masked perpetrator of these
+
+offenses is a “central issue for trial,” see Def.’s Mot. Preclude Improper Propensity-Based Args.
+
+at 2, ECF No. 100, reinforcing the probative value of the proffered evidence.
+
+       The Court is unpersuaded by Mr. Joyner’s contrary argument that the evidence in
+
+question is nevertheless excludable under Rule 403 because it “is substantially more prejudicial
+
+than probative.” Def.’s Opp’n to Gov’t’s Suppl. Mot. at 9. Mr. Joyner maintains that “generic”
+
+clothing, like a pair of gray shoes, is insufficiently distinctive to support admissibility under Rule
+
+404(b). Id. at 10 (citing United States v. Askew, 529 F.3d 1119, 1141 (D.C. Cir. 2008) (en
+
+banc)). But this reasoning understates the particularity of the evidence the Government seeks to
+
+admit: viewed in toto, the double “S” necklace and gray New Balance shoes—including an oval-
+
+shaped marker visible on the tongue of one of the sneakers, see Gov’t’s Suppl. Mot. at 8 fig. 4,
+
+10 fig. 7, 11—that the Government identifies in its images are manifestly distinctive enough to
+
+help establish the identity of the individual pictured in Armed Carjacking 1 and Armed
+
+Robberies 1 and 2. 12
+
+
+
+       12
+         The Court is similarly unconvinced by Mr. Joyner’s argument that the Government has
+“very similar, non-prejudicial evidence it could offer” to establish identity, including other
+photographs of Mr. Joyner wearing the clothing at issue. Def.’s Opp’n to Gov’t’s Suppl. Mot. at
+
+
+                                                 20
+        Furthermore, the Rule 404(b) evidence here presents little inherent danger of prejudice as
+
+to Mr. Joyner. As this Court has underscored, “[w]hile there is always a risk that jurors will
+
+misuse [404(b)] evidence . . . to veer into an impermissible propensity inference, this risk, absent
+
+‘compelling or unique evidence of prejudice’ . . . ‘cannot give rise to a per se rule of exclusion.’”
+
+United States v. Harris, No. 19-cr-358, 2020 WL 6484311, at *3 (D.D.C. Nov. 4, 2020) (quoting
+
+United States v. Douglas, 482 F.3d 591, 601 (D.C. Cir. 2007)). No such compelling or unique
+
+evidence of prejudice exists here. For one, the Government has provided example images from
+
+the April 26 arrest that are cropped so that it is not evident that Mr. Joyner is in handcuffs. See
+
+Gov’t’s Reply in Supp. Suppl. Mot. at 7–9. The Government also appears to be amenable to
+
+presenting evidence from this incident without explaining that it depicts Mr. Joyner being placed
+
+under arrest. See Hr’g Tr. at 25:15–21 (suggesting that the Government could state simply that
+
+Mr. Joyner had “contact with the police” on this date). However, as explained below, see infra
+
+pp. 52–54, the Government intends to elicit evidence from the arresting officer, and if this officer
+
+testifies, it may not be possible to omit all references to the arrest. 13 Nevertheless, the
+
+Government has stated that it “does not intend to elicit any facts as to why the Defendant was
+
+
+
+10–11. It is true that the Government has other photos from April and May of 2023 in which Mr.
+Joyner is wearing the double “S” necklace and the gray New Balance shoes. See Gov’t’s Suppl.
+Mot. at 9 fig. 5. But to the extent the Government seeks to use its Rule 404(b) evidence to
+highlight, for example, that Mr. Joyner wore the double “S” necklace and gray shoes on
+numerous occasions proximate to the carjacking and robberies, see id. at 9, the Court finds that
+evidence of the April 26 arrest—in combination with other images from around this time of Mr.
+Joyner in the same attire—is probative. Furthermore, as explained below, the risk of prejudice
+associated with showing images from the April 26 arrest can be minimized with appropriate
+redactions.
+
+        13
+           The Government should endeavor to present evidence from the April 26 arrest in a
+sanitized manner, including, if possible, by avoiding mentioning that Mr. Joyner was arrested on
+that date. Nevertheless, if it finds it impracticable to do so, it may raise the issue again to the
+Court.
+
+
+                                                  21
+arrested” on April 26, 2023. 14 Gov’t’s Reply in Supp. Suppl. Mot. at 5. Ultimately, the Court
+
+finds that the risk of unfair prejudice to Mr. Joyner is sufficiently minimized if the Government
+
+is limited to introducing sanitized media from the arrest, such as images in which no handcuffs
+
+are visible.
+
+   c. Evidence of Fraudulent Transaction that Occurred on 7-Eleven Employee’s Credit Card
+
+        Third, the Government seeks to introduce a fraudulent transaction that B.H., an
+
+unindicted co-conspirator, conducted using the credit card of a victim of Armed Robbery 3.
+
+Gov’t’s Suppl. Mot. at 11. In this offense, the Government alleges that, on April 17, 2023, Mr.
+
+Joyner stole personal belongings from T.R. and I.D., including T.R.’s credit card, during his
+
+robbery of a 7-Eleven in Alexandria, Virginia. Id. Mr. Joyner allegedly proceeded to give
+
+T.R.’s stolen credit card to B.H., his female associate, who then attempted to make an online
+
+transaction. Id. at 11–13.
+
+        As an initial matter, the Government argues that evidence of B.H.’s fraudulent
+
+transaction is “intrinsic” to Armed Robbery 3 and therefore admissible regardless of whether it
+
+satisfies Rule 404(b). See Gov’t’s Suppl. Mot. at 14–16. “Courts have denominated evidence of
+
+the same crime ‘intrinsic’ and evidence of ‘other’ crimes ‘extrinsic.’” Bowie, 232 F.3d at 927.
+
+This Court is skeptical that evidence of the fraudulent transaction—which occurred roughly an
+
+hour after the perpetrator of Armed Robbery 3 robbed the 7-Eleven—qualifies as intrinsic under
+
+the D.C. Circuit’s demanding standard. See id. at 929 (explaining that uncharged acts must be
+
+“performed contemporaneously with the charged crime” and must “facilitate the commission of
+
+
+
+
+        14
+          In light of this representation, the Court does not find that Mr. Joyner’s arrest for “very
+similar crimes” on April 26 will give rise to impermissible propensity inferences among the jury.
+See Def.’s Reply in Supp. Mot. Exclude Crim. History at 3, ECF No. 132.
+
+
+                                                 22
+the charged crime” to be deemed intrinsic). But in any event, the Court finds that the evidence is
+
+admissible under Rule 404(b).
+
+       Specifically, the Government’s fraudulent-transaction evidence is admissible for the
+
+purpose of establishing identity under Rule 404(b), because it tends to show that Mr. Joyner was
+
+the perpetrator of Armed Robbery 3. On April 17, 2023, T.R. told an Alexandria officer
+
+responding to Armed Robbery 3 that he had just received notice of an unauthorized transaction
+
+for $490 on his stolen credit card, completed via the Shopify platform. Gov’t’s Suppl. Mot. at
+
+12. Shopify gave law enforcement information indicating that the transaction was attempted
+
+about an hour after the robbery of the 7-Eleven, and that the transaction was linked to B.H.’s
+
+recently activated AT&T account. See id. at 13; Gov’t’s Reply in Supp. Suppl. Mot. at 10. Law
+
+enforcement subsequently retrieved an iCloud video from six days before the robbery, which
+
+appears to show B.H. kissing Mr. Joyner. See Gov’t’s Suppl. Mot. at 13–14 fig. 10. Given the
+
+unauthorized charge’s temporal proximity to Armed Robbery 3 and the fact that this charge came
+
+from an associate of Mr. Joyner, the proffered evidence is probative with respect to identity. In
+
+short, the strong nexus between the fraudulent-transaction evidence and Mr. Joyner himself
+
+buttresses the Government’s claim that the masked man pictured inside the Alexandria 7-Eleven
+
+is Mr. Joyner. See id. at 17.
+
+       Moreover, as with the April 26 arrest images described earlier, there is minimal unfair
+
+prejudice attendant to the admission of this evidence. Mr. Joyner worries about the “general
+
+propensity inference” that the fraudulent-transaction evidence would encourage among jurors.
+
+Def.’s Opp’n to Gov’t’s Suppl. Mot. at 12 (quoting Mitchell, 49 F.3d at 777). But it bears
+
+repeating that the Government does not intend to introduce the fraudulent-transaction evidence to
+
+establish Mr. Joyner’s “general propensity” to commit offenses like Armed Robbery 3. Instead,
+
+
+
+
+                                                23
+the Government seeks to produce a set of sanitized, non-inflammatory files—namely, a “limited
+
+number of financial records showing the fraudulent use of the victim’s credit card shortly after
+
+the robbery” and the iCloud video—at trial for the targeted purpose of demonstrating Mr.
+
+Joyner’s involvement in the specific, charged offenses at hand. Gov’t’s Reply in Supp. Suppl.
+
+Mot. at 11–12. Under these circumstances, no “compelling or unique evidence of prejudice”
+
+exists to compel exclusion of the proffered evidence. 15 Harris, 2020 WL 6484311, at *3
+
+(quoting Douglas, 482 F.3d at 601).
+
+                                       2. Rule 609 Motion
+
+       If Mr. Joyner testifies at trial, the Government seeks to impeach him with evidence of
+
+several prior convictions pursuant to Federal Rule of Evidence 609. Gov’t’s Mot. at 39–43. In
+
+particular, the Government seeks permission to introduce the three following convictions:
+
+       •    First-Degree Burglary in Prince George’s County, Maryland Circuit Court
+            case number CT111819B – Convicted on October 18, 2012 and sentenced to
+            20 years’ imprisonment with 15 years suspended;
+       •    Third-Degree Burglary in Prince George’s County, Maryland Circuit Court
+            case number CT120446B – Convicted on October 3, 2012 and sentenced to 10
+            years’ imprisonment with five years suspended;
+       •    Theft of Property or Services with a Value More than $1,500 and Less Than
+            $25,000 in Prince George’s County, Maryland Circuit Court case number
+            CT181645X – Convicted on January 14, 2020 and sentenced to 90 days’
+            imprisonment.
+
+       15
+          Mr. Joyner also suggests that the evidence is unfairly prejudicial because it involves
+the alleged crime of an associate, B.H., and because “the Government has not presented evidence
+that Mr. Joyner gave the stolen credit card to B.H.” Def.’s Opp’n to Gov’t’s Suppl. Mot. at 12–
+13. The Circuit precedent he cites on this point is inapposite. In United States v. Williams, 561
+F.2d 859 (D.C. Cir. 1977), evidence of stolen proceeds found in the co-occupied apartment of the
+defendant’s sister was inadmissible where the defendant lacked any further, established
+connection to the apartment (beyond that “blood relationship”). Id. at 413. As presented, the
+evidence was prejudicial because the sister’s roommate had already admitted to participating in
+the robbery at issue, a critical fact that could have borne on the defendant’s innocence but that
+the jury was not told at trial. See id. Here, however, there is both a strong probative connection
+between Mr. Joyner and his associate’s fraudulent transaction—considering, again, the timing of
+the iCloud video as well as the timing of the transaction relative to Armed Robbery 3—and a
+lack of any demonstrated prejudice akin to that in Williams.
+
+
+                                                24
+Gov’t’s Opp’n to Def.’s Mot. Exclude Crim. History at 3 & n.3, ECF No. 114. 16
+
+       In the D.C. Circuit, “all felonies have some probative value on the issue of credibility.”
+
+United States v. Moore, 75 F. Supp. 3d 444, 455 (D.D.C. 2014) (quoting United States v.
+
+Lipscomb, 702 F.2d 1049, 1062 (D.C. Cir. 1983) (en banc)). For this reason, the D.C. Circuit
+
+broadly favors the admission of past criminal convictions for impeachment purposes. See United
+
+States v. Lewis, 626 F.2d 940, 950 (D.C. Cir. 1980) (“Courts should be reluctant to exclude
+
+otherwise admissible evidence that would permit an accused to appear before a jury as a person
+
+whose character entitles him to complete credence when his criminal record stands as direct
+
+testimony to the contrary.”).
+
+       Relevant here, Rule 609 in fact requires the admission of a criminal defendant’s prior
+
+convictions for purposes of impeachment if the crime “was punishable by death or by
+
+imprisonment for more than one year”—that is, the crime was a felony—and “the probative
+
+value of the evidence outweighs its prejudicial effect,” provided that no more than ten years have
+
+passed since the defendant’s conviction or release from confinement for it, whichever is later.
+
+Fed. R. Evid. 609(a)(1)(B). Rule 609 also requires the admission of convictions, even for crimes
+
+punishable by less than one year, if the conviction for the crime required proof of “a dishonest
+
+act or false statement.” Fed. R. Evid. 609(a)(2).
+
+       Mr. Joyner’s prior convictions were for felonies and fall within the ten-year window. 17
+
+See Gov’t’s Mot. at 40. Accordingly, under Rule 609, their admissibility “turns on whether ‘the
+
+
+       16
+          The Government also lists a separate conviction for attempted distribution of a
+controlled substance, Gov’t’s Opp’n to Def.’s Mot. Exclude Crim. History at 3 n.3, but its
+original motion indicates only that it intends to use the burglary and theft convictions for
+impeachment at trial, Gov’t’s Mot. at 40.
+       17
+         A stricter standard governs the admissibility of one’s criminal history where “more
+than 10 years have passed since the witness’s conviction or release from confinement for it,
+whichever is later.” Fed. R. Evid. 609(b) (emphases added). Fewer than ten years have passed
+
+
+                                                25
+probative value of the evidence outweighs its prejudicial effect.’” Moore, 75 F. Supp. 3d at 455
+
+(quoting Fed. R. Evid. 609(a)(1)(B)). Per United States v. Jackson, relevant factors in this
+
+balancing inquiry include (1) the nature of the past crime, (2) the time of conviction, (3) the
+
+crime’s similarity to the charged crime, (4) the importance of the defendant’s testimony, and (5)
+
+the extent to which the defendant’s credibility is central to the case. 627 F.2d 1198, 1209 (D.C.
+
+Cir. 1980). Within this inquiry, Rule 609 “creates a per se rule that probativeness outweighs
+
+prejudice for crimes ‘involv[ing] dishonesty or false statement.’” Lipscomb, 702 F.2d at 1064
+
+(quoting Fed. R. Evid. 609(a)(2), amended 2011).
+
+       Considering each of the Jackson factors in turn, the Rule 609 balancing analysis supports
+
+admission of Mr. Joyner’s prior convictions. On the nature-of-crime prong, D.C. Circuit
+
+precedent recognizes “that crimes of stealth (e.g., smuggling, burglary), while not quite crimes of
+
+‘dishonesty or false statement’ [under 609(a)(2)], do reflect lack of credibility and should be
+
+admitted unless significantly prejudicial.” Id. at 1057. Because Mr. Joyner’s first- and third-
+
+degree burglary convictions are plainly “crimes of stealth” under this formulation, the Court
+
+agrees with the Government that such convictions will bear on Mr. Joyner’s credibility in the
+
+eyes of the jury.
+
+       Mr. Joyner’s theft conviction is a closer call on the nature-of-crime prong, but the Court
+
+finds that the context of this particular conviction renders the theft probative of credibility. See
+
+United States v. Parker, No. 25-cr-96, 2026 WL 482530, at *7 (D.D.C. Feb. 20, 2026) (“[T]heft
+
+and larceny may be probative of a character for truthfulness, depending on the circumstances.”);
+
+cf. United States v. Crawford, 613 F.2d 1045, 1052 (D.C. Cir. 1979) (“Shoplifting may or may
+
+
+
+since Mr. Joyner’s release from imprisonment for each of the proffered convictions, so this
+standard does not apply. See Gov’t’s Opp’n to Def.’s Mot. Exclude Crim. History at 3 n.3;
+Gov’t’s Mot. at 40–41.
+
+
+                                                 26
+not be probative of a lack of veracity, depending on the nature and circumstances of the crime
+
+[e.g., discreetness or duplicity involved in the crime as committed].”). Although Mr. Joyner was
+
+acquitted of connected burglary charges, he was convicted of theft in 2020 after he broke into an
+
+individual’s home and stole items. Gov’t’s Reply in Supp. Suppl. Mot. at 13 & Ex. 2. As such,
+
+the theft was akin to a crime of stealth, offering the jury a permissible basis on which to assess
+
+Mr. Joyner’s credibility if he testifies at trial. In any event, even if this Court did not find the
+
+crime to be one of stealth, the theft would remain probative because it is “a serious crime that
+
+shows conscious disregard for the rights of others.” Lipscomb, 702 F.2d at 1071. The theft thus
+
+goes toward credibility. See id.; see also United States v. Estrada, 430 F.3d 606, 617 (2d Cir.
+
+2005) (noting that crimes involving deceit, fraud, and theft “reflect adversely on a person’s
+
+integrity and . . . therefore bear on honesty”).
+
+        None of the remaining Jackson factors militates against the Government’s proffered
+
+impeachment evidence. On timing, Mr. Joyner was released from confinement for each of the
+
+convictions within the ten-year window identified in Rule 609(b). The three convictions are also
+
+not similar enough to Mr. Joyner’s charged crimes here to engender significant prejudice.
+
+Although these convictions and the instant, charged offenses both “involve the defendant taking
+
+property that did not belong to him,” Gov’t’s Mot. at 42, the Court finds the former meaningfully
+
+different from the latter. As the Government stresses, the burglary and theft crimes were non-
+
+confrontational and non-forcible in nature, and they did not involve the use of a firearm. Id. Use
+
+of a firearm is central to the Government’s allegations of armed robbery and carjacking in this
+
+case, and such use is a material element of the § 924(c) and § 922(g) counts charged. 18 In view
+
+
+
+        18
+         Given the significant distance between Mr. Joyner’s past convictions and the charged
+crimes here, this case is a far cry from the cases Mr. Joyner adduces in support of exclusion. See
+United States v. Jones, 67 F.3d 320, 324 (D.C. Cir. 1995) (finding undue prejudice where prior
+
+
+                                                   27
+of these substantial differences, there is little danger that the jury, with proper instructions, will
+
+use the Government’s evidence of past convictions to make propensity inferences. See Jackson,
+
+627 F.2d at 1210. Mr. Joyner’s further assertion that such evidence is unnecessary because “the
+
+defense will not contest Mr. Joyner’s felon status” at trial, Def.’s Reply in Supp. Mot. Exclude
+
+Crim. History at 2, ECF No. 132, is unavailing: the mere fact that Mr. Joyner is a felon, without
+
+some explication of the basic nature of his prior convictions, cannot speak to his credibility in
+
+quite the same way as the proffered Rule 609 evidence—including, as discussed above,
+
+convictions for “crimes of stealth.”
+
+        On the last two Jackson factors, the Court finds that Mr. Joyner’s testimony would be
+
+important at trial and his credibility is central to the case. Here, “what [Mr. Joyner] might say in
+
+his own defense” as to his participation in the charged offenses could evidently “play a
+
+significant role in the jury’s verdict.” Moore, 75 F. Supp. 3d at 455. It follows that Mr. Joyner’s
+
+credibility, should he choose to testify at trial, will be critical to the Government’s prosecution
+
+and to Mr. Joyner’s defense in this case. On the whole, these factors confirm the high probative
+
+value of the Government’s impeachment evidence in satisfaction of Rule 609, particularly
+
+considering the D.C. Circuit’s liberal interpretation of the rule.
+
+        As a final matter, the Government requests permission to “conduct a greater inquiry into
+
+the essential facts surrounding the conviction” if Mr. Joyner “opens the door to additional
+
+inquiry by attempting to ‘explain away’ the conviction or minimize its significance” at trial.
+
+Gov’t’s Opp’n to Def.’s Mot. Exclude Crim. History at 3 (quoting United States v. Williams, No.
+
+22-cr-332, 2023 WL 5973993, at *8 n.4 (D.D.C. Sept. 14, 2023)). In the D.C. Circuit,
+
+
+
+convictions and charged crimes were “virtually identical” (emphasis added)); Gordon v. United
+States, 383 F.2d 936, 940 (D.C. Cir. 1967) (“Convictions which are for the same crime should be
+admitted sparingly.” (emphasis added)).
+
+
+                                                  28
+impeachment of a witness under Rule 609 is “usually limited to the essential facts”—i.e., the fact
+
+of a prior conviction and its general nature—“rather than the surrounding details of the
+
+conviction.” Williams, 2023 WL 5973993, at *8 (quoting United States v. Baylor, 97 F.3d 542,
+
+544 (D.C. Cir. 1996)). But as the Government suggests, a “consensus” has surfaced among
+
+courts, including this Circuit, that further inquiry into surrounding details is appropriate if a
+
+defendant tries to explain away a past conviction. Tri-State Hosp. Supply, Inc. v. United States,
+
+471 F. Supp. 2d 170, 174 (D.D.C. 2007); see also United States v. Butler, 924 F.2d 1124, 1130
+
+(D.C. Cir. 1991) (concluding that, on cross-examination, prosecutor was entitled to invoke
+
+“some of the details of the [defendant’s] previous convictions” after he attempted to minimize
+
+his misconduct).
+
+       In keeping with this reasoning, the Government may draw on the details surrounding Mr.
+
+Joyner’s past convictions if he opens the door to such an inquiry during his testimony. However,
+
+Mr. Joyner’s procedural concerns about what, exactly, constitutes “open[ing] the door” are well-
+
+taken. See Def.’s Reply in Supp. Mot. Exclude Crim. History at 2. Under Rule 104, the Court
+
+must conduct any hearing on a preliminary question of admissibility if “a defendant in a criminal
+
+case is a witness and so requests.” Fed. R. Evid. 104(c)(2). As such, and in the interest of
+
+minimizing unfair prejudice to Mr. Joyner, the Government must seek a ruling from the Court
+
+(outside the jury’s presence) before it attempts to introduce the surrounding details of Mr.
+
+Joyner’s convictions at trial. Specifically, the Government may not introduce such evidence
+
+unless and until the Court rules “that Mr. Joyner has opened the door” to a greater inquiry and
+
+
+
+
+                                                  29
+establishes “precisely what additional details the Government may introduce as a result.” Def.’s
+
+Reply in Supp. Mot. Exclude Crim. History at 2. 19
+
+                               C. Defendant’s Motions in Limine
+
+       The Court finally addresses Mr. Joyner’s various motions in limine. “While neither the
+
+Federal Rules of Civil Procedure nor the Federal Rules of Evidence expressly provide for
+
+motions in limine, the Court may allow such motions ‘pursuant to the district court’s inherent
+
+authority to manage the course of trials.’” Barnes v. District of Columbia, 924 F. Supp. 2d 74,
+
+78 (D.D.C. 2013) (quoting Luce v. United States, 469 U.S. 38, 41 n.4 (1984)). “Motions in
+
+limine are designed to narrow the evidentiary issues at trial.” Williams v. Johnson, 747 F. Supp.
+
+2d 10, 14 (D.D.C. 2010). A trial judge’s discretion “extends not only to the substantive
+
+evidentiary ruling, but also to the threshold question of whether a motion in limine presents an
+
+evidentiary issue that is appropriate for ruling in advance of trial.” Barnes, 924 F. Supp. 2d at 79
+
+(quoting Graves v. District of Columbia, 850 F. Supp. 2d 6, 11 (D.D.C. 2011)).
+
+                         1. Propensity-Based Arguments (ECF No. 100)
+
+       Mr. Joyner moves in limine (1) to “preclude the Government and its witnesses from any
+
+propensity-based statements that tend to imply that guilt for one offense may be considered as
+
+corroborative evidence for any other offense,” (2) to “preclude the Government and its witnesses
+
+
+       19
+          Because the Court has now granted the Government’s motions to introduce evidence
+from Mr. Joyner’s April 26 arrest pursuant to Federal Rule of Evidence 404(b), as well as its
+motion to introduce evidence of his prior convictions for impeachment purposes under Rule 609,
+the Court denies Mr. Joyner’s motion in limine to exclude references to his criminal history with
+respect to these issues. See Def.’s Mot. Exclude Crim. History, ECF No. 99. The sole issue
+remaining from the latter motion was whether the Government should be allowed to introduce
+evidence regarding Mr. Joyner’s prior felony convictions to satisfy the requisite element of his
+§ 922(g) felon-in-possession charges (Counts 3 and 28). See id. at 2. At the motions hearing,
+defense counsel informed the Court that Mr. Joyner had agreed to a stipulation regarding his
+criminal history. See Hr’g Tr. at 2:12–18. The Court therefore denies Mr. Joyner’s motion in its
+entirety.
+
+
+                                                30
+from using any prejudicial language that may tend to imply such an inference,” and (3) “for
+
+appropriate limiting orders so instructing the jury, pursuant to Rules 403 and 404(b) of the
+
+Federal Rules of Evidence.” See Def.’s Mot. Preclude Improper Propensity-Based Args.
+
+(“Def.’s Mot. Preclude Propensity-Based Args.”), ECF No. 100. In short, Mr. Joyner argues that
+
+joinder of the counts underlying Armed Robberies 1–10 and Armed Carjackings 1–2 in a single
+
+trial creates a heightened risk of prejudice—because the jury may cumulate the evidence of the
+
+separate crimes, consider the separate evidence as mutually corroborative, or conclude from the
+
+numerous charges that Mr. Joyner has a criminal disposition—and urges the Court to impose his
+
+requested limitations to mitigate this risk. Id. at 1–2 & n.2. The Government opposes, arguing
+
+that Mr. Joyner will suffer no prejudice from joinder. See Gov’t’s Opp’n to Def.’s Mot. Preclude
+
+Propensity-Based Args. at 1–2, ECF No. 112. As explained below, the Court grants Mr.
+
+Joyner’s motion in part and denies it in part.
+
+       As an initial matter, the Court addresses the parties’ disagreement about whether Mr.
+
+Joyner will be prejudiced by the joinder of the counts in this case. The question is not whether
+
+Mr. Joyner will be prejudiced; “[c]ertainly, some prejudice always results from the joinder of
+
+counts.” United States v. Johnson, No. 14-cr-412, 2015 WL 1967239, at *7 (N.D. Cal. Apr. 30,
+
+2015); see also United States v. Foutz, 540 F.2d 733, 736 (4th Cir. 1976) (“One inevitable
+
+consequence of a joint trial is that the jury will be aware of evidence of one crime while
+
+considering the defendant’s guilt or innocence of another.”); United States v. Smith, 112 F.2d 83,
+
+85 (2d Cir. 1940) (“[E]ven when cautioned, juries are apt to regard with a more jaundiced eye a
+
+person charged with two crimes than a person charged with one”). Nevertheless, as the Court
+
+explained when it denied Mr. Joyner’s motion to sever the counts underlying Armed Carjacking
+
+1, “[j]oinder is the rule rather than the exception and the burden is upon a moving defendant to
+
+
+
+
+                                                 31
+show facts demonstrating that he will be so severely prejudiced by a joint trial that it would in
+
+effect deny him a fair trial.” Mem. Op. at 11, ECF No. 140 (quoting United States v. Treadwell,
+
+566 F. Supp. 80, 86 (D.D.C. 1983)). The Court also explained that if the Government’s
+
+presentation of the evidence for the joined counts turns out to create a risk of undue prejudice,
+
+curative jury instructions may well be proper. Id. at 11–12.
+
+       In his present motion, Mr. Joyner has not moved to sever any of the other counts of the
+
+Superseding Indictment. Nor has he moved to preclude any specific evidence based on a risk of
+
+prejudice. See Def.’s Mot. Preclude Propensity-Based Args. at 6 (requesting that the Court
+
+preclude “the cross-admission of evidence between charges for any other purpose not permitted
+
+by Rule 404(b)(2)” while recognizing evidence complying with that rule is cross-admissible);
+
+United States v. Rodriguez Delgado, No. 22-cr-304, 2023 WL 8354928, at *5 (D.D.C. Dec. 1,
+
+2023) (“The cross-admissibility of evidence concerning each count is, in turn, determined by
+
+looking to Federal Rule of Evidence 404(b).”).
+
+       The Court nevertheless takes the opportunity to explain the circumstances under which
+
+the evidence supporting each count will be cross-admissible pursuant to Rule 404(b). As noted
+
+previously, Rule 404(b) provides that “[e]vidence of any other crime, wrong is not admissible to
+
+prove a person’s character” but is, however, admissible for other purposes, including “proving
+
+motive, opportunity, intent, preparation, plan, knowledge, identity, absence of mistake, or lack of
+
+accident.” Fed. R. Evid. 404(b)(1)–(2). The Government represents that it seeks to introduce
+
+evidence from certain charged robberies in connection with other charged robberies for the
+
+purpose of proving Mr. Joyner’s “identity.” Gov’t’s Opp’n to Def.’s Mot. Preclude Propensity-
+
+Based Args. at 4–5. The Government explains that because the identity of the perpetrator of the
+
+charged offenses is disputed—given that the perpetrator wore a mask during the charged
+
+
+
+
+                                                 32
+robberies and no victim will identify Mr. Joyner as the perpetrator—it will have to rely on other
+
+identifying evidence to prove identity, including distinctive clothing worn by the perpetrator
+
+during several of the charged offenses, repeated use of the same items, surveillance footage and
+
+DNA evidence. Id. at 5.
+
+       Where evidence of another crime is offered under Rule 404(b) to prove that the
+
+perpetrator of that crime must have been the same person as the perpetrator of the second crime,
+
+two conditions must be met. First, “evidence that a defendant committed another crime . . . is
+
+only relevant, and hence potentially admissible, if a reasonable jury could find by a
+
+preponderance of the evidence that the defendant, and not someone else, was responsible for the
+
+[other] crime.” 20 United States v. Burwell, 642 F.3d 1062, 1066 (D.C. Cir. 2011), aff’d, 690 F.3d
+
+500 (D.C. Cir. 2012) (en banc). Second, “[t]o be relevant to identity, the other crimes must share
+
+similar characteristics with the charged acts.” Id. at 1067. As the D.C. Circuit has explained, the
+
+level of similarity between two crimes that is necessary to render evidence of one crime relevant
+
+to prove the identity of the perpetrator of the other crime is satisfied if “there is a reasonable
+
+probability that the same person committed both crimes due to the concurrence of unusual or
+
+distinctive facts relating to the manner in which the crimes were committed.” Drew v. United
+
+States, 331 F.2d 85, 90 (D.C. Cir. 1964).
+
+       In Drew, the D.C. Circuit concluded that this standard was not met in a trial joining two
+
+robbery charges where the similarities amounted to “the nature of the offense, the fact that both
+
+offenses were committed against High stores, and the fact that the offender in both instances was
+
+a Negro wearing sunglasses.” Id. at 92. In the D.C. Circuit’s view, “[t]hese circumstances all fit
+
+
+       20
+           Other crimes evidence may conditionally be admitted at trial “subject to the
+requirement that the government later introduce sufficient evidence for the jury reasonably to
+find that the defendant committed those crimes.” Burwell, 642 F.3d at 1066.
+
+
+                                                  33
+into an obvious tactical pattern which would suggest itself to almost anyone disposed to commit
+
+a depredation of this sort.” Id. at 93. Similarly, in United States v. Carter, the D.C. Circuit
+
+found that joinder of various robbery charges in the same trial resulted in prejudicial error where
+
+“[t]he scene of the . . . offenses was different, the victims were different, and the only common
+
+factor was that in each case the offender was a man wearing a fur coat and fur hat.” 475 F.2d
+
+349, 350–51 (D.C. Cir. 1973).
+
+        On the other hand, in United States v. Lawson, the D.C. Circuit more recently ruled that
+
+evidence of an uncharged bank robbery had been properly admitted in the trial of separate bank
+
+robbery to prove identity where “[b]oth were executed by a taller man wielding a distinctive
+
+silver-hammered handgun and a shorter man who collected money from the tellers, and the taller
+
+individual appeared to wear the same clothes during both crimes.” 410 F.3d at 741. And in
+
+United States v. Carr, the D.C. Circuit found that five charged bank robberies were sufficiently
+
+similar such that, had they been tried separately, evidence concerning each count would have
+
+been admissible on each other count to prove identity where all five were committed by “a black
+
+male in his 20s or 30s, who had a thick, unkempt beard and wore a heavy jacket and either a
+
+baseball cap or a knit hat” and who, in each robbery, passed the teller a demand note that he then
+
+asked be returned to him. 373 F.3d 1350, 1352–53 (D.C. Cir. 2004); see also United States v.
+
+Levi, 45 F.3d 453, 455 (D.C. Cir. 1995) (same conclusion reached for bank robbery charges
+
+where “the modus operandi in all of the robberies was strikingly similar—the perpetrator used
+
+similar notes, made similar statements and gestures, wore similar clothing, and robbed
+
+banks . . . in the same general area of the city”).
+
+        Here, the Court finds that many of the charged offenses share sufficient characteristics to
+
+permit an inference that the same individual committed them. To be sure, some of the
+
+
+
+
+                                                  34
+similarities underlying the offenses are superficial. For example, certain characteristics—that the
+
+perpetrator of the robberies was a tall, Black man with a slim build who largely targeted
+
+convenience stores, approached employees at gunpoint, and demanded cash from registers and
+
+employees’ personal property—“are not in any way distinctive, but are similar to numerous other
+
+crimes committed by [other] persons.” United States v. Luna, 21 F.3d 874, 879 (9th Cir. 1994)
+
+(citation omitted). Nevertheless, the probability that at least some of the charged offenses were
+
+committed by the same person increases when factoring in that the offenses occurred in close
+
+temporal proximity around Washington, D.C., and neighboring counties in Maryland and
+
+Virginia. In fact, five of the charged robberies and one of the carjackings occurred in the same
+
+24-hour period. And that probability becomes a near certainty when those circumstances are
+
+considered alongside the various distinctive items—including clothing and accessories—that
+
+recur across different subsets of the charged offenses.
+
+       For example, surveillance footage shows that the perpetrator of Armed Robberies 1, 4–7,
+
+and 10 wore a black-and-gray sweatshirt with a Pittsburgh Steelers logo emblazoned on one of
+
+its corners. See Gov’t’s Mot. at figs. 1, 11–13, 15, 18. And for Armed Robberies 4–7 and 10,
+
+the perpetrator additionally wore dark-colored sneakers with white soles and toes. See id. at 31.
+
+Mr. Joyner was wearing identical sneakers when he was arrested inside the Toyota RAV4 stolen
+
+in Armed Carjacking 2 on May 2, 2023, and an identical Pittsburgh Steelers sweatshirt was
+
+found beside him. Id. at figs. 21–22.
+
+       Turning to another group of offenses—Armed Carjacking 1 and Armed Robberies 2–3—
+
+the perpetrator there wore gray sneakers with white soles. Id. at 33. That alone might not
+
+warrant an inference of identity. But the perpetrator of Armed Carjacking 1 and Armed Robbery
+
+2 additionally wore black shorts, gray compression pants, and dark socks—which, when
+
+
+
+
+                                                35
+combined with the gray-and-white sneakers, strikes the Court as a sufficiently distinctive
+
+combination of clothing to support a “reasonable probability that the same person committed
+
+both crimes.” Drew, 331 F.2d at 90. Similar sneakers and compression pants were later
+
+recovered from Mr. Joyner’s home. Gov’t’s Mot. at 33. Furthermore, the perpetrator of Armed
+
+Robbery 3 wore a dark sweatshirt featuring a large yellow circle with the letters “PIT” in black
+
+text—apparently an unlicensed reference to Pittsburgh’s professional ice hockey team. Id. at 10–
+
+11. An identical sweatshirt was later recovered from the trunk of the Honda HR-V stolen in
+
+Armed Carjacking 1.
+
+       Other shared accessories are also sufficiently unique to support an inference of identity.
+
+For example, the perpetrator of Armed Robbery 1 was wearing a necklace with a double “S”
+
+medallion—the same worn by an individual who fraudulently used a credit card belonging to the
+
+victim of Armed Carjacking 1 and by Mr. Joyner when he was arrested on May 2, 2023. Gov’t’s
+
+Opp’n to Def.’s Mot. Preclude Propensity-Based Args. at 5–7. And the perpetrator of Armed
+
+Robbery 7 wore a distinctive yellow mask with black script that was later recovered from the
+
+scene of Armed Robbery 8. Id. at 9–10. That mask was then submitted for DNA testing, which,
+
+according to the Government, detected DNA from two individuals, one of whom is consistent
+
+with Mr. Joyner. Id. at 10.
+
+       At this point, the Government has satisfied the Court that much of the evidence of the
+
+disparate charges—including the evidence described above—would be cross-admissible under
+
+Rule 404(b) to prove identity. For example, sweatshirts featuring references to the Pittsburgh
+
+Steelers or a Pittsburgh ice hockey team are—at least in Washington, D.C.—much more
+
+distinctive than the sunglasses in Drew and the fur coat and fur hat in Carter that the D.C. Circuit
+
+considered too common to support an inference of identity. See Drew, 331 F.2d at 92; Carter,
+
+
+
+
+                                                36
+475 F.2d at 350–51. And in Lawson, Carr, and Levi, the D.C. Circuit deemed relevant to the
+
+cross-admissibility analysis the fact that the perpetrators of the distinct offenses wore similar
+
+clothing. 21 See Lawson, 410 F.3d at 741; Carr, 373 F.3d at 1352–53; Levi, 45 F.3d at 455.
+
+Accordingly, the Court denies Mr. Joyner’s first request to “preclude the Government and its
+
+witnesses from any propensity-based statements that tend to imply that guilt for one offense may
+
+be considered as corroborative evidence for any other offense.” 22 Def.’s Mot. Preclude
+
+Propensity-Based Args. at 1.
+
+       Mr. Joyner’s second request to “preclude the Government and its witnesses from using
+
+any prejudicial language that may tend to imply such an inference” is denied to the extent it
+
+seeks to prevent the Government from calling attention to relevant similarities between the
+
+charged offenses. Id. at 1. It is also denied to the extent Mr. Joyner seeks to preclude the
+
+Government from using terms such as “spree,” “conspiracy,” “pattern,” or “series” to refer to the
+
+charged offenses. The Court does not find these terms to be inconsistent with the facts alleged in
+
+the Superseding Indictment, namely, that Mr. Joyner robbed ten stores and carjacked two
+
+
+       21
+           At the motions hearing, defense counsel argued that for evidence from separate crimes
+to be cross-admissible to prove the perpetrator’s identity, the crimes “have to be committed with
+a unique signature or strikingly similar modus operandi,” which is not the case here. Hr’g Tr. at
+37:6–11. However, rather than focusing exclusively on modus operandi, the D.C. Circuit has
+analyzed whether the two crimes “share[ ] sufficient characteristics to permit an inference of
+identity,” including whether the perpetrator was wearing similar clothing. Lawson, 410 F.3d at
+741.
+       22
+           By this request, the Court understands Mr. Joyner to be asking it to prevent the
+Government from arguing that evidence from one charged offense may be cross-admissible as
+evidence in a second charged offense. That request is denied. Nevertheless, because Mr. Joyner
+has not moved to exclude any specific identity evidence, he may renew any objection to the
+cross-admissibility of specific evidence at trial. For any specific evidence of one charged
+offense to be cross-admissible on another offense, the Government must persuade the Court not
+only that the evidence is sufficiently distinctive as to be relevant to identity under Rule 404(b),
+but also that its probative value is not substantially outweighed by a danger of “unfair prejudice,
+confusing the issues, misleading the jury, undue delay, wasting time, or needlessly presenting
+cumulative evidence” under Rule 403.
+
+
+                                                 37
+vehicles in a three-week period. Cf. United States v. McAllister, 608 F. App’x 631, 633 (10th
+
+Cir. 2015) (holding that the government’s characterization of a defendant’s alleged criminal
+
+activity as a “crime spree” did not conflict with the facts stipulated in the plea agreement where
+
+the defendant “stipulated that he had participated in a five-year conspiracy and a scheme to
+
+embezzle funds”). Thus, the Government is permitted to refer to the charged offenses using such
+
+terms to highlight similarities between them relevant to proving the identity of the perpetrator of
+
+the offenses.
+
+       Separately, at the motions hearing, defense counsel explained that it also seeks to limit
+
+the Government from making statements that could lead the jury to cumulate the evidence
+
+between the charges, such as talking about the “total number of witnesses” or the “total scope of
+
+the investigation.” Hr’g Tr. at 36:4–20. The Court agrees that the Government should be
+
+mindful to avoid making statements that could have such an effect on the jury. Indeed, the D.C.
+
+Circuit has found reversible error in part based on the prosecutor’s remarks that invited the jury
+
+to find guilt on the combined evidence of the distinct charges. See Carter, 475 F.2d at 351
+
+(criticizing the prosecutor’s remarks in closing that “[w]ithin the same week, ladies and
+
+gentlemen, four individuals saw [the defendant] committing criminal acts in this city. Can four
+
+people be wrong?”).
+
+       Finally, with respect to Mr. Joyner’s third request for appropriate limiting instructions,
+
+the Court notes that the parties’ proposed jury instructions include an instruction relevant to the
+
+consideration of evidence from multiple counts that is taken from the standardized Criminal Jury
+
+Instructions for the District of Columbia. See Gov’t’s Proposed Jury Instrs. § 2.402, ECF No.
+
+
+
+
+                                                 38
+141-2 (quoting Crim. Jury Instrs. for the Dist. of Columbia § 2.402). 23 Furthermore, in its
+
+opposition brief, the Government cited a similar instruction from the Model Criminal Jury
+
+Instructions of the Third Circuit. 24 See Gov’t’s Opp’n to Def.’s Mot. Preclude Propensity-Based
+
+Args. at 13–14. The Court will give an instruction consistent with these models in both its
+
+preliminary instructions and its final instructions to the jury.
+
+                           2. In-Court Identification (ECF Nos. 54, 101)
+
+       Mr. Joyner moves to suppress and preclude in-court identification of Mr. Joyner as the
+
+perpetrator of the charged crimes by any trial witness beyond the one cooperating witness the
+
+Government has disclosed to date. See Def.’s Mot. Suppress In-Court Identification as Unduly
+
+Suggestive, ECF No. 54; Def.’s Mot. Suppress & Preclude In-Court Identification, ECF No. 101.
+
+As Mr. Joyner explains, the Government has not provided him notice of any civilian or law
+
+enforcement witnesses who can identify him other than the cooperator. See Def.’s Reply in
+
+Supp. Mot. Suppress & Preclude In-Court Identification at 1, ECF No. 133. The Government
+
+does not dispute this point. Gov’t’s Opp’n to Def.’s Mot. Suppress & Preclude In-Court
+
+Identification at 1–2, ECF No. 115. Still, the Government notes that if it becomes aware of
+
+additional identifying witnesses before trial, it “will make the necessary disclosures” pursuant to
+
+
+       23
+          This instruction reads: “Each count of the Indictment charges a separate offense. You
+should consider each offense, and the evidence which applies to it, separately, and you should
+return separate verdicts as to each count [unless I instruct you to do otherwise]. The fact that you
+may find the defendant guilty or not guilty on any one count of the Indictment should not
+influence your verdict with respect to any other count of the Indictment. At any time during your
+deliberations you may return your verdict of guilty or not guilty with respect to any count.”
+       24
+           This instruction reads: “The number of offenses charged is not evidence of guilt, and
+this should not influence your decision in any way. You must separately consider the evidence
+that relates to each offense, and you must return a separate verdict for each offense. For each
+offense charged, you must decide whether the government has proved beyond a reasonable doubt
+that the defendant is guilty of that particular offense. Your decision on one offense, whether
+guilty or not guilty, should not influence your decision on any of the other offenses charged.
+Each offense should be considered separately.”
+
+
+                                                  39
+its discovery obligations. Id. at 1 n.1; see also Parties’ Witness Lists at 1 n.1, ECF No. 141-3
+
+(reserving right to supplement Government’s witness list).
+
+       Because the Government represents that, at this time, it does not foresee calling any
+
+witnesses—other than the cooperator—to make an in-court identification of Mr. Joyner, the
+
+Court denies the instant request without prejudice. See Gov’t’s Opp’n to Def.’s Mot. Suppress &
+
+Preclude In-Court Identification at 1. Mr. Joyner is free to renew his request if and when the
+
+Government discloses any additional witnesses who could offer an inculpatory identification of
+
+him at trial. The Court notes, however, that at this late date, such an untimely disclosure will be
+
+viewed with disfavor absent extenuating circumstances.
+
+                            3. Toolmark Identification (ECF No. 102)
+
+       Pursuant to Federal Rules of Evidence 403 and 702, as well as Daubert v. Merrell Dow
+
+Pharmaceuticals, Inc., 509 U.S. 579 (1993), Mr. Joyner moves to limit the scope of the expert
+
+testimony proffered by Michael Van Arsdale, a forensic examiner at the Federal Bureau of
+
+Investigation (“FBI”) Firearm and Toolmark Unit. See Def.’s Mot. Limit Scope of Michael Van
+
+Arsdale’s Test. (“Def.’s Rule 702 & Daubert Mot.”), ECF No. 102; id. Ex. A (“Van Arsdale
+
+Notice”), ECF No. 102-2. As relevant here, Armed Robbery 1 charges Mr. Joyner with
+
+discharging a firearm while robbing a Falcon Fuel in Washington, D.C. on April 12, 2023, and
+
+Armed Robbery 3 charges him with the same conduct at a 7-Eleven in Alexandria, Virginia on
+
+April 17, 2023. Superseding Indictment at 1–2, 5–6. Security footage from each store shows
+
+that the perpetrator wore a face mask and unidentical clothing during each incident. Def.’s Rule
+
+702 & Daubert Mot. at 1. In order to show that these robberies were committed by the same
+
+person—allegedly Mr. Joyner—the Government proposes to offer Mr. Van Arsdale’s testimony
+
+
+
+
+                                                40
+to opine on the likelihood that cartridge casings recovered from the scenes of Armed Robberies 1
+
+and 3 were fired from the same firearm. See Van Arsdale Notice.
+
+       Firearm and toolmark identification “is used to determine whether a bullet or casing was
+
+fired from a particular firearm” and “whether two bullets or casings were fired from the same
+
+firearm.” United States v. Brown, 973 F.3d 667, 702 (7th Cir. 2020). “An examiner can make
+
+these determinations by looking through a microscope to see markings that are imprinted on the
+
+bullet or casing by the firearm during the firing process.” Id. The Government offers Mr. Van
+
+Arsdale as an expert in the field to testify regarding (1) the process of toolmark identification and
+
+analysis, (2) his examination of the two cartridge casings recovered from the scenes of Armed
+
+Robberies 1 and 3, and (3) “what possible conclusions may be reached in performing the firearm
+
+pattern examinations.” See Van Arsdale Notice. As summarized in Mr. Van Arsdale’s lab
+
+report, the results of his examination were that the cartridge casings from Armed Robberies 1
+
+and 3 “were identified as having been fired in the same firearm,” and that class characteristics on
+
+the casings “are physically consistent with having been fired in a Glock pistol, Smith & Wesson
+
+Sigma series pistol or similar firearms.” Id. at Ex. 2.
+
+       Mr. Joyner argues that Mr. Van Arsdale’s proposed testimony is inadmissible because
+
+toolmark analysis lacks a reliable scientific basis. Def.’s Rule 702 & Daubert Mot. at 3–4. He
+
+therefore seeks to limit Mr. Van Arsdale’s toolmark identification testimony to “general
+
+principles.” Id. at 3, 11. In the alternative, he urges the Court to impose limitations to “narrow
+
+the scope of the testimony and prohibit prejudicial language that overstates the certainty of his
+
+analysis.” Id. at 11. The Government opposes the motion, arguing that “unrefuted scientific data
+
+demonstrat[es] the reliability of firearms and toolmark identification.” Gov’t’s Opp’n to Def.’s
+
+
+
+
+                                                 41
+Rule 702 & Daubert Mot. at 1, ECF No. 120. 25 For the reasons below, the Court grants Mr.
+
+Joyner’s motion in part and denies it in part.
+
+       Federal Rule of Evidence 702 provides that qualified expert testimony is admissible if
+
+“(a) the expert’s scientific, technical, or other specialized knowledge will help the trier of fact to
+
+understand the evidence or to determine a fact in issue; (b) the testimony is based on sufficient
+
+facts or data; (c) the testimony is the product of reliable principles and methods; and (d) the
+
+expert’s opinion reflects a reliable application of the principles and methods to the facts of the
+
+case.” Fed. R. Evid. 702. “In general, Rule 702 has been interpreted to favor admissibility.”
+
+Khairkhwa v. Obama, 793 F. Supp. 2d 1, 10 (D.D.C. 2011) (citing Daubert v, 509 U.S. at 587);
+
+see also Fed. R. Evid. 702 Advisory Committee’s Note to 2000 Amendment (“A review of the
+
+caselaw after Daubert shows that the rejection of expert testimony is the exception rather than
+
+the rule.”). As the Supreme Court has clarified, it is not exclusion, but rather “vigorous cross-
+
+examination, presentation of contrary evidence, and careful instruction on the burden of proof”
+
+that “are the traditional and appropriate means of attacking shaky but admissible evidence.”
+
+Daubert, 509 U.S. at 596.
+
+       When considering whether expert evidence is admissible under Rule 702, district courts
+
+are required to “assume a ‘gatekeeping role,’ ensuring that the methodology underlying an
+
+expert’s testimony is valid and the expert’s conclusions are based on ‘good grounds.’”
+
+
+       25
+          Mr. Joyner has moved to strike the Government’s 62-page opposition brief or, in the
+alternative, strike the final 17 pages, because it exceeds the 45-page limit imposed by Local
+Criminal Rule 47(e). See Def.’s Mot. Strike Gov’t’s Noncompliant Br. (“Def.’s Mot. Strike”),
+ECF No. 128. In response, the Government recognizes that it was an “oversight” for it to file its
+brief without requesting leave from the Court. See Gov’t’s Opp’n to Def.’s Mot. Strike, ECF
+No. 145. Although the Court is not pleased by the Government’s failure to draft a concise brief,
+the Court will exercise its discretion and consider the brief in full, as much of the brief pertains
+to background information on the field of firearm and toolmark identification. Accordingly, Mr.
+Joyner’s motion to strike is denied.
+
+
+                                                  42
+Chesapeake Climate Action Network v. Export-Import Bank of the U.S., 78 F. Supp. 3d 208, 219
+
+(D.D.C. 2015) (quoting Daubert, 509 U.S. at 590–97). This gatekeeping analysis is “flexible,”
+
+and “the law grants a district court the same broad latitude when it decides how to determine
+
+reliability as it enjoys in respect to its ultimate reliability determination.” Kumho Tire Co. v.
+
+Carmichael, 526 U.S. 137, 141–42 (1999) (citation modified). In Daubert, the Supreme Court
+
+provided a non-exhaustive list of five factors to assess the reliability of expert evidence,
+
+including: (1) whether the technique has been or can be tested; (2) whether the technique has a
+
+known or potential rate of error; (3) if the technique has been subject to peer review and
+
+publishing; (4) the existence of controls that govern the technique’s operation; and (5) whether
+
+the technique has been generally accepted within the relevant scientific community. 509 U.S. at
+
+593–94. In contrast, expert testimony “that rests solely on ‘subjective belief or unsupported
+
+speculation’ is not reliable.” Groobert v. President & Directors of Georgetown Coll., 219 F.
+
+Supp. 2d 1, 6 (D.D.C. 2002) (citing Daubert, 509 U.S. at 590).
+
+       “The burden is on the proponent of [expert] testimony to show by a preponderance of the
+
+evidence that . . . the testimony is reliable.” Sykes v. Napolitano, 634 F. Supp. 2d 1, 6 (D.D.C.
+
+2009) (citing Meister v. Med. Eng’g Corp., 267 F.3d 1123, 1127 n.9 (D.C. Cir. 2001)). Even if
+
+the proposed expert testimony is reliable, the Court may nonetheless exclude it “if its probative
+
+value is substantially outweighed by a danger of one or more of the following: unfair prejudice,
+
+confusing the issues, misleading the jury, undue delay, wasting time, or needlessly presenting
+
+cumulative evidence.” Fed. R. Evid. 403; see also Bazarian Int’l Fin. Assocs., LLC v.
+
+Desarrolos Aerohotelco, C.A., 315 F. Supp. 3d 101, 128 (D.D.C. 2018) (analyzing expert
+
+testimony under Rule 403).
+
+
+
+
+                                                 43
+                                        a. Daubert Factors
+
+       Upon consideration of the Daubert factors, the Court finds that Mr. Van Arsdale’s
+
+toolmark identification testimony satisfies the reliability standards set forth in Federal Rule of
+
+Evidence 702. Not long ago, this Court had occasion to examine the reliability of firearm and
+
+toolmark identification in United States v. Harris, 502 F. Supp. 3d 28 (D.D.C. 2020). There, the
+
+Court concluded that the balance of the Daubert factors supported the admission of firearm and
+
+toolmark identification as a discipline for expert testimony. See Harris, 502 F. Supp. 3d at 36–
+
+43. Mr. Joyner has not persuaded the Court that any new development since its decision in
+
+Harris compels a different outcome here. Accordingly, for essentially the same reasons set forth
+
+in Harris, the Court concludes that Mr. Van Arsdale’s testimony is admissible. Below, the Court
+
+summarizes its reasoning with respect to each Daubert factor.
+
+       First, testability focuses on “whether the expert’s theory can be challenged in some
+
+objective sense, or whether it is instead simply a subjective, conclusory approach that cannot
+
+reasonably be assessed for reliability.” Fed. R. Evid. 702 Advisory Committee’s Note to 2000
+
+Amendment. Before analyzing this factor, some background information on the methodology
+
+behind firearm and toolmark identification is necessary:
+
+       A firearm examiner is trained to observe and classify [markings on a bullet or
+       casing left by a firearm] into three types of characteristics during a firearm
+       toolmark examination, which include:
+
+       (1) Class characteristics: i.e., the weight or caliber of the bullet, the number of
+           lands and grooves, the twist of the lands and grooves, and the width of the
+           lands and grooves, that appear on all bullet casings fired from the same type
+           of weapon and are predetermined by the gun manufacturer;
+
+       (2) Individual characteristics: unique, microscopic, random imperfections in the
+           barrel or firing mechanism created by the manufacturing process and/or
+           damage to the gun post-manufacture, such as striated and/or impressed marks,
+           unique to a single gun; and
+
+
+
+
+                                                 44
+       (3) Subclass characteristics: characteristics that exist, for example, within a
+           particular batch of firearms due to imperfections in the manufacturing tool
+           that persist during the manufacture of multiple firearm components mass-
+           produced at the same time.
+
+Harris, 502 F. Supp. 3d at 34–35.
+
+       “[A] qualified examiner can determine whether two bullets were fired by the same gun by
+
+comparatively examining bullets and determining whether ‘sufficient agreement’ of toolmarks
+
+exist,” which occurs when the class and individual characteristics sufficiently agree. Ricks v.
+
+Pauch, No. 17-12784, 2020 WL 1491750, at *9 (E.D. Mich. Mar. 23, 2020). The methodology
+
+of determining when “sufficient agreement” is present is detailed by the Association of Firearm
+
+and Toolmark Examiners (“AFTE”) and is “the field’s established standard.” United States v.
+
+Ashburn, 88 F. Supp 3d 239, 246 (E.D.N.Y. 2015). According to the AFTE theory, “sufficient
+
+agreement” exists when the “agreement of individual characteristics is of a quantity and quality
+
+that the likelihood another tool could have made the mark is so remote as to be considered a
+
+practical impossibility.” The Association of Firearm and Tool Mark Examiners, AFTE Theory of
+
+Identification as It Relates to Toolmarks, https://temp.afte.org/about-us/what-is-afte/afte-theory-
+
+of-identification (last visited June 10, 2026).
+
+       In Mr. Joyner’s view, toolmark analysis is not testable because it is “inherently subjective
+
+in nature, based entirely on the examiner’s experience and expectations.” Def.’s Rule 702 &
+
+Daubert Mot. at 5 (citation modified). Mr. Joyner’s concerns are not unfounded. In Harris, this
+
+Court found AFTE’s “sufficient agreement” standard to be “generally vague,” observing that
+
+even the AFTE theory acknowledges that “the interpretation of individualization/identification is
+
+subjective in nature, founded on scientific principles and based on the examiner’s training and
+
+experience.” 502 F. Supp. 3d at 41 (citation omitted); see also United States v. Romero-Lobato,
+
+379 F. Supp. 3d 1111, 1121 (D. Nev. 2019) (“With the AFTE method, matching two tool marks
+
+
+
+                                                  45
+essentially comes down to the examiner’s subjective judgment based on his training, experience,
+
+and knowledge of firearms.”).
+
+       Nevertheless, the Court continues to believe that the existence of subjective elements in
+
+the methodology for toolmark identification is not enough to show that the theory is not
+
+“testable.” Harris, 502 F. Supp. 3d at 37. One way that this theory has “reasonably be[en]
+
+assessed for reliability” is through studies analyzing the factors that affect toolmark examiners’
+
+identification decisions. Fed. R. Evid. 702 Advisory Committee’s Note to 2000 Amendment.
+
+For example, one study used 3D image technology to assess the process used by trained firearm
+
+examiners to identify casings to a particular firearm. See Pierre Duez et al., Development and
+
+Validation of a Virtual Examination Tool for Firearm Forensics, 63 J. Forensic Sci, 1069–84
+
+(2018). The Duez study indicated that firearm examiners from fifteen different laboratories, all
+
+conducting an independent assessment, were “mostly using the same amount and same location
+
+of microscopic marks when concluding identification.” Harris, 502 F. Supp. 3d at 37 (citation
+
+omitted); see also Gov’t’s Opp’n to Def.’s Rule 702 & Daubert Mot. at 41–43 (summarizing the
+
+Duez study and a second study that reached the same conclusion).
+
+       Mr. Joyner dismisses the significance of these studies. He argues that although “the
+
+studies reflect an overlap of outcomes derived from independent toolmark analyses, they do not
+
+reflect an objective threshold for how much agreement is enough, how disagreements are
+
+weighed, or when an ‘identification’ becomes reliable.” Def.’s Reply in Supp. Rule 702 &
+
+Daubert Mot. at 2, ECF No. 131. However, Rule 702 does not strictly demand objective
+
+standards, but instead requires that “scientific, technical, or other specialized knowledge” be
+
+based on “reliable principles and methods.” Fed. R. Evid. 702 (a), (c) (emphasis added). The
+
+AFTE theory meets this criterion. As another court put it, “the AFTE theory is testable on the
+
+
+
+
+                                                46
+basis of achieving consistent and accurate results.” United States v. Otero, 849 F. Supp. 2d 425,
+
+433 (D.N.J. 2012). For example, validation studies have shown consistently low rates of error
+
+for firearm and toolmark identifications, including, crucially, the rates at which false positive
+
+identifications occur. See Harris, 502 F. Supp. 3d at 39 (noting that nineteen firearm and
+
+toolmark validation studies conducted between 1998 and 2019 reported false positive error rates
+
+of zero to 1.6%). As the Government argues, the consistently low error rates support the
+
+testability of the AFTE theory, because “[i]f qualified examiners had significantly different
+
+thresholds, the false positive and false negative error rates in these studies would be significantly
+
+higher.” Gov’t’s Opp’n to Def.’s Rule 702 & Daubert Mot. at 41.
+
+       Second, the low error rates referenced above likewise support admission of Mr. Van
+
+Arsdale’s testimony. Mr. Joyner asserts, however, that the true false positive rate for toolmark
+
+identifications could be higher. In support of this assertion, he relies on the 2016 President’s
+
+Council of Advisors on Science and Technology Report (“PCAST Report”) and a study cited
+
+therein showing a false positive rate of 2.2%, or 1 in every 46 identifications. Def.’s Rule 702 &
+
+Daubert Mot. at 7 (citing President’s Council of Advisors on Sci. & Tech., Forensic Science in
+
+Criminal Courts: Ensuring Scientific Validity of Feature Comparison Methods at 110 (2016),
+
+https://obamawhitehouse.archives.gov/sites/default/files/microsites/ostp/PCAST/pcast_forensic_
+
+science_report_final.pdf). Nevertheless, as the Government notes, since the PCAST Report,
+
+there have been at least seven additional studies—including two published after this Court
+
+decided Harris—that reported false positive error rates between 0 and 0.933%. See Gov’t’s
+
+Opp’n to Def.’s Rule 702 & Daubert Mot. at 26–30.
+
+       Mr. Joyner also cites a recent study indicating that error rates could be “as high as 50%,
+
+that is, firearms comparisons could be as unreliable as flipping a fair coin.” Cuellar et al.,
+
+
+
+
+                                                 47
+Methodological Problems in Every Black-Box Study of Forensic Firearm Comparison, 23 Law,
+
+Probability and Risk 1, 12 (2024). In reaching that conclusion, the Cuellar study reviewed 28
+
+firearms and toolmarks studies, found that alleged flaws in those studies were “so grave” as to
+
+render them invalid, and concluded that, as a result, “statements about the common origin of
+
+bullets or cartridge cases that are based on the examination of ‘individual’ characteristics do not
+
+have a scientific basis.” Id. at 1, 14.
+
+        Mr. Joyner argues that in view of the Cuellar study, this Court should reject the
+
+conclusion it reached in Harris regarding the admissibility of firearm and toolmark evidence.
+
+See Def.’s Rule 702 & Daubert Mot. at 6. However, the Court is hesitant to do so based on a
+
+single study, particularly when the Government has raised facially sensible criticisms concerning
+
+that study. See Gov’t’s Opp’n to Def.’s Rule 702 & Daubert Mot. at 50. One such criticism is
+
+that the flaws reported in the Cuellar Study are generally not relevant to firearm validity studies.
+
+To provide just one example, the Cuellar Study cited as a flaw that certain validity studies failed
+
+to calculate, prior to the start of the study, the sample size of the firearms, bullets, or cartridge
+
+casings needed to achieve the study goals. See id. at 49–50. But the Government convincingly
+
+argues that the failure to calculate a sample size at the start should not affect the ultimate results
+
+of the studies. Id. In the end, the Court agrees with the Government that the weaknesses raised
+
+in the Cuellar Study go to the weight, rather than the admissibility, of Mr. Van Arsdale’s
+
+proposed testimony. See id.
+
+        Finally, in analyzing the third, fourth, and fifth Daubert factors, Mr. Joyner raises
+
+essentially the same arguments that the Court already addressed in Harris. As to the third
+
+factor—whether the AFTE methodology has been subject to peer review—although much of the
+
+literature in this discipline has been published in the AFTE Journal, which Mr. Joyner criticizes,
+
+
+
+
+                                                   48
+the Government has shown that dozens of studies have also been published in a variety of other
+
+peer-reviewed scientific journals. See Gov’t’s Opp’n to Def.’s Rule 702 & Daubert Mot. at 33.
+
+On the other hand, the Government has not persuaded the Court that the fourth factor—the
+
+existence of controls that govern the technique’s operation—weighs in favor of admissibility. As
+
+alluded to earlier, and as the Court explained in Harris, it is evident that the AFTE theory lacks
+
+objective standards. See 502 F. Supp. 3d at 41–42. Nevertheless, this factor alone is not an
+
+immediate bar to admissibility; as demonstrated above, a partially subjective methodology is not
+
+inherently unreliable. And as to the fifth factor—whether the technique has been generally
+
+accepted within the relevant scientific community—the Court reiterates its finding in Harris that
+
+in view of the fact that firearm and toolmark identification is practiced by accredited laboratories
+
+in the United States and throughout the world, this methodology has gained widespread
+
+acceptance within the relevant community. See id.; see also Gov’t’s Opp’n to Def.’s Rule 702 &
+
+Daubert Mot. at 43–45 (collecting cases from dozens of courts around the country that have
+
+admitted firearms evidence under Rule 702).
+
+                                         *       *       *
+
+       Balancing all five Daubert factors, the Court finds that Mr. Van Arsdale’s proffered
+
+toolmark identification evidence is reliable and admissible. Although one factor—the lack of
+
+objective criteria—does not favor admissibility, “the subjectivity of a methodology is not fatal
+
+under Rule 702 and Daubert.” Ashburn, 88 F. Supp 3d at 246.
+
+                                      b. Limiting Instruction
+
+       Lastly, Mr. Joyner argues that even if the Court finds Mr. Van Arsdale’s testimony
+
+generally admissible under Rule 702, it should nevertheless limit its scope pursuant to Rule 403,
+
+which permits exclusion of otherwise probative evidence if its probative value is substantially
+
+
+
+
+                                                 49
+outweighed by, inter alia, the risk of unfair prejudice or confusing the jury. See Def.’s Rule 702
+
+& Daubert Mot. at 10; Fed. R. Evid. 403. Mr. Joyner’s primary concern seems to be that Mr.
+
+Van Arsdale will overstate the certainty or scientific nature of his toolmark analysis. The Court
+
+shares this concern. Toolmark analysis is not an exact science, and the jury should not be led to
+
+believe otherwise.
+
+       Accordingly, the Court will grant most of the limitations proposed by Mr. Joyner—
+
+which, in fact, the Government has already agreed to adopt. See Gov’t’s Opp’n to Def.’s Rule
+
+702 & Daubert Mot. at 3. Among other things, Mr. Van Arsdale may not describe the cartridge
+
+casings recovered from the scenes of Armed Robberies 1 and 3 as being a “match,” state his
+
+expert opinion with any level of statistical certainty, or render his opinion “to the exclusion of all
+
+other firearms.” See id. These limitations are in accord with the Department of Justice Uniform
+
+Language for Testimony and Reports for the Forensic Firearms/Toolmarks Discipline—Pattern
+
+Matching Examination (“DOJ ULTR”), https://www.justice.gov/olp/media/1295776/dl?inline
+
+(last visited June 10, 2026).
+
+       Nevertheless, the Court denies Mr. Joyner’s request to preclude Mr. Van Arsdale from
+
+testifying that the two cartridge casings “were identified as having been fired in the same
+
+firearm.” Def.’s Reply in Supp. Rule 702 & Daubert Mot. at 5. The Court agrees with the
+
+Government that Mr. Joyner’s proposed alternative—that Mr. Van Arsdale state merely that he
+
+“could not exclude the bullets as having been fired from the same firearm”—underrepresents the
+
+probative value of his identification conclusion. Gov’t’s Opp’n to Def.’s Rule 702 & Daubert
+
+Mot. at 15–16. Indeed, the DOJ ULTR permits firearms examiners to conclude that casings were
+
+fired from the same firearm when all class characteristics are in agreement, and “the quality and
+
+quantity of corresponding individual characteristics is such that the examiner would not expect to
+
+
+
+
+                                                 50
+find that same combination of individual characteristics repeated in another source and has found
+
+insufficient disagreement of individual characteristics to conclude they originated from different
+
+sources.” DOJ ULTR at 2–3.
+
+       In sum, the Court believes that the testimony limitations as codified in the DOJ ULTR are
+
+reasonable and should govern here. Accordingly, the Court instructs Mr. Van Arsdale to abide
+
+by the expert testimony limitations detailed in the DOJ ULTR.
+
+                        4. Law Enforcement Identification (ECF No. 103)
+
+       Mr. Joyner next moves to preclude law enforcement identification testimony not based on
+
+personal knowledge. Specifically, pursuant to Federal Rules of Evidence 701 and 602, he moves
+
+       to preclude the Government from eliciting law enforcement testimony that (1) identifies
+       Mr. Joyner as the individual depicted in surveillance video footage from offenses the
+       witness did not personally observe, (2) compares surveillance footage across multiple
+       charged incidents and opines that the same individual committed some or all of those
+       offenses, or (3) presents “summary” or “overview” testimony synthesizing investigations
+       the witness did not personally conduct.
+
+Def.’s Mot. Preclude Law Enf’t Identification Test. Not Based on Pers. Knowledge (“Def.’s
+
+Mot. Preclude Law Enf’t Test.”) at 1, ECF No. 103; see also Fed. R. Evid. 701 (limiting opinion
+
+testimony to, inter alia, that “rationally based on the witness’s perception”); Fed. R. Evid. 602
+
+(permitting testimony only upon evidence “that the witness has personal knowledge of the
+
+matter”).
+
+       There appears to be little daylight between Mr. Joyner’s motion and the Government’s
+
+representations about the testimony it anticipates eliciting. Mr. Joyner does not seek to preclude
+
+law enforcement from authenticating surveillance footage, discussing personal observations, or
+
+testifying about the collection and processing of evidence. Def.’s Mot. Preclude Law Enf’t Test.
+
+at 3 n.1. Indeed, Mr. Joyner reiterates that, insofar as officers may testify “about relevant and
+
+admissible facts of which they do have personal knowledge,” he does not object. Def.’s Reply in
+
+
+
+                                                 51
+Supp. Mot. Preclude Law Enf’t Test. at 1–2, ECF No. 135. The Government, for its part, does
+
+not intend to elicit testimony falling into any of the three abovementioned categories from Mr.
+
+Joyner’s motion. Gov’t’s Opp’n to Def.’s Mot. Preclude Law Enf’t Test. at 1, ECF No. 116. As
+
+such, to the extent the Government calls on an officer to “explain what he or she personally
+
+observed and learned about the evidence based on his or her firsthand investigation of an offense,
+
+as well as the investigative actions he or she took based on that evidence,” id. at 3, such
+
+testimony is not in dispute. The Court therefore grants Mr. Joyner’s motion to preclude the
+
+Government from eliciting law enforcement testimony relating to the three categories described
+
+in his motion.26
+
+       Separately, at the motions hearing, the Court became aware of a dispute concerning the
+
+Government’s proposed testimony from the officer who arrested Mr. Joyner on unrelated charges
+
+on April 26, 2023. According to the Government, this officer knew Mr. Joyner separately from
+
+this arrest because she was a corrections officer while Mr. Joyner was previously incarcerated
+
+and interacted him regularly during that time. Hr’g Tr. at 15:8–22. Based on the officer’s prior
+
+knowledge of Mr. Joyner, the Government seeks to have her identify him in photographs that
+
+will be shown to the jury from around the time of the conduct charged in the instant case. Id. at
+
+23:4–11. At the hearing, the Government provided the Court with several out-of-Circuit cases
+
+that it claims support admission of such identification testimony from a law enforcement officer.
+
+See id. at 45:8–46:11 (citing United States v. Dixon, 413 F.3d 540 (6th Cir. 2005); United States
+
+v. Anderson, 783 F.3d 727 (8th Cir. 2015); United States v. Farnsworth, 729 F.2d 1158 (8th Cir.
+
+
+       26
+        Mr. Joyner rejects the Government’s contention that information in police reports is
+admissible in certain situations. See Def.’s Reply in Supp. Mot. Preclude Law Enf’t Test. at 3.
+Because the Government has not indicated that it actually will offer previously undisclosed law
+enforcement identification testimony or police reports, the Court need not address the parties’
+disagreements at this time.
+
+
+                                                 52
+1984); and United States v. Louis, 146 F.4th 1328 (11th Cir. 2025)). Mr. Joyner objects to the
+
+proposed testimony on timeliness and relevance grounds. First, the Government provided notice
+
+of this testimony on June 4, 2026, less than a month before the start of trial. Id. at 34:15–18.
+
+Second, Mr. Joyner argues that the jurors themselves will be able to identify him from the
+
+photographs, as he will be present in the courtroom during trial. Id. at 23:11–14.
+
+       At this point, the Court will excuse the Government’s delay in providing notice, as the
+
+Government has represented that it disclosed the proposed testimony as soon as it learned that
+
+the officer knew Mr. Joyner separately from the April 26 arrest. Id. at 43:8–19. Shortly
+
+thereafter, on June 9, 2026, the Government supplemented the disclosure with additional
+
+information, including the specific photos in which the officer would identify Mr. Joyner. Id. at
+
+43:20–44:7. Despite the lateness of the disclosure, the Court believes Mr. Joyner will have
+
+sufficient time to investigate and prepare for this witness. The Government has represented that
+
+the officer is expected to testify around the middle of trial, which should give Mr. Joyner a few
+
+additional weeks to prepare.
+
+       Furthermore, the Government is correct that its cited cases lend support to the
+
+admissibility of identification testimony from law enforcement officers in certain circumstances.
+
+The Eighth Circuit, for example, has explained that “under Federal Rule of Evidence 701, ‘[a]
+
+witness’s opinion concerning the identity of a person depicted in a surveillance photograph is
+
+admissible if there is some basis for concluding that the witness is more likely to correctly
+
+identify the defendant from the photograph than is the jury.’” Anderson, 783 F.3d at 746
+
+(quoting Farnsworth, 729 F.2d at 1160). Factors that the Eighth Circuit has found relevant to
+
+this analysis include “whether the witness was familiar with the defendant’s appearance around
+
+the time that the surveillance photograph was taken, whether the defendant changed his
+
+
+
+
+                                                 53
+appearance between the time of the surveillance photograph and trial, and whether the
+
+surveillance photograph made it difficult for the jury to make a positive identification of the
+
+defendant.” Id. at 747.
+
+         Here, the Government has established that the arresting officer was familiar with Mr.
+
+Joyner’s appearance around the time of the charged conduct. Furthermore, Mr. Joyner’s
+
+appearance at trial—in terms of both age and attire—will likely differ from his appearance in
+
+photographs from several years ago. Accordingly, contrary to Mr. Joyner’s argument, it does not
+
+appear that this witness’s testimony would usurp the jury’s role. Nevertheless, Mr. Joyner has
+
+not had the chance to respond to the Government’s cited cases in support of its proposed
+
+testimony. Moreover, the Court has not been provided with the specific photographs in which
+
+the Government seeks to have the arresting officer identify Mr. Joyner. And defense counsel
+
+indicated at the motions hearing that Mr. Joyner could be open to stipulating as to his identity in
+
+the relevant photographs, which would obviate the need for the arresting officer’s testimony. See
+
+Hr’g Tr. at 29:23–30:2. Considering the above, the Court provisionally accepts the
+
+Government’s proposed testimony as admissible, but Mr. Joyner is free to renew his objection to
+
+it closer to trial.
+
+                                    5. Jail Calls (ECF No. 104)
+
+         Mr. Joyner moves to suppress and preclude the introduction of any recordings of his jail
+
+calls during his pretrial incarceration. See Def.’s Mot. Suppress & Preclude Jail Call Recordings,
+
+ECF No. 104. He notes that although the Government produced a large quantity of jail calls in
+
+discovery in September of 2025, “a significant number” were not produced in a functioning
+
+format. Id. at 2. On March 6, 2025, Mr. Joyner’s counsel informed the Government of this issue
+
+and insisted that the Government provide corrected files promptly if the Government intended to
+
+
+
+
+                                                 54
+use those files at trial. Id. Having apparently decided that it would not introduce the jail calls in
+
+its case-in-chief, the Government did not immediately provide Mr. Joyner’s counsel with the
+
+corrected files. See Gov’t’s Resp. to Def.’s Mot. Suppress & Preclude Jail Call Recordings at 1–
+
+2, ECF No. 117.
+
+       The Government represents that although it does not plan to introduce the jail calls during
+
+its case-in-chief—and therefore does not oppose Mr. Joyner’s motion in that respect—it reserves
+
+the right to use them on rebuttal or cross-examination if Mr. Joyner opens the door to such
+
+evidence. Id. at 1–2. In anticipation of the latter possibility, the Government has now
+
+reproduced the jail calls. Id. at 1. Mr. Joyner acknowledges that, to the extent he opens the door,
+
+the Government may use this evidence in cross-examination or its rebuttal. See Def.’s Reply in
+
+Supp. Mot. Suppress & Preclude Jail Call Recordings at 1, ECF No. 134. Accordingly, the Court
+
+grants Mr. Joyner’s motion. The Government is precluded from introducing jail calls that it
+
+initially produced in a non-functioning format during its case-in-chief, but it may introduce them
+
+in rebuttal or cross-examination if Mr. Joyner opens the door to this evidence.
+
+                              6. Certain Photographs (ECF No. 105)
+
+       Mr. Joyner moves to preclude the Government from presenting certain photographs
+
+obtained from a cell phone of his relative, N.L., who was with Mr. Joyner when he was arrested
+
+on May 2, 2023. See Def.’s Mot. Exclude, Crop, or Limit Use of Certain Photographs (“Def.’s
+
+Mot. Exclude Photos”), ECF No. 105. Mr. Joyner asks the Court to exclude photographs
+
+depicting: (1) Mr. Joyner in proximity to a gun; (2) Mr. Joyner with large amounts of cash; (3)
+
+Mr. Joyner in the presence of drugs or drug paraphernalia; and (4) photographs not visibly
+
+
+
+
+                                                 55
+showing Mr. Joyner. 27 See id. at 1. These photographs comprise Government Exhibits (“GX”)
+
+1601A–G, I, K–N, and P. See Def.’s Suppl. Mot. Exclude, Crop, or Limit Use of Certain
+
+Photographs (“Def.’s Suppl. Mot. Exclude Photos”) at 3, ECF No. 144.
+
+       Mr. Joyner argues that these photographs should be excluded under Federal Rules of
+
+Evidence 104, 401, and 402, because the Government often fails to provide a basis for relevance;
+
+under Rule 403, because their probative value is substantially outweighed by the risk of unfair
+
+prejudice and likelihood of misleading the jury; and under Rule 404(b), because the photos
+
+impermissibly raise an inference of criminal propensity. See Def.’s Mot. Exclude Photos at 1.
+
+Rule 402 provides that “[i]rrelevant evidence is not admissible.” Fed. R. Evid. 402. Evidence is
+
+relevant if “it has any tendency to make a fact more or less probable than it would be without the
+
+evidence” and “the fact is of consequence in determining the action.” Fed. R. Evid. 401.
+
+Further, when the relevance of evidence depends on the existence of a predicate fact, “proof
+
+must be introduced sufficient to support a finding that the fact does exist.” Fed. R. Evid. 104(b).
+
+Finally, as explained previously, the admissibility of Rule 404(b) evidence is reviewed under a
+
+two-step analysis: first, the evidence must be probative of some material issue other than
+
+character, and second, the evidence must not be unfairly prejudicial under Rule 403. See Fed. R.
+
+Evid. 404(b), 403. In the sections that follow, the Court reviews the admissibility of the four
+
+categories of photographs challenged by Mr. Joyner.
+
+                  a. Photographs Depicting Mr. Joyner in Proximity to a Gun
+
+       Five of the photographs Mr. Joyner challenges depict him with firearms. GX-1601A,
+
+dated April 20, 2023, portrays him sitting inside a Honda HR-V, holding a gun in his left hand
+
+
+       27
+         Mr. Joyner initially also requested that the Government redact photos displaying
+profane or potentially gang-related hand signs. See Def.’s Mot. Exclude Photos at 1. However,
+the Government did not ultimately notice any exhibits depicting such hand signs.
+
+
+                                                56
+and a wad of cash in his right hand. GX-1061B–E, which were taken in January of 2023, show
+
+either a two-tone gun or Mr. Joyner holding a two-tone gun. The Court already discussed these
+
+photographs—the April 20 Photo and the Two-Tone Gun Photos—in the context of the
+
+Government’s Rule 404(b) motion. See supra pp. 10–18; Gov’t’s Suppl. Mot. at 2–3. The
+
+Government repeats its argument here that these photos are admissible as “other crimes”
+
+evidence under Rule 404(b) to show that Mr. Joyner’s possession of a firearm during the charged
+
+offenses was knowing. See Gov’t’s Opp’n to Def.’s Mot. Exclude Photos at 7–8, ECF No. 113.
+
+As the Court explained above, however, showing these photos for that purpose would encourage
+
+jurors to draw the impermissible inference that because Mr. Joyner used guns on other occasions,
+
+he likely used them during the charged offenses, too. See supra pp. 10–18. Still, the
+
+Government may introduce these photographs if Mr. Joyner opens the door to this evidence by
+
+arguing that he could not have committed the charged offenses because he was not familiar with
+
+firearms or did not have access to firearms. The Court will defer consideration until trial of
+
+whether the photos should nevertheless be excluded as unfairly prejudicial under Rule 403.
+
+               b. Photographs Depicting Mr. Joyner with Large Amounts of Cash
+
+       Mr. Joyner also seeks to exclude six photographs—GX-1601A, F–G, and K–N–that show
+
+him with large amounts of cash as irrelevant and unfairly prejudicial under Rule 403. See Def.’s
+
+Mot. Exclude Photos at 3. GX-1601A, F–G, and L–N depict Mr. Joyner with cash inside a
+
+Honda HR-V, and GX-1601K shows him sitting on a couch and holding a wad of cash. As
+
+noted, GX-1601A is not admissible to prove Mr. Joyner’s knowing possession of a firearm.
+
+Still, the Government argues that GX-1601A and other photos are otherwise admissible under
+
+Rule 404(b) to prove Mr. Joyner’s identity because they depict Mr. Joyner wearing clothes and
+
+accessories similar to those worn by the perpetrator of several of the charged offenses. Gov’t’s
+
+
+
+
+                                                57
+Opp’n to Def.’s Mot. Exclude Photos at 7. The Government further argues that the photos
+
+showing him inside the HR-V help prove that he committed Armed Carjacking 1, during which a
+
+similar HR-V was stolen. Id. As explained below, although the photos are relevant, the cash
+
+pictured in them is not.
+
+       At the outset, the Court addresses—and quickly dismisses—the Government’s argument
+
+that the photos depicting Mr. Joyner inside an HR-V are “intrinsic” evidence of Armed
+
+Carjacking 1 and thus admissible regardless of whether Rule 404(b) is satisfied. See Gov’t’s
+
+Opp’n to Def.’s Mot. Exclude Photos at 7. Under D.C. Circuit precedent, intrinsic evidence
+
+consists of evidence of (1) “an act that is part of the charged offense,” or (2) “uncharged acts
+
+performed contemporaneously with the charged crime” that “facilitate the commission of the
+
+charged crime.” Bowie, 232 F.3d at 929. Here, GX-1601A, F–G, and L–N depict Mr. Joyner
+
+with cash inside an HR-V, which, according to the Government, belongs to the victim of Armed
+
+Carjacking 1. Still, according to their metadata, these photographs were all taken a week after
+
+the HR-V was carjacked. The Court therefore does not understand how these photos depict “an
+
+act that is part of the charged offense.” Some courts have held that the crime of carjacking can
+
+continue past the initial dispossession of the vehicle through the perpetrator’s escape from
+
+pursuit. See United States v. Villalobos-Macias, 280 F. Supp. 3d 1211, 1217–18 (D.N.M. 2017)
+
+(collecting cases). But these photos depict Mr. Joyner a week after the alleged carjacking—
+
+presumably long after he “reached a place of temporal safety” ending his flight. Id. at 1218.
+
+And for the same reason, these photos cannot depict an uncharged act performed
+
+contemporaneously with the carjacking.
+
+       Even if not intrinsic evidence, though, the photos of Mr. Joyner inside the HR-V can
+
+come in under Rule 404(b) as evidence that tends to prove Mr. Joyner’s “identity” as the
+
+
+
+
+                                                 58
+perpetrator of Armed Carjacking 1 and other offenses. Fed. R. Evid. 404(b)(2). His identity as
+
+the perpetrator is discernable in at least two ways. First, a few of the photos show Mr. Joyner
+
+wearing distinctive clothing and accessories also worn by the perpetrator of some of the charged
+
+offenses. Specifically, GX-1601G shows him wearing gray New Balance sneakers and a
+
+necklace with a double “S” medallion, and GX-1601N shows him wearing the same necklace.
+
+As previously explained, see supra pp. 19, surveillance footage captured the suspect of Armed
+
+Carjacking 1 wearing a similar necklace shortly after the crime and the perpetrator of Armed
+
+Carjacking 1 and Armed Robberies 2–3 wearing similar shoes. GX-1601G and N are admissible
+
+to help prove Mr. Joyner’s identity as the perpetrator of those offenses.
+
+       Second, GX1601A, F–G, and L–N depict Mr. Joyner inside a Honda HR-V, which the
+
+Government contends is the same vehicle that was stolen in Armed Carjacking 1. See Gov’t’s
+
+Opp’n to Def.’s Mot. Exclude Photos at 7. Of course, these photos are relevant only if the
+
+Government can prove that the two vehicles are indeed the same. See Fed. R. Evid. 104(b). The
+
+Government claims this is the case because a Virginia registration sticker depicted in one of the
+
+photos shows that the HR-V inside of which Mr. Joyner is pictured belongs to the victim of
+
+Armed Carjacking 1. See Gov’t’s Opp’n to Def.’s Mot. Exclude Photos at 7. Mr. Joyner has not
+
+addressed this claim. But provided that the Government can show through the registration
+
+sticker or otherwise that these photos depict the HR-V that was stolen in Armed Carjacking 1,
+
+the photos will be deemed admissible under this second theory. 28
+
+       In sum, subject to the constraints described above, the photos depicting Mr. Joyner with
+
+cash inside a Honda HR-V—GX-1601A, F–G, and L–N—are admissible to prove his identity
+
+
+       28
+         Unless the Government has done so already, the Court orders it to describe to Mr.
+Joyner any other proof it has that the HR-V in the photos belongs to the victim of Armed
+Carjacking 1.
+
+
+                                                59
+under Rule 404(b). As for the final photo—GX-1601K, which shows him sitting on a couch and
+
+holding a wad of cash—this photo is also relevant because it shows Mr. Joyner wearing the
+
+double “S” necklace.
+
+       Nevertheless, the Court agrees with Mr. Joyner that showing the jury photos of him
+
+flaunting piles of cash will “unfairly suggest, without evidentiary support, that [he] committed a
+
+crime and benefitted financially.” Def.’s Mot. Exclude Photos at 3 (quoting United States v.
+
+Lackey, No. 17-cr-269, 2019 WL 6464656, at *3 (M.D. Pa. Dec. 2, 2019)). Citing a Sixth
+
+Circuit case, the Government counters that “unfair prejudice does not outweigh probative value”
+
+for photos depicting wealth if “(1) there is other credible evidence, direct or circumstantial, of
+
+the illegal activity; (2) the money spent was not available to the defendant from a legitimate
+
+source; and (3) the accumulation of great wealth or extravagant spending relates to the period of
+
+the alleged illegal activity.” Gov’t’s Opp’n to Def.’s Mot. Exclude Photos at 8–9 (quoting
+
+United States v. Jackson-Randolph, 282 F.3d 369, 378 (6th Cir. 2002)). But Jackson-Randolph
+
+is inapposite. In that case, the Sixth Circuit held that evidence of the defendant’s lavish lifestyle
+
+was admissible “to demonstrate, not just motive, but also a likelihood that the extra wealth came
+
+from illegitimate sources and to support an inference that the defendant committed the alleged
+
+crime.” 282 F.3d at 378. The Government is not offering the photos at issue here to prove that
+
+the cash pictured in them was obtained through illegal activity. By its own telling, it is offering
+
+them to prove that Mr. Joyner committed Armed Carjacking 1 and other offenses because he
+
+wore similar clothes and used a similar car on other occasions. As the Government conceded at
+
+the motions hearing, the cash in these photos is irrelevant to those purposes. See Hr’g Tr. at
+
+13:12–15 (“[W]e’re not introducing photographs of the cash specifically for cash. We are
+
+introducing photographs of the defendant as he is dressed and there just happens to be cash
+
+
+
+
+                                                 60
+there.”). Accordingly, the Court orders the Government to redact or crop the piles of cash visible
+
+in the photos. 29
+
+     c. Photographs Depicting Mr. Joyner in the Presence of Drugs or Drug Paraphernalia
+
+        The Government has already agreed to redact drugs or drug paraphernalia from its
+
+proffered photos. See Gov’t’s Opp’n to Def.’s Mot. Exclude Photos at 10. Nevertheless, as Mr.
+
+Joyner notes, several photos in the Government’s exhibits still appear to depict drugs or drug
+
+use. See Def.’s Suppl. Mot. Exclude Photos at 3. The Government is ordered to make necessary
+
+redactions, including the bag in the center console shown in GX-1601A, L, and N; the materials
+
+in the passenger’s hand in GX-1601G; and the substance in the ash tray in GX-1601I.
+
+                           d. Photos Not Visibly Showing Mr. Joyner
+
+        Finally, Mr. Joyner seeks exclusion of two photos that do not depict him. First, one of
+
+the Two-Tone Gun photos—GX-1601D—simply shows the gun on the floor. See Def.’s Mot.
+
+Exclude Photos at 8. As noted, the Two-Tone Gun photos will be admissible only if Mr. Joyner
+
+opens the door to this evidence by raising a lack of possession defense. If the Government moves
+
+to admit GX-1601D in rebuttal or cross-examination, Mr. Joyner is free to renew his motion to
+
+exclude this photograph.
+
+
+        29
+           At the motions hearing, the Government suggested that even though it is not offering
+the photographs to prove that the cash depicted in them comes from a particular robbed store, it
+can nevertheless show the jury the cash because, according to case law, “that can go to whether
+or not the defendant is someone who had robbed, like, 7-11s or the gas stations previously.”
+Hr’g Tr. at 13:22–14:2. This case law appears to include Jackson-Randolph. In its opposition
+brief, the Government argued it could fulfill the three conditions set forth in Jackson-Randolph
+because: first, it will show at trial that Mr. Joyner committed armed robberies around the time the
+photos were taken; second, it will subpoena his tax records for 2023 and show his income during
+this period; and third, it will show that photos of Mr. Joyner holding large sums of cash were
+taken immediately following the robberies. See Gov’t’s Opp’n to Def.’s Mot. Exclude Photos at
+8–9. However, as of the filing of Mr. Joyner’s reply to the instant motion, the Government had
+not disclosed the tax records. If the Government intended to subpoena Mr. Joyner’s tax records,
+the Court does not understand why it waited until the eve of trial to inform him of this.
+
+
+                                                61
+       Second, Mr. Joyner opposes introduction of GX-1601P, which shows the vehicle
+
+identification number (“VIN”) of a Kia Optima. See Def.’s Mot. Exclude Photos at 9. This
+
+photo is admissible because it tends to connect Mr. Joyner to Armed Robbery 5. As the
+
+Government explains, surveillance footage from Armed Robbery 5 shows the perpetrator
+
+running to and from a Kia Optima parked nearby. See Gov’t’s Opp’n to Def.’s Mot. Exclude
+
+Photos at 12. The Kia Optima was later recovered near where Mr. Joyner was arrested. Id. Mr.
+
+Joyner’s fingerprints were found on the Kia Optima. Id. In that context, a photo of the Kia
+
+Optima recovered from the phone of Mr. Joyner’s relative serves to establish further ties between
+
+the vehicle and Mr. Joyner. Thus, the Court disagrees with Mr. Joyner that the Government has
+
+failed to explain how a photo of a Kia Optima on someone else’s phone ties Mr. Joyner to that
+
+vehicle. See Def.’s Reply in Supp. Mot. Exclude Photos at 5, ECF No. 136.
+
+                   7. Testimony of Officer Jermone McClinton (ECF No. 106)
+
+       Mr. Joyner moves in limine to exclude or limit the testimony of Metropolitan Police
+
+Department Officer Jermone McClinton under Federal Rules of Evidence 702 and 403. See
+
+Def.’s Mot. Limit Test. of Officer Jermone McClinton (“Def.’s Mot. Limit McClinton Test.”),
+
+ECF No. 106. The Government provided timely notice of its intent to elicit expert testimony
+
+from Officer McClinton regarding a U.S. Fire Arms Manufacturing Co. Zip .22 LR firearm that
+
+law enforcement found beside Mr. Joyner in the vehicle in which he was arrested for the instant,
+
+charged conduct on May 2, 2023. See Gov’t’s Not. of Expert Test. in the Field of Firearms
+
+Seized in the District of Columbia (“McClinton Not.”), ECF No. 87. As set forth below, the
+
+Court grants this motion in part and denies it in part.
+
+       The Government alleges that during the last six robberies (Armed Robberies 5–10)
+
+charged in the Superseding Indictment, which took place in the three days before Mr. Joyner was
+
+
+
+
+                                                 62
+arrested, Mr. Joyner brandished what appears to be the same firearm, based on CCTV footage
+
+from some of the targeted stores. See Gov’t’s Opp’n to Def.’s Mot. Limit McClinton Test., ECF
+
+No. 118. The Government seeks to have Officer McClinton testify, inter alia, that he is an
+
+officer in the Department of Forensic Sciences National Integrated Ballistic Information
+
+Network (“NIBIN”) Unit, where he test-fires guns; that he test-fired the U.S. Fire Arms
+
+Manufacturing Co. Zip .22 LR recovered in this case; that he “has test-fired over 10,000 firearms
+
+that law enforcement has seized in the District of Columbia, Maryland, and Virginia”; that out of
+
+all the firearms he hast test-fired, he “has never received and/or test-fired another U.S. Fire Arms
+
+Manufacturing Co. Zip .22 LR” or a firearm that “looks like the firearm . . . recovered in this
+
+case,” whose “shape and appearance . . . are unique.” McClinton Not. at 2.
+
+       Mr. Joyner argues that this testimony does not satisfy the standards set forth in Rule 702,
+
+which permits a witness who is “an expert by knowledge, skill, experience, training, or
+
+education” to “testify in the form of an opinion or otherwise if the proponent demonstrates” a
+
+likelihood that “(a) the expert’s scientific, technical, or other specialized knowledge will help the
+
+trier of fact to understand the evidence or to determine a fact in issue; (b) the testimony is based
+
+on sufficient facts or data; (c) the testimony is the product of reliable principles and methods; and
+
+(d) the expert’s opinion reflects a reliable application of the principles and methods to the facts
+
+of the case.” Fed. R. Evid. 702. In Mr. Joyner’s view, the Government fails to establish that
+
+Officer McClinton has employed “reliable principles and methods” and applied them reliably to
+
+the facts of the case in arriving at his uniqueness opinion regarding the U.S. Fire Arms
+
+Manufacturing Co. Zip .22 LR. Def.’s Mot. Limit McClinton Test. at 3–4. Accordingly, Mr.
+
+Joyner urges the Court to find Officer McClinton’s testimony inadmissible under the Daubert
+
+factors. See id. at 2–3. Again, these factors include “whether the theory or technique in question
+
+
+
+
+                                                 63
+can be (and has been) tested, whether it has been subjected to peer review and publication, its
+
+known or potential error rate and the existence and maintenance of standards controlling its
+
+operation, and whether it has attracted widespread acceptance within a relevant scientific
+
+community.” 509 U.S. at 580.
+
+       The Court concludes that Officer McClinton’s proposed testimony is admissible. As a
+
+preliminary matter, “personal experience can be a reliable and valid basis for expert testimony.”
+
+Groobert, 219 F. Supp. 2d at 7. Furthermore, the Court need not find that the proffered
+
+testimony conforms to all Daubert factors to deem it sufficiently reliable for admission. As the
+
+Supreme Court has explained, “the Rule 702 inquiry is a flexible one,” and “the factors identified
+
+in Daubert may or may not be pertinent in assessing reliability, depending on the nature of the
+
+issue, the expert’s particular expertise, and the subject of his testimony.” Kumho Tire Co. v.
+
+Carmichael, 526 U.S. 137, 150 (1999) (citation modified). “This is particularly true with non-
+
+scientific testimony, where the Daubert factors may not apply because the issue is ‘highly
+
+particular and has not attracted scientific scrutiny.’” Groobert, 219 F. Supp. 2d at 7 (quoting
+
+Ambrosini v. Labarraque, 101 F.3d 129, 134 (D.C. Cir. 1996)). At the same time, Rule 702
+
+cautions that “an expert’s testimony should [not] be treated more permissibly simply because it is
+
+outside the realm of science.” Fed. R. Evid. 702 Advisory Committee’s Note to 2000
+
+Amendment; see also United States v. Stagliano, 729 F. Supp. 2d 222, 225 (D.D.C. 2010) (“Of
+
+course, the Daubert framework is not limited to scientific testimony.”).
+
+       The Government offers Officer McClinton’s testimony as an “expert witness in the field
+
+of make, model, and caliber of firearms seized in the District of Columbia, Maryland, and
+
+Virginia.” McClinton Not. at 1. “The party wishing to use an expert witness must first establish
+
+the witness’s ‘knowledge, skill, experience, training, or education.’” United States v. Smith, 640
+
+
+
+
+                                                64
+F.3d 358, 365 (D.C. Cir. 2011) (quoting Fed. R. Evid. 702)). The Government has done so here.
+
+It explains that as part of his job, Officer McClinton receives firearms that are seized in the local
+
+area; notates descriptive information about them, including their make, model, and caliber; and
+
+test-fires them so that a separate technician can upload images of their test-fired cartridge casings
+
+into the NIBIN system. McClinton Notice at 1. Officer McClinton has served in this role for
+
+over twenty years and, in doing so, has test-fired over 10,000 firearms. Id. at 2. Officer
+
+McClinton’s significant experience easily qualifies him as an expert witness. Cf. Smith, 640 F.3d
+
+at 366 (opining that an FBI agent “would have qualified as an expert and testified about . . . slang
+
+conversations . . . based on his 21 years with the FBI and 17 years investigating drug crimes,
+
+hundreds of drug investigations, and thousands of hours listening to wiretapped conversations
+
+between drug dealers”).
+
+       Although Mr. Joyner does not directly dispute Officer McClinton’s qualifications, he
+
+challenges the reliability of the “principles and methods” he employed to arrive at his
+
+conclusions concerning the U.S. Fire Arms Manufacturing Co. Zip .22 LR. Fed. R. Evid. 702(c)–
+
+(d); Def.’s Mot. Limit McClinton Test. at 3–4. As noted, however, the Government has
+
+established that Officer McClinton’s specialized knowledge derives from his professional
+
+experience notating information about thousands of firearms seized in the area—including make,
+
+model, and caliber—and test-firing them. It is reasonable to suppose that in doing so, he has
+
+become very familiar with which firearms are common to the area and which are not. The Court
+
+believes that he is entitled to rely on this specialized knowledge to formulate an opinion
+
+regarding the uniqueness of the U.S. Fire Arms Manufacturing Co. Zip .22 LR. 30 Cf. United
+
+
+
+       30
+        Mr. Joyner also faults the Government’s notice for not explaining exactly how Officer
+McClinton’s experience allowed him to reach the conclusion that the U.S. Fire Arms
+Manufacturing Co. Zip .22 LR is rare in the area. For this reason, Mr. Joyner contends that an
+
+
+                                                 65
+States v. Wilson, 605 F.3d 985, 1026 (D.C. Cir. 2010) (“[A]n individual testifying about the
+
+operations of a drug conspiracy based on previous experiences with other drug conspiracies has
+
+‘specialized’ knowledge and . . . should be admitted as an expert.”). Officer McClinton need not,
+
+as Mr. Joyner suggests, have consulted a specific “database” or “statistical framework” for his
+
+opinion to be deemed reliable. Def.’s Mot. Limit McClinton Test. at 3; see also Metavante
+
+Corp. v. Emigrant Sav. Bank, 619 F.3d 748, 761 (7th Cir. 2010) (“An expert’s testimony is not
+
+unreliable simply because it is founded on his experience rather than on data.”).
+
+       Additionally, at this moment, the Court believes that the probative value of Officer
+
+McClinton’s testimony is not “substantially outweighed by the danger of . . . unfair prejudice,
+
+confusing the issues, misleading the jury, undue delay, wasting time, or needlessly presenting
+
+cumulative evidence.” Fed. R. Evid. 403. The probative value is patently clear. Based on
+
+CCTV footage, the perpetrator of Armed Robberies 5–10 robbed the stores with a firearm of the
+
+same size, color, and shape—including the distinctive curvy magazine—as the U.S. Fire Arms
+
+Manufacturing Co. Zip .22 LR seized by law enforcement at the time of Mr. Joyner’s arrest. If
+
+the jury believes Officer McClinton’s testimony that, in his time examining firearms that were
+
+seized locally, he has never received another firearm quite like the U.S. Fire Arms
+
+
+
+
+evidentiary hearing is needed to determine whether Officer McClinton will provide a sufficiently
+reliable basis for this opinion. See Def.’s Req. for Evid. H’rg Regarding Jermone McClinton’s
+Test., ECF No. 143. But, again, it seems clear to the Court that Officer McClinton would have
+relied on his deep familiarity with the sorts of handguns seized in the region—derived, at
+minimum, from his professional experience notating information about such handguns—to reach
+a conclusion regarding the uniqueness of the U.S. Fire Arms Manufacturing Co. Zip .22 LR.
+And the Government confirmed at the motions hearing that Officer McClinton’s opinion will be
+based on his recollection of the thousands of handguns he has examined and test-fired in his
+professional capacity. See Hr’g Tr. at 51:23–52:24. Accordingly, the Court denies Mr. Joyner’s
+request for an evidentiary hearing.
+
+
+                                                66
+Manufacturing Co. Zip .22 LR, the likelihood increases that the firearm seized upon Mr. Joyner’s
+
+arrest is the same as the one used in the commission of Armed Robberies 5–10. 31
+
+       Mr. Joyner’s principal argument as to prejudice is that the Government is offering Officer
+
+McClinton as both a fact and expert witness, see McClinton Notice at 4 (“Much of [Officer
+
+McClinton’s] testimony will be ‘fact’ testimony and will not fall within the ambit of ‘expert’
+
+testimony.”), and “the jury is likely to be confused as to what portion of Officer McClinton’s
+
+testimony comprises factual observations and what portion comprises expert conclusions.” See
+
+Def.’s Reply in Supp. Mot. Limit McClinton Test. at 3, ECF No. 130. Mr. Joyner is correct that
+
+offering a “‘two-hatted’ witness providing closely related lay and expert opinion testimony”
+
+presents the risk of jury confusion as to whether an opinion is based on the witness’s personal or
+
+specialized knowledge. United States v. Williams, 827 F.3d 1134, 1160 (D.C. Cir. 2016).
+
+Nevertheless, “[u]nder the Federal Rules of Evidence, the same witness should be allowed to
+
+‘provide both lay and expert testimony in a single case’”—a position that is “supported by
+
+authority within and outside of this jurisdiction.” United States v. Eiland, No. 4-cr-379, 2006
+
+WL 2844921, at *2 (D.D.C. Oct. 2, 2006) (quoting Fed. R. Evid. 701 Advisory Committee’s
+
+Note to 2000 Amendment) (collecting cases). Specifically, Rule 701 allows a lay witness to
+
+provide an opinion that is “rationally based on the witness’s perception,” and Rule 702 allows an
+
+expert witness to provide an opinion that is based on “the expert’s scientific, technical, or other
+
+specialized knowledge.” Fed. R. Evid. 701(a), 702(a).
+
+
+       31
+           Mr. Joyner argues that Officer McClinton’s testimony is not necessary because the jury
+itself can compare photos of the seized U.S. Fire Arms Manufacturing Co. Zip .22 LR with
+CCTV footage of the firearm used in Armed Robberies 5–10. Def.’s Mot. Limit McClinton
+Test. at 6. However, Officer McClinton’s expert testimony is not being offered to help the jury
+determine whether, based on such a visual comparison, the two firearms are indeed the same.
+Rather, it is being offered to help the jury understand that a U.S. Fire Arms Manufacturing Co.
+Zip .22 LR is not a type of firearm that is common in the area.
+
+
+                                                 67
+       In Williams, the D.C. Circuit found that the risk of jury confusion was exacerbated when
+
+an FBI agent was permitted to provide, on the one hand, lay opinion testimony interpreting
+
+recorded conversations between alleged co-conspirators in a cocaine-distribution scheme that he
+
+had listened to during the FBI’s investigation, and on the other, expert opinion testimony on “the
+
+interpretation of words and phrases used by drug traffickers.” 827 F.3d 1134, 1157 (D.C. Cir.
+
+2016) (citation omitted). However, the D.C. Circuit’s finding was based not on the admission of
+
+both forms of testimony per se, but rather on flaws in the presentation of the testimony, including
+
+the lack of an “adequate explanation of the bases for [the agent’s] lay opinions to distinguish
+
+them from his expert opinions.” Id. at 1160. Thus, rather than exclude Officer McClinton’s
+
+testimony, the Court will instead instruct Officer McClinton to be vigilant about identifying the
+
+bases for his opinions and clear about whether his opinions are based on his personal knowledge
+
+or his professional experience.
+
+       Finally, Mr. Joyner requests that the Court preclude Officer McClinton from using terms
+
+like “rare” or “unique” to describe the U.S. Fire Arms Manufacturing Co. Zip .22 LR. In his
+
+view, the Government has “concede[d] that any marginal probative value from Officer
+
+McClinton’s testimony is not dependent on the use of words like ‘rare’ or ‘unique’ to describe
+
+the firearm.” Def.’s Reply in Supp. Mot. Limit McClinton Test. at 4. The Court agrees with Mr.
+
+Joyner that it is different for a NIBIN officer to state that he has never seen a particular handgun
+
+in his decades-long career and the same officer to call that handgun “unique.” The former leaves
+
+no doubt as to the basis for the officer’s belief—his experience handling firearms as an officer in
+
+the NIBIN unit —while the latter might suggest to the jury that the handgun is one of a kind as
+
+an objective matter. See Unique, Oxford English Dictionary (2d ed. 1989) (defining “unique” as
+
+“[o]f which there is only one”). Nevertheless, provided that Officer McClinton explains to the
+
+
+
+
+                                                 68
+jury that the basis for his opinion derives from his own experience, the Court does not see a
+
+substantive difference between stating that he has never seen a particular handgun and stating
+
+that the handgun is “rare.” Thus, although the Court will preclude Officer McClinton from using
+
+the term “unique,” he is free to describe the U.S. Fire Arms Manufacturing Co. Zip .22 LR as
+
+“rare,” “unusual,” or other similar terms if he also notes that his opinion is based strictly on his
+
+experience dealing with handguns in the course of his employment.
+
+                             8. Certain Expert Testimony (ECF No. 107)
+
+           In an omnibus motion, Mr. Joyner moves in limine to limit and, where appropriate,
+
+exclude certain testimony from several of the Government’s proposed expert witnesses. See
+
+Def.’s Omnibus Mot. in Limine Limit & Excl. Certain Expert Test. (“Def.’s Omnibus Mot.”),
+
+ECF No. 107. Mr. Joyner does not challenge this expert testimony as inadmissible under Rule
+
+702. Instead, he requests that the Court “limit the Government’s expert testimony under Rule
+
+403 to prevent misleading or confusing the jury, including by (1) prohibiting language that
+
+overstates the reliability of the experts’ methods or findings, such as describing results with
+
+certainty; (2) preventing blurred lines between expert and fact testimony; (3) excluding
+
+cumulative expert testimony; and (4) precluding testimony that exceeds the scope of disclosed
+
+opinions, relies on undisclosed methodologies or data, or introduces new conclusions at trial.”
+
+Id. at 3. The Court addresses Mr. Joyner’s motion with respect to several of the Government’s
+
+proposed experts. As set forth below, the Court grants Mr. Joyner’s motion in part and denies it
+
+in part.
+
+                                      a. Latent Print Examiners
+
+           The Government has noticed testimony from three latent fingerprint examiners who are
+
+expected to testify, inter alia, to the similarities between Mr. Joyner’s prints and prints recovered
+
+
+
+
+                                                  69
+from the Government’s evidence. See Def.’s Omnibus Mot. at 3. Mr. Joyner argues that the
+
+experts should be precluded from identifying him as the source of prints or using language such
+
+as “match,” degree of statistical certainty,” and “to the exclusion of others.” Id. at 3–4. The
+
+Government, for its part, affirms that it will follow the guidance set forth in the relevant DOJ
+
+ULTR, including by not eliciting testimony that two prints originated from the same source with
+
+absolute accuracy or using terms like “reasonable degree of scientific certainty.” See Gov’t’s
+
+Opp’n to Def.’s Omnibus Mot. at 9, ECF No. 119. Also consistent with the DOJ ULTR,
+
+however, the Government does intend to elicit testimony about a “source identification.” Id. As
+
+noted previously, the Court believes that the testimony limitations codified in the DOJ ULTR
+
+should govern the testimony proffered by the Government’s experts. Accordingly, the Court
+
+instructs the Government’s latent print examiners to abide by the expert testimony limitations
+
+detailed in the DOJ ULTR.
+
+                                     b. Interstate Nexus Expert
+
+       The Government has also noticed an expert to testify at trial that the firearm, cartridges,
+
+and casings recovered during the investigation are “firearms” and “ammunition” as defined by
+
+federal law and traveled in interstate commerce. See Def.’s Omnibus Mot. at 4. The parties
+
+largely agree on the limitations that should govern the interstate nexus expert’s testimony. See
+
+Gov’t’s Opp’n to Def.’s Omnibus Mot. at 11 (agreeing that the expert’s testimony “should be
+
+limited to his disclosed opinions in his report and timely filed expert notice”). To the extent the
+
+parties fail to agree to a stipulation on the intestate nexus element, the Court instructs the
+
+Government’s interstate nexus expert to limit his testimony to his disclosed report and timely
+
+filed expert notice.
+
+
+
+
+                                                  70
+                                         c. Digital Forensics
+
+       The Government has further provided notice that digital forensics experts will testify
+
+about digital data extractions performed on cell phones seized during the investigation. See
+
+Def.’s Omnibus Mot. at 5. Again, the parties largely agree on the limitations that should govern
+
+the experts’ testimony. The Government notes that the experts will not offer an “opinion about
+
+[Mr. Joyner’s] connection or nexus to the cellphones from which they extracted data” or an
+
+“interpretation of the factual significance of the data.” Gov’t’s Opp’n to Def.’s Omnibus Mot. at
+
+13. The experts will “simply explain[ ] the hardware and software that they used to extract data
+
+and showing the jury what the data . . . shows.” Id. The Court instructs the digital forensics
+
+experts to abide by these limitations.
+
+                                d. Electronic Tracking Technology
+
+       Finally, the Government noticed John Wood, a Senior Regional Coordinator at 3Si
+
+Security System, as an expert in electronic tracking devices to testify about a 3Si GPS tracker
+
+recovered after Armed Robbery 5. See Notice of Expert Test. (“Wood Notice”), ECF No. 90.
+
+The GPS tracker was included in a bundle of money that was robbed from a 7-Eleven during
+
+Armed Robbery 5. See Gov’t’s Opp’n to Def.’s Omnibus Mot. at 14. The Government’s notice
+
+states that Mr. Wood is expected to testify, among other things, regarding “the activation of 3Si’s
+
+GPS tracking device, the functionality of the GPS tracking device, the GPS tracking technology,
+
+and the longitudinal and latitudinal data the GPS tracking device provides to assist law
+
+enforcement.” Wood Notice at 3. Mr. Joyner does not appear to challenge this testimony.
+
+However, he argues that Mr. Wood should be precluded from testifying regarding “the specific
+
+data reviewed by law enforcement regarding the GPS tracker” recovered after Armed Robbery 5
+
+or “the evidentiary value of that data in the investigation of the armed robbery.” Def.’s Omnibus
+
+
+
+
+                                                 71
+Mot. at 6–7 (quoting Wood Notice at 3). Mr. Joyner argues that the latter is fact testimony
+
+falling outside the scope of Rule 702, and to admit it would “raise[ ] the risk the jury will
+
+impermissibly lend expert credibility” to issues of fact. Def.’s Omnibus Mot. at 7.
+
+       The Court does not find Mr. Wood’s proposed testimony unfairly prejudicial. As an
+
+initial matter, the Court is not convinced that testimony about specific data concerning the GPS
+
+tracker from Armed Robbery 5 falls outside the scope of Rule 702. As the Government notes,
+
+Rule 702 allows a witness who is qualified as an expert by “training” to testify if his “specialized
+
+knowledge will help the trier of fact to understand the evidence.” Fed. R. Evid. 702(a). The
+
+Government explains that in his role as Senior Regional Coordinator, Mr. Wood “assists law
+
+enforcement agencies with . . . the monitoring, tracking, and deployment of electronic tracking
+
+devices.” Wood Notice at 2. After Mr. Joyner filed the instant motion, the Government filed a
+
+supplemental notice for Mr. Wood. See Suppl. Wood Notice, ECF No. 111. In that notice, the
+
+Government explains that Mr. Wood’s testimony regarding the “evidentiary value” of the data
+
+recovered from the GPS tracker at issue will include “describ[ing] the particular travel path of
+
+the 3Si tracking device from the 7-Eleven to its ultimate resting location, from which law
+
+enforcement recovered the device.” Id. at 3. The Federal Rules of Evidence explain that “[l]ay
+
+testimony results from a process of reasoning familiar in everyday life, while expert testimony
+
+results from a process of reasoning which can be mastered only by specialists in the field.” Fed.
+
+R. Evid. 701 Advisory Committee’s Note to 2000 Amendment (citation modified). Here,
+
+interpretation of the data specific to the GPS tracker from Armed Robbery 5 could very well
+
+require “reasoning which can be mastered only by specialists in the field.”
+
+       Even if such testimony is not within Rule 702’s scope, the Court believes that Mr. Wood
+
+would be able to testify as both an expert (with respect to the method of GPS data extraction) and
+
+
+
+
+                                                 72
+a lay witness (with respect to the specific location of the GPS tracker at issue) with little risk of
+
+prejudice to Mr. Joyner. In United States v. Thompson, for example, the Third Circuit affirmed
+
+the trial court’s decision to allow a 3Si executive to testify as a lay witness regarding “the data
+
+generated by [a GPS] device” and to “explain[ ] how the responding police officers were able to
+
+track and apprehend [the defendant] using the GPS system.” United States v. Thompson, 393 F.
+
+App’x 852, 858 (3d Cir. 2010). There, the executive “was responsible for customer service and
+
+sales,” and, by virtue of “conducting live demonstrations of the reliability of the GPS devices” to
+
+prospective clients, he was afforded a “basis for attesting to the reliability of the system.” Id.
+
+Here, Mr. Wood directly assists law enforcement with “the monitoring, tracking, and deployment
+
+of electronic tracking devices.” Wood Notice at 2. To the extent that his interpretation of data
+
+from the GPS tracker at issue is not based on specialized knowledge, the Court finds that—
+
+provided that the “factual predicate of the testimony” is established at trial—this interpretation
+
+would be “rationally based on [Mr. Wood’s] perception.” Thompson, 393 F. App’x at 858–59
+
+(citation modified).
+
+                                           *       *      *
+
+       After Mr. Joyner filed the present motion, the Government filed a supplemental notice
+
+providing further information about testimony to be offered by three experts. First, in March of
+
+2026, it noticed electronic tracking technology expert John Wood, see Wood Notice, and on May
+
+25, 2026, it supplemented this notice, see Suppl. Wood Notice, ECF No. 116. Second, in June of
+
+2025, it noticed latent print expert Keturah Wallace, see Notice of Expert Test. (“Wallace
+
+Notice”), ECF No. 66, and on May 27, 2026, it supplemented this notice, see Suppl. Wallace
+
+Notice, ECF No. 123. Third, in June of 2025, it noticed NIBIN officer Jermone McClinton, see
+
+McClinton Notice, and on June 1, 2026, it supplemented this notice, see Suppl. McClinton
+
+
+
+
+                                                  73
+Notice, ECF No. 124. However, the Court’s scheduling order required the Government to “file
+
+expert witness notices (or supplement prior notices)” by April 6, 2026. See Second Revised
+
+Pretrial Order, ECF No. 80. Mr. Joyner thus moves to preclude late-noticed testimony from
+
+these experts. See Def.’s Mot. Preclude Late-Noticed Expert Test., ECF No. 125.
+
+       Under Federal Rule of Criminal Procedure 16(a)(1)(G), the time for the Government to
+
+make its expert disclosures “must be sufficiently before trial to provide a fair opportunity for the
+
+defendant to meet the government’s evidence.” Fed. R. Crim. P. 16(a)(1)(G)(ii). Disclosures
+
+must contain, among other things, “a complete statement of all opinions that the government will
+
+elicit from the witness” and “the bases and reasons for them.” Fed. R. Crim. P. 16(a)(1)(G)(iii).
+
+The purpose of Rule 16’s notice requirements is to “minimize surprise that often results from
+
+unexpected expert testimony, reduce the need for continuances, and to provide the opponent with
+
+a fair opportunity to test the merit of the expert’s testimony through focused cross-examination.”
+
+Fed. R. Crim. P. 16 Advisory Committee’s Note to 1993 Amendment. If a party fails to comply
+
+with the Rule, a court is authorized to impose sanctions, up to and including “prohibit[ing] that
+
+party from introducing the undisclosed evidence.” Fed. R. Crim. P. 16(d)(2)(C).
+
+       Although the Government’s supplements here are untimely, the Court does not believe
+
+that exclusion of supplemental expert testimony is warranted. For one, with respect to the Wood
+
+and McClinton Notices, the Government’s supplements provide additional information within
+
+the scope of the opinions provided in the initial disclosures, as opposed to entirely novel
+
+opinions. As noted above, the Supplemental Wood Notice described in further detail Mr.
+
+Wood’s testimony regarding the “evidentiary value” of data recovered from a GPS tracker. See
+
+Suppl. Wood Notice. As for Officer McClinton, the Government’s initial disclosure noted that
+
+he would testify that a firearm’s “shape and appearance” were distinctive. See McClinton
+
+
+
+
+                                                 74
+Notice. The supplement clarifies which specific aspects of the firearm will be described as such.
+
+See Supplemental McClinton Notice. With respect to Ms. Wallace, in contrast, the
+
+Government’s supplemental notice includes one opinion not referenced initially: that Ms.
+
+Wallace will testify that the latent print impression of B.H.—the unindicted co-conspirator whom
+
+the Government claims fraudulently used a robbery victim’s credit card—was found on the
+
+exterior of the Honda HR-V allegedly stolen in Armed Carjacking 1. Compare Wallace Notice
+
+at 3, with Suppl. Wallace Not. at 3. But although absent from the initial notice, this opinion was
+
+included in a report attached to the notice in June of 2025. See Gov’t’s Opp’n to Def.’s Mot.
+
+Preclude Late-Noticed Expert Test. at 7, ECF No. 146.
+
+       To be clear, the Court does not mean to suggest that the Government’s supplements were
+
+superfluous because the initial disclosures satisfied Rule 16’s “complete statement” requirement.
+
+Nevertheless, the Court is reluctant to suppress the late-noticed supplemental testimony because
+
+there is no indication that the Government has acted in bad faith. Cf. United States v. Marshall,
+
+132 F.3d 63, 70 (D.C. Cir. 1998) (“[A]lthough Rule 16 gives trial judges the option of
+
+suppressing evidence as a result of the government's discovery violations, such a severe sanction
+
+would seldom be appropriate where—as here—the trial court finds that the government’s
+
+violation did not result from its bad faith . . . .”). The Government seems to have filed some of
+
+the supplements in response to concerns identified by Mr. Joyner in his motions in limine. And
+
+the additional information provided appears to assist the Defense in its preparation for the cross-
+
+examination of these witnesses rather than hinder it. Furthermore, the supplements were based
+
+either on opinions or information that had been timely disclosed. Cf. United States v. Eby, No.
+
+24-3716, 2025 WL 3688925, at *5 (6th Cir. Dec. 19, 2025) (declining to find prejudice from the
+
+prosecution’s untimely disclosure of two expert reports where the defendant “had access to the
+
+
+
+
+                                                75
+information forming the basis of these reports for eleven months prior to trial”). And given that
+
+the supplements were filed a month before trial and Mr. Joyner identifies no specific undue
+
+prejudice stemming from this timeline, the Court believes that Mr. Joyner will have sufficient
+
+time before trial to digest the supplemental information and prepare for the cross-examination of
+
+the witnesses.
+
+                                9. DNA Evidence (ECF No. 108)
+
+       Lastly, Mr. Joyner moves to preclude the Government from eliciting certain testimony
+
+related to DNA evidence. See Def.’s Mot. Limit Test. on DNA Evid. (“Def.’s Mot. Limit DNA
+
+Evid.”), ECF No. 108. The Government timely noticed Forensic DNA Examiner Amanda
+
+Bakker, who works in the FBI Laboratory DNA Casework Unit in Quantico, to testify regarding
+
+various DNA samples that were recovered from some of the robbed convenience stores and
+
+vehicles in this case and subsequently tested to determine the likelihood that Mr. Joyner’s DNA
+
+profile matched the samples. See id. at Ex. A (“Bakker Notice”); Gov’t’s Opp’n to Def.’s Mot.
+
+Limit DNA Evid. at 13–15, ECF No. 121. First, Mr. Joyner urges the Court to exclude the
+
+results from four samples under Rule 403, arguing that their limited probative value is
+
+“substantially outweighed” by the danger of jury confusion and overvaluation. Fed. R. Evid.
+
+403; Def.’s Reply in Supp. Mot. Limit DNA Evid. at 1, ECF No. 127. Second, he moves to
+
+preclude Examiner Bakker from “testifying that any likelihood ratio constitutes an absolute
+
+identification, a source attribution, or proof that Mr. Joyner’s DNA was present on an evidentiary
+
+item with certainty.” Def.’s Mot. Limit DNA Evid. at 1. Third, he moves to exclude a report
+
+from the FBI Combined DNA Index System (“CODIS”) database (“CODIS Report”) that
+
+associates Mr. Joyner with a 2017 robbery investigation. Id. As explained below, the Court
+
+grants Mr. Joyner’s motion in part and denies it in part.
+
+
+
+
+                                                76
+       The four DNA samples whose results Mr. Joyner seeks to exclude were recovered from:
+
+(1) the front-passenger area of a GMC Yukon used in Armed Robberies 7–10 (“Item 4”); a till
+
+under a counter of the Falcon Fuel robbed in Armed Robbery 1 (“Item 44”); sunglasses from the
+
+Honda HR-V stolen in Armed Carjacking 1 (“Item 56(1)”); and the front-passenger area of that
+
+HR-V (“Item 69”). Gov’t’s Opp’n to Def.’s Mot. Limit DNA Evid. at 13–14. These samples
+
+were imported into a probabilistic genotyping software, STRmix, which calculated the statistical
+
+probability that Mr. Joyner’s DNA contributed to the DNA profile of the samples (“inclusion”)
+
+or did not contribute to it (“exclusion”). See Def.’s Mot. Limit DNA Evid. at 2. For each sample
+
+analyzed, STRmix produced a likelihood ratio describing “how much more likely it is to obtain
+
+the DNA results if the person of interest is a contributor to the DNA profile, rather than if an
+
+unknown, unrelated person is a contributor to the DNA profile.” Id. (citation modified). In all
+
+but one of the samples, DNA from multiple persons was detected. STRmix ultimately assigned
+
+Items 4, 44, 56(1), and 69 likelihood ratios of 10, 21, 100, and 34, respectively. Id. at 3. This
+
+means, for example, that the results for Item 4—for which three contributors were detected—are
+
+10 times more likely if Mr. Joyner is one of those contributors than if he is not.
+
+       Because these numbers might not mean much to jurors, the Government proposes using a
+
+scale of verbal qualifiers to help them understand the evidentiary strength of the likelihood ratios
+
+that will be presented. The Government’s proposed scale is recommended by the Scientific
+
+Working Group on DNA Methods and Analysis (“SWGDAM”), an authoritative group of
+
+forensic science practitioners who formulates consensus-based standards for forensic DNA
+
+analysis. According to the SWGDAM scale, a likelihood ratio of 1 is “uninformative,” ratios
+
+between 2 and <100 provide “limited support” for inclusion, ratios between 100 and <10,000
+
+provide “moderate support” for inclusion, ratios between 10,000 and <1,000,000 provide “strong
+
+
+
+
+                                                 77
+support” for inclusion, and ratios over 1,000 provide “very strong support” for inclusion. See
+
+Gov’t’s Opp’n to Def.’s Mot. Limit DNA Evid. at 8.
+
+       Mr. Joyner does not dispute that STRmix “has been tested, validated, peer reviewed, and
+
+generally accepted” or that the four DNA results described above are admissible under Daubert
+
+and Federal Rule of Evidence 702. Def.’s Reply in Supp. Mot. Limit DNA Evid. at 2.
+
+Nevertheless, Mr. Joyner argues that these results should be excluded under Rule 403 because
+
+their probative value—which he describes as “minimal”—is substantially outweighed by the
+
+danger of unfair prejudice, confusion, or misleading the jury. Id. Specifically, Mr. Joyner is
+
+concerned that “jurors may accord substantial weight to evidence through forensic DNA
+
+testimony simply because it bears the imprimatur of science.” Id.; see also Parsi v. Daioleslam,
+
+852 F. Supp. 2d 82, 86 (D.D.C. 2012) (“Because expert evidence can be both powerful and quite
+
+misleading, a court has greater leeway in excluding expert testimony under Rule 403 than it does
+
+lay witness testimony.” (citation modified)).
+
+       Although the Court shares Mr. Joyner’s concerns, it finds that exclusion is not the proper
+
+remedy here. For one, even if the contested DNA results are “not highly probative of
+
+inclusion”—as the Government itself suggests, see Gov’t’s Opp’n to Def.’s Mot. Limit DNA
+
+Evid. at 37—the Court agrees with the Government that the results are relevant for the jury to
+
+consider. Three of the results—Items 4, 44, and 69—had ratios under 100, so the Government
+
+proposes that its expert tell the jury that testing provided “limited support” for Mr. Joyner being
+
+one of the contributors. The last result—Item 56(1)—had a ratio of 100, just barely providing
+
+“moderate support” for inclusion. Even if only to a “limited” or “moderate” degree, these results
+
+tend to make it more probable that Mr. Joyner’s DNA was left behind in locations and
+
+instrumentalities associated with Armed Robberies 1 and 7–10 and Armed Carjacking 1. At the
+
+
+
+
+                                                 78
+very least, the results show that Mr. Joyner cannot be excluded as a potential contributor. 32 Cf.
+
+United States v. Morrow, 374 F. Supp. 2d 51, 62–66 (D.D.C. 2005) (denying motion to exclude
+
+DNA results that “d[id] not show a significant statistical probability of inclusion” where the
+
+results nevertheless “show[ed] that the defendants [could] not be excluded as contributors”).
+
+       Furthermore, the challenged results here do not strike the Court as unfairly prejudicial for
+
+two reasons. First, Mr. Joyner will have the opportunity to challenge the value of the results
+
+through cross-examination. See Daubert, 509 U.S. at 596 (“Vigorous cross-examination . . . [is]
+
+the traditional and appropriate means of attacking shaky but admissible evidence.”). In doing so,
+
+Mr. Joyner could persuasively argue that the low likelihood ratios calculated for the challenged
+
+results actually benefit him. Other results not challenged by Mr. Joyner show likelihood ratios in
+
+the nonillions. See Def.’s Mot. Limit DNA Evid. at 3. Mr. Joyner could thus argue that, by
+
+comparison, likelihood ratios of 100 or less should be viewed with skepticism and caution. Cf.
+
+United States v. Morrow, 374 F. Supp. 2d 51, 65 (D.D.C. 2005) (“Indeed, the low statistical
+
+significance actually benefits Defendants, as Defendants can argue that having [low] random
+
+match probabilities . . . means that hundreds, if not thousands, of others in the Washington, D.C.
+
+area cannot be excluded as possible contributors as well.”).
+
+       Second, the Court believes that, with proper instructions, the jury will not overestimate
+
+the importance of the challenged results. The Government observes that SWGDAM prohibits
+
+analysts from offering jurors a qualitative statement without also providing the entire scale of
+
+verbal qualifiers. Gov’t’s Opp’n to Def.’s Mot. Limit DNA Evid. at 8. SWGDAM has also
+
+published a suggested explanation of the scale, which emphasizes that “adventitious support for a
+
+
+       32
+          In contrast, results from other DNA samples that will be presented to the jury—with no
+objection from Mr. Joyner—do, in fact, provide limited support for exclusion. See Gov’t’s
+Opp’n to Def.’s Mot. Limit DNA Evid. at 16 & n.45.
+
+
+                                                79
+proposition . . . is most commonly observed within the limited support category and generally
+
+not expected within the Very Strong Support category.” Id. (citation modified). The Court
+
+thinks that this explanation is important for the jury to hear so that it understands that a
+
+likelihood ratio between 0 and 100 does not preclude the possibility of an adventitious match.
+
+Accordingly, Examiner Bakker is instructed to explain this concept to the jury. See United
+
+States v. Gissantaner, 990 F.3d 457, 470 (6th Cir. 2021) (“A district court concerned that the
+
+jury might misunderstand what the likelihood ratio means could require advocates to describe it
+
+in a way that will not generate unfair prejudice or mislead the jury.” (citation modified)).
+
+       Mr. Joyner additionally asks that Examiner Bakker be precluded from “testifying that any
+
+likelihood ratio constitutes an absolute identification, a source attribution, or proof that Mr.
+
+Joyner’s DNA was present on an evidentiary item with certainty.” Def.’s Mot. Limit DNA Evid.
+
+at 1. Consistent with the guidelines set forth in the relevant DOJ ULTR, the Government
+
+represents that Examiner Bakker will not testify that any likelihood ratio provides an absolute
+
+identification or source attribution of an individual to an evidentiary sample, will not use
+
+expressions such as “reasonable scientific certainty,” and will not equate a likelihood ratio with a
+
+“match.” Gov’t’s Opp’n to Def.’s Mot. Limit DNA Evid. at 16. Examiner Bakker is thus
+
+instructed to abide by the expert testimony limitations detailed in the DOJ ULTR.
+
+       Finally, Mr. Joyner seeks to exclude the CODIS Report, which details a hit between a
+
+sampled item and a robbery for which Mr. Joyner was investigated in 2017. Def.’s Mot. Limit
+
+DNA Evid. at 1. Although the Government disclosed the existence of a CODIS hit to Mr. Joyner
+
+over a year ago, it did not produce the CODIS Report until defense counsel requested it in May
+
+2026. See Gov’t’s Opp’n to Def.’s Mot. Limit DNA Evid. at 18 n.46. Mr. Joyner thus argues
+
+that evidence of the CODIS hit was not timely disclosed and should be excluded. However,
+
+
+
+
+                                                  80
+because the Government represents that it does not intend to present this evidence at trial, see id.,
+
+the Court denies Mr. Joyner’s request without prejudice to him renewing it if the Government
+
+decides to present this evidence. But, again, an attempt to seek admission of this evidence this
+
+late in the proceedings will be viewed with great disfavor.
+
+                                       IV. CONCLUSION
+
+       For the foregoing reasons, Defendant’s Motion to Suppress Tangible Evidence (ECF No.
+
+52) is DENIED; the Government’s Motion to Admit Evidence of Other Crimes (ECF Nos. 53,
+
+98) is GRANTED IN PART AND DENIED IN PART; Defendant’s Motion for Notice of
+
+Intent to Use Rule 404(B) Evidence (ECF No. 49) is DENIED; Defendant’s Motion in Limine
+
+Regarding his Criminal History (ECF No. 99) is DENIED; Defendant’s Motion in Limine
+
+Regarding Propensity-Based Arguments (ECF No. 100) is GRANTED IN PART AND
+
+DENIED IN PART; Defendant’s Motion in Limine Regarding In-Court Identification (ECF
+
+Nos. 54, 101) is DENIED; Defendant’s Motion in Limine Regarding Toolmark Identification
+
+(ECF No. 102) is GRANTED IN PART AND DENIED IN PART; Defendant’s Motion to
+
+Strike the Government’s Opposition Brief (ECF No. 128) is DENIED; Defendant’s Motion in
+
+Limine Regarding Law Enforcement Identification (ECF No. 103) is GRANTED IN PART
+
+AND DENIED IN PART; Defendant’s Motion in Limine Regarding Jail Calls (ECF No. 104) is
+
+GRANTED; Defendant’s Motion in Limine Regarding Certain Photographs (ECF No. 105) is
+
+GRANTED IN PART AND DENIED IN PART; Defendant’s Motion in Limine Regarding the
+
+Testimony of Officer Jermone McClinton (ECF No. 106) is GRANTED IN PART AND
+
+DENIED IN PART; Defendant’s Motion for an Evidentiary Hearing (ECF No. 143) is
+
+DENIED; Defendant’s Motion in Limine Regarding Certain Expert Testimony (ECF No. 107) is
+
+GRANTED IN PART AND DENIED IN PART; Defendant’s Motion in Limine Regarding
+
+
+
+
+                                                 81
+Late-Noticed Expert Testimony (ECF No. 125) is DENIED; Defendant’s Motion in Limine
+
+Regarding DNA Evidence (ECF No. 108) is GRANTED IN PART AND DENIED IN PART.
+
+An order consistent with this Memorandum Opinion is separately and contemporaneously issued.
+
+
+Dated: June 19, 2026                                         RUDOLPH CONTRERAS
+                                                             United States District Judge
+
+
+
+
+                                            82
+

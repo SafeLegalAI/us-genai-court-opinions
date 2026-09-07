@@ -1,0 +1,1008 @@
+                   This opinion is nonprecedential except as provided by
+                         Minn. R. Civ. App. P. 136.01, subd. 1(c).
+
+                                 STATE OF MINNESOTA
+                                 IN COURT OF APPEALS
+                                       A25-0906
+
+                                      In the Marriage of:
+
+                              Kimberly Ann Young, petitioner,
+                                       Respondent,
+
+                                               vs.
+
+                                  Charles Wayne Young, Jr.,
+                                          Appellant.
+
+                                      Filed June 8, 2026
+                                           Affirmed
+                                       Bratvold, Judge
+
+                               Hennepin County District Court
+                                  File No. 27-FA-22-6120
+
+Kimberly Ann Young, Minneapolis, Minnesota (pro se respondent)
+
+Charles Wayne Young, Jr., St. Cloud, Minnesota (pro se appellant)
+
+         Considered and decided by Bratvold, Presiding Judge; Worke, Judge; and Ross,
+
+Judge.
+
+                            NONPRECEDENTIAL OPINION
+
+BRATVOLD, Judge
+
+         In this appeal from a post-dissolution order modifying a judgment and decree,
+
+appellant father argues that the district court clearly erred in its factual findings. Father also
+
+contends that the district court abused its discretion by (1) failing to decide two of father’s
+
+motions; (2) deciding issues when it lacked jurisdiction to do so; (3) modifying child
+support; (4) ordering father to reimburse respondent mother for their children’s expenses;
+
+and (5) vacating a parenting-time “right of first refusal” set out in the dissolution judgment
+
+and decree. Finally, father argues that the district court judge should not preside over
+
+further proceedings between these parties based on the appearance of bias. We affirm.
+
+                                          FACTS
+
+       Appellant Charles Wayne Young Jr. (father) and respondent Kimberly Ann Young
+
+(mother) were married in 2012. Their two minor children were born in 2013 and 2014. In
+
+March 2023, the district court dissolved the marriage in a stipulated judgment and decree
+
+(decree). The decree provided that the parties shared joint legal and joint physical custody
+
+of the children and equal parenting time. Under the decree, father was to receive the marital
+
+home in Minneapolis and the children would attend Minneapolis Public Schools.
+
+       This is the second of two appeals following entry of the decree. This opinion
+
+summarizes the relevant facts here based, in part, on facts set out in Young v. Young, which
+
+affirmed the district court’s decision. No. A24-1922, 2025 WL 3200038, at *1 (Minn. App.
+
+Nov. 17, 2025) (Young I).
+
+       After the parties separated, father began a romantic relationship with a new partner
+
+and purchased a home in St. Cloud into which he moved with his romantic partner. Id. In
+
+May 2024, mother moved to modify parenting time, in part based on the travel distance
+
+and time between father’s home and the children’s school. Id. Father opposed mother’s
+
+motion and separately moved to amend the parenting-time schedule. Id. The parties waived
+
+an evidentiary hearing “and asked the district court to rely upon the parties’ affidavits in
+
+reaching its decision.” Id.
+
+
+                                              2
+      In October 2024, the district court filed an order modifying parenting time (October
+
+2024 order). The district court first determined that the statutory best-interests factors
+
+supported a parenting-time schedule that minimized travel between St. Cloud and
+
+Minneapolis on school days. Accordingly, it ordered that, during the school year, father
+
+had parenting time “every other weekend from Friday after school until Sunday evening”
+
+as well as “any non-holiday, non-school days, Spring Break, and MEA Break.” Father,
+
+who worked in St. Paul, also had parenting time in the Twin Cities metropolitan area on
+
+Wednesdays and Thursdays after school until 7:00 p.m. During summer breaks, the
+
+children would alternate weeks with each parent until the week before school began, which
+
+was designated as mother’s parenting time “so that the children may prepare for school.”
+
+The October 2024 order also provided for “reasonable telephone contact” and video calls
+
+between the children and the off-duty parent while in the care of the on-duty parent
+
+(reasonable communication provision).
+
+      In November 2024, father was self-represented and moved, in essence, for an order
+
+to show cause why mother should not be held in contempt, alleging that mother refused to
+
+allow the children to communicate with father by telephone and video call. On
+
+December 2, mother responded and included cross-motions, asking the district court to
+
+(1) deny father’s contempt motion, (2) modify the reasonable communication provision in
+
+the October 2024 order, (3) “incorporate the parties’ previous agreement regarding the
+
+holiday parenting-time schedule into the” October 2024 order, (4) rule on mother’s
+
+May 2024 motion in which she asked father to pay $1,232.32 in expenses for the children,
+
+
+
+
+                                            3
+(5) modify child support starting December 1, 2024, and (6) order the parties to participate
+
+in mediation.
+
+       On December 9, 2024, father appealed the October 2024 order.
+
+       In district court, father separately replied and responded to mother’s December 2
+
+cross-motions, opposing mother’s motions and seeking to restore his parenting time to
+
+45.1% or higher “because [his] time was reduced . . . without an evidentiary hearing.” The
+
+parties appeared for a hearing on December 16, 2024, and the district court ordered the
+
+parties to mediate.
+
+       Later that month, the district court amended its October 2024 order, stating that its
+
+intention was to “correct clerical errors.” The December 2024 order clarified the holiday
+
+parenting-time schedule and the reasonable communication provision. On the same day,
+
+the district court denied father’s motion to hold mother in contempt.
+
+       On January 15, 2025, mother’s attorney contacted the district court and asked it to
+
+“waive the mediation requirement . . . and schedule a motion in this matter” because father
+
+“refused to schedule mediation.” That same day, father opposed waiving mediation and
+
+asked the district court to reprimand mother’s attorney “for pursuing unnecessary
+
+litigation” and to restore his parenting time to 50%.
+
+       On January 21, 2025, father filed a motion objecting to the hearing that mother
+
+scheduled for February 26, 2025, arguing that the district court lacked jurisdiction during
+
+the pending appeal, among other things. Father’s motion also asked the district court to
+
+“require [mother] to comply with all procedural mediation and negotiation rules before
+
+filing further motions” and asked the district court judge to recuse “due to a pattern of
+
+
+                                             4
+procedural irregularities.” On February 4, 2025, father moved for a stay pending the appeal,
+
+asking the district court to grant “a stay of all further parenting-time modifications,” cancel
+
+the February hearing, and “require [mother] to comply” with court rules.
+
+       The district court did not cancel the February 2025 hearing, and father filed several
+
+more motions before the hearing. 1 At the hearing, the district court stated that it would
+
+strike father’s “most recent filings that were untimely.” The district court also stated that it
+
+was not conducting an evidentiary hearing and noted that it had ordered mediation, but
+
+father “did not participate.” Father responded that he “never refused” mediation. Father
+
+also stated that he would “pay child support based on the child support calculator,” but the
+
+parties needed “to figure out what that percentage of overnights is.” Father did not specify
+
+a number of overnights.
+
+       The district court filed an order addressing the motions heard at the February hearing
+
+(May 2025 order). The district court granted father’s request in part and stayed mother’s
+
+motion to modify parenting time, stating that the district court “does not currently have
+
+jurisdiction over those issues” because the parenting-time issue decided in the
+
+October 2024 order was on appeal. But the district court also determined that some issues
+
+were not covered by the October 2024 order and ruled on those issues. For example, the
+
+district court modified child support retroactive to January 1, 2025, ordered father to
+
+reimburse mother $3,010.19 in expenses for the children, and vacated the parenting-time
+
+
+
+1
+  This opinion does not describe father’s motions filed after February 4 and before the
+February 2025 hearing because father’s primary brief does not raise them as issues on
+appeal.
+
+                                               5
+“right of first refusal” from the decree. The district court also calculated child support using
+
+a child-support guidelines worksheet. The district court denied requested relief that was
+
+“not granted, stayed, or otherwise denied.”
+
+       Father now appeals the May 2025 order.
+
+                                         DECISION
+
+       Father and mother are self-represented on appeal. Self-represented parties are
+
+“accorded some leeway in attempting to comply with court rules,” but they are “still not
+
+relieved of the burden of, at least, adequately communicating to the court what it is [they
+
+want] accomplished and by whom.” Carpenter v. Woodvale, Inc., 400 N.W.2d 727, 729
+
+(Minn. 1987). “Although some accommodations may be made for pro se litigants, this
+
+court has repeatedly emphasized that pro se litigants are generally held to the same
+
+standards as attorneys and must comply with court rules.” Fitzgerald v. Fitzgerald,
+
+629 N.W.2d 115, 119 (Minn. App. 2001).
+
+       Our review of father’s brief shows that it contains many citations to caselaw that
+
+either do not exist—sometimes referred to as “hallucinations”—or do not support his legal
+
+argument. And father’s brief inaccurately quotes statutes and the record. Our review also
+
+leads us to believe that father may have used generative artificial intelligence (AI) to write
+
+his brief. While AI can be a helpful tool and we do not suggest that court rules prohibit its
+
+use, we emphasize that hallucinated caselaw is not valid authority and that all parties should
+
+be mindful of the importance of accuracy in their submissions.
+
+       Finally, as discussed below, father fails to cite authority that supports his position
+
+and to articulate an argument in support of some issues. This results in forfeiture, and the
+
+
+                                               6
+issue “will not be considered on appeal unless prejudicial error is obvious on mere
+
+inspection.” Schoepke v. Alexander Smith & Sons Carpet Co., 187 N.W.2d 133, 135 (Minn.
+
+1971). We reorganize the arguments in father’s brief into six issues and discuss each in
+
+turn.
+
+I.      The district court did not refuse to consider two of father’s motions.
+        Alternatively, any error in failing to expressly address the motions was
+        harmless.
+
+        Father contends that the district court erred by refusing to consider three motions
+
+based on its incorrect conclusion that the motions were untimely. Father specifically argues
+
+that the district court did not consider the motions he filed on January 21, January 31, and
+
+February 4. The record does not show that father filed a motion on January 31. As a result,
+
+we address only the January 21 and February 4 motions. 2
+
+        At the February hearing that preceded the May 2025 order, the district court stated
+
+that it would “strike” father’s most recent filings as untimely. A district court may ignore
+
+untimely submissions if there is no justification for their lateness. See Axford v. Axford,
+
+402 N.W.2d 143, 145 (Minn. App. 1987) (concluding that the district court acted within its
+
+discretion by ignoring appellant’s post-hearing submissions that were filed without motion
+
+or explanation).
+
+
+
+
+2
+ It is true that father filed motions after February 4 and before the February 2025 hearing,
+but on appeal, father does not appear to challenge the district court’s alleged failure to
+consider these other motions. Father argues in his reply brief that his February 14 filing
+was timely. We seldom reach issues raised for the first time in a reply brief. Emerson v.
+Sch. Bd. of Indep. Sch. Dist. 199, 809 N.W.2d 679, 687 (Minn. 2012). Thus, we do not
+consider father’s motions filed after February 4 and before the February 2025 hearing.
+
+                                             7
+       First, we consider the record involving the January 21 and February 4 motions.
+
+Second, we consider whether father was prejudiced in the district court’s failure to
+
+expressly address some issues in its May 2025 order.
+
+       A.     January 21 and February 4 Motions
+
+       We conclude that the district court did not abuse its discretion in its handling of the
+
+January 21 and February 4 motions for several reasons. First, the district court did not state
+
+that it considered the motions filed on January 21 and February 4 to be untimely. Based on
+
+our review, it appears that the district court’s timeliness comment did not relate to the
+
+January 21 or the February 4 motion, because it was made immediately after mother’s
+
+attorney challenged father’s motions dated February 20 and 26.
+
+       Second, father claims that his January 21 and February 4 motions addressed issues
+
+discussed at the February 2025 hearing, specifically that they discussed child support or
+
+the children’s expenses. Our review of the January 21 and February 4 motions does not
+
+support father’s position; neither child support nor the children’s expenses were covered
+
+in the motions he filed on those dates.
+
+       Third, the district court expressly considered some arguments that father raised in
+
+the January 21 and February 4 motions: for example, the district court granted father’s
+
+motion to stay parenting-time issues pending appeal of the October 2024 order.
+
+       Fourth, the district court expressly denied any “relief not granted, stayed, or
+
+otherwise denied.” Thus, even if the district court erred by failing to explicitly discuss some
+
+of the issues father raised in his January 21 and February 4 motions, reversal is not required
+
+for the reason argued by father.
+
+
+                                              8
+       B.      Harmless Error
+
+       On appeal, father identifies three requests for relief raised in the January 21 and
+
+February 4 motions that were denied but not explicitly discussed in the May 2025 order.
+
+The three requests asked the district court to (1) cancel the February 2025 hearing;
+
+(2) require mother “to comply with all procedural mediation and negotiation rules before
+
+filing further motions”; and (3) recuse “due to a pattern of procedural irregularities” that
+
+“have created an appearance of bias and undermined confidence in the fairness” of the
+
+proceedings.
+
+       We conclude as to each of these three requests that father fails to establish prejudice.
+
+Before obtaining relief on appeal, father has the burden to demonstrate that any error was
+
+prejudicial. Midway Ctr. Assocs. v. Midway Ctr., Inc., 237 N.W.2d 76, 78 (Minn. 1975)
+
+(citing Loth v. Loth, 35 N.W.2d 542, 546 (Minn. 1949)). We do not grant relief on appeal
+
+for any error that does not affect father’s substantial rights. Minn. R. Civ. P. 61 (requiring
+
+harmless error to be ignored); see also Goldman v. Greenwood, 748 N.W.2d 279, 285
+
+(Minn. 2008) (applying rule 61 in a family-law appeal).
+
+       With the prejudice requirement in mind, we turn to each request. First, as to the
+
+request to cancel the February 2025 hearing, father argued to the district court that it lacked
+
+jurisdiction, an issue we address below. Second, as to father’s request that the district court
+
+order mother to comply with the rules, father does not contend on appeal that mother
+
+violated the rules or that he was prejudiced by mother’s violation of the rules. See
+
+Schoepke, 187 N.W.2d at 135 (explaining that appellate courts consider improperly argued
+
+issues to be forfeited).
+
+
+                                              9
+       Third, as to father’s request for the district court judge to recuse herself, a party may
+
+request that a judge voluntarily disqualify themselves before the party files a notice of
+
+removal. See State v. Finch, 865 N.W.2d 696, 702 (Minn. 2015) (analyzing recusal request
+
+in criminal proceedings). Because the district court judge did not recuse herself, father
+
+could have filed a notice of removal, but he did not do so. Even if we assume that father’s
+
+motion amounted to a notice of removal, father failed to make a sufficient showing to
+
+require the district court judge’s disqualification.
+
+       Removal of a judge in a civil matter is governed by Minnesota Rule of Civil
+
+Procedure 63.03, which states in part that a “judge or judicial officer who has presided at
+
+a motion or any other proceeding. . . may not be removed except upon an affirmative
+
+showing that the judge or judicial officer is disqualified under the Code of Judicial
+
+Conduct.” (Emphasis added.) A judge need not recuse unless the judge’s “impartiality
+
+might reasonably be questioned.” See Minn. Code Jud. Conduct Rule 2.11(A).
+
+       Here, the district court judge had presided over many hearings involving father and
+
+mother, so father was required to affirmatively show that the judge was disqualified.
+
+Father’s January 21 motion stated that the district court judge should recuse herself based
+
+on “a pattern of procedural irregularities” and asserted that the district court had reduced
+
+his parenting time “from 50% to 36% without an evidentiary hearing.”
+
+       We are not persuaded. First, prior adverse rulings, on their own, do not sufficiently
+
+show bias. Hannon v. State, 752 N.W.2d 518, 522 (Minn. 2008); Olson v. Olson,
+
+392 N.W.2d 338, 341 (Minn. App. 1986) (family-law appeal). Second, father argues that
+
+some of the judge’s comments at the February 2025 hearing demonstrate bias, but the
+
+
+                                              10
+record shows the challenged comments related to this case and do not have even the
+
+appearance of bias. Third, father argued in his January 21 motion that a procedural
+
+irregularity occurred when the October 2024 order reduced in his parenting time without
+
+an evidentiary hearing. But this court considered and rejected this identical argument in
+
+Young I, concluding that father waived an evidentiary hearing and failed to make an
+
+affirmative showing of disqualification. 2025 WL 3200038, at *1-6. Because father failed
+
+to make an affirmative showing that the district court judge was disqualified, we conclude
+
+that the district court’s failure to explicitly discuss father’s request for removal of the judge
+
+was harmless error.
+
+       In short, the district court did not abuse its discretion in denying father’s January 21
+
+and February 4 motions for the reasons already stated. We also conclude that any error in
+
+the district court’s failure to expressly discuss three requests for relief in these motions was
+
+harmless. See Reid v. Strodtman, 631 N.W.2d 414, 419-20 (Minn. App. 2001) (concluding
+
+that, where the district court erred by concluding that a motion had no basis but the moving
+
+party would not have been entitled to relief, the district court’s error was harmless). 3
+
+
+
+
+3
+  Father also argues that he was denied due process because he believes that the district
+court issued the May 2025 order without reviewing his written arguments. Similarly, father
+argues that the district court denied him due process when it ordered, during the February
+2025 hearing, that father produce tax documents, pay stubs, and health insurance
+documentation “by 4:30 p.m. that same day.” The court of appeals reviews de novo the
+procedural due process afforded a party. Plocher v. Comm’r of Pub. Safety, 681 N.W.2d
+698, 702 (Minn. App. 2004). “[D]ue process of law requires notice and an opportunity to
+be heard.” Szarzynski v. Szarzynski, 732 N.W.2d 285, 296 (Minn. App. 2007). Based on
+our review of the record surrounding the January 21 and February 4 motions and the
+February 2025 hearing, father had notice and an opportunity to be heard on these issues.
+
+                                               11
+II.    The district court had jurisdiction over the issues decided in the
+       December 2024 and May 2025 orders.
+
+       Father argues that the district court lacked jurisdiction at the time it entered the
+
+December 2024 and May 2025 orders because the issues decided were pending in this court
+
+on appeal. Mother argues that the district court correctly identified and limited its orders to
+
+issues that were not on appeal.
+
+       We review jurisdictional issues de novo. Rubey v. Vannett, 714 N.W.2d 417, 421
+
+(Minn. 2006). “[T]he filing of a timely and proper appeal suspends the trial court’s
+
+authority to make any order that affects the order or judgment appealed from, although the
+
+trial court retains jurisdiction as to matters independent of, supplemental to, or collateral to
+
+the order or judgment appealed from.” Minn. R. Civ. App. P. 108.01, subd. 2. In other
+
+words, the district court retains authority to address ancillary or collateral matters while an
+
+appeal is pending.
+
+       In Perry v. Perry, this court discussed a district court’s jurisdiction to issue orders
+
+in a family-law matter while an appeal was pending. 749 N.W.2d 399, 402-04 (Minn. App.
+
+2008). We concluded that a district court may rule on a motion to modify a child-support
+
+order, even when that order is on appeal, as long as the modification order would not
+
+“necessarily affect the previous child-support order.” Id. at 402-03 (quotation omitted). We
+
+explained that “an order does not necessarily affect the order on appeal if it involves a new
+
+set of facts and does not require the district court to consider the merits of the issue on
+
+appeal.” Id. at 403.
+
+
+
+
+                                              12
+       Perry recognized that a district court has jurisdiction over issues that are
+
+“supplemental and collateral to the issue on appeal” but may exercise its “discretion to stay
+
+or defer its decision” until after the court of appeals issues its decision on the pending
+
+appeal. Id. at 401. And “in the family-law context, the district court’s authority to act should
+
+be construed in a way that permits the courts to respond to changing circumstances and
+
+protect the best interests of the children.” Id. at 403.
+
+       Father argues that, under Perry, the district court lacked jurisdiction over the issues
+
+it decided in the May 2025 order. We disagree. Father appealed the May 2025 order in
+
+June 2025. In November 2025, this court filed Young I and affirmed the October 2024 order
+
+modifying parenting time. 2025 WL 3200038, at *1, *6. In doing so, we concluded that the
+
+district court did not abuse its discretion by modifying the parenting-time schedule and
+
+rejected father’s argument that the district court demonstrated bias. Id. at *2-6.
+
+       At the time the district court filed the May 2025 order, this court had not yet filed
+
+Young I. In the May 2025 order, the district court considered its jurisdiction given the
+
+pending appeal of the October 2024 order. The district court determined that “[c]hild
+
+support, expense reimbursement, vacating the right of first refusal, adding therapy dispute
+
+resolution language and attorney’s fees were not subject to the October 2024 Order.” 4
+
+
+
+4
+  In the May 2025 order, the district court also determined that it did not “currently have
+jurisdiction over” mother’s motion to modify the “three-weekend rule” because it “would
+effectively be modifying the October 2024 Order currently on appeal.” The three-weekend
+rule is described below in note 7. The district court erred by concluding that it lacked
+jurisdiction over mother’s motion to modify the three-weekend rule because the request
+was based on a new set of facts or circumstances that had changed since the October 2024
+order. See Perry, 749 N.W.2d at 403. That said, because neither party contends that the
+
+                                               13
+Thus, the May 2025 order decided only issues that were “independent of, supplemental to,
+
+or collateral to” the October 2024 order on appeal. Minn. R. App. P. 108.01, subd. 2.
+
+       Similarly, the December 2024 order decided matters collateral to the October 2024
+
+order because it (1) added a holiday schedule, which was inadvertently not included in the
+
+October 2024 order, and (2) clarified the reasonable communication provision in the decree
+
+in response to motions by both parties. Neither of the issues decided in the December 2024
+
+order necessarily affected an issue decided in the October 2024 order. 5 Thus, the district
+
+court acted within its jurisdiction in resolving the issues set out in the December 2024 and
+
+May 2025 orders.
+
+       After this appeal was submitted for a decision, father filed with this court as
+
+“supplemental authority” a district court order filed April 24, 2026, in which the district
+
+court amended parenting-time provisions in the December 2024 order. Father’s
+
+correspondence to the court stated that the district court lacked jurisdiction to issue the
+
+April 2026 order.
+
+
+
+
+district court erred in staying mother’s motion to modify the three-weekend rule or that
+staying the motion prejudiced a party, we conclude that any error was harmless.
+5
+  Father argues that the district court’s December 2024 order inserted a new holiday
+parenting-time schedule that was not merely clerical and that this court agreed with his
+characterization in Young I. Father is incorrect. In Young I, we observed that, before the
+October 2024 order, mother “proposed a holiday schedule that alternated placement
+between most holidays” and that father “proposed a similar alternating holiday schedule.”
+2025 WL 3200038, at *1. We did not analyze whether that schedule collaterally changed
+the parenting-time schedule. Based on our review of the record, the addition of the holiday
+parenting-time schedule in the December 2024 order did not alter the overall parenting
+time of either party, and thus we reject father’s argument.
+
+                                            14
+       We do not consider the April 24, 2026 order for several reasons, including (1) it is
+
+outside the record on appeal because it was filed after the May 2025 order, Minn. R. Civ.
+
+App. P. 110.01 (stating that the record for an appeal is limited to the documents and exhibits
+
+that were before the district court and any transcript of proceedings); see In re Nelson,
+
+495 N.W.2d 200, 202, 204 (Minn. 1993) (ruling the court of appeals should not have
+
+considered a letter sent to district court after the ruling at issue on appeal), and (2) it was
+
+filed in April 2026, nearly a year after the May 2025 order, so it is not relevant to this
+
+appeal.
+
+       Father is wrong in asserting that the pendency of an appeal automatically precludes
+
+the district court from altering the ruling at issue in the appeal. See Minn. R. Civ. App.
+
+P. 108.01 (addressing a district court’s ability to act pending appeal); Perry, 749 N.W.2d
+
+at 401-03 (same). Previously, both in this appeal and in father’s prior appeal, we cited
+
+rule 108.01 and Perry for the idea that the pendency of an appeal does not preclude a
+
+district court from acting in the case while the appeal is pending. Young v. Young,
+
+No. A24-1922 (Minn. App. Mar. 10, 2025) (order). Despite already having cited these
+
+authorities to father twice to reject precisely the argument father makes to us now, we must
+
+now—for at least the third time—reject father’s argument that the pendency of an appeal
+
+precludes the district court from altering the ruling at issue in the appeal.
+
+III.   The district court did not abuse its discretion by modifying child support.
+
+       Father argues that the district court clearly erred in calculating the number of
+
+overnights that the children spend with him per year based on the parenting-time schedule
+
+and contends that, as a result, the district court miscalculated father’s responsibility for
+
+
+                                              15
+child support. Mother argues that (1) the parties follow a parenting-time schedule that does
+
+not establish a specific number of overnights and (2) father forfeited any challenge to child
+
+support based on the number of overnights because he did not raise that issue in district
+
+court.
+
+         Modification of child support is governed by Minnesota Statutes section 518A.39
+
+(2024). Section 518A.39, subdivision 2, allows a district court to modify child support
+
+upon a showing of a substantial change in circumstances that rendered the existing award
+
+unreasonable and unfair. A district court has “broad discretion in ordering modifications to
+
+child support orders.” Putz v. Putz, 645 N.W.2d 343, 347 (Minn. 2002).
+
+         Appellate courts review a district court’s order regarding child support for an abuse
+
+of discretion. Id. “A district court abuses its discretion by making findings unsupported by
+
+the evidence or improperly applying the law, or delivering a decision that is against logic
+
+and the facts on record.” Woolsey v. Woolsey, 975 N.W.2d 502, 506 (Minn. 2022) (quoting
+
+Bender v. Bernhard, 971 N.W.2d 257, 262 (Minn. 2022)). We review findings of fact for
+
+clear error and the evidence in a light favorable to the findings. In re Civ. Commitment of
+
+Kenney, 963 N.W.2d 214, 221 (Minn. 2021).
+
+         Father maintains that he has 119 overnights each year, while the district court found
+
+he has 102 overnights each year. Relatedly, father argues that the district court abused its
+
+discretion by effectively modifying his parenting time to 102 overnights and by
+
+disregarding mother’s part-time income.
+
+         We are not convinced by either of father’s arguments, First, father incorrectly
+
+assumes that the district court’s calculation of 102 overnights modified the parenting-time
+
+
+                                              16
+schedule. The district court did not modify parenting time in the May 2025 order, and we
+
+reject father’s contrary view. In the May 2025 order, the district court stated that the
+
+October 2024 order modified parenting time, the children were living primarily with
+
+mother, and this was a change in circumstances that rendered the existing child-support
+
+award unreasonable and unfair. Father does not challenge this reasoning. The district court
+
+therefore based its May 2025 child-support determination on its October 2024 order
+
+modifying parenting time. While the October 2024 order established a parenting-time
+
+schedule, that schedule does not set out a fixed number of overnights.
+
+       Second, while father is correct about some aspects of his argument, he reaches a
+
+faulty conclusion. Father is correct in stating that the district court found in the May 2025
+
+order that, under the current parenting-time schedule, father “has 102 overnights per year
+
+and mother has 263 overnights per year.” Applying parental income for determining child
+
+support (PICS) percentages, the district court determined that mother is responsible for
+
+34% of the children’s uninsured medical and dental expenses and father is responsible for
+
+66% of those expenses. Similarly, the district court determined that father’s net
+
+child-support obligation is $1125 per month.
+
+       Preliminarily, in considering this issue, we reject mother’s argument that father
+
+forfeited appellate review of the child-support determination based on the number of
+
+overnights. We understand father’s response to be that he believed that the parties would
+
+negotiate the percentage of overnights each parent would have while in mediation and thus
+
+he had no reason to suggest a specific number of overnights. Therefore, we will address
+
+father’s challenge to the child-support decision. See Minn. R. Civ. App. P. 103.04 (stating
+
+
+                                             17
+that appellate courts may “reverse, affirm or modify the judgment or order appealed from
+
+or take any other action as the interest of justice may require”).
+
+       We also recognize that applying the October 2024 parenting-time schedule
+
+theoretically results in father having 119 overnights, more than the 102 overnights found
+
+in the May 2025 order. But this schedule also results in several weekends when father
+
+would have the children three weekends in a row, triggering what the decree referred to as
+
+the “three-weekend rule,” which requires the parties to make adjustments so that neither
+
+parent has more than two consecutive weekends with the children. 6 Thus, based on the
+
+three-weekend rule in the decree, the children will spend fewer than 119 overnights at
+
+father’s home.
+
+       Still, father argues that the three-weekend rule does not apply to weekends that are
+
+not holidays and thus the district court erred because it “expressly . . . declined to modify
+
+or apply” the three-weekend rule when determining child support. 7 Father misapprehends
+
+the district court’s ruling; because the district court declined to modify the rule, it had to
+
+apply it. But even assuming that father is correct that the three-weekend rule applies only
+
+
+6
+   The decree included the “three-weekend rule,” which was not modified in the
+October 2024 or May 2025 orders, and described it as providing: “In the event the holiday
+schedule and parenting-time schedule would result in one parent having parenting time
+three (3) weekends in a row, the parties will work together to adjust the schedule so one
+parent only has two (2) weekends in a row.”
+7
+  Father also argues that Young I recognized he had 36% of overnights, which is “final”
+and therefore governs the calculation of child support. This argument lacks merit. In
+describing the October 2024 order, this court in Young I stated that the “parties agree that
+the new parenting-time schedule results in father having 36% of overnights, a reduction
+from the equal overnight schedule” in the decree. 2025 WL 3200038, at *1. This is a mere
+summary of the record and is not a determination of parenting time.
+
+                                             18
+to weekends that are holidays and therefore the district court erred when it applied the rule
+
+to non-holiday weekends, the effect of 119 versus 102 overnights on child support is
+
+de minimis and thus harmless error. See Hesse v. Hesse, 778 N.W.2d 98, 105 (Minn. App.
+
+2009) (citing Wibbens v. Wibbens, 379 N.W.2d 225, 227 (Minn. App. 1985) (stating that
+
+de minimis error in setting child support is not grounds for remand)).
+
+       Finally, father argues that the district court did not consider all sources of mother’s
+
+income and refers to her part-time job. The district court determined that mother’s gross
+
+income was $4,593 per month. Mother’s pay stubs from her full-time job add up to less
+
+than that amount. Mother acknowledged at the hearing that she worked part time. Thus,
+
+the record supports the district court’s finding of mother’s income, and we discern no error.
+
+       We therefore conclude that the district court did not abuse its discretion or rely on
+
+clearly erroneous findings in modifying child support based on the October 2024 order.
+
+IV.    Father forfeited review of the district court’s decision to strike the
+       parenting-time right of first refusal.
+
+       Father argues that the district court erred when it eliminated the parenting-time
+
+“right of first refusal” without “required statutory findings, without applying best-interest
+
+standards, and despite [father’s] express demand for an evidentiary hearing.” The right of
+
+first refusal refers to a provision in the decree requiring that the on-duty parent offer the
+
+off-duty parent the opportunity to provide childcare before utilizing third-party childcare
+
+when the on-duty parent cannot be present during their scheduled parenting time.
+
+       Mother responds that she and father asked the district court to strike the right of first
+
+refusal. Indeed, in a responsive motion filed on June 14, 2024, father asked the district
+
+
+
+                                              19
+court to strike the right of first refusal. During district court proceedings, father never
+
+suggested that he opposed striking the right of first refusal in the decree. Therefore, father
+
+forfeited any claim that the district court erred by striking the right of first refusal, and we
+
+do not consider the issue further.
+
+V.     The district court did not abuse its discretion by ordering father to reimburse
+       mother for the children’s expenses.
+
+       Father attacks the district court’s decision to order him to reimburse mother
+
+$3,010.19 for the children’s expenses on two grounds. First, he argues that the district court
+
+found that he refused to mediate and relied on that refusal to award mother the children’s
+
+expenses. The record does not support father’s claim. Before the February 2025 hearing,
+
+mother filed a letter describing her efforts to mediate issues and stating that father “refused”
+
+to schedule mediation. During the February 2025 hearing, the district court admonished
+
+father, stating it had ordered the parties “to go to mediation” and that father “did not
+
+participate in it.” Father responded that he did not refuse to go to mediation. The district
+
+court did not find that father “refused” mediation, nor did it refer to father’s refusal to
+
+mediate in the May 2025 order. Nothing in the record supports father’s claim that father’s
+
+refusal to mediate affected the district court’s decision to order father to pay the children’s
+
+expenses.
+
+       Second, father argues that the district court abused its discretion by ordering him to
+
+reimburse mother for the children’s expenses without making related factual findings. He
+
+specifically argues, among other things, that the expenses sought “overlapped expenses
+
+previously addressed in prior motions.” Mother responds that father “did not provide any
+
+
+
+                                              20
+counter or rebuttal to [her] request for unreimbursed expenses” and thus father forfeited
+
+this issue.
+
+       In the May 2025 order, the district court observed that the decree requires the parties
+
+to “share equally in all of the cost and expenses of all agreed upon extra-curricular and
+
+school related activities/expenses.” Mother sought reimbursement from father of $3,010.19
+
+in the children’s expenses. The district court found that mother substantiated that amount
+
+in “a detailed spreadsheet outlining the expenses for gymnastics, cheerleading, haircuts,
+
+therapy, co-pays for medical expenses, school supplies, and sport-related gear.” The
+
+spreadsheet also credited father for other reimbursements he had already made to mother.
+
+The district court found that father did “not address, or deny, his failure to reimburse
+
+mother,” and therefore it “consider[ed] mother’s request unopposed.”
+
+       We agree with mother that father has forfeited this issue by failing to challenge
+
+mother’s request for reimbursement in district court. See Thiele v. Stich, 425 N.W.2d 580,
+
+582 (Minn. 1988) (stating that appellate courts generally do not consider issues not raised
+
+or decided during district court proceedings). Because father did not challenge mother’s
+
+reimbursement request during district court proceedings, we do not consider this issue
+
+further.
+
+VI.    The record does not demonstrate that the district court judge was biased
+       against father.
+
+       Father asks this court to “reassign” this matter to another district court judge. Father
+
+concedes that he “does not allege personal or intentional bias” by the district court judge.
+
+But father asserts that the district court judge “issued at least one administrative ruling” in
+
+
+
+                                              21
+the “same subject matter area in which” father works. Father contends that this creates the
+
+appearance of bias and that, therefore, any further proceedings on remand must be assigned
+
+to a different judge. Father also argues that repeated errors establish judicial bias. Because
+
+he provides no authority in support of this argument, we do not consider this argument. See
+
+Schoepke, 187 N.W.2d at 135.
+
+       We presume that “a judge has discharged her duties properly.” Hannon,
+
+752 N.W.2d at 522. “In reviewing claims of judicial bias, [appellate courts] have
+
+considered whether the trial judge considered arguments and motions made by both sides,
+
+ruled in favor of a complaining [party] on any issue, and took actions to minimize prejudice
+
+to the [party].” Id. As discussed above, adverse rulings alone do not demonstrate judicial
+
+bias. Id. Rather, bias must be established based on the record as a whole. Id.
+
+       We conclude that father speculates that the district court judge appeared to be biased
+
+because she issued at least one ruling in the “same subject matter area” in which father
+
+works. Father provides no argument or evidence that such a ruling indicates bias—he does
+
+not identify the ruling or litigation, state whether the case involved him or his employer, or
+
+specify whether the judge ruled favorably or adversely. See Schoepke, 187 N.W.2d at 135.
+
+Father therefore does not overcome the presumption that the district court judge discharged
+
+her duties properly. See Hannon, 752 N.W.2d at 522. Because father offers only
+
+speculation to support his argument that the district court judge’s prior ruling in an
+
+unrelated matter creates the appearance of bias, the claim fails.
+
+       Affirmed.
+
+
+
+
+                                             22
+

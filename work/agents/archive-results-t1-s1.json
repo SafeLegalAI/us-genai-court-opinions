@@ -1,0 +1,590 @@
+{
+  "https://www.dccourts.gov/sites/default/files/2026-09/Douglas%20v.%20Deutsche%20Bank%20Nat%27l%20Trt%20Co.%2024-CV-1099%20ORDER.pdf": {
+    "archive_url": null,
+    "status": "",
+    "headers": "",
+    "stderr": ""
+  },
+  "https://www.courts.state.hi.us/wp-content/uploads/2026/08/CAAP-24-0000826.pdf": {
+    "archive_url": null,
+    "status": "HTTP/2 523 ",
+    "headers": "HTTP/2 523 \nserver: nginx\ndate: Mon, 07 Sep 2026 20:41:51 GMT\ncontent-type: text/html\ncache-control: no-cache\nx-app-server: wwwb-app223-dc8\nx-ts: 523\nx-tr: 6107\nserver-timing: TR;dur=0,Tw;dur=0,Tc;dur=0\nset-cookie: wb-save-SERVER=wwwb-app223; path=/\nx-location: save-sync\nx-rl: 0\nx-na: 0\nx-page-cache: MISS\nx-nid: Atria Convergence Technologies Pvt. Ltd. Broadband Internet Service Provider INDIA\nreferrer-policy: no-referrer-when-downgrade\npermissions-policy: interest-cohort=()\nx-sd: 0\n\n",
+    "stderr": ""
+  },
+  "https://storage.courtlistener.com/recap/gov.uscourts.gand.358237/gov.uscourts.gand.358237.66.0.pdf": {
+    "archive_url": null,
+    "status": "",
+    "headers": "",
+    "stderr": ""
+  },
+  "https://storage.courtlistener.com/recap/gov.uscourts.nmd.505858/gov.uscourts.nmd.505858.87.0.pdf": {
+    "archive_url": "https://web.archive.org/web/20260907204225/https://storage.courtlistener.com/recap/gov.uscourts.nmd.505858/gov.uscourts.nmd.505858.87.0.pdf",
+    "status": "HTTP/2 302 ",
+    "headers": "HTTP/2 302 \nserver: nginx\ndate: Mon, 07 Sep 2026 20:42:30 GMT\ncontent-type: text/html; charset=utf-8\ncontent-length: 438\nlocation: https://web.archive.org/web/20260907204225/https://storage.courtlistener.com/recap/gov.uscourts.nmd.505858/gov.uscourts.nmd.505858.87.0.pdf\nx-app-server: wwwb-app223-dc8\nx-ts: 302\nx-tr: 6050\nserver-timing: TR;dur=0,Tw;dur=0,Tc;dur=0\nset-cookie: wb-save-SERVER=wwwb-app223; path=/\nx-location: save-sync\nx-rl: 0\nx-na: 0\nx-page-cache: MISS\nserver-timing: MISS\nx-nid: Atria Convergence Technologies Pvt. Ltd. Broadband Internet Service Provider INDIA\nreferrer-policy: no-referrer-when-downgrade\npermissions-policy: interest-cohort=()\nx-sd: 0\n\n",
+    "stderr": ""
+  },
+  "https://www.damiencharlotin.com/documents/2999/Noble_v._WMC_Mortgage_Corp_USA_28_August_2026.pdf": {
+    "archive_url": "https://web.archive.org/web/20260907204233/https://websitedc.s3.amazonaws.com/documents/Noble_v._WMC_Mortgage_Corp_USA_28_August_2026.pdf",
+    "status": "HTTP/2 302 ",
+    "headers": "HTTP/2 302 \nserver: nginx\ndate: Mon, 07 Sep 2026 20:42:37 GMT\ncontent-type: text/html; charset=utf-8\ncontent-length: 434\nlocation: https://web.archive.org/web/20260907204233/https://websitedc.s3.amazonaws.com/documents/Noble_v._WMC_Mortgage_Corp_USA_28_August_2026.pdf\nx-app-server: wwwb-app55-dc6\nx-ts: 302\nx-tr: 6060\nserver-timing: TR;dur=0,Tw;dur=0,Tc;dur=1\nset-cookie: wb-save-SERVER=wwwb-app55; path=/\nx-location: save-sync\nx-rl: 0\nx-na: 0\nx-page-cache: MISS\nserver-timing: MISS\nx-nid: Atria Convergence Technologies Pvt. Ltd. Broadband Internet Service Provider INDIA\nreferrer-policy: no-referrer-when-downgrade\npermissions-policy: interest-cohort=()\nx-sd: 0\n\n",
+    "stderr": ""
+  },
+  "https://storage.courtlistener.com/recap/gov.uscourts.cod.226664/gov.uscourts.cod.226664.134.0.pdf": {
+    "archive_url": "https://web.archive.org/web/20260907204240/https://storage.courtlistener.com/recap/gov.uscourts.cod.226664/gov.uscourts.cod.226664.134.0.pdf",
+    "status": "HTTP/2 302 ",
+    "headers": "HTTP/2 302 \nserver: nginx\ndate: Mon, 07 Sep 2026 20:42:45 GMT\ncontent-type: text/html; charset=utf-8\ncontent-length: 440\nlocation: https://web.archive.org/web/20260907204240/https://storage.courtlistener.com/recap/gov.uscourts.cod.226664/gov.uscourts.cod.226664.134.0.pdf\nx-app-server: wwwb-app223-dc8\nx-ts: 302\nx-tr: 6048\nserver-timing: TR;dur=0,Tw;dur=0,Tc;dur=0\nset-cookie: wb-save-SERVER=wwwb-app223; path=/\nx-location: save-sync\nx-rl: 0\nx-na: 0\nx-page-cache: MISS\nserver-timing: MISS\nx-nid: Atria Convergence Technologies Pvt. Ltd. Broadband Internet Service Provider INDIA\nreferrer-policy: no-referrer-when-downgrade\npermissions-policy: interest-cohort=()\nx-sd: 0\n\n",
+    "stderr": ""
+  },
+  "https://www.damiencharlotin.com/documents/2995/Kiser_P._v._DeSimone_Auto_Group_USA_27_AUgust_2026.pdf": {
+    "archive_url": null,
+    "status": "HTTP/2 429 ",
+    "headers": "HTTP/2 429 \nserver: nginx\ndate: Mon, 07 Sep 2026 20:42:47 GMT\ncontent-type: text/html\ncache-control: no-cache\nx-app-server: wwwb-app223-dc8\nx-ts: 429\nx-tr: 11\nserver-timing: TR;dur=0,Tw;dur=0,Tc;dur=0\nset-cookie: wb-save-SERVER=wwwb-app223; path=/\nx-location: save-sync\nx-rl: 0\nx-na: 0\nx-page-cache: MISS\nx-nid: Atria Convergence Technologies Pvt. Ltd. Broadband Internet Service Provider INDIA\nreferrer-policy: no-referrer-when-downgrade\npermissions-policy: interest-cohort=()\nx-sd: 0\n\n",
+    "stderr": ""
+  },
+  "https://storage.courtlistener.com/recap/gov.uscourts.flsd.658251/gov.uscourts.flsd.658251.261.0.pdf": {
+    "archive_url": null,
+    "status": "HTTP/2 429 ",
+    "headers": "HTTP/2 429 \nserver: nginx\ndate: Mon, 07 Sep 2026 20:42:49 GMT\ncontent-type: text/html\ncache-control: no-cache\nx-app-server: wwwb-app223-dc8\nx-ts: 429\nx-tr: 11\nserver-timing: TR;dur=0,Tw;dur=0,Tc;dur=0\nset-cookie: wb-save-SERVER=wwwb-app223; path=/\nx-location: save-sync\nx-rl: 0\nx-na: 0\nx-page-cache: MISS\nx-nid: Atria Convergence Technologies Pvt. Ltd. Broadband Internet Service Provider INDIA\nreferrer-policy: no-referrer-when-downgrade\npermissions-policy: interest-cohort=()\nx-sd: 0\n\n",
+    "stderr": ""
+  },
+  "https://storage.courtlistener.com/recap/gov.uscourts.txnd.417872/gov.uscourts.txnd.417872.20.0.pdf": {
+    "archive_url": null,
+    "status": "HTTP/2 429 ",
+    "headers": "HTTP/2 429 \nserver: nginx\ndate: Mon, 07 Sep 2026 20:42:51 GMT\ncontent-type: text/html\ncache-control: no-cache\nx-app-server: wwwb-app55-dc6\nx-ts: 429\nx-tr: 16\nserver-timing: TR;dur=0,Tw;dur=0,Tc;dur=1\nset-cookie: wb-save-SERVER=wwwb-app55; path=/\nx-location: save-sync\nx-rl: 0\nx-na: 0\nx-page-cache: MISS\nx-nid: Atria Convergence Technologies Pvt. Ltd. Broadband Internet Service Provider INDIA\nreferrer-policy: no-referrer-when-downgrade\npermissions-policy: interest-cohort=()\nx-sd: 0\n\n",
+    "stderr": ""
+  },
+  "https://storage.courtlistener.com/recap/gov.uscourts.nhd.66674/gov.uscourts.nhd.66674.18.0.pdf": {
+    "archive_url": null,
+    "status": "HTTP/2 429 ",
+    "headers": "HTTP/2 429 \nserver: nginx\ndate: Mon, 07 Sep 2026 20:42:52 GMT\ncontent-type: text/html\ncache-control: no-cache\nx-app-server: wwwb-app55-dc6\nx-ts: 429\nx-tr: 15\nserver-timing: TR;dur=0,Tw;dur=0,Tc;dur=1\nset-cookie: wb-save-SERVER=wwwb-app55; path=/\nx-location: save-sync\nx-rl: 0\nx-na: 0\nx-page-cache: MISS\nx-nid: Atria Convergence Technologies Pvt. Ltd. Broadband Internet Service Provider INDIA\nreferrer-policy: no-referrer-when-downgrade\npermissions-policy: interest-cohort=()\nx-sd: 0\n\n",
+    "stderr": ""
+  },
+  "https://www.damiencharlotin.com/documents/2952/Potterf_v._Wessels_USA_26_August_2026.pdf": {
+    "archive_url": null,
+    "status": "HTTP/2 429 ",
+    "headers": "HTTP/2 429 \nserver: nginx\ndate: Mon, 07 Sep 2026 20:42:54 GMT\ncontent-type: text/html\ncache-control: no-cache\nx-app-server: wwwb-app223-dc8\nx-ts: 429\nx-tr: 13\nserver-timing: TR;dur=0,Tw;dur=0,Tc;dur=0\nset-cookie: wb-save-SERVER=wwwb-app223; path=/\nx-location: save-sync\nx-rl: 0\nx-na: 0\nx-page-cache: MISS\nx-nid: Atria Convergence Technologies Pvt. Ltd. Broadband Internet Service Provider INDIA\nreferrer-policy: no-referrer-when-downgrade\npermissions-policy: interest-cohort=()\nx-sd: 0\n\n",
+    "stderr": ""
+  },
+  "https://www.damiencharlotin.com/documents/2998/ALIYAH_FAIRROW_v._BRENTLY_EASTEN_USA_26_August_2026.pdf": {
+    "archive_url": null,
+    "status": "HTTP/2 429 ",
+    "headers": "HTTP/2 429 \nserver: nginx\ndate: Mon, 07 Sep 2026 20:42:56 GMT\ncontent-type: text/html\ncache-control: no-cache\nx-app-server: wwwb-app223-dc8\nx-ts: 429\nx-tr: 23\nserver-timing: TR;dur=0,Tw;dur=0,Tc;dur=0\nset-cookie: wb-save-SERVER=wwwb-app223; path=/\nx-location: save-sync\nx-rl: 0\nx-na: 0\nx-page-cache: MISS\nx-nid: Atria Convergence Technologies Pvt. Ltd. Broadband Internet Service Provider INDIA\nreferrer-policy: no-referrer-when-downgrade\npermissions-policy: interest-cohort=()\nx-sd: 0\n\n",
+    "stderr": ""
+  },
+  "https://www.damiencharlotin.com/documents/2949/Johnson_v._Nationstar_Mortgage_LLC_USA_26_August_2026.pdf": {
+    "archive_url": null,
+    "status": "HTTP/2 429 ",
+    "headers": "HTTP/2 429 \nserver: nginx\ndate: Mon, 07 Sep 2026 20:42:58 GMT\ncontent-type: text/html\ncache-control: no-cache\nx-app-server: wwwb-app223-dc8\nx-ts: 429\nx-tr: 12\nserver-timing: TR;dur=0,Tw;dur=0,Tc;dur=0\nset-cookie: wb-save-SERVER=wwwb-app223; path=/\nx-location: save-sync\nx-rl: 0\nx-na: 0\nx-page-cache: MISS\nx-nid: Atria Convergence Technologies Pvt. Ltd. Broadband Internet Service Provider INDIA\nreferrer-policy: no-referrer-when-downgrade\npermissions-policy: interest-cohort=()\nx-sd: 0\n\n",
+    "stderr": ""
+  },
+  "https://www.damiencharlotin.com/documents/2951/Shelbert_v._Baxter_International_USA_26_August_2026.pdf": {
+    "archive_url": null,
+    "status": "HTTP/2 429 ",
+    "headers": "HTTP/2 429 \nserver: nginx\ndate: Mon, 07 Sep 2026 20:43:00 GMT\ncontent-type: text/html\ncache-control: no-cache\nx-app-server: wwwb-app55-dc6\nx-ts: 429\nx-tr: 13\nserver-timing: TR;dur=0,Tw;dur=0,Tc;dur=0\nset-cookie: wb-save-SERVER=wwwb-app55; path=/\nx-location: save-sync\nx-rl: 0\nx-na: 0\nx-page-cache: MISS\nx-nid: Atria Convergence Technologies Pvt. Ltd. Broadband Internet Service Provider INDIA\nreferrer-policy: no-referrer-when-downgrade\npermissions-policy: interest-cohort=()\nx-sd: 0\n\n",
+    "stderr": ""
+  },
+  "https://www.damiencharlotin.com/documents/2944/KURELKO_v._BALLARD_JR._USA_25_August_2026.pdf": {
+    "archive_url": "https://web.archive.org/web/20260907204302/https://websitedc.s3.amazonaws.com/documents/KURELKO_v._BALLARD_JR._USA_25_August_2026.pdf",
+    "status": "HTTP/2 302 ",
+    "headers": "HTTP/2 302 \nserver: nginx\ndate: Mon, 07 Sep 2026 20:43:07 GMT\ncontent-type: text/html; charset=utf-8\ncontent-length: 426\nlocation: https://web.archive.org/web/20260907204302/https://websitedc.s3.amazonaws.com/documents/KURELKO_v._BALLARD_JR._USA_25_August_2026.pdf\nx-app-server: wwwb-app223-dc8\nx-ts: 302\nx-tr: 6035\nserver-timing: TR;dur=0,Tw;dur=0,Tc;dur=0\nset-cookie: wb-save-SERVER=wwwb-app223; path=/\nx-location: save-sync\nx-rl: 0\nx-na: 0\nx-page-cache: MISS\nserver-timing: MISS\nx-nid: Atria Convergence Technologies Pvt. Ltd. Broadband Internet Service Provider INDIA\nreferrer-policy: no-referrer-when-downgrade\npermissions-policy: interest-cohort=()\nx-sd: 0\n\n",
+    "stderr": ""
+  },
+  "https://storage.courtlistener.com/recap/gov.uscourts.mowd.183519/gov.uscourts.mowd.183519.84.0.pdf": {
+    "archive_url": null,
+    "status": "HTTP/2 523 ",
+    "headers": "HTTP/2 523 \nserver: nginx\ndate: Mon, 07 Sep 2026 20:43:15 GMT\ncontent-type: text/html\ncache-control: no-cache\nx-app-server: wwwb-app55-dc6\nx-ts: 523\nx-tr: 6042\nserver-timing: TR;dur=0,Tw;dur=0,Tc;dur=0\nset-cookie: wb-save-SERVER=wwwb-app55; path=/\nx-location: save-sync\nx-rl: 0\nx-na: 0\nx-page-cache: MISS\nx-nid: Atria Convergence Technologies Pvt. Ltd. Broadband Internet Service Provider INDIA\nreferrer-policy: no-referrer-when-downgrade\npermissions-policy: interest-cohort=()\nx-sd: 0\n\n",
+    "stderr": ""
+  },
+  "https://storage.courtlistener.com/recap/gov.uscourts.azd.1348340/gov.uscourts.azd.1348340.179.0.pdf": {
+    "archive_url": null,
+    "status": "HTTP/2 523 ",
+    "headers": "HTTP/2 523 \nserver: nginx\ndate: Mon, 07 Sep 2026 20:43:23 GMT\ncontent-type: text/html\ncache-control: no-cache\nx-app-server: wwwb-app223-dc8\nx-ts: 523\nx-tr: 6054\nserver-timing: TR;dur=0,Tw;dur=0,Tc;dur=0\nset-cookie: wb-save-SERVER=wwwb-app223; path=/\nx-location: save-sync\nx-rl: 0\nx-na: 0\nx-page-cache: MISS\nx-nid: Atria Convergence Technologies Pvt. Ltd. Broadband Internet Service Provider INDIA\nreferrer-policy: no-referrer-when-downgrade\npermissions-policy: interest-cohort=()\nx-sd: 0\n\n",
+    "stderr": ""
+  },
+  "https://www.damiencharlotin.com/documents/2956/Ferm_v._Agritech_USA_25_August_2026.pdf": {
+    "archive_url": null,
+    "status": "HTTP/2 429 ",
+    "headers": "HTTP/2 429 \nserver: nginx\ndate: Mon, 07 Sep 2026 20:43:25 GMT\ncontent-type: text/html\ncache-control: no-cache\nx-app-server: wwwb-app55-dc6\nx-ts: 429\nx-tr: 11\nserver-timing: TR;dur=0,Tw;dur=0,Tc;dur=1\nset-cookie: wb-save-SERVER=wwwb-app55; path=/\nx-location: save-sync\nx-rl: 0\nx-na: 0\nx-page-cache: MISS\nx-nid: Atria Convergence Technologies Pvt. Ltd. Broadband Internet Service Provider INDIA\nreferrer-policy: no-referrer-when-downgrade\npermissions-policy: interest-cohort=()\nx-sd: 0\n\n",
+    "stderr": ""
+  },
+  "https://www.damiencharlotin.com/documents/2941/Full_Standard_Properties_USA_20_August_2026.pdf": {
+    "archive_url": null,
+    "status": "",
+    "headers": "",
+    "stderr": ""
+  },
+  "https://www.damiencharlotin.com/documents/3004/Perez_v._Schaal_USA_21_August_2026.pdf": {
+    "archive_url": "https://web.archive.org/web/20260907205622/https://websitedc.s3.amazonaws.com/documents/Perez_v._Schaal_USA_21_August_2026.pdf",
+    "status": "HTTP/2 302 ",
+    "headers": "HTTP/2 302 \nserver: nginx\ndate: Mon, 07 Sep 2026 20:56:27 GMT\ncontent-type: text/html; charset=utf-8\ncontent-length: 412\nlocation: https://web.archive.org/web/20260907205622/https://websitedc.s3.amazonaws.com/documents/Perez_v._Schaal_USA_21_August_2026.pdf\nx-app-server: wwwb-app223-dc8\nx-ts: 302\nx-tr: 6885\nserver-timing: TR;dur=0,Tw;dur=0,Tc;dur=0\nset-cookie: wb-save-SERVER=wwwb-app223; path=/\nx-location: save-sync\nx-rl: 0\nx-na: 0\nx-page-cache: MISS\nserver-timing: MISS\nx-nid: Atria Convergence Technologies Pvt. Ltd. Broadband Internet Service Provider INDIA\nreferrer-policy: no-referrer-when-downgrade\npermissions-policy: interest-cohort=()\nx-sd: 0\n\n",
+    "stderr": ""
+  },
+  "https://www.damiencharlotin.com/documents/2925/Disruptive_Resources_LLC_v._Ballistic_Barrier_Products_USA_20_August_2026.pdf": {
+    "archive_url": "https://web.archive.org/web/20260907205631/https://websitedc.s3.amazonaws.com/documents/Disruptive_Resources_LLC_v._Ballistic_Barrier_Products_USA_20_August_2026.pdf",
+    "status": "HTTP/2 302 ",
+    "headers": "HTTP/2 302 \nserver: nginx\ndate: Mon, 07 Sep 2026 20:56:34 GMT\ncontent-type: text/html; charset=utf-8\ncontent-length: 490\nlocation: https://web.archive.org/web/20260907205631/https://websitedc.s3.amazonaws.com/documents/Disruptive_Resources_LLC_v._Ballistic_Barrier_Products_USA_20_August_2026.pdf\nx-app-server: wwwb-app55-dc6\nx-ts: 302\nx-tr: 6061\nserver-timing: TR;dur=0,Tw;dur=0,Tc;dur=1\nset-cookie: wb-save-SERVER=wwwb-app55; path=/\nx-location: save-sync\nx-rl: 0\nx-na: 0\nx-page-cache: MISS\nserver-timing: MISS\nx-nid: Atria Convergence Technologies Pvt. Ltd. Broadband Internet Service Provider INDIA\nreferrer-policy: no-referrer-when-downgrade\npermissions-policy: interest-cohort=()\nx-sd: 0\n\n",
+    "stderr": ""
+  },
+  "https://www.damiencharlotin.com/documents/2939/Dotson_v._Evans_USa_20_August_2026.pdf": {
+    "archive_url": "https://web.archive.org/web/20260907205637/https://websitedc.s3.amazonaws.com/documents/Dotson_v._Evans_USa_20_August_2026.pdf",
+    "status": "HTTP/2 302 ",
+    "headers": "HTTP/2 302 \nserver: nginx\ndate: Mon, 07 Sep 2026 20:56:42 GMT\ncontent-type: text/html; charset=utf-8\ncontent-length: 412\nlocation: https://web.archive.org/web/20260907205637/https://websitedc.s3.amazonaws.com/documents/Dotson_v._Evans_USa_20_August_2026.pdf\nx-app-server: wwwb-app55-dc6\nx-ts: 302\nx-tr: 6064\nserver-timing: TR;dur=0,Tw;dur=0,Tc;dur=0\nset-cookie: wb-save-SERVER=wwwb-app55; path=/\nx-location: save-sync\nx-rl: 0\nx-na: 0\nx-page-cache: MISS\nserver-timing: MISS\nx-nid: Atria Convergence Technologies Pvt. Ltd. Broadband Internet Service Provider INDIA\nreferrer-policy: no-referrer-when-downgrade\npermissions-policy: interest-cohort=()\nx-sd: 0\n\n",
+    "stderr": ""
+  },
+  "https://www.damiencharlotin.com/documents/2923/CECILE_KASENGELA_v_KAISER_FOUNDATION_HOSPITALS_et_al_USA_20_August_2026.pdf": {
+    "archive_url": null,
+    "status": "HTTP/2 429 ",
+    "headers": "HTTP/2 429 \nserver: nginx\ndate: Mon, 07 Sep 2026 20:56:44 GMT\ncontent-type: text/html\ncache-control: no-cache\nx-app-server: wwwb-app55-dc6\nx-ts: 429\nx-tr: 10\nserver-timing: TR;dur=0,Tw;dur=0,Tc;dur=1\nset-cookie: wb-save-SERVER=wwwb-app55; path=/\nx-location: save-sync\nx-rl: 0\nx-na: 0\nx-page-cache: MISS\nx-nid: Atria Convergence Technologies Pvt. Ltd. Broadband Internet Service Provider INDIA\nreferrer-policy: no-referrer-when-downgrade\npermissions-policy: interest-cohort=()\nx-sd: 0\n\n",
+    "stderr": ""
+  },
+  "https://www.damiencharlotin.com/documents/2937/Lohbeck_v._Amazon_USA_21_August_2026.pdf": {
+    "archive_url": null,
+    "status": "HTTP/2 429 ",
+    "headers": "HTTP/2 429 \nserver: nginx\ndate: Mon, 07 Sep 2026 20:56:46 GMT\ncontent-type: text/html\ncache-control: no-cache\nx-app-server: wwwb-app223-dc8\nx-ts: 429\nx-tr: 11\nserver-timing: TR;dur=0,Tw;dur=0,Tc;dur=0\nset-cookie: wb-save-SERVER=wwwb-app223; path=/\nx-location: save-sync\nx-rl: 0\nx-na: 0\nx-page-cache: MISS\nx-nid: Atria Convergence Technologies Pvt. Ltd. Broadband Internet Service Provider INDIA\nreferrer-policy: no-referrer-when-downgrade\npermissions-policy: interest-cohort=()\nx-sd: 0\n\n",
+    "stderr": ""
+  },
+  "https://www.damiencharlotin.com/documents/2913/Kaspryak_Z._v._Stadarskyy_USA_19_August_2026.pdf": {
+    "archive_url": null,
+    "status": "HTTP/2 429 ",
+    "headers": "HTTP/2 429 \nserver: nginx\ndate: Mon, 07 Sep 2026 20:56:47 GMT\ncontent-type: text/html\ncache-control: no-cache\nx-app-server: wwwb-app223-dc8\nx-ts: 429\nx-tr: 12\nserver-timing: TR;dur=0,Tw;dur=0,Tc;dur=0\nset-cookie: wb-save-SERVER=wwwb-app223; path=/\nx-location: save-sync\nx-rl: 0\nx-na: 0\nx-page-cache: MISS\nx-nid: Atria Convergence Technologies Pvt. Ltd. Broadband Internet Service Provider INDIA\nreferrer-policy: no-referrer-when-downgrade\npermissions-policy: interest-cohort=()\nx-sd: 0\n\n",
+    "stderr": ""
+  },
+  "https://www.damiencharlotin.com/documents/2924/Kelly_v._Financial_Industry_Regulatory_Authority_USA_19_August_2026.pdf": {
+    "archive_url": null,
+    "status": "",
+    "headers": "",
+    "stderr": ""
+  },
+  "https://www.damiencharlotin.com/documents/2918/Brett_Thomas_Wilkinson_v._Lacey_Schmelzer_USA_19_August_2026.pdf": {
+    "archive_url": null,
+    "status": "HTTP/2 429 ",
+    "headers": "HTTP/2 429 \nserver: nginx\ndate: Mon, 07 Sep 2026 20:56:51 GMT\ncontent-type: text/html\ncache-control: no-cache\nx-app-server: wwwb-app223-dc8\nx-ts: 429\nx-tr: 11\nserver-timing: TR;dur=0,Tw;dur=0,Tc;dur=1\nset-cookie: wb-save-SERVER=wwwb-app223; path=/\nx-location: save-sync\nx-rl: 0\nx-na: 0\nx-page-cache: MISS\nx-nid: Atria Convergence Technologies Pvt. Ltd. Broadband Internet Service Provider INDIA\nreferrer-policy: no-referrer-when-downgrade\npermissions-policy: interest-cohort=()\nx-sd: 0\n\n",
+    "stderr": ""
+  },
+  "https://www.damiencharlotin.com/documents/2910/Snisko_v._Cascade_Funding_Mortgage_Trust_HB4_USA_19_August_2026.pdf": {
+    "archive_url": null,
+    "status": "",
+    "headers": "",
+    "stderr": ""
+  },
+  "https://www.damiencharlotin.com/documents/2917/Marriage_of_Dillon_USA_18_AUgust_2026.pdf": {
+    "archive_url": null,
+    "status": "",
+    "headers": "",
+    "stderr": ""
+  },
+  "https://www.damiencharlotin.com/documents/2914/TRENTISS_MITCHELL_v._HIG_REALTY_CREDIT_FUND_USA_19_August_2026.pdf": {
+    "archive_url": null,
+    "status": "",
+    "headers": "",
+    "stderr": ""
+  },
+  "https://www.damiencharlotin.com/documents/2894/Muriel_v._Farris_USA_18_August_2026.pdf": {
+    "archive_url": null,
+    "status": "",
+    "headers": "",
+    "stderr": ""
+  },
+  "https://www.damiencharlotin.com/documents/2919/Perez_v._Blanche_USA_18_August_2026.pdf": {
+    "archive_url": null,
+    "status": "",
+    "headers": "",
+    "stderr": ""
+  },
+  "https://www.damiencharlotin.com/documents/2902/Ledoux_v._Outliers_USA_August_2026.pdf": {
+    "archive_url": null,
+    "status": "",
+    "headers": "",
+    "stderr": ""
+  },
+  "https://www.damiencharlotin.com/documents/2922/Sani_v_Institute_for_Human_Reproduction_USA_18_August_2026.pdf": {
+    "archive_url": null,
+    "status": "",
+    "headers": "",
+    "stderr": ""
+  },
+  "https://www.damiencharlotin.com/documents/2915/Manny_Kourradi_v._Wyatt_Brian_Christophe_USA_18_August_2026.pdf": {
+    "archive_url": null,
+    "status": "",
+    "headers": "",
+    "stderr": ""
+  },
+  "https://www.damiencharlotin.com/documents/2920/Brankle_v._Schmell_USA_14_August_2026.pdf": {
+    "archive_url": "https://web.archive.org/web/20260907205707/https://websitedc.s3.amazonaws.com/documents/Brankle_v._Schmell_USA_14_August_2026.pdf",
+    "status": "HTTP/2 302 ",
+    "headers": "HTTP/2 302 \nserver: nginx\ndate: Mon, 07 Sep 2026 20:57:08 GMT\ncontent-type: text/html; charset=utf-8\ncontent-length: 418\nlocation: https://web.archive.org/web/20260907205707/https://websitedc.s3.amazonaws.com/documents/Brankle_v._Schmell_USA_14_August_2026.pdf\nx-app-server: wwwb-app55-dc6\nx-ts: 302\nx-tr: 6034\nserver-timing: TR;dur=0,Tw;dur=0,Tc;dur=1\nset-cookie: wb-save-SERVER=wwwb-app55; path=/\nx-location: save-sync\nx-rl: 0\nx-na: 0\nx-page-cache: MISS\nserver-timing: MISS\nx-nid: Atria Convergence Technologies Pvt. Ltd. Broadband Internet Service Provider INDIA\nreferrer-policy: no-referrer-when-downgrade\npermissions-policy: interest-cohort=()\nx-sd: 0\n\n",
+    "stderr": ""
+  },
+  "https://www.damiencharlotin.com/documents/2901/Harris_v._Wray_USA_14_August_2026.pdf": {
+    "archive_url": null,
+    "status": "",
+    "headers": "",
+    "stderr": ""
+  },
+  "https://www.damiencharlotin.com/documents/2900/Quezada_v._USA_USA_14_August_2026.pdf": {
+    "archive_url": "https://web.archive.org/web/20260907210437/https://websitedc.s3.amazonaws.com/documents/Quezada_v._USA_USA_14_August_2026.pdf",
+    "status": "HTTP/2 302 ",
+    "headers": "HTTP/2 302 \nserver: nginx\ndate: Mon, 07 Sep 2026 21:04:41 GMT\ncontent-type: text/html; charset=utf-8\ncontent-length: 410\nlocation: https://web.archive.org/web/20260907210437/https://websitedc.s3.amazonaws.com/documents/Quezada_v._USA_USA_14_August_2026.pdf\nx-app-server: wwwb-app223-dc8\nx-ts: 302\nx-tr: 6044\nserver-timing: TR;dur=0,Tw;dur=0,Tc;dur=0\nset-cookie: wb-save-SERVER=wwwb-app223; path=/\nx-location: save-sync\nx-rl: 0\nx-na: 0\nx-page-cache: MISS\nserver-timing: MISS\nx-nid: Atria Convergence Technologies Pvt. Ltd. Broadband Internet Service Provider INDIA\nreferrer-policy: no-referrer-when-downgrade\npermissions-policy: interest-cohort=()\nx-sd: 0\n\n",
+    "stderr": ""
+  },
+  "https://www.damiencharlotin.com/documents/2953/Rivard_v_Vermont_Dept_of_Corrections_USA_14_August_2026.pdf": {
+    "archive_url": null,
+    "status": "HTTP/2 429 ",
+    "headers": "HTTP/2 429 \nserver: nginx\ndate: Mon, 07 Sep 2026 21:04:43 GMT\ncontent-type: text/html\ncache-control: no-cache\nx-app-server: wwwb-app223-dc8\nx-ts: 429\nx-tr: 8\nserver-timing: TR;dur=0,Tw;dur=0,Tc;dur=0\nset-cookie: wb-save-SERVER=wwwb-app223; path=/\nx-location: save-sync\nx-rl: 0\nx-na: 0\nx-page-cache: MISS\nx-nid: Atria Convergence Technologies Pvt. Ltd. Broadband Internet Service Provider INDIA\nreferrer-policy: no-referrer-when-downgrade\npermissions-policy: interest-cohort=()\nx-sd: 0\n\n",
+    "stderr": ""
+  },
+  "https://www.damiencharlotin.com/documents/2899/BOETTCHER_v._BOETTCHER_USA_14_August_2026.pdf": {
+    "archive_url": null,
+    "status": "HTTP/2 429 ",
+    "headers": "HTTP/2 429 \nserver: nginx\ndate: Mon, 07 Sep 2026 21:04:44 GMT\ncontent-type: text/html\ncache-control: no-cache\nx-app-server: wwwb-app223-dc8\nx-ts: 429\nx-tr: 11\nserver-timing: TR;dur=0,Tw;dur=0,Tc;dur=1\nset-cookie: wb-save-SERVER=wwwb-app223; path=/\nx-location: save-sync\nx-rl: 0\nx-na: 0\nx-page-cache: MISS\nx-nid: Atria Convergence Technologies Pvt. Ltd. Broadband Internet Service Provider INDIA\nreferrer-policy: no-referrer-when-downgrade\npermissions-policy: interest-cohort=()\nx-sd: 0\n\n",
+    "stderr": ""
+  },
+  "https://www.damiencharlotin.com/documents/2839/JMOR_Properties_LLC_v._Artist_Alley_Townhomes_LLC_et_al._USA_12_August_2026.pdf": {
+    "archive_url": null,
+    "status": "",
+    "headers": "",
+    "stderr": ""
+  },
+  "https://www.damiencharlotin.com/documents/2831/Rose_v_Arts_Bonita_Inc_USA_12_August_2026.pdf": {
+    "archive_url": null,
+    "status": "HTTP/2 429 ",
+    "headers": "HTTP/2 429 \nserver: nginx\ndate: Mon, 07 Sep 2026 21:04:47 GMT\ncontent-type: text/html\ncache-control: no-cache\nx-app-server: wwwb-app223-dc8\nx-ts: 429\nx-tr: 12\nserver-timing: TR;dur=0,Tw;dur=0,Tc;dur=1\nset-cookie: wb-save-SERVER=wwwb-app223; path=/\nx-location: save-sync\nx-rl: 0\nx-na: 0\nx-page-cache: MISS\nx-nid: Atria Convergence Technologies Pvt. Ltd. Broadband Internet Service Provider INDIA\nreferrer-policy: no-referrer-when-downgrade\npermissions-policy: interest-cohort=()\nx-sd: 0\n\n",
+    "stderr": ""
+  },
+  "https://www.damiencharlotin.com/documents/2836/Chapman_v._City_of_Priceville_USA_12_August_2026.pdf": {
+    "archive_url": null,
+    "status": "",
+    "headers": "",
+    "stderr": ""
+  },
+  "https://www.damiencharlotin.com/documents/2898/DAVENPORT_v._CHURILLA_et_al_USA_12_August_2026.pdf": {
+    "archive_url": null,
+    "status": "",
+    "headers": "",
+    "stderr": ""
+  },
+  "https://www.damiencharlotin.com/documents/2896/Eyong_v_72_Barrow_St_Realty_Corp_USA_11_August_2026.pdf": {
+    "archive_url": null,
+    "status": "",
+    "headers": "",
+    "stderr": ""
+  },
+  "https://www.damiencharlotin.com/documents/2840/Nesbitt_v._Transunion_USA_11_AUgust_2026.pdf": {
+    "archive_url": null,
+    "status": "",
+    "headers": "",
+    "stderr": ""
+  },
+  "https://www.damiencharlotin.com/documents/2844/Voyton_v._Voyton_USA_11_AUgust_2026.pdf": {
+    "archive_url": null,
+    "status": "HTTP/2 429 ",
+    "headers": "HTTP/2 429 \nserver: nginx\ndate: Mon, 07 Sep 2026 21:04:54 GMT\ncontent-type: text/html\ncache-control: no-cache\nx-app-server: wwwb-app55-dc6\nx-ts: 429\nx-tr: 11\nserver-timing: TR;dur=0,Tw;dur=0,Tc;dur=0\nset-cookie: wb-save-SERVER=wwwb-app55; path=/\nx-location: save-sync\nx-rl: 0\nx-na: 0\nx-page-cache: MISS\nx-nid: Atria Convergence Technologies Pvt. Ltd. Broadband Internet Service Provider INDIA\nreferrer-policy: no-referrer-when-downgrade\npermissions-policy: interest-cohort=()\nx-sd: 0\n\n",
+    "stderr": ""
+  },
+  "https://www.damiencharlotin.com/documents/2835/Summit_Reit_USA_10_August_2026.pdf": {
+    "archive_url": null,
+    "status": "",
+    "headers": "",
+    "stderr": ""
+  },
+  "https://www.damiencharlotin.com/documents/2832/Stephen_J._Palumbo_et_al._v._Gregory_M._Palumbo_USA_10_August_2026.pdf": {
+    "archive_url": null,
+    "status": "HTTP/2 429 ",
+    "headers": "HTTP/2 429 \nserver: nginx\ndate: Mon, 07 Sep 2026 21:04:57 GMT\ncontent-type: text/html\ncache-control: no-cache\nx-app-server: wwwb-app55-dc6\nx-ts: 429\nx-tr: 12\nserver-timing: TR;dur=0,Tw;dur=0,Tc;dur=1\nset-cookie: wb-save-SERVER=wwwb-app55; path=/\nx-location: save-sync\nx-rl: 0\nx-na: 0\nx-page-cache: MISS\nx-nid: Atria Convergence Technologies Pvt. Ltd. Broadband Internet Service Provider INDIA\nreferrer-policy: no-referrer-when-downgrade\npermissions-policy: interest-cohort=()\nx-sd: 0\n\n",
+    "stderr": ""
+  },
+  "https://www.damiencharlotin.com/documents/2833/United_States_of_America_v._Smith_USA_7_August_2026.pdf": {
+    "archive_url": null,
+    "status": "",
+    "headers": "",
+    "stderr": ""
+  },
+  "https://www.damiencharlotin.com/documents/2845/Hack_v._Preston_et_al_USA_7_August_2026.pdf": {
+    "archive_url": "https://web.archive.org/web/20260907211204/https://websitedc.s3.amazonaws.com/documents/Hack_v._Preston_et_al_USA_7_August_2026.pdf",
+    "status": "HTTP/2 302 ",
+    "headers": "HTTP/2 302 \nserver: nginx\ndate: Mon, 07 Sep 2026 21:12:05 GMT\ncontent-type: text/html; charset=utf-8\ncontent-length: 422\nlocation: https://web.archive.org/web/20260907211204/https://websitedc.s3.amazonaws.com/documents/Hack_v._Preston_et_al_USA_7_August_2026.pdf\nx-app-server: wwwb-app55-dc6\nx-ts: 302\nx-tr: 6053\nserver-timing: TR;dur=0,Tw;dur=0,Tc;dur=0\nset-cookie: wb-save-SERVER=wwwb-app55; path=/\nx-location: save-sync\nx-rl: 0\nx-na: 0\nx-page-cache: MISS\nserver-timing: MISS\nx-nid: Atria Convergence Technologies Pvt. Ltd. Broadband Internet Service Provider INDIA\nreferrer-policy: no-referrer-when-downgrade\npermissions-policy: interest-cohort=()\nx-sd: 0\n\n",
+    "stderr": ""
+  },
+  "https://www.damiencharlotin.com/documents/2841/Brown_v_Real_Estate_Capital_of_Am._LLC_USA_7_August_2026.pdf": {
+    "archive_url": "https://web.archive.org/web/20260907211209/https://websitedc.s3.amazonaws.com/documents/Brown_v_Real_Estate_Capital_of_Am._LLC_USA_7_August_2026.pdf",
+    "status": "HTTP/2 302 ",
+    "headers": "HTTP/2 302 \nserver: nginx\ndate: Mon, 07 Sep 2026 21:12:13 GMT\ncontent-type: text/html; charset=utf-8\ncontent-length: 456\nlocation: https://web.archive.org/web/20260907211209/https://websitedc.s3.amazonaws.com/documents/Brown_v_Real_Estate_Capital_of_Am._LLC_USA_7_August_2026.pdf\nx-app-server: wwwb-app223-dc8\nx-ts: 302\nx-tr: 6046\nserver-timing: TR;dur=0,Tw;dur=0,Tc;dur=0\nset-cookie: wb-save-SERVER=wwwb-app223; path=/\nx-location: save-sync\nx-rl: 0\nx-na: 0\nx-page-cache: MISS\nserver-timing: MISS\nx-nid: Atria Convergence Technologies Pvt. Ltd. Broadband Internet Service Provider INDIA\nreferrer-policy: no-referrer-when-downgrade\npermissions-policy: interest-cohort=()\nx-sd: 0\n\n",
+    "stderr": ""
+  },
+  "https://www.damiencharlotin.com/documents/2838/Machinsky_USA_7_August_2026.pdf": {
+    "archive_url": "https://web.archive.org/web/20260907211216/https://websitedc.s3.amazonaws.com/documents/Machinsky_USA_7_August_2026.pdf",
+    "status": "HTTP/2 302 ",
+    "headers": "HTTP/2 302 \nserver: nginx\ndate: Mon, 07 Sep 2026 21:12:21 GMT\ncontent-type: text/html; charset=utf-8\ncontent-length: 398\nlocation: https://web.archive.org/web/20260907211216/https://websitedc.s3.amazonaws.com/documents/Machinsky_USA_7_August_2026.pdf\nx-app-server: wwwb-app55-dc6\nx-ts: 302\nx-tr: 6047\nserver-timing: TR;dur=0,Tw;dur=0,Tc;dur=2\nset-cookie: wb-save-SERVER=wwwb-app55; path=/\nx-location: save-sync\nx-rl: 0\nx-na: 0\nx-page-cache: MISS\nserver-timing: MISS\nx-nid: Atria Convergence Technologies Pvt. Ltd. Broadband Internet Service Provider INDIA\nreferrer-policy: no-referrer-when-downgrade\npermissions-policy: interest-cohort=()\nx-sd: 0\n\n",
+    "stderr": ""
+  },
+  "https://www.damiencharlotin.com/documents/2834/Wayne_Smith_v._Polk_County_USA_7_August_2026.pdf": {
+    "archive_url": null,
+    "status": "HTTP/2 523 ",
+    "headers": "HTTP/2 523 \nserver: nginx\ndate: Mon, 07 Sep 2026 21:12:29 GMT\ncontent-type: text/html\ncache-control: no-cache\nx-app-server: wwwb-app223-dc8\nx-ts: 523\nx-tr: 6039\nserver-timing: TR;dur=0,Tw;dur=0,Tc;dur=0\nset-cookie: wb-save-SERVER=wwwb-app223; path=/\nx-location: save-sync\nx-rl: 0\nx-na: 0\nx-page-cache: MISS\nx-nid: Atria Convergence Technologies Pvt. Ltd. Broadband Internet Service Provider INDIA\nreferrer-policy: no-referrer-when-downgrade\npermissions-policy: interest-cohort=()\nx-sd: 0\n\n",
+    "stderr": ""
+  },
+  "https://www.damiencharlotin.com/documents/2765/In_re_BFI_Waste_Sys._of_Tenn._2026_U.S._Dist._LEXIS_175482.Pdf": {
+    "archive_url": null,
+    "status": "HTTP/2 429 ",
+    "headers": "HTTP/2 429 \nserver: nginx\ndate: Mon, 07 Sep 2026 21:12:31 GMT\ncontent-type: text/html\ncache-control: no-cache\nx-app-server: wwwb-app223-dc8\nx-ts: 429\nx-tr: 11\nserver-timing: TR;dur=0,Tw;dur=0,Tc;dur=0\nset-cookie: wb-save-SERVER=wwwb-app223; path=/\nx-location: save-sync\nx-rl: 0\nx-na: 0\nx-page-cache: MISS\nx-nid: Atria Convergence Technologies Pvt. Ltd. Broadband Internet Service Provider INDIA\nreferrer-policy: no-referrer-when-downgrade\npermissions-policy: interest-cohort=()\nx-sd: 0\n\n",
+    "stderr": ""
+  },
+  "https://www.damiencharlotin.com/documents/2774/Ali_v._Osman_USA_August_2026.pdf": {
+    "archive_url": null,
+    "status": "HTTP/2 429 ",
+    "headers": "HTTP/2 429 \nserver: nginx\ndate: Mon, 07 Sep 2026 21:12:33 GMT\ncontent-type: text/html\ncache-control: no-cache\nx-app-server: wwwb-app223-dc8\nx-ts: 429\nx-tr: 10\nserver-timing: TR;dur=0,Tw;dur=0,Tc;dur=0\nset-cookie: wb-save-SERVER=wwwb-app223; path=/\nx-location: save-sync\nx-rl: 0\nx-na: 0\nx-page-cache: MISS\nx-nid: Atria Convergence Technologies Pvt. Ltd. Broadband Internet Service Provider INDIA\nreferrer-policy: no-referrer-when-downgrade\npermissions-policy: interest-cohort=()\nx-sd: 0\n\n",
+    "stderr": ""
+  },
+  "https://www.damiencharlotin.com/documents/2890/Burgess_v._Greater_Cleveland_Regional_Transit_Authority_USA_6_August_2026.pdf": {
+    "archive_url": null,
+    "status": "HTTP/2 429 ",
+    "headers": "HTTP/2 429 \nserver: nginx\ndate: Mon, 07 Sep 2026 21:12:34 GMT\ncontent-type: text/html\ncache-control: no-cache\nx-app-server: wwwb-app223-dc8\nx-ts: 429\nx-tr: 14\nserver-timing: TR;dur=0,Tw;dur=0,Tc;dur=0\nset-cookie: wb-save-SERVER=wwwb-app223; path=/\nx-location: save-sync\nx-rl: 0\nx-na: 0\nx-page-cache: MISS\nx-nid: Atria Convergence Technologies Pvt. Ltd. Broadband Internet Service Provider INDIA\nreferrer-policy: no-referrer-when-downgrade\npermissions-policy: interest-cohort=()\nx-sd: 0\n\n",
+    "stderr": ""
+  },
+  "https://www.damiencharlotin.com/documents/2779/GIRIJA_KADLASKAR_Plaintiff_v_UNITED_STATES_CITIZENSHIP_AND_IMMIGRATION_SER_USA_Gg2IhwZ.pdf": {
+    "archive_url": null,
+    "status": "HTTP/2 429 ",
+    "headers": "HTTP/2 429 \nserver: nginx\ndate: Mon, 07 Sep 2026 21:12:36 GMT\ncontent-type: text/html\ncache-control: no-cache\nx-app-server: wwwb-app223-dc8\nx-ts: 429\nx-tr: 12\nserver-timing: TR;dur=0,Tw;dur=0,Tc;dur=0\nset-cookie: wb-save-SERVER=wwwb-app223; path=/\nx-location: save-sync\nx-rl: 0\nx-na: 0\nx-page-cache: MISS\nx-nid: Atria Convergence Technologies Pvt. Ltd. Broadband Internet Service Provider INDIA\nreferrer-policy: no-referrer-when-downgrade\npermissions-policy: interest-cohort=()\nx-sd: 0\n\n",
+    "stderr": ""
+  },
+  "https://www.damiencharlotin.com/documents/2784/Booker_USA_5_August_2026.pdf": {
+    "archive_url": null,
+    "status": "HTTP/2 429 ",
+    "headers": "HTTP/2 429 \nserver: nginx\ndate: Mon, 07 Sep 2026 21:12:38 GMT\ncontent-type: text/html\ncache-control: no-cache\nx-app-server: wwwb-app223-dc8\nx-ts: 429\nx-tr: 12\nserver-timing: TR;dur=0,Tw;dur=0,Tc;dur=1\nset-cookie: wb-save-SERVER=wwwb-app223; path=/\nx-location: save-sync\nx-rl: 0\nx-na: 0\nx-page-cache: MISS\nx-nid: Atria Convergence Technologies Pvt. Ltd. Broadband Internet Service Provider INDIA\nreferrer-policy: no-referrer-when-downgrade\npermissions-policy: interest-cohort=()\nx-sd: 0\n\n",
+    "stderr": ""
+  },
+  "https://www.damiencharlotin.com/documents/2781/San_Antonio_Independent_School_District_v._Laura_Becerra_USA_5_August_2026.pdf": {
+    "archive_url": null,
+    "status": "HTTP/2 429 ",
+    "headers": "HTTP/2 429 \nserver: nginx\ndate: Mon, 07 Sep 2026 21:12:40 GMT\ncontent-type: text/html\ncache-control: no-cache\nx-app-server: wwwb-app223-dc8\nx-ts: 429\nx-tr: 12\nserver-timing: TR;dur=0,Tw;dur=0,Tc;dur=0\nset-cookie: wb-save-SERVER=wwwb-app223; path=/\nx-location: save-sync\nx-rl: 0\nx-na: 0\nx-page-cache: MISS\nx-nid: Atria Convergence Technologies Pvt. Ltd. Broadband Internet Service Provider INDIA\nreferrer-policy: no-referrer-when-downgrade\npermissions-policy: interest-cohort=()\nx-sd: 0\n\n",
+    "stderr": ""
+  },
+  "https://www.damiencharlotin.com/documents/2771/MARY-ROSE_F_CALENZO_Plaintiff_v_WASTE_MANAGEMENT_INC_et_al_Defendants_USA_5_Au_vfD7vB4.pdf": {
+    "archive_url": null,
+    "status": "HTTP/2 429 ",
+    "headers": "HTTP/2 429 \nserver: nginx\ndate: Mon, 07 Sep 2026 21:12:42 GMT\ncontent-type: text/html\ncache-control: no-cache\nx-app-server: wwwb-app223-dc8\nx-ts: 429\nx-tr: 12\nserver-timing: TR;dur=0,Tw;dur=0,Tc;dur=0\nset-cookie: wb-save-SERVER=wwwb-app223; path=/\nx-location: save-sync\nx-rl: 0\nx-na: 0\nx-page-cache: MISS\nx-nid: Atria Convergence Technologies Pvt. Ltd. Broadband Internet Service Provider INDIA\nreferrer-policy: no-referrer-when-downgrade\npermissions-policy: interest-cohort=()\nx-sd: 0\n\n",
+    "stderr": ""
+  },
+  "https://www.damiencharlotin.com/documents/2940/Cain_USa_5_August_2026.pdf": {
+    "archive_url": null,
+    "status": "HTTP/2 429 ",
+    "headers": "HTTP/2 429 \nserver: nginx\ndate: Mon, 07 Sep 2026 21:12:43 GMT\ncontent-type: text/html\ncache-control: no-cache\nx-app-server: wwwb-app223-dc8\nx-ts: 429\nx-tr: 11\nserver-timing: TR;dur=0,Tw;dur=0,Tc;dur=0\nset-cookie: wb-save-SERVER=wwwb-app223; path=/\nx-location: save-sync\nx-rl: 0\nx-na: 0\nx-page-cache: MISS\nx-nid: Atria Convergence Technologies Pvt. Ltd. Broadband Internet Service Provider INDIA\nreferrer-policy: no-referrer-when-downgrade\npermissions-policy: interest-cohort=()\nx-sd: 0\n\n",
+    "stderr": ""
+  },
+  "https://www.damiencharlotin.com/documents/2763/Barteca_v._Tacobarn_USA_4_August_2026.pdf": {
+    "archive_url": null,
+    "status": "HTTP/2 429 ",
+    "headers": "HTTP/2 429 \nserver: nginx\ndate: Mon, 07 Sep 2026 21:12:45 GMT\ncontent-type: text/html\ncache-control: no-cache\nx-app-server: wwwb-app223-dc8\nx-ts: 429\nx-tr: 16\nserver-timing: TR;dur=0,Tw;dur=0,Tc;dur=0\nset-cookie: wb-save-SERVER=wwwb-app223; path=/\nx-location: save-sync\nx-rl: 0\nx-na: 0\nx-page-cache: MISS\nx-nid: Atria Convergence Technologies Pvt. Ltd. Broadband Internet Service Provider INDIA\nreferrer-policy: no-referrer-when-downgrade\npermissions-policy: interest-cohort=()\nx-sd: 0\n\n",
+    "stderr": ""
+  },
+  "https://www.damiencharlotin.com/documents/2787/Cristancho_et_al_v._SWBC_Mortgage_Corporation_et_al_USA_4_August_2026.pdf": {
+    "archive_url": null,
+    "status": "HTTP/2 429 ",
+    "headers": "HTTP/2 429 \nserver: nginx\ndate: Mon, 07 Sep 2026 21:12:47 GMT\ncontent-type: text/html\ncache-control: no-cache\nx-app-server: wwwb-app223-dc8\nx-ts: 429\nx-tr: 11\nserver-timing: TR;dur=0,Tw;dur=0,Tc;dur=0\nset-cookie: wb-save-SERVER=wwwb-app223; path=/\nx-location: save-sync\nx-rl: 0\nx-na: 0\nx-page-cache: MISS\nx-nid: Atria Convergence Technologies Pvt. Ltd. Broadband Internet Service Provider INDIA\nreferrer-policy: no-referrer-when-downgrade\npermissions-policy: interest-cohort=()\nx-sd: 0\n\n",
+    "stderr": ""
+  },
+  "https://www.damiencharlotin.com/documents/2785/Rachel_Whitehead_vs._Zackery_Todd_Moore_Jr._USA_4_August_2026.pdf": {
+    "archive_url": null,
+    "status": "",
+    "headers": "",
+    "stderr": ""
+  },
+  "https://www.damiencharlotin.com/documents/2921/Damon_Forney_Plaintiff_v_Township_of_Cary_North_Carolina_USA_3_August_2026.pdf": {
+    "archive_url": null,
+    "status": "",
+    "headers": "",
+    "stderr": ""
+  },
+  "https://www.damiencharlotin.com/documents/2778/Perry_v._Social_Security_Administration_Commissioner_USA_5_August_2026.pdf": {
+    "archive_url": null,
+    "status": "",
+    "headers": "",
+    "stderr": ""
+  },
+  "https://www.damiencharlotin.com/documents/2783/State_v._Davis_USA_3_August_2026.pdf": {
+    "archive_url": null,
+    "status": "",
+    "headers": "",
+    "stderr": ""
+  },
+  "https://www.damiencharlotin.com/documents/2775/Bisher_B._v._Lehigh_Valley_Health_Network__USA_3_August_2026.pdf": {
+    "archive_url": "https://web.archive.org/web/20260907212817/https://websitedc.s3.amazonaws.com/documents/Bisher_B._v._Lehigh_Valley_Health_Network__USA_3_August_2026.pdf",
+    "status": "HTTP/2 302",
+    "headers": "HTTP/2 302 \nserver: nginx\ndate: Mon, 07 Sep 2026 21:28:20 GMT\ncontent-type: text/html; charset=utf-8\ncontent-length: 464\nlocation: https://web.archive.org/web/20260907212817/https://websitedc.s3.amazonaws.com/documents/Bisher_B._v._Lehigh_Valley_Health_Network__USA_3_August_2026.pdf\nx-app-server: wwwb-app223-dc8\nx-ts: 302\nx-tr: 6054\nserver-timing: TR;dur=0,Tw;dur=0,Tc;dur=1\nset-cookie: wb-save-SERVER=wwwb-app223; path=/\nx-location: save-sync\nx-rl: 0\nx-na: 0\nx-page-cache: MISS\nserver-timing: MISS\nx-nid: Atria Convergence Technologies Pvt. Ltd. Broadband Internet Service Provider INDIA\nreferrer-policy: no-referrer-when-downgrade\npermissions-policy: interest-cohort=()\nx-sd: 0\n\n",
+    "stderr": ""
+  },
+  "https://www.damiencharlotin.com/documents/2777/Moore_et_al_v._Federal_National_Mortgage_Association_et_al_USA_6_August_2026.pdf": {
+    "archive_url": null,
+    "status": "",
+    "headers": "",
+    "stderr": "curl: (28) Operation timed out after 35010 milliseconds with 0 bytes received\n"
+  },
+  "https://www.damiencharlotin.com/documents/2773/ALI_JABBARI_Plaintiff_v_PARVIZ_OMIDVAR_et_al_Defendants_USA_3_August_2026.pdf": {
+    "archive_url": null,
+    "status": "",
+    "headers": "",
+    "stderr": "curl: (7) Failed to connect to web.archive.org port 443 after 223 ms: Couldn't connect to server\n"
+  },
+  "https://www.damiencharlotin.com/documents/2760/USA_v._Karnezis_USA_31_July_2026.pdf": {
+    "archive_url": null,
+    "status": "",
+    "headers": "",
+    "stderr": "curl: (7) Failed to connect to web.archive.org port 443 after 239 ms: Couldn't connect to server\n"
+  },
+  "https://www.damiencharlotin.com/documents/2726/Santana_v._Shook_Hardy__Bacon_USA_31_July_2026.pdf": {
+    "archive_url": null,
+    "status": "",
+    "headers": "",
+    "stderr": "curl: (7) Failed to connect to web.archive.org port 443 after 261 ms: Couldn't connect to server\n"
+  },
+  "https://www.damiencharlotin.com/documents/2754/Al_Ali_v._CSV_USA_31_July_2026.pdf": {
+    "archive_url": null,
+    "status": "",
+    "headers": "",
+    "stderr": "curl: (28) Operation timed out after 35000 milliseconds with 0 bytes received\n"
+  },
+  "https://www.damiencharlotin.com/documents/2721/Higgins_v._Texas_USA_July_2026.pdf": {
+    "archive_url": null,
+    "status": "",
+    "headers": "",
+    "stderr": "curl: (28) Operation timed out after 35006 milliseconds with 0 bytes received\n"
+  },
+  "https://www.damiencharlotin.com/documents/2722/JAAW_Group_B-424433.22_July_31_2026.pdf": {
+    "archive_url": null,
+    "status": "",
+    "headers": "",
+    "stderr": "curl: (28) Operation timed out after 35004 milliseconds with 0 bytes received\n"
+  },
+  "https://www.damiencharlotin.com/documents/2780/Mahar_USA_31_July_2026.pdf": {
+    "archive_url": "https://web.archive.org/web/20260907213124/https://websitedc.s3.amazonaws.com/documents/Mahar_USA_31_July_2026.pdf",
+    "status": "HTTP/2 302",
+    "headers": "HTTP/2 302 \nserver: nginx\ndate: Mon, 07 Sep 2026 21:31:28 GMT\ncontent-type: text/html; charset=utf-8\ncontent-length: 388\nlocation: https://web.archive.org/web/20260907213124/https://websitedc.s3.amazonaws.com/documents/Mahar_USA_31_July_2026.pdf\nx-app-server: wwwb-app223-dc8\nx-ts: 302\nx-tr: 6048\nserver-timing: TR;dur=0,Tw;dur=0,Tc;dur=0\nset-cookie: wb-save-SERVER=wwwb-app223; path=/\nx-location: save-sync\nx-rl: 0\nx-na: 0\nx-page-cache: MISS\nserver-timing: MISS\nx-nid: Atria Convergence Technologies Pvt. Ltd. Broadband Internet Service Provider INDIA\nreferrer-policy: no-referrer-when-downgrade\npermissions-policy: interest-cohort=()\nx-sd: 0\n\n",
+    "stderr": ""
+  },
+  "https://www.damiencharlotin.com/documents/2752/In_the_interest_of_S.M.T._and_S.J.T._USA_July_2026.pdf": {
+    "archive_url": null,
+    "status": "HTTP/2 429",
+    "headers": "HTTP/2 429 \nserver: nginx\ndate: Mon, 07 Sep 2026 21:31:34 GMT\ncontent-type: text/html\ncache-control: no-cache\nx-app-server: wwwb-app223-dc8\nx-ts: 429\nx-tr: 11\nserver-timing: TR;dur=0,Tw;dur=0,Tc;dur=0\nset-cookie: wb-save-SERVER=wwwb-app223; path=/\nx-location: save-sync\nx-rl: 0\nx-na: 0\nx-page-cache: MISS\nx-nid: Atria Convergence Technologies Pvt. Ltd. Broadband Internet Service Provider INDIA\nreferrer-policy: no-referrer-when-downgrade\npermissions-policy: interest-cohort=()\nx-sd: 0\n\n",
+    "stderr": ""
+  },
+  "https://www.damiencharlotin.com/documents/2742/Carey_v._Breakell_et_al_USA_30_July_2026.pdf": {
+    "archive_url": null,
+    "status": "HTTP/2 429",
+    "headers": "HTTP/2 429 \nserver: nginx\ndate: Mon, 07 Sep 2026 21:31:40 GMT\ncontent-type: text/html\ncache-control: no-cache\nx-app-server: wwwb-app55-dc6\nx-ts: 429\nx-tr: 10\nserver-timing: TR;dur=0,Tw;dur=0,Tc;dur=1\nset-cookie: wb-save-SERVER=wwwb-app55; path=/\nx-location: save-sync\nx-rl: 0\nx-na: 0\nx-page-cache: MISS\nx-nid: Atria Convergence Technologies Pvt. Ltd. Broadband Internet Service Provider INDIA\nreferrer-policy: no-referrer-when-downgrade\npermissions-policy: interest-cohort=()\nx-sd: 0\n\n",
+    "stderr": ""
+  },
+  "https://www.damiencharlotin.com/documents/2761/In_Re_Firestar_Diamond_Inc._USA_30_July_2026.pdf": {
+    "archive_url": null,
+    "status": "HTTP/2 429",
+    "headers": "HTTP/2 429 \nserver: nginx\ndate: Mon, 07 Sep 2026 21:31:46 GMT\ncontent-type: text/html\ncache-control: no-cache\nx-app-server: wwwb-app223-dc8\nx-ts: 429\nx-tr: 13\nserver-timing: TR;dur=0,Tw;dur=0,Tc;dur=0\nset-cookie: wb-save-SERVER=wwwb-app223; path=/\nx-location: save-sync\nx-rl: 0\nx-na: 0\nx-page-cache: MISS\nx-nid: Atria Convergence Technologies Pvt. Ltd. Broadband Internet Service Provider INDIA\nreferrer-policy: no-referrer-when-downgrade\npermissions-policy: interest-cohort=()\nx-sd: 0\n\n",
+    "stderr": ""
+  },
+  "https://www.damiencharlotin.com/documents/2727/First_Community_v._Smith_USA_30_July_2026.pdf": {
+    "archive_url": null,
+    "status": "",
+    "headers": "",
+    "stderr": "curl: (7) Failed to connect to web.archive.org port 443 after 225 ms: Couldn't connect to server\n"
+  },
+  "https://www.damiencharlotin.com/documents/2725/Harris_v._Boma_USA_31_July_2026.pdf": {
+    "archive_url": null,
+    "status": "",
+    "headers": "",
+    "stderr": "curl: (7) Failed to connect to web.archive.org port 443 after 248 ms: Couldn't connect to server\n"
+  },
+  "https://www.damiencharlotin.com/documents/2758/Cole_v._Lee_2026_IL_App_1st_252223-U.pdf": {
+    "archive_url": null,
+    "status": "",
+    "headers": "",
+    "stderr": "curl: (7) Failed to connect to web.archive.org port 443 after 232 ms: Couldn't connect to server\n"
+  },
+  "https://www.damiencharlotin.com/documents/2762/In_the_Interest_of_Q.C._and_P.C._USA_30_July_2026.pdf": {
+    "archive_url": null,
+    "status": "",
+    "headers": "",
+    "stderr": "curl: (7) Failed to connect to web.archive.org port 443 after 245 ms: Couldn't connect to server\n"
+  },
+  "https://www.damiencharlotin.com/documents/2751/Maloit_v._Maloit_USA_29_July_2026.pdf": {
+    "archive_url": null,
+    "status": "",
+    "headers": "",
+    "stderr": "curl: (7) Failed to connect to web.archive.org port 443 after 239 ms: Couldn't connect to server\n"
+  },
+  "https://www.damiencharlotin.com/documents/2757/Robinson_v._Oglala_USA_29_July_2026.pdf": {
+    "archive_url": null,
+    "status": "",
+    "headers": "",
+    "stderr": "curl: (7) Failed to connect to web.archive.org port 443 after 245 ms: Couldn't connect to server\n"
+  },
+  "https://www.damiencharlotin.com/documents/2728/Harding_Place_Multifamily_Partners_LLC_Emers_DJju7pu._Samuel_Robinson_USA_30_July_2026.pdf": {
+    "archive_url": null,
+    "status": "",
+    "headers": "",
+    "stderr": "curl: (7) Failed to connect to web.archive.org port 443 after 225 ms: Couldn't connect to server\n"
+  },
+  "https://www.damiencharlotin.com/documents/2786/TERENCE_A_GRAGSTON_Plaintiff_v_AMAZON_LLC_Defendant_USA_July_2026.pdf": {
+    "archive_url": null,
+    "status": "",
+    "headers": "",
+    "stderr": "curl: (7) Failed to connect to web.archive.org port 443 after 256 ms: Couldn't connect to server\n"
+  },
+  "https://ilcourtsaudio.blob.core.windows.net/antilles-resources/resources/23d7df84-ed51-48df-8477-3a6872db40d5/Scott%20v.%20IL%20Human%20Rights%20Commn%202026%20IL%20App%20(1st)%20251462.pdf": {
+    "archive_url": null,
+    "status": "",
+    "headers": "",
+    "stderr": "curl: (7) Failed to connect to web.archive.org port 443 after 247 ms: Couldn't connect to server\n"
+  },
+  "https://www.damiencharlotin.com/documents/2743/MCNEIL_v._BISIGNANO_USA_July_2026.pdf": {
+    "archive_url": null,
+    "status": "HTTP/2 523",
+    "headers": "HTTP/2 523 \nserver: nginx\ndate: Mon, 07 Sep 2026 21:32:46 GMT\ncontent-type: text/html\ncache-control: no-cache\nx-app-server: wwwb-app223-dc8\nx-ts: 523\nx-tr: 6038\nserver-timing: TR;dur=0,Tw;dur=0,Tc;dur=0\nset-cookie: wb-save-SERVER=wwwb-app223; path=/\nx-location: save-sync\nx-rl: 0\nx-na: 0\nx-page-cache: MISS\nx-nid: Atria Convergence Technologies Pvt. Ltd. Broadband Internet Service Provider INDIA\nreferrer-policy: no-referrer-when-downgrade\npermissions-policy: interest-cohort=()\nx-sd: 0\n\n",
+    "stderr": ""
+  },
+  "https://www.damiencharlotin.com/documents/2745/Owen_v._Askew_et_al_USA_28_July_2026.pdf": {
+    "archive_url": null,
+    "status": "HTTP/2 429",
+    "headers": "HTTP/2 429 \nserver: nginx\ndate: Mon, 07 Sep 2026 21:32:53 GMT\ncontent-type: text/html\ncache-control: no-cache\nx-app-server: wwwb-app55-dc6\nx-ts: 429\nx-tr: 13\nserver-timing: TR;dur=0,Tw;dur=0,Tc;dur=1\nset-cookie: wb-save-SERVER=wwwb-app55; path=/\nx-location: save-sync\nx-rl: 0\nx-na: 0\nx-page-cache: MISS\nx-nid: Atria Convergence Technologies Pvt. Ltd. Broadband Internet Service Provider INDIA\nreferrer-policy: no-referrer-when-downgrade\npermissions-policy: interest-cohort=()\nx-sd: 0\n\n",
+    "stderr": ""
+  },
+  "https://www.damiencharlotin.com/documents/2753/Campbell_v._TidalHealth_USA_28_July_2026.pdf": {
+    "archive_url": null,
+    "status": "",
+    "headers": "",
+    "stderr": "curl: (7) Failed to connect to web.archive.org port 443 after 225 ms: Couldn't connect to server\n"
+  },
+  "https://www.damiencharlotin.com/documents/2750/Transcontinental_v._Moose_USA_28_July_2026.pdf": {
+    "archive_url": null,
+    "status": "",
+    "headers": "",
+    "stderr": "curl: (7) Failed to connect to web.archive.org port 443 after 240 ms: Couldn't connect to server\n"
+  },
+  "https://www.damiencharlotin.com/documents/2759/Ponder_v._BCG_Equities_USA_28_July_2026.pdf": {
+    "archive_url": null,
+    "status": "",
+    "headers": "",
+    "stderr": "curl: (7) Failed to connect to web.archive.org port 443 after 230 ms: Couldn't connect to server\n"
+  },
+  "https://www.damiencharlotin.com/documents/2744/Ally_Bank_Respondent_vs._Serge_N._Ngouambe_Appellant_USA_July_2026.pdf": {
+    "archive_url": null,
+    "status": "",
+    "headers": "",
+    "stderr": "curl: (7) Failed to connect to web.archive.org port 443 after 244 ms: Couldn't connect to server\n"
+  },
+  "https://www.damiencharlotin.com/documents/2706/Ledoux_v._Outliers_USA_24_July_2026.pdf": {
+    "archive_url": null,
+    "status": "",
+    "headers": "",
+    "stderr": "curl: (7) Failed to connect to web.archive.org port 443 after 234 ms: Couldn't connect to server\n"
+  },
+  "https://www.damiencharlotin.com/documents/2704/Graves_v._PGE_USA_24_July_2026.pdf": {
+    "archive_url": null,
+    "status": "",
+    "headers": "",
+    "stderr": "curl: (7) Failed to connect to web.archive.org port 443 after 252 ms: Couldn't connect to server\n"
+  },
+  "https://www.damiencharlotin.com/documents/2746/Michael_L_Ruiz_Plaintiff_v_Magellan_Financial_And_Insurance_Services_Defen_USA_V9gvRhH.pdf": {
+    "archive_url": "https://web.archive.org/web/20260907213502/https://websitedc.s3.amazonaws.com/documents/Michael_L_Ruiz_Plaintiff_v_Magellan_Financial_And_Insurance_Services_Defen_USA_V9gvRhH.pdf",
+    "status": "HTTP/2 302",
+    "headers": "HTTP/2 302 \nserver: nginx\ndate: Mon, 07 Sep 2026 21:35:08 GMT\ncontent-type: text/html; charset=utf-8\ncontent-length: 516\nlocation: https://web.archive.org/web/20260907213502/https://websitedc.s3.amazonaws.com/documents/Michael_L_Ruiz_Plaintiff_v_Magellan_Financial_And_Insurance_Services_Defen_USA_V9gvRhH.pdf\nx-app-server: wwwb-app223-dc8\nx-ts: 302\nx-tr: 12052\nserver-timing: TR;dur=0,Tw;dur=0,Tc;dur=0\nset-cookie: wb-save-SERVER=wwwb-app223; path=/\nx-location: save-sync\nx-rl: 0\nx-na: 0\nx-page-cache: MISS\nserver-timing: MISS\nx-nid: Atria Convergence Technologies Pvt. Ltd. Broadband Internet Service Provider INDIA\nreferrer-policy: no-referrer-when-downgrade\npermissions-policy: interest-cohort=()\nx-sd: 0\n\n",
+    "stderr": ""
+  }
+}

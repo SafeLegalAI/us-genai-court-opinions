@@ -1,0 +1,2805 @@
+Garcia v. City of Monte Vista, Colorado et al                                                               Doc. 100
+
+
+
+
+                                        IN THE UNITED STATES DISTRICT COURT
+                                           FOR THE DISTRICT OF COLORADO
+                                                Judge William J. Martínez
+
+              Civil Action No. 25-cv-0769-WJM-KAS
+
+              JIMMY LEE GARCIA,
+
+                      Plaintiff,
+
+              v.
+
+              CITY OF MONTE VISTA, COLORADO,
+              JOHN ROSECRANS, in his individual capacity,
+              MICHAEL MARTINEZ, in his individual capacity,
+              ROBERT WILLET, in his individual capacity,
+              STEPHEN HUNZEKER, in his individual capacity,
+              SELMA EIKELENBOOM-SCHIEVELD, in her individual capacity,
+              and RICHARD EIKELENBOOM, in his individual capacity,
+
+                      Defendants.
+
+
+                                   ORDER ON DEFENDANTS’ MOTIONS TO DISMISS
+
+
+                      Before the Court are four motions:
+
+                      1)      Defendants City of Monte Vista (the “City”), John Rosecrans, and Michael
+                              Martinez’s (collectively, the “Monte Vista Defendants”) Partial Motion to
+                              Dismiss Amended Complaint [ECF 33] Under F.R.C.P. 12(B)(6), (ECF No.
+                              45);
+
+                      2)      Defendant Robert Willet’s Motion to Dismiss Amended Complaint,
+                              (ECF No. 51);
+
+                      3)      Defendant Stephen Hunzeker’s Motion to Dismiss Plaintiff’s Amended
+                              Complaint and Jury Demand [ECF #33] Pursuant to Fed. R. Civ. P.
+                              12(b)(6), (ECF No. 53); and
+
+                      4)      Defendants Selma Eikelenboom-Schieveld and Richard Eikelenboom’s
+                              Motion to Dismiss Complaint Under Fed. R. Civ. P. 12(b)(6), (ECF No.
+                              80),
+
+              (each a “Motion,” collectively the “Motions”). Plaintiff Jimmy Lee Garcia filed a response
+
+              to each Motion. (ECF Nos. 56–58, 86.) And all Defendants but Eikelenbloom-
+
+
+
+
+                                                                                                   Dockets.Justia.com
+Schieveld and Eikelenbloom filed a reply in support of their respective Motions. (ECF
+
+Nos. 67, 71, 73.)
+
+       As more fully set forth below, the Monte Vista Defendants’ Motion is granted in
+
+part and denied in part; Willet’s Motion is granted; Hunzeker’s Motion is denied; and
+
+Eikelenbloom-Schieveld and Eikelenbloom’s Motion is denied.
+
+                                       I. BACKGROUND 1
+
+A.     MVPD’s Initial Investigation of Jones’ Death
+
+       In the early morning hours of March 26, 2014, Plaintiff Jimmy Lee Garcia walked
+
+into the bedroom of the home he shared with his girlfriend of two years, Jacqueline
+
+Jones, to find that she had tragically committed suicide by hanging. (ECF No. 70 at
+
+¶¶ 14–17.)
+
+       The Monte Vista Police Department (“MVPD”) treated Garcia as a suspect in its
+
+investigation of Jones’ death from the outset. (Id. at ¶¶ 23–24.) But, according to the
+
+SAC, the investigation “quickly revealed that Ms. Jones’ suicide was the culmination of
+
+a long history of depression, suicidal ideation and trauma.” (Id. at ¶ 30; see also id. at
+
+¶¶ 31–38.) The objective scientific evidence further supported that Jones died by
+
+
+       1
+         The Background is drawn from the Second Amended Complaint (“SAC”). (ECF No.
+70.) The Court assumes the allegations contained in the SAC to be true for the purpose of
+deciding the Motions. See Ridge at Red Hawk, L.L.C. v. Schneider, 493 F.3d 1174, 1177 (10th
+Cir. 2007).
+
+        The Court additionally notes that, in its analysis below, it occasionally refers to and cites
+the First Amended Complaint (“FAC”), rather than the SAC. (ECF No. 33.) Though the FAC
+has been superseded by the SAC, the Court permitted the Monte Vista Defendants, Willet, and
+Hunzeker to stand on their motions to dismiss filed in response to the FAC based on Plaintiff’s
+representation that the SAC “does not make changes to the allegations” against those
+Defendants. (ECF No. 68 at 1; see also ECF Nos. 74, 75, 79.) The Court declines to undertake
+the onerous task of converting all the parties’ citations to the allegations in the FAC to the
+corresponding paragraph number in the SAC. So, where the parties have cited the FAC in their
+briefing, the Court likewise cites the FAC in its corresponding discussion.
+
+
+
+                                                 2
+suicide and could not have been murdered by Garcia. (Id. at ¶ 39.) On July 9, 2014,
+
+the El Paso County Coroner, Daniel Lingamfelter, as authorized by the Rio Grande
+
+County Coroner, issued an autopsy report unequivocally finding that Jones died by
+
+suicide as a result of hanging. (Id.) Garcia alleges that Dr. Lingamfelter later told a
+
+district attorney that he conducted the autopsy with the mindset that the MVPD would
+
+consider Jones’ death to have been caused by strangulation until proven otherwise, so
+
+he “ensured he did an extremely thorough autopsy.” (Id. at ¶ 40.)
+
+       Despite the foregoing, MVPD allegedly assured Jones’ family members that they
+
+would try to pin her death on Garcia. (Id. at ¶ 41.) Consistent therewith, the SAC
+
+alleges that MVPD leadership called Dr. Lingamfelter into several meetings to pressure
+
+him into changing his medical findings regarding the cause of Jones’ death. (Id. at
+
+¶ 42.) In one such meeting, a MVPD law enforcement official allegedly said to Dr.
+
+Lingamfelter, “I don’t like this guy,” referring to Garcia. (Id.)
+
+       The SAC also alleges that Jones’ mother, Jennifer Kelleher, became heavily
+
+involved in the investigation. For instance, Jennifer Kelleher allegedly called one MVPD
+
+officer on September 23, 2014 and informed him that she had hired a private
+
+investigator “to help the MVPD work the investigation from a different angle in order to
+
+support a conclusion that Ms. Jones’ death was not a suicide.” (Id. at ¶ 43.) Rather
+
+than discourage the notion, the officer told Kelleher that he would look into her proposal
+
+and Jones’ death further. (Id.)
+
+       Despite the MVPD’s assurances, three years passed, during which time no new
+
+evidence emerged regarding Jones’ death. (Id. at ¶ 44.) Garcia also alleges that, over
+
+the course of those three years, multiple prosecutors examined the evidence and
+
+
+
+
+                                               3
+determined that there was no evidence to support charging him in connection with
+
+Jones’ death. (Id. at ¶ 45.)
+
+B.     The Renewed Investigation
+
+       In 2017, Defendant John Rosecrans was appointed MVPD Chief. (Id. at ¶ 46.)
+
+Shortly after his appointment, he held a community forum. (Id.) Jennifer Kelleher
+
+attended the forum and asked Rosecrans about the investigation into her daughter’s
+
+death. (Id.) Thereafter, Rosecrans promoted Officer Michael Martinez to Corporal and
+
+directed him to renew the investigation into Jones’ death. (Id.) Pursuant to Rosecrans’
+
+orders, Martinez began a new investigation into Jones’ death in 2018. (Id.)
+
+       According to the SAC, Jones’ family immediately steered Rosecrans and
+
+Martinez’s renewed investigation toward their desired result: the arrest and prosecution
+
+of Garcia. (Id. at ¶ 47.) In contravention of accepted police investigatory practices,
+
+Rosecrans allegedly allowed Jennifer Kelleher to attend witness interviews and even
+
+paid for her to fly to Arizona with Martinez to interview a key witness. (Id.)
+
+       At some point, Rosecrans and Martinez also set up a meeting with Dr.
+
+Lingamfelter and Dr. Kelly to discuss Jones’ autopsy. (Id. at ¶ 58.) 2 The SAC alleges
+
+that Rosecrans and Martinez had been told by one of the District Attorneys they had
+
+tried to convince to indict Garcia for murder that the autopsy finding was a problem that
+
+impeded the indictment. (Id.) During the meeting with Drs. Lingamfelter and Kelly, Dr.
+
+Kelly pointedly asked Martinez and Rosecrans what new information had been
+
+discovered pertinent to Jones’ cause of death. (Id.) Their response was, essentially,
+
+
+       2
+        The SAC is ambiguous as to precisely when this meeting took place, but the Court
+assumes it was prior to the retention of Eikelenbloom and Eikelenbloom-Schieveld, as
+discussed below.
+
+
+
+                                             4
+that there was none, just more persistence from Jones’ family that they should
+
+prosecute Garcia and Rosecrans and Martinez’s belief that Garcia was “not a good
+
+dude.” (Id.) Dr. Kelly allegedly told Rosecrans and Martinez that his review of all of the
+
+evidence supported Dr. Lingamfelter’s determination that Jones’ cause of death was
+
+suicide, and that there was nothing regarding her death “that would distinguish it from
+
+the hundreds of suicidal hangings he had seen throughout his career.” (Id.)
+
+       Garcia alleges that Dr. Lingamfelter also refused to change Jones’ manner of
+
+death despite continued pressure from Rosecrans and Martinez to do so. (Id.) He
+
+allegedly told them that “the pressure campaign mounted by Ms. Jones’ family did not
+
+affect the medical and scientific aspect of the case, which unequivocally demonstrated
+
+that Ms. Jones’ death was a suicide.” (Id.)
+
+       1.      Defendants Eikelenbloom and Eikelenbloom-Schieveld
+
+       According to the SAC, Jennifer Kelleher found two “thoroughly discredited
+
+experts,” Defendants Selma Eikelenbloom-Schieveld and Richard Eikelenbloom,
+
+through a television show, Cold Justice, 3 and introduced them to Rosecrans and
+
+Martinez. (Id. at ¶ 48.) Eikelenbloom had previously been disqualified from serving as
+
+an expert in a widely publicized 2016 trial, “after the Denver District Attorney pushed
+
+him to admit on the stand that he had no direct DNA extraction or analysis experience,
+
+that he operates a lab that has not been accredited, that he personally failed his basic
+
+proficiency tests in 2011 and 2012, and that he was ‘self-trained’ in running DNA
+
+profiles.” (Id. at ¶ 52.)
+
+
+       3
+        The SAC also alleges that Cold Justice initially agreed to pay Eikelenbloom-Schieveld
+and Eikelenbloom “in exchange for allowing the show to film in Monte Vista,” though it is unclear
+whether that arrangement ever came to fruition. (ECF No. 70 at ¶ 48.)
+
+
+
+                                               5
+       Nevertheless, at the urging of Kelleher, Rosecrans and Martinez hired
+
+Eikelenbloom-Schieveld and Eikelenbloom and paid them thousands of dollars—on top
+
+of the $3,000 that Kelleher had paid—to “procure a new autopsy with a predetermined
+
+finding that Ms. Jones’ manner of death was homicide.” (Id. at ¶ 49.) The SAC alleges
+
+Rosecrans and Martinez worked with Eikelenbloom and Eikelenbloom-Schieveld to hire
+
+a European doctor to purposefully produce an unscientific, non-credible autopsy that
+
+was engineered to find that Jones’ death was a homicide, despite all objective evidence
+
+to the contrary. (Id. at ¶ 50.) Rosecrans and Martinez were the only two individuals that
+
+Eikelenbloom and Eikelenbloom-Schieveld spoke with prior to procuring the
+
+manipulated autopsy. (Id. at ¶¶ 50–51.) Though the SAC later adds that “[t]he only
+
+other information that Defendants Eikelenbloom and Eikelenbloom-Schieveld, and their
+
+hired European doctor, were provided and considered was what was verbally conveyed
+
+by them to Kelleher.” (Id. at ¶ 54.) Garcia also alleges that Martinez “provided the
+
+discredited experts and their hired doctor with selected evidence—but made the
+
+affirmative decision not to provide them all of the relevant evidence—regarding Ms.
+
+Jones’ death.” (Id.)
+
+       Eikelenbloom and Eikelenbloom-Schieveld additionally produced a “shoddy
+
+forensic report” that was signed and submitted by Eikelenbloom-Schieveld. (Id. at ¶
+
+51.) 4 Garcia alleges that, like the autopsy, the forensic report was engineered from the
+
+beginning to the predetermined outcome that he had murdered Jones—“the outcome
+
+desired by Defendants Rosecrans and Martinez but contradicted by the physical
+
+
+       4
+         Garcia alleged in the FAC and argues in his briefing that the forensic report was more
+specifically based on a “shoddy crime scene re-creation,” though the Court notes that descriptor
+appears to no longer be in the SAC. (E.g., ECF No. 33 at ¶ 49; ECF No. 86 at 4.)
+
+
+
+                                               6
+evidence”—and was “fully based” on information provided by Rosecrans and Martinez.
+
+(Id.)
+
+        Dr. Lingamfelter, the El Paso County Coroner who issued the original autopsy
+
+report concluding Jones’ died by suicide, would later be asked by a Deputy District
+
+Attorney about the autopsy and forensic reports procured and authored by
+
+Eikelenbloom and Eikelenbloom-Schieveld. (Id. at ¶ 56.) He allegedly answered that
+
+the manipulated autopsy report was authored by “some whack jobs from Europe” who
+
+were paid by the MVPD to write a report finding Jones’ death was a homicide. (Id.) Dr.
+
+Leon Kelly, the El Paso County Coroner in 2018, would also later tell an investigator
+
+hired by Garcia’s defense lawyers and testify in Court that a number of the conclusions
+
+drawn by Eikelenbloom and Eikelenbloom-Schieveld in their autopsy and forensic
+
+reports were incoherent. (Id. at ¶ 57.) Indeed, Dr. Kelly allegedly called one of their
+
+conclusions “the dumbest thing” he had ever heard. (Id.)
+
+        2.    Defendant Hunzeker
+
+        Defendant Stephen Hunzeker was appointed as the new Rio Grande County
+
+Coroner in March of 2017 and formally elected to the same role in 2018. (Id. at ¶ 59.)
+
+Hunzeker is not a doctor and did not graduate from college. (Id.) When Hunzeker was
+
+appointed Rio Grande County Coroner in March of 2017, Rosecrans and Martinez
+
+allegedly turned their pressure campaign onto him and demanded that he change the
+
+manner of death listed on Jones’ death certificate from “suicide” to “homicide.” (Id. at ¶
+
+60.)
+
+        According to the SAC, Jones’ family also directly approached Hunzeker’s family
+
+multiple times demanding the same change. (Id.) At one point, Hunzeker’s wife
+
+coached a swim team that Jones’ son was on, and Jones’ father approached Hunzeker
+
+
+                                             7
+at a swim meet to pressure him to change the manner of death. (Id.) Moreover, during
+
+an April 2021 interview with an investigator hired by Garcia’s defense counsel,
+
+Hunzeker, who also runs a funeral home, admitted that he had been paid by Jones’
+
+family for her funeral services. (Id. at ¶ 61.) Jones’ stepfather, Scott Kelleher, also sold
+
+Hunzeker his car. (Id.) During that sale, Kelleher lobbied Hunzeker to change the
+
+manner of death. (Id.)
+
+       Less than a year after he was elected coroner, on October 25, 2019, Martinez
+
+and Rosecrans met with Defendant Hunzeker to convince him to change the manner of
+
+death on Jones’ death certificate from suicide to homicide. (Id. at ¶ 62.) During the
+
+meeting with Rosecrans and Martinez, Hunzeker told them that he would not “stick his
+
+neck out” by changing the death certificate to “homicide” because there was no
+
+objective, scientific evidence pointing to Jones’ death being a homicide. (Id. at ¶ 63.)
+
+       But less than a month later, on November 21, 2019—and over five years after
+
+Jones died—Hunzeker filed an amendment with the State of Colorado to change Jones’
+
+manner of death on her death certificate from “suicide” to “could not be determined,”
+
+despite having no new evidence regarding her cause of death. (Id. at ¶ 64.) Garcia
+
+alleges that Hunzeker knew changing the manner of death from suicide to “could not be
+
+determined” would cause him to be prosecuted for Jones’ death. (Id.)
+
+       3.     Defendant Willet
+
+       According to the SAC, Rosecrans and Martinez presented the “manipulated
+
+autopsy” to Defendant District Attorney Robert Willet to “convince him to initiate charges
+
+against Mr. Garcia.” (Id. at ¶ 50.) In addition, prior to the initiation of charges,
+
+Eikelenbloom, Eikelenbloom-Schieveld, and the European doctor they had hired
+
+attended a meeting arranged by Rosecrans and Martinez with Willet. (Id. at ¶ 70.)
+
+
+                                              8
+Garcia alleges that Willet was aware of the independent autopsy conducted by the El
+
+Paso County Coroner’s office and investigation done by officers at the time of Jones’
+
+death, (id.), and that he “[was] or should have been aware” that Eikelenbloom had been
+
+disqualified from serving as an expert in a widely publicized 2016 trial, (id. at ¶ 50.)
+
+Willet allegedly told one of the discredited experts during this meeting (or perhaps at a
+
+separate meeting around the same time) that he was not confident the case against
+
+Garcia would go to trial and, further, that the case would likely be dropped when “the
+
+democrats” took office. (Id. at ¶ 75.)
+
+       After the meeting, Martinez drafted the arrest affidavit, and Defendant Willet
+
+submitted it to the court on December 2, 2020, after reviewing it. (Id. at ¶ 71.) The
+
+arrest affidavit asserted charges against Garcia for Murder in the First Degree in
+
+violation of C.R.S. § 18-3-102(1)(a)(3), Domestic Violence in violation of C.R.S. § 18-6-
+
+800.3, and Tampering with Physical Evidence in violation of C.R.S. § 18-8-
+
+610(1)(a)(b)(3). (Id. at ¶ 73.)
+
+       Garcia alleges that the arrest affidavit relied upon the fabricated autopsy and
+
+forensic report by Eikelenbloom and Eikelenbloom-Schieveld but purposefully omitted
+
+other exonerating information. (Id. at ¶¶ 74, 76.) Specifically, he asserts the arrest
+
+affidavit made no mention of:
+
+          •   The fact that Jones’ autopsy definitively concluded that she died by
+
+              suicide, or that the doctors who conducted the autopsy were adamant that
+
+              it was medically impossible that Garcia had murdered Jones;
+
+          •   That the coroner originally determined Jones’ death was a suicide and that
+
+              the death certificate was only changed to “undetermined” by a high school
+
+
+
+
+                                              9
+                 graduate after years of pressure from MVPD officers and Jones’ family;
+
+           •     Jones’ long history of depression and suicidality;
+
+           •     A traffic stop that took place the day prior to Jones’ death that caused her
+
+                 to miss her probation meeting and led her to spiral into a deepening
+
+                 depressing that she would be sent back to prison;
+
+           •     That Jones lost her new apartment due to her heavily re-engaged drug
+
+                 use immediately prior to her death, that Jones was found dead with
+
+                 cocaine in her system, and that her past drug use had led to prior
+
+                 instances of suicidal ideation and suicide attempts;
+
+           •     The strong evidence that Jones was not, in fact, planning on leaving
+
+                 Garcia at the time of her death.
+
+(Id. at ¶ 74.)
+
+       After the submission of the arrest affidavit to the court, Garcia was arrested. (Id.
+
+at ¶ 76.) He spent weeks in jail before he could post bond. (Id.) Then, he was
+
+prosecuted for years. (Id.) Garcia alleges that he was branded a murderer in his small
+
+community and villainized by local officials. (Id. at ¶ 81.) Eventually, after enduring the
+
+specter of his entire life in prison, a jury found Garcia not guilty on all counts on
+
+September 29, 2023. (Id. at ¶ 82.)
+
+       Garcia filed this lawsuit in March 2025 and asserts claims against the Defendants
+
+under 42 U.S.C. § 1983 and C.R.S. § 13-21-131 for malicious prosecution in violation of
+
+the Fourth Amendment to the United States Constitution and article III, section 7 and
+
+article II, section 25 of the Colorado Constitution; deprivation of due process in violation
+
+of article II, section 25 of the Colorado Constitution; and conspiracy. (See generally
+
+
+
+                                               10
+ECF Nos. 1, 70.)
+
+                                   II. APPLICABLE LAW
+
+A.     Rule 12(b)(6)
+
+       Under Rule 12(b)(6), a party may move to dismiss a claim in a complaint for
+
+“failure to state a claim upon which relief can be granted.” Fed. R. Civ. P. 12(b)(6).
+
+“The court’s function on a Rule 12(b)(6) motion is not to weigh potential evidence that
+
+the parties might present at trial, but to assess whether the plaintiff’s complaint alone is
+
+legally sufficient to state a claim for which relief may be granted.” Dubbs v. Head Start,
+
+Inc., 336 F.3d 1194, 1201 (10th Cir. 2003) (internal quotation marks omitted).
+
+       The Rule 12(b)(6) standard requires the Court to “assume the truth of the
+
+plaintiff’s well-pleaded factual allegations and view them in the light most favorable to
+
+the plaintiff.” Ridge at Red Hawk, L.L.C. v. Schneider, 493 F.3d 1174, 1177 (10th Cir.
+
+2007). Thus, in ruling on a motion to dismiss under Rule 12(b)(6), the dispositive
+
+inquiry is “whether the complaint contains ‘enough facts to state a claim to relief that is
+
+plausible on its face.’” Id. (quoting Bell Atl. Corp. v. Twombly, 550 U.S. 544, 570
+
+(2007)); see also Ashcroft v. Iqbal, 556 U.S. 662, 678 (2009).
+
+       Granting a motion to dismiss “is a harsh remedy which must be cautiously
+
+studied, not only to effectuate the spirit of the liberal rules of pleading but also to protect
+
+the interests of justice.” Dias v. City & Cnty. of Denver, 567 F.3d 1169, 1178 (10th Cir.
+
+2009) (internal quotation marks omitted). “Thus, ‘a well-pleaded complaint may proceed
+
+even if it strikes a savvy judge that actual proof of those facts is improbable, and that a
+
+recovery is very remote and unlikely.’” Id. (quoting Twombly, 550 U.S. at 556).
+
+However, “[t]he burden is on the plaintiff to frame a ‘complaint with enough factual
+
+matter (taken as true) to suggest’ that he or she is entitled to relief.” Robbins v.
+
+
+                                              11
+Oklahoma, 519 F.3d 1242, 1247 (10th Cir. 2008) (quoting Twombly, 550 U.S. at 556).
+
+“[C]omplaints that are no more than ‘labels and conclusions’ or ‘a formulaic recitation of
+
+the elements of a cause of action,’ . . . ‘will not do.’” Robbins, 519 F.3d at 1247 (quoting
+
+Twombly, 550 U.S. at 555).
+
+B.     42 U.S.C. § 1983
+
+       Section 1983 provides that a person acting under color of state law who
+
+“subjects, or cause to be subjected, any citizen of the United States . . . to the
+
+deprivation of any rights, privileges, or immunities secured by the Constitution and laws,
+
+shall be liable to the party injured.” 42 U.S.C. § 1983. The statute is “not itself a source
+
+of substantive rights, but a method for vindicating federal rights elsewhere conferred.”
+
+Baker v. McCollan, 433 U.S. 137, 144 n.3 (1979); see also Brown v. Buhman, 822 F.3d
+
+1151, 1161 n.9 (10th Cir. 2016) (explaining “[t]here can be no ‘violation’ of § 1983”
+
+because the statute “is a remedial vehicle”). “Section 1983 does not allow plaintiffs to
+
+create a federal case out of ‘every violation of state common law.’” Margheim v. Buljko,
+
+855 F.3d 1077, 1084 (10th Cir. 2017) (quoting Pierce v. Gilchrist, 359 F.3d 1279, 1285
+
+(10th Cir. 2004)). Accordingly, “[t]he first inquiry in any § 1983 suit . . . is whether the
+
+plaintiff has been deprived of a right ‘secured by the Constitution and laws.’” Baker, 433
+
+U.S. at 140 (quoting 42 U.S.C. § 1983). “In the context of a § 1983 action against
+
+multiple individual governmental actors, it is particularly important . . . that the complaint
+
+make clear exactly who is alleged to have done what to whom, to provide each
+
+individual with fair notice as to the basis of the claims against him or her.” Wilson v.
+
+Montano, 715 F.3d 847, 852 (10th Cir. 2013) (internal quotation marks omitted).
+
+
+
+
+                                              12
+C.     Section 13-21-131 5
+
+       In 2020, Colorado enacted the Enhance Law Enforcement Integrity Act (“ELEIA”)
+
+“to create a cause of action for individuals whose rights are secured by Article II of the
+
+Colorado Constitution . . . and subsequently violated by a peace officer.” Shash v. City
+
+of Pueblo, 770 F. Supp. 3d 1279, 1306 (D. Colo. 2025) (citing Colo. Rev. Stat. § 13-21-
+
+131). Specifically, the ELEIA provides that
+
+              [a] peace officer . . . who, under color of law, subjects or
+              causes to be subjected, including failing to intervene, any
+              other person to the deprivation of any individual rights that
+              create binding obligations on government actors secured by
+              the bill of rights, article II of the state constitution, is liable to
+              the injured party for legal or equitable relief or any other
+              appropriate relief.
+
+Colo. Rev. Stat. § 13-21-131(1). Because “[s]ection 13-21-131 is similar to 42 U.S.C. §
+
+1983,” Colorado courts “look to cases analyzing [analogous] § 1983 claims . . . as
+
+persuasive authority.” Woodall v. Godfrey, 553 P.3d 249, 256 (Colo. App. 2024); see
+
+also People v. Dunaway, 88 P.3d 619, 630 (Colo. 2004) (“Where the analogous federal
+
+and state constitutional provisions are textually identical, we have always viewed cases
+
+interpreting the federal constitutional provision as persuasive authority.”).
+
+                    III. THE MONTE VISTA DEFENDANTS’ MOTION
+
+       The Monte Vista Defendants move to dismiss Garcia’s claims of malicious
+
+prosecution in violation of federal and state law, deprivation of due process in violation
+
+of state law, and § 1983 conspiracy. (ECF No. 70 at ¶¶ 88–142.) At the outset, the
+
+
+
+
+       5
+        The Court takes note that Garcia states in the SAC he brings claims against the Monte
+Vista Defendants under state law “in good faith for the express purpose of extending and/or
+modifying existing precedent relating to C.R.S. § 13-21-131.” (ECF No. 70 at 24 n.1; id. at 25
+n.2.)
+
+
+
+                                                13
+Court notes that Rosecrans and Martinez do not seek dismissal of Garcia’s § 1983
+
+claims based on qualified immunity. (See generally ECF No. 45.) Instead, they argue
+
+only that Garcia has failed to adequately allege a constitutional violation(s). (See id.)
+
+The Court limits its analysis accordingly.
+
+A.     Malicious Prosecution
+
+       Rosecrans and Martinez first argue that Garcia “has no actionable claim for
+
+malicious prosecution against [them]” under § 1983 or section 13-21-131 “because he
+
+cannot establish causation for his alleged injuries.” (Id. at 4.)6 In so arguing, the Court
+
+understands Rosecrans and Martinez to challenge only the first element of Garcia’s
+
+malicious prosecution claims—that “the defendant caused the plaintiff’s continued
+
+confinement or prosecution.”7 Margheim, 855 F.3d at 1082 (citation and quotation
+
+marks omitted).
+
+       “With respect to a § 1983 action for malicious prosecution, ‘the principal player in
+
+carrying out a prosecution . . . is not police officer but prosecutor.’” Calvert v. Ediger,
+
+415 F. App’x 80, 83 (10th Cir. 2011) (quoting Taylor v. Meachem, 82 F.3d 1556, 1563
+
+n.8 (10th Cir. 1996)). “Accordingly, an officer typically does not proximately cause a
+
+malicious prosecution because the independent decisions of the prosecutor in bringing
+
+
+       6
+          Rosecrans and Martinez submit that Garcia’s malicious prosecution claims under
+federal and state law “are considered together” “[b]ecause the factual allegations between the
+claims are identical.” (ECF No. 45 at 3.) Garcia adopts the same approach in his response.
+(See generally ECF No. 58 at 6–10.) Thus, the Court, too, analyzes the malicious prosecution
+claims in tandem. Cf. Townley v. Mallory, 2026 WL 764474, at *3 n.4 (D. Colo. Feb. 12, 2026)
+(analyzing § 1983 and section 13-21-131 claims “under the relevant federal standards” where
+“[b]oth Plaintiffs and Defendants treat these claims as identical to the federal claims”).
+       7
+         Though not at issue in the Motion, the remaining elements of Garcia’s Fourth
+Amendment malicious prosecution claim are that “(2) the original action terminated in favor of
+the plaintiff; (3) no probable cause supported the original arrest, continued confinement, or
+prosecution; (4) the defendant acted with malice; and (5) the plaintiff sustained damages.”
+Margheim, 855 F.3d at 1082 (citation and quotation marks omitted).
+
+
+                                               14
+the charge and the court in issuing an indictment or warrant constitute superseding
+
+causes that break the chain of causation.” Calvert, 415 F. App’x at 83 (emphasis
+
+added).
+
+       But this is not an absolute rule. “[O]fficers are not shielded from liability if a
+
+causal connection can be established demonstrating that the prosecutor’s and court’s
+
+actions were not truly independent causes.” Id. (citing Pierce, 359 F.3d at 1292–93);
+
+see also Stonecipher v. Valles, 759 F.3d 1134, 1147 (10th Cir. 2014) (“Of course, the
+
+fact that a government lawyer makes the final decision to prosecute does not
+
+automatically immunize an officer from liability for malicious prosecution.”). “Most
+
+commonly, officers can be liable for malicious prosecution if they conceal or
+
+misrepresent material facts to the prosecutor, whose judgment was thereby influenced
+
+by the misstatements.” Calvert, 415 F. App’x at 83; see also Pierce, 359 F.3d at 1291
+
+(“[O]fficers who conceal and misrepresent material facts to the district attorney are not
+
+insulated from a § 1983 claim for malicious prosecution simply because the prosecutor,
+
+grand jury, trial court, and appellate court all act independently to facilitate erroneous
+
+convictions.”) (citing Robinson v. Maruffi, 895 F.2d 649, 655-56 (10th Cir. 1990)).
+
+       A § 1983 plaintiff “may [also] demonstrate a causal link in other ways,” such as
+
+“by showing that the officer exerted undue influence over the prosecuting authority,”
+
+Calvert, 415 F. App’x at 83 (citing Hartman v. Moore, 547 U.S. 250, 262–63 (2006)), or
+
+that the “officer’s misrepresentations . . . cause[d] a prosecutor to lose his
+
+independence” to the extent “those misrepresentations contribute[d] to the prosecutor’s
+
+evaluation of the case and decision to bring charges,” id. at 85.
+
+       Here, Garcia argues that he has adequately alleged multiple “causal links”
+
+
+
+
+                                              15
+between Rosecrans and Martinez’s actions and his prosecution. He specifically directs
+
+the Court to his allegations that
+
+          •   “At the urging of Ms. Kelleher, Defendants Rosecrans and Martinez hired
+
+              Eikelenbloom and Eikelenbloom-Schieveld and paid them thousands of
+
+              dollars . . . to provide a new autopsy with a predetermined finding that Ms.
+
+              Jones’ manner of death was homicide.” Rosecrans and Martinez then
+
+              “presented this manipulated autopsy to Defendant Willet [to] convince him
+
+              to initiate charges against Mr. Garcia.” (ECF No. 33 at ¶¶ 47–48.)
+
+          •   “Eikelenbloom . . . produced a shoddy crime scene recreation” that was
+
+              “fully based on information provided by Defendant Rosecrans and
+
+              Martinez” and “engineered from the beginning to the predetermined
+
+              outcome that Mr. Garcia had murdered Ms. Jones (the outcome desired
+
+              by Defendants Rosecrans and Martinez but contradicted by the physical
+
+              evidence).” (Id. at ¶ 49.)
+
+          •   “Defendant Rosecrans and Martinez continued their campaign to ensure
+
+              that Mr. Garcia was maliciously prosecuted when Defendant Stephen
+
+              Hunzeker was appointed as the new Rio Grande County Coroner in March
+
+              of 2017” by “persistently demand[ing] that he change the manner of death
+
+              listed on Ms. Jones’ death certificate from suicide to homicide.” “[U]nder
+
+              intense pressure from Defendant Martinez and Defendant Rosecrans,
+
+              Defendant Hunzeker” ultimately acquiesced to “fil[ing] an amendment with
+
+              the State of Colorado to change Ms. Jones’ manner of death on her death
+
+              certificate from ‘suicide’ to ‘could not be determined,’” over five years after
+
+
+
+
+                                             16
+              Jones’ death. (Id. at ¶¶ 57, 61.)
+
+          •   Lastly, Martinez “drafted the arrest affidavit that . . . Defendant Willet
+
+              submitted . . . to the court on December 2, 2020, after reviewing it.”
+
+              According to the FAC, “Defendant Willet and Defendant Martinez
+
+              knowingly and purposefully withheld” a litany of exculpatory evidence from
+
+              the arrest affidavit and “knowingly and purposefully submitted . . . the
+
+              fabricated autopsy and crime scene recreation by Eikelenbloom and
+
+              Eikelenbloom-Schieveld[] to the court.” (Id. at ¶¶ 68–71.)
+
+The Court agrees these allegations, if proven, are sufficient to demonstrate a
+
+constitutional violation. The Tenth Circuit has held that officers “incur liability under a
+
+malicious-prosecution theory if they knowingly or recklessly used false information to
+
+institute legal process.” Sanchez v. Hartley, 810 F.3d 750, 758 (10th Cir. 2016). Such
+
+conduct includes “prevaricat[ing] and distort[ing] evidence to convince the prosecuting
+
+authorities to press charges” and the use of “false statements” to “prevail[] upon a
+
+magistrate to issue a warrant.” Pierce, 359 F.3d at 1279.
+
+       Nevertheless, Rosecrans and Martinez contend that Garcia’s allegations fail to
+
+establish causation because “a malicious prosecution claim against a police officer may
+
+be maintained [only] to the extent an officer conceals or misrepresents material facts to
+
+the prosecutor, essentially ‘hoodwinking’ them into bringing criminal charges.” (ECF
+
+No. 45 at 5.) They argue the allegations in the SAC do not satisfy that condition
+
+because, “even under Mr. Garcia’s theory of the case, Mr. Willet had possession of the
+
+same information that Mr. Martinez and Mr. Rosecrans possessed prior to the
+
+submission of criminal charges.” (Id.)
+
+
+
+
+                                             17
+       Rosecrans and Martinez principally rely on Morphew v. Chaffee County, 2024
+
+WL 5673501, at *1 (D. Colo. Sept. 24, 2024), to illustrate this proposition of law. There,
+
+Judge Daniel D. Domenico concluded the § 1983 plaintiff “failed to directly link” certain
+
+non-prosecutorial defendants to his alleged wrongful prosecution because “[n]one of the
+
+allegation against these defendants shows that they played a material role” in “the
+
+decision of the prosecutors to submit the arrest affidavit and move forward with the case
+
+when and how they did.” Id. at *10. Judge Domenico noted “the allegations point to the
+
+prosecutors as ringleaders,” while the non-prosecutorial defendants were “simply
+
+accused of not preventing the misleading information from being included in the affidavit
+
+(or the exculpatory information from being excluded), or not preventing the affidavit from
+
+being filed at all.” Id. For instance, the plaintiff alleged that the “prosecutors . . . were
+
+responsible for authoring” the arrest affidavit, while “many of the non-prosecutorial
+
+defendants [were] only alleged to have ‘edited’ or ‘reviewed’ this document.” Id. at *11.
+
+What’s more, the complaint alleged that one of the non-prosecutorial defendants “was
+
+actively counseling against filing the arrest affidavit in May 2021.” Id.
+
+       Rosecrans and Martinez essentially argue that, similar to Morphew, the
+
+allegations here point to Willett as—if not “ringleader”—being at least as complicit in
+
+Garcia’s malicious prosecution as they are alleged to have been. They contend “[i]t is
+
+alleged that Mr. Willet was involved in essentially every aspect of the investigation since
+
+it was re-opened in 2018, including meeting with and retaining the Eikelenblooms as
+
+forensic investigators despite the findings of the El Paso County medical examiner (ECF
+
+33, ¶ 67), the decision to have another autopsy report prepared (Id., ¶ 51), and the
+
+decision to use the evidence derived from the Eikelenblooms to pursue the prosecution
+
+
+
+
+                                              18
+of Mr. Garcia, (Id., ¶ 67).” (ECF No. 45 at 4.)
+
+       The Court rejects Rosecrans and Martinez’s characterization of the cited
+
+allegations. To the contrary, the allegations pertaining to Rosecrans and Martinez are a
+
+far cry from those pertaining to the non-prosecutorial defendants in Morphew. Here,
+
+Garcia alleges that Martinez and Rosecrans took it upon themselves to recruit
+
+Eikelenbloom and Eikelenbloom-Schieveld to procure and produce an “unscientific”
+
+“manipulated autopsy” and “shoddy crime scene recreation” to support their homicide
+
+theory, without Willet’s involvement. (ECF No. 33 at ¶¶ 48–49, 51–52.) Indeed, it was
+
+seemingly only later, “[p]rior to the initiation of charges,” that Rosecrans and Martinez
+
+“arranged” a meeting with Willet, “Eikelenbloom and Eikelenbloom-Schieveld[,] and the
+
+European doctor they had hired.” (Id. at ¶ 67.) Further, unlike in Morphew, the FAC
+
+alleges that Defendant Martinez authored the arrest affidavit, and Willett merely
+
+reviewed it before submitting it to the court. (Id. at ¶ 68.)
+
+       True, Judge Domenico also remarked that allegations demonstrating that the
+
+officers “duped” the prosecutors would have been sufficient to state a claim in Morphew.
+
+2024 WL 5673501, at *10. And it is difficult to draw such an inference here where
+
+Garcia alleges that Willet was or should have been aware that Eikelenbloom was
+
+unqualified to serve as an expert and was further aware that the affidavit submitted to
+
+the court omitted material exculpatory information. (See ECF No. 33 at ¶¶ 50–51, 67.)
+
+       But, as noted above, the authority relied upon by Rosecrans and Martinez
+
+supports the proposition that a § 1983 plaintiff can “demonstrate a causal link in other
+
+ways.” Calvert, 415 F. App’x at 83. For instance, it is reasonable to infer from the
+
+allegations in the SAC that Rosecrans and Martinez “exerted undue influence” over
+
+
+
+
+                                              19
+Willet in convincing him to bring charges against Garcia. Id. And that is to say nothing
+
+of the fact that Martinez’s affidavit also independently misled the court. Dorsey v. City
+
+of Shawnee, Kansas, 2025 WL 1125565, at *3 (D. Kan. Apr. 16, 2025) (“[A]llegations
+
+that an officer ‘prevaricate[d] and distort[ed] evidence’ or supplied ‘false statements’ that
+
+caused a ‘magistrate to issue a warrant’ are sufficient to allege personal participation in
+
+a § 1983 malicious-prosecution violation.”).
+
+       Accordingly, the Monte Vista Defendants’ Motion is denied to the extent it seeks
+
+dismissal of Garcia’s claims against Rosecrans and Martinez for malicious prosecution
+
+under federal and state law.
+
+B.     Violation of Due Process
+
+       Garcia’s state law due process claim alleges that Rosecrans and Martinez
+
+“deprived [him] of his constitutional right to due process and a fair trial” insofar as they
+
+“used investigative techniques that were so coercive and abusive that they knew, or
+
+were deliberately indifferent to, the fact that those techniques would yield false
+
+information that was used to attempt to convict [Garcia].” (ECF No. 70 at ¶¶ 124–25.)
+
+Rosecrans and Martinez move to dismiss this claim on three grounds.
+
+       First, they argue that Garcia’s due process claim is barred by the applicable
+
+statute of limitations. (ECF No. 45 at 7.) A civil action brought pursuant to section 13-
+
+21-131 “must be commenced within two years after the cause of action accrues.”
+
+C.R.S. § 13-21-131(5). Rosecrans and Martinez submit that, “[a]s alleged in the
+
+Complaint, the last action taken by any of [them] was on December 2, 2020, when the
+
+arrest warrant affidavit was drafted by Mr. Martinez and submitted to the court by Mr.
+
+Willet.” (ECF No. 45 at 7 (quoting ECF No. 33 ¶ 68).) They accordingly argue that
+
+Garcia’s lawsuit was untimely when filed in March 2025 because Garcia was “aware of
+
+
+                                             20
+the alleged ‘investigative techniques’ and ‘misconduct’ that led to his arrest by affidavit
+
+in December 2020.” (ECF No. 45 at 7.)
+
+       Garcia counterargues, however, that his “state due process claim under the
+
+ELEIA” is “predicated on the same unconstitutional conduct as his state malicious
+
+prosecution claim.” (ECF No. 58 at 11.) And his state law due process claim accrued
+
+when he was acquitted, on September 29, 2023. See Kimball v. Fox, 2023 WL
+
+2163568, at *8 (D. Colo. Feb. 22, 2023) (finding § 1983 plaintiff’s state malicious
+
+prosecution claim accrued when he was acquitted). Garcia accordingly argues that “[i]t
+
+would be illogical” to find his parallel state due process claim under the ELEIA
+
+predicated on the same conduct was time-barred well before he could bring suit for
+
+malicious prosecution. (ECF No. 58 at 11.)
+
+       The Court agrees with Garcia. Though he does not label it as such, Garcia’s due
+
+process claim, as pled, is substantively analogous to a Fourteenth Amendment
+
+fabrication-of-evidence claim. In McDonough v. Smith, the Supreme Court directly
+
+analogized a fabricated-evidence claim to the common law tort of malicious prosecution
+
+and thereby concluded the plaintiff “could not bring his fabricated-evidence claim under
+
+§ 1983 prior to favorable termination of his prosecution.” 588 U.S. 109, 117–18 (2019).
+
+It reasoned that a claim “asserting that fabricated evidence was used to pursue a
+
+criminal judgment” implicates the same “pragmatic concerns” underlying “malicious
+
+prosecution’s favorable-termination requirement”: “avoiding parallel criminal and civil
+
+litigation over the same subject matter and the related possibility of conflicting civil and
+
+criminal judgments.” Id.
+
+       The Court finds the Supreme Court’s holding in McDonough instructive on this
+
+
+
+
+                                             21
+issue, and concludes that Garcia’s due process claim likewise accrued when he was
+
+acquitted in September 2023. Plainly, therefore, this claim is not barred by the
+
+applicable statute of limitations.
+
+       Second, Rosecrans and Martinez argue that Garcia’s due process claim fails on
+
+the merits because he “cannot show he was deprived of a fair trial for the simple reason
+
+that he was not convicted.” (ECF No. 45 at 8.) They rely on Tenth Circuit precedent
+
+holding that, in the context of a Brady claim, “[r]egardless of any misconduct by
+
+government agents before or during trial, a defendant who is acquitted cannot be said to
+
+have been deprived of the right to a fair trial.” Morgan v. Gertz, 166 F.3d 1307, 1310
+
+(10th Cir. 1999); see also Tiscareno v. Frasier, 603 F. App’x 672, 679 (10th Cir. 2015)
+
+(no Brady claim absent conviction); Bailey v. Twomey, 791 F. App’x 724, 735 (10th Cir.
+
+2019) (declining to reconsider Morgan where § 1983 plaintiff failed to identify
+
+intervening Supreme Court authority).
+
+       Garcia does not refute the holdings of the Tenth Circuit authority relied upon by
+
+Rosecrans and Martinez. But he emphasizes that he brings his state law due process
+
+claim under the Colorado Constitution and thus submits that “Colorado, not federal, law
+
+informs this Court’s analysis.” (ECF No. 58 at 11.)
+
+       Particularly at this early stage of the litigation, the Court declines to dismiss
+
+Garcia’s state law due process claim based solely on arguably adverse federal
+
+precedent especially where, as here, such precedent is not directly on point. While it is
+
+true that as a general matter Colorado courts look to federal § 1983 caselaw as
+
+persuasive authority, see Woodall, 553 P.3d at 256, it remains steadfastly the case that
+
+Tenth Circuit authority ultimately is not binding on this Court’s consideration of Garcia’s
+
+
+
+
+                                             22
+due process claim brought pursuant to the Colorado Constitution.
+
+       Indeed, the Colorado Supreme Court has, on several occasions, “determined
+
+that the Colorado Constitution provides more protections for our citizens than do
+
+similarly or identically worded provisions of the United States Constitution.” People v.
+
+Young, 814 P.2d 834, 842–43 (Colo. 1991); see also People ex rel. Juhan v. District
+
+Court for Jefferson County, 165 Colo. 253, 261 (Colo. 1968) (“the United States
+
+Constitution . . . does [n]ot say that a state has no right, under its state due process
+
+clause, to create protections for citizens which might not be required under the federal
+
+concept”). Moreover, Rosecrans and Martinez fail to cite any Colorado authority for the
+
+proposition that a state law due process claim predicated on the denial of a right to a fair
+
+trial can only stand if a judgment of conviction has entered. By contrast, Garcia has
+
+directed the Court to Colorado caselaw analyzing pre-conviction due process claims
+
+based on the withholding of evidence. See People v. Braunthal, 31 P.3d 167, 172
+
+(Colo. 2001) (considering merits of due process claim based on “the prosecution’s
+
+failure to preserve evidence” in interlocutory appeal).
+
+       Further, the Court questions the firmness of the Tenth Circuit’s reasoning in
+
+Morgan that a due process claim requires a judgment of conviction as a matter of even
+
+federal law. The Supreme Court’s decision in McDonough instead suggests all that is
+
+required is a deprivation of liberty. 588 U.S. at 114–121 (finding § 1983 plaintiff had
+
+timely asserted a fabrication of evidence claim under the Fourteenth Amendment where
+
+the first trial ended in a mistrial and the second trial ended in acquittal); see also
+
+Armstrong v. Daily, 786 F.3d 529, 554–55 (7th Cir. 2015) (disagreeing with Morgan
+
+because the Tenth Circuit did not consider “a pretrial deprivation of liberty resulting from
+
+
+
+
+                                              23
+the bad-faith destruction of evidence”).
+
+       Lastly, Rosecrans and Martinez argue that Garcia’s due process claim fails
+
+“because he does not allege any facts regarding the Monte Vista Defendants’
+
+involvement at trial.” (ECF No. 45 at 8.) However, Rosecrans and Martinez cite no
+
+authority supporting that their “personal involvement in any alleged conduct at trial” is a
+
+required element of Garcia’s state law due process claim.
+
+       For all these reasons Rosecrans and Martinez’s Motion is denied to the extent
+
+they seek dismissal of Garcia’s state law due process claim.
+
+C.     Monell Liability
+
+       Lastly, the City moves to dismiss Garcia’s § 1983 malicious prosecution and
+
+conspiracy claims on the grounds that his allegations of Monell liability “amount to
+
+nothing more than conclusory statements.” (ECF No. 45 at 9.)
+
+       “In order to state a claim for municipal liability under § 1983, a plaintiff must
+
+allege (1) the existence of an official policy or custom; and (2) that the official policy or
+
+custom was the driving force behind the constitutional violation alleged.” Marshall v.
+
+Dix, 640 F. Supp. 3d 1033, 1067 (D. Colo. 2022). Under Tenth Circuit precedent, an
+
+official policy can take the form of
+
+              (1) a formal regulation or policy statement; (2) an informal
+              custom amounting to a widespread practice that, although
+              not authorized by written law or express municipal policy, is
+              so permanent and well settled as to constitute a custom or
+              usage with the force of law; (3) the decisions of employees
+              with final policymaking authority; (4) the ratification by such
+              final policymakers of the decisions—and the basis for
+              them—of subordinates to whom authority was delegated
+              subject to these policymakers’ review and approval; or (5)
+              the failure to adequately train or supervise employees, so
+              long as that failure results from deliberate indifference to the
+              injuries that may be caused.
+
+
+
+                                              24
+Waller v. City & County of Denver, 932 F.3d 1277, 1283 (10th Cir. 2019) (quotation
+
+marks omitted).
+
+       The SAC appears to invoke several of these theories, though the City contends
+
+none of Garcia’s allegations pass muster under Rule 12(b)(6).
+
+       1.     Informal Custom
+
+       “[A]n act performed pursuant to a custom that has not been formally approved by
+
+an appropriate decisionmaker may fairly subject a municipality to liability on the theory
+
+that the relevant practice is so widespread as to have the force of law.” Bd. of County
+
+Com’rs of Bryan County, Okl. v. Brown, 520 U.S. 397, 404 (1997) (internal quotation
+
+marks omitted). “With formal, unwritten policies, customs, or practices, the plaintiff can
+
+plead a pattern of multiple similar instances of misconduct; ‘no set number is required,
+
+and the more unique the misconduct is, and the more similar the incidents are to one
+
+another, the smaller the required number will be to render the alleged policy plausible.’”
+
+Arakji v. Hess, 2015 WL 7755975, at *6 (D. Colo. Dec. 2, 2015) (quoting Griego v. City
+
+of Albuquerque, 100 F. Supp. 3d 1192, 1213 (D.N.M. 2015)).
+
+       In the FAC, Garcia alleges that the City “has imposed no discipline on the MVPD
+
+Individual Defendants for their unconstitutional actions against Mr. Garcia,” which is
+
+consistent with its “custom and practice of tolerating and ratifying such unconstitutional
+
+conduct . . . .” (ECF No. 33 at ¶¶ 80–81.) The City argues these allegations are
+
+insufficient to establish “a widespread practice amounting to a custom” because Garcia
+
+has failed to plead prior examples of similar conduct. (ECF No. 45 at 9.) The Court
+
+agrees with the City.
+
+       The informal custom alleged in the FAC appears to be the City’s alleged
+
+widespread practice of “tolerating and ratifying” the “unconstitutional conduct” of MVPD
+
+
+                                            25
+officers. (ECF No. 33 at ¶ 80.) But Garcia describes no other instances of similar
+
+conduct apart from the City’s failure to “discipline . . . the MVPD Individual Defendants
+
+for their unconstitutional actions against Mr. Garcia.” Cf. Waller, 932 F.3d at 1290
+
+(allegations “describing only one similar incident . . . fall[s] far short of plausibly alleging
+
+a ‘widespread practice’”).
+
+       Garcia elaborates in his response that his informal custom theory encompasses
+
+the “series of decisions” MVPD officials and officers made “[a]cross many years” to
+
+maliciously prosecute him, and for which “no MVPD official was ever disciplined for their
+
+clearly unconstitutional actions.” (ECF No. 58 at 13.) The Court thus understands
+
+Garcia to argue that the informal custom here is based on an alleged pattern of conduct
+
+throughout the investigation and prosecution of the case against him. In support, he
+
+cites several decisions supporting the notion that an informal custom amounting to a
+
+widespread practice can be shown through repeated violation of a single individual’s
+
+constitutional rights.
+
+       The Court is unpersuaded, however, that the MVPD officers’ alleged efforts to
+
+fabricate evidence to facilitate the prosecution of Garcia, and the City’s alleged failure to
+
+discipline them for such conduct, represents a “pattern of multiple similar instances of
+
+conduct,” as opposed to a series of distinct decisions made in furtherance of a single
+
+prosecution against Garcia. Indeed, none of the cases cited by Garcia involved the
+
+factual circumstances at issue here, where a series of different decisions contributed to
+
+a single alleged malicious prosecution of a single defendant. See Arakji v. Hess, 2015
+
+WL 7755975, at *6 (D. Colo. Dec. 2, 2015) (finding plaintiff sufficiently alleged a pattern
+
+or custom where he alleged, “with a high degree of factual specificity, incidents on
+
+
+
+
+                                               26
+twelve occasions within a one-year period” during which “numerous Broomfield police
+
+officers persistently harassed him while he slept in his car”); Jacoby v. DuPage County
+
+Ill., 2013 WL 3233339, at *3 (N.D. Ill. June 26, 2013) (finding plaintiff alleged sufficient
+
+facts to infer “a widespread practice that had the force of policy to disregard the
+
+legitimate medical needs of detainees” where he alleged that “he made repeated
+
+complaints over an 11-day period and that he was repeatedly denied medical care”);
+
+Rykard v. City of Dothan, 2011 WL 3875609, at *3 (M.D. Ala. Aug. 9, 2011) (finding
+
+plaintiff alleged sufficient facts to infer a “customer or practice of city jail personnel
+
+failing to give prisoners the medication” where she alleged she “informed numerous jail
+
+personnel of her worsening medical condition and all these personnel ignored and
+
+neglected her over some period of time”).
+
+       Accordingly, the Court finds Garcia has failed to plausibly allege a Monell claim
+
+predicated on an informal custom amounting to a widespread practice. Garcia’s claims
+
+against the City are accordingly dismissed without prejudice to the extent they are
+
+predicated on that theory.
+
+       2.     Failure to Train / Supervise
+
+       In the FAC, Garcia also appeared to allege a Monell theory of liability based on
+
+the City’s failure to train or supervise its officers. (See ECF No. 33 at ¶ 98 (“Defendant
+
+Monte Vista’s training, supervision, and discipline caused the violation of Plaintiff’s
+
+constitutional rights.”). The City moved to dismiss the claim on the grounds that the
+
+FAC “does not identify what training the officers had, what training was constitutionally
+
+required, and how the City was on notice of these deficiencies such that it was
+
+deliberately indifferent,” nor “any specific supervisory deficiencies.” (ECF No. 45 at 10.)
+
+       Garcia failed to address any Monell theory of liability based on the City’s alleged
+
+
+                                               27
+failure to train or supervise MVPD officers in his response. (See generally ECF No. 58
+
+at 12–15.) Accordingly, the Court deems him to have abandoned any such claim. See
+
+C1.G on behalf of C.G. v. Siegfried, 38 F.4th 1270, 1282 (10th Cir. 2022) (affirming
+
+dismissal of claim because plaintiff “abandoned it by not addressing it in his response to
+
+Defendants’ motion to dismiss”).
+
+       The City’s Motion is thus granted to the extent that Garcia alleges a Monell claim
+
+based on the City’s failure to train or supervise.
+
+       3.      Decisions of Final Policymaker
+
+       The City next moves to dismiss Garcia’s claim that it is subject to Monell liability
+
+for decisions made by those with final policymaking authority—or here, decisions made
+
+by Rosecrans. (ECF No. 45 at 10–12.)
+
+       Municipalities are responsible for “actions taken by final policymakers, whose
+
+conduct ‘can be no less described as the official policy of a municipality.’” Whitson v.
+
+Bd. of County Comm’rs of County of Sedgwick, 106 F.4th 1063, 1066–67 (10th Cir.
+
+2024) (quoting Seifert v. Unified Gov’t of Wyandotte Cnty./Kansas City, 779 F.3d 1141,
+
+1159 (10th Cir. 2015) (internal quotation marks omitted)); see also Simmons v. Uintah
+
+Health Care Special Dist., 506 F.3d 1281, 1283 (10th Cir. 2007) (Municipalities are
+
+“equally answerable for actions undertaken by their final policymakers, whether or not
+
+those actions conform to their own preexisting rules.”); id. at 1287 (“Actions taken by a
+
+municipality’s final policymakers, even in contravention of their own written policies, are
+
+fairly attributable to the municipality and can give rise to liability.”).
+
+       “The motive of the policymaker is irrelevant. The important thing is that the
+
+policymaker is responsible for an unconstitutional act.” Whitson, 106 F.4th at 1067. As
+
+summarized by the Supreme Court:
+
+
+                                                28
+              [P]roof that a municipality’s legislative body or authorized
+              decisionmaker has intentionally deprived a plaintiff of a
+              federally protected right necessarily establishes that the
+              municipality acted culpably. Similarly, the conclusion that
+              the action taken or directed by the municipality or is
+              authorized decisionmaker itself violates federal law will also
+              determine that the municipal action was the moving force
+              behind the injury of which the plaintiff complains.
+
+Brown, 520 U.S. at 405 (emphasis added).
+
+       Garcia alleges that “Defendant Rosecrans is the final policymaker for all actions
+
+by the MVPD.” (ECF No. 33 at ¶ 82.) The FAC quotes the Monte Vista Municipal
+
+Code, which charges the Chief of Police “with the duty of crime prevention, crime
+
+detection, criminal apprehension, police records, traffic control and the efficient conduct
+
+of the Police Department generally,” as well the duty to “see that the applicable
+
+ordinances of the City and the laws of the State are duly enforced and the rules and
+
+regulations of the Police Department obeyed.” (Id. (quoting Monte Vista Mun. Code § 2-
+
+6-30).) The Court finds it reasonable to infer from this allegation that Rosecrans
+
+“retain[ed] complete authority over how criminal investigations are conducted” during his
+
+tenure as police chief. Logan v. City of Evanston, 2020 WL 6020487, at *6 (C.D. Ill.
+
+Sept. 29, 2023).
+
+       The City notably “concedes only for purposes of this Motion that . . . when
+
+employed as Chief of Police, Mr. Rosecrans was the final policymaker for certain
+
+responsibilities of the police department.” (ECF No. 45 at 11 n.1.) But it argues Garcia
+
+“does not plead facts showing that Mr. Rosecrans was sufficiently involved in the actual
+
+initiation of the prosecution.” (Id. at 11.) The Court disagrees. The FAC alleges that
+
+Rosecrans “authorized, condoned, and continued the malicious prosecution of Mr.
+
+Garcia without probable cause” through several acts, (ECF No. 33 at ¶ 83), including by
+
+
+
+                                            29
+making the decision to renew the investigation into Jones’ death in 2017, hiring and
+
+then working with Eikelenbloom and Eikelenbloom-Schieveld to produce a “manipulated
+
+autopsy” supporting charges against Garcia, and pressuring the newly-elected coroner
+
+to change the manner of death on Jones’ death certificate, (id. at ¶¶ 44, 45, 48–51, 54–
+
+57, 61, 62). These allegations are, in the Court’s view, sufficient to allege that
+
+Rosecrans, as a final policymaker, was himself a direct participant in and responsible
+
+for the alleged violation of Garcia’s Fourth Amendment rights.
+
+       Accordingly, the City’s Motion is denied to the extent Garcia’s Monell claim is
+
+predicated on liability for decisions made by Rosecrans, as a final policymaker.
+
+       4.     Ratification
+
+       Lastly, the City moves to dismiss any Monell theory of liability claim predicated
+
+on Rosecrans’ delegation of final policymaking authority to Martinez in connection with
+
+the renewed investigation of Jones’ death, and his ratification of decisions Martinez
+
+made in the course thereof. (ECF No. 45 at 12.)
+
+       “Ratification can be found when the employees were given authority for the
+
+action, subject to the review and approval of a final policymaker, and when the final
+
+policymaker approves of the decision and the basis for the decision.” Cobruno v.
+
+Diggins, 2018 WL 10215848, at *10 (D. Colo. 2018) (citing Brammer-Hoelter v. Twin
+
+Peaks Charter Academy, 602 F.3d 1174, 1189 (10th Cir. 2010)). “The final
+
+decisionmakers’ approval must precede the violative action, and the Tenth Circuit has
+
+rejected ratification based on conduct after the violation has occurred.” Lucio-Vasquez
+
+v. City of Aurora, 2023 WL 2891009, at *10 (D. Colo. Apr. 11, 2023) (citing Cordova v.
+
+Aragon, 569 F.3d 1183, 1194 (10th Cir. 2009) (“[B]asic princip[les] of linear time prevent
+
+us from seeing how conduct that occurs after the alleged violation could have somehow
+
+
+                                             30
+caused that violation.”) (emphasis in original).
+
+       The City directs the Court’s attention to Garcia’s allegation that Martinez “was
+
+designated with final policymaking authority by MVPD to investigate Ms. Jones’ death,
+
+hire experts that fabricated evidence, pressure Defendant Hunzeker to change the
+
+manner of death on Ms. Jones’ death certificate, and author the arrest affidavit that
+
+intentionally omitted exonerating information and included the fabricated evidence
+
+obtained from the discredited experts hired by MVPD.” (ECF No. 33 at ¶ 84.) It asserts
+
+this allegation is “conclusory” and “fails to identify any plausible facts showing who
+
+made this designation, when it was made, and the scope of authority allegedly
+
+transferred to Mr. Martinez.” (ECF No. 45 at 12.)
+
+       However, the City’s argument ignores that, earlier in the FAC, Garcia alleged that
+
+“Rosecrans promoted MVPD Officer Michael Martinez to Corporal and assigned him to
+
+renew the investigation into the death of Ms. Jones.” (ECF No. 33 at ¶ 44.) The FAC
+
+also alleges that Rosecrans and Martinez together hired Eikelenbloom and
+
+Eikelenbloom-Schieveld to procure and produce the fabricated autopsy and forensic
+
+reports, and together pressured Hunzeker to amend Jones’ death certificate. (Id. at ¶¶
+
+47–48, 57, 59.) Thus, to the extent Martinez bore any responsibility for such decisions,
+
+the Court can infer from these allegations that Rosecrans approved of Martinez’s
+
+decisions and the basis for them.
+
+       As to the arrest affidavit, on the other hand, Garcia alleges that Martinez
+
+“submitted the arrest affidavit with the explicit approval of final policymakers at the
+
+MVPD, including the chief of police.” (Id. at ¶ 69.) He avers that “[t]he death of Ms.
+
+Jones was so high-profile that Defendant Martinez could not have submitted the arrest
+
+
+
+
+                                             31
+affidavit without the approval of the final policymakers for the MVPD.” (Id.) The City
+
+argues this allegation is too speculative to pass muster under Iqbal / Twombly. (ECF
+
+No. 45 at 11.) And the Court agrees. Garcia’s speculative allegation that Jones’ death
+
+was “so high profile” that the arrest affidavit must have been approved by a final
+
+policymaker does not plausibly allege that a final policymaker actually approved the
+
+contents of the arrest affidavit, nor the reasons he chose to include or exclude certain
+
+information in the affidavit. 8
+
+       Accordingly, to the extent Garcia’s Monell claim against the City is predicated on
+
+a theory that a final policymaker ratified Martinez’s decisions to “hire experts that
+
+fabricated evidence” and “pressure Defendant Hunzeker to change the manner of death
+
+on Ms. Jones’ death certificate,” (ECF No. 33 at ¶ 84), the City’s Motion is denied.
+
+However, to the extent Garcia’s Monell claim is predicated on a theory that a final
+
+policymaker ratified the contents of the arrest affidavit authored by Martinez, (see id.),
+
+the Motion is granted and Garcia’s Monell claim is dismissed without prejudice to the
+
+same extent.
+
+                                    IV. WILLET’S MOTION
+
+       Garcia brings two claims against Willet under § 1983 for malicious prosecution
+
+and conspiracy. Willet argues both claims should be dismissed because he enjoys
+
+absolute prosecutorial immunity. (ECF No. 51 at 4–9.) He additionally argues that
+
+Garcia has not plausibly alleged a § 1983 conspiracy. (Id. at 9–10.) Ultimately, the
+
+
+       8
+         The City also urges the Court to take judicial notice of a separation letter from the City
+Manager evidencing that Rosecrans left his employment with the MVPD before Martinez
+authored the arrest affidavit and it was submitted to the court. (ECF No. 45 at 11–12; id. at 11
+n.2; ECF No. 45-1.) The Court need not consider the letter to resolve the Motion and thus
+declines to take judicial notice of its contents.
+
+
+
+                                                32
+Court agrees that both claims are subject to dismissal, primarily because the allegations
+
+in the SAC do not plausibly support the theory of Willet’s liability that Garcia argues in
+
+his response.
+
+         With respect to Willet’s assertion of absolute prosecutorial immunity, the Court
+
+notes at the outset that Garcia acknowledges in his response that the SAC “contains
+
+allegations concerning Defendant Willett’s prosecutorial misconduct for which it is
+
+arguable that he would be entitled to absolute immunity.” (ECF No. 56 at 12.) He
+
+clarifies, however, that his claims against Willet are based specifically “on his
+
+participation in the fabrication and manipulation of evidence, in the form of false autopsy
+
+and crime scene recreation reports authored by the discredited experts and the
+
+pressure that was imposed on the coroner to change Ms. Jones’ death certificate.” (Id.
+
+at 9.)
+
+         The Court accordingly gathers from Garcia’s response that he is not contesting
+
+that Willet would be entitled to absolute immunity for other conduct alleged in the SAC,
+
+including his act of submitting the arrest affidavit to the court (without, notably, averring
+
+to the veracity of the contents thereof), see Kalina v. Fletcher, 522 U.S. 118, 125–29
+
+(1997), nor for his use of fabricated evidence to support charges against Garcia, see
+
+Imbler v. Pachtman, 424 U.S. 409, 416 (1976). (See also ECF No. 56 at 9 (arguing in
+
+response that, “as alleged, Defendant Willet ‘did not just use [evidence ] he should have
+
+known or suspected to be false’ but instead ‘sought to create that false’ evidence,”
+
+(quoting Endicott-Quinones v. Garza, 2024 WL 1299561, at *5 (D.N.M. Mar. 27 2024))).
+
+         With regard to the conduct that Garcia says his claim against Willet is based
+
+on—“the act of fabricating and manipulating evidence,” (ECF No. 56 at 9)—the Court in
+
+
+
+
+                                             33
+principle agrees with Garcia that prosecutors are not entitled to absolute immunity when
+
+they work alongside police to manufacture false evidence during the preliminary
+
+investigation of a crime. See Buckley v. Fitzsimmons, 509 U.S. 259, 272–76 (1993).
+
+But it cannot agree that the SAC plausibly alleges that is what Willet has done here. 9
+
+       Regarding the “false autopsy and crime scene recreation reports,” Garcia alleges
+
+that “Defendants Rosecrans and Martinez hired Defendants Eikelenbloom and
+
+Eikelenbloom-Schieveld . . . to procure a new autopsy with a predetermined finding that
+
+Ms. Jones’ manner of death was homicide.” (ECF No. 70 at ¶ 49 (emphasis added).)
+
+What’s more, he expressly alleges that “[t]he only two individuals that Defendants
+
+Eikelenbloom and Eikelenbloom-Schieveld spoke with prior to procuring the
+
+manipulated autopsy were Defendants Rosescrans and Martinez.” (Id. at ¶ 50.)
+
+Likewise, the “shoddy forensic report” produced by Defendants Eikelenbloom and
+
+Eikelenbloom-Schieveld . . . was fully based on information provided by Defendants
+
+Rosecrans and Martinez.” (Id. at ¶ 51 (emphasis added).)
+
+       Indeed, it was seemingly only after Eikelenbloom and Eikelenbloom-Schieveled’s
+
+report was already complete that “Defendants Rosecrans and Martinez presented this
+
+manipulated autopsy to Defendant Willet [to] convince him to initiate charges against
+
+Mr. Garcia.” (Id. at ¶ 50.) Then, at some later point
+
+               [p]rior to the initiation of charges, the District Attorney’s
+               Office, including Defendant Robert Willet, was involved in
+               meeting with Eikelenbloom, Eikelenbloom-Schieveld, and
+               the European doctor they had hired that was arranged by
+
+       9
+         Though the Court acknowledges it is somewhat ambiguous whether Willet is moving to
+dismiss Garcia’s malicious prosecution claim for failure to state a claim or only on the basis of
+prosecutorial immunity, neither is Garcia permitted to “amend [his] complaint by adding factual
+allegations in response to Defendant’s motion to dismiss.” Abdulina v. Eberl’s Temporary
+Servs., Inc., 79 F. Supp. 3d 1201, 1206 (D. Colo. 2015).
+
+
+
+                                               34
+              Defendants Rosecrans and Martinez. Defendant Willett
+              engaged with these individuals in an investigative and/or
+              administrative capacity, outside of his role in initiating a
+              prosecution or presenting the State’s case.
+
+(ECF No. 33 at ¶ 67.) Garcia’s conclusory allegation that Willet participated in this
+
+meeting in an “investigative and/or administrative capacity,” however, is not enough for
+
+the Court to reasonably infer he worked alongside Rosecrans and Martinez in an
+
+investigative capacity to fabricate or manipulate the autopsy and crime scene recreation
+
+reports. While it is possible that Willet participated in this meeting in an investigative
+
+capacity, Garcia alleges no further details regarding the purpose of the meeting, any
+
+topic that was discussed at the meeting, or the outcome of the meeting that are
+
+sufficient to make such an inference plausible. Cf. Spinelli v. Byars, 2025 WL 2996640,
+
+at *7 (D. Colo. Oct. 24, 2025) (finding vague allegations regarding a meeting between
+
+the prosecutor and witness were insufficient to state a fabrication of evidence claim).
+
+       Garcia’s assertion that Willet “participat[ed] in the fabrication and manipulation of
+
+evidence” via “the pressure that was imposed on the coroner to change Ms. Jones’
+
+death certificate” fares no better. (ECF No. 56 at 9.) The SAC similarly alleges that
+
+“Defendants Rosecrans and Martinez persistently demanded that [Hunzeker] change
+
+the manner of death listed on Ms. Jones’ death certificate from suicide to homicide.”
+
+(ECF No. 70 at ¶ 60 (emphasis added); id. at ¶¶ 62–67.) But the Court has identified no
+
+allegations in the SAC pertaining to Willet’s involvement in pressuring Hunzeker to
+
+amend Jones’ death certificate, and Garcia directs it to none.
+
+       Garcia’s conspiracy claim under § 1983 also requires him to “allege specific facts
+
+showing an agreement and concerted action amongst the defendants.” Tonkovich v.
+
+Kan. Bd. of Regents, 159 F.3d 504, 533 (10th Cir. 1998); see also United States v.
+
+
+
+                                             35
+Edmonson, 962 F.2d 1535, 1548 (10th Cir. 1992) (“a defendant’s assent can be inferred
+
+from acts furthering the conspiracy’s purpose”). Garcia argues that Willet “actively
+
+participated” in “a plan to fabricate and manipulate evidence with the express purpose
+
+of ensuring that [Garcia] was charged and prosecuted” for Jones’ death by “attending
+
+meetings meant to ensure that the evidence was fabricated and manipulated, and then
+
+using that fabricated and manipulated evidence to later prosecute Mr. Garcia.” (ECF
+
+No. 56 at 13.)
+
+       As discussed above, however, Garcia’s allegations pertaining to the meeting
+
+Willet attended with Rosecrans, Martinez, Eikelenbloom, and Eikelenbloom-Schieveld
+
+are too vague for the Court to infer the purpose of the meeting was “to ensure that the
+
+evidence was fabricated and manipulated.” Contra Bledsoe v. Jefferson County, Kan.,
+
+275 F. Supp. 3d 1240, 1259 (D. Kan. 2017) (where, among other allegations, plaintiff
+
+alleged that prosecutor participated in a meeting with other defendants at which they
+
+“discussed a plan that Tom should recant his confession and inform authorities that
+
+plaintiff had confessed to the murder”).
+
+       Moreover, the Court is disinclined to infer Willet’s assent to a plan to fabricate
+
+and manipulate evidence against Garcia based solely on his “using the fabricated and
+
+manipulated evidence to later prosecute Mr. Garcia,” when he would otherwise be
+
+absolutely immune to a malicious prosecution claim predicated on that same conduct.
+
+See Marshall, 640 F. Supp. 3d at 1062, 1062 n.17 (concluding plaintiff “necessarily
+
+cannot state a conspiracy claim” against prosecutor with respect, for example, to “any
+
+conspiracy to violate Plaintiff’s constitutional rights based on the failure to include
+
+material facts in the Arrest Warrant Affidavit,” for which the prosecutor was entitled to
+
+
+
+
+                                              36
+absolute immunity) (citing N.E.L. v. Douglas Cnty., 740 App’x 920, 931 n.22 (10th Cir.
+
+2018)); see also Glaser v. City and County of Denver, Colo., 557 F. App’x 689, 705
+
+(10th Cir. 2014) (“[A] prosecutor is shielded by absolute immunity from claims that he
+
+knowingly used false testimony and suppressed material evidence in a trial.”).
+
+       Accordingly, the Court finds that Garcia has not plausibly alleged a malicious
+
+prosecution claim against Willet based on his participation in the fabrication and
+
+manipulation of evidence against Garcia, nor has he plausibly alleged that Willet
+
+conspired with Rosecrans, Martinez, Eikelenbloom, and/or Eikelenbloom-Schieveld to
+
+fabricate and manipulate evidence against Garcia. For the same reason, Willet’s
+
+Motion is granted, and the claims against him are dismissed without prejudice. 10
+
+                                  V. HUNZEKER’S MOTION
+
+       Hunzeker moves to dismiss Garcia’s § 1983 claims against him for malicious
+
+prosecution and conspiracy on the grounds of qualified immunity.
+
+       “A § 1983 defendant’s assertion of qualified immunity is an ‘affirmative defense
+
+[that] creates a presumption that the defendant is immune from suit.’” Truman v. Orem
+
+City, 1 F.4th 1227, 1235 (10th Cir. 2021) (quoting Est. of Smart by Smart v. City of
+
+Wichita, 951 F.3d 1161, 1168 (10th Cir. 2020)). “To overcome this presumption, the
+
+plaintiff must show (1) the defendant’s actions violated a constitutional or statutory right,
+
+
+
+
+       10
+           The Court also notes that Willet appended the arrest affidavit initiating charges against
+Garcia to his reply to refute Garcia’s contention that Willet “knowingly advanced a false narrative
+in the arrest affidavit.” (ECF No. 71 at 6.) Willet urges the Court that it may consider the arrest
+affidavit without converting his Motion to a motion for summary judgment because it is
+referenced in Garcia’s complaint and is additionally a public record of which the Court can take
+judicial notice. (Id. at 7 n.4.) Like the separation letter submitted by Rosecrans and Martinez,
+however, the Court does not need to consider the arrest affidavit to resolve the Motion and it
+thus declines to do so at this stage.
+
+
+
+                                                37
+and (2) that right was clearly established at the time of the defendant’s complained-of
+
+conduct.” Truman, 1 F.4th at 1235.
+
+       “District courts may grant a motion to dismiss based on qualified immunity, but
+
+asserting a qualified immunity defense via a Rule 12(b)(6) motion . . . subjects the
+
+defendant to a more challenging standard of review than would apply on summary
+
+judgment.” Id. (cleaned up). “[T]he Court analyzes the defendant’s conduct as alleged
+
+in the complaint.” Id. (cleaned up) (emphasis in original).
+
+       The Court considers both prongs of the qualified immunity analysis with respect
+
+to Garcia’s malicious prosecution and conspiracy claims against Hunzeker below.
+
+A.     Malicious Prosecution
+
+       1.     Constitutional Violation
+
+       Like Rosecrans and Martinez, Hunzeker challenges only the first element of
+
+Garcia’s malicious prosecution claim against him—that Hunzeker “caused the plaintiff’s
+
+continued confinement or prosecution.” Margheim, 855 F.3d at 1085 (citation omitted).
+
+(See ECF No. 53 at 4–5.) The substance of Hunzeker’s arguments, too, mirrors much
+
+of Rosecrans and Martinez’s arguments with respect to causation. He contends he
+
+cannot be liable for malicious prosecution because he “did not arrest or prosecute
+
+Plaintiff, nor would that be within his authority or duties as coroner,” (id. at 5), and “the
+
+issuance of the arrest affidavit was an intervening cause that severed any possible
+
+liability for Mr. Hunzeker, who is not alleged to have participated in preparing the arrest
+
+affidavit or charging Plaintiff.” (ECF No. 53 at 8.)
+
+       But Garcia cites caselaw supporting that “a coroner’s reckless or intentional
+
+falsification of any autopsy report that plays a material role in the false arrest and
+
+prosecution of an individual can support a claim under 42 U.S.C. § 1983 and the Fourth
+
+
+                                              38
+Amendment.” Galbraith v. Cnty. of Santa Clara, 307 F.3d 1119, 1126–27 (9th Cir.
+
+2002). In Galbraith, a case with remarkably similar background facts to this one, the
+
+§ 1983 plaintiff claimed that the coroner “recklessly disregarded the truth by asserting in
+
+his autopsy report that [the plaintiff’s wife] was strangled by an assailant while ignoring
+
+abundant evidence that pointed to suicide.” Id. at 1127. In the complaint, the plaintiff
+
+alleged “deficiencies in the autopsy report itself tending to indicate that [the coroner]
+
+never did the work he claimed he had done to support his conclusion that [the wife’s]
+
+death was caused by an assailant.” Id. Moreover, the complaint alleged that “[the
+
+coroner] deliberately lied about the autopsy in the autopsy report, in his communications
+
+with other investigators, and on the witness stand at the preliminary hearing in order to
+
+cover up his incompetence, and that these lies proximately caused [the plaintiff’s] arrest
+
+and prosecution for murder.” Id. Such allegations were, in the Ninth Circuit’s view,
+
+adequate to allege a Fourth Amendment violation. Id.
+
+       In another case cited by Garcia, the Northern District of New York concluded a
+
+§ 1983 plaintiff had plausibly alleged a malicious prosecution claim against a medical
+
+examiner notwithstanding the examiner’s argument that he “was nothing more than a
+
+potential witness and was not responsible for making the critical decision to prosecute.”
+
+Davis-Guider v. City of Troy, 2019 WL 1101278, at *1, *4 (N.D.N.Y. Mar. 8, 2019). The
+
+district court specifically found the plaintiff sufficiently alleged that the examiner “initiated
+
+the criminal proceeding,” the first element of his malicious prosecution claim, where the
+
+complaint alleged the examiner “ignored evidence that contradicted his findings, omitted
+
+key information from his autopsy report, improperly documented that V.D.’s cause of
+
+death was homicide, and that his report was the only evidence used to support the
+
+
+
+
+                                               39
+decision to prosecute.” Id. at *5.
+
+       Other district courts have reasoned similarly. See Thomas v. City of Troy, 293 F.
+
+Supp. 3d 282, 294 (N.D.N.Y. 2018) (plaintiff sufficiently alleged that medical examiner
+
+initiated or continued the criminal proceeding as required to state malicious prosecution
+
+claim where complaint alleged that the examiner “created a false autopsy report,
+
+improperly documented that Matthew’s cause of death as a homicide, and provided that
+
+report to the prosecutor”); Sommer v. United States, 713 F. Supp. 2d 1191, 1205 (S.D.
+
+Cal. 2010) (plaintiff sufficiently stated “a § 1983 claim for deprivation of liberty by the
+
+reckless or deliberate falsification of evidence in violation of the Fourth Amendment”
+
+where he alleged that that coroner “deliberately or recklessly falsified Todd Sommer’s
+
+cause of death on the death certificate” and the “determination that Todd Sommer had
+
+been poisoned was central to Plaintiff’s arrest and prosecution”).
+
+       Similar to the allegations discussed in the foregoing authorities, Garcia alleges
+
+here that, “over five years after Ms. Jones died,” “Hunzeker filed an amendment with the
+
+State of Colorado to change Ms. Jones’ manner of death on her death certificate from
+
+‘suicide’ to ‘could not be determined,’” after enduring over two years of pressure from
+
+Rosecrans, Martinez, and Jones’ family to do so, (ECF No. 33 at ¶¶ 56–61). Garcia
+
+alleges there was “no new evidence” to support the amendment, and that Hunzeker had
+
+refused to change Jones’ manner of death to homicide on at least one prior occasion
+
+“because he was ‘not comfortable that there was enough evidence to change it to
+
+homicide.’” (Id. at ¶ 60.) According to Garcia, Hunzeker knew “his actions would cause
+
+Mr. Garcia’s prosecution, that there had not been enough evidence to change Ms.
+
+Jones’ cause of death to homicide, and that there was no new evidence that would
+
+
+
+
+                                              40
+support changing Ms. Jones’ manner of death to ‘could not be determine[d.]’” (Id. at
+
+¶ 61.) And, based on Garcia’s description of the arrest affidavit and the information
+
+omitted therefrom, the Court can reasonably infer the amended death certificate was an
+
+important piece of evidence supporting probable cause to arrest Garcia on homicide
+
+charges. (Id. at ¶ 71.)
+
+       Hunzeker nonetheless argues that his “alleged action of amending the death
+
+certificate in November 2019 is too remote in time . . . to show a plausible causal
+
+connection with Plaintiff’s arrest in December 2020 and subsequent prosecution through
+
+September 2023.” (ECF No. 53 at 16.) He cites no authority in support of this
+
+argument and it is, in the Court’s view, wholly unconvincing. It would be nonsensical to
+
+conclude a defendant can avoid liability for fabricating evidence with knowing or
+
+reckless disregard of the truth because causation is severed if it takes several months
+
+thereafter for the police to conclude their investigation and the prosecutor to assemble
+
+the case and present the evidence to the court.
+
+       Similar to Rosecrans and Martinez, Hunzeker also argues “there are no
+
+allegations that Mr. Hunzeker ‘hoodwinked’ anyone about his actions.” (ECF No. 53 at
+
+6.) As discussed above, Calvert establishes that a § 1983 plaintiff “may [also]
+
+demonstrate a causal link in other ways,” such as “by showing that the [defendant]
+
+exerted undue influence over the prosecuting authority,” Calvert, 415 F. App’x at 83
+
+(citing Hartman, 547 U.S. at 262–63), or that the “officer’s misrepresentations . . .
+
+cause[d] a prosecutor to lose his independence” to the extent “those misrepresentations
+
+contribute[d] to the prosecutor’s evaluation of the case and decision to bring charges,”
+
+id. at 85.
+
+
+
+
+                                            41
+       Here, Garcia avers that “Defendant Hunzeker’s change of the death certificate
+
+from ‘suicide’ to ‘could not be determined’ concealed, obfuscated, disregarded, and
+
+misrepresented material and potentially exculpatory facts to both prosecutors for the
+
+case and the criminal court where Mr. Garcia would later be prosecuted.” (ECF No. 33
+
+at ¶ 63.) Thus, even to the extent Willet was aware of the prior autopsy concluding
+
+Jones’ death was a suicide, (ECF No. 33 at ¶ 67), it is reasonable to infer Hunzeker’s
+
+amendment of the death certificate caused Willet to lose his independence and
+
+contributed to his evaluation of the case, Calvert, 415 F. App’x at 85—and that is to
+
+again say nothing of the impact of Hunzeker’s amendment of the death certificate on the
+
+court’s evaluation of the relevant evidence in considering whether there was probable
+
+cause to issue a warrant for Garcia’s arrest. See Dorsey, 2025 WL 1125565, at *3
+
+(“[A]llegations that an officer ‘prevaricate[d] and distort[ed] evidence’ or supplied ‘false
+
+statements’ that caused a ‘magistrate to issue a warrant’ are sufficient to allege
+
+personal participation in a § 1983 malicious-prosecution violation.”).
+
+       Accordingly, the Court finds that Garcia has plausibly alleged that Hunzeker
+
+caused his prosecution, as is required to state a claim for malicious prosecution.
+
+       2.     Clearly Established Law
+
+       Hunzeker also argues that Garcia’s malicious prosecution claim against him is
+
+subject to dismissal for the independent reason that, “[e]ven viewing Plaintiff’s
+
+allegations as true, Plaintiff cannot point to a case that has held that Mr. Hunzeker’s
+
+alleged action of changing the manner of death on Ms. Jones’ death certificate violated
+
+a clearly established right.” (ECF No. 53 at 13.) The Court disagrees.
+
+       A right is clearly established “when a Supreme Court or Tenth Circuit decision is
+
+on point, or if the clearly established weight of authority from other courts shows that the
+
+
+                                             42
+right must be as the plaintiff maintains.” Thomas, 765 F.3d at 1194. Thus, “the
+
+contours of the right must be sufficiently clear [so] that a reasonable official would
+
+understand that what he is doing violates that right.” Id. The Court’s analysis, however,
+
+“is not a scavenger hunt for prior cases with precisely the same facts, and a prior case
+
+need not be exactly parallel to the conduct here for the officials to have been on notice
+
+of clearly established law.” Reavis v. Frost, 967 F.3d 978, 992 (10th Cir. 2020) (internal
+
+quotation marks omitted). There can also be “the rare obvious case, where the
+
+unlawfulness of the officer’s conduct is sufficiently clear even though existing precedent
+
+does not address similar circumstances.” D.C. v. Wesby, --- U.S. ---, 138 S. Ct. 577,
+
+590 (2018) (internal quotation marks omitted).
+
+       In Pierce, the Tenth Circuit held “that the prohibition on falsification or omission of
+
+evidence, knowingly or with reckless disregard for the truth, was firmly established as of
+
+1986, in the context of information supplied to support a warrant for arrest.” 359 F.3d at
+
+1298. Hunzeker makes much ado of the fact that Garcia has not identified a Supreme
+
+Court or Tenth Circuit case specifically holding that a county coroner violates a clearly
+
+established Fourth Amendment right “by amending the death certificate.” (ECF No. 53
+
+at 12.) But like the forensic analyst in Pierce, Hunzeker “overemphasizes the degree of
+
+specificity required of prior case to clearly establish the law.” 359 F.3d at 1298. The
+
+Court sees little material difference between a forensic analyst who, “with knowing and
+
+reckless disregard for the truth, inform[s] the police and prosecutorial authorities that
+
+hair analysis support[s] [the defendant’s] involvement in [a] rape—even though in fact,
+
+far from implicating him in the rape, the hair analysis tend[s] to exonerate him—”,
+
+Pierce, 359 F.3d at 1293–94, and a county coroner who, five years after someone’s
+
+
+
+
+                                             43
+death, “file[s] an amendment . . . to change [the decedent’s] manner of death . . . from
+
+‘suicide’ to ‘could not be determined’” to “cause [the defendant] to be prosecuted” for
+
+homicide, “despite having no new evidence” to “call into question the [prior] coroner’s
+
+conclusion that [the decedent] had died by suicide with no involvement from [the
+
+defendant],” (ECF No. 33 at ¶¶ 42, 61).
+
+       Hunzeker also cites two authorities he contends support the absence of clearly
+
+established law concerning when a coroner violates a plaintiff’s constitutional rights.
+
+But neither case appears to have involved a malicious prosecution claim, nor even an
+
+alleged violation of the § 1983 plaintiff’s Fourth Amendment rights. Rather, in Harner v.
+
+Hibbard, the plaintiff alleged the county coroner “intentionally caused the destruction of
+
+a section of the aorta of the body of [her husband], taken during an autopsy, showing a
+
+perforation and crucial evidence in a wrong death action claiming negligence in
+
+conducting a cardiac catheterization.” 2013 U.S. Dist. LEXIS 86790, at *1 (D. Colo.
+
+June 20, 2013). The district court concluded the plaintiff “failed to present established
+
+legal authority” to support her claim that the coroner violated her “constitutional right of
+
+access to the courts” where prior Tenth Circuit authority established “that the protection
+
+is for the opportunity to initiate legal action.” Id. at *1–2.
+
+       Similarly, in Afola v. Corrections Corporation of America, the district court found
+
+the plaintiff had failed to plausibly allege a claim for § 1983 conspiracy—seemingly also
+
+based on an alleged destruction of evidence that the decedent’s estate and mother
+
+argued deprived them of right of access to the courts—where the allegations in the
+
+complaint, taken as true, indicated the coroner was “simply repeating the findings made
+
+by the pathologist” who “had actually performed the autopsy.” 2013 U.S. Dist. LEXIS
+
+
+
+
+                                               44
+81180, at *13–14 (D. Colo. June 10, 2013). The court notably commented “it [was]
+
+difficult to understand how [the coroner] could legitimately include a cause of death on
+
+the death certificate different from the cause determined by [the pathologist] who, again,
+
+had actually performed the autopsy and who allegedly also refused to change the cause
+
+of death from cardiac hypertrophy due to hypertension.” Id. Hunzeker is alleged to
+
+have done precisely opposite here by changing the manner of Jones’ death when the
+
+coroner who actually performed the autopsy consistently refused to do so.
+
+       In sum, given the disparate facts and claims at issue, the Court finds neither
+
+authority instructive in this case.
+
+       Accordingly, Hunzeker’s Motion is denied to the extent he seeks dismissal of
+
+Garcia’s malicious prosecution claim based on qualified immunity.
+
+B.     Conspiracy
+
+       1.     Constitutional Violation
+
+       Hunzeker next moves to dismiss Garcia’s claim that he participated in a § 1983
+
+conspiracy. (ECF No. 53 at 9.)
+
+       A § 1983 conspiracy claim is “a conspiracy to deprive plaintiff of a constitutional
+
+or federally protected right under color of state law.” Dixon v. City of Lawton, 898 F.2d
+
+1443, 1449 n.6 (10th Cir. 1990). “Provided that there is an underlying constitutional
+
+deprivation, the conspiracy claim allows for imputed liability; a plaintiff may be able to
+
+impose liability on one defendant for the actions of another performed in the course of
+
+the conspiracy.” Id. “Conclusory allegations of conspiracy, however, are insufficient to
+
+state a valid § 1983 claim.” Bledsoe v. Carreno, 53 F.4th 589, 609 (10th Cir. 2022).
+
+       To state a § 1983 conspiracy claim, a plaintiff must “allege ‘specific facts showing
+
+an agreement and concerted action among defendants,’—an ‘agreement upon a
+
+
+                                             45
+common, unconstitutional goal,’ and ‘concerted action’ taken ‘to advance that goal.’”
+
+Bledsoe, 53 F.4th at 609 (first quoting Tonkovich, 159 F.3d at 533, then quoting Janny
+
+v. Gamez, 8 F.4th 883, 919 (10th Cir. 2021) (internal citation and quotation marks
+
+omitted)). Nevertheless, “because ‘[d]irect evidence of an agreement to join a . . .
+
+conspiracy is rare, . . . a defendant’s assent can be inferred from acts furthering the
+
+conspiracy’s purpose.” Edmonson, 962 F.2d at 1548 (internal citation and quotation
+
+marks omitted). “An express agreement is consequently unnecessary.” Bledsoe, 53
+
+F.4th at 609. Moreover, while “[t]he participants in the conspiracy must share the
+
+general conspiratorial objective,” “they need not know all the details of the plan
+
+designed to achieve the objective or possess the same motives for desiring the
+
+intended conspiratorial result.” Frasier, 992 F.3d at 1024 (internal citation and quotation
+
+marks omitted).
+
+       Here, Garcia alleges that, “on October 25, 2019, Defendants Martinez and
+
+Rosecrans met with Defendant Hunzeker in order to convince him to change the
+
+manner of death on Ms. Jones’ death certificate from suicide to homicide.” (ECF No. 70
+
+at ¶ 62.) Though he initially refused, the SAC alleges that, less than a month later, he
+
+“filed an amendment with the State of Colorado to change Ms. Jones’ manner of death
+
+on her death certificate from ‘suicide’ to ‘could not be determined,’” “[k]nowing that his
+
+actions would cause Mr. Garcia’s prosecution.” (Id. at ¶ 64.) Garcia alleges that, in this
+
+way, “Defendant Hunzeker acted in concert with Defendant Martinez and Defendant
+
+Rosecrans . . . as part of a broader conspiratorial objective of prosecuting Mr. Garcia
+
+despite there being a lack of evidence, and probable cause, to do so,” (ECF No. 70 at ¶
+
+67), “to appease the rich, powerful, and influential family of Ms. Jones who wished to
+
+
+
+
+                                             46
+see Mr. Garcia prosecuted for her suicide,” (id. at ¶ 69). It bears mention that the SAC
+
+also alleges that members of Jones’ family also directly approached Hunzeker “multiple
+
+times” to similarly demand he change the manner of death on Jones’ death certificate
+
+(id. at ¶¶ 60–61), and that he had certain financial conflicts of interest, including that “he
+
+had been paid by Ms. Jones’ family for Ms. Jones’ funeral services,” (id. at ¶ 61). These
+
+allegations plausibly support Hunzeker’s participation in a conspiracy to prosecute
+
+Garcia in contravention with his Fourth Amendment rights.
+
+       Hunzeker stresses the fact that the FAC alleges he only amended the death
+
+certificate after he “caved” to “intense pressure” from other parties. (ECF No. 33 at 56–
+
+61.) As the Court understands it, Hunzeker believes such allegations are insufficient to
+
+demonstrate a meeting of the minds to deprive Garcia of his rights. (ECF No. 53 at 9–
+
+10.) As the Court noted above, however, Garcia need not allege an “express
+
+agreement” to establish a § 1983 conspiracy. Bledsoe, 53 F.4th at 609. The Court can
+
+infer Hunzeker’s assent “from acts furthering the conspiracy’s purpose”—here,
+
+amending Jones’ death certificate—notwithstanding his earlier resistance to doing so.
+
+Edmonson, 962 F.2d at 1548.
+
+       For these reasons, the Court finds Garcia has plausibly alleged Hunzeker’s
+
+participation in a § 1983 conspiracy.
+
+       2.     Clearly Established Law
+
+       Hunzeker’s argument that Garcia “has not alleged a violation of any clearly
+
+established rights that could give rise to a conspiracy claim” appears to merely be a
+
+repetition of his arguments regarding the sufficiency of Garcia’s allegations. (See ECF
+
+No. 14–15.) In any case, “a § 1983 conspiracy claim for using fabricated or false
+
+evidence was clearly established well before 1999.” Bledsoe,, 53 F.4th at 609 (citing
+
+
+                                             47
+Anthony v. Baker, 767 F.2d 657, 662 (10th Cir. 1985) (recognizing that “state and
+
+federal officers are liable under § 1983 . . . when they conspire to procure groundless
+
+state indictments and charges against a citizen based upon fabricated evidence or
+
+false, distorted, perjurious testimony presented to official bodies in order to maliciously
+
+bring about a citizen’s trial or conviction”).
+
+       Accordingly, Hunzeker’s Motion is also denied to the extent he seeks dismissal of
+
+Garcia’s § 1983 conspiracy claim based on qualified immunity.
+
+                     VI. DEFENDANTS EIKELENBLOOM-SCHIEVELD
+                      AND EIKELENBLOOM’S MOTION TO DISMISS
+
+       Garcia also asserts two claims against Defendants Eikelenbloom-Schieveld and
+
+Eikelenbloom under § 1983 for malicious prosecution and conspiracy. Defendants
+
+Eikelenbloom-Schieveld and Eikelenbloom move to dismiss only the malicious
+
+prosecution claim.
+
+       As a threshold matter, Garcia argues that “[t]he conclusory nature of Defendants
+
+Eikelenbloom and Eikelenbloom-Schieveld’s arguments constitutes an independent and
+
+sufficient basis for this Court to deny their motion to dismiss.” (ECF No. 86 at 2.) His
+
+point is well-taken. Nevertheless, the Court will briefly consider Eikelenbloom and
+
+Eikelenbloom-Schieveld’s arguments below.
+
+A.     Malicious Prosecution
+
+       To reiterate, to establish a malicious prosecution claim, Garcia must show “(1)
+
+the defendant caused the plaintiff’s continued confinement or prosecution; (2) the
+
+original action terminated in favor of the plaintiff; (3) no probable cause supported the
+
+original arrest, continued confinement, or prosecution; (4) the defendant acted with
+
+malice; and (5) the plaintiff sustained damages.” Margheim, 855 F.3d at 1082.
+
+
+
+                                                 48
+Eikelenbloom-Schieveld and Eikelenbloom contend that Garcia has failed to plausibly
+
+allege all but the second element.
+
+       1.     Causation
+
+       The entirety of Eikelenbloom-Schieveld and Eikelenbloom’s argument as to
+
+causation is that
+
+              the Complaint fails to allege that either Selma Eikelenbloom-
+              Schieveld or Richard Eikelenbloom commenced or directed
+              the prior prosecution. Prosecutors and law enforcement
+              officials, not contracted experts, made the independent
+              decision to prosecute. This breaks the causal chain required
+              for liability.
+
+(ECF No. 80 at 2.)
+
+       Contrary to Eikelenbloom-Schieveld and Eikelenbloom’s argument, the Tenth
+
+Circuit has held that a forensic analyst who “provided several false oral and written
+
+reports and withheld exculpatory evidence from the [police department] and the District
+
+Attorney’s Office,” which “became an inseparable basis for the charges against [the §
+
+1983 plaintiff’ and the District Attorney’s decision to proceed to trial,” could not “hide
+
+behind the fact that she neither initiated nor filed the charges against [the § 1983
+
+plaintiff].” Pierce, 359 F.3d at 1292–93. Moreover, though the forensic chemist under
+
+scrutiny in Pierce was employed by a police department, id. at 1281, federal courts have
+
+extended the same rationale to the conduct of forensic experts contracted by the State
+
+to assist with criminal investigations.1 E.g., Davis-Guider, 2019 WL 1101278, at *1, *4
+
+(at dismissal stage, sustaining malicious prosecution claim against defendant “who had
+
+a contract with [the defendant county] to conduct forensic investigations and prepare
+
+autopsy results” where the § 1983 plaintiff alleged the examiner “ignored evidence that
+
+contradicted his findings, omitted key information from his autopsy report, improperly
+
+
+
+                                              49
+documented that V.D.’s cause of death was homicide, and that his report was the only
+
+evidence used to support the decision to prosecute”). 11
+
+       Similar to the allegations in the foregoing authorities, Garcia alleges here that
+
+Eikelenbloom-Schieveld and Eikelenbloom “worked with” Rosecrans and Martinez “to
+
+purposefully produce an unscientific, non-credible autopsy” and “shoddy forensic report”
+
+that they “engineered . . . from the beginning to find that Ms. Jones died by homicide,
+
+despite all objective evidence to the contrary.” (ECF No. 70 at ¶¶ 50–51.) According to
+
+the SAC, that autopsy report was then presented to the prosector to “convince him to
+
+initiate charges against Mr. Garcia.” (Id. at ¶ 50.) The autopsy and forensic report were
+
+also used “in Defendant Martinez’s later affidavit that was submitted by him to the Court
+
+to ensure that Mr. Garcia was prosecuted.” (Id. at ¶ 55.) These allegations plausibly
+
+allege that Eikelenbloom-Schieveld and Eikelenbloom caused Garcia’s criminal
+
+prosecution.
+
+       Nevertheless, Eikelenbloom-Schieveld and Eikelenbloom cite Miller v. Spiers for
+
+the proposition “that expert witnesses retained by law enforcement are not liable for
+
+malicious prosecution because they do not control the decision to prosecute.” 339 F.
+
+App’x 862, 867 (10th Cir. 2009). Indeed, they quote the Tenth Circuit as stating therein
+
+that “the decision to prosecute rests with the prosecutor, not with witnesses or
+
+
+
+       11
+           See also Burke v. Town of Walpole, 405 F.3d 66, 70, 88–93 (1st Cir. 2005) (forensic
+odontologist who worked “as an independent consultant to the [] County District Attorney’s
+Office” could be liable for “render[ing] a bite mark opinion with deliberate falsity or reckless
+disregard for the truth,” though ultimately finding the factual allegations against him were
+insufficient); Moldowan v. City of Warren, 578 F.3d 351, 365, 396–97 (6th Cir. 2009) (affirming
+that “forensic odontologist and consultant” to the county medical examiner’s office and state
+police who offered expert testimony regarding bite marks “may be subject to suit under § 1983
+for deliberately withholding the existence of exculpatory forensic evidence or fabricating forensic
+evidence”).
+
+
+
+                                                50
+consultants.” (ECF No. 80 at 3.) The Court has identified no such quote in Miller. 12
+
+And though the § 1983 plaintiff alleged a forensic scientist “suppl[ied] false information
+
+and omit[ed] critical details about the evidence linking [him] with [a] murder,” 339 F.
+
+App’x at 865, the primary issue was “whether Miller satisfied the favorable termination
+
+element,” id. at 867. The Tenth Circuit did not analyze whether the plaintiff sufficiently
+
+alleged the forensic scientist caused his prosecution. Accordingly, Miller does not
+
+change the Court’s conclusion.
+
+        2.      Lack of Probable Cause
+
+        Eikelenbloom-Schieveld and Eikelenbloom next argue that “Plaintiff does not
+
+allege specific facts showing why probable cause was absent.” (ECF No. 80 at 2.) “On
+
+the contrary,” they continue, “the existence of warrants or charging decisions by
+
+prosecutors confirms that probable cause was found.” (Id. at 2-3.) They contend that,
+
+“[w]ithout factual allegations to rebut that presumption, Plaintiff’s claim cannot proceed.”
+
+(Id.)
+
+        Eikelenbloom-Schieveld and Eikelenbloom misstate the pertinent inquiry. “In the
+
+case of a Fourth Amendment claim of falsified evidence, the existence of probable
+
+cause is determined by setting aside the false information and reviewing the remaining
+
+contents of the affidavit.” Pierce, 359 F.3d at 1293. Put differently, the plaintiff
+
+asserting malicious prosecution must show that the defendant’s “falsification of
+
+inculpatory evidence or suppression of exculpatory evidence was necessary to the
+
+finding of probable cause: that without the falsified inculpatory evidence, or with the
+
+
+         This quotation of non-existent language leaves the Court highly suspicious that
+        12
+
+counsel’s citation to Miller is a product of the un-verified work of generative artificial intelligence.
+The Court will separately enter an order to show cause on this matter.
+
+
+
+                                                  51
+withheld exculpatory evidence, there would have been no probable cause for his
+
+continued confinement or prosecution.” Id. at 1295.
+
+      Accordingly, here, where it is alleged that the warrant for Garcia’s arrest and
+
+decision to charge him for homicide were predicated in significant part on Eikelenbloom-
+
+Schieveld and Eikelenbloom’s fabricated autopsy and crime scene recreation reports,
+
+Garcia’s malicious prosecution claim is subject to dismissal only if probable cause
+
+existed to arrest and prosecute Garcia for homicide regardless of their expert reports.
+
+Consistent therewith, Garcia repeatedly alleges that, absent the fabricated expert
+
+reports and amended death certificate, no probable cause supported his arrest and
+
+prosecution for homicide. (ECF No. 70 at ¶¶ 67, 69, 73, 74, 77, 80, 86.) Eikelenbloom
+
+and Eikelenbloom-Schieveld have not even endeavored to argue otherwise.
+
+      3.      Malice
+
+      Eikelenbloom-Schieveld and Eikelenbloom next contend that Garcia has failed to
+
+plausibly allege malice. The entirety of their argument consists of the following
+
+discussion:
+
+              Malice cannot be inferred from bare legal conclusions. The
+              Complaint alleges only that Selma Eikelenbloom-Schieveld
+              and Richard Eikelenbloom acted with ‘malice,’ without
+              factual support. Under Iqbal and Twombly, such conclusory
+              allegations are insufficient to state a claim.
+
+(ECF No. 80 at 3.)
+
+      “Malice may be inferred if a defendant causes the prosecution without arguable
+
+probable cause.” Stonecipher, 759 F.3d at 1146. As discussed above, Garcia has
+
+plausibly alleged that Eikelenbloom-Schieveld and Eikelenbloom caused his
+
+prosecution by purposefully fabricating the autopsy and forensic reports, and there was
+
+otherwise no probable cause for his arrest and prosecution. The Court can thus infer
+
+
+                                            52
+from the allegations in the SAC that Eikelenbloom-Schieveld and Eikelenbloom acted
+
+with malice.
+
+       4.      Damages
+
+       Eikelenbloom-Schieveld and Eikelenbloom next contend that
+
+               Plaintiff broadly claims emotional distress and reputational
+               harm but does not tie those alleged damages to any specific
+               acts by Selma Eikelenbloom-Schieveld or Richard
+               Eikelenbloom. Because Defendants were not decision-
+               makers and acted only in a limited consulting role, causation
+               of Plaintiff’s alleged injuries cannot be established.
+
+(ECF No. 80 at 4.) Garcia notably has not specifically responded to Eikelenbloom-
+
+Schieveld and Eikelenbloom’s argument as to damages. But, the Court notes in any
+
+case that Eikelenbloom-Schieveld and Eikelenbloom’s argument as to lack of damages
+
+appears to be a repetition of their arguments as to lack of causation, which the Court
+
+has already addressed. Cf. Pierce, 359 F.3d at 1297 (rejecting forensic analyst’s
+
+arguments “on the requirement of damages” to the extent they were “based on a factual
+
+denial that she did anything wrong, . . . or a repetition of her argument regarding
+
+probable cause, which has already been addressed”).
+
+B.     Absolute Testimonial Immunity
+
+       Eikelenbloom-Schieveld and Eikelenbloom also suggest that, as witnesses, they
+
+are absolutely immune from liability for malicious prosecution. (ECF No. 80 at 3.) Much
+
+of their argument on this subject again appears directed to the issue of causation, which
+
+the Court has already addressed. However, Eikelenbloom-Schieveld and Eikelenbloom
+
+briefly cite Rehberg v. Paulk, 566 U.S. 356 (2012), for the proposition “that witnesses
+
+testifying in criminal proceedings are absolutely immune from suit for their testimony
+
+and related preparatory work.” (Id.)
+
+
+
+                                            53
+       “Witnesses, ‘including public officials and private citizens,’ are entitled to absolute
+
+testimonial immunity from civil suits for damages based upon their testimony.”
+
+Berryman v. Niceta, 143 F.4th 1134, 1143 (10th Cir. 2025) (quoting Snell v. Tunnell,
+
+920 F.2d 673, 686 (10th Cir. 1990)). “The Supreme Court has defined this immunity
+
+broadly, explaining that ‘a trial witness has absolute immunity with respect to any claim
+
+based on the witness’ testimony.’” Montoya v. Vigil, 898 F.3d 1056, 1069 (10th Cir.
+
+2018) (quoting Rehberg, 566 U.S. at 367). Thus, “when absolute testimonial immunity
+
+attaches, it bars all claims based on the witness’s testimony—even if it is perjurious.”
+
+Berryman, 143 F.4th at 1143 (emphasis in original).
+
+       “[A]s broad as Rehberg’s language was,” however, “the Supreme Court
+
+disclaimed any approach that would allow absolute testimonial immunity too broad a
+
+reach: ‘we do not suggest,’ the Court there said, ‘that absolute immunity extends to all
+
+activity that a witness conducts outside of [trial].’” Montoya, 898 F.3d at 1069–70
+
+(quoting Rehberg, 566 U.S. at 370 n.1). Rather, “[i]n applying absolute testimonial
+
+immunity for witnesses, ‘[t]he central focus . . . has been the nature of the judicial
+
+proceeding itself’ and the function of the testifying witness, rather than the witness’s
+
+identity or status.” Berryman, 143 F.4th at 1143 (quoting Briscoe v. LaHue, 460 U.S.
+
+325, 334 (1983)). “The more distant a [defendant’s] function is from the judicial
+
+process, the less likely absolute immunity will attach.” Snell, 920 F.2d at 687.
+
+       In Rehberg, the Supreme Court noted that “law enforcement officials who falsify
+
+affidavits, . . . and fabricate evidence concerning an unsolved crime” are accorded only
+
+qualified immunity. 566 U.S. at 370 n.1 (internal citations omitted). Eikelenbloom-
+
+Schieveld and Eikelenbloom have not developed any argument tending to support the
+
+
+
+
+                                             54
+proposition that forensic experts who fabricate autopsy and crime scene recreation
+
+reports during the investigation of a crime—that basis of Garcia’s crimes against them—
+
+should be viewed differently. See Burns v. Reed, 500 U.S. 478, 486 (1991) (“[T]he
+
+official seeking absolute immunity bears the burden of showing that such immunity is
+
+justified for the function in question.”). Accordingly, the Court declines to extend
+
+absolute witness immunity to Eikelenbloom-Schieveld and Eikelenbloom at this stage.
+
+                                    VII. CONCLUSION
+
+       For all the reasons set forth above, the Court ORDERS as follows:
+
+       1.     Defendants City of Monte Vista, John Rosecrans, and Michael Martinez’s
+
+Partial Motion to Dismiss (ECF No. 45) is GRANTED IN PART and DENIED IN PART
+
+as follows:
+
+              a.     Garcia’s Monell claim against the City is DISMISSED WITHOUT
+
+              PREJUDICE to the extent it is based on an alleged informal custom
+
+              amounting to a widespread practice, or a final policymaker’s alleged
+
+              ratification of the contents of the arrest affidavit authored by Martinez;
+
+              b.     Garcia’s Monell claim against the City is DISMISSED WITH
+
+              PREJUDICE to the extent it is based on an alleged failure to train or
+
+              supervise;
+
+              c.     The Monte Vista Defendants’ Partial Motion to Dismiss (ECF No.
+
+              45) is DENIED in all other respects.
+
+       2.     Defendant Robert Willet’s Motion to Dismiss (ECF No. 51) is GRANTED
+
+and the malicious prosecution and conspiracy claims asserted against him in the SAC
+
+are DISMISSED WITHOUT PREJUDICE;
+
+
+
+
+                                             55
+      3.     Defendant Stephen Hunzeker’s Motion to Dismiss (ECF No. 53) is
+
+DENIED; and
+
+      4.     Defendants Selma Eikelenboom-Schieveld and Richard Eikelenboom’s
+
+Motion to Dismiss (ECF No. 80) is DENIED.
+
+      5.     To the extent Plaintiff believes he has a good faith, factual basis to do so,
+
+he is GRANTED leave to file a further, and FINAL, amended complaint by no later than
+
+June 30, 2026. Any amended allegations in such further amended complaint shall be
+
+strictly limited ONLY to those claims the Court in this Order is dismissing WITHOUT
+
+PREJUDICE.
+
+
+      Dated this 29th day of May, 2026.
+
+                                                BY THE COURT:
+
+
+
+                                                ______________________
+                                                William J. Martinez
+                                                Senior United States District Judge
+
+
+
+
+                                           56
+

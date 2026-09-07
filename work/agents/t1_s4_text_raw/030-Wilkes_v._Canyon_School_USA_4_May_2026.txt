@@ -1,0 +1,158 @@
+IN THE UNITED STATES DISTRICT COURT
+DISTRICT OF UTAH, CENTRAL DIVISION
+REGAN WILKES, et al.,
+Plaintiffs,
+v.
+CANYONS SCHOOL DISTRICT, et al.,
+Defendants.
+MEMORANDUM DECISION AND ORDER
+GRANTING DEFENDANTS’ MOTION TO
+PARTIALLY DISMISS PLAINTIFFS’
+SECOND CAUSE OF ACTION AND
+ORDER IMPOSING SANCTIONS
+Case No. 2:25-cv-00218-CMR
+Chief Magistrate Judge Cecilia M. Romero
+This matter came before the court due to the various citations to non-existent case law as
+identified in Defendants’ Motion to Dismiss (ECF 30). Specifically, as identified by Defendants
+in the Motion to Dismiss, the Amended Complaint relies on non-existent case law to support the
+Second and Sixth Causes of Action (id. ¶¶ 426–441, 535–536). In the court’s March 17, 2026,
+Memorandum and Decision Granting in Part Defendants’ Motion to Dismiss (March 2026 Order),
+the court reserved ruling on the Second and Sixth Causes of Action and instead set an Order to
+Show Cause hearing to address the non-existent case law, as well as possible sanctions (ECF 38).
+On April 14, 2026, the court held the Order to Show Cause Hearing; counsel for Plaintiffs, Tyler
+Ares and Amy Martz, and counsel for Defendants were present (ECF 42). After consideration of
+all the arguments, the court rules as follows:
+I. Rule 11 Violation and Sanction.
+During the April 14, 2026, Order to Show Cause Hearing, the court heard from Plaintiffs’
+counsel regarding the use of non-existent case law. While Plaintiffs’ counsel admitted that
+Artificial Intelligence(AI)was used, theyassertedthat it was onlyusedtopolish/refinetheoriginal
+writing of the attorneys. They claimed that their original writing included the correct/real case
+names, but that when the writing was put into the AI software to polish the writing, it must have,
+Case 2:25-cv-00218-CMR Document 45 Filed 05/04/26 PageID.849 Page 1 of 62
+forreasons unknown to counsel, distortedthecases.Insupport,Plaintiffs filedaResponsetoOrder
+to Show Cause (Supplement) (ECF 41) in which they cited the “correct” cases that were allegedly
+intended to be included prior to any AI distortion.
+Defendants, during the hearing, asserted that they were wary of Plaintiffs’ explanation,
+given that the holdings of the “correct” cases were not the holdings that were cited to in the
+Amended Complaint, and likewise were not cited in Plaintiffs’ Opposition to the Motion to
+Dismiss. Defendants requested that the court, at a minimum, award attorney fees incurred due to
+theuseofnon-existentcaselaw. Further,Defendantsrequestedthatthecourt impose,as asanction,
+a dismissal of the entire Amended Complaint; or, in the alternative, grant partial or full dismissal
+of the Second Cause of Action as a sanction1
+as requested by Defendants in their Motion to
+Dismiss.
+The court ordered the parties to meet and confer to determine whether they could stipulate
+to a monetary amount that Plaintiffs would pay Defendants for the attorney fees incurred. The
+parties have met and conferred and stipulated that Plaintiffs will pay Defendants $7,000 (ECF 43).
+Rule 11(b) provides, in relevant part, that by presenting any pleading, motion, or other
+paper to the court, “an attorney . . . certifies that to thebest ofthe person’s knowledge,information,
+and belief, formed after an inquiry reasonable under the circumstances . . . the claims, defenses,
+and other legal contentions are warranted by existing law.” Fed. R. Civ. P. 11(b). This professional
+responsibility is nondelegable. Pavelic & LeFlore v. Marvel Ent. Grp., 493 U.S. 120, 126 (1989);
+Fed. R. Civ. P. 11 advisory committee’s note to 1993 amendment (“The person signing, filing,
+submitting, or advocating a document has a nondelegable responsibility to the court, and in most
+situations is the person to be sanctioned for a violation.”). “If, after notice and a reasonable
+1
+Defendants initially asked for dismissal of both the Second and Sixth causes of action, however, at the hearing
+Plaintiffs agreed to voluntarily dismiss the Sixth Cause of Action (ECF 42). That claim has hence been dismissed.
+Case 2:25-cv-00218-CMR Document 45 Filed 05/04/26 PageID.850 Page 2 of 63
+opportunity to respond, the court determines that Rule 11(b) has been violated, the court may
+impose an appropriate sanction on any attorney, law firm, or party that violated the rule or is
+responsible for the violation.” Fed. R. Civ. P. 11(c)(1). Rule 11(c) further provides that “[a]
+sanction imposed under this rule must be limited to what suffices to deter repetition of the conduct
+or comparable conduct by others similarly situated.” Id. 11(c)(4).
+The Tenth Circuit recently ruled that relying on non-existent cases or citing actual cases
+that do not support the asserted propositions is sufficient grounds to dismiss an appeal before the
+Tenth Circuit. Sifuentes v. Capital One, No. 25-4123, 2026 WL 322610, at *2 (10th Cir. Feb. 6,
+2026). Sifuentes highlights the seriousness of using non-existent cases and that such use is
+sufficient to dismiss the entire case, not just the claims which the non-existent case purports to
+support.2
+Furthermore, this is not the first time that Plaintiffs’ counsel has been admonished by
+this court for the improper use of AI (see Order to Show Cause (ECF 54), Moulder v. Davis School
+District, No. 1:25-cv-00052-TS-CMR (D. Utah Jan. 28, 2026)). Although Plaintiffs’ counsel
+provided an explanation for the non-existent case law, the court is skeptical of Plaintiffs’
+explanation for the reasons articulated by Defendants.
+The court finds that Plaintiffs’ counsel, Tyler Ares and Amy Martz, violated their
+professional responsibilities under Rule 11(b) by failing to reasonably verify the existence and
+accuracy of the non-existent cases and case law cited within Plaintiffs’ Amended Complaint.
+Accordingly, the court will impose sanctions pursuant to Rule 11(c)(1).
+In light of the parties’ stipulation, the court hereby ORDERS Plaintiffs’ counsel to pay
+Defendants’ $7,000 to reimburse Defendants’ legal expenses incurred as a result of the use of non-
+2
+See also Moore v. City of Del City, No. 25-6002, 2025 WL 3471341, at *2–3 (10th Cir. Dec. 3, 2025); Amarsingh v.
+Frontier Airlines, Inc., No. 24-1391, 2026 WL 352016, at *5–8 (10th Cir. Feb. 9, 2026) (ECF 37 at 2). Both cases
+support the seriousness of using non-existent cases and holdings and the sanctions that can result from such actions.
+Case 2:25-cv-00218-CMR Document 45 Filed 05/04/26 PageID.851 Page 3 of 64
+existent case law. The court also notes in the Moulder case cited above, Plaintiffs’ counsel has
+been ordered to successfully complete two (2) continuing legal education (CLE) courses relating
+to AI ethics and professional responsibility within the legal profession. Because Plaintiffs’ counsel
+already has an outstanding requirement to attend two CLE courses relating to AI, the court
+determines that a monetary sanction of $7,000 is sufficient to deter repetition of the conduct or
+comparable conduct by others similarly situated. Accordingly, the court denies Defendants’
+request that the court, as a sanction, dismiss theAmendedComplaint or,inthealternative,partially
+or fully dismiss the Second Cause of Action.
+II. Partial Dismissal of the Second Cause of Action.
+Although the court declines full or partial dismissal of Plaintiffs’ Second Cause of Action
+as a sanction, the court herein issues its ruling on the scope of the Second Cause of Action as
+requested in Defendants’ Partial Motion to Dismiss (ECF 30). For the following reasons, the court
+GRANTS Defendants’ request to partially dismiss the Second Cause of Action as articulated in
+Defendants’ Partial Motion to Dismiss (ECF 30).
+Plaintiffs’ Second Cause of Action asserts violations of the Individuals with Disabilities
+Education Act, 20 U.S.C. § 1400 et seq. (IDEA) (ECF 38 ¶¶ 290–443). As indicated in the March
+2026 Order, the court took the Second Cause of Action under advisement (ECF 38), and in doing
+so explained that IDEA provides that a due process complaint “must allege a violation that
+occurred not more than two years before the date the parent or public agency knew or should have
+known about the alleged action that forms the basis of the due process complaint.” 34 C.F.R. §
+300.507(a)(2). This two-year limitation period is the statute of limitations on IDEA claims. See
+Alex W. v. Poudre Sch. Dist. R-1, 94 F.4th 1176, 1184 (10th Cir. 2024). The two-year limitation
+period may be tolled under certain circumstances. 20 U.S.C. § 1415(f)(3)(D). These circumstances
+Case 2:25-cv-00218-CMR Document 45 Filed 05/04/26 PageID.852 Page 4 of 65
+include when a “parent was prevented from requesting [a] hearing due to––(i) specific
+misrepresentations by the local educational agency that it had resolved the problem forming the
+basis of the complaint; or (ii) the local educational agency’s withholding of information from the
+parent that was required under this subchapter to be provided to the parent.” Id.
+Defendants seek a partial dismissal of Plaintiffs’ IDEA claim, asserting that it should be
+“limited to violations that occurred not more than two years before October 16, 2024,” the date on
+which Plaintiffs filed their Due Process Complaint (ECF 30 at 12–14). The Amended Complaint
+asserts that “Courts differ on whether the two-year period starts from the date of the alleged
+violation, the date the parent knew or should have known about the violation, or some other event”
+(Am. Compl. ¶ 427). However, the cases cited by Plaintiffs in support of various interpretations
+and applications of the statute of limitations do not exist.3
+Plaintiffs had an opportunity to address this issue in their Opposition to the Partial Motion
+to Dismiss, but they failed to do so (see ECF 32). Instead of addressing the issue in their
+Opposition, Plaintiffs filed the Supplement (ECF 41), in which they argue that the cases do exist,
+and that AI merely distorted them (see id.). The court declines to consider the Supplement, finding
+that a consideration of the Supplement essentially grants Plaintiffs another bite at the apple. As
+articulated by Defendants during the hearing, the holdings of the “real/actual” cases identified in
+the Supplement are not the holdings relied upon in the Amended Complaint. As such, the
+Supplement, by providing new case law not included in the Amended Complaint, is an attempt to
+amend a complaint. This court has held that it is improper to amend a complaint through a brief in
+opposition to a motion to dismiss. See Ayres v. Portfolio Recovery Associates, LLC, No. 2:17-CV-
+3
+The non-existent cases are: “9th Circuit (in F.C. v. Capistrano Unified School District)” (Am. Compl. ¶¶ 428, 432);
+“4th Circuit in A.D. v. Puyallup School District No. 3, 2015” (id. ¶ 430); and “6th Circuit in A.S. v. Norwalk Public
+Schools (2017)” (id. ¶ 436).
+Case 2:25-cv-00218-CMR Document 45 Filed 05/04/26 PageID.853 Page 5 of 66
+01088-DN, 2018 WL 6706021, at *1 (D. Utah Dec. 20, 2018) (finding that a party “cannot amend
+[its] complaint through a brief in opposition to [a] motion to dismiss.”) (citing Huls v. Llabona,
+437 F. App’x 830, 832 n.5 (11th Cir. 2011)). Under this same reasoning, the court declines to
+consider the Supplement as it is an impermissible attempt to amend the complaint. Therefore, the
+court finds that the Amended Complaint, as written, does not sufficiently plead a claim that the
+statute of limitations should be given any alternative interpretations or application.
+In addition to arguing for an alternate interpretation of the statute of limitations, Plaintiffs’
+Opposition clarifies that they are also asserting that certain “misrepresentations” tolled the statute
+of limitations pursuant to 20 U.S.C. § 1415(f)(3)(D) (ECF 32 at 7–8). In support, Plaintiffs cite
+various alleged misrepresentations referred to in the Amended Complaint (id. (citing Am. Compl.
+¶¶ 59, 60, 313, 318)). Defendants assert that this claim is insufficiently pled because the Amended
+Complaint fails to plead that “the parent was prevented from requesting the hearing due to [the
+specific misrepresentation(s)]” (ECF 34 at 6 (quoting 20 U.S.C. § 1415)). The court agrees with
+Defendants and finds that the Amended Complaint does not adequately plead that the alleged
+misrepresentations prevented Plaintiffs from seeking a hearing earlier.
+Accordingly, the court GRANTS Defendants’ Motion for Partial Dismissal (ECF 30)
+without prejudice, and ORDERS that Plaintiffs’ Second Cause of Action for violations of IDEA
+be “limited to violations that occurred not more than two years before October 16, 2024,” the date
+on which Plaintiffs filed their Due Process Complaint (see id. at 12–14).
+DATED this 4 May 2026.
+Magistrate Judge Cecilia M. Romero
+United States District Court for the District of Utah
+Case 2:25-cv-00218-CMR Document 45 Filed 05/04/26 PageID.854 Page 6 of 6

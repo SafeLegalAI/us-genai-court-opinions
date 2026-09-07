@@ -1,0 +1,168 @@
+In re: Telexfree Securities Litigation, Slip Copy (2026)
+
+
+                                                                    after which plaintiff Anthony Cellucci became the lead
+                    2026 WL 412550                                  plaintiff of the putative class.[ ] Despite Dos Santos being
+      Only the Westlaw citation is currently available.             dismissed as a named plaintiff in the class action, the
+      United States District Court, D. Massachusetts.               Arizona Action remain[ed] pending ....
+
+                                                                    Dos Santos’ individual claims allege[d] that defendants
+            In re: Telexfree Securities Litigation
+                                                                    aided and abetted the TelexFree Ponzi scheme by
+            MDL Action No. 4:14-md-2566-NMG                         facilitating credit card transactions that sustained the
+                            |                                       scheme and caused injury when the scheme collapsed.
+                    Filed 02/13/2026                                She [brought] statutory claims under M.G.L. c. 93,
+                                                                    §§ 12 and 69, c. 93A, §§ 2 and 11, and c. 110a,
+Editor's Note: This decision contains discussion of citation        § 410b, as well as common-law claims for unjust
+references that are incorrect or do not actually exist. These       enrichment, civil conspiracy professional negligence,
+invalid citations appeared in the original court opinion and        negligent misrepresentation, fraud and tortious aiding and
+have been preserved as written since they are part of the           abetting.
+official record. Any links to these invalid citations have been
+removed.                                                          Docket No. 2292.
+
+                                                                  The Sparman defendants moved for summary judgment with
+                                                                  respect to Dos Santos’ claims in June, 2025, and Dos Santos
+                                                                  filed no opposition. The Court allowed the motion in October,
+              MEMORANDUM & ORDER
+                                                                  2025.
+Nathaniel M. Gorton Senior United States District Judge
+
+ *1 Before the Court is the Motion of defendants                  II. Motion for Attorneys’ Fees
+Vantage Payments, LLC, and Dustin Sparman (collectively,
+                                                                     A. Legal Standard
+“defendants”) for Attorneys’ Fees and Costs (Docket No.
+                                                                  Defendants bring this motion under Fed.R.Civ.P 54(d), which
+2296). Defendants seek attorneys’ fees from plaintiff Rita Dos
+                                                                  outlines the procedure by which parties may request costs and
+Santos (“plaintiff” or “Dos Santos”) as well as from her past
+                                                                  attorneys’ fees incurred in connection with their cases. Rule
+and present counsel. Because the Court finds that defendants
+                                                                  54(d)(1) creates a presumption of awarding costs in favor of
+have not shown the prerequisite misconduct on the part of
+                                                                  the prevailing party, and Rule 54(d)(2) requires that a claim
+plaintiff, the motion will be denied.
+                                                                  for attorneys’ fees be made by motion. Under the “American
+                                                                  Rule,” attorneys’ fees are not recoverable unless authorized
+I. Background                                                     by statute or contract, but courts possess inherent equitable
+Plaintiff's claims against the Sparman defendants are part        power to award fees against a party that has acted in bad faith,
+of the TelexFree Securities multi-district litigation (“the       vexatiously, wantonly or for oppressive reasons. Mullane v.
+TelexFree MDL”). That MDL arises from a hybrid Ponzi-             Chambers, 333 F.3d 322, 337-38 (1st Cir. 2003). A court may
+pyramid scheme operated by TelexFree, LLC, TelexFree, Inc.        award such fees only insofar as they were incurred as a result
+and TelexFree Financial, Inc. (collectively, “TelexFree”). The    of the misconduct. Goodyear Tire & Rubber Co. v. Haeger,
+Court explained plaintiff's involvement in the TelexFree MDL      581 U.S. 101, 103-04 (2017).
+in its Order dated October 30, 2025:
+                                                                   *2 Defendants also cite the Private Securities Litigation
+  Dos Santos originally brought her claims in the District        Reform Act (PSLRA) as a basis for awarding fees pursuant
+  of Arizona (“the Arizona Action”). See Dos Santos v.            to Fed.R.Civ.P. 11(b). The PSLRA requires that, at the
+  Telexelectric LLLP, No. 4:15-md-13614-NMG. When                 conclusion of an action brought under one of its provisions,
+  her case was transferred into the TelexFree MDL, Dos            the court conduct an independent review under Rule 11(b). 15
+  Santos became, and remained, a lead plaintiff in every          U.S.C. § 78u-4(c)(1). Rule 11(b) provides that, in presenting
+  consolidated complaint filed in the MDL. In July, 2023,         a pleading or other paper to the court, an attorney certifies that
+  Dos Santos moved voluntarily to dismiss herself as a            1) it is not being presented for any improper purpose, 2) the
+  named plaintiff in the consolidated class action complaint,
+
+
+               © 2026 Thomson Reuters. No claim to original U.S. Government Works.                                               1
+In re: Telexfree Securities Litigation, Slip Copy (2026)
+
+
+claims are warranted by a nonfrivolous legal argument and 3)       Univ. of Maine Sys., 944 F. Supp. 44, 51 (D. Me. 1996). Here,
+the factual contentions have evidentiary support. A motion for     the Court entered summary judgment against plaintiff based
+sanctions under Rule 11 must be served upon the offending          largely upon her failure to oppose the motion and without
+party at least 21 days prior to its filing in court. Fed.R.Civ.P   the benefit of an adversarial presentation. Judgment in that
+11(c)(2).                                                          context does not establish that any opposition to the motion
+                                                                   is frivolous ab initio.
+
+  B. Application                                                   Defendants’ contention that plaintiff's PSLRA certification
+                                                                   was filed for an improper purpose is similarly suspect. In that
+                           i. Costs                                certification, Dos Santos claims that she invested $350,000
+                                                                   in the TelexFree scheme and ultimately became a “net loser.”
+As the prevailing parties, defendants are entitled to reasonable   Defendants assert that an internal TelexFree recordkeeping
+costs associated with defending this action. Fed.R.Civ.P.          system does not support that allegation. As plaintiff argues,
+54(d)(1). Defendants are directed therefore to submit to the       however, not all transactions within the TelexFree scheme
+Court a bill of costs pursuant to 28 U.S.C. § 1920. Plaintiff      were logged in the same way, and some of plaintiff's deposits
+may then file a Motion to Review Costs Taxed within 10 days        may have been recorded elsewhere. The record is insufficient
+of that submission. Caruso v. Delta Air Lines, Inc., 616 F.        to establish that the certification and associated briefings were
+Supp. 3d 132, 135 n.1 (D. Mass. 2022). The motion, with            filed in violation of Rule 11. The motion, with respect to
+respect to costs, is therefore held in abeyance.                   attorneys’ fees, will therefore be denied.
+
+
+                                                                   III. Material Misrepresentations in Plaintiff's Pleadings
+                      i. Attorneys’ Fees                            *3 While the Court declines to award attorneys’ fees to
+                                                                   defendants based upon the theories presented herein, it is
+Defendants claim that plaintiffs should pay their attorneys’
+                                                                   nevertheless disconcerted by plaintiff's pleadings associated
+fees in this case based upon purported Rule 11 violations. As
+                                                                   with this motion. It appears that most of the citations proffered
+an initial matter, defendants assert that, because this motion
+                                                                   by plaintiff are erroneous. Those errors include: 1) misquoting
+is filed pursuant to Fed.R.Civ.P 53(d)(2) and the PSLRA,
+                                                                   cases that otherwise relate to plaintiff's position (e.g., citations
+they were not required to follow the service requirements
+                                                                   to Jensen v. Phillips Screw Co., 546 F.3d 59 (1st Cir. 2008)
+of Rule 11. The Court is skeptical of that proposition but,
+                                                                   and CQ Int'l Co. v. Rochem Int'l, Inc., 659 F.3d 53 (1st Cir.
+nevertheless, will consider the arguments as presented.
+                                                                   2011)), 2) misquoting cases that exist but are inapposite to the
+                                                                   issues at hand (e.g., citations to Rivera v. Centro Medico de
+At its core, defendants’ motion contends that an award
+                                                                   Turabo, 575 F.3d 10 (1st Cir. 2009) and Gagliardi v. Sullivan,
+of attorneys’ fees is appropriate because plaintiff's counsel
+                                                                   513 F.3d 301 (1st Cir. 2008)) and 3) citations to cases that do
+(both past and present) submitted pleadings and proffered
+                                                                   not exist at all (e.g., a citation to Raymond v. U.S., 207 F.3d
+arguments which they knew to be false. Namely, defendants
+                                                                   1020 (9th Cir. 2000)). This is only a small sample of such
+argue that (1) plaintiff's PSLRA certification (Docket No.
+                                                                   errors presented in plaintiff's pleadings.
+48) and associated briefing was submitted for the improper
+purpose of securing Attorney Bonsignore's status as lead
+                                                                   Furthermore, this is not the first time that Attorney
+counsel and (2) any evidence supporting Dos Santos’ claims
+                                                                   Passatempo has misrepresented the law to this Court, and
+is so obviously absent from the record that her attorneys must
+                                                                   such misrepresentations bear the clear hallmark of artificial
+have known that her claims were frivolous.
+                                                                   intelligence hallucinations. 1 Wadsworth v. Walmart Inc.,
+The record is not, however, as deficient as defendants suggest.    348 F.R.D. 489, 493 (D. Wyo. 2025) (“A hallucination
+First, defendants point to the Court's entry of summary            occurs when an AI database generates fake sources of
+judgment against plaintiff (Docket No. 2292) as support            information.”). Plaintiff's counsel should be prepared to
+for the argument that her claims were baseless from the            address these misrepresentations at the status conference
+outset. A ruling of summary judgment does not, however,            scheduled for February 19, 2026, and to show cause why the
+automatically render the losing claims so frivolous as to          Court should not impose sanctions and/or refer the matter to
+entitle the prevailing party to attorneys’ fees. See Nelson v.     the Massachusetts Board of Bar Overseers.
+
+
+
+                © 2026 Thomson Reuters. No claim to original U.S. Government Works.                                                 2
+In re: Telexfree Securities Litigation, Slip Copy (2026)
+
+
+
+
+                                                                   So ordered.
+
+                         ORDER
+                                                                   All Citations
+For the forgoing reasons, the Motion for Attorneys’ Fees and
+Costs (Docket No. 2296) is, with respect to costs, held in         Slip Copy, 2026 WL 412550
+abeyance, but with respect to attorneys’ fees, DENIED.
+
+
+
+
+                                                       Footnotes
+
+
+1      See Docket Nos. 2305 and 2306, in which plaintiff was suspected of supplying, and later attempting to correct,
+       nonexistent caselaw in its pleadings.
+
+
+
+End of Document                                                © 2026 Thomson Reuters. No claim to original U.S. Government Works.
+
+
+
+
+               © 2026 Thomson Reuters. No claim to original U.S. Government Works.                                              3
+

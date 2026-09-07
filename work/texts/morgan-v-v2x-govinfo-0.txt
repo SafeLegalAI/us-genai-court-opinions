@@ -1,0 +1,821 @@
+Case No. 1:25-cv-01991-SKC-MDB              Document 65       filed 03/30/26     USDC Colorado
+                                            pg 1 of 16
+
+
+
+
+                        IN THE UNITED STATES DISTRICT COURT
+                            FOR THE DISTRICT OF COLORADO
+                        Magistrate Judge Maritza Dominguez Braswell
+
+Civil Action No. 25–cv–01991–SKC–MDB
+
+
+ARCHIE MORGAN,
+
+       Plaintiff,
+
+v.
+
+V2X, Inc.,
+
+       Defendant.
+
+
+                                             ORDER
+
+
+       Before the Court is Defendant’s Motion to Amend the Stipulated Protective Order,
+
+seeking to add language that specifically addresses the use of modern artificial intelligence tools
+
+(“AI”), and asking the Court to compel disclosure of Plaintiff’s AI. ([“Motion”], Doc. No. 52).
+
+Plaintiff opposes, in part. (Doc. Nos. 58, 59.) Defendant has replied. (Doc. No. 60.) After
+
+considering the Motion, applicable law, and facts and circumstances of this case, the Motion is
+
+GRANTED, in part.
+
+                            SUMMARY FOR PRO SE PLAINTIFF
+
+       The Court is granting Defendant’s Motion, in part. Federal Rule of Civil Procedure
+
+26(b)(3) can protect your mental impressions and litigation preparation materials, but you must
+
+disclose the name of any AI tool you used in connection with Confidential Information. This is
+
+because you have not demonstrated that identifying the tool itself will reveal your mental
+
+impressions or legal strategy, and Defendant needs that information to assess whether
+Case No. 1:25-cv-01991-SKC-MDB              Document 65        filed 03/30/26      USDC Colorado
+                                            pg 2 of 16
+
+
+
+
+Confidential Information was compromised. The Court is also amending the Protective Order to
+
+address AI use. The practical effect is that you may not upload, input, or submit Confidential
+
+Information into any mainstream AI tool like standard ChatGPT, Claude, Gemini, or similar
+
+platforms.
+
+                                         BACKGROUND
+
+       This is an employment discrimination case where Plaintiff, a self-described “qualified
+
+Black American manager,” claims he was subjected to a hostile work environment and
+
+eventually “terminated based on his race and national origin and in retaliation for protected
+
+activities, including opposing sexual harassment and engaging in protected whistleblowing
+
+activity.” (Doc. No. 35 at 2-3.)
+
+       Defendant says Plaintiff was discharged for “legitimate and non-discriminatory, non-
+
+retaliatory reasons,” after “a workplace complaint was lodged against [Plaintiff],” and Defendant
+
+“conducted a thorough investigation, including interviewing and/or taking the statements of more
+
+than 30 witnesses.” (Id. at 3-4.)
+
+The Dispute
+
+       Defendant brought the instant Motion shortly after Plaintiff moved to compel an
+
+insurance policy. ([“Plaintiff’s MTC”], Doc. No. 48.) Plaintiff’s MTC claimed that Defendant
+
+was refusing to produce a copy of the insurance policy, as “leverage to force Plaintiff’s consent
+
+to a modified Protective Order.” (Doc. No. 48 at 2.) Specifically, Plaintiff claimed that
+
+Defendant sought disclosure of Plaintiff’s AI tool, and restrictions on Plaintiff’s AI use, before it
+
+would provide the insurance policy to Plaintiff. (Id.) Plaintiff characterized this as “holding a
+
+four-month overdue disclosure ‘hostage’ to force an amendment to a Protective Order,” in a way
+
+
+                                                  2
+Case No. 1:25-cv-01991-SKC-MDB              Document 65        filed 03/30/26     USDC Colorado
+                                            pg 3 of 16
+
+
+
+
+that “creates an unfair ‘technological gap’ by barring a pro se litigant from using modern
+
+analytical aids while Defendant’s firm maintains its own proprietary AI and cloud-based
+
+systems.” (Id. at 3.)
+
+        The Court struck Plaintiff’s MTC for failure to follow the Court’s discovery dispute
+
+procedures but set a discovery hearing to address Plaintiff’s concerns. (Doc. No. 51.) However,
+
+the morning of the discovery hearing, Defendant’s counsel emailed Chambers saying:
+
+        I am writing on behalf of Defendant, V2X, Inc. (“V2X”), with regarding to
+        the discovery conference set in the above-referenced case for 12:00 p.m.
+        MT today, March 3, 2026, in connection with Plaintiff Archie Morgan’s
+        motion to compel. See ECF Nos. 48, 51. Mr. Morgan is cc’ed on this
+        correspondence and agrees to the relief requested herein.
+
+        Per the Court’s direction, the parties meaningfully conferred via
+        videoconference on February 26, 2026. Following that conferral, the
+        parties resolved their discovery dispute regarding Mr. Morgan’s motion to
+        compel discovery, and V2X has produced to Plaintiff the requested
+        document underlying his motion. Accordingly, the parties jointly request
+        that the Court vacate the discovery conference set for later today.
+
+Accordingly, the Court vacated the hearing.
+
+        Upon careful review of the instant Motion and related materials, the Court finds it is
+
+based on some of the same disputes underlying Plaintiff’s now stricken MTC. Both parties
+
+appear to be using AI in connection with their litigation work, but they disagree on how AI
+
+should or should not be used in connection with Confidential Information as defined in the
+
+current Protective Order. (Doc. No. 30.)
+
+The Current Protective Order
+
+        The current Protective Order allows the parties to designate information “Confidential”
+
+when it “is confidential and implicates the privacy or business interests of the parties, including
+
+but not limited to: medical and personal financial information, private personnel information,
+
+                                                  3
+Case No. 1:25-cv-01991-SKC-MDB               Document 65         filed 03/30/26      USDC Colorado
+                                             pg 4 of 16
+
+
+
+
+trade secrets, and other proprietary business information.” (Doc. No. 30 at 1.) The Protective
+
+Order provides that all Confidential Information “shall not, without the consent of the
+
+designating party or further Order of the Court, be disclosed,” except under limited, specifically
+
+enumerated, circumstances. (Id. at 2.)
+
+Defendant’s Motion & Plaintiff’s Response
+
+        Although Defendant’s Motion is styled as one to amend the current Protective Order, it
+
+requests two forms of relief. First, Defendant asks the Court to enter an amended protective order
+
+with new language that specifically addresses its AI-related concerns. Second, Defendant asks
+
+the Court compel Plaintiff to “disclose the identity of the AI tool [Plaintiff] is utilizing in this
+
+case so that [Defendant] can determine whether it does, in fact, have appropriate safeguards in
+
+place regarding [Defendant’s] confidential information.” (Doc. No. 52 at 5.)
+
+        For his part, Plaintiff does not oppose amending the current Protective Order, but he
+
+offers competing language. Plaintiff does however oppose disclosure of his AI, saying “[t]he
+
+specific software, research platforms, and analytical tools chosen by a litigant to review
+
+discovery, synthesize information, and prepare for trial fall squarely under the Work-Product
+
+Doctrine, codified in Federal Rule of Civil Procedure 26(b)(3).” (Doc. No. 58 at 2.)
+
+                                             ANALYSIS
+
+        AI is forcing litigants and courts to confront difficult questions about how and to what
+
+extent longstanding protections will apply when parties use AI to assist them in the litigation
+
+process. In particular, courts are beginning to wrestle with practical questions surrounding
+
+confidentiality, work product, and privilege. This dispute raises two such questions: (1) to what
+
+extent will work product protections apply to a pro se litigant’s use of AI, and (2) to what extent
+
+
+                                                   4
+Case No. 1:25-cv-01991-SKC-MDB               Document 65         filed 03/30/26      USDC Colorado
+                                             pg 5 of 16
+
+
+
+
+should a protective order expressly restrict the use of AI? The Court addresses each question in
+
+turn.
+
+I.      Do work product protections apply to pro se Plaintiff’s use of AI, and in particular,
+        to his tool selection?
+
+        Defendant seeks disclosure of Plaintiff’s AI so it can “verify it has appropriate
+
+confidentiality restrictions.” (Doc. No. 60 at 3; see also Doc. No. 52 at 5.) Plaintiff resists, citing
+
+Federal Rule of Civil Procedure 26(b)(3). (Doc. No. 58 at 2.) The Court begins by considering
+
+the applicability of the Rule, then it moves on to consider the scope of its protections under these
+
+facts and circumstances.
+
+        A. Applicability of Rule 26(b)(3)
+
+        Federal Rule of Civil Procedure 26(b)(3)(A) protects “documents and tangible things that
+
+are prepared in anticipation of litigation or for trial by or for another party or its representative.”
+
+Mental impressions, conclusions, opinions, and legal theories, are contents that may be
+
+embedded in such documents and tangible materials. See Rule 26(b)(3)(B) (referencing Rule
+
+26(b)(3)(A) and recognizing that “those materials” may include mental impressions, conclusions,
+
+opinions, and legal theories). Rule 26(b)(3)(B) adds another layer of protection to mental
+
+impressions and opinions when they come from “a party’s attorney or other representative…”
+
+This heightened protection is consistent with the doctrine’s origins in Hickman v. Taylor, 329
+
+U.S. 495 (1947).
+
+        The Tenth Circuit has not weighed in on the applicability of Rule 26(b)(3) to pro se
+
+litigants, but the plain language broadly refers to things prepared in anticipation of litigation by
+
+any party, language that would “seem to include material created by a party before retaining a
+
+lawyer as well as a party who never actually hires an attorney.” Jennifer A. Gundlach & Zeus
+
+                                                   5
+Case No. 1:25-cv-01991-SKC-MDB              Document 65        filed 03/30/26     USDC Colorado
+                                            pg 6 of 16
+
+
+
+
+Smith, Expanding the Federal Work Product Doctrine to Unrepresented Litigants, 30 GEO. J. ON
+
+POVERTY L. & POL’Y 53, 62 (2022) (hereinafter “Gundlach & Smith”). This reading is reinforced
+
+by the Rule’s history. See generally id. Prior to the 1970 amendments, some courts had declined
+
+to protect work product prepared by anyone other than an attorney, but the Advisory
+
+Committee’s amendments were specifically designed to extend protection beyond attorneys’
+
+work product to materials prepared by or for a party. Id. at 61–62. Since then, courts routinely
+
+interpret the Rule to apply not just to attorney work product, but to a pro se litigant’s work
+
+product as well. See Carbajal v. St. Anthony Cent. Hosp., 2014 WL 2459713, at *2 (D. Colo.
+
+June 2, 2014) (assuming without deciding that the work product protection in Rule 26(b)(3)
+
+applies to a pro se litigant); Anderson v. Furst, 2019 WL 2284731, at *4 (E.D. Mich. May 29,
+
+2019) (stating, “a pro se litigant[ ] has a right to assert work product protection” under Rule
+
+26(b)(3)); Yates v. Cobb Cnty. Sch. Dist., 2016 WL 9444452, at *2 (N.D. Ga. Aug. 4, 2016)
+
+(finding persuasive authority indicating pro se plaintiffs can assert work product protections
+
+under Rule 26(b)(3)).
+
+       Moreover, courts have broadly interpreted the rule to protect not just litigation
+
+preparation materials, but also the mental impressions, opinions, and theories of parties. See,
+
+e.g., Moore v. Tri-City Hosp. Auth., 118 F.R.D. 646, 649–50 (N.D. Ga. 1988) (finding work
+
+product protection applied to plaintiff’s diary); Ortega v. New Mexico Legal Aid, Inc., 2019 WL
+
+5864784, at *3 (D.N.M. Nov. 8, 2019) (finding pro se plaintiff’s mental impressions, opinions
+
+and legal theories set forth in diaries, agendas, notebooks, and more, to be protected work
+
+product); Carrier-Tal v. McHugh, 2016 WL 9185306 (E.D. Va. Feb. 3, 2016) (overruling
+
+objections to a magistrate judge’s order that found work product protections applied to a pro se
+
+
+                                                  6
+Case No. 1:25-cv-01991-SKC-MDB              Document 65         filed 03/30/26   USDC Colorado
+                                            pg 7 of 16
+
+
+
+
+plaintiff’s mental thoughts, impressions, and litigation strategy); Moore v. Kingsbrook Jewish
+
+Med. Ctr., 2012 WL 1078000, at *8 (E.D.N.Y. Mar. 30, 2012) (overruling objections to
+
+magistrate judge order that found a pro se litigant’s personal notes reflected her mental
+
+impressions of the deposition and the litigation and were therefore protected work product).
+
+Thus, while only attorneys and “other representatives” receive additional heightened protection
+
+under Rule 26(b)(3)(B), a party’s own mental impressions are nevertheless protected under Rule
+
+26(b)(3), generally.
+
+       The importance of applying these protections to pro se litigants is magnified in the
+
+context of AI—one of the most powerful knowledge tools ever to become available to the
+
+masses. This is because pro se litigants are forced to act as both party and advocate,
+
+simultaneously. See Gundlach & Smith, at 70 (quoting Boegh v. Harless, 2021 WL 1923365, at
+
+*6 n.5 (W.D. Ky. May 13, 2021)). And for the first time in history, widespread access to
+
+powerful technology may make that dual role surmountable. A reading of Rule 26(b)(3) that
+
+conditions work product protection over AI materials on the involvement of counsel finds no
+
+support in the rule’s text and would further disadvantage unrepresented litigants. Pro se litigants
+
+are held to the same standard as represented litigants. See Requena v. Roberts, 893 F.3d 1195,
+
+1205 (10th Cir. 2018). They should be afforded the same protections. See Nielsen v. Soc’y of
+
+New York Hosp., 1988 WL 100197, at *2 (S.D.N.Y. Sep. 22, 1988) (saying, “[i]f plaintiff were
+
+represented by counsel, his attorney’s notes in similar circumstances would not be subject to
+
+production. A plaintiff appearing pro se is entitled to no less protection.”).
+
+       The Court is mindful of a recent decision that at first blush may appear contrary. See
+
+United States v. Heppner, 2026 WL 436479 (S.D.N.Y. Feb. 17, 2026). In Heppner, the court
+
+
+                                                  7
+Case No. 1:25-cv-01991-SKC-MDB              Document 65        filed 03/30/26      USDC Colorado
+                                            pg 8 of 16
+
+
+
+
+observed that work product protections have historically been rooted in shielding the mental
+
+impressions and legal theories of attorneys. Id. at *3. It concluded that a represented criminal
+
+defendant who used an AI tool on his own initiative, without any direction or involvement from
+
+their attorney, could not claim work product protection over the resulting materials. Id. at *3-4.
+
+The Heppner decision is of course not binding on this Court, but even if it were, the case is
+
+distinguishable for at least two reasons. First, Heppner was a criminal matter; this is a civil case
+
+governed by the Federal Rules of Civil Procedure, and the text of Rule 26(b)(3) broadly protects
+
+the work product of a party, not merely counsel. Second, in Heppner, there was a gap between
+
+the party and the attorney because the defendant acted entirely apart from his lawyer. No such
+
+gap exists in the pro se context. A pro se litigant is simultaneously the party and the advocate.
+
+       Here, like in Warner v. Gilbarco, Inc., 2026 WL 373043 (E.D. Mich. Feb. 10, 2026),
+
+Plaintiff can assert work product protections in connection with his AI use. It is true that AI
+
+systems like ChatGPT, Claude, Gemini, and others widely available to the public, collect user
+
+data for training and other purposes. But in this Court’s estimation, that does not eliminate all
+
+expectations of privacy or automatically waive protections.
+
+       Today, nearly all electronic interaction passes through third-party systems. Google, for
+
+example, hosts millions of accounts, and by extension, has access to millions of messages,
+
+emails, documents, videos, and more. Moreover, we now know that our phones, computers, in-
+
+home smart devices, and other electronics, collect information about us to offer more bespoke
+
+services. Does that mean that anyone with a Gmail account has forfeited all rights to
+
+confidentiality and privacy? In United States v. Warshak, the Sixth Circuit held—albeit in the
+
+context of a Fourth Amendment seizure analysis—that email subscribers have a reasonable
+
+
+                                                  8
+Case No. 1:25-cv-01991-SKC-MDB             Document 65        filed 03/30/26     USDC Colorado
+                                           pg 9 of 16
+
+
+
+
+expectation of privacy in the contents of emails stored with commercial internet service
+
+providers. 631 F.3d 266, 268 (6th Cir. 2010). The court rejected the idea that intermediary access
+
+alone extinguishes privacy expectations. Id. at 285-86. And though the Tenth Circuit did not
+
+fully weigh in on this issue in United States v. Ackerman, 831 F.3d 1292, 1308 (10th Cir. 2016),
+
+the Supreme Court has since held that the mere fact that information is held by a third-party
+
+intermediary, does not automatically extinguish a reasonable expectation of privacy in that
+
+information. Carpenter v. United States, 585 U.S. 296, 310-16 (2018).
+
+       The Fourth Amendment governs searches and seizures and offers a wholly different legal
+
+framework from the work product doctrine, but the principle reflected in those cases is
+
+informative: routing information through a third-party system does not forfeit all privacy.
+
+Moreover, the case for privacy is arguably stronger in the context of modern AI use (as
+
+contrasted with email use or cell site location). Unlike a general-purpose search engine, which
+
+passively returns results, many modern AI platforms are specifically designed and trained to
+
+engage. They invite candid and significant disclosure of information, including sensitive
+
+information. They simulate empathy, foster trust, and interact in a way that feels genuine and
+
+intimate. 1 Research confirms that people share personal and sensitive information with AI
+
+chatbots, often without appreciating what happens to that information once shared. See Jennifer
+
+King et al., User Privacy and Large Language Models: An Analysis of Frontier Developers’
+
+Privacy Policies, 8 PROCEEDINGS OF THE AAAI/ACM CONFERENCE ON AI, ETHICS, AND SOCIETY
+
+1465 (2025) (noting that the conversational nature of AI chatbots encourages greater disclosure
+
+
+
+1
+  The Court does not endorse these practices but simply notes them to describe the environment
+in which AI users operate.
+
+                                                 9
+Case No. 1:25-cv-01991-SKC-MDB              Document 65        filed 03/30/26       USDC Colorado
+                                            pg 10 of 16
+
+
+
+
+of personal information than traditional search interfaces); see also Molly G. Smith, Thomas N.
+
+Bradbury & Benjamin R. Karney, Can Generative AI Chatbots Emulate Human Connection? A
+
+Relationship Science Perspective, 20 PERSPECTIVES ON PSYCHOLOGICAL SCIENCE 1081 (2025).
+
+       Moreover, and in the context of a pro se litigant’s use of AI to assist with their litigation
+
+preparation, the use of AI closely resembles the kind of confidential, strategy-laden iterative
+
+work product that Rule 26(b)(3) was designed to protect. In other words, given how AI tools
+
+function, it is entirely reasonable for a person to expect some privacy and confidentiality when
+
+interacting with these tools, even though they understand a third party is behind the tool
+
+collecting and storing their information.
+
+       In any event, work product protections are typically waived by disclosure to an
+
+adversary, or in circumstances that substantially increase the likelihood that an adversary will
+
+obtain the materials. United States v. Am. Tel. & Tel. Co., 642 F.2d 1285, 1297-1301 (D.C. Cir.
+
+1980); see also Warner, 2026 WL 373043; In re Qwest Commc’ns Int’l Inc., 450 F.3d 1179,
+
+1186 (10th Cir. 2006) (citing Foster v. Hill, 188 F.3d 1259, 1272 (10th Cir. 1999) for the
+
+proposition that “the work-product doctrine is affected when a disclosure is to an adversary”). In
+
+other words, even though AI use technically “discloses” information to a third party, it is highly
+
+unlikely the information will fall into the hands of an adversary absent some legal process to
+
+compel it. Thus, AI interactions do not automatically compromise work product protections. See
+
+Warner, 2026 WL 373043, at *4 (finding that even if pro se plaintiff’s AI-generated information
+
+is discoverable, it is subject to work product protection and the protections were not waived
+
+because ChatGPT and other generative AI programs are tools, not persons, and the disclosure is
+
+therefore not to an adversary or in a way likely to get in an adversary’s hands.)
+
+
+                                                 10
+Case No. 1:25-cv-01991-SKC-MDB              Document 65        filed 03/30/26      USDC Colorado
+                                            pg 11 of 16
+
+
+
+
+       In sum, Rule 26(b)(3) applies and offers Plaintiff some level of work product protection
+
+in connection with his use of AI. The question is, how far will that protection extend?
+
+       B. Scope of Rule 26(b)(3) Protections
+
+       Plaintiff seeks to shield from disclosure, not only the outputs from the AI system, but the
+
+name of the AI tool he is using.
+
+       Some courts have applied the work product doctrine broadly to cover, for example,
+
+processes not just outputs. See, e.g., Sporck v. Peil, 759 F.2d 312, 315 (3d Cir. 1985) (finding
+
+that counsel’s selection process and grouping certain documents together out of the thousands
+
+produced in litigation was work product entitled to protection under Rule 26(b)(3)). But the
+
+Court does not need to delve into that issue here. Even if it is possible that in some contexts
+
+disclosing an AI tool can reveal mental impressions or strategy, Plaintiff has not carried his
+
+burden to demonstrate that here. See Martin v. Monfort, Inc., 150 F.R.D. 172, 172-73 (D. Colo.
+
+1993) (describing the sequential step approach to resolving work product issues, and noting that
+
+once the party seeking discovery establishes relevance, the burden shifts to the resisting party to
+
+show the materials are protected work product); Pouncil v. Branch L. Firm, 277 F.R.D. 642, 653
+
+(D. Kan. 2011) (noting that the proponent of a work product protection had the burden of
+
+establishing that certain calendars, appointment books, and event logs contain information that
+
+constitutes protected mental impressions). At best, Plaintiff states, in conclusory fashion and
+
+without any legal or factual support, that “[t]he selection and use of specific litigation support
+
+tools reveal a party’s mental impressions, case strategy, and legal resource allocation.” (Doc. No.
+
+58 at 2; see also Doc. No. 58-1 (offering similar conclusory statements.).) But the Court cannot
+
+discern from that, or any other information Plaintiff provides, how disclosing the name of an AI
+
+
+                                                 11
+Case No. 1:25-cv-01991-SKC-MDB             Document 65        filed 03/30/26      USDC Colorado
+                                           pg 12 of 16
+
+
+
+
+tool would reveal Plaintiff’s mental impressions or case strategy. Moreover, Defendant’s request
+
+for the name of the tool is legitimate and reasonable. If Plaintiff already submitted Confidential
+
+Information to some AI system—and it appears he has—Defendant is entitled to know which
+
+system.
+
+II.    To what extent should a protective order restrict AI use?
+
+       The current Protective Order arguably covers the use of AI already, 2 but the parties
+
+appear to agree that a clarifying amendment is necessary.
+
+       Defendant asks the Court to add the following language to the Protective Order:
+
+       Restrictions on Use of AI to process Confidential or Highly Confidential
+       Information: Absent notice to and written permission from the producing
+       party, any person or entity authorized to have access to Confidential
+       Information under the terms of this Order:
+
+       a. shall not use or employ any application, service, or analytical software
+       that will transfer, transmit, send or allow access to Confidential
+       Information, in whole or in part – including metadata, unless such
+       application, service or analytical software:
+
+               i. does not further transfer the Confidential Information to another
+               provider, unless the receiving party has confirmed through due
+               diligence that the security and privacy controls of and contractual
+               obligations for such provider allow that party to comply with its
+               obligations under this Protective Order; and
+
+               ii. provides the receiving party the ability to remove or delete from
+               the system all Confidential information.
+
+       b. shall not permit any Confidential Information to be used to train any
+       artificial intelligence tool.
+
+2
+ The current Protective Order broadly prohibits disclosure, not just to a person or entity, but
+generally and in any fashion, except under specifically enumerated circumstances. (Doc. No. 30.)
+Thus, “disclosure” in the form of transmission to an AI system with a provider that stores the
+Confidential Information in their own databases, and/or for their own purposes, may violate the
+current Protective Order.
+
+                                                 12
+Case No. 1:25-cv-01991-SKC-MDB              Document 65         filed 03/30/26     USDC Colorado
+                                            pg 13 of 16
+
+
+
+
+       These restrictions apply to the use of advanced or generative AI tools from
+       OpenAI’s GPT or ChatGPT, Harvey.AI, Google’s Bard, Anthropic’s
+       Claude, and similar tools or applications.
+
+(Doc. No. 52 at 2-3.) Plaintiff says Defendant’s proposed language is “overly broad,
+
+technologically vague, and improperly attempt[s] to dictate the specific litigation strategies and
+
+work-product tools utilized by a pro se litigant.” (Doc. No. 58 at 1-2.) Plaintiff also argues that
+
+“Defendant’s language fails to account for the capabilities of professional-grade, closed-circuit
+
+platforms that already ensure strict data isolation and prohibit machine learning training on user
+
+data.” (Id.) Plaintiff proposes the following language instead:
+
+       Any party utilizing third-party software, cloud-based platforms, or
+       artificial intelligence tools for the storage, processing, review, or analysis
+       of Confidential Information must ensure that such tools operate within a
+       secure, closed-circuit environment. No Confidential Information may be
+       uploaded to any platform or service whose Terms of Service permit the
+       provider to utilize the uploaded data for the training of Large Language
+       Models (LLMs), machine learning algorithms, or for any internal human-
+       in-the-loop review.
+
+(Doc. No. 58 at 5.) Defendant says Plaintiff’s proposed language does not offer sufficient
+
+safeguards. (Doc. No. 60 at 3.) Defendant also advocates for its own proposal because it is
+
+“narrowly-tailored.” (Id.)
+
+       Upon careful consideration of the issues and close review of the competing provisions,
+
+the Court finds it appropriate to amend the Protective Order with a provision similar to
+
+Defendant’s proposed provision, but tailored to the practical realities of this litigation and the
+
+current dispute.
+
+       Defendant is correct that Plaintiff’s proposal does not offer sufficient guardrails. It allows
+
+Confidential Information to be uploaded into an AI system so long as it operates in “a secure,
+
+closed-circuit environment,” which seems to address cybersecurity concerns about unauthorized
+
+                                                  13
+Case No. 1:25-cv-01991-SKC-MDB               Document 65         filed 03/30/26     USDC Colorado
+                                             pg 14 of 16
+
+
+
+
+access rather than the distinct risks associated with today’s widely available AI platforms. (See
+
+generally Doc. No. 58-1.) Moreover, to the extent Plaintiff’s proposal does address the unique
+
+risks associated with AI, it does so in a very limited and vague way, prohibiting the uploading of
+
+Confidential Information only when the provider’s terms of service “permit the provider to
+
+utilize the uploaded data for the training of Large Language Models (LLMs), machine learning
+
+algorithms, or for any internal human-in-the-loop review.” (Doc. No. 58 at 5.)
+
+         Defendant’s proposed language is better, but not without its shortcomings. It is, as
+
+Defendant says, narrowly-tailored, but not in the way Defendant touts. Defendant’s proposed
+
+language appears crafted to fit the precise bounds of Defendant’s contractual engagement with
+
+AI providers, resulting in an over-engineered provision that feels vague to Plaintiff. (See Doc.
+
+No. 58 at 1 (saying the provision is broad, vague, and an attempt to dictate his strategies and
+
+tools).) 3
+
+         Thus, instead of adopting the parties’ proposals, the Court will amend the Protective
+
+Order to include the following AI-specific language:
+
+         No party or authorized recipient may input, upload, or submit
+         CONFIDENTIAL Information into any modern artificial intelligence
+         platform, including any generative, analytical, or large language model-
+         based tool (“AI”), unless the AI provider is contractually prohibited from:
+         (1) storing or using inputs to train or improve its model; and (2)
+         disclosing inputs to any third party except where such disclosure is
+         essential to facilitating delivery of the service. Where disclosure to a third
+         party is essential to service delivery, any such third party shall be bound
+         by obligations no less protective than those required by this Order. In
+         addition, the AI provider must contractually afford the party or authorized
+         recipient the ability to remove or delete all CONFIDENTIAL information
+         upon request. A party intending to use AI that it contends meets these
+         requirements must retain written documentation of these contractual
+3
+  Defendant’s proposed provision also references “Google’s Bard,” which has since been
+rebranded as Gemini.
+
+                                                  14
+Case No. 1:25-cv-01991-SKC-MDB               Document 65         filed 03/30/26     USDC Colorado
+                                             pg 15 of 16
+
+
+
+
+       protections.
+
+       The Court recognizes that practically speaking, and in light of the current state of AI, this
+
+provision will (at least for now) bar the parties from using most, if not all, mainstream low-to-no-
+
+cost AI to process Confidential Information. This type of restriction disadvantages pro se
+
+litigants. 4 Enterprise-tier AI accounts that satisfy these requirements may be available only
+
+through organizational procurement processes, or at costs that a pro se litigant is unlikely to
+
+bear. 5 But the Court cannot ignore the real risks associated with mainstream tools that
+
+persistently collect and store data and could compromise confidentiality.
+
+       To be clear, the Court does not intend to leave pro se Plaintiff without the benefits of AI.
+
+Modern AI tools may be used in many ways that do not involve uploading Confidential
+
+Information, and nothing in this particular Order restricts those uses. 6 What this Order requires is
+
+that Confidential Information not be entrusted to platforms that lack the contractual safeguards
+
+described above, regardless of the sophistication or apparent trustworthiness of the tool.
+
+                                          CONCLUSION
+
+       For these reasons, the Court GRANTS Defendant’s Motion in part, and DENIES it in
+
+part as follows:
+
+
+
+
+4
+ In light of this restriction, the parties are strongly cautioned against the over-designation of
+Confidential Information.
+5
+  This highlights a growing problem in the age of AI: as large firms pour thousands of dollars
+into enterprise-grade AI and make their use of AI more secure, efficient, effective, and powerful,
+how will a pro se litigant or a litigant who cannot afford big-ticket legal services and better AI
+keep up?
+6
+ Still, the parties must still comply with all applicable rules, litigation obligations, and the
+presiding judge’s practice standards and orders when using AI.
+
+                                                  15
+Case No. 1:25-cv-01991-SKC-MDB          Document 65        filed 03/30/26      USDC Colorado
+                                        pg 16 of 16
+
+
+
+
+        (1) The Court will enter an amended protective order reflecting the AI-specific
+
+            provision set forth in this Order; and
+
+        (2) Plaintiff is ORDERED to, within ten (10) days of this Order, disclose the name
+
+            of any AI platform he used to upload, submit, process, review, analyze, organize,
+
+            or store any information designated by Defendant as “CONFIDENTIAL” under
+
+            the Protective Order.
+
+        (3) Defendant is ORDERED to, within ten (10) days of Plaintiff’s disclosure, file a
+
+            Notice with this Court indicating whether it intends to seek relief from this Court
+
+            (and if so, what relief), or whether it has mitigated any potential harm or reached
+
+            agreement with Plaintiff, such that no relief will be necessary.
+
+     Dated this 30th day of March, 2026.
+
+                                           BY THE COURT:
+
+
+                                           ___________________________
+                                           Maritza Dominguez Braswell
+                                           United States Magistrate Judge
+
+
+
+
+                                              16
+

@@ -1,0 +1,1850 @@
+USCA11 Case: 23-10478      Document: 53-1    Date Filed: 09/05/2024   Page: 1 of 56
+
+
+
+
+                                                              [PUBLISH]
+                                    In the
+                 United States Court of Appeals
+                           For the Eleventh Circuit
+
+                            ____________________
+
+                                  No. 23-10478
+                            ____________________
+
+        UNITED STATES OF AMERICA,
+                                                       Plaintiﬀ-Appellee,
+        versus
+        JOSEPH DELEON,
+        a.k.a. Joseph Nieves,
+
+
+                                                    Defendant-Appellant.
+
+
+                            ____________________
+
+                  Appeal from the United States District Court
+                       for the Middle District of Florida
+                   D.C. Docket No. 8:18-cr-00325-MSS-JSS-1
+                           ____________________
+USCA11 Case: 23-10478      Document: 53-1     Date Filed: 09/05/2024     Page: 2 of 56
+
+
+
+
+        23-10478               Opinion of the Court                        2
+
+        Before ROSENBAUM, NEWSOM, and ABUDU, Circuit Judges.
+        ROSENBAUM, Circuit Judge:
+                Our prior-precedent rule requires us to follow Eleventh Cir-
+        cuit precedent—even if we disagree with it or think that prior pan-
+        els have overlooked important arguments—unless and until the
+        Supreme Court or our court sitting en banc abrogates the prece-
+        dent. This is one of those cases where the prior-precent rule con-
+        trols the outcome.
+               The United States Sentencing Guidelines impose a two-level
+        enhancement, as relevant here, for an armed robbery, “if any per-
+        son was physically restrained to facilitate commission of the offense
+        or to facilitate escape.” U.S. Sent’g Guidelines Manual §
+        2B3.1(b)(4)(B). This case requires us to determine whether the vic-
+        tim was “physically restrained” under the meaning of the Guide-
+        lines when Defendant Joseph Deleon walked into a store, pointed
+        a gun at the cashier while demanding money from the register, re-
+        ceived the money, and then left, all within about one minute.
+               After careful review of the record and case law, and with the
+        benefit of oral argument, we are bound to affirm.
+
+                               I.     BACKGROUND
+
+              Deleon walked into a convenience store, went up to the
+        counter, and asked for cigarettes. He handed the cashier $10 to pay
+        for the cigarettes. But when the cashier opened the register,
+        Deleon took out a handgun and pointed it at the cashier. A video
+        of the offense shows that the counter put little—but some—
+USCA11 Case: 23-10478      Document: 53-1      Date Filed: 09/05/2024      Page: 3 of 56
+
+
+
+
+        23-10478               Opinion of the Court                          3
+
+        distance between Deleon and the cashier. The cashier gave Deleon
+        all the money from the register.
+               Deleon wasn’t satisfied. So he repeatedly signaled for the
+        cashier to look again in the register, including by reaching over the
+        counter to point into the register. So the cashier kept looking. Out
+        of cash, the cashier gave Deleon $40’s worth of United States postal
+        stamps. At no point does the record indicate that Deleon actually
+        touched the cashier. Deleon then left the store. Based on the
+        video, the entire incident lasted about one minute.
+               A grand jury indicted Deleon for Hobbs Act robbery, in vio-
+        lation of 18 U.S.C. § 1951(a) and (b) (Count 1), and brandishing a
+        firearm during and in relation to a crime of violence, in violation of
+        18 U.S.C. § 924(c)(1)(A)(ii) (Count 2). After a trial, a jury convicted
+        Deleon on both counts. The district court sentenced Deleon to 240
+        months’ imprisonment (156 months on Count 1 and 84 months on
+        Count 2, running consecutively). Over Deleon’s objection, this
+        sentence included a two-level physical-restraint enhancement un-
+        der section 2B3.1(b)(4)(B) of the Guidelines. To support this en-
+        hancement, the district court found that Deleon had physically re-
+        strained the cashier by pointing a gun at him and forcing him to
+        empty the register.
+                Deleon appealed that sentence but did not challenge the
+        physical-restraint enhancement. The Eleventh Circuit vacated the
+        sentence and remanded for resentencing on the ground that the
+        district court had added a career-offender enhancement even
+        though Hobbs Act robbery is not a crime of violence for purposes
+USCA11 Case: 23-10478      Document: 53-1       Date Filed: 09/05/2024      Page: 4 of 56
+
+
+
+
+        23-10478                Opinion of the Court                          4
+
+        of that enhancement. United States v. Deleon, 812 F. App’x 948, 952
+        (11th Cir. 2020) (per curiam).
+               On remand, the probation officer again recommended the
+        two-level enhancement for physical restraint under section
+        2B3.1(b)(4)(B). Deleon again objected to the enhancement, argu-
+        ing that his conduct did not rise to the level of “physical restraint.”
+        And the district court again rejected Deleon’s arguments and im-
+        posed the physical-restraint enhancement.
+               In support of its determination, the court explained,
+               [Deleon] did pull out a gun. He held it to the victim.
+               He forced the victim to comply by passing him the
+               goods he sought to secure, and the victim clearly in
+               this case did not feel at liberty to leave in light of the
+               presence of the weapon. In fact, as I recall, the victim
+               was so entranced by and terrorized by the weapon
+               that that was all he could remember. And so the
+               [c]ourt finds under the circumstances of this case, the
+               use of the weapon did ensure compliance by the vic-
+               tim and did impede the victim from fleeing to another
+               part of the store and restrained the victim to the space
+               where he was standing in order to meet the demands
+               of Mr. Deleon.
+        Sent’g Hr’g 10, Sept. 15, 2021.
+              Then the court resentenced Deleon to 135 months in prison
+        (51 months as to Count 1 and 84 months as to Count 2, running
+        consecutively). Relevant here, the total offense level for Count 1
+USCA11 Case: 23-10478      Document: 53-1      Date Filed: 09/05/2024      Page: 5 of 56
+
+
+
+
+        23-10478               Opinion of the Court                          5
+
+        (robbery) under the Guidelines was twenty-two. That total offense
+        level included a base level of twenty plus the two-level physical-
+        restraint enhancement. Count 2 (using a firearm during a crime of
+        violence) added an additional seven years under 18 U.S.C. §
+        924(c)(1)(A)(ii).
+               Deleon timely appealed.
+
+                                 II.     DISCUSSION
+
+                On appeal, Deleon challenges his sentence based solely on
+        the district court’s application of the two-level sentencing enhance-
+        ment for physical restraint under section 2B3.1(b)(4)(B). He argues
+        that if the enhancement applies here, it necessarily applies in all
+        armed robbery cases, effectively raising the base level of armed rob-
+        bery to twenty-two instead of twenty.
+                We first addressed the scope of the physical-restraint en-
+        hancement in United States v. Jones, 32 F.3d 1512 (11th Cir. 1994).
+        There, we considered the commentary. See id. at 1518. We noted
+        that the commentary defined “physically restrained” as “the forci-
+        ble restraint of the victim such as by being tied, bound, or locked
+        up.” Id. (citation omitted). Then we reasoned that “such as” in
+        that definition “indicates that the illustrations of physical restraint
+        are listed by way of example rather than limitation.” Id. (citation
+        and quotation marks omitted). With that in mind, we adopted the
+        Seventh and Eighth Circuits’ understanding of the definition of
+        “physically restrained”: “a defendant physically restrains his victims
+USCA11 Case: 23-10478      Document: 53-1      Date Filed: 09/05/2024      Page: 6 of 56
+
+
+
+
+        23-10478               Opinion of the Court                          6
+
+        if he creates circumstances allowing the persons no alternative but
+        compliance.” Id. at 1519 (citation and quotation marks omitted).
+                 Several years later, in United States v. Victor, 719 F.3d 1288
+        (11th Cir. 2013), we built on what we said in Jones. There, the de-
+        fendant pretended he had a gun in his pocket and pointed it at a
+        bank employee. Id. at 1289. Then he herded the employee to the
+        teller line and yelled that he had a gun and would kill any employee
+        who did not comply with his demands. Id. We affirmed applica-
+        tion of the enhancement. In doing so, we explained that “by threat-
+        ening the [bank] employee with what the employee believed to be
+        a gun to prevent her from escaping,” the defendant physically re-
+        strained her under Jones. Id. at 1290. Even though he did not actu-
+        ally have a gun, we reasoned, the victim believed he did “so that
+        she was forced to comply.” Id. And when the defendant argued
+        that he had not moved the teller far, we noted that section
+        2B3.1(b)(4)(b) “contains no requirement that the victim be moved
+        at all.” Id. In short, we said, the enhancement applies when “the
+        defendant’s conduct ensured the victims’ compliance and effec-
+        tively prevented them from leaving a location.” Id. (citation and
+        quotation marks omitted).
+               Most recently, in United States v. Ware, 69 F.4th 830 (11th Cir.
+        2023), cert. denied, No. 23-5946, 2024 WL 1706044 (Apr. 22, 2024),
+        we invoked Jones and Victor and again said that section
+        2B3.1(b)(4)(B) applies “where a defendant creates circumstances al-
+        lowing [his victims] no alternative but compliance.” Id. at 854 (ci-
+        tation and quotation marks omitted).
+USCA11 Case: 23-10478      Document: 53-1     Date Filed: 09/05/2024     Page: 7 of 56
+
+
+
+
+        23-10478               Opinion of the Court                        7
+
+               In dicta, we offered that “[w]e would have a closer case if
+        [the defendant] had entered these establishments, pointed a gun at
+        the victim behind the welcome counter, demanded, ‘Your money
+        or your life,’ obtained money from the victim, and left without fur-
+        ther incident.” Id. at 855. But under the test we again approved in
+        Ware—the enhancement applies “where a defendant ‘creates cir-
+        cumstances allowing [his victims] no alternative but compli-
+        ance’”—we don’t see how the enhancement wouldn’t apply to the
+        then-hypothetical scenario we raised in Ware. Id. at 854. In that
+        case, the robber would have created circumstances allowing his
+        victim no realistic alternative but compliance. After all, who would
+        think compliance was optional in that situation?
+               And that hypothetical situation from Ware is nearly identical
+        to the fact pattern here. As we’ve noted, here, Deleon pointed a
+        gun at the cashier and demanded the cashier provide him with
+        money. Though he didn’t say, “Your money or your life,” that
+        message surely came through loud and clear, all the same. So
+        Deleon “create[d] circumstances allowing [the cashier] no alterna-
+        tive but compliance.” And under our precedent, the district court
+        properly applied section 2B3.1(b)(4)(B)’s enhancement for “physi-
+        cal restraint.”
+              Deleon argues that, despite our precedent, the enhancement
+        should not apply here. First, he asserts that applying the enhance-
+        ment to these facts means it will apply to virtually every armed
+        robbery, effectively raising the base offense level to twenty-two in-
+        stead of twenty. Deleon also argues that applying the physical-
+USCA11 Case: 23-10478      Document: 53-1      Date Filed: 09/05/2024     Page: 8 of 56
+
+
+
+
+        23-10478               Opinion of the Court                         8
+
+        restraint enhancement when a defendant demands money at gun-
+        point during an armed robbery punishes him a second time for the
+        same conduct as his sentence for his conviction under §
+        924(c)(1)(A)(ii) for brandishing a firearm during a crime of violence.
+        In other words, Deleon makes a double-counting argument.
+                The short answer to both of Deleon’s arguments is this: as
+        we’ve explained, our precedent binds us to conclude that the en-
+        hancement applies to conduct like Deleon’s, and “we have categor-
+        ically rejected an overlooked reason or argument exception to the
+        prior-panel-precedent rule.” In re Lambrix, 776 F.3d 789, 794 (11th
+        Cir. 2015) (per curiam). End of story.
+               To the extent that Deleon argues that applying the physical-
+        restraint enhancement on the facts of his particular case wrongly
+        double-counts the harms from his crime, we must also reject that
+        argument.
+               In support of his double-counting argument, Deleon points
+        to the Guidelines commentary under section 2K2.4 that precludes,
+        in part, application of any specific offense characteristic for bran-
+        dishing or using a firearm if the defendant is also sentenced under
+        § 924(c). He points out that the probation officer did not recom-
+        mend applying the six-level enhancement for when “a firearm was
+        otherwise used” under section 2B3.1(b)(2)(B) because of the section
+        2K2.4 commentary. By the same logic underlying the section
+        2K2.4 commentary, Deleon reasons that we shouldn’t apply the
+        physical-restraint enhancement because a § 924(c) conviction al-
+        ready addresses the conduct of brandishing a gun.
+USCA11 Case: 23-10478      Document: 53-1      Date Filed: 09/05/2024     Page: 9 of 56
+
+
+
+
+        23-10478               Opinion of the Court                         9
+
+               Double counting can be permissible or impermissible.
+        We’ve explained that “[i]mpermissible double counting occurs
+        only when one part of the Guidelines is applied to increase a de-
+        fendant’s punishment on account of a kind of harm that has already
+        been fully accounted for by application of another part of the Guide-
+        lines.” United States v. Dudley, 463 F.3d 1221, 1226–27 (11th Cir.
+        2006) (emphasis added) (citation omitted).
+               In contrast, “double counting is permissible” when “(1) the
+        Sentencing Commission intended the result; and (2) each guideline
+        section in question concerns a conceptually separate consideration
+        related to sentencing.” United States v. Grushko, 50 F.4th 1, 16 (11th
+        Cir. 2022). And we “presume that the Sentencing Commission in-
+        tended to apply separate guideline sections cumulatively unless we
+        are specifically directed otherwise.” Id. For these reasons, we’ve
+        recognized that the same conduct can implicate “multiple guide-
+        lines sections.” Id.; see also United States v. Suarez, 893 F.3d 1330,
+        1337 (11th Cir. 2018) (“It is irrelevant that [two sentencing] adjust-
+        ments will often be triggered by the same conduct.”).
+
+               Looking to the guidelines at issue here, the sentence for
+        brandishing a gun and the enhancement for physically restraining
+        a victim do not necessarily and fully cover the same conduct. For
+        instance, an armed robber who enters a store with a gun on his
+        waistband and heads straight for the cash register without blocking
+        any exit or demanding assistance with the cash register may have
+        brandished a gun, but he likely has not “physically restrained” his
+        victims—even under our Circuit’s broad definition of the phrase.
+USCA11 Case: 23-10478      Document: 53-1      Date Filed: 09/05/2024     Page: 10 of 56
+
+
+
+
+        23-10478               Opinion of the Court                         10
+
+                And though the commentary to section 2K2.4 directs courts
+        not to apply enhancements “for possession, brandishing, use, or
+        discharge” of a firearm when a separate sentence for a § 924(c) vio-
+        lation applies, the Guidelines include no similar commentary di-
+        recting us not to apply the physical-restraint enhancement in this
+        circumstance. Nor do we see any other indication that the Sen-
+        tencing Commission specifically directed us not to apply these dis-
+        tinct sentence components cumulatively. See United States v. Ste-
+        vens, 580 F.3d 718, 722 (8th Cir. 2009) (“The specific offense charac-
+        teristic punished by § 2B3.1(b)(4)(B) is the use of physical restraint,
+        not the presence of a firearm. The firearm was merely a tool used
+        to effect the physical restraint accomplished by [defendants] . . . .
+        Consequently, . . . the challenged sentencing enhancement does
+        not amount to double counting.”); United States v. Wilson, 198 F.3d
+        467, 472 n.1 (4th Cir. 1999) (explaining that “‘double counting’ is
+        permissible under the sentencing guidelines except where it is ex-
+        pressly prohibited,” and the Guidelines do not expressly prohibit a
+        physical-restraint enhancement on top of a sentence for a § 924(c)
+        conviction).
+                For all these reasons, we must reject Deleon’s claim that sec-
+        tion 2B3.1(b)(4)(B)’s physical-restraint enhancement does not apply
+        to his conduct. And we therefore affirm the district court.
+
+                                 III.   CONCLUSION
+
+               We AFFIRM the district court’s application of the physical-
+        restraint enhancement.
+USCA11 Case: 23-10478       Document: 53-1        Date Filed: 09/05/2024       Page: 11 of 56
+
+
+
+
+        23-10478              ROSENBAUM, J., Concurring                           1
+
+        ROSENBAUM, Circuit Judge, joined by ABUDU, Circuit Judge, con-
+        curring:
+               The issue in this case is ripe for en banc review. As the Ma-
+        jority Opinion explains, the Jones/Victor line of cases binds us to af-
+        firm the application of the physical-restraint enhancement. That’s
+        because our precedent has understood the enhancement to apply
+        any time “the defendant’s conduct ensured the victims’ compliance
+        and effectively prevented them from leaving a location.” United
+        States v. Victor, 719 F.3d 1288, 1290 (11th Cir. 2013) (citation and
+        quotation marks omitted). But if I were writing on a clean slate, I
+        would conclude that section 2B3.1(b)(4)(B) does not reach Deleon’s
+        conduct. Quite simply, a plain reading of the text of section
+        2B3.1(b)(4)(B) does not support our precedent’s standard or appli-
+        cation of that guideline here.
+               When we construe a guideline, we start with its text. See
+        United States v. Dupree, 57 F.4th 1269, 1277 (11th Cir. 2023) (en
+        banc). The version of section 2B3.1(b)(4)(B) that applied to
+        Deleon’s conduct (2018) provides, “[I]f any person was physically
+        restrained to facilitate commission of the offense or to facilitate es-
+        cape, increase by 2 levels.”
+               To determine the meaning of this phrase, we “apply[] our
+        traditional tools of statutory interpretation,” id. at 1277. Only if the
+        text remains ambiguous after that do we then look to the Guide-
+        lines commentary. Id. at 1276–77, 1279. 1
+
+        1 As the Majority Opinion notes, we relied in part on the commentary to sec-
+
+        tion 2B3.1(b)(4)(B) when we adopted the broad definition of “physically
+USCA11 Case: 23-10478        Document: 53-1         Date Filed: 09/05/2024         Page: 12 of 56
+
+
+
+
+        23-10478               ROSENBAUM, J., Concurring                               2
+
+               Following this roadmap, I begin with the ordinary meaning
+        of “physically restrained,” § 2B3.1(b)(4)(B), the phrase that drives
+        the meaning of the guideline here. To determine the ordinary
+        meaning of a term, we often turn to dictionary definitions. In re
+        Walter Energy, 911 F.3d 1121, 1143 (11th Cir. 2018). “Restrain”
+        means “[t]o restrict, limit, confine.” 2 Other definitions include the
+        following: “to prevent from doing, exhibiting, or expressing some-
+        thing,” “to limit, restrict, or keep under control,” “to moderate or
+        limit the force, effect, development, or full exercise of,” and “to de-
+        prive of liberty.” 3
+
+
+
+        restrained” in Jones and Victor. Yet under Dupree, because the guideline itself
+        is unambiguous, we shouldn’t have gotten to the commentary. We issued
+        United States v. Ware, 69 F.4th 830 (11th Cir. 2023), after Dupree, so perhaps we
+        could have corrected this aspect of our precedent in Ware. But we didn’t do
+        that. Of course, “when circuit authority is in conflict, a panel should look to
+        the line of authority containing the earliest case, because a decision of a prior
+        panel cannot be overturned by a later panel.” MacPhee v. MiMedx Grp., Inc., 73
+        F.4th 1220, 1250 (11th Cir. 2023) (citation and quotation marks omitted). But
+        we can’t follow Dupree instead of Ware now as the earlier-issued case because
+        Ware’s holding—though arrived at in a way contrary to Dupree’s stated meth-
+        odology—does not conflict with Dupree’s holding. See Washington v. Howard,
+        25 F.4th 891, 900 (11th Cir. 2022) (explaining that we must reconcile prior
+        panel decisions whenever possible, and that “only the holdings of prior deci-
+        sions bind us” and “legal principles set forth outside of the decision’s holding
+        do not bind us”).
+        2 Restrain, Oxford English Dictionary, https://www.oed.com/dictionary/re-
+
+        strain_v1?tab=meaning_and_use#25713964 [https://perma.cc/9FW3-5UJ2].
+        3   Restrain, Merriam-Webster Dictionary, https://www.merriam-web-
+        ster.com/dictionary/restrain [https://perma.cc/TV96-CHJ8].
+USCA11 Case: 23-10478      Document: 53-1      Date Filed: 09/05/2024     Page: 13 of 56
+
+
+
+
+        23-10478            ROSENBAUM, J., Concurring                        3
+
+               All these definitions contemplate some restriction, limita-
+        tion, or confinement. But none specify the type of restriction, lim-
+        itation, or confinement.
+               That’s where “physically” comes in. Section 2B3.1(b)(4)(B)
+        qualifies the word “restrained” with “physically.” “Physically”
+        means “[w]ith regard to the body; in bodily terms or by bodily
+        means,” 4 “in a physical manner: in accord with physical laws,” 5 or
+        “in respect to the body.” 6 Similarly, the relevant definition of
+        “physical,” the adjective form of “physically,” is “[o]f or relating to
+        natural phenomena perceived through the senses (as opposed to
+        the mind); of or relating to matter or the material word; natural;
+        tangible; concrete.” 7
+               Putting it all together, then, under the guideline, a re-
+        straint—or limitation or confinement—must concern the body for
+        the enhancement to apply. A restraint that is solely mental or psy-
+        chological in nature should not qualify under section
+        2B3.1(b)(4)(B)’s plain text.
+
+
+
+        4  Physically, Oxford English Dictionary, https://www.oed.com/diction-
+        ary/physically_adv?tab=meaning_and_use#30459183
+        [https://perma.cc/S4BN-FN6D].
+        5  Physically, Merriam-Webster Dictionary, https://www.merriam-web-
+        ster.com/dictionary/physically [https://perma.cc/6263-7SBF].
+        6 Id.
+
+        7  Physical, Oxford English Dictionary, https://www.oed.com/diction-
+        ary/physical_adj?tab=meaning_and_use#30455352
+        [https://perma.cc/Q7QV-XDDK].
+USCA11 Case: 23-10478      Document: 53-1       Date Filed: 09/05/2024       Page: 14 of 56
+
+
+
+
+        23-10478             ROSENBAUM, J., Concurring                          4
+
+               Not only does a non-physical restraint fail to comport with
+        the definition of “physically,” but construing “physically re-
+        strained” to include non-physical restraints—no matter how intim-
+        idating a non-physical restraint may be—makes “physically” mean-
+        ingless in the guideline.
+                Indeed, if the framers of the guideline wanted it to apply
+        whenever “any person was . . . restrained” in either a physical or
+        non-physical way, they wouldn’t have included the qualifier “phys-
+        ically.” But the guideline contains the modifier “physically” before
+        “restrained.” That adverb has meaning. And by its plain meaning,
+        “physically restrained” should not include psychologically or emo-
+        tionally “restrained.” After all, “[i]t is ‘a cardinal principle of statu-
+        tory construction’” that, “‘if it can be prevented, no clause, sen-
+        tence, or word shall be superfluous, void, or insignificant.’” TRW
+        Inc. v. Andrews, 534 U.S. 19, 31 (2001) (quoting Duncan v. Walker,
+        533 U.S. 167, 174 (2001)). See Antonin Scalia & Bryan Garner, Read-
+        ing Law: The Interpretation of Legal Texts 176 (2012) (“Because legal
+        drafters should not include words that have no effect, courts avoid
+        a reading that renders some words altogether redundant.”).
+               When we give every word its meaning in section
+        2B3.1(b)(4)(B), I understand this enhancement to reflect Congress’s
+        view that physical bounding adds another dimension to the intim-
+        idation a victim of an armed robbery endures. In other words, it’s
+        bad enough to be robbed at gunpoint, but being tied up or other-
+        wise physically bound is invasive, dangerous, and victimizing in yet
+        another way.
+USCA11 Case: 23-10478        Document: 53-1         Date Filed: 09/05/2024         Page: 15 of 56
+
+
+
+
+        23-10478               ROSENBAUM, J., Concurring                               5
+
+               Given that the text is clear, if I were writing on a clean slate,
+        I would end with the text as well as starting with it. See Dupree, 57
+        F.4th at 1276–77. And I would not apply the enhancement in
+        Deleon’s case. But even if the text were ambiguous (it’s not), the
+        application notes and commentary are wholly consistent with and
+        fully support the plain meaning of the text. See id. 8
+               The Application Notes define “physically restrained” as “the
+        forcible restraint of the victim such as by being tied, bound, or
+        locked up.” § 2B3.1 cmt. n.1 (citing § 1B1.1 cmt. n.1(L)). And sep-
+        arately, the commentary states that the “guideline provides an en-
+        hancement for robberies where a victim . . . was physically re-
+        strained by being tied, bound, or locked up.” § 2B3.1 cmt. back-
+        ground. So just as the text itself conveys, the commentary and
+
+
+
+
+        8 Dupree, 57 F.4th 1269, sets forth the process for interpreting the Guidelines.
+
+        It relied on the deferential scheme afforded to agency interpretations of their
+        own legislative rules when those rules are truly ambiguous. Id. at 1275–77.
+        Recently, the Supreme Court held that, where Congress has not conferred dis-
+        cretionary authority on an agency to interpret a federal statute, the Adminis-
+        trative Procedure Act, 5 U.S.C. § 706, does not permit courts to “defer to an
+        agency interpretation of the law simply because a statute is ambiguous.” Loper
+        Bright Enters. v. Raimondo, 144 S. Ct. 2244, 2263, 2268, 2273 (2024). To be sure,
+        that is not squarely on point with Dupree, which addressed the proper inter-
+        pretation of the Sentencing Guidelines and their commentary and application
+        notes, or the cases Dupree relied on. But to the extent Loper Bright casts any
+        doubt on Dupree’s methodology, that may be another good reason for us to
+        consider rehearing this case en banc.
+USCA11 Case: 23-10478        Document: 53-1         Date Filed: 09/05/2024        Page: 16 of 56
+
+
+
+
+        23-10478               ROSENBAUM, J., Concurring                              6
+
+        application notes reflect that section 2B3.1 contemplates enhance-
+        ment upon only the use of physical restraints. 9
+                Were we to apply this understanding of section
+        2B3.1(b)(4)(B) to Deleon’s case, I would agree with Deleon that the
+        enhancement does not apply. Deleon pointed a gun at the cashier
+        to obtain his compliance. I can certainly understand why the cash-
+        ier did not try to leave under those circumstances. But I cannot say
+        that the pointed gun “physically” restrained the cashier to facilitate
+        Deleon’s crime because it did not physically bind, confine, or apply
+        any force to the cashier’s body. So by its plain meaning, section
+        2B3.1(b)(4)(B) should not apply. 10
+
+
+
+        9 As the Majority Opinion notes, in United States v. Jones, 32 F.3d 1512 (11th
+
+        Cir. 1994), we based our decision to so broadly define “physically restrained”
+        on the commentary’s use of “such as.” Id. at 1518. We said that phrase indi-
+        cates that the “illustrations of physical restraint are listed by way of example
+        rather than limitation.” Id. at 1518. I agree that the phrase “such as” means
+        that a person can engage in conduct that warrants the enhancement other than
+        through the modes the commentary lists. But most respectfully, I don’t see
+        how the phrase “such as” somehow permits broadening the scope of the
+        guideline beyond “physical” restraint. The doctrine of noscitur a sociis—that
+        is, a word is known by the company it keeps—tells us that a word is “given
+        more precise content by the neighboring words with which it is associated.”
+        Fischer v. United States, 144 S. Ct. 2176, 2183 (2024) (citation and quotation
+        marks omitted). So while the phrase “such as” denotes that the enhancement
+        contemplates the inclusion of conduct other than that listed, other qualifying
+        conduct must be similar to the conduct that the commentary enumerates.
+        And all that conduct is physical in nature.
+        10 Of course, that would not prevent a sentencing court from considering
+
+        Deleon’s gun-pointing conduct in crafting an appropriate sentence; the
+USCA11 Case: 23-10478        Document: 53-1        Date Filed: 09/05/2024        Page: 17 of 56
+
+
+
+
+        23-10478              ROSENBAUM, J., Concurring                             7
+
+                At least five of our sister circuits construe section
+        2B3.1(b)(4)(B) more narrowly than we do and require some type of
+        “physical” restraint. Take United States v. Anglin, 169 F.3d 154 (2d
+        Cir. 1999). There, the Second Circuit held that “displaying a gun
+        and telling people to get down and not move, without more, is in-
+        sufficient to trigger the ‘physical restraint’ enhancement.” Id. at
+        164.
+                The court gave three reasons. First, it explained that the
+        conduct there was “materially different from the Guidelines exam-
+        ples” of physical restraint, namely, being “tied,” “bound,” or
+        “locked up.” Id. Second, it said that the plain meaning of “physical
+        restraint” requires more than pointing a gun and giving directions
+        not to move. Id. The court reasoned that the Guidelines would
+        not have included the word “physical” in section 2B3.1(b)(4)(B) if
+        the enhancement applies even when the victim believes they are re-
+        strained but are not actually “subjected to physical restraint.” Id.
+        at 164–65. Third, the court found that if the enhancement applied
+        in that case, “virtually every robbery would be subject to the 2-level
+        enhancement for physical restraint unless it took place in unoccu-
+        pied premises.” Id. at 165. In the Second Circuit’s view, that would
+        be a “problematic effect for a provision drafted to deal with a spe-
+        cial circumstance.” Id.
+              Similarly, in United States v. Garcia, 857 F.3d 708 (5th Cir.
+        2017), the Fifth Circuit held that the physical-restraint
+
+        sentencing court simply could not apply section 2B3.1(b)(4)(B)’s two-point en-
+        hancement.
+USCA11 Case: 23-10478     Document: 53-1      Date Filed: 09/05/2024     Page: 18 of 56
+
+
+
+
+        23-10478            ROSENBAUM, J., Concurring                       8
+
+        enhancement did not apply when the defendants held firearms, one
+        defendant pointed a gun at an employee and told them to get on
+        the ground, and another stood by the exit. Id. at 712. The court
+        explained that the defendants “never forced [the victims] to move
+        to a confined space” or subjected the victims to “the type of physical
+        restraint that victims experience when they are tied, bound, or
+        locked up.” Id. at 713. Instead, the court reasoned that the “de-
+        fendants did not do anything with their firearms that goes beyond
+        what would normally occur during an armed robbery,” so the en-
+        hancement did not apply. Id. at 713–14. The Fifth Circuit cited
+        Anglin with approval. Id. at 713.
+               The Seventh, Ninth, and D.C. Circuits also require some-
+        thing more than pointing a gun and giving a command to justify the
+        physical-restraint enhancement. See United States v. Herman, 930
+        F.3d 872, 875–77 (7th Cir. 2019) (holding that pointing a gun at a
+        victim and ordering them not to move does not qualify as physical
+        restraint); United States v. Parker, 241 F.3d 1114, 1118–19 (9th Cir.
+        2001) (holding that the enhancement requires “more than briefly
+        pointing a gun at a victim and commanding her once to get down
+        to constitute physical restraint, given that nearly all armed bank
+        robberies will presumably involve such acts”); United States v. Drew,
+        200 F.3d 871, 880 (D.C. Cir. 2000) (holding the enhancement did
+        not apply even where the defendant forced the victims to walk at
+        gunpoint because, even though the victims felt restrained, they
+        were not physically restrained, and “[a]ny other interpretation
+        would effectively add the two-level adjustment to almost any
+USCA11 Case: 23-10478         Document: 53-1         Date Filed: 09/05/2024          Page: 19 of 56
+
+
+
+
+        23-10478                ROSENBAUM, J., Concurring                                9
+
+        attempted murder because presumably any victim would feel re-
+        strained if directed to move at gunpoint”).
+                In contrast, by my count, four other circuits (besides ours)
+        construe the physical-restraint enhancement broadly to apply
+        when a defendant restricts a victim’s movement by using a gun,
+        even in the absence of bodily contact, confinement, or other phys-
+        ical force.11 See United States v. Wallace, 461 F.3d 15, 34–35 (1st Cir.
+        2006) (affirming application of the physical-restraint enhancement
+        where the defendants pointed their guns at the victims, told them
+        not to move, and blocked one victim’s path); United States v. Di-
+        mache, 665 F.3d 603, 608–09 (4th Cir. 2011) (affirming application
+        of the physical-restraint enhancement where the defendant used a
+        gun to force bank tellers to the floor because they “were prevented
+        from both leaving the bank and thwarting the bank robbery”);
+        United States v. Howell, 17 F.4th 673, 692 (6th Cir. 2021) (affirming
+        application of the physical-restraint enhancement where the de-
+        fendant ordered the victim at gunpoint to lie on the floor and
+        threatened to kill her unless her coworkers complied with orders);
+        United States v. Miera, 539 F.3d 1232, 1235–36 (10th Cir. 2008) (af-
+        firming application of the physical-restraint enhancement where
+
+
+        11 The Third Circuit takes yet another approach when considering whether
+        conduct qualifies as physical restraint. See United States v. Bell, 947 F.3d 49, 56
+        (3d Cir. 2020) (adopting five factors to balance when deciding whether to im-
+        pose the enhancement, namely, “[1] Use of physical force; [2] Exerting control
+        over the victim; [3] Providing the victim with no alternative but compliance;
+        [4] Focusing on the victim for some period of time; and [5] Placement in a
+        confined space”).
+USCA11 Case: 23-10478     Document: 53-1      Date Filed: 09/05/2024     Page: 20 of 56
+
+
+
+
+        23-10478            ROSENBAUM, J., Concurring                      10
+
+        the defendant waved a gun around, told people not to move, and
+        blocked the bank doors).
+              As the circuit split deepens on the proper interpretation of
+        the physical-restraint enhancement, Deleon’s case provides a good
+        opportunity to reexamine our jurisprudence. Given the heavier
+        emphasis on textualism in the last several years—and especially
+        against the background of Dupree—we should align our jurispru-
+        dence with what section 2B3.1(b)(4)(B) actually says.
+                Because our jurisprudence on § 2B3.1(b)(4)(B) is not faithful
+        to the text of the physical-restraint enhancement, I respectfully sub-
+        mit that we should revisit it en banc.
+USCA11 Case: 23-10478     Document: 53-1      Date Filed: 09/05/2024    Page: 21 of 56
+
+
+
+
+        23-10478             NEWSOM, J., Concurring                        1
+
+        NEWSOM, Circuit Judge, concurring:
+               This is a sequel of sorts to my separate opinion in Snell v.
+        United Specialty Insurance Co., 102 F.4th 1208 (11th Cir. 2024) (New-
+        som, J., concurring). There, I floated the following suggestion,
+        which I suspected (rightly, as it turns out) would be fairly provoca-
+        tive: “Those, like me, who believe that ‘ordinary meaning’ is the
+        foundational rule for the evaluation of legal texts should consider—
+        consider—whether and how AI-powered large language models like
+        OpenAI’s ChatGPT, Google’s Gemini, and Anthropic’s Claude
+        might—might—inform the interpretive analysis.” Id. at 1221. With
+        the benefit of a little perspective, and incorporating by reference
+        here all the caveats that I expressed there, I stand by what I said.
+                The LLM research that I conducted in connection with this
+        case, though, raised a question that I hadn’t squarely confronted in
+        Snell, one that seemed worth flagging and exploring: What should
+        we make of the fact that the models sometimes provide subtly dif-
+        ferent answers to the exact same question? I’ll confess that the var-
+        iation initially spooked me, but it now (for reasons I’ll get into)
+        seems not only unremarkable but perhaps even expected. And sig-
+        nificantly from an ordinary-meaning perspective, it accurately re-
+        flects real people’s everyday speech patterns.
+              Let me explain.
+                                          I
+               First, a bit of background. As the majority opinion explains,
+        the district court here enhanced Deleon’s sentence on the ground
+        that he “physically restrained” one of his victims during the course
+USCA11 Case: 23-10478     Document: 53-1      Date Filed: 09/05/2024    Page: 22 of 56
+
+
+
+
+        23-10478             NEWSOM, J., Concurring                        2
+
+        of a robbery. U.S.S.G. § 2B3.1(b)(4)(B). I agree with the majority
+        that our decisions in United States v. Jones, 32 F.3d 1512 (11th Cir.
+        1994), and United States v. Victor, 719 F.3d 1288 (11th Cir. 2013),
+        control this case and require us to affirm the enhancement. See
+        Maj. Op. at 5–7. Having said that, I also agree with Judge Rosen-
+        baum that Jones and Victor were wrongly decided and that we
+        should rehear this case (or another one like it) as an en banc court
+        to overrule them. See Rosenbaum Conc. Op. passim.
+                In Jones and Victor, panels of this Court held that
+        § 2B3.1(b)(4)(B)’s enhancement applies where, even in the absence
+        of any physical contact, the defendant’s possession of a gun “en-
+        sured the victims’ compliance and effectively prevented them from
+        leaving,” Jones 32 F.3d at 1519, or the defendant “threaten[ed a vic-
+        tim] with what [she] believed to be a gun to prevent her from es-
+        caping,” Victor, 719 F.3d at 1290. I disagree. For reasons that I’ll
+        explain—and that complement those Judge Rosenbaum has set out
+        in her separate opinion—neither circumstance constitutes “physi-
+        cal[] restrain[t]” within the ordinary meaning of that phrase. See
+        Rosenbaum Conc. Op. at 1–3.
+               One thing that makes the interpretive issue in this case in-
+        teresting—and perhaps a little bit harder than usual—is that it turns
+        on the meaning not of a single word, but rather of a composite,
+        multi-word phrase: “physically restrained.” That poses a challenge
+        because so far as I’m aware, the entire phrase—“physically re-
+        strained”—isn’t defined in any reputable dictionary, the tool to
+        which plain-language interpreters typically turn. Given that
+USCA11 Case: 23-10478        Document: 53-1         Date Filed: 09/05/2024         Page: 23 of 56
+
+
+
+
+        23-10478                 NEWSOM, J., Concurring                                3
+
+        limitation, I think Judge Rosenbaum’s concurrence nicely exempli-
+        fies the standard approach. Specifically, we break the phrase into
+        its constituent parts, use conventional interpretive tools to gauge
+        the ordinary meaning of each, and then piece those definitions back
+        together into a coherent whole. See, e.g., Garland v. Cargill, 602 U.S.
+        406, 415–16 (2024) (using the breaking-and-repiecing method to de-
+        fine the phrase “function of the trigger”); Barton v. U.S. Att’y Gen.,
+        904 F.3d 1294, 1298–99 (11th Cir. 2018) (Newsom, J.) (same, defin-
+        ing the phrase “renders admissible”). So, Judge Rosenbaum ex-
+        plains, “physically restrained” means, in essence, the state of being
+        “restrained”—i.e., “restrict[ed], limit[ed], confine[d]”—by “physi-
+        cal[]” means—i.e.,“[w]ith regard to the body.” See Rosenbaum
+        Conc. Op. at 2–3 (citing dictionary definitions of both terms). 1
+
+
+        1 Worth filing away for another day:     The breaking-and-repiecing approach
+        won’t always work so well. To be sure, sometimes a phrase really is just the
+        sum of its parts—say, “strictly enforced” or “accurately measured.” But that’s
+        not uniformly true. Consider, for instance, common idioms like “kick the
+        bucket” or “spill the beans.” Or metaphors like “falling in love” or “drowning
+        in work.” Or, even beyond those, plain old linguistic combinations like “white
+        noise” or “dark matter.” Most have a sense for what those phrases denote, but
+        their meanings wouldn’t be self-evident from splicing together dictionary def-
+        initions of each constituent word. “White noise,” for example, isn’t a “[l]oud,
+        confused, or senseless shouting or outcry,” or even a “sound of any sort,” that
+        is “[o]f the color of pure snow, milk, or sunlight.” Webster’s New International
+        Dictionary 1658, 2915 (2d ed. 1944) (defining both terms). Again, I think Judge
+        Rosenbaum has shown that the breaking-and-repiecing method works well
+        enough for “physically restrained.” My point is simply that it won’t always do
+        the trick.
+               In those instances where a phrase is more than the sum of its compo-
+        nent parts, I think that LLMs may well help to fill the gaps left by word-centric
+USCA11 Case: 23-10478        Document: 53-1         Date Filed: 09/05/2024         Page: 24 of 56
+
+
+
+
+        23-10478                 NEWSOM, J., Concurring                                4
+
+               That seems about right to me. But because there’s no ready
+        dictionary definition of the composite phrase, because by their very
+        nature LLMs aim to capture and reflect how real people ordinarily
+
+
+
+
+        dictionaries. The reason: They aren’t dependent on human beings going to
+        the trouble of identifying and then defining commonly used phrases. There
+        are no doubt others who can explain the technical details better than me, but
+        as I understand things, the models’ ability to tackle this task—i.e., to make
+        predictions about the meaning of phrases, in context—is hard-wired into their
+        DNA, inherent in what they’re designed to do. See Snell, 102 F.4th at 1226–30
+        (Newsom, J., concurring); see also Yonathan Arbel & David A. Hoffman, Gen-
+        erative Interpretation, 99 N.Y.U. L. Rev. 451, 479 (2024) (explaining how the at-
+        tention mechanism helps LLMs understand phrases like “he swung the bat”).
+        Why? Well, consider several of the uses to which people frequently put these
+        models in professional settings: (1) summarizing information contained in
+        books or articles; (2) brainstorming ideas for a business meeting; and (3)
+        providing feedback on written work. Cf. Kevin Roose, How Should I Use AI
+        Chatbots Like ChatGPT?, N.Y. Times (Mar. 30, 2023), https://www.ny-
+        times.com/2023/03/30/technology/ai-chatbot-chatgpt-uses-work-life.html.
+        In order for an LLM’s output to be useful to everyday consumers, the model
+        has to be able to understand and distinguish between the different uses of a
+        phrase like, say, “passed out.” Suffice it to say, an LLM that can’t ascertain
+        that “passed out” means something different in the sentences (1) “The teacher
+        passed out the writing assignment” and (2) “The teacher passed out on the floor”
+        wouldn’t be very useful. And yet—and this is the important point—the mod-
+        els can (with uncanny accuracy) draw that distinction because they’ve
+        crunched enough raw linguistic data to “understand,” based on contextual
+        clues, how the phrase is being used in a particular circumstance.
+                Anyway, perhaps I’ll revisit this issue down the road, in a case in which
+        the breaking-and-repiecing method of explaining a compound phrase’s mean-
+        ing comes up short.
+USCA11 Case: 23-10478       Document: 53-1        Date Filed: 09/05/2024        Page: 25 of 56
+
+
+
+
+        23-10478                NEWSOM, J., Concurring                                5
+
+        use both individual words and multi-word phrases, and because,
+        well, I couldn’t help myself, I queried ChatGPT. 2
+               Here’s what happened.
+                                             II
+               Me:     “What is the ordinary meaning of ‘physically re-
+        strained’?”
+               ChatGPT:
+               The ordinary meaning of “physically restrained” re-
+               fers to the act of limiting or preventing someone’s
+               movement by using physical force or some kind of
+               device. This can involve holding someone down, us-
+               ing handcuﬀs, straps, or other mechanisms to restrict
+               their ability to move freely. The term implies an ac-
+               tive and physical intervention to control or conﬁne a
+               person’s movements.
+
+        So far, so good. ChatGPT’s response basically squared with what
+        I had assumed the phrase “physically restrained” means. And as it
+        turned out, its answer also corresponded with the result of the tra-
+        ditional breaking-and-repiecing method exemplified in Judge Ros-
+        enbaum’s concurrence. See Rosenbaum Conc. Op. at 2–3.
+               For reasons I’ve explained before, though, I didn’t want to
+        seize on ChatGPT’s explanation just because it matched my priors.
+        See Snell, 102 F.4th at 1225 (Newsom, J., concurring). So, I asked
+
+
+        2 To be more precise, I queried the free online version, which uses GPT4-o.
+USCA11 Case: 23-10478        Document: 53-1        Date Filed: 09/05/2024   Page: 26 of 56
+
+
+
+
+        23-10478                NEWSOM, J., Concurring                        6
+
+        Claude 3 the same question: “What is the ordinary meaning of
+        ‘physically restrained’?” Reassuringly, Claude’s response largely
+        mirrored ChatGPT’s:
+               The ordinary meaning of “physically restrained” gen-
+               erally refers to:
+
+               1. The act of using physical force or methods to limit
+               or control someone’s movements or actions.
+
+               2. A state in which a person is prevented from moving
+               freely or acting as they wish due to physical barriers
+               or interventions.
+
+               This can involve various forms of restraint, such as:
+
+                   • Holding someone back with one’s hands or
+                     body
+
+                   • Using devices like handcuﬀs, straps, or re-
+                     straining jackets
+
+                   • Conﬁning someone to a speciﬁc space, like a
+                     locked room
+
+               The term is often used in contexts related to law en-
+               forcement, medical settings, or situations where
+               someone’s freedom of movement needs to be re-
+               stricted for safety or security reasons. However, it can
+
+
+
+        3 Specifically, Claude 3.5 Sonnet—again, the free version.
+USCA11 Case: 23-10478      Document: 53-1      Date Filed: 09/05/2024       Page: 27 of 56
+
+
+
+
+        23-10478              NEWSOM, J., Concurring                          7
+
+               also be used in more general situations where physi-
+               cal limitation is applied.
+
+              Then, for reasons I don’t specifically recall—but that can
+        presumably be chalked up to a “better safe than sorry” instinct—I
+        asked Claude the exact same question again. To my surprise, its
+        answer the second time around was ever-so-slightly different:
+               The ordinary meaning of “physically restrained” typ-
+               ically refers to:
+
+               Using physical means to limit or prevent someone’s
+               movement or actions.
+
+               This usually involves:
+
+                   • Holding someone back
+
+                   • Using restraining devices (e.g. handcuﬀs)
+
+                   • Conﬁning someone to a limited space
+
+               It implies direct physical intervention to restrict a per-
+               son’s freedom of movement.
+
+                Hmm. Claude’s responses were basically the same—but not
+        exactly, not verbatim. The substance seemed pretty much identi-
+        cal, but the style and structure were just a smidgen off. Most obvi-
+        ously, the first was longer and more detailed than the second. For
+        instance, unlike the first response, the second didn’t include a “state
+        in which” explanation. In the “holding someone back” bullet, the
+        first specified a means—“with one’s hands or body”—while the
+USCA11 Case: 23-10478     Document: 53-1      Date Filed: 09/05/2024    Page: 28 of 56
+
+
+
+
+        23-10478             NEWSOM, J., Concurring                        8
+
+        second didn’t. Similarly, in the “devices” bullet, the first referred
+        to handcuffs, straps, and restraining jackets as examples, while the
+        second referred only to handcuffs. Finally, the first response con-
+        cluded with a short paragraph about the various “contexts” in
+        which the phrase “physically restrained” is often used—law en-
+        forcement, medicine, etc.—while the second closed with a more
+        generic statement that the phrase “implies direct physical interven-
+        tion to restrict a person’s freedom of movement.”
+               Honestly, Claude’s varying responses rocked me back on
+        my heels a little bit. Whatever’s going on inside the LLM’s black
+        box, I worried about the same model’s failure (inability? refusal?)
+        to give the same answer to identical back-to-back queries. Might it
+        suggest that the LLM wasn’t accurately communicating its predic-
+        tion about how ordinary people use a phrase like “physically re-
+        strained”—or worse, that it didn’t even really have an accurate pre-
+        diction? After all, standard printed dictionaries don’t evolve or
+        change their minds—certainly not within the span of a few sec-
+        onds. At least within a particular bound edition, their definitions
+        are static.
+               Having done some sleuthing, I’m now less concerned than I
+        once was. There is, I think, both a valid technical explanation for
+        the variation and, perhaps more importantly for our purposes, a
+        pretty powerful analogy to the way that ordinary people ordinarily
+        use phrases in ordinary conversation. I’ll unpack both the explana-
+        tion and the analogy shortly. First, though, let me describe the
+USCA11 Case: 23-10478        Document: 53-1         Date Filed: 09/05/2024        Page: 29 of 56
+
+
+
+
+        23-10478                 NEWSOM, J., Concurring                               9
+
+        results of a little (and I do mean little) experiment that I ran, which
+        will show, descriptively, the sort of variability that I encountered.
+                                              III
+               Surprised by Claude’s second, slightly different response to
+        my query, I decided to go both a little broader and a little deeper.
+        I queried the three leading models—GPT, Claude, and Gemini4—
+        ten times apiece. Each time, I opened a new chat and asked the
+        same question: “What is the ordinary meaning of ‘physically re-
+        strained’?” Not perfectly scientific, I know, but better than a rifle
+        shot.
+                My hope was that my humble little mini-experiment might
+        begin to reveal how “confident” a model is (and we can be) about
+        its response. Cf. Yonathan Arbel & David A. Hoffman, Generative
+        Interpretation, 99 N.Y.U. L. Rev. 451, 487–488 (2024); Christoph En-
+        gel & Richard H. McAdams, Asking GPT for the Ordinary Meaning of
+        Statutory Terms 15–16 (Max Planck Inst. Discussion Paper No.
+        2024/5), https://papers.ssrn.com/sol3/papers.cfm?abstract_id=
+        4718347 [https://perma.cc/7A2K-VLBC]. A series of wildly differ-
+        ent answers would probably suggest (and would certainly inspire)
+        a lack of confidence. 5 If the model instead returned essentially
+
+        4 Gemini 1.5 Flash—which, again, is free.
+
+        5 Because I used the free chat-based interfaces available online, I couldn’t (so
+
+        far as I know) adjust the LLMs’ “temperature” settings as some have done in
+        more formal studies. See, e.g., Arbel & Hoffman, supra, at 487–488; Engel &
+        McAdams, supra, at 15–16. (“Temperature” is a setting that can influence the
+        predictability—or alternatively, “creativity”—of a model’s responses.) I opted
+        for the less technical approach because I think it’s worth exploring how LLMs
+USCA11 Case: 23-10478        Document: 53-1         Date Filed: 09/05/2024        Page: 30 of 56
+
+
+
+
+        23-10478                 NEWSOM, J., Concurring                              10
+
+        consistent answers—responses that coalesced around a common
+        core—then one could probably say, with a higher degree of confi-
+        dence, that the model was getting at the “correct” response.6
+              Again reassuringly, the 30 results I received—10 apiece from
+        each of the three leading LLMs—largely echoed the initial response
+
+        can be used in a low-cost, user-friendly way—and thereby, I hope, best approx-
+        imate how judges, lawyers, and ordinary citizens might typically employ
+        them.
+                Having said that, I was able—check that, one of my genius law clerks
+        was able—to figure out how to use the (more sophisticated, and paywalled)
+        Open AI Playground. He asked the same question, “What is the ordinary
+        meaning of ‘physically restrained’?”, and he set the temperature to zero. By
+        doing so, we were able, I think, to get even a wee bit closer to the model’s
+        “best guess” at the answer to my question. See Engel & McAdams, supra, at
+        40 n.128. Playground’s response basically tracked ChatGPT’s:
+               The ordinary meaning of “physically restrained” refers to the
+               act of limiting or controlling someone's movements through
+               physical means. This can involve using physical force, devices,
+               or other methods to prevent a person from moving freely. Ex-
+               amples include handcuffs, ropes, straps, or simply holding
+               someone down with one’s hands. The key aspect is that the
+               restriction is achieved through physical measures rather than
+               verbal commands or psychological tactics.
+        6 I realize that my mini-experiment differed from others’ empirical work in
+
+        another respect. Rather than asking about a word’s or phrase’s “ordinary
+        meaning,” as I did, those studies (at least in part) asked LLMs to apply their
+        predictions about ordinary meaning to a case’s facts and then render final de-
+        cisions—e.g., In the circumstances presented by Deleon’s case, “Was anyone
+        physically restrained?” See, e.g., Arbel & Hoffman, supra, at 487; Engel &
+        McAdams, supra, at 25. As I’ve said before, nailing down the “proper ques-
+        tion” is critically important. See Snell, 102 F.4th at 1232–33 (Newsom, J., con-
+        curring). For better or worse, I tend to default to asking, more generally, for
+USCA11 Case: 23-10478        Document: 53-1       Date Filed: 09/05/2024        Page: 31 of 56
+
+
+
+
+        23-10478                 NEWSOM, J., Concurring                           11
+
+        that I got from ChatGPT. If you’re interested in the nitty gritty, all
+        the responses are available in the Appendix. But here’s the gist:
+        When defining “physically restrained,” the models all tended to
+        emphasize “physical force,” “physical means,” or “physical barri-
+        ers.” ChatGPT and Claude specifically used one (or more) of those
+        phrases in every one of their responses. For whatever reason,
+        Gemini was a little different. It didn’t invariably employ one of
+        those terms explicitly, but even when it didn’t, the concept of what
+        I’ll call corporeality (via either human touch or a tangible object)
+        pervaded and tied together its example-laden answers. 7
+               To be sure, the models’ responses exhibited some minor
+        variations in structure and phrasing. ChatGPT’s answers, for ex-
+        ample, tended to fluctuate in length by a sentence or two. For its
+        part, Claude altered the number of examples it provided from one
+        response to the next. But for reasons I’ll explain in the next part,
+        these subtle, marginal divergences were probably (and should have
+        been) expected. Far more importantly, I think, the responses did
+        coalesce, substantively, around a common core—there was an ob-
+        jectively verifiable throughline. For our purposes, what matters is
+        that the LLMs consistently defined the phrase “physically re-
+        strained” to require the application of tangible force, either
+
+
+        a term’s ordinary meaning—probably because that’s what I’m doing when I
+        consult dictionaries. If there’s a better way—a better question—I’m fine with
+        that.
+        7 So, for instance, Gemini often mentioned “holding, tying, and locking” as
+
+        examples of physical restraints.
+USCA11 Case: 23-10478     Document: 53-1      Date Filed: 09/05/2024     Page: 32 of 56
+
+
+
+
+        23-10478              NEWSOM, J., Concurring                       12
+
+        through direct bodily contact or some other device or instrument.
+        And that, again, squares comfortably with the results obtained
+        through the traditional, dictionary-driven breaking-and-repiecing
+        method.
+                                         IV
+               So, what to make of the slight variations among the answers
+        that the models returned in response to my query? For present
+        purposes, I think there are two important points. First, there’s a
+        technical explanation for the variation, which, upon reflection,
+        doesn’t much concern me—or, upon further reflection, even much
+        surprise me. Second, there is, upon even further reflection, a sense
+        in which the substantively-identical-and-yet-marginally-different
+        answers (perhaps ironically) underscore the models’ utility in the
+        ordinary-meaning analysis—namely, in that they pretty closely
+        mimic what we would expect to see, and in fact do see, in everyday
+        speech patterns.
+                                          A
+                First, the technical details—so far as I understand them. As
+        it turns out, the LLMs that many of us use—often through a chat-
+        based interface like ChatGPT—aren’t even designed to produce the
+        exact same answer every time. Instead, and I’ll confess that I’m
+        simplifying (and perhaps oversimplifying) things here, the models
+        have settings that can introduce variation—“creativity,” as many
+        people call it—into their responses. Again, this is all pretty tech-
+        nical, but the upshot is that an LLM’s response reflects its best sta-
+        tistical, probabilistic prediction about the answer to the user’s
+USCA11 Case: 23-10478         Document: 53-1         Date Filed: 09/05/2024         Page: 33 of 56
+
+
+
+
+        23-10478                 NEWSOM, J., Concurring                                13
+
+        query. See, e.g., Mathew Renze & Erhan Guven, The Effect of Sam-
+        pling Temperature on Problem Solving in Large Language Models 1–2
+        (June 14, 2024) (unpublished manuscript), https://arxiv.org/
+        pdf/2402.05201. If a model’s creativity dial is turned down, its suc-
+        cessive responses to identical questions should be very similar, if
+        not perfectly repetitive. 8 See, e.g., François Chollet, Deep Learning
+        with Python 374–75 (2d ed. 2021). As it turns out, though, many
+        LLMs’ default creativity settings are dialed up—which, in a nut-
+        shell, can subtly adjust the underlying probability distribution that
+        drives the models’ answers. All of which is to say, the very thing
+        that I was concerned about—the LLMs’ subtly different responses,
+        particularly in structure and phrasing—was a feature, not a bug.
+        It’s how the models are meant to perform—at least for those of us
+        who (perhaps unwittingly) are using their default settings. 9
+              Wait, but why? Why are LLMs’ default parameters set to
+        introduce subtle variation? Doesn’t that seem weird, or even a
+
+
+
+        8 I’m thinking here principally about an LLM’s “temperature” setting, which
+
+        appears to be the most frequently discussed creativity parameter. See supra at
+        9–10 n.5.
+        9 I’ll confess that I couldn’t find an authoritative explanation of what the lead-
+
+        ing LLMs’ default creativity settings are for those of us who interact with the
+        models via a chat-based interface like ChatGPT. Based on the subtle variation
+        I saw, though, I’m assuming they’re not zero—i.e., that the models are intro-
+        ducing some variation into their responses. And it seems reasonable to as-
+        sume, as well, that the settings are similar for those who plug into the models
+        directly. See, e.g., Anthropic, Create a Text Completion, API Reference,
+        https://docs.anthropic.com/en/api/complete            [https://perma.cc/KHX3-
+USCA11 Case: 23-10478         Document: 53-1          Date Filed: 09/05/2024          Page: 34 of 56
+
+
+
+
+        23-10478                  NEWSOM, J., Concurring                                 14
+
+        little suspicious? Initially, I certainly thought so—I prefer my data
+        nice and neat, crisp and clean. But upon reflection, I shouldn’t have
+        been surprised. Think about how and for what purposes most peo-
+        ple—which is to say, not judges—currently use LLMs. If you’re
+        brainstorming business ideas, summarizing large masses of infor-
+        mation, or (dare I say) “writing” a term paper, then variety is, so to
+        speak, the spice of life. Mindless repetition is bad; a little imagina-
+        tion is good. So, while I’ll confess that I find it a little frustrating
+        that I can’t explain, at a granular technical level, exactly why the
+        models changed their successive responses, however slightly, it
+        now makes sense to me that they did so. Again, that’s how they’re
+        designed. 10
+
+
+        5PKA] (last visited Sep. 4, 2024) (explaining that temperature “[d]efaults to
+        1”).
+        10 One more thing I should mention briefly before moving on: Without think-
+
+        ing about it one way or the other, when I initially queried Claude for the sec-
+        ond time, I did so within the same chat “string.” I’m afraid, therefore, that I
+        might have unwittingly tapped into the chatbot’s “conversational history.”
+        See, e.g., Akash Gupta et al., LLM Task Interference: An Initial Study on the Impact
+        of Task-Switch in Conversational History 1–2 (Feb. 28, 2024) (unpublished manu-
+        script), https://arxiv.org/pdf/2402.18216. The basic idea, so far as I under-
+        stand it—I keep feeling the need to say that—is that an LLM will adjust its
+        behavior based on the questions the user feeds it, offering clarifications and
+        refinements along the way. (Rather than claiming that the model is “learning”
+        from repeated questions, I think it’s probably safer and more accurate to say
+        that its answers are becoming more “precise” or “useful.” An LLM’s
+        knowledge base is essentially fixed, based on the underlying data on which it
+        trains; it doesn’t “update” in response to questions.) Indeed, figuring out how
+        best to use prompts to better guide LLMs to more accurate results is a new
+        and valuable skill. See, e.g., Jack Kelly, The Hot, New High-Paying Career Is an AI
+USCA11 Case: 23-10478      Document: 53-1       Date Filed: 09/05/2024       Page: 35 of 56
+
+
+
+
+        23-10478               NEWSOM, J., Concurring                          15
+
+                                            B
+               Now, and even more interestingly to me, the upshot for or-
+        dinary-meaning interpretation: Technical explanations aside, why,
+        in retrospect, should I have been so unnerved by the models’
+        slightly (though again, not substantively) different answers? Given
+        the claims that I’ve made about LLMs’ utility to the interpretive
+        enterprise, shouldn’t a little variation have been exactly what I ex-
+        pected?
+               Remember, our aim is to discern “ordinary meaning.” Pre-
+        sumably, the ideal gauge of a word’s or phrase’s ordinary meaning
+        would be a broad-based survey of every living speaker of American
+        English—totally unrealistic, but great if you could pull it off. Im-
+        agine how that experiment would go: If you walked out onto the
+        street and asked all umpteen million subjects, “What is the ordi-
+        nary meaning of ‘physically restrained’?”, I think I can confidently
+        guarantee that you would not get the exact same answer spit back
+        at you verbatim over and over and over. Instead, you’d likely get
+        a variety of responses that differed around the margins but that,
+        when considered en masse, revealed a common core. And that
+        common core, to my way of thinking, is the ordinary meaning.
+
+
+
+
+        Prompt Engineer, Forbes (Mar. 6, 2024), https://www.forbes.com/sites/jack-
+        kelly/2024/03/06/the-hot-new-high-paying-career-is-an-ai-prompt-engi-
+        neer/ [https://perma.cc/45VA-YJC4]. In any event, as explained in text, I
+        tweaked my approach for my mini-experiment, opening a new chat for each
+        successive question.
+USCA11 Case: 23-10478     Document: 53-1      Date Filed: 09/05/2024     Page: 36 of 56
+
+
+
+
+        23-10478              NEWSOM, J., Concurring                       16
+
+               So, as it turns out, the very thing that had initially given me
+        pause—namely, that the LLMs were returning subtly different re-
+        sponses to the same question—has instead given me (more) hope
+        that the models have something significant to offer the interpretive
+        enterprise. The fact is, language is an organic thing, and like most
+        organic things, it can be a little messy. So too, unsurprisingly, are
+        our efforts to capture its ordinary meaning. Because LLMs are
+        trained on actual individuals’ uses of language in the real world, it
+        makes sense that their outputs would likewise be less than perfectly
+        determinate—in my experience, a little (but just a little) fuzzy
+        around the edges. What’s important, though—and I think encour-
+        aging—is that amidst the peripheral uncertainty, the LLMs’ re-
+        sponses to my repeated queries reliably revealed what I’ve called a
+        common core.
+               Now, I’m not at all sure that we’ve yet come up with the
+        perfect method for tapping into the models’ seeming ability to
+        quantify and communicate that core. I’m not even sure that exist-
+        ing LLMs (warts and all) can realistically accomplish that goal. But
+        it does strike me that some marginal uncertainty is inherent in the
+        assessment of ordinary meaning, and I (now) view the fact that
+        LLMs appear to reflect that uncertainty as a virtue rather than a
+        vice.
+                                          V
+              So, what are the takeaways?
+              1. I continue to believe—perhaps more so with each inter-
+        action—that LLMs have something to contribute to the ordinary-
+USCA11 Case: 23-10478     Document: 53-1      Date Filed: 09/05/2024     Page: 37 of 56
+
+
+
+
+        23-10478              NEWSOM, J., Concurring                       17
+
+        meaning endeavor. They’re not perfect, and challenges remain,
+        but it would be myopic to ignore them.
+              2. An important (and perhaps underappreciated) benefit of
+        incorporating LLMs into our interpretative practice is their ability
+        to decipher and explain the meaning of composite, multi-word
+        phrases in a way that standard tools like dictionaries can’t always
+        do.
+               3. We should give careful thought to how we assess and
+        account for LLMs’ sometimes varying answers to user queries. For
+        reasons I’ve explained, I think (a) that there’s a valid technical ex-
+        planation for that phenomenon and (b) that the peripheral varia-
+        tion reflects everyday speech patterns, and thus may actually make
+        the models more (rather than less) accurate predictors of ordinary
+        meaning.
+               4. A final coda: No one should mistake my missives for a
+        suggestion that AI can bring scientific certainty to the interpretive
+        enterprise. As I’ve been at pains to emphasize, I’m not advocating
+        that we give up on traditional interpretive tools—dictionaries, se-
+        mantic canons, etc. But I do think—and increasingly so—that
+        LLMs may well serve a valuable auxiliary role as we aim to trian-
+        gulate ordinary meaning.
+                Again, just my two cents. I remain happy to be shouted
+        down.
+USCA11 Case: 23-10478   Document: 53-1   Date Filed: 09/05/2024   Page: 38 of 56
+
+
+
+
+        23-10478          NEWSOM, J., Concurring                   18
+
+
+                        APPENDIX
+USCA11 Case: 23-10478     Document: 53-1      Date Filed: 09/05/2024     Page: 39 of 56
+
+
+
+
+        23-10478              NEWSOM, J., Concurring                       19
+
+                                     ChatGPT
+         Query: What is the ordinary meaning of “physically restrained”?
+                          Date of query: August 9, 2024
+
+        Response 1:
+        The term “physically restrained” generally refers to the act of lim-
+        iting or controlling someone’s physical movement or freedom
+        through the use of physical force, mechanical devices (such as
+        handcuﬀs or straps), or by holding them in place. This can occur in
+        various contexts, such as in law enforcement, healthcare, or even
+        everyday situations where someone is being prevented from mov-
+        ing freely. The goal of physical restraint is usually to prevent harm
+        to the restrained person or to others, but it is often considered a
+        serious measure and is typically used as a last resort.
+        Response 2:
+        The term “physically restrained” generally refers to the act of using
+        physical force or a device to limit or control someone’s movement
+        or actions. This can include being held down, tied up, or conﬁned
+        in a way that restricts the ability to move freely. Physical restraint
+        is often used in contexts like law enforcement, healthcare, or care-
+        giving, where it might be necessary to prevent harm to the person
+        being restrained or to others.
+        Response 3:
+        The term “physically restrained” generally refers to the act of lim-
+        iting or controlling someone’s physical movements or freedom by
+        using physical force or devices. This can involve methods like tying
+        someone down, using handcuﬀs, holding someone back with
+USCA11 Case: 23-10478     Document: 53-1      Date Filed: 09/05/2024    Page: 40 of 56
+
+
+
+
+        23-10478             NEWSOM, J., Concurring                       20
+
+        hands or arms, or employing mechanical devices such as straps or
+        belts to prevent a person from moving freely. It is often used in
+        contexts such as law enforcement, medical care, or safety situations
+        where there is a need to prevent harm to the individual or others.
+        Response 4:
+        The ordinary meaning of “physically restrained” refers to the act
+        of limiting or restricting someone’s movement through physical
+        means. This could involve the use of physical force, devices like
+        handcuﬀs or straps, or even holding someone in place with one’s
+        hands. The purpose of physical restraint is typically to control or
+        prevent a person from moving freely, often in situations where they
+        may pose a danger to themselves or others.
+        Response 5:
+        The term “physically restrained” generally refers to the act of lim-
+        iting or restricting someone’s physical movement through the use
+        of physical force, devices, or restraints. This can involve anything
+        from holding someone down with one’s hands, to using handcuﬀs,
+        straps, or other mechanical restraints to prevent them from mov-
+        ing freely.
+        The context in which the term is used can inﬂuence its precise
+        meaning, but it typically conveys the idea that a person’s ability to
+        move or act is being intentionally controlled or limited by another
+        person or mechanism.
+        Response 6:
+        The ordinary meaning of “physically restrained” refers to the act
+        of limiting or controlling someone’s movement by using physical
+        force or devices. This could involve using handcuﬀs, straps, or
+USCA11 Case: 23-10478      Document: 53-1      Date Filed: 09/05/2024     Page: 41 of 56
+
+
+
+
+        23-10478              NEWSOM, J., Concurring                        21
+
+        simply holding someone down to prevent them from moving
+        freely. The term is often used in legal, medical, or security contexts
+        to describe situations where a person is being restricted from mov-
+        ing or acting on their own accord.
+        Response 7:
+        The ordinary meaning of “physically restrained” refers to the act
+        of limiting or preventing someone’s physical movement through
+        the use of physical force, devices, or barriers. This could involve the
+        use of handcuﬀs, straps, or simply holding someone in place to pre-
+        vent them from moving freely. The term is often used in legal,
+        medical, and security contexts to describe situations where a per-
+        son is being controlled or conﬁned to prevent harm to themselves
+        or others.
+        Response 8:
+        The ordinary meaning of “physically restrained” refers to a situa-
+        tion where a person’s physical movement is restricted or controlled
+        by external forces. This could involve the use of physical barriers,
+        devices (like handcuﬀs or straps), or the physical presence of an-
+        other person who holds or conﬁnes the individual to limit their
+        ability to move freely. The term is often used in contexts where
+        someone is being held back, prevented from moving, or otherwise
+        kept under control through physical means.
+        Response 9:
+        The ordinary meaning of “physically restrained” refers to the act
+        of limiting or controlling a person’s movements through physical
+        means. This can involve the use of physical force, devices, or other
+        methods to prevent someone from moving freely. For example,
+USCA11 Case: 23-10478     Document: 53-1     Date Filed: 09/05/2024   Page: 42 of 56
+
+
+
+
+        23-10478             NEWSOM, J., Concurring                     22
+
+        this could include being held down by another person, being tied
+        or bound with ropes or handcuﬀs, or being conﬁned in a space
+        where movement is restricted. The term generally implies that the
+        person is unable to move or act according to their own will due to
+        these physical limitations.
+        Response 10:
+        “Physically restrained” generally means being prevented from
+        moving freely due to physical barriers or constraints. This could
+        involve being tied up, handcuﬀed, or otherwise restricted in move-
+        ment by physical means. It’s often used in contexts involving secu-
+        rity, medical care, or legal situations where someone’s movement
+        is limited to control or protect them.
+
+
+                                  *     *      *
+USCA11 Case: 23-10478      Document: 53-1      Date Filed: 09/05/2024     Page: 43 of 56
+
+
+
+
+        23-10478              NEWSOM, J., Concurring                        23
+
+                                       Claude
+         Query: What is the ordinary meaning of “physically restrained”?
+                           Date of query: August 9, 2024
+
+        Response 1:
+        The ordinary meaning of “physically restrained” typically refers to
+        the use of physical force or barriers to limit or control a person’s
+        movements or actions. This can include:
+           1. Holding someone back with one’s hands or body
+           2. Using devices like handcuﬀs, straps, or restraints
+           3. Conﬁning someone to a speciﬁc space, such as a room or cell
+           4. Preventing someone from moving freely by blocking their
+              path
+        The term implies a direct, tangible interference with a person’s abil-
+        ity to move or act as they wish. It’s often used in contexts related to
+        law enforcement, healthcare, or situations where someone’s free-
+        dom of movement needs to be restricted for safety or security rea-
+        sons.
+        The exact interpretation may vary slightly depending on the con-
+        text, but generally, it involves a clear, physical limitation on some-
+        one’s freedom of movement. Would you like me to elaborate on
+        any speciﬁc aspect of this deﬁnition?
+USCA11 Case: 23-10478     Document: 53-1     Date Filed: 09/05/2024    Page: 44 of 56
+
+
+
+
+        23-10478             NEWSOM, J., Concurring                      24
+
+        Response 2:
+        The ordinary meaning of “physically restrained” typically refers to:
+           1. The use of physical force or mechanical devices to limit or
+              control a person’s bodily movements.
+           2. Preventing someone from moving freely by holding them,
+              tying them up, or conﬁning them in a space.
+           3. Applying physical measures to restrict an individual’s ability
+              to act or move as they wish.
+        This term is often used in contexts such as:
+           •   Law enforcement situations where oﬃcers may need to con-
+               trol a suspect
+           •   Medical settings, where patients might need to be restrained
+               for their own safety
+           •   Instances of assault or abduction
+           •   Certain therapeutic or protective interventions
+        The concept generally implies a temporary and situational applica-
+        tion of physical control, rather than a permanent condition.
+        Would you like me to elaborate on any speciﬁc aspect of this deﬁ-
+        nition or its applications?
+        Response 3:
+        The ordinary meaning of “physically restrained” typically refers to
+        the act of using physical force or methods to restrict or control a
+        person’s movements or actions. This can include:
+           1. Holding someone back with hands or arms
+USCA11 Case: 23-10478     Document: 53-1      Date Filed: 09/05/2024     Page: 45 of 56
+
+
+
+
+        23-10478              NEWSOM, J., Concurring                       25
+
+           2. Using restraints like handcuﬀs, straps, or rope to limit
+              movement
+           3. Conﬁning someone to a speciﬁc space, such as a room or
+              cell
+           4. Using one’s body weight to pin someone down
+           5. Employing devices designed for restraint, such as strait
+              jackets or leg shackles
+        The term implies a direct, tangible limitation on a person’s physical
+        freedom, usually against their will or as a means of control. It’s
+        often used in contexts related to law enforcement, medical settings,
+        or situations where someone’s movements need to be restricted for
+        safety or security reasons.
+        Would you like me to elaborate on any speciﬁc aspect of this deﬁ-
+        nition or its applications?
+        Response 4:
+        The ordinary meaning of “physically restrained” typically refers to
+        the use of physical force, barriers, or implements to restrict or con-
+        trol a person’s bodily movements or actions. This could include:
+           1. Holding someone back with hands or arms
+           2. Using restraint devices like handcuﬀs, straps, or rope
+           3. Conﬁning someone to a limited space, such as a room or cell
+           4. Preventing someone from moving freely by blocking their
+              path
+           5. Using one’s body weight to immobilize another person
+USCA11 Case: 23-10478     Document: 53-1      Date Filed: 09/05/2024    Page: 46 of 56
+
+
+
+
+        23-10478             NEWSOM, J., Concurring                       26
+
+        The term generally implies a deliberate action to limit someone’s
+        physical freedom of movement, often against their will or as a
+        means of control. This could occur in various contexts, such as law
+        enforcement, medical settings, or during conﬂicts between individ-
+        uals.
+        It’s important to note that the speciﬁc interpretation may vary
+        slightly depending on the context in which the term is used. Would
+        you like me to elaborate on any particular aspect of this deﬁnition?
+        Response 5:
+        The ordinary meaning of “physically restrained” typically refers to
+        the act of using physical force or barriers to limit or control some-
+        one’s movements or actions. This can include:
+           1. Holding someone back with your hands or body
+           2. Using restraints like handcuﬀs, straps, or rope to restrict
+              movement
+           3. Conﬁning someone to a speciﬁc space, such as a room or cell
+           4. Using physical objects to block or impede movement
+        The term implies a direct, tangible intervention to prevent a person
+        from moving freely or taking certain actions. It’s often used in con-
+        texts like law enforcement, healthcare (particularly in psychiatric
+        settings), or in describing forceful interpersonal interactions.
+        It’s important to note that the use of physical restraints can have
+        legal, ethical, and safety implications depending on the context and
+        manner in which they are applied.
+        Would you like me to elaborate on any speciﬁc aspect of this deﬁ-
+        nition or its applications?
+USCA11 Case: 23-10478     Document: 53-1     Date Filed: 09/05/2024    Page: 47 of 56
+
+
+
+
+        23-10478             NEWSOM, J., Concurring                      27
+
+        Response 6:
+        The ordinary meaning of “physically restrained” typically refers to
+        the use of physical force or mechanical means to limit or control a
+        person’s movements or actions against their will. This can include:
+           1. Holding someone back with hands or arms
+           2. Using handcuﬀs, straps, or other restraining devices
+           3. Conﬁning someone to a speciﬁc space, like a room or chair
+           4. Blocking someone’s path to prevent movement
+        The term implies a direct, tangible intervention to restrict a per-
+        son’s physical freedom of movement. It’s often used in contexts
+        like law enforcement, healthcare (particularly in psychiatric set-
+        tings), or in describing forceful interpersonal interactions.
+        It’s important to note that the speciﬁc interpretation can vary
+        slightly depending on the context in which it’s used. Would you like
+        me to elaborate on any particular aspect or application of this
+        term?
+        Response 7:
+        The ordinary meaning of “physically restrained” typically refers to:
+           1. The use of physical force or mechanical means to limit a per-
+              son’s movement or ability to act freely.
+           2. Holding someone back or preventing them from moving us-
+              ing bodily contact or restraining devices.
+           3. Restricting an individual’s physical mobility against their
+              will.
+        This can include actions such as:
+USCA11 Case: 23-10478     Document: 53-1      Date Filed: 09/05/2024     Page: 48 of 56
+
+
+
+
+        23-10478              NEWSOM, J., Concurring                       28
+
+           •   Holding someone’s arms or body to prevent them from
+               moving
+           •   Using handcuﬀs, straps, or other restraining devices
+           •   Conﬁning someone to a speciﬁc space, like a room or cell
+           •   Forcibly keeping someone in a particular position
+        The term is often used in contexts related to law enforcement,
+        healthcare settings, or situations where someone’s freedom of
+        movement needs to be limited for safety or security reasons. How-
+        ever, it can also be used in broader contexts to describe any situa-
+        tion where someone’s physical movement is forcibly restricted.
+        Would you like me to elaborate on any speciﬁc aspect of this deﬁ-
+        nition?
+        Response 8:
+        The ordinary meaning of “physically restrained” typically refers to
+        the use of physical force, barriers, or implements to restrict or con-
+        trol a person’s movement or actions against their will. This can in-
+        clude:
+           1. Using bodily force to hold someone in place
+           2. Applying handcuﬀs, straps, or other restraining devices
+           3. Conﬁning someone to a restricted space, like a locked room
+           4. Using physical barriers to prevent movement
+           5. Forcibly limiting someone’s range of motion
+        The term implies a direct, tangible interference with a person’s abil-
+        ity to move freely, often in the context of law enforcement, medical
+USCA11 Case: 23-10478     Document: 53-1      Date Filed: 09/05/2024     Page: 49 of 56
+
+
+
+
+        23-10478              NEWSOM, J., Concurring                       29
+
+        situations, or instances where someone’s actions need to be con-
+        trolled for safety reasons.
+        It’s important to note that the speciﬁc interpretation may vary
+        slightly depending on the context in which the term is used. Would
+        you like me to elaborate on any particular aspect of this deﬁnition?
+        Response 9:
+        The ordinary meaning of “physically restrained” typically refers to
+        the act of using physical force or mechanisms to limit or control a
+        person’s movement or actions. This can include:
+           1. Holding someone back with one’s hands or body
+           2. Using devices like handcuﬀs, straps, or restraints
+           3. Conﬁning someone to a speciﬁc space, such as a room or
+              chair
+           4. Preventing someone from moving freely by blocking their
+              path
+        The term implies a direct, tangible intervention to restrict a per-
+        son’s physical mobility or actions, usually against their will or as a
+        means of control. This could occur in various contexts, such as law
+        enforcement, medical settings, or during conﬂicts.
+        It’s important to note that the speciﬁc interpretation may vary
+        slightly depending on the context in which the term is used. Would
+        you like me to elaborate on any particular aspect of this deﬁnition?
+USCA11 Case: 23-10478     Document: 53-1      Date Filed: 09/05/2024     Page: 50 of 56
+
+
+
+
+        23-10478              NEWSOM, J., Concurring                       30
+
+        Response 10:
+        The ordinary meaning of “physically restrained” typically refers to
+        the act of using physical force or barriers to restrict or limit some-
+        one’s movement or actions. This can involve:
+           1. Holding someone back with your hands or body
+           2. Using restraints like handcuﬀs, straps, or ropes to immobi-
+              lize a person
+           3. Conﬁning someone to a speciﬁc space, such as a room or cell
+           4. Using physical objects to block or impede movement
+        The term is often used in contexts like law enforcement, medical
+        settings, or situations where someone needs to be prevented from
+        harming themselves or others. It implies a direct, hands-on ap-
+        proach to limiting a person’s physical freedom of movement, as
+        opposed to other forms of restraint like verbal commands or legal
+        restrictions.
+        Would you like me to elaborate on any speciﬁc aspect of this deﬁ-
+        nition or provide examples of its use in diﬀerent contexts?
+
+
+                                   *      *      *
+USCA11 Case: 23-10478     Document: 53-1      Date Filed: 09/05/2024     Page: 51 of 56
+
+
+
+
+        23-10478              NEWSOM, J., Concurring                       31
+
+                                      Gemini
+         Query: What is the ordinary meaning of “physically restrained”?
+                          Date of query: August 9, 2024
+
+        Response 1:
+        Physically restrained means that a person’s freedom of movement
+        is restricted by another person or object against their will. This can
+        be done in a variety of ways, such as:
+           •   Holding: Someone physically preventing another person
+               from moving.
+           •   Tying: Using ropes, chains, or other materials to bind a per-
+               son.
+           •   Locking: Conﬁning a person in a space with no means of
+               escape.
+        Essentially, it means a person is being physically controlled and pre-
+        vented from moving freely.
+        Would you like to know the meaning of “physically restrained” in
+        a speciﬁc context, such as legal or medical?
+        Response 2:
+        Physically restrained means that a person’s freedom of movement
+        is restricted by another person or object against their will. This can
+        be done through:
+           •   Direct physical force: Holding, grabbing, or pushing some-
+               one to prevent them from moving.
+USCA11 Case: 23-10478     Document: 53-1      Date Filed: 09/05/2024     Page: 52 of 56
+
+
+
+
+        23-10478              NEWSOM, J., Concurring                       32
+
+           •   Physical barriers: Conﬁning someone in a room or space
+               with locked doors or windows.
+           •   Mechanical devices: Using handcuﬀs, shackles, or similar
+               restraints.
+        Essentially, it means someone is being held back or prevented from
+        moving freely.
+        Would you like to know more about the legal or speciﬁc context in
+        which this term is used?
+        Response 3:
+        Physically restrained means that a person’s freedom of movement
+        is restricted by another person or object against their will. This can
+        be done in a variety of ways, such as:
+           •   Holding: Someone physically preventing another person
+               from moving.
+           •   Tying: Using ropes, chains, or other materials to bind a per-
+               son.
+           •   Locking: Conﬁning a person in a space with limited or no
+               exit.
+        Essentially, it means someone is being held against their will and
+        unable to move freely.
+        Would you like to know more about the legal or speciﬁc context of
+        this term?
+USCA11 Case: 23-10478     Document: 53-1      Date Filed: 09/05/2024     Page: 53 of 56
+
+
+
+
+        23-10478              NEWSOM, J., Concurring                       33
+
+        Response 4:
+        Physically restrained means that a person’s freedom of movement
+        is restricted by another person or object against their will. This can
+        be done in a variety of ways, such as:
+           •   Holding: Someone physically holding another person to
+               prevent them from moving.
+           •   Tying: Using ropes, chains, or other materials to bind a per-
+               son.
+           •   Conﬁning: Locking someone in a room or space.
+           •   Immobilizing: Using physical force or devices to prevent
+               movement.
+        Essentially, it involves limiting a person’s ability to move freely
+        through physical means.
+        Would you like to know the legal deﬁnition of physically re-
+        strained, or do you have a speciﬁc context in mind?
+        Response 5:
+        Physically restrained means that a person’s freedom of movement
+        is restricted by another person or object against their will. This can
+        be done through:
+           •   Direct physical force: Holding someone down, pushing
+               them back, or preventing them from moving.
+           •   Physical barriers: Conﬁning someone in a room, tying
+               them up, or using handcuﬀs.
+        Essentially, it means someone is being forcibly prevented from
+        moving freely.
+USCA11 Case: 23-10478     Document: 53-1      Date Filed: 09/05/2024     Page: 54 of 56
+
+
+
+
+        23-10478              NEWSOM, J., Concurring                       34
+
+        Example: A person who is handcuﬀed to a chair is physically re-
+        strained.
+        Would you like to know the legal deﬁnition of “physically re-
+        strained” in a speciﬁc context?
+        Response 6:
+        Physically restrained means that a person’s freedom of movement
+        is restricted by another person or object against their will. This can
+        be done through:
+           •   Direct physical force: Holding someone down, pushing
+               them back, or preventing them from moving.
+           •   Physical barriers: Conﬁning someone in a locked room, us-
+               ing handcuﬀs, or tying someone up.
+        Essentially, it means someone is being physically prevented from
+        doing what they want to do.
+        Would you like to know the legal deﬁnition in a speciﬁc context?
+        Response 7:
+        Physically restrained means that a person’s freedom of movement
+        is restricted by another person or object against their will. This can
+        involve:
+           •   Holding or grabbing: Using physical force to prevent some-
+               one from moving.
+           •   Tying or binding: Using ropes, chains, or similar items to
+               restrict movement.
+           •   Conﬁning: Keeping someone in a limited space, such as a
+               room or cage.
+USCA11 Case: 23-10478     Document: 53-1      Date Filed: 09/05/2024     Page: 55 of 56
+
+
+
+
+        23-10478              NEWSOM, J., Concurring                       35
+
+        Essentially, it means someone is being physically prevented from
+        doing what they want to do.
+        Would you like to know about the legal or medical implications of
+        physical restraint?
+        Response 8:
+        Physically restrained means that a person’s freedom of movement
+        is restricted by another person or object against their will. This can
+        be done through:
+           •   Direct physical force: Holding someone down, pushing
+               them back, or preventing them from moving.
+           •   Physical barriers: Conﬁning someone in a locked room, us-
+               ing handcuﬀs or shackles, or tying someone up.
+        Essentially, it involves limiting someone’s ability to move freely and
+        independently.
+        Would you like to know the legal deﬁnition or the term’s use in a
+        speciﬁc context?
+        Response 9:
+        Physically restrained means that a person’s freedom of movement
+        is restricted by another person or object against their will. This can
+        be done through:
+           •   Direct physical force: Holding, grabbing, or pinning some-
+               one down.
+           •   Physical barriers: Using handcuﬀs, zip ties, or other devices
+               to restrict movement.
+USCA11 Case: 23-10478     Document: 53-1      Date Filed: 09/05/2024     Page: 56 of 56
+
+
+
+
+        23-10478              NEWSOM, J., Concurring                       36
+
+           •   Environmental restrictions: Conﬁning someone in a
+               locked room or space.
+        Essentially, it means someone is being forcibly prevented from
+        moving freely.
+        Would you like to know more about the legal or speciﬁc context of
+        the term?
+        Response 10:
+        Physically restrained means that a person’s freedom of movement
+        is restricted by another person or object against their will. This can
+        involve:
+           •   Holding: Someone physically holding another person to
+               prevent movement.
+           •   Tying: Using ropes, chains, or other materials to bind a per-
+               son.
+           •   Locking: Conﬁning a person in a space with no means of
+               escape.
+        Essentially, it means a person is prevented from moving freely by
+        external forces.
+
+
+                                   *      *      *
+

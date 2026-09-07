@@ -1,0 +1,335 @@
+441 G St. N.W.
+Washington, DC 20548
+Comptroller General
+of the United States
+Decision
+Matter of: LOGMET LLC
+File: B-423066.2
+Date: April 15, 2026
+Wayne Rankin for the protester.
+Kevin P. Connelly, Esq., Kelly E. Buroker, Esq., Jeffrey M. Lowry, Esq., and Michael P.
+Ols, Esq., Vedder Price P.C., for Amentum Services, Inc., the intervenor.
+Colonel Justin A. Silverman, Geoffrey R. Townsend, Esq., Major Princess Gaye, and
+Alexander S. Hall, Esq., Department of the Air Force, for the agency.
+Hannah G. Barnes, Esq., and April Y. Shields, Esq., Office of the General Counsel,
+GAO, participated in the preparation of the decision.
+DIGEST
+1. Protest challenging the agency’s evaluation of the protester’s proposal is denied
+where the evaluation was reasonable and in accordance with the terms of the
+solicitation.
+2. Protest that the agency should have conducted discussions to allow the protester to
+cure its proposal’s technical unacceptability is denied where the solicitation expressly
+stated that the agency intended to award without discussions.
+DECISION
+LOGMET LLC (Logmet), a service-disabled veteran-owned small business of Round
+Rock, Texas, protests its non-selection for a multiple-award indefinite-delivery,
+indefinite-quantity (IDIQ) contract under request for proposals (RFP)
+No. FA810824RB001, issued by the Department of the Air Force for maintenance
+services. The protester argues that the agency incorrectly and unreasonably evaluated
+its proposal.
+We deny the protest.1
+1
+This protest is not subject to a GAO protective order because Logmet opted to
+proceed pro se, that is, without counsel. Accordingly, our discussion of some aspects of
+(continued...)Page 2 B-423066.2
+BACKGROUND
+The agency issued the solicitation on June 24, 2024, in accordance with Federal
+Acquisition Regulation (FAR) part 15 and FAR subpart 16.5. Contracting Officer’s
+Statement (COS) at 2; Agency Report (AR), Tab 8, RFP at 3.2
+The RFP sought
+maintenance services in support of the Contractor Field Team (CFT) program, which
+provides Department of Defense entities and other federal agencies with “the ability to
+rapidly augment existing organic maintenance efforts with contract maintenance
+services using the CFT Labor Augmentations Support Requirements (LASR) [IDIQ]
+[c]ontract.” AR, Tab 9, Performance Work Statement (PWS) at 6. The solicitation
+anticipated the award of multiple CFT LASR IDIQ contracts with a base ordering period
+of five years and one 5-year option ordering period. AR, Tab 3, Source Selection Plan
+at 4; Memorandum of Law (MOL) at 3. The solicitation provided for the issuance of task
+orders under the CFT LASR IDIQ contract vehicle in two different pools: a full and open
+competition pool, and a pool set aside for small businesses. AR, Tab 15, RFP
+amend. 0002 Section L at 1-2. The solicitation instructed offerors to indicate the pool
+for which they were competing, with small businesses eligible to compete in both pools.
+Id. at 2.
+The solicitation provided for award “utilizing the Highest Technically Rated Offerors
+(HTRO) Minimum Technical Threshold Rating (MTTR) approach.” AR, Tab 16, RFP
+amend. 0002 Section M at 1. The RFP established that the agency would evaluate
+three factors: certification, technical, and past performance. Id. at 3. The solicitation
+specified that the technical factor included two subfactors: an HTRO self-scoring
+matrix, and a small business participation commitment document. Id. To be eligible for
+award, the RFP required that offerors’ proposals be rated acceptable under the
+certification factor, have a validated self-score at or above the minimum technical
+threshold rating of 40,000 points under the HTRO self-scoring matrix subfactor, be rated
+acceptable under the small business participation commitment document subfactor, and
+be rated acceptable under the past performance factor. Id. at 6.
+The RFP provided for a multi-step evaluation process. In the first step, the RFP advised
+that proposals would be evaluated on a pass/fail basis on whether offerors provided a
+current copy of the certification required by the solicitation. AR, Tab 16, RFP
+amend. 0002 Section M at 4, 6. Offerors rated as acceptable under this first step would
+then have their proposals evaluated under the technical subfactors. Id. at 4.
+In the next step, under the technical factor, HTRO self-scoring matrix subfactor, the
+RFP required offerors to submit a self-rated score; the solicitation established a
+minimum technical threshold rating of 40,000 points that offerors needed to meet or
+the record is necessarily general to limit references to non-public information.
+Nonetheless, GAO reviewed the entire record in camera in preparing our decision.
+2
+The solicitation was amended four times. COS at 5. All citations are to the most
+updated versions of the solicitation.Page 3 B-423066.2
+exceed to be eligible for award. Id. at 4-5. The point scores were based on the extent
+of an offeror’s prior relevant work. See id. at 6. Offerors had to provide work samples
+of previous contracts or task orders and accompanying narratives explaining the
+relevancy of those prior contracts or orders to the proposed effort. AR, Tab 15, RFP
+amend. 0002 Section L at 9-10. Offerors were to rate and substantiate these work
+samples by completing an HTRO self-scoring matrix, resulting in an overall self-score.
+This self-score was based on 21 total criteria, with 18 criteria applying to the full and
+open competition pool and 18 criteria applying to the small business pool.3
+AR, Tab 16,
+RFP amend. 0002 Section M at 6; see AR, Tab 12, HTRO Self-Scoring Matrix at 1-2.
+The RFP further advised that offerors’ technical proposals should “be written on a
+stand-alone basis” and cautioned offerors that “[i]nformation required for the technical
+proposal evaluation, which is not found [in] the [t]echnical volume, will be assumed to
+have been omitted from the proposal, and will not be considered in the technical
+evaluation.” AR, Tab 15, RFP amend. 0002 Section L at 5.
+Consistent with these instructions, the RFP then advised that the agency’s evaluation
+would consist of validating offerors’ self-scores based on their work samples and work
+sample narratives for those offerors with self-scores at or above 40,000 points. AR,
+Tab 16, RFP amend. 0002 Section M at 4. More specifically, and as relevant here, the
+solicitation stated the following:
+The Government will only conduct a validation evaluation . . . for Offerors
+that initially submit an HTRO Self-Scoring Matrix with a self-score equal to
+or above the MTTR of 40,000. To validate self-scores, the Government
+will only evaluate the information in the location identified by the Offeror in
+its Cross-Reference Matrix for the corresponding requirement []. If the
+Government is unable to validate that Offeror’s self-rated score based on
+the work samples and work sample narratives, the Government will
+unilaterally downward adjust the Offeror’s self-rated score, potentially
+down to zero points. The Government will only adjust the Offeror’s self-
+rated score downward, not upward. Such adjustments are within the sole
+discretion of the Government and are based upon the substantiation of the
+self-rated score provided by the Offeror. At the conclusion of the initial
+evaluation, in the event the Government conducts an award without
+discussions, Offerors who are determined to be below the MTTR of
+40,000 points will not be assessed and will not be considered in the best
+value award decision. In the event the Government determines
+discussions are necessary, Offerors below the MTTR of 40,000 [points]
+will be excluded from the Competitive Range.
+3
+For example, one of the criteria was for the number of prior contracts or task orders,
+administered in the last five years, that “included direct wheeled and track vehicle
+maintenance activities.” AR, Tab 12, HTRO Self-Scoring Matrix at 1. For that one
+criterion, offerors could reach a maximum possible score of 1000 points. Id. A larger
+number of work samples, up to five, that met that criterion would result in a higher
+score. Id.Page 4 B-423066.2
+Id. at 4-5.
+Proposals with a validated score at or above 40,000 points would then be evaluated
+under the next steps--the small business participation commitment document subfactor4
+and the past performance factor5
+--and finally, the award decision. In sum, only offerors
+with technically acceptable proposals under all three evaluation factors and a validated
+self-score at or above the 40,000 point minimum technical threshold rating would be
+eligible for award.
+As relevant here, the solicitation stated that the agency “reserves the right to conduct
+discussions[,]” if the contracting officer determined they were necessary. RFP at 60.
+However, it advised that the agency “intends to evaluate proposals and award a
+contract without discussions with offerors” and warned that, “[t]herefore, the offeror’s
+initial proposal should contain the offeror’s best terms from a . . . technical standpoint.”
+Id.
+The agency received 26 proposals by the January 22, 2025 due date for proposals.
+COS at 5; AR, Tab 18, RFP amend. 0003 at 2. The agency found that Logmet’s
+proposal did not meet the solicitation requirements under the HTRO self-scoring matrix
+subfactor because Logmet failed to include the HTRO self-scoring matrix in its proposal.
+AR, Tab 24, Logmet Technical Worksheet at 3. As a result, the agency determined that
+it could not validate Logmet’s score and concluded that Logmet was ineligible to be
+evaluated any further under the technical or past performance factors. Id. at 4. In
+making this determination, the Source Selection Authority (SSA) noted that Logmet
+“failed to provide the actual HTRO self-scoring matrix to be evaluated and therefore,
+Logmet was deemed technically unacceptable and ineligible for award.” AR, Tab 25,
+Source Selection Decision Document (SSDD) at 9.
+On January 26, 2026, the Air Force notified Logmet that it was an unsuccessful offeror.
+AR, Tab 26, Notice of Unsuccessful Offeror at 1. On January 30, this protest followed.
+4
+Under the small business participation commitment document subfactor, the
+solicitation provided for proposals to be evaluated on a pass/fail basis for the “extent of
+[their] proposed participation/commitment to use of U.S. small businesses in the
+performance of this acquisition.” AR, Tab 16, RFP amend. 0002 Section M at 6. The
+solicitation required offerors to, at a minimum, provide an approach demonstrating this
+commitment and to submit a completed “Small Business Participation Commitment
+Document.” Id.
+5
+Proposals with a rating of acceptable under the small business participation
+commitment document subfactor would then proceed to the next step: past
+performance evaluation. AR, Tab 16, RFP amend. 0002 Section M at 5. Under the
+past performance factor, evaluators would consider recency, relevancy, and
+performance quality; proposals would be rated as either acceptable or unacceptable.
+Id. at 7-9.Page 5 B-423066.2
+DISCUSSION
+Logmet argues that the agency failed to evaluate its proposal in accordance with the
+requirements of the solicitation under the technical factor, HTRO self-scoring matrix
+subfactor, despite the protester’s failure to include the required self-scoring matrix in its
+technical proposal. The protester also asserts that the agency should have given
+Logmet an opportunity to cure this issue and submit the missing matrix through
+discussions. After reviewing the record, we find no basis to sustain the protest.6,7
+HTRO Self-Scoring Matrix
+In its protest, Logmet acknowledges that its self-scoring matrix was missing from the
+proposal as documented in the agency’s evaluation. Logmet also specifically
+acknowledges that the HTRO self-scoring matrix is a “technical discriminator” and that
+“its absence materially affects the evaluation[.]” Protest at 5. Yet, Logmet argues that it
+provided other information--work samples and corresponding narratives--in its proposal
+and asserts that the Air Force could and should have used this information to perform a
+validation review, calculating a score for Logmet and adjusting it downward, if
+necessary. Comments at 10-12.
+6
+In its various protest submissions, Logmet has raised arguments that are variations of
+those specifically discussed below. While we do not specifically address all of the
+protester’s arguments, we have considered them and conclude that they do not provide
+a basis to sustain the protest.
+7
+We note that in reviewing the protester’s filings, we identified several irregularities in
+citations provided by the protester. In this regard, the protester cited decisions of our
+Office for which we were unable to locate the decisions identified by the protester and
+misrepresented the content of several decisions. For example, the protester cites to
+“Innovative Test Asset Solutions, LLC, B-419132, Dec. 16, 2020, 2020 CPD ¶ 398” for
+the proposition that “omissions affecting the evaluation of a scored factor are material
+defects” requiring further action from the agency. Protest at 5. We could not locate a
+decision matching this citation or proposition asserted by Logmet in its protest. The
+protester later acknowledges that certain citations were “inaccurate” but claims that the
+“[e]rrors [w]ere [i]nadvertent[.]” Resp. to Address Citations at 2.
+Parties appearing before our Office have an obligation to accurately summarize factual
+or legal assertions, including cited decisions. Assessment & Training Sols. Consulting
+Corp., B-423398, June 27, 2025, at 7 n.6. As we have explained, our Office necessarily
+reserves an inherent right to dismiss any protest and to impose sanctions against a
+protester, where a protester’s actions undermine the integrity and effectiveness of our
+process. Id. Although we did not impose sanctions here, we advise the protester that
+the submission of filings with citations to non-existent authority may result in the
+imposition of sanctions where appropriate. See Raven Investigations & Sec.
+Consulting, LLC, B‑423447, May 7, 2025, at 5.Page 6 B-423066.2
+The agency responds that it reasonably excluded Logmet’s proposal from consideration
+for award because it failed to meet the solicitation’s requirements. MOL at 7. The Air
+Force asserts that because the protester failed to include the HTRO self-scoring matrix
+in its proposal, as required by the solicitation, the agency reasonably determined that its
+proposal was technically unacceptable. Id. at 7-10. The agency argues that evaluators
+followed the steps outlined in the solicitation: after assigning a rating of acceptable to
+Logmet’s proposal under the certification factor, the agency moved on to the first
+technical subfactor--the HTRO self-scoring matrix subfactor--and determined that
+Logmet had not met the minimum technical threshold scoring requirement because it
+had not provided a self-scoring matrix. Id. at 8. Because the Air Force “could only
+adjust the self-rated score downward, not upward,” in the absence of a self-score, the
+agency asserts that it reasonably “did not attempt to evaluate [Logmet’s] narrative
+references.” Id.
+In reviewing protests of alleged improper evaluations, it is not our role to reevaluate
+proposals; rather, we will examine the record to determine whether the agency’s
+judgment was reasonable and consistent with the stated evaluation criteria and
+applicable procurement laws and regulations. See SysVets, LLC, B-415694, Feb. 13,
+2018, at 3-4. In this regard, an offeror has the burden of submitting an adequately
+written proposal, and where a proposal omits, inadequately addresses, or fails to clearly
+convey required information, the offeror runs the risk of an adverse agency evaluation.
+Id. at 4. A protester’s disagreement with the agency’s evaluation, without more, is
+insufficient to demonstrate that the evaluation was unreasonable. EEC-Lukos JV, LLC,
+B-423464.2, B-423464.3, Jan. 27, 2026, at 8.
+Here, we find no basis to object to the agency’s evaluation. The solicitation explicitly
+required offerors to submit a self-scoring matrix. AR, Tab 15, RFP amend. 0002
+Section L at 8-9; AR, Tab 16, RFP amend. 0002 Section M at 4-6. Indeed, the protester
+acknowledges the importance of the HTRO self-scoring matrix when it states that the
+matrix is a “technical discriminator” and that “its absence materially affects the
+evaluation[.]” Protest at 5. The RFP states that the agency “will only conduct a
+validation evaluation . . . for [o]fferors that initially submit an HTRO Self-Scoring Matrix
+with a self-score equal to or above the MTTR of 40,000.” AR, Tab 16, RFP
+amend. 0002 Section M at 4. However, the record shows--and the protester does not
+contest--that Logmet failed to include this matrix in its submitted proposal.8
+See AR,
+8
+The protester attempts to shift the blame for this failure to the agency by referring to a
+section of its proposal that states Logmet provided a completed copy of the HTRO self-
+scoring matrix as “a separate attachment.” Comments at 18 (quoting AR, Tab 21,
+Logmet Proposal Volume II at 7). The protester has not provided any proof that it sent
+any “attachment” with the matrix to the agency; instead, it complains that the agency did
+not create a “receipt log, [] file inventory, [] evaluator note explaining an unsuccessful
+attempt to locate the attachment, [or an] explanation reconciling the proposal’s explicit
+statement with the [a]gency’s conclusion” that it did not receive a matrix. Comments
+at 21. Logmet characterizes this as a “documentation failure” on the agency. Id.
+(continued...)Page 7 B-423066.2
+Tab 25, SSDD at 9. The protester not only failed to submit a matrix with a self-score
+equal to or above the 40,000 point threshold; it failed to submit a self-scoring matrix at
+all. See AR, Tab 24, Logmet Technical Worksheet at 3-4. In other words, the
+solicitation language directly contradicts the protester’s assertion that the agency should
+have attempted to calculate a score for Logmet and perform a downward validation
+using other parts of Logmet’s proposal, rather than reject Logmet’s proposal as
+technically unacceptable for failing to submit the required self-scoring matrix.
+The protester complains that the agency did not validate its score; however, Logmet
+fails to explain how the agency could validate a score that was never provided. See
+Comments at 10. The protester points to the work samples and accompanying
+narratives that it submitted, but Logmet fails to recognize or acknowledge that the
+solicitation provided for these work samples to substantiate an offeror’s self-score, not
+to replace it entirely. See AR, Tab 16, RFP amend. 0002 Section M at 4-5. We note
+and agree with the logic of the agency’s argument that because it could only adjust self-
+rated scores downward, not upward, in accordance with the solicitation, it reasonably
+“did not attempt to evaluate [Logmet’s] narrative references” in the absence of a
+submitted matrix or self-score. MOL at 8; see AR, Tab 24, Logmet Technical
+Worksheet at 3-4.
+In conclusion, we agree with the agency that it reasonably evaluated the protester’s
+proposal as technically unacceptable under the HTRO self-scoring matrix technical
+subfactor given Logmet’s failure to submit said matrix.
+Discussions
+Relatedly, the protester argues that the agency should have addressed the issue of a
+missing matrix with Logmet through discussions. Protest at 5. The protester argues
+that the solicitation does not contemplate “a categorical prohibition on communications”
+under the HTRO self-scoring matrix subfactor. Comments at 20. The protester
+We disagree and conclude that the protester’s argument is directly at odds with the
+established precedent that an offeror bears the burden of submitting an adequately
+written proposal and runs the risk of an adverse agency evaluation where a proposal
+omits, inadequately addresses, or fails to clearly convey required information. See
+SysVets, supra at 4. Further, even if the protester successfully submitted the HTRO
+self-scoring matrix as a separate attachment--and there is no information in the record
+to indicate that it did--the solicitation explicitly cautioned offerors that information
+“required for the technical proposal evaluation,” such as the HTRO self-scoring matrix,
+which “is not found [in] the [t]echnical volume, will be assumed to have been omitted
+from the proposal[.]” AR, Tab 15, RFP amend. 0002 Section L at 5. This protest
+ground is denied.Page 8 B-423066.2
+contends that the agency had the discretion “to seek a limited clarification”9
+regarding
+Logmet’s self-scoring matrix. Id. at 32.
+The agency responds that Logmet’s argument--that the agency should have entered
+into discussions to cure the omitted HTRO matrix--is incorrect. MOL at 9. The Air
+Force argues that it was not required to conduct discussions and points to the
+solicitation, which advised that the agency intended to make award without discussions.
+Id. (citing RFP at 60). The agency adds that Logmet’s proposal was ineligible for
+discussions, because even in the event that the agency chose to conduct discussions,
+the solicitation advised that offerors with proposals below the minimum technical
+threshold rating of 40,000 points would “be excluded from the [c]ompetitive [r]ange.” Id.
+(quoting AR, Tab 16, RFP amend. 0002 Section M at 5).
+We agree with the agency. Our Office has previously explained that where, as here, a
+solicitation advises offerors that the agency intends to make award without discussions,
+there are no statutory or regulatory criteria specifying when an agency should or should
+not initiate discussions. Management Sys. Int’l, Inc.; Blumont Eng’g Sols., Inc.,
+B-418080 et al., Jan. 9, 2020, at 8. Thus, we will generally not review the agency’s
+decision not to engage in discussions. Id.; see also SigNet Techs., Inc., B-418677,
+July 23, 2020, at 4 (noting further that an agency’s discretion to hold discussions is quite
+broad).
+Here, the RFP specifically stated that the agency intended to “evaluate proposals and
+award a contract without discussions with offerors[.]” RFP at 60. As a result, the
+solicitation advised that an offeror’s initial proposal “should contain the offeror’s best
+terms from a . . . technical standpoint.” Id. The contemporaneous record shows that, in
+accordance with the solicitation, the agency decided not to conduct discussions and
+determined that Logmet’s failure to include an HTRO self-scoring matrix in its proposal
+rendered it technically unacceptable. AR, Tab 25, SSDD at 11.
+Further, we agree with the agency’s argument that, even if it chose to conduct
+discussions, Logmet would be ineligible for those discussions because Logmet’s
+proposal, which did not include a self-scoring matrix, did not meet the minimum
+technical threshold rating of 40,000 points. See MOL at 9; AR, Tab 16, RFP
+9
+Logmet refers to discussions and clarifications without clearly distinguishing between
+the two concepts. The main thrust of the protester’s argument is that the agency had
+the discretion to allow Logmet to cure its proposal’s technical unacceptability through
+“post-submission administrative documentation”; namely, by providing the missing
+matrix. Comments at 32. As the protester’s failure to include the required self-scoring
+matrix rendered its proposal technically unacceptable, and clarifications are limited
+exchanges conducted at the agency’s discretion that are meant to resolve minor clerical
+errors, and the missing matrix was not a minor clerical error, we focus on the protester’s
+arguments as they relate to discussions. See The Bionetics Corp., B-420272, Jan. 7,
+2022, at 4 (“Clarifications cannot be used to cure deficiencies or material omissions in a
+proposal or otherwise revise a proposal.”).Page 9 B-423066.2
+amend. 0002 Section M at 5. In sum, the protester has not shown, and we find no basis
+to conclude, that the agency was required to conduct discussions with Logmet to allow it
+to cure the technical unacceptability of its proposal. Accordingly, we deny the protest.
+The protest is denied.
+Edda Emmanuelli Perez
+General Counsel

@@ -1,0 +1,2018 @@
+Rel: June 26, 2026
+
+
+
+
+Notice: This opinion is subject to formal revision before publication in the advance sheets of Southern Reporter.
+Readers are requested to notify the Reporter of Decisions, Alabama Appellate Courts, 300 Dexter Avenue,
+Montgomery, Alabama 36104-3741 ((334) 229-0650), of any typographical or other errors, in order that corrections
+may be made before the opinion is published in Southern Reporter.
+
+
+
+
+ ALABAMA COURT OF CIVIL APPEALS
+                               OCTOBER TERM, 2025-2026
+                                _________________________
+
+                                         CL-2025-0966
+                                   _________________________
+
+                               Ex parte A.I.F.-H. f/k/a A.I.F.
+
+                      PETITION FOR WRIT OF MANDAMUS
+
+                                             (In re: T.B.E.
+
+                                                      v.
+
+                                                   A.I.F.)
+
+                     (Russell Juvenile Court: CS-18-900198.04)
+
+PER CURIAM.
+
+        A.I.F.-H. f/k/a A.I.F. ("the mother") petitions this court for a writ of
+
+mandamus directing the Russell Juvenile Court ("the juvenile court") to
+
+dismiss or to transfer the underlying child-custody-modification action
+CL-2025-0966
+
+commenced by T.B.E. ("the father") regarding K.B.E. ("the child"). We
+
+grant the petition in part and deny the petition in part.
+
+                               Background
+
+     The child was born in 2018. In 2019, the juvenile court entered the
+
+initial child-custody determination relating to the child. On February 20,
+
+2025, the parties entered into a custody-modification agreement relating
+
+to the child. Pursuant to that agreement, which was incorporated into a
+
+judgment entered by the juvenile court on February 21, 2025,1 the mother
+
+was to exercise sole physical custody of the child during the school year,
+
+with the father visiting with the child every other weekend.           The
+
+agreement further provided, in pertinent part: "The [m]other's relocation
+
+to the Ft. McGuire area in New Jersey or the surrounding area is
+
+accepted. The [f]ather's relocation to the state of Virginia or surrounding
+
+area is accepted." (Bold typeface and underlining omitted.)
+
+
+
+
+     1The   judgment is not included in the materials attached to the
+petition or to the answer, but the parties agree that the judgment was
+entered on February 21, 2025, and that it incorporated their custody-
+modification agreement, so we accept that fact as true for the purposes of
+this mandamus proceeding. See Ex parte V.M., 377 So. 3d 526, 529 n.4
+(Ala. Civ. App. 2022).
+                                    2
+CL-2025-0966
+
+     On August 23, 2025, the father filed in the juvenile court a verified
+
+custody-modification petition.2 In the petition, the father alleged that
+
+the mother and the child had relocated to Philadelphia, Pennsylvania, on
+
+or about April 9, 2025. The father alleged that he was a resident of
+
+Alabama, but he also inconsistently alleged that he was a resident of
+
+Georgia. The father claimed that Alabama had been the home state of
+
+the child within the six months preceding the date of the filing of the
+
+custody-modification petition and that the child had not resided in
+
+another state for a sufficient period to change his home state.
+
+Accordingly, the father concluded that the juvenile court "retains
+
+jurisdiction over modification and enforcement" pursuant to the Uniform
+
+Child Custody Jurisdiction and Enforcement Act ("the UCCJEA"), Ala.
+
+Code 1975, § 30-3B-101 et seq.
+
+     On September 8, 2025, the mother filed an answer to the custody-
+
+modification petition, asserting that she and the child had lived in
+
+
+     2Although the father labeled his petition as including a contempt
+
+claim, the body of the petition included only a custody-modification claim,
+so we consider the father's petition to be solely a custody-modification
+petition. See Elizabeth Homes, L.L.C. v. Cato, 968 So. 2d 1, 8 (Ala. 2007)
+("In determining the nature of a cause of action, [an appellate c]ourt looks
+to allegations in the body of the complaint, not the caption or label the
+party applies.").
+                                     3
+CL-2025-0966
+
+Georgia after October 2024 and that they had resided there until they
+
+relocated to Philadelphia in April 2025. The mother attached to her
+
+answer a document showing that she had jointly leased an apartment in
+
+Georgia for one year, commencing on October 15, 2024, and documents
+
+indicating that she and the child had moved to Pennsylvania on April 9,
+
+2025, and that she had subsequently enrolled the child in school there.
+
+The mother denied that the father was a resident of Alabama,
+
+maintaining that he was a resident of Georgia. The mother also attached
+
+to her answer a police report that indicated that the father resided in
+
+Columbus, Georgia. The mother denied that the juvenile court retained
+
+jurisdiction over the custody of the child pursuant to the UCCJEA.
+
+     On September 10, 2025, the mother filed a motion to dismiss the
+
+custody-modification action for, among other things, lack of subject-
+
+matter jurisdiction. In her motion to dismiss, the mother argued that the
+
+juvenile court did not have jurisdiction to modify the February 2025
+
+child-custody determination because she and the child had left Alabama
+
+in October 2024 and because the father had been, at all material times,
+
+a resident of Georgia. On September 15, 2025, the father responded to
+
+the motion to dismiss, contending that the juvenile court retained
+
+
+                                   4
+CL-2025-0966
+
+jurisdiction over the custody-modification action.     On September 19,
+
+2025, the mother filed a reply to the father's response in which she
+
+asserted that the father had never resided in Alabama and in which she
+
+reasserted that she and the child had left Alabama in October 2024. The
+
+mother maintained that Alabama was no longer the home state of the
+
+child and that the parties and the child had no significant connection to
+
+Alabama.    While the motion to dismiss was pending,3 the mother
+
+informed the juvenile court that she had commenced a child-custody
+
+proceeding in a Pennsylvania court. The mother amended her motion to
+
+dismiss to request that the juvenile court stay its proceedings and
+
+transfer the custody-modification action to the Pennsylvania court.
+
+     On October 15, 2025, the juvenile court summarily denied the
+
+mother's motion to dismiss and to transfer the case. The mother moved
+
+
+
+
+     3On September 12, 2025, two days after the mother filed the motion
+
+to dismiss, the juvenile court entered an order purporting to deny a child-
+support motion filed by the mother, but the mother had not filed a child-
+support motion. That order did not dispose of the motion to dismiss, and
+the order seems to have been entered in error, but the mother fails to
+show how that error has prejudiced her, so we do not address the order
+further. See Blackmon v. W.S. Badcock Corp., 342 So. 2d 367, 372 (Ala.
+Civ. App. 1977) (holding that, in the absence of a showing that an order
+had prejudiced the rights of the petitioner, the order would not be vacated
+in a mandamus proceeding).
+                                    5
+CL-2025-0966
+
+the juvenile court to reconsider the denial of her motion, arguing that the
+
+juvenile court had lost continuing exclusive jurisdiction to modify its
+
+prior child-custody determination.         The mother maintained that
+
+Pennsylvania had become the home state of the child on October 9, 2025,
+
+and, therefore, that the Pennsylvania court had proper and exclusive
+
+jurisdiction over the custody dispute. The mother contended that the
+
+juvenile court had failed to communicate with the Pennsylvania court
+
+and to relinquish its jurisdiction to that court. The mother subsequently
+
+moved the juvenile court to stay its proceedings until the jurisdictional
+
+question could be finally resolved. On October 27, 2025, the juvenile
+
+court denied those motions.
+
+                                  Issues
+
+     On November 6, 2025, the mother filed a petition for the writ of
+
+mandamus.4     In her petition, the mother primarily argues that the
+
+
+
+
+     4Although   the mother did not file her petition for the writ of
+mandamus within 14 days from the entry of the October 15, 2025, order
+denying her motion to dismiss and to transfer, this court has jurisdiction
+over the petition because it involves subject-matter jurisdiction. See Ex
+parte K.R., 210 So. 3d 1106 (Ala. 2016).
+
+                                    6
+CL-2025-0966
+
+juvenile court failed to follow the UCCJEA by refusing to dismiss or to
+
+transfer the custody-modification action.5
+
+     Before addressing the merits of those arguments, we grant the
+
+father's motion to strike appendices K and Q through X filed by the
+
+mother in support of her mandamus petition.            " [I]n a mandamus
+
+proceeding, [an appellate court] will not consider evidence not presented
+
+to the trial court." Ex parte Cincinnati Ins. Co., 51 So. 3d 298, 310 (Ala.
+
+2010); see also Rule 21(a)(1)(G), Ala. R. App. P.        " Because nothing
+
+indicates that [appendices K and Q through X] to which the father objects
+
+are a part of the record in the juvenile court, we conclude that the father's
+
+motion to strike is due to be granted," Ex parte K.A.S., 197 So. 3d 503,
+
+507 (Ala. Civ. App. 2015), and we will not consider any statements
+
+referencing those appendices. Id. However, we deny the father's motion
+
+insofar as it seeks to strike appendix P, which is a copy of the apartment
+
+
+
+
+     5The   mother also contends that the juvenile court violated the
+Uniform Interstate Family Support Act ("the UIFSA"), Ala. Code 1975, §
+30-3A-101 et seq., which governs jurisdiction of child-support actions.
+However, neither party has asserted a claim for child support in the
+underlying custody-modification action, and the UIFSA does not apply to
+jurisdictional disputes involving child custody. See Ala. Code 1975, § 30-
+3D-104(b)(2). Because the UIFSA does not apply to this case, we do not
+address this argument further.
+                                     7
+CL-2025-0966
+
+lease that the mother attached to her answer to the father's custody-
+
+modification petition, because it was presented to the juvenile court.
+
+     We also deny the father's motion insofar as it requests that the
+
+other attachments to the mother's mandamus petition -- appendices A
+
+through O -- be struck. The father argues that those attachments should
+
+be struck because they are unauthenticated and unverified; however,
+
+Rule 21(a)(1)(G), Ala. R. App. P., provides that a petition for the writ of
+
+mandamus shall include
+
+     "[a]n appendix including copies of all parts of the record that
+     are essential to understanding the matters set forth in the
+     petition, such as the order or orders of which the petitioner
+     seeks review, all court filings (by any party) directly connected
+     to the order or orders, and any transcripts of proceedings that
+     resulted in the order or orders."
+
+Appendices A through O filed in support of the mother's mandamus
+
+petition fall within the scope of Rule 21(a)(1)(G), so they are properly
+
+before this court.
+
+                          The Motion to Dismiss
+
+     We first address the jurisdiction of the juvenile court over the
+
+father's custody-modification action.    The materials before this court
+
+show that the mother filed a motion to dismiss the underlying custody-
+
+modification action on the basis that the juvenile court lacked jurisdiction
+
+                                     8
+CL-2025-0966
+
+over the case under the UCCJEA. "The UCCJEA is a jurisdictional act
+
+that    establishes   subject-matter       jurisdiction   over   child-custody
+
+proceedings." H.T. v. Cleburne Cnty. Dep't of Hum. Res., 163 So. 3d 1054,
+
+1062 (Ala. Civ. App. 2014).
+
+       "This court may review an order denying a motion to dismiss
+       for lack of subject-matter jurisdiction under the UCCJEA via
+       a petition for a writ of mandamus. See Ex parte Holloway, 218
+       So. 3d 853 (Ala. Civ. App. 2016).
+
+            " 'A writ of mandamus is an extraordinary remedy
+            that requires a showing of: (1) a clear legal right in
+            the petitioner to the order sought; (2) an
+            imperative duty on the respondent to perform,
+            accompanied by a refusal to do so; (3) the lack of
+            another adequate remedy; and (4) the properly
+            invoked jurisdiction of the court.'
+
+       "Ex parte McNaughton, 728 So. 2d 592, 594 (Ala. 1998). This
+       court may issue a writ of mandamus compelling a trial court
+       to dismiss a child-custody action if the trial court lacks
+       subject-matter jurisdiction. Ex parte Holloway, supra."
+
+Ex parte Gallant, 221 So. 3d 1120, 1122 (Ala. Civ. App. 2016). Whether
+
+a juvenile court has subject-matter jurisdiction under the UCCJEA
+
+ordinarily is a question of law that we review de novo. See T.R. v.
+
+Tuscaloosa Cnty. Dep't of Hum. Res., 419 So. 3d 558, 561 (Ala. Civ. App.
+
+2024). Upon de novo review, this court applies the same analysis to
+
+determine UCCJEA jurisdiction as should have been applied by the
+
+
+                                       9
+CL-2025-0966
+
+juvenile court. See generally J.H. v. C.Y., 161 So. 3d 233, 239 (Ala. Civ.
+
+App. 2014).
+
+     Under the UCCJEA, a juvenile court has jurisdiction to modify its
+
+own prior child-custody determination. See Ala. Code 1975, § 30-3B-202.
+
+Section 30-3B-202 provides:
+
+           "(a) Except as otherwise provided in [Ala. Code 1975, §]
+     30-3B-204, a court of this state which has made a child
+     custody determination consistent with [Ala. Code 1975, §] 30-
+     3B-201 or [§] 30-3B-203[,] has continuing, exclusive
+     jurisdiction over the determination until:
+
+                 "(1) A court of this state determines that
+           neither the child, nor the child and one parent, nor
+           the child and a person acting as a parent have a
+           significant connection with this state and that
+           substantial evidence is no longer available in this
+           state concerning the child's care, protection,
+           training, and personal relationships; or
+
+                "(2) A court of this state or a court of another
+           state determines that the child, the child's
+           parents, and any person acting as a parent do not
+           presently reside in this state.
+
+           "(b) A court of this state which has made a child custody
+     determination and does not have continuing, exclusive
+     jurisdiction under this section may modify that determination
+     only if it has jurisdiction to make an initial determination
+     under [§] 30-3B-201."
+
+In this case, the mother essentially asserted in her motion to dismiss that
+
+the juvenile court lacked subject-matter jurisdiction over the custody-
+
+                                    10
+CL-2025-0966
+
+modification action because it had lost continuing, exclusive jurisdiction
+
+over its prior child-custody determination pursuant to § 30-3B-202(a)(2).
+
+     In her motion to dismiss, the mother claimed that she, the child,
+
+and the father had not been residing in Alabama when the father filed
+
+his custody-modification petition.       Section 30-3B-202(a)(2) literally
+
+provides that a court retains continuing exclusive jurisdiction until the
+
+court determines that the child and the parents do not presently reside
+
+in this state. When the father filed the custody-modification petition, no
+
+court had made such determination, but, in her motion to dismiss, the
+
+mother implicitly requested that the juvenile court make that
+
+determination when ruling on whether it had jurisdiction over the case.
+
+The juvenile court had an independent and mandatory duty to determine
+
+the residency of the parties and the child before proceeding with the case.
+
+See A.M.H. v. D.E.H., 376 So. 3d 536, 541 (Ala. Civ. App. 2022) ("[W]hen
+
+the UCCJEA is implicated, a trial court, in order to satisfy itself that it
+
+has subject-matter jurisdiction, should consult the UCCJEA and follow
+
+the procedures outlined therein, regardless of whether the parties have
+
+specifically directed the trial court to applicable sections of the
+
+UCCJEA."). The juvenile court could not rely on the fact that no previous
+
+
+                                    11
+CL-2025-0966
+
+residency determination had been made as the basis for continuing to
+
+exercise jurisdiction over the case. If, upon inquiry, a court finds that the
+
+parents and the child did not reside in Alabama when the child-custody
+
+proceeding commenced, the court must, as a matter of law, determine
+
+that it has lost continuing, exclusive jurisdiction. See McGonagle v.
+
+McGonagle, 218 So. 3d 1208, 1213 (Ala. Civ. App. 2016); Baker v. Baker,
+
+25 So. 3d 470, 473 (Ala. Civ. App. 2009) ("Once it was shown that the
+
+custodial parent, the noncustodial parent, and the children had moved
+
+from Alabama, pursuant to § 30-3B-202(a)(2), the [Russell Circuit C]ourt
+
+should have determined that it had lost continuing, exclusive jurisdiction
+
+to modify its [initial child-]custody determination.").
+
+     In ruling on the motion, the juvenile court should have applied the
+
+framework established by our supreme court in Ex parte Safeway
+
+Insurance Co. of Alabama, Inc., 990 So. 2d 344, 349-50 (Ala. 2008). The
+
+mother filed a motion to dismiss for lack of subject-matter jurisdiction
+
+under Rule 12(b)(1), Ala. R. Civ. P., which applies in juvenile cases. See
+
+Rule 1(B), Ala. R. Juv. P.; Moore v. Griffin, 256 So. 3d 1201, 1203 (Ala.
+
+Civ. App. 2018). In Ex parte Safeway, 990 So. 2d at 349-50, the supreme
+
+court explained that there are two types of challenges to jurisdiction that
+
+
+                                     12
+CL-2025-0966
+
+a defendant can assert by a Rule 12(b)(1) motion -- a facial challenge and
+
+a factual challenge.      A facial challenge attacks the jurisdictional
+
+allegations in the complaint, whereas a factual challenge disputes the
+
+underlying facts upon which jurisdiction is founded. Id. In this case, the
+
+mother challenged the underlying facts upon which the father based his
+
+jurisdictional allegations, so she made a factual challenge. Based on that
+
+factual challenge, the juvenile court had to " ' "address the merits of the
+
+jurisdictional claim by resolving the factual disputes between the
+
+parties." ' " Ex parte Safeway, 990 So. 2d at 350 (quoting Lindsey v.
+
+United States, 448 F. Supp. 2d 37, 42-43 (D.D.C. 2006), quoting in turn
+
+Erby v. United States, 424 F. Supp. 2d 180, 181 (D.D.C. 2006)).
+
+     Through their pleadings, the parties agreed that, when the custody-
+
+modification petition was filed, the mother and the child resided in
+
+Pennsylvania, so that fact was not in genuine dispute, and no evidence
+
+was required to prove it. See Howard v. Jordan, 390 So. 2d 1053, 1054
+
+n.1 (Ala. 1980). However, the mother disputed that the father resided in
+
+Alabama when he filed his custody-modification petition, so the juvenile
+
+court had to resolve that factual dispute based on the evidence regarding
+
+the father's residency.
+
+
+                                    13
+CL-2025-0966
+
+     " '[T]he burden is on the plaintiff to prove that jurisdiction exists.' "
+
+Ex parte Safeway, 990 So. 2d at 352 (quoting OSI, Inc. v. United States,
+
+285 F.3d 947, 951 (11th Cir. 2002)). Likewise, in UCCJEA cases, the
+
+burden is on the plaintiff to establish jurisdiction. See In re Marriage of
+
+Long & Borrello, 4 Wash. App. 2d 231, 242, 421 P.3d 989, 994 (2018). To
+
+carry this burden, the plaintiff must establish the " ' "factual predicates
+
+of jurisdiction by a preponderance of the evidence." ' " Ex parte Safeway,
+
+990 So. 2d at 349 (quoting Lindsey, 448 F. Supp. 2d at 42, quoting in turn
+
+Erby, 424 F. Supp. 2d at 182). Once the mother asserted that the father
+
+was not residing in Alabama when he filed the custody-modification
+
+petition,6 the burden rested on the father to present evidence proving the
+
+
+     6In   Ex parte Safeway, the defendant presented some evidence
+disputing subject-matter jurisdiction, but the supreme court did not hold
+that a defendant must first present evidence establishing a prima facie
+case that a trial court lacks subject-matter jurisdiction before the burden
+shifts to the plaintiff to prove that jurisdiction. In Ex parte Mobile
+County Board of Equalization, 369 So. 3d 1038, 1042 (Ala. 2022)
+(plurality opinion), the supreme court said: "Once a defendant has moved
+to dismiss a case for lack of subject-matter jurisdiction, the plaintiff is
+then required to establish the ' " 'factual predicates of jurisdiction by a
+preponderance of the evidence.' " ' " ( Q uoting Ex parte Safeway, 990 So.
+2d at 349.) Furthermore, Rule 12(h)(3), Ala. R. Civ. P., provides:
+"Whenever it appears by suggestion of the parties or otherwise that the
+court lacks jurisdiction of the subject matter, the court shall dismiss the
+action." Therefore, the mother did not have to produce evidence to
+support the allegations in her motion to dismiss to place the burden on
+                                     14
+CL-2025-0966
+
+jurisdictional allegations in his custody-modification petition and to
+
+establish his residency in Alabama by a preponderance of the evidence.
+
+     The father did not present any evidence indicating that he was
+
+residing in Alabama when he commenced the custody-modification
+
+action. In responding to the mother's motion to dismiss, the father did
+
+not even address that issue or the applicability of § 30-3B-202(a)(2). The
+
+father did allege in one part of the custody-modification petition that he
+
+was a resident of Alabama, but the mother denied that allegation. Even
+
+though his petition was verified, the father could not have rested on the
+
+jurisdictional allegations in that pleading because, when a defendant
+
+raises a factual challenge in a Rule 12(b)(1) motion, the resolution of that
+
+challenge "requires consideration of evidence beyond the face of the
+
+complaint." Ex parte Safeway, 990 So. 2d at 350. " ' "[T]he plaintiff's
+
+jurisdictional averments are entitled to no presumptive weight. ..." ' " Id.
+
+(quoting Lindsey, 448 F. Supp. 2d at 43, quoting in turn Erby, 424 F.
+
+Supp. 2d at 181). " '[A] court deciding a Rule 12(b)(1) motion asserting a
+
+factual challenge "must go beyond the pleadings and resolve any disputed
+
+
+
+
+the father to present evidence and to prove the factual predicates
+establishing subject-matter jurisdiction.
+                                    15
+CL-2025-0966
+
+issues of fact the resolution of which is necessary to a ruling upon the
+
+motion to dismiss." ' " Ex parte Safeway, 990 So. 2d at 350 (quoting
+
+Lindsey, 448 F. Supp. 2d at 43, quoting in turn Phoenix Consulting, Inc.
+
+v. Republic of Angola, 216 F.3d 36, 40 (D.C. Cir. 2000)).        Thus, the
+
+juvenile court could not have relied on the residency allegations in the
+
+father's custody-modification petition. Even if it could, the petition was
+
+self-contradictory, and it did not establish where the father resided at the
+
+time of the commencement of the custody-modification action.
+
+     In his answer to the mandamus petition, the father does not dispute
+
+the mother's assertion that he had never resided in Alabama, so we must
+
+accept that fact as true. See Ex parte Benford, 935 So. 2d 421, 426 (Ala.
+
+2006). Accordingly, we agree with the mother that, because the father
+
+did not present any evidence indicating that he resided in Alabama, and
+
+because it was undisputed that the mother and the child resided in
+
+Pennsylvania, the juvenile court was required to determine that the
+
+parties and the child did not reside in Alabama when the custody-
+
+modification petition was filed and that it did not have continuing,
+
+exclusive jurisdiction to modify its prior child-custody determination
+
+under § 30-3B-202(a)(2). See Baker, supra.
+
+
+                                    16
+CL-2025-0966
+
+     However, that does not end the jurisdictional inquiry. Section 30-
+
+3B-202(b) provides that, if an Alabama court lacks continuing, exclusive
+
+jurisdiction, it may still modify its own prior child-custody determination
+
+if it has jurisdiction to make an initial custody determination under Ala.
+
+Code 1975, § 30-3B-201(a). That Code section provides, in pertinent part:
+
+     "Except as otherwise provided in [Ala. Code 1975, §] 30-3B-
+     204, a court of this state has jurisdiction to make an initial
+     child custody determination only if:
+
+                 "(1) This state is the home state of the child
+           on the date of the commencement of the
+           proceeding, or was the home state of the child
+           within six months before the commencement of the
+           proceeding and the child is absent from this state
+           but a parent or person acting as a parent continues
+           to live in this state;
+
+                 "(2) A court of another state does not have
+           jurisdiction under subdivision (1), or a court of the
+           home state of the child has declined to exercise
+           jurisdiction on the ground that this state is the
+           more appropriate forum under [Ala. Code 1975, §]
+           30-3B-207 or [§] 30-3B-208, and:
+
+                      "a. The child and the child's
+                 parents, or the child and at least one
+                 parent or a person acting as a parent,
+                 have a significant connection with this
+                 state other than mere physical
+                 presence; and
+
+                       "b. Substantial evidence is
+                 available in this state concerning the
+
+                                    17
+CL-2025-0966
+
+                 child's care, protection, training, and
+                 personal relationships;
+
+                 "(3) All courts having jurisdiction under
+           subdivision (1) or (2) have declined to exercise
+           jurisdiction on the ground that a court of this state
+           is the more appropriate forum to determine the
+           custody of the child under [§] 30-3B-207 or [§] 30-
+           3B-208; or
+
+                 "(4) No court of any other state would have
+           jurisdiction under the criteria specified in
+           subdivision (1), (2), or (3)."
+
+The juvenile court was required to consider whether it could exercise
+
+jurisdiction over the case pursuant to § 30-3B-201. See A.M.H., supra.
+
+     Based on the judicial admissions in the pleadings, the juvenile court
+
+could not exercise jurisdiction over the case pursuant to § 30-3B-201(a)(1)
+
+because Alabama was no longer the home state of the child. See Ala.
+
+Code 1975, § 30-3B-102(7) (defining "home state" as "[t]he state in which
+
+a child lived with a parent or a person acting as a parent for at least six
+
+consecutive months immediately before the commencement of a child
+
+custody proceeding"). The juvenile court also did not have significant-
+
+connection jurisdiction under § 30-3B-201(a)(2) because, at a minimum,
+
+the child and the parties, or at least one party, must have had a
+
+significant connection to this state. In his response to the motion to
+
+
+                                    18
+CL-2025-0966
+
+dismiss, the father argued that the child had been enrolled in an
+
+Alabama school until April 9, 2025, and that "there is significant
+
+connection with the state and substantial evidence available in the state,
+
+if for no other reason than the child was a student in the state." However,
+
+even if the past enrollment of the child was sufficient to give the child a
+
+current significant connection to this state, which we need not decide, §
+
+30-3B-201(a)(2) also requires that at least one of the parties have a
+
+significant connection to this state. The father did not allege or prove
+
+that either party had any ongoing connection to this state. The juvenile
+
+court did not receive any evidence indicating that a court of another state
+
+with UCCJEA jurisdiction had declined to exercise jurisdiction on the
+
+ground that the juvenile court was the more appropriate forum to
+
+determine the custody of the child, so § 30-3B-201(a)(3) clearly did not
+
+apply.
+
+     Section 30-3B-201(a)(4) applies when no state would have
+
+jurisdiction over a child-custody proceeding under subsections 30-3B-
+
+201(a)(1), (a)(2), or (a)(3). See Dorothy v. Dorothy, 88 Ark. App. 358, 365,
+
+199 S.W.3d 107, 112 (2004) (construing similar UCCJEA provision). In
+
+her motion to dismiss, as amended, the mother generally contended that
+
+
+                                    19
+CL-2025-0966
+
+the juvenile court could not exercise jurisdiction over the case because
+
+only a Pennsylvania court would have jurisdiction.        That argument
+
+placed into question whether a Pennsylvania court would have
+
+jurisdiction over the case, thus precluding the juvenile court from
+
+exercising jurisdiction under the catchall provision in § 30-3B-201(a)(4).
+
+     Based on the judicial admissions in the pleadings, at the time of the
+
+commencement of the underlying proceeding, the child had not been
+
+residing in Pennsylvania for six consecutive months, so Pennsylvania
+
+was not his home state, see 23 Pa. Cons. Stat. § 5402, and a Pennsylvania
+
+court could not have exercised home-state jurisdiction under 23 Pa. Cons.
+
+Stat. § 5421(a)(1), its version of § 30-3B-201(a)(1).        However, in
+
+supporting her motion to dismiss, the mother alleged that, since the child
+
+had moved to Pennsylvania in April 2025 and had established a
+
+permanent residence there, "[t]he child's daily activities, medical and
+
+dental care ... are now centered in Philadelphia, Pennsylvania." The
+
+mother further alleged in her motion to dismiss, as amended, that the
+
+child had "enrolled in school, [had] participate[d] in community-based
+
+activities, and ha[d] formed meaningful relationships within the
+
+community." Those allegations, which the father did not dispute, raised
+
+
+                                    20
+CL-2025-0966
+
+the question whether a Pennsylvania court would have had significant-
+
+connection jurisdiction under § 5421(a)(2), Pennsylvania's version of § 30-
+
+3B-201(a)(2), thereby precluding the juvenile court from exercising
+
+jurisdiction over the case pursuant to § 30-3B-201(a)(4).
+
+     Again, under the Ex parte Safeway framework, the burden was on
+
+the father to prove by a preponderance of the evidence the factual
+
+predicates for jurisdiction, including that a Pennsylvania court would not
+
+have had significant-connection jurisdiction over a custody-modification
+
+proceeding. The father did not present any evidence proving that a
+
+Pennsylvania court would have lacked significant-connection jurisdiction
+
+when the custody-modification petition was filed. Based on Ex parte
+
+Safeway, "[w]hen a defendant seeks from this Court a writ of mandamus
+
+directing a trial court to dismiss an action for lack of subject-matter
+
+jurisdiction, the defendant establishes a clear legal right to dismissal if
+
+the plaintiff has failed to prove subject-matter jurisdiction below." Ex
+
+parte Mobile Cnty. Bd. of Equalization, 369 So. 3d 1038, 1042 n.4 (Ala.
+
+2022) (plurality opinion). Because the father failed to prove that the
+
+juvenile court could exercise jurisdiction under § 30-3B-201(a)(4), on our
+
+de novo review of the motion, see T.R., supra, we must conclude that the
+
+
+                                    21
+CL-2025-0966
+
+mother has established a clear legal right to dismissal of the underlying
+
+custody-modification action.
+
+     The juvenile court refused to grant the mother's motion to dismiss,
+
+and she has no other adequate remedy. This court has jurisdiction over
+
+the mandamus petition. See Ala. Code 1975, § 12-3-11. Thus, the mother
+
+has satisfied all the elements necessary for obtaining mandamus relief,
+
+and we issue the writ of mandamus to direct the juvenile court to vacate
+
+its order denying her motion to dismiss and to enter an order dismissing
+
+the underlying case.7
+
+                         The Motion to Transfer
+
+     We deny that part of the mother's mandamus petition requesting a
+
+writ of mandamus compelling the juvenile court to transfer the case. In
+
+her amended motion to dismiss, the mother asserted that she had
+
+commenced a child-custody proceeding in a Pennsylvania court in
+
+October 2025. The mother argued that Ala. Code 1975, § 30-3B-207,
+
+
+     7Based   on this disposition, we pretermit any discussion of the
+mother's arguments that the juvenile court violated the Parental
+Kidnapping Protection Act, 28 U.S.C. § 1738A(d), by exercising
+jurisdiction over the case after being notified by her that she had
+commenced a child-custody proceeding in Pennsylvania and that, based
+on that information, the juvenile court should have stayed its proceedings
+and communicated with the Pennsylvania court.
+                                   22
+CL-2025-0966
+
+required the juvenile court to transfer the case to the Pennsylvania court.
+
+However, § 30-3B-207(a) authorizes an Alabama court with UCCJEA
+
+jurisdiction only to decline to exercise its jurisdiction when it determines
+
+that it is an inconvenient forum and that a court of another state is a
+
+more appropriate forum. See Ramsey v. Ramsey, 995 So. 2d 881, 884
+
+(Ala. Civ. App. 2008). Section 30-3B-207(c) provides that, upon such
+
+determination, the Alabama court should stay its proceedings to allow
+
+the other state court to proceed. Section 30-3B-207 does not provide any
+
+mechanism by which an Alabama court may transfer a case to the court
+
+of another state.
+
+     We have determined that the juvenile court lacked UCCJEA
+
+jurisdiction, so § 30-3B-207 does not even apply. Thus, the mother has
+
+not proven that the juvenile court erred in failing to follow § 30-3B-207,
+
+and, thus, she has not established a clear legal right to an order granting
+
+her request to transfer.
+
+                                Conclusion
+
+     Based on the foregoing, we grant the mother's petition for the writ
+
+of mandamus in part, and we direct the juvenile court to vacate its order
+
+denying the mother's motion to dismiss and to enter an order dismissing
+
+
+                                    23
+CL-2025-0966
+
+the underlying custody-modification action.      We deny the mother's
+
+petition for the writ of mandamus insofar as it requests that this court
+
+order the juvenile court to transfer the case.
+
+     PETITION GRANTED IN PART AND DENIED IN PART; WRIT
+
+ISSUED.
+
+     Edwards, Hanson, and Fridy, JJ., concur.
+
+     Moore, P.J., concurs specially, with opinion.
+
+     Bowden, J., dissents, with opinion.
+
+
+
+
+                                    24
+CL-2025-0966
+
+MOORE, Presiding Judge, concurring specially.
+
+     I concur in all aspects of the main opinion. I write specially to
+
+encourage trial courts to affirmatively require the parties to present
+
+evidence regarding subject-matter jurisdiction before making any
+
+determination on that issue.
+
+     In the underlying case, A.I.F.-H. ("the mother") filed a motion to
+
+dismiss the complaint filed by T.B.E. ("the father"), arguing that the
+
+Russell Juvenile Court ("the juvenile court") lacked jurisdiction under the
+
+Uniform Child Custody Jurisdiction and Enforcement Act ("the
+
+UCCJEA"), Ala. Code 1975, § 30-3B-101 et seq., thereby placing the
+
+burden on the father to present evidence establishing the factual
+
+predicates for UCCJEA jurisdiction. The father responded to the motion
+
+to dismiss with a memorandum, asserting, without evidence, that the
+
+juvenile court had UCCJEA jurisdiction. Without ordering the father to
+
+present any evidence to support his response or scheduling an
+
+evidentiary hearing, the juvenile court denied the motion to dismiss.
+
+     The Official Comment to Ala. Code 1975, § 30-3B-110, provides that
+
+"the parties must be given an opportunity to fairly and fully present facts
+
+and arguments on the jurisdictional issue before a determination is
+
+
+                                    25
+CL-2025-0966
+
+made. This may be done through a hearing or, if appropriate, by affidavit
+
+or memorandum."       (Emphasis added.)       In cases involving factual
+
+challenges, it is not appropriate to decide a UCCJEA issue based on a
+
+memorandum unsupported by any evidence. As our opinion today makes
+
+clear, a factual challenge to UCCJEA jurisdiction must be resolved based
+
+on real evidence, which ordinarily requires an evidentiary hearing or, at
+
+the very least, the submission of affidavits or authenticated exhibits.
+
+Because the father failed to present any evidence showing that the
+
+juvenile court had subject-matter jurisdiction, the juvenile court should
+
+have dismissed the case.
+
+     I am concerned, however, that, in some cases, the failure of a
+
+plaintiff to properly respond to a motion to dismiss may lead to
+
+unfortunate results in other cases governed by the UCCJEA.              For
+
+example, based on Ala. Code 1975, § 30-3B-204, a juvenile court may have
+
+temporary emergency jurisdiction to enter a protective custody order
+
+relating to an abandoned or abused child, but, if a parent files a motion
+
+to dismiss to which no adequate response is given, the juvenile court
+
+could, and should, dismiss the case for lack of subject-matter jurisdiction,
+
+which would leave the child unprotected.
+
+
+                                    26
+CL-2025-0966
+
+     To avoid that problem, I believe that, when a Rule 12(b)(1), Ala. R.
+
+Civ. P., motion is filed in a child-custody case based on the UCCJEA, the
+
+trial court should follow the directives of this court and make its own
+
+jurisdictional inquiry. See A.M.H. v. D.E.H., 376 So. 3d 536, 541 (Ala.
+
+Civ. App. 2022) ("[W]hen the UCCJEA is implicated, a trial court, in
+
+order to satisfy itself that it has subject-matter jurisdiction, should
+
+consult the UCCJEA and follow the procedures outlined therein,
+
+regardless of whether the parties have specifically directed the trial court
+
+to applicable sections of the UCCJEA." (emphasis added)). If a trial court
+
+determines that there is a factual dispute regarding whether it has
+
+UCCJEA jurisdiction, the trial court should order the plaintiff to submit
+
+evidence on that issue, to which the defendant may respond, or the trial
+
+court should schedule an evidentiary hearing to adjudicate that factual
+
+dispute. Through that procedure, the trial court can better ensure that
+
+the threshold jurisdictional issue will be decided based not on the
+
+arguments of the parties but on a preponderance of the evidence before
+
+it. I do not mean to suggest that the juvenile court erred in this case by
+
+failing to schedule an evidentiary hearing that neither party requested
+
+or that it erred in failing to order the father to supplement his response
+
+
+                                    27
+CL-2025-0966
+
+to the motion to dismiss with evidence. I only remark that, had it done
+
+so, its jurisdictional determination may have been properly supported,
+
+and the outcome of the case may have been different.
+
+
+
+
+                                  28
+CL-2025-0966
+
+BOWDEN, Judge, dissenting.
+
+     I respectfully dissent.
+
+I.   The mother primarily relied on AI-generated hallucinations and
+     misrepresentations of holdings in real cases
+
+     Rule 21(a)(1)(F), Ala. R. App. P., requires petitioners to include "[a]
+
+statement of the reasons why the writ should issue, with citations to the
+
+authorities and the statutes relied on" in a petition for the writ of
+
+mandamus. Four of the five cases cited by A.I.F.-H. ("the mother") in her
+
+petition appear to be "hallucinations" from an online artificial-
+
+intelligence ("AI") tool and misrepresentations of holdings in real cases.
+
+One "case," cited as "Ex parte Holloway, 992 So. 2d 521, 524 (Ala. 2008),"
+
+does not exist -- the reporter citation is to a case styled Display South,
+
+Inc. v. Graphics House Sports Promos., Inc., 992 So. 2d 510 (La. Ct. App.
+
+2008), a Louisiana case concerning a class-action lawsuit alleging
+
+violations of the Telephone Consumer Protection Act, 47 U.S.C. § 227 et
+
+seq. The mother also provides a "quote" from Ex parte Siderius, 144 So.
+
+3d 319 (Ala. 2013), purporting to represent our supreme court's holding
+
+in that case; however, the quoted material cannot be found in that case
+
+or, to my knowledge, in any other case. Two other cases the mother cited
+
+are real cases, but the holdings the mother attributed to them are not
+
+                                    29
+CL-2025-0966
+
+accurate representations of the discussion of the issues in those cases.
+
+The only real case the mother accurately cited concerned a general
+
+proposition of law; however, general propositions of law are not
+
+considered supporting authority. See Herring v. Maddox, 336 So. 3d 662,
+
+666 (Ala. Civ. App. 2021).
+
+     This court has said: " '[A petitioner's] failure to cite authority
+
+supporting [his or] her arguments, as required by Rule 21, [Ala. R. App.
+
+P.,] provides this Court an ample basis for refusing to consider those
+
+arguments, and [his or] her petition could properly be denied on that
+
+basis.' " Ex parte J.M.S., 303 So. 3d 155, 158 (Ala. Civ. App. 2020)(citation
+
+omitted). Our supreme court recently dismissed an appeal as a sanction
+
+for the widespread, improper use of AI in the plaintiffs' briefs in Ibach v.
+
+Stewart, [Ms. SC-2025-0106, Apr. 24, 2026] ___ So. 3d ___, ___ (Ala.
+
+2026). That court succinctly framed the problem of AI-generated
+
+hallucinations in court filings:
+
+     "This kind of egregious conduct cannot be tolerated in a
+     judicial system whose purpose is to pursue truth and justice,
+     but whose resources are already strained almost to the
+     maximum. This Court -- indeed, every court within our
+     judicial system -- must be able to trust the submissions of
+     attorneys who practice before it. Otherwise, the precious
+     resources available to us will eventually be strained to the
+     breaking point."
+
+                                     30
+CL-2025-0966
+
+Id. at ___. The court further explained that, whether or not AI-generated
+
+hallucinations are intentionally, recklessly, or negligently presented to
+
+the court by a party, the result is same -- "the wasteful expenditure of
+
+precious resources by both the opposing party and the courts." Id. at ___.
+
+     I recognize that this court may take notice of jurisdictional matters
+
+ex mero motu, see Gunnison-Mack v. Alabama State Pers. Bd., 923 So.
+
+2d 319, 320 (Ala. Civ. App. 2005), and that our review is not limited to
+
+the grounds specifically raised in a mandamus petition when subject-
+
+matter jurisdiction is implicated. See Ex parte Thompson Tractor Co.,
+
+227 So. 3d 1234, 1239 (Ala. Civ. App. 2017). However, the mother bears
+
+the burden to demonstrate that she is entitled to the extraordinary
+
+remedy of a writ of mandamus. See Ex parte Siderius, 144 So. 3d at 327.
+
+     The mother's petition should have been dismissed for failing to
+
+comply with Rule 21(a)(1)(F). It does not appear that the mother has
+
+provided any supporting authority as to why the extraordinary remedy
+
+of the writ of mandamus should issue when nearly all the caselaw
+
+presented in support of the mother's arguments appear to be AI-
+
+generated hallucinations and misrepresentations of holdings in real
+
+
+
+
+                                   31
+CL-2025-0966
+
+cases. Granting the mother's petition sets an unfortunate precedent that
+
+parties are free to submit fake case citations without any repercussions.
+
+II.   There is a tension in our caselaw regarding the interpretation of §
+      30-3B-202(a)
+
+      This court has, in some of our decisions, strayed from interpreting
+
+§ 30-3B-202(a), Ala. Code 1975, a section of Alabama's version of the
+
+Uniform Child Custody Jurisdiction and Enforcement Act ("the
+
+UCCJEA"), § 30-3B-101 et seq., Ala. Code 1975, according to its plain
+
+meaning, resulting in inconsistent caselaw. This is another one of those
+
+cases.
+
+      A.   The plain meaning of § 30-3B-202(a)
+
+      The job of this court is to say what the law is, not to say what it
+
+should be. See DeKalb Cnty. LP Gas Co. v. Suburban Gas, Inc., 729 So.
+
+2d 270, 276 (Ala. 1998). " ' Words must be given their natural, ordinary,
+
+commonly understood meaning, and where plain language is used, the
+
+court is bound to interpret that language to mean exactly what it says.' "
+
+Pruitt v. Oliver, 331 So. 3d 99, 111 (Ala. 2021)(quoting Ex parte State
+
+Dep't of Revenue, 683 So. 2d 980, 983 (Ala. 1996)); see also DeKalb Cnty.,
+
+729 So. 2d at 275-76. Furthermore, Alabama follows the rule against
+
+surplusage; that is, " '[t]here is a presumption that every word, sentence,
+
+                                    32
+CL-2025-0966
+
+or provision [of a statute] ... has some force and effect and ... that no
+
+superfluous words or provisions were used.' Barnett v. Panama City
+
+Wholesale, Inc., 312 So. 3d 754, 757 (Ala. 2020) (citations omitted)." Lang
+
+v. Cabela's Wholesale, LLC, 371 So. 3d 228, 234-35 (Ala. 2022); cf.
+
+Feliciano v. Department of Transportation, 605 U.S. 38, 51-52 (2025)
+
+("[T]he surplusage canon is primarily a tool of linguistic interpretation,
+
+reflecting an assumption applicable to 'all sensible writing: Whenever a
+
+reading arbitrarily ignores linguistic components or inadequately
+
+accounts for them, the reading may be presumed improbable.' " (quoting
+
+Antonin Scalia & Bryan A. Garner, Reading Law: The Interpretation of
+
+Legal Texts 174 (Thomson/West 2012))). "[J]urisdiction of an Alabama
+
+court over child-custody matters is determined as of the time of the filing
+
+of the action." T.B. v. T.A.P., 979 So. 2d 80, 86 n.1 (Ala. Civ. App. 2007);
+
+see § 30-3B-202, Ala. Code 1975, Official Comment.
+
+     In light of the aforementioned principles of statutory construction,
+
+this court should interpret § 30-3B-202(a) to mean exactly what it says
+
+-- a trial court that has made a child-custody determination consistent
+
+with § 30-3B-201 or § 30-3B-203, Ala. Code 1975, has continuing,
+
+exclusive jurisdiction over that determination until either § 30-3B-
+
+
+                                    33
+CL-2025-0966
+
+202(a)(1) or (a)(2) is satisfied. See Merriam-Webster's Collegiate
+
+Dictionary 1373 (11th ed. 2020) (defining "until" as "a function word to
+
+indicate continuance (as of an action or condition) to a specified time"
+
+(emphasis added)). In other words, an Alabama court continues to have
+
+jurisdiction over its previous child-custody determination if, when a
+
+petition seeking to modify that determination is filed, an appropriate
+
+court has not yet made a determination regarding jurisdiction under §
+
+30-3B-202(a)(1) or (a)(2). Thus, under the plain language of § 30-3B-202,
+
+a trial court does not automatically lose jurisdiction over its previous
+
+child-custody determination when the child and the parents no longer
+
+reside in Alabama. Nor does a trial court lack jurisdiction to modify its
+
+previous child-custody determination if, when a petition seeking to
+
+modify that determination is filed, an appropriate court has not yet made
+
+a determination under § 30-3B-202(a)(1) or (a)(2). Many of our sister
+
+states have reached this same conclusion.8
+
+
+     8Appellate courts in the following states have adopted a version of
+
+the UCCJEA that is substantially similar, in relevant part, to Alabama's
+version of the UCCJEA, appear to apply the same principles of statutory
+construction, and, when determining jurisdiction over a child-custody
+action under their state's UCCJEA provision corresponding to § 30-3B-
+202(a), Ala. Code 1975, have reached the following outcomes:
+
+                                   34
+CL-2025-0966
+
+
+
+      Florida, see Aluise v. Spanos, 424 So. 3d 513, 519 (Fla. Dist. Ct.
+App. 2025)("In sum, Pennsylvania retained exclusive, continuing
+jurisdiction until the Florida court determined that the child and
+[p]arents presently reside in Florida under [the section of Florida's
+version of the UCCJEA corresponding to § 30-3B-202(a)(2)]. At that
+point, jurisdiction transferred to Florida and [the] [p]arents were entitled
+to bring a modification petition" of the Pennsylvania child-custody
+determination in Florida. (emphasis added; footnote omitted)).
+
+      Pennsylvania, see OMalley v. Isquierdo, 345 A.3d 321, 328 (Pa.
+Super. Ct. 2025)(" 'If a Pennsylvania trial court with jurisdiction enters
+an order awarding custody, this state will retain "exclusive, continuing
+jurisdiction" unless and until certain conditions occur.' " "In defining the
+'commencement' of a 'child custody proceeding,' pursuant to [the section
+of Pennsylvania's version of the UCCJEA corresponding to § 30-3B-202],
+this Court has concluded that 'the trial court must rely upon the factual
+circumstances as they existed when the modification petition was filed.' "
+(citations omitted; emphasis added)).
+
+      Colorado, see R.W. v. People ex rel. E.W., 523 P.3d 422, 427 (Colo.
+2022)("A court that has obtained initial jurisdiction to adjudicate a child-
+custody proceeding under the UCCJEA does not automatically lose
+jurisdiction under [the section of Colorado's version of the UCCJEA
+corresponding to § 30-3B-202(a)(2)] by virtue of all parties leaving the
+state." (emphasis added)).
+
+      Arizona, see Monique B. v. Duncan, 245 Ariz. 371, 376, 429 P.3d
+1165, 1170 (Ct. App. 2018)("The text of the UCCJEA provides that the
+original state issuing a 'child custody determination' retains 'exclusive,
+continuing jurisdiction over the determination until' a subsequent event
+divests that original state court of jurisdiction." "Even after the parties
+move away from the original state, a determination by the original state
+that it no longer is exercising exclusive, continuing jurisdiction applies
+prospectively and does so only after an express judicial determination."
+(quoting the section of Arizona's version of the UCCJEA corresponding
+to § 30-3B-202(a); emphasis added)).
+
+                                    35
+CL-2025-0966
+
+
+
+      Nevada, see Kar v. Kar, 132 Nev. 636, 639, 378 P.3d 1204, 1206
+(2016)("Once it determined that the child and the child's parents no
+longer resided in Nevada, the [Nevada] district court lost exclusive,
+continuing jurisdiction under [the section of Nevada's version of the
+UCCJEA corresponding to § 30-3B-202(a)]." (emphasis added; emphasis
+omitted)).
+
+     Hawaii, see Beam v. Beam, 126 Haw. 58, 61, 266 P.3d 466, 469 (Ct.
+App. 2011)("The family court's jurisdiction did not automatically end
+once [the parents] and the [c]hildren moved out of state." (emphasis
+added)).
+
+     Illinois, see In re Marriage of Akula, 404 Ill. App. 3d 350, 360, 935
+N.E.2d 1070, 1078, 343 Ill. Dec. 842, 850 (2010)("The drafters of the
+UCCJEA intended that exclusive, continuing jurisdiction ceases when a
+court determines that the child, the parents, and all persons acting as
+parents physically left the decree state to live elsewhere." (emphasis
+added)).
+
+      New Mexico, see State ex rel. Child., Youth & Fams. Dep't v. Donna
+J., 139 N.M. 131, 135, 129 P.3d 167, 171 (Ct. App. 2006)("Although the
+[Official] Comment [to the UCCJEA] stresses the importance of physical
+presence to exclusive, continuing jurisdiction, the UCCJEA language
+specifically requires action by either the home or another state before
+exclusive, continuing jurisdiction in the home state ceases. … Because no
+determination under Section 202 [of New Mexico's version of the
+UCCJEA, which corresponds to § 30-3B-202(a)] was made in this case,
+the Texas court did not automatically lose its exclusive, continuing
+jurisdiction when [the] [f]ather died." (emphasis added)).
+
+      Texas, see In re Lewin, 149 S.W.3d 727, 736 (Tex. App. 2004)("A
+court's exclusive continuing jurisdiction does not vanish immediately
+once all the parties leave the state." (emphasis added)).
+
+      But see In re A.R.K.-K., 142 Wash. App. 297, 304-05, 174 P.3d 160,
+164 (2007)("[The mother] suggests … that once established, jurisdiction
+continues until a court finds that the parties have relocated. This is
+                                   36
+CL-2025-0966
+
+     B.    The inconsistency in our caselaw regarding § 30-3B-202(a)
+
+     Unfortunately, our caselaw does not consistently interpret § 30-3B-
+
+202(a) to mean what it says. In some cases, this court appears to have
+
+held that a trial court's continuing, exclusive jurisdiction under § 30-3B-
+
+202(a) automatically terminated when the child and both parents moved
+
+out of state, even though an appropriate court had not determined that
+
+the parties "d[id] not presently reside" in Alabama when the modification
+
+action was commenced. See, e.g., S.C. v. J.T.C., 47 So. 3d 1253, 1255 (Ala.
+
+Civ. App. 2010) ("The … judgment adjudicating the paternity of the child
+
+and determining the custody of the child gave the juvenile court
+
+continuing exclusive jurisdiction over custody matters relating to the
+
+child. See § 30-3B-202, Ala. Code 1975. That continuing jurisdiction
+
+ended when the child and the parents no longer resided in Alabama.");
+
+C.J.L. v. M.W.B., 868 So. 2d 451, 453 (Ala. Civ. App. 2003) ("The mother
+
+argues that the trial court lost its continuing exclusive jurisdiction when
+
+she, the last family member to reside in Alabama, moved to Georgia to
+
+be closer to the children. Indeed, the UCCJEA makes very clear that a
+
+
+
+
+incorrect. It is the fact of relocation, rather than any formal finding, that
+controls.").
+                                     37
+CL-2025-0966
+
+court of this state no longer has continuing jurisdiction when neither the
+
+child nor his or her parents reside in this state.").
+
+     In other cases, this court appears to have held that a trial court lost
+
+subject-matter jurisdiction at some point in a child-custody action even
+
+when there was no indication that an appropriate court had made a
+
+determination pursuant to § 30-3B-202(a)(1) or (a)(2) when the child-
+
+custody action was commenced. See McGonagle v. McGonagle, 218 So. 3d
+
+1208, 1213 (Ala. Civ. App. 2016) (dismissing the appeal as having been
+
+taken from a void judgment because the Baldwin Circuit Court "should
+
+have … determined that it had lost continuing, exclusive subject-matter
+
+jurisdiction" and because the circuit court did not have subject-matter
+
+jurisdiction under § 30-3B-201); Baker v. Baker, 25 So. 3d 470, 473 (Ala.
+
+Civ. App. 2009) (dismissing the appeal as having been taken from a void
+
+judgment because "the trial court should have determined that it had lost
+
+continuing, exclusive jurisdiction" to modify its previous child-custody
+
+determination and because the trial court did not have jurisdiction under
+
+§ 30-3B-201).
+
+     We have also held in other cases that a court's continuing, exclusive
+
+jurisdiction persists until an appropriate court makes a determination
+
+
+                                     38
+CL-2025-0966
+
+under either § 30-3B-202(a)(1) or § 30-3B-202(a)(2). See, e.g., Ex parte
+
+K.W., 293 So. 3d 930, 935 (Ala. Civ. App. 2019)(holding that trial court
+
+no longer had continuing, exclusive jurisdiction under § 30-3B-202(a)(1)
+
+because of the trial court's findings in previous judgment); Ex parte
+
+Bullard, 133 So. 3d 900, 903 (Ala. Civ. App. 2013)(denying petition for
+
+writ of mandamus because, "pursuant to § 30-3B-202, the Coffee Juvenile
+
+Court would have continuing exclusive jurisdiction over [its previous]
+
+child-custody determination unless a court of this state were to
+
+determine that one of the conditions for termination of that jurisdiction
+
+exists" and noting that "there is no information in the attachments
+
+indicating that a court of this state has done so" (emphasis added)); R.W.
+
+v. G.W., 2 So. 3d 869, 872-73 (Ala. Civ. App. 2008)(holding that, under a
+
+Georgia statute substantially similar to § 30-3B-202, "the Georgia court
+
+would have exclusive, continuing jurisdiction over the initial child-
+
+custody determinations until it determined that 'neither the child nor the
+
+child's parents or any person acting as a parent has a significant
+
+connection with this state and that substantial evidence is no longer
+
+available in this state concerning the child's care, protection, training,
+
+and personal relationships' " and noting that "[n]othing in the record
+
+
+                                   39
+CL-2025-0966
+
+reflects that the Georgia court has made such a determination"
+
+(emphasis added)); Davis v. Blackstock, 47 So. 3d 796, 799 (Ala. Civ. App.
+
+2007)("Under subsection (a)(2) [of Tenn. Code Ann. § 36-6-217, a part of
+
+Tennessee's version of the UCCJEA that corresponds to § 30-3B-
+
+202(a)(2),] the Tennessee trial court loses continuing, exclusive
+
+jurisdiction once a court of another state determines that the child, the
+
+child's parents, and any person acting as a parent no longer 'presently'
+
+reside in Tennessee." (emphasis added)), rev'd on other grounds, Ex parte
+
+Blackstock, 47 So. 3d 801 (Ala. 2009).
+
+     C.    Resolving the inconsistency in our caselaw
+
+     The main opinion acknowledges that § 30-3B-202(a)(2) "literally
+
+provides that a court retains continuing exclusive jurisdiction until the
+
+court determines that the child and the parents do not presently reside
+
+in this state." ___ So. 3d at ___. Nonetheless, the main opinion finds that
+
+the juvenile court "had an independent and mandatory duty to determine
+
+the residency of the parties and the child before proceeding with the
+
+case." Id. at ___. I cannot find a basis in the text of the UCCJEA for
+
+imposing such a duty on our trial courts. I am also concerned that it will
+
+lead trial courts to act outside of their role as independent arbiters of the
+
+
+                                     40
+CL-2025-0966
+
+evidence and arguments presented to them. Trial judges are not
+
+investigators. The litigants are responsible for providing the trial court
+
+with the evidence and argument needed to make rulings.
+
+     Adopting a plain-meaning interpretation of § 30-3B-202(a) reflects
+
+the fundamental duty of the judiciary to avoid rewriting a statute and
+
+overriding the intent of our legislature. See Ala. Const. 2022, Art. III, §
+
+42(c)("[T]he judicial branch may not exercise the legislative or executive
+
+power."). The plain meaning of § 30-3B-202(a) also specifically aligns
+
+with the purposes of the UCCJEA to "[a]void jurisdictional competition
+
+and conflict with courts of other states in matters of child custody which
+
+have in the past resulted in the shifting of children from state to state
+
+with harmful effects on their well-being" and to "[f]acilitate the
+
+enforcement of custody decrees of other states." Official Comment to § 30-
+
+3B-101, Ala. Code 1975. Because only one court can properly exercise
+
+jurisdiction over a child-custody determination at a time, adopting a
+
+plain-meaning    interpretation    of    §   30-3B-202(a)   would   provide
+
+predictability and clarity to the bench and bar regarding which court has
+
+jurisdiction over a child-custody action.
+
+
+
+
+                                    41
+CL-2025-0966
+
+III.   There is tension in our caselaw regarding the standard for
+       reviewing a motion to dismiss for lack of subject-matter jurisdiction
+
+       The main opinion concludes that, under Ex parte Safeway
+
+Insurance Co. of Alabama, Inc., 990 So. 2d 344, 349-50 (Ala. 2008), once
+
+the mother made a factual challenge to the juvenile court's subject-
+
+matter jurisdiction, T.B.E. ("the father") had to establish jurisdiction by
+
+a preponderance of the evidence. However, the burden-shifting
+
+framework of Ex parte Safeway has not been consistently applied by this
+
+court or our supreme court.
+
+       In a recent decision, our supreme court stated that: "This Court
+
+reviews de novo a trial court's ruling on a motion to dismiss for lack of
+
+subject-matter jurisdiction … The standard of review requires us to
+
+accept the allegations of the complaint as true and then to consider
+
+whether the plaintiff could possibly prevail on the complaint as pleaded."
+
+Riley v. Boles, 394 So. 3d 543, 546 (Ala. 2024). This court has also
+
+repeatedly applied that standard. See, e.g., Ex parte F.G., 383 So. 3d 402,
+
+406 (Ala. Civ. App. 2023)(" ' " ' "A ruling on a motion to dismiss [for lack of
+
+subject-matter jurisdiction] is reviewed without a presumption of
+
+correctness. … This Court must accept the allegations of the complaint
+
+as true. … Furthermore, in reviewing a ruling on a motion to dismiss we
+
+                                      42
+CL-2025-0966
+
+will not consider whether the pleader will ultimately prevail but whether
+
+the pleader may possibly prevail." ' " ' " (quoting Ex parte Diefenbach, 64
+
+So. 3d 1091, 1093-94 (Ala. Civ. App. 2010) (citations omitted))); Ex parte
+
+Bullard, 133 So. 3d at 902.
+
+     I first note that requiring the father to affirmatively establish that
+
+the juvenile court has continuing, exclusive jurisdiction contradicts the
+
+plain meaning of § 30-3B-202(a). There is nothing in § 30-3B-202 or any
+
+other provision of the UCCJEA that requires a party to affirmatively
+
+establish a trial court's continuing, exclusive jurisdiction -- that is
+
+because continuing, exclusive jurisdiction attaches when a trial court
+
+makes a child-custody determination pursuant to § 30-3B-201 or § 30-3B-
+
+203 and continues until a relevant court makes a determination under §
+
+30-3B-202(a)(1) or (a)(2).
+
+     Furthermore, I have been unable to identify any case involving the
+
+UCCJEA in which this court or our supreme court has applied the Ex
+
+parte Safeway burden-shifting framework. In at least two cases decided
+
+after Ex parte Safeway, this court reviewed challenges to the trial court's
+
+subject-matter jurisdiction under the UCCJEA under a different
+
+framework -- i.e., whether the pleader may possibly prevail if the
+
+
+                                    43
+CL-2025-0966
+
+allegations in the complaint are accepted as true. See, e.g., Ex parte
+
+Bullard, 133 So. 3d at 902; and Ex parte Diefenbach, 64 So. 3d. at 1093-
+
+94. It is no surprise then that the main opinion must look beyond the
+
+jurisdictional bounds of our state for a case to support the statement that
+
+"in UCCJEA cases, the burden is on the plaintiff to establish
+
+jurisdiction." ___ So. 3d at ___ (citing In re Marriage of Long & Borrello,
+
+4 Wash. App. 231, 242, 421 P.3d 989, 994 (2018)).
+
+     In non-UCCJEA cases, neither our supreme court nor this court has
+
+consistently applied the Ex parte Safeway framework when reviewing a
+
+motion to dismiss for lack of subject-matter jurisdiction. Compare Riley,
+
+394 So. 3d at 546 ("The standard of review requires us to accept the
+
+allegations of the complaint as true and then to consider whether the
+
+plaintiff could possibly prevail on the complaint as pleaded."); and Ex
+
+parte Alabama-West Florida Conf. of United Methodist Church, Inc., 401
+
+So. 3d 1123, 1133-37 (Ala. 2024)(holding that the petitioners in that case
+
+failed to meet their "heavy burden" to demonstrate that the trial court
+
+lacked subject-matter jurisdiction to adjudicate the underlying church-
+
+related disputes); and Ex parte F.G., 383 So. 3d at 406 (" ' " ' "[I]in
+
+reviewing a ruling on a motion to dismiss [for lack of subject-matter
+
+
+                                    44
+CL-2025-0966
+
+jurisdiction] we will not consider whether the pleader will ultimately
+
+prevail but whether the pleader may possibly prevail." ' " ' " (quoting Ex
+
+parte Diefenbach, 64 So. 3d at 1093-94 (other citations omitted))); with
+
+Ex parte Mobile Cnty. Bd. of Equalization, 369 So. 3d 1038, 1042 n.4 (Ala.
+
+2022)(plurality opinion) ("When a defendant seeks from this Court a writ
+
+of mandamus directing a trial court to dismiss an action for lack of
+
+subject-matter jurisdiction, the defendant establishes a clear legal right
+
+to dismissal if the plaintiff has failed to prove subject-matter jurisdiction
+
+below.").
+
+     In his special writing, Presiding Judge Moore notes his concern
+
+that, when applying the burden-shifting framework of Ex parte Safeway,
+
+"the failure of a plaintiff to properly respond to a motion to dismiss may
+
+lead to unfortunate results in other cases governed by the UCCJEA." ___
+
+So. 3d at ___ (Moore, P.J., concurring specially). To avoid those
+
+"unfortunate results," Presiding Judge Moore suggests that a trial court
+
+should "make its own jurisdictional inquiry," determine whether there is
+
+a factual dispute regarding its jurisdiction, and then either order the
+
+plaintiff to submit evidence or schedule an evidentiary hearing regarding
+
+
+
+
+                                     45
+CL-2025-0966
+
+jurisdiction.9 Id. at ___. Those "unfortunate results" are entirely
+
+avoidable if we simply apply the same standard for reviewing a motion
+
+to dismiss for lack of subject-matter jurisdiction in UCCJEA cases that
+
+we did in Ex parte Bullard, 133 So. 3d at 902, and Ex parte Diefenbach,
+
+64 So. 3d at 1093-94. I would not impose new duties on our trial courts to
+
+resolve a problem of our own creation.
+
+     But even if Ex parte Safeway's burden-shifting framework applies
+
+in the context of a motion to dismiss for lack of subject-matter jurisdiction
+
+under the UCCJEA, a defendant must first raise a factual dispute, i.e.,
+
+must first present evidence that places a fact asserted in the compliant
+
+at issue. See Ex parte Safeway, 990 So. 2d at 350 (stating that resolving
+
+a factual challenge to the trial court's subject-matter jurisdiction
+
+"requires consideration of evidence beyond the face of the complaint"
+
+
+
+
+     9I note that the Official Comment to § 30-3B-110, Ala. Code 1975,
+
+cited by Presiding Judge Moore to demonstrate that "it is not appropriate
+to decide a UCCJEA issue based on a memorandum unsupported by any
+evidence," ___ So. 3d at ___, pertains to the requirement that parties be
+given the opportunity to present facts and legal arguments when they
+were unable to participate in court-to-court communications made
+pursuant to § 30-3B-110. There is no such requirement that parties must
+be given the opportunity to present facts and legal arguments as to
+whether a court has jurisdiction under § 30-3B-201 or § 30-3B-202, Ala.
+Code 1975.
+                                     46
+CL-2025-0966
+
+(emphasis added)); cf. Ex parte Covington Pike Dodge, Inc., 904 So. 2d
+
+226, 229-30 (Ala. 2004)("[I]f the defendant makes a prima facie
+
+evidentiary showing that the Court has no personal jurisdiction, 'the
+
+plaintiff is then required to substantiate the jurisdictional allegations in
+
+the complaint by affidavits or other competent proof, and he may not
+
+merely reiterate the factual allegations in the complaint.' " (quoting
+
+Mercantile Capital, LP v. Federal Transtel, Inc., 193 F.Supp. 2d 1243,
+
+1247 (N.D. Ala. 2002) (emphasis added))).
+
+     The mother's motion to dismiss was not verified and contained no
+
+evidence; thus, she presented no factual dispute to the trial court for it to
+
+resolve. It is undisputed that the mother and the child did not reside in
+
+Alabama when the father filed his verified petition, and the mother has
+
+consistently averred that the father lives in Georgia and has never lived
+
+in Alabama.10 But there is no indication that the mother presented any
+
+evidence to the juvenile court as to the father's residency.
+
+
+     10The police report contained in the materials before us suggesting
+
+that the father lived in Georgia as of April 2025 -- three months before
+the underlying .04 action was commenced -- was part of the mother's
+unverified answer and is not evidence. See Rule 10(c), Ala. R. Civ. P. ("A
+copy of any written instrument which is an exhibit to a pleading is a part
+thereof for all purposes."); Kitchens v. Kitchens, 424 So. 3d 438, 448 n.4
+(Ala. Civ. App. 2025) ("[A]verments contained in the unverified pleadings
+                                     47
+CL-2025-0966
+
+      Even if we assume that the juvenile court considered evidence not
+
+put before it by the mother in her motion to dismiss, and even if we were
+
+to therefore conclude that the evidentiary burden shifted to the father,
+
+the father provided evidence in the form of his verified pleading. See
+
+Hensley v. Kanizai, 143 So. 3d 186, 191 (Ala. Civ. App. 2013). The only
+
+evidence in the materials before us regarding the father's residency when
+
+he filed his verified petition was the verified petition, in which the father
+
+inconsistently stated that he resided in both Alabama and Georgia. See
+
+id. at 193 ("[A] '[v]erified pleading[] constitute[s] [an] affidavit[] and [is]
+
+treated as evidence.' " (quoting Mead v. State, 449 So. 2d 1279, 1280 (Ala.
+
+Crim. App. 1984))). As I have stated, under Ex parte Safeway, resolving
+
+a factual challenge to the trial court's subject-matter jurisdiction
+
+"requires consideration of evidence beyond the face of the complaint." 990
+
+So. 2d at 350 (emphasis added). That does not mean, as the main opinion
+
+suggests, that the juvenile court could not have considered the father's
+
+verified pleading, which constitutes an affidavit.
+
+
+
+
+or motions filed by the former husband … clearly are not evidence …."
+(emphasis added)).
+                                      48
+CL-2025-0966
+
+     Additionally, the case number of the underlying action, CS-18-
+
+900198.04, indicates that it was at least the fifth action involving the
+
+parties and the child commenced in the juvenile court since 2018. The
+
+juvenile court was entitled to take judicial notice of the approximately
+
+seven years of evidence regarding the father's residency from those
+
+previous actions. See Ex parte DuPont De Nemours, Inc., 429 So. 3d 970,
+
+986 (Ala. 2025)(" '[W]hen a party refers to another proceeding or
+
+judgment of a court in his pleading before that same court, the court on
+
+motion to dismiss may take judicial notice of the entire proceeding.' "
+
+(quoting Lesley v. City of Montgomery, 485 So. 2d 1088, 1093 (Ala.
+
+1986))).
+
+     Accordingly, even if the burden-shifting framework from Ex parte
+
+Safeway applies in the context of the UCCJEA, the juvenile court did not
+
+incorrectly decide that issue. The mother presented no evidence in
+
+support of her motion to dismiss, and the father presented evidence
+
+regarding his residency. Therefore, I cannot agree that the mother has
+
+demonstrated a clear legal right to relief.
+
+
+
+
+                                    49
+CL-2025-0966
+
+IV.   Conclusion
+
+      The court's decision to grant the mother's petition in part and issue
+
+the writ of mandamus is unfortunate and further adds to our conflicting
+
+caselaw regarding continuing, exclusive jurisdiction under the UCCJEA
+
+and the standard that applies when reviewing a trial court's decision
+
+regarding a motion to dismiss for lack of subject-matter jurisdiction. For
+
+the reasons explained above, I respectfully dissent.
+
+
+
+
+                                    50
+

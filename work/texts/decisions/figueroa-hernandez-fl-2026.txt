@@ -1,0 +1,593 @@
+  The Third District Court of Appeal
+                               State of Florida
+
+                          Opinion filed July 22, 2026.
+       Not final until disposition of timely filed motion for rehearing.
+
+                            ________________
+
+                      Nos. 3D24-1040 & 3D24-1368
+                      Lower Tribunal No. F20-10308
+                           ________________
+
+
+                    Evin A. Figueroa Hernandez,
+                                  Appellant,
+
+                                     vs.
+
+                            State of Florida,
+                                  Appellee.
+
+
+
+    Appeals from the Circuit Court for Miami-Dade County, Marisa Tinkler
+Mendez and William Altfield, Judges.
+
+     Michael Van Cleve, Law, and Michael Van Cleve, for appellant.
+
+      James Uthmeier, Attorney General, and Sandra Lipman, Senior
+Assistant Attorney General and Yolande M. Samerson, Assistant Attorney
+General, for appellee.
+
+
+Before SCALES, C.J., and FERNANDEZ and LOGUE, JJ.
+
+     SCALES, C.J.
+      Appellant Evan A. Figueroa Hernandez appeals both his convictions
+
+on six counts of criminal sexual activity with a minor (case number 3D24-
+
+1040) and the trial court’s denial of his Florida Rule of Criminal Procedure
+
+3.850 motion based on the ground of double jeopardy (case number 3D24-
+
+1368). We consolidated the two appeals. We affirm Appellant’s convictions
+
+and affirm the trial court’s denial of Appellant’s postconviction motion.
+
+      I. Relevant Background
+
+      A. Charges, Convictions and Sentence
+
+      The State charged Appellant with one count of violating section
+
+794.011(8)(b) of the Florida Statutes, sexual activity with a child by a person
+
+in familial or custodial authority, and five counts of violating sections
+
+800.04(5)(c) and 800.04(6)(b) of the Florida Statutes, respectively,
+
+prohibiting lewd and lascivious molestation of a child and lewd and lascivious
+
+conduct. On May 14, 2024, after a six-day trial, the jury convicted Appellant
+
+on all counts. On count 1, Appellant was sentenced to twenty-five years in
+
+prison followed by twenty years of probation; on counts 2-6, he was
+
+sentenced to fifteen years in prison followed by twenty years of probation –
+
+all sentences to run concurrently. The trial court also entered an order finding
+
+Appellant a sexual predator.
+
+      B. The Criminal Episode and Aftermath, Medical Exam and Report
+
+
+
+                                       2
+      At the time of the alleged crimes, Victim was twelve-years old. She is
+
+the daughter of a divorced woman who was dating Appellant. On the evening
+
+of July 16, 2020, Appellant was in Victim’s bedroom where Victim was
+
+teaching him English. Victim’s mother was in her own bedroom watching
+
+television. After locking the door, Appellant lay on the bed beside Victim,
+
+pulled down her underwear, rubbed his penis against her vagina and
+
+buttocks, and kissed her breasts and mouth. At a certain point, he stopped,
+
+dressed, and left the bedroom. Victim immediately told her mother what
+
+happened. Appellant denied everything and departed the apartment.
+
+      After her mother called 911, the police arrived and interviewed Victim.
+
+Twelve hours later, Cara Saxton, a nurse practitioner with the University of
+
+Miami Child Protection Team (“CPT”), examined Victim and, on the same
+
+day, CPT coordinator Armenta Acevedo interviewed her. Victim’s statements
+
+to her mother, the investigating police officer, Saxton, Acevedo, as well as
+
+her trial testimony, were consistent.
+
+      In addition to conducting a medical exam of Victim, Saxton, the nurse
+
+practitioner, took swabs to distinguish Victim’s DNA from that of another
+
+person. Saxton prepared a written report, which included a description of the
+
+sexual assault as presented by Victim. Prior to trial, Saxton ended her CPT
+
+employment and moved away from Miami. At trial, Dr. Walter Lambert, the
+
+
+
+                                        3
+chief medical officer of CPT and Saxton’s supervisor, explained the work of
+
+CPT and summarized Saxton’s report for the jury. Dr. Lambert had not met
+
+with Victim.
+
+      Dr. Lambert explained that Saxton had asked Victim to point to the
+
+places where Victim had received sexual contact. Saxton then took two
+
+forensic swabs from each of these areas, sixteen in all. Dr. Lambert testified
+
+that the swabs were then labeled, sealed and stored until retrieved by law
+
+enforcement. He further testified that Victim’s medical exam was normal and
+
+that the sexual contact Victim experienced did not and would not necessarily
+
+cause physical injury.
+
+      C. The DNA Testing
+
+      Cosette Alvarez of the Miami-Dade Police Department’s crime lab
+
+tested the DNA swabs. She described the standard five-part process of her
+
+DNA analysis: extraction, quantification, preliminary chain reaction, analysis,
+
+and interpretation. From the serology test – called the “saliva presumptive
+
+test” – she detected sufficient biological material from which a sample was
+
+extracted for DNA testing. She determined a mixture of DNA consisting of
+
+two contributors, one male and one female. At both the Daubert1 hearing and
+
+
+1
+ Daubert v. Merrell Dow Pharm., Inc., 509 U.S. 579 (1993); see § 90.702,
+Fla. Stat. (2023). “[T]he test under Daubert is not the correctness of the
+expert’s conclusions but the soundness of his methodology.” State Farm
+
+                                      4
+at trial, she testified to the crime lab’s accredited testing procedures.
+
+Applying the procedures of the crime lab’s Technical Manual, she used the
+
+DNA subtraction method: the sample’s major donor (Victim) is subtracted to
+
+reveal the foreign donor to determine a ratio of the two donors (a third donor
+
+was not found). The resulting foreign profile matched Appellant’s DNA in all
+
+sample locations. She testified that her work underwent a technical peer
+
+review that found no error.
+
+      Defense DNA expert Tiffany Roy disputed the reliability of the State’s
+
+testing procedures. Roy testified that Miami-Dade’s crime lab should have
+
+updated to a new genotyping software (for example, STRmix), which is better
+
+suited for mixed profiles and profiles with low-grade DNA, both of which
+
+occurred here. Roy testified that the crime lab’s manual method relies too
+
+much on the analyst’s view of the DNA, yielding uncertainty in the tested
+
+locations. With low-grade DNA, the manual method may be inadequate to
+
+determine “stochastic” effects (random distortions) in the DNA sample. Roy
+
+testified that Alvarez, contrary to her own lab’s standards, interpreted DNA
+
+
+Mut. Auto. Ins. Co. v. All X-Ray Diagnostic Servs., Corp., 338 So. 3d 376,
+383 (Fla. 3d DCA 2022) (quoting Kemp v. State, 280 So. 3d 81, 89 (Fla. 4th
+DCA 2019)). On April 4, 2023, the trial court conducted a Daubert hearing to
+address two defense motions in limine: (i) to suppress the State’s forensic
+DNA report; and (ii) to prevent the State from referring to its serology test as
+a “saliva presumptive test.” The trial court’s May 26, 2023 Daubert order
+denied both motions.
+
+                                       5
+profiles below a 60% peak-height ratio, this ratio constituting a threshold for
+
+scientific certainty. Below-level peaks have an increased potential for
+
+stochastic effects, any of which could lead to the unreliability of the result.2
+
+      D. Procedural Rulings
+
+      In case number 3D24-1040, Appellant challenges eleven procedural
+
+rulings of the trial court (the “Procedural Rulings”).
+
+      1. Appellant moved for a continuance of the trial after the State added
+
+count 6 four days before the start of the trial. The State determined that
+
+Appellant had initiated sexual contact, i.e., kissing Victim on the mouth,
+
+
+2
+  Peak-height ratio is a measurement comparing the heights of two alleles at
+a specific locus. The relative peak height of alleles is an indicator of the
+presence of a DNA sample mixture of two or more contributors. An allele is
+a variation of a gene that one inherits from each biological parent. For
+example, as Roy explained in her testimony, there is a gene for eye color,
+and the allele determines the color itself. In DNA profiling, alleles are
+displayed as peaks on a chart. When the sample comes from only one
+person, two peaks of similar height will appear at a locus. “The process
+becomes more complicated where the DNA in the sample is a mixture from
+two or more individuals. In that case, more than two peaks may appear at
+any given locus and an individual profile may be determined only if the
+analyst is able to distinguish between donors, including by isolating a so-
+called ‘major donor.’” United States v. Barton, 909 F.3d 1323, 1329 (11th Cir.
+2018). Alvarez, the State’s analyst, testified that she was aware that some
+samples were below the 60% peak-height threshold. A peak-height below
+60% indicates either the presence of more than one DNA contributor or that
+the DNA is degraded in some way. Alvarez testified she proceeded
+cautiously and consistent with her laboratory’s standard operating
+procedures in evaluating the samples. She determined that the samples
+below the 60% peak-height threshold were caused by there being a
+predominant component of DNA (Victim) in a mixture of two contributors.
+
+                                        6
+during the two-week period prior to July 16, 2024 date of the alleged
+
+molestation of Victim in her bedroom. Appellant maintained he had been
+
+prejudiced by the late amendment. The State maintained that he was on
+
+notice all along from separate statements Victim had made in interviews of
+
+her. The trial court denied the continuance motion.
+
+      2. The police set up a controlled call between Victim’s mother and
+
+Appellant that, eventually, led to his arrest. Appellant moved for a
+
+continuance because the State delayed in giving him a translated transcript
+
+of the call. The State maintained that it gave Appellant a transcript of the call
+
+more than three years prior to trial. The trial court denied the continuance
+
+motion.
+
+      3. Appellant sought text messages between Victim and her mother in
+
+the aftermath of the crime to ascertain whether the mother pressured Victim
+
+into making her accusation. In her deposition, the mother had denied any
+
+such text messages existed. The trial court ordered the State to examine
+
+Victim and the mother under oath, and the State reported back confirmation
+
+that the text messages did not exist. The trial court denied the defense
+
+motion; nonetheless, Appellant’s counsel was able to cross-examine Victim
+
+and her mother on this issue during trial.
+
+
+
+
+                                       7
+     4. Appellant argues that the trial court improperly limited the testimony
+
+of defense witness Dean Tong. The trial court did not allow him to provide
+
+the jury with alternate hypotheses (e.g., witness coercion, memory
+
+contamination, other psychological phenomena), limiting his testimony to his
+
+area of expertise in child interviewing techniques and excluding testimony
+
+about whether Victim was telling the truth.
+
+     5. Appellant also argues, with respect to Tong’s testimony, that the trial
+
+court erred by finding the CPT handbook hearsay. Nevertheless, Tong did
+
+testify as to whether Acevedo deviated from the CPT handbook in her
+
+interview. The trial court later allowed defense counsel to raise the CPT
+
+handbook in another line of questions.
+
+     6. Appellant argues that the trial court allowed an improper
+
+impeachment of defense DNA expert Roy by allowing the State to raise her
+
+workplace disciplinary history to discredit her testimony about the State’s
+
+DNA evidence. The State counters that her disciplinary history related to her
+
+crime lab work and that the State cross-examined her to expose her
+
+testimony to the weight it deserved.
+
+     7. Appellant challenges a trial court cross-examination ruling finding
+
+hearsay in a defense question of Victim about what she told her mother about
+
+
+
+
+                                       8
+the incident. The State points out that this was another effort to elicit
+
+testimony that the mother pressured Victim to accuse Appellant.
+
+      8. Appellant challenges the trial court’s not allowing questions of Victim
+
+about what she told her father and brother. The State argues that these
+
+questions lacked relevance and might have been for the sake of insinuating
+
+that Victim’s father or brother molested her.
+
+      9. Appellant challenges the trial court’s not allowing the defense to ask
+
+Appellant whether the mother coached Victim. The State argues this was
+
+speculative; nonetheless, Appellant’s counsel mentioned it in closing
+
+argument.
+
+      10. Appellant argues that the trial court erred by not allowing questions
+
+of Acevedo whether she sought from Victim alternate reasons why Victim
+
+accused Appellant. The State counters that, first, Acevedo answered the
+
+question by saying “no” and, second, this was a line of questioning intended
+
+to elicit speculative answers.
+
+      11. Appellant argues that the trial court erred by neither allowing the
+
+defense to ask whether Victim was under the influence of drugs at the time
+
+of the incident nor allowing the defense to inquire into Victim’s psychological
+
+state after the alleged crime. The State counters that the trial court properly
+
+deemed these questions as not relevant.
+
+
+
+                                       9
+      E. The Rule 3.850 motion
+
+      On June 18, 2024, Appellant filed a rule 3.850 postconviction motion,
+
+asking the trial court to vacate certain counts of the judgment of conviction
+
+on double jeopardy grounds. The trial court orally denied the rule 3.850
+
+motion on July 30, 2024. Appellant filed his notice of appeal on August 1,
+
+2024, and on August 15, 2024, this Court relinquished jurisdiction to the trial
+
+court to enter a written order on Appellant’s rule 3.850 motion. On October
+
+21, 2024, the trial court entered the challenged order summarily denying
+
+Appellant’s rule 3.850 motion.
+
+      II. Analysis
+
+      In addition to his challenges to the Procedural Rulings described
+
+above, Appellant argues: (i) the trial court abused its discretion by admitting
+
+the State’s DNA evidence; and (ii) the trial court erred by denying Appellant’s
+
+rule 3.850 motion to vacate certain counts of the judgment of conviction
+
+based on double jeopardy.3
+
+
+3
+  Appellant also maintains an additional basis for appeal: that the recent
+United States Supreme Court opinion in the Confrontation Clause case of
+Smith v. Arizona, 602 U.S. 779 (2024) compels reversal of his conviction.
+The Smith opinion was released on June 21, 2024, after both (i) the rendition
+of Appellant’s conviction and sentence, and (ii) the filing of Appellant’s rule
+3.850 motion. We decline Appellant’s invitation to adjudicate his arguments
+related to Smith in the first instance, and express no opinion on those
+arguments. Our opinion is without prejudice to Appellant timely raising those
+arguments in an appropriate postconviction motion.
+
+                                      10
+      Upon our review of the record of this case, including the Daubert
+
+hearing and trial transcripts, we conclude without further elaboration that the
+
+trial court did not abuse its discretion in making the challenged Procedural
+
+Rulings. McDuffie v. State, 970 So. 2d 312, 324 (Fla. 2007) (holding that a
+
+trial court’s limitation on the examination of a witness is reviewed for an
+
+abuse of discretion); Fennie v. State, 648 So. 2d 95, 97 (Fla. 1994) (holding
+
+that a trial court does not abuse its discretion by denying a motion for
+
+continuance unless the ruling will result in prejudice to the defendant); see
+
+Pulles v. Onorato, 399 So. 3d 1200, 1202-03 (Fla. 3d DCA 2024) (Gooden,
+
+J., specially concurring). We write to address only the DNA testing issues
+
+and the trial court’s ruling on Appellant’s rule 3.850 motion.
+
+      A. DNA Evidence (3D24-1040) 4
+
+      The crux of Appellant’s argument is that Alvarez’s DNA analysis
+
+methodology was unreliable. Appellant challenges this methodology in the
+
+context of a larger argument that the Miami-Dade Police Department crime
+
+lab’s testing methods are outdated. Appellant’s arguments, however, go to
+
+the weight rather than to the admissibility of Alvarez’s testimony. See Forbes
+
+
+
+4
+ We review a trial court’s ruling on the admissibility of DNA evidence for an
+abuse of discretion. Zieler v. State, 51 Fla. L. Weekly S94, 2026 WL
+1026473, at *8 (Fla. Apr. 16, 2026).
+
+
+                                      11
+v. State, 410 So. 3d 574, 581 (Fla. 4th DCA 2025) (“Any concerns about the
+
+probative value of the DNA evidence goes to the weight of the evidence and
+
+not its admissibility.”); Vitiello v. State, 281 So. 3d 554, 563-64 (Fla. 5th DCA
+
+2019).
+
+      Alvarez gave ample testimony about her DNA testing procedures. Her
+
+identification of Appellant’s DNA from sample mixture was not repudiated by
+
+the defense’s case. Alvarez testified that her use of this manual method was
+
+consistent with her crime lab’s standard procedures. She testified that these
+
+procedures are not outdated, still in use in laboratories around the country,
+
+and generally accepted by the scientific community, and therefore, the
+
+Miami-Dade Police Department’s crime lab remained accredited. She also
+
+testified that her work and conclusions were peer-reviewed before their
+
+finality. While perhaps the latest genotyping software might be a better tool
+
+for interpreting mixed samples of more than one DNA contributor, and this
+
+issue was ripe for cross-examination by Appellant, the trial court was well
+
+within its discretion to determine at the Daubert hearing that Alvarez’s
+
+methodology remained reliable and that Alvarez’s expert testimony was
+
+admissible at trial.
+
+      The State met the Daubert criteria for reliability. See United States v.
+
+Gissantaner, 990 F.3d 457, 463 (6th Cir. 2021) (“Four inquiries guide the
+
+
+
+                                       12
+reliability analysis: Is the technique testable? Has it been subject to peer
+
+review? What is the error rate and are there standards for lowering it? Is the
+
+technique generally accepted in the relevant scientific community?”); Kemp
+
+v. State, 280 So. 3d 81, 89 (Fla. 4th DCA 2019); § 90.702, Fla. Stat. (2024).
+
+We conclude that the trial court did not abuse its discretion in admitting the
+
+State’s DNA evidence.5
+
+      B. Rule 3.850 Motion (3D24-1368)6
+
+      Appellant argues that the trial court erred in denying his postconviction
+
+motion alleging his convictions constituted a double jeopardy violation.
+
+Specifically, Appellant argues: (i) the State sought to convict Appellant on
+
+the same offense multiple times because counts 2, 3 and 4 all represent the
+
+same statutory offense of lewd and lascivious molestation; and (ii) count 5 is
+
+a lesser included offense (rather than a distinct act) of counts 2, 3 and 4.
+
+      We agree with the State’s argument that double jeopardy does not
+
+apply to the State’s charges because each offense charged was a distinct
+
+
+
+5
+  We also conclude that the trial court did not abuse its discretion in allowing
+the State to refer to its serology test as a “presumptive saliva test” to describe
+Alvarez’s search for the alpha amylase enzyme within the DNA samples.
+Once explained that the test is merely a preliminary step to the DNA testing,
+the name of the test was unlikely to mislead the jury or prejudice Appellant.
+6
+ We review de novo the summary denial of a rule 3.850 postconviction relief
+motion. Simeon v. State, 273 So. 3d 157, 158 n.3 (Fla. 3d DCA 2019).
+
+                                       13
+criminal sexual act. Graham v. State, 207 So. 3d 135, 137 (Fla. 2016). The
+
+State charged Appellant with committing three separate offenses of lewd and
+
+lascivious molestation under section 800.04(5)(C)2. – one count each for
+
+touching Victim’s breasts, buttocks and vagina. “[A] new act began each time
+
+one touch ended and another was initiated, no matter how closely each one
+
+followed the other.” Id. at 141; see Trappman v. State, 384 So. 3d 742, 754
+
+(Fla. 2024) (“Acts are distinct when they result from ‘successive impulses’
+
+even when the character of the acts is the same.”).7 Accordingly, we affirm
+
+the trial court’s denial of Appellant’s rule 3.850 motion because Appellant
+
+was not subjected to double jeopardy in the State’s charges.
+
+     III. Conclusion
+
+     We affirm the jury verdict convicting Appellant of criminal sexual
+
+activity on a minor in violation of the applicable Florida statutes. We also
+
+affirm the trial court’s denial of Appellant’s postconviction motion based on
+
+the ground of double jeopardy.
+
+     Affirmed.
+
+
+
+
+7
+  Below, Appellant raised an additional double jeopardy issue pertaining to
+count 5, the charge of lewd and lascivious conduct under section
+800.04(6)(b), maintaining it was a lesser included offense of the charges
+underlying counts 2-4. Again, the State argued, count 5 constituted a distinct
+offense. In his appellate briefing, Appellant did not pursue this argument.
+
+                                     14
+

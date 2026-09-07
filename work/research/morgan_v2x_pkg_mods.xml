@@ -1,0 +1,153 @@
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.3" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" ID="P0b002ee1e69f8318">
+    <name type="corporate">
+         <namePart>United States Government Publishing Office</namePart>
+         <role>
+              <roleTerm authority="marcrelator" type="text">publisher</roleTerm>
+              <roleTerm authority="marcrelator" type="code">pbl</roleTerm>
+        </role>
+         <role>
+              <roleTerm authority="marcrelator" type="text">distributor</roleTerm>
+              <roleTerm authority="marcrelator" type="code">dst</roleTerm>
+        </role>
+    </name>
+    <name type="corporate">
+         <namePart>United States</namePart>
+         <namePart>United States District Court District of Colorado</namePart>
+         <role>
+              <roleTerm authority="marcrelator" type="text">author</roleTerm>
+              <roleTerm authority="marcrelator" type="code">aut</roleTerm>
+        </role>
+         <description>Government Organization</description>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="marcgt">government publication</genre>
+    <language>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+    <extension>
+         <collectionCode>USCOURTS</collectionCode>
+         <category>Judicial Publications</category>
+         <branch>judicial</branch>
+         <dateIngested>2026-08-12</dateIngested>
+    </extension>
+    <originInfo>
+         <publisher>Administrative Office of the United States Courts</publisher>
+         <dateIssued encoding="w3cdtf">2026-03-30</dateIssued>
+         <issuance>monographic</issuance>
+    </originInfo>
+    <physicalDescription>
+         <note type="source content type">deposited</note>
+         <digitalOrigin>born digital</digitalOrigin>
+         <extent>16 digital object pages</extent>
+    </physicalDescription>
+    <classification authority="sudocs">JU 4.15</classification>
+    <identifier type="uri">https://www.govinfo.gov/app/details/USCOURTS-cod-1_25-cv-01991</identifier>
+    <identifier type="local">P0b002ee1e69f8318</identifier>
+    <recordInfo>
+         <recordContentSource authority="marcorg">DGPO</recordContentSource>
+         <recordCreationDate encoding="w3cdtf">2026-08-12</recordCreationDate>
+         <recordChangeDate encoding="w3cdtf">2026-08-12</recordChangeDate>
+         <recordIdentifier source="DGPO">USCOURTS-cod-1_25-cv-01991</recordIdentifier>
+         <recordOrigin>machine generated</recordOrigin>
+         <languageOfCataloging>
+              <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+        </languageOfCataloging>
+    </recordInfo>
+    <accessCondition type="GPO scope determination">fdlp</accessCondition>
+    <extension>
+         <docClass>USCOURTS</docClass>
+         <accessId>USCOURTS-cod-1_25-cv-01991</accessId>
+         <courtType>District</courtType>
+         <courtCode>cod</courtCode>
+         <courtCircuit>10th</courtCircuit>
+         <courtState>Colorado</courtState>
+         <courtSortOrder>2070</courtSortOrder>
+         <caseNumber>1:25-cv-01991</caseNumber>
+         <caseOffice>Denver</caseOffice>
+         <caseType>civil</caseType>
+         <natureSuitCode>442</natureSuitCode>
+         <natureSuit>Civil Rights Employment</natureSuit>
+         <cause>42:2000 Job Discrimination (Race)</cause>
+         <party firstName="Archie" fullName="Archie Morgan" lastName="Morgan" role="Plaintiff"></party>
+         <party fullName="V2X, Inc." lastName="V2X, Inc." role="Defendant"></party>
+    </extension>
+    <titleInfo>
+         <title>Morgan v. V2X, Inc.</title>
+         <partNumber>1:25-cv-01991</partNumber>
+    </titleInfo>
+    <location>
+         <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/USCOURTS-cod-1_25-cv-01991</url>
+    </location>
+    <classification authority="sudocs">JU 4.15</classification>
+    <identifier type="preferred citation">1:25-cv-01991;25-1991</identifier>
+    <name type="corporate">
+         <namePart>United States District Court District of Colorado</namePart>
+         <namePart>10th Circuit</namePart>
+         <namePart>Denver</namePart>
+         <affiliation>U.S. Courts</affiliation>
+         <role>
+              <roleTerm type="text" authority="marcrelator">author</roleTerm>
+              <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+         <displayForm>Archie Morgan</displayForm>
+         <namePart type="family">Morgan</namePart>
+         <namePart type="given">Archie</namePart>
+         <namePart type="termsOfAddress"></namePart>
+         <description>Plaintiff</description>
+    </name>
+    <name type="personal">
+         <displayForm>V2X, Inc.</displayForm>
+         <namePart type="family">V2X, Inc.</namePart>
+         <namePart type="given"></namePart>
+         <namePart type="termsOfAddress"></namePart>
+         <description>Defendant</description>
+    </name>
+    <extension>
+         <docClass>USCOURTS</docClass>
+         <accessId>USCOURTS-cod-1_25-cv-01991</accessId>
+         <courtType>District</courtType>
+         <courtCode>cod</courtCode>
+         <courtCircuit>10th</courtCircuit>
+         <courtState>Colorado</courtState>
+         <courtSortOrder>2070</courtSortOrder>
+         <caseNumber>1:25-cv-01991</caseNumber>
+         <caseOffice>Denver</caseOffice>
+         <caseType>civil</caseType>
+         <natureSuitCode>442</natureSuitCode>
+         <natureSuit>Civil Rights Employment</natureSuit>
+         <cause>42:2000 Job Discrimination (Race)</cause>
+         <party firstName="Archie" fullName="Archie Morgan" lastName="Morgan" role="Plaintiff"></party>
+         <party fullName="V2X, Inc." lastName="V2X, Inc." role="Defendant"></party>
+         <state>Colorado</state>
+    </extension>
+    <relatedItem type="constituent" ID="id-USCOURTS-cod-1_25-cv-01991-0" xlink:href="https://www.govinfo.gov/metadata/granule/USCOURTS-cod-1_25-cv-01991/USCOURTS-cod-1_25-cv-01991-0/mods.xml">
+         <titleInfo>
+              <title>Morgan v. V2X, Inc.</title>
+              <subTitle>(10) days of this Order, disclose the name of any AI platform he used to upload, submit, process, review, analyze, organize, or store any information designated by Defendant as CONFIDENTIAL under the Protective Order. Defendant is ORDERED to, witORDER granting in part and denying in part 52 Motion to Amend/Correct/Modify Protective Order. The Court will enter an amended protective order reflecting the AI-specific provision set forth in this Order. Plaintiff is ORDERED to, within tenhin ten (10) days of Plaintiffs disclosure, file a Notice with this Court indicating whether it intends to seek relief from this Court (and if so, what relief), or whether it has mitigated any potential harm or reached agreement with Plaintiff, such that no relief will be necessary. By Magistrate Judge Maritza Dominguez Braswell on 3/30/2026. For all non-e-filer pro se parties, a copy of this document has been sent via U.S. Mail to the mailing address of record.(evaug )</subTitle>
+              <partNumber>0</partNumber>
+        </titleInfo>
+         <originInfo>
+              <dateIssued>2026-03-30</dateIssued>
+        </originInfo>
+         <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/USCOURTS-cod-1_25-cv-01991/pdf/USCOURTS-cod-1_25-cv-01991-0.pdf">
+              <identifier type="FDsys Unique ID">D09002ee1e6a0e9b9</identifier>
+        </relatedItem>
+         <identifier type="uri">https://www.govinfo.gov/app/details/USCOURTS-cod-1_25-cv-01991/USCOURTS-cod-1_25-cv-01991-0</identifier>
+         <identifier type="former granule identifier">cod-1_25-cv-01991_0.pdf</identifier>
+         <location>
+              <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/USCOURTS-cod-1_25-cv-01991/USCOURTS-cod-1_25-cv-01991-0</url>
+              <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/USCOURTS-cod-1_25-cv-01991/pdf/USCOURTS-cod-1_25-cv-01991-0.pdf</url>
+        </location>
+         <extension>
+              <searchTitle>USCOURTS 1:25-cv-01991; Morgan v. V2X, Inc.; </searchTitle>
+              <courtName>United States District Court District of Colorado</courtName>
+              <state>Colorado</state>
+              <accessId>USCOURTS-cod-1_25-cv-01991-0</accessId>
+              <sequenceNumber>0</sequenceNumber>
+              <dateIssued>2026-03-30</dateIssued>
+              <docketText>(10) days of this Order, disclose the name of any AI platform he used to upload, submit, process, review, analyze, organize, or store any information designated by Defendant as CONFIDENTIAL under the Protective Order. Defendant is ORDERED to, witORDER granting in part and denying in part 52 Motion to Amend/Correct/Modify Protective Order. The Court will enter an amended protective order reflecting the AI-specific provision set forth in this Order. Plaintiff is ORDERED to, within tenhin ten (10) days of Plaintiffs disclosure, file a Notice with this Court indicating whether it intends to seek relief from this Court (and if so, what relief), or whether it has mitigated any potential harm or reached agreement with Plaintiff, such that no relief will be necessary. By Magistrate Judge Maritza Dominguez Braswell on 3/30/2026. For all non-e-filer pro se parties, a copy of this document has been sent via U.S. Mail to the mailing address of record.(evaug )</docketText>
+        </extension>
+    </relatedItem>
+</mods>

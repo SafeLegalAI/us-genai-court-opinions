@@ -1,0 +1,1132 @@
+Rel: April 24, 2026
+Notice: This opinion is subject to formal revision before publication in the advance sheets of Southern
+Reporter. Readers are requested to notify the Reporter of Decisions, Alabama Appellate Courts,
+300 Dexter Avenue, Montgomery, Alabama 36104-3741 ((334) 229-0650), of any typographical or other
+errors, in order that corrections may be made before the opinion is printed in Southern Reporter.
+SUPREME COURT OF ALABAMA
+OCTOBER TERM, 2025-2026
+_________________________
+SC-2025-0106
+_________________________
+Laurie Ibach and Mark Stewart
+v.
+Bruce Stewart, individually, as Trustee of the Betty L. Stewart
+Living Trust, and as Trustee of the Edward T. Stewart Living
+Trust
+Appeal from Mobile Circuit Court
+(CV-24-901773)
+McCOOL, Justice.SC-2025-0106
+2
+Laurie Ibach and Mark Campbell appeal the Mobile Circuit Court's
+entry of a summary judgment in favor of their uncle, Bruce Stewart. This
+case concerns a family dispute over Bruce's alleged fiduciary duties as
+trustee of the Betty L. Stewart Living Trust and the Edward T. Stewart
+Living Trust.
+At the outset, we note that W. Perry Hall, counsel for Laurie and
+Mark, filed briefs in this appeal that contain numerous invalid,
+inaccurate, and/or irrelevant citations to legal authorities. They appear
+to be artificial-intelligence ("AI") "hallucinations," i.e., fake authorities
+created by an AI system. Because those briefs are grossly deficient under
+the Alabama Rules of Appellate Procedure, we dismiss the appeal.
+Further, pursuant to our inherent authority to conduct the proceedings
+before us in an effective manner and Rule 38, Ala. R. App. P., we find
+that Hall's conduct is so egregious as to warrant sanctions as set forth
+below.
+I. Facts and Procedural History
+Although we dismiss the appeal for failure to follow our rules of
+procedure, we set forth the following facts and procedural history to
+provide context for our ruling.SC-2025-0106
+3
+Laurie and Mark are Edward Stewart's and Betty Stewart's
+grandchildren, and Bruce is Edward's and Betty's son. The Betty L.
+Stewart Living Trust and the Edward T. Stewart Living Trust were
+effectively identical, the only substantive difference between the two
+trusts was the swapping of names, i.e., where Betty's trust had Edward's
+name listed, Edward's trust had Betty's name listed, and vice versa. Both
+trusts stated that they were governed by the substantive law of the State
+of Illinois. Each trust was fully revocable by the settlor during his or her
+life and made irrevocable upon the settlor's death. Each trust provided
+that the trust would be split into a "Marital Share" and a "Non-Marital
+Share" upon the death of the settlor.
+Edward died in 2009, before Betty, so his trust became irrevocable
+at that time, and it was split into the marital and nonmarital shares.
+Betty's trust provided her with the right to amend her trust in writing.
+Betty used that power to make multiple amendments. Originally, the
+trust named Betty's children, Bruce and Patricia Stewart Campbell, who
+was Laurie's and Mark's mother, as equal remainder beneficiaries of the
+trust. The trust provided that if either child predeceased Betty, the
+trustee would distribute that child's share to his or her descendants uponSC-2025-0106
+4
+Betty's death. However, Patricia died in September 2017, leaving Bruce
+as the only surviving child of Betty. In an amendment, Betty directed
+her successor trustee to distribute 100% of the net trust estate to Bruce.
+Edward's trust provided Betty with a general power of appointment
+as to all or any portion of the marital share of his trust and a
+testamentary limited power of appointment over the nonmarital share of
+his trust. Betty exercised her power of appointment over the Edward T.
+Stewart Living Trust, directing the trustee to divide the nonmarital
+share of the trust into one share for Bruce.
+In October 2017, Laurie and Mark communicated with Betty and
+Bruce, asserting their statuses as beneficiaries of the trusts after their
+mother's passing and requesting information from the trustees. In
+November 2017, Betty and Bruce responded, asserting that, according to
+the trust language, Betty was the only beneficiary of Edward's trust
+during her lifetime and that, therefore, Laurie and Mark were not
+beneficiaries and would not be provided with the requested information.
+In December 2017, Laurie and Mark again requested information
+regarding the trusts, to which Betty and Bruce responded that they had
+no obligation to provide the information requested. In April 2018, LaurieSC-2025-0106
+5
+and Mark again requested information related to the trusts'
+administration.
+Betty died in August 2023. On August 11, 2023, Bruce informed
+Laurie through text messaging that Betty had passed away. On August
+24, 2023, Bruce texted Laurie again, saying that Laurie and Mark were
+not beneficiaries because of the amendments to the trusts made by Betty.
+On November 6, 2023, Laurie and Mark, through their attorney, sent a
+demand letter to Bruce requesting that he carry out his duties as trustee
+of both trusts by producing trust information. On November 16, 2023,
+Bruce's attorney responded that Laurie and Mark were not beneficiaries
+of either trust.
+Laurie and Mark ("the plaintiffs") sued Bruce on July 12, 2024, in
+the Mobile Circuit Court, alleging that Bruce had exerted undue
+influence over Betty concerning the amendments to the trusts,
+presumption of undue influence, Betty's lack of capacity to make the
+amendments, breach of trust, and tortious interference with the
+plaintiffs' economic expectancy in an inheritance. Bruce responded with
+a motion for a summary judgment, asserting that each claim is barred by
+the applicable statute of limitations and that tortious interference withSC-2025-0106
+6
+an economic expectancy is not a claim recognized in Alabama.
+Specifically, Bruce asserted that the plaintiffs were put on notice in 2017
+that they were not beneficiaries of the trusts, and that, therefore the
+statute of limitations barred their claims. The plaintiffs filed a reply in
+opposition. In their reply, they asserted that Bruce had wrongly applied
+the Alabama statute of limitations when the trust agreements provide
+that Illinois law governs the trusts. They also asserted that they were
+beneficiaries of the trusts and that, because of their statuses, Bruce, as
+trustee, owed them a fiduciary duty to provide them information about
+the trusts. Additionally, based on their assertion that they were
+beneficiaries at the time the amendments were made, they claimed that
+Bruce's alleged failure to inform them of their removal as beneficiaries
+was a breach of his duty and that his alleged concealment of the
+amendments until August 2023, after Betty's death, tolled the statute of
+limitations, precluding summary judgment.
+A hearing was held in October 2024, after which the plaintiffs filed
+a brief emphasizing that their claims of breach of fiduciary duty, undue
+influence, and intentional interference with their economic expectancy in
+an inheritance are not governed by § 19-3B-604(a), Ala. Code 1975, whichSC-2025-0106
+7
+imposes a statute of limitations of either "two years after the settlor's
+death" or "six months after the trustee sent the person a copy of the trust
+instrument and notice informing the person of the trust's existence, of
+the trustee's name and address, and of the time allowed for commencing
+a proceeding." They asserted that § 6-2-3, Ala. Code 1975, which provides
+that, in cases of fraud, a statute-of-limitations period is tolled until the
+injured party discovers the fact underlying the claim, and § 6-2-38, Ala.
+Code 1975, which provides a two-year statute of limitations for tort
+claims, apply to their claims. In response, Bruce asserted that the undue-
+influence claim involves a contest to the validity of the trusts, that there
+was no duty owed to support the breach-of-fiduciary-duty claim, and that
+the fraudulent-concealment claim failed because Bruce owed the
+plaintiffs no fiduciary duty. The circuit court issued an order on
+December 30, 2024, granting Bruce's motion for a summary judgment on
+all the plaintiffs' claims, holding that the plaintiffs' claims were time-
+barred. The plaintiffs appealed to this Court.
+II. Hall's Extensive Use of Nonexistent or Misquoted Authorities
+As stated earlier, Hall, counsel for the plaintiffs, filed briefs in this
+appeal that contain an astounding number of invalid, inaccurate, andSC-2025-0106
+8
+irrelevant citations to legal authorities. That egregious conduct has
+monopolized an inordinate amount of this Court's resources and has
+caused both wasted time and wasted costs to Bruce. We quote excerpts
+from Bruce's brief to demonstrate Hall's extensive use of nonexistent or
+misquoted authorities in the plaintiffs' opening brief and to demonstrate
+the time and effort expended by Bruce in responding to Hall's fabricated
+authorities. We will also detail Hall's use of numerous nonexistent or
+misquoted authorities in the plaintiffs' reply brief to demonstrate the
+significant amount of time expended by this Court in reviewing Hall's
+fabrications.
+A. Hall's Use of Nonexistent or Misquoted Authorities in the Plaintiffs'
+Opening Brief
+As Bruce correctly points out in his brief on appeal:
+"Undeterred, Appellants continue to attempt to
+distinguish their claims of undue influence and lack of
+capacity from 'contests' otherwise time-barred by Ala. Code §
+19-3B-604(a). (Appellants' Br. 20-21). Appellants' proffered
+legal support for this argument, however, presents several
+problems. First, Appellants cite to Ex parte Helms, 873 So. 2d
+1139 (Ala. 2003). Helms does not involve a trust or Ala. Code
+§ 19-3B-604(a). See generally, 873 So. 2d 1139. Rather, it
+involves a will contest case where this Court held that
+testamentary capacity could be found even where a person
+was not competent to transact ordinary, everyday affairs.
+(Appellants' Br. 21); Helms, 873 So. 2d at 1147. Notably,SC-2025-0106
+9
+Appellants provide a quotation from Helms that is not present
+anywhere in the Helms opinion. This is not the first time that
+Appellants have misrepresented the opinion from Helms,
+having previously, and erroneously, argued to the trial court
+that the case involved a contest as to the validity of a trust on
+the grounds of fraud and undue influence. (C. 281).
+"Appellants next provide a quotation that is not found
+in Janowiak v. Tiesi, 932 N.E.2d 569, 577 (Ill. App. Ct. 2010),
+a case that actually involves a trust but never discusses a
+trust instrument's legal validity or a contest thereof.
+(Appellants' Br. 21).
+"Appellants additionally support their argument by
+citing to In re Estate of McFarland, 167 S.W.3d 299 (Tenn.
+2005), which Appellants also misquote regarding trust
+contests. (Appellants' Br. 21). Indeed, McFarland has nothing
+to do with trust validity, but rather is a Tennessee Supreme
+Court case regarding the construction of a last will and
+testament and Tennessee's anti-lapse statute. See generally
+McFarland, 167 S.W.3d 299.
+"Most striking, however, is that Appellants next cite to,
+and provide purported quotations from, an out-of-state case
+which does not appear to exist. Appellants' provided citation
+of 'In re Trust of Eickhoff, 974 N.W.2d 505, 514 (Neb. Ct. App.
+2022)', alleged to be an on-point case from the Nebraska Court
+of Appeals, is actually one of two Iowa criminal court cases
+before the Iowa Supreme Court. (Appellants' Br. 21).
+"Bruce cannot, therefore, provide response to such case
+citations, and should not be required to do so. Ala. R. App. P.
+28(a)(10); see White Sands Grp., L.L.C. v. PRS II, LLC, 998
+So. 2d 1042, 1058 (Ala. 2008) ('Rule 28(a)(10)[, Ala. R. App.
+P.,] requires that arguments in briefs contain discussions of
+facts and relevant legal authorities that support the party's
+position. If they do not, the arguments are waived.'); see also
+Dykes v. Lane Trucking, Inc., 652 So. 2d 248, 251 (Ala. 1994)SC-2025-0106
+10
+(citing Spradlin v. Spradlin, 601 So. 2d 76 (Ala. 1992)) ('We
+have unequivocally stated that it is not the function of this
+Court to do a party's legal research or to make and address
+legal arguments for a party based on undelineated general
+propositions not supported by sufficient authority or
+argument')."
+Bruce's brief at 17-20 (footnotes omitted).
+Further, Bruce points out:
+"Not only have Appellants failed to provide the requisite
+elements for fraudulent concealment, but they have again
+resorted to providing this Court erroneous legal support for
+their argument, ranging from misquoted cases to completely
+fictitious cases.
+"Appellants first cite Ex parte Seabol, 782 So. 2d 212,
+216 (Ala. 2000) for the proposition that '[a] fiduciary
+relationship imposes an obligation to disclose material facts,
+and failure to do so may constitute fraudulent concealment
+sufficient to toll the statute of limitations.' (Appellants' Br.
+23). Not only did no fiduciary duty exist between Bruce and
+Appellants (760 Ill. Comp. Stat. Ann. 3/603), but the quotation
+attributed to this case is erroneous and the quoted language
+does not exist on the cited page or anywhere else in the
+opinion. Appellants thereafter quote McGowan v. Chrysler
+Corp., 631 So. 2d 842, 845 (Ala. 1993) as stating, 'Active
+concealment of facts, when there is a duty to disclose, tolls the
+running of limitations.' (Appellants' Br. 24). Again, the quoted
+language does not exist anywhere in the opinion, and even if
+it did, there was not duty to disclose owed by Bruce to
+Appellants under Betty's revocable trust. 760 Ill. Comp. Stat.
+Ann. 3/603.
+"Curiously, Appellants next quote Auto-Owners Ins. Co.
+v. Abston, 822 So. 2d 1187, 1194 (Ala. 2001) as stating,
+'[W]hen the evidence supports more than one inference as toSC-2025-0106
+11
+when the plaintiff discovered or should have discovered the
+fraud, the question is one for the jury.' (Appellants' Br. 24).
+Not only does the quoted language not exist in the opinion,
+but Abston materially supports Bruce's argument, as the case
+involved this Court holding that the statute of limitations on
+a plaintiff's fraud claim had run as a matter of law, and that
+it was error for the trial court to have submitted the claim to
+a jury. 822 So. 2d at 1198.
+"According to the actual Abston opinion, the statute of
+limitations began to run 'when the plaintiff was privy to facts
+which would provoke inquiry in the mind of a [person] of
+reasonable prudence, and which, if followed up, would have
+led to the discovery of the fraud.' Id. at 1195 (citation omitted);
+Foremost Ins. Co. v. Parham, 693 So. 2d 409 (Ala. 1997); see
+also Jefferson Cnty. Truck Growers Ass'n v. Tanner, 341 So.
+2d 485, 488 (Ala. 1977) ('Fraud is deemed to have been
+discovered when it ought to have been discovered. It is
+sufficient to begin the running of the statute of limitations
+that facts were known which would put a reasonable mind on
+notice that facts to support a claim of fraud might be
+discovered upon inquiry.'). As previously addressed
+hereinabove, Appellants never actually brought a fraud claim,
+but their reliance on Abston to submit their tolling argument
+is misguided.
+"While found at the end of their brief, rather than in the
+section addressing fraudulent concealment, Appellants finally
+cite two law journals in support of their argument.
+(Appellants' Br. 28). Again, the quoted language neither
+exists on the cited page nor anywhere else in the respective
+articles, and in particular, the Dawson article (authored in
+1933) references an Alabama statute and tolling provision
+which has since been abrogated by the Alabama Legislature
+and related holdings of this Court. Ala. Code § 6-2-38;
+Foremost, 693 So. 2d 409.SC-2025-0106
+12
+"In addition to again providing this Court erroneous, if
+not fabricated, quotations from real cases, Appellants
+additionally continue their practice of providing apparently
+fictitious cases in order to support their arguments, including
+'Gilbert v. Gilbert, 953 So. 2d 1233, 1241 (Ala. Civ App. 2006)'
+and 'Sowell v. Estate of Smith, 37 So. 3d 754, 761 (Ala. 2009)',
+neither of which appears to exist. (Appellants' Br. 23-24). As
+previously addressed in this Brief, it is neither the job of
+Bruce nor this Court to do Appellants' research for them, and
+Appellants' ultimately unsupported arguments should
+therefore be rejected outright."
+Bruce's brief at 32-36 (footnotes omitted).
+Additionally, Bruce states:
+"Not for the first time, the remainder of Appellants'
+supporting citations either erroneously attribute quotations
+from cases, or provide cases for which there is no apparent
+record. The quotation attributed to this Court in Alfa Life Ins.
+Corp. v. Colza, 159 So. 3d 1240, 1248 (Ala. 2014), is not
+contained in such opinion. More problematic, counsel for
+Bruce can find no record, opinion, or other indication that
+'Shaw v. Mobile Greyhound Park, Ltd., 605 So. 2d 243, 244
+(Ala. 1992)'; 'Ex parte Deepwater Horizon, 246 So. 3d 203, 212
+(Ala. 2017)'; or 'Ex parte United Servs. Auto. Ass'n, 78 So. 3d
+979, 983 (Ala. 2011),' exist or were otherwise matters brought
+before this Court.
+"Bruce cannot, therefore, provide response to such case
+citations, and should not be required to do so. Ala. R. App. P.
+28(a)(10); see White Sands Grp., L.L.C. v. PRS II, LLC, 998
+So. 2d 1042, 1058 (Ala. 2008) ('Rule 28(a)(10)[, Ala. R. App.
+P.,] requires that arguments in briefs contain discussions of
+facts and relevant legal authorities that support the party's
+position. If they do not, the arguments are waived.'); Dykes v.
+Lane Trucking, Inc., 652 So. 2d 248, 251 (Ala. 1994) (citing
+Spradlin v. Spradlin, 601 So. 2d 76 (Ala. 1992)) ('We haveSC-2025-0106
+13
+unequivocally stated that it is not the function of this Court
+to do a party's legal research or to make and address legal
+arguments for a party based on undelineated general
+propositions not supported by sufficient authority or
+argument.'). Regardless, based on the relevant rules of civil
+procedure and this Court's prior holdings regarding the same,
+Appellants did not properly present or preserve this issue at
+the trial court in order to even merit review of the issue by
+this Court."
+Bruce's brief at 40-42 (footnotes omitted).
+B. Hall's Use of Nonexistent or Misquoted Authorities in the Plaintiffs'
+Reply Brief
+In addition to the improper authorities used in the plaintiffs'
+opening brief, the plaintiffs' reply brief also contains numerous improper
+authorities, which this Court has been forced to sort out. Although Bruce
+pointed out Hall's extensive use of improper authorities in the plaintiffs'
+opening brief, the only place in the reply that Hall addresses his use of
+improper authorities is in a single footnote:
+"Laurie and Mark acknowledge and regret that their
+opening brief misquoted two secondary sources: an article by
+Professor Alan Newman and a 1933 article by Professor John
+Dawson. The error arose from counsel's first use of an AI
+research tool that summarized commentary not readily
+available through standard legal databases. The tool
+misattributed quotes. Counsel accepts full responsibility for
+relying on those summaries without independently verifying
+the original texts. The mistake will not recur. But the
+underlying legal principle, that fiduciaries cannot invoke aSC-2025-0106
+14
+limitations defense when their own concealment delayed
+discovery, is both correct and well-settled. See Ex parte
+Seabol, 782 So. 2d 212, 216-17 (Ala. 2000); Ex parte United
+Serv. Auto. Ass'n, 78 So. 3d 979, 983-84 (Ala. 2011); Hughes
+v. Glover, 157 So. 2d 299, 302 (Ala. 1963); Franciscan Sisters
+Health Care Corp. v. Dean, 448 N.E.2d 872, 876 (Ill. 1983);
+Restatement (Second) of Trusts § 219(1) & cmt. a. Bruce's
+extended focus on a citation error (rather than the principle it
+supports) only underscores the lack of any serious rebuttal on
+the law."
+Plaintiffs' reply brief at 27 n.1.
+Even though Hall declared that "[t]he mistake will not recur," the
+second and third citations after that declaration are to cases that do not
+exist: "Ex parte United Serv. Auto. Ass'n, 78 So. 3d 979, 983-84 (Ala.
+2011); Hughes v. Glover, 157 So. 2d 299, 302 (Ala. 1963)." Further, it is
+apparent that Hall's use of generative AI in the reply brief was not
+limited to that footnote; rather, the reply brief is full of the misuse of
+generative AI.
+On page 10, Hall cites "Ex parte James, 836 So. 2d 813, 818 (Ala.
+2002) (fiduciary self-dealing is presumptively invalid)" to support the
+proposition that "[a] trustee who rewrites a trust for personal gain, then
+conceals the change, demands heightened judicial scrutiny." Plaintiffs'
+reply brief at 10. That case does not support the proposition made; it isSC-2025-0106
+15
+a case challenging the constitutionality of the State's methods for funding
+public schools.
+Next, Hall states: "As the Illinois Court of Appeals held in Janowiak
+v. Tiesi, 'actions for breach of fiduciary duty are fundamentally different
+from challenges to the validity of a testamentary instrument' and fall
+outside the scope of contest statutes. 937 N.E.2d 1259, 1273-74 (Ill. App.
+Ct. 2010)." Plaintiffs' reply brief at 13. However, the quoted material is
+not found in Janowiak v. Tiesi, 402 Ill. App. 997, 932 N.E.2d 569, 342 Ill.
+Dec. 442 (2010); the reporter citation is to a withdrawn Indiana Court of
+Appeals case -- State v. Laker, 937 N.E.2d 1259 (Ind. Ct. App.),
+withdrawn from bound volume, opinion withdrawn and superseded, 939
+N.E.2d 1111 (Ind. Ct. App. 2010)); and the pinpoint citation is to a
+Massachusetts Appeals Court case -- IDC Rsch., Inc. v. Commissioner of
+Revenue, 78 Mass. App. Ct. 352, 937 N.E.2d 1266, 1273 (2010).
+In the following sentence, Hall states: "Likewise, the
+Massachusetts Appeals Court held that tort claims arising from trustee
+misconduct in administering a trust are not subject to contest limitations.
+Deroy v. Estate of Baron, 136 N.E.3d 748, 755 (Mass. App. Ct. 2019)."
+Plaintiffs' reply brief at 13. No case exists with this combination of styleSC-2025-0106
+16
+and citation. The case with this style is an Appellate Court of
+Connecticut case.1 The citation is to four different cases from the Court
+of Appeals of New York.2
+In the next sentence, Hall states: "And in In re Estate of Domhoff,
+the court ruled that a fraud-based claim concerning concealed
+amendments 'fell outside traditional contest statutes,' particularly when
+disclosure was withheld. 217 A.3d 845, 853-54 (Pa. Super. Ct. 2019)."
+Plaintiffs' reply brief at 13-14. This Court could not locate a case with
+this style, and the citation is to the dissent in Commonwealth v. Bishop,
+655 Pa. 270, 217 A.3d 833, 845 (2019), a criminal case regarding
+possession of a firearm, marijuana, and paraphernalia.
+Hall then states: "In Ex parte Seabol, 782 So. 2d 212, 216-17 (Ala.
+2000), the Court held that a fiduciary's concealment of material facts tolls
+limitations, stressing that 'trust depends on full transparency.' See also
+1See Deroy v. Estate of Baron, 136 Conn. App. 123, 43 A.3d 759
+(2012).
+2See Barber v. BorgWarner, Inc., 34 N.Y. 3d 986, 136 N.E.3d 748,
+113 N.Y.S. 3d 2 (2019); Delgado v. State, 34 N.Y. 3d 986, 136 N.E.3d 748
+113 N.Y.S. 3d 2 (2019); Hewitt v. Palmer Veterinary Clinic, PC, 34 N.Y.
+3d 986, 136 N.E.3d 748 113 N.Y.S. 3d 2 (2019); Ates v. Crecca, 34 N.Y. 3d
+986, 136 N.E.3d 748, 113 N.Y.S. 3d 2 (2019).SC-2025-0106
+17
+Hughes v. Glover, 157 So. 2d 299, 302 (Ala. 1963) (rejecting limitations
+defense where 'fraudulent concealment' delayed plaintiff's discovery of
+claim)." Plaintiffs' reply brief at 15. The quoted material is not found in
+Ex parte Seabol. That case did not address a fiduciary concealing facts;
+rather, it addressed whether it was reasonable for a realtor to rely on the
+oral representations of his attorney and banker. Ex parte Seabol, 782 So.
+2d at 217. Further, "Hughes v. Glover, 157 So. 2d 299, 302 (Ala. 1963)"
+is not a real case; the case with this style is an 1893 Appellate Court of
+Illinois case unrelated to the legal principle asserted in the
+parenthetical.3 Additionally, the citation is to Bonvillian v. Klein, 157
+So. 2d 298 (La. Ct. App. 1963), a case regarding damage to an automobile.
+Continuing on page 15, Hall states: "Permitting Bruce to invoke § 604
+after years of silence would 'transform statutes of repose into tools for
+impunity,' a result rejected by every jurisdiction to consider it. Janowiak
+v. Tiesi, 937 N.E.2d at 1274." Id. at 15. That quotation is not found in
+3See Hughes v. Glover, 53 Ill. App. 141 (1894).SC-2025-0106
+18
+that case or in any other case this Court could find, and the citation is to
+a Supreme Court of Ohio case regarding a public-records request.4
+On page 17, Hall states: "Even if Bruce had sent proper notice (he
+did not), § 604's protections would still be unavailable. Repose is not a
+reward for concealment. Alabama courts have made clear that a fiduciary
+cannot shield misconduct behind a clock he controlled. See Ex parte
+Seabol, 782 So. 2d 212, 216-17 (Ala. 2000); Ex parte United Serv. Auto.
+Ass'n, 78 So. 3d 979, 983-84 (Ala. 2011); Hughes v. Glover, 157 So. 2d
+299, 302 (Ala. 1963)." Plaintiffs' reply brief at 17. Hall cites "Ex parte
+United Serv. Auto. Ass'n, 78 So. 3d 979"; no such case exists. A case with
+a nearly identical style -- Ex parte United Servs. Auto Ass'n, 365 S.C. 50,
+614 S.E. 2d 652 (2005) -- is from the South Carolina Court of Appeals and
+deals with underinsured-motorist benefits. The case assigned that
+citation is P.A. v. L.S., 78 So. 3d 979 (Ala. Civ. App. 2011), a case dealing
+with a custody dispute between a mother and paternal grandparents.
+Hall also cites "Hughes v. Glover, 157 So. 2d 299 (Ala. 1963)"; yet again,
+that case does not exist.
+4See State ex rel. Bardwell v. Cuyahoga Cnty. Bd. of Comm'rs, 127
+Ohio St. 3d 202, 937 N.E.2d 1274 (2010).SC-2025-0106
+19
+On page 18, Hall states: "Courts interpreting similar UTC
+provisions have rejected that tactic. See In re Estate of Lewy, 885 N.W.2d
+345, 351 (Minn. Ct. App. 2016) (no repose where fiduciary suppressed
+amendment and failed to notify); In re Estate of Ruesing, 837 N.W.2d
+201, 208-09 (Mich. Ct. App. 2013) (strict compliance required; late and
+defective notice insufficient)." Plaintiffs' reply brief at 18. The only case
+found with the style In re Estate of Lewy is an Appellate Court of Illinois
+case involving the misdemeanor battery conviction of a caretaker of an
+88-year-old disabled woman and the Illinois Elder Abuse and Neglect
+Act. It is In re Estate of Lewy, 112 N.E.3d 1062, 425 Ill. Dec. 397 (App.
+Ct. 2018). The reporter citation is to a case styled In re Estate of Flaws,
+885 N.W.2d 336, 345 (S.D. 2016), which is a Supreme Court of South
+Dakota case dealing with distribution of the estate of a member of the
+Crow Creek Indian Tribe, and it does not contain a page 351. Further,
+"In re Estate of Ruesing, 837 N.W.2d 201 (Mich. Ct. App. 2013)" does not
+exist. The reporter citation is to a page in State v. Neiderbach, 837
+N.W.2d 180 (Iowa 2013), a case regarding a defendant's conviction on six
+counts of child endangerment.SC-2025-0106
+20
+Next, Hall states: "Under Alabama law, if a trustee benefits
+personally from a transaction involving trust property, the law presumes
+it was improper. See Ex parte James, 836 So. 2d 813, 818 (Ala. 2002)."
+Plaintiffs' reply brief at 20-21. This is the second citation to this case,
+which still does not support the assertion being made. Hall also states:
+"Even the comment to UTC § 603 (adopted in Alabama) warns that
+fiduciaries who abuse revocable trust powers in their own favor may be
+liable. Courts applying that provision have rejected the idea that it
+shields fraud or manipulation. See, e.g., In re Estate of Lewy, 885 N.W.2d
+345, 351 (Minn. Ct. App. 2016) (rejecting limitations defense where
+fiduciary concealed self-dealing amendments); Restatement (Third) of
+Trusts § 94 cmt. b." Id. at 21. However, no comment to § 603 of the
+Uniform Trust Code supports the assertion made. See Unif. Tr. Code §
+603. Hall again cites "In re Estate of Lewy, 885 N.W.2d 345," which does
+not exist. Additionally, the comment to the Restatement cited defines
+beneficiaries and does not support the assertion for which it is cited. See
+Restatement (Third) of Trusts § 94 cmt. b. (A.L.I. 2003).
+On page 22, Hall states: "As the Alabama Supreme Court has
+emphasized, 'summary judgment is inappropriate where the materialSC-2025-0106
+21
+facts are accessible only to the moving party.' Ex parte Bufkin, 936 So.
+2d 1042, 1045 (Ala. 2006)." Plaintiffs' reply brief at 22. The quoted
+material is not found in that case.
+On page 23, Hall, citing Hensley v. Poole, 910 So. 2d 96 (Ala. 2005),
+states: "[T]his Court allowed a claim where a sibling used fiduciary power
+to benefit himself at others' expense. The Court recognized that abuse of
+authority can harm the principal and her intended heirs." Plaintiffs'
+reply brief at 23. This assertion is not supported by that case; the case
+deals with corporate minority and majority shareholders and their
+respective fiduciary duties. In an attempt to show that Illinois law also
+supports the assertion "found" in Hensley, Hall states: "In In re Estate of
+Mankowski, 132 N.E.3d 578, 587 (Ill. App. Ct. 2019), the court allowed
+remainder beneficiaries to sue for prior self-dealing once the settlor died.
+Illinois also presumes fraud when a fiduciary gains from a transaction
+with someone in a dependent position." Plaintiffs' reply brief at 23-24.
+Both the Appellate Court of Illinois -- In re Estate of Mankowski, 30
+N.E.3d 1111, 391 Ill. Dec. 473 (App. Ct. 2014) -- and the Supreme Court
+of Illinois -- In re Estate of Mankowski, 31 N.E.3d 768, 391 Ill. Dec. 793
+(2015) (table) -- issued appellate decisions in a case with that style. ThatSC-2025-0106
+22
+case concerns a wrongful-death action brought by a widow against a
+hospital and a physician, and it does not support the assertion made.
+On page 25, Hall yet again cites to language that cannot be found
+in Ex parte Seabol, 782 So. 2d 212 (Ala. 2000): "A fiduciary relationship
+imposes a duty to disclose; concealment by a fiduciary tolls the statute."
+Plaintiffs' reply brief at 25-26.
+On page 26, Hall cites "Kelly v. Conn. Mut. Life Ins. Co., 628 So. 2d
+454, 458 (Ala. 1993) ('If the evidence supports more than one inference as
+to when the plaintiff discovered the fraud, the question is for the jury.')."
+Plaintiffs' reply brief at 26. The direct quote in the parenthetical is not
+in that case, but the case does contain similar language: "'The question
+of when a party discovered or should have discovered fraud which would
+toll the statute of limitations is for the jury.'" Kelly v. Connecticut Mut.
+Life Ins. Co., 628 So. 2d at 458 (quoting Vandegrift v. Lagrone, 477 So.
+2d 292, 295 (Ala.1985)).
+On page 28, Hall states: "As Alabama courts have long held, a party
+may not assert limitations where the delay was induced by fraudulent or
+inequitable conduct. See Hughes v. Glover, 157 So. 2d 299, 302 (Ala.
+1963) ('A wrongdoer cannot plead limitations when the delay was inducedSC-2025-0106
+23
+by his own fraudulent conduct.')." Plaintiffs' reply brief at 28. Yet again,
+this case does not exist.
+On page 29, Hall once more cites to language that cannot be found
+in Ex parte Seabol, 782 So. 2d 212 (Ala. 2000): "A fiduciary relationship
+imposes a duty to disclose; concealment by a fiduciary tolls the statute."
+Plaintiffs' reply brief at 29. Hall also cites "Hughes v. Glover, 157 So.
+299, 302 (Ala. 1963)" again. Id.
+On page 30, Hall states: "Alabama courts have repeatedly held that
+'where one induces another, either by words or silence, to delay filing an
+action until after the running of the applicable statute, he will be
+estopped from asserting it.' Ex parte United Serv. Auto. Ass'n, 78 So. 3d
+979, 983-84 (Ala. 2011)." Plaintiffs' reply brief at 30. Again, this case and
+the quotation do not exist. Then Hall states: "That principle is even more
+rigidly applied where the defendant is a fiduciary or holds asymmetric
+control over the relevant facts. See Hall v. Hall, 903 So. 2d 78, 84 (Ala.
+2004) (summary judgment improper where factual dispute existed about
+whether fiduciary conduct caused delay in suit)." Plaintiffs' reply brief at
+30. Hall ends on page 82, the procedural history does not indicate thatSC-2025-0106
+24
+there was a summary judgment, and the case does not support the
+assertion made.
+In the same citation sentence, Hall also cites "Liberty Nat'l Life Ins.
+Co. v. Parker, 703 So. 2d 307, 308-09 (Ala. 1997) ('Whether a plaintiff
+should have discovered fraud is generally a jury question, particularly
+where a fiduciary relationship exists.')." Plaintiffs' reply brief at 30-31.
+The parenthetical quote is not found within the case, but the principle is
+present there: "The question of when the party discovered or should have
+discovered the fraud is generally one for the jury. Kelly v. Connecticut
+Mutual Life Ins. Co., 628 So. 2d 454, 458 (Ala.1993) (citing Vandegrift v.
+Lagrone, 477 So. 2d 292, 295 (Ala. 1985))." Liberty Nat'l Life Ins. Co. v.
+Parker, 703 So. 2d at 308.
+On page 31, Hall cites "Gilbert v. Murdock, 646 So. 2d 953, 956 (Ala.
+1994)." Plaintiffs' reply brief at 31. The case with this style decided by
+the Superior Courts of Law and Equity of North Carolina in 1802, was
+regarding enslaved people. See Gilbert v. Murdock, 3 N.C. (2 Hayw.) 182,
+182 (1802). Further, no case begins on page 953 of the cited reporter, but
+Eads Operating Co. v. Thompson, 646 So. 2d 948 (La. Ct. App. 1994),
+contains that page; it is a mineral-rights case.SC-2025-0106
+25
+On page 32, Hall states: "Summary judgment is improper where the
+key facts are in the hands of the movant, and the nonmovant has not had
+fair access to discovery. Ex parte Bufkin, 936 So. 2d 1042, 1045 (Ala.
+2006); Ex parte Georgia Cas. & Sur. Co., 531 So. 2d 838, 841 (Ala. 1988)."
+Plaintiffs' reply brief at 32. Ex parte Bufkin does not support the
+proposition made; that case involved a petition for the writ of mandamus
+arguing that the trial court erred in denying a motion to dismiss.
+On page 33, Hall states: "Waiver requires a voluntary, knowing
+relinquishment of a known right. See Hall v. Hall, 903 So. 2d 78, 83-84
+(Ala. 2004)." Plaintiffs' reply brief at 33. Again, that case ends at page
+82, and the case does not support the proposition.
+On page 34, Hall states: "Moreover, as the Illinois Supreme Court
+has explained, 'one who wrongfully conceals material facts and thereby
+prevents discovery of his wrong cannot plead limitations as a defense.'
+Franciscan Sisters Health Care Corp. v. Dean, 448 N.E.2d 872, 876 (Ill.
+1983)." Plaintiffs' reply brief at 34. The quoted material is not found
+within that case.
+On page 35, Hall states: "As this Court has held, appellate review
+is not foreclosed where 'the substance of the argument was clearlySC-2025-0106
+26
+presented.' Ex parte Ryals, 773 So. 2d 1011, 1013 (Ala. 2000)." Plaintiffs'
+reply brief at 35. That case is on point as a case focusing on appellate
+review, but the quoted material is not found in the case. In the next
+sentence, Hall states: "Similarly, in Kennedy v. Western Sizzlin Corp.,
+857 So. 2d 71, 75 (Ala. 2003), the Court reversed summary judgment
+where the non-movant had objected to being denied discovery, holding
+that formal objections were not required where the issue was clear." Id.
+The Court did reverse a summary judgment in that case, but there is no
+mention of a party objecting to being denied discovery.
+On pages 35-36, Hall states: "And procedural doctrines like waiver
+and preservation cannot be used to bar parties from raising claims they
+were actively prevented from asserting. See Ex parte Seabol, 782 So. 2d
+212, 216-17 (Ala. 2000) (fiduciary concealment tolls limitations); Ex parte
+United Serv. Auto. Ass'n, 78 So. 3d 979, 983-84 (Ala. 2011) (estoppel bars
+limitations defense where defendant caused delay)." Plaintiffs' reply brief
+at 35-36. Waiver and preservation are not mentioned in Ex parte Seabol,
+and, again, "Ex parte United Serv. Auto. Ass'n, 78 So. 3d 979," is not a
+real case.SC-2025-0106
+27
+On page 36, Hall states: "Even if any argument were imperfectly
+phrased, this Court retains discretion to reach issues that implicate
+fundamental rights and procedural fairness. Ex parte Jackson, 780 So.
+2d 681, 684-85 (Ala. 2000) (appellate briefing may elaborate on trial-level
+objections so long as the core issue was presented)." Plaintiffs' reply brief
+at 36. That case does not support the proposition made. It is a case in
+which the Court denied a petition for the writ of mandamus in a medical-
+malpractice action.
+On page 37, Hall again cites "In re Estate of Mankowski, 132
+N.E.3d 578, 587 (Ill. App. Ct. 2019)," which does not exist. Plaintiffs' reply
+brief at 37.
+On page 38, Hall states: "And Franciscan Sisters Health Care Corp.
+v. Dean, 448 N.E.2d 872, 876-78 (Ill. 1983), rejected repose defenses
+where fiduciary concealment prevented timely discovery." Plaintiffs'
+reply brief at 38. This assertion is not found within that case.
+Lastly, Hall states: "In In re Estate of Mueller, 616 N.E.2d 1051,
+1056 (Ill. App. Ct. 1993), the court imposed a constructive trust where a
+trustee's undue influence had redirected estate assets. Illinois courts
+consistently hold that 'equity will not permit a fiduciary to profit fromSC-2025-0106
+28
+wrongful conduct.'" Plaintiffs' reply brief at 38. No case with that style
+and citation exists, and, therefore, the quoted material does not exist.
+The case with that style -- In re Estate of Mueller, 275 Ill. App. 3d 128,
+655 N.E.2d 1040, 211 Ill. Dec. 657 (1995) -- is a case regarding contingent
+beneficiaries and Illinois's slayer statute. Hall cites that case again on
+page 41. See Plaintiffs' reply brief at 41.
+III. Procedural History After Briefing
+After this Court thoroughly reviewed the plaintiffs' opening brief
+and reply brief, we issued an order on January 26, 2026, requiring Hall
+to appear before this Court on February 4, 2026, to show cause why he
+should not be subjected to sanctions for filing briefs that contained
+invalid, inaccurate, and/or irrelevant citations to legal authorities. On
+February 2, 2026, Hall moved to withdraw from the case and stated that
+Vaughan Drinkard, who had represented the plaintiffs at trial but had
+not signed their briefs on appeal, would remain as counsel for the
+plaintiffs. At the show-cause hearing on February 4, during which Hall
+was represented by counsel, Hall admitted that many of the legal
+authorities in his briefs do not exist and that he improperly used AI to
+obtain those authorities. Hall apologized, accepted sole responsibility forSC-2025-0106
+29
+his actions, and conceded that sanctions were appropriate. Hall also
+informed the Court that he had self-reported his actions to the Alabama
+State Bar, and he offered to reimburse Bruce for the fees and costs
+incurred in responding to his fabricated legal authorities. On February
+6, 2026, Drinkard moved this Court to grant each side leave to file a
+supplemental brief. On February 9, 2026, Hall notified this Court that
+he had delivered a check for $17,200 to Bruce's counsel. That amount
+was the estimate provided by Bruce's counsel for the fees and costs
+incurred in responding to the fabricated legal authorities.
+IV. Discussion
+A. The Problem of AI-Generated "Hallucinations"
+The situation we face in the case before is, unfortunately, not an
+isolated incident in today's judicial system. The advent of AI has ushered
+in an era wherein "hallucinations," or fake citations, within court filings
+have become all too common. See, e.g., Johnson v. Dunn, 792 F. Supp. 3d
+1241 (N.D. Ala. 2025) (sanctioning attorneys who submitted to the court
+false case citations that were hallucinated by generative AI and citing
+several examples of similar cases), and United States v. McGee, 806 F.
+Supp. 3d 1264 (S.D. Ala. 2025) (same). There have always been instancesSC-2025-0106
+30
+of misquotations and misleading citations within court filings; however,
+the arrival of generative AI in recent years has led to an outbreak of such
+instances throughout the country. Unfortunately, this case clearly fits
+into this category.
+But to be clear, the root of the problem does not lie with AI itself;
+on the contrary, AI-assisted legal research can sometimes be quite
+helpful to both practitioners and judges. See Snell v. United Specialty
+Ins. Co., 102 F.4th 1208, 1234 (11th Cir. 2024) (Newsom, J., concurring)
+("offer[ing] … preliminary thoughts about whether and how [AI-powered
+large language models] might aid lawyers and judges in the interpretive
+enterprise"). Rather, the problem of fake citations in court filings is the
+result of attorneys failing to properly research and verify the results of
+AI-generated citations -- in short, attorney negligence in checking his or
+her work. And such failures often lead to problems like those in this case.
+In a recent case from the Northern District of Alabama, Judge
+Manasco set forth a few of the many harms that flow from the submission
+of fake legal authorities. As stated in Johnson v. Dunn, 792 F. Supp. 3d
+at 1256, "[e]very lawyer knows that citing fake cases in a court filing is a
+terrible decision. … In the few years that generative AI has affected courtSC-2025-0106
+31
+filings, it has become well established that '[m]any harms flow from the
+submission of fake opinions.' Mata v. Avianca, Inc., 678 F. Supp. 3d 443,
+448 (S.D.N.Y. 2023)." Further,
+"[s]ome such harms affect the case at hand: 'The
+opposing party wastes time and money in exposing the
+deception,' and '[t]he client may be deprived of arguments
+based on authentic judicial precedents.' Mata, 678 F. Supp. 3d
+at 448. While the court takes time to investigate, other cases
+may be disrupted or deprived of judicial attention. Other
+harms affect the judicial system:
+"'There is potential harm to the reputation of
+judges and courts whose names are falsely invoked
+as authors of the bogus opinions and to the
+reputation of a party attributed with fictional
+conduct. It promotes cynicism about the legal
+profession and the American judicial system. And
+a future litigant may be tempted to defy a judicial
+ruling by disingenuously claiming doubt about its
+authenticity.'
+"Id. at 448-49. And the public … is justifiably horrified and
+outraged when filings in a court of law substitute lazy,
+convenient fictions for the truth."
+Id. at 1256-57.
+In the present case, as detailed above, both Bruce and this Court
+have wasted much time and effort in chasing down citations that are
+misrepresented or simply do not exist. Based on Hall's response at the
+hearing we held on February 4, 2026, and his subsequent actions, itSC-2025-0106
+32
+appears that he is very remorseful, and he claims that none of the fake
+citations were submitted with ill-intent. We recognize that the inclusion
+of fake or misleading citations within briefs may be done with varying
+mental states. But regardless of whether Hall included the AI
+hallucinations intentionally, recklessly, or negligently, the result is the
+same -- the wasteful expenditure of precious resources by both the
+opposing party and the courts.
+This kind of egregious conduct cannot be tolerated in a judicial
+system whose purpose is to pursue truth and justice, but whose resources
+are already strained almost to the maximum. This Court -- indeed, every
+court within our judicial system -- must be able to trust the submissions
+of attorneys who practice before it. Otherwise, the precious resources
+available to us will eventually be strained to the breaking point.
+B. The Present Case
+With all that said, we turn now to the case before us. The plaintiffs'
+briefs in this case are wholly inadequate under Rule 28, Ala. R. App. P.
+As this Court has stated:
+"Rule 28(a)(10), Ala. R. App. P., requires that arguments
+in an appellant's brief contain 'citations to the cases, statutes,
+other authorities, and parts of the record relied on.' Further,
+'it is well settled that a failure to comply with theSC-2025-0106
+33
+requirements of Rule 28(a)(10) requiring citation of authority
+in support of the arguments presented provides this Court
+with a basis for disregarding those arguments.' State Farm
+Mut. Auto. Ins. Co. v. Motley, 909 So. 2d 806, 822 (Ala. 2005)
+(citing Ex parte Showers, 812 So. 2d 277, 281 (Ala. 2001)).
+This is so, because '"it is not the function of this Court to do a
+party's legal research or to make and address legal arguments
+for a party based on undelineated general propositions not
+supported by sufficient authority or argument."' Butler v.
+Town of Argo, 871 So. 2d 1, 20 (Ala. 2003) (quoting Dykes v.
+Lane Trucking, Inc., 652 So. 2d 248, 251 (Ala. 1994))."
+Jimmy Day Plumbing & Heating, Inc. v. Smith, 964 So. 2d 1, 9 (Ala.
+2007).
+In the present case, the plaintiffs' briefs cite numerous invalid,
+inaccurate, or irrelevant legal authorities. Most of the legal authorities
+in the briefs are misquoted or nonexistent. Fabricated legal authorities
+are certainly not sufficient to support legal arguments. Because the
+plaintiffs have failed to file an even minimally adequate brief, this Court
+is left with nothing to review, and, thus, the appeal is due to be dismissed.
+Further, the plaintiffs' motion to file "supplemental" briefs is due to
+be denied. The Alabama Rules of Appellate Procedure do not
+contemplate allowing a party whose attorney has filed a poor brief to
+simply file a new brief with new arguments supported by new legal
+authorities after the briefing period has closed. Allowing such aSC-2025-0106
+34
+procedure, which would amount to a second bite at the apple, would be
+fundamentally unfair to the opposing party and to the efficient
+administration of justice.
+Rule 38, Ala. R. App. P., provides: "In civil cases, if the appellate
+court shall determine on motion or ex mero motu that an appeal is
+frivolous, it may award just damages and single or double costs to the
+appellee." "Frivolous" is defined as something that is "[l]acking a legal
+basis or legal merit; manifestly insufficient as a matter or law." Black's
+Law Dictionary 807 (12th ed. 2024). Further, "[t]his Court … [has]
+jurisdiction under Rule 38, Ala. R. App. P., to determine whether an
+appeal is frivolous. 'This rule vests the imposition of sanctions within the
+sound judicial discretion of the appellate court.' Gilbert v. Congress Life
+Ins. Co., 646 So. 2d 592, 594 (Ala. 1994)." Walker v. Blackwell, 800 So. 2d
+582, 588 (Ala. 2001). See also Powers v. Chandler Homes, LLC, 413 So.
+3d 707, 712 (Ala. 2012) (awarding under Rule 38 "just damages" in the
+amount of $7,070.54 for a frivolous appeal), and Guthrie v. Fanning, 329
+So. 3d 1, 3-4 (Ala. 2020) (awarding under Rule 38 and under the Alabama
+Litigation Accountability Act, § 12-19-270 et seq., Ala. Code 1975,
+attorney fees in the amount of $3,495 for a frivolous appeal).SC-2025-0106
+35
+An appeal can be deemed frivolous if it is brought for a frivolous
+reason such as delay or harassment, but an appeal can also be deemed
+frivolous if it is presented in a frivolous way. For example, in Johnson v.
+Ives, 224 So. 3d 603, 604 (Ala. Civ. App. 2016), the Alabama Court of Civil
+Appeals correctly concluded that an appeal was frivolous and that
+sanctions should be imposed because the appellant's brief presented an
+issue that was "clearly contrary to well-settled, black-letter law" and
+"completely failed to comply with the requirements of Rule 28, Ala. R.
+App. P."
+In the present case, we conclude that, in the way the appeal was
+presented by Hall with numerous misquoted or nonexistent legal
+authorities, the appeal lacked any legal basis and was manifestly
+insufficient as a matter of law. Thus, this appeal is frivolous, and
+sanctions are appropriate under Rule 38.
+In addition, this Court can impose sanctions under our inherent
+authority. It is a long-standing principle that this Court has the inherent
+"power to conduct judicial proceedings in an efficient and effective
+manner." Ex parte Segrest, 718 So. 2d 1, 5 (Ala. 1998).
+C. SanctionsSC-2025-0106
+36
+Based on the foregoing, this Court finds the following sanctions to
+be warranted and appropriate:
+(1) Hall is hereby ordered to pay attorney fees and costs to Bruce in
+the amount of $17,200 (this amount includes any amount that has
+already been paid to Bruce);
+(2) Concerning the costs of this appeal that are payable to this
+Court, Hall is ordered to pay double costs;
+(3) Hall is prohibited from filing anything else in this Court unless
+another attorney, who is in good standing with the Alabama State Bar,
+signs the filing in accordance with Rule 25A, Ala. R. App. P.; and
+(4) We also refer Hall to the Alabama State Bar for potential
+discipline concerning his possible violations of the Alabama Rules of
+Professional Conduct.
+Finally, we grant Hall's motion to withdraw from representing the
+plaintiffs in this case. We note that if Hall had not moved to withdraw,
+this Court would have likely disqualified him from further participation
+in this case.
+V. ConclusionSC-2025-0106
+37
+This Court takes Hall's misconduct very seriously. As
+demonstrated earlier, the improper use of AI in the plaintiffs' briefs was
+widespread and particularly egregious. This Court and Bruce have
+wasted a significant amount of time and resources reviewing and
+responding to the fabricated legal authorities.
+In the present case, because the plaintiffs' briefs failed to use valid
+legal authorities and, thus, failed to comply with the Alabama Rules of
+Appellate Procedure, the appeal is dismissed.5 Further, the plaintiffs'
+motion to file supplemental briefs is denied. Additionally, this Court
+imposes sanctions on W. Perry Hall as set forth above. Lastly, Hall's
+motion to withdraw is granted.
+MOTION TO FILE SUPPLEMENTAL BRIEFS DENIED;
+SANCTIONS IMPOSED; MOTION TO WITHDRAW GRANTED;
+APPEAL DISMISSED.
+5We note that the dismissal of this appeal is imposed as a sanction
+because of the particularly egregious facts before us. Importantly, we
+have found this appeal to be frivolous, and the rules contemplate
+dismissing such appeals. See Rule 2(a)(2), Ala. R. App. P. ("An appeal
+may be dismissed: … (B) when an appellant takes a frivolous appeal as
+provided in Rule 38; … or (D) when a party fails to comply substantially
+with these rules."). However, we recognize that each case must be
+evaluated based upon its own facts and that any sanctions imposed will
+necessarily be case-specific.SC-2025-0106
+38
+Shaw, Wise, Bryan, and Parker, JJ., concur.
+Cook, J., concurs specially, with opinion.
+McCool, J., concurs specially, with opinion, which Stewart, C.J.,
+joins.
+Sellers and Mendheim, JJ., concur in part and dissent in part, with
+opinions.SC-2025-0106
+39
+COOK, Justice (concurring specially).
+I concur with the well-reasoned main opinion. I write separately to
+highlight two points.
+First, my initial inclination was that our Court should affirm the
+judgment rather than dismiss this appeal. Here, W. Perry Hall failed to
+cite virtually any actual legal authority in support of the arguments that
+he has made on appeal. That failure is a violation of Rule 28(a)(10), Ala.
+R. App. P., which expressly requires parties to support any arguments
+that they make on appeal with sufficient legal authority. Absent such
+supportive authority by the appellant, our Court would normally affirm
+the judgment or decision being challenged on appeal. See, e.g., White
+Sands Grp., L.L.C. v. PRS II, LLC, 998 So. 2d 1042, 1058 (Ala. 2008);
+Jimmy Day Plumbing & Heating, Inc. v. Smith, 964 So. 2d 1, 9 (Ala.
+2007).
+In my view, dismissal of an appeal is a particularly strong sanction
+that should be used sparingly, especially when there are other sanctions
+available. I believe that sanctions for the use of hallucinated cases
+generated by artificial intelligence ("AI") should generally be imposed
+against the lawyer rather than the client. However, the particularlySC-2025-0106
+40
+egregious nature of Hall's conduct here compels a stronger result than a
+mere affirmance.
+As explained thoroughly in the main opinion, Hall first cited
+hallucinated cases in the appellants' opening brief. Bruce Stewart, the
+appellee, pointed out those hallucinated cases in his response brief. In
+the appellants' reply brief, Hall apologized for citing hallucinated cases
+and promised not to do so again. Despite that apology, however, Hall
+cited even more hallucinated cases in the reply brief. In fact, he did so in
+the same footnote in which he apologized for his earlier use of
+hallucinated cases, stating that "[t]he mistake will not recur" and then
+citing nonexistent cases at the end of the very next sentence. Laurie
+Ibach and Mark Stewart's reply brief at 27 n.1.
+It is simply hard to imagine how this could occur absent, perhaps,
+using AI to craft the apology for having used AI.6 It is because of Hall's
+6To be clear, I do not wish to be understood as taking the position
+that the use of AI is inherently unethical. Rather, it is my position that
+it is a lawyer's failure to verify the results generated by AI before
+including those results in a filing with this Court that creates the ethical
+issues with which our Court is concerned today. The practice of law
+requires the incorporation of new technologies, as those technologies are
+introduced. It might even be argued that, at some point, a lawyer's
+failure to use AI as a tool -- with appropriate safeguards -- may reflect a
+lack of competence. See Rule 1.1, Ala. R. Pro. Cond. Even if we reachSC-2025-0106
+41
+repeated use of AI hallucinations in his filings before this Court after
+being made aware of this issue and then apologizing for it that I agree
+with dismissing this appeal as a sanction for his conduct.
+In future cases involving the use of hallucinated cases, I would
+favor the use of some, or all, of the other sanctions imposed in the main
+opinion, absent egregious facts, such as those in this case. In my view,
+dismissal should be one of the last tools used, not the first tool. As the
+main opinion states: "[E]ach case must be evaluated based upon its own
+facts" and "any sanctions imposed will necessarily be case-specific." ____
+So. 3d at ____ n.5.
+Second, I agree with the main opinion's decision to require, in
+accordance with Rule 25A, Ala. R. App. P., that another lawyer, who is in
+good standing with the Alabama State Bar, sign any future filing that
+Hall may make in this Court. Although I would have either (1) set a date
+for this requirement to expire or (2) set a specific condition that would
+allow for this requirement to expire,7 I nevertheless concur. Nothing in
+such a day, however, it will always remain the responsibility of the
+lawyer to verify any caselaw he or she includes in filings to this Court.
+7For instance, if Hall were to satisfy any requirements imposed by
+the Alabama State Bar, I might agree to allow this requirement to expire.SC-2025-0106
+42
+our opinion today prevents Hall from seeking leave from our Court to end
+this requirement at an appropriate time.SC-2025-0106
+43
+McCOOL, Justice (concurring specially).
+I concur fully with the main opinion, which I authored. I write
+specially to respond to Justice Mendheim's special writing and to
+hopefully alleviate any concern that any member of this Court should be
+disqualified under Rule 70A(f), Ala. R. Civ. P., which addresses
+disqualification of a judge in a contempt proceeding and states, in
+pertinent part:
+"If the alleged contumacious conduct involves gross disrespect
+directed toward the judge or a personal attack upon the
+character of the judge, … then, unless the conduct constitutes
+a direct contempt and prompt punishment by the summary
+procedure of section (b) is imperative, the contempt
+proceeding shall be referred to another judge, who shall hold
+a hearing to determine whether the person charged with
+contempt committed the contempt charged, and, if so, to
+impose punishment."
+First, I respectfully disagree with Justice Mendheim's
+characterization of the language in the main opinion as "aggressive." ___
+So. 3d at ___ (Mendheim, J., concurring in part and dissenting in part).
+He appears to particularly disagree with our statement that W. Perry
+Hall's "egregious conduct has monopolized an inordinate amount of this
+Court's resources," ___ So. 3d at ___, and he implies that that statement
+could in some improper way "leav[e] the impression that the CourtSC-2025-0106
+44
+considers itself as the subject of serious disrespect." ___ So. 3d at ___
+(Mendheim, J., concurring in part and dissenting in part). While the
+language in the main opinion might be stern, it simply states the truth,
+and it is not combative, hostile, or personal. Many courts throughout the
+nation have recently dealt with cases that involve fake and misquoted
+authorities generated by artificial intelligence ("AI"), and our language,
+if anything, is milder than in many of those cases. For example, recently,
+in Whiting v. City of Athens, Tennessee, 170 F.4th 455 (6th Cir. 2026),
+the United States Court of Appeals for the Sixth Circuit stated the
+following about two attorneys who had cited cases in their briefs that
+were either fake or misquoted:
+"Irion and Egli breached the trust that we must have in the
+lawyers appearing before us. They have brought the
+profession into disrepute. Irion's and Egli's failure to comply
+with the basic rules of our profession has forced us and the
+City to unnecessarily expend time and resources on a case
+that should have been litigated and resolved
+straightforwardly but was not. More importantly, by
+breaching our trust, we can no longer rely on the
+representations in Irion's and Egli's briefs, harming both their
+clients (whose cases are now viewed with skepticism) and this
+court (who must now independently verify everything Irion
+and Egli write). Finally, Irion and Egli have sullied the
+reputation of our bar, which now must litigate under the cloud
+of their conduct."
+170 F.4th at 466 (emphasis added).SC-2025-0106
+45
+The Court further stated:
+"Citing fake cases 'unnecessarily burdens the court and the
+taxpayers,' so courts can and should fine the offending
+lawyers to reimburse the court for its time. Noland [v. Land
+of the Free, L.P.], [114 Cal. App. 5th 426, 447,] 336 Cal. Rptr.
+3d [897,] 914 [(2025)]. A lawyer's misrepresentation of the
+law and facts heavily burdens the courts and their staffs. We
+rely on good briefing to narrow and clarify the issues for our
+review while helping us locate the facts and the law that will
+govern the case. … But we did not have that assistance from
+Whiting's counsel because we could not rely on any of their
+briefing to truthfully explain the facts and governing law.
+Their submission of fake cases and factual
+misrepresentations forced the court to individually verify
+every single citation to determine the appropriate sanction.
+To call these consolidated appeals a burden would be an
+understatement."
+Id. at 467-68 (emphasis added).
+Therefore, like this Court, the Sixth Circuit Court of Appeals did
+not deem it inappropriate to point out the burden that the attorney's
+misconduct places on both the parties and the court.
+Second, I do not agree that Rule 70A(f), or any rule or statute
+concerning contempt, is implicated in any way in this case. Rule 70A
+explicitly applies only to "civil or criminal contempt proceedings arising
+out of civil actions." Rule 70A(a)(1). The present case did not involve a
+contempt proceeding. In fact, neither the word contempt nor any rule or
+statute dealing with contempt is mentioned anywhere in the mainSC-2025-0106
+46
+opinion. Instead, this Court ordered Hall to show cause why he should
+not be sanctioned under Rule 38, Ala. R. App. P., and under this Court's
+inherent power to conduct the proceedings before it, not under our
+contempt power. Thus, any disqualification contemplated by Rule 70A
+has no bearing on this case.
+Next, I agree wholeheartedly with Justice Mendheim that "[t]he
+brunt of the hardship from Hall's misconduct has been on Bruce
+[Stewart] and his counsel, rather than on this Court," ___ So. 3d at ___,
+even though it was this Court alone that had to sort through the reply
+brief, which was filed after Bruce had filed his only brief in this case and
+which Justice Mendheim describes as the "most troubling" part of Hall's
+conduct. Id. at ___. Regardless, we cannot ignore the impact of Hall's
+actions on this Court, and I believe that the main opinion addresses this
+issue appropriately.
+Finally, I join Justice Mendheim's suggestion that consideration
+should be given to amending the Rules "to address proper sanctions for
+misconduct related to the use of AI." Id. at ___ n.8. As the main opinion
+notes, AI can be a tool for great good in the legal profession. However,SC-2025-0106
+47
+the potential problems attendant to its use merit special attention from
+this Court and its standing rules committees.
+Stewart, C.J., concurs.SC-2025-0106
+48
+SELLERS, Justice (concurring in part and dissenting in part).
+I concur in part and dissent in part. I agree in large part with the
+concerns expressed by Justice Mendheim in his special writing. Like him,
+I am concerned that the show-cause order issued by this Court, the
+comments of the members of this Court at the show-cause hearing, and
+the tenor and tone of the main opinion could leave the impression that
+this Court considers itself the subject of serious disrespect, which might
+implicate our future impartiality.
+Additionally, I do not agree that dismissal of the appeal is
+appropriate as a sanction for the conduct of a lawyer. Lawyers are agents
+of their clients, not principals. The distinction between a lawyer as agent
+and the client as principal centers on the fundamental agency
+relationship; the client retains ultimate control and authority, while the
+lawyer acts on the client's behalf, within defined boundaries. The client
+is the principal who authorizes the lawyer to act, and the lawyer serves
+as the agent who exercises that authority for the client's sole benefit. The
+scope of a lawyer's authority is limited to acts authorized by the client,
+and the lawyer cannot bind the client based on acts that are outside the
+scope of the lawyer's authority. I cannot imagine that Laurie Ibach andSC-2025-0106
+49
+Mark Stewart authorized, encouraged, or consented to the authoritative
+citing of nonexistent cases in their appellate briefs. For that reason, I
+would not dismiss the appeal as a sanction premised on the actions of
+their lawyer. Rather, having reviewed the facts, the record, and the
+briefs of the parties, I would affirm the judgment of the Mobile Circuit
+Court, because the law of trusts and estates, as applied here, shows no
+error on the part of the trial court and thus provides no path for reversal.SC-2025-0106
+50
+MENDHEIM, Justice (concurring in part and dissenting in part).
+I concur in the dismissal of this appeal pursuant to Rule 2(a)(2)(B),
+Ala. R. App. P., but I disagree with certain aspects of the sanctions
+imposed against W. Perry Hall.
+Regarding the dismissal of the appeal, I generally agree with the
+concerns about the misuse of artificial intelligence ("AI") expressed in the
+main opinion and acknowledge that judges must safeguard the integrity
+of the judicial process. I also note that this Court has several similar
+cases before us in which the briefs include AI hallucinations, and, as
+recounted by the main opinion, federal courts and other state courts also
+are grappling with problems associated with the emergence of AI and
+counsel's failure to properly use that tool. As the present case illustrates,
+when counsel fails to exercise prudence in the use of AI, the first
+gatekeeper against that misconduct is counsel for the opposing party. It
+was Bruce Stewart's counsel who first called the AI hallucinations to the
+attention of Hall and this Court by addressing the problem in Bruce's
+appellee's brief. Hall did not choose to accept responsibility and take
+appropriate action at that point. Instead, he continued the farce in his
+reply brief, which is most troubling. Thankfully, the show-causeSC-2025-0106
+51
+proceedings initiated by this Court resulted in Hall's admitting that
+sanctions against him would be appropriate and in his payment of
+Bruce's requested attorney's fees and expenses. See Rule 38, Ala. R. App.
+P.
+I do not necessarily agree with some of the more aggressive
+language in the main opinion, including that Hall's "egregious conduct
+has monopolized an inordinate amount of this Court's resources," __ So.
+3d at __, though the Court certainly has spent more time addressing
+Hall's inadequate and misleading briefing than normally occurs when
+counsel fails to comply with Rule 28(a)(10), Ala. R. App. P. But we must
+be careful about possibly leaving the impression that the Court considers
+itself as the subject of serious disrespect. See Rule 70A(f), Ala. R. Civ. P.
+(describing circumstances under which a trial judge must disqualify
+himself from a contempt proceeding). The brunt of the hardship from
+Hall's misconduct has been on Bruce and his counsel, rather than on this
+Court. Not only did Hall's misconduct impose an additional financial
+burden on Bruce, his nonsensical actions have no doubt exacerbated the
+stress and uncertainty associated with the underlying litigation and
+subsequent appeal, especially in light of the fact that this case involvedSC-2025-0106
+52
+an intrafamily dispute with Bruce. And, at least potentially, Bruce's
+counsel was not available to serve some other client because he had to
+waste time researching and responding to AI hallucinations rather than
+genuine legal arguments. Further, and not to be forgotten, are Hall's
+clients, who entrusted him with what was to them an important legal
+matter. His representation on appeal was of no benefit to them, and, for
+all that appears, they would have been better served by representing
+themselves.
+I agree with the main opinion that Hall should be formally referred
+to the Alabama State Bar Association for possible disciplinary
+proceedings. Although it appears that Hall has already self-reported his
+misconduct to the Bar Association, the increasing prevalence of the
+misuse of AI warrants a court's notifying the Bar Association about such
+misconduct, notwithstanding any report by the attorney in question or
+someone else. And I encourage judges to be proactive in that regard when
+the misconduct at issue involves more than a mistake or oversight for
+which a satisfactory explanation is provided and proper, prompt remedial
+measures are taken by the attorney at fault. See Canon 1, Ala. Canons
+Jud. Ethics ("A judge should participate in establishing, maintaining,SC-2025-0106
+53
+and enforcing, and should himself observe, high standards of conduct so
+that the integrity and independence of the judiciary may be preserved.").8
+Notwithstanding the foregoing, I disagree with requiring Hall to
+pay "double costs" of appeal to this Court, at least in the absence of an
+amendment to Rule 38, Ala. R. App. P. __ So. 3d at __.9 Rule 38 states
+that, "[i]n civil cases, if the appellate court shall determine on motion or
+ex mero motu that an appeal is frivolous, it may award just damages and
+single or double costs to the appellee." The logic of Rule 38 is that, when
+an appeal is frivolous, it is the appellant that is the offending party and
+the appellee that is damaged. Accordingly, though an appellant has
+8Some consideration also should be given to amending the Alabama
+Rules of Civil Procedure and the Alabama Rules of Criminal Procedure
+to address proper sanctions for misconduct related to the use of AI,
+whether in conjunction with a contempt proceeding or otherwise.
+9I also have some concern about the sanction related to Rule 25A,
+Ala. R. App. P., which includes no time or other parameters that might
+allow the purging of that sanction. I do not question whether this Court's
+inherent powers allow for such a sanction. See Simpson v. Alabama State
+Bar, 294 Ala. 52, 56, 311 So. 2d 307, 309 (1975). However, the
+disciplinary proceedings before the Bar Association would appear to be
+the better forum in which to address that issue. And, again, perhaps an
+amendment to Rule 25A addressing this issue would be in order for
+purposes of providing notice to the members of the bar about conduct that
+may result in a suspension or hindrance of an attorney's ability to
+practice before this Court. See Ex parte Case, 925 So. 2d 956, 963 (Ala.
+2005).SC-2025-0106
+54
+already paid the costs of the appeal to the Court, he may be required to
+pay "just damages and single or double costs to the appellee." I am not
+aware of any Alabama law authorizing this Court to require Hall to pay
+"double costs" of appeal to the Court itself and am unclear on what
+inherent authority might authorize such a financial penalty. See Rule
+48, Ala. R. App. P (discussing contempt for "willful noncompliance with
+any material and substantive requirement of the [Rules of Appellate
+Procedure]"); Ala. Code 1975, § 12-2-7(5) (providing, in part, for
+punishment for contempt by "the infliction of a fine not exceeding $100").

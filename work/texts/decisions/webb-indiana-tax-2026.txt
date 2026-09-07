@@ -1,0 +1,230 @@
+PETITIONERS APPEARING PRO SE:                 ATTORNEYS FOR RESPONDENT:
+CHRYSHAWNA A. WEBB                            THEODORE E. ROKITA
+JEREMY WEBB                                   ATTORNEY GENERAL OF INDIANA                     FILED
+Farmersburg, IN                               MICHELLE R. WYATT                           Jul 16 2026, 5:01 pm
+
+                                              SHELBY M. STOUDER                               CLERK
+                                                                                          Indiana Supreme Court
+                                              DEPUTY ATTORNEYS GENERAL                       Court of Appeals
+                                                                                               and Tax Court
+                                              Indianapolis, IN
+
+
+
+                               IN THE
+                         INDIANA TAX COURT
+
+CHRYSHAWNA A. and JEREMY WEBB,                  )
+                                                )
+      Petitioners,                              )
+                                                )
+             v.                                 )      Case No. 25T-TA-00029
+                                                )
+SULLIVAN COUNTY ASSESSOR,                       )
+                                                )
+      Respondent.                               )
+
+
+ ORDER ON PETITIONERS’ MOTION TO SUPPLEMENT THE CERTIFIED RECORD
+
+
+                                  FOR PUBLICATION
+                                    July 16, 2026
+
+MCADAM, J.
+
+      The Webbs ask this Court to supplement the certified administrative record in this
+
+appeal with the transcript of a court hearing—evidence not presented before the Indiana
+
+Board of Tax Review. The transcript in question is from a small claims hearing held in
+
+Sullivan County Superior Court on March 4, 2024, Cause No. 77D01-2312-SC-000532.
+
+The Webbs want to introduce the transcript because they contend that it contains
+
+“material evidence directly relevant to the issues before this Court,” namely testimony
+from various people about the tax sale that led to this appeal.1 Because the Webbs fail
+
+to demonstrate that the transcript meets the statutory requirements for this Court to
+
+consider evidence outside the record, this request must be denied.
+
+       Generally, “[w]hen a litigant fails to present evidence to the Board, the Court may
+
+not consider that evidence on appeal,” unless exceptions referenced in Indiana Code
+
+Section 33-26-6-5 apply. Prop. Dev. Co. Four, LLC v. Grant Cnty. Assessor, 42 N.E.3d
+
+182, 184 & n.1 (Ind. Tax Ct. 2015). Section 5 provides three criteria which must be met
+
+for the Court to consider such evidence. First, the evidence must “relate[] to the validity
+
+of the [Board’s final] determination at the time it was taken.” IND. CODE § 33-26-6-5(b)
+
+(2026). Second, it must be “needed to decide disputed issues regarding one [] or both of
+
+the following: (1) Improper constitution as a decision making body or grounds for
+
+disqualification of those taking the agency action[;] (2) Unlawfulness of procedure or
+
+decision making process.” Id. Third, it “could not, by due diligence, have been
+
+discovered and raised in the administrative proceeding giving rise to a proceeding for
+
+judicial review.” Id.
+
+       The requirements of Section 5 focus on two factors to determine if the new
+
+evidence may be considered: what the evidence is intended to show and when the
+
+evidence first became available. The small claims hearing transcript fails to qualify for
+
+the exception under either of these factors. Because the Webbs do not show that the
+
+transcript meets every requirement, the Court cannot consider it.
+
+
+1
+  In support of their request, the Webbs cite Indiana Trial Rule 53.2 and Indiana Tax Court Rule
+14, but neither rule is relevant here. Trial Rule 53.2 allows for a cause that has been tried to be
+transferred to the Indiana Supreme Court for appointment of a special judge if the court does
+not rule within 90 days after taking it under advisement. Ind. Trial Rule 53.2. Tax Court Rule 14
+governs how and where certain Tax Court records are filed and kept. Ind. Tax Court Rule 14.
+Neither addresses when this Court may consider evidence outside of the administrative record.
+       First, the Webbs do not show that this evidence meets the content requirement.
+
+That is, they do not show that it “relates to the validity of the determination at the time it
+
+was taken,” nor that it “is needed to decide disputed issues regarding” either the Board’s
+
+constitution or the lawfulness of the procedures it used. IND. CODE § 33-26-6-5(b).
+
+Indeed, by their characterization, the evidence is relevant to the “Petitioners’ claim that
+
+the underlying tax sale and assessment proceedings violated due process and that the
+
+seizure of personal property was state action under color of law.” (Pet’rs Mot. to Suppl.
+
+R. at 2.) In other words, the transcript may be relevant to the Webbs’ substantive claims
+
+before the Board and the correctness of the decision, but not to the validity of the
+
+Board’s determination, its constitution, or the lawfulness of the procedure it used.
+
+       Second, the Webbs do not show that the transcript meets the timing requirement,
+
+namely that it “could not, by due diligence, have been discovered and raised” during
+
+proceedings before the Board. IND. CODE § 33-26-6-5(b). By their characterization, this
+
+evidence was absent “because the small claims hearing occurred before the [Board]
+
+hearing and involved different parties.” (Pet’rs Mot. to Suppl. R. at 1.) But neither of
+
+those reasons would make it unavailable. The Webbs were party to both matters—the
+
+Board appeal and the small claims matter. Nothing about the timing or sequencing of
+
+the proceedings appears to have precluded the Webbs from offering the transcript as
+
+evidence before the Board.
+
+                  NOTE ON THE USE OF ARTIFICIAL INTELLIGENCE
+
+       The Webbs refer to various court rules in their motion to support their request to
+
+supplement the record. While the rules the Webbs cite do exist, they plainly do not
+
+stand for any of the propositions that the Webbs advance. This leads the Court to
+believe that the Webbs used generative AI in producing their Motion to Supplement the
+
+Record.
+
+         The Court recognizes the benefits of generative AI, especially for self-
+
+represented parties like the Webbs, and does not wish to dissuade its responsible use.
+
+But that does not relieve attorneys and self-represented litigants of their duty to
+
+independently verify the authenticity and accuracy of authoritative sources cited to the
+
+Court. Courts “must be able to rely on the authenticity of the authorities cited by the
+
+parties to make just decisions.” Williams v. Kirch, 268 N.E.3d 284, 288 (Ind. Ct. App.
+
+2025).
+
+         Generative AI tools are not reliable for legal citation and “frequently generate
+
+fictitious case names and citations.” Wilcox v. Gingrinch, 274 N.E.3d 1269, 1277 (Ind.
+
+Ct. App. 2026). Even when such tools do cite authentic cases, they frequently
+
+mischaracterize their meaning or essential holdings. See, e.g., Sanders v. United
+
+States, 176 Fed. Cl. 163, 170 (Fed. Cl. 2025) (“AI programs can generate fake case
+
+citations and other legal misstatements.”). See generally Isabel Gottlieb & Isaiah Poritz,
+
+Popular AI Chatbots Found to Give Error-Ridden Legal Answers, BLOOMBERG L., (Jan.
+
+12, 2024), https://news.bloomberglaw.com/us-law-week/legal-errors-by-top-ai-models-
+
+alarmingly-prevalent-study-says (discussing research from Stanford University that
+
+found, out of 200,000 questions, “[l]arge language models hallucinate at least 75% of
+
+the time when answering questions about a court’s core ruling”). While this technology
+
+will undoubtedly be refined and improved in the course of time, litigants must continue
+
+to exercise care to ensure that the information gleaned from such sources is reliable
+
+and accurate.
+       Accordingly, the Court admonishes the Webbs for failing to confirm the accuracy
+
+of their legal presentations but will impose no further penalties. Going forward, the
+
+Webbs should be mindful of their duty to verify the accuracy and authenticity of future
+
+filings. At a minimum, the Webbs should review reliably sourced copies of the rules and
+
+legal authorities used in any document filed with the Court to confirm that they support
+
+the proposition advanced.2
+
+                                        CONCLUSION
+
+       The transcript in question does not meet either the content or the timing
+
+requirements prescribed by Indiana Code Section 33-26-6-5. For these reasons, the
+
+Webbs have not demonstrated that this Court may consider the evidence in question.
+
+Accordingly, the Court DENIES the Petitioners’ Motion and cautions them against
+
+relying on artificial intelligence without reviewing reliable source materials.
+
+       SO ORDERED this 16th day of July 2026.
+
+
+
+                                                            __________________________
+                                                            Justin L. McAdam
+                                                            Judge, Indiana Tax Court
+
+
+Distribution:
+Chryshawna Webb, Jeremy Webb, Michelle Wyatt, Shelby Stouder
+
+
+
+
+2
+ The Indiana Supreme Court publishes the official Court Rules online, available at
+https://rules.incourts.gov/Content/index.htm. The legislature publishes the official Indiana Code
+online, available at https://iga.in.gov/laws/2026/ic/. And there are many publicly available
+databases that compile cases that may prove useful, such as Legal Information Institute, Justia,
+Google Scholar, FindLaw, and Court Listener.
+

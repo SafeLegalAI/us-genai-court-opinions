@@ -1,0 +1,3514 @@
+Case 7:25-cv-00821-MFU         Document 127 Filed 05/21/26             Page 1 of 67              Pageid#:
+                                          1661
+
+
+
+                     IN THE UNITED STATES DISTRICT COURT
+                     FOR THE WESTERN DISTRICT OF VIRGINIA
+                              ROANOKE DIVISION
+
+ RAYMOND L. SHERWOOD, III et                    )
+ al,                                            )
+                                                ) Case No. 7:25-cv-821
+        Plaintiffs,                             )
+                                                ) By: Michael F. Urbanski
+ v.                                             ) Senior United States District Judge
+                                                )
+ COUNTY OF BOTETOURT,                           )
+ VIRGINIA, et al,                               )               CLERKS OFFICE US DISTRICT COURT
+                                                                        AT ROANOKE, VA
+                                                                                FILED
+
+                                                                            May 21, 2026
+        Defendants.                                                     LAURA A. AUSTIN, CLERK
+                                                                           BY: /s/ E. Jones
+
+                               MEMORANDUM OPINION                            DEPUTY CLERK
+
+
+
+
+       Plaintiff Raymond L. Sherwood III and his family raise twenty counts against nine
+
+different state and non-state actors in Botetourt County, including wide-ranging claims of
+
+malicious prosecution, Brady and Giglio violations, retaliation and abuse of power, equal
+
+protection violations, stigma-plus due process violations, Americans with Disabilities Act
+
+violations, violations of Section 504 of the Rehabilitation Act, Monell liability, Title IX
+
+retaliation, violation of rights to familial association, Virginia civil conspiracy, and various
+
+defamation claims. ECF No. 40.
+
+       The Sherwoods’ sweeping claims appear to stem from incorrect interpretations of law
+
+and include citations to hallucinated law ostensibly obtained from generative AI tools. A
+
+fundamental misunderstanding about (1) the requirements for a misdemeanor warrant under
+
+Virginia Code § 19.2-72; and (2) the effect of a nolo contendere plea in Virginia court underlies
+
+all twenty counts.
+
+
+
+
+                                               1
+Case 7:25-cv-00821-MFU         Document 127 Filed 05/21/26           Page 2 of 67     Pageid#:
+                                          1662
+
+
+
+       Ten motions are pending before the court, including: defendants’ motions to quash
+
+service of the original complaint, ECF Nos. 34, 36, 38, 41, 44; defendants’ motions to dismiss
+
+for failure to state a claim, ECF Nos. 71, 76, 79, 82, 84; and plaintiffs’ motion to amend their
+
+amended complaint, ECF No. 93.
+
+       The court has carefully considered the various motions of the parties, the parties’
+
+briefing on those motions, and the parties’ oral arguments presented at the February 2, 2026,
+
+hearing on the pending motions. For the reasons described herein, the motions to quash are
+
+DISMISSED AS MOOT, the motion to amend is DENIED, and the motions to dismiss
+
+are GRANTED. This case is DISMISSED.
+
+
+I.     Factual Background
+
+       Plaintiff Raymond Sherwood is a disabled veteran and former police officer who
+
+worked as a school bus driver in Botetourt County. ECF No. 40 at 8-9. This case arises from
+
+the circumstances surrounding Sherwood’s 2025 arrest for assault and battery and his
+
+termination from his position as a bus driver for the Botetourt County School District.
+
+Sherwood’s Arrest
+
+       In May 2025, Sherwood was arrested and charged with twenty-five counts of assault
+
+and battery arising from his contacts with children on the school bus between April 15-22,
+
+2025. Id. at 9, 14, 17. These contacts had been reported in April 2025 by the mother of one
+
+
+
+
+                                               2
+Case 7:25-cv-00821-MFU             Document 127 Filed 05/21/26                 Page 3 of 67        Pageid#:
+                                              1663
+
+
+
+of those children, defendant Kasey Thomas, who works as a probation officer in Botetourt
+
+County. Id. at 14-16.1
+
+        In the complaint, Sherwood objects to the circumstances surrounding his arrest. On
+
+the day of his arrest, Sherwood received two phone calls from police officers, one asking to
+
+speak with him and the other “delivering a seemingly informal, conversational ‘heads up’ to
+
+induce [Sherwood] to appear at the jail voluntarily.” Id. at 29. The Sherwoods allege that these
+
+circumstances amounted to a manipulation to “orchestrate a warrantless, no-probable-cause
+
+arrest while making it appear ‘voluntary.’” Id. at 28. “Relying on his own background in law
+
+enforcement and his belief that he had done nothing wrong, Mr. Sherwood complied and
+
+presented himself at the jail shortly thereafter.” Id. at 29. Plaintiffs also allege that Botetourt
+
+County (another defendant) regularly routes deputy-initiated calls through the Emergency
+
+Communications Center in order to create the impression that the accused “came in
+
+voluntarily.” Id. at 30.
+
+        Plaintiffs allege that there were various issues with the way Sherwood’s arrest was
+
+conducted. The arresting officer, Lieutenant Kevin Hix, and Assistant Commonwealth’s
+
+Attorney Marshall Lukacs are named defendants in this case. Id. at 17. The Sherwoods allege
+
+that, under orders from Lukacs to “bring a charge for each contact made,” Hix obtained all
+
+twenty-five warrants for Sherwood’s arrest without a sworn affidavit or recorded probable
+
+cause statement. Id. Hix conducted a full custodial arrest of Sherwood, rather than issuing a
+
+
+
+
+1 There is allegedly footage of these contacts, and the parties disagree on what that footage shows. See, e.g.
+ECF No. 40 at 17 (“Upon information and belief, surveillance footage reviewed that week showed no criminal
+conduct, no intimate touching, and no behavior suggesting sexual intent.”).
+
+
+
+                                                      3
+Case 7:25-cv-00821-MFU          Document 127 Filed 05/21/26            Page 4 of 67      Pageid#:
+                                           1664
+
+
+
+summons. Id. The Sherwoods also allege that the time of execution that was written on the
+
+warrants (5:03 p.m.) was at least an hour before Sherwood voluntarily came to the jail, and
+
+that “Sherwood—who requires ADA accommodations—was afforded none of the customary
+
+modifications to the arrest procedure,” which imperiled his safety. Id. at 31-32. Plaintiffs allege
+
+that standard booking process—specifically, the documentation of any identifying marks—
+
+was not followed, and that Sherwood’s three-hour custodial booking aggravated his
+
+disabilities. Id. at 31-33. In September 2025, months after Sherwood’s arrest, the Department
+
+of Veteran’s Affairs issued a “100 percent permanent and total” rating based on his
+
+“documented sensory and cognitive limitations and other conditions that were aggravated by
+
+the arrest, booking, and public shaming.” Id. at 33.
+
+       Sherwood County Sheriff’s Office posted about the arrest on its Facebook page on
+
+May 6, 2025. That post indicated that Sherwood had been arrested for twenty-five counts of
+
+alleged misconduct as a school bus driver, that the alleged touching “did not involve intimate
+
+areas[.]” Id. at 18. The Sheriff’s Office also made public comments on May 7, 2025, advising
+
+that the conduct “involved ‘more than one student’” and rejecting community explanations
+
+that the alleged conduct consisted of “hugs and high fives.” Id. at 18-19. Sherwood alleges
+
+that defendant Botetourt County School Board (“School Board”) approved the Sheriff’s
+
+Office press release. Id. at 19, 23, 28.
+
+       Notably, under Virginia Code § 19.2-72, a probable-cause affidavit is not required for
+
+a misdemeanor warrant in Virginia when the complainant is a law enforcement officer. Va.
+
+Code § 19.2-72. Nonetheless, between July 2025 and September 2025, Sherwood’s criminal
+
+
+
+
+                                                4
+Case 7:25-cv-00821-MFU                Document 127 Filed 05/21/26             Page 5 of 67        Pageid#:
+                                                 1665
+
+
+
+defense counsel 2 “repeatedly requested that the Commonwealth’s Attorney’s Office produce
+
+the affidavits supporting the twenty-five arrests and other exculpatory court-ordered
+
+materials.” ECF No. 40 at 26. Neither A.C.A. Lukacs, Botetourt County Commonwealth’s
+
+Attorney John Alexander (another defendant in this suit), the Juvenile and Domestic Relations
+
+District Court, nor the Office of the Executive Secretary of the Supreme Court of Virginia
+
+provided the Sherwoods with a sworn probable-cause affidavit relating to the twenty-five
+
+charges. Id. at 26-27.
+
+Sherwood’s Termination
+
+         Shortly after his arrest, Sherwood lost his job as a bus driver for Botetourt County
+
+Public Schools.
+
+         The Sherwoods allege irregularities with Sherwood’s termination, including a “series of
+
+concealed, procedurally irregular, and unlawfully adopted policy provisions” at the School
+
+Board “[b]etween April 4 and April 11, 2025, immediately preceding the allegations against []
+
+Sherwood and directly coinciding with … his suspension and termination.” Id. at 19. Twenty-
+
+two policy provisions that relate to “third-party complaints about employees, student conduct
+
+on school buses, bus-stop procedures, transportation oversight, staff hiring, and investigative
+
+responsibilities” were presented at the board’s April 10, 2025, meeting with little notice to the
+
+public. Id. at 19-20. Those changes were also suggested in one large omnibus PDF file, rather
+
+than in separate motions, allegedly in violation of School Board policy. Id. at 20-21.
+
+
+
+
+2 The court notes that Sherwood’s criminal defense counsel from his state misdemeanor case, Joseph Cockfield,
+
+is a different attorney from his counsel in this civil case, Jon Clark.
+
+
+                                                         5
+Case 7:25-cv-00821-MFU           Document 127 Filed 05/21/26          Page 6 of 67     Pageid#:
+                                            1666
+
+
+
+       The Sherwoods allege that these large policy changes “coincided with significant
+
+budget and staffing procedures,” and “[r]emoving a popular but protected, 100 percent
+
+disabled veteran driver would have provided budgetary relief that the School Board appeared
+
+increasingly motivated to achieve.” Id. at 21-22. The Sherwoods highlight that Sherwood “was
+
+widely beloved in his community” and that this made his “termination politically dangerous
+
+for the School Board unless it could be framed as necessary for policy.” Id. at 22.
+
+       Sherwood was notified by the School Board that he was suspended from his
+
+employment on April 23, 2025, “without … any written notice of allegations or procedural
+
+rights” and was banned from campus (except when attending events for his children, who are
+
+students there). Id. at 22-23.
+
+       Weeks later, on May 2, 2025, defendant Timothy McClung, the School District’s
+
+Human Resources Director and Title IX supervisor, wrote Sherwood a letter indicating that
+
+he was “recommending to the Botetourt County School Board that [Sherwood’s] employment
+
+as Bus Driver be terminated effective May 2, 2025,” and that “[t]his recommendation is due
+
+to unprofessionalism when it comes to your interaction with female students on the school
+
+bus.” ECF No. 2-2 (cited at ECF No. 40 at 23, 72, 99, and 103). The letter informed Sherwood
+
+of his ability to file a request for a hearing with the Office of the Superintendent and attached
+
+the School Board’s policy that outlined his rights and the grievance process. Id. A second letter
+
+from McClung, dated May 9, 2025, confirmed that the School Board voted on May 8, 2025,
+
+in regular session to terminate Sherwood’s employment as “the result of unprofessionalism
+
+when it comes to your interaction with female students on the school bus.” ECF No. 2-3
+
+(cited at ECF No. 40 at 23).
+
+
+
+                                               6
+Case 7:25-cv-00821-MFU              Document 127 Filed 05/21/26                   Page 7 of 67   Pageid#:
+                                               1667
+
+
+
+        In the amended complaint, the Sherwoods allege that, McClung “failed to provide Mr.
+
+Sherwood with written notice of allegations, failed to initiate any formal Title IX process, failed
+
+to implement supportive measures, and failed to conduct an investigation.” ECF No. 40 at 22.
+
+His action was ultra vires, plaintiffs allege, because “only the Superintendent may recommend
+
+termination under Va. Code § 22.1-315.” Id. at 23. 3
+
+        The amended complaint alleges that McClung said that Sherwood “talked to girls more
+
+than boys” and that his suspension was due to “unprofessionalism,” in apparent conflict with
+
+contemporaneous statements from the Sheriff’s Office. ECF No. 40 at 22. The Sherwoods
+
+also allege irregularities in the ways the School Board handles student records “in matters such
+
+as Mr. Sherwood’s.” Id. at 34-35.
+
+        The Botetourt County School Board voted to terminate Sherwood from his position
+
+on May 7 or May 8, 2025, allegedly in reliance on the statements from the Sheriff’s Office,
+
+“within his ten-day appeal window, without giving him any opportunity to respond, without
+
+disclosing the allegations, and without providing any name-clearing hearing.” Id. at 18-19; 23.
+
+Sherwood was officially terminated as of June 30, 2025, at the end of the fiscal year. Id. at 24.
+
+He alleges that he and his family never received a COBRA notice advising them of a right to
+
+continue their health insurance coverage, and Sherwood stopped receiving hourly pay in May
+
+2025. Id. at 24.
+
+Sherwood’s Nolo Contendere Plea
+
+        Prosecutors extended a formal offer of a plea agreement to Sherwood in October 2025.
+
+The amended complaint describes the agreement as follows:
+
+
+3 The court notes that this assertion is not supported by the language of the statute.
+
+
+
+
+                                                        7
+Case 7:25-cv-00821-MFU          Document 127 Filed 05/21/26            Page 8 of 67      Pageid#:
+                                           1668
+
+
+
+         [T]he Commonwealth would agree to defer two (2) of the twenty-five (25)
+         misdemeanor assault and battery charges while dismissing by nolle prosequi[]
+         the remaining twenty-three (23). Pursuant to the agreement, the two deferred
+         charges were taken under judicial advisement on the condition that Mr.
+         Sherwood enter pleas of nolo contendere (no contest) to each. In exchange, the
+         Juvenile & Domestic Relations Court made no finding of guilt and no finding
+         of facts sufficient to convict, with both charges to be dismissed and eligible for
+         expungement upon Mr. Sherwood’s compliance with the agreed conditions—
+         specifically, that he have no contact with the complainants, keep the peace, and
+         remain on good behavior.
+
+ECF No. 40 at 56 (citing ECF No. 2-23).
+
+         The Sherwoods allege that “Mr. Sherwood accepted the Commonwealth’s offer” on
+
+October 14, 2025, “not because [Sherwood] was guilty, but because the Sheriff’s Office’s
+
+public accusations had rendered him unemployable.” Id. at 25. Sherwood entered the nolo
+
+contendere plea with the Juvenile & Domestic Relations Court. Id. at 56.
+
+         In October 2025, Botetourt County Commonwealth’s Attorney John Alexander made
+
+public statements to the press about the case. He indicated that Sherwood’s conduct included
+
+“touching that verged on inappropriate,” that “there was no evidence to support charges of
+
+sexual assault,” and that the fact that Sherwood was no longer working as a bus driver was
+
+accounted into Sherwood’s plea agreement. Id. at 56 (citing ECF Nos. 2-31, 2-32). Alexander
+
+refused to retract those statements after he was contacted by Sherwood’s defense counsel. Id.
+
+at 57.
+
+II.      Procedural Background
+
+         Plaintiff Raymond Sherwood and his family filed a complaint, ECF No. 1, and a motion
+
+for an ex parte Temporary Restraining Order and Preliminary Injunction, ECF No. 4, on
+
+November 17, 2025. The original complaint in this case was 93 pages long and includes sixteen
+
+claims. ECF No. 1. The motion for a temporary restraining order sought extensive equitable
+
+
+                                                 8
+Case 7:25-cv-00821-MFU            Document 127 Filed 05/21/26            Page 9 of 67       Pageid#:
+                                             1669
+
+
+
+relief, including orders enjoining state prosecutors from engaging with Sherwood’s criminal
+
+case and gag orders against the School Board, the Commonwealth’s Attorney’s Office, the
+
+Sheriff’s Office, and Defendant McClung. ECF No. 4. Court denied the request for an ex
+
+parte TRO and set a hearing date on the Preliminary Injunction for February 2, 2026. ECF
+
+No. 47.
+
+        On December 10, 2025, defendants filed motions to quash the original complaint
+
+alleging that service of the original complaint had not complied with Federal Rule of Civil
+
+Procedure 4, ECF Nos. 34, 36, 38, 41, 44.4 That same day, plaintiffs filed an amended
+
+complaint. ECF No. 40. The amended complaint was 133 pages long and included twenty
+
+counts against defendants. Id. The parties do not dispute that the amended complaint was
+
+properly served.
+
+        Defendants have since filed motions to dismiss those various counts for failure to state
+
+a claim. ECF Nos. 71, 76, 79, 82, 84. Those motions allege that the Sherwoods’ amended
+
+complaint fails to state a claim under Federal Rule of Civil Procedure 12(b)(6).5 Troublingly,
+
+several of those motions to dismiss highlighted that the amended complaint relied on statutes
+
+and case law that do not exist. ECF No. 83 at 2, 8; ECF No. 85 at 4-5.
+
+        Counsel for the Sherwood family, Jon Clark, received a Rule 11 warning from defense
+
+counsel. ECF No. 95 at 3. The Sherwoods since moved to amend their complaint. ECF No.
+
+93. The proposed second amended complaint removes direct references to the nonexistent
+
+statute and law, but maintains the same arguments. ECF No. 93-1. Around the same time, the
+
+
+4 ECF No. 44 was filed the following day, on December 11, 2025.
+5 The motions to dismiss do not address Count XX, the Sherwood’s RICO placeholder claim. ECF No. 40 at
+
+128.
+
+
+                                                   9
+Case 7:25-cv-00821-MFU             Document 127 Filed 05/21/26                  Page 10 of 67         Pageid#:
+                                              1670
+
+
+
+Sherwoods moved to amend their motion for a temporary restraining order and preliminary
+
+injunction to seek far more limited relief, in the form of an order that a May 6, 2025, Facebook
+
+post from the Botetourt County Sheriff’s Office be removed. ECF No. 95. Plaintiffs then
+
+notified the court of their withdrawal of the TRO on February 1, 2026, one day before the
+
+court was scheduled to hear argument on all pending motions. ECF No. 113.
+
+        The court heard oral argument on the various pending motions on February 2, 2026.
+
+III.    Motion for Temporary Restraining Order
+
+        Plaintiffs withdrew their motion for a temporary restraining order, ECF No. 4, on
+
+February 1, 2026. ECF No. 113. 6 It is DISMISSED.
+
+IV.     Motions to Quash
+
+        Under Federal Rule of Civil Procedure 15(a)(1)(A), “[a] party may amend its pleading
+
+once as a matter of course” within 21 days of serving it. The original complaint was allegedly
+
+served on November 19-20, 2025, ECF Nos. 19-29, though defendants argue that this service
+
+did not comport with the requirements of Federal Rule of Civil Procedure 4. ECF Nos. 34,
+
+36, 38, 41, 44. The amended complaint was filed on December 10, 2025, 21 days after the
+
+alleged service on November 19, 2025. ECF No. 40. Plaintiffs amended their complaint as of
+
+right, in accordance with the federal rules. The parties do not dispute that the amended
+
+complaint was properly served. Therefore, the amended complaint, ECF No. 40, is the
+
+
+
+
+6 The court notes that the parties had submitted thorough briefing on the motion before it was withdrawn,
+
+including after plaintiffs significantly modified the motion. See, e.g. ECF Nos. 86, 91, 107. Defendants’ counsel
+indicated at the February 2, 2026, hearing that significant time had been spent preparing briefs and oral
+argument on that issue.
+
+
+
+                                                      10
+Case 7:25-cv-00821-MFU             Document 127 Filed 05/21/26                  Page 11 of 67         Pageid#:
+                                              1671
+
+
+
+operative complaint in these proceedings. The motions to quash the original complaint, ECF
+
+Nos. 34, 36, 38, 41, and 44 are DISMISSED AS MOOT.
+
+V.      Motion to Amend
+
+        Plaintiffs’ amended complaint, ECF No. 40, contains a concerning number of false
+
+quotations, nonexistent cases, and misstatements of law.
+
+        For example, the amended complaint includes citations to Virginia Code § 19.2-72
+
+throughout for the proposition that the misdemeanor warrants in his case required a sworn
+
+affidavit or written probable cause statements. ECF No. 40 at 17, 27, 32, 37, 38, 40, 42, 43,
+
+46, 71, 93, 95, 96, 110. Virginia Code § 19.2-72 does not require sworn affidavit or written
+
+probable cause statements for misdemeanor offenses where the complainant is a law
+
+enforcement officer. The statute reads, in relevant part:
+
+        On complaint of a criminal offense to any officer authorized to issue criminal
+        warrants he shall examine on oath the complainant and any other witnesses, or
+        when such officer shall suspect that an offense punishable otherwise than by a
+        fine has been committed he may, without formal complaint, issue a summons
+        for witnesses and shall examine such witnesses. A written complaint shall be
+        required if the complainant is not a law-enforcement officer; however, a written
+        complaint is required for a felony offense, regardless of whether the
+        complainant is a law-enforcement officer.
+
+Va. Code § 19.2-72. (emphasis added).
+
+        When the court asked plaintiff’s counsel at the February 2, 2026, hearing about the
+
+source of this assertion, counsel had no satisfactory answer. 7
+
+
+
+7 It appears that plaintiffs’ counsel has misquoted this section of the Virginia Code to the Virginia Juvenile &
+
+Domestic Relations District Court. ECF No. 2-24 at 1, which he attached to the original complaint. In that
+letter, Mr. Clark asserts:
+
+         Section 19.2-72 provides: No magistrate shall issue a warrant unless he shall have received a
+         complaint of some person under oath either reduced to writing and signed by the
+
+
+                                                      11
+Case 7:25-cv-00821-MFU              Document 127 Filed 05/21/26                    Page 12 of 67         Pageid#:
+                                               1672
+
+
+
+        The amended complaint also cites to cases that do not exist, including: “Peal v.
+
+Commonwealth, 26 Va. App. 505 (1998)” (cited in ECF No. 40 at 39, 40, 43, 44, 95)8; “Ford
+
+v. City of Alexandria, 37 Va. App. 819 (2002)” (cited in ECF No. 40 at 40, 43); “Lafayette v.
+
+Commonwealth, 30 Va. App. 454 (1999)” (cited in ECF No. 40 at 43, 44); “Walker v. Bowen,
+
+372 F. Supp. 2d 541 (W.D. Va. 2005)” (cited in ECF 40 at 50). At the February 2, 2026, hearing
+
+on the pending motions in this case, the court asked plaintiffs’ counsel where he found those
+
+cases. Counsel had no satisfactory answer.
+
+        Importantly, plaintiffs cite to these cases (except Walker) to argue that the alleged §
+
+19.2-72 “sworn oath or affidavit” requirement is “jurisdictional, not procedural” or
+
+“technical.” Id. at 39, 43. References to this “foundational” requirement, supported by
+
+fictional case law, pervade the amended complaint, even where the cases are not directly cited.
+
+See, e.g. id. at 9 (alleging an “invalid foundation,”); 47 (“the Commonwealth withheld not
+
+merely discoverable Brady material, but the foundational jurisdictional record required to
+
+support the charges in the first place”); 62 (“denied access to their foundational probable-
+
+cause materials”), et al.
+
+        Third, the amended complaint cites cases that do exist, but for the wrong proposition.
+
+Those are misstatements of law. As an example, McCary v. Commonwealth, 228 Va. 219, 231
+
+(1984) is a real citation, but Sherwoods’ parenthetical (“Probable cause must appear within the
+
+
+
+          complainant or recorded by the magistrate and preserved by some mechanical or electronic
+          recording device.
+
+ECF Nos. 83 at 2; 1-24 (Plaintiff’s Exhibit V). That quote does not appear in the Virginia Code. Though the
+complaints that plaintiffs’ counsel have filed in this case do not directly quote this imaginary statute again, they
+do reflect the premise that defendants failed to adhere to this fictional requirement.
+8 “Peal v. Commonwealth, 26 Va. App. 44 (1997),” cited at ECF No. 40 page 95, also does not exist.
+
+
+
+
+                                                        12
+Case 7:25-cv-00821-MFU              Document 127 Filed 05/21/26                  Page 13 of 67         Pageid#:
+                                               1673
+
+
+
+four corners of the written affidavit or recorded testimony presented to the magistrate[,]”)
+
+appears nowhere in that opinion. ECF No. 40 at 39-40. Similar misstatements of law can be
+
+found in plaintiffs’ citation to “Anderson v. Commonwealth, 38 Va. App. 321 (2002), aff’d,
+
+279 Va. 85 (2010),” which was cited for the proposition that “in camera review [is required]
+
+once materiality is asserted.” ECF No. 40 at 44. 38 Va. App. 321 (2002) is the citation for
+
+Thomas v. Commonwealth, a different case. Thomas does not support the assertion that “in
+
+camera review is required once materiality is asserted.” ECF No. 40 at 44. See Thomas, 38 Va.
+
+App. 321. Assuming that plaintiffs’ counsel mistyped, and that they meant to cite to Anderson
+
+v. Commonwealth, No. 2182-07-2, 2009 WL 668791 (Va. Ct. App. Mar. 17, 2009), the court
+
+notes Anderson does not support that assertion either. 9
+
+        The same is true for other citations in the amended complaint. For example, plaintiffs’
+
+counsel cites both Franks v. Delaware, 438 U.S. 154, 165 (1978), and Whiteley v. Warden, 401
+
+U.S. 560 (1971), for the proposition that “[a]bsent an oath or affirmation, each warrant was
+
+void ab initio under both state and federal law.” ECF No. 40 at 38. Neither of these cases
+
+involved a situation where a court considered a warrant unsupported by a written oath or
+
+affirmation. 10 More examples abound, and the frequency of these errors suggests that they are
+
+more than a mere scrivener’s error.
+
+
+9 There are cases that counsel could have cited for this proposition. See, e.g. United States v. Trevino, 89 F.3d
+
+187, 190 (4th Cir. 1996)(“Once the accused has made a plausible showing that the evidence would be both
+material and favorable, the trial court must review the information in camera to ascertain its true nature and
+determine whether it must be disclosed.”)(citing Pennsylvania v. Ritchie, 480 U.S. 39, 58-60 (1987); Love v.
+Johnson, 57 F.3d 1305, 1313 (4th Cir. 1995)). The court cannot account for Plaintiff’s counsel’s choice to cite
+to a non-existent case instead, beyond the use of generative AI.
+10 Franks held that, under the Fourth Amendment, a defendant is entitled to a hearing if he makes a substantial
+
+preliminary showing that an affiant knowingly and intentionally (or with false disregard for the truth) made a
+false statement in a search warrant affidavit, and that false statement is necessary to establish probable cause.
+Franks, 438 U.S. at 154. Here, Plaintiff does not request a Franks hearing, and regardless, Franks discussed false
+statements in affidavits, not the absence of an oath or affirmation. Whiteley discussed the sufficiency of
+
+
+                                                       13
+Case 7:25-cv-00821-MFU             Document 127 Filed 05/21/26                  Page 14 of 67         Pageid#:
+                                              1674
+
+
+
+          Defendants alerted the court and plaintiffs to these false citations in their motions to
+
+dismiss. ECF Nos. 83 at 1-2, 8; 85 at 4-5. Having received notice that their complaint relied
+
+on non-existent law, plaintiffs moved to file a second amended complaint. ECF No. 93 at 1.
+
+As plaintiff states it:
+
+          Following the Amended complaint, issues were raised regarding the framing
+          and scope of certain allegations … Plaintiffs now seek leave under Rule 15(a)(2)
+          to file the attached Second Amended Complaint so that the operative pleading
+          reflects additional clarification and refinement undertaken after continued
+          review of the governing law and factual record.
+
+Id. (referencing ECF No. 93-1).
+
+          Under Federal Rule of Civil Procedure 15(a)(2), “a party may amend its pleading only
+
+with the opposing party’s written consent or the court’s leave. The court should freely give
+
+leave when justice so requires.” Fed. R. Civ. P. 15(a)(2). “If the underlying facts or
+
+circumstances relied upon by a plaintiff may be proper subject of relief, he ought to be
+
+afforded an opportunity to test his claim on the merits.” Foman v. Davis, 371 U.S. 178, 182
+
+(1962).
+
+          Leave to amend is typically denied “only when the amendment would be prejudicial to
+
+the opposing party, there has been bad faith on the part of the moving party, or the
+
+amendment would be futile.” Johnson v. Oroweat Foods Co., 785 F.2d 503, 509 (4th Cir.
+
+1986)(citing Foman, 371 U.S. at 182). Other reasons to deny leave to amend include “undue
+
+delay…and that the party has previously amended the relevant pleading.” Tech. & Intell. Prop.
+
+Strategies Grp. PC v. Fthenakis, No. C 11-2373 MEJ, 2012 WL 159585, at *2 (N.D. Cal. Jan.
+
+
+
+
+evidence to establish probable cause for a warrantless search, not the absence of an oath or affirmation used to
+support a warrant. Whiteley, 401 U.S. at 560.
+
+
+                                                      14
+Case 7:25-cv-00821-MFU        Document 127 Filed 05/21/26            Page 15 of 67      Pageid#:
+                                         1675
+
+
+
+17, 2012). In the Fourth Circuit, “delay alone is not sufficient reason to deny leave to
+
+amend…[t]he delay must also be accompanied by prejudice, bad faith, or futility.” Johnson,
+
+785 F.2d at 509-510 (citing Davis v. Piper Aircraft Co., 615 F.2d 606, 613 (4th Cir.1980), cert.
+
+dismissed, 448 U.S. 911 (1980); United States v. Webb, 655 F.2d 977, 980 (9th Cir.1981); Buder
+
+v. Merrill Lynch, Pierce, Fenner & Smith, 644 F.2d 690, 694–95 (8th Cir.1981); Cornell & Co.
+
+v. Occupational Safety & Health Comm'n, 573 F.2d 820, 823 (3d Cir.1978)).
+
+       Importantly, a motion to amend should be denied when sought in “bad faith,” which
+
+the Fourth Circuit agrees can be hard to define:
+
+       A few words on bad faith. We cannot provide a comprehensive definition of a
+       term like bad faith; in truth, it is a difficult term to define without retreating to
+       circular reasoning or just listing examples. See Constance A. Anastopoulo, Bad
+       Faith: Building a House of Straw, Sticks, or Bricks, 42 U. Mem. L. Rev. 687, 696
+       (2012) (explaining how, in the insurance context, courts often describe “bad faith”
+       as the opposite of “good faith”); Kenneth S. Abraham & Daniel Schwarcz,
+       Insurance Law & Regulation 91–92 (6th ed. 2015) (“It is extremely difficult to
+       specify the kind of behavior that triggers the bad faith cause of action.... [I]t may
+       be that each case requires a judgment in context.”). As the Restatement (Second)
+       of Contracts says, “a complete catalogue of types of bad faith is impossible.” §
+       205 cmt. d (Am. Law Inst. 1981); but see Liquid Dynamics Corp. v. Vaughan Co.,
+       449 F.3d 1209, 1225 (Fed. Cir. 2006) (offering a nine-factor test to determine
+       whether a patent infringer was operating in bad faith).
+
+       Black's Law Dictionary defines “bad faith” as “[d]ishonesty of belief or purpose.”
+       Bad Faith, Black's Law Dictionary (8th ed. 2004). To act with a dishonesty of
+       purpose is to act for the wrong reasons. It may be outright lying, deceiving,
+       playing unjustifiable hardball, slacking off, intentionally causing confusion, or
+       stubbornly refusing to follow rules—you can imagine cases where a party just
+       wants to cause chaos—or it might be something as mundane as noticing
+       someone's mistake and saying nothing about it. See Restatement (Third) of
+       Restitution and Unjust Enrichment § 52 cmt. c & illus. 3 (Am. Law Inst. 2011).
+       In the contract context, courts have found bad faith for “evasion of the spirit of
+       the bargain, lack of diligence ..., willful rendering of imperfect performance, abuse
+       of a power ..., and interference ... or failure to cooperate.” Restatement (Second)
+       of Contracts § 205 cmt. d. We could go on, but this sketch of the contours of this
+       many-faceted concept suffices here.
+
+
+
+                                               15
+Case 7:25-cv-00821-MFU         Document 127 Filed 05/21/26          Page 16 of 67      Pageid#:
+                                          1676
+
+
+
+United States ex rel. Nicholson v. MedCom Carolinas, Inc., 42 F.4th 185, 198 (4th Cir.
+
+2022). See ECF No. 106 at 5 (highlighting this language).
+
+       Plaintiffs seek the court’s leave to file a second amended complaint under FRCP
+
+15(a)(2). ECF No. 93. They seek to file this Second Amended Complaint “so that the operative
+
+pleading reflects additional clarification and refinement undertaken after continued review of
+
+the governing law and factual record.” ECF No. 93 at 1. Plaintiffs emphasize that the
+
+amendment “clarifies and refines existing allegations and legal theories and incorporates
+
+additional factual allegations developed through continued investigation and review of
+
+available record materials.” They insist that “[t]he amendment is not sought in bad faith, does
+
+not cause undue delay, and is not futile.” Id. at 3.
+
+       The court’s analysis of the proposed second amended complaint reveals that, while
+
+plaintiffs removed direct references to nonexistent laws, the complaint still includes arguments
+
+that hinge on the premises of those made-up laws. For example, in the proposed second
+
+amended complaint, Plaintiffs still argue that the twenty-five arrest warrants for Mr. Sherwood
+
+were obtained with “no written probable-cause affidavit[,]” ECF No. 93-1 ¶ 32, and that
+
+prosecution produced no “written or electronic statements or recordings reflecting the
+
+probable-cause basis for the warrants[,]” Id. ¶ 68. These are remnants of the pleading
+
+containing nonexistent language in Virginia Code § 19.2-72 and fictitious cases. As noted, §
+
+19.2-72 does not require a written affidavit or complaint under these circumstances (i.e. for a
+
+misdemeanor, where the complainant is a law enforcement officer).
+
+       These same arguments come up in the amended Count I, where plaintiffs again
+
+misquote the law to reflect a foundational requirement for additional sworn probable cause
+
+
+
+                                                16
+Case 7:25-cv-00821-MFU            Document 127 Filed 05/21/26                Page 17 of 67        Pageid#:
+                                             1677
+
+
+
+materials. Id. at 28-29.11 This is also true for: Count II, id. at 33-35 (reference to there being
+
+no “written or recorded materials reflecting the sworn factual basis presented in support of
+
+the arrest warrants”); Count III, id. at 37-38 (same); Count IV, id. at 43-44 (alleging the absence
+
+of “probable cause materials”); Count V), id. at 51 (alleging that Sherwood’s equal protection
+
+rights were violated because “no written or recorded sworn probable-cause materials have
+
+been identified or produced in the court file,”) 56 (“no sworn probable-cause foundation has
+
+been identified or produced”); Count VI, id., at 61 (referencing defense counsel Joseph
+
+Cockfield’s attempts to retrieve probable-cause documentation, here framed as “clarification
+
+and case-related information”); Count XI, id. at 89-90 (alleging that “Plaintiffs were not
+
+provided any preserved sworn probable-cause narrative or supporting documentation,”);
+
+Count XVI (representing that the lack additional probable-cause documentation was evidence
+
+of “a misuse of criminal process”), id. at 121. This is a non-exhaustive list.
+
+        In the Fourth Circuit, courts do not grant leave to amend when the amendment is
+
+sought in bad faith. Here, plaintiffs’ counsel was made aware that he had included false
+
+statements of law and nonexistent cases in the pleadings. See ECF No. 83 at 2, 8, ECF No. 84
+
+at 4-5. In response, counsel merely removed direct references to the false statements of law
+
+and non-existent cases that were cited in the amended complaint, but he has not removed the
+
+legal arguments that depend on those made-up laws. ECF No. 93-1, see infra.
+
+
+
+
+11 The numbering scheme for paragraphs in the proposed second amended complaint restarts on page 28. For
+
+the first iteration of those paragraphs, a paragraph (¶) citation is used. After page 28, when the paragraph
+numbers repeat, this memorandum opinion refers to the appropriate page number.
+
+
+                                                    17
+Case 7:25-cv-00821-MFU              Document 127 Filed 05/21/26                  Page 18 of 67         Pageid#:
+                                               1678
+
+
+
+        The proposed second amended complaint does not further clarify or refine. Continuing
+
+to use the premises of false law and fake cases is undoubtedly bad faith. 12 Plaintiffs’ motion
+
+for leave to amend, ECF No. 93, is DENIED.
+
+VI.     Motions to Dismiss
+
+        Because the court denies the motion to amend, plaintiffs’ first amended complaint is
+
+the operative pleading in this case. ECF No. 40.
+
+        The Sherwood family raises twenty claims in their amended complaint, including: 42
+
+U.S.C. § 1983 malicious prosecution and unlawful seizure claims against Lieutenant Hix and
+
+
+
+12 In the February 2, 2026 hearing on these motions, the court asked plaintiffs’ counsel about these non-existent
+
+cases and law. The court repeatedly asked counsel where these citations came from. Counsel had no satisfactory
+answer. The court also asked counsel if these citations came from an AI tool. Counsel had no satisfactory
+answer.
+
+The court notes that U.S. District Courts around the country have imposed Rule 11 sanctions and other
+disciplinary action on attorneys who submit legal arguments involving fictitious cases and imaginary statutes,
+particularly when those errors come from an attorney’s improper use of AI tools. See, e.g., Bevins v. Colgate-
+Palmolive Co., No. CV 25-576, 2025 WL 1085695, at *7 (E.D. Pa. Apr. 10, 2025); United States v. Hayes, 763
+F. Supp. 3d 1054, 1073 (E.D. Cal. 2025); Benjamin v. Costco Wholesale Corp., 779 F.Supp.3d 341, 351
+(E.D.N.Y. 2025). Although AI offers potential benefits to the legal profession, it “poses legal and ethical issues
+for both attorneys and courts” because it lacks the “professional experience and judgment that attorneys are
+hired to provide.” Benjamin, 779 F.Supp.3d at 342. Notably, AI can hallucinate entire case (and statute) citations
+and quotations contained therein.
+
+Courts confronted with such hallucinations have recognized that “[m]any harms flow from the submission of
+fake opinions.” Gordon v. Wells Fargo Bank N.A. Inc., No. 5:24-CV-388 (CAR), 2025 WL 1057211, at *3
+(M.D. Ga. Apr. 8, 2025). First and foremost, an attorney who submits filings to the Court including un-reviewed
+hallucinated citations fails to conduct an inquiry reasonable under the circumstances to ensure that their claims
+or arguments have merits, as required by Rule 11. See Park v. Kim, 91 F.4th 610, 615 (2d Cir. 2024) (“At the
+very least, the duties imposed by Rule 11 require that attorneys read, and thereby confirm the existence and
+validity of, the legal authorities on which they rely. Indeed, we can think of no other way to ensure that the
+arguments made based on those authorities are warranted by existing law . . . or otherwise ‘legally tenable.’”).
+
+An attorney must, at the very least, ensure that their cited authorities exist. Such a failure to comply with Rule
+11 deprives the client of competent representation and wastes the Court’s and opposing party’s time and
+resources. Moreover, it threatens “potential harm to the reputation of judges and courts whose names are falsely
+invoked as authors of the bogus opinions and to the reputation of a party attributed with fictional conduct,”
+“promotes cynicism about the legal profession and the American judicial system”, and may tempt future
+litigants to “defy a judicial ruling by disingenuously claiming doubt about its authenticity.” Mata v. Avianca,
+Inc., 678 F. Supp. 3d 443, 448–49 (S.D.N.Y. 2023).
+
+
+                                                       18
+Case 7:25-cv-00821-MFU        Document 127 Filed 05/21/26            Page 19 of 67      Pageid#:
+                                         1679
+
+
+
+Sheriff Ward in their individual capacities (Count I), and against Assistant Commonwealth’s
+
+Attorney Marshall Lukacs in her individual capacity (Count II); 42 U.S.C. § 1983 Brady/Giglio
+
+claims against A.C.A. Lukacs in her individual capacity (Count III); 42 U.S.C. § 1983 retaliation
+
+and abuse of power claims against A.C.A. Lukacs and Commonwealth’s Attorney John
+
+Alexander, in their individual capacities (Count IV); 42 U.S.C. § 1983 Equal Protection claims
+
+as a class of one against Botetourt County, and against Ward, Hix, Lukacs, Alexander and
+
+Sergeant William G. Bentley, in their individual capacities (Count V); 42 U.S.C. § 1983 “stigma-
+
+plus” due process claim against Ward, Bentley, Alexander, Lukacs, Timothy McClung, and the
+
+Botetourt County School Board “in their respective individual---or municipal—capacities”
+
+(Count VI); Title II disability discrimination claims under the Americans with Disabilities Act
+
+against the County and Sheriff Ward in his official capacity (Count VII) and against the County
+
+and the School Board (Count IX); disability discrimination claims under Section 504 of the
+
+Rehabilitation Act against the County and Sheriff Ward in his official capacity (Count VIII)
+
+and against the County and the School Board (Count IX); a separate municipal (Monell)
+
+liability claim against the County and the School Board (Count XI); Title IX retaliation and
+
+sex-based discrimination claims against the School Board and McClung (Count XII); 42 U.S.C.
+
+§ 1983 claims of a violation of the Sherwood family’s Fourteenth Amendments rights to
+
+familial association against Hix, Ward, Bentley, Lukacs, and Alexander in their individual
+
+capacities, and against the County and the School Board as municipal entities (Count XIII);
+
+civil conspiracy claims under Virginia Code §§ 18.2-499 and 500 against Thomas, Hix, Ward,
+
+ Bentley, Lukacs, and Alexander, in their individual capacities (Count XIV); Bowman claims
+
+against the School Board (Count XV); abuse of process claims against Lukacs, Alexander,
+
+
+
+                                               19
+Case 7:25-cv-00821-MFU              Document 127 Filed 05/21/26                    Page 20 of 67         Pageid#:
+                                               1680
+
+
+
+Ward, and Hix in their individual capacities (Count XVI); defamation per se and by implication
+
+claims against Thomas (Count XVII), Ward and Bentley (Count XVIII), and Alexander (XIX);
+
+and a Civil RICO claim (Count XX). ECF No. 40 at 37-128. 13
+
+        Defendants have raised several motions to dismiss the amended complaint under
+
+Federal Rule of Civil Procedure 12(b)(6) for failure to state a claim. ECF Nos. 71, 76, 79, 82,
+
+84. Those motions seek review under Federal Rule of Civil Procedure 12(b)(6) for nineteen of
+
+the twenty counts in the Sherwoods’ amended complaint. 14 For the reasons explained herein,
+
+the court GRANTS those motions to dismiss.
+
+        A.       12(b)(6) Standard
+
+        To survive a motion to dismiss for failure to state a claim pursuant to Rule 12(b)(6), “a
+
+complaint must contain sufficient factual matter, accepted as true, to ‘state a claim to relief
+
+that is plausible on its face.’” Ashcroft v. Iqbal, 556 U.S. 662, 678 (2009) (quoting Bell Atl.
+
+Corp. v. Twombly, 550 U.S. 544, 570 (2007)). “A claim has facial plausibility when the plaintiff
+
+pleads factual content that allows the court to draw the reasonable inference that the defendant
+
+is liable for the misconduct alleged.” Id. “But where the well-pleaded facts do not permit the
+
+
+
+13 The Sherwoods ask for extensive relief. They request compensatory damages, and a “clear and unequivocal
+
+message that constitutional and statutory limits bind all government actors” and that “the law applies equally
+to those sworn to enforce it.” They also seek punitive damages, a declaration of constitutional violations, $40
+million dollars as “monetary reward.” On Count IV, the Sherwoods seek “$40 million in compensatory
+damages, to be trebled pursuant to Va. Code § 18.2-500.” They also seek “Declaratory and Injunctive Relief
+(Temporary, Preliminary, and Permanent)”, a permanent injunction on all proceedings “predicated upon the
+same unconstitutional acts,” temporary and preliminary injunctions “preserving the evidentiary record,
+prohibiting further extrajudicial statements or retaliatory conduct towards Plaintiffs or their counsel”, removal
+of problematic statements, “such equitable relief as necessary to restore Plaintiffs’ liberty, employment
+eligibility, and reputational standing” including pay, further declaratory relief, costs and fees, and whatever else
+the court thinks appropriate. Id. at 129-132.
+14 The outlier is Count XX, the Sherwoods’ claim “expressly reserv[ing] the right to amend this Complaint to
+
+assert additional causes of action under the Racketeer Influenced and Corrupt Organizations Act (‘RICO’), 18
+U.S.C. §§ 1961–1968.” ECF No. 40 at 128.
+
+
+                                                        20
+Case 7:25-cv-00821-MFU         Document 127 Filed 05/21/26            Page 21 of 67       Pageid#:
+                                          1681
+
+
+
+court to infer more than the mere possibility of misconduct, the complaint has alleged—but
+
+it has not ‘show[n]’—‘that the pleader is entitled to relief.’” Id. at 679 (quoting Fed. R. Civ. P.
+
+8(a)(2)). In evaluating a motion to dismiss under Rule 12(b)(6), a court must consider all well-
+
+pleaded allegations in a complaint as true and construe them in the light most favorable to the
+
+plaintiff. Wikimedia Found. v. Nat’l Sec. Agency, 857 F.3d 193, 208 (4th Cir. 2017).
+
+       B.      Prosecutorial Misconduct Claims (Counts I, II, III, IV)
+
+       In Counts I-IV, the Sherwoods allege multiple forms of prosecutorial misconduct in
+
+Mr. Sherwood’s criminal case under 42 U.S.C. § 1983. These Section 1983 claims are alleged
+
+not only on behalf of Raymond Sherwood III, but also on behalf of his family—plaintiffs
+
+Lauren Sherwood, Savannah Beckner, and minor children B.B. and H.B.
+
+       “To prevail on a claim pursuant to § 1983, a plaintiff must allege that (1) the defendant
+
+‘deprived him of a right secured by the Constitution of the United States’ and (2) ‘any such
+
+deprivation was achieved under color of state law.’” Univ. Gardens Apartments Joint Venture
+
+v. Johnson, 419 F. Supp. 2d 733, 738 (D. Md. 2006)(quoting Paul v. Davis, 424 U.S. 693, 696-
+
+97 (1976)). Importantly, “a § 1983 action is personal to the direct victim of an alleged
+
+constitutional violation.” Ransome v. Leach, No. 7:08CV00403, 2008 WL 3850220, at *3
+
+(W.D. Va. Aug. 15, 2008)(citing Claybrook v. Birchwell, 199 F.3d 350, 357 (6th Cir. 2000)).
+
+“Accordingly, a Section 1983 plaintiff, like any person who claims a deprivation of
+
+constitutional or federally-protected rights, must allege some violation of his or her personal
+
+rights – not those of another.” Midgett v. Cooper, No. 1:20-CV-00941, 2021 WL 4973634, at
+
+*3 (M.D.N.C. Oct. 26, 2021)(citing English v. Powell, 592 F.2d 727 (4th Cir. 1979)(wife had
+
+no standing to maintain action arising from husband’s demotion on job); Dohaish v. Tooley,
+
+
+
+                                                21
+Case 7:25-cv-00821-MFU         Document 127 Filed 05/21/26           Page 22 of 67      Pageid#:
+                                          1682
+
+
+
+670 F.2d 934 (10th Cir. 1982)). “[T]he Fourth Circuit does not recognize a cause of action
+
+arising from ‘governmental actions affecting the family only incidentally.’ … This accords with
+
+the holdings of other circuits.” Id. (collecting cases).
+
+       Each of the Section 1983 claims in this case arising from Sherwood’s criminal case are
+
+personal to Mr. Sherwood alone. Plaintiffs Lauren Sherwood, Savannah Beckner, and minor
+
+children B.B. and H.B. lack standing to bring the § 1983 claims alleged in Counts I, II, III, and
+
+IV. Therefore, the motions to dismiss Counts I, II, III, and IV are GRANTED with respect
+
+to plaintiffs Lauren Sherwood, Savannah Beckner, and minor children B.B. and H.B., and
+
+those claims are dismissed.
+
+       The court also dismisses Sherwood’s claims related to his ongoing state criminal
+
+proceedings, including Counts I, II, III, and IV. Generally, federal courts abstain from actions
+
+interfering with state criminal prosecutions out of the principles of comity and federalism.
+
+Younger v. Harris, 401 U.S. 37, 44 (1971). Sherwood seeks a permanent injunction against
+
+further action “in that proceeding or any derivative proceeding predicated upon the same
+
+unconstitutional acts[.]” ECF No. 40 at 131. Importantly, Sherwood’s state criminal case is
+
+still pending before the Juvenile & Domestic Relations Court. Id. at 56; ECF No. 2-23 (Plea
+
+Agreement).
+
+       As alleged in the complaint and its exhibits, Sherwood pled no contest (“nolo
+
+contendere”) to two of the charges brought against him, and the Commonwealth moved the
+
+court to enter an order of nolle prosequi on the remaining twenty-three charges. The two
+
+charges that Sherwood did not contest were taken under advisement as a deferred disposition,
+
+under Virginia Code § 19.2-298.02, for twelve months – until October 20, 2026. ECF No. 2-
+
+
+
+                                                22
+Case 7:25-cv-00821-MFU              Document 127 Filed 05/21/26                   Page 23 of 67         Pageid#:
+                                               1683
+
+
+
+23 at 5-8.15 Deferred disposition in a criminal case under Virginia Code § 19.2-298.02 “defer[s]
+
+proceedings, defer[s] entry of a conviction order, … or defer[s] entry of a final order, and
+
+continue[s] a case for final disposition.” Va. Code § 19.2-298.02(A). It is not in itself a final
+
+ disposition of a case, which “may include (a) conviction of the original charge, (b) conviction
+
+ of an alternative charge, or (c) dismissal of the proceedings.” Id. Such “deferred disposition
+
+was not a final, appealable judgment under Virginia law.” Jennell v. United States, No. CIV.A.
+
+7:05-CV-0043, 2006 WL 1519949, at *7 (W.D. Va. May 30, 2006) (citing Randolph v.
+
+Commonwealth, 45 Va. App. 166, 609 S.E.2d 84, 87-88 (Va. App. 2005)).
+
+        To be sure, “when absolutely necessary for protection of constitutional rights, courts
+
+of the United States have power to enjoin state officers from instituting criminal actions.”
+
+Younger, 401 U.S. at 45 (citing Ex Parte Young, 209 U.S. 123 (1908)). Here, Sherwood has
+
+not alleged facts to support a finding that such “extraordinary circumstances” exist where a
+
+ruling on these claims would prevent a “great and immediate” threat of “irreparable loss.” Id.
+
+         “[W]hen a district court abstains from a case based on Younger, it should typically
+
+dismiss the case with prejudice, not on the merits.” Nivens v. Gilchrist, 444 F.3d 237, 247 (4th
+
+Cir. 2006). See also Lui v. Comm’n of Adult Entm’t of Del., 369 F.3d 319, 327 (3d Cir. 2004)
+
+
+
+
+15 At times throughout his briefing and at oral argument, Sherwood argues that the court should disregard
+
+arguments based on the exhibits attached to his original complaint at ECF No. 2, because the amended
+complaint at ECF No. 40 is the operative pleading in this case. See, e.g. ECF No. 75 at 2. However, the court
+“may consider certain exhibits attached to the original complaint that are ‘integral to and explicitly relied on in
+the amended complaint,’ and whose authenticity is not challenged.” Epps v. Fair Collections & Outsourcing,
+Inc., No. 7:20-cv-00176, 2021 WL 4286603 at *2 (W.D. Va. Sept. 21, 2021)(cleaned up)(quoting Jeffrey M.
+Brown Assocs., Inc. v. Rockville Ctr. Inc., 7 F. App’x 197, 202 (4th Cir. 2001)). Sherwood relies on this
+particular exhibit throughout his amended complaint, see ECF No. 40 at 16, 25, 38, 44, 56, and its authenticity
+is not challenged. The court need not disregard this exhibit or the other exhibits that are relied upon in the
+amended complaint.
+
+
+                                                       23
+Case 7:25-cv-00821-MFU         Document 127 Filed 05/21/26             Page 24 of 67       Pageid#:
+                                          1684
+
+
+
+(“a Younger abstention stay requires a dismissal with prejudice of the federal suit.”)). Thus,
+
+the court dismisses Counts I-IV.
+
+       Typically, a federal district court abstaining based on Younger dismisses the case
+
+without consideration of the merits. “To say that abstention is in order … is to say that federal
+
+courts should not address the merits, period.” Greening v. Moran, 953 F.2d 301, 304 (7th Cir.
+
+1992). In this case, the court finds it important to note the significant deficiencies in the merits
+
+of Sherwood’s pleadings where counsel has relied on nonexistent law. Because Sherwood’s
+
+counsel has injected hallucinated law into the record, the court elaborates on the merits of
+
+these claims “to say what the law is,” which is “emphatically the province and duty of the
+
+judicial department.” Marbury v. Madison, 5 U.S. 137, 177 (1803).
+
+               1.      Count I
+
+       The § 1983 claims in Counts I, II, III, IV, V, and VI all appear to stem from a
+
+misunderstanding of the requirements of Va. Code § 19.2-72.
+
+       Specifically, in Count I, Sherwood raises a 42 U.S.C. § 1983 claim against the law
+
+enforcement officers involved in this case. He alleges that the warrants for the twenty-five
+
+misdemeanor assault-and-battery charges against him were unsupported by a “sworn affidavit
+
+or recorded oath as required by Va. Code § 19.2-72 and the Fourth Amendment” and were
+
+therefore “void ab initio.” ECF No. 40 at 37-38. Allowing the arrests and charges to proceed
+
+amounts to malicious prosecution and unlawful seizure, he argues. Id.
+
+
+
+
+                                                24
+Case 7:25-cv-00821-MFU              Document 127 Filed 05/21/26                Page 25 of 67         Pageid#:
+                                               1685
+
+
+
+        Va. Code § 19.2-72 does not require a sworn probable-cause statement for a
+
+misdemeanor warrant when the complainant is a law-enforcement officer. 16 Nor does the
+
+Fourth Amendment. See, e.g. United States v. Clyburn, 24 F.3d 613, 617 (4th Cir. 1994)(“The
+
+Fourth Amendment does not require that the basis for probable cause be established in a
+
+written affidavit; it merely requires that the information provided the issuing magistrate be
+
+supported by ‘Oath or affirmation.’”) 17 Under Va. Code. § 19.2-72, the lack of a written, sworn
+
+probable cause statement did not render the warrants in Mr. Sherwood’s case void.
+
+        The magistrate, having found probable cause “based on the sworn statements of Lt.
+
+Hix,” issued twenty-five warrants for Sherwood’s arrest. 18 ECF No. 2-5 (warrants filed as
+
+ Plaintiff’s Ex. D).19 “Warrants and indictments usually ‘conclusively determine the existence
+
+of probable cause,’” except when an officer “deliberately supplied misleading information that
+
+influenced the judge’s or grand jury’s decision.” English v. Clarke, 90 F.4th 636, 648 (4th Cir.
+
+2024)(quoting Durham v. Horner, 690 F.3d 183, 189 (4th Cir. 2012)). Sherwood alleges no
+
+facts to suggest that Lieutenant Hix misled the magistrate. Instead, he alleges that there was
+
+
+16 Discussed infra. Va. Code § 19.2-72 states, in part:
+
+
+        On complaint of a criminal offense to any officer authorized to issue criminal warrants he shall
+        examine on oath the complainant and any other witnesses, or when such officer shall suspect
+        that an offense punishable otherwise than by a fine has been committed he may, without formal
+        complaint, issue a summons for witnesses and shall examine such witnesses. A written
+        complaint shall be required if the complainant is not a law-enforcement officer; however a
+        written complaint is required for a felony offense, regardless of whether the complainant is a
+        law-enforcement officer. …
+
+17 The Sherwoods cite to nonexistent cases in their Count I discussion of qualified immunity. ECF No. 40 at
+
+39-40. Those citations are discussed infra.
+18 Sherwood alleges that “no neutral magistrate ever determined that probable cause existed.” ECF No. 40 at
+
+17. This assertion is belied by the warrants that Sherwood attached to his complaint.
+19 The warrants were attached as an exhibit to the Sherwoods’ original complaint. Sherwood relies on this
+
+exhibit throughout his amended complaint, see ECF No. 40 at 14, 31, 37, 52, 116, and its authenticity is not
+challenged. The court may consider this exhibit while ruling on the motions to dismiss. Epps, 2021 WL 4286603
+at *2.
+
+
+                                                          25
+Case 7:25-cv-00821-MFU              Document 127 Filed 05/21/26                    Page 26 of 67         Pageid#:
+                                               1686
+
+
+
+“physical contact captured on [the] school bus video” and that Hix “act[ed] directly on A.C.A.
+
+Lukacs’s instruction to ‘bring a charge for each contact made.’” 20 ECF No. 40 at 52, 17.
+
+Without more, this does not allege that Sherwood was arrested without probable cause.
+
+        Further, “[t]o maintain [a] Fourth Amendment [malicious prosecution] claim under §
+
+1983, a plaintiff … must demonstrate, among other things, that he obtained a favorable
+
+termination of the underlying criminal prosecution.” Thompson v. Clark, 596 U.S. 36, 39
+
+(2022)(emphasis in original). The Supreme Court has clarified that a “favorable termination”
+
+means that the prosecution “ended without a conviction,” and does not require “some
+
+affirmative indication of innocence.” Id.
+
+        By the terms of Sherwood’s plea agreement, his criminal case is still pending before
+
+state court. There has not yet been a “termination.” See infra.
+
+          And the current determination is not “favorable.” Sherwood pled nolo contendere to
+
+two of the charges against him. Under Virginia law, a nolo contendere plea is “tantamount to
+
+an admission of guilt for the purposes of the case.” Clauson v. Commonwealth, 29 Va. App.
+
+282, 288, 511 S.E.2d 449, 452 (1999). Clauson provides a fuller explanation:
+
+        Virginia Code § 19.2–254 provides that the accused in a criminal proceeding
+        “may plead not guilty, guilty, or nolo contendere” upon arraignment for the
+        offense “on which he will be tried.” [Va.] Code § 19.2–254. A plea of guilty
+        constitutes a “self-supplied conviction.” Allen v. Commonwealth, 27 Va.App.
+        726, 730, 501 S.E.2d 441, 443 (1998). On the other hand, a plea of nolo
+        contendere is neither “a confession of guilt” nor a “declaration of innocence
+        equivalent to a plea of not guilty.” Commonwealth v. Jackson, 255 Va. 552, 555,
+
+20 Sherwood alleges that “Hix knew the bus surveillance footage showed benign contact, not ‘rude, insolent, or
+
+angry’ touching as required by Va. Code § 18.2-57.” ECF No. 40 at 38. While “rude, insolent or angry” language
+does not specifically appear in the statute, courts have used that language in its definition of the offense. See,
+e.g. Kelley v. Commonwealth, 69 Va. App. 617, 628, 822 S.E.2d 375, 380 (2019)(“[t]he slightest touching of
+another ... if done in a rude, insolent, or angry manner, constitutes a battery for which the law affords redress.”)
+
+
+
+
+                                                        26
+Case 7:25-cv-00821-MFU         Document 127 Filed 05/21/26             Page 27 of 67      Pageid#:
+                                          1687
+
+
+
+       499 S.E.2d 276, 278 (1998). “It allows an accused, thinking it best ... not to
+       submit to trial, but unwilling to confess the truth of the charge, [and] ... plead
+       guilty, to throw[ ] himself on the mercy of the court ... without confessing or
+       denying ... guilt.” Jefferson v. Commonwealth, 27 Va.App. 477, 484–85, 500
+       S.E.2d 219, 223 (1998) (internal quotations and citations omitted). “Nonetheless,
+       by entering [the] plea ..., the defendant implies a confession ... of the truth of the
+       charge ... [and] agrees that the court may consider him guilty for the purpose of
+       imposing judgment and sentence.” Id. at 485, 500 S.E.2d at 223 (internal
+       quotations and citations omitted).
+
+       “Although it is said that a plea of nolo contendere means literally ‘I do not
+       contest it,’ and ‘is a mere statement of unwillingness to contest and no more,’ it
+       does admit ‘every essential element of the offense [that is] well pleaded in the
+       charge.’ ” Lott v. United States, 367 U.S. 421, 426, 81 S.Ct. 1563, 6 L.Ed.2d 940
+       (1961) (citations omitted). “Hence, it is tantamount to ‘an admission of guilt for
+       the purposes of the case,’ and ‘nothing is left but to render judgment, for the
+       obvious reason that in the face of the plea no issue of fact exists, and none can
+       be made while the plea remains of record.’ ” Id. (citations omitted).
+
+Id. 29 Va. App. at 288–90, 511 S.E.2d at 452–53. See also ECF No. 72 at 5 (quoting the same).
+
+       Sherwood’s plea of nolo contendere and the resulting deferred dismissal of several of
+
+the counts against him is in no sense a “favorable determination” within the meaning of
+
+Thompson, 596 U.S. 36. Sherwood therefore fails to plead a case of malicious prosecution
+
+under 42 U.S.C. § 1983.
+
+       Count I does not state a claim.
+
+              2.      Count II
+
+       Nor does Count II, in which Sherwood alleges that A.C.A. Marshall Lukacs pursued
+
+the case against Sherwood despite knowingly or recklessly disregarding “that the twenty-five
+
+warrants sought by Defendant Hix were unsupported by any sworn affidavit or recorded oath
+
+
+
+
+                                                27
+Case 7:25-cv-00821-MFU            Document 127 Filed 05/21/26                 Page 28 of 67        Pageid#:
+                                             1688
+
+
+
+as required by Va. Code § 19.2-72”. ECF No. 40 at 42. For the same reasons as Count I, Count
+
+II does not state a claim. 21
+
+        In Count II, plaintiff also argues that Lukacs “filed a motion to revoke Mr. Sherwood’s
+
+bond … then withdrew it the next day while referencing a pending plea offer … a coercive
+
+use of bond authority condemned in United States v. Goodwin, 457 U.S. 368, 372 (1982).”
+
+ECF No. 40 at 43. Goodwin concerned the federal presumption of prosecutorial
+
+vindictiveness – a doctrine that allows for a plaintiff’s claim that a prosecutor has retaliated
+
+against them for exercising their rights. Sherwood does not allege that he was exercising any
+
+particular right, nor does he allege how withdrawing the motion to revoke Sherwood’s bond
+
+while referencing the pending plea offer was retaliatory. This too fails to state a claim.
+
+                3.       Count III
+
+        In Count III, Sherwood alleges that Lukacs “knew that the arrest warrants were
+
+ unsupported by any sworn probable-cause statement as required by Va. Code § 19.2-72, yet
+
+ she nonetheless advanced and maintained the prosecution.” ECF No. 40 at 46. That lack of
+
+ probable-cause statement was exculpatory evidence and “foundational jurisdictional record
+
+ required to support the charges,” 22 Sherwood argues, making Lukacs’ continued prosecution
+
+a violation of Sherwood’s rights to due process under the Fourteenth Amendment. Id. at 46-
+
+47 (citing Brady v. Maryland, 373 U.S. 83 (1963); Giglio v. United States, 405 U.S. 150 (1972);
+
+
+
+21 In Count II, the Sherwood also alleges that Lukacs also engaged in vindictive tactics, moving to quash
+
+Sherwood’s defense’s requests to the school for records then seeking them herself, in violation of “Anderson
+v. Commonwealth, 38 Va. App. 321 (2002), aff’d, 279 Va. 85 (2010).” ECF No. 40 at 44. Anderson, as cited,
+does not exist. This is a citation for Thomas v. Commonwealth, a case about venue. See infra.
+22 This appears to be a reference to the fictitious case “Peal v. Commonwealth, 26 Va. App. 505 (1998)” and a
+
+misquoted reference to the real case McCary v. Commonwealth, 228 Va. 219 (1984), which the Sherwoods cite
+for this “jurisdictional” language elsewhere in the amended complaint. See, e.g. ECF No. 40 at 39.
+
+
+                                                     28
+Case 7:25-cv-00821-MFU             Document 127 Filed 05/21/26                  Page 29 of 67         Pageid#:
+                                              1689
+
+
+
+Anderson v. Commonwealth, 279 Va. 85, 688 S.E.2d 605 (2010)). Again, because the Virginia
+
+Code does not require a written, sworn probable-cause statement in these circumstances, this
+
+accusation fails to state a claim.
+
+        In Count III, plaintiffs also make a series of allegations about document management
+
+in the case, including that Lukacs violated the requirements of “Anderson v. Commonwealth,
+
+38 Va. App. 321 (2002), aff’d 279 Va. 85 (2010),”23 that she oversaw “actions involving the
+
+misrepresentation of official filings, the concealment of material records from subsequent
+
+review, and the use of bond threats for coercive leverage constitute an arbitrary and
+
+conscience-shocking abuse of prosecutorial authority within the meaning of County of
+
+Sacramento v. Lewis, 523 U.S. 833, 849 (1998)”,24 and that she reformatted one form of
+
+document in order to draft a filing in the case (a “coercive pattern”). ECF No. 40 at 47-50.
+
+The court cannot discern an actionable claim against A.C.A. Lukacs arising from these
+
+allegations.
+
+                 4.       Count IV
+
+        In Count IV, Sherwood raises a First Amendment § 1983 retaliation claim and a
+
+Fourteenth Amendment substantive due process claim against A.C.A. Marshall Lukacs and
+
+C.A. John Alexander in their individual capacities. He argues that the prosecutors coordinated
+
+their use of official authority to “to punish and deter” Sherwood’s “assertion of innocence,
+
+exercise of due-process rights, and efforts to obtain exculpatory evidence and judicial review.”
+
+ECF No. 40 at 51. Sherwood alleges a “cumulative pattern of making unfounded bond-
+
+
+
+23 The Court of Appeals citation is incorrect here, but the Virginia Supreme Court citation is correct.
+24 Sacramento concerned the due process rights involved in a high-speed police chase, not abuse of
+prosecutorial authority.
+
+
+                                                      29
+Case 7:25-cv-00821-MFU           Document 127 Filed 05/21/26                Page 30 of 67        Pageid#:
+                                            1690
+
+
+
+revocation threats, strategically suppressing Brady material, and publishing defamatory post-
+
+disposition statements constitutes a deliberate abuse of power with no legitimate prosecutorial
+
+or law-enforcement objective.” Id. at 59.
+
+        “[A] § 1983 retaliation plaintiff must establish three elements in order to prove a First
+
+Amendment § 1983 retaliation claim. First, the plaintiff must demonstrate that his or her
+
+speech was protected. Second, the plaintiff must demonstrate that the defendant's alleged
+
+retaliatory action adversely affected the plaintiff's constitutionally protected speech. Third, the
+
+plaintiff must demonstrate that a causal relationship exists between its speech and the
+
+defendant's retaliatory action.” Suarez Corp. Indus. v. McGraw, 202 F.3d 676, 685–86 (4th
+
+Cir. 2000)(internal citations removed)(citing Huang v. Board of Governors, 902 F.2d 1134,
+
+1140 (4th Cir. 1990); ACLU v. Wicomico County, Md., 999 F.2d 780, 785 (4th Cir. 1993)).
+
+        Nowhere in the complaint do plaintiffs allege that Sherwood was engaged in speech,
+
+or that the unspecified speech was protected speech. See ECF No. 40 at 51-60. Count IV fails
+
+to allege a First Amendment § 1983 retaliation claim. 25
+
+        As for Sherwood’s substantive due process claim, to survive a motion to dismiss “the
+
+Complaint must sufficiently establish three elements: (1) a specific liberty or property interest,
+
+(2) facts demonstrating how the defendant deprived that liberty or property interest, and (3)
+
+facts showing how the defendant's actions exceeded the bounds of legitimate government
+
+action and that no process could cure the deficiency.” Bills v. Virginia Dep't of Educ., 605 F.
+
+Supp. 3d 744, 757 (W.D. Va. 2022), aff'd as modified sub nom. Bills on behalf of A.B. v.
+
+
+25 Because Sherwood’s First Amendment claim fails to meet any of these elements, the court does not examine
+
+Sherwood’s claim that defendant Alexander’s statements to the press on October 29, 2025, ECF No. 40 at 56-
+57, were made in retaliation for Sherwood’s speech.
+
+
+                                                    30
+Case 7:25-cv-00821-MFU         Document 127 Filed 05/21/26           Page 31 of 67     Pageid#:
+                                          1691
+
+
+
+Virginia Dep't of Educ., No. 22-1709, 2024 WL 4834231 (4th Cir. Nov. 20, 2024)(citing Sylvia
+
+Dev. Corp. v. Calvert Cnty., Md., 48 F.3d 810, 827 (4th Cir. 1995)). “[T]he cognizable level of
+
+executive abuse of power for a Fourteenth Amendment violation under § 1983 is that which
+
+shocks the conscience. … [T]he shocks the conscience standard is met where conduct is
+
+intended to injure and is unjustifiable by any government interest.” Corbitt v. Baltimore City
+
+Police Dep't, 675 F. Supp. 3d 578, 588 (D. Md. 2023)(internal quotations removed).
+
+        Sherwood does not specify (1) what specific liberty or property interest he alleges was
+
+deprived. Presumably, he means his right to defend against criminal charges.
+
+         Sherwood alleges that the government deprived him of this unspecified Fourteenth-
+
+Amendment rights by “continuing the prosecution despite knowing no probable-cause record
+
+ existed,” which “demonstrates that Defendants not only lacked lawful basis for the charges
+
+ but also used the prosecution itself as an instrument of coercion and retaliation.” ECF No. 40
+
+ at 52. Again, this claim relies upon an interpretation of Va. Code § 19.2-72 that would require
+
+ written probable cause affidavits—the Virginia statute does not require written affidavits or
+
+ written sworn probable cause statements for misdemeanor warrants when the complainant is
+
+ a law enforcement officer. Va. Code § 19.2-72. The twenty-five warrants in Sherwood’s case
+
+ serve as evidence that there was a finding of probable cause. See infra.
+
+        Separately, Sherwood points to two instances of conduct to allege that the government
+
+was engaged in a “continuous strategy of using bond threats as leverage to coerce a plea rather
+
+than address any legitimate violation,” ECF No. 40 at 56. First, Sherwood points to A.C.A.
+
+Lukacs’s use of a template “Motion to Revoke Bond” document in drafting the
+
+Commonwealth’s Response to the Defendant’s Motion for a Bill of Particulars as “a clear,
+
+
+
+                                               31
+Case 7:25-cv-00821-MFU         Document 127 Filed 05/21/26            Page 32 of 67       Pageid#:
+                                          1692
+
+
+
+implicit message: that further litigation or insistence on constitutional process could result in
+
+incarceration.” ECF No. 40 at 53. The document, provided at ECF No. 40 at 54, shows that
+
+Lukacs used a format document for a “Motion to Revoke Bond,” and crossed out all of the
+
+language specific to bonds. How this drafting practice amounts to an implicit threat is unclear
+
+to the court. Without more, the court cannot discern how this amounts to coercion, let alone
+
+a continuous strategy that was arbitrary or “shocks the conscience.” See Hawkins v. Freeman,
+
+195 F.3d 732, 742 (4th Cir. 1999)(elaborating on “the kind of executive conduct that can fairly
+
+be said to ‘shock the conscience,’ to be ‘fatally arbitrary in the constitutional sense’” and would
+
+support a claim of substantive due process violation).
+
+       Second, Sherwood points to the prosecution’s motion for bond revocation filed on
+
+September 30, 2025, which was later revoked, as evidence of coercion. ECF No. 40 at 54-55.
+
+It seems the bond revocation motion was made following Sherwood’s contact with “potential
+
+witnesses.” Id. at 55. These actions allegedly “exemplif[y] an arbitrary and retaliatory misuse
+
+of prosecutorial authority intended to hinder the defense and exert coercive leverage toward
+
+a plea.” Id. at 59. The amended complaint points to no case law or examples of similar conduct
+
+being found unconstitutional. See ECF No. 40 at 57-59. Based on the facts as alleged, it is not
+
+clear that this bond revocation motion amounted to coercion. Without more, Count IV also
+
+does not state a claim upon which relief can be granted.
+
+       C.      Further Constitutional Claims
+
+       In Counts V and VI, the Sherwoods raise an equal protection claim and a stigma-plus
+
+due process claim, both under 42 U.S.C. § 1983. The Sherwoods bring these claims as a family,
+
+alleging, on equal protection, that the “arbitrary and irrational treatment” of Mr. Sherwood
+
+
+
+                                                32
+Case 7:25-cv-00821-MFU        Document 127 Filed 05/21/26           Page 33 of 67      Pageid#:
+                                         1693
+
+
+
+“foreseeably and directly injured…his wife and the three children—whose reputations,
+
+emotional well-being, educational environments, and familial stability were severely harmed as
+
+an immediate consequence of the Defendants’ actions.” ECF No. 40 at 61. They also allege,
+
+on stigma-plus due process, that the family suffered “community hostility, school-based
+
+stigma, and emotional trauma[.]” Id. at 74.
+
+       Again, because “a Section 1983 plaintiff, like any person who claims a deprivation of
+
+constitutional or federally-protected rights, must allege some violation of his or her personal
+
+rights – not those of another[,]” Counts V and VI are dismissed with respect to plaintiffs
+
+Lauren Sherwood, Savannah Beckner, B.B. and H.B with prejudice. Midgett, 2021 WL
+
+4973634 at *3.
+
+       The court then turns to Counts V and VI with respect to Mr. Sherwood, only.
+
+              1.      Count V
+
+        In Count V, Sherwood raises a 42 U.S.C. § 1983 claim alleging a violation of rights to
+
+equal protection under a class-of-one theory. He raises this claim against the County of
+
+Botetourt and Hix, Ward, Bentley, Alexander, and Lukas in their personal capacities.
+
+       An actionable class-of-one equal protection claim requires a showing that the plaintiff
+
+has been intentionally treated differently from others similarly situated, and that there is no
+
+rational basis for the difference in treatment. Vill. of Willowbrook v. Olech, 528 U.S. 562, 564
+
+(2000) (finding a plaintiff alleged a class-of-one claim where the Village demanded a 33-foot
+
+easement from her property to connect to the municipal water supply, compared to the 15-
+
+foot easement requirement for similarly situated property owners). Further, “[a] class-of-one
+
+claim requires a showing that highly similar comparators received better treatment.” SAS
+
+
+
+                                              33
+Case 7:25-cv-00821-MFU         Document 127 Filed 05/21/26            Page 34 of 67      Pageid#:
+                                          1694
+
+
+
+Assocs. 1, LLC v. City Council for City of Chesapeake, Virginia, 91 F.4th 715, 723 (4th Cir.
+
+2024). “[T]he failure to identify or necessarily imply a similarly situated comparator is fatal to
+
+a class-of-one claim.” Wilson v. Town of Mount Jackson, No. 5:21-CV-00055, 2022 WL
+
+819531, at *13 (W.D. Va. Mar. 17, 2022) (citing Siena Corp. v. Mayor & City Council of
+
+Rockville, 873 F.3d 456, 465 (4th Cir. 2017); Tri-County Paving, Inc. v. Ashe Cnty., 281 F.3d
+
+430, 440 (4th Cir. 2002)). At the motion to dismiss stage, the plaintiff needs to allege facts
+
+sufficient to support a reasonable inference that all these elements were met. Ashcroft v. Iqbal,
+
+556 U.S. 662, 678 (2009).
+
+       Sherwood alleges that he was denied equal protection of the laws because (1) he,
+
+singularly, was “denied access to [his] probable cause materials” (i.e. the “probable cause
+
+documentation” that is not required in his case, see infra); (2) the Botetourt County JDR online
+
+portal has a separate case entry for Mr. Sherwood that misspells his name (i.e. “Raynond” vs.
+
+“Raymond”) and “no other defendant in the County’s system is known to have been subject
+
+to such an irregularity”; (3) the Sheriff’s Office publicized a press release about the facts of
+
+Sherwood’s arrest and charges but did not have a press release for the indictment of two other
+
+defendants who had committed more serious felony sexual offenses; (4) the County has close
+
+political ties to a prominent local family, and Sherwood is not affiliated with those networks;
+
+(5) the defendants “placed extraordinary reliance” of the complaint from Kasey Thomas about
+
+Sherwood because she is “an insider parent with professional relationships throughout the
+
+Criminal-justice infrastructure,” including family ties to law enforcement; and (6) the Sheriff’s
+
+Office press release about Sherwood’s arrest “was an arbitrary deviation from County
+
+
+
+
+                                               34
+Case 7:25-cv-00821-MFU            Document 127 Filed 05/21/26                 Page 35 of 67         Pageid#:
+                                             1695
+
+
+
+practice.” There is no rational basis for this differential treatment, he argues. ECF No. 40 at
+
+62-66.26
+
+        The court reviews each of these allegations in turn.
+
+        For the reasons explained throughout this opinion, Sherwood’s equal protection claim
+
+with respect to (1) the “probable-cause materials” fails. Those materials were not required in
+
+his case under Virginia Code § 19.2-72.
+
+        Sherwood’s allegation with respect to his (2) misspelled record with the Botetourt
+
+County JDR portal also fails. To recover under the equal protection clause, “a plaintiff must
+
+present proof of discriminatory intent on the part of the defendants.” Smith v. Town of
+
+Clarkton, N. C., 682 F.2d 1055, 1065 (4th Cir. 1982)(citing Arlington Heights v. Metropolitan
+
+Housing Corp., 429 U.S. 252 (1977); Washington v. Davis, 426 U.S. 229 (1976)). Sherwood’s
+
+complaint does not ascribe this misspelled record to any of the defendants. And, without
+
+more, the fact of a clerical error is insufficient to allege intentional treatment. Further,
+
+Sherwood’s allegation that “upon information and belief, no other defendant in the County’s
+
+system is known to have been subject to such an irregularity” does not identify any similarly
+
+situated comparators.
+
+
+
+
+26 Sherwood raises this claim against the County of Botetourt, alleging that the County invested significantly
+
+into law enforcement technology (“including multimillion-dollar enhancements to its interoperable radio-tower
+system, emergency communications upgrades, and data-link infrastructure”) without investments “in systems
+designed to safeguard the procedural or constitutional rights of accused persons[.]” ECF No. 40 at 61.
+Sherwood does not allege how these County investments connect to the alleged six-part scheme that violated
+his rights to equal protection. Further, the County cannot be held liable under Monell for actions carried out
+by the Sheriff’s Office and the Commonwealth’s Attorneys, who are constitutional officers that are “not agents
+of or answerable to Virginia localities” like the County. Weiner v. Albemarle Cnty., Va., No. 3:17-cv-00046,
+2018 WL 542979, at *5-8 (W.D. Va. Jan. 24, 2018). See also Roop v. Whitt, 289 Va. 274, 280, 768 S.E.2d. 692,
+695 (2015).
+
+
+                                                     35
+Case 7:25-cv-00821-MFU            Document 127 Filed 05/21/26                 Page 36 of 67         Pageid#:
+                                             1696
+
+
+
+        For (3) and (6), the press release from the Sheriff’s Office, Sherwood alleges that he
+
+was treated less favorably than the two defendants in Botetourt County who were indicted in
+
+March 2025 for serious felony sexual offenses because the Sheriff’s Office issued a press
+
+release on Facebook 27 about his arrest but not theirs. ECF No. 40 at 63, 65.
+
+        The Equal Protection Clause requires that “[n]o State shall … deny to any person
+
+within its jurisdiction the equal protection of the laws.” U.S. Const. amend. XIV (emphasis
+
+added). This protection “guarantees equal laws, not equal results.” Coal. for TJ v. Fairfax Cnty.
+
+Sch. Bd., 68 F.4th 864, 887 (4th Cir. 2023)(quoting Personnel Adm’r of Mass. v. Feeney, 442
+
+U.S. 256, 273 (1979)).
+
+        Here, Sherwood argues that the discretionary decision to post on Facebook about
+
+Sherwood’s arrest and not other people denied him equal protection of the laws. But it is
+
+unclear how the decision to post about his arrest publicly applied the laws differently to him.
+
+See, e.g. Bermeo v. Andis, No. 1:23-CV-041, 2024 WL 3850443, at *8 (W.D. Va. Aug. 16,
+
+2024), vacated and remanded on other grounds, 163 F.4th 87 (4th Cir. 2025)(“[Plaintiff] has
+
+not shown that the publication of a press release about a police investigation that resulted in
+
+criminal charges violates her constitutional rights.”) Compare Olech, 528 U.S. 562
+
+(recognizing an equal protection class-of-one claim where the Village of Willowbrook applied
+
+its rule for easements differently for one homeowner compared to others); Willis v. Town Of
+
+Marshall, N.C., 426 F.3d 251, 263 (4th Cir. 2005)(holding that a town’s policy banning lewd
+
+
+
+
+27 The amended complaint alleges that the press release “portray[ed Sherwood] as a sexual threat before any
+
+affidavit, hearing, or validation of probable cause.” ECF No. 40 at 63. As discussed infra, the Facebook post
+expressly did not portray Sherwood as a sexual threat, no affidavit was required under Virginia law, and the
+magistrate had found probable cause sufficient for the issuance of twenty-five warrants for Sherwood’s arrest.
+
+
+                                                     36
+Case 7:25-cv-00821-MFU         Document 127 Filed 05/21/26            Page 37 of 67       Pageid#:
+                                          1697
+
+
+
+dancing at town-sponsored concerts did not violate the Equal Protection clause, but the
+
+application of the rule to one dancer alone could amount to a class-of-one claim).
+
+       Further, a plaintiff alleging an equal protection claim as a class-of-one is required to
+
+show that they were treated differently from similarly situated parties, and to show that those
+
+parties are similar “in all relevant respects.” A Hand of Hope Pregnancy Res. Ctr. v. City of
+
+Raleigh, 332 F. Supp. 3d 983, 1003 (E.D.N.C. 2018)(quoting Veney v. Wyche, 293 F.3d 726,
+
+730 (4th Cir. 2002)). The Fourth Circuit has not yet provided “a clear standard as to how
+
+concretely and specifically a plaintiff must compare himself to others to state a class-of-one
+
+claim.” Mendes v. Beahm, No. 5:19-CV-00072, 2020 WL 3473656, at *6 (W.D. Va. June 25,
+
+2020)(quoting Foster v. United States EPA, No. 2:14-cv-15744, 2016 WL 4473453, at *8 (S.D.
+
+W.Va. Aug. 22, 2016)). “[A]fter Twombly and Iqbal, it is insufficient [to state a class-of-one
+
+claim] to simply allege that other, unidentified [comparators] have ‘comparable’ or ‘similar’
+
+conditions — the claim must be supported by specific facts plausibly suggesting the conditions
+
+… and the [comparators] themselves are similar in all material respects.” Foster, 2016 WL
+
+4473453, at *9 (quoting Kansas Penn Gaming, LLC v. Collins, 626 F.3d 1210, 1220 (10th Cir.
+
+2011)). It follows, then, that those “material respects” are the similarities between the plaintiff
+
+and their comparators that demonstrate the existence of no rational basis for being treated
+
+differently.
+
+       Here, Sherwood alleges that “two other Botetourt County defendants indicted on
+
+March 11, 2025, for serious sexual offenses” were similarly situated to him. ECF No. 40 at 63.
+
+Based on the facts alleged in the complaint, the court finds this class of “similarly situated”
+
+individuals remarkably different from Sherwood in key material respects that would relate to
+
+
+
+                                                37
+Case 7:25-cv-00821-MFU             Document 127 Filed 05/21/26                 Page 38 of 67         Pageid#:
+                                              1698
+
+
+
+a rational basis for the issuance of a press release from law enforcement. See Olech, 528 U.S.
+
+at 564 (holding, in part, that an actionable equal protection class-of-one claim requires a
+
+showing that “there is no rational basis for the difference in treatment.”)
+
+        For one, Sherwood was a public school bus driver, in a position of public trust, and his
+
+charges stemmed from actions taken within the scope of his position. There are no alleged
+
+facts to support a in inference that his comparators were in similar positions of public trust.
+
+This material respect is important when considering whether Sherwood has adequately pled
+
+facts to support a reasonable inference that there was no rational basis for their different
+
+treatment.
+
+        Two, Sherwood was arrested and ultimately pled nolo contendere to misdemeanor—
+
+not felony—charges of assault and battery. Those offenses, as the Sheriff’s Office and the
+
+prosecution assured the public, were not sexual in nature. ECF No. 40 at 18 (noting that the
+
+press release from the Sheriff’s Office specified that any touching “did not involve intimate
+
+areas”); 56 (C.A. Alexander stating that “there was no evidence to support charges of sexual
+
+assault”). 28 This is entirely different from the situation of the alleged comparators who
+
+committed “serious sexual felonies, including forcible sodomy, aggravated sexual battery,
+
+attempted rape, child-exploitation offenses, and possession of child pornography,” ECF No.
+
+
+
+28 This appears to be a point of confusion throughout the pleadings. Sherwood pled nolo contendere to two
+
+charges of assault and battery under Va. Code § 18.2-57, which is not a sexual offense, and the statements made
+by the Sheriff’s Office and prosecution expressly indicate that Sherwood’s offense was not sexual in nature.
+Still, Sherwood’s complaint alleges that the defendants were somehow implying the opposite. See ECF No. 40
+at 18-19 (alleging that Sheriff’s Office statement that the alleged battery “did not involve intimate areas”
+somehow “conveyed the false impression of sexual wrongdoing” or “sexually improper conduct”); 26 (alleging
+that the prosecution’s statements to the Roanoke Times that “there was no evidence to support charges of
+sexual assault” is something that “ha[s] understandably been interpreted as suggesting sexual misconduct or
+moral unfitness” and “wrongfully associated his name with sexual impropriety”). The court sees no reasonable
+interpretation of the press releases suggesting that Sherwood’s conduct was sexual in nature.
+
+
+                                                      38
+Case 7:25-cv-00821-MFU         Document 127 Filed 05/21/26             Page 39 of 67      Pageid#:
+                                          1699
+
+
+
+40 at 63, in which cases “[t]he Fourth Circuit has recognized a particular sensitivity[.]’” Doe v.
+
+Darden Restaurants, Inc., 736 F. Supp. 3d 297, 301 (D. Md. 2024)(quoting Doe v. Sidar, 93
+
+F.4th 241, 248 (4th Cir. 2024)). This, too, provides a rational basis for providing a press release
+
+about Sherwood’s arrest but not about these other defendants. It also provides a rational basis
+
+for issuing a press release that clarified—as the press release did in this case—that Sherwood’s
+
+crime was not sexual in nature. Thus, even if the Sheriff’s Office press release could amount
+
+to a denial of equal protection under the laws, Sherwood’s complaint does not allege facts to
+
+support an inference that there is a similarly situated group that was akin to him in respects
+
+material to this case.
+
+        Count V does not state a claim, and is dismissed.
+
+               2.        Count VI
+
+         In Count VI, Sherwood alleges a violation of “stigma-plus” due process under § 1983
+
+against Sheriff Ward, Sgt. Bentley, C.A. Alexander, A.C.A. Lukacs, school administrator
+
+McClung and the Botetourt County School Board “in their respective individual—or
+
+municipal—capacities as pleaded.” ECF No. 40 at 67. Sherwood claims that the defendants
+
+ inflicted reputational harm (either as the state or under color of law), and that reputational
+
+ harm was coupled with a tangible alteration in Sherwood’s public employment. Id. at 67 (citing
+
+Sciolino v. City of Newport News, 480 F.3d 642, 646 (4th Cir. 2017); Ridpath v. Bd. of
+
+Governors of Marshall Univ., 447 F.3d 292, 307-10 (4th Cir. 2006)).
+
+        The Fourteenth Amendment guarantees “the right to procedural due process when
+
+governmental action threatens a person’s liberty interest in his reputation and choice of
+
+occupation.” Ridpath, 447 F.3d at 307 (citing Bd. of Regents v. Roth, 408 U.S. 564, 573 & n.
+
+
+
+                                                39
+Case 7:25-cv-00821-MFU             Document 127 Filed 05/21/26                 Page 40 of 67         Pageid#:
+                                              1700
+
+
+
+12 (1972); citing, c.f. Conn v. Gabbert, 526 U.S. 286, 291-292 (1999)). When the state makes
+
+a defamatory statement about a person, their Fourteenth Amendment rights can be implicated
+
+where, “in addition to the defamatory statement, a right or status was altered or extinguished.”
+
+Univ. Gardens, 419 F. Supp. 2d at 738. Courts recognize this type of § 1983 claim as a “stigma
+
+plus” claim. Id. More than alleging mere incompetence, “[t]he type of communication that
+
+gives rise to a protected liberty interest implies ‘the existence of serious character defects such
+
+as dishonesty or immorality.’” Ridpath, 447 F.3d at 308 (quoting Robertson v. Rogers, 679
+
+F.2d 1090, 1092 (4th Cir. 1982)).
+
+        The Fourth Circuit in Sciolino has held that this type of due process claim requires the
+
+plaintiff to show “that the charges against him: (1) placed a stigma on his reputation; (2) were
+
+made in public by the employer; (3) were made in conjunction with his termination or
+
+demotion; and (4) were false.” Sciolino, 480 F.3d at 646 (citing Stone v. Univ. of Md. Med.
+
+Sys. Corp., 855 F.2d 167, 172 n.5 (4th Cir. 1988)).29 At the motion to dismiss stage, Sherwood
+
+needs to allege facts sufficient to support a reasonable inference that all these elements were
+
+met. Ashcroft, 556 U.S. at 678.
+
+        Sherwood alleges that the defendants defamed him under color of their state authority,
+
+and that defamation cost him his employment with Botetourt County Public Schools.
+
+Specifically, he alleges that defendant Kasey Thomas, under color of law in her capacity as a
+
+probation officer, reported to school officials that her daughter told her about Sherwood’s
+
+inappropriate behavior. Sheriff Ward and Sgt. Bentley “acting under color of state law, issued
+
+
+29 The court notes that plaintiffs omitted the fourth, “falsity” element in Scolino twice in their arguments in
+
+support of their motion for a temporary restraining order. ECF No. 95 at 4. They successfully noted all four
+elements at ECF No. 99, at 6.
+
+
+                                                      40
+Case 7:25-cv-00821-MFU            Document 127 Filed 05/21/26                Page 41 of 67        Pageid#:
+                                             1701
+
+
+
+an official press release on May 6 followed by a subsequent statement to a media outlet on the
+
+next day” that was defamatory “because it falsely and gratuitously associated [Sherwood’s]
+
+name with accusations of sexual or indecent misconduct towards children, imputing unchastity
+
+and criminal moral depravity.” ECF No. 40 at 68. Sherwood also alleges that C.A. Alexander
+
+“amplified the stigma” with his October 2025 statements to The Roanoke Times and WDBJ7
+
+News that Sherwood’s “touching verged on inappropriate,” that “there was no evidence to
+
+support charges of sexual assault” and that the prosecution considered that Sherwood was no
+
+longer working as a school bus driver when agreeing to his plea agreement. Id. at 71.30
+
+        Further, Sherwood alleges that he lost his job with Botetourt County Public Schools
+
+because of those statements. Specifically, he alleges that defendant McClung issued
+
+termination letters on May 2 and 9, 2025, that referenced the allegedly defamatory statements
+
+made by Thomas and law enforcement. The School Board “ratified this action” by voting to
+
+terminate Sherwood from his position “without providing him any meaningful opportunity to
+
+contest the charges or clear his name,” foreclosing “his property interest in continued
+
+employment.” Id. at 72 (citing Sciolino and Ridpath). Because the statements from law
+
+enforcement, the termination letters from McClung, and Sherwood’s termination were all
+
+“made in close temporal proximity,” Sherwood alleges that his adverse employment decision
+
+was made “in conjunction” with the statements from other actors. Id. (citing Cannon v. Village
+
+of Bald Head Island, 891 F.3d 489, 500-01 (4th Cir. 2018)). 31
+
+
+
+
+30 Sherwood again alleges that there was “no probable cause” in his case. ECF No. 40 at 71. For the reasons
+
+described infra, that claim is not borne out by the facts alleged in the complaint.
+31 In a parenthetical, Sherwood’s counsel attributes a quote to Cannon that appears nowhere in the case. ECF
+
+No. 40 at 73.
+
+
+                                                    41
+Case 7:25-cv-00821-MFU           Document 127 Filed 05/21/26                Page 42 of 67   Pageid#:
+                                            1702
+
+
+
+        Again, under Sciolino, this due process claim requires the plaintiff to show “that the
+
+charges against him: (1) placed a stigma on his reputation; (2) were made in public by the
+
+employer; (3) were made in conjunction with his termination or demotion; and (4) were false.”
+
+Sciolino, 480 F.3d 646. In the amended complaint, Sherwood does not allege facts to support
+
+a reasonable inference that (2) the allegedly defamatory statements were made by his employer,
+
+or that (4) they were false. Count VI fails to state an actionable claim.
+
+        First, Sherwood does not allege facts to support an inference that the allegedly
+
+defamatory statements were (2) made in public by his employer. Sherwood was employed by
+
+Botetourt County Public Schools. ECF No. 40 at 11. Most of the state actors who he alleges
+
+defamed him—Thomas, Sgt. Bentley, Sheriff Ward, and C.A. Alexander—do not represent
+
+and are not affiliated with the Botetourt County Public Schools.
+
+        The only affiliate of the school district who Sherwood alleges defamed him is McClung,
+
+who allegedly “explicitly incorporated the defamatory narrative originating from the Sheriff’s
+
+Office and the Commonwealth’s Attorney’s Office” in his May 2, 2025, letter to Sherwood.
+
+ECF No. 40 at 72 (citing ECF No. 2-2, termination letter noting that “[t]his recommendation
+
+is due to unprofessionalism when it comes to your interaction with female students on the
+
+school bus”). As a matter of timing, the court does not see how McClung’s May 2, 2025, letter
+
+could explicitly incorporate the statements in the Sheriff’s Office press release that was
+
+published four days later, on May 6, 2026. See ECF No. 40 at 73 (citing ECF Nos. 2-6 (press
+
+release dated May 6, 2025), 2-7 (press release dated May 7, 2025)).32 And because these
+
+
+
+32 Again, because Sherwood explicitly relies upon these documents in his amended complaint, and their
+
+authenticity is unchallenged, the court may consider them. Epps, 2021 WL 4286603 at *2.
+
+
+                                                   42
+Case 7:25-cv-00821-MFU              Document 127 Filed 05/21/26                   Page 43 of 67         Pageid#:
+                                               1703
+
+
+
+statements were made in letters written directly to Mr. Sherwood, these facts do not support
+
+an inference that McClung made those statements “in public.” Sciolino, 480 F.3d 646. 33
+
+        Regardless, Sherwood implies that the Sheriff’s Office press releases may be
+
+attributable to the School Board, at least in part, because the May 6 and May 7 press releases
+
+were “approved” by the School Board. ECF No. 40 at 23. But the School Board’s alleged
+
+approval is insufficient to support an inference that the Sheriff’s Office press release, on the
+
+Sheriff’s Office Facebook page, or a subsequent news article quoting the Sheriff’s Office,
+
+amounts to speech from the School Board. See In re Volkswagen AG Sec. Litig., 661 F. Supp.
+
+3d 494, 522 (E.D. Va. 2023)(holding that a plaintiff’s allegation that a party holds “a daily
+
+monitoring function and the participation in the preparation of public statements does not
+
+allow [a] Court to infer that [the monitoring party] ‘collaborated with the authors to such an
+
+extent that they controlled the [press release’s] publication.’”)(quoting Noto v. 22nd Century
+
+Grp., Inc., 35 F.4th 95, 104 (2d Cir. 2022)).
+
+        Nonetheless, Sherwood alleges broadly that his “reputation and employment were
+
+destroyed through interconnected acts of the same state apparatus” that the combination of
+
+these disparate actors “establish a single, coordinated sequence of stigmatization and
+
+
+
+
+33 The fact that these statements were not publicly made also belies Sherwood’s claims, made throughout the
+complaint, that he was entitled to a name-clearing hearing before the School Board. The constitutional basis
+for a terminated employee to receive a name-clearing hearing is that they have a liberty interest in clearing their
+name when stigmatizing information regarding the reasons for their termination is publicly disclosed. Cox v.
+Roskelley, 359 F.3d 1105, 1110 (9th Cir. 2004)(citing Board of Regents v. Roth, 408 U.S. 564, 573 (1972)). A
+due process claim in this context requires a showing, that “(1) the accuracy of the charge is contested; (2) the
+employer publicly disclosed the charge; and (3) the charge was made in connection with his termination of
+employment.” Lengele v. Willamette Leadership Acad., 641 F. Supp. 3d 956, 965 (D. Or. 2022)(emphasis
+added). Because Sherwood alleges no public statement of the charges from the School Board, he does not allege
+facts sufficient to support an inference that he was entitled to a name-clearing hearing under Cox.
+
+
+
+                                                       43
+Case 7:25-cv-00821-MFU         Document 127 Filed 05/21/26          Page 44 of 67      Pageid#:
+                                          1704
+
+
+
+termination that simultaneously destroyed [Sherwood’s] reputation and employment without
+
+due process.” ECF No. 40 at 72-73. Because these actions came from unrelated actors, their
+
+“close temporal proximity” is insufficient to establish that they happened “in conjunction
+
+with” one another, despite Sherwood’s allegation. Id. See Roe v. Lynch, 997 F.3d 80, 86 (1st
+
+Cir. 2021)(“‘Where the stigma and the incremental harm -- the 'plus' factor -- derive from
+
+distinct sources, a party cannot make out a viable procedural due process claim ... even if both
+
+sources are government entities.’”)(quoting URI Student Senate v. Town of Narragansett, 631
+
+F.3d 1, 10 (1st Cir. 2011)).
+
+       Second, Sherwood does not allege facts to support an inference that the allegedly
+
+defamatory statements by Thomas, Bentley, Alexander, or McClung were false. This, too, is
+
+fatal to his stigma-plus claim. Ridpath, 447 F.3d at 312 (“[t]here can be no deprivation of
+
+liberty unless the stigmatizing charges at issue are false.”)
+
+       In the allegedly defamatory press releases, the Sheriff’s Office “publicly identified bus
+
+driver Raymond Lewis Sherwood III as the suspect in a school assault investigation,” specified
+
+that it involved misconduct of a school bus driver and that the “nature of the alleged conduct
+
+did not meet the statutory criteria for sexual battery.” ECF No. 40 at 68. The May 7, 2025
+
+WSET article quoting the Sheriff’s Office notes that “parents … reached out about
+
+inappropriate contact” and that the incidents “were not hugs or high fives.” Id. at 69. These
+
+statements are wholly consistent with the allegations in the amended complaint.
+
+        Rather than argue that the statements are false, Sherwood argues that they draw an
+
+unflattering picture. By making limited, true statements about the fact that Sherwood had been
+
+arrested and that the charges were not sexual in nature, the police somehow “falsely and
+
+
+
+                                                44
+Case 7:25-cv-00821-MFU       Document 127 Filed 05/21/26           Page 45 of 67     Pageid#:
+                                        1705
+
+
+
+gratuitously associated [Sherwood]’s name with accusations of sexual or indecent misconduct
+
+toward children, imputing unchastity and moral depravity” and they “gratuitously referenc[ed]
+
+a sexual-battery statute” to “cast Mr. Sherwood in the light of a suspected sexual offender.”
+
+Id. at 68. This is not a reasonable inference to make. The alleged statements here are true in
+
+light of the facts presented in the amended complaint. Count VI therefore does not state a
+
+claim upon which relief can be granted.
+
+       Last, “the requirements of procedural due process apply only to the deprivation of
+
+interests encompassed by the Fourteenth Amendment’s protection of liberty and property …
+
+To have a protected property interest in his employment, a person must possess a legitimate
+
+claim of entitlement to it—created, for example, by contract or state law.” Ridpath, 447 F.3d
+
+at 308 n. 14. Here, Sherwood alleges that the School Board’s ratification of his termination
+
+“foreclosed his property interest in continued employment.” ECF No. 40 at 72. He does not
+
+allege facts to support the inference that his interest in his employment was a protected
+
+property interest under the Fourteenth Amendment.
+
+       “In Virginia, an employment relationship is presumed to be at-will, which means that
+
+the employment term extends for an indefinite period and may be terminated by the employer
+
+or employee for any reason upon reasonable notice.” Cnty. of Giles v. Wines, 262 Va. 68, 72,
+
+546 S.E.2d 721, 723 (2001). That presumption may be rebutted, but Sherwood alleges no facts
+
+that would rebut that presumption in his pleadings. “The Fourth Circuit has repeatedly made
+
+it clear that at-will employees lack an enforceable expectation of continued employment (i.e.,
+
+a property interest) and, consequently, cannot maintain a claim under Section 1983 for
+
+violation of due process under the fourteenth amendment based on their employment
+
+
+
+                                             45
+Case 7:25-cv-00821-MFU         Document 127 Filed 05/21/26            Page 46 of 67       Pageid#:
+                                          1706
+
+
+
+discharge.” Williams v. Strickland, No. CIV. A. 3:92-515-19, 1993 WL 153915, at *4 (D.S.C.
+
+Mar. 12, 1993). Thus, Sherwood cannot maintain this claim under Section 1983.
+
+       Thus, Count VI does not state a claim, and is dismissed.
+
+       D.      Disability Discrimination Claims
+
+       Next, the Sherwoods make a series of claims under Title II Americans with Disabilities
+
+Act (ADA) and Section 504 of the Rehabilitation Act. They allege that the County and Sheriff
+
+Ward (in his personal capacity) denied Sherwood the protections of Title II (Count VII) and
+
+under Section 504 (Count VIII). They also allege that the County and the Botetourt County
+
+School Board denied Sherwood the protections of Section 504 (Count IX) and Title II (Count
+
+X).
+
+       An actionable claim under Title II of the ADA requires a showing from the plaintiff
+
+that “(1) they have a disability; (2) they are otherwise qualified to receive the benefits of a
+
+public service, program, or activity; and (3) they were denied the benefits of such service,
+
+program, or activity, or otherwise discriminated against, on the basis of their disability.” Nat'l
+
+Fed'n of the Blind v. Lamone, 813 F.3d 494, 503 (4th Cir. 2016). And “[i]n order to establish
+
+a violation of the Rehabilitation Act, a plaintiff must demonstrate that she is: ‘(1) a ‘disabled
+
+individual’ as defined in the [Rehabilitation Act]; (2) ‘otherwise qualified’ to participate in the
+
+offered activity or to enjoy its benefits; (3) excluded from such participation or enjoyment
+
+solely by reason of his or her handicap; and (4) that the program administering the activity
+
+receives federal financial assistance.’” Lucas v. VHC Health, 128 F.4th 213, 220 (4th Cir.
+
+2025)(quoting Basta v. Novant Health Inc., 56 F.4th 307, 315 (4th Cir. 2022)).
+
+
+
+
+                                                46
+Case 7:25-cv-00821-MFU              Document 127 Filed 05/21/26                  Page 47 of 67         Pageid#:
+                                               1707
+
+
+
+         The elements these two claims are largely similar. “To the extent possible, we construe
+
+the ADA and Rehabilitation Act to impose similar requirements.” Halpern v. Wake Forest
+
+Univ. Health Scis., 669 F.3d 454, 461 (4th Cir. 2012). However,“[t]he two statutes differ only
+
+with respect to the third element, causation. To succeed on a claim under the Rehabilitation
+
+Act, the plaintiff must establish he was excluded ‘solely by reason of’ his disability; the ADA
+
+requires only that the disability was ‘a motivating cause’ of the exclusion.” Id. at 461-462 (citing
+
+Baird ex rel. Baird v. Rose, 192 F.3d 462, 468–69 (4th Cir.1999)).
+
+         For each of these claims, plaintiffs allege facts to support a finding of (1) disability.
+
+Plaintiffs allege that Mr. “Sherwood is a 100% service-connected disabled veteran with
+
+cognitive, processing and memory-related impairments well known to Botetourt County
+
+Officials.” ECF No. 40 at 77. “His VA disability records confirm that, at all relevant times, he
+
+suffered from service-connected conditions substantially limiting major life activities, and by
+
+September 2025 he had been rated 100 percent permanent and total.” Id. at 85.34
+
+         Sherwood alleges that his treatment—namely, the circumstances of his arrest and his
+
+termination from his position as a school bus driver—was “on the basis of his disability,” ECF
+
+No. 40 at 85,“because of his disability” Id. at 84, 89, or that his “disability was the central
+
+reason [d]efendants’ concealment and procedural deviations inflicted extraordinary harm,” Id.
+
+at 83.
+
+
+
+
+34 Plaintiffs refer to exhibits “VA Rating,” “100% Rating” “DIS-1”, and “DIS-2” which all appear to be
+
+referring to a September 2025 VA decision on Sherwood’s disability. That decision is not attached original or
+amended complaint. ECF No. 40 at 2, 32, 33. The court accepts this factual allegation as true in its consideration
+of the motion to dismiss. Erickson v. Pardus, 551 U.S. 89, 94 (2007).
+
+
+                                                       47
+Case 7:25-cv-00821-MFU        Document 127 Filed 05/21/26           Page 48 of 67     Pageid#:
+                                         1708
+
+
+
+       However, nowhere in the amended complaint do the Sherwoods allege facts to support
+
+a reasonable inference that Sherwood’s disability was either the motivating cause for his
+
+treatment pursuant to the investigations into his crime, his arrest, his suspension, or his
+
+termination (for his ADA claims) or that his treatment was solely because of that disability
+
+(for his Section 504 claims). “Although for the purposes of this motion to dismiss we must
+
+take all the factual allegations in the complaint as true, we are not bound to accept as true a
+
+legal conclusion couched as a factual allegation.” Papasan v. Allain, 478 U.S. 265, 286 (1986).
+
+Without more, this does not state a claim.
+
+       The Fourth Circuit has permitted associational discrimination claims under the ADA,
+
+and several circuits have permitted associational discrimination claims pursuant to the
+
+Rehabilitation Act. Ganzzermiller v. Univ. of Maryland Upper Chesapeake Med. Ctr., No. CV
+
+CCB-16-3696, 2019 WL 4751457, at *9–10 (D. Md. Sept. 30, 2019). However, because Mr.
+
+Sherwood does not allege facts to support an ADA or Section 504 claim, any claim that his
+
+family asserts based on those same facts also fails under Rule 12(b)(6).
+
+       Further, because “Title II unambiguously does not provide a vehicle for public
+
+employment discrimination claims,” there is no set of facts on which Sherwood could allege
+
+this Title II claim against Botetourt County Public Schools. Reyazuddin v. Montgomery Cnty.,
+
+Md., 789 F.3d 407, 420-21 (4th Cir. 2015). Accordingly, Counts VII, VIII, IX and X are
+
+dismissed.
+
+       E.     Municipal Liability under Monell
+
+       In Count XI, the Sherwoods claim liability under the same theories as those described
+
+elsewhere in the complaint—i.e., “unlawful seizure and malicious prosecution without
+
+
+
+                                              48
+Case 7:25-cv-00821-MFU        Document 127 Filed 05/21/26           Page 49 of 67      Pageid#:
+                                         1709
+
+
+
+probable cause” (alleged in Counts I-IV); “[d]eprivation of liberty and property interests in
+
+reputation and employment without due process (Fourteenth Amendment – stigma-plus and
+
+procedural due process)” (alleged in Count VI); “continuing reputational injury and economic
+
+loss caused by coordinated County and School Board action” (alleged in Counts V, XIII, XV);
+
+and “policy and custom[s]” causing the injuries (alleged in Counts VI, IX, X). ECF No. 40 at
+
+100.
+
+       The court dismisses Count XI as duplicative. See, e.g. Corps Logistics, LLC v. Dutil,
+
+No. CV206683MASZNQ, 2021 WL 795198, at *11 (D.N.J. Feb. 28, 2021)(“It is well-
+
+recognized that a court may dismiss a duplicative claim in a complaint.”); Chihota v. Fulton,
+
+Friedman & Gullace, LLP, No. CIV. WDQ-12-0975, 2012 WL 6086860, at *2 (D. Md. Dec.
+
+5, 2012)(“When confronted with duplicative litigation, and after weighing the equities of the
+
+case, a district court is empowered to dismiss the duplicative suit with prejudice.”); Hum. Rts.
+
+Def. Ctr. v. Baxter Cnty., Arkansas, No. 3:17-CV-3070, 2018 WL 2050163, at *2 (W.D. Ark.
+
+May 2, 2018) (“The law is clear that dismissal of duplicative claims is proper.”); Marak v.
+
+Dallas/Fort Worth Int'l Airport Bd., No. 3:04-CV-960R, 2005 WL 780405, at *2 (N.D. Tex.
+
+Apr. 6, 2005) (“A district court has the authority to dismiss a duplicative claim filed by the
+
+same plaintiff.”).
+
+       F.      Title IX Claims
+
+       In Count XII, the Sherwoods raise claims of Title IX retaliation and sex-based
+
+discrimination against the School Board and McClung in his personal capacity.
+
+       Title IX of the Education Amendments of 1972 provides that “[n]o person in the
+
+United States shall, on the basis of sex, be excluded from participation in, be denied the
+
+
+
+                                              49
+Case 7:25-cv-00821-MFU         Document 127 Filed 05/21/26            Page 50 of 67       Pageid#:
+                                          1710
+
+
+
+benefits of, or be subjected to discrimination under any education program or activity
+
+receiving Federal financial assistance[.]” 20 U.S.C. § 1681(a).
+
+       As a matter of law, “because school officials are not themselves recipients of federal
+
+funds, they may not be sued in their individual capacities for violations of Title IX.” Does 1-
+
+22 v. Bd. of Educ. of Prince George's Cnty., 644 F. Supp. 3d 149, 157 (D. Md. 2022). See also
+
+Graham v. City of Manassas Sch. Bd., 390 F. Supp. 3d 702, 708 n.8 (E.D. Va. 2019)(“school
+
+official may not be sued in their individual capacity under Title IX)(quoting Kinman v. Omaha
+
+Pub. Sch. Dist., 171 F.3d 607, 611 (8th Cir. 1999)). Thus, the Sherwoods fail to state a claim
+
+under Title IX against McClung, and this claim is dismissed.
+
+       The parties do not dispute that Botetourt County Public Schools receive public funds.
+
+The court therefore considers the Sherwoods’ Title IX claim with respect to defendant
+
+Botetourt County School Board, only.
+
+       “At the pleading stage, the plaintiffs are required to sufficiently allege two elements to
+
+state a Title IX retaliation claim. First, they must allege that they engaged in protected activity
+
+under Title IX, and second, they must allege that — as a result of their protected activity —
+
+they suffered an adverse action attributable to the defendant educational institution.” Feminist
+
+Majority Found. v. Hurley, 911 F.3d 674, 694 (4th Cir. 2018).
+
+       The factual basis of the Sherwoods’ Title IX claim is difficult to decipher. To the best
+
+of the court’s understanding, it appears the Sherwoods allege that Mr. Sherwood’s termination
+
+
+
+
+                                                50
+Case 7:25-cv-00821-MFU              Document 127 Filed 05/21/26                    Page 51 of 67         Pageid#:
+                                               1711
+
+
+
+from his position with the school district was “infected by gender-based stereotypes that a
+
+male bus driver interacting with female students was inherently suspect.” ECF No. 40 at 103.35
+
+          Sherwood’s arrest and pending termination impacted his family. Plaintiffs allege that
+
+Mrs. Lauren Sherwood wrote an email on May 7, 2025, to school administrators notifying the
+
+school that “one daughter would be completing her schoolwork virtually for mental health
+
+and safety reasons and that another would attend school only for her final lacrosse game.”
+
+ECF No. 40 at 102 (citing ECF No. 2-8)). This email, they allege, “constituted protected
+
+activity under Title IX, as it opposed gender-based stereotyping and harassment flowing from
+
+the County’s portrayal of Mr. Sherwood’s ‘inappropriate contact’ with female students.” Id.
+
+          The email, attached to the original complaint at ECF No. 2-8 and relied on in the
+
+amended complaint at ECF No. 40 at 102, reads:
+
+        “Savannah will be completing her work virtually today for mental health and
+        safety reasons. If you have any questions about this, feel free to give me a call.
+
+        [___] will be attending because she wants to play in her final lacrosse game and
+        I fully expect that her safety and well being will be monitored throughout the
+        day.”
+
+
+
+35The Sherwoods argue that this is “a form of sex discrimination recognized in Doe v. Fairfax Cnty. Sch. Bd.,
+
+1 F.4th [257,] 270 [(4th Cir. 2021).]” Id. at 103. This is another misstatement of law. The Fourth Circuit in Doe
+did not address, let alone “recognize” stereotype-based discrimination. Doe, 1 F.4th 257 (finding, in a case
+concerning a female student’s Title IX claim arising her reports of sexual harassment to the school
+administrators, that (1) a jury’s finding that the school board lacked actual notice of the student’s sexual assault
+allegations lacked evidentiary support, warranting a new trial, and that (2) the questions of whether the school
+board acted with deliberate indifference and whether the sexual harassment deprived her of equal access to
+educational opportunities were questions for a jury).
+
+Nonetheless, the court notes that “discrimination on the basis of sex stereotypes” is barred by Title VII. Nichols
+v. Azteca Rest. Enters., Inc., 256 F.3d 864, 874-875 (9th Cir. 2001)(citing Price Waterhouse v. Hopkins, 490
+U.S. 229 (1989)). And “[l]ike our sister circuits, [the Fourth Circuit] thus applies familiar Title VII retaliation
+concepts to the requirements of a Title IX retaliation claim.” Feminist Majority, 911 F.3d at 694 (citing Preston
+v. Commonwealth of Va. ex rel New River Cmty. Coll., 31 F.3d 203, 207 (4th Cir. 1994)).
+
+
+
+                                                        51
+Case 7:25-cv-00821-MFU             Document 127 Filed 05/21/26                 Page 52 of 67         Pageid#:
+                                              1712
+
+
+
+ECF No. 2-8. 36
+
+        Because McClung, the school’s Title IX coordinator, allegedly did not investigate,
+
+acknowledge or respond to this email, that “total-non-response constitutes deliberate
+
+indifference.” ECF No. 40 at 102-103 (citing Gebser v. Lago Vista Indep. Sch. Dist., 524 U.S.
+
+274, 290 (1998); Davis v. Monroe Cnty. Bd. of Educ., 526 U.S. 629, 650 (1999)). Further,
+
+plaintiffs argue, the School Board’s later ratification of Sherwood’s termination amounted to
+
+“retaliatory escalation” which “constitutes a materially adverse action under Burlington N. &
+
+Santa Fe Ry. Co. v. White, 548 U.S. 53 (2006).” Id.
+
+        The court finds that the amended complaint does not sufficiently allege facts to support
+
+the first prong of a Title IX retaliation claim—i.e., that Lauren Sherwood’s May 7, 2025, email
+
+was protected activity under the statute. “[F]or the first prong [of a Title IX retaliation claim],
+
+protected activity includes ‘oppositional conduct that is prompted by a reasonable belief that
+
+[a school] is not in compliance with its Title IX obligations.’” Karanik v. Cape Fear Acad.,
+
+Inc., 608 F. Supp. 3d 268, 287 (E.D.N.C. 2022)(quoting Lamb v. Liberty Univ., Inc., No. 6:21-
+
+cv-00055, 2022 WL 731526, at *3 (W.D. Va. Mar. 10, 2022)(unpublished)). “For example,
+
+protected activity includes ‘advocating against and reporting sexual harassment.’” Id., (quoting
+
+Feminist Majority, 911 F.3d at 694). Protected activity can also include “testifying in a
+
+proceeding, or otherwise participating in an investigation about discrimination,” Castro v. Yale
+
+Univ., 518 F. Supp. 3d 593, 611 (D. Conn. 2021), or “actively complaining or opposing alleged
+
+discrimination on the basis of sex under title IX.” Doe v. Dordt Univ., 616 F. Supp. 3d 872,
+
+
+36 The email is an exhibit to the Sherwoods’ original complaint. Because Sherwood relies on this exhibit in his
+
+amended complaint and its authenticity is not challenged, the court may consider this exhibit while ruling on
+the motions to dismiss. Epps, 2021 WL 4286603 at *2.
+
+
+                                                      52
+Case 7:25-cv-00821-MFU        Document 127 Filed 05/21/26            Page 53 of 67      Pageid#:
+                                         1713
+
+
+
+902 (N.D. Iowa 2022). This applies even where the complainant is speaking out against an
+
+educational institution’s treatment of another person. See Jackson v. Birmingham Bd. of
+
+Educ., 544 U.S. 167, 179 (2005)(“Where the retaliation occurs because the complainant speaks
+
+out about sex discrimination, the ‘on the basis of sex’ requirement is satisfied. The complainant
+
+is himself a victim of discriminatory retaliation, regardless of whether he was the subject of
+
+the original complaint.”)
+
+        Here, while the complaint alleges that Mrs. Sherwood’s email “opposed gender-based
+
+stereotyping and harassment flowing from the County’s portrayal of Mr. Sherwood’s
+
+‘inappropriate contact’ with female students,” ECF No. 40 at 102, a plain reading of the email
+
+does not show any opposition or complaint actionable under Title IX. ECF No. 2-8. “[I]n the
+
+event of conflict between the bare allegations of the complaint and any exhibit attached ... the
+
+exhibit prevails.” Shock v. Wells Fargo Bank, N.A., 721 F. Supp. 3d 398, 402 (E.D.N.C.
+
+2024)(quoting Goines v. Vallet Cmty. Servs. Bd., 822 F.3d 159, 165-66 (4th Cir. 2016)). The
+
+email appears to be an attendance note about two of the Sherwood children, with mention of
+
+their mental health and safety. It does not reference anything to do with gender-based
+
+stereotyping or harassment, nor does it mention Mr. Sherwood’s conduct, the investigation
+
+into him, nor does it raise any claims of Title IX discrimination. See ECF No. 2-8. This email,
+
+as provided, does not amount to an active complaint or an opposition to alleged discrimination
+
+on the basis of sex within the meaning of Jackson, 544 U.S. 167. Plaintiffs do not allege facts
+
+to support a reasonable inference that this was protected activity under Title IX.
+
+       Because Mrs. Sherwood’s email, as provided, is not protected activity under Title IX,
+
+the failure of Botetourt County Public Schools to conduct a Title IX investigation the
+
+
+
+                                               53
+Case 7:25-cv-00821-MFU         Document 127 Filed 05/21/26            Page 54 of 67     Pageid#:
+                                          1714
+
+
+
+attendance note is not retaliatory conduct. Nor was the School Board’s vote to terminate Mr.
+
+Sherwood from his position “retaliatory escalation.” The amended complaint fails to allege
+
+facts to support this Title IX claim.
+
+         Separately, plaintiffs allege that Sherwood’s treatment (presumably, his termination) by
+
+the School District was sex-based discrimination in violation of Title IX. As part of that
+
+argument, plaintiffs argue that the allegations against Mr. Sherwood were “untethered to
+
+evidence of misconduct,” that “[t]he Board’s and McClung’s refusal to provide a name-clearing
+
+hearing, while publicly endorsing that narrative, amplified the sex-based bias,” and that
+
+Sherwood’s arrest was made without “sworn probable-cause affidavits.” ECF No. 40 at 103.
+
+As discussed throughout this opinion, these claims are belied by (1) Sherwood’s nolo
+
+contendere plea to assault and battery arising from events at his work; (2) no alleged facts
+
+supporting an inference that the School Board publicly spoke on Sherwood’s charges; and (3)
+
+the fact that a sworn probable-cause affidavit was not required in the context of Sherwood’s
+
+misdemeanor case. See infra. Because this is the only support that plaintiffs offer regarding
+
+sex-based discrimination, Count XII is dismissed with respect to the Botetourt County School
+
+Board.
+
+         F.     Familial Association
+
+         In Count XIII, the Sherwoods raise another claim under 42 U.S.C. § 1983, asserting
+
+that their Fourteenth Amendment substantive due process rights to familial association were
+
+infringed. They raise this claim against defendants Lieutenant Hix, Sheriff Ward, Sgt. Bentley,
+
+ A.C.A. Lukacs, and C.A. Alexander in their individual capacities, and against the County and
+
+ School Board under a theory of Monell liability.
+
+
+
+                                                54
+Case 7:25-cv-00821-MFU         Document 127 Filed 05/21/26            Page 55 of 67      Pageid#:
+                                          1715
+
+
+
+        Broadly, plaintiffs allege that “[d]efendants, acting under color of state law, engaged in
+
+a coordinated course of conduct that foreseeably and directly destroyed the Sherwood’ family’s
+
+emotional, social, and relational integrity. By fabricating criminal charges without probable
+
+cause, publishing stigmatizing accusations of sexual misconduct, and orchestrating the
+
+termination of Mr. Sherwood’s employment, [d]efendants disrupted not only Mr. Sherwood’s
+
+life but the lives of his wife, Lauren Sherwood, and three daughters: Savannah Beckner,
+
+B.M.B., and H.M.B.” ECF No. 40 at 106.
+
+        Count XIII hinges on many of the same arguments that have been addressed elsewhere
+
+in this memorandum opinion. The facts alleged in the amended complaint—and the attached
+
+exhibits on which they rely—support a reasonable inference that there was probable cause for
+
+Sherwood’s arrest. See ECF No. 2-5 (warrants). Thus, plaintiffs’ continued assertion that there
+
+was no probable cause fails. Similarly, the facts alleged in the complaint support an inference
+
+that press coverage of Sherwood’s criminal proceedings emphasized that his alleged
+
+misconduct was not sexual in nature. ECF No. 40 at 18 (noting that the press release from the
+
+Sheriff’s Office specified that any touching “did not involve intimate areas”); 56 (C.A.
+
+Alexander stating that “there was no evidence to support charges of sexual assault”). Plaintiffs’
+
+reference to the publication of “stigmatizing accusations of sexual misconduct” again asks this
+
+court to read those statements and conclude the opposite. And while plaintiffs allege that
+
+Sherwood’s arrest and termination were part of a “coordinated” campaign, ECF No. 40 at 8,
+
+ 25, 36, 51, 60, et al., the amended complaint simply has not alleged facts to support that
+
+ conclusion. Count XIII, which depends on those assertions, fails to state a claim.
+
+
+
+
+                                               55
+Case 7:25-cv-00821-MFU             Document 127 Filed 05/21/26                 Page 56 of 67         Pageid#:
+                                              1716
+
+
+
+        Plaintiffs further allege the defendants’ silence in response to (1) Sherwood’s criminal
+
+defense counsel’s requests for sworn affidavits of probable cause; and (2) Mrs. Sherwood’s
+
+email to school administrators “requesting safety-related accommodations[;]” 37 “demonstrates
+
+deliberate indifference to the Sherwood daughters’ safety, emotional wellbeing, and
+
+educational environment.” ECF No. 40 at 107. To be sure, "the sanctity of the family unit is
+
+a fundamental precept firmly ensconced in the Constitution and shielded by the Due Process
+
+Clause of the Fourteenth Amendment." Reynolds v. Camp, No. 7:21-CV-00220, 2022 WL
+
+945330, at *6 (W.D. Va. Mar. 29, 2022)(quoting Hodge v. Jones, 31 F.3d 157, 163 (4th Cir.
+
+1994)). Here, plaintiffs allege no facts to support a theory that this right was infringed, only
+
+that “[g]overnment actions that ‘shock the conscience’ or deliberately disrupt family unity
+
+violate substantive due process,” and that “[d]efendants’ conduct—including fabricating
+
+criminal charges, suppressing exculpatory evidence, publicizing false accusations of sexual
+
+misconduct, and failing to protect the Sherwood daughters from foreseeable treatment—
+
+meets and exceeds this standard.” ECF No. 40 at 108.
+
+        The court acknowledges that these events affected the Sherwood family. But, as
+
+ written, the amended complaint fails to allege facts to support a reasonable inference that the
+
+ family’s substantive due process rights were violated. Count XIII is dismissed.
+
+        G.       Virginia Civil Conspiracy
+
+        In Count XIV, plaintiffs allege pursuant to Virginia Code §§ 18.2-499 and 18.2-500 that
+
+ defendants Thomas, Hix, Ward, Bentley, Lukacs, and Alexander conspired “to willfully and
+
+
+
+37 Plaintiffs allege that Mrs. Sherwood’s email stated “that the family’s daughters were experiencing harm as a
+
+result of the public accusations[.]” ECF No. 40 at 107 (citing ECF No. 2-8). The email, at ECF No. 2-8, does
+not say this. See infra.
+
+
+                                                      56
+Case 7:25-cv-00821-MFU        Document 127 Filed 05/21/26            Page 57 of 67      Pageid#:
+                                         1717
+
+
+
+maliciously injure…Sherwood … in his reputation, trade, business, and profession.” ECF No.
+
+40 at 110.
+
+       “It is well-settled that [the Virginia civil conspiracy statute] applies only ‘to business
+
+and property interests, not to personal or employment interests.’” Shirvinski v. U.S. Coast
+
+Guard, 673 F.3d 308, 321 (4th Cir. 2012)(quoting Andrews v. Ring, 266 Va. 311, 585 S.E.2d
+
+780, 784 (2003)). Sherwood alleges the latter. ECF No. 40 at 112 (alleging “injury to his
+
+reputation, trade, business, and profession,” specifically via his “loss of employment,
+
+diminished earning capacity, severe emotional stress, and long-term reputational damage.”)
+
+Thus, Count XIV fails to state a claim.
+
+       Further, Count XIV expressly relies on Sherwood’s arguments related to probable
+
+cause, “stigmatizing press releases and media statements,” defamation, the coordination of
+
+those statements with the school board, malicious prosecution, and the lack of probable cause
+
+documentation. For the reasons explained infra, Count XIV fails to state a claim and is
+
+dismissed. Further, because these claims of civil conspiracy are predicated on Sherwood’s
+
+alleged injuries alone, the Sherwood family cannot raise this claim on Sherwood’s behalf. This
+
+claim is dismissed with respect to plaintiffs Lauren Sherwood, Savannah Beckner, H.B. and
+
+B.B.
+
+       H.     Wrongful termination
+
+       Next, in Count XV, plaintiffs allege that Sherwood was wrongfully terminated from
+
+his position with Botetourt County Public Schools “in violation of the public policy exception
+
+recognized in Bowman v. State Bank of Keysville, 229 Va. 534[, 331 S.E. 2d 797] (1985).”
+
+ECF No. 40 at 113. Plaintiffs raise this claim against the School Board, alleging that ‘[t]his
+
+
+
+                                              57
+Case 7:25-cv-00821-MFU        Document 127 Filed 05/21/26            Page 58 of 67      Pageid#:
+                                         1718
+
+
+
+termination violated Virginia public policy by being based on the false imputation of criminal
+
+conduct.” Id.
+
+       Under Bowman, the Virginia Supreme Court has recognized an exception to the
+
+employment-at-will doctrine where an employer’s discharge of an employee violates
+
+established Virginia public policy. Bowman, 229 Va. 534 at 540. However, Sherwood does not
+
+cite to, and this court has not found, any support for the assertion that there is an established
+
+Virginia public policy against “discharging an at-will employee based on a false imputation of
+
+criminal conduct.” ECF No. 40 at 114.
+
+       If there were such a public policy, the amended complaint does not allege facts
+
+sufficient to support a reasonable inference that the School Board relied on ‘a false imputation
+
+of criminal conduct.’ Plaintiffs do not allege any statements from the School Board on the
+
+reasons for their vote. The only indication in the complaint about the reasoning behind the
+
+School Board’s termination decision is in the letters from Timothy McClung, which referenced
+
+“unprofessionalism when it comes to [Sherwood’s] interaction with female students on the
+
+school bus.” ECF No. 40 at 113 (citing ECF Nos. 2-2, 2-3). This assertion of
+
+‘unprofessionalism’ cannot reasonably be inferred to be “a false imputation of criminal
+
+conduct” where Sherwood alleges that he pled nolo contendere to charges of assault and
+
+battery arising from that conduct in the course of his employment. As discussed infra,
+
+Sherwood is judicially estopped from pleading that the criminal conduct to which he pled nolo
+
+contendere was falsely imputed to him.
+
+
+
+
+                                               58
+Case 7:25-cv-00821-MFU        Document 127 Filed 05/21/26           Page 59 of 67      Pageid#:
+                                         1719
+
+
+
+       Count XV does not state a claim and is dismissed. Because the Sherwood family cannot
+
+raise this Bowman claim on Sherwood’s behalf, this claim is dismissed with respect to plaintiffs
+
+Lauren Sherwood, Savannah Beckner, H.B. and B.B.
+
+       I.     Abuse of Process
+
+       In Count XVI, the Sherwoods raise an abuse of process claim against defendants
+
+A.C.A. Lukacs, C.A. Alexander, Sheriff Ward, and Lieutenant Hix in their individual capacities,
+
+presumably brought under Virginia law.
+
+       “To establish an abuse of process claim, a plaintiff must prove ‘(1) the existence of an
+
+ulterior purpose; and (2) an act in the use of the process not proper in the regular prosecution
+
+of the proceedings.’” Daniel Morgan Graduate Sch. of Nat'l Sec. v. Millis, No. 1:17-CV-00576,
+
+2018 WL 1915928, at *5 (E.D. Va. Apr. 23, 2018)(quoting Donohoe Const. Co., Inc. v. Mount
+
+Vernon Associates, 235 Va. 531, 539, 369 S.E. 2d 857, 862 (1988)).
+
+       In the amended complaint, plaintiffs allege that “[d]efendants misused the criminal
+
+process, specifically the twenty-five arrest warrants, officializing a press release from the
+
+Sheriff’s Office, the bond conditions, and the subsequent motion practice, for an ulterior
+
+purpose.” ECF No. 40 at 116 (cleaned up). That ulterior purpose, they argue “was to coerce
+
+[Sherwood] into accepting a plea agreement, punish him for asserting his constitutional rights,
+
+destroy his reputation, and justify the School Board’s termination decision, rather than to
+
+secure a conviction based on a lawful finding of probable cause.” Id. at 117.
+
+       As discussed infra, the facts as alleged and the warrants attached to the amended
+
+complaint at ECF No. 2-5 support a determination that probable cause existed where, as here,
+
+
+
+
+                                              59
+Case 7:25-cv-00821-MFU         Document 127 Filed 05/21/26            Page 60 of 67      Pageid#:
+                                          1720
+
+
+
+there is no allegation that an officer misled the magistrate. English, 90 F.4th at 648. The
+
+existence of probable cause is wholly inconsistent with plaintiffs’ alleged “ulterior motive.”
+
+       As to this claim, Raymond Sherwood has not sufficiently pled facts in the amended
+
+complaint to support an inference that the twenty-five warrants, the motion to revoke bond,
+
+and the public statements from the Sheriff’s Office and Prosecution were improper. See infra.
+
+Again, because the Sherwood family cannot raise this claim on Sherwood’s behalf, this fails to
+
+state a claim with respect to plaintiffs Lauren Sherwood, Savannah Beckner, H.B. and B.B.
+
+Accordingly, Count XVI is dismissed.
+
+       J.      Defamation Per Se and/or Defamation by Implication
+
+       The plaintiffs’ next three counts raise claims of defamation per se and/or defamation
+
+by implication against defendants Thomas (Count XVII), Ward and Bentley (Count XVIII)
+
+and Alexander (Count XIX).
+
+       Plaintiffs argue that defendants’ various statements directly (per se) and impliedly (by
+
+implication) defamed Sherwood. Specifically, the Sherwoods allege that Kasey Thomas
+
+“falsely reported [to school officials] that [Sherwood] had inappropriately touched minor
+
+students on the bus, knowing the conduct did not occur and that video evidence contradicted
+
+her claims.” ECF No. 40 at 119. Second, plaintiffs allege that Sheriff Ward and Sergeant
+
+Bentley “authored, approved, or disseminated” the May 6, 2025, Sheriff’s Office Press Release
+
+that “expressly and gratuitously associated Mr. Sherwood with accusations of sexual or
+
+indecent conduct toward minors.” Id. at 122. Even though the statement clarified that “the
+
+nature of the reported contact did not meet the statutory criteria for sexual battery,” plaintiffs
+
+allege that the “unnecessary reference [to the sexual battery statute] introduced sexualized
+
+
+
+                                               60
+Case 7:25-cv-00821-MFU         Document 127 Filed 05/21/26             Page 61 of 67       Pageid#:
+                                          1721
+
+
+
+connotations into the public narrative and falsely suggested that Mr. Sherwood’s conduct was
+
+of a sexual nature.” Id. Third, plaintiffs allege that on October 29, 2025, “[d]efendant
+
+Commonwealth’s Attorney John Alexander made extrajudicial statements to The Roanoke
+
+Times and WDBJ7 News” stating that Sherwood’s “touching verged on inappropriate,” that
+
+“there was no evidence to support charges of sexual assault,” and that “another factor taken
+
+into account was that Sherwood is no longer working as a school bus driver.” Id. at 125.
+
+Somehow, “these statements conveyed the false and stigmatizing implication that Mr.
+
+Sherwood engaged in sexual or morally inappropriate conduct toward minors—despite the
+
+absence of any judicial finding of guilt[.]” Id.
+
+       These allegations do not state a claim for defamation per se because the alleged
+
+statements are true. Truth is a complete defense to defamation. See, e.g. Alexandria Gazette
+
+Corp. v. West, 198 Va. 154, 159, 93 S.E.2d 274, 279 (1956) (“In Virginia both the truth and
+
+privilege are complete defenses in bar of any action for defamation, whether it be for common
+
+law slander or libel, or for insulting words.”). The defendants’ statements consistent with the
+
+facts alleged in the complaint, and Sherwood is judicially estopped from arguing otherwise.
+
+       Under the doctrine of judicial estoppel, all parties—including Sherwood—are
+
+precluded from intentionally adopting a position of fact that is inconsistent with a stance taken
+
+in a prior litigation that was accepted by the court. Lowery v. Stovall, 92 F.3d 219, 223-226
+
+(1996) (citing John S. Clark Co. v. Faggert & Frieden, P.C., 65 F.3d 26, 28-29 (4th Cir.
+
+1995)(“The purpose of the doctrine is to prevent a party from playing fast and loose with the
+
+courts, and to protect the essential integrity of the judicial process.”). Judicial estoppel applies
+
+when (1) a party is “seeking to adopt a [factual] position that is inconsistent with a stance taken
+
+
+
+                                                   61
+Case 7:25-cv-00821-MFU             Document 127 Filed 05/21/26                 Page 62 of 67         Pageid#:
+                                              1722
+
+
+
+in prior litigation,” (2) “the prior inconsistent position [was] accepted by the court,” and (3)
+
+the party to be estopped “intentionally misled the court to gain unfair advantage.” Id., (citing
+
+Allen v. Zurich Ins. Co., 667 F.2d 1162, 1167 (4th Cir. 1982)(the party must have successfully
+
+asserted a prior inconsistent position); Tenneco Chems. v. William T. Burnett & Co., Inc., 691
+
+F.2d 658, 664-65 (4th Cir. 1982)(the position must be one of fact, rather than one of legal
+
+theory; and the party must have intentionally misled the court); Teledyne Indus., Inc. v.
+
+N.L.R.B., 911 F.2d 1214, 1218 (6th Cir. 1990)(the prior position must have been accepted by
+
+the court)).38
+
+        In his criminal case, Sherwood pled nolo contendere to the assault and battery charge,
+
+which amounts to an admission of guilt under Virginia law. See Clauson, 29 Va. App. at 288.
+
+He had counsel when he made this plea. ECF No. 2-23 at 5. The Virginia Juvenile & Domestic
+
+Relations Court accepted Sherwood’s nolo contendere plea, Id. at 1-2. Because of Sherwood’s
+
+plea agreement with the government, he received the advantage of deferred dismissals on two
+
+of the counts against him, and the twenty-three other charges dismissed by nolle prosequi.
+
+ECF No. 40 at 25. Now, in his civil case, Sherwood wishes to change his tune and argue that
+
+
+38 Notably, courts will not apply judicial estoppel “when a party’s prior position was based on inadvertence or
+
+mistake.” John S. Clark Co., 65 F.3d at 28-29. Here, Sherwood alleges no facts in the amended complaint to
+suggest he had ineffective counsel in his criminal proceedings or that he did not understand the impact of the
+nolo contendere plea under Virginia law at the time he made it.
+
+When accepting a nolo contendere plea, “[t]he [c]ourt must … determine that such a plea is knowingly and
+voluntarily made.” United States v. Moussaoui, No. CR. 01-455-A, 2002 WL 1587025, at *1 (E.D. Va. July 9,
+2002). Virginia courts have held the same. Commonwealth v. Ayala, 99 Va. Cir. 374, 2018 WL 8261344
+(2018)(whether a defendant understands the impact of his plea agreement “should be explored with a defendant
+during the plea colloquy.”)
+
+To whatever extent Sherwood implies the argument that his nolo contendere plea was given without
+understanding its impact—and therefore judicial estoppel would not apply because the plea was unknowingly
+taken—this federal court must abstain from ruling on the proceedings Sherwood’s ongoing state criminal case.
+See infra. See also Younger, 401 U.S. 37.
+
+
+                                                      62
+Case 7:25-cv-00821-MFU         Document 127 Filed 05/21/26            Page 63 of 67      Pageid#:
+                                          1723
+
+
+
+the charges against him were false. He is judicially estopped from doing so. See Lowery, 92
+
+F.3d at 225 (finding that a civil plaintiff intentionally misled the court where, “after receiving
+
+the benefit of the plea bargain, [he] now wants to have it the other way.”)
+
+       Sherwood is therefore judicially estopped from arguing that Kasey Thomas’s statement
+
+to school officials that he “inappropriately touched minor students on the bus” was false. ECF
+
+No. 40 at 119. Sherwood pled no contest to assault and battery. Id. at 56. Assault and battery
+
+is inappropriate. As pled in the amended complaint, Thomas’s statements were not
+
+defamatory.
+
+        Similarly, plaintiffs’ claims of defamation per se with respect to the May 6-7, 2025,
+
+statements from the Sheriff’s Office and the October 29, 2025, statements to the press from
+
+the prosecution fail. The statements from the Sheriff’s Office that “the nature of the reported
+
+contact did not meet the statutory criteria for sexual battery,” that “parents reached out about
+
+inappropriate contact” and the incidents “were not hugs or high fives” are true and consistent
+
+with the factual allegations of the amended complaint. ECF No. 40 at 122-123. The same is
+
+true of the statements from C.A. Alexander that Sherwood’s “touching verged on
+
+inappropriate,” that “there was no evidence to support charges of sexual assault,” and that
+
+“another factor taken into account was that Sherwood is no longer working as a school bus
+
+driver.” Id. at 125. Plaintiffs therefore fail to state a claim for defamation per se because the
+
+statements at issue are true and consistent with the factual allegations of the amended
+
+complaint.
+
+        Plaintiffs also assert that the contested statements amount to defamation by
+
+implication. “Virginia law makes room for a defamation action based on a statement
+
+
+
+                                               63
+Case 7:25-cv-00821-MFU         Document 127 Filed 05/21/26            Page 64 of 67      Pageid#:
+                                          1724
+
+
+
+expressing a defamatory meaning ‘not apparent on its face[.]’” Pendleton v. Newsome, 290
+
+Va. 162, 172, 772 S.E.2d 759, 763 (2015). This claim is called defamation by implication, which
+
+is actionable where “the circumstances surrounding the making and publication of the
+
+statement … would reasonably cause the statement to convey a defamatory meaning to its
+
+recipients.” Id. At the motion to dismiss stage, “[a]llegations that such circumstances attended
+
+the making of the statement, with an explanation of the circumstances and the defamatory
+
+meaning allegedly conveyed, will suffice … if the court, in the exercise of its gatekeeping
+
+function, deems the alleged meaning to be defamatory.” Id. Thus, under Virginia law, for
+
+plaintiffs to allege defamation by implication, they must have alleged that circumstances
+
+surrounding the making and publication of the statement that would reasonably cause the
+
+statement to convey a defamatory meaning to its recipients.
+
+        In Counts XVIII and XIX, plaintiffs allege that the statements from the Sheriff’s Office
+
+in May 2025 and from the prosecution in October 2025 implied that Sherwood had engaged
+
+in sexual misconduct. Where Sheriff Ward and Sergeant Bentley expressly clarified that “the
+
+nature of the reported contact did not meet the statutory criteria for sexual battery,” plaintiffs
+
+allege that the implication of those statements is their exact opposite, and that Ward and
+
+Bentley “falsely suggested that Mr. Sherwood’s conduct was of a sexual nature.” ECF No. 40
+
+at 121-122. Plaintiffs also allege when C.A. Alexander stated to the press that that “there was
+
+no evidence to support charges of sexual assault,” he meant to imply the opposite. Id. at 125.
+
+The Sherwoods allege no circumstances surrounding the incident that would reasonably
+
+convey to a listener that Ward, Bentley, or Alexander were implying the opposite of what they
+
+said.
+
+
+
+                                               64
+Case 7:25-cv-00821-MFU             Document 127 Filed 05/21/26              Page 65 of 67           Pageid#:
+                                              1725
+
+
+
+        Plaintiffs also raise a defamation by implication claim with respect to defendant Kasey
+
+Thomas. In Count XVII, plaintiffs allege that Thomas’s report to school administrators “that
+
+Plaintiff inappropriately touched minor students on his bus,” and that this statement defamed
+
+Mr. Sherwood by implication. ECF No. 40 at 119. “[A]ny literal truth,” they argue, “was
+
+presented in a context that conveyed a false implication of criminal or sexual misconduct.” Id.
+
+at 119-120. Plaintiffs do not allege further factual circumstances about Thomas’s statement or
+
+that “context” that would convey sexual misconduct.
+
+        However, taking plaintiffs’ allegation as true, the court finds that such statement is
+
+subject to absolute immunity from tort liability as a statement ofType text
+                                                                   public   here under Virginia
+                                                                          concern
+
+Code § 8.01-223.2.39 Concerns about inappropriate touching from a school bus driver—a
+
+person in a position of public trust—are surely statements regarding a matter of public
+
+concern. See, e.g. Stultz v. Virginia, Dep't of Motor Vehicles, 203 F. Supp. 3d 711, 737 (W.D.
+
+Va. 2016), aff'd and remanded sub nom. Supinger v. Holcomb, 717 F. App'x 194 (4th Cir.
+
+2017)(“It is well settled that speech that ‘seek[s] to bring to light actual or potential wrongdoing
+
+
+
+
+39 Virginia Code § 8.01-223.2 reads:
+
+
+        A. A person shall be immune from tort liability if the tort claim is based solely on
+           statements (i) regarding matters of public concern that would be protected under the
+           First Amendment to the Constitution of the United States made by that person that are
+           communicated to a third party, (ii) made at a public hearing before, or otherwise
+           communicated to, the governing body of any locality or other political subdivision, or
+           the boards, commissions, agencies and authorities thereof, and other governing bodies
+           of any local governmental entity concerning matters properly before such body, (iii)
+           made at a Title IX hearing before the applicable tribunal of an institution of higher
+           education, or (iv) made by an employee against an employer where retaliatory action
+           arising from such statements is prohibited by § 40.1-27.3.
+
+        B. The immunity provided by this section shall not apply to any statements that the
+           declarant knew or should have known were false or were made with reckless disregard
+           for whether they were false.
+
+
+                                                   65
+Case 7:25-cv-00821-MFU         Document 127 Filed 05/21/26            Page 66 of 67      Pageid#:
+                                          1726
+
+
+
+or breach of public trust’ involves a matter of public concern”); Harless v. Nicely, 80 Va. App.
+
+678, 693, 900 S.E.2d 503, 511 (2024)(“[S]tatements [from employees of a school district] about
+
+[a high school football coach]'s alleged recruiting practices and his behavior around student
+
+athletes are certainly statements ‘regarding matters of public concern that would be protected
+
+under the First Amendment.’”). Thomas’s alleged report of inappropriate touching on the
+
+school bus to school authorities falls within the protection of the statute.
+
+       Based on the foregoing analysis, Counts XVII, XVIII and XIX are dismissed with
+
+respect to plaintiff Raymond Sherwood.
+
+       To whatever extent plaintiffs Lauren Sherwood, Savannah Beckner, H.B. and B.B. seek
+
+to assert these defamation claims, the court notes that “Under Virginia common law, a private
+
+individual asserting a claim of defamation first must show that the alleged defamatory
+
+statements are ‘of and concerning’ the plaintiff.” Vivera Pharms., Inc. v. Gannett Satellite Info.
+
+Network, LLC, 113 Va. Cir. 61, 2024 WL 5454693, at *3 (2024). The statements at issue in
+
+this case are “of and concerning” Raymond Sherwood only. As such, Counts XVII, XVIII,
+
+and XIX are dismissed with respect to his family.
+
+       K.      Civil RICO Placeholder
+
+       In Count XX, the Sherwoods “reserve the right to amend this Complaint to assert
+
+additional causes of action under the Racketeer Influenced and Corrupt Organizations Act
+
+(‘RICO’) … based on facts reasonably expected to be revealed through discovery.” ECF No.
+
+40 at 128.
+
+       Because all other counts in this amended complaint fail to state a claim under Federal
+
+Rule of Civil Procedure 12(b)(6), the court dismisses Count XX as moot.
+
+
+
+                                               66
+Case 7:25-cv-00821-MFU       Document 127 Filed 05/21/26         Page 67 of 67           Pageid#:
+                                        1727
+
+
+
+VII.   Conclusion
+
+       Based on the foregoing, Plaintiffs’ motion for a temporary restraining order, ECF No.
+
+4, is DISMISSED.
+
+       Defendants’ motions to quash, ECF Nos. 34, 36, 38, 41, and 44 are DISMISSED AS
+
+MOOT.
+
+       Plaintiffs’ motion to amend, ECF No. 93, is DENIED.
+
+       Defendants’ motions to dismiss, ECF Nos. 71, 76, 79, 82, 84 are GRANTED as to all
+
+counts, I through XX.
+
+                                                 Entered:    May 20, 2026
+                                                                   Michael F. Urbanski
+                                                                   U.S. District Judge
+                                                                   2026.05.20 13:52:15
+                                                                   -04'00'
+
+                                                 Michael F. Urbanski
+                                                 Senior United States District Judge
+
+
+
+
+                                            67
+

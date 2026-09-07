@@ -1,0 +1,526 @@
+       Case 1:26-cv-02341-LTS            Document 15      Filed 06/12/26      Page 1 of 10
+
+
+
+
+UNITED STATES DISTRICT COURT
+SOUTHERN DISTRICT OF NEW YORK
+
+JASON WIMBERLY,
+
+                            Plaintiff,
+                                                                 26-CV-2341 (LTS)
+                    -against-
+                                                                       ORDER
+VERIZON NEW YORK INC.,
+
+                            Defendant.
+
+LAURA TAYLOR SWAIN, Chief United States District Judge:
+
+       Plaintiff, proceeding pro se, has filed an “Emergency Motion for Temporary Restraining
+
+Order” requesting that the Court (1) enjoin Defendant Verizon New York, Inc., Plaintiff’s
+
+broadband internet service provider, from imposing various fees resulting from Plaintiff’s
+
+nonpayment for Defendant’s services; (2) direct Defendant to refund or credit those fees to
+
+Plaintiff; (3) enjoin Defendant from suspending service to Plaintiff based on outstanding
+
+balances that include nonpayment-related fees; and (4) direct Defendant to restore services to
+
+Plaintiff if or when services are suspended, without imposing a service restoration fee. (ECF 7 at
+
+41.)
+
+       The Court partially grants Plaintiff’s motion to seal exhibits (ECF 6), denies Plaintiff’s
+
+motion for a temporary restraining order (ECF 7 and 11), denies as premature Plaintiff’s motion
+
+for leave to effect service by a non-party representative (ECF 9), and grants Plaintiff’s motion for
+
+leave to exceed the word limit in his memorandum of law (ECF 8).
+
+                                          DISCUSSION
+
+A.     Motion to Seal
+
+       Both the common law and the First Amendment protect the public’s right of access to
+
+court documents. See Nixon v. Warner Comms., Inc., 435 U.S. 589, 597-99 (1978); Hartford
+         Case 1:26-cv-02341-LTS          Document 15         Filed 06/12/26      Page 2 of 10
+
+
+
+
+Courant Co. v. Pellegrino, 380 F.3d 83, 91-92 (2d Cir. 2004). This right of access is not
+
+absolute, and “the decision as to access [to judicial records] is one best left to the sound
+
+discretion of the trial court, a discretion to be exercised in light of the relevant facts and
+
+circumstances of the particular case.” Nixon, 435 U.S. at 599 (footnote omitted).
+
+         The United States Court of Appeals for the Second Circuit has established a three-part
+
+analysis to determine whether, under the common law, a document relating to a lawsuit should
+
+be made available to the public. See Lugosch v. Pyramid Co., 435 F.3d 110, 119-20 (2d Cir.
+
+2006).
+
+         First, the Court must determine whether the document at issue is indeed a “judicial
+
+document” to which the public has a presumptive right of access. Id. at 119. Judicial documents
+
+are those that are “relevant to the performance of the judicial function and useful in the judicial
+
+process.” Id. (internal quotation marks and citation omitted). Pleadings are considered judicial
+
+documents. Bernstein v. Bernstein Litowitz Berger & Grossman LLP, 814 F.3d 132, 140 (2d Cir.
+
+2016). Other non-pleading submissions can also be considered judicial documents. Giuffre v.
+
+Maxwell, 146 F.4th 165, 177-78 (2d Cir. 2025) (citation omitted). Non-pleading documents are
+
+judicial documents if they
+
+         would reasonably have the tendency to influence a district court’s ruling on a
+         motion or in the exercise of its supervisory powers, without regard to which way
+         the court ultimately rules or whether the document ultimately in fact influences
+         the court’s decision. [Footnote omitted.] Accordingly, if in applying these
+         standards, a court determines that documents filed by a party are not relevant to
+         the performance of a judicial function, no presumption of public access attaches.
+
+Brown v. Maxwell, 929 F.3d 41, 49 (2d Cir. 2019).
+
+         Second, the Court considers the weight of the presumption of access. Id. “[T]he weight to
+
+be given the presumption of access must be governed by the role of the material at issue in the
+
+
+
+
+                                                   2
+       Case 1:26-cv-02341-LTS           Document 15        Filed 06/12/26       Page 3 of 10
+
+
+
+
+exercise of Article III judicial power and the resultant value of such information to those
+
+monitoring the federal courts.” United States v. Amodeo, 71 F.3d. 1044, 1049 (2d Cir. 1995).
+
+       Third, “the court must balance competing considerations against” the presumption of
+
+access. Lugosch, 435 F.3d at 120 (internal quotation marks and citation omitted). “Such
+
+countervailing factors include but are not limited to the danger of impairing law enforcement or
+
+judicial efficiency and the privacy interests of those resisting disclosure.” Id. (internal quotation
+
+marks and citation omitted). “In any case in which some sealing of a judicial document is
+
+appropriate, the Second Circuit has directed that the Court should determine whether partial
+
+redaction of the private material is ‘a viable remedy,’ or whether the document presents ‘an all or
+
+nothing matter.’ Bernstein v. Bernstein Litowitz Berger & Grossmann LLP, No. 14-CV-6867
+
+(VEC), 2016 WL 1071107, at *4 (S.D.N.Y. Mar. 18, 2016) (quoting Amodeo, 71 F.3d 1044,
+
+1053), aff'd, 814 F.3d 132 (2d Cir. 2016).
+
+       Turning to Plaintiff’s motion to seal, the Court first considers whether the submitted
+
+documents are judicial documents. Plaintiff’s motion for preliminary injunctive relief, which
+
+relies on documents submitted in support of the motion, is a judicial document. Therefore, the
+
+exhibits submitted with his motion are also judicial documents because they are proffered in an
+
+effort to influence the Court’s decision as to whether to grant the motion.
+
+       As to the weight of the presumption of access to be accorded these submissions, it is
+
+substantial. A strong presumption of access attaches to documents used to determine litigants’
+
+substantive legal rights. Lugosch, 435 F.3d at 121 (citing Amodeo, 71 F.3d at 1049). Here,
+
+Plaintiff proffers these exhibits to support his assertions of the irreparable harm and likelihood of
+
+success on the merits required to show he is entitled to injunctive relief. As a result, these
+
+exhibits are crucial to evaluating and ruling on the motion for preliminary injunctive relief.
+
+
+
+                                                  3
+       Case 1:26-cv-02341-LTS            Document 15         Filed 06/12/26      Page 4 of 10
+
+
+
+
+        Plaintiff’s motion does not present countervailing factors that outweigh the presumption
+
+of access sufficiently to warrant sealing the documents in their entirety. In his motion, Plaintiff
+
+argues that the exhibits should be sealed because they contain personal financial information and
+
+protected health and medical information. 1 (ECF 6 at 3, ¶¶ 5(a) and (b).) Having reviewed the
+
+exhibits, the Court finds that redaction of certain material will suffice here. In Exhibits A (ECF
+
+6-1) and B (ECF 6-2), the only information that approximates financial account information is
+
+the account number for Plaintiff’s account with Defendant, which can be partially redacted to be
+
+consistent with Exhibits C (ECF 6-3) and D (ECF 6-4). In Exhibit B, redacting the names and
+
+
+
+        1
+          One case that Plaintiff cites in support of his application does not appear to exist, much
+less stand for the proposition for which Plaintiff cites it. Plaintiff cites to United States v.
+Chawla, 453 F. Supp. 3d 571 (E.D.N.Y. 2020) for the proposition that “appendices containing
+sensitive financial account numbers and personal identification data” were sealed. (ECF 6 at 5,
+¶ 7.) However, when the Court searched for that case using that citation, no case under that
+caption appeared. That citation instead leads to United States v. Bedi, 453 F. Supp. 3d 563
+(N.D.N.Y. 2020), rev’d and remanded, 15 F.4th 222 (2d Cir. 2021), an opinion and order in a
+civil enforcement action brought by the United States that did not discuss the sealing of
+documents at all. Courts have previously observed that a citation to a nonexistent case suggests
+that Plaintiff may have used a form of generative artificial intelligence (“gen AI”) to draft
+submissions to the Court and that gen AI hallucinated the phantom case citation. See Park v.
+Kim, 91 F.4th 610, 614 (2d Cir. 2024) (discussing case cited in a reply brief that the Second
+Circuit was unable to locate and attorney’s admission that the case was provided by ChatGPT).
+          The Court reminds and warns Plaintiff that all litigants are subject to Rule 11(b)(2) of the
+Federal Rules of Civil Procedure, which provides, in relevant part, that “[b]y presenting to the
+court a . . . motion . . . an attorney or unrepresented party certifies that to the best of the person’s
+knowledge, information, and belief, formed after an inquiry reasonable under the circumstances
+. . . the claims, defenses, and other legal contentions are warranted by existing law. . . ”
+(emphases added); see also Park, 91 F.4th at 615 (Rule 11 requires “read[ing], and thereby
+confirm[ing] the existence and validity of, the legal authorities” being relied on).
+       The Court notifies Plaintiff that violations of Rule 11(b) can result in sanctions under
+Rule 11 against pro se parties. See, e.g., Yaroshevsky v. Karlin, No. 25-CV-2747 (DG) (SDE),
+2026 WL 522624, at *8–*12 (E.D.N.Y. Feb. 23, 2026), report and recommendation adopted,
+No. 25-CV-02747 (DG) (SDE), 2026 WL 879292 (E.D.N.Y. Mar. 31, 2026) (imposing sanctions
+on pro se lay litigant). Thus, Plaintiff must verify all aspects of any proposed court submission,
+including the accuracy and pertinence of all citations, and runs the risk of sanctions if he fails to
+do so.
+
+                                                   4
+       Case 1:26-cv-02341-LTS            Document 15        Filed 06/12/26       Page 5 of 10
+
+
+
+
+email addresses of health care providers, and the specifics of medication names, and medical
+
+conditions or diagnoses would preserve both Plaintiff’s privacy interest in that data and the
+
+public’s access to the exhibits. Plaintiff has not shown, however, that his privacy interest, if any,
+
+in the outstanding balances owed to Defendant, the price of the transaction related to his medical
+
+condition, and his address outweigh the presumption of access and thus warrant redaction, much
+
+less complete sealing of the documents containing this data. 2
+
+        The Court therefore directs Plaintiff to redact Exhibits A and B (ECF 6-1 and 6-2) in the
+
+following manner, then resubmit the redacted versions within thirty days of the date of this
+
+order. Plaintiff must make the following redactions (i.e., render illegible the following specific
+
+information):
+
+        •   the first seven digits of Plaintiff’s account number wherever the account number
+            appears in Exhibit A (ECF 6-1);
+
+        •   names and email addresses of Plaintiff’s healthcare providers in Exhibit B (ECF 6-2);
+
+        •   names of any medications in Exhibit B (ECF 6-2); and
+
+        •   names of any medical conditions or diagnoses in Exhibit B (ECF 6-2).
+
+Plaintiff should title the redacted versions, “Redacted Exhibit A” and “Redacted Exhibit B”.
+
+Redacted Exhibit A and Redacted Exhibit B will be made available on the public docket; the
+
+unredacted versions will be placed under seal. If Plaintiff fails to submit the redacted versions of
+
+Exhibits A and B within the specified time limit, the Court will lift the restrictions on those
+
+exhibits, and they will be available electronically to the public in their entirety.
+
+        The Court directs the Clerk of Court to lift restrictions on Exhibits C and D (ECF 6-3 and
+
+6-4) after thirty days of the date of this order.
+
+
+        2
+         For example, pro se parties’ addresses are generally required to be disclosed. See, e.g.,
+Fed. R. Civ. P. 11(a).
+
+                                                    5
+       Case 1:26-cv-02341-LTS          Document 15         Filed 06/12/26      Page 6 of 10
+
+
+
+
+B.     Motion for Temporary Restraining Order
+
+       To obtain preliminary injunctive relief, Plaintiff must show: (1) that he is likely to suffer
+
+irreparable harm and (2) either (a) a likelihood of success on the merits of his case or
+
+(b) sufficiently serious questions going to the merits to make them a fair ground for litigation and
+
+a balance of hardships tipping decidedly in his favor. See UBS Fin. Servs., Inc. v. W.V. Univ.
+
+Hosps., Inc., 660 F.3d 643, 648 (2d Cir. 2011) (citation and internal quotation marks omitted);
+
+Wright v. Giuliani, 230 F.3d 543, 547 (2d Cir. 2000). Preliminary injunctive relief “is an
+
+extraordinary and drastic remedy, one that should not be granted unless the movant, by a clear
+
+showing, carries the burden of persuasion.” Moore v. Consol. Edison Co. of N.Y., Inc., 409 F.3d
+
+506, 510 (2d Cir. 2005) (internal quotation marks and citation omitted).
+
+               Irreparable Harm
+
+       Plaintiff’s submissions do not meet this burden because they do not show that Plaintiff is
+
+likely to suffer irreparable harm in the absence of preliminary injunctive relief. Showing
+
+irreparable harm requires Plaintiff to show that the harm is “imminent, not remote or
+
+speculative,” and the harm “must be one incapable of being fully remedied by monetary
+
+damages.” Reuters Ltd. v. United Press Intern., Inc., 903 F.2d 904, 907 (2d. Cir 1990) (internal
+
+citations omitted).
+
+       Here, Plaintiff’s submissions show that the alleged harm can be remedied without
+
+injunctive relief. For example, Plaintiff asserts that, before this action was commenced,
+
+Defendant restored service to Plaintiff twice. (Pl.’s Mem. L., ECF 7 at 10.) Furthermore,
+
+Plaintiff’s exhibits describe special payment arrangements and plans currently available to
+
+
+
+
+                                                 6
+       Case 1:26-cv-02341-LTS           Document 15        Filed 06/12/26       Page 7 of 10
+
+
+
+
+Plaintiff, such as a deferred payment plan for certain past due charges (ECF 10 at 3), and special
+
+protections from the suspension of service (id. at 2). 3
+
+               Likelihood of Success on Merits
+
+       Even if Plaintiff’s submissions showed the likelihood irreparable harm, they would be
+
+insufficient to support the issuance of injunctive relief because they do not show a likelihood of
+
+success on the merits or sufficiently serious questions going to the merits to make them a fair
+
+ground for litigation and a balance of hardships tipping decidedly in Plaintiff’s favor. Plaintiff
+
+asserts four causes of action under the following federal laws: Title III of the Americans with
+
+Disabilities Act (“ADA”), 42 U.S.C. § 12182; the Communications Act (“CA”), 47 U.S.C. §§
+
+201(b), 202(a), and (207); the Equal Credit Opportunity Act (“ECOA”), 15 U.S.C. §§ 1691 et
+
+seq.; and Section 504 of the Rehabilitation Act (“RA”), 29 U.S.C. § 794. 4
+
+       Plaintiff’s submissions are insufficient to show that he is likely to succeed on the merits
+
+of his claims under the ADA and RA for several reasons. First, Plaintiff pleads that Defendant
+
+suspended its services because Plaintiff’s nonpayment (ECF 1 at 6, ¶ 23; ECF 7 at 10; see also
+
+ECF 6-1, 6-3, and 6-4), which does not show that Defendant suspended or otherwise denied
+
+services to Plaintiff based on his alleged disability. Cf. Henrietta D. v. Bloomberg, 331 F.3d 261,
+
+277 (2d Cir. 2003) (“[T]he demonstration that a disability makes it difficult for a plaintiff to
+
+access benefits that are available to both those with and without disabilities is sufficient to
+
+
+
+       3
+         Exhibits submitted in support of the motion include a summary of Defendant’s policies,
+procedures, services, and programs, entitled “Customer rights and responsibilities”, which are
+relevant to claims raise in Plaintiff’s motion and complaint. (ECF 10.)
+       4
+        Plaintiff also asserts five causes of action under state and city law: the Affordable
+Broadband Act, N.Y. Gen. Bus. L. § 399-zzzzz; the FAIR Act, N.Y. Gen. Bus. L. § 349; New
+York State Human Rights Law, N.Y. Exec. Law § 296; and New York City Human Rights Law,
+N.Y.C. Admin. Code § 8-807. If Plaintiff has stated any claims under federal law, the Court
+would determine whether to exercise supplemental jurisdiction of the state and local law claims.
+
+                                                  7
+       Case 1:26-cv-02341-LTS             Document 15         Filed 06/12/26        Page 8 of 10
+
+
+
+
+sustain a claim for a reasonable accommodation.”). Second, Plaintiff alleges that, in March 2026,
+
+Plaintiff asked Defendant for more time to pay the minimum amount needed to restore service
+
+(ECF 1 at 6–7, ¶¶ 23–27)—which Plaintiff himself describes as “an accommodation . . .
+
+necessitated by a disability-related medical expense” (id. at 7, ¶ 27)—but this request for more
+
+time to pay his bill does not relate to his disability; it relates to his inability to pay his bill. See
+
+e.g., Soshinsky v. First Unum Life Ins. Co., 4 Fed. Appx. 113, 114 (2d Cir. 2001) (affirming
+
+summary judgment rejecting ADA claim because an insurance policy distinguishing between the
+
+causes of a disability, e.g., sickness versus injury, is not discrimination on the basis of disability);
+
+Jordan v. Chase Manhattan Bank, 91 F. Supp. 3d 491, 507 (S.D.N.Y. 2015) (“[N]o provision of
+
+federal law requires . . . entities to treat disabled persons more favorably than non-disabled
+
+persons . . . [or] require defendants to postpone or forego [] foreclosure” based on disability, but
+
+instead requires entities “to place disabled persons on equal footing with similarly situated non-
+
+disabled persons—no worse, and no better.”); Rodriguez v. Westhab, Inc., 833 F. Supp. 425, 427
+
+(S.D.N.Y. 1993) (“the [Americans with] Disabilities Act and the Fair Housing Act bar
+
+discrimination because of disability, but they do not bar eviction or other declination to deal with
+
+a person because of that person’s inability to meet reasonable requirements of a provider
+
+(regardless of cause of such inability).”).
+
+        Third, Plaintiff concedes that the various nonpayment-related fees are facially neutral (id.
+
+at 8, ¶ 31, at 12, ¶ 52) and “are applied uniformly across [Defendant’s] subscriber base” (id. at 8,
+
+¶ 31) based on nonpayment—regardless of a subscriber’s disability. Finally, Plaintiff’s exhibits
+
+describe Defendant’s various programs for relief based on medical emergency and disability
+
+(ECF 10), and thus seemingly undercut the merits of Plaintiff’s ADA cause of action, i.e., by
+
+
+
+
+                                                     8
+       Case 1:26-cv-02341-LTS           Document 15         Filed 06/12/26      Page 9 of 10
+
+
+
+
+raising fair grounds for questioning whether Plaintiff’s requested accommodation was
+
+reasonable.
+
+       Even if Plaintiff were to have carried his burden, under Rule 65 of the Federal Rules of
+
+Civil Procedure, the Court would still be unable to grant this relief ex parte. The rule authorizes
+
+courts to issue a temporary restraining order only if “specific facts . . . clearly show that
+
+immediate and irreparable injury, loss, or damage will result to the movant before the adverse
+
+party can be heard in opposition” and the movant “certifies in writing any efforts made to give
+
+notice and the reasons why it should not be required.” Fed. R. Civ. P. R. 65(b)(1). Plaintiff has
+
+not proffered that he reached out to Defendant or that he would be irreparably harmed before
+
+opposition could be heard. Plaintiff misplaces his reliance on Henrietta D. because that
+
+injunction was a permanent one, entered after a bench trial. Id., 331 F.3d at 264–65. Rule
+
+65(b)(1) therefore did not apply in Henrietta D. The Court thus cannot grant this relief ex parte.
+
+       Accordingly, Plaintiff’s motion for a temporary restraining order (ECF 6–7, 10–12) is
+
+denied. 5 The Court will fully address Plaintiff’s complaint in due course.
+
+                                          CONCLUSION
+
+       The Court grants Plaintiff’s motion to seal, ECF 6, to the extent that he is directed to
+
+redact the portions of ECF 6-1 and 6-2 as described earlier in this order and resubmit the
+
+redacted versions for public filing, titling them as Redacted Exhibit A and Redacted Exhibit B,
+
+within thirty days of the of the date of this order. The Court directs the Clerk of Court to place
+
+
+
+       5
+         Plaintiff asserts that he seeks prohibitory, not mandatory, injunctive relief, and thus need
+not meet the higher standard of a clear or substantial likelihood of success. This argument,
+however, conflicts with his request for an order that, among other things, directs Defendant to
+“permanently refund or credit” the various fees “to his account” (Pl. Mem. L., ECF 7 at 41),
+which is in the nature of mandatory relief. Because Plaintiff has not shown even a likelihood of
+success on the merits, Plaintiff is not entitled to injunctive relief on this record.
+
+                                                   9
+      Case 1:26-cv-02341-LTS            Document 15        Filed 06/12/26       Page 10 of 10
+
+
+
+
+under seal the unredacted versions of ECF 6-1 and 6-2 and make the redacted versions of ECF 6-
+
+1 and 6-2 available on the public docket upon receipt thereof. The Clerk of Court is directed to
+
+lift the restrictions on ECF 6-3 and 6-4 after thirty days of the date of this order.
+
+         The Court grants Plaintiff’s motion for leave to file his memorandum of law in excess of
+
+the word limit, ECF 8.
+
+         The Court denies Plaintiff’s motion for leave for a nonparty representative to serve
+
+summons and complaint, ECF 9, as premature without prejudice to renewal if necessary.
+
+         The Court denies Plaintiff’s motion for a temporary restraining order, ECF 11, for the
+
+foregoing reasons.
+
+         The Court directs the Clerk of Court to terminate these motions on the docket.
+
+         The Court certifies under 28 U.S.C. § 1915(a)(3) that any appeal from this order would
+
+not be taken in good faith, and therefore in forma pauperis status is denied for the purpose of an
+
+appeal. Cf. Coppedge v. United States, 369 U.S. 438, 444-45 (1962) (holding that an appellant
+
+demonstrates good faith when he seeks review of a nonfrivolous issue).
+
+SO ORDERED.
+
+Dated:     June 12, 2026
+           New York, New York
+
+                                                        /s/ Laura Taylor Swain
+                                                              LAURA TAYLOR SWAIN
+                                                           Chief United States District Judge
+
+
+
+
+                                                  10
+

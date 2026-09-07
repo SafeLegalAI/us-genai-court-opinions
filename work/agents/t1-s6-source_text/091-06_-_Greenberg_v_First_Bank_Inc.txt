@@ -1,0 +1,247 @@
+Greenberg v. First Bank, Inc., 2026 WL 638479 (2026)
+
+
+
+
+                                         2026 WL 638479 (Cal.Super.) (Trial Order)
+                                                 Superior Court of California,
+                                                       Civil Division,
+                          South District, Governor George Deukmejian Courthouse, Department S27.
+                                                    Los Angeles County
+
+                                                Jack GREENBERG, et al.,
+                                                     v.
+                                FIRST BANK, INC., Successor of Queen City Bank.
+
+                                                       No. 25PSCV02072.
+                                                       February 17, 2026.
+
+                                                          *1 8:30 AM
+                                                  Judicial Assistant: B. Viola
+                                                Courtroom Assistant: B. Jones
+                                                          CSR: None
+                                                          ERM: None
+                                                     Deputy Sheriff: None
+                  Editor's Note: This document contains discussion of unverified citations, likely generated
+                 by AI tools used by a party or counsel. These citations are not attributable to the Court. The
+                unverified citations have been preserved as part of the official record, but links are unavailable.
+
+
+                                                              Order
+
+
+Michael J. Hemming (Telephonic), for plaintiff(s).
+
+Jeffrey B Kirschenbaum (Telephonic), for defendant(s).
+
+                                                Honorable Mark C. Kim, Judge.
+
+NATURE OF PROCEEDINGS: Hearing on Motion for Summary Judgment
+
+Matter is called for hearing.
+
+The Court reads and considers all papers and hears oral argument.
+
+Tentative ruling is adopted as follows:
+
+Defendant First Bank, Inc. moves for summary judgment. Defendant argues that its evidence establishes that the certificates of
+deposit Plaintiffs claim it owes were repaid not less than seven years ago. Defendant argues that its records show that Plaintiffs
+do not have an open account and records and that the records are sufficient to show Plaintiffs' deposits were repaid. Plaintiffs
+oppose the motion, arguing that Defendant's argument that it has no records of the CDs does not prove that the CDs were repaid.
+
+
+                                                      1. Background Facts
+
+
+
+
+ WESTLAW           © 2026 Thomson Reuters. No claim to original U.S. Government Works.                                         1
+Greenberg v. First Bank, Inc., 2026 WL 638479 (2026)
+
+
+Plaintiffs Jack and Barbara Greenberg filed their Complaint against Defendant First Bank, Inc. as successor of Queen City Bank
+on June 5, 2025. The Complaint alleges that Plaintiffs purchased certificates of deposit (“CDs”) which Defendant refused to
+pay when the certificates matured on March 1, 2024. Plaintiffs allege the principal and interest Defendant owes on the five
+CDs is $510,817.09.
+
+
+                                              2. Motion for Summary Judgment
+
+                                              a. Burdens on Summary Judgment
+
+Summary judgment is proper “if all the papers submitted show that there is no triable issue as to any material fact and that
+the moving party is entitled to judgment as a matter of law.” (Code Civ. Proc. §437c(c).) Where a defendant seeks summary
+judgment or adjudication, he must show that either “one or more elements of the cause of action, even if not separately pleaded,
+cannot be established, or that there is a complete defense to that cause of action.” (Id. at §437c(o)(2).) A defendant may satisfy
+this burden by showing that the claim “cannot be established” because of the lack of evidence on some essential element of
+the claim. (Union Bank v. Superior Court (1995) 31 Cal.App.4th 574, 590.) Once the defendant meets this burden, the burden
+shifts to the plaintiff to show that a “triable issue of one or more material facts exists as to that cause of action or defense
+thereto.” (Ibid.)
+
+The moving party bears the initial burden of production to make a prima facie showing that there are no triable issues of material
+fact. (Aguilar v. Atlantic Richfield Co. (2001) 25 Cal.4th 826, 850.) A defendant moving for summary judgment must show
+either (1) that one or more elements of the cause of action cannot be established or (2) that there is a complete defense to that
+cause of action. (Id. at §437c(p).) A defendant may discharge this burden by furnishing either (1) affirmative evidence of the
+required facts or (2) discovery responses conceding that the plaintiff lacks evidence to establish an essential element of the
+plaintiff's case. If a defendant chooses the latter option, he or she must present evidence “and not simply point out that plaintiff
+does not possess and cannot reasonably obtain needed evidence....” (Aguilar, supra, 25 Cal.4th at 865-66.)
+
+ *2 [A] defendant may simply show the plaintiff cannot establish an essential element of the cause of action “by showing that
+the plaintiff does not possess, and cannot reasonably obtain, needed evidence.” (Id. at p. 854.) Thus, rather than affirmatively
+disproving or negating an element (e.g., causation), a defendant moving for summary judgment has the option of presenting
+evidence reflecting the plaintiff does not possess evidence to prove that element. “The defendant may, but need not, present
+evidence that conclusively negates an element of the plaintiff's cause of action. The defendant may also present evidence that
+the plaintiff does not possess, and cannot reasonably obtain, needed evidence—as through admissions by the plaintiff following
+extensive discovery to the effect that he has discovered nothing” to support an essential element of his case. (Aguilar, supra,
+at p. 855.) Under the latter approach, a defendant's initial evidentiary showing may “consist of the deposition testimony of
+the plaintiff's witnesses, the plaintiff's factually devoid discovery responses, or admissions by the plaintiff in deposition or in
+response to requests for admission that he or she has not discovered anything that supports an essential element of the cause of
+action.” (Lona v. Citibank, N.A., supra, 202 Cal.App.4th at p. 110.) In other words, a defendant may show the plaintiff does not
+possess evidence to support an element of the cause of action by means of presenting the plaintiff's factually devoid discovery
+responses from which an absence of evidence may be reasonably inferred. (Scheiding v. Dinwiddie Construction Co. (1999)
+69 Cal.App.4th 64, 83.)
+
+Thus, a moving defendant has two means by which to shift the burden of proof under the summary judgment statute: “The
+defendant may rely upon factually insufficient discovery responses by the plaintiff to show that the plaintiff cannot establish
+an essential element of the cause of action sued upon. [Citation.] [Or a]lternatively, the defendant may utilize the tried and
+true technique of negating (‘disproving’) an essential element of the plaintiff's cause of action.” (Brantly v. Pisaro (1996) 42
+Cal.App.4th 1591, 1598; Leyva v. Garcia (2018) 20 Cal.App.5th 1095, 1103.)
+
+Until the moving defendant has discharged its burden of proof, the opposing plaintiff has no burden to come forward with any
+evidence. Once the moving defendant has discharged its burden as to a particular cause of action, however, the plaintiff may
+
+
+
+ WESTLAW           © 2026 Thomson Reuters. No claim to original U.S. Government Works.                                           2
+Greenberg v. First Bank, Inc., 2026 WL 638479 (2026)
+
+
+defeat the motion by producing evidence showing that a triable issue of one or more material facts exists as to that cause of
+action. (Code Civ Proc. §437c(p)(2).) On a motion for summary judgment, the moving party's supporting documents are strictly
+construed and those of his opponent liberally construed and doubts as to the propriety of summary judgment should be resolved
+against granting the motion. (D'Amico v. Board of Medical Examiners (1974) 11 Cal.3d 1, 21.) Additionally, a defendant's
+motion for summary judgment or summary adjudication “necessarily includes a test of the sufficiency of the complaint” and
+its legal effect is the same as a demurrer or motion for judgment on the pleadings. (American Airlines, Inc. v. County of San
+Mateo (1996) 12 C4th 1110, 1118). When a motion for summary judgment is used to test whether the complaint states a cause of
+action, the court must accept the allegations of the complaint as true. It cannot consider facts alleged in opposing declarations.
+(Id.) b. Parties' Positions
+
+Defendant moves for summary judgment on the grounds that Plaintiffs cannot meet their burden of proving nonpayment.
+Defendant argues that it conducted searches of its core data to determine whether Plaintiffs had an account with First Bank
+that was still open. First Bank acquired Queen City Bank, the bank that originally issued the CDs, and its liabilities. Defendant
+argues that under relevant banking regulations, both the Queen City Bank and Defendant would have been required to maintain
+account records for seven years after an account closed before the records would have been destroyed. Defendant argues that
+Plaintiffs are unable to carry their burden that a triable issue of material fact remains over whether Defendant failed to pay
+the CDs. Defendant also argues that the circumstantial evidence supports a finding that the first four CDs had already been
+paid because each certificate was intended to replace the prior certificates. Defendant finally argues that Plaintiff cannot raise
+a triable issue of material fact remains as to Defendant's laches defense because Plaintiffs unreasonably delayed redeeming the
+CDs by waiting 38 years to redeem the CDs.
+
+ *3 In opposition, Plaintiffs argue that because they still possess all five original, uncancelled CDs, a presumption of
+nonpayment automatically applies under Comm. Code § 3104(j) and Evid. Code § 635. Plaintiffs also argue that triable issues
+of material fact remain over whether the CDs were ever paid, surrendered, cancelled, or rolled over. Plaintiffs further argue
+that banks in the 1980s wrote non-negotiable on CDs to mean that the interest rate was fixed, not that there was a contractual
+obligation to repay.
+
+In reply, Defendant argues that Plaintiffs fail to establish that the certificates are admissible because they failed to lay an
+evidentiary foundation. Additionally, Defendant alleges Plaintiffs cited a non-existent, AI-generated case, Mitchell v. Bank of
+America (1928) 89 Cal.App. 467, 471-472, to prove that an essential feature of a CD is the requirement of surrender at maturity.
+Defendant further alleges that Plaintiffs' counsel cited cases that do exist but do not stand for the propositions for which they
+are cited, including People v. Wharton (1991) 53 Cal.3d 522 and AARTS Productions, Inc. v. Crocker Nat'l Bank(1986) 179
+Cal.App.3d 1061. Defendant argues that Plaintiffs admitted to rolling over their initial deposit into successive certificates of
+deposit. Defendant also argues that its evidence shows that it does not owe money to Plaintiffs. Finally, Defendant argues that
+Plaintiff's argument about 1980s banking practices is unsupported in fact and law.
+
+
+                                                   c. Evidentiary Objections
+
+Plaintiffs object to the declaration of Mandi Willis. Objections 1-5 are OVERRULED. Plaintiffs object to the declaration of
+Jeffrey Kirshenbaum. Objections 1-8 are OVERRULED.
+
+
+                                                         d. Discussion
+
+Defendants argue that Plaintiffs cannot meet their burden of proving each element of their cause of action for breach of contract
+because they cannot meet their burden of proving nonpayment. “[T]he elements of a cause of action for breach of contract are
+(1) the existence of the contract, (2) plaintiff's performance or excuse for nonperformance, (3) defendant's breach, and (4) the
+resulting damages to the plaintiff.” (Thrifty Payless, Inc. v. The Americana at Brand, LLC (2013) 218 Cal.App.4th 1230, 1244.)
+
+
+
+
+ WESTLAW           © 2026 Thomson Reuters. No claim to original U.S. Government Works.                                         3
+Greenberg v. First Bank, Inc., 2026 WL 638479 (2026)
+
+
+Here, Defendants argue that the evidence supports a finding that it did not breach the contracts at issue by failing to pay the
+CDs. Defendant relies on the declaration of its Director of Operations, Mandi Willis, who declares the Defendant's deposits and
+withdrawals are recorded on a cre data system through a central processing system that tracks transaction in real time. (Willis
+Decl., ¶4.) When Defendant acquired Queen City Bank, the entity that allegedly issued the CDs, the records of deposits for
+that institution were merged into First Bank's core data. (Id., ¶¶5-6.) Willis performed searches of the core data to determine
+whether Plaintiffs have an account with First Bank that is still open and found no records. (Id., ¶7.) If Plaintiffs had an account
+that closed within the last seven years, Willis would have discovered those records through the search she performed. (Id., ¶8.)
+Defendant also provides a declaration from its counsel, who declares that there is no record that any funds owned by Plaintiffs
+were remitted to the Controller's Office by Queen City Bank or Defendant. (Kirschenbaum Decl., ¶16.)
+
+Defendant essentially asks the Court to grant summary judgment because Plaintiffs cannot prove that it failed to pay the CD.
+Defendant's argument is based on the fact that its core data does not show that Plaintiffs had an open account. However,
+“pointing out the absence of evidence to support a plaintiff's claim is insufficient to meet the moving defendant's initial burden of
+production.” (Gaggero v. Yura (2003) 108 Cal.App.4th 884, 891.) “The defendant must also produce evidence that the plaintiff
+cannot reasonably obtain evidence to support his or her claim.” (Id.) Here, pointing to Defendant's own records alone is not
+sufficient to show that Plaintiff cannot prove that Defendant failed to pay the CDs. It would not be reasonable to infer from the
+search of Defendant's core data alone that Plaintiffs cannot reasonably obtain evidence to support their claim.
+
+ *4 Gabriel v. Wells Fargo Bank, N.A. (2010) 188 Cal.App.4th 547, which both parties discuss at length, is instructive. There,
+a widow discovered a certificate of deposit purchased in 1988 by her late husband which stated it was not transferable or
+negotiable and that presentation of the certificate was not required to withdraw funds. (Gabriel, supra, 188 Cal.App. 4th at
+p. 551.) The bank moved for summary judgment, presenting evidence that there were no records that the CD account or the
+savings account where the money from the CD was to be deposited were still open or how much money was in them when they
+were open. (Id., at p. 553.) Additionally, there were no records that any unclaimed funds from either account were transferred
+to the State Controller's office as unclaimed property. (Id.) The Bank further produced evidence that it issued a federal tax form
+to its customers each year listing all interest earned for each tax year. (Id.) The bank had no records for the savings account
+or CD account. (Id.) The bank also presented the widow's deposition testimony wherein she testified that her husband was
+solely responsible for their finances, that she did not discuss financial matters, that she had no personal knowledge of the CDs,
+that she did not know of the accounts' existence until after the husband's death, and that she disposed of their banking records
+without looking at them. (Id., at p.552.) Here, Defendant relies solely on the absence of records in its core database and the fact
+that no funds have been transferred to the State Controller's Office to show that Plaintiffs cannot prove nonpayment. Unlike
+in Gabriel, where the plaintiff was a widow who had no knowledge of the CDs and no records to prove whether or not her
+deceased husband had withdrawn the funds, Plaintiffs themselves obtained the CDs and thus have personal knowledge to testify
+whether or not they withdrew those funds. Additionally, unlike in Gabriel, where Wells Fargo was the only bank that issued
+the CDs there throughout their existence, here, the records were transferred from Queen City Bank to Defendant. There is no
+evidence of whether or not Plaintiffs' account with Queen City Bank was open or whether that data was included with the core
+data that merged with Defendant's core data at the time Defendant acquired Queen City Bank in 1996. It is not reasonable to
+infer from Defendant's search of its own records alone that Plaintiffs cannot find other evidence that the records exist elsewhere.
+Therefore, Defendant fails to meet its burden on summary judgment of proving Plaintiffs cannot prove an element of their claim
+for breach of contract. The Court need not reach the parties' remaining arguments pertaining to Evidence Code § 635.
+
+
+                                                          3. Conclusion
+
+Defendant's motion for summary judgment is DENIED.
+
+The Motion for Summary Judgment filed by First Bank, Inc., successor of Queen City Bank on 11/12/2025 is Denied.
+
+Hearing on Motion for Sanctions re imposition of sanctions against Plaintiffs' counsel and referral to state bar for disciplinary
+action is scheduled for 04/28/26 at 08:30 AM in Department S27 at Governor George Deukmejian Courthouse.
+
+
+ WESTLAW           © 2026 Thomson Reuters. No claim to original U.S. Government Works.                                            4
+Greenberg v. First Bank, Inc., 2026 WL 638479 (2026)
+
+
+
+
+Defense is to submit Motion for Sanctions by February 27, 2026. Opposition is to be filed by March 20, 2026. Reply is to be
+filed by April 3. 2026.
+
+Defense is to give notice.
+
+
+
+End of Document                                               © 2026 Thomson Reuters. No claim to original U.S. Government Works.
+
+
+
+
+ WESTLAW           © 2026 Thomson Reuters. No claim to original U.S. Government Works.                                         5
+

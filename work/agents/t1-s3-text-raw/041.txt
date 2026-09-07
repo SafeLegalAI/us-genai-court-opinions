@@ -1,0 +1,173 @@
+United States District Court
+District of Massachusetts
+Richard A. Cole,
+Plaintiff,
+V . Civil Action No .
+25-10216-NMG
+Midland States Bank, et al . ,
+Defendants.
+MEMORANDUM & ORDER
+GORTON , J.
+This case arises from the complaint of prose plaintiff
+Richard A. Cole ("plaint iff" or "Cole" ) alleging that defendants
+Midland States Bank ("the Bank" ) and Midland States Bancorp,
+lnc . ("Bancorp" ) (collectively, "defendants" ) violated his
+rights under t he Electronic Funds Transfer Act , 15 U. S . C. §1693
+et seq . ("EFTA" ) , and several state laws . Defendants have filed
+a motion to dismiss the complaint (Docket No . 19) and, for the
+following reasons , that motion will be allowed .
+I . Background
+The Ban k is a financial institution and wholly- owned
+subsidiary of Bancorp . In August , 2023 , Cole and his son
+Jonathan Cole (" Jonathan" ) both opened bank accounts at the
+Bank .
+- 1-
+Case 1:25-cv-10216-NMG Document 30 Filed 06/01/26 Page 1 of 7In March , 2024 , a $4 , 000 deposit was credited to Jonathan ' s
+account at the Bank . Despi te the funds showing as available ,
+the Bank denied each of Jonathan' s seven attempts to transfer
+money to Cole' s account , providing no explanation for its
+denials . Cole alleges that the funds were intended to pay for
+his medical expenses and that the Bank' s failure to execute the
+transfers as requested resulted in financial losses .
+Cole and Jonathan then sent 30- day demand letters to
+Bancorp seeking relief under M.G. L. ch . 93A ("Chapter 93A" )
+Bancorp refused the demand and plaintiff filed the pending
+l awsuit in February, 2025 . Defendants filed their motion to
+dismiss in January, 2026, and plaintiff timely opposed .
+II . Motion to Dismiss
+A . Legal Standard
+Defendants have moved to dismiss the complaint under
+fed . R.Civ . P. 12(b) (6) . To survive a motion to dismiss pursuant
+o Rule 12(b) (6) , plaintiff must state a claim for relief that
+i s actionable as a matter of law and plausible on its face .
+Ashcroft v . Iqbal , 556 U. S . 662 , 678 (2009) . A claim is
+facially plausible if, after accepting as true all non-
+conclusory factual allegations , the court can draw the
+ceasonable inference that the defendant i s liable . Ocasio-
+Hernandez v . Fortuno- Burset , 640 F. 3d 1, 12 (1st Cir . 2011)
+-2-
+Case 1:25-cv-10216-NMG Document 30 Filed 06/01/26 Page 2 of 7B . Application
+Defendants first move to dismiss the complaint as to
+Bancorp on the grounds that Cole alleges misconduct only by the
+Bank, not the parent corporation . Cole responds that Bancorp
+exercises control over the Bank, illustrated by the fact that a
+Bank represent ative responded to an email he directed to
+Bancorp' s President .
+Defendants are correct . Parent corporations generally are
+no. liable for the acts of their subsidiaries . United States v .
+Bestfoods , 524 U. S . 51 , 61 (1998) . Plaintiff' s allegation
+regarding his email communications is insufficient to show
+otherwise , and the claims against Bancorp will be dismissed.
+The remaining claims against the Bank are analyzed in turn .
+1 . Count I : EFTA
+The Bank moves to dismiss the EFTA claims on the grounds
+that 1) Cole is not a " consumer" under the EFTA, 2) the alleged
+failed transfers do not give rise to an EFTA claim and 3) Cole
+has alleged no actual damages .
+The Court agrees that Cole is not a "consumer" for purposes
+of the EFTA provision upon which he relies . The EFTA provides
+that , under certain circumstances , a financial institution will
+be liable to a consumer for failing to execute an electronic
+fund transfer "when properly instructed to do so by the
+consumer . " 15 U. S . C. § 1693h(a) (1) (emphasis added) ; see also
+- 3-
+Case 1:25-cv-10216-NMG Document 30 Filed 06/01/26 Page 3 of 7Driessen v. Nat west Bank PLC , No . 13- CV- 00217 (MPS) , 2013 WL
+12073444 , at *3 (D . Conn . Oct . 25 , 2013) (" Section 1693h
+therefore applies where a consumer instructs his or her
+fi nancial i nstitution to t ransfer money from his or her account
+and to a _hird party but the financial institution f ails to do
+so . " ) (emphasis in original) ; Bene v . Wells Fargo & Co . , No . 22 -
+CV- 06783- DMR, 2023 WL 9595360 , at *3 (N . D. Cal . June 30 , 2023)
+("Because Johnson claims that Wells Fargo failed to deposit
+funds into his account- as opposed to transfer funds outside of
+his account-the provisions of section 1693h do not appear to
+apply to Plaintiff ' s allegations . " ) . The complaint makes clear
+that Jonathan , not Cole , instructed the Bank to make the
+t cansfers . Col e cannot , therefore , sue under that provisi on of
+the EFTA and defendants ' motion to dismiss will therefore be
+allowed with respect to Count 1 . 1
+To the extent that Cole alleges that Jonathan has assigned
+to him all claims arisi ng from these facts , the Court is
+unpersuaded . Even assuming, arguendo , that such claims can be
+legally assigned, Cole has made no showing that Jonathan
+actually did so and the Court cannot accept the contention on
+faith .
+1
+To the extent that Cole also brings a claim under the Massachusetts state- l aw
+analogue , M.G. L. c . 167B, §19 , that claim will be dismissed for the same
+reason .
+- 4-
+Case 1:25-cv-10216-NMG Document 30 Filed 06/01/26 Page 4 of 7The Court notes that Cole , in his affidavit in support of
+his opposition to the motion to dismiss (Docket No . 25) , relies
+on the output of generative artificial intelligence ("AI") to
+support his legal claim that he , as the intended recipient of a
+tcansfer, may sue under 15 U. S. C. §1693 et seq . Instead of
+citing legal authority, Cole provides the Court with a
+screenshot of an "AI Overview" output , presumably from a Google
+search, indicating that the intended recipient of a failed
+electronic t ransfer may file a claim under the EFTA . Not only
+is he , and the AI output , incorrect as explained above , but also
+his assertions to the Court amount to a materi al
+misrepresentation of the l aw . That he i s prose makes the
+offense no less gri evous and he i s hereby admonished not to make
+such ill- founded misrepresentations in the future .
+Because Cole is not a proper plaintiff under this provision
+of the EFTA, the Court declines to address defendants '
+alternative theories .
+ii. Count II: Chapter 93A
+Count II of the complaint alleges that the failed transfers
+subject the Bank to liability under Chapter 93A §2(c) .
+Defendants move to dismiss that claim on the basis that , inter
+alia , Cole has alleged no behavior that could reasonably be
+considered unfair or deceptive .
+- 5-
+Case 1:25-cv-10216-NMG Document 30 Filed 06/01/26 Page 5 of 7Defendants are correct . To succeed on a claim under
+Chapter 93A §2(c) , plaintiff must allege conduct that 1) falls
+within the penumbra of some law or other established concept of
+unfairness , 2) i s immoral , unethical , oppressive or unscrupulous
+and 3) results in substantial harm t o consumers . PMP Assocs . ,
+Inc . v . Globe Newspaper Co ., 366 Mass . 593 , 596 (1975) . The
+alleged fai led transfers are neither unfair nor immoral , and the
+motion to dismiss will therefore be allowed with respect to
+Count II .
+iii. Count III and IV: Emotional Distress and Elder Abuse
+Claims
+Counts III and IV make various claims of intentional and
+negligent infliction of emotional di stress and elder abuse .
+Defendants move to dismiss on the grounds that the complaint
+alleges no facts to support emotional distress liability and
+that Massachusett s state law provides no civil cause of action
+for elder abuse claims .
+Defendants are again correct . First , plaintiff cites
+M. G.L. Ch . 19A in support of his claims of elder abuse and
+fi nancial exploitation of an elderly person . Chapter 19A
+provides no civil cause of action and such claims must theref ore
+be dismissed . Young v . JPMorgan Chase Bank, N.A., 759 F. Supp .
+3d 283 , 288 (D . Mass . 2024) .
+- 6-
+__J
+Case 1:25-cv-10216-NMG Document 30 Filed 06/01/26 Page 6 of 7With respect to the claims of negligent and international
+infliction of emotional distress , both theories of l iability
+requi re some showing that a reasonable person would suffer
+emotional di s tress under the circumstances of the case . See
+Agi s v . Howard Johnson Co . , 371 Mass . 140 , 145 , (1976) (finding
+t hat intentional infliction of emotional distress requires a
+showi ng of emot ional distress that "no reasonable man could be
+expected to endure" ) ; Payton v . Abbott Labs , 386 Mass . 540 , 557 ,
+437 N. E. 2d 171 , 181 (1982) (findi ng that negligent infliction of
+emotional distress requires a showing that "a reasonable person
+woul d have suffered emotional distress under the
+circumst ances " ) . The Court concludes that no reasonable person
+would expe rience emotional distress as the result of the several
+f ailed bank transfers complained of i n this action . The motion
+to di smi ss will therefore be allowed with respect to Counts III
+and IV .
+ORDER
+For the forgoing reasons , the motion to dismiss (Docket No .
+19) i s ALLOWED.
+So ordered .
+Nathaiel M. Gorton
+Senior United States District Judge
+Da ed : June J , 2026
+- 7-
+Case 1:25-cv-10216-NMG Document 30 Filed 06/01/26 Page 7 of 7

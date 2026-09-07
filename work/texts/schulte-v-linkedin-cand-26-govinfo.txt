@@ -1,0 +1,838 @@
+                                       Case 4:22-cv-00237-HSG             Document 203        Filed 07/01/26      Page 1 of 12
+
+
+
+
+                                   1
+
+                                   2
+
+                                   3
+
+                                   4
+
+                                   5
+
+                                   6
+
+                                   7
+
+                                   8                                    UNITED STATES DISTRICT COURT
+
+                                   9                                   NORTHERN DISTRICT OF CALIFORNIA
+
+                                  10                                           San Francisco Division
+
+                                  11       KEVIN SCHULTE, et al.,                             Case No. 22-cv-00237-HSG (LB)
+                                  12                     Plaintiffs,                          DISCOVERY ORDER
+
+
+
+ United States District Court
+                                  13               v.                                         Re: ECF No. 186, 188, 190
+                                  14       LINKEDIN CORPORATION,
+                                  15                     Defendant.
+
+
+
+Northern District of California
+                                  16
+
+                                  17                                             INTRODUCTION
+
+                                  18        Three discovery letter briefs are before the court in this putative class action, where the
+
+                                  19   plaintiffs claim monopolization and attempted monopolization from practices that allegedly allow
+
+                                  20   LinkedIn to overcharge Premium subscribers, in violation of § 2 of the Sherman Act. The two
+
+                                  21   categories of alleged anticompetitive conduct are (1) offering potential rivals access to LinkedIn’s
+
+                                  22   private user data through application-programming interfaces (API) unavailable to others, on the
+
+                                  23   condition that the rivals do not compete with LinkedIn, and (2) integrating LinkedIn’s user data
+
+                                  24   with parent company Microsoft’s Azure cloud product, thereby “tying up and driving up prices for
+
+                                  25   scarce hardware resources.”1
+
+                                  26
+                                  27   1
+                                        Order Den. Prelim. Approval – ECF No. 135 at 1–2 (summarizing complaint); Disc. Letter Brs. –
+                                       ECF Nos. 186, 188, & 190. Citations refer to material in the Electronic Case File (ECF); pinpoint
+                                  28   citations are to the ECF-generated page numbers at the top of documents.
+
+                                       ORDER – No. 22-cv-00237-HSG (LB)
+                                       Case 4:22-cv-00237-HSG           Document 203          Filed 07/01/26     Page 2 of 12
+
+
+
+
+                                   1      ECF No. 186 concerns LinkedIn’s use of Relativity aiR, a GenAI product, for document
+
+                                   2   review. The plaintiffs’ requests — that the court (1) prohibit LinkedIn from using search strings to
+
+                                   3   pre-cull documents reviewed by Relativity aiR, (2) compel LinkedIn to use Relativity aiR across
+
+                                   4   all custodial files, and (3) compel LinkedIn to disclose additional metrics related to its use of the
+
+                                   5   platform — are denied. None of the requests are reasonable or proportional to the needs of the
+
+                                   6   case. The parties must meet and confer within twenty-one days of this order regarding LinkedIn’s
+
+                                   7   search strings and whether any adjustments are warranted.
+
+                                   8      ECF No. 188 is a motion to compel LinkedIn to add an in-house attorney, Jane Slater, as a
+
+                                   9   custodian. The plaintiffs assert that Ms. Slater has uniquely relevant information related to
+
+                                  10   negotiations with API partners. The motion is denied. LinkedIn’s custodial productions are
+
+                                  11   ongoing, and the plaintiffs have not shown that Ms. Slater possesses any non-privileged, non-
+
+                                  12   duplicative responsive information that is not captured by the existing custodial framework.
+
+
+
+ United States District Court
+                                  13      Finally, ECF No. 190 is a motion to compel LinkedIn to produce responsive text messages
+
+                                  14   from its nineteen designated custodians. The motion is denied. The Interim ESI Order explicitly
+
+                                  15   excludes text messages from the parties’ preservation obligations, and the plaintiffs have not
+
+
+
+Northern District of California
+                                  16   shown good cause for production. The evidence in the record suggests that text messages are
+
+                                  17   likely to be duplicative or cumulative of already designated sources. Any marginal relevance of
+
+                                  18   custodial text messages is overwhelmed by the substantial burden that the request would impose
+
+                                  19   on LinkedIn.
+
+                                  20
+
+                                  21                                          LEGAL STANDARD
+
+                                  22      Parties may obtain discovery regarding any nonprivileged matter that is relevant to any party’s
+
+                                  23   claim or defense and proportional to the needs of the case, considering the importance of the
+
+                                  24   issues at stake in the action, the amount in controversy, the parties’ relative access to relevant
+
+                                  25   information, the parties’ resources, the importance of the discovery in resolving the issues, and
+
+                                  26   whether the burden or expense of the proposed discovery outweighs its likely benefit. Information
+
+                                  27   within this scope of discovery need not be admissible in evidence to be discoverable. Fed. R. Civ.
+
+                                  28   P. 26(b). “Pretrial discovery is ordinarily accorded a broad and liberal treatment.” Peng v. Nw.
+
+                                       ORDER – No. 22-cv-00237-HSG (LB)                   2
+                                       Case 4:22-cv-00237-HSG           Document 203         Filed 07/01/26      Page 3 of 12
+
+
+
+
+                                   1   Mut. Life Ins. Co., No. 17-cv-01760-SI, 2017 WL 3007030, at *1 (N.D. Cal. July 14, 2017)
+
+                                   2   (cleaned up) (quoting Shoen v. Shoen, 5 F.3d 1289, 1292 (9th Cir. 1993)). Moreover, “[t]he test
+
+                                   3   for relevance is not overly exacting: evidence is relevant if it has ‘any tendency to make . . . more
+
+                                   4   or less probable . . . [a] fact [that] is of consequence in determining the action.’” In re Volkswagen
+
+                                   5   “Clean Diesel” Mktg., Sales Pracs., & Prods. Liab. Litig., MDL No. 2672 CRB (JSC), 2018 WL
+
+                                   6   340640, at *1 (N.D. Cal. Jan. 9, 2018) (quoting Fed. R. Evid. 401).
+
+                                   7      The party moving to compel discovery “has the initial burden of establishing that the
+
+                                   8   information sought is relevant to any party’s claim or defense and proportional to the needs of the
+
+                                   9   case.” Impinj, Inc. v. NXP USA, Inc., No. 19-cv-03161-YGR (AGT), 2022 WL 16586886, at *2
+
+                                  10   (N.D. Cal. Nov. 1, 2022) (cleaned up). The party resisting discovery bears the burden of showing
+
+                                  11   that the discovery should not be allowed and of supporting its objections with competent evidence.
+
+                                  12   Lofton v. Verizon Wireless (VAW) LLC, 308 F.R.D. 276, 281 (N.D. Cal. 2015). Under Rule 26(b),
+
+
+
+ United States District Court
+                                  13   the court must limit discovery that is “unreasonably cumulative or duplicative,” obtainable from a
+
+                                  14   less burdensome source, or where the burden “outweighs its likely benefit.” Fed. R. Civ. P.
+
+                                  15   26(b)(1), (b)(2)(C).
+
+
+
+Northern District of California
+                                  16
+
+                                  17                                               ANALYSIS
+
+                                  18   1. LinkedIn’s Search Methodology (ECF No. 186)
+
+                                  19      The parties dispute two issues related to LinkedIn’s use of Relativity aiR. The first is whether
+
+                                  20   LinkedIn’s use of search strings to pre-cull the custodial documents given to Relativity aiR is
+
+                                  21   appropriate. The second is whether LinkedIn must disclose additional metrics related to its use of
+
+                                  22   the platform. The court addresses each issue separately.
+
+                                  23      1.1    Background
+
+                                  24      On May 15, 2026, LinkedIn provided the plaintiffs with twenty-five search strings to be
+
+                                  25   applied against LinkedIn’s custodial documents. At the same time, LinkedIn informed the
+
+                                  26
+                                  27
+
+                                  28
+
+                                       ORDER – No. 22-cv-00237-HSG (LB)                  3
+                                       Case 4:22-cv-00237-HSG               Document 203           Filed 07/01/26    Page 4 of 12
+
+
+
+
+                                   1   plaintiffs that it would be using Relativity aiR, a GenAI review tool, “to assist in filtering out non-
+
+                                   2   responsive documents” in its custodial production.2
+
+                                   3         On May 23, 2026, the plaintiffs requested more information about LinkedIn’s use of Relativity
+
+                                   4   aiR. LinkedIn disclosed that “(1) there was no seed or training set used; (2) Relativity aiR is being
+
+                                   5   used to make final responsiveness calls; and (3) quality control review is being conducted by
+
+                                   6   human review of samples taken from each responsiveness type.”3 LinkedIn said it was not
+
+                                   7   required to make any additional disclosures. The plaintiffs informed LinkedIn that its disclosures
+
+                                   8   were inadequate and that its use of search strings to “pre-cull” the target document population
+
+                                   9   given to Relativity aiR was “inappropriate.” The parties met and conferred on June 9, 2026, and
+
+                                  10   were unable to resolve the dispute.4
+
+                                  11         1.2       LinkedIn’s use of search strings
+
+                                  12         The plaintiffs request an order (1) prohibiting LinkedIn from applying search strings or
+
+
+
+ United States District Court
+                                  13   keywords to pre-cull the custodial documents reviewed by Relativity aiR and (2) compelling
+
+                                  14   LinkedIn to apply Relativity aiR across all agreed-upon custodial files.5
+
+                                  15         The plaintiffs argue that LinkedIn’s use of search strings before beginning the Relativity aiR
+
+
+
+Northern District of California
+                                  16   process is unnecessary. They contend that LinkedIn’s use of search strings “artificially reduce[s]”
+
+                                  17   the target population ingested by Relativity aiR, potentially removing responsive documents from
+
+                                  18   the target population.6
+
+                                  19         LinkedIn responds that its use of search strings is proper.7 It contends that it has satisfied its
+
+                                  20   obligations under the Interim ESI Order by disclosing its use of Relativity aiR to the plaintiffs and
+
+                                  21   that it has gone beyond the Order’s requirements by providing additional information about its use
+
+                                  22
+
+                                  23
+
+                                  24   2
+                                           Disc. Letter Br. – ECF No. 186 at 1 (cleaned up).
+                                  25   3
+                                           Id. (cleaned up).
+                                       4
+                                  26       Id.
+                                       5
+                                           Id. at 3.
+                                  27   6
+                                           Id. at 2.
+                                  28   7
+                                           Id. at 3–4.
+
+                                       ORDER – No. 22-cv-00237-HSG (LB)                        4
+                                       Case 4:22-cv-00237-HSG              Document 203          Filed 07/01/26   Page 5 of 12
+
+
+
+
+                                   1   of the platform.8 LinkedIn further argues that it would be disproportionate and unduly burdensome
+
+                                   2   to apply Relativity aiR to all custodial files without applying search strings first.9
+
+                                   3         The plaintiffs’ request is denied. Although the plaintiffs assert that LinkedIn’s use of search
+
+                                   4   strings “artificially reduce[s]” the amount of documents ingested by Relativity aiR, the plaintiffs
+
+                                   5   do not argue or otherwise show that LinkedIn’s twenty-five search strings are deficient.10 If, for
+
+                                   6   example, the plaintiffs had shown that LinkedIn’s search strings were too narrow, their concern
+
+                                   7   about pre-culling the document population might be warranted. But they have not made that
+
+                                   8   argument, and they do not contend that they raised any concerns with LinkedIn’s search strings
+
+                                   9   when they were disclosed on May 15, 2026.11 Courts have held that using search terms to pre-cull
+
+                                  10   documents before providing them to technology-review platforms satisfies the reasonableness and
+
+                                  11   proportionality standards of Rules 26(b) and 34(b)(2). E.g., Livingston v. City of Chicago, No. 16-
+
+                                  12   cv-10156, 2020 WL 5253848, at *3 (N.D. Ill. Sep. 3, 2020); In re Biomet M2a Magnum Hip
+
+
+
+ United States District Court
+                                  13   Implant Prods. Liab. Litig., No. 3:12-MD-2391, 2013 WL 1729682, at *2 (N.D. Ind. Apr. 18,
+
+                                  14   2013). The court finds the same here. If the plaintiffs have concerns about the target document
+
+                                  15   population LinkedIn is providing to Relativity aiR for responsiveness review, they can address
+
+
+
+Northern District of California
+                                  16   those concerns by requesting adjustments to LinkedIn’s search strings.
+
+                                  17         Also, prohibiting LinkedIn from using search strings to pre-cull the target document
+
+                                  18   population would impose a substantial burden on LinkedIn. The files of two LinkedIn custodians
+
+                                  19   alone total approximately 800 gigabytes of data.12 With nineteen designated custodians, LinkedIn
+
+                                  20   would be required to feed multiple terabytes of documents into Relativity aiR, resulting in
+
+                                  21   significant costs related to processing, hosting, and human review.13
+
+                                  22
+
+                                  23
+
+                                  24   8
+                                           Id. at 3 (citing Interim ESI Order – ECF No. 61 at 3 (¶ 5(a)).
+                                  25   9
+                                           Id. at 4.
+                                       10
+                                  26        Id. at 1–3.
+                                       11
+                                            Id. at 1.
+                                  27   12
+                                            Decl. of L. Schnepper, Ex. A to id. – ECF No. 186-1 at 3 (¶ 2).
+                                  28   13
+                                            Disc. Letter Br. – ECF No. 186 at 4.
+
+                                       ORDER – No. 22-cv-00237-HSG (LB)                      5
+                                       Case 4:22-cv-00237-HSG                Document 203          Filed 07/01/26   Page 6 of 12
+
+
+
+
+                                   1         The plaintiffs’ request is denied. LinkedIn’s use of search strings is proper, and it is not
+
+                                   2   required to apply Relativity aiR across all custodial files. Within twenty-one days of this order, the
+
+                                   3   parties are ordered to meet and confer regarding the search strings LinkedIn is using to create the
+
+                                   4   target document population for Relativity aiR. The plaintiffs may seek relief with the court if they
+
+                                   5   believe adjustments to the search strings are warranted and the parties are unable to reach
+
+                                   6   agreement.
+
+                                   7         1.3        Disclosure of Relativity aiR metrics
+
+                                   8         The plaintiffs separately move to compel LinkedIn to disclose various metrics about its use of
+
+                                   9   Relativity aiR, including elusion estimates, the document error rate, and the number of human
+
+                                  10   reviewers being used to validate Relativity aiR’s predictions.14 LinkedIn opposes the request.15
+
+                                  11         “As a general matter, discovery of another party’s evidence preservation and collection efforts
+
+                                  12   — or ‘discovery on discovery’ — is disfavored, as such discovery is typically not relevant to the
+
+
+
+ United States District Court
+                                  13   merits of a claim or defense, and is rarely proportional to the needs of a case.” Taylor v. Google
+
+                                  14   LLC, No. 20-CV-07956-VKD, 2024 WL 4947270, at *2 (N.D. Cal. Dec. 3, 2024). Such discovery
+
+                                  15   may be warranted “if the party requesting it demonstrates that there is a specific deficiency in the
+
+
+
+Northern District of California
+                                  16   other party’s production of documents or other information,” but “mere speculation” is
+
+                                  17   insufficient. Id.
+
+                                  18         The plaintiffs’ request is denied for two reasons. First, LinkedIn has satisfied its obligations
+
+                                  19   under the Interim ESI Order. Paragraph 5(a) of the Order requires the producing party to “disclose
+
+                                  20   to the receiving party if they intend to use Technology Assisted Review (“TAR”) to filter out non-
+
+                                  21   responsive documents.”16 On May 15, 2026, LinkedIn disclosed to the plaintiffs that it would use
+
+                                  22   Relativity aiR — a form of Technology Assisted Review — to filter out non-responsive
+
+                                  23
+
+                                  24
+
+                                  25
+
+                                  26
+                                       14
+                                            Id. at 3.
+                                  27   15
+                                            Id.
+                                  28   16
+                                            Interim ESI Order – ECF No. 61 at 3 (¶ 5(a)).
+
+                                       ORDER – No. 22-cv-00237-HSG (LB)                        6
+                                       Case 4:22-cv-00237-HSG              Document 203         Filed 07/01/26     Page 7 of 12
+
+
+
+
+                                   1   documents.17 And LinkedIn provided the plaintiffs with additional information upon request.18
+
+                                   2   These disclosures more than satisfy the demands of the Interim ESI Order.
+
+                                   3         Second, the plaintiffs have not shown that a further “audit” of LinkedIn’s use of Relativity aiR
+
+                                   4   is warranted.19 The only deficiency they identify is that LinkedIn’s target document population
+
+                                   5   amounts to 204,444 documents.20 Without a more specific showing of why LinkedIn’s production
+
+                                   6   is deficient, the number of documents in the target population alone does not warrant the requested
+
+                                   7   discovery on discovery. Id.
+
+                                   8         The plaintiffs’ motion to compel LinkedIn to make further disclosures regarding its use of
+
+                                   9   Relativity aiR is denied.
+
+                                  10
+
+                                  11   2. Adding In-House Attorney as a Custodian (ECF No. 188)
+
+                                  12         The plaintiffs seek to add a LinkedIn in-house attorney, Jane Slater, as a custodian. They move
+
+
+
+ United States District Court
+                                  13   to compel LinkedIn to collect, search, and produce her internal and external communications,
+
+                                  14   subject to a privilege review.21
+
+                                  15         The plaintiffs argue that Ms. Slater’s internal files are relevant because she is one of three
+
+
+
+Northern District of California
+                                  16   attorneys “responsible for negotiating all private API agreements.” They identify a purported gap
+
+                                  17   in LinkedIn’s current production that only Ms. Slater can fill; she participated in a set of API
+
+                                  18   partner negotiations where the only other LinkedIn employee was Rohan Verma, a business
+
+                                  19   executive who left LinkedIn in 2021 and whose files were not preserved.22
+
+                                  20         LinkedIn has already agreed to produce external communications between attorneys who
+
+                                  21   negotiated API agreements and LinkedIn’s API partners.23 It opposes the request to produce Ms.
+
+                                  22
+
+                                  23
+                                       17
+                                            Disc. Letter Br. – ECF No. 186 at 3.
+                                  24   18
+                                            See supra Section 1.1.
+                                  25   19
+                                            Disc. Letter Br. – ECF No. 186 at 3.
+                                       20
+                                  26        Id. at 2.
+                                       21
+                                            Disc. Letter Br. – ECF No. 188 at 1, 3.
+                                  27   22
+                                            Id. at 1.
+                                  28   23
+                                            Id. at 3; see also Order – ECF No. 170 at 7.
+
+                                       ORDER – No. 22-cv-00237-HSG (LB)                     7
+                                       Case 4:22-cv-00237-HSG             Document 203         Filed 07/01/26     Page 8 of 12
+
+
+
+
+                                   1   Slater’s internal communications because (1) the plaintiffs have not shown that Ms. Slater
+
+                                   2   possesses nonprivileged, non-duplicative responsive information that is not available from existing
+
+                                   3   custodians and (2) the request is disproportionate to the needs of the case.24
+
+                                   4         As the court previously said, the requesting party bears the burden of showing that an
+
+                                   5   additional custodian possesses “uniquely relevant information that is not available from the
+
+                                   6   sources already designated.”25 The court explained that the plaintiffs could seek to add additional
+
+                                   7   attorney custodians if they made a “particularized showing” of “specific gaps” in LinkedIn’s
+
+                                   8   production that only the identified attorneys could fill.26
+
+                                   9         The plaintiffs’ request is denied. The plaintiffs contend that Ms. Slater is the only LinkedIn
+
+                                  10   employee who can fill the gap left by the deletion of Mr. Verma’s files.27 But LinkedIn is
+
+                                  11   producing documents from five current and former business development leaders responsible for
+
+                                  12   API partner relationships and strategy.28 Two of these custodians were Mr. Verma’s direct
+
+
+
+ United States District Court
+                                  13   supervisors during the relevant period.29 LinkedIn represents that Ms. Slater provided legal advice
+
+                                  14   to these business development leaders and communicated with API partners on their behalf.30 To
+
+                                  15   the extent any of Ms. Slater’s internal communications related to API agreements and partners are
+
+
+
+Northern District of California
+                                  16   not privileged, they are likely captured by the existing custodial framework. With fact discovery
+
+                                  17   ongoing and LinkedIn’s custodial productions “rolling,” it is premature to demand that Ms.
+
+                                  18   Slater’s internal communications be produced without evidence that her files will contain non-
+
+                                  19   privileged, non-duplicative responsive documents.31
+
+                                  20
+                                       24
+                                  21        Disc. Letter Br. – ECF No. 188 at 3–5.
+                                       25
+                                         Order – ECF No. 170 at 7 (quoting In re Facebook, Inc. Consumer Priv. User Profile Litig., No.
+                                  22   3:18-MD-02843-VC-JSC, 2021 WL 10282213, at *1 (N.D. Cal. Nov. 14, 2021)).
+                                       26
+                                  23        Id.
+                                       27
+                                            Disc. Letter Br. – ECF No. 188 at 1–2.
+                                  24   28
+                                            Id. at 4.
+                                  25   29
+                                            Id.
+                                       30
+                                  26        Id. at 3.
+                                       31
+                                          Id.; see also Order – ECF No. 170 at 7 (“That these attorneys signed the API agreements does not,
+                                  27   without more, establish that their custodial files will contain non-privileged, non-duplicative
+                                       responsive documents beyond those produced by the business-development custodians and the existing
+                                  28   attorney-custodians.”).
+
+                                       ORDER – No. 22-cv-00237-HSG (LB)                    8
+                                       Case 4:22-cv-00237-HSG              Document 203          Filed 07/01/26   Page 9 of 12
+
+
+
+
+                                   1         The exemplary documents identified by the plaintiffs do not change this analysis. The cited
+
+                                   2   documents are communications Ms. Slater and Mr. Verma had with API partners — i.e., the type
+
+                                   3   of external communications between LinkedIn attorneys and API partners that LinkedIn has
+
+                                   4   already agreed to produce.32 The plaintiffs argue that these communications only tell one half of
+
+                                   5   the story, leaving out any internal LinkedIn communications concerning the specific
+
+                                   6   negotiations.33 But this gap is speculative. It relies on two assumptions: first, that Mr. Verma and
+
+                                   7   Ms. Slater had internal deliberations about API negotiations without any other custodians, and
+
+                                   8   second, that any such internal communications were made in Ms. Slater’s “business-negotiation
+
+                                   9   capacity” and are nonprivileged.34 The plaintiffs point to no evidence in the record supporting
+
+                                  10   either assumption, and the evidence that does exist suggests that Ms. Slater’s role in negotiations
+
+                                  11   was to provide legal advice about the terms of API agreements.35 Her internal communications are
+
+                                  12   likely to be overwhelmingly privileged, such that the burden of collecting, reviewing, and logging
+
+
+
+ United States District Court
+                                  13   these files would outweigh the benefit of any nonprivileged communications not already captured
+
+                                  14   by existing custodians.
+
+                                  15         The plaintiffs’ motion to compel the production of Ms. Slater’s relevant custodial files is
+
+
+
+Northern District of California
+                                  16   denied. LinkedIn must produce all responsive external communications between Ms. Slater and
+
+                                  17   API partners, as it has already agreed to do.36
+
+                                  18
+                                  19   3. Collection and Production of Text Messages (ECF No. 190)
+
+                                  20         The plaintiffs move to compel LinkedIn to preserve, collect, search, and produce all responsive
+
+                                  21   text messages (including iMessage, SMS, and app-based messages like WhatsApp or Signal),
+
+                                  22   whether sent or received on a personal or work-issued device, from all nineteen designated
+
+                                  23   custodians. The plaintiffs argue that good cause exists to require the production of text messages
+
+                                  24
+
+                                  25   32
+                                            Disc. Letter Br. – ECF No. 188 at 3.
+                                       33
+                                  26        Id. at 2–3.
+                                       34
+                                            Id. at 3.
+                                  27   35
+                                            Id. at 4; Email, Ex. A to id. – ECF No. 188-1.
+                                  28   36
+                                            Disc. Letter Br. – ECF No. 188 at 5.
+
+                                       ORDER – No. 22-cv-00237-HSG (LB)                      9
+                                       Case 4:22-cv-00237-HSG             Document 203          Filed 07/01/26    Page 10 of 12
+
+
+
+
+                                   1   because LinkedIn executives “routinely us[e] text messages for business purposes” and to discuss
+
+                                   2   “topics relevant to the claims and defenses” at issue.37
+
+                                   3         LinkedIn contends that it has no obligation to produce text messages in this case. It asserts that
+
+                                   4   (1) the plaintiffs have not shown good cause to set aside the Interim ESI Order’s exclusion of text
+
+                                   5   messages from default preservation and production obligations, (2) LinkedIn is producing
+
+                                   6   documents from the three repositories it has identified as most likely to contain non-duplicative,
+
+                                   7   responsive information, and (3) the plaintiffs’ request would impose an undue burden on
+
+                                   8   LinkedIn.38
+
+                                   9         Paragraph 4(b) of the Interim ESI Order provides that, absent a showing of good cause by the
+
+                                  10   requesting party, “[t]ext messages (e.g., Slack, MMS, iMessages) and data from app-based
+
+                                  11   messaging systems (e.g., WhatsApp, Signal, and Line)” need not be preserved.39 At minimum, this
+
+                                  12   requires the plaintiffs to show that their requested discovery is relevant and proportional to the
+
+
+
+ United States District Court
+                                  13   needs of the case and that its likely benefit outweighs the burden it imposes. Fed. R. Civ. P.
+
+                                  14   26(b)(1). The court must limit discovery that is unreasonably cumulative or duplicative. Fed. R.
+
+                                  15   Civ. P. 26(b)(2)(c)(i).
+
+
+
+Northern District of California
+                                  16         The plaintiffs’ request is denied for two reasons. First, the plaintiffs have not shown good
+
+                                  17   cause to set aside the Interim ESI Order’s exclusion of text messages from the parties’
+
+                                  18   preservation obligations. To establish the relevance of the requested discovery, the plaintiffs
+
+                                  19   primarily rely on produced emails that refer to sending or receiving text messages.40 When viewed
+
+                                  20   in context, these references suggest that any related text messages are largely logistical,
+
+                                  21   cumulative of produced communications, or otherwise irrelevant. For example, one email cited by
+
+                                  22   the plaintiffs shows a LinkedIn employee asking a colleague to “text if you need anything urgent”
+
+                                  23   while the employee was traveling.41 The plaintiffs do not offer any evidence that this request is in
+
+                                  24
+
+                                  25   37
+                                            Disc. Letter Br. – ECF No. 190 at 1, 3.
+                                       38
+                                  26        Id. at 3.
+                                       39
+                                            Interim ESI Order – ECF No. 61 at 2–3 (¶ 4(b)).
+                                  27   40
+                                            Disc. Letter Br. – ECF No. 190 at 2–3.
+                                  28   41
+                                            Id. at 4 n.1 (citing LI_CROWDER_00060117).
+
+                                       ORDER – No. 22-cv-00237-HSG (LB)                    10
+                                       Case 4:22-cv-00237-HSG            Document 203          Filed 07/01/26    Page 11 of 12
+
+
+
+
+                                   1   reference to anything at issue in the case. Another email shows an employee providing an
+
+                                   2   “overview of our progress” and asking others on the thread to “text me for anything urgent” while
+
+                                   3   he was on leave.42 Even if the provided “overview” is relevant to the claims and defenses in this
+
+                                   4   case, it is already captured in the produced email. The same is true for a separate email relied on
+
+                                   5   by the plaintiffs, which states that its substance is the same “as shared via text.”43
+
+                                   6         The strongest example the plaintiffs provide to support relevance is a produced screenshot of
+
+                                   7   text messages referencing topics for an upcoming “QBR.”44 But LinkedIn represents that it has
+
+                                   8   already produced the final prep documents for that “QBR,” supporting that any related texts are
+
+                                   9   likely duplicative.45 The plaintiffs have not pointed to a single substantive business discussion
+
+                                  10   occurring by text or to any discussion that is not already captured by existing sources. Without
+
+                                  11   such a showing, they cannot establish good cause for their requested discovery.
+
+                                  12         Second, any marginal relevance that the plaintiffs have shown is overwhelmed by the
+
+
+
+ United States District Court
+                                  13   substantial burden their request would impose on LinkedIn. The plaintiffs’ request applies to text
+
+                                  14   messages from all nineteen designated custodians, across multiple messaging platforms (including
+
+                                  15   iMessage, SMS, WhatsApp, and Signal), on both work-issued and personal devices.46 Such
+
+
+
+Northern District of California
+                                  16   production would involve significant time, expense, and disruption to the private lives of each
+
+                                  17   designated custodian.47 Even if the plaintiffs had shown that text messages are likely to result in
+
+                                  18   non-duplicative and responsive information, their request would still be untethered from
+
+                                  19   reasonable and proportionate discovery.
+
+                                  20         Separately, the parties dispute whether LinkedIn has provided the factual basis for its
+
+                                  21   conclusion that three select repositories — M365 Mailboxes, Google Drive, and Slack — are most
+
+                                  22
+
+                                  23
+
+                                  24   42
+                                            Id. (citing LI_CROWDER00074407).
+                                  25   43
+                                            Id. at 4 (citing LI_CROWDER_00150755).
+                                       44
+                                  26        Id. at 1–2 (citing LI_CROWDER_00112911), 4 (discussing document).
+                                       45
+                                            Id. at 4 (citing LI_CROWDER_00112911, LI_CROWDER_00163661).
+                                  27   46
+                                            Id. at 3.
+                                  28   47
+                                            Id. at 5.
+
+                                       ORDER – No. 22-cv-00237-HSG (LB)                   11
+                                       Case 4:22-cv-00237-HSG             Document 203           Filed 07/01/26    Page 12 of 12
+
+
+
+
+                                   1   likely to contain relevant and non-duplicative information.48 But there is evidence that LinkedIn
+
+                                   2   investigated and selected its repositories in good faith; it voluntarily included Slack, which is
+
+                                   3   exempted under the Interim ESI Order as a category of text messages.49 In the absence of evidence
+
+                                   4   showing that other forms of text messages are likely to be responsive and non-cumulative
+
+                                   5   communications, LinkedIn’s selected repositories reflect reasonable efforts to search for, collect,
+
+                                   6   and produce relevant and proportional information.50
+
+                                   7         The plaintiffs’ motion to compel is denied. LinkedIn is not required to preserve, collect,
+
+                                   8   search, and produce responsive text messages from its nineteen designated custodians.
+
+                                   9
+
+                                  10                                              CONCLUSION
+
+                                  11         This resolves ECF No. 186, 188, and 190.
+
+                                  12         IT IS SO ORDERED.
+
+
+
+ United States District Court
+                                  13         Dated: June 30, 2026
+
+                                  14                                                        ______________________________________
+                                                                                            LAUREL BEELER
+                                  15                                                        United States Magistrate Judge
+
+
+
+Northern District of California
+                                  16
+
+                                  17
+
+                                  18
+                                  19
+
+                                  20
+
+                                  21
+
+                                  22
+
+                                  23   48
+                                         Compare id. at 1 (“Plaintiffs have no insight into LinkedIn’s factual basis for this position (and the
+                                       basis was never articulated during the meet and confer process)”), with id. at 5 (“LinkedIn
+                                  24   communicated the results of its investigation on multiple occasions, including in its June 1, 2026,
+                                       correspondence.”).
+                                  25   49
+                                            Interim ESI Order – ECF No. 61 at 3 (¶ 4(b)).
+                                  26   50
+                                          See The Sedona Conference, The Sedona Principles, Third Edition: Best Practices,
+                                       Recommendations & Principles for Addressing Electronic Document Production, 19 Sedona Conf. J.
+                                  27   1, 119–20 (2018) (“[D]etermining what is relevant and proportional under the circumstances for each
+                                       matter often requires a highly fact-specific inquiry” that the “responding party” is in “a better position
+                                  28   to make.”).
+
+                                       ORDER – No. 22-cv-00237-HSG (LB)                     12
+

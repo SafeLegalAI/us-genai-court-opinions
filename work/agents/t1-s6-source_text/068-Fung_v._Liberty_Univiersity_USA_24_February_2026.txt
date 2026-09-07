@@ -1,0 +1,602 @@
+   Case 6:25-cv-00058-NKM-CKM              Document 48        Filed 02/24/26     Page 1 of 11
+                                          Pageid#: 127
+
+                                                                                     ) )") !) ")
+                                                                                         )(  #)%)
+                                                                                                )
+                       UNITED STATES DISTRICT COURT                                          
+                       WESTERN DISTRICT OF VIRGINIA                                    ))"))".) 
+                                                                                       ')
+                                 LYNCHBURG DIVISION                                         
+                                                                                             $&) )
+
+
+
+  GAIL FUNG,                                         CASE NO. 6:25-CV-00058
+
+                                     Plaintiff,
+                                                     MEMORANDUM OPINION
+                        v.
+
+                                                     JUDGE NORMAN K. MOON
+  LIBERTY UNIVERSITY,
+
+                                     Defendant.
+
+
+
+       Defendant Liberty University (“Liberty”) moves the Court to dismiss Plaintiff Fung’s
+
+complaint with prejudice in this Title VI and Title IX lawsuit. Dkt. 31. Fung, proceeding pro se,
+
+raises several causes of action: (i) “education fraud;” (ii) “loss of earnings;” (iii) “hostile
+
+educational environment;” (iv) “retaliation, biasness, (sic) and retaliation;” and (v) “violation of
+
+university policies.” Dkt. 1-1 at 12-13. The Court will grant Liberty’s motion but will dismiss
+
+Counts III and IV without prejudice. The Court will likewise dismiss Fung’s pending motion for
+
+summary judgment as moot. Dkt. 29.
+
+                                          BACKGROUND
+
+       Gail Fung, a “mixed Asian, Latina, [and] African American” “student with a disability”
+
+“has diligently pursued a doctoral online degree at Liberty University” since 2019 “while living in
+
+her home state of New Jersey.” Dkt. 1-1 ¶¶ 1, 5, 6. Fung pursued a PhD in education law and
+
+intended to write a dissertation that “focus[ed] on the lived experiences of African American and
+
+Latino students utilizing the framework and methodology of critical race theory (CRT).” Id. ¶ 4.
+
+Fung “discover[ed] [CRT] from a peer who wrote her dissertation on the lived experiences of
+    Case 6:25-cv-00058-NKM-CKM                      Document 48            Filed 02/24/26           Page 2 of 11
+                                                   Pageid#: 128
+
+
+
+minority K-12 education (sic).” Id. ¶ 6. This peer, who Fung alleges is “Caucasian,” “was a
+
+member of [Fung’s] class and worked with [Fung] on several research assignments.” Id.
+
+         Despite the peer’s successful dissertation, Fung’s advisor and “former professor Dr.
+
+Wheeler . . . threatened to fail [her] if [she] did not change [her] theoretical framework.” Dkt. 1-1
+
+¶ 5. When she refused, Wheeler “used his power to fail [Fung]” and made “sexist remarks referring
+
+with disdain to [Fung’s] name and disguise of being a ‘Black’ female rather than an ‘Asian’ female,
+
+which [Fung’s] name represents.” Id. ¶ 7; Dkt. 38 at 2. Fung alleges she “filed a complaint with
+
+the office of equity and inclusion . . . regarding the discrimination [she] was facing and retaliation”
+
+which Liberty “took nearly a year to review.” Id. While her complaint was pending, Fung “was
+
+forced to retake the [dissertation] course and pay additional tuition fees.” Id.
+
+         Fung also alleges that, “on June 7, 2021,” 1 her home in New Jersey was “swatted with
+
+police officers [she] did not recognize.” Dkt. 1-1 ¶ 8; Dkt. 38 at 2. When reporting this to the “New
+
+Milford Police Department,” she alleges speaking with New Milford four different times and being
+
+told “the swatting was initiated by Liberty University.” Dkt. 1-1 ¶ 8; Dkt. 38 at 2.
+
+         After the issues with Wheeler, Fung alleges being “assigned Dr. Antoinette Stroter as her
+
+professor for the identical retake of the research dissertation course,” and that “she passed the
+
+course with an A.” Dkt. 1-1 ¶ 10. Fung alleges “complet[ing] [her] dissertation and pass[ing] all
+
+three dissertation courses which is what is required for graduation.” Id.
+
+         However, Fung also alleges Stroter “lacked expertise to guide [Fung] through the
+
+dissertation process;” therefore, she was reassigned to “Dr. Rachel Hernandez” who was
+
+“unavailable due to personal obligations.” Dkt. 1-1 ¶¶ 10, 12. She was then reassigned to “Dr.
+
+
+
+1
+         Fung introduces additional facts, such as this one, in her opposition to Liberty’s motion to dismiss. Dkt. 38
+at 2. Due to the Court’s obligation to construe her filings liberally, as she is proceeding pro se, the Court will accept
+these additional facts as part of the complaint.
+
+                                                            2
+   Case 6:25-cv-00058-NKM-CKM               Document 48        Filed 02/24/26      Page 3 of 11
+                                           Pageid#: 129
+
+
+
+Quindang, who openly expressed her disdain for critical theory” and who allegedly told Fung “she
+
+would not only fail [her] but that [Fung] would not win any . . . claims against her because she was
+
+very good friends with those in ‘power.’” Id. ¶ 13.
+
+       “In early 2024,” Fung was “matched . . . with a new dissertation chair” “Dr. Alicia
+
+Castaneda,” who was “extremely hostile” during their first meeting; who “does not hold the
+
+minimum degree to be a PhD;” and who, “in 15 weeks of class” “ha[d] not provided adequate
+
+guidance or support for [Fung’s] dissertation.” Id. ¶¶ 17-19. According to Fung, Castaneda also
+
+later “ordered a [second] swatting” on her home. Dkt. 38 at 3.
+
+       Fung alleges her dissertation was “ready for university delivery in 2022,” but that she has
+
+been consistently “denied graduation without explanation,” forcing her to incur “almost an
+
+additional $19,635.00 plus 7.7% interest since 2022.” Dkt. 1-1 ¶¶ 19, 21, 23. Fung has allegedly
+
+“submitted over 14 Beacon reports” “illustrating discrimination and harassment due to her gender
+
+and ethnic identity” with Liberty’s Title IX office; however, officers “failed to conduct thorough
+
+investigations” for all her reports. Dkt. 38 at 2-3. Fung also alleges contacting Liberty’s “Provost,”
+
+“Dean for online education,” and “Ombudsman” about her concerns, but she did not receive any
+
+responses. Dkt. 1-1 ¶¶ 25-27. Fung asserts these failures “reflect a persistent and ongoing problem,
+
+falling under the continuing violation framework” that require an “immediate injunction to compel
+
+[Liberty] to allow [Fung] to graduate” as well as other various forms of relief. Dkt. 38 at 3; Dkt.
+
+1-1 at 11.
+
+                                      STANDARD OF REVIEW
+
+       A motion to dismiss pursuant to Fed. R. Civ. P. 12(b)(6) tests the legal sufficiency of a
+
+complaint to determine whether a plaintiff has properly stated a claim. The complaint’s “[f]actual
+
+allegations must be enough to raise a right to relief above the speculative level,” Bell Atl. Corp. v.
+
+
+
+                                                  3
+   Case 6:25-cv-00058-NKM-CKM              Document 48        Filed 02/24/26      Page 4 of 11
+                                          Pageid#: 130
+
+
+
+Twombly, 550 U.S. 544, 555 (2007). At this stage of the litigation, all allegations in a complaint
+
+must be taken as true and all reasonable inferences must be drawn in the plaintiff’s favor. King v.
+
+Rubenstein, 825 F.3d 206, 212 (4th Cir. 2016).
+
+       Rule 12(b)(6) does not require “heightened fact pleading;” however, a complaint must state
+
+“more than labels and conclusions” as a “formulaic recitation of the elements of a cause of action
+
+will not do.” Twombly, 550 U.S. at 570; see Ashcroft v. Iqbal, 556 U.S. 662, 679 (2009) (providing
+
+that “only a complaint that states a plausible claim for relief survives a motion to dismiss”).
+
+       A court need not “accept the legal conclusions drawn from the facts” or “accept as true
+
+unwarranted inferences, unreasonable conclusions, or arguments.” Simmons v. United Mortg. &
+
+Loan Inv., LLC, 634 F.3d 754, 768 (4th Cir. 2011) (quotation marks omitted). Additionally, a court
+
+must construe the filings of pro se plaintiffs liberally, and pro se complaints “however inartfully
+
+pleaded, must be held to less stringent standards” than those prepared by counsel. See Erickson v.
+
+Pardus, 551 U.S. 89, 94 (2007).
+
+                                            ARGUMENT
+
+                 A. No Cognizable Causes of Action Exist for Counts I, II and V
+
+   1. “Education fraud” is not a cause of action
+
+       Fung styles Count I as “education fraud,” asserting that she “has fulfilled all the
+
+requirements” yet has been “denied graduation.” Dkt. 1-1 at 12. Fung also argues Liberty is liable
+
+for education fraud because her “dissertation chair instructor” “Dr. Castaneda, EdD. Does (sic) not
+
+hold the required minimum degree to be a PhD.” Id. at 12.
+
+       The Court construes this claim as, at bottom, an educational malpractice claim. However,
+
+“the federal and state courts that have considered . . . educational malpractice claims . . . have
+
+unanimously declined to recognize them as valid causes of action.” See Sellers v. Sch. Bd. of the
+
+
+
+                                                 4
+    Case 6:25-cv-00058-NKM-CKM                      Document 48           Filed 02/24/26          Page 5 of 11
+                                                   Pageid#: 131
+
+
+
+City of Manassas, 960 F. Supp. 1006, 1012 (E.D. Va. 1997), aff’d, 141 F.3d 524 (4th Cir. 1998). 2
+
+As such, no cause of action exists, the Court will dismiss Count I with prejudice because additional
+
+amendment would be futile. 3
+
+    2. “Lost earnings” is a remedy, not a cause of action
+
+         Fung styles Count II as “lost earnings,” asserting that Liberty’s “hostile, retaliative, and
+
+bias (sic) actions” delayed her graduation and caused her to lose “potential earnings of $360,000
+
+in the education law field.” Dkt. 1-1 at 12. 4.
+
+         In Virginia, lost wages/earnings may be asserted as damages for a personal injury claim;
+
+however, no independent lost wages/earnings cause of action exists. Neathery v. Maritime
+
+Overseas Corp., 1982 WL 195526, at *1 (E.D. Va. Jan. 12, 1982) (“We decline, accordingly, to
+
+recognize a non-statutory cause of action for recovery of wages.”), rev’d on other grounds, 700
+
+F.2d 140 (4th Cir. 1983). Therefore, Count II must also be dismissed with prejudice as it is not tied
+
+to a cognizable cause of action, and amendment would be futile.
+
+    3. “Violation of university policies” is not a cause of action
+
+
+
+2
+          Even if Count I is more aptly construed as a civil fraud claim, Fung still fails to allege sufficient facts to
+survive a motion to dismiss. Under Virginia law, a party alleging fraud must allege: “(1) a false representation, (2) of
+a present, material fact, (3) made intentionally and knowingly, (4) with intent to mislead, (5) reasonable reliance by
+the party misled, and (6) resulting damage to him.” See Thompson v. Bacon, 245 Va. 107, 111 (1993). However,
+Fung fails to allege sufficient facts to pass even the first element of this test—her complaint merely alleges “Liberty
+failed to adhere to its established graduation policies,” without establishing what those policies are or what “false
+representations” Liberty made regarding her graduation. Dkt. 38 at 1. And further, Fung’s complaint is silent as to
+the “false representations” Liberty made about the degrees that dissertation chairs must have in order to work in
+their positions.
+3
+         The Court finds that Fung’s cited case, Friedman v. Southern New Hampshire University, 104 A.D. 3d 617
+(N.Y. App. Div. 2013) does not exist, nor does it provide support for the assertion that students may bring claims of
+education fraud against their schools and universities. The Court addresses Liberty’s request for sanctions related to
+Fung’s inclusion of this case in the conclusion of this memorandum opinion.
+4
+          She relies on Hoffman v. Board of Education in making this argument—a case which, even construed
+liberally—does not address “the impact of educational institutions’ actions on students’ career prospects.” Dkt. 38 at
+2; 400 N.E.2d 121 (N.Y. Ct. App. 1979). Hoffman concerned a student’s placement in special education for
+intellectually disabled children, where he remained improperly for “over ten years.” Id. at 123-24. The Court denied
+his parents the right to challenge his placement. Id. at 127.
+
+                                                           5
+    Case 6:25-cv-00058-NKM-CKM                      Document 48            Filed 02/24/26          Page 6 of 11
+                                                   Pageid#: 132
+
+
+
+         Fung styles Count V as “violation of university policies,” asserting that Liberty “breached
+
+its own established policies and guidelines,” though without specifying the policies and guidelines
+
+that have been violated. Dkt. 1-1 at 13. 5
+
+         Presumably, Fung alleges a “violation of university policies” cause of action because she
+
+considers Liberty to be contractually bound to its own policies. However, courts have rejected this
+
+breach of contract theory, as school policies lack a showing of the parties’ mutual intent to be
+
+bound. See, e.g., Tibbetts v. Yale Corp., 47 Fed. Appx. 648, 656 (4th Cir. 2002) (unpublished)
+
+(concluding that provisions of the Yale Student Handbook were “not a contract, but merely a
+
+university policy promoting free expression”) Guiliani v. Duke Univ., 2010 WL 1292321, at *8
+
+(M.D.N.C. Mar. 30, 2010) (dismissing breach of contract claim premised on Duke's student
+
+handbooks and policy manuals that were not alleged to have been incorporated into an enforceable
+
+contract between the plaintiff and Duke). As such, Count V fails and will be dismissed with
+
+prejudice as amendment would be futile.
+
+            B. Fung Fails to Allege Sufficient Facts to Allege Title VI and IX Violations 6
+
+    1. Fung’s Title VI and IX Complaints are Not Time-Barred
+
+         Liberty argues Counts III and IV are time-barred as Fung did not file her action within two
+
+years of the claims’ accrual. Dkt. 32 at 11. The Court disagrees.
+
+
+
+
+5
+          Fung also asserts Liberty’s “refusal to communicate with [her] . . . violates Title IV” and that Liberty’s
+“failure to provide [her] with a reasonable accommodation . . . violates . . . the ADA Act.” Id. Fung fails to state a
+claim for discrimination under Title IV or the Americans with Disabilities Act (ADA). First, Title IV does not
+contain a private right of action; does not apply to private educational institutions, such as Liberty; and concerns
+school desegregation. 42 U.S.C. § 2000c, et seq. Second, Liberty is exempt from the ADA’s requirements as a
+“religious organization.” 42 U.S.C. § 12187.
+6
+          The Court interprets Count IV, for “retaliation, biasness, and retaliation” as raising race and sex
+discrimination and retaliation claims under Title VI and IX of the Civil Rights Act and will analyze them
+accordingly. As the Title VII standard applies to each of these statutory causes of action, the Court analyzes them
+together.
+
+                                                            6
+   Case 6:25-cv-00058-NKM-CKM                Document 48        Filed 02/24/26     Page 7 of 11
+                                            Pageid#: 133
+
+
+
+          Virginia applies a two-year statute of limitations to both Title VI and IX claims; unless a
+
+claim is brought within two years of the cause of action accruing, it is time-barred. See Reid v.
+
+James Madison Univ., 90 F.4th 311, 317-18 (4th Cir. 2024) (Title IX); Smith v. Virginia Housing
+
+Dev. Auth., 437 F. Supp. 3d 486, 505 (E.D. Va. 2020) (Title VI). Claims accrue when a plaintiff
+
+has a “complete and present cause of action,” meaning when a “plaintiff possesses sufficient facts
+
+about the harm done to [her] that reasonable inquiry will reveal [her] cause of action.” Wallace v.
+
+Kato, 549 U.S. 384, 388 (2007); Nasim v. Warden, Maryland House of Corrections, 64 F.3d 951,
+
+955 (4th Cir. 1995).
+
+          Liberty argues Fung’s claims accrued “in 2021;” however, it does not argue why her claims
+
+accrued then. Dkt. 32 at 11. According to her complaint, Fung began her PhD at Liberty “in 2019,”
+
+and first began working with Wheeler for an unknown amount of time. Dkt. 1-1 ¶¶ 4-5. “In 2021,”
+
+Wheeler failed Fung. Id. ¶ 10. Fung’s dissertation was “ready for university delivery in 2022,” and
+
+since then, she has been “denied graduation without explanation.” Dkt. 1-1 ¶¶ 19, 21, 23. Fung
+
+does not specify when in 2022 she suffered these injuries. Since Fung is proceeding pro se, the
+
+Court construes her allegations broadly, and finds her claim accrued December 31, 2024, two years
+
+after the end of 2022. Thus, for purposes of this motion to dismiss, Fung’s claims are not time-
+
+barred.
+
+   2. Fung Fails to Allege Sufficient Facts to State a Hostile Educational Environment Claim
+      in Count III
+
+          To state a claim for hostile educational environment, a plaintiff must allege “(1) she was a
+
+student at an educational institution receiving federal funds, (2) she was subjected to harassment
+
+based on her sex [or race], (3) the harassment was sufficiently severe or pervasive to create a
+
+hostile (or abusive) environment in an educational program or activity, and (4) there is a basis for
+
+imputing liability to the institution.” Jennings v. Univ. of N. Carolina, 482 F.3d 686, 695 (4th Cir.
+
+                                                   7
+    Case 6:25-cv-00058-NKM-CKM                      Document 48            Filed 02/24/26          Page 8 of 11
+                                                   Pageid#: 134
+
+
+
+2007). Under this standard, harassment occurs when the plaintiff is subjected to sex or race-specific
+
+language that is aimed to humiliate, ridicule, or intimidate. See Ocheltree v. Scollon Prods., Inc.,
+
+335 F.3d 325, 331-32 (4th Cir. 2003). Harassment is “severe or pervasive” when it creates “an
+
+environment that a reasonable person would find hostile or abusive.” Harris v. Forklift Sys., Inc.,
+
+51 U.S. 17, 21 (1993).
+
+         Wheeler’s “sexist remarks,” his comments about his “disdain with [Fung’s] name and
+
+disguise of really being a ‘Black’ female,” and his decision to fail Fung “aimed to humiliate,
+
+ridicule, or intimidate” her, and are thus racial and sexual harassment. Dkt. 38 at 3; Ocheltree, 335
+
+F.3d at 331-32. However, without additional facts about the comments’ frequency, the Court cannot
+
+conclude they created “an environment that a reasonable person would find hostile or abusive;”
+
+Fung has failed to allege facts demonstrating the harassment she faced was severe or pervasive.
+
+Harris, 51 U.S. at 21. 7 However, because additional facts may allow this claim to proceed, the
+
+Court will dismiss Count III without prejudice.
+
+    3. Fung Fails to Allege Sufficient Facts to State a Discrimination Claim in Count IV
+
+         To state a discrimination claim under Title VI or IX, “a plaintiff must plead sufficient facts
+
+supporting (1) the defendant is a recipient of federal financial assistance; and (2) the defendant
+
+intentionally discriminated against plaintiff on the basis of race, [sex,] color, or national origin.”
+
+Lucas v. VHC Health, 128 F.4th 213, 221 (4th Cir. 2025).
+
+         Plaintiffs can allege discrimination through disparate treatment if a plaintiff alleges they
+
+were: (i) treated differently from a peer who was not a member of a protected class, and (ii) that
+
+“the defendant had a discriminatory intent or motion for taking a job-related action” against them.
+
+Smith v. Virginia Hous, Dev. Auth., 437 F. Supp. 3d 486, 506 (E.D. Va. 2020) (citing Ricci v.
+
+
+7
+          Fung alleges no facts that demonstrate the later “swattings” or her additional difficulties with other
+dissertation chairs were motivated by her sex or race. Id. ¶ 8; Dkt. 38 at 3.
+
+                                                           8
+   Case 6:25-cv-00058-NKM-CKM                Document 48         Filed 02/24/26      Page 9 of 11
+                                            Pageid#: 135
+
+
+
+DeStefano, 557 U.S. 557, 577 (2009)). Plaintiffs can allege discrimination through derogatory
+
+comments if a plaintiff alleges they are “(1) related to the protected class of persons of which the
+
+plaintiff is a member; (2) proximate in time to the complained-of adverse [] decision; (3) made by
+
+an individual with authority over the [] decision at issue; and (4) related to the [] decision at issue.”
+
+Bandy v. City of Salem, 59 F.4th 705, 711 (4th Cir. 2023).
+
+        Fung, a member of a “protected class” because of her race and gender, alleges Wheeler
+
+failed her, because of her dissertation’s “theoretical framework” of CRT. Dkt. 1-1 ¶ 5. She alleges
+
+a white female peer was permitted to use CRT in her dissertation and was not failed. Id. ¶ 6. Yet,
+
+Fung does not allege her peer’s dissertation chair was Wheeler, that her peer graduated on time, or
+
+that her peer attended Liberty. Thus, Fung does not allege sufficient facts to establish
+
+discrimination through disparate treatment.
+
+        Fung also alleges Wheeler made “sexist remarks” and “refer[red] to his disdain with
+
+[Fung’s] name and disguise of really being a ‘Black’ female rather than an ‘Asian female’ which
+
+[her] name represents.” Dkt. 38 at 2. However, Fung fails to allege these comments were
+
+“proximate in time” to Wheeler’s decision to fail her. Bandy, 59 F.4th at 711. As such, Fung does
+
+not allege sufficient facts to establish discrimination through derogatory facts. However, as
+
+amendment may not be futile for this claim, the Court will dismiss it without prejudice.
+
+    4. Fung Fails to Allege Sufficient Facts to State Retaliation Claim in Count IV
+
+        To state a retaliation claim under both Title VI and Title IX, a plaintiff must allege (1) they
+
+“engaged in protected activity;” and (2) because of this, they “suffered an adverse action
+
+attributable to the defendant educational institution.” Feminist Majority Found. v. Hurley, 911 F.3d
+
+674, 694 (4th Cir. 2018); Ross v. Commc’ns Satellite Corp., 759 F.2d 355, 365 (4th Cir.1985).
+
+“Protected activity” includes “actions taken to oppose [race or] sex discrimination, such as
+
+
+
+                                                   9
+    Case 6:25-cv-00058-NKM-CKM                  Document 48          Filed 02/24/26         Page 10 of 11
+                                                Pageid#: 136
+
+
+
+reporting . . . harassment.” Kessinger v. W. Virginia State Univ., 2026 WL 324485, at *10 (S.D.
+
+W.Va. Feb. 6, 2026) (citing Jackson v. Birmingham Bd. of Educ., 544 U.S. 167, 180 (2005)).
+
+        Fung alleges she made “14 reports of discriminatory practices to the Title IX office” as
+
+well as reports to the “Provost;” “Dean of online education;” and “Ombudsman” at Liberty;
+
+therefore, she has alleged facts sufficient to establish protected activity. Dkt. 38 at 2; Dkt. 1-1 ¶¶
+
+7, 25-27. And because “a reasonable [student]” would be dissuaded “from making . . . a
+
+discrimination [claim]” by receiving a failing grade and by being denied graduation, 8 Fung has
+
+alleged sufficient facts to establish adverse action. Burlington N. & Santa Fe Ry. Co. v. White, 548
+
+U.S. 53, 68 (2006); Dkt. 1-1¶¶ 7-8, 23.
+
+        Next, Fung must allege causation by either “showing that the adverse act bears sufficient
+
+temporal proximity to the protected activity,” or by alleging “facts that suggest the adverse action
+
+occurred because of the protected activity.” See Smith v. CSRA, 12 F.4th 396, 417 (4th Cir. 2021)
+
+(discussing framework in Rehabilitation Act context). Courts find causation through temporal
+
+proximity when very little time passes between the protected activity and the adverse action. See
+
+e.g., King v. Rumsfeld, 328 F.3d 145, 151 n.5 (finding gap of two months insufficient to prove
+
+temporal proximity and causation). Courts also find causation if there is “evidence of retaliatory
+
+animus during the intervening period.” Lettieri v. Equant, Inc., 478 F.3d 640, 650 (4th Cir. 2007).
+
+Under either prong of the test, a plaintiff cannot allege causation without demonstrating the
+
+decision-maker knew of the protected activity. Strothers v. City of Laurel, 895 F.3d 317, 336 (4th
+
+Cir. 2018).
+
+        Fung fails to allege facts regarding when she made each of her reports, and without these
+
+facts, the Court cannot find causation through temporal proximity. Likewise, she fails to allege
+
+
+8
+        As Fung merely provides conclusory allegations regarding Liberty’s alleged “swatting” of her home, the
+Court does not consider this adverse action for the purposes of Title IX. Simmons, 634 F.3d at 768.
+
+                                                       10
+  Case 6:25-cv-00058-NKM-CKM              Document 48         Filed 02/24/26      Page 11 of 11
+                                          Pageid#: 137
+
+
+
+facts demonstrating Wheeler, Castaneda, or any of her other dissertation chairs knew of her
+
+complaints to the Title IX office. Because Fung’s complaint is largely silent as to causation, the
+
+Court finds she has not stated a retaliation claim under either statute; the Court will Count IV, but
+
+will do so without prejudice as amendment may not be futile.
+
+                                           CONCLUSION
+
+       For the above reasons, the Court will grant Liberty’s motion to dismiss without prejudice
+
+as to Counts III and IV and will grant Liberty’s motion to dismiss with prejudice as to Counts I, II
+
+and V. Dkt. 31. The Court will also dismiss Fung’s pending motion for summary judgment as moot.
+
+Dkt. 29.
+
+       Although the Court has an obligation to construe Fung’s filings liberally due to her status
+
+as a pro se plaintiff, this obligation is not without limit. The Court puts Fung on notice of her
+
+obligation to familiarize herself with and comply with the Federal Rules of Civil Procedure and
+
+the Court’s Local Rules when submitting filings. The Court further strongly warns Fung that both
+
+the inclusion of, or reliance upon, cases that do not exist—or relying on cases that do exist but
+
+make vastly different points than those stated in the analysis—are sanctionable offenses under
+
+Federal Rule of Civil Procedure 11. The Court takes Liberty’s request for Rule 11 sanctions under
+
+advisement and will return to it if there are further violations, or at the end of the litigation,
+
+whichever comes first. Dkt. 39 at 3.
+
+       A separate order will issue.
+
+       The Clerk of Court is directed to send a copy of this memorandum opinion to all counsel
+
+of record.
+
+       Entered this 24th of February, 2026.
+
+
+
+
+                                                 11
+

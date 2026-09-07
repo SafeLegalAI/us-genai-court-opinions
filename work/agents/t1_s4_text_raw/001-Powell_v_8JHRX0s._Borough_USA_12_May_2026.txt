@@ -1,0 +1,212 @@
+Case 2:23-cv-21399-EP-JRA Document 44 Filed 05/12/26 Page 1 of 9 PagelD: 374
+NOT FOR PUBLICATION
+UNITED STATES DISTRICT COURT
+DISTRICT OF NEW JERSEY
+ZENA L. POWELL,
+Plaintiff, No. 23cv21399 (EP) (JRA)
+v. OPINION
+THE BOROUGH OF BERGENFIELD and THE
+BOROUGH OF BERGENFIELD POLICE
+DEPARTMENT,
+Defendants.
+PADIN, District Judge.
+Pro se Plaintiff Zena L. Powell (“Plaintiff” or “Powell”) alleges the Borough of
+Bergenfield (“Bergenfield”) and the Borough of Bergenfield Police Department (“BBPD”)
+discriminated against her due to her disabilities in violation of Title II of the Americans with
+Disabilities Act (“ADA”), 42 U.S.C. $ 12101 et seq.. and Section 504 of the Rehabilitation Act of
+1973, 29 U.S.C. $ 794 (the “Rehabilitation Act” or “RA”). D.E. 36 (“Amended Complaint” or
+“Am. Compl.”).
+This Court previously dismissed Plaintiff’s complaint, D.Es. 1, 3, & 4 (collectively referred
+to as the original “Complaint”) without prejudice and gave her 45 days to amend. D.Es. 30 (“MTD
+Opinion” or “MTD Op.”) & 31 (“MTD Order”). Plaintiffthen filed the Amended Complaint late.
+See Dkt. Following a dispute between the parties regarding the timeliness and futility of Plaintiff’s
+Amended Complaint, this Court ultimately allowed Plaintiff to proceed with the Amended
+Complaint. D.E. 35. Defendants now move to dismiss the Amended Complaint pursuant to
+Federal Rule ofCivil Procedure 12(b)(6). D.E. 39-3 (“Motion” or “Mot.”)." Plaintiff opposes the
+! Defendants filed their Notice of Motion at D.E. 39.Case 2:23-cv-21399-EP-JRA Document 44 Filed 05/12/26 Page 2 of 9 PagelD: 375
+Motion. D.E. 42 (“Opposition” or “Opp’n”). Defendants reply. D.E. 43 (“Reply”). The Court
+decides the Motion without oral argument. See Fed. R. Civ. P. 78(b); L. Civ. R. 78.1(b). For the
+reasons below, the Court will GRANT Defendants’ Motion and DISMISS Plaintiff’s Amended
+Complaint withoutprejudice.
+L BACKGROUND? 3
+Powell is a former resident of Bergenfield who has been handicapped since 2016. Am.
+Compl. § 5. She alleges that Bergenfield fails to provide a program for evaluating requests for
+personalized on-street parking spaces. Id. T 1. As a result of Bergenfield’s failure to provide
+adequate accessible parking, Plaintiff has “repeatedly” been issued parking tickets, and therefore
+experiences “emotional distress, financial hardship, and threats ofincarceration for unpaid parking
+tickets.” /d. 4| 13, 16.
+1L LEGAL STANDARD
+Pursuant to Federal Rule ofCivil Procedure 12(b)(6), a court accepts all factual allegations
+as true, construes the complaint in the plaintiff’s favor, and determines “whether, under any
+reasonable reading of the complaint, the plaintiff may be entitled to relief.” Phillips v. Cnty. of
+Allegheny, 515 F.3d 224, 233 (3d Cir. 2008) (citation modified). As Plaintiff is proceeding pro
+se, the Court holds the Amended Complaint to a less stringent standard than one drafted by an
+attorney. See Haines v. Kerner, 404 U.S. 519, 520 (1972). However, the Court need not “credit a
+pro se plaintiff’s ‘bald assertions’ or ‘legal conclusions.”” Grohs v. Yatauro, 984 F. Supp. 2d 273,
+? The facts in this section are taken from the well-pled factual allegations in the Amended
+Complaint, which the Court presumes to be true for purposes ofresolving the motion. See Ashcrofi
+v. Iqbal, 556 U.S. 662, 678 (2009).
+*The allegations in the Amended Complaint are substantially similar to those in the Complaint,
+and the Court refers to its MTD Opinion for a full factual background. The Court briefly
+summarizes the relevant facts here.Case 2:23-cv-21399-EP-JRA Document 44 Filed 05/12/26 Page 3 of 9 PagelD: 376
+282 (D.N.J. 2013) (quoting Morse v. Lower Merion Sch. Dist., 132 F.3d 902, 906 (3d Cir. 1997)).
+“In deciding a Rule 12(b)(6) motion, a court must consider only the complaint, exhibits attached
+to the complaint, matters of public record, as well as undisputedly authentic documents if the
+complainant’s claims are based upon these documents.” Mayer v. Belichick, 605 F.3d 223, 230
+(3d Cir. 2010).
+To survive a Rule 12(b)(6) challenge, the plaintiff’s claims must be facially plausible,
+meaning that the well-pled facts “allow[] the court to draw the reasonable inference that the
+defendant is liable for the misconduct alleged.” Igbal, 556 U.S. at 678 (citing Bell Atl. Corp. v.
+Twombly, 550 U.S. 544, 556 (2007)). The allegations must be “more than labels and conclusions,
+and a formulaic recitation ofthe elements ofa cause of action will not do.” Twombly, 550 U.S. at
+555. “[A] court considering a motion to dismiss can choose to begin by identifying pleadings that,
+because they are no more than conclusions, are not entitled to the assumption oftruth.” Igbal, 556
+U.S. at 679. Finally, “[w]hile legal conclusions can provide the framework of a complaint, they
+must be supported by factual allegations.” Id.
+III. ANALYSIS
+Defendants argue that the Amended Complaint should be dismissed because Plaintiff
+(1) fails to cure the deficiencies in the Complaint, (2) does not plead a claim of deliberate
+indifference, and (3) lacks standing to pursue an action for injunctive relief under the ADA.
+Plaintiff opposes the Motion, arguing that she has cured the deficiencies identified in this Court’s
+MTD Opinion, has properly alleged deliberate indifference, and maintains standing based on her
+desire to return to Bergenfield. See Opp’n. As explained below, the Court disagrees with Plaintiff,
+and will therefore GRANT the Motion.Case 2:23-cv-21399-EP-JRA Document 44 Filed 05/12/26 Page 4 of 9 PagelD: 377
+A. Powell Again Fails to State an ADA or Rehabilitation Act Claim
+This Court previously dismissed Plaintiff’s Complaint for failure to state an ADA claim.
+MTD Opinion at 4-6. Powell’s Amended Complaint asserts substantially similar allegations to
+her Complaint. Defendants argue that Powell’s Amended Complaint did not cure the deficiencies
+in her Complaint. Mot. at 9-10. The Court agrees.
+First, to establish a violation of Title II of the ADA or the Rehabilitation Act, a plaintiff
+must demonstrate that: “(1) they are handicapped or disabled as defined under the statutes; (2) they
+are otherwise qualified to participate in the program at issue; and (3) they were precluded from
+participating in a program or receiving a service or benefit because of their disability.” CG v.
+Pennsylvania Dep 't ofEduc.. 734 F.3d 229, 235 (3d Cir. 2013) (citing Chambers ex rel. Chambers
+v. Sch. Dist. ofPhila. Bd. ofEduc., 587 F.3d 176 (3d Cir. 2009)). The Third Circuit has explained
+that “[w]ith limited exceptions, the same legal principles govern ADA and RA claims.” Id. at
+235-36. Additionally, a Plaintiff bringing claims under the RA must demonstrate that the entity
+that she alleges discriminated against her receives federal funding and that her disability was the
+sole reason for the discrimination.* 29 U.S.C. § 794(a); CG, 734 F.3d at 235 n.10.
+The Court previously rejected Powell’s assertion that Defendants’ failure to create or
+maintain a program for assessing requests for personalized accessible parking spaces on public
+streets constitutes disability discrimination under the ADA. MTD Opinion at 6. In statements
+almost identical to Plaintiff’s Complaint, Plaintiff concedes in her Amended Complaint that
+Bergenfield stated “that no program existed for such accommodations,” not that she was denied
+* While Plaintiff now alleges her claims under both the ADA and Rehabilitation Act, her Amended
+Complaint is limited to allegations under the ADA. Plaintiff makes only passing references to the
+Rehabilitation Act and does not make any claims regarding whether Defendants receive federal
+funding or whether the alleged discrimination was based solely on Plaintiff’s status as a disabled
+individual. Therefore, Plaintiffdoes not sufficiently plead a claim under the RA.Case 2:23-cv-21399-EP-JRA Document 44 Filed 05/12/26 Page 5 of 9 PagelD: 378
+access to a program provided. Am. Compl. § 12. Therefore, Powell’s Amended Complaint again
+fails to state an ADA or Rehabilitation Act claim. However, Powell will be afforded one more
+opportunity to cure her pleadings.’
+Second, this Court previously dismissed Plaintiffs ADA claim on the grounds that she
+failed to adequately allege that Defendants violated the ADA by providing an insufficient number
+of accessible parking spaces. The Court explained that the ADA Accessibility Guidelines
+(“ADAAG”) $ 208.1 require a minimum number of accessible spots based on the fota/ number of
+parking spots. MTD Opinion at 5. In assessing Plaintiff’s allegations, the Court found that
+“Powell alleges that there are more than 100 residents and only two [accessible] spaces, and
+therefore Bergenfield violates the ADA. However, Powell does not allege how many total spaces
+are provided.” Id.
+Powell’s Amended Complaint again fails to allege the total number of parking spaces
+provided. The only allegation in Powell’s Amended Complaint concerning the number of
+accessible parking spaces is that there are “at least ten disabled individuals on Plaintiff’s block
+alone,” with only two accessible on-street parking spaces for the area. Am. Compl. 9. Powell
+still does not allege how many rotal spaces are provided. The Court re-emphasizes that the total
+number of spaces is essential to determining whether Defendants are in compliance with the
+ADA'’s requirements. MTD Opinion at 5; Theodore v. 99 Restaurants, LLC, No. 18-368, 2019
+WL 4861201, at *3 (D.N.H. Oct. 2, 2019). As Powell’s allegations depend on the number of
+accessible parking spaces per disabled individual, the Court still cannot discern an ADA violation
+for failure to provide accessible parking within the required ratios under $ 208.2. In sum, having
+* The Court instructs Powell that failure to cure the deficiencies identified herein and in the MTD
+Opinion will result in a dismissal with prejudice.Case 2:23-cv-21399-EP-JRA Document 44 Filed 05/12/26 Page 6 of 9 PagelD: 379
+found that Plaintiff failed to state an ADA or RA claim, the Court will GRANT Defendant’s
+Motion and DISMISS Plaintiff’s ADA and RA claims.
+B. PlaintiffFails to Plead Deliberate Indifference
+Plaintiff also seeks compensatory damages “for the harm suffered by Plaintiff due to the
+Defendants’ discrimination.” Am. Compl., Prayer for Relief atC. Defendants argue that Plaintiff
+alleges deliberate indifference “in a conclusory fashion” and call Plaintiff’s allegations “threadbare
+and formulaic.” Motion at 15-18. The Court agrees.
+To recover compensatory damages under the ADA, a plaintiff must prove intentional
+discrimination under a deliberate indifference standard. Durham v. Kelley, 82 F.4th 217, 225 (3d
+Cir. 2023). The standard for deliberate indifference requires Plaintiffto prove “(1) knowledge that
+a federally protected right is substantially likely to be violated . . . and (2) failure to act despite
+that knowledge.” S.H. v. Lower Merion Sch. Dist., 729 F.3d 248, 265 (3d Cir. 2013). Plaintiff
+does not make allegations to support a claim of deliberate indifference.
+Plaintiff alleges only that “Defendants’ conduct was intentional and carried out with
+deliberate indifference to the rights of Plaintiff.” Am. Compl. 4 23. As this statement is a legal
+conclusion, the Court will not credit this item. Grohs, 984 F. Supp. at 282 (quoting Morse, 132
+F.3d at 906). Therefore, Plaintiff has not pleaded any allegations that support a claim for deliberate
+indifference. Plaintiff’s briefing suggests that she gave Bergenfield “repeated notice, including a
+handwritten demand letter.” Opp’n at 14. Plaintiff is instructed that she may not amend her
+pleadings through briefing. Pennsylvania ex rel. Zimmerman v. PepsiCo, Inc., 836 F.2d 173, 181
+(3d Cir. 1988) (“[I]t is axiomatic that the complaint may not be amended by the briefs in opposition
+to a motion to dismiss.”) (internal quotations and citation omitted). But the Court will give Powell
+one more opportunity to cure her pleadings. As a result of Plaintiff’s failure to plead deliberateCase 2:23-cv-21399-EP-JRA Document 44 Filed 05/12/26 Page 7 of 9 PagelD: 380
+indifference, the Court will GRANT Defendant’s Motion and DISMISS Plaintiff’s claim for
+compensatory damages.
+C. PlaintiffLacks Standing for Injunctive Relief as Pled
+Finally, the Court considers Defendants’ contention that Plaintifflacks standing to assert a
+claim for prospective injunctive relief. Mot. at 19. Powell requests that the Court “[o]rder[]
+Defendants to adopt and implement a policy for residential accessible on-street parking upon
+request by qualified disabled residents.” Am. Compl., Prayer for Relief at B. Defendants argue
+that Plaintifflacks standing to seek injunctive relief, as she “no longer resides in Bergenfield.” and
+therefore “she is not subject to the alleged harm.”® Mot. at 19. Plaintiff contends in her briefing
+that though she moved from Bergenfield to Fort Lee, she maintains standing based on a claim that
+she is deterred from returning to Bergenfield. Opp’nat 16—19. The Court agrees with Defendants:
+As currently pled, Plaintiff lacks standing to bring a claim for prospective injunctive relief.
+“Absent Article III standing, a federal court does not have subject matter jurisdiction to
+address a plaintiff’s claims, and they must be dismissed.” Davis, 824 F.3d at 346 (quoting
+Taliaferro v. Darby Twp. Zoning Bd., 458 F.3d 181, 188 (3d Cir. 2006)). A plaintiff can establish
+that their case presents a controversy, and, consequently, that they have standing, by
+demonstrating: (1) an injury in fact, (2) a sufficient causal connection between the injury claimed
+and the conduct complained of, and (3) a likelihood that a favorable decision would redress the
+party's complained-of injury. Lujan v. Defenders of Wildlife, 504 U.S. 555, 560-61 (1992).
+6 Defendants improperly move to dismiss Plaintiff’s request for injunctive relief under Federal
+Rule of Civil Procedure 12(b)(6). Because “[s]tanding is a jurisdictional matter,” a motion for
+dismiss for lack ofstanding is properly brought pursuant to Federal Rule Civil Procedure 12(b)(1).
+Davis v. Wells Fargo, 824 F.3d 333, 346 (3d Cir. 2016). Therefore, the Court analyzes
+Defendant’s motion to dismiss Plaintiffs injunctive relieffor lack ofstanding under Rule 12(b)(1).Case 2:23-cv-21399-EP-JRA Document 44 Filed 05/12/26 Page 8 of 9 PagelD: 381
+Courts in this District apply a four-factor test when analyzing whether an ADA plaintiff
+alleges a sufficient injury for standing purposes. Wittmann v. Island Hosp. Mgmt., No. 09-3698,
+2011 WL 689613, at *5 (D.N.J. Feb. 18, 2011) (compiling cases). “Courts consider: (1) the
+plaintiff’s proximity to the defendant’s place of public accommodation; (2) the plaintiff’s past
+patronage; (3) the definiteness ofthe plaintiff’s plan to return; and (4) the plaintiff’s frequency of
+nearby travel.” Id. Powell alleges that she “had to move from [her] residence and relocate to Fort
+Lee[,] New Jerey [sic] to stop the ticketing issue in Bergenfield.” Am. Compl. ( 24. But Powell
+does not make any allegations regarding her plans to return to Bergenfield, including the
+definiteness of her plan to return and the frequency of traveling there. Therefore, the Court will
+GRANT Defendant’s Motion and DISMISS Plaintiffs claim for injunctive relief as pled.
+D. Plaintiff’s Apparent Use of Generative Artificial Intelligence
+Finally, when reviewing Plaintiff’s Opposition, the Court, like Defendants, identified
+several inaccurate quotations and citations. Namely, Plaintiffincludes quotations from real cases,
+but the quotations are fabricated. Defendants list numerous examples. See Reply at 2-3.
+The presence of fabricated quotations in a brief is a sign that the brief’s author may have
+used generative artificial intelligence (“GAI”). Pursuant to Section I(B) of the Undersigned’s
+Judicial Preferences, if a party uses GAI in any court filings, they must include a mandatory
+disclosure that: “(1) identifies the GAI program: (2) identifies the portionofthe filing drafted by
+the GAI; and (3) certifies that the GAI work product was diligently reviewed by a human being
+for accuracy and applicability.” While it seems that Plaintiff utilized GAI in drafting her
+Opposition, Plaintiffhas not provided such disclosure.
+Furthermore, to the extent Plaintiff has filed a brief with fabricated quotations, she may
+have violated Federal Rule of Civil Procedure 11(b). That rule “imposes . . . an affirmative duty
+to conduct an ‘inquiry reasonable under the circumstances’ to ensure that their (1) ‘[filings are]Case 2:23-cv-21399-EP-JRA Document 44 Filed 05/12/26 Page 9 of 9 PagelD: 382
+not being presented for any improper purpose,” (2) ‘legal contentions are warranted by existing
+law or by a nonfrivolous argument,’ (3) “factual contentions have evidentiary support,” and
+(4) “denials of factual contentions are warranted on the evidence.”” Barker v. United Airlines,
+Inc., No. 25-1539, 2026 WL 949093, at *1 (3d Cir. Apr. 8, 2026). Rule 11 applies to all parties.
+See Zelma v. Penn LLC, No. 19-8725, 2020 WL 278763, at *3 (D.N.J. Jan. 17, 2020) (“Pro
+se litigants are not shielded from the sanctions offered by Rule 11.” (quoting Skoorka v. Kean
+Univ., No. 16-3842, 2017 WL 6539449, at *3 (D.N.J. Dec. 21, 2017))).
+A court may sua sponte “order a . . . party to show cause why conduct . . . has not violated
+Rule 11(b).” Allbaugh v. Univ. ofScranton, No. 24-2237, 2025 WL 2484188, at *5 (M.D. Pa.
+Aug. 28, 2025) (quoting Fed. R. Civ. P. 11(c)). Given the Court’s suspicion that Plaintiff has not
+only violated the Undersigned’s Judicial Preferences but also Rule 11 by filing a submission with
+fabricated quotations, the Court orders Powell to show cause as described in the accompanying
+Order.
+IV. CONCLUSION
+For the reasons above, the Court will GRANT Defendants’ Motion, D.E. 39, and
+DISMISS the Amended Complaint without prejudice. D.E. 36. Plaintiff will have 45 days to file
+an amended complaint to cure the deficiencies identified herein. An appropriate Order
+accompanies this Opinion.
+Dated: May 12, 2026
+s Evelyn Padin, U.S.D.J.

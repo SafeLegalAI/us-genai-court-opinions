@@ -1,0 +1,591 @@
+[Cite as State v. Booker, 2026-Ohio-3371.]
+
+
+
+                    IN THE COURT OF APPEALS
+                FIRST APPELLATE DISTRICT OF OHIO
+                    HAMILTON COUNTY, OHIO
+
+
+STATE OF OHIO,                                :        APPEAL NO.        C-250699
+                                                       TRIAL NO.         B-2502393
+         Plaintiff-Appellee,                  :
+
+   vs.                                        :
+
+WILLIAM BOOKER,                               :
+                                                            JUDGMENT ENTRY
+         Defendant-Appellant.                 :
+
+
+
+          This cause was heard upon the appeal, the record, and the briefs.
+          For the reasons set forth in the Opinion filed this date, the judgment of the trial
+court is affirmed.
+          Further, the court holds that there were reasonable grounds for this appeal,
+allows no penalty, and orders that costs be taxed under App.R. 24.
+          The court further orders that (1) a copy of this Judgment with a copy of the
+Opinion attached constitutes the mandate, and (2) the mandate be sent to the trial
+court for execution under App.R. 27.
+
+
+
+To the clerk:
+Enter upon the journal of the court on 8/28/2026.
+Pursuant to App.R. 30, the clerk is directed to send all parties, or their
+counsel if represented, a copy of the court’s judgment and note such action
+on the docket.
+
+By:_______________________
+      Administrative Judge
+[Cite as State v. Booker, 2026-Ohio-3371.]
+
+
+
+                    IN THE COURT OF APPEALS
+                FIRST APPELLATE DISTRICT OF OHIO
+                    HAMILTON COUNTY, OHIO
+
+
+STATE OF OHIO,                               :   APPEAL NO.     C-250699
+                                                 TRIAL NO.      B-2502393
+         Plaintiff-Appellee,                 :
+
+   vs.                                       :
+
+WILLIAM BOOKER,                              :          OPINION
+
+         Defendant-Appellant.                :
+
+
+
+Criminal Appeal From: Hamilton County Court of Common Pleas
+
+Judgment Appealed From Is: Affirmed
+
+Date of Judgment Entry on Appeal: August 28, 2026
+
+
+
+Connie Pillich, Hamilton County Prosecuting Attorney, and Paula E. Adams, Assistant
+Prosecuting Attorney, for Plaintiff-Appellee,
+
+Angela J. Glaser, for Defendant-Appellant.
+[Cite as State v. Booker, 2026-Ohio-3371.]
+
+
+BOCK, Judge.
+
+        {¶1}     In two assignments of error, defendant-appellant William Booker
+
+challenges his aggravated-drug-trafficking conviction. First, he maintains that law
+
+enforcement’s warrantless search of his bookbag, which was in an SUV parked on a
+
+public street, violated his Fourth Amendment rights. Second, he argues that the trial
+
+court’s noncompliance with Crim.R. 11 rendered his no-contest plea involuntary and
+
+unknowing. Unconvinced, we overrule both assignments of error.
+
+        {¶2}     First, the search was justified under the automobile exception to the
+
+warrant requirement. Officers had probable cause to search the bookbag in the SUV
+
+because the officers were aware of surveillance footage suggesting that a gunman
+
+discarded the bookbag while fleeing the scene of a shooting. Second, the trial court
+
+correctly advised Booker that he faced a mandatory prison sentence and was ineligible
+
+for community control because he admitted to having more than five times the bulk
+
+amount of methamphetamine in the vicinity of a school zone.
+
+        {¶3}     We affirm Booker’s conviction.
+
+                          I. Factual and Procedural History
+
+        {¶4}     The     State    charged    Booker   with   aggravated   trafficking   of
+
+methamphetamine in violation of R.C. 2925.03(A)(2) and aggravated possession of
+
+methamphetamine in violation of R.C. 2925.11(A).
+
+A. Suppression hearing
+
+        {¶5}     Booker moved to suppress the methamphetamine and evidence
+
+recovered by officers in his bookbag as a violation of his Fourth Amendment rights
+
+and all statements he made during and after his arrest as a violation of his Fifth
+
+Amendment rights. At the suppression hearing, Booker abandoned his Fifth
+                OHIO FIRST DISTRICT COURT OF APPEALS
+
+
+Amendment claims and stipulated that he had the keys to, and therefore a possessory
+
+interest in, the SUV that was searched.
+
+       {¶6}   The Cincinnati Police Department deploys surveillance technology to
+
+monitor Cincinnati’s residents and visitors. Cincinnati Police Officer Benjamin
+
+Williamson testified that ShotSpotter detected the sound of gunshots at the
+
+intersection of Vine Street and Green Street, and then on Republic Street, in
+
+Cincinnati. To Williamson, the sound and speed of the gunshots suggested a firearm
+
+larger than a handgun. Williamson called the Cincinnati Police Department’s Real-
+
+Time Crime Center (“Crime Center”), which sent Williamson video footage of a
+
+gunman with a bookbag firing a rifle “towards Vine Street.” Williamson testified that
+
+the gunman had an accomplice, who was carrying a handgun and wearing a
+
+“camouflage jacket.” The two fled and “ducked down behind a tan SUV that was
+
+parked” on a public street. He described that area as Cincinnati’s “most violent . . .
+
+open-air drug market.”
+
+       {¶7}   The Crime Center told Williamson that one of the SUV’s doors opened
+
+momentarily before the shooters disappeared down a nearby alleyway. According to
+
+Williamson, that alleyway is “where they go and ditch narcotics, guns, anything like
+
+that.” Officers responding to the scene found a handgun and camouflage jacket in the
+
+alleyway, but they did not find a rifle. Williamson could not determine from the
+
+surveillance footage whether the gunman carried the bookbag into the alleyway.
+
+       {¶8}   The Crime Center drew Williamson’s attention to two men that
+
+resembled the gunman and his accomplice standing near the SUV. In bodycam
+
+footage, Williamson told other officers that the gunman and accomplice huddled near
+
+the trunk of the SUV. Williamson peered into the window of the SUV and spotted “two
+
+black bags” in the trunk and “a black bag in the front passenger seat.” At the hearing,
+
+
+                                          4
+                 OHIO FIRST DISTRICT COURT OF APPEALS
+
+
+Williamson speculated the gunman had tossed his bookbag into the SUV and that the
+
+bookbag “could have contained more firearms and . . . the rifle.” Williamson did not
+
+suspect that Booker was the gunman or accomplice and began speaking with Booker
+
+about the bags in the SUV. Booker said the bookbag in the front passenger
+
+compartment was his and consented to a search before revoking that consent.
+
+       {¶9}    Williamson testified that there were no canine units in the Cincinnati
+
+Police Department capable of detecting firearms. Yet, Williamson requested “a K-9
+
+unit to do an open-air sniff of the vehicle to determine if there was contraband for a
+
+probable cause search.” Williamson, determined to search the vehicle, testified that he
+
+wanted to “exhaust all [] resources” to search the SUV due to the “exigency of the
+
+situation,” so he needed to secure the vehicle. Williamson estimated that obtaining a
+
+warrant would have taken two to three hours.
+
+       {¶10} Officer Knapp responded with his canine partner, Bravo, to “complete a
+
+free-air drug sniff” as part of the investigation into the missing rifle. After circling the
+
+SUV twice, Bravo alerted Officer Knapp to the odor of narcotics near the front
+
+passenger door. Officer Williamson testified that Bravo’s alert gave him probable
+
+cause to search the SUV. While Williamson found a digital scale and individually
+
+packaged methamphetamine pills in the bookbag, he never found the rifle.
+
+       {¶11} The trial court denied Booker’s motion to suppress and found the
+
+vehicle search did not violate the Fourth Amendment because law enforcement had
+
+probable cause to search the SUV before Bravo’s dog sniff due to exigent
+
+circumstances. And Bravo’s alert gave officers probable cause to search the bookbag
+
+“for anything really.”
+
+
+
+
+                                             5
+                 OHIO FIRST DISTRICT COURT OF APPEALS
+
+
+B. Booker pleaded no contest
+
+       {¶12} Booker withdrew his not-guilty pleas and pleaded no contest to the
+
+charges. The trial court accepted Booker’s no-contest pleas, found him guilty, merged
+
+the possession count into the trafficking count, and imposed a five-to-seven-and-a-
+
+half-year sentence.
+
+                                     II. Analysis
+
+       {¶13}   On appeal, Booker challenges the trial court’s denial of his motion to
+
+suppress and the validity of his plea.
+
+A. First Assignment of Error: The bag search was permissible under the
+   Fourth Amendment’s automobile exception
+
+       {¶14} Booker argues that the trial court erred by denying his motion to
+
+suppress because the officers’ search of his bookbag violated his rights under the
+
+Fourth Amendment.
+
+       {¶15} An appeal of a trial court’s decision denying or granting a motion to
+
+suppress raises a mixed question of law and fact. See State v. Ward, 2017-Ohio-8141,
+
+¶ 12 (1st Dist.). We accept the trial court’s finding of facts that are supported by
+
+competent and credible evidence. Id. But we independently review the application of
+
+those facts to the law. Id.
+
+       {¶16} The Fourth Amendment promises freedom from “unreasonable
+
+searches and seizures.” U.S. Const., amend. IV. That freedom demands “that searches
+
+be conducted pursuant to a warrant issued by an independent judicial officer.”
+
+California v. Carney, 471 U.S. 386, 390 (1985). Securing a warrant is “the rule, not the
+
+exception.” State v. Burroughs, 2022-Ohio-2146, ¶ 13. A warrantless search is “‘per se
+
+unreasonable’” unless the State shows that an established exception to the warrant
+
+
+
+
+                                           6
+                   OHIO FIRST DISTRICT COURT OF APPEALS
+
+
+requirement justifies the warrantless search. See Ward at ¶ 13, quoting State v.
+
+Bacher, 2007-Ohio-727, ¶ 8 (1st Dist.).
+
+          {¶17} The automobile exception authorizes “a warrantless search of an entire
+
+vehicle if the officers have probable cause to believe that they will discover evidence of
+
+a crime.” In re L.S., 2016-Ohio-5582, ¶ 15 (1st Dist.); see California v. Acevedo, 500
+
+U.S. 565, 580 (1991) (“The police may search an automobile and the containers within
+
+it where they have probable cause to believe contraband or evidence is contained.”).
+
+The automobile exception is justified by the exigencies created by “the inherent
+
+mobility of automobiles” and the “public nature of automobile travel.” South Dakota
+
+v. Opperman, 428 U.S. 364, 367 (1976). Probable cause exists for a warrantless search
+
+if a reasonable officer would believe, based on “‘the totality of the circumstances
+
+known to the officer at the time of the search,’” that evidence of a crime will be found
+
+in a specific place. Ward at ¶ 20, quoting State v. Grubbs, 2017-Ohio-41, ¶ 33 (6th
+
+Dist.).
+
+          {¶18} When “officers have probable cause to search a lawfully stopped vehicle,
+
+they may conduct a warrantless search of any containers found inside that may conceal
+
+the object of the search.” United States v. Johns, 469 U.S. 478, 479-480 (1985). So, if
+
+officers have “probable cause to search for contraband in a car, it is reasonable for
+
+police officers . . . to examine packages and containers without a showing of
+
+individualized probable cause for each one.” Wyoming v. Houghton, 526 U.S. 295,
+
+302 (1999).
+
+          {¶19} Booker argues1 that the automobile exception does not apply because
+
+before Bravo’s dog sniff, the officers lacked probable cause to believe there was
+
+
+1 Booker does not argue that the rifle could not have fit in the bookbag, a closer question.
+
+
+
+
+                                                  7
+                 OHIO FIRST DISTRICT COURT OF APPEALS
+
+
+evidence of a crime. We disagree. Williamson’s testimony and video footage showed a
+
+gunman with a bookbag and his accomplice taking cover near the trunk of the SUV,
+
+opening a door, and then disappearing into a nearby alley without the rifle and
+
+bookbag. Based on the totality of the circumstances, there was probable cause to
+
+believe that the SUV, and one of the bags inside, held evidence related to a crime.
+
+       {¶20} In support of his claim, Booker relies on our opinion in Ward. There,
+
+an “officer saw a vehicle parked near a sidewalk [in an area of high-drug activity] with
+
+a person leaning into the vehicle, and as the officer approached, the person walked
+
+away from the car.” Ward, 2017-Ohio-8141, at ¶ 26 (1st Dist.). We ruled that presence
+
+in a high-crime area combined with neutral or ambiguous acts does not create
+
+probable cause to believe that evidence of a crime exists. Id. at ¶ 19, 26. But Ward is
+
+distinguishable from this case because here, officers knew that a gunman carrying a
+
+bookbag had fired a rifle multiple times before taking cover near the SUV, where he
+
+potentially discarded his rifle and bookbag. Firing a rifle in an urban center and then
+
+fleeing are neither neutral nor ambiguous acts.
+
+       {¶21} Booker also argues that the Ohio Supreme Court’s opinion in Burroughs
+
+demands the suppression of the methamphetamine. In Burroughs, the Court
+
+considered the constitutionality of a search of a “closed bookbag with part of a plastic
+
+baggie caught in the zipper” as officers executed an arrest warrant in a home.
+
+Burroughs, 2022-Ohio-2146, at ¶ 3-5. The State argued that the search was
+
+constitutional under “[t]he single-purpose-container exception . . . an offshoot of the
+
+plain-view doctrine.” Id. at ¶ 15. The plain-view exception allows officers to seize an
+
+object in plain view if an officer is lawfully in a place with lawful access to an object in
+
+which its incriminating nature “is immediately apparent.” Horton v. California, 496
+
+U.S. 128, 136-137 (1990). The single-purpose-container exception allows officers to
+
+
+                                             8
+                 OHIO FIRST DISTRICT COURT OF APPEALS
+
+
+search a container with a distinct “outward appearance” that “proclaims its contents.”
+
+Robbins v. California, 453 U.S. 420, 427 (1981) (plurality opinion), overruled on other
+
+grounds by United States v. Ross, 456 U.S. 798, 824 (1982).
+
+       {¶22} The Burroughs Court held that the single-purpose-container exception
+
+did not justify the warrantless search of the bookbag. See Burroughs at ¶ 21. To fall
+
+within the single-purpose-container exception, “‘a container must so clearly announce
+
+its contents, whether by its distinctive configuration, its transparency, or otherwise,
+
+that its contents are obvious to an observer.’” Id. at ¶ 19, quoting Robbins at 428. The
+
+Court reasoned that a bookbag is “commonly used to carry a wide variety of items” and
+
+does not inherently broadcast its contents. Id. at ¶ 20.
+
+       {¶23} Williamson agreed that the methamphetamine was found in an
+
+unremarkable and common black bookbag. But Williamson did not rely on the single-
+
+purpose-container exception or suggest that the bookbag announced the
+
+methamphetamine inside. And unlike the bookbag in Burroughs, the facts known to
+
+the officers investigating the gunman gave rise to an inference that the bags in the SUV
+
+were connected to a recent shooting.
+
+       {¶24} Booker also points out that the SUV was parked, a fact that he claims
+
+undermines the notion that the SUV’s inherent mobility justified the automobile
+
+search. In this regard, the “‘ready mobility’ of vehicles served as the core justification
+
+for the automobile exception for many years.” Collins v. Virginia, 584 U.S. 586, 591
+
+(2018). And when that mobility or other “justifications for the automobile exception
+
+‘come into play,’ officers may search an automobile without having obtained a warrant
+
+so long as they have probable cause to do so.” Id. But the automobile exception applies
+
+to parked vehicles. See State v. Underwood, 2004-Ohio-504, ¶ 19 (12th Dist.). Indeed,
+
+justifications for the automobile exception apply regardless of whether “the car has
+
+
+                                            9
+                 OHIO FIRST DISTRICT COURT OF APPEALS
+
+
+been immobilized,” whether “the car would have been driven away,” or whether “its
+
+contents would have been tampered with” while officers secured a warrant. Michigan
+
+v. Thomas, 458 U.S. 259, 261 (1982).
+
+       {¶25} Finally, Booker appears to argue that the dog sniff was unconstitutional
+
+since Bravo was not trained to detect firearms and nothing suggested that the SUV
+
+contained narcotics. But we hold that the dog sniff did not violate Booker’s Fourth
+
+Amendment rights because a free-air dog sniff around a car parked on a public road is
+
+not a search under the Fourth Amendment. See Illinois v. Caballes, 543 U.S. 405, 409
+
+(2005); see also State v. Bryner, 2018-Ohio-3215, ¶ 15 (9th Dist.). Dog sniffs “reveal[]
+
+no information other than the location of a substance that no individual has any right
+
+to possess” and “do[] not expose noncontraband items that otherwise would remain
+
+hidden from public view.” Caballes at 409-410.
+
+       {¶26} In sum, the officers’ search of the bookbag was constitutional under the
+
+automobile exception because the officers had probable cause to suspect that the
+
+bookbag held evidence in connection with a criminal offense. We overrule Booker’s
+
+first assignment of error.
+
+B. Second Assignment of Error: The trial court’s plea colloquy complied
+with Crim.R. 11
+
+       {¶27} Booker maintains that the trial court failed to accurately advise him of
+
+the maximum penalties that he faced during the plea colloquy as required by Crim.R.
+
+11(C). He contends that the trial court’s alleged misstatement regarding the mandatory
+
+nature of his sentence rendered his no-contest plea unknowing and unintelligent.
+
+       {¶28} When a criminal defendant pleads guilty or no-contest to a felony
+
+offense, before accepting the plea, a trial court must advise the defendant of
+
+constitutional and nonconstitutional rights as instructed by Crim.R. 11. See State v.
+
+
+
+                                          10
+                 OHIO FIRST DISTRICT COURT OF APPEALS
+
+
+Walker, 2024-Ohio-6079, ¶ 22 (1st Dist.). Nonconstitutional requirements found in
+
+Crim.R. 11(C)(2)(a) and (b) “require the trial court to provide information and make
+
+determinations that help to ensure the defendant’s decision to plead is knowing,
+
+intelligent, and voluntary in a more general sense.” Id. at ¶ 23.
+
+       {¶29} Under Crim.R. 11(C)(2)(a), a trial court hearing a no-contest plea to a
+
+felony offense must advise the defendant of “the maximum penalty involved, and if
+
+applicable, that the defendant is not eligible for probation or for the imposition of
+
+community control sanctions at the sentencing hearing.”
+
+       {¶30} Relevant here, the trial court discussed the penalties that Booker faced
+
+for each offense, reviewed Ohio’s indefinite-sentencing scheme, and confirmed that
+
+Booker understood that he faced a mandatory prison sentence and was ineligible “for
+
+probation.” Booker maintains that he was not subject to a mandatory prison sentence
+
+and that this misstatement violated Crim.R. 11.
+
+       {¶31} But the trial court got it right. Booker was charged with aggravated drug
+
+trafficking in violation of R.C. 2925.03(A)(2), a first-degree felony. Aggravated drug
+
+trafficking is a first-degree felony and carries a mandatory prison sentence if (1) “the
+
+amount of the drug involved equals or exceeds five times the bulk amount but is less
+
+than fifty times the bulk amount” and (2) “the offense was committed in the vicinity of
+
+a school.” R.C. 2925.03(C)(1)(d). Methamphetamine is a schedule II-controlled
+
+substance.    See    Adm.Code     4729:9-1-02(C)(2).      The       “bulk   amount”   for
+
+methamphetamine is three grams. See R.C. 2925.01(D)(1)(g). The “vicinity of a school”
+
+is “within one thousand feet of the boundaries of any school premises.” R.C.
+
+2925.01(P). So, a prison sentence was mandatory so long as Booker pleaded no contest
+
+to an offense involving more than 15 grams of methamphetamine that occurred within
+
+1,000 feet of a school.
+
+
+                                           11
+                OHIO FIRST DISTRICT COURT OF APPEALS
+
+
+       {¶32} At the hearing, the State explained that officers found 16.261 grams of
+
+methamphetamine in the bookbag, which was located 550 feet away from a school.
+
+Because Booker had more than five times the bulk amount of methamphetamine in
+
+the vicinity of a school, a prison sentence was mandatory under R.C. 2925.03(C)(1)(d).
+
+Therefore, the trial court’s advisement complied with Crim.R. 11(C)(1)(a). We overrule
+
+the second assignment of error.
+
+                                  III. Conclusion
+
+       {¶33} We overrule Booker’s two assignments of error and affirm the trial
+
+court’s judgment.
+
+                                                                  Judgment affirmed.
+
+KINSLEY, P.J., and NESTOR, J., concur.
+
+
+
+
+                                         12
+

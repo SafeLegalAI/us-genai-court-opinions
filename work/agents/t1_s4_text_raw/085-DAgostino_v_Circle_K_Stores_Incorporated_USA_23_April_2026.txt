@@ -1,0 +1,1294 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+WO
+IN THE UNITED STATES DISTRICT COURT
+FOR THE DISTRICT OF ARIZONA
+Daniel D’Agostino,
+Plaintiff,
+v.
+Circle K Stores Incorporated, et al.,
+Defendants.
+No. CV-26-01225-PHX-JAT
+ORDER
+Plaintiff Daniel D’Agostino alleges that Defendant Circle K Stores Incorporated
+(“Circle K”) and Defendant Mobivity Holdings Corporation (“Mobivity”) (collectively,
+“Defendants”) violated the Telephone Consumer Protection Act (“TCPA”) by sending him
+hundreds of text messages without his consent despite his phone number being registered
+with the National Do Not Call Registry (“DNC Registry”) since 2004. (Doc. 1 at 6).
+Pending before the Court is Circle K’s Motion to Dismiss.1
+(Doc. 11). Plaintiff filed a
+Response and Circle K filed a Reply. (Docs. 13, 15). Also pending before the Court is
+Plaintiff’s Motion for Leave to File a Sur-Reply in opposition to Circle K’s Motion to
+Dismiss. (Doc. 16). The Court now rules.2
+1
+Circle K requested oral argument on the motion. (Doc. 11 at 1). The request for oral
+argument is denied because both parties submitted memoranda discussing the law and facts
+in support of their positions and oral argument will not aid the Court’s decision-making
+process. See e.g., Partridge v. Reich, 141 F.3d 920, 926 (9th Cir. 1998); Lake at Las Vegas
+Investors Group, Inc. v. Pacific. Dev. Malibu Corp., 933 F.2d 724, 729 (9th Cir. 1991).
+2
+Several other motions are pending before the Court. (Docs. 20, 25, 29). Because
+they are unrelated to Circle K’s Motion to Dismiss, those motions will be addressed in a
+separate order.
+Case 2:26-cv-01225-JAT Document 35 Filed 04/23/26 Page 1 of 22- 2 -
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+I. BACKGROUND
+The following summary of facts is taken from the Complaint and attachments
+thereto. In deciding a motion to dismiss for failure to state a claim, the Court must construe
+the facts alleged in the Complaint in the light most favorable to the Plaintiff and accept all
+well-pleaded factual allegations as true. See Shwarz v. United States, 234 F.3d 428, 435
+(9th Cir. 2000).
+On July 31, 2004, Plaintiff registered his phone number on the DNC Registry. (Doc.
+1 at 6 ¶ 21). Between September 1, 2023 and February 5, 2026, Defendants sent Plaintiff
+350 unsolicited marketing text messages to encourage him to purchase goods and services
+from Circle K stores. (Doc. 1 at 6 ¶¶ 23–24). Plaintiff breaks these 350 messages into four
+categories:
+1. “Isolated Marketing Solicitation” (1 of the 350 messages)
+• Defendants’ first text message to Plaintiff was sent on September 1, 2023
+and stated: “Circle K: Finish registering for 7 Inner Circle to unlock your
+member benefits: circlek.com/inner-circle. Txt HELP 4 Info. Msg&Data
+rates may apply.” (Doc. 1 at 7 ¶ 26).
+2. “Standard Marketing Solicitations” (343 of the 350 messages)
+• Approximately 19 months after Defendants’ first message, Defendants
+“initiated a relentless sequence” of messages beginning April 21, 2025
+and ending February 5, 2026. These messages stated: “Welcome to Circle
+K! Reply YES to subscribe and receive special offers, updates, and more.
+Txt HELP4Info, STOP2End. Msg&Data rates may apply.” (Doc. 1 at 7 ¶
+27).
+3. “Immediate Profit Solicitations” (2 of the 350 messages)
+• On June 10, 2025 and August 12, 2025, Plaintiff inadvertently answered
+“YES” to Defendants’ prompt to “subscribe and receive special offers,
+updates,andmore.”Inresponsetothosetwoaccidental“YES”responses,
+Plaintiff received the following message: “Hi! You save 25c/gal on your
+Case 2:26-cv-01225-JAT Document 35 Filed 04/23/26 Page 2 of 22- 3 -
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+first 5 fill-ups, & then ongoing discounts! Finish enrollment now for
+instant savings! circlekmobile.page.link/OWh8 Txt STOP 2 End.” (Doc.
+1 at 7 ¶ 28).
+4. “Fraudulent Confirmations” (4 of the 350 messages)
+• In response to Plaintiff’s repeated “STOP” responses, Defendants sent
+four messages confirming that Plaintiff would no longer receive text
+messages. Those four messages stated: “Circle K: You’ve been
+unsubscribed from all texts on 25050 & will no longer receive text msgs.
+Txt YES to resubscribe. Q’s? Txt HELP. Msg&Data rates may apply.”
+(Doc. 1 at 7 ¶ 29).
+Plaintiff made “exhaustive efforts” to stop Defendants’ repeated communications,
+sending 299 separate opt-out requests by either responding “STOP” or “STOP2End” to
+Defendants’ messages. (Doc. 1 at 2 ¶ 3; Doc. 1 at 8–9 ¶¶ 33–34). Despite these efforts,
+Defendants continued to send hundreds of messages to Plaintiff. (Doc. 1 at 9). The
+messages continued even after Defendants averred to Plaintiff that he had been
+unsubscribed from the communications and would not receive additional messages. (Doc.
+1 at 9 ¶ 35).
+After receiving the unwanted messages for over two years, Plaintiff mailed a
+demand letter to Circle K’s legal department, (Doc. 1-2 at 50–52), which Circle K received
+on February 4, 2026, (Doc. 1 at 9 ¶ 37). Following receipt of the demand letter, the text
+messages “ceased completely after a final message on February 5, 2026.” (Doc. 1 at 9, ¶
+38).
+Plaintiff filed suit on February 23, 2026, alleging the following claims:
+• Count I: Willful Violation of the TCPA (47 U.S.C. § 227(b))
+• Count II: Willful and Knowing Violations of the National Do Not Call Registry (47
+U.S.C. § 227(c); 47 C.F.R. § 64.1200(c)(2))
+• Count III: Willful and Knowing Violations of Federal “Quiet Hours” (47 U.S.C. §
+227(c); 47 C.F.R. § 64.1200(c)(1))
+Case 2:26-cv-01225-JAT Document 35 Filed 04/23/26 Page 3 of 22- 4 -
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+• Count IV: Willful Violation of Internal Do-Not-Call Procedures (47 U.S.C. §
+227(c); 47 C.F.R. § 64.1200(d))
+• Count V: Willful Violation of the Arizona Consumer Fraud Act (A.R.S. §§ 44-1251
+et seq.)
+• Count VI: Common Law Intrusion Upon Seclusion
+• Count VII: Breach of Implied-in-Fact Contract and Promissory Estoppel
+(Doc. 1 at 14–27).
+Plaintiff seeks (1) statutory treble damages in the amount of $1,779,000, (2)
+compensatory damages, (3) punitive damages, (4) a permanent injunction to bar
+Defendants from transmitting further communications to Plaintiff’s phone, (5) costs and
+interest, and (6) such other and further relief that the Court deems just and proper. (Doc. 1
+at 28–29).
+II. DISCUSSION
+Circle K moved to dismiss Plaintiff’s Complaint for failure to state a claim pursuant
+to Federal Rule of Civil Procedure (“Rule”) 12(b)(6). (Doc. 11). Plaintiff moved for
+permission to file a sur-reply to the Motion to Dismiss. (Docs. 16). The Court begins with
+the Motion to Dismiss.
+A. Circle K’s Motion to Dismiss
+i. Legal Standard
+“To survive a Rule 12(b)(6) motion for failure to state a claim, a complaint must
+meet the requirements of Rule 8(a)(2).” Rule 8(a)(2) requires a pleading to contain a “short
+and plain statement of the claim showing that the pleader is entitled to relief.” Fed. R. Civ.
+P. 8(a)(2). Although Rule 8 does not demand detailed factual allegations, “it demands more
+than an unadorned, the-defendant-unlawfully-harmed-me accusation.” Ashcroft v. Iqbal,
+556 U.S. 662, 678 (2009). “Threadbare recitals of the elements of a cause of action,
+supported by mere conclusory statements, do not suffice.” Id. “[A] complaint must contain
+sufficient factual matter, accepted as true, to ‘state a claim to relief that is plausible on its
+face.’” Id. (quoting Bell Atlantic Corp. v. Twombly, 550 U.S. 544, 570 (2007)). A claim is
+Case 2:26-cv-01225-JAT Document 35 Filed 04/23/26 Page 4 of 22- 5 -
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+plausible “when the plaintiff pleads factual content that allows the court to draw the
+reasonable inference that the defendant is liable for the misconduct alleged.” Id.
+The Ninth Circuit Court of Appeals has instructed that courts must “construe pro se
+filings liberally” and give such plaintiffs the “benefit of any doubt.” Hebbe v. Pliler, 627
+F.3d 338, 342 (9th Cir. 2010) (internal quotations and citation omitted). A complaint filed
+by a pro se litigant “must be held to less stringent standards than formal pleadings drafted
+by lawyers.” Id. (quoting Erickson v. Pardus, 551 U.S. 89, 94 (2007) (per curiam)).
+Courts ordinarily may not consider evidence outside the pleadings in ruling on a
+Rule 12(b)(6) motion to dismiss. See United States v. Ritchie, 342 F.3d 903, 907 (9th Cir.
+2003); Laborers Dist. Council Constr. Indus. Pension Fund v. Sea Ltd., 743 F. Supp. 3d
+1083, 1095 (D. Ariz. 2024). Consideration of such extrinsic evidence typically converts a
+Rule 12(b)(6) motion into a Rule 56 motion for summary judgment. Gunn v. Drage, 65
+F.4th 1109, 1120 (9th Cir. 2023); see also Fed. R. Civ. P. 12(d) (“If, on a motion under
+Rule 12(b)(6) . . . matters outside the pleadings are presented to and not excluded by the
+court,the motion must betreatedasoneforsummaryjudgment under Rule56.”).However,
+a court may consider “(1) evidence that the court has judicially noticed, and (2) evidence
+incorporated, either literally or by reference, into the plaintiff’s complaint” without
+converting the motion to dismiss into a summary judgment motion. Ctr. for Biological
+Diversity v. U.S. Forest Serv., 746 F. Supp. 3d 749, 755 (D. Ariz. 2024).
+ii. Circle K’s Reference to Evidence Outside the Pleadings
+In support of its Motion to Dismiss under Rule 12(b)(6), Circle K attached 72 pages
+of exhibits for the Court’s consideration. (Doc. 11-1). Circle K attached (1) screenshots of
+its website “as preserved on the Wayback Machine from August 2023” (“Exhibit A”), (2)
+a log of Plaintiff’s alleged purchases/transaction history from Circle K stores, (“Exhibit 1”)
+and (3) a declaration of Carly Lee, “the head of loyalty for North America for Defendant
+Circle K Stores Inc.” (“Exhibit B”). (Doc. 15 at 6; Doc. 11-1).
+Given the general rule against considering evidence outside the pleadings on a
+12(b)(6) motion, this Court must first determine what evidence, if any, it may consider in
+Case 2:26-cv-01225-JAT Document 35 Filed 04/23/26 Page 5 of 22- 6 -
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+resolving Circle K’s motion. To aid in this inquiry, the Court ordered Circle K to, in its
+Reply, address Rule 12(d) and explain how the Court can consider 72 pages of exhibits in
+resolving the Motion to Dismiss. (Doc. 12); Fed. R. Civ. P. 12(d).
+Inreply, CircleK noted thatthe“theCourtneednotconsider[its]exhibitstoaddress
+the primary legal issues presented in the Motion – namely, that the alleged texts at issue
+are outside the purview of the TCPA as a matter of law.” (Doc. 15 at 2 n.1). Despite stating
+that the exhibits were not necessary to grant the Motion to Dismiss, Circle K went on to
+argue that “the exhibits are properly included for consideration as judicially noticeable
+(Exhibit A), and as context for the undisputed facts surrounding Defendant’s SMS-
+enrollment process (Exhibit [1]).” The Court will address Circle K’s arguments as to
+Exhibit A and Exhibit 1.3
+a. Exhibit A
+Circle K argues that Exhibit A—i.e., Circle K’s website from August 2023—
+“makes clear” that Circle K messages its customers “only after those customers enter their
+phone number during a purchase or transaction and consent to receive messages.” (Doc.
+15 at 6). Because Plaintiff allegedly consented to the text messages, Circle K contends that
+it cannot be held liable for violating the TCPA. (Doc. 11 at 6). Circle K argues that the
+Court can take judicial notice of Exhibit A. (Doc. 15 at 6).
+Federal Rule of Evidence 201 permits a court to notice an adjudicative fact if it is
+“not subject to reasonable dispute.” A fact is not subject to reasonable dispute if it: “(1) is
+generally known within the trial court’s territorial jurisdiction; or (2) can be accurately and
+readily determined from sources whose accuracy cannot reasonably be questioned.” Fed.
+R. Evid. 201(b)(1)–(2).
+Circle K cites to caselaw holding that courts may take judicial notice of websites
+3
+Circle K’s Reply does not acknowledge Exhibit B—the sworn declaration of Carly
+Lee, “the head of loyalty for North America for Defendant Circle K Stores Inc.” attached
+to the Motion to Dismiss—or offer any explanation as to how the Court could properly
+considerthis extrinsicevidence.The CourtinterpretsCircleK’slackof argumentregarding
+this exhibit (despite the Court’s explicit Order at Doc. 12) as Circle K’s admission that the
+evidence is not properly before the Court and cannot be considered in resolving the
+12(b)(6) motion.
+Case 2:26-cv-01225-JAT Document 35 Filed 04/23/26 Page 6 of 22- 7 -
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+when the authenticity of the website or the accuracy of the information on the website is
+undisputed. (Doc. 11 at 6, n.1 (citing Poll v. Stryker Sustainability Sols., Inc., No. CIV 13-
+440-TUC-CKJ, 2014 WL 199150, at *2 (D. Ariz. Jan. 17, 2014)); (Doc. 15 at 6 (citing UL
+LLC v. Space Chariot Inc., 250 F. Supp. 3d 596, 604 n.2 (C.D. Cal. 2017)). Plaintiff’s
+lodgedsur-replyarguesthattheCourtshouldnottakejudicialnoticeofCircleK’swebsite.4
+(Doc. 17). Plaintiff argues that Circle K does not merely seek notice of the information
+contained on its website, but seeks to establish the inference that customers only receive
+Circle K text messages if they have consented to receive such messages. (Doc. 17 at 3).
+Plaintiff disputes this inference, (Doc. 17 at 3), and the Complaint alleges that Plaintiff
+continued to receive hundreds of text messages despite his attempts to opt out by issuing
+various “STOP” or “STOP2End” commands.
+Circle K asks this Court to take judicial notice of its website as it existed in 20235
+and conclude that any person receiving a text message from Circle K consented to those
+communications. In essence, Circle K asks the Court to make a dispositive finding
+regarding the affirmative defense of consent for Plaintiff’s TCPA claims. See Abboud v.
+Circle K Stores Inc., CV-23-01683-PHX-DWL, 2025 WL 307039, at *10 (D. Ariz. Jan.
+4
+The Court must first rule on Plaintiff’s Motion for Leave to File a Sur-Reply, (Doc.
+16), and determine whether the Court will consider the arguments presented in the lodged
+sur-reply (Doc. 17). Although sur-replies are generally disfavored, a district court may, in
+its discretion, permit a party to file a sur-reply, considering whether (a) “the movant’s reply
+in fact raises arguments or issues for the first time,” (b) “the nonmovant's proposed sur-
+reply would be helpful to the resolution of the pending motion,” and (c) “the movant would
+be unduly prejudiced were leave to be granted.” Smarthealth Inc. v. Chemotechnique MB
+Diagnostics AB, CV-25-00115-PHX-JJT, 2025 WL 3527499, at *1 (D. Ariz. Dec. 9, 2025)
+(internal quotations and citation omitted).
+Circle K’s Reply indicates that its exhibits should be considered by the Court
+because they are undisputed. (Doc. 15 at 6–7). Because Circle K makes this argument for
+the first time its Reply—and in doing so, makes sweeping conclusions about Plaintiff’s
+position on Circle K’s exhibits—the Court will consider Plaintiff’s sur-reply to the extent
+he rebuts Circle K’s arguments about the extrinsic-evidence exhibits. Plaintiff’s sur-reply
+also claims that Circle K’s Reply introduces new legal arguments that were “wholly absent
+from the [Motion to Dismiss]” and seeks to rebut these allegedly “new” legal theories. The
+Court will consider whether to address Plaintiff’s arguments on Circle K’s “new”
+theories—which go to the merits of Plaintiff’s TCPA claims—infra in Section II.A.iii.b,
+page 13.
+5
+The Court notes that the majority of the conduct Plaintiff complains of occurred
+between April 2025 and February 2026. (Doc. 1 at 7). It is unclear whether Circle K’s
+website has remained unchanged over the years or if there have been material revisions to
+the site, rendering its relevance questionable.
+Case 2:26-cv-01225-JAT Document 35 Filed 04/23/26 Page 7 of 22- 8 -
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+27, 2025) (noting that a defendant cannot be liable under the TCPA for a message sent to
+a person with their invitation or permission, and stating that the presence of such consent
+“is an affirmative defense for which the defendant bears the burden of proof”) (internal
+quotations and citation omitted). This request is not properly before the Court on a motion
+to dismiss. At the Rule 12(b)(6) stage, the only question is whether Plaintiff’s Complaint
+states a plausible claim.
+Because Exhibit A—and the inference Circle K seeks to draw from it—is disputed,
+the Court declines to take judicial notice and will not consider the exhibit in addressing the
+Motion to Dismiss. See Khoja v. Orexigen Therapeutics, Inc., 899 F.3d 988, 1000 (9th Cir.
+2018) (“It is improper to judicially notice a [document] when the substance of the
+[document] is subject tovarying interpretations,and thereisareasonabledisputeas to what
+the [document] establishes.”) (internal quotations and citation omitted).
+b. Exhibit 1
+Circle K argues that every text message that Plaintiff received was sent “only after
+[Plaintiff] entered his number during a purchase to consent to receive Circle K messages.”
+(Doc. 11 at 7). In support, Circle K attached Exhibit 1, the “D’Agostino Transaction
+Report.” (Doc. 11 at 7; Doc. 11-1 at 24–68). Circle K claims that this report documents
+every time Plaintiff made a purchase at a Circle K store and entered his phone number in
+the system, thus prompting the messages he received that form the basis of his TCPA
+claims. Circle K argues that the Court can consider Exhibit 1 because “Plaintiff does not
+dispute the accuracy of Defendant’s records matching the text messages to [Plaintiff’s]
+purchases at Circle K.” (Doc. 15 at 7). Circle K contends the exhibit “makes clear that
+Plaintiff has manufactured this case and renders any claim that the messages he allegedly
+received were unsolicited entirely implausible.” (Doc. 15 at 7). Plaintiff complains that the
+transaction log contains no identifying information and does not establish that he consented
+to the text-message communications. (Doc. 17 at 4–5).
+Circle K’s arguments go directly to its consent theory. As noted, a court can only
+consider extrinsic evidence at the pleadings stage if it takes judicial notice of the evidence
+Case 2:26-cv-01225-JAT Document 35 Filed 04/23/26 Page 8 of 22- 9 -
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+or if the evidence is incorporated into the Plaintiff’s Complaint. Ctr. for Biological
+Diversity, 746 F. Supp. 3d at 755. Circle K fails to argue that either exception applies to
+Exhibit 1. And, as described above, the Court cannot, at this stage of the case, make
+determinative findings on an affirmative defense to Plaintiff’s TCPA claims. Accordingly,
+the Court declines to consider Exhibit 1 in resolving the Motion to Dismiss.
+iii. Analysis re: Circle K’s Motion to Dismiss (Counts I–IV)
+Plaintiff’s Complaint outlines seven claims, supra page 3–4, and Counts I–IV allege
+violations of the TCPA. The Court will address Counts I–IV together and consider the
+remaining state-law claims—Counts V–VII—separately.
+a. Counts I–IV: Violations of the TCPA
+Count I alleges that Circle K used an “automatic telephone dialing system”
+(“ATDS”) to send Plaintiff text messages in violation of 47 U.S.C. § 227(b). (Doc. 1 at
+14).
+Counts II–IV allege claims to relief under 47 U.S.C. § 227(c). (Doc. 1 at 15–18).
+The TCPA’s implementing regulations prohibit a person or entity from initiating any
+telephone solicitation to (1) “[a]ny residential telephone subscriber before the hour of 8
+a.m.” or (2) “[a] residential telephone subscriber who has registered his or her telephone
+numberon thenational do-not-call registry ofpersonswhodonot wish toreceivetelephone
+solicitations that is maintained by the Federal Government,” 47 C.F.R. § 64.1200(c)(1)–
+(2); see also Abboud v. Circle K Stores Inc., 731 F. Supp. 3d 1094, 1102 (D. Ariz. 2024).
+“Telephone solicitation” is defined as
+the initiation of a telephone call or message for the purpose of encouraging
+the purchase or rental of, or investment in, property, goods, or services,
+which is transmitted to any person, but such term does not include a call or
+message (A) to any person with that person’s prior express invitation or
+permission, (B) to any person with whom the caller has an established
+business relationship, or (C) by a tax exempt nonprofit organization.
+47 U.S.C. § 227(a)(4). The TCPA grants a private right of action to any consumer who
+receives more than one call in violation of those regulations within a 12-month period. 47
+U.S.C. § 227(c)(5).
+Case 2:26-cv-01225-JAT Document 35 Filed 04/23/26 Page 9 of 22- 10 -
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+Circle K argues that Plaintiff’s TCPA claims should be dismissed because (1) the
+TCPA does not apply to text messages, (2) the text messages at issue were not solicitations,
+and (3) Plaintiff consented to receiving the text messages. The Court addresses each
+argument in turn.
+1. Text Messages as “Calls” Under the TCPA
+Circle K argues that Counts I–IV should be dismissed because he failed to allege
+that he received a “telephone call,” and the TCPA does not apply to text messages. (Doc.
+11 at 4). See 47 U.S.C. §§ 227(b)(1), (c)(5). To support this argument, Circle K cites
+Stockdale v. Skymount Property Group, LLC, 1:25 CV 1282, 2026 WL 591842 (N.D. Ohio
+Mar. 3, 2026). In Stockdale, the plaintiff received text messages soliciting her to sell her
+home “despite her number’s continued presence on the DNC Registry” and she filed suit
+alleging violations of the TCPA. Id. at *1. The Stockdale court dismissed the claim because
+it found that a “telephone call” under the TCPA could not include modern-day text
+messages. Id. at *3–4.
+In citing to Stockdale and urging this Court to accept its reasoning, Circle K failed
+to cite binding caselaw from this Circuit arriving at the opposite conclusion. Howard v.
+Republican Nat’l Comm., 164 F.4th 1119 (9th Cir. 2026). In Howard, the Ninth Circuit
+Court of Appeals concluded that a “a ‘text message’ constitutes a ‘call’ within the meaning
+of the TCPA.”6
+Id. at 1123–24. Circle K acknowledges Howard for the first time in its
+Reply, arguing that Plaintiff’s reliance on the case “is misplaced,” and that Counts I and
+IV should be dismissed for other reasons “even assuming text messages could potentially
+qualify as ‘calls’ under the TCPA.” (Doc. 15 at 3) (emphasis added). There is no question
+6
+The Court of Appeals noted it had previously held, under Chevron v. Natural
+Resources Defense Council, Inc., 467 U.S. 837 (1984), that “it was ‘reasonable’ to defer to
+the [Federal Communications Commission’s (“FCC”)] conclusion that the term ‘call’ in
+[47 U.S.C.] § 227 includes a “text message.” Id. (citing Satterfield v. Simon & Schuster,
+Inc., 569 F.3d 946, 954 (9th Cir. 2009)). The U.S. Supreme Court overruled Chevron in
+2024. Loper Bright Enters. v. Raimondo, 603 U.S. 369, 412 (2024). In Howard, the Court
+of Appeals acknowledged its Satterfield holding “was framed . . . in terms of the then-
+applicable deference required to be given to the FCC’s construction,” but found its prior
+holding—that a text message is a call under the TCPA—“would be the same even in the
+absence of Chevron deference.” Howard, 164 F.4th at 1123.
+Case 2:26-cv-01225-JAT Document 35 Filed 04/23/26 Page 10 of 22- 11 -
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+as to whether text messages are calls under the TCPA in this Circuit. Although Circle K’s
+counsel seems determined to ignore it, settled law from the Ninth Circuit Court of Appeals
+establishes that a TCPA violation may arise from unsolicited text messages.
+2. Telephone Solicitations
+Circle K argues Counts I–IV should be dismissed because the messages Plaintiff
+received are not “telephone solicitations” under the TCPA since the messages “do not
+encourage the purchase or rental of, or investment in, property, goods, or services.” (Doc.
+11 at 3, 8); see 47 U.S.C. § 227(a)(4). Circle K contends the messages were a “continuation
+of enrollment messages” that are sent after a customer provides his phone number during
+a transaction at Circle K, and that these “double opt-in messages” are meant to provide “an
+additional second layer verification to confirm the intent of customers” who had already
+consented to receive special offers and updates. (Doc. 11 at 3).
+“The purpose of a text or call determines whether it qualifies as a telephone
+solicitation, and courts use ‘a measure of common sense’ to determine its purpose.”
+Abboud, 731 F. Supp. 3d at 1102. Text messages may constitute a telephone solicitation
+even if the message serves a dual purpose by including “both advertising/telemarketing
+and merely informational or transactional communications.” Id. (quoting Vallianos v.
+Schultz, 2019 WL 4980649, *3 (W.D. Wash. 2019) (cleaned up)). Accordingly, a party
+engaged in telephone solicitation need not directly offer property or services for sale—
+merely encouraging the future purchase of property or services is sufficient. Id.; see Orea
+v. Nielsen Audio, Inc., 2015 WL 1885936, at *3 (N.D. Cal. 2015) (“A call that encourages
+future purchasing activity may be a telephone solicitation, even if the sales pitch is not
+explicitly contained in the call itself.”).
+The question, then, is whether it is plausible that the messages Plaintiff received
+constituted telephone solicitations. The Complaint alleges that Plaintiff received hundreds
+of messages that had the “objective and intent . . . to encourage the purchase of goods and
+services at Circle K locations.” (Doc. 1 at 6 ¶ 24). Plaintiff provided screenshots of the text
+messages, which directed him to “Reply YES to subscribe and receive special offers,
+Case 2:26-cv-01225-JAT Document 35 Filed 04/23/26 Page 11 of 22- 12 -
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+updates, and more.” (Doc. 1-1). The Court concludes that “[t]hese facts make it plausible
+that the purpose of the text messages was to encourage Plaintiff to sign up to receive offers
+for future shopping at Circle K.” Abboud, 731 F. Supp. 3d at 1103–05 (three text messages
+advising plaintiff to reply “YES” to sign up and receive special offers from Defendant
+Circle K made it plausible the messages were telephone solicitations under the TCPA).
+Indeed, as the Abboud court noted, “it is difficult to imagine why [Circle K] would
+repeatedly encourage [Plaintiff] to sign up for offers other than to encourage [him] to make
+future purchases of goods at [Circle K’s] stores based on those offers.” Id. at 1103.
+Accepting the Complaint’s factual allegations as true, it is plausible that the
+hundreds of messages Plaintiff received were telephone solicitations within the meaning
+of the TCPA.
+3. Messages Sent with Consent or Sent Pursuant to an
+Established Business Relationship
+The TCPA only prohibits unsolicited communications—a telephone solicitation
+falls outside the purview of the TCPA if the call is transmitted to (1) “to any person with
+that person’s prior express invitation or permission,” or (2) “to any person with whom the
+caller has an established business relationship.” 47 U.S.C. § 227(a)(4). Circle K argues that
+its communications with Plaintiff do not subject it to liability under the TCPA because
+Plaintiff consented to the messages and the messages were sent pursuant to the parties’
+established business relationship. (Doc. 11 at 6–8).
+The Complaint alleges that Plaintiff received his first text message from Circle K
+on September 1, 2023. (Doc. 1 at 7 ¶ 26). Circle K alleges that “it has records for every
+transaction by Plaintiff” and that those records confirm Plaintiff visited a Circle K store on
+September 1, 2023 to purchase cigarettes and snacks.7
+(Doc. 11 at 7). Circle K alleges that
+Plaintiff entered his phone number when making those purchases, which resulted in the
+firsttextmessage andestablishedtheparties’“businessrelationship.” (Doc.11at7). Circle
+K insists that “the subsequent messages that Plaintiff alleges he received” were also sent
+7
+Plaintiff claims he is not the individual that made these purchases and affirms he “is
+a lifelong non-smoker and has never purchased cigarettes as an adult.” (Doc. 13 at 5).
+Case 2:26-cv-01225-JAT Document 35 Filed 04/23/26 Page 12 of 22- 13 -
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+with Plaintiff’s consent and pursuant to the parties’ “pre-existing relationship.” (Doc. 11 at
+8; Doc. 11 at 8–12 (repeating consent arguments)).8
+Plaintiff rebuts these allegations, claiming that he did not sign up for any programs
+with Circle K, provide his phone number for marketing purposes, or maintain a business
+relationship with Circle K. (Doc. 1 at 7 ¶ 25). Plaintiff “denies ever entering his phone
+number at a Circle K store or visiting their website for enrollment purposes,” (Doc. 13 at
+5), and argues that the 299 opt-out requests he sent in response to Circle K’s messages
+“constitute a complete revocation of any alleged consent,” (Doc. 13 at 9).
+At this stage of the case, the Court must accept Plaintiff’s allegations as true.
+Abboud, 731 F. Supp. 3d at 1101, 1105 (accepting plaintiff’s allegation that she “never
+provided her telephone number to [Circle K] and never consented to receive any text
+messages from [Circle K]” as true at the motion to dismiss stage); Abrahamian v.
+loanDepot.com LLC, 2024 WL 1092442, *3 (D. Ariz. 2024) (plaintiff adequately pleaded
+that he did not consent to defendant’s messages based on his allegation that “he never
+provided his telephone number to Defendant”); Blalack v. RentBeforeOwning.com, 2022
+WL 7320045, *5 (C.D. Cal. 2022) (defendant’s argument that “someone signed up for and
+wanted to receive the[] messages” sent to plaintiff presented a factual question the court
+could not resolve on a motion to dismiss).
+b. Plaintiff’s Motion to File a Sur-Reply
+Plaintiff filed a Motion for Leave to File a Sur-Reply, alleging that Circle K’s Reply
+impermissibly introduces new legal arguments that were not presented in its Motion to
+8
+Embedded into Circle K’s Motion to Dismiss is a screenshot from a Circle K
+security camera allegedly showing Plaintiff making a purchase on February 19, 2026 at
+5:17am. (Doc. 11 at 11). Circle K attempts to use this photo to bolster its consent theory
+and rebut Plaintiff’s claims that the early-morning text messages he received disrupted his
+sleep/interfered with his solitude. (Doc. 1 at 8; Doc. 11 at 11). Circle K’s inclusion of and
+reliance on this photo raises numerous issues. First, it is not properly before this Court for
+consideration on a Rule 12(b)(6) motion. Indeed, Circle K has not argued that the evidence
+should be evaluated under the judicial notice or incorporation doctrine exceptions, and the
+Court finds neither would apply because Plaintiff disputes that he is the man portrayed in
+the photo. (Doc. 13 at 5–6). Second, the Court questions the relevance of the evidence—
+Plaintiff alleges that he received his last text from Circle K on February 5, 2026 and does
+not allege a TCPA violation for any text messages received beyond that date. Conduct
+occurring on February 19, 2026 appears to fall outside the scope of Plaintiff’s Complaint.
+Case 2:26-cv-01225-JAT Document 35 Filed 04/23/26 Page 13 of 22- 14 -
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+Dismiss. (Doc. 16 at 3).
+Upon review, the Court agrees with Plaintiff that Circle K raises a new argument in
+its Reply. The Reply argues that the alleged text messages do not fall within the purview
+of the TCPA because (1) the messages “were not initiated or made using an artificial or
+prerecorded voice,” and (2) Plaintiff did not “plausible plead that an ATDS was used by
+Circle K.” (Doc. 15 at 2). These arguments are wholly absent from Circle K’s Motion to
+Dismiss, which argued only that the alleged text messages were (a) not an actionable form
+of communication under the TCPA, (b) not solicitations, and (c) sent with Plaintiff’s
+consent and as part of the parties’ business relationship. Accordingly, Circle K’s
+representation that its Motion to Dismiss discussed the artificial-or-prerecorded-voice and
+ATDS theories is unsupported and incorrect. (Doc. 15 at 2 (incorrectly stating that the
+newly-presented arguments were “discussed in the Motion [to Dismiss] and herein [in the
+Reply]”)).
+Circle K secondarily argues, in its Response to Plaintiff’s Sur-Reply Motion, that
+its Reply arguments were made in response to the arguments Plaintiff raised in his
+opposition to the Motion to Dismiss. (Doc. 26 at 2). Circle K explains that Plaintiff’s
+Response to the Motion to Dismiss cited Howard v. Republican National Committee to
+support his argument that the TCPA applies to text messages. (Doc. 26 at 2). Circle K
+contends it was entitled to distinguish Howard, (Doc. 26 at 2), and the Court agrees. Circle
+K permissibly argued that Howard’s holding only established that “voice” text messages
+qualified as calls under the TCPA.9
+However, Circle K’s argument that Plaintiff failed to plausibly plead that Circle K
+9
+But this argument is without merit. The TCPA makes it unlawful to “make any call
+(other than a call made for emergency purposes or made with the prior express consent of
+the called party) using [1] any automatic telephone dialing system or [2] an artificial or
+prerecorded voice. ..to anytelephonenumber assignedtoa .. .cellulartelephone service.”
+47 U.S.C. § 227(b)(1)(A)(iii). Howard broadly recognized that text messages are calls
+under the TCPA. Howard, 164 F.4th at 1124 (“[A] text message is properly deemed to be
+a “call” within the meaning of the TCPA.”). Accordingly, a text message is a call for
+TCPA-liability purposes if it is sent using an artificial or prerecorded voice or an ATDS.
+Trim v. Reward Zone USA LLC, 76 F.4th 1157, 1160 (9th Cir. 2023).
+Plaintiff’s request to file a sur-reply to oppose this argument is denied.
+Case 2:26-cv-01225-JAT Document 35 Filed 04/23/26 Page 14 of 22- 15 -
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+used an ATDS to send the alleged text messages was not raised in its initial Motion to
+Dismiss, and was not responsive to arguments raised by Plaintiff’s Response to the Motion
+to Dismiss. Accordingly, the Court will not address the ATDS argument. Zamani v.
+Carnes, 491 F.3d 990, 997 (9th Cir. 2007) (“The district court need not consider arguments
+raised for the first time in a reply brief.”); Aguilar v. Peters, No. CV-23-00268-TUC
+(SHR), 2024 WL 4870496, at *13 (D. Ariz. Nov. 22, 2024) (“It is well established that new
+arguments and evidence presented for the first time in reply are waived.”) (citation
+omitted).
+Because the Court will not consider this new argument, Plaintiff’s Motion for Leave
+to File a Sur-Reply—to the extent he seeks to rebut the ATDS theory—is denied as moot.10
+c. Conclusion
+For the foregoing reasons, Circle K’s Motion to Dismiss Counts I–IV is denied.
+iv. Analysis re: Circle K’s Motion to Dismiss (Counts V-VII)
+Plaintiff alleges three state-law claims. The Court addresses each claim in turn.
+a. CountV:WillfulViolationoftheArizonaConsumerFraud
+Act
+Plaintiff alleges that on June 10, 2025, August 12, 2025, January 9, 2026, and
+January 10, 2026, Circle K sent Plaintiff the following message: “Circle K: You’ve been
+unsubscribed from all texts on 25050 & will no longer receive text msgs. Txt YES to
+resubscribe. Q’s? Txt HELP. Msg&Data rates may apply.” (Doc. 1 at 7 ¶ 29; Doc. 1 at 20
+¶ 103). After sending the June 10, 2025 confirmation that Plaintiff would be unsubscribed
+from future text messages, Circle K transmitted 308 additional messages to Plaintiff. (Doc.
+1 at 9 ¶ 35). Plaintiff alleges that in doing so, Circle K violated the Arizona Consumer
+Fraud Act. (Doc. 1 at 19–20).
+“The purpose of the [Arizona Consumer Fraud] Act is to provide injured consumers
+with a remedy to counteract the disproportionate bargaining power often present in
+10
+As discussed above, supra page 7 n.2, the Court granted Plaintiff’s sur-reply motion
+(Doc. 16) and considered the lodged sur-reply (Doc. 17) to the extent that Plaintiff rebutted
+Circle K’s arguments about the extrinsic-evidence exhibits. The Court declines to consider
+the lodged sur-reply except for this limited purpose.
+Case 2:26-cv-01225-JAT Document 35 Filed 04/23/26 Page 15 of 22- 16 -
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+consumer transactions.” Waste Mfg. & Leasing Corp. v. Hambicki, 900 P.2d 1220, 1224
+(Ariz. Ct. App. 1995). The Arizona Consumer Fraud Act (the “CFA”) provides as follows:
+The act, use or employment by any person of any deception, deceptive or
+unfair act or practice, fraud, false pretense, false promise, misrepresentation,
+or concealment, suppression or omission of any material fact with intent that
+othersrelyon suchconcealment, suppression oromission,inconnectionwith
+the sale or advertisement of any merchandise whether or not any person has
+in fact been misled, deceived or damaged thereby, is declared to be an
+unlawful practice.
+A.R.S. § 44-1522(A).
+The elements of private cause of action under the CFA are “[1] are a false promise
+or misrepresentation [2] made in connection with the sale or advertisement of merchandise
+and [3] the [plaintiff’s] consequent and proximate injury.” Castle v. Barrett-Jackson
+Auction Co., LLC, 276 P.3d 540, 542 (Ariz. Ct. App. 2012). The statute requires that a
+person intend for others to rely on the false promise or misrepresentation “in connection
+with the sale or advertisement of any merchandise.” A.R.S. § 44-1522(A). Accordingly,
+there must be a sale between the parties or an advertisement in relation to a sale between
+the parties to support a cause of action under the CFA. See Sullivan v. Pulte Home Corp.,
+290 P.3d 446, 453–54 ¶¶ 36–37 (Ariz. Ct. App. 2012), vacated in part, 306 P.3d 1 (Ariz.
+2013) (vacating ¶¶ 24–31).
+Plaintiff alleges that that the four messages confirming he had been unsubscribed
+were “material representations and false promises” because Circle K “knew these
+statements were false” and “intended for Plaintiff to rely on these false promises so that he
+wouldceasehisefforts toblock the number orinitiatelegalaction,therebyallowing [Circle
+K] to continue their unauthorized access to Plaintiffs cellular device for marketing profit.”
+(Doc. 1 at 20 ¶ 104). Plaintiff alleges that he suffered actual damages” from Circle K’s
+conduct, including “the economic value of 50+ hours of time, resource depletion, and
+systemic sleep deprivation” caused by 146 early-morning text messages. (Doc. 1 at 20 ¶
+105).
+Circle K acknowledges that Plaintiff satisfies the first and third elements for a
+private right of action under the CFA, but argues that Count V should be dismissed because
+Case 2:26-cv-01225-JAT Document 35 Filed 04/23/26 Page 16 of 22- 17 -
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+Plaintiff fails to identify any “sale or advertisement of any merchandise” regarding the opt-
+out confirmation messages. (Doc. 11 at 12–13). The Court agrees. The four messages
+supporting Plaintiff’s CFA claim merely inform Plaintiff that he has been “unsubscribed
+from all texts” and “will no longer receive text msgs.” (Doc. 1 at 7 ¶ 29). At most, the
+messages falsely promise that future communications will cease. But the messages do not
+allude to the sale or advertisement of merchandise in any way. Because the message does
+not conceal, suppress, or omit any material fact “in connection with the sale or
+advertisement of any merchandise,” Plaintiff fails to state a claim under the CFA, and the
+claim will be dismissed.
+Although the Court is not dismissing the entire Complaint, in which circumstance
+the Court must consider whether the deficiencies in the complaint could be cured by
+amendment, the Court has nonetheless considered whether leave to amend should be
+granted. See Schreiber Distrib. Co. v. Serv-Well Furniture Co., Inc., 806 F.2d 1393, 1401
+(9th Cir. 1986) (“If a complaint is dismissed for failure to state a claim, leave to amend
+should be granted unless the court determines that the allegation of other facts consistent
+with the challenged pleading could not possibly cure the deficiency.”); see Fed. R. Civ. P.
+15(a).
+The Court finds that amendment under Rule 15(a) would be futile because Plaintiff
+cannot allege new facts that will transform these four text messages—of which Plaintiff
+attached screenshots, (see Docs. 11-1, 11-2)—into communications that portray false,
+deceptive, or misleading information about the sale or advertisement of merchandise.
+Accordingly, Count V is dismissed with prejudice.
+b. Count VI: Common Law Intrusion Upon Seclusion
+Plaintiff alleges that Circle K intentionally and repeatedly intruded upon his
+“solitude, seclusion, and private affairs by transmitting 350 unauthorized marketing
+solicitations to his private cellular telephone.” (Doc. 1 at 22 ¶ 110). Plaintiff contends that
+the nature and frequency of the messages “would be highly offensive to any reasonable
+person.” (Doc. 1 at 22 ¶ 111). In support of this claim, Plaintiff cites to Navient Solutions,
+Case 2:26-cv-01225-JAT Document 35 Filed 04/23/26 Page 17 of 22- 18 -
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+LLC v. Law Offices of Jeffrey Lohman, 2020 WL 1864871, at *12 (D. Ariz. 2020). This
+case does not exist. As Circle K notes in its Motion to Dismiss, a search of “2020 WL
+1864871” returns an Ohio Public Utilities Commission Finding and Order titled “In the
+Matter of the Proper Procedures and Process for the Commission’s Operations and
+Proceedings During the Declared State of Emergency and Related Matters.” (Doc. 11 at
+13). The Court believes that Plaintiff intended to cite to a case from the Eastern District of
+Virginia. See Navient Sols., LLC v. Law Offices of Jeffrey Lohman, 1:19-CV-461
+(LMB/TCB), 2020 WL 1867939 (E.D. Va. Apr. 14, 2020). However, that case is irrelevant
+to Plaintiff’s claim because it is devoid of any discussion regarding the tort of inclusion
+upon seclusion.
+Circle K argues Count VI should be dismissed because Plaintiff fails to provide any
+basis in Arizona law for his “intrusion of seclusion” claim. (Doc. 11 at 13). In response,
+Plaintiff argues that the tort of intrusion upon seclusion is supported by “decades of state
+jurisprudence.” (Doc. 13 at 12).
+Arizona state courts recognize four invasion-of-privacy claims, including the tort of
+intrusion upon seclusion, Hart v. Seven Resorts Inc., 947 P.2d 846, 853 (Ariz. Ct. App.
+1997), which “occurs when one intentionally intrudes, physically or otherwise, upon the
+solitude or seclusion of another or his private affairs or concerns and the intrusion is highly
+offensive to a reasonable person,” Shepherd v. Costco Wholesale Corp., 441 P.3d 989, 995
+(App. 2019), vacated in part, 482 P.3d 390 (Ariz. 2021) (vacating ¶¶ 25–35) (internal
+quotations and citation omitted). A defendant is “subject to liability . . . only when he has
+intruded into a private place, or has otherwise invaded a private seclusion that the plaintiff
+has thrown about his person or affairs.” Hart, 947 P.2d at 853 (quoting Restatement
+(Second) of Torts § 652B). Intrusion upon seclusion usually involves
+(1) physical intrusion into a place in which the plaintiff has secluded himself;
+(2) the use of the defendant’s senses, with or without mechanical aids, to
+oversee or overhear the plaintiff’s private affairs, as by looking into his
+upstairs windows with binoculars or tapping his telephone wires; or
+(3)someotherformofinvestigationorexaminationintohisprivateconcerns,
+as by opening his private and personal mail, searching his safe or his wallet,
+Case 2:26-cv-01225-JAT Document 35 Filed 04/23/26 Page 18 of 22- 19 -
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+examining his private bank account, or compelling him by a forged court
+order to permit an inspection of his personal documents.
+Shepherd, 441 P.3d at 995 (internal quotations and citation omitted). Conclusory
+allegations that a defendant’s conduct intruded upon the plaintiff’s solitude and seclusion,
+without more, are insufficient to support a claim for relief. Id.
+Plaintiff claims that the “transmission of 350 messages over several months,
+including 146 messages during hours of rest, represents . . . a substantial burden to
+Plaintiff[‘]s existence.” (Doc. 1 at 23, ¶ 111). He further alleges that Circle K, by initiating
+146solicitations—someofwhich occurredbetween4:11 a.m.and5:30a.m.—intentionally
+violated his right to peace and solitude, causing “severe physiological stress and systemic
+sleep deprivation.” (Doc. 1 at 23, ¶ 112).
+Plaintiff does not cite, and this Court’s independent research did not reveal, any
+Arizona caselaw regarding the tort of intrusion upon seclusion as it relates to unwanted text
+messages. However, the Restatement (Second) of Torts provides some support for
+Plaintiff’s position that repeated, incessant text messages can support an invasion of
+privacy claim. The Restatement provides:
+[T]here is no liability for [the tort of intrusion upon seclusion for] knocking
+at the plaintiff’s door, or calling him to the telephone on one occasion or even
+two or three, to demand payment of a debt. It is only when the telephone calls
+are repeated with such persistence and frequency as to amount to a course
+of hounding the plaintiff, that becomes a substantial burden to his existence,
+that his privacy is invaded.
+Restatement (Second) of Torts § 652B, cmt. d (emphasis added).
+And the Ninth Circuit Court of Appeals has found that auto-dialed text messages
+typically result in “an immediate intrusion in the form of a display of a preview of the text
+on the phone’s screen (even if locked), a sound, a vibration, or some combination of those,”
+thereby producing “the particular type of intrusion on privacy at which the [TCPA] is
+aimed, which is an intrusion upon ‘seclusion.’” Howard, 164 F.4th at 1124. The Eleventh
+Circuit Court of Appeals has also indicated that unwanted text messages, like unwanted
+phone calls, are among the privacy intrusions giving rise to liability for intrusion upon
+Case 2:26-cv-01225-JAT Document 35 Filed 04/23/26 Page 19 of 22- 20 -
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+seclusion. See Drazen v. Pinto, 74 F.4th 1336, 1345 (11th Cir. 2023) (“And as with ‘the
+unwanted ringing of a phone from a phone call,’ the ‘undesired buzzing of a cell phone
+from a text message . . . is an intrusion into peace and quiet in a realm that is private and
+personal.’”)(citationomitted).TheDrazencourtacknowledged,however,thatitisdifficult
+to draw the line in determining how many unwanted text messages are required before the
+intrusion becomes “highly offensive to a reasonable person.” See id.
+Plaintiff allegedly received 349 unwanted text messages over (approximately) a 9-
+month period.11
+This averages to 1.2 text messages per day (349 messages/290 days). 146
+of those 349 communications apparently took place before 8:00 a.m. Accepting the
+Complaint’s factual allegations as true, as the Court must at this stage of the case, the Court
+finds that Plaintiff has plausibly pled an intrusion upon seclusion claim, and will deny
+Circle K’s request to dismiss this claim.
+c. Count VII: Breach of Implied-in-Fact Contract and
+Promissory Estoppel
+Plaintiff contends that Circle K made a unilateral offer to enter into a contract by
+directing Plaintiff to respond “Txt HELP4Info” or “STOP2End” in the text messages.
+(Doc. 1 at 26, ¶ 117). By including the “Txt HELP4Info” or “STOP2End” options, Plaintiff
+claims that Circle K “established the exact method of performance required to terminate
+the relationship and cease all communications.” (Doc. 1 at 26 ¶ 117). Plaintiff alleges he
+“accepted” the unilateral offer through “performance”—i.e., by responding “STOP2End”
+on “299 separate occasions.” (See Doc. 1 at 26 ¶ 118). Plaintiff asserts that the “contract”
+is supported by consideration because he “provided the economic value of his time” in
+exchange for Circle K’s promise to cease the communications. (Doc. 1 at 26 ¶ 119).
+Plaintiff claims Circle K breached the agreement by continuing to send him texts after he
+had opted out. (Doc. 1 at 26 ¶ 120). He alternatively alleges a promissory estoppel claim,
+claiming he detrimentally relied on Circle K “clear, express promises” that he would not
+receive additional messages. (Doc. 1 at 26–27 ¶¶ 121–23; Doc. 1 at 7 ¶ 29 (Circle K sent
+11
+Although the first text message occurred on September 1, 2023, the remaining 349
+messages were sent between April 21, 2025 and February 5, 2026. (Doc. 1 at 8).
+Case 2:26-cv-01225-JAT Document 35 Filed 04/23/26 Page 20 of 22- 21 -
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+four messages stating: “Circle K: You’ve been unsubscribed from all texts on 25050 & will
+no longer receive text msgs.”)).
+Plaintiff’s Complaint is devoid of any support for his novel theory that that he and
+Circle K, by virtue of Plaintiff’s responses to various marketing communications, were
+contractually bound or that the doctrine of promissory estoppel applies to these facts.
+“An implied-in-fact contract is a true contract, differing from an express contract
+only insofar as it is proved by circumstantial evidence rather than by express written or oral
+terms.” Pyeatte v. Pyeatte, 661 P.2d 196, 203 (Ariz. Ct. App. 1982). To support an
+“implied-in-fact” contract claim, a party must still demonstrate the elements of a binding
+contract, including “mutual assent or certainty as to the critical terms of the agreement.”
+Id. When “a reasonable person” could conclude that both parties intended to contract for
+certain terms, an implied-in-fact contract is formed. See Demasse v. ITT Corp., 984 P.2d
+1138, 1143 (Ariz. 1999).
+Circle K argues that “[n]o reasonable person could ever conclude that opting out of
+a company’s messaging [system] would ‘create contractual obligations.’” (Doc. 11 at 14).
+The Court agrees. Circle K further claims that it was unable to locate caselaw suggesting
+(1) that a consumer’s decision to opt out of a messaging program creates an implied-in-fact
+contract or constitutes the acceptance of a unilateral offer, or (2) that a company’s
+confirmation of an opt-out request constitutes a “promise” to support a promissory estoppel
+claim. (Doc. 11 at 15). Plaintiff failed to identify any such authority and the Court’s
+independent research similarly failed to reveal any law supporting Count VII. “[A]lthough
+Plaintiff appears in this Court pro se, the Court is not required to scour his Complaint and
+piece together his claims for him.” Moore v. Maricopa Cnty. Juvenile Court, CV-18-
+01553-PHX-JJT, 2018 WL 9848169, at *1 (D. Ariz. Sept. 18, 2018), aff’d, 786 Fed. Appx.
+89 (9th Cir. 2019). Indeed, plaintiffs are responsible for identifying the legal basis for the
+claims identified in their complaints. See id. at *2. Given Plaintiff’s failure to do so, the
+Court will dismiss Count VII.
+Because this claim is meritless and its defects could not be cured with amendment,
+Case 2:26-cv-01225-JAT Document 35 Filed 04/23/26 Page 21 of 22- 22 -
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+Count VII is dismissed with prejudice. See Schreiber Distrib. Co., 806 F.2d at 1401; see
+Fed. R. Civ. P. 15(a).
+III. CONCLUSION
+Accordingly,
+IT IS ORDERED that Circle K’s Motion to Dismiss (Doc. 11) is granted in part
+and denied in part, as specified herein.
+IT IS FURTHER ORDERED that Plaintiff’s Motion for Leave to File a Sur-Reply
+(Doc. 16) is granted in part and denied in part as moot, as specified herein.
+IT IS FURTHER ORDERED that the Clerk of Court shall file Plaintiff’s lodged
+Sur-Reply at Doc. 17.
+IT IS FURTHER ORDERED that Defendant Circle K shall answer the non-
+dismissed counts of the complaint within 14 days of the date of this Order.
+Dated this 22nd day of April, 2026.
+Case 2:26-cv-01225-JAT Document 35 Filed 04/23/26 Page 22 of 22

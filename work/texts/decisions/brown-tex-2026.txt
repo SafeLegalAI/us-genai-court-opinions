@@ -1,0 +1,719 @@
+                    In the
+              Court of Appeals
+Sixth Appellate District of Texas at Texarkana
+
+
+                   No. 06-25-00151-CR
+
+
+
+            ALAN RAY BROWN, Appellant
+
+                            V.
+
+           THE STATE OF TEXAS, Appellee
+
+
+
+
+         On Appeal from the 188th District Court
+                 Gregg County, Texas
+               Trial Court No. 55790-A
+
+
+
+
+      Before Stevens, C.J., van Cleef and Rambin, JJ.
+      Memorandum Opinion by Chief Justice Stevens
+                                      MEMORANDUM OPINION
+
+         A Gregg County jury convicted Alan Ray Brown of solicitation of a minor, a second-
+
+degree felony. See TEX. PENAL CODE ANN. § 43.021(b)(2) (Supp.). After Brown pled true to the
+
+State’s punishment enhancement allegation, the trial court sentenced him to forty-five years’
+
+imprisonment. On appeal, Brown argues that (1) the evidence is insufficient to support the jury’s
+
+verdict of guilt and (2) the trial court erred by admitting evidence of Brown’s WhatsApp
+
+messages during his trial.
+
+         We find that legally sufficient evidence supported the jury’s verdict of guilt. We further
+
+find that there was no abuse of discretion in the trial court’s evidentiary rulings. Even so, we
+
+modify the judgment to reflect that Brown’s sentence was assessed by the trial court, not the
+
+jury. As modified, we affirm the trial court’s judgment.
+
+I.       Legally Sufficient Evidence Supports the Jury’s Verdict of Guilt
+
+         In his third point of error on appeal,1 Brown argues that the evidence was legally
+
+insufficient to show that he solicited a minor. As applied to this case, “[a] person commits an
+
+offense if the person knowingly offers or agrees to pay a fee to another person for the purpose of
+
+engaging in sexual conduct with that person or another.” TEX. PENAL CODE ANN. § 43.021(a)
+
+(Supp.). The offense is a second-degree felony if the person solicited is “represented to the actor
+
+as being younger than 18 years of age” or is “believed by the actor to be younger than 18 years
+
+1
+ We address Appellant’s legal sufficiency issue out of the order in which it is presented in Appellant’s brief because,
+if sustained, it would result in an acquittal, thereby rendering his other issues moot. See Martinez v. State, No. 01-
+19-00906-CR, 2021 WL 1679546, at 2 (Tex. App.—Houston [1st Dist.] Apr. 29, 2021, no pet.) (mem. op., not
+designated for publication) (citing Benavidez v. State, 323 S.W.3d 179, 182 (Tex. Crim. App. 2010) (“holding
+sufficiency of evidence, when raised, must be addressed before trial error because sustaining it results in acquittal
+and ‘would interpose a jeopardy bar to retrial’”)).
+                                                          2
+of age.” TEX. PENAL CODE ANN. § 43.021(b)(2)(B), (C). Brown argues that, while the evidence
+
+shows he wished to have sex with a minor, Brown did not pay to have sex with a minor.
+
+       A.      Standard of Review
+
+       “The due process guarantee of the Fourteenth Amendment requires that a conviction be
+
+supported by legally sufficient evidence.” Braughton v. State, 569 S.W.3d 592, 607 (Tex. Crim.
+
+App. 2018) (citing Jackson v. Virginia, 443 U.S. 307, 315–16 (1979)). “In evaluating legal
+
+sufficiency, we review all the evidence in the light most favorable to the trial court’s judgment to
+
+determine whether any rational jury could have found the essential elements of the offense
+
+beyond a reasonable doubt.” Williamson v. State, 589 S.W.3d 292, 297 (Tex. App.—Texarkana
+
+2019, pet. ref’d) (citing Brooks v. State, 323 S.W.3d 893, 912 (Tex. Crim. App. 2010)). “We
+
+examine legal sufficiency under the direction of the Brooks opinion, while giving deference to
+
+the responsibility of the jury ‘to fairly resolve conflicts in testimony, to weigh the evidence, and
+
+to draw reasonable inferences from basic facts to ultimate facts.’” Id. (quoting Hooper v. State,
+
+214 S.W.3d 9, 13 (Tex. Crim. App. 2007) (quoting Jackson, 443 U.S. at 319); Clayton v. State,
+
+235 S.W.3d 772, 778 (Tex. Crim. App. 2007) (quoting Jackson, 443 U.S. at 319)).
+
+       “In our review, we consider ‘events occurring before, during and after the commission of
+
+the offense and may rely on actions of the defendant which show an understanding and common
+
+design to do the prohibited act.’” Id. (quoting Hooper, 214 S.W.3d at 13). “It is not required
+
+that each fact ‘point directly and independently to the guilt of the appellant, as long as the
+
+cumulative force of all the incriminating circumstances is sufficient to support the conviction.’”
+
+Id. (quoting Hooper, 214 S.W.3d at 13). “Circumstantial evidence and direct evidence are
+
+                                                 3
+equally probative in establishing the guilt of a defendant, and guilt can be established by
+
+circumstantial evidence alone.” Id. (citing Ramsey v. State, 473 S.W.3d 805, 809 (Tex. Crim.
+
+App. 2015); Hooper, 214 S.W.3d at 13).                “Even erroneously admitted evidence must be
+
+considered when addressing a challenge to the sufficiency of the evidence.” Moore v. State, 169
+
+S.W.3d 467, 477 (Tex. App.—Texarkana 2005, pet. ref’d); see Winfrey v. State, 393 S.W.3d 763,
+
+767 (Tex. Crim. App. 2013).
+
+        “Legal sufficiency of the evidence is measured by the elements of the offense as defined
+
+by a hypothetically correct jury charge.” Williamson, 589 S.W.3d at 298 (citing Malik v. State,
+
+953 S.W.2d 234, 240 (Tex. Crim. App. 1997)). Here, the State alleged that Brown “knowingly
+
+agree[d] to pay a fee to another person . . . for the purpose of engaging in sexual conduct, namely
+
+sexual intercourse with Joy,[2] and Joy was represented to the defendant as being younger than 18
+
+years of age, and the fee constituted money.”
+
+        B.       The Evidence at Trial
+
+        At trial, the evidence showed that Brown had been arrested on an unrelated charge and
+
+that his charge for solicitation of a minor resulted from the search of his cell phone. After his
+
+arrest, Brown’s adult stepson, Mickey Hall, testified that he called the Longview Police
+
+Department (LPD) to turn over Brown’s cell phone after finding inappropriate messages Brown
+
+had sent. Hall testified that he knew the cell phone belonged to Brown because he had watched
+
+Brown use it on many occasions.
+
+
+
+2
+We use pseudonyms to protect the identity of any person who was a minor at the time of the offense. See TEX. R.
+APP. P. 9.10.
+                                                      4
+       Deborah Styles, a detective with the LPD, said she went to Brown’s house to pick up the
+
+cell phone from Hall. Styles testified that she logged Brown’s cell phone into the LPD “cyber
+
+lab” while LPD awaited a search warrant. Trenton Capps, an LPD detective for the Special
+
+Victims Unit (SVU), obtained a warrant to search Brown’s cell phone. Joshua Hall, an SVU
+
+detective with the LPD, testified that he used “Cellebrite,” a digital forensic software suite, to
+
+extract data from Brown’s cell phone when executing the search warrant. The data extracted
+
+included text messages and WhatsApp messages. Detective Hall testified that the cell phone’s
+
+user was Brown and that the email address attached to the cell phone was Brown’s email
+
+address.
+
+       Capps testified that the cell phone contained photographs of Brown’s house in addition to
+
+self-portraits of Brown. Capps testified that he was “100 percent” sure that the cell phone
+
+belonged to Brown. When asked what caused him concern as he searched the cell phone, Capps
+
+testified that Brown’s text and WhatsApp conversations were “sexually based” and that he
+
+“observed a particular [WhatsApp] conversation with someone who [Brown] was speaking with
+
+in what appeared to be a relationship-style, talking about paying her to bring two children to . . .
+
+the United States to have sex with them.” Capps testified that as he reviewed the conversation,
+
+he “ma[de] notes, trying to be as accurate as possible and verbatim what was said, even
+
+misspellings and capitalizations.”
+
+       Capps testified that LPD became “locked out” of Brown’s WhatsApp account, did not
+
+know how it happened, and needed Brown’s password to access those messages. According to
+
+Capps, Brown sent several messages to a WhatsApp phone number with a Nigerian country code
+
+                                                 5
+in September 2023. The person with the Nigerian country code represented to Brown that she
+
+was a woman, whom we will refer to as Fran, who wished to marry him. The record shows that
+
+some of the WhatsApp messages were not introduced into evidence. However, from his notes,
+
+Capps testified that he read the following WhatsApp messages:
+
+            •        On September 9, 2023, Brown sent a message to Fran stating, “Look, I
+                     have sent you almost 2000, I’m not sending you any more money.”
+
+            •        Later, on September 9, Brown sent a message to Fran stating, “You keep
+                     saying that you will go back and bring some little girls over for me.”
+
+            •        Again, on September 9, Brown sent a message to Fran stating, “Even said
+                     you would bring Joy with you.”
+
+            •        On September 10, Brown sent a message to Fran stating, “Really want to
+                     fuck Joy. She’s just 16.”
+
+            •        On September 10, Fran responded, “[S]he’s 14 not 16. You can enjoy her,”
+                     and Brown said, “Okay, 14, great. And yes, I will enjoy her,” “I really like
+                     that she’s just 14.”
+
+            •        On September 11, Brown sent a message to Fran stating, “When Joy gets
+                     here, you are probably not getting any sex for a few days. I’m going to
+                     fuck the crap out of that little girl.”
+
+            •        On September 12, Brown sent a message stating, “If I had $600 and I
+                     thought you would bring Joy over, I would send it to you. I really want to
+                     fuck Joy. She’s cute. Just 14.”
+
+            •        On September 13, Brown sent Fran a message stating, “You said you
+                     needed 500 to get here. I sent you 500.”3
+
+            Capps also testified about WhatsApp messages that were printed and introduced into
+
+evidence at trial.         Capps’s testimony and the WhatsApp messages show that, on or after
+
+3
+    As we explain below, it appears that these bulleted messages were lost.
+                                                            6
+September 20, Brown sent a message to Fran saying, “You get here[.] You just stay in bed
+
+naked[.] You, Joy and her friend[.]” On September 22, Fran said to Brown, “Babe I need you so
+
+much,” and Brown said, “You know I want you here [a]nd [y]ou know I really want to be
+
+fucking Joy[.] Probably her friend also once I see her.” Brown sent another message to Fran
+
+stating, “I want your virginity[.] All three of you[.]” Capps testimony and the WhatsApp
+
+messages show, that Brown exchanged self-portraits on the chat. Brown asked for photographs
+
+of Joy and “[a] picture of her little friend also.”
+
+        On September 27, Brown sent a message to Fran stating,
+
+        Look[.] I want you here[.] Then you started talking about Joy[.] I really want
+        Joy here[.] She’s cute and young[.] I want to be fucking her[.] Then you said
+        something about her friend[.] If she’s cute[,] [j]ust 11[,] I want to be fucking her
+        also[.] I think it’s great you will let me have sex with other girls[.] Especially if
+        you are going to bring them to m[e].
+
+Capps’s testimony and the WhatsApp messages show that Brown said, “I’m sending it to you,”
+
+implying that he was sending money, and he asked Fran, “How much do you need to get you,
+
+Joy and her friend here[?]” Fran responded with $5,000.00, which Brown said “[s]ound[ed]
+
+great,” and added, “If you all three get here at the same time[,] [w]hat do you want me to do[?] I
+
+mean[,] I guess we have sex first[.]” Brown then asked if “Joy[’]s little friend ha[d] a phone,”
+
+Fran responded that the girls were not allowed to have a phone until they were fifteen or sixteen,
+
+and Brown replied, “That’s to [sic] bad.” Brown sent another message stating, “I’m going to
+
+fuck Joy everyday[.] Depends on what her little friend looks like [b]ut [s]he’s just 11[.] I’m
+
+going to fuck her also[.]”
+
+
+
+                                                      7
+       Fran sent Brown purported photographs of Joy’s young friend. When Fran asked for
+
+more money, Brown told Fran, “I don’t think you are coming here[.] Last time [y]ou said you
+
+needed $500 to get here I sent you $500[.] You didn’t come over[.]” When Fran kept asking for
+
+money, Brown said, “I’m not sending you any more money[.] I have done that[.] You never
+
+come over[.]” On October 15, Brown said, “You, Joy and her friend[.] I want all three of you
+
+here,” which again prompted a discussion about Fran needing money. Brown responded that he
+
+was not sending her “any more money.” Brown reiterated to Fran, “I have sent you money[.]
+
+Sent you money[.] Sent you money[.] And [s]ent you money[.] You never come over[.]”
+
+According to Capps, Brown indicated that he had sent money to Fran to have Joy and her friend
+
+brought to the United States to have sex with him. Capps testified that it was clear that Brown
+
+was “talking to a scam artist.”
+
+       After hearing this evidence and reviewing the WhatsApp messages that were admitted
+
+into evidence, the jury found Brown guilty of solicitation of a minor.
+
+       C.      Analysis
+
+       The evidence at trial shows that Brown wished to have sex with Joy, a minor. Yet,
+
+Brown argues that nothing shows that he offered or agreed to pay Fran so that he could engage in
+
+sexual contact with Joy. According to Brown, “[e]very time money was allegedly paid by
+
+[Brown] to [Fran] it was for the purposes of funding [Fran’s] travel to America to live with and
+
+be married to [Brown].” We disagree with Brown’s characterization of the evidence.
+
+       The evidence shows that Brown sent almost $2,000.00 to Fran, who said she “would
+
+bring Joy with [her].” On September 12, Brown said, “If I had $600 and I thought you would
+
+                                                8
+bring Joy over, I would send it to you. I really want to fuck Joy. She’s cute. Just 14.” The next
+
+day, Brown said he had sent Fran $500.00. From this evidence, the jury was free to infer that
+
+Brown sent the $500.00 to Fran on September 13 so that Fran would bring Joy to the United
+
+States for the purpose of engaging in sex with Brown. On September 27, Brown sent Fran a
+
+message stating it was “[g]reat” that Fran was bringing Joy to him to have sex. When Brown
+
+asked how much it would be for Fran, Joy, and Joy’s friend to come to America, Fran responded
+
+with a sum of $5,000.00. Brown said that sum “[s]ound[ed] great,” indicating his agreement to
+
+pay, and noted that he would have sex with Joy. Brown also indicated that he had sent multiple
+
+other payments to Fran.
+
+       During his testimony, Capps said that there was a “correlation from money to sex”
+
+because “[m]ultiple times [Brown] directly referred to sending money to have Joy . . . be brought
+
+over.” As for the $2,000.00 Brown initially sent, Capps testified, “Based on the context of the
+
+conversation, it was clear that [Brown] was sending money for [Fran] to get her and the . . . two
+
+children here.”
+
+       The jury, which reviewed the WhatsApp messages admitted into evidence, was free to
+
+believe Capps’s testimony. Viewing all of the evidence in the light most favorable to the
+
+prosecution, we find it legally sufficient to establish, beyond a reasonable doubt, that Brown
+
+agreed to pay money to Fran for the purpose of engaging in sexual conduct with Joy, a minor.
+
+As a result, we overrule Brown’s third point of error.
+
+
+
+
+                                                 9
+II.    There Was No Abuse of Discretion in the Trial Court’s Evidentiary Rulings
+
+       In his remaining points of error, Brown argues that the trial court erred by (1) admitting
+
+printouts of his WhatsApp messages and (2) Capps’s testimony about Brown’s lost WhatsApp
+
+messages.
+
+       A.      Standard of Review
+
+       Whether to admit evidence at trial is a preliminary question to be decided by the trial
+
+court. TEX. R. EVID. 104(a); Tienda v. State, 358 S.W.3d 633, 637–38 (Tex. Crim. App. 2012).
+
+“We review a trial court’s decision to admit or exclude evidence for an abuse of discretion.”
+
+Flowers v. State, 438 S.W.3d 96, 103 (Tex. App.—Texarkana 2014, pet. ref’d) (citing Martinez
+
+v. State, 327 S.W.3d 727, 736 (Tex. Crim. App. 2010)). “Abuse of discretion occurs only if the
+
+decision is ‘so clearly wrong as to lie outside the zone within which reasonable people might
+
+disagree.’” Id. (quoting Taylor v. State, 268 S.W.3d 571, 579 (Tex. Crim. App. 2008) (citing
+
+Montgomery v. State, 810 S.W.2d 372, 391 (Tex. Crim. App. 1991) (op. on reh’g))). “We may
+
+not substitute our own decision for that of the trial court.” Id. (citing Moses v. State, 105 S.W.3d
+
+622, 627 (Tex. Crim. App. 2003)). “We will uphold an evidentiary ruling if it was correct on
+
+any theory of law applicable to the case.” Id. (citing De La Paz v. State, 279 S.W.3d 336, 344
+
+(Tex. Crim. App. 2009)).
+
+       B.      There Was No Abuse of Discretion in Admitting Printed WhatsApp Messages
+
+       Before trial, Brown filed a motion to exclude the printed WhatsApp messages on grounds
+
+that they were unauthenticated, included hearsay, and violated his confrontation clause rights.
+
+After voir dire, the trial court heard argument on Brown’s motion. As for authentication, the
+
+                                                10
+State represented that the cell phone was registered to Brown, linked to his email account,
+
+contained Brown’s self-portraits, and would be authenticated through Brown’s stepson and
+
+officer testimony.
+
+       The State argued that the printed WhatsApp messages were admissible because (1) Fran’s
+
+statements were not hearsay since they were not offered for the truth of the matter asserted and
+
+(2) Brown’s statements were admissible under a hearsay exception since they were statements
+
+against interest. Brown responded by arguing that Fran was unknown and he could not confront
+
+Fran, but the State responded that the WhatsApp messages were nontestimonial. The trial court
+
+overruled Brown’s objections and gave him a running objection to his WhatsApp messages.
+
+       On appeal, Brown appears to concede that the printed WhatsApp messages were
+
+authenticated and that statements made by him were admissible under the statements-against-
+
+interest exception to the hearsay rule. See TEX. R. EVID. 803(24). As a result, he challenges only
+
+Fran’s WhatsApp messages on the grounds that they were hearsay and violated his confrontation
+
+clause rights.
+
+       “Hearsay is a statement . . . other than one made by the declarant while testifying at the
+
+trial, which is offered to prove the truth of the matter asserted.” Richter v. State, 482 S.W.3d
+
+288, 299–300 (Tex. App.—Texarkana 2015, no pet.) (quoting Dinkins v. State, 894 S.W.2d 330,
+
+347 (Tex. Crim. App. 1995) (citing TEX. R. EVID. 801(d))). “An extrajudicial statement or
+
+writing which is offered for the purpose of showing what was said rather than for the truth of the
+
+matter stated therein does not constitute hearsay.” Id. at 300 (quoting Dinkins, 894 S.W.2d at
+
+
+
+                                               11
+347). In other words, “[a] statement is not hearsay if its relevancy does not hinge on its
+
+truthfulness.” Brooks v. State, 900 S.W.2d 468, 474 n.6 (Tex. App.—Texarkana 1995, no writ).
+
+          Here, the State was not concerned about whether Fran’s statements were true. In fact,
+
+Capps surmised that Fran was a scam artist looking for money, and it was likely that her
+
+statements were not true. See id. As a result, it did not matter whether Fran was a man or a
+
+woman, really knew a person named Joy, actually intended to come to the United States with
+
+Joy, or agreed to transport Joy to Brown. The relevance of Fran’s printed messages was to show
+
+Brown’s belief that Joy was a minor who would have sex with him if he paid Fran money to
+
+transport Joy. Therefore, the State sought to introduce Fran’s statements simply to show the
+
+context in which Brown made his incriminating statements, which is a permissible “non-hearsay
+
+purpose[]” for admitting such evidence. See Sandoval v. State, 665 S.W.3d 496, 531 (Tex. Crim.
+
+App. 2022); Jones v. State, 466 S.W.3d 252, 266 (Tex. App.—Houston [1st Dist.] 2015, pet.
+
+ref’d).
+
+          Because Fran’s statements were relevant to provide context to Brown’s statements and
+
+were not offered to prove they were true, the trial court did not abuse its discretion by overruling
+
+Brown’s hearsay objection. See Sandoval, 665 S.W.3d at 531; Jones, 466 S.W.3d at 266;
+
+Woolverton v. State, 324 S.W.3d 794, 801–02 (Tex. App.—Texarkana 2010, pet. denied);
+
+Brooks, 900 S.W.2d at 474 n.6.
+
+          Next, “to implicate the Confrontation Clause, an out-of-court statement must (1) have
+
+been made by a witness absent from trial and (2) be testimonial in nature.” Woodall v. State, 336
+
+S.W.3d 634, 642 (Tex. Crim. App. 2011) (citing Crawford v. Washington, 541 U.S. 36, 50–52,
+
+                                                12
+59 (2004)). Common examples of testimonial statements include affidavits, court-testimony,
+
+confessions, or depositions. Langham v. State, 305 S.W.3d 568, 576 (Tex. Crim. App. 2010)
+
+(quoting Wall v. State, 184 S.W.3d 730, 735 (Tex. Crim. App. 2006)). Brown does not explain
+
+how Fran’s WhatsApp messages are testimonial in nature.                  When determining whether a
+
+statement is testimonial, “we look to determine whether ‘the surrounding circumstances
+
+objectively indicate that the primary purpose of the interview or interrogation is to establish or
+
+prove past events potentially relevant to later criminal prosecution.’” Id. (quoting De La Paz v.
+
+State, 273 S.W.3d 671, 680 (Tex. Crim. App. 2008)).
+
+        Here, nothing shows that Fran’s WhatApp messages were testimonial. See Walter v.
+
+State, 581 S.W.3d 957, 981 (Tex. App.—Eastland 2019, pet. ref’d) (finding informal text
+
+messages nontestimonial). Fran’s statements themselves were incriminating and show that they
+
+were not made under circumstances that would lead a reasonable person to believe that the
+
+messages would be used in a criminal trial.
+
+        We find that the trial court did not abuse its discretion by admitting Fran’s printed
+
+WhatsApp messages into evidence. As a result, we overrule Brown’s first point of error.
+
+        C.      Brown Does Not Preserve His Appellate Complaints About Capps’s
+                Testimony Regarding the Lost Messages
+
+        Next, Brown complains of Capps’s testimony about the substance of Brown’s lost
+
+WhatsApp messages.4
+
+
+
+
+4
+ Brown raises a separate complaint that admission of the lost WhatsApp messages was hearsay. We find our
+analysis above controlling and conclude that the trial court did not abuse its discretion by admitting them.
+                                                    13
+            During trial, the State noted that “there’s one WhatsApp thread that we don’t have.” The
+
+State explained that LPD “said they gave us -- they gave our office three thumb drives,” but that
+
+the State and defense had only seen one thumb drive. The State proposed that Capps, an LPD
+
+detective, be allowed to read his notes regarding the messages included in the lost thumb drive.
+
+Brown objected to allowing Capps to testify about the lost WhatsApp messages they “ha[d] no
+
+real record of.”
+
+            Brown opined that there could be “something exculpatory in there.” Brown objected that
+
+if the LPD had sent the messages to the district attorney’s office and if the district attorney had
+
+lost the messages, there was “a spoilation of evidence problem” and the State “should not be
+
+allowed to use evidence that they once had and [can not] turn over now.” The trial court
+
+overruled Brown’s objections, stating “I really think this goes to the weight of the evidence and
+
+not admissibility.”5 At trial, Brown did not accuse the State of bad faith, complain about
+
+authentication of missing messages, or raise a statutory or Brady violation.6
+
+            On appeal, Brown argues that the State (1) violated his due process rights and Article
+
+39.14 of the Texas Code of Criminal Procedure by refusing to provide the lost thumb drives, (2)
+
+committed a Brady violation by withholding exculpatory and impeachment evidence, (3) lost
+
+potentially useful evidence, and (4) did not sufficiently authenticate the lost messages. See TEX.
+
+CODE CRIM. PROC. ANN. art. 39.14 (Supp.). We find these issues unpreserved.
+
+
+
+
+5
+    The trial court granted Brown a running objection to Capps’s testimony about the lost messages.
+6
+    See Brady v. Maryland, 373 U.S. 83 (1963).
+                                                           14
+        To preserve a complaint for appellate review, a defendant must show that he first
+
+presented to the trial court a timely request, objection, or motion stating the specific grounds for
+
+his desired ruling. TEX. R. APP. P. 33.1(a)(1)(A). The record also must show that the trial court
+
+either “ruled on the request, objection, or motion, either expressly or implicitly” or “refused to
+
+rule on the request, objection, or motion, and the complaining party objected to the refusal.”
+
+TEX. R. APP. P. 33.1(a)(2)(A), (B). Further, “[t]he point of error on appeal must comport with
+
+the objection made at trial.” Clark v. State, 365 S.W.3d 333, 339 (Tex. Crim. App. 2012).
+
+        The rules regarding preservation apply to complaints of lack of due process and lack of
+
+authentication. Compton v. State, 666 S.W.3d 685, 731 (Tex. Crim. App. 2023); Powell v. State,
+
+898 S.W.2d 821, 829 (Tex. Crim. App. 1994). Even a Brady complaint is required to be
+
+preserved either at trial or a motion for new trial. Keeter v. State, 175 S.W.3d 756, 759 (Tex.
+
+Crim. App. 2005) (finding that rules of preservation apply to Brady).
+
+        Also, a complaint regarding Article 39.14, which relates to discovery, requires a
+
+defendant to request a continuance to preserve error since a continuance, if granted, can afford a
+
+defendant “the opportunity to avoid the prejudice and impairment.”7 Rodriguez v. State, 630
+
+S.W.3d 522, 524 (Tex. App.—Waco 2021, no pet.); see Lindley v. State, 635 S.W.2d 541, 543–
+
+44 (Tex. Crim. App. [Panel Op.] 1982); Ruffins v. State, 691 S.W.3d 166, 186–87 (Tex. App.—
+
+Austin 2024, no pet.). Here, Brown did not request a continuance.
+
+
+
+
+7
+ As the State noted, it needed Brown’s password to access the WhatsApp messages. Had a continuance been
+granted, it is possible that the messages could have been retrieved or that the missing thumb drives could have been
+found. Capps testified that “we could [have those text messages] if we log[ged] back into WhatsApp, I believe,
+yes.”
+                                                        15
+        Brown also raises a complaint under Arizona v. Youngblood for the destruction of
+
+“potentially useful evidence.” Arizona v. Youngblood, 488 U.S. 51, 58 (1988). This applies to
+
+“cases in which the government no longer possesses the disputed evidence.” Little v. State, 991
+
+S.W.2d 864, 866 (Tex. Crim. App. 1999). The United States Supreme Court has held that,
+
+“unless a criminal defendant can show bad faith on the part of the police [or State], failure to
+
+preserve potentially useful evidence does not constitute a denial of due process of law.” Arizona,
+
+488 U.S. at 58. For this reason, it is the defendant’s burden to establish that the State lost or
+
+destroyed the evidence in bad faith. Ex parte Napper, 322 S.W.3d 202, 229 (Tex. Crim. App.
+
+2010) (orig. proceeding); Moody v. State, 551 S.W.3d 167, 170 (Tex. App.—Fort Worth 2017,
+
+no pet.) (citing Illinois v. Fisher, 540 U.S. 544, 547–48 (2004) (per curiam); Youngblood, 488
+
+U.S. at 57–58). However, a claim of bad faith at trial is required to preserve a Youngblood
+
+complaint. Garcia v. State, 592 S.W.3d 590, 601 (Tex. App.—Eastland 2019, no pet.). At trial,
+
+Brown did not allege or present evidence that the State acted in bad faith.
+
+        Here, the appellate record shows that Brown did not raise his due process, Youngblood,
+
+authentication, or Brady complaints, and failed to request a continuance to preserve his
+
+complaint regarding a discovery violation. As a result, the trial court did not rule on such
+
+matters, and we find Brown’s remaining complaints unpreserved.8
+
+
+
+
+8
+ Moreover, Brown argues that the information in the lost thumb drives could be exculpatory or used for
+impeachment, but Capps testified that he did not fail to include any missing messages that might be beneficial to
+Brown.
+                                                       16
+III.   Modify the Judgment
+
+       “This Court has the power to correct and modify the judgment of the trial court for
+
+accuracy when the necessary data and information are part of the record.” Anthony v. State, 531
+
+S.W.3d 739, 743 (Tex. App.—Texarkana 2016, no pet.) (citing TEX. R. APP. P. 43.2(b); Bigley v.
+
+State, 865 S.W.2d 26, 27 (Tex. Crim. App. 1993); Asberry v. State, 813 S.W.2d 526, 529 (Tex.
+
+App.—Dallas 1991, pet. ref’d) (en banc)). “The authority of an appellate court to reform
+
+incorrect judgments is not dependent upon the request of any party, nor does it turn on the
+
+question of whether a party has or has not objected in the trial court.” Id. (quoting Asberry, 813
+
+S.W.2d at 529–30).
+
+       Here, the trial court’s judgment mistakenly states that the “JURY” assessed Brown’s
+
+punishment.    However, the reporter’s record shows that the jury was dismissed after the
+
+guilt/innocence phase of the trial and that the trial court assessed Brown’s punishment.
+
+Accordingly, we modify the trial court’s judgment to properly reflect the record.
+
+IV.    Conclusion
+
+       We modify the trial court’s judgment to reflect that Brown’s punishment was assessed by
+
+the trial court and not the jury. As modified, we affirm the trial court’s judgment.
+
+
+
+
+                                              Scott E. Stevens
+                                              Chief Justice
+
+Date Submitted:        May 6, 2026
+Date Decided:          July 17, 2026
+
+Do Not Publish
+                                                17
+

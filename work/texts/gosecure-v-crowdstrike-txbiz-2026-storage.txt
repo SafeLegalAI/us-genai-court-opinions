@@ -1,0 +1,2134 @@
+                                           2026 Tex. Bus. 13
+
+
+
+
+                                   The Business Court of Texas,
+                                         Third Division
+
+    GO SECURE, INC.,           §
+        Plaintiff,             §
+                               §
+    v.                         § Cause No. 25-BC03A-0012
+    CROWDSTRIKE, INC., and     §
+    CROWDSTRIKE HOLDINGS, INC. §
+                               §
+        Defendants.
+                               §
+          ═══════════════════════════════════════
+                                                  Syllabus *
+             ═══════════════════════════════════════
+
+        This intellectual-property dispute between two companies based in California
+arises out of the alleged misappropriation of trade secrets that initially occurred in
+California some fifteen years ago. Defendant CrowdStrike, Inc. (CrowdStrike) filed
+a special appearance, which the Court grants. The Court holds that it lacks general
+jurisdiction over CrowdStrike because, despite having a large office and sales in
+Texas, Crowdstrike does not have its principal place of business in Texas and is not
+“essentially at home” here under the exceptional-case doctrine. The Court holds
+that it lacks specific jurisdiction over CrowdStrike because plaintiff’s claims do not
+“arise out of or relate to” CrowdStrike’s Texas contacts, which occurred years after
+the initial alleged misappropriation and are peripheral to, rather than substantially
+connected to, the operative facts of the case.
+
+
+
+
+*
+ The syllabus was created by court staff and is provided for the convenience of the reader. It is not part of the
+Court’s opinion, does not constitute the Court’s official description or statement, and should not be relied
+upon as legal authority.
+                                   2026 Tex. Bus. 13
+
+
+
+
+                              The Business Court of Texas,
+                                    Third Division
+
+ GOSECURE INC.,                             §
+       Plaintiff,                           §
+                                            §
+v.                                          §    Cause No. 25-BC03A-0012
+ CROWDSTRIKE, INC. and                      §
+ CROWDSTRIKE HOLDINGS, INC.,                §
+                                            §
+       Defendants.
+                                            §
+           ═══════════════════════════════════════
+            Opinion & Order on CrowdStrike, Inc.’s Special Appearance
+           ═══════════════════════════════════════
+      ¶1        Before the Court is defendant CrowdStrike, Inc.’s (CrowdStrike)
+
+Amended Special Appearance. The Court GRANTS the Amended Special
+
+Appearance and DISMISSES all claims against CrowdStrike for lack of personal
+
+jurisdiction.
+
+                                      Introduction
+
+      ¶2        Texas is lauded as an attractive place to do business for many reasons—
+
+favorable tax policies, low-operating costs, a skilled and diverse workforce, well-
+
+developed infrastructure and access to global markets, a pro-growth regulatory
+
+environment, and of course, the large customer base offered by its still growing
+population of over 30 million people. It is unsurprising, then, that many national and
+
+international businesses have facilities and employees in Texas and regularly engage
+
+in commerce with Texas residents. Such business activities may subject a company
+
+to jurisdiction in Texas for lawsuits that arise out of or relate to those activities. But
+
+it will not, without more, subject a company to jurisdiction in Texas for all lawsuits
+
+of any kind. Even when a company has large offices in Texas, many employees in
+
+Texas, or does a lot of business with Texas residents, if the company chooses to
+
+incorporate and have its principal place of business in another forum, Texas’s
+
+jurisdiction over the company is limited.
+
+      ¶3     Federal due process mandates this result, and it serves Texas public
+
+policy and residents. Judicial overreach in this scenario would discourage doing
+
+business in Texas, reducing job opportunities and consumer choice for Texans, and
+
+place the burden on Texas courts to adjudicate disputes over out-of-state events
+
+involving out-of-state parties—like this one. Meanwhile, case-specific jurisdiction
+
+ensures that Texans are protected by the laws and courts of Texas for disputes that
+
+arise out of or relate to a business’s Texas activities.
+
+      ¶4     In this case, GoSecure, a Delaware company based in California, sued
+
+CrowdStrike, another Delaware company also based in California, alleging that
+
+CrowdStrike stole trade secrets from GoSecure in California in 2011 and 2012, and
+
+used them to develop products and services CrowdStrike still sells today—
+
+
+
+                                            2
+nationally and globally, including in Texas. Because this is a dispute between
+
+California-based entities over events that occurred largely in California, it does not
+
+belong in Texas court, and that is not changed by the fact that CrowdStrike opened
+
+an office in Texas years after the trade secrets were allegedly stolen and now has
+
+both a sizeable Texas workforce and considerable sales in Texas.
+
+                                             Background
+
+A.         GoSecure alleges that CrowdStrike misappropriated its trade secrets.
+
+           ¶5      The underlying facts, as alleged by GoSecure, are as follows:
+
+           ¶6      Beginning in 2004, GoSecure developed trade secrets and other
+
+confidential and proprietary information related to endpoint detection and response
+
+technology. 1 In September 2011, GoSecure was introduced to Dmitri Alperovitch,
+
+who signed a confidentiality agreement and served on GoSecure’s Board of
+
+Directors through May 2012, acting as a technical liaison and obtaining highly
+
+sensitive engineering information. 2 While on the Board, Alperovitch recruited
+
+Jeremy Gould to join GoSecure as a senior engineer, where Gould accessed
+
+GoSecure’s entire source code repository and other confidential materials. 3
+
+Unbeknownst to GoSecure, Alperovitch and Gould conspired to emulate GoSecure’s
+
+
+
+
+1
+    Plaintiff’s Original Petition (Pet.) at ¶¶ 22, 25–26, 28–29, 31–32.
+2
+    Id. at ¶ 36.
+3
+    Id. at ¶ 37.
+
+
+                                                   3
+technology for the benefit of CrowdStrike, of which Alperovitch was a founder. 4 In
+
+March 2012, while still on GoSecure’s Board, Alperovitch recruited Gould to leave
+
+GoSecure and join CrowdStrike. 5 Alperovitch stepped down from the Board in May
+
+2012. 6
+
+           ¶7     When Alperovitch and Gould departed GoSecure, they assured
+
+GoSecure they would comply with their confidentiality obligations and CrowdStrike
+
+would not misuse GoSecure’s trade secrets. 7 For more than a decade, GoSecure had
+
+no reason to suspect misappropriation. 8 But in July 2024, CrowdStrike suffered a
+
+well-publicized global outage (resulting in the “Blue Screen of Death”), and
+
+subsequent public analysis—specifically a Qihoo 360 report—revealed technical
+
+details of the Falcon Platform that indicated CrowdStrike’s Falcon Platform
+
+employed methods derived from GoSecure’s trade secrets. 9
+
+B.         GoSecure originally sued CrowdStrike in California, alleging that the events
+           underlying the action occurred there.
+
+           ¶8     The     procedural   background    for    GoSecure’s     trade-secret
+
+misappropriation claims begins in California state court, where GoSecure originally
+
+
+
+4
+    Id. at ¶ 6.
+5
+    Id. at ¶¶ 39-40.
+6
+    Id.
+7
+    Id. at ¶¶ 40-42.
+8
+    Id. at ¶¶ 42-44.
+9
+    Id. at ¶¶ 46-47, 50-52.
+
+
+                                             4
+sued CrowdStrike based on the above-described facts in November 2024. 10 In that
+
+suit, GoSecure represented that its principal place of business at the time of the
+
+alleged misappropriation was in Santa Monica, California 11 and described itself as a
+
+small California startup company. 12 GoSecure alleged that the California court had
+
+personal jurisdiction over CrowdStrike because it was founded in California, long
+
+maintained its principal place of business in California, and misappropriated
+
+GoSecure’s trade secrets in California. 13 GoSecure specifically alleged that
+
+CrowdStrike misappropriated its trade secrets in San Mateo County, California;
+
+induced or contributed to others misappropriating its trade secrets in San Mateo
+
+County, California; and marketed and sold products and services that
+
+misappropriated its trade secrets in San Mateo County, California. 14
+
+           ¶9       GoSecure alleged that the California court had personal jurisdiction
+
+over Alperovitch and Gould because: they committed the unlawful acts alleged in
+
+the complaint within California, and if they committed any unlawful acts outside of
+
+California, those acts caused injury to GoSecure within California; they were
+
+employed by CrowdStrike, for which they performed services in California; they
+
+
+10
+  ASA Exh. 3–A (Hrg. Exh. 3A). GoSecure also brought patent claims against CrowdStrike in
+federal court based on overlapping facts.
+11
+     Id. at ¶ 11.
+12
+     Id. at ¶¶ 5, 35.
+13
+     ASA Exh. 3–A (Hrg. Exh. 3A) at ¶ 18.
+14
+     Id. at ¶ 19.
+
+
+                                               5
+committed the unlawful acts alleged in the complaint in California while in the scope
+
+of their employment with CrowdStrike; and Gould was a resident of San Mateo,
+
+California whose “responsibilities as a Senior Software Engineer caused him to
+
+regularly work with CrowdStrike engineers located within California.” 15
+
+          ¶10     The Defendants in the California case filed a demurrer to GoSecure’s
+
+complaint in January 2025. 16 Under California procedure, GoSecure could “amend
+
+its pleading once without leave of the court” before the hearing on the demurrer. 17
+
+In May 2025, GoSecure filed its first amended complaint, mooting the demurrer. 18
+
+In July, Defendants filed a new demurrer to GoSecure’s first amended complaint. 19
+
+One month later, GoSecure voluntarily dismissed its California action. 20
+
+C.        GoSecure next sued CrowdStrike in Texas based on the same underlying
+          events as the California suit.
+
+          ¶11     GoSecure filed this suit against CrowdStrike and CrowdStrike
+
+Holdings, Inc. (CS Holdings) in August 2025, asserting claims for misappropriation
+
+of trade secrets under the common law and the Texas Uniform Trade Secrets Act
+
+(TUTSA), unfair competition by misappropriation, conversion, and unjust
+
+
+
+15
+     Id. at ¶¶ 20–21.
+16
+     ASA Exh. 3–B (Hrg. Exh. 3B).
+17
+     CAL. CIV. PROC. CODE § 472(a).
+18
+     ASA Exh. 3–D (Hrg. Exh. 3D).
+19
+     ASA Exh. 3–E (Hrg. Exh. 3E).
+20
+     ASA Exh. 3–F (Hrg. Exh. 3F).
+
+
+                                             6
+enrichment, seeking damages, a permanent injunction, and attorney’s fees. 21
+
+GoSecure alleges that this Court has specific jurisdiction over CrowdStrike because
+
+it “does business in Texas and is headquartered in Texas”; “CrowdStrike has
+
+purposely availed itself of doing business in the state of Texas, and this suit arises
+
+out of or relates to CrowdStrike’s contacts in the state”; and “the exercise of
+
+personal jurisdiction over CrowdStrike would not offend traditional notions of fair
+
+play and substantial justice.” 22
+
+           ¶12      The “Facts” section of GoSecure’s Texas petition largely tracks the
+
+facts alleged in the California action. 23
+
+           ¶13      CrowdStrike filed a special appearance, and later its Amended Special
+
+Appearance, 24 to which GoSecure responded, 25 and in support of which CrowdStrike
+
+filed a reply. 26 GoSecure also moved for sanctions with respect to CrowdStrike’s
+
+conduct in jurisdictional discovery, 27 to which CrowdStrike responded, 28 and in
+
+support of which GoSecure filed a reply. 29 The Court held a hearing on
+
+
+21
+     Pet. at 1, ¶¶ 56–99.
+22
+     Id. at ¶ 19.
+23
+     Compare Pet. at ¶¶ 21–55 with ASA Exh. 3–D (Hrg. Exh. 3D) at ¶¶ 21–55.
+24
+     Amended Special Appearance for Defendant CrowdStrike, Inc. (ASA).
+25
+     GoSecure’s Response to ASA (Resp.).
+26
+     CrowdStrike’s Reply in Support of ASA (Reply).
+27
+     GoSecure’s Motion for Sanctions (Sanctions Mot.).
+28
+     Defendants’ Response to Sanctions Mot. (Sanctions Resp.).
+29
+     GoSecure’s Reply in Support of Sanctions Mot. (Sanctions Reply).
+
+
+                                                 7
+CrowdStrike’s Amended Special Appearance and GoSecure’s Motion for Sanctions
+
+on February 24, 2026, at which CrowdStrike and GoSecure presented their
+
+arguments and evidence.
+
+                                             Analysis
+
+          ¶14      A court’s authority to exercise personal jurisdiction over a nonresident
+
+defendant is a question of law. 30 Texas courts may exercise personal jurisdiction
+
+over a nonresident defendant only when doing so is (1) authorized by the Texas long-
+
+arm statute and (2) consistent with federal due-process guarantees. 31 In a business-
+
+transaction or tort case, 32 the Texas long-arm statute permits courts to exercise
+
+jurisdiction over a defendant who “does business” in Texas. 33 CrowdStrike
+
+concedes that it does business in Texas, 34 but argues that exercising jurisdiction
+
+over CrowdStrike would violate federal due-process guarantees. Federal due process
+
+allows a Texas court to exercise jurisdiction over a nonresident defendant only if the
+
+
+
+
+30
+  State v. Volkswagen Aktiengesellschaft, 669 S.W.3d 399, 413 (Tex. 2023); Moki Mac River
+Expeditions v. Drugg, 221 S.W.3d 569, 574 (Tex. 2007).
+31
+     LG Chem Am., Inc. v. Morgan, 670 S.W.3d 341, 346 (Tex. 2023) (citations omitted).
+32
+     TEX. CIV. PRAC. & REM. CODE §§ 17.041–.045.
+33
+  Under the statute, doing business in Texas includes (1) contracting with a Texas resident, if either
+party is to perform the contract in whole or in part in Texas; (2) committing a tort in whole or in
+part in Texas; or (3) recruiting Texas residents for employment. Id. § 17.042.
+34
+     See, e.g., ASA at 7, 8.
+
+
+                                                  8
+defendant has sufficient “minimum contacts” with Texas that maintenance of the
+
+suit here comports with “traditional notions of fair play and substantial justice.” 35
+
+       ¶15     A defendant’s contacts with Texas may give rise to two types of
+
+personal jurisdiction: general (or “all purpose”) jurisdiction or specific (or “case
+
+linked”) jurisdiction. 36 GoSecure asserts both. Under either type of jurisdiction, the
+
+Court considers only the defendant’s contacts—not the unilateral activity of
+
+others—that are “purposeful rather than random, fortuitous, or attenuated,”
+
+whereby the defendant seeks some benefit, advantage, or profit by availing itself of
+
+Texas. 37
+
+A.     The Court decides this jurisdictional dispute on the merits rather than the
+       alleged pleading and verification defects.
+
+       ¶16     As the plaintiff, GoSecure bore the initial burden to plead allegations
+
+sufficient to confer personal jurisdiction over CrowdStrike; if it did so, the burden
+
+shifted to CrowdStrike to negate all jurisdictional bases alleged. 38 CrowdStrike can
+
+meet that burden by presenting evidence contradicting the facts alleged to establish
+
+minimum contacts; if it did so, the burden shifted back to GoSecure to respond with
+
+
+ BRP-Rotax GmbH & Co. v. Shaik, 716 S.W.3d 98, 104 (Tex. 2025) (quoting Int’l Shoe Co. v.
+35
+
+Washington, 326 U.S. 310, 316 (1945)).
+36
+  See id. (quoting Ford Motor Co. v. Mont. Eighth Jud. Dist. Ct., 592 U.S. 351, 358 (2021)); TV
+Azteca v. Ruiz, 490 S.W.3d 29, 37 (Tex. 2016).
+37
+  TV Azteca, 490 S.W.3d at 38 (quoting Moncrief Oil Int’l Inc. v. OAO Gazprom, 414 S.W.3d 142,
+151 (Tex. 2013)); Michiana Easy Livin’ Country, Inc. v. Holten, 168 S.W.3d 777, 785 (Tex. 2005).
+ Volkswagen Aktiengesellschaft, 669 S.W.3d at 413; Kelly v. Gen. Interior Constr., Inc., 301 S.W.3d
+38
+
+653, 658–59 (Tex. 2010); Moki Mac, 221 S.W.3d at 574.
+
+
+                                                9
+evidence supporting its jurisdictional allegations. 39 The Court must decide
+
+CrowdStrike’s special appearance based on “the pleadings, any stipulations made
+
+by and between the parties, such affidavits and attachments as may be filed by the
+
+parties, the results of discovery processes, and any oral testimony.” 40
+
+          ¶17     CrowdStrike asserts that GoSecure’s petition fails to plead several of
+
+the factual theories underlying its personal-jurisdiction arguments, and GoSecure
+
+alleges that CrowdStrike failed to sufficiently verify its Amended Special
+
+Appearance under Rule 120a. Ultimately, neither complaint is determinative, and
+
+the Court decides the jurisdictional dispute on the merits. First, the Court addresses
+
+all of GoSecure’s factual theories, regardless of whether certain facts are
+
+insufficiently pleaded, 41 because: (1) the parties understood and addressed the facts
+
+in play; (2) GoSecure could amend its petition to add the purportedly unpled facts; 42
+
+
+
+
+39
+  Kelly, 301 S.W.3d at 659; Jay Zabel & Assocs., Ltd. v. Compass Bank, 527 S.W.3d 545, 552–53
+(Tex. App.—Houston [1st Dist.] 2017, no pet.); Tabasso v. BearCom Grp., Inc., 407 S.W.3d 822,
+826 (Tex. App.—Dallas 2013, no pet.).
+40
+     TEX. R. CIV. P. 120a(3).
+41
+  CrowdStrike argues that “GoSecure failed to plead any facts about CrowdStrike Racing, chatbots,
+press releases, YouTube videos, or Falcon Complete.” Reply at 12. But this evidence (discussed
+below) at least arguably supports GoSecure’s pleadings that CrowdStrike is “home” in Austin,
+“does business and is headquartered in Texas,” “employs hundreds of individuals” here, and its
+“engineers in Austin have been improperly using GoSecure’s trade secrets and confidential
+information to develop its Falcon Platform for years.” Pet. at ¶¶ 8, 19–20; see also Resp. at 11–13.
+See State v. Yelp, Inc., 725 S.W.3d 170, 178 (Tex. App.—15th Dist. 2025, pet. filed); Riverside
+Strategic Cap. Fund I, L.P. v. CLG Invs., LLC, 2025 Tex. Bus. 33, ¶ 45, 2025 WL 2419620, at *7
+(1st Div.).
+42
+     See Kelly, 301 S.W.3d at 659; Yelp, 725 S.W.3d at 180 n.4.
+
+
+                                                 10
+and (3) CrowdStrike is not harmed because it prevails. Second, the Court decides
+
+the Amended Special Appearance based on the record before it, regardless of
+
+whether every factual contention in the Amended Special Appearance is properly
+
+verified, because: (1) Diana Sychra’s affidavit satisfies the “personal knowledge”
+
+requirement; 43 (2) the Court does not rely on any fact asserted in the Amended
+
+Special Appearance that is not supported by competent affidavit testimony; 44 and
+
+(3) just like GoSecure could amend to cure defects in its pleadings, CrowdStrike
+
+could cure procedural defects in its verification. 45
+
+          ¶18    The merits of this jurisdictional dispute are fully briefed and can be
+
+adjudicated based solely on the material that is properly before the Court. In the
+
+interest of judicial efficiency, the Court will not insist on pleading and briefing
+
+amendments that will not affect the outcome.
+
+
+
+
+43
+  See, e.g., In re E.I. DuPont de Nemours & Co., 136 S.W.3d 218, 224 (Tex. 2004); Waterman
+Steamship Corp. v. Ruiz, 355 S.W.3d 387, 401 (Tex. App.—Houston [1st Dist.] 2011, pet. denied);
+Asshauer v. Glimcher Realty Tr., 228 S.W.3d 922, 926 (Tex. App.—Dallas 2007, no pet.).
+GoSecure’s argument that Sychra did not do enough to investigate her conclusions goes to the
+weight of her affidavit testimony, which the Court took into account.
+44
+   The only factual assertion that GoSecure complains is present in the ASA but missing from the
+Sychra affidavit is the assertion that the individuals on “engineering teams responsible for
+researching and developing the Falcon platform” are “all located outside Texas.” See, e.g., Wash.
+DC Party Shuttle, LLC v. IGuide Tours, 406 S.W.3d 723, 731 (Tex. App.—Houston [14th Dist.]
+2013, pet. denied) (requiring challenging party to identify missing jurisdictional facts in this
+circumstance); Brady v. Kane, No. 05-18-01105-CV, 2020 WL 2029245, at *4 (Tex. App.—Dallas
+Apr. 28, 2020, no pet.). The Court does not rely on that assertion.
+45
+     See Dawson-Austin v. Austin, 968 S.W.2d 319, 322 (Tex. 1998).
+
+
+                                                11
+B.        The Court lacks general jurisdiction over CrowdStrike.
+
+          ¶19        Where general jurisdiction exists, it extends to all claims, not just those
+
+related to the defendant’s activity in the forum state. 46 The standard for such
+
+“sweeping” jurisdiction is high: Texas courts have general jurisdiction over
+
+CrowdStrike only if its contacts with Texas are so continuous and systematic as to
+
+render it “essentially at home” in Texas. 47
+
+          ¶20        Typically, a business entity is at home in (a) its place of incorporation
+
+and (b) its principal place of business. 48 Additionally, in an “exceptional case,” a
+
+corporate defendant’s “operations in a forum other than its formal place of
+
+incorporation or principal place of business may be so substantial and of such a
+
+nature as to render the corporation at home” in that forum. 49 The parties agree that
+
+CrowdStrike is incorporated in Delaware, 50 but they dispute the location of
+
+CrowdStrike’s principal place of business and whether this is an “exceptional case”
+
+where CrowdStrike’s Texas activities render it essentially at home here.
+
+
+
+
+46
+     Ford Motor, 592 U.S. at 358.
+47
+  Id.; TV Azteca, 490 S.W.3d at 37 (quoting Daimler v. Bauman, 571 U.S. 117, 127 (2014), which
+in turn quotes Goodyear Dunlop Tires Operations, S.A. v. Brown, 564 U.S. 915, 919 (2011)); see also
+Searcy v. Parex Res., Inc., 496 S.W.3d 58, 72 (Tex. 2016) (recognizing this as “a high bar”).
+48
+     Ford Motor, 592 U.S. at 359.
+49
+     Daimler, 571 U.S. at 139 n.19; BNSF Ry. Co. v. Tyrrell, 581 U.S. 402, 413 (2017).
+50
+     Pet. at ¶ 16.
+
+
+                                                  12
+          1. Under the nerve-center test, the evidence supports CrowdStrike’s position
+             that its principal place of business is not in Texas.
+
+          ¶21     A corporation’s principal place of business is the place where its
+
+“officers direct, control, and coordinate the corporation’s activities”—frequently,
+
+the corporation’s headquarters. 51 This is often called the nerve-center test. 52 By
+
+analogy, the nerve-center test focuses on the location of the corporation’s
+
+metaphorical “brain,” not necessarily where it has the most employees or
+
+customers. 53 If the nerve-center test were to elevate quantity over quality, it would
+
+give large states like Texas broader jurisdictional reach without sound reason. 54
+
+
+
+
+51
+  Hertz Corp. v. Friend, 559 U.S. 77, 92–93 (2010); see also, e.g., Cadence Bank v. Johnson, 160
+F.4th 197, 202 (5th Cir. 2025); Forever Living Prods. Int’l, LLC v. AV Europe GmbH, 638 S.W.3d
+719, 724 (Tex. App.—Dallas 2021, no pet.).
+52
+  Hertz, 559 U.S. at 92–93. In a footnote, GoSecure argues that the nerve-center analysis “offers
+limited guidance” here because of CrowdStrike’s “remote-first business model” and that: “What
+matters instead is which office the company designates as its center of operations. CrowdStrike
+designates Austin.” Resp. at 15 n.3. But CrowdStrike does not elaborate on this theory or identify
+pleadings or evidence supporting it. The closest the Court can find is CrowdStrike’s evidence that
+CS Holdings designated Austin as its principal executive office. But CS Holdings is not
+CrowdStrike.
+53
+     See Hertz, 559 U.S. at 95.
+54
+  The Supreme Court explained in Hertz that “measuring the total amount of business activities
+that the corporation conducts [in a State] and determining whether they are ‘significantly larger’
+than in the next-ranking State” has the “strange result” of favoring States with larger populations.
+559 U.S. at 93–94. “[I]f a ‘corporation may be deemed a citizen of California on th[e] basis’ of
+‘activities [that] roughly reflect California’s larger population ... nearly every national retailer—no
+matter how far flung its operations—will be deemed a citizen of California for diversity purposes.’”
+Id. at 94 (cleaned-up; quoting Davis v. HSBC Bank Nev., N. A., 557 F.3d 1026, 1029–1030 (2009)).
+
+
+                                                 13
+           ¶22       GoSecure pleaded that CrowdStrike’s principal place of business is in
+
+Austin, Texas. 55 CrowdStrike asserts that it is in Sunnyvale, California. 56 To
+
+support its argument that its principal place of business is in Sunnyvale, California,
+
+CrowdStrike offered evidence that:
+
+           • Since its incorporation in 2011, CrowdStrike’s annual franchise tax
+             reports have consistently identified its principal place of business as
+             located in California—and in Sunnyvale, California since 2019; 57
+
+           • In August 2025, CrowdStrike identified Sunnyvale as its principal place
+             of business in a California corporate filing; 58
+
+           • CrowdStrike’s “high level officers direct, control, and coordinate [its]
+             activities” from California; 59
+
+           • several of CrowdStrike’s “key executives,” including its CFO, Chief
+             Accounting Officer, Chief Legal Officer, Chief HR Officer, Chief Business
+             Officer, and Head of Engineering, “reside in the San Francisco Bay Area
+             and direct the company’s operations from the San Francisco Bay Area and
+             CrowdStrike[]’s Sunnyvale office”; 60
+
+           • its President, CEO, CFO, Chief HR Officer, Chief Business Officer, and
+             Head of Engineering have a “dedicated office” in Sunnyvale; 61
+
+           • its personnel records show no office outside of California with “a similar
+             or higher concentration of [its] high-level officers”; 62
+
+
+55
+     Pet. at ¶ 15.
+56
+     ASA at 7.
+57
+     ASA Exh. 2 (Hrg. Exh. 2) at ¶ 4 & Exh. 2–A (Hrg. Exh. 2-A).
+58
+     ASA Exh. 2 (Hrg. Exh. 2) at ¶ 9 & Exh. 2–C (Hrg. Exh. 2-C).
+59
+     ASA Exh. 2 (Hrg. Exh. 2) at ¶ 5.
+60
+     Id. at ¶ 6.
+61
+     Id.
+62
+     Id.
+
+
+                                                 14
+           • its human resources team and its finance and accounting team are
+             controlled from Sunnyvale; 63
+
+           • its research and development leadership team is based in Sunnyvale and
+             Seattle, Washington; 64
+
+           • the Terms of Use on its website state that it is based in California; 65
+
+           • it opened its first Texas office in 2017; 66
+
+           • its personnel records indicate that over 80% of the employees in its Austin
+             office “are sales, and primarily lower-level sales staff”; 67 and
+
+           • although there are vice presidents assigned to the Austin office, there are
+             no senior vice presidents assigned to the Austin (or any Texas) office. 68
+
+           ¶23      In response, GoSecure points to evidence that CrowdStrike’s executive
+
+officers work remotely, including from outside California; 69 CrowdStrike’s witness
+
+on this issue, Diana Sychra, was unable to say whether CrowdStrike’s executive
+
+leadership ever met in Austin; 70 CrowdStrike has multiple vice presidents and its
+
+chief communications officer in Texas; 71 and when asked, the AI chatbot on
+
+CrowdStrike’s website identified Austin, Texas as its headquarters. 72
+
+
+63
+     Id. at ¶ 7.
+64
+     Id. at ¶ 8.
+65
+     Id. at ¶ 10 & Exh. 2–D (Hrg. Exh. 2-D) at p.3.
+66
+     Id. at ¶ 11.
+67
+     Id.
+68
+     Id.
+69
+     Resp. at 15.
+70
+     Resp. at 15.
+71
+     Id. at 13; Reply at 10–11; Sanctions Mot. Exh. 3 (Hrg. Exh. 14) at 47, 53, 79–81, 109.
+72
+     Sanctions Mot. Exh. 4 (Hrg. Exh. 5B).
+
+
+                                                      15
+          ¶24     While CrowdStrike’s evidence is less than perfect in several respects,
+
+it does tend to show that CrowdStrike’s nerve center is in California—and more
+
+importantly, not in Texas. Even if CrowdStrike’s executive officers work remotely
+
+from outside California, none of them do so from Texas. 73 While CrowdStrike’s chief
+
+communications officer is in Texas, the other sixteen members of its leadership team
+
+are not. 74 And while Sychra did not know everywhere CrowdStrike’s executive
+
+leadership ever met, her testimony demonstrates that CrowdStrike’s executive
+
+leadership meets regularly in the Sunnyvale office. 75
+
+          ¶25     GoSecure’s evidence (including the evidence discussed below)
+
+indicates that CrowdStrike’s Austin office is more than just the inconsequential
+
+“satellite” office for low-level sales staff CrowdStrike portrayed it to be. 76 But
+
+GoSecure identifies no evidence that CrowdStrike’s officers “direct, control, and
+
+coordinate” its activities from Austin, or anywhere in Texas. 77 Finally, without any
+
+evidence about how the AI chatbot on CrowdStrike’s website operates or what data
+
+set it was trained on, its statement that CrowdStrike’s headquarters is in Austin has
+
+limited credibility. 78 Regardless, a corporation’s headquarters is the corporation’s
+
+
+73
+     Resp. at 15; Reply at 10.
+74
+     Resp. at 13; Reply at 10–11; Reply Exh. 4-10.
+75
+     Sanctions Mot. Exh. 3 (Hrg. Exh. 14) at 66, 73.
+76
+     ASA at 7, 8, 13, 20, & Exh. 2 (Hrg. Exh. 2) at ¶11.
+77
+     Hertz, 559 U.S. at 92–93; Cadence Bank, 160 F.4th at 202.
+78
+     See, e.g., Jones v. Kankakee Cnty. Sheriff's Dep’t, 164 F.4th 967, 969 (7th Cir. 2026) (discussing
+
+
+                                                     16
+principal place of business only if it is actually the corporation’s nerve center. 79
+
+Here, the evidence is that Austin is not CrowdStrike’s nerve center.
+
+       ¶26     On this record, the weight of the credible evidence supports the
+
+conclusion that CrowdStrike’s principal place of business is in California rather than
+
+Texas. 80 Notably, a federal court in California reached the same conclusion last year
+
+in the context of a dispute over federal diversity jurisdiction:
+
+       Most of CrowdStrike’s operational, administrative, and executive
+       functions are directed from California. Five of CrowdStrike’s 13 chief
+       officers—its Chief Financial Officer, Chief Accounting Officer, Chief
+       Legal Officer, Chief Human Resources Officer, and Chief Information
+       Officer—work from the Sunnyvale office, and the remaining officers
+       work remotely from their homes around the country (two of which are
+       in California, and the other six are each in a different state). Moreover,
+       two of CrowdStrike’s four board members work from the Sunnyvale
+
+
+
+
+risk of AI “hallucination,” “where an AI large language model generates an output that is fictional,
+inaccurate, or nonsensical”); S.M. v. N.Y.C. Dep’t of Educ., No. 22-CV-7051 (VEC) (BCM), 2025
+WL 4050877, at *10 (S.D.N.Y. Nov. 10, 2025) (declining to give weight to evidence generated by
+AI chatbot and noting that “AI-powered chatbots are prone to hallucinations” (quoting Perez v.
+Evans, No. 24-CV-356 (VSB) (SN), 2025 WL 2726792, at *4 (S.D.N.Y. Sept. 25, 2025)).
+79
+  Hertz, 559 U.S. at 93; see also, e.g., Aqua Terra U.S. Holdings, LLC v. Pappas Harris Cap., LLC,
+No. 14-20-00858-CV, 2022 WL 3365265, at *3 (Tex. App.—Houston [14th Dist.] Aug. 16, 2022,
+no pet.) (“The company’s nerve center normally is its headquarters, unless that is not the actual
+center of direction, control, and coordination.”); Ascentium Cap. LLC v. Hi-Tech the Sch. of
+Cosmetology Corp., 558 S.W.3d 824, 831 (Tex. App.—Houston [14th Dist.] 2018, no pet.) (“A
+company’s principal place of business [is] not the place that is denominated its ‘headquarters,’ but
+the place that is ‘the actual center of direction, control, and coordination.’” (quoting Hertz, 559
+U.S. at 93)).
+80
+  See also DFND Sec., Inc. v. CrowdStrike, Inc., No. 22-cv-04542-AMO, 2025 WL 808078, at *2
+(N.D. Cal. Mar. 13, 2025) (finding California is CrowdStrike’s principal place of business for
+purposes of diversity jurisdiction).
+
+
+                                                17
+          office. These facts alone strongly suggest Sunnyvale is the company’s
+          principal place of business. 81
+
+          2. CrowdStrike’s operations in Texas do not render it at home in Texas under
+             the exceptional-case doctrine.
+
+          ¶27    The Supreme Court recognizes “the possibility that in an exceptional
+
+case” an entity’s “operations in a forum other than its formal place of incorporation
+
+or principal place of business may be so substantial and of such a nature as to render
+
+the corporation at home in that State,” even though the state is not the entity’s place
+
+of incorporation or principal place of business. 82 This is often called the exceptional-
+
+case doctrine. To satisfy this standard, CrowdStrike’s activities in Texas must be
+
+“comparable to a domestic enterprise” in Texas. 83
+
+          ¶28    The archetypal example of the exceptional-case doctrine is Perkins v.
+
+Benguet Consolidated Mining Co., where United States Supreme Court held that
+
+Ohio had general jurisdiction over Benguet, a Philippines-based company whose
+
+president, general manager, and principal stockholder temporarily relocated to, and
+
+ran the company from, Ohio during Japan’s occupation of the Philippine Islands in
+
+
+
+
+81
+  Id. (citations omitted); see also Raza v. Crowdstrike, Inc., No. 21-CV-4196, 2021 WL 5882134, at
+*1 n.1 (N.D. Ill. Dec. 13, 2021) (“[CrowdStrike] is a citizen of Delaware (its State of incorporation)
+and California (the location of its principal place of business)”).
+82
+     Daimler, 571 U.S. at 139, n.19; Ford Motor, 592 U.S. at 359; BNSF, 581 U.S. at 413.
+83
+     Daimler, 571 U.S. at 133 n.11.
+
+
+                                                 18
+World War II. 84 As the Supreme Court later observed: “Ohio was the corporation’s
+
+principal, if temporary, place of business.” 85
+
+          ¶29      Conversely, in BNSF, the Supreme Court held that BNSF was not “so
+
+heavily engaged in activity in Montana ‘as to render [it] essentially at home’ in that
+
+State,” 86 when its over 2,000 miles of railroad track in Montana was only about 6%
+
+of its total track mileage, its over 2,000 employees in Montana constituted less than
+
+5% of its total work force, and it generated less than 10% of its total revenue in
+
+Montana. 87 The Court explained that the inquiry “does not focus solely on the
+
+magnitude of the defendant’s in-state contacts,” but rather “calls for an appraisal
+
+of a corporation’s activities in their entirety.” 88
+
+          ¶30      GoSecure argues that CrowdStrike’s activities in Texas are so
+
+extensive as to render it “essentially at home” in Texas, giving rise to general
+
+jurisdiction under the exceptional-case doctrine. In support of its exceptional-case
+
+theory for general jurisdiction, GoSecure relies on evidence that: 89
+
+
+
+
+84
+     342 U.S. 437, 447–48 (1952); see also BNSF, 581 U.S. at 413.
+85
+  Daimler, 571 U.S. at 130 (quoting Keeton v. Hustler Magazine, Inc., 465 U.S. 770, 780 n.11
+(1984)).
+86
+     BNSF, 581 U.S. at 414 (quoting Daimler, 571 U.S. at 127).
+87
+     Id. at 406.
+88
+     Id. (quoting Daimler, 571 U.S. at 139, n.20).
+89
+     Resp. at 11–13.
+
+
+                                                     19
+          • CrowdStrike’s parent company, CS Holdings, designates CrowdStrike’s
+            Austin office as its “principal executive office”; 90
+
+          • between 2015 and 2025, CrowdStrike billed significant amounts 91 to
+            customers with a ship-to address in Texas, including Dell Technologies,
+            CrowdStrike’s 2024 Global Partner of the Year; 92
+
+          • Austin is CrowdStrike’s largest office; 93
+
+          • CrowdStrike issues press releases from Austin; 94
+
+          • a posting on CrowdStrike’s website related identifying Austin as the
+            “home” of CrowdStrike Racing (CS Racing); 95 and
+
+          • CrowdStrike has its chief communications officer, multiple vice
+            presidents, and several engineers in Texas. 96
+
+          ¶31     As an initial matter, the Court is not persuaded by GoSecure’s evidence
+
+of CS Holdings’ designation of Austin as its principal executive office or the website
+
+posting referring to Austin as CS Racing’s “home.” GoSecure does not dispute that
+
+
+
+
+90
+     GoSecure’s Resp. to CrowdStrike’s Special Exceptions, Exh. 1 at 20.
+91
+     An exact number is in the record but currently protected by a temporary sealing order.
+92
+     Sanctions Mot. Exh. 7 (Hrg. Exh. 5E).
+93
+  Resp. at 17, 18, 22; Sanctions Mot. at 5; Sanctions Mot. Exh. 3 (Hrg. Exh. 14) at 58, 79 & Exh. 5
+(Hrg. Exh. 5C) at 2.
+94
+  Sanctions Mot. Exh. 2 (Hrg. Exh. 5A). GoSecure also asserts that CrowdStrike posted a YouTube
+video in 2020 in which someone associated with CrowdStrike stated: “We’re looking to build this
+as our sales hub, make Austin really our home.” Resp. at 13. But the evidence GoSecure cites in
+support of this contention does not relate to a YouTube video. See id. Ms. Sychra is questioned about
+the YouTube video elsewhere in her deposition, but she testified that she does not have personal
+knowledge about it. Sanctions Mot. Exh. 3 (Hrg. Exh. 14) at 100–03. The video itself is not in
+evidence.
+95
+     Sanctions Mot. Exh. 6 (Hrg. Exh. 5D).
+96
+  The evidence shows more specific numbers, omitted here because it is currently the subject of a
+temporary sealing order.
+
+
+                                                  20
+CS Holdings and CS Racing are separate legal entities from CrowdStrike. 97
+
+GoSecure has not pleaded or argued any basis on which the Court could pierce the
+
+corporate veil, impute either of these entities’ activities to CrowdStrike, or
+
+otherwise disregard their corporate separateness. 98 Nor has GoSecure argued any
+
+specific involvement by CS Holdings or CS Racing in the facts of this case beyond
+
+their affiliation with CrowdStrike.
+
+          ¶32    GoSecure’s evidence does show that Austin is CrowdStrike’s largest
+
+office and home to one of CrowdStrike’s executive officers, multiple vice presidents,
+
+numerous engineers, and a massive sales force. CrowdStrike’s evidence does not
+
+controvert this. GoSecure’s evidence also demonstrates that CrowdStrike does
+
+extensive business with Texas customers, including its recent Global Partner of the
+
+Year. 99 CrowdStrike’s evidence does not controvert this either, but CrowdStrike
+
+
+
+
+97
+     ASA Exh. 2 (Hrg. Exh. 2) at ¶ 12; Reply at 12.
+98
+   See Moncrief Oil Int’l Inc. v. OAO Gazprom, 414 S.W.3d 142, 157 (Tex. 2013); PHC-Minden, L.P.
+v. Kimberly-Clark Corp., 235 S.W.3d 163, 173 (Tex. 2007); Commonwealth Gen. Corp. v. York, 177
+S.W.3d 923, 925 (Tex. 2005) (per curiam); see also Daimler, 571 U.S. at 135–36; cf. Volkswagen
+Aktiengesellschaft, 669 S.W.3d at 419 (recognizing corporate separateness but that jurisdiction
+over related entity still may be available based on entity’s own contacts); Cornerstone Healthcare
+Grp. Holding, Inc. v. Nautic Mgmt. VI, L.P., 493 S.W.3d 65, 71–73 (Tex. 2016) (same); Spir Star
+AG v. Kimich, 310 S.W.3d 868, 873–74 (Tex. 2010) (same).
+99
+   But see Kimich, 310 S.W.3d at 874 (“If sales alone created general jurisdiction, a foreign
+manufacturer like AG could be sued in Texas for labor practices occurring in Germany even though
+they had nothing to do with Texas.”).
+
+
+                                                  21
+offers additional evidence demonstrating that, while considerable, its sales in Texas
+
+are minor relative to its “activities in their entirety.” 100
+
+       ¶33     On whole, the evidence shows that CrowdStrike has a significant
+
+presence in Texas—perhaps, in some ways, more significant than in other states.
+
+But Texas is not CrowdStrike’s nerve center, and the Supreme Court has held that a
+
+State cannot exercise general jurisdiction over a corporation merely because it
+
+“engages in a substantial, continuous, and systematic course of business” in the
+
+State—a practice the Court called “unacceptably grasping.” 101
+
+       ¶34     The role of the exceptional-case doctrine is not to expand general
+
+jurisdiction to an additional forum that is not a nerve center but could be its principal
+
+place of business under a different legal test that the Supreme Court did not adopt
+
+(such as the largest office). That would undermine one of the principal reasons the
+
+Supreme Court chose the nerve-center test: it points to a single principal place of
+
+
+
+
+100
+   Reply Exh. 4-3. See BNSF, 581 U.S. at 414 (requiring courts to consider defendant’s in-state
+activities in context of its “activities in their entirety”); Daimler, 571 U.S. at 139-40 (same); see
+also Certain Underwriters at Lloyd’s, London v. Henry Vogt Mach. Co., 712 S.W.3d 909, 942 (Tex.
+App.—Houston [14th Dist.] 2025, no pet.); EMO Trans, Inc. v. Inmobiliaria Axial, S.A. de C.V.,
+657 S.W.3d 772, 782–83 (Tex. App.—El Paso 2022, pet. denied).
+101
+   Daimler, 571 U.S. at 137–38; see also id. at 139 (“If Daimler’s California activities sufficed to
+allow adjudication of this Argentina-rooted case in California, the same global reach would
+presumably be available in every other State in which MBUSA’s sales are sizable. Such exorbitant
+exercises of all-purpose jurisdiction would scarcely permit out-of-state defendants ‘to structure
+their primary conduct with some minimum assurance as to where that conduct will and will not
+render them liable to suit.’” (quoting Burger King Corp. v. Rudzewicz, 471 U.S. 462, 472 (1985))).
+
+
+                                                22
+business. 102 That principle is not undermined by the exception recognized in Perkins,
+
+where wartime restrictions caused the company to temporarily relocate its
+
+operations center from the Philippines to Ohio, such that Ohio temporarily operated
+
+as the company’s nerve center. 103
+
+           ¶35      GoSecure primarily relies on PetroSaudi Oil Services Ltd. v. Hartley 104
+
+to support its position. In that case, the plaintiff was injured on a drillship anchored
+
+off the coast of Trinidad and Tobago and sued several defendants, including
+
+PetroSaudi, an entity organized under the laws of the Cayman Islands. 105 The First
+
+Court of Appeals in Houston upheld the trial court’s exercise of jurisdiction over
+
+PetroSaudi based on the integral nature of PetroSaudi’s Houston office, where the
+
+plaintiff was hired, to PetroSaudi’s business. 106
+
+           ¶36      PetroSaudi is distinguishable from this case. PetroSaudi asserted that
+
+its principal place of business was in London, where its only employee worked, and
+
+it had no office in Texas; but the trial court credited the evidence that: PetroSaudi
+
+
+102
+   Hertz, 559 U.S. at 93 (“A corporation’s ‘nerve center,’ usually its main headquarters, is a single
+place.”); id. at 95 (choosing nerve-center test over alternative in part because it “suggests a single
+location,” while alternative more often pointed to multiple places); Daimler, 571 U.S. at 137
+(pointing out that corporation’s place of incorporation and principle place of business “have the
+virtue of being unique—that is, each ordinarily indicates only one place—as well as easily
+ascertainable”).
+103
+   342 U.S. at 447–48; see Daimler, 571 U.S. at 130 (noting that in Perkins, “Ohio was the
+corporation’s principal, if temporary, place of business” (quoting Keeton, 465 U.S. at 780 n.11)).
+104
+      617 S.W.3d 116 (Tex. App.—Houston [1st Dist.] 2020, no pet.).
+105
+      Id. at 123.
+106
+      Id. at 141.
+
+
+                                                 23
+did have a Houston office; that was where the operations integral to the drillship
+
+occurred; and the drillship was the crux of PetroSaudi’s business. 107 On that basis,
+
+the court of appeals concluded that the Houston office was effectively PetroSaudi’s
+
+“general business office.” 108 The same is not true here, where the evidence
+
+demonstrates significant activity in Texas but that the operational decisions integral
+
+to the crux of CrowdStrike’s business are centered in California. In fact, in Devon
+
+Energy Corp. v. Cormier, the First Court distinguished PetroSaudi on similar
+
+grounds. 109
+
+           ¶37     This case is more akin to Devon than PetroSaudi. In Devon, the plaintiff
+
+argued that the trial court properly exercised general jurisdiction over two
+
+defendants, the “Devon Entities,” because their activities in Texas were so
+
+continuous and systematic as to render them essentially at home in Texas. 110 The
+
+plaintiff relied on evidence that the Devon Entities owned and profited from “over
+
+
+107
+      Id. at 139–141 & n.8.
+  Id. at 141; see also Devon Energy Corp. v. Cormier, No. 01-22-00921-CV, 2024 WL 4775785, at
+108
+
+*10 (Tex. App.—Houston [1st Dist.] Nov. 14, 2024, no pet.).
+109
+      In Devon Energy, the court explained:
+       PetroSaudi is distinguishable on the facts. In that case, this Court held that the defendant
+       was essentially at home in Texas. PetroSaudi was incorporated in the Cayman Islands and
+       listed its principal place of business in London, where it had one employee. This Court
+       observed, however, that the company’s “management team” was located in Houston and
+       that the activities at the Houston office were extensive and essential to the corporation’s
+       business, which “was focused on finding opportunities for and operating the vessel, a
+       drillship.”
+2024 WL 4775785, at *9 (citations omitted).
+110
+      Id. at *7.
+
+
+                                                  24
+one hundred thousand acres of land in Texas,” were involved in the operation of
+
+“countless drilling rigs in Texas” that produced tens of thousands of barrels of oil
+
+daily, had employees in Texas and an office in downtown Houston, received 15% of
+
+their total production in 2019 from Texas, and had litigated other lawsuits in Harris
+
+County without contesting jurisdiction. 111 Nevertheless, the court of appeals held
+
+that the trial court erred by exercising general jurisdiction over the Deveon Entities,
+
+explaining that even though their contacts with Texas were, in some sense,
+
+continuous and systematic, they did not “rise to the relatively high level of
+
+rendering either Devon Entity essentially ‘at home’ in Texas.” 112
+
+            ¶38    The same is true here. While CrowdStrike’s activities in Texas may be
+
+continuous and systematic in some ways, they are not so continuous and systematic
+
+as to render CrowdStrike “at home” in Texas when Texas is neither its place of
+
+incorporation nor its principal place of business. 113
+
+
+
+
+111
+      Id.
+112
+      Id. at *8.
+113
+   Daimler, 571 U.S. at 119 (“The words ‘continuous and systematic,’ … were used in International
+Shoe to describe situations in which the exercise of specific jurisdiction would be appropriate. With
+respect to all-purpose jurisdiction, International Shoe spoke instead of ‘instances in which the
+continuous corporate operations within a state [are] so substantial and of such a nature as to justify
+suit ... on causes of action arising from dealings entirely distinct from those activities.’”); see also
+Devon Energy Corp., 2024 WL 4775785, at *7 (“Operations substantial enough to render a
+nonresident corporation ‘at home’ requires more than contacts that are, in some sense, continuous
+and systematic contacts.”).
+
+
+                                                  25
+C.        The Court lacks specific jurisdiction over CrowdStrike in this case.
+
+          ¶39     Specific jurisdiction differs from general jurisdiction: “It covers
+
+defendants less intimately connected with a State, but only as to a narrower class of
+
+claims.” 114 Specifically, it applies when (1) the nonresident defendant “engages in
+
+‘some act by which it purposefully avails itself of the privilege of conducting
+
+activities within the forum state’ and (2) the plaintiff’s claims ‘arise out of or relate
+
+to’ those forum contacts.” 115 “This kind of personal jurisdiction involves a ‘claim-
+
+by-claim’ analysis that focuses on the relationship between the defendant, the forum
+
+state, and the operative facts of the litigation.” 116 Ultimately, “[t]he law of specific
+
+jurisdiction thus seeks to ensure that States with ‘little legitimate interest’ in a suit
+
+do not encroach on States more affected by the controversy.” 117
+
+          ¶40     Here, CrowdStrike does not contest purposeful availment; 118 the
+
+dispute is whether GoSecure’s claims “arise out of or relate to” CrowdStrike’s
+
+purposeful contacts with Texas. While the phrase “relate to” may have a broader
+
+
+
+
+114
+   Ford Motor, 592 U.S. at 358; see also BRP-Rotax, 716 S.W.3d at 104; Luciano v.
+SprayFoamPolymers.com, LLC, 625 S.W.3d 1, 8 (Tex. 2021).
+  Volkswagen Aktiengesellschaft, 669 S.W.3d at 412–13 (cleaned up; quoting Ford Motor, 592 U.S.
+115
+
+at 359).
+116
+      Id. at 413 (quoting Moncrief Oil, 414 S.W.3d at 150).
+  Ford Motor, 592 U.S. at 360 (quoting Bristol-Myers Squibb Co. v. Super. Ct., 582 U.S. 255, 263
+117
+
+(2017)).
+118
+      ASA at 15; ASA Exh. 1 (Hrg. Exh. 1).
+
+
+                                                  26
+meaning in some contexts, 119 in the specific-jurisdiction context, “the phrase ‘relate
+
+to’ incorporates real limits, as it must to adequately protect” the due-process rights
+
+of nonresident defendants. 120 Applying the “arise out of or relate to” standard, the
+
+Texas Supreme Court has held: “for a nonresident defendant’s forum contacts to
+
+support an exercise of specific jurisdiction, there must be a substantial connection
+
+between those contacts and the operative facts of the litigation.” 121 The “operative
+
+facts” of the litigation are those that “will be the focus of the trial, will consume
+
+most if not all of the litigation’s attention,” and to which “the overwhelming
+
+majority of the evidence will be directed.” 122
+
+
+
+
+119
+   E.g., Morales v. Trans World Airlines, Inc., 504 U.S. 374, 383 (1992) (stating that “ordinary
+meaning” of phrase “relating to” in statutory exemption provision was “a broad one”); Alamo Title
+Co. v. WFG Nat’l Title Co. of Tex., LLC, 2026 Tex. Bus. 6, ¶ 23, 2026 WL 292519, at *5 (4th Div.)
+(observing that the phrase “relating to” “is construed broadly by Texas courts”).
+120
+      Ford Motor, 592 U.S. at 362.
+121
+   Moki Mac, 221 S.W.3d at 585 (holding that even though defendant solicited business from Texas
+and made assurances of safety to Texas customer on which customer relied in deciding to purchase
+out-of-state river rafting expedition from defendant, operative facts at trial would be defendant’s
+conduct in Arizona where the expedition and underlying injury occurred); see also TV Azteca, 490
+S.W.3d at 53–54 (distinguishing Moki Mac and upholding specific jurisdiction where defendant’s
+Texas contacts constituting both personal availment and the actionable conduct in suit were in
+defamatory broadcasts that originated outside of Texas but were received, viewed, and caused harm
+in Texas); Moncrief Oil, 414 S.W.3d at 156–57 (holding that, while Texas court has personal
+jurisdiction over defendant for purposes of claim based on misappropriation of trade secret that
+allegedly occurred in Texas, it did not have jurisdiction for purposes of claim based on tortious
+interference that allegedly occurred at meeting in California); Cornerstone Healthcare, 493 S.W.3d
+at 74 (upholding jurisdiction where conduct constituting “crux” of defendant’s purposeful contacts
+and focus of plaintiff’s claims at trial was in Texas).
+122
+   Moki Mac, 221 S.W.3d at 585; see also Volkswagen Aktiengesellschaft, 669 S.W.3d at 431 &
+n.141; TV Azteca, 490 S.W.3d at 53; Moncrief Oil, 414 S.W.3d at 156.
+
+
+                                               27
+          1. The Court must examine each of GoSecure’s claims to determine the
+             operative facts and their connection to CrowdStrike’s Texas contacts.
+
+          ¶41     As discussed above, the operative test is whether, on a claim-by-claim
+
+basis, there is “a substantial connection between [CrowdStrike’s Texas] contacts
+
+and the operative facts” of GoSecure’s claims, with the “operative facts” being
+
+those that “will be the focus of the trial, will consume most if not all of the
+
+litigation’s attention,” and to which “the overwhelming majority of the evidence
+
+will be directed.” 123 CrowdStrike undertakes a claim-by-claim analysis and argues
+
+that the focus of trial and the overwhelming majority of evidence submitted at trial
+
+on GoSecure’s claims will relate to whether GoSecure’s trade secrets were disclosed
+
+to CrowdStrike and whether CrowdStrike incorporated them into its Falcon
+
+Platform—events in California (where GoSecure originally brought its claims)
+
+around 2011 and 2012 (years before CrowdStrike had a Texas presence).
+
+CrowdStrike also points out that there is not a single mention of Texas or Austin in
+
+the “Facts” section of GoSecure’s petition. 124
+
+
+
+
+123
+   Moki Mac, 221 S.W.3d at 585; see also Volkswagen Aktiengesellschaft, 669 S.W.3d at 431 &
+n.141; TV Azteca, 490 S.W.3d at 53; Moncrief Oil, 414 S.W.3d at 156; Cornerstone Healthcare, 493
+S.W.3d at 74.
+124
+      See Pet. at ¶¶ 21–55.
+
+
+                                              28
+       ¶42     In response, GoSecure does not discuss the “operative facts” in this
+
+case or what will be the focus of the evidence or the trial. 125 Nor does it undertake a
+
+claim-by-claim analysis. Instead, GoSecure relies entirely on two Texas courts of
+
+appeals’ opinions: Twister B.V. v. Newton Research Partners, LP 126 and Technox
+
+Engineering & Services Private, Ltd. v. Sunwoo Co. 127 But neither of those cases held
+
+that personal jurisdiction will always exist in trade-secret misappropriation cases
+
+where any offending sale allegedly occurred in Texas, much less that it will always
+
+exist as to the myriad of other claims GoSecure asserts here (some of which were not
+
+asserted in either Twister or Technox)—especially in the absence of any injury to a
+
+Texas resident or that occurred in Texas. Instead, each of those courts performed a
+
+claim-by-claim analysis of the connection between the defendant’s Texas contacts
+
+and the operative facts for each of plaintiff’s claims. This Court must do the same.
+
+
+
+
+125
+    GoSecure’s only reference to “operative facts” in its brief is in a footnote describing another
+case. Resp. at 20 n.6. Its only reference to the “focus at trial” is in a quote discussing another case.
+Id. at 18.
+126
+   364 S.W.3d 428 (Tex. App.—Dallas 2012, no pet.). Twister was a suit by a Texas general
+partnership alleging that a foreign defendant wrongfully disclosed its trade secrets in
+communications to Texas entities, wrongfully used its trade secrets in products it sold in Texas and
+elsewhere, and marketed its products in Texas. Id. at 432–33, 436.
+127
+   No. 01-22-00006-CV, 2022 WL 17981848 (Tex. App.—Houston [1st Dist.] Dec. 29, 2022, pet.
+denied). In Technox, an out-of-state plaintiff asserted that a Texan, a Texas company, and the
+nonresident defendant that purchased the Texas company and was operated by the Texan acquired
+the plaintiff’s trade secrets by deceit and incorporated them into their products, which were sold
+exclusively out of Texas. Id. at *1, *5–6.
+
+
+                                                  29
+             a. Misappropriation of trade secret
+
+          ¶43    The nonresident defendants in both Twister and Technox argued that
+
+only the (alleged) acquisition and initial incorporation of the stolen trade secrets into
+
+their products—which occurred outside of Texas—were relevant and any
+
+subsequent use of the trade secrets in Texas was irrelevant. 128 Both courts rejected
+
+those arguments, holding that the subsequent marketing and sales could constitute
+
+improper “use” of trade secrets and provide a basis for liability. 129 But neither court
+
+ended their analysis there; both courts went onto examine the relationship between
+
+the defendant’s alleged Texas contacts and the operative facts of the plaintiffs’
+
+misappropriation claim. 130 The Twister and Technox courts did not hold that sales in
+
+Texas after the initial acquisition and use of trade secrets would always be sufficient
+
+to establish personal jurisdiction.
+
+          ¶44    GoSecure’s overbroad reading of Twister and Technox would mean that
+
+any foreign plaintiff could bring suit in Texas against any foreign defendant for
+
+
+
+
+128
+      Twister, 364 S.W.3d at 437–38; Technox, 2022 WL 17981848, at *10.
+129
+      Twister, 364 S.W.3d at 438–39; Technox, 2022 WL 17981848, at *10–11.
+130
+   The Twister court concluded that the “focus of the trial” would include both issues related to
+Twister’s acts in the Netherlands and its acts in Texas—such as Twister’s alleged use and
+disclosure the trade secrets through Texas marketing and sales—and held that the operative facts
+of the misappropriation claim were substantially connected to Twister’s Texas contacts. 364
+S.W.3d at 439–40. Similarly, the Technox court considered the allegations and evidence as a whole
+and concluded that, while events in South Korea would be relevant, a long list of Texas contacts
+would also be relevant, and ultimately, the operative facts of the misappropriation claim were
+substantially connected to those contacts. 2022 WL 17981848, at *10–11.
+
+
+                                               30
+trade-secret misappropriation that occurred anywhere in the world, so long as even
+
+one of the offending products was sold in Texas. Such a rule is inconsistent with the
+
+fact-specific nature of specific jurisdiction, could not be reconciled with federal due
+
+process, 131 and would result in exactly what specific-jurisdiction is designed to
+
+prevent: states with “little legitimate interest” in a suit encroaching on the
+
+jurisdiction of states more affected by the controversy. 132 Instead, federal due
+
+process and Texas precedent require this Court to examine whether CrowdStrike’s
+
+contacts with Texas are substantially related to the operative facts of GoSecure’s
+
+misappropriation claims in this case. 133
+
+          ¶45     GoSecure alleges three trade-secret misappropriation claims: statutory
+
+misappropriation of trade secrets (Count I), 134 common-law misappropriation of
+
+
+
+
+131
+   See generally, Bristol-Myers Squibb, 582 U.S. at 264–68; see also id. at 266–67 (distinguishing
+cases that involve in-state plaintiffs or in-state injuries, like Twister and Technox, from cases that
+involve neither in-state plaintiffs nor in-state injuries, like this). GoSecure disclaims any stream-
+of-commerce theory of jurisdiction. Resp. at 20. See J.S.T. Corp. v. Foxconn Interconnect Tech. Ltd.,
+965 F.3d 571 (7th Cir. 2020) (concluding that stream-of-commerce is not appropriate theory for
+personal jurisdiction in trade-secret misappropriation cases and distinguishing claims better suited
+to such theories).
+132
+      Ford Motor, 592 U.S. at 360 (quoting Bristol-Myers Squibb, 582 U.S. at 263).
+133
+   See, e.g., Moki Mac, 221 S.W.3d at 585; Volkswagen Aktiengesellschaft, 669 S.W.3d at 431 &
+n.141; TV Azteca, 490 S.W.3d at 53; Moncrief Oil, 414 S.W.3d at 156; Cornerstone Healthcare, 493
+S.W.3d at 74.
+134
+   Generally, to recover damages for misappropriation of trade secrets under TUTSA, GoSecure
+must show that: (1) GoSecure owned a trade secret; (2) CrowdStrike misappropriated the trade
+secret; and (3) GoSecure suffered an injury. See TEX. CIV. PRAC. & REM. CODE §§ 134A.002(1), (3),
+(6), 134A.004(a); EJ Madison, LLC v. Pro-Tech Diesel, Inc., 594 S.W.3d 632, 643 (Tex. App.—El
+Paso 2019, no pet.).
+
+
+                                                  31
+trade secrets (Count II), 135 and unfair competition by misappropriation (Count
+
+III). 136 While GoSecure’s Texas contacts are not wholly irrelevant to these claims,
+
+the pleadings and evidence in the record demonstrate that they are not substantially
+
+connected to the operative facts.
+
+                 i.   Element 1: the creation or ownership of trade secrets
+
+          ¶46     All three of GoSecure’s misappropriation claims require it to prove that
+
+it had trade secrets, which GoSecure alleges it developed between 2004 and 2012. 137
+
+The operative facts relevant to this showing appear to have occurred exclusively or
+
+primarily in California where GoSecure was (and still is) located. 138 These events
+
+occurred years before CrowdStrike opened its first Texas office in 2017.
+
+
+
+135
+   The elements of common-law misappropriation of trade secrets are: (1) the trade secret existed;
+(2) the trade secret was acquired through breach of a confidential relationship or discovered by
+improper means; (3) the defendant used the trade secret without authorization; and (4) the plaintiff
+suffered damages as a result. Twister, 364 S.W.3d at 437; Trilogy Software, Inc. v. Callidus
+Software, Inc., 143 S.W.3d 452, 463 (Tex. App.—Austin 2004, pets. denied).
+136
+    The elements of a claim for unfair competition by misappropriation have been identified as:
+(1) the plaintiff created trade secret information through extensive time, labor, skill, and money;
+(2) the defendant used that product in competition with the plaintiff, thereby gaining a special
+advantage in that competition because defendant is burdened with little or none of the expense
+incurred by the plaintiff; and (3) commercial damage to the plaintiff. Baylor Scott & White v. Project
+Rose MSO, LLC, 633 S.W.3d 263, 287 (Tex. App.—Tyler 2021, pet. denied); BP Auto., L.P. v. RML
+Waxahachie Dodge, L.L.C., 448 S.W.3d 562, 571–72 (Tex. App.—Houston [1st Dist.] 2014, no
+pet.); U.S. Sporting Prods., Inc. v. Johnny Stewart Game Calls, Inc., 865 S.W.2d 214, 218 (Tex.
+App.—Waco 1993, writ denied). “Misappropriation, or unlawful appropriation, is an element of” a
+claim for unfair competition by misappropriation. Baylor Scott & White, 633 S.W.3d at 287; KBIDC
+Invs., LLC v. Zuru Toys Inc., No. 05-19-00159-CV, 2020 WL 5988014, at *5 (Tex. App.—Dallas
+Oct. 9, 2020, pet. denied); see U.S. Sporting Prods., 865 S.W.2d at 217–18.
+137
+      See nn. 138–40, supra.
+  Pet. at ¶¶ 11, 21–34; ASA Exh. 3–A (Hrg. Exh. 3A) at ¶¶ 9, 11, 14, 16, 20; Mot. to Dismiss for
+138
+
+Forum Non Conveniens at 10.
+
+
+                                                 32
+                 ii.   Element 2: acquisition and/or use
+
+          ¶47     All three claims also require GoSecure to prove that CrowdStrike
+
+misappropriated GoSecure’s trade secrets, through wrongful acquisition and/or
+
+use. 139 GoSecure alleges that CrowdStrike improperly acquired GoSecure’s trade
+
+secrets through Alperovitch and Gould, who worked for GoSecure in 2011 and
+
+2012. 140 The factual allegations relating to this appear to have occurred primarily or
+
+exclusively in California, where GoSecure was (and still is) located; where GoSecure
+
+retained Alperovitch and Gould; and where CrowdStrike was founded. 141 As
+
+discussed above, GoSecure originally sued CrowdStrike for trade-secret
+
+misappropriation based on the same events in California. In that suit, GoSecure
+
+explicitly pleaded that the misappropriation occurred in California. 142
+
+          ¶48     As the courts in Twister and Technox observed, misappropriation is not
+
+limited to improper acquisition of trade secrets; it can also include improper use of
+
+trade secrets. 143 In its jurisdictional pleadings (but not in its pleading of the “Facts”
+
+underlying its claims), GoSecure alleges that “CrowdStrike engineers in Austin
+
+have been improperly using GoSecure’s trade secrets and confidential information
+
+
+139
+      See nn. 138–40, supra.
+140
+      Pet. at ¶¶ 35–45.
+141
+   Pet. at ¶¶ 11, 35–45; ASA Exh. 2 (Hrg. Exh. 2) at ¶ 11; ASA Exh. 3–A (Hrg. Exh. 3A) at ¶¶ 9,
+11, 14, 16, 20; Mot. to Dismiss for Forum Non Conveniens at 10.
+142
+      ASA Exh. 3–A (Hrg. Exh. 3A) at ¶¶ 14, 16; see also id. at ¶¶ 37–38.
+143
+      Twister, 364 S.W.3d at 438–39; Technox, 2022 WL 17981848, at *10.
+
+
+                                                  33
+to develop its Falcon Platform for years.” 144 The evidence shows that CrowdStrike
+
+developed the Falcon Platform years before it had any engineers, or even an office,
+
+in Austin. But it is possible that an Austin engineer worked on the Falcon Platform
+
+after 2017 and that such work resulted in “use” of GoSecure’s trade secrets
+
+allegedly stolen many years earlier. While CrowdStrike’s evidence undermines the
+
+likelihood of this, 145 it does not conclusively disprove the possibility.
+
+           ¶49        But not all unauthorized “use” is actionable as misappropriation; the
+
+use must be unlawful. 146 There are three principal ways in which GoSecure may
+
+show that CrowdStrike’s alleged use of its trade secrets in the Falcon Platform was
+
+unlawful. First, GoSecure may prove that CrowdStrike acquired the trade secrets by
+
+improper means. 147 Second, GoSecure may prove that CrowdStrike knew or had
+
+reason to know that its knowledge of the trade secrets was (a) derived from or
+
+
+144
+      Pet. at ¶ 20.
+145
+   CrowdStrike’s evidence indicates that most of its research and development occurs outside
+Texas. ASA Exh. 2 (Hrg. Exh. 2) at ¶ 8; ASA Exh. 2-B (Hrg. Exh. 2B). While GoSecure presents
+evidence that CrowdStrike has at least some engineers in Austin, Resp. at 6–7; Reply Exh. 4 (Hrg.
+Exh. 4) at 95–96, 114–21, the evidence does not show that any engineer in Austin even works on
+the Falcon Platform directly. There is evidence tying some Austin employees to Falcon Complete,
+but Falcon Complete is a service offered to users of the Falcon Platform. See Reply Exh. 4 (Hrg.
+Exh. 4) at 114–16; Reply Exh. 4-12 (Hrg. Exh. 4D). Essentially, rather than using their own
+employees, customers can outsource managing detection and response for the Falcon Platform to
+CrowdStrike. Id.
+146
+   See TEX. CIV. PRAC. & REM. CODE § 134A.002(3)(B) (defining when use is actionable under
+TUTSA and requiring some additional impropriety beyond mere unauthorized use); Twister, 364
+S.W.3d at 437 (defining elements of common-law misappropriation to include both use and
+improper acquisition); Trilogy Software, 143 S.W.3d at 463 (same).
+147
+   See TEX. CIV. PRAC. & REM. CODE § 134A.002(3)(B)(i); Twister, 364 S.W.3d at 437; Trilogy
+Software, 143 S.W.3d at 463.
+
+
+                                                34
+through a person who acquired them by improper means; (b) acquired under
+
+circumstances giving rise to a duty to maintain the secrecy of or limit the use of the
+
+trade secrets; or (c) derived from or through a person who owed a duty to GoSecure
+
+to maintain the secrecy of or limit the use of the trade secrets. 148 Third, GoSecure
+
+may prove that CrowdStrike knew or had reason to know that the trade secrets were
+
+trade secrets and that knowledge of the trade secrets was acquired by accident or
+
+mistake. 149
+
+          ¶50     All three of these approaches involve analysis of the circumstances
+
+under which the trade secrets were obtained. As discussed above, the alleged facts
+
+relevant to those circumstances appear to have occurred primarily or exclusively in
+
+California in the early 2010’s—years before CrowdStrike opened the Austin office
+
+at which it now employs engineers.
+
+          ¶51     There may be evidence at trial about whether CrowdStrike continued
+
+to use GoSecure’s trade secrets from 2017 to the present, and that may even include
+
+evidence relating to actions by CrowdStrike engineers in Texas. But such evidence
+
+is likely to be peripheral rather than the “focus of the trial,” the subject that will
+
+“consume most if not all of the litigation’s attention,” or the subject of “the
+
+
+
+
+148
+      TEX. CIV. PRAC. & REM. CODE § 134A.002(3)(B)(ii).
+149
+      Id. § 134A.002(3)(B)(iii).
+
+
+                                                35
+overwhelming majority of the evidence.” 150 The operative facts, even for
+
+GoSecure’s misappropriation-by-improper-use theory, are likely to be whether
+
+GoSecure developed trade secrets between 2004 and 2011; whether, and the
+
+circumstances under which, CrowdStrike, Alperovitch, and/or Gould obtained any
+
+such trade secrets from GoSecure in 2011 and 2012; and whether CrowdStrike then
+
+used any such trade secrets to create its Falcon Platform. All of this occurred years
+
+before any of CrowdStrike’s alleged contacts with Texas. 151
+
+          ¶52    Under the circumstances of this particular case, CrowdStrike’s
+
+continued sales, in Texas and around the globe, of a product allegedly designed using
+
+GoSecure’s trade secrets over a decade ago in California does not establish a
+
+substantial connection between Texas and the operative facts of the case. Likewise,
+
+even if an engineer in CrowdStrike’s Austin office worked on the Falcon Platform
+
+years after it was created in California using trade secrets allegedly stolen from
+
+GoSecure in California, that does not establish a substantial connection between
+
+Texas and the operative facts of the case.
+
+
+
+
+150
+      Moki Mac, 221 S.W.3d at 585; TV Azteca, 490 S.W.3d at 53; Moncrief Oil, 414 S.W.3d at 156.
+151
+   See ASA Exh. 3–A (Hrg. Exh. 3A) at ¶ 48 (alleging that “CrowdStrike built its Falcon Platform
+using illicitly obtained trade secrets from GoSecure” and that “its current architecture has been in
+place since the Falcon Platform’s inception, i.e., shortly after Defendants misappropriated
+GoSecure’s valuable trade secrets.”); Pet. at ¶ 51 (likewise alleging that “CrowdStrike built its
+Falcon Platform using illicitly obtained trade secrets from GoSecure” but omitting timing
+allegations).
+
+
+                                                36
+                iii.   Element 3: injury or right to injunctive relief
+
+          ¶53     Finally, all three misappropriation claims require GoSecure to prove it
+
+was injured by CrowdStrike’s conduct or at least that an injury is sufficiently
+
+threatened to support injunctive relief. 152 GoSecure does not allege that it suffered
+
+an injury in Texas; in the California lawsuit, it alleged that the injury occurred in
+
+California. 153
+
+          ¶54     The operative facts of a claim are typically those related to liability. 154
+
+Regardless, considering the likely damages evidence does not change the result.
+
+GoSecure’s damages evidence at trial may include evidence of CrowdStrike’s Falcon
+
+Platform sales around the world, including in Texas. As previously noted,
+
+CrowdStrike’s sales activity in Texas is minor relative to its “activities in their
+
+entirety.” 155 It is not apparent that there is any reason to even distinguish
+
+CrowdStrike’s sales in Texas from its sales in other states and foreign countries.
+
+Additionally, GoSecure could recover damages based on evidence of its own losses
+
+
+
+152
+      See nn. 138–40, supra.
+153
+      ASA Exh. 3–A (Hrg. Exh. 3A), 3–D (Hrg. Exh. 3D).
+154
+   See, e.g., Moncrief Oil, 414 S.W.3d at 156 (“Specific jurisdiction exists only if the alleged liability
+arises out of or is related to the defendant’s activity within the forum.” (emphasis added)); TV
+Azteca, 490 S.W.3d at 54 (stating that “specific jurisdiction requires the defendant's liability to
+arise from or relate to its contacts with the forum state” (emphasis added)); Retamco Operating,
+Inc. v. Republic Drilling Co., 278 S.W.3d 333, 340 (Tex. 2009) (“Purposeful availment alone will
+not support an exercise of specific jurisdiction unless the defendant’s liability arises from or relates
+to the forum contacts.” (emphasis added and cleaned up; quoting Moki Mac, 221 S.W.3d at 579)).
+  Reply Exh. 4-3. See BNSF, 581 U.S. at 414; see also Daimler, 571 U.S. at 139-40 (same); Henry
+155
+
+Vogt Mach., 712 S.W.3d at 942; EMO Trans., 657 S.W.3d at 782–83.
+
+
+                                                   37
+without also proving CrowdStrike’s profits, 156 and GoSecure also seeks injunctive
+
+relief (Count VI), which it could recover without proving damages at all. 157
+
+                iv.   Conclusion
+
+          ¶55    Specific jurisdiction is inherently a case-specific analysis, and the
+
+“operative facts” test is inherently fact-specific. Based on an examination of the
+
+specifics of this case and the relevant facts reflected in the pleadings and evidence,
+
+the Court concludes that there is not a substantial connection between
+
+CrowdStrike’s alleged Texas contacts and the operative facts of GoSecure’s trade-
+
+secret misappropriation claims. 158 Importantly, the Court does not hold that when
+
+trade secrets are created, acquired, and first used outside of Texas, a Texas court
+
+could never have personal jurisdiction over the out-of-state defendant accused of
+
+misappropriation. Even when out-of-state events form all or part of the operative
+
+facts of a particular case, a defendant’s Texas contacts may be substantially related
+
+to the operative facts.
+
+
+
+
+156
+      See TEX. CIV. PRAC. & REM. CODE § 134A.004(a).
+157
+      Pet. at ¶¶ 92–93; see TEX. CIV. PRAC. & REM. CODE § 134A.003.
+158
+   See Moki Mac, 221 S.W.3d at 585 Volkswagen Aktiengesellschaft, 669 S.W.3d at 431 & n.141;
+TV Azteca, 490 S.W.3d at 53; Moncrief Oil, 414 S.W.3d at 156; see also RSM Prod. Corp. v. Glob.
+Petroleum Grp., Ltd., 507 S.W.3d 383, 387, 400 (Tex. App.—Houston [1st Dist.] 2016, pet. denied)
+(upholding conclusion that Texas court lacked personal jurisdiction over misappropriation claim
+against nonresident defendant for improper use and disclosure of trade secrets, including by
+providing it to Texas entities in Houston).
+
+
+                                                38
+           ¶56      Technox is a perfect example of this. Technox involved claims by South
+
+Korean company Sunwoo against a Texan, a Texas company, and Technox—an
+
+Indian company that acquired the Texas company and of which the Texan was
+
+president and controlling shareholder. 159 Sunwoo alleged that: the Texan, while
+
+working for the Texas company, tricked Sunwoo into sharing its trade secrets with
+
+him in South Korea; the Texan and the Texas company then shared Sunwoo’s trade
+
+secrets with Technox; and Technox incorporated the trade secrets into the products
+
+it manufactured in South Korea, which products were manufactured exclusively for,
+
+and sold exclusively by, the Texas company from its office in Houston. 160
+
+Considering the misappropriation allegations and evidence as a whole, the Technox
+
+court concluded that, while the trial on Sunwoo’s misappropriation claim would
+
+involve events in South Korea, it would also involve a long list of Texas
+
+connections. 161 The court thus held that the operative facts of Sunwoo’s
+
+misappropriation claim were substantially connected to Technox’s Texas
+
+contacts. 162 In short, Technox has exactly the kind of facts that are missing here.
+
+
+
+
+159
+      2022 WL 17981848, at *1.
+  Id. at *1, *10–11. Sunwoo also alleged that Technox’s acquisition of the Texas company, at a time
+160
+
+when it owed Sunwoo millions of dollars, was a fraudulent transfer. Id. at *7–8.
+161
+      Id. at *10–11.
+162
+      Id. at *11.
+
+
+                                               39
+              b. Conversion
+
+          ¶57     GoSecure also asserts a claim for conversion (Count IV). 163 Neither
+
+Twister nor Technox involved a conversion claim against the nonresident defendant,
+
+and GoSecure makes no argument about whether its conversion claim arises out of
+
+or relates to CrowdStrike’s Texas contacts. CrowdStrike argues that, if any
+
+conversion occurred, it could only have occurred in California, and GoSecure’s
+
+ownership of the allegedly converted information would presumably be a creature of
+
+California law. 164
+
+          ¶58     To prevail on its conversion claim, GoSecure must show that (1) it
+
+owned, possessed, or had the right to immediate possession of personal property;
+
+(2) CrowdStrike unlawfully and without authorization exercised dominion or
+
+control over the property to the exclusion of, or inconsistent with, GoSecure’s
+
+rights; and (3) GoSecure suffered injury as a result. 165 The property that is the basis
+
+of GoSecure’s conversion claim is its trade secret and other confidential and
+
+proprietary information. 166 As with GoSecure’s misappropriation claim, the facts
+
+
+163
+      Pet. at ¶¶ 79–85.
+164
+   ASA at 22–23 (citing Laykin v. McFall, 830 S.W.2d 266, 270-71 (Tex. App.—Amarillo 1992,
+orig. proceeding), as “holding no personal jurisdiction for conversion claim because ‘Texas is not
+the focal point of relator’s action,’ rejecting as ‘too broad’ the principle that ‘minimum contacts are
+always established when an intentional tortfeasor knowingly causes an injury in Texas’”).
+  Lopez v. Lopez, 271 S.W.3d 780, 784 (Tex. App.—Waco 2008, no pet.); Apple Imports, Inc. v.
+165
+
+Koole, 945 S.W.2d 895, 899 (Tex. App.—Austin 1997, writ denied); see also Waisath v. Lack’s
+Stores, Inc., 474 S.W.2d 444, 447 (Tex. 1971).
+166
+      Pet. at ¶¶ 80–83.
+
+
+                                                 40
+relevant to determining whether GoSecure possessed trade secrets or other
+
+confidential and proprietary information presumably occurred primarily or
+
+exclusively in California, where GoSecure is located and allegedly developed the
+
+information. 167 Likewise, any injury suffered by GoSecure was suffered in
+
+California, where GoSecure was and continues to be located. 168 And for much the
+
+same reasons discussed above, whether CrowdStrike exercised dominion or control
+
+over such information, and whether any such dominion or control was inconsistent
+
+with GoSecure’s rights, will depend largely on facts that allegedly occurred in
+
+California in the early 2010’s. 169 Even if CrowdStrike’s alleged exercise of dominion
+
+or control continued after CrowdStrike opened its first Texas office in 2017 and after
+
+CrowdStrike began making sales in Texas, CrowdStrike’s Texas contacts are not
+
+substantially related to the facts that are likely to be the “focus of the trial,” the
+
+subject that will “consume most if not all of the litigation’s attention,” and the
+
+subject of “the overwhelming majority of the evidence” with respect to GoSecure’s
+
+conversion claim. 170
+
+
+
+
+  Pet. at ¶¶ 11, 21–34; ASA Exh. 3–A (Hrg. Exh. 3A) at ¶¶ 9, 11, 14, 16, 20; Mot. to Dismiss for
+167
+
+Forum Non Conveniens at 10.
+168
+      Id.
+169
+   Pet. at ¶¶ 11, 35–45; ASA Exh. 2 (Hrg. Exh. 2) at ¶ 11; ASA Exh. 3–A (Hrg. Exh. 3A) at ¶¶ 9,
+11, 14, 16, 20; Mot. to Dismiss for Forum Non Conveniens at 10.
+170
+   Moki Mac, 221 S.W.3d at 585; see also Volkswagen Aktiengesellschaft, 669 S.W.3d at 431 &
+n.141; TV Azteca, 490 S.W.3d at 53; Moncrief Oil, 414 S.W.3d at 156.
+
+
+                                              41
+               c. Unjust enrichment
+
+           ¶59        GoSecure asserts a claim for unjust enrichment (Count V). 171 To prevail
+
+on this claim, GoSecure must prove that CrowdStrike obtained a benefit from
+
+GoSecure by fraud, duress, or the taking of undue advantage. 172 The benefit
+
+GoSecure alleges CrowdStrike obtained from GoSecure is GoSecure’s trade secrets
+
+and other confidential and proprietary information. 173 GoSecure alleges that
+
+CrowdStrike obtained this information by “taking an undue advantage through
+
+misappropriation of GoSecure’s confidential, proprietary, and trade secret
+
+information.” 174 Here too, the facts relevant to whether GoSecure possessed trade
+
+secrets or other confidential and proprietary information presumably occurred
+
+primarily or exclusively in California, where GoSecure is located and allegedly
+
+developed the information. 175 Likewise, whether CrowdStrike took undue advantage
+
+of GoSecure to obtain that information will depend largely on facts that allegedly
+
+
+
+
+171
+      Pet. at ¶¶ 86–91.
+172
+   See Heldenfels Bros. v. City of Corpus Christi, 832 S.W.2d 39, 41 (Tex. 1992); Quintero v. Urban
+Infraconstruction LLC, 2026 Tex. Bus. 3, ¶ 31, 2026 WL 196887, at *8 (1st Div.).
+173
+      Pet. at ¶ 88.
+174
+      Id. at ¶ 90.
+  Id. at ¶¶ 11, 21–34; ASA Exh. 3–A (Hrg. Exh. 3A) at ¶¶ 9, 11, 14, 16, 20; Mot. to Dismiss for
+175
+
+Forum Non Conveniens at 10.
+
+
+                                                  42
+occurred in California in the early 2010’s, when CrowdStrike allegedly obtained
+
+GoSecure’s information. 176
+
+          2. Under the pleadings and evidence here, CrowdStrike’s Texas contacts are
+             not substantially connected to the operative facts of GoSecure’s claims.
+
+          ¶60     Based on an examination of the specifics of this case and the relevant
+
+facts reflected in the pleadings and evidence, the Court concludes that there is not a
+
+substantial connection between CrowdStrike’s alleged Texas contacts and the
+
+operative facts of GoSecure’s claims. 177 As a result, the Court lacks specific
+
+jurisdiction over GoSecure’s claims against CrowdStrike.
+
+          ¶61     Consistently, the principles of interstate federalism—one of the two
+
+driving principles for due-process limitations on a state’s exercise of personal
+
+jurisdiction over nonresident defendants 178—weigh against the exercise of
+
+jurisdiction by Texas courts over suits like this, involving an out-of-state plaintiff’s
+
+claims against an out-of-state defendant based primarily on out-of-state events that
+
+caused an out-of-state injury. 179 Interstate-federalism principles “‘ensure that
+
+
+176
+   Pet. at ¶¶ 11, 35–45; ASA Exh. 2 (Hrg. Exh. 2) at ¶ 11; ASA Exh. 3–A (Hrg. Exh. 3A) at ¶¶ 9,
+11, 14, 16, 20; Mot. to Dismiss for Forum Non Conveniens at 10.
+  See Moki Mac, 221 S.W.3d at 585 Volkswagen Aktiengesellschaft, 669 S.W.3d at 431 & n.141;
+177
+
+TV Azteca, 490 S.W.3d at 53; Moncrief Oil, 414 S.W.3d at 156; see also RSM Prod. Corp., 507
+S.W.3d at 387, 400 .
+178
+   Fuld v. Palestine Liberation Org., 606 U.S. 1, 13 (2025) (“We have repeatedly described the due
+process limitations imposed by the Fourteenth Amendment as driven by two principles: (1) treating
+defendants fairly, and (2) protecting interstate federalism.” (internal quotation marks omitted;
+quoting Ford Motor, 592 U.S. at 360, which in turn quotes World-Wide Volkswagen Corp. v.
+Woodson, 444 U.S. 286, 293 (1980), and citing Bristol-Myers Squibb, 582 U.S. at 263)).
+179
+      See Ford Motor, 592 U.S. at 368 (holding in products-liability cases that states where accidents
+
+
+                                                   43
+States with little legitimate interest in a suit’ cannot wrest that suit from ‘States
+
+more affected by the controversy.’” 180 Texas has little legitimate interest in
+
+adjudicating GoSecure’s claims against CrowdStrike, whereas California, where
+
+GoSecure initially pursued its claims, is much more affected by the controversy.
+
+          ¶62     These due-process limitations on personal jurisdiction “are more than
+
+a guarantee of immunity from inconvenient or distant litigation. They are a
+
+consequence of territorial limitations on the power of the respective States.”181
+
+Thus, “[e]ven if the defendant would suffer minimal or no inconvenience from being
+
+forced to litigate before the tribunals of another State; even if the forum State has a
+
+strong interest in applying its law to the controversy; even if the forum State is the
+
+most convenient location for litigation, the Due Process Clause, acting as an
+
+instrument of interstate federalism, may sometimes act to divest the State of its
+
+power to render a valid judgment.” 182 Here, Texas does not have a strong interest in
+
+applying its law to the controversy between GoSecure and CrowdStrike; there is no
+
+
+
+
+and injuries occurred had “significant interests” in adjudicating the dispute—protecting the safety
+of their residents and providing them with a convenient forum for redressing injuries suffered
+there—while states in which defective products were first sold had lesser interests in suits
+involving “all out-of-state parties, an out-of-state accident, and out-of-state injuries,” such that the
+exercise of personal jurisdiction by those states “would undermine, rather than promote” due
+process).
+  Johnson v. TheHuffingtonPost.com, Inc., 21 F.4th 314, 318 (5th Cir. 2021) (quoting Ford Motor,
+180
+
+592 U.S. at 360).
+181
+      Bristol-Myers Squibb, 582 U.S. at 263 (quoting Hanson v. Denckla, 357 U.S. 235, 251 (1958)).
+182
+      Id. (quoting World-Wide Volkswagen, 444 U.S. at 294).
+
+
+                                                  44
+reason to think Texas is the most convenient forum for litigation—it was not even
+
+GoSecure’s first choice of forum; and interstate federalism weighs against the
+
+exercise personal jurisdiction over CrowdStrike.
+
+D.    The Court need not reach CrowdStrike’s “fair play and substantial justice”
+      arguments.
+
+      ¶63    Because the Court lacks personal jurisdiction over CrowdStrike, it need
+
+not reach CrowdStrike’s argument that the exercise of jurisdiction over it would
+
+offend traditional notions of fair play and substantial justice.
+
+                                     Conclusion
+
+      ¶64    The Court holds that it lacks personal jurisdiction over GoSecure’s
+
+claims against CrowdStrike Inc., grants CrowdStrike Inc.’s Amended Special
+
+Appearance, and dismisses all claims against CrowdStrike Inc.
+
+
+
+      Date signed: March 13, 2026
+
+
+
+
+                                               Hon. Melissa Andrews
+                                               Judge of the Texas Business Court,
+                                               Third Division
+
+
+
+
+                                          45
+

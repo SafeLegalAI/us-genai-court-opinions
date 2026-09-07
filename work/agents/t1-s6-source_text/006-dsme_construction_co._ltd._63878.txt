@@ -1,0 +1,208 @@
+                  ARMED SERVICES BOARD OF CONTRACT APPEALS
+
+    Appeal of -                                  )
+                                                 )
+    DSME Construction Co., Ltd.                  )    ASBCA No. 63878
+                                                 )
+    Under Contract No. W91QVN-23-D-0038          )
+
+    APPEARANCE FOR THE APPELLANT:                     Yong Eui Song, Esq.
+                                                       Central IP & Law
+                                                       Seoul, Korea
+
+    APPEARANCES FOR THE GOVERNMENT:                   Dana J. Chase, Esq.
+                                                       Army Chief Trial Attorney
+                                                      MAJ Bruce A. Nessler, JA
+                                                      CPT Natalie W. McKiernan, JA
+                                                      MAJ Katharine M. Calderon, JA
+                                                       Trial Attorneys
+
+                  OPINION BY ADMINISTRATIVE JUDGE MCILMAIL
+                  ON GOVERNMENT’S MOTION TO DISMISS APPEAL
+
+       This appeal challenges the government’s default termination of a contract for
+preventative maintenance services at facilities at Camps Humphreys and Yongin, in
+the Republic of Korea. 1 DSME Constr. Co., ASBCA No. 63878, 24-1 BCA ¶ 38,642
+at 187,849 (finding jurisdiction). The parties have chosen to proceed under Board
+Rule 11, which provides for a decision on the briefs, with no live hearing. The
+government moves for dismissal of the appeal as a sanction for what it charges is
+appellant’s misuse or careless use of generative artificial intelligence (AI) in providing
+case citations to the Board.
+
+                                   FINDINGS OF FACT
+
+        After filing their Rule 11 opening briefs on July 31, 2025, the parties filed their
+responsive briefs on September 29, 2025; each styled its responsive brief as a reply
+brief. The parties then filed what they styled as their surreplies on December 1, 2025.
+On December 19, 2025, the government moved that the Board strike appellant’s
+surreply because, the government said, the surreply “contains 27 false or misleading
+citations . . . including 16 discrete citations to cases that do not appear to exist,” which,
+
+
+
+1
+    Compl. at 41; see R4, tab 1 at 1-3.
+the government says, are “the hallmarks of generative artificial intelligence (AI)
+hallucinations.” 2
+
+        On December 24, 2025, without addressing the government’s motion to strike
+the surreply, and without even addressing whether it used AI, appellant moved for
+leave to file an amended surreply (which appellant included in its December 24, 2025
+filing), apologizing for what it characterized as “the significant technical inaccuracies
+and citation errors contained in [its] original Surreply,” which, appellant said, “resulted
+from a fundamental breakdown in the appellant’s citation-verification and
+proofreading process.” 3 On January 23, 2026, the government responded to the
+motion to amend by requesting that the Board deny that motion, and treat the
+government’s motion to strike the surreply as a motion to sanction appellant by
+dismissing the appeal with prejudice. 4 The government added that it had reviewed the
+citations contained in appellant’s opening brief and found five case citations that also
+“appear to cite to fictitious cases or misrepresent the holdings of cases cited.” 5 The
+government concluded by requesting denial of the motion to amend and dismissal of
+the appeal, pointing to what it said was the “fictitious case law” cited in appellant’s
+surreply. 6
+
+       On January 27, 2026, appellant replied to the government’s January 23, 2026
+brief by requesting “that the Board deny the motion to dismiss . . . and permit the
+appellant to proceed with its corrected filings,” and that, “[i]f the Board finds that
+sanctions are warranted . . . the Board impose a lesser sanction . . . such as striking the
+defective surreply.” 7 The government replied to appellant’s January 27, 2026 response
+on February 25, 2026, saying that:
+
+              appellant concedes that four of the eight citations in its
+              Rule 11 Opening Brief were to cases that do not exist.
+              Likewise, appellant admits that it cited to another fictitious
+              case in its January 9, 2026 brief on the vitiation issue. 8
+
+2
+  Gov’t Dec. 19, 2025 br. at 1, 15. Although in the conclusion to its motion to strike,
+       the government requests that the Board “deny this appeal in its entirety,” we
+       interpret that as a reference to the government’s preferred disposition if the
+       appeal is decided on its merits.
+3
+  App. Dec. 24, 2025 br. at 1-2.
+4
+  Gov’t Jan. 23, 2026 br. at 9-10.
+5
+  Gov’t Jan. 23, 2026 br. at 2 ¶ 1.
+6
+  Gov’t Jan. 23, 2026 br. at 9-10.
+7
+  App. Jan. 27, 2026 br. at 12.
+8
+  On December 17, 2025, the Board requested briefing upon whether a January 22,
+       2024 final decision by the contracting officer had vitiated the finality of the
+       contracting officer’s October 17, 2023 termination of the contract for default.
+
+                                            2
+              Adding these concededly erroneous case citations to the
+              30 false case citations and four fictitious [Federal
+              Acquisition Regulation] cites that appellant included in its
+              Rule 11 Surreply, to date appellant has admitted to
+              including 39 total cites across these three briefs that cite to
+              cases that do not exist. 9
+
+In response, on March 5, 2026, appellant denied that its briefing cites 39 non-existent
+cases, but admitted that appellant “made references to ten (10) non-existing cases; one
+(1) in the Opening Brief, one (1) in its January 9, 2026 brief on the vitiation issue, and
+eight (8) in its Rule 11 Surreply.” 10 Appellant’s March 5, 2026 brief states further that
+those ten citations of non-existent cases “represent an unintentional lapse in providing
+inaccurate citation rather than a fraud upon the Board.” 11 That brief does not mention
+AI, or otherwise explain with any specificity how it happened that appellant cited ten
+cases that do not exist.
+
+                                           DECISION
+
+        Filing briefs without taking the necessary care in their preparation, including
+reliance upon fictitious opinions or incorrect citations (whether AI-generated or not)
+risks sanctions; we have recently sanctioned a party for such behavior by striking an
+offending brief, guided by Rule 11 of the Federal Rules of Civil Procedure. See
+Huffman Constr., LLC, ASBCA Nos. 62591, 62873, 25-1 BCA ¶ 38,932 at 189,484-86.
+Without addressing whether it used AI to prepare its surreply, appellant admits that its
+original surreply includes “incorrect case names, erroneous reporter citations, and the
+misapplication of certain regulatory provisions.” 12 Having originally requested only that
+we strike that surreply, the government now requests (and not in the alternative) that we
+dismiss the appeal altogether, with prejudice. 13 We decline to do so. The government
+fails even to address whether appellant’s behavior is the kind of contumacious or
+contemptuous conduct sufficient to justify the drastic sanction of dismissal, “the severest
+sanction the Board can issue.” See Utility Constr. Co., ASBCA No. 57224, 12-2 BCA
+¶ 35,128 at 172,467; Sykes Commc’ns, Inc., ASBCA Nos. 53842, 54077, 04-2 BCA
+¶ 32,743 at 161,936. Nevertheless, in view of appellant’s admission that its December 1,
+2025 surreply cites eight non-existing cases, 14 we accept appellant’s suggestion that we
+
+
+
+9
+  Gov’t Feb. 25, 2026 br. at 1.
+10
+   App. Mar. 5, 2026 br. at 4.
+11
+   App. Mar. 5, 2026 br. at 6.
+12
+   App. Dec. 24, 2025 br. at 1.
+13
+   Gov’t Jan. 23, 2026 br. at 1, 10.
+14
+   App. Mar. 5, 2026 br. at 4.
+
+                                             3
+ strike that brief. 15 In addition, in view of appellant’s admission that three of its briefs in
+ this appeal (including the surreply) together cite ten non-existing cases, combined with
+ what we view as appellant’s lack of candor regarding how those non-existing cases
+ found their way into its briefing, and to deter repetition of future such conduct —AI-
+ related or not—we deny appellant’s motion for leave to file an amended surreply. See
+ Huffman Constr., 25-1 BCA ¶ 38,932 at 189,487.
+
+                                       CONCLUSION
+
+       The government’s motion to dismiss the appeal with prejudice is denied.
+ Appellant’s December 1, 2025 surreply is stricken; appellant’s December 24, 2025
+ motion for leave to file an amended surreply is denied.
+
+           Dated: March 13, 2026
+
+
+
+                                                   TIMOTHY P. MCILMAIL
+                                                   Administrative Judge
+                                                   Armed Services Board
+                                                   of Contract Appeals
+
+I concur                                           I concur
+
+
+
+J. REID PROUTY                                     MICHAEL N. O’CONNELL
+Administrative Judge                               Administrative Judge
+Acting Chairman                                    Vice Chairman
+Armed Services Board                               Armed Services Board
+of Contract Appeals                                of Contract Appeals
+
+
+
+
+ 15
+      As an aside, the government suggests that the Board strike appellant’s opening brief.
+          Gov’t Jan. 23, 2026 br. at 9. We decline: the government does not address
+          whether, under the circumstances, leaving appellant with only its “reply” brief
+          responding to the government’s opening brief would unduly prejudice
+          appellant. See Huffman Constr., 25-1 BCA ¶ 38,932 at 189,485-87; SmithKline
+          Beecham Corp. v. Apotex Corp., 439 F.3d 1312, 1320 (Fed. Cir. 2006).
+
+                                               4
+      I certify that the foregoing is a true copy of the Opinion and Decision of the
+Armed Services Board of Contract Appeals in ASBCA No. 63878, Appeal of DSME
+Construction Co., Ltd., rendered in conformance with the Board’s Charter.
+
+      Dated: March 13, 2026
+
+
+
+                                               PAULLA K. GATES-LEWIS
+                                               Recorder, Armed Services
+                                               Board of Contract Appeals
+
+
+
+
+                                           5
+

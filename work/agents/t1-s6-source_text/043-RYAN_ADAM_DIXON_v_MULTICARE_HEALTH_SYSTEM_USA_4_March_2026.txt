@@ -1,0 +1,469 @@
+RYAN ADAM DIXON, Plaintiff, v. MULTICARE HEALTH SYSTEM,..., Slip Copy (2026)
+
+
+                                                                  reimbursement of all wages deferred to his 401(k) account
+                     2026 WL 607769                               while he was unable to modify his contribution setting, as well
+      Only the Westlaw citation is currently available.           as double damages and attorney's fees.
+      United States District Court, W.D. Washington.
+                                                                  MultiCare seeks dismissal, contending that Dixon failed to
+            RYAN ADAM DIXON, Plaintiff,                           exhaust MultiCare's administrative review procedures, and
+                            v.                                    that the 401(k) Plan requires Dixon to arbitrate his claims. 1
+     MULTICARE HEALTH SYSTEM, a Washington                        MultiCare also argues that his Washington state law wage
+      non-profit corporation, in its capacity as a plan           withholding claim is preempted by ERISA, and that he fails
+     administrator; MULTICARE HEALTH SYSTEM                       to allege a specific retaliatory act.
+     401(k) PLAN; MUTLICARE HEALTH SYSTEM
+    403(b) EMPLOYEE SAVINGS PLAN, Defendants.                     I. BACKGROUND
+                                                                  In December 2023, Dixon was hired as a registered
+                    CASE NO. CV25-5414
+                                                                  nurse at MultiCare Good Samaritan Hospital in Puyallup,
+                             |
+                                                                  Washington. Dkt. 17 at 4. At Dixon's onboarding, an
+                        03/04/2026
+                                                                  incorrect Social Security Number was input into his electronic
+Editor's Note: This decision contains discussion of citation      employment records. 2 Second Am. Compl. (“2AC”), Dkt.
+references that are incorrect or do not actually exist. These     13-1 at 1. MultiCare used the inaccurate SSN and Dixon's
+invalid citations appeared in the original court opinion and      nickname, “Rome” Dixon, (rather than his legal name, Ryan
+have been preserved as written since they are part of the         Dixon) to open Dixon's 401(k) retirement account. Id.
+official record. Any links to these invalid citations have been
+removed.                                                          Dixon was automatically enrolled in MultiCare's 401(k)
+                                                                  Plan. Dkt. 15 at 2; see Dkt. 17-1 at 27. Under the Plan,
+                                                                  3% of an employee's pre-tax compensation is deducted
+Attorneys and Law Firms                                           from each paycheck and contributed to the employee's
+                                                                  401(k) account. Dkt. 17-1 at 27. The Plan also includes a
+Ryan Adam Dixon, Puyallup, WA, Pro Se.
+                                                                  discretionary employer match. Id. Employees receive notice
+Karin D. Jones, Timothy J. O'Connell, Stoel Rives LLP,            of the automatic enrollment and may opt out during the
+Seattle, WA, for Defendants.                                      Plan's 60-day opt-out period. Id. Changes to enrollment or
+                                                                  contribution amounts can be adjusted at any time and apply
+                                                                  prospectively. Id. Unlike some 401(k) plans, the MultiCare
+                           ORDER                                  Plan does not allow for fund withdrawal within 90 days of the
+                                                                  first automatic enrollment deduction. Id.
+ *1 THIS MATTER is before the Court on defendants
+MultiCare Health System, MultiCare Health System 401(k)            *2 The Plan provides detailed procedures for resolving
+Plan, and MultiCare Health System 403(b) Employee Savings         disputes. It requires that “any claim, dispute, or breach arising
+Plan's (collectively, “MultiCare”) motion to dismiss, Dkt         out of or in any way related to the plan” be resolved through
+15; pro se plaintiff Ryan Dixon's motion to compel plan           arbitration in Tacoma, Washington. Dkt. 16 at 109. However,
+documents, Dkt. 19; Dixon's motion for an extension of time,      as a prerequisite to arbitration, employees must first exhaust
+Dkt. 26; and MultiCare's motion for a status or scheduling        all internal review procedures. The Plan requires employees
+conference, Dkt. 33.                                              to file claims with MultiCare's Retirement Committee. Id.
+                                                                  at 12, 66. If the Committee denies the claim, an employee
+Dixon alleges that MultiCare's administrative errors at the       may appeal that decision. Id. at 66. Only after the Committee
+time of his hiring prevented him from opting out of his           upholds its original decision may the claim be resolved
+automatic enrollment in MultiCare's 401(k) Plan. He asserts       through arbitration. Id.
+claims under the Employee Retirement Income Security Act
+of 1974 (“ERISA”), Washington state law, RCW 49.52.070            On April 12, 2024, MultiCare automatically deferred $769.92
+for willful withholding of wages, and retaliation. He seeks       of Dixon's pre-tax wages into his 401(k) account. 2AC, Dkt.
+
+
+
+               © 2026 Thomson Reuters. No claim to original U.S. Government Works.                                              1
+RYAN ADAM DIXON, Plaintiff, v. MULTICARE HEALTH SYSTEM,..., Slip Copy (2026)
+
+
+13-1 at 3. One month later, Dixon notified MultiCare that          action materialize” sometime in the future. Dkt. 15 at 10
+he could not access the employee portal to stop his 401(k)         (citing to 2AC, Dkt. 13-1 at 6).
+contributions because his account was set up with an incorrect
+name and SSN. Id. at 3.; see Dkt. 16 at 143–151. On June            *3 Dixon responds that the Plan's arbitration clause is
+2, 2024, Dixon provided MultiCare with his correct SSN.            unenforceable because it eliminates substantive ERISA
+Dkt. 17-1 at 28. MultiCare updated his account, and Dixon          rights. Dkt. 17 at 10. Alternatively, he asserts that MultiCare
+was able to stop further contributions. Id. Between April 12,      waived any right to arbitrate by filing its motion to dismiss
+2024, and June 7, 2024, MultiCare automatically deferred           and producing documents. Id. at 17. He further contends
+$1,317.25 to Dixon's 401(k) account. 2AC, Dkt. 13-1 at 3.          that his state law wage withholding claim is not preempted
+                                                                   because it is unrelated to the Plan. Id. at 13. He also argues
+On April 28, 2025, Dixon requested a refund from                   that MultiCare retaliated against him by sending email blasts
+MultiCare's Retirement Committee for what he later alleges         to multiple employees and delaying his job transfer request.
+were “involuntary retirement contributions during financial        Id. at 15.
+hardship.” Dkt. 17 at 9. While that request was pending,
+Dixon sued. 3 Dkt. 1. He subsequently filed First and Second       On August 1, 2025, the Retirement Committee denied Dixon's
+Amended Complaints. Dkts. 11, 13-1. He asserts ERISA               appeal, stating that “the Plan does not provide for the refund
+claims for (1) recovery of “benefits due,” and (2) breach of       of contributions made when a participant is automatically
+fiduciary duty; a Washington state law claim under RCW             enrolled in the Plan.” Dkt. 17-1 at 26.
+49.52 for willful wage withholding; and ERISA and state law
+claims for retaliation. 2AC, Dkt. 13-1 at 4–5.                     On August 31, 2025, Dixon moved to compel production
+                                                                   of all requested documents and the complete administrative
+On May 30, 2025, the Retirement Committee denied Dixon's           record. Dkt. 19. In response, MultiCare argues that Dixon's
+request for a refund of his 401(k) retirement contributions.       motion is procedurally deficient, and that Dixon failed to
+Id. at 1. Dixon appealed, arguing that the denial was in           confer in good faith. It asserts that it has produced everything
+error and requesting that MultiCare provide him with certain       ERISA requires. It also requested that the Court admonish
+documents, including the complete claim file, workday audit        Dixon and warn him that his repeated willful violation of the
+log, call logs, plan documents, service agreements, and            federal rules will warrant monetary sanctions in the future.
+documents describing the policies and procedures for claim
+distribution. Id.; Dkt. 17-1 at 2. On July 2, 2025, MultiCare      The issues are discussed in turn.
+emailed Dixon the Plan documents, the Trust Agreement, and
+the Annual Report. Dkt. 17-1 at 20. MultiCare refused to
+                                                                   II. DISCUSSION
+provide the remaining requested documents, explaining that
+they were either not required under ERISA or did not exist.        A. Rule 12(b)(6) Legal Standard
+Id. at 21.                                                         Dismissal under Federal Rule of Civil Procedure 12(b)(6)
+                                                                   may be based on either the lack of a cognizable legal theory
+MultiCare's motion to dismiss argues that Dixon failed to          or the absence of sufficient facts alleged under a cognizable
+exhaust 4 the Plan's internal review procedures and is required    legal theory. Balistreri v. Pacifica Police Dep't, 901 F.2d 696,
+to arbitrate his ERISA claims. Dkt. 15 at 6, 7. It asks the        699 (9th Cir. 1988). A plaintiff's complaint must allege facts
+Court to accept the parties’ briefing on arbitration and decide    to state a claim for relief that is plausible on its face. Ashcroft
+the issue without requiring a separate motion to compel            v. Iqbal, 556 U.S. 662, 678 (2009). A claim has “facial
+arbitration. Id. at 8 n.9. The parties agree that if arbitration   plausibility” when the party seeking relief “pleads factual
+is compelled, the ERISA claims must be stayed and not              content that allows the court to draw the reasonable inference
+dismissed. Dkt. 17 at 17; Dkt. 18 at 8 n.9.                        that the defendant is liable for the misconduct alleged.” Id.
+
+MultiCare further contends that Dixon's state law wage             Although courts must accept as true the complaint's well-
+withholding claim is preempted by ERISA and should be              pled facts, conclusory allegations of law and unwarranted
+dismissed. It also argues that Dixon's retaliation claims fail     inferences will not defeat an otherwise proper Rule 12(b)
+because he alleges only prospective relief “should an adverse      (6) motion to dismiss. Vasquez v. Los Angeles Cnty., 487
+                                                                   F.3d 1246, 1249 (9th Cir. 2007); Sprewell v. Golden State
+
+
+                © 2026 Thomson Reuters. No claim to original U.S. Government Works.                                                2
+RYAN ADAM DIXON, Plaintiff, v. MULTICARE HEALTH SYSTEM,..., Slip Copy (2026)
+
+
+Warriors, 266 F.3d 979, 988 (9th Cir. 2001). “[A] plaintiff's       MultiCare asks the Court to incorporate by reference the
+obligation to provide the ‘grounds’ of his ‘entitle[ment] to        following documents: Dixon's 401(k) Plan, his HR ticket and
+relief’ requires more than labels and conclusions, and a            related email correspondence, and 26 C.F.R. § 1.414(w)-1.
+formulaic recitation of the elements of a cause of action will      Dkt. 15 at 6; see Dkt. 16. Dixon does not oppose the request.
+not do. Factual allegations must be enough to raise a right to      Because these documents form the basis of Dixon's claims,
+relief above the speculative level.” Bell Atl. Corp. v. Twombly,    MultiCare's request is GRANTED.
+550 U.S. 544, 555 (2007) (citations omitted). This requires
+a plaintiff to plead “more than an unadorned, the-defendant-        Although Dixon makes no formal incorporation request, he
+unlawfully-harmed-me accusation.” Iqbal, 556 U.S. at 678            also submits multiple documents for the Court's consideration
+(citing Twombly, 550 U.S. at 555).                                  in opposing MultiCare's motion. See Dkt. 17-1. The Court
+                                                                    incorporates by reference each document except MultiCare's
+When granting a Rule 12(b)(6) motion to dismiss, “a district        email correspondence with Dixon concerning a separate
+court should grant leave to amend even if no request to amend       investigation, exhibits E and F, because they were not
+the pleading was made, unless it determines that the pleading       referenced or relied on in his complaint.
+could not possibly be cured by the allegation of other facts.”
+Cook, Perkiss & Liehe v. N. Cal. Collection Serv., 911 F.2d
+242, 247 (9th Cir. 1990). However, when the facts are not           C. Dixon's ERISA claims are subject to arbitration.
+in dispute and the sole issue is whether there is liability as a    MultiCare argues first that Dixon's claims are subject to the
+matter of substantive law, courts may deny leave to amend.          Plan's mandatory arbitration provision. 5 Dkt. 15 at 7. It
+Albrecht v. Lund, 845 F.2d 193, 195–96 (9th Cir. 1988).             contends that the provision is enforceable and that his claims
+                                                                    fall within its scope.
+
+B. The 401(k) Plan documents, Dixon's HR ticket,                    Dixon does not dispute that the arbitration provision applies
+26 C.F.R. § 1.414(w)-1, and Dixon's internal appeal                 to his claims. However, he appears to argue that the Plan's
+documents are incorporated by reference into Dixon's                arbitration provision is unenforceable because it eliminates
+complaint.                                                          the right of claimants to proceed as a class. Dkt. 17 at 10–
+As an initial matter, the Court must determine which materials      11. He also argues that MultiCare waived its right to arbitrate
+it may consider when evaluating MultiCare's motion to               by filing its motion to dismiss (which includes the arbitration
+dismiss. Generally, a court may not consider any material           argument). Id. at 7.
+outside the pleadings in ruling on a Rule 12 motion, or the
+motion is converted to one for summary judgment (and the            Under the Federal Arbitration Act, valid arbitration
+opposing party is entitled to respond to the new motion). See       agreements are enforceable. It “permits a party ‘aggrieved by
+Fed. R. Civ. P. 12 (b)(6). There are two exceptions to this rule.   the alleged...refusal of another to arbitrate’ to petition any
+                                                                    federal district court for an order compelling arbitration in
+ *4 First, the Court may consider material submitted as part        the manner provided for in the agreement.” Chiron Corp. v.
+of the complaint, or upon which the complaint necessarily           Ortho Diagnostic Sys., Inc., 207 F.3d 1126, 1130 (9th Cir.
+relies, if the material's authenticity is not contested. Lee v.     2000) (quoting 9 U.S.C. § 4). A court's role is “limited to
+City of Los Angeles, 250 F.3d 668, 688 (9th Cir. 2001); see         determining (1) whether a valid agreement to arbitrate exists
+also United States v. Ritchie, 342 F.3d 903, 908 (9th Cir.          and, if it does, (2) whether the agreement encompasses the
+2003) (A document “may be incorporated by reference into a          dispute at issue.” Id. (citation omitted). If the answer to both
+complaint if the plaintiff refers extensively to the document or    questions is “yes,” then the agreement must be enforced.
+the document forms the basis of the plaintiff's claim.”). “Once     Id. The FAA “leaves no place for the exercise of discretion
+a document is deemed incorporated by reference, the entire          by a district court;” instead it mandates “that district courts
+document is assumed to be true for purposes of a motion to          shall direct the parties to proceed to arbitration on issues
+dismiss, and both parties—and the Court—are free to refer to        as to which an arbitration agreement has been signed.” Id.
+any of its contents.” In re NVIDIA Corp. Sec. Litig., 768 F.3d      (emphasis in original) (citing Dean Witter Reynolds Inc. v.
+1046, 1058 n.10 (9th Cir. 2014) (citation and quotation marks       Byrd, 470 U.S. 213, 218 (1985)).
+omitted). Second, under Federal Rule of Evidence 201, the
+Court may take judicial notice of matters of public record. Id.
+
+
+
+                © 2026 Thomson Reuters. No claim to original U.S. Government Works.                                              3
+RYAN ADAM DIXON, Plaintiff, v. MULTICARE HEALTH SYSTEM,..., Slip Copy (2026)
+
+
+However, courts may invalidate an arbitration agreement that                     the arbitration provision and Class
+prevents the “effective vindication” of a federal statutory                      Action Waiver shall not be deemed
+right. Am. Exp. Co. v. Italian Colors Rest., 570 U.S. 228,                       void; rather, the Arbitrator shall have
+235 (2013). When this exception applies, a plan's arbitration                    the authority to award such relief.
+provision is unenforceable. Id. The effective vindication
+exception is intended to prevent the “prospective waiver
+of a party's right to pursue statutory remedies.” (quoting          Dkt. 16 at 109-10; cf. Smith, 13 F.4th at 620–22 (concluding
+Mitsubishi Motors Corp. v. Soler Chrysler–Plymouth, Inc.,           that the arbitration clause was unenforceable because it
+473 U.S. 614, 637 n.19 (1985)).                                     eliminated plaintiff's ERISA remedy of fiduciary removal.).
+                                                                    Dixon fails to make a cognizable argument as to why the
+ *5 Dixon argues that the arbitration provision is                  arbitration provision is unenforceable.
+unenforceable because it “eliminates plan-wide relief.” 2AC,
+Dkt. 13-1 at 4 (citing Smith v. Bd. of Directors of Triad Mfg.,     Dixon next argues that MultiCare waived any right to arbitrate
+Inc, 13 F.4th 613 (7th Cir. 2021)). He argues that discovery        by filing its motion to dismiss and producing documents. Dkt.
+may “reveal systemic recordkeeping failures affecting other         17 at 17. MultiCare contends that Dixon has not shown that
+participants, preserving potential class or plan-wide claims
+                                                                    it acted inconsistently with its right to arbitrate. 6 Dkt. 18 at
+under [ERISA].” Dkt. 17 at 11. This position has been
+                                                                    7. It explains that it filed its motion to dismiss in response to
+squarely rejected. In Italian Colors, the Supreme Court held
+                                                                    Dixon's premature filing of this action before exhausting the
+that a class action arbitration waiver “merely limits arbitration
+                                                                    Plan's internal review and arbitration procedures. According
+to the two contracting parties;” it does not eliminate their
+                                                                    to MultiCare, the motion to dismiss expressly states its intent
+right to pursue statutory remedies. Id. at 236. The Court
+                                                                    to arbitrate, preserving that right. MultiCare further maintains
+emphasizes that an individual suit is adequate to assure
+                                                                    that it produced documents as required by statute. Id. at 8.
+“effective vindication” of a federal right. Id.
+                                                                    When considering whether MultiCare took actions
+Furthermore, a pro se litigant cannot litigate claims that are
+                                                                    inconsistent with its right to arbitration, the Court must
+not personal to him. Russell v. United States, 308 F.2d 78, 79
+                                                                    consider the “ ‘totality of the parties’ actions.’ ” Armstrong, 59
+(9th Cir. 1962). Dixon may therefore represent only himself.
+                                                                    F.4th at 1015 (quoting Hill v. Xerox Bus. Servs., 59 F.4th 457,
+He cannot represent a class of similarly situated people or as
+                                                                    471 (9th Cir. 2023)). A party generally “acts inconsistently
+Dixon suggests, “preserve” his ability to later add class-wide
+                                                                    with exercising the right to arbitrate when it (1) makes an
+claims. See Dkt. 17 at 11.
+                                                                    intentional decision not to move to compel arbitration and (2)
+                                                                    actively litigates the merits of a case for a prolonged period of
+Dixon makes no other argument, and notably, the Plan's
+                                                                    time in order to take advantage of being in court.” Id. (quoting
+arbitration provision does not limit Dixon's right to pursue
+                                                                    Newirth ex rel. Newirth v. Aegis Senior Cmtys., LLC, 931 F.3d
+ERISA remedies, but rather preserves them:
+                                                                    935, 941 (9th Cir. 2019)).
+
+                                                                     *6 Here, MultiCare argued in its very first motion—the
+             [T]he arbitration provision and Class                  motion to dismiss—that arbitration is required. It did not,
+             Action Waiver shall not limit a                        as Dixon suggests, extensively litigate the merits and then
+             claimant's right to seek relief that                   attempt to compel arbitration after losing. Instead, MultiCare
+             may be awarded under ERISA,                            has consistently maintained that Dixon's arguments are
+             so long as such relief is sought                       subject to mandatory arbitration. MultiCare therefore did not
+             through an individual arbitration                      waive its right to arbitration.
+             proceeding, and not through a class
+             or collective action....if any portion                 Because the Plan's arbitration provision is enforceable, and
+             of the arbitration provision or Class                  Dixon does not dispute that the arbitration provision governs
+             Action Waiver is found to prohibit                     his ERISA claims, MultiCare's request to compel arbitration
+             a claimant from obtaining any relief                   is GRANTED. Dixon's ERISA claims are STAYED pending
+             under ERISA that the claimant would                    arbitration. See Smith v. Spizzirri, 601 U.S. 472, 478 (2024).
+             be able to obtain on an individual basis,
+
+
+
+                © 2026 Thomson Reuters. No claim to original U.S. Government Works.                                                4
+RYAN ADAM DIXON, Plaintiff, v. MULTICARE HEALTH SYSTEM,..., Slip Copy (2026)
+
+
+                                                                  claim is GRANTED and it is DISMISSED with prejudice
+D. Dixon's Washington state law wage withholding claim            and without leave to amend.
+is preempted by ERISA.
+MultiCare argues that Dixon's RCW 49.52.050 state law
+wage withholding claim “falls within the expansive sweep          E. Dixon's retaliation claims are dismissed for failure to
+of ERISA's preemption clause.” Dkt. 15 at 9. It argues that       state a claim.
+“[t]here is no doubt” that the state law relates to an employee    *7 Dixon asserts retaliation claims under both ERISA §
+benefit plan because it penalizes employers for collecting “a     510 and RCW 49.48.090 7 for “[a]ny adverse action taken
+rebate of any part of wages” with no distinction for wages that   because Dixon asserted ERISA rights.” 2AC, Dkt. 13-1 at 5.
+are directed to an employee's ERISA retirement plan. Id.          MultiCare correctly contends that this claim must fail because
+                                                                  a party may not assert a claim over actions “that may, or
+Dixon responds that RCW 49.52 is unrelated to the Plan for        may not, occur in the future.” Dkt. 15 at 10 (citing Scott
+several reasons: (1) the law regulates wage deductions before     v. Pasadena Unified Sch. Dist., 306 F.3d 646, 662 (9th Cir.
+they become plan assets; (2) it does not require interpretation   2002)). In his reply, Dixon points to MultiCare's “e-email
+of the Plan's terms; (3) it addresses pure payroll functions;     blasts to several employees.” However, Dixon did not include
+and (4) it was violated before funds “entered” the Plan. Dkt.     those facts in his second amended complaint, and they do not
+17 at 13.
+                                                                  state a plausible retaliation claim in any event. 8
+
+ERISA § 514(a) broadly preempts “any and all State laws
+                                                                  MultiCare's motion to dismiss Dixon's retaliation claims is
+insofar as they may now or hereafter relate to any employee
+                                                                  GRANTED. His retaliation claims are DISMISSED without
+benefit plan.” 29 U.S.C. § 1144(a) (emphasis added). A
+                                                                  prejudice.
+law “relates to an employee benefit plan if it has either a
+‘connection with’ or ‘reference to’ such a plan.” Paulsen
+v. CNF Inc., 559 F.3d 1061, 1081 (9th Cir. 2009) (quoting         F. MultiCare has produced all statutorily required
+Ingersoll–Rand Co. v. McClendon, 498 U.S. 133, 139 (1990)).       documents.
+In other words, a cause of action is related to an ERISA          As a separate matter, Dixon alleges in his response to
+plan if the existence of the plan is essential for establishing   MultiCare's motion to dismiss that he is entitled to statutory
+liability. Id.; see also Aetna Health Inc. v. Davila, 542 U.S.    penalties of $110 per day for MultiCare's failure to produce
+200, 210 (2004) (A state law cause of action is preempted         all requested documents. Dkt. 17 at 5 (citing 29 C.F.R. §
+by ERISA where legal liability exists “only because of [the]      2575.502c-1). He raised this argument again a month later
+administration of ERISA-regulated benefit plans” and “where       in his motion to compel plan documents, Dkt. 19. Dixon
+no legal duty (state or federal) independent of ERISA or the      argues that without these documents, he cannot identify
+plan terms is violated.”). Where a state law claim is preempted   specific fiduciaries, understand the plan's structure, access
+by federal law, dismissal may be granted under Rule 12(b)         evidence of account error, or evaluate insurance coverage
+(6). See, e.g., Cleghorn v. Blue Shield of Cal., 408 F.3d 1222,   for settlement. Dkt. 19 at 8. He argues that arbitration
+1225 (9th Cir. 2005) (affirming dismissal of state law causes     without these documents is futile. Dkt. 17 at 2 (citing Vaught
+of action that were preempted by ERISA).                          v. Scottsdale Healthcare, 546 F.3d 620 (9th Cir. 2008).
+                                                                  However, his reliance on Vaught is misplaced.
+Here, any alleged liability under RCW 49.52.050 arises solely
+from Dixon's automatic enrollment in MultiCare's 401(k)           Vaught reiterates that before filing suit under ERISA § 502,
+Plan. RCW 49.52.050 imposes penalties on employers who            a plaintiff “must avail himself or herself of a plan's own
+unlawfully “collect or receive” any portion of an employee's      internal review procedures.” Id. at 626. Vaught does not
+wages. MultiCare “collected” Dixon's wages pursuant to the        hold that failing to disclose documents excuses arbitration;
+terms of an ERISA governed 401(k) retirement plan. Because        in fact, it does not even mention arbitration at all. More
+the challenged conduct concerns wage deferral made under          importantly, Dixon fails to identify any documents required
+an ERISA employee benefit plan, Dixon's claim falls within        under ERISA that MultiCare failed to produce. To the
+ERISA's preemption clause. See 29 U.S.C. § 1144(a).               contrary, the evidence he attached in response to MultiCare's
+                                                                  motion to dismiss suggests the MultiCare timely provided
+Dixon's RCW 49.52.050 wage withholding claim is                   him with the following documents:
+preempted by ERISA. MultiCare's motion to dismiss this
+
+
+               © 2026 Thomson Reuters. No claim to original U.S. Government Works.                                           5
+RYAN ADAM DIXON, Plaintiff, v. MULTICARE HEALTH SYSTEM,..., Slip Copy (2026)
+
+
+                                                                     “ensure that parties have an inexpensive and expeditious
+  1. The MultiCare Health System 401(k) Plan (as amended             opportunity to resolve discovery disputes and that only
+  and restated effective July 1, 2017) (the 2017 Restatement)        genuine disagreements are brought before the Court.”
+                                                                     Nguyen v. Mercer Island Boys Basketball Booster Club,
+  2. Amendments One to Fourteen to the 2017 Restatement
+                                                                     No. 2:24-CV-01990-RSL, 2025 WL 1519134, at *2 (W.D.
+  3. March 2020 Summary Plan Description for Plan                    Wash. May 28, 2025) (denying motion to compel due to
+                                                                     insufficient conferral where plaintiff merely certified that they
+  4. Summaries of Material Modifications for the Plan dated          “repeatedly notified defendant” of discovery deficiency).
+  June 2022, December 2022 and April 2024
+                                                                     Dixon asserts that he served a written discovery request
+  5. The Trust Agreement for the Plan effective April 29,
+                                                                     by email, sent a deficiency “cure” email identifying the
+  2019
+                                                                     documents still missing, and sent a “final” meet and confer
+  6. Amendment to the Trust Agreement effective October 1,           email “giving a short cure window.” Dkt. 19-1 at 1. However,
+  2024                                                               emails alone are not sufficient. A good faith effort “requires a
+                                                                     face-to-face meeting or a telephone conference.” W.D. Wash.
+  7. The Annual Report (Form 5500) for the 2023 Plan Year            Local Civ. R. 37(a)(1); see Gould v. Allstate Vehicle & Prop.
+  filed on October 14, 2024                                          Ins. Co., No. 2:22-CV-00820-LK, 2023 WL 3018865, at *6
+                                                                     (W.D. Wash. Apr. 20, 2023) (denying motion to compel where
+  8. The Administrative Services Agreement for MultiCare             defendant had not shown that it met and conferred regarding
+  Health System effective April 29, 2019, with provisions            the discovery dispute). Dixon failed to meet and confer as
+  relevant to the MultiCare Health System 401(k) Plan.               required.
+
+Dkt. 17-1 at 21.
+                                                                     Dixon's request for ERISA penalties relating to withheld
+                                                                     documents, Dkt. 17 at 5, and his related motion to compel,
+Dixon alleges that this is not sufficient, asserting that
+                                                                     Dkt. 19, are DENIED.
+ERISA also requires MultiCare to produce “(1) Committee
+minutes, (2) Fiduciary roster, (3) Fidelity bond policy, (4)
+Investment Policy Statement, (5) Summary Annual Reports,             G. Dixon is subject to sanctions for his improper filings.
+(6) 404a-5 participant disclosures, (7) 408(b)(2) service            MultiCare requests that the Court subject Dixon to sanctions
+provider disclosures, (8) Audit logs, and (9) Committee              for his repeated improper filings, including citing nonexistent
+charter.” Dkt. 17 at 5. But that is not what the statute requires.   or inapplicable case law, misconstruing applicable law, and
+See 29 U.S.C. § 1024(b)(4).                                          generally misleading the Court. Dkt. 29 at 10. Rather than
+                                                                     an award of fees, however, MultiCare requests that the Court
+ *8 Dixon also argues that MultiCare is required to produce          admonish Dixon for his inappropriate conduct and willful
+the entire administrative file under 29 C.F.R. § 2560.503-1(h)       violation of the federal rules. Id. at 11. Dixon did not directly
+(2)(iii). However, that regulation is specific to a claim for        respond to this sanctions request.
+benefits. A claim for benefits is defined as “a request for a plan
+benefit.” 29 C.F.R. § 2560.503-1(e). Dixon is not requesting         A pro se litigant is not held to the same standard as a
+a “plan benefit,” but rather a “refund” or a “corrective             licensed attorney. Haines v. Kerner, 404 U.S. 519, 521
+distribution” of the wages deferred to his 401(k) account.           (1972). Regardless of technical deficiencies, a pro se litigant's
+2AC, Dkt. 13-1 at 1, 6.                                              pleading—his complaint—should be judged only by function,
+                                                                     not form. Id. This rule is almost uniformly applied when a pro
+Lastly, Dixon's motion to compel is procedurally deficient.          se plaintiff is seeking in forma pauperis status, or defending
+Despite MultiCare's repeated attempts to meet and confer             a motion to dismiss. But a pro se plaintiff is not immune from
+regarding discovery, Dixon moved to compel without first             the rules of civil procedure. Although the Court must construe
+serving MultiCare with any discovery requests under Rule             his complaint liberally, a pro se litigant “must follow the same
+34; attending, or even scheduling, a Rule 26(f) conference;          rules of procedure that govern other litigants.” King v. Atiyeh,
+or making any good faith attempt to confer with MultiCare.           814 F.2d 565, 567 (9th Cir. 1987), overruled on other grounds
+See Fed. R. Civ. P. 37; W.D. Wash. Local Civ. R. 37(a)               by Lacey v. Maricopa County, 693 F.3d 896, 925–28 (9th Cir.
+(1). The requirement to meet and confer is intended to               2012). Pro se litigants in the ordinary civil case should not be
+
+
+                © 2026 Thomson Reuters. No claim to original U.S. Government Works.                                                6
+RYAN ADAM DIXON, Plaintiff, v. MULTICARE HEALTH SYSTEM,..., Slip Copy (2026)
+
+
+                                                                 Dixon's ERISA claims is DENIED. However, MultiCare's
+treated more favorably than parties with attorneys of record.
+                                                                 request to compel arbitration on those claims is GRANTED.
+Jacobsen v. Filler, 790 F.2d 1362, 1364 (9th Cir. 1986).
+                                                                 Dixon's ERISA claims are STAYED pending arbitration. The
+                                                                 parties shall file a Joint Status Report within 30 days of the
+*9 Dixon repeatedly cites to nonexistent cases 9 and to other
+                                                                 completion of any arbitration.
+cases 10 that do not support the proposition for which they
+were offered. The Court has no formal rule against the use       Dixon's RCW 49.52.050 wage withholding claim is
+of generative artificial intelligence to write pleadings and     DISMISSED with prejudice. Dixon's retaliation claim is
+briefs. However, parties are bound by Rule 11, which requires    DISMISSED without prejudice.
+parties to certify that their “legal contentions are warranted
+by existing law or by a nonfrivolous argument for extending,     Dixon's motion to compel production of plan documents, Dkt.
+modifying, or reversing existing law or for establishing new     19, is DENIED. Dixon's motion for an extension of time,
+law.” Fed. R. Civ. P. 11(b)(2).                                  Dkt. 26; and MultiCare's motion for a status or scheduling
+                                                                 conference, Dkt. 33, are DENIED as moot.
+Dixon's repeated and presumably intentional failure to verify
+cited authority supports an award of sanctions. If, in the       Dated this 4th day of March, 2026.
+future, Dixon repeats this behavior, monetary sanctions may
+be awarded.
+
+                                                                                               A
+
+                        III. ORDER                               All Citations
+
+MultiCare's motion to dismiss, Dkt. 15, is DENIED in             Slip Copy, 2026 WL 607769
+part and GRANTED in part. MultiCare's motion to dismiss
+
+
+
+
+                                                         Footnotes
+
+
+1      MultiCare alternatively argues in a footnote that Dixon's ERISA § 502(a)(1)(B) “benefits due” claim should be
+       dismissed because he cites a law, 26 C.F.R. § 1.414(w)-1(b)(2)(v), and a Plan provision, Plan § 5.12, that
+       do not exist. Dkt. 15 at 7 n.7. Dixon responds that these were merely “typographical errors, and corrects the
+       citations to 26 C.F.R. 1.414(w)-1(c)(2)(i) and Plan §§ 10.2 and 4.1(b). He blames the errors on MultiCare's
+       withholding of Plan documents. While the Court is skeptical of Dixon's excuse, MultiCare did not respond to
+       Dixon's explanation, and it makes no additional argument as to why Dixon's ERISA claim fails on its merits.
+       MultiCare's motion to dismiss on this alternative ground is DENIED.
+
+2      Dixon claims MultiCare's administrative error violated multiple federal requirements:
+
+       including verifying identity documents under 8 U.S.C. § 1324a(b)(1)(A); ensuring tax reporting accuracy under
+       26 U.S.C. § 6051; and maintaining accurate participant records under 29 U.S.C. § 1059. Dkt. 17 at 19. Dixon
+       does not assert any claims under those laws.
+
+3      Though he lives in Florida, this is the eighth case pro se plaintiff Dixon has filed in this District in the past
+       four years.
+
+4      MultiCare conceded in its reply that Dixon exhausted his administrative remedies when the Retirement
+       Committee denied his appeal on August 1, 2025. Dkt. 18 at 3. MultiCare's exhaustion argument is therefore
+       moot.
+
+
+
+
+               © 2026 Thomson Reuters. No claim to original U.S. Government Works.                                          7
+RYAN ADAM DIXON, Plaintiff, v. MULTICARE HEALTH SYSTEM,..., Slip Copy (2026)
+
+
+5     MultiCare originally raised the arbitration argument in its motion to dismiss before Dixon had fully exhausted
+      his internal appeal efforts. Because the appeals process is now complete and the parties have fully briefed
+      the issue, the Court treats MultiCare's request as a motion to compel arbitration.
+
+6     MultiCare also argues that the party opposing arbitration “bears a heavy burden of proof” and must
+      demonstrate prejudice. Dkt. 18 at 7. However, the Supreme Court in Morgan v. Sundance, Inc., 596 U.S.
+      411 (2022), rejected that approach. Although the party asserting waiver still bears the burden of proof, that
+      burden is not “heavy,” and prejudice is no longer required to establish waiver. Morgan, 596 U.S. at 418.
+      Today, the party asserting waiver must demonstrate (1) knowledge of an existing right to compel arbitration
+      and (2) intentional acts inconsistent with that existing right. Armstrong v. Michaels Stores, 59 F.4th 1011,
+      1015 (9th Cir. 2023)
+
+7     RCW 49.48.090 does not create or support a retaliation claim.
+
+8     Dixon alleges in his first amended complaint that MultiCare has taken adverse actions against him, including
+      auto rejecting his transfer request and denying him union representation, in retaliation for asserting his
+      ERISA statutory rights. Dkt. 11 at 3–4. However, he did not include those allegations in his operative, second
+      amended complaint.
+
+9     The following cases are non-existent: Mazza v. Washoe Cnty., 728 F.2d 1260, 1263 (9th Cir. 1984) and
+      Shirley v. Precision Castparts Corp., 992 F.3d 1082, 1095 (9th Cir. 2021). Dkt. 17 at 5, 15.
+
+10    The following are a few of the cases that do not support the proposition for which they are offered: Bounds
+      v. Smith, 430 U.S. 817, 823 (1977) and Ecological Rights Found. v. Pac. Lumber Co., 230 F.3d 1141, 1147
+      (9th Cir. 2000).
+
+      BENJAMIN H. SETTLE
+
+      United States District Judge
+
+
+
+End of Document                                        © 2026 Thomson Reuters. No claim to original U.S. Government Works.
+
+
+
+
+             © 2026 Thomson Reuters. No claim to original U.S. Government Works.                                        8
+

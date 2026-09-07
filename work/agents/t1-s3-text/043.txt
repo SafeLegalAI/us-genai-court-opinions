@@ -1,0 +1,481 @@
+Trauger v. Columbia County District Attorney&#039;s Office et al                                  Doc. 37
+
+
+
+
+                                 UNITED STATES DISTRICT COURT
+                                MIDDLE DISTRICT OF PENNSYLVANIA
+
+               JESSICA TRAUGER,            :                        NO. 4:25-CV-01469
+                         Plaintiff,        :
+                                           :
+                   v.                      :
+                                           :                        (CAMONI, M.J.)
+               COLUMBIA COUNTY DISTRICT :
+               ATTORNEY’S OFFICE, et. al., :
+                        Defendants.        :
+
+                                            MEMORANDUM OPINION
+
+                     Government sub-units or departments operated by municipalities
+
+             are not “persons” amenable to suit under § 1983. Terrell v. City of
+
+             Harrisburg Police Dept., 549 F. Supp. 2d 671, 686 (M.D. Pa. 2008). This
+
+             rule applies to police departments and district attorneys’ offices alike. See
+
+             Washington v. Lehigh Cnty. Dist. Att’y’s Off., 541 F. Supp. 3d 536, 549
+
+             (E.D. Pa. 2021) (“[D]istrict attorney’s offices in Pennsylvania are not
+
+             entities subject to suit under § 1983.”).
+
+                     In this case, Plaintiff Jessica Trauger sued the Columbia County
+
+             District Attorney’s Office (DA’s Office) and Montour Township Police
+
+             Department (Police Department) under 42 U.S.C. § 1983. Complaint, doc.
+
+             1 at 3. The Defendants moved to dismiss the Complaint (docs. 21, 29),
+
+             arguing that they are not entities amenable to suit under § 1983. Def.
+
+
+
+                                                         Page 1 of 12
+
+                                                                                        Dockets.Justia.com
+DA’s Office’s Br., doc. 22 at 4; Def. Police Department’s Br., doc. 30 at 6.
+
+Because the Defendants are government sub-units not subject to suit
+
+under § 1983, the Court will grant their motions to dismiss.
+
+I.   BACKGROUND1
+
+     As alleged, in 2022, while Trauger was the legal guardian of her
+
+mother, the mother’s ex-partner, Dale Walter, broke into the mother’s
+
+house and stole two dogs (among other things). Doc. 1 ¶ 9. Walter was
+
+arrested and charged. Id. During Walter’s prosecution, the DA’s Office
+
+asked Trauger to “sign a subpoena for Walter’s upcoming case,” which
+
+she requested to sign via email instead of going in person. See id. ¶ 13.
+
+The DA’s Office responded that “if you don’t show up to this case we are
+
+dropping charges against Dale.” Id. Despite Trauger informing the DA’s
+
+Office “multiple times of additional evidence of Walter’s crimes,” it
+
+eventually “nolle prossed without notification[.]” See id.
+
+     In 2023, the Police Department and the DA’s Office filed charges
+
+against Trauger based on statements from two individuals who accused
+
+her of stealing “the dog.” Id. ¶ 15. Most of the charges filed against
+
+
+1 In considering this motion to dismiss, the Court accepts all factual
+allegations in the Complaint as true. See Phillips v. County of Allegheny,
+515 F.3d 224, 228 (3d Cir. 2008).
+
+                               Page 2 of 12
+Trauger were dropped when one of the eyewitnesses testified at a hearing
+
+that “it wasn’t [Trauger].” Id. ¶ 16. But some charges remained even
+
+though Trauger “presented her guardianship papers and receipt proving
+
+ownership [of the dog].” Id. Ultimately, 496 days after charging Trauger,
+
+the DA’s Office dismissed all charges. See id.
+
+      On August 8, 2025, Trauger filed the Complaint against the
+
+Defendants under § 1983, alleging violations of her rights under: (1) the
+
+Fourth Amendment – malicious prosecution; (2) Sixth Amendment –
+
+right to a speedy trial; (3) Fourteenth Amendment – due process; and (4)
+
+First Amendment – retaliation. Doc. 1 ¶¶ 19-22. The Defendants moved
+
+to dismiss (docs. 21, 29) the Complaint, and the parties have fully briefed
+
+the motions (docs. 22, 28, 30, 32, 34, 36). The parties consented to the
+
+jurisdiction of a United States Magistrate Judge to conduct all
+
+proceedings in this case, pursuant to 28 U.S.C. § 636(c) and Federal Rule
+
+of Civil Procedure 73, including entry of final judgment. Doc. 33. The
+
+motions to dismiss are thus ripe for disposition.
+
+II.   LEGAL STANDARD
+
+      The Federal Rules of Civil Procedure require “a short and plain
+
+statement of the claim showing that the pleader is entitled to relief.” Fed.
+
+
+
+                               Page 3 of 12
+R. Civ. P. 8(a)(2). On a Rule 12(b)(6) motion to dismiss, “a plaintiff’s
+
+obligation to provide the grounds of his entitlement to relief requires
+
+more than labels and conclusions, and a formulaic recitation of the
+
+elements of a cause of action will not do.” Bell Atl. Corp. v. Twombly, 550
+
+U.S. 544, 555 (2007) (citation modified).
+
+     A district court must conduct a three-step analysis when
+
+considering the sufficiency of a complaint under Rule 12(b)(6). Malleus v.
+
+George, 641 F.3d 560, 563 (3d Cir. 2011). First, the court must identify
+
+“the elements a plaintiff must plead to state a claim.” Ashcroft v. Iqbal,
+
+556 U.S. 662, 675 (2009). Second, the court must identify all of the
+
+plaintiff’s well-pleaded factual allegations, accept them as true, and
+
+“construe the complaint in the light most favorable to the plaintiff.”
+
+Fowler v. UPMC Shadyside, 578 F.3d 203, 210 (3d Cir. 2009). The court
+
+can discard bare legal conclusions or factually unsupported accusations
+
+that merely state the defendant unlawfully harmed the plaintiff. Iqbal,
+
+556 U.S. at 678, citing Twombly, 550 U.S. at 555. Third, the court must
+
+determine whether “the facts alleged in the complaint are sufficient to
+
+show that the plaintiff has a ‘plausible claim for relief.’” Fowler, 578 F.3d
+
+at 211, quoting Iqbal, 556 U.S. at 679. A facially plausible claim “allows
+
+
+
+                                Page 4 of 12
+the court to draw the reasonable inference that the defendant is liable for
+
+the misconduct alleged.” Id. at 210, quoting Iqbal, 556 U.S. at 678. On a
+
+Rule 12(b)(6) motion, the “defendant bears the burden of showing that no
+
+claim has been presented.” Hedges v. United States, 404 F.3d 744, 750
+
+(3d Cir. 2005).
+
+     A complaint filed by a pro se litigant is to be liberally construed and,
+
+“however inartfully pleaded, must be held to less stringent standards
+
+than formal pleadings drafted by lawyers.” Erickson v. Pardus, 551 U.S.
+
+89, 94 (2007), quoting Estelle v. Gamble, 429 U.S. 97, 106 (1976).
+
+Nevertheless, “pro se litigants still must allege sufficient facts in their
+
+complaints to support a claim.” Mala v. Crown Bay Marina, Inc., 704 F.3d
+
+239, 245 (3d Cir. 2013).
+
+III. DISCUSSION
+
+     At the outset, the Defendants both argue that they are not legal
+
+entities amenable to suit under § 1983. Doc. 22 at 4; doc. 30 at 6. The
+
+Court agrees and will grant their motions to dismiss. Because this first
+
+issue is dispositive, the Court need not pass on the other arguments
+
+raised.
+
+
+
+
+                               Page 5 of 12
+      A.    The Defendants are not proper parties.
+
+      It is well-settled that government sub-units or departments
+
+operated by municipalities are not “persons” amenable to suit under
+
+§ 1983. Terrell, 549 F. Supp. 2d at 686 (police department); Washington,
+
+541 F. Supp. 3d at 549 (district attorney’s office). Governmental
+
+sub-units, including a district attorney’s office and a police department,
+
+are not distinct from the municipalities of which they are a part. See
+
+Mikhaeil v. Santos, 646 F. App’x 158, 163 (3d Cir. 2016). Here, the
+
+Complaint fails because Trauger brought suit under § 1983 against the
+
+DA’s Office and the Police Department, legal entities that are sub-units
+
+of their respective municipalities. See Jackson v. City of Erie Police Dep’t,
+
+570 F. App’x 112, 114 n.2 (3d Cir. 2014) (agreeing with the district court
+
+that a police department was not a proper party to a § 1983 action);
+
+Washington, 541 F. Supp. 3d at 549 (“[D]istrict attorney’s offices in
+
+Pennsylvania are not entities subject to suit under § 1983.”).
+
+      The Court, therefore, will grant the Defendants’ motions to dismiss
+
+(docs. 21, 29).2
+
+
+2 The Court, in an effort to construe Trauger’s pro se Complaint liberally
+
+as required, examined sua sponte whether Trauger alleges a claim
+against the respective municipalities, Columbia County and Montour
+
+                                Page 6 of 12
+     B.    Trauger improperly uses Artificial Intelligence.
+
+     The Court addresses an additional issue, given its serious concerns
+
+about the integrity of Trauger’s filings in this action. The DA’s Office
+
+asserts that Trauger may be using Artificial Intelligence (AI) to assist in
+
+drafting her submissions to the Court, “resulting in misstatements of
+
+applicable case law.” Def. DA’s Office’s Reply Br., doc. 32 at 8 n.2. Indeed,
+
+
+
+Township. She does not. To state a claim under § 1983 against a
+municipality, a plaintiff must allege that the municipality violated a
+constitutional right through the execution or implementation of a policy
+or a decision officially adopted or promulgated by those whose acts may
+fairly be said to represent official policy. Higgins v. Borough of Taylor,
+551 F. Supp. 2d 370, 377 (M.D. Pa. 2008), citing Reitz v. County of Bucks,
+125 F.3d 139, 144 (3d Cir. 1997). In other words, Trauger must allege, at
+minimum, that her injuries were the result of a policy or custom, or a
+municipality’s failure to train its employees. See Monell v. Dep't of Soc.
+Servs., 436 U.S. 658, 694 (1978) (“[A] local government may not be sued
+under § 1983 for an injury inflicted solely by its employees or agents.
+Instead, it is when execution of a government’s policy or custom . . .
+inflicts the injury that the government as an entity is responsible under
+§ 1983.”); Higgins, 551 F. Supp. 2d at 378 (recognizing a failure to train
+claim against a municipality). Here, Trauger has not alleged that the
+Clinton County or Montour Township has a policy or custom that caused
+her injuries, or that the municipalities’ failure to train their employees
+led to a constitutional violation. Trauger, therefore, has failed to state a
+claim under § 1983 against either municipality. See also Groman v.
+Township of Manalapan, 47 F.3d 628, 637 (3d Cir. 1995) (noting that “a
+single incident of unconstitutional activity is not sufficient to impose
+liability under Monell, unless proof of the incident includes proof that it
+was caused by an existing, unconstitutional municipal policy, which
+policy can be attributed to a municipal policymaker.”).
+
+
+                                Page 7 of 12
+Trauger has submitted to the Court briefs containing inaccurate
+
+information. See Pl.’s Br. in Opp’n to Def. DA’s Office’s Mot. to Dismiss,
+
+doc. 28 at 6 (misrepresenting holdings of cases).
+
+      For instance, Trauger cites to Hakeem v. Beyer for the proposition
+
+that pretrial detention delay of “over one year [is] presumptively
+
+prejudicial.” Id., citing 990 F.2d 750, 765. But that case concluded the
+
+exact opposite. See Hakeem, 990 F.2d at 764 (holding that “fourteen and
+
+one-half months that passed between arrest and trial is insufficient to
+
+allow an inference of prejudice solely from the length of the delay.”). The
+
+same goes for Trauger’s citation to Reitz v. County of Bucks for the
+
+proposition that “DA offices can be sued under § 1983.” Doc. 28 at 6, citing
+
+125 F.3d 139, 144 (3d Cir. 1997). Again, the Court of Appeals for the
+
+Third Circuit held the opposite in Reitz, finding that “the Bucks County
+
+District Attorney’s Office is not an entity for purposes of § 1983 liability.”
+
+125 F.3d at 148 (emphasis added). These misrepresentations alone may
+
+not conclusively demonstrate Trauger’s use of AI, as the DA’s Office
+
+appear to acknowledge. Doc. 32 at 3 n.1 (“Moving Defendant suspects
+
+that Plaintiff is using . . . [AI] to assist in generating her filings in this
+
+matter.”). Trauger’s submissions, however, get worse.
+
+
+
+                                Page 8 of 12
+     Most glaringly, in opposition to the Police Department’s motion to
+
+dismiss, Trauger represents non-existent assertions and cases from the
+
+Police Department’s brief. See Pl.’s Br. in Opp’n to Def. Police
+
+Department’s Mot. to Dismiss, doc. 34 at 3-5. This appears to indicate
+
+one of the hallmarks of generative AI use: hallucination.3 For example,
+
+Trauger states that the Police Department cited “Will v. Michigan Dep’t
+
+of State Police, 491 U.S. 58 (1989), and Estate of Lagano v. Bergen Cty.
+
+Prosecutor’s Office, 769 F.3d 850 (3d Cir. 2014), to assert it is a state
+
+entity immune from suit (Doc. 30 at 8-10).” Id. at 3. Nowhere in its briefs
+
+does the Police Department cite to Will or Lagano. See doc. 30; see also
+
+Def. Police Department’s Reply Br., doc. 36. Nor does it assert that “it is
+
+a state entity immune from suit,” (doc. 34 at 3) as Trauger asserts, but
+
+rather that it is a municipal police department. See doc. 30 at 6 (noting
+
+that Trauger’s claims are “without merit because a municipal police
+
+department is not an entity that can be sued under 42 U.S.C. § 1983”).
+
+
+3 An AI “hallucinates” when it generates responses to a user’s requests
+that are factually incorrect, misleading, or nonsensical. See Fletcher v.
+Experian Info. Sols., Inc., 168 F.4th 231, 233 (5th Cir. 2026), quoting
+Snell v. United Specialty Ins. Co., 102 F.4th 1208, 1230 (11th Cir. 2024)
+(“Put simply, [a generative AI program] ‘hallucinates’ when, in response
+to a user’s query, it generates facts that, well, just aren’t true—or at least
+not quite true.”).
+
+                                Page 9 of 12
+But Trauger dedicates an entire page to arguing that the Police
+
+Department’s “reliance on Lagano is misplaced[.]” Doc. 34 at 4. The
+
+flagrant misrepresentations of law in her brief in opposition to the DA’s
+
+Office’s motion to dismiss and the hallucinations apparent from her brief
+
+in opposition to the Police Department’s suffice to demonstrate the
+
+likelihood that Trauger relied on AI without verifying the information it
+
+generated.4
+
+      The Court strongly reprimands Trauger as to her false
+
+representations of law to the Court, apparently resulting from her
+
+improper AI use. To be clear, the use of AI in and of itself, is not improper.
+
+In fact, the Court of Appeals for the Third Circuit has recently recognized
+
+that use of AI may prove to be helpful, even to attorneys. See McCarthy
+
+v. D.E.A., 171 F.4th 245, 252 (3d Cir. 2026) (“Our decision is neither a
+
+critique nor a comment upon Attorney’s reliance on others in conducting
+
+research, nor the use of AI generally. With proper supervision and
+
+vetting, both may be helpful to an attorney.”). It may also prove useful
+
+
+
+
+4 Trauger’s brief in opposition to the Police Departments contains further
+
+hallucinations. See, e.g., doc. 34 at 5 (citing to the Police Defendant’s brief
+and asserting that the Police Department cited to Albright v. Oliver, 510
+U.S. 266 (1994) which it never did).
+
+                                Page 10 of 12
+for an unrepresented party such as Trauger. But improper use of AI, as
+
+it seems Trauger has engaged in here, must be admonished because it
+
+undoubtedly wastes the parties’ and the Court’s time and resources.
+
+     Ultimately, whether Trauger’s misrepresentations were generated
+
+by AI or by her own hand is of no matter. Trauger is placed on notice that,
+
+under the Federal Rules of Civil Procedure, even an “unrepresented party
+
+certifies that . . . [her] claims, defenses, and other legal contentions are
+
+warranted by existing law or by a nonfrivolous argument for extending,
+
+modifying, or reversing existing law or for establishing new law.” Fed. R.
+
+Civ. P. 11(b)(2). Trauger is no exception to the federal rules. As a pro se
+
+litigant, she must abide by the same rules that apply to all other litigants.
+
+Mala, 704 F.3d at 245; McNeil v. United States, 508 U.S. 106, 113 (1993)
+
+(“[W]e have never suggested that procedural rules in ordinary civil
+
+litigation should be interpreted so as to excuse mistakes by those without
+
+counsel.”).
+
+     Trauger’s misstatements of caselaw and of opposing parties’
+
+arguments are improper. The Court, therefore, cautions that any further
+
+non-compliant submissions may result in sanctions under the federal
+
+rules. See Jones v. Kankakee Cnty. Sheriff’s Dep’t, 164 F.4th 967, 971 (7th
+
+
+
+                               Page 11 of 12
+Cir. 2026) (“[I]n no way will we allow a court filing to include
+
+misrepresentations on legal or factual points that an unrepresented
+
+party reasonably knows or should know exist.”); Williams v. Canavan,
+
+No. 25-1016, 2025 WL 3634245, at *5 (M.D. Pa. Dec. 15, 2025) (warning
+
+pro se litigant that any unchecked reliance on AI will result in sanctions).
+
+IV.   CONCLUSION
+
+      Accordingly, the Defendants’ motions to dismiss (docs. 21, 29), are
+
+granted. An appropriate order follows.
+
+Date: May 29, 2026                       s/Sean A. Camoni
+                                         Sean A. Camoni
+                                         United States Magistrate Judge
+
+
+
+
+                               Page 12 of 12
+

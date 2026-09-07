@@ -1,0 +1,1118 @@
+-1-
+UNITED STATES DISTRICT COURT
+MIDDLE DISTRICT OF FLORIDA
+ORLANDO DIVISION
+KAILA D. STRINGER,
+Plaintiff,
+v. Case No.: 6:24-cv-01224-LHP
+WHITE CAP SUPPLY HOLDINGS,
+LLC,
+Defendant,
+ORDER1
+OnJuly3, 2024,Plaintiff Kaila D.Stringerfiled acomplaintagainstherformer
+employer, Defendant White Cap Supply Holdings, LLC, alleging claims under the
+Americans with Disabilities Act (“ADA”) and the Family Medical Leave Act
+(“FMLA”), along with a Florida common law claim for tortious interference with
+an advantageous business relationship. Doc. No. 1. Now before the Court is
+Defendant’s Motion for Summary Judgment. Doc. No. 36; see also Doc. No. 35.
+Plaintiff has filed a response in opposition, and Defendant a reply. Doc. Nos. 43,
+46. For the reasons discussed below, the motion (Doc. No. 36) will be granted.
+I. LEGAL STANDARD.
+A court should grant a motion for summary judgment “if the movant shows
+that there is no genuine dispute as to any material fact and the movant is entitled to
+1 The parties consented to the undersigned’s jurisdiction. Doc. Nos. 21-23.
+Stringer v. White Cap Supply Holdings, LLC Doc. 53
+Dockets.Justia.com-2-
+judgment as a matter of law.” Fed. R. Civ. P. 56(a). The movant “bears the initial
+burden of identifying for the district court those portions of the record ‘which it
+believes demonstrate the absence of a genuine issue of material fact.’” Cohen v.
+UnitedAm.BankofCent.Fla.,83F.3d1347, 1349(11thCir.1996)(quotingCoxv.Adm’r
+U.S. Steel & Carnegie, 17 F.3d 1386, 1396 (11th Cir. 1994), modified on other grounds, 30
+F.3d 1347 (11th Cir. 1994)). Once the movant carries its initial burden, the non-
+movant may avoid summary judgment by demonstrating an issue of material fact.
+Fitzpatrick v. City of Atlanta, 2 F.3d 1112, 1116 (11th Cir. 1993) (citation omitted). The
+non-movant must provide more than a “mere ‘scintilla’ of evidence” supporting its
+position, and “there must be enough of a showing that the jury could reasonably
+find for that party.” Walker v. Darby, 911 F.2d 1573, 1577 (11th Cir. 1990) (citing
+Anderson v. Liberty Lobby, 477 U.S. 242, 252 (1986)). In this analysis, the Court is only
+required to consider the materials cited by the parties, but it may consider other
+materials in the record. Fed. R. Civ. P. 56(c)(3).
+“A factual dispute is genuine ‘if the evidence is such that a reasonable jury
+could return a verdict for the nonmoving party.’” United States v. Four Parcels of Real
+Prop. in Green & Tuscaloosa Ctys. 941 F.2d 1428, 1437 (11th Cir. 1991) (quoting
+Anderson, 477 U.S. at 248). When analyzing a motion for summary judgment, a
+court draws all reasonable inferences from the evidence in the light most favorable
+to the non-movant and resolves all reasonable doubt in the nonmovant’s favor. See-3-
+Porter v. Ray, 461 F.3d 1315, 1320 (11th Cir. 2006) (citing Lubetsky v. Applied Card Sys.,
+Inc., 296 F.3d 1301, 1304 (11th Cir. 2002)). In addition, the court does not make
+credibility determinations when ruling on a motion for summary judgment. See
+Strickland v. Norfolk S. Ry. Co., 692 F.3d 1151, 1154 (11th Cir. 2012) (citing Anderson,
+477 U.S. at 255). However, “[the] court need not permit a case to go to a jury . . .
+when the inferences that are drawn from the evidence, and upon which the
+nonmovant relies, are ‘implausible.’” Mize v. Jefferson City Bd. of Educ., 93 F.3d 739,
+743 (11th Cir. 1996) (citation omitted). “When opposing parties tell two different
+stories, one of which is blatantly contradicted by the record, so that no reasonable
+jury could believe it, a court should not adopt that version of the facts for purposes
+of ruling on a motion for summary judgment.” Scott v. Harris, 550 U.S. 372, 380
+(2007).
+II. UNDISPUTED MATERIAL FACTS.2
+Thefollowing facts aretakenfromrecord evidencesubmittedbybothparties
+and are viewed in the light most favorable to Plaintiff.
+A. Plaintiff’s Employment.
+In August 2017, Plaintiff began working for Valencia College (“Valencia”) as
+a contractor. Valencia hired Plaintiff as a permanent employee in 2018, and in
+2 Pinpoint citations to all filings and exhibits, other than deposition transcripts, are
+to CM/ECF pagination. Because the deposition transcripts (Doc. Nos. 35-2, 35-3, 35-4, 35-
+5) are condensed versions, the Court cites to the deposition page.-4-
+March 2020, Plaintiff became a full-time remote worker for Valencia in the role of
+Project Manager, IT. See Doc. No. 1 ¶ 20; see also Doc. No. 35-22; Doc. No. 35-2, at
+38, 100, 134.
+In December 2020, Plaintiff also began working as a contractor for Defendant,
+and in June 2021, Defendant hired Plaintiff as a permanent, full-time employee for
+the position of IT Project Manager. Doc. No. 1 ¶ 21, Doc. No. 35-2, at 37, 52-57; Doc.
+No. 35-6. The parties dispute the meaning of “full-time” and whether Plaintiff had
+set hours while working for Defendant; her June 9, 2021 offer letter merely states
+“full-time” without explanation (Doc. No. 35-6), and while several of Defendant’s
+witnesses testified that the “typical” work hours were 8 a.m. to 5 p.m., (see, e.g., Doc.
+No. 35-3, at 36; Doc. No. 35-4, at 19; Doc. No. 35-5, at 39; see also Doc. No. 35-1 ¶ 3),
+Plaintiff testified that she was able to work whatever hours were necessary in order
+to complete assigned projects on time. See Doc. No. 35-2, at 53-57, 134, 163-166. But
+see Doc. No. 35-22. What is not in dispute, however, is that Plaintiff continued to
+work both full-time positions until her termination, and that she never informed
+Defendant that she was working full-time for Valencia. Doc. No. 35-2, at 99, 111,
+133-35; Doc. No. 35-22.
+Plaintiff’s employment with Defendant was not perfect. She received a 2021
+performance evaluation that noted “needs improvement” and Plaintiff’s
+“challenges” in several areas. Doc. No. 46-1. She was placed on a performance-5-
+improvement plan (“PIP”) by one of her former supervisors, Rhonda Lanier, in
+early 2022, which Plaintiff successfully completed on or about May 13, 2022. Doc.
+No. 35-2, at 81-84; Doc. No. 35-25; Doc. No. 35-26; Doc. No. 43-1; Doc. No. 46-2.3 At
+the time Plaintiff completed her PIP, her then supervisor, Suzan Abdurrahman,
+noted that Defendant expected continued improvement from Plaintiff in the areas
+of “attendance, communication, conflict resolution skills, and interpersonal soft
+skills,” and that while Plaintiff demonstrated improvement, there was “still work
+on your end to successfully demonstrate you are a [project manager] who is
+requested by various leaders.” Doc. No. 43-1. Plaintiff also was the subject of
+various counselings from her supervisors in 2023, which are discussed in more
+detail below.
+B. Plaintiff’s Requests for FMLA Leave.
+Plaintiff suffers from anxiety and depression, and while employed by
+Defendant she made several requests for FMLA leave. Doc. No. 35-2, at 67-71, 98-
+3 At various points in time during her employment with Defendant, Plaintiff
+reported to Rhonda Lanier, Project Management Office (“PMO”) Manager; Fran Moncrief,
+Program Manager; Suzan Abdurrahman, PMO Director; and Sherri Brown, Program
+Manager. Doc. No. 35-2, at 51, 57-59; Doc. No. 35-4, at 14; Doc. No. 35-26, at 1.-6-
+110. Those requests were handled by Defendant’s third-party administrator –
+Lincoln Financial Group (“Lincoln Financial”).4 Id. at 26-28; Doc. No. 35-9.
+Plaintiff first inquired about FMLA leave in May 2022, and Alyssa White,
+then a Senior HR Generalist for Defendant,5 directed Plaintiff to contact Lincoln
+Financial. Doc. No. 35-9, at 2. Plaintiff did so, and on June 24, 2022, Lincoln
+Financial approved Plaintiff’s request for short-term disability leave. Doc. No. 35-
+2, at 98-101; Doc. No. 35-7. Although Plaintiff submitted medical records to Lincoln
+Financial to support this request, she did not provide copies of those records to
+White or anyone else in HR. Doc. No. 35-9, at 2.
+A few days prior to Plaintiff’s August 8, 2022 return to work, Plaintiff
+contacted White about intermittent FMLA leave, and White advised Plaintiff to
+contact Lincoln Financial. Doc. No. 35-8; Doc. No. 35-9, at 2. Plaintiff thereafter
+made a request for intermittent FMLA leave, which Lincoln Financial initially
+denied on or about September 13, 2022. Doc. No. 35-9, at 19-20. Plaintiff
+resubmitted her request, which Lincoln Financial ultimately approved on
+November 8, 2022 for the period October 24, 2022 through October 23, 2023. Doc.
+No. 35-11; see also Doc. No. 35-9, at 3. Plaintiff was approved for unscheduled leave
+4 At some point, MetLife became Defendant’s third-party administrator for FMLA
+leave claims, but the precise date is not material to resolving Defendant’s motion. See, e.g.,
+Doc. No. 35-2, at 105, 118-19; Doc. No. 35-12.
+5 White is now Defendant’s HR Manager. Doc. No. 35-9, at 1.-7-
+of “1 day per episode 1 episode per month and 6 appointments per month.” Doc.
+No.35-11. Plaintiff hadsubmitted additionalmedicalrecordstosupport this FMLA
+leave request, but again did not provide copies of these records to White or anyone
+else in HR. Doc. No. 35-9, at 3.
+Plaintiff contends that she received “pushback” from her supervisor and HR
+regarding her use of intermittent FMLA leave, in that on one occasion she was told
+that she was not approved for FMLA leave although she ultimately took said leave,
+that Defendant’s Senior HR Manager Maggie Herman and others accused Plaintiff
+of abusing her FMLA leave and using it do other things, and of not really being sick,
+and that when she occasionally asked to take more FMLA leave then what had been
+approved, those requests were denied. Doc. No. 35-2, at 95-98, 102-12. It is
+undisputed, however, that Defendant did not deny any of the FMLA leave requests
+for which Plaintiff had been approved. See, e.g., Doc. No. 35-2, at 108-9; Doc. No.
+35-12.
+Plaintiff also testified that starting in February 2023, her supervisors and
+Herman began reprimanding her for behavior that she had engaged in for years
+without issue, to include Plaintiff’s ability to complete projects on time, and her
+involvement in a group chat with other project managers. Doc. No. 35-2, at 90-95.
+Plaintiff also points to a delay in access to a project manager “toolkit” in early 2023.
+Id. at 166-168. Plaintiff believes that these reprimands and toolkit delay were in-8-
+retaliation for her taking FMLA leave, however, other than Plaintiff’s own
+testimony, and with the exception of Plaintiff’s termination discussed below, there
+is no evidence that Plaintiff was ever subjected to any adverse employment action
+ordeniedany FMLA leaveorotherbenefitsrelatedtoherFMLArequestsandleave.
+C. Plaintiff’s Request for ADA Accommodations.
+During the time that Plaintiff was requesting and taking FMLA leave, she
+also started to discuss a possible ADA accommodation. Doc. No. 35-9, at 3-4. Such
+requests are handled by Defendant’s HR department. Id. at 1, 3-4, 18-23. By email
+dated September 13, 2022, White informed Plaintiff that she and her doctor would
+be required to complete Reasonable Accommodation Paperwork, and to return the
+completed forms to White. Doc. No. 35-9 at 19-20. White followed up on this
+paperwork by emails dated October 4, 2022 and October 10, 2022, but there is
+nothing in the record establishing that Plaintiff ever completed the paperwork. Id.
+at 18-23. Instead, Plaintiff suggested White simply reference the medical records
+Plaintiff provided to Lincoln Financial for her FMLA requests, but from the records
+White could access, there was no mention of any accommodations or work
+restrictions. Id. at 20-23.
+Nothing further happened until March 2, 2023, when Plaintiff contacted
+White and asked to initiate an ADA interactive process. Doc. No. 35-13, at 13; Doc.
+No. 35-9, at 3. White requested that Plaintiff’s medical provider complete an ADA-9-
+Medical Certification Form. Doc. No. 35-13, at 13-16; Doc. No. 35-9, at 3-4. On
+March 15, 2023, Plaintiff submitted the form to White, however Plaintiff filled out
+the form herself and directed White to reference her short-term disability and/or
+FMLA paperwork for more information. Doc. No. 35-13 at 10-12; Doc. No. 35-14.
+White informed Plaintiff that same day that the self-completed form was
+insufficient, and that it must be completed by Plaintiff’s medical provider, however
+Plaintiff again directed White to Plaintiff’s short-term disability and/or FMLA
+paperwork instead. Doc. No. 35-13, at 10-12.
+Following additional email communications between Plaintiff and White, on
+March 16, 2023, Plaintiff provided White with cropped screenshots of medical
+records that she had previously submitted to Lincoln Financial in June and October
+2022. Doc. No. 35-9, at 4; Doc. No. 35-13, at 9; Doc. No. 35-15. In a series of emails
+between March 20-23, 2023, White explained to Plaintiff the steps for the ADA
+interactive process; that the cropped screenshots were insufficient to support
+Plaintiff’s ADA accommodation request; that because Plaintiff’s diagnosed
+disability was “nonvisible,” Defendant could request documentation from a
+certified medical provider to show that the requested accommodation was needed
+to perform the essential duties of Plaintiff’s job; that the medical records previously
+provided were out of date and therefore more recent records (1-2 months old) were
+required; and that Plaintiff could either submit an ADA Medical Certification Form-10-
+completed by her medical provider, or submit current paperwork from her medical
+provider confirming whether any conditions have changed (for better or worse).
+Doc. No. 35-13, at 2-9.
+On March 31, 2023, Plaintiff provided to White a letter from Jennifer Cynthia
+Dasque, APRN, of Advent Health Medical Group Family Medicine that requested
+four (4) accommodations: (1) that Plaintiff be off camera for meetings intermittently
+upon request; (2) that all scheduled appointments be set for 9:00 am or later; (3) that
+Plaintiff be provided frequent 10-15 minute breaks every 2 hours from her personal
+computer, while still available via e-mail/chat/phone; and (4) that Plaintiff not
+work more than 40 hours per week. Doc. No. 35-9, at 4-5; see also Doc. No. 35-16.
+On April 17, 2023, Defendant approved all four (4) requests in full for a period of
+six (6) months. Doc. No. 35-17. See also Doc. No. 35-13, at 1; Doc. No. 35-9, at 5.6
+D. Plaintiff’s Termination.
+At some point in April 2023, Herman became aware that Plaintiff may have
+a second full-time job; specifically, Herman learned that Plaintiff’s name was listed
+as an IT project manager on Valencia’s website. Doc. No. 35-5, at 35-36; Doc. No.
+35-20. The circumstances surrounding how Herman became privy to this
+6 Plaintiff states that she was informally granted similar accommodations for years
+prior, but provides no record evidence to support this claim. Doc. No. 43, at 19.-11-
+information are unclear, although it is not common practice for Defendant to
+conduct online searches of their employees. Doc. No. 35-5, at 35-36.
+On April 13, 2023, Herman emailed Valencia’s HR department to determine
+whether Plaintiff was also working for Valencia full-time. Doc. No. 35-20, at 6.
+Herman disclosed in this email that Plaintiff was also currently employed with
+Defendant and had been for almost two (2) years. Id. The emails make no mention
+of Plaintiff’s FMLA or ADA status. Id. at 1-6.
+At some point between April 13-20, 2023, Herman spoke with someone in
+Valencia’s HR department and confirmed that Plaintiff was actively working full-
+time for Valencia. Doc. No. 35-20; Doc. No. 35-5, at 36-45. And through a series of
+phone calls and emails from April 20-21, 2023 between Herman and Lauren Kelly,
+Valencia’s Director of Employee Relations, Herman provided information to
+Valencia as to whether Plaintiff was working for Defendant on certain dates in 2022
+and 2023, and Kelly confirmed whether Plaintiff was working for Valenica between
+June 6, 2022 and August 8, 2022. Doc. No. 35-20, at 1-2. Herman testified at her
+deposition that she never discussed with anyone at Valencia Plaintiff’s FMLA leave
+or ADA accommodations, and the emails make no mention of Plaintiff’s FMLA or
+ADA status. Doc. No. 35-5, at 36, 56; Doc. No. 35-20. Plaintiff, however, believes
+that Herman informed two Valencia employees about Plaintiff’s ADA
+accommodations and told them that Plaintiff was abusing her FMLA leave to-12-
+maintain both jobs, and that Herman acted with the intent to defame Plaintiff and
+to cause Plaintiff to be fired. Doc. No. 35-2, at 149-151, 158. Plaintiff further testified
+that Herman could have confirmed Plaintiff’s employment without speaking to
+anyone at Valencia. Id. at 41. But other than Plaintiff’s testimony, she provides no
+evidence to support these beliefs.7
+On or about April 18, 2023, Herman informed Randy Fox, Defendant’s Chief
+Information Officer who oversees Defendant’s entire IT department, that Plaintiff
+was working a second full-time job at Valencia. Doc. No. 35-1 ¶¶ 1-2, 4. Herman
+confirmed to Fox that Plaintiff’s work hours at Valenica conflicted with her work
+hours for Defendant, and that Plaintiff had been working for Valencia the entire
+time she was employed by Defendant. Id. ¶ 4. Based on this information, including
+that Plaintiff had never asked permission to work for Valencia nor disclosed the
+existence of her job at Valencia to Defendant, Fox made the decision to terminate
+Plaintiff’s employment on April 18, 2023, and she was terminated effective April 19,
+2023. Id. ¶¶ 4-6; Doc. No. 35-21. The decision to fire Plaintiff was made only one
+(1) day after Plaintiff was informed that her ADA accommodation request had been
+approved. Doc. No. 35-1 ¶ 6; Doc. No. 35-13, at 1; Doc. No. 35-9, at 5.
+7 Plaintiff alleges in her complaint that Valencia and Defendant have a procedure
+where they use a third-party for employment verification, but has provided no evidence
+to support this assertion. Doc. No. 1 ¶ 39.-13-
+E. Defendant’s Outside Employment Policy.
+In Fox’s Declaration, submitted in support of Defendant’s summary
+judgment motion, Fox states he made the decision to terminate Plaintiff’s
+employment “solely because she violated the Outside Employment Policy,” which
+had been in effect for the entirety of Plaintiff’s employment with Defendant. Doc.
+No. 35-1 ¶ 7.
+Defendant has submitted two near identical copies of its “Outside
+Employment Policy and Procedure” (“OEPP”), one dated January 2021, the other
+January 2022. Doc. Nos. 35-18, 35-24. Defendant’s OEPP does not prohibit
+employees from working more than one job. Rather, the OEPP clearly prohibits
+employees from engaging in outside employment that would interfere with the
+employees’ ability to perform their job duties. The OEPP also prohibits changing
+any work assignments or schedules to accommodate outside employment, and
+prohibits employees from using work hours to conduct business related to the
+outside employment. In particular, the OEPP provides that if an employee is on a
+leave of absence for medical or personal reasons, the employee “may not accept
+outside employment if to do so is inconsistent with the reason(s) for the leave.”8
+Doc. No. 35-18, at 2; Doc. No. 35-24, at 2. Citing to Defendant’s Code of Business
+8 Plaintiff admitted at her deposition that she would at times work for Valencia
+while she was on FLMA leave with Defendant. Doc. No. 35-2, at 99, 111-12.-14-
+Conduct & Ethics, the OEPP further states that there can be no conflict of interest
+between the employee’s work for Defendant and the outside employment, and
+defines a conflict of interest as “when an associate’s personal interests affect, or
+appear to affect, an associate’s support of White Cap or judgment associated with
+any White Cap-related duties.” Doc. No. 35-18, at 1-2; Doc. No. 35-24, at 1-2.
+While Defendant contends that the OEPP has been in effect throughout
+Plaintiff’s employment and that Plaintiff previously acknowledged receipt of the
+OEPP (see, e.g., Doc. No. 35-9, at 5-6), Plaintiff testified that she never reviewed the
+OEPP,neveragreedtocomplywiththeOEPP,andthattheOEPPwasinfactcreated
+only after her termination. Doc. No. 35-2, at 129-33, 185-86. While the question of
+the existence of the OEPP is largely undisputed, the question of whether Plaintiff
+was aware of and consented to it remains at issue.9
+9 Plaintiff incorrectly states that White and Herman testified that the OEPP did not
+exist until after Plaintiff’s termination. Doc. No. 43, at 7. To the contrary, both White and
+Herman testified that the OEPP was in full effect during Plaintiff’s employment. Doc. No.
+35-3, at 14-15, 35-36, 44-47; Doc. No. 35-9, at 5; Doc. No. 35-5, at 54-55. The only other
+evidence Plaintiff points to is her own testimony, which relies on hearsay statements from
+unspecified other persons, and the testimony of her former supervisor,SherriBrown. Doc.
+No. 35-2, at 129-33; see also Doc. No. 35-4, at 13-14, 40-41. But Brown’s testimony is
+inconsistent, at one point she testified that she was not aware of any dual employment
+policy until an email from Randy Fox was distributed, while on the other hand, she
+testified that she recalls taking dual employment training. Doc. No. 35-4, at 13-14, 40-41.
+And Plaintiff has not submitted a copy of the Fox email either. See Ellis v. England, 432 F.3d
+1321, 1326 (11th Cir. 2005) (“For factual issues to be considered genuine, they must have a
+real basis in the record[;] . . . mere conclusions and unsupported factual allegations are
+legally insufficient to defeat a summary judgment motion.” (citations omitted)).-15-
+Defendant states that the OEPP is part of its Code of Ethics, that every full-
+time employee must complete onboarding training at the start of their employment,
+which includes compliance training as wellas review of the Code of Ethics, and that
+Plaintiff completed this training on July 7, 2021 and again on May 17, 2022. Doc.
+No. 35-9, at 5-6. To support this assertion, Defendant has provided a copy of a
+computer printout listing various digital courses that Plaintiff completed, but for
+July 7, 2021 it shows Plaintiff completing a “Company Policy Affirmation” digital
+course, and there is no mention of a Code of Ethics or OEPP, and for May 17, 2022,
+theprintout shows thatPlaintiffcompleted an“Ethicsand Code ofConduct”digital
+course, but again there is no mention of the OEPP. Doc. No. 35-9, at 27.10 Defendant
+has also submitted a “true and correct copy”” of a two-page “Policy Affirmation
+Requirements” form that Defendant contends Plaintiff electronically signed, but
+this copy is not filled out, nor is it signed or dated by Plaintiff. Doc. No. 35-9, at 5-
+6, 29-30; see also Doc. No. 35-19. In other words, these documents do not support
+Defendant’s assertions. Therefore, in order to state that Plaintiff was or was not
+aware of the OEPP prior to her termination, the Court would have to make a
+credibility assessment, which is a task left to the jury. And given that the Court
+10 Defendant has not submitted a complete copy of either the Company Policy
+Affirmation or the Ethics and Code of Conduct course.-16-
+must take all factual inferences in the light most favorable to the Plaintiff, the Court
+will assume for purposes of this Order that Plaintiff was not aware of the OEPP.
+What is undisputed, however, is that at the time Fox made his decision to fire
+Plaintiff, he did not know whether Plaintiff had a disability, was not aware of any
+requests for ADA accommodations, and was not aware of any FMLA leave requests
+or leave usage. Doc. No. 35-1 ¶¶ 8-10. Fox was not involved in handling or
+approving accommodation or leave requests, and to the best of his knowledge he
+never had a one-on-one conversation with Plaintiff. Id. ¶ 11.
+Following Valencia’s discussion with Herman, Valencia conducted its own
+investigation, and on May 12, 2023, Valencia terminated Plaintiff’s employment on
+the basis of Plaintiff’s employment with Defendant, her failure to disclose same to
+Valencia, and various inconsistent statements Plaintiff made during Valencia’s
+investigation. Doc. No. 35-22.
+III. DISCUSSION.
+Plaintiff has asserted four (4) claims against Defendant: a claim for failure to
+provide reasonable accommodations as well as disability discrimination in
+violation of the ADA (Count I); retaliation in violation of the ADA and in violation
+of the FMLA (Counts II and III); and a claim for tortious interference with Plaintiff’s
+business relationship with Valencia (Count IV). Defendant seeks summary
+judgment as to all four (4) claims.-17-
+A. Failure to Accommodate (Count I).
+To establish a prima facie ADA discrimination claim, Plaintiff must show that
+(1) she is disabled; (2) she is a qualified individual; and (3) she was subjected to
+unlawful discrimination because of her disability. Beasley v. O'Reilly Auto Parts, 69
+F.4th 744, 754 (11th Cir. 2023). “Under the ADA, unlawful discrimination includes
+‘not making reasonable accommodations to the known physical or mental
+limitations of an otherwise qualified individual with a disability’ unless doing so
+‘would impose an undue hardship’ on the employer.” Id. (quoting 42 U.S.C.
+§ 12112(b)(5)(A)).
+In her complaint, Plaintiff references two different accommodation requests:
+one made on an unspecified date in September 2022, and the other made on March
+15, 2023. Doc. No. 1 ¶¶ 24, 29. See also Doc. No. 35-9, at 18-23.11 As to the September
+2022 request, Defendant argues that Plaintiff’s claim is time-barred, as Plaintiff
+dual-filed her charge of discrimination with the Georgia Commission on Equal
+Opportunity and the EEOC on October 3, 2023, and Plaintiff’s charge only discusses
+disability discrimination related to her March 2023 request for accommodations.
+Doc. No. 36, at 11; see also Doc. No. 35-23. Plaintiff does not address this argument
+11 In her response, Plaintiff for the first time also mentions an “August 2022” time
+period. Doc. No. 43, at 19. Plaintiff points to no record evidence to support this date, and
+in any event, an August 2022 request for accommodation would still be time-barred.-18-
+in her response, therefore it would appear that this claim has been abandoned. See
+Doc. No. 43; see also Jones v. Bank of Am., N.A., 564 F. App’x 432, 434 (11th Cir. 2014)12
+(When “a party fails to respond to an argument or otherwise address a claim, the
+Court deems such argument or claim abandoned.” (citation and internal quotation
+marks omitted)).13
+The Court agrees with Defendant. “To file a claim for employment
+discrimination under the ADA, the plaintiff must first exhaust his administrative
+remedies, beginning by filing a charge of discrimination with the EEOC.” Coley v.
+Shaw Indus., No. 21-10545, 2021 WL 4429818, at *1 (11th Cir. Sept. 27, 2021) (citing
+Maynard v. Pneumatic Prods. Corp., 256 F.3d 1259, 1262 (11th Cir. 2001) and 42 U.S.C.
+§ 12117(a) (incorporating the enforcement provisions of 42 U.S.C. § 2000-5)).
+Ordinarily, a charge of discrimination must be filed with the EEOC within 180 days
+of the allegedly unlawful employment practice, but the period for filing a charge
+with the EEOC may be extended to 300 days if the complainant first files a timely
+charge in a state or local agency in a “deferral state.” Maynard, 256 F.3d at 1262-63
+12 Unpublished opinions of the Eleventh Circuit are cited as persuasive authority.
+See 11th Cir. R. 36–2.
+13 Defendant also argues that Plaintiff never actually made a request for an ADA
+accommodation in September 2022, Doc. No. 36, at 10-11, but the Court need not reach that
+issue given that Plaintiff never exhausted her administrative remedies in any event. See
+also D'Onofrio v. Costco Wholesale Corp., 964 F.3d 1014, 1022 (11th Cir. 2020) (The employer’s
+“duty to provide a reasonable accommodation is not triggered unless a specific demand
+for an accommodation has been made by an employee.” (citation and quotation marks
+omitted)).-19-
+(citing 42 U.S.C. § 2000e–5(e)(1) (1994)). The burden of proving compliance with
+these time provisions rests with the plaintiff. Id. at 1262.
+Here, Plaintiff never filed any charge in Florida, which is a deferral state;
+rather she dual-filed her charge in Georgia, which is not a deferral state, therefore
+the 180-day period applies. See Watson v. Blue Circle, Inc., 324 F.3d 1252, 1258 (11th
+Cir. 2003) (explaining that “[b]ecause Georgia is a non-deferral state, [the plaintiff]
+was required to file a Charge of Discrimination within 180 days of the alleged
+unlawful employment action.” (citation omitted)); Wilkerson v. Grinnell Corp., 270
+F.3d 1314, 1317 (11th Cir. 2001) (explaining that for an EEOC charge of
+discrimination to be timely in a non-deferral state such as Georgia, it must be filed
+within 180 days of the last discriminatory act). Plaintiff did not file her charge until
+October 3, 2023, thus, any request for accommodations Plaintiff made in September
+2022 istime-barred,andDefendant is entitledtosummary judgment. See,e.g.,Garry
+v. Walgreen Co., No. 1:12-cv-139 WLS, 2013 WL 3449196, at *2 (M.D. Ga. July 9, 2013)
+(“Plaintiff’s failure to file her EEOC charge within the 180–day period, coupled with
+her failure to allege any equitable exceptions, dictate that her [Title VII and ADA]
+claims be dismissed as time barred.” (citations omitted)); Henderson v. Salvation
+Army, No. 1:20-cv-05144-SEG-JCF, 2022 WL 22329131, at *9 (N.D. Ga. July 12, 2022),
+report and recommendation adopted, No. 1:20-cv-5144-SEG-JCF, 2022 WL 22329145
+(N.D. Ga. Aug. 8, 2022) (granting summary judgment on Title VII and ADA claims-20-
+as time-barred where plaintiff filed EEOC charge two days after the expiration of
+the 180-day period).14
+Turning to Plaintiff’s March 15, 2023 accommodation request, Defendant
+contends that it is entitled to summary judgment because Defendant granted
+Plaintiff’s request in full on April 17, 2023. Doc. No. 36, at 11-13; see also Doc. No.
+35-13, at 1; Doc. No. 35-9, at 4-5. Plaintiff concedes that her requests were ultimately
+approved, see Doc. No. 43, at 5-6, 20; Doc. No. 35-2, at 126-27, but argues that
+Defendant’s delay in approval and requests for additional paperwork constitute a
+“constructive denial” of Plaintiff’s requested accommodation and a violation of the
+ADA. See Doc. No. 43, at 10, 19-20. Plaintiff also appears to argue that Defendant
+did not engage in the interactive process. Id. at 2, 13, 20-21; see also 29 C.F.R.
+14 Defendant cites only to the 300-day time period that applies in deferral states.
+Doc. No. 36,at 11. Evenif Defendant were correct,Plaintiff’sOctober 3,2023charge would
+still fall outside the longer 300-day limitations period with respect to any accommodation
+requests made in September 2022, rendering her claim time barred. See Serian v. JetBlue
+Airways Corp., No. 6:23-cv-2471-JSS-LHP, 2025 WL 1685258, at *3 (M.D. Fla. June 16, 2025),
+aff'd, No. 25-12433, 2026 WL 752755 (11th Cir. Mar. 17, 2026) (granting summary judgment
+on ADA failure to accommodate claim where plaintiff did not file a charge within 300 days
+of the date that the employer denied the request for accommodation). And to the extent
+Plaintiff argues in her response that her March 2023 request somehow revived her
+September 2022 request, thereby restarting thetime clock,“’any subsequent request for the
+same accommodation does not, and cannot, restart the statute of limitations period.’” Id.
+(quoting Campbell v. Boies, Schiller, Flexner LLP, 543 F. Supp. 3d 1334, 1344 (S.D. Fla. 2021)).-21-
+§ 1630.2(o)(3) (permitting an interactive process to determine reasonableness of an
+accommodation).15
+Uponreview, theCourtagain agrees with Defendant. Taking theundisputed
+facts in the light most favorable to Plaintiff, it is clear that Defendant initiated the
+interactive process in March 2023, that Defendant repeatedly requested medical
+documentation from Plaintiff, who refused to comply until March 31, 2023, and that
+once the documentation was provided, Defendant granted Plaintiff’s requests – in
+full – a mere 17 days later. Plaintiff provides no legal authority suggesting that this
+brief delay in granting her requested accommodations, particularly where Plaintiff
+initially refused to provide the necessary medical documentation to support her
+request, constitutes a violation of the ADA,16 and no reasonable jury would find
+that Defendant violated the ADA under these undisputed facts.
+15 Plaintiff states that on April 17, 2023 she “disputed inaccuracies in the ADA
+approval letter and noted the lack of an interactive process” and was terminated two days
+later. Doc. No. 43, at 2. The record cites that Plaintiff references to support this statement
+either do not exist (Doc. No. 35-3, at 57:19-58:11; Doc. No. 35-5, at 72:15-74:2), or do not
+establish that Plaintiff engaged in any such conduct. Doc. No. 35-17. In addition, Plaintiff
+cites to Nadler v. Harvey, No. 06-12692, 2007 WL 2404705, at *9 (11th Cir. Aug. 24, 2007) to
+support her argument that Defendant did not maintain an interactive process and
+therefore must be held liable. Doc. No. 43, at 2. But Nadler addresses the question of
+whether the McDonnell Douglas burden shifting analysis applies to claims for reasonable
+accommodation, and the word “interactive” is nowhere mentioned in that case. And the
+Court is at a loss as to why Plaintiff cites to Kolstad v. American Dental Association, 527 U.S.
+526, 536 (1999), (Doc. No. 43, at 21), which addresses whether punitive damages are
+available under Title VII.
+16 Plaintiff cites to Stewart v. Happy Herman’s Cheshire Bridge Inc., 117 F.3d 1278, 1286
+(11th Cir. 1997) and Todd v. Fayette County School District, 998 F.3d 1203, 1214 (11th Cir.-22-
+The Court will therefore grant summary judgment in favor of Defendant as
+to Plaintiff’s failure to accommodate claim. See, e.g., Palmer v. McDonald, No. 8:13-
+cv-01784-T-02JSS, 2019 WL 1490667, at *10-12 (M.D. Fla. Apr. 4, 2019), aff'd, 824 F.
+App'x 967 (11th Cir. 2020) (granting summary judgment on ADA accommodation
+claim and finding two-month delay in approval of accommodation not
+unreasonable, where delay “is at least in part attributable to Plaintiff’s failure to
+promptly provide medical documentation”); Russell v. City of Tampa, No. 8:14-cv-
+814-T-17AEP, 2015 WL 5871189, at *4 (M.D. Fla. Oct. 5, 2015), aff'd, 652 F. App'x 765
+(11th Cir. 2016) (“This Court cannot find a 28–day delay in the granting of an
+accommodation as unreasonable under the ADA. Employers must be given an
+opportunity to process requests for accommodation and institute appropriate
+remedial measures.”); Harrison v. Fulton Cnty., Ga., No. 1:13-cv-03553-ODE-WEJ,
+2016 WL 10536024, at *20 n.37 (N.D. Ga. Oct. 31, 2016), report and recommendation
+adopted, No. 1:13-cv-3553-ODE-WEJ, 2017 WL 5382141 (N.D. Ga. Jan. 18, 2017), aff'd,
+735 F. App'x 579 (11th Cir. 2018) (An “employer’s unreasonable delays in
+identifying and implementing reasonable accommodations can constitute a lack of
+good faith for purposes of the interactive process, and can serve as evidence of an
+2021) to support her contention that a delay in granting a requested accommodation
+violates the ADA. Doc. No. 43 at 10, 20. However, neither case even suggests such a legal
+doctrine, but rather involve situations where an employer provided accommodations
+(Stewart), orprovidedalegitimatenon-discriminatoryreasonforterminatingtheplaintiff’s
+employment (Todd).-23-
+ADA violation. However, the record shows no unreasonable delays here. Once
+plaintiff requested accommodation, the County moved quickly by requesting
+information from his doctor. Although the process took two months, half of that
+delay was caused by plaintiff’s doctor. In any event, even if the County had been
+responsible for the entire two-month delay, plaintiff could not complain, as other
+courts have excused much longer delays.” (citations and internal quotation marks
+omitted)). See also D’Onofrio v. Costco Wholesale Corp., 964 F.3d 1014, 1022 (11th Cir.
+2020) (“Under the ADA, an employer will not be liable for failure to accommodate
+if the employee is responsible for the breakdown of the interactive process.”
+(citation omitted)); 29 C.F.R. Pt. 1630, App. (“When the need for an accommodation
+is not obvious, an employer, before providing a reasonable accommodation, may
+require that the individual with a disability provide documentation of the need for
+accommodation.”).
+B. Disparate Treatment Discrimination (Count I).
+Plaintiff also alleges she was terminated due to her disability, in violation of
+the ADA. Doc. No. 1 ¶ 58. “The ADA prohibits an employer from discriminating
+against a ‘qualified individual on the basis of disability.’” McCarroll v. Somerby of
+Mobile, LLC, 595 F. App'x 897, 899 (11th Cir. 2014) (quoting 42 U.S.C. § 12112(a)). A
+plaintiff may prove disparate treatment discrimination by providing direct
+evidence of discrimination, that is, evidence that “if believed, proves the existence-24-
+of a fact without inference or presumption” and includes “[o]nly the most blatant
+remarks, whose intent could mean nothing other than to discriminate on the basis
+of some impermissible factor.” Todd v. Fayette County Sch. Dist., 998 F.3d 1203, 1215
+(11th Cir. 2021) (citations omitted). In the absence of direct evidence, a plaintiff may
+provide circumstantial evidence of discrimination pursuant to the McDonnell
+Douglas burden-shifting framework. Akridge v. Alfa Ins. Cos., 93 F.4th 1181, 1191
+(11th Cir. 2024); Todd, 998 F.3d at 1215–16.
+In her response, Plaintiff contends that the record contains both direct and
+circumstantial evidence of discrimination. Doc. No. 43, at 2. However, Plaintiff
+does not point to any direct evidence; rather, Plaintiff cites to the temporal
+proximity between Plaintiff’s requested accommodation and her termination, the
+delay in approving her ADA accommodations, that other employees of Defendant
+were able to engage in outside employment without repercussions, that
+Defendant’s reason for terminating Plaintiff shifted, and that Plaintiff was not
+aware of nor agreed to the OEPP as proof of Defendant’s discriminatory animus.17
+17 At other points, Plaintiff references facts that simply do not exist in the record.
+For example, Plaintiff claims that “Valencia officials confirmed their decision relied on
+[Defendant’s] false claims,” and that “Herman misrepresented to Valencia College that
+Plaintiff was required to work only 9:00 a.m. to 5:00 p.m. as an ADA accommodation.”
+Doc. No. 43, at 4, 21. But Plaintiff submitted no evidence to support these assertions, the
+email chain between Herman and Valencia nowhere mentions any ADA accommodations
+or work schedule, and Valencia’s Notice of Dismissal discusses Plaintiff’s own admissions
+on several of these points. See Doc. No. 35-20; Doc. No. 35-22.-25-
+Doc No. 43, at 4, 9-12, 19-20. But none of these facts rise to the level of direct
+evidence as they are susceptible to differing interpretations, and therefore require
+inferences and presumptions to support a finding of discrimination. See Merritt v.
+Dillard Paper Co., 120 F.3d 1181, 1189 (11th Cir. 1997) (“[D]irect evidence . . . [is]
+evidence, which if believed, proves [the] existence of [a] fact in issue without
+inference or presumption. Evidence that only suggests discrimination, or that is
+subject to more than one interpretation, does not constitute direct evidence.”
+(citations and internal quotation marks omitted). Accordingly, the Court will
+evaluate Plaintiff’s ADA claim based on circumstantial evidence. Redish v. Blair,
+No. 5:14-cv-260-Oc-22PRL, 2016 WL 890083, at *3 (M.D. Fla. Mar. 9, 2016) (“Plaintiff
+argues that she was terminated because of her condition. Plaintiff has offered
+evidence regarding the facts surrounding her EEOC charge and argued against the
+validity of the Operations Directive. Neither show discriminatory intent without
+having to draw further inferences . . . . Therefore, the evidence currently before the
+Court is circumstantial.”); see also Zwick v. Univ. of S. Fla. Bd. of Trs., 505 F. Supp. 3d
+1317, 1336 (M.D. Fla. 2020) (applying circumstantial evidence analysis where
+plaintiff complained “of no flagrantly discriminatory remark . . . that, if believed,
+would constitute direct evidence of discrimination.”).
+Under the McDonnell Douglas burden shifting framework, an ADA plaintiff
+establishes a prima facie case of disability discrimination by showing that (1) she has-26-
+a disability; (2) that she is a qualified individual under the ADA; and (3) that her
+employer discriminated against her on the basis of her disability. Akridge, 93 F.4th
+at 1191-92 (citing Beasley v. O’Reilly Auto Parts, 69 F. 4th 744, 754 (11th Cir. 2023) and
+42 U.S.C. § 12112(a)). If the plaintiff establishes her prima facie case, the burden of
+production shifts to the employer to articulate a legitimate, non-discriminatory
+reason for the decision. Id. at 1191 The burden then shifts back to the plaintiff “to
+present sufficient evidence creating a genuine issue of material fact that the
+employer’s reason is pretext for discrimination.” Id. (citation omitted).
+Defendant does not challenge the first two prongs of Plaintiff’s prima facie
+case, rather, Defendant argues that the undisputed material facts do not establish
+that Plaintiff was terminated because of her disability. See Akridge, 93 F.4th at 1192
+(To prove that discrimination occurred “because of” a plaintiff’s disability, plaintiff
+must show that the adverse employment action would not have occurred “but for”
+plaintiff’s disability). Specifically, Defendant points to the fact that Randy Fox, the
+sole decisionmaker as to Plaintiff’s termination, had no knowledge of Plaintiff’s
+disability, and that Plaintiff has failed to identify any similarly situated comparator.
+Doc. No. 36, at 14-19.
+“[A]n employee cannot be fired ‘because of’ a disability unless the
+decisionmaker has actual knowledge of the disability.” Cordoba v. Dillard's, Inc., 419
+F.3d 1169, 1185 (11th Cir. 2005). Defendant has submitted undisputed evidence in-27-
+theformofFox’sdeclaration,inwhichheaversthatatthetimehemadethedecision
+to terminate Plaintiff’s employment he had no knowledge of Plaintiff’s disability or
+her requested accommodations. Doc. No. 35-1. And the Court cannot impute
+Herman’s knowledge on to Fox. See Silvera v. Orange Cnty. Sch. Bd., 244 F.3d 1253,
+1262 (11th Cir. 2001) (finding reversible error where district court imputed
+knowledge of supervisor onto the decision-making Board, because
+“[d]iscrimination is about actual knowledge, and real intent, not constructive
+knowledge and assumed intent”).
+In response, Plaintiff points to the timing of her termination – two days after
+she was notified that her accommodation request had been granted – and the issues
+of fact surrounding whether Plaintiff was aware of and agreed to the OEPP policy.
+Doc.No.43,at19-22. However,“anemployeecannotbefiredbecauseofadisability
+unless the decisionmaker has actual knowledge of the disability.” Payne v. Goodyear
+Tire & Rubber Co., 760 Fed. Appx. 803, 809–10 (11th Cir. 2019) (citations omitted).
+Taking these issues of fact in the light most favorable to Plaintiff, it remains
+undisputed that Fox was not aware of Plaintiff’s disability at the time she was
+terminated, and in the absence of such knowledge, Plaintiff cannot establish that
+Fox made the decision to terminate her because of her disability, and therefore she-28-
+cannot establish her prima facie case.18 See, e.g., Sanichara v. GEICO Gen. Ins. Co., No.
+8:24-cv-2635-VMC-AAS, 2026 WL 113612, at *7 (M.D. Fla. Jan. 15, 2026) (absent
+evidence that decisionmakers had actual knowledge of the disabilities, plaintiff
+cannot establish a prima facie case); Campbell v. Boies, Schiller, Flexner LLP, 543 F.
+Supp. 3d 1334, 1342 (S.D. Fla. 2021) (granting summary judgment on ADA claim for
+discriminatory termination where defendant adduced evidence that the
+decisionmaker who terminated plaintiff did not have actual knowledge of her
+disability, plaintiff failed to cite to any evidence in the record in rebuttal, and the
+court refused to impute knowledge possessed by others onto the decisionmaker);
+Pecora v. ADP, LLC, 232 F. Supp. 3d 1213, 1219 (M.D. Fla. 2017) (“Under the
+causation analysis explicated by the Eleventh Circuit, the employer’s agent who
+makes the termination decision must have actual knowledge of the employee’s
+disability in order for the employee to establish that the disability was a causal
+factor in the employer’s action. Even when the employee’s direct supervisor has
+knowledgeofinformationindicatingthat anemployeesuffersfromadisability,that
+18 Plaintiff continues to argue that the OEPP did not exist until after her firing, but
+even if Plaintiff were able to at least create an issue of fact on this point, it would not aid
+her cause. See Flowers v. Troup Cty., Ga., Sch. Dist., 803 F.3d 1327, 1338 (11th Cir. 2015) (“Put
+frankly, employers are free to fire their employees for ‘a good reason, a bad reason, a
+reason based on erroneous facts, or for no reason at all, as long as its action is not for a
+discriminatory reason.’” (quoting Nix v. WLCY Radio/Rahall Commc'ns, 738 F.2d 1181, 1187
+(11th Cir. 1984))).-29-
+information will not be imputed to the employer when the supervisor is not the one
+making the termination decision.” (citing Cordoba, 419 F.3d at 1174-75)).19
+Plaintiffalsoarguesthatshecanestablish herprimafaciecaseviathecat’spaw
+theory of causation. Doc. No. 43, at 4, 14-16. “The cat's paw theory provides that
+discriminatory animus may be imputed to a neutral decision-maker if a supervisor
+recommends an adverse employment action due to a discriminatory animus and
+that recommendation is a motivating factor of the decision-maker’s ultimate
+adverse employment action.” Quintero v. Publix Super Markets, Inc., No. 18-cv-
+21615, 2020 WL 607117, at *2 (S.D. Fla. Feb. 7, 2020) (citing Staub v. Proctor Hospital,
+562 U.S. 411, 422 (2011)). See also Harrison v. Belk, Inc., No. 17-14839, 2018 WL
+4211587, at *4 (11th Cir. Sept. 5, 2018) (“Under a ‘cat’s paw’ theory, liability may be
+establishediftheplaintiffshowsthatthedecisionmakermerely ‘followedthebiased
+recommendation [of a non-decisionmaker] without independently investigating
+the complaint against the employee.’” (citation omitted) (alteration in original)).
+19 Plaintiff cites to Connelly v. WellStar Health Sys., Inc., 758 F. App'x 825, 829 (11th
+Cir. 2019) and Silvera v. Orange Cnty. Sch. Bd., 244 F.3d 1253, 1262 (11th Cir. 2001) for the
+proposition that “knowledge and causation may be inferred from timing and context.”
+Doc. No. 43, at 21-22. But neither of these cases stand for this proposition. Rather, in
+Connelly, the Eleventh Circuit addressed pretext, and found that the plaintiff failed to
+allege any specific evidence that would permit a reasonable factfinder to conclude that her
+former employer’s proffered legitimate, non-discriminatory reason for her termination
+was pretextual. See Connelly, 758 F. App’x, at 829-31. And Silvera states the exact opposite
+conclusion. See Silvera, 244 F.3d at 1262 (“Discrimination is about actual knowledge, and
+real intent, not constructive knowledge and assumed intent.”). See also Howard v. Steris
+Corp., 550 F. App'x 748, 751 (11th Cir. 2013) (“Howard argues that the decision makers had
+constructive notice of his sleep disorder. This argument fails[.]” (emphasis in original)).-30-
+Plaintiff contends that the record evidence shows (or at least creates genuine issues
+of fact) that Herman possessed a discriminatory animus towards Plaintiff, and that
+Fox relied entirely on Herman’s actions in deciding to terminate Plaintiff. Doc. No.
+43, at 14-16.
+Even assuming that Plaintiff has sufficiently created a fact issue that Herman
+possessed a disability-based discriminatory animus towards Plaintiff, the problem
+with Plaintiff’s argument – as Defendant points out in its reply – is that in order for
+the cat’s paw theory to apply, Plaintiff must point to record evidence demonstrating
+that Herman made some sort of recommendation to Fox that he rubber stamped, or
+that Herman’s conduct had a “determinative influence” on Fox’s decision to
+terminate Plaintiff. See Doc. No. 46, at 4. And on this point, Plaintiff fails.
+The evidence before the Court is undisputed; Herman reported accurately to
+Fox that Plaintiff was working full time for Valencia while also working full time
+for Defendant. And there is nothing in the record even suggesting that Herman
+made any sort of recommendation to Fox, or that Herman was otherwise involved
+in the decision to terminate Plaintiff. Herman simply reported the facts, and Fox
+made a decision based upon his own evaluation of those facts. As such, Plaintiff’s
+cat’s paw theory fails. See, e.g., Joyce v. Sewon C&A Inc., No. 2:21-cv-355-WKW, 2022
+WL 6766144, at *6-7 (M.D. Ala. Oct. 11, 2022) (rejecting cat’s paw theory of causation
+where the allegedly biased subordinate employee “never recommended a course of-31-
+action and rather sent complaints of misconduct up the chain of command”); Lewis
+v. Kendall, No. 5:18-cv-263-TKW-MJF, 2022 WL 19408074, at *4-5 (N.D. Fla. Dec. 12,
+2022) (rejecting cat’s paw theory “because it is undisputed that Davis merely
+reported the Plaintiff’s misconduct and did not make any recommendation of
+adverse action to the unknowing decisionmaker.”); Brooks v. Hyundai Motor Mfg.
+Ala., LLC, No. 2:09-cv-384-WKW, 2010 WL 3614168, at *10 (M.D. Ala. Sept. 8, 2010),
+aff'd, 444 F. App'x 385 (11th Cir. 2011) (rejecting cat’s paw theory where the
+allegedly biased employee did not make any recommendation that the plaintiff be
+fired, but only truthfully and accurately notified superiors that plaintiff left work
+early). Cf. Godwin v. WellStar Health Sys., Inc., 615 F. App’x 518, 528-530 (11th Cir.
+2015) (denying summary judgment where record created genuine issues of material
+fact that non-decisionmaker who recommended plaintiff’s termination was biased
+against plaintiff due to her age, and where decisionmaker testified that he would
+not have terminated plaintiff without the recommendation).
+Plaintiff places great emphasis on the fact that Fox did not conduct an
+independent investigation of the information Herman reported, merely “rubber
+stamping” Herman’s actions. Doc. No. 43, at 14-16. However, as Fox stated in his
+declaration, he reviewed the information Herman provided, and he alone made the
+decision to terminate Plaintiff, based on his determination that Plaintiff violated the
+OEPP. Doc. No. 35-1. See Pennington v. City of Huntsville, 261 F.3d 1262, 1270 (11th-32-
+Cir.2001) (where a decisionmaker conducts her own evaluation and makes an
+independent decision, her decision is “free of the taint of a biased subordinate
+employee”); Hodge v. Orlando Utilities Comm'n, No. 6:09-cv-1059-Orl-19, 2011 WL
+250400, at *10 (M.D. Fla. Jan. 26, 2011) (“[A]n independent investigation does not
+necessarily require independent verification of the facts underlying the allegedly
+biased recommendation, so long as an independent analysis of those facts is
+conducted.”). Moreover, Plaintiff cites no legal authority mandating that an
+independent investigation take place in order to avoid application of the cat’s paw
+theory. Rather, it is but one factor to consider, and here, where it is undisputed that
+Herman made no recommendations to Fox and played no role in the decision to
+terminate Plaintiff’s employment, the information provided to Fox was accurate,
+and Fox reached his own conclusion to terminate Plaintiff, no reasonable factfinder
+would conclude that Plaintiff’s disability was the “but-for” cause of her
+termination.20 See Dwyer v. Ethan Allen Retail, Inc., 325 F. App’x 755, 758 (11th Cir.
+20 Plaintiff cites to Blash v. City of Hawkinsville, 856 F. App'x 259, 263 (11th Cir. 2021)
+and Rudy v. Walter Coke, Inc., 613 F. App'x 828, 832 (11th Cir. 2015) to support her cat’s paw
+theory. Doc. No. 43, at 14. Not only are Plaintiff’s pinpoint citations to both cases incorrect
+(for example there is no page 832 in Rudy), but neither decision supports Plaintiff’s
+argument. Blash involved a biased supervisor who recommended plaintiff’s termination,
+and there was record evidence that the biased supervisor was directly involved in the
+termination decision. Blash, 856 F. App’x at 265-66. And the Eleventh Circuit in Rudy
+affirmedsummaryjudgmentwheretherewasnothingintherecordbeyondplaintiff’sown
+speculation that the decisionmaker was aware of plaintiff’s medical condition, and the
+undisputed evidence showed that the allegedly biased supervisor “was uninvolved with
+the termination process beyond reporting the complaint” – nearly the precise situation
+here. Rudy, 613 F. App’x at 831.-33-
+2009) (evidence that the allegedly biased subordinate “made no recommendation
+to [the decision-maker] about the course of action to take on [the plaintiff]” was an
+additional fact weighing against a cat’s paw theory of liability).
+Plaintiff next argues that she can establish her ADA discrimination claim by
+pointing to a convincing mosaic of circumstantial evidence that would allow a jury
+to infer intentional discrimination. Doc. No. 43, at 9, 13, 19-21. See Ismael v.
+Roundtree, 161 F.4th 752, 761 (11th Cir. 2025) (“[A] plaintiff who cannot establish the
+McDonnell Douglas prima facie case is entitled to a full review under the convincing
+mosaic standard.”). “A ‘convincing mosaic’ may be shown by evidence that
+demonstrates, among other things, (1) ‘suspicious timing, ambiguous statements. .
+., and other bits and pieces from which an inference of discriminatory intent might
+be drawn,’ (2) systematically better treatment of similarly situated employees, and
+(3) that the employer’s justification is pretextual.” Lewis v. City of Union City, 934
+F.3d 1169, 1185 (11th Cir. 2019) (citation omitted). The convincing mosaic approach
+“is not more forgiving than the [McDonnell Douglas framework] on the final
+question, which is whether a reasonable jury could infer illegal discrimination.”
+McCreight v.AuburnBank,117F.4th1322,1335(11thCir.2024). Andasrelevanthere,
+“the inference to be drawn by a jury must be that the employee’s disability was a
+but-for cause of the employer’s intentional discrimination.” Akridge, 93 F.4th at-34-
+1197. Even under the convincing mosaic standard, Plaintiff cannot survive
+summary judgment.
+Plaintiff points to the delays in receiving her requested accommodations, the
+fact that she was terminated two days after her accommodations were approved,
+that other employees maintained outside employment without repercussions, and
+that the OEPP did not exist until after Plaintiff’s termination.21 Doc. No. 43, at 13,
+19-22. However, the Court has already held that the short delay in approving
+Plaintiff’s accommodation was reasonable and the product of Plaintiff’s own
+unwillingness to participate in the interactive process, thus the delays also do not
+suggest that Plaintiff was terminated due to her disability.22
+Nor has Plaintiff pointed to any similarly situated comparator that engaged
+in similar conduct and was not disciplined. “A fellow employee is ‘similarly
+situated’ when they: (1) ‘have engaged in the same basic conduct (or misconduct)
+21 PlaintiffalsoclaimsthatDefendantgaveshiftingexplanationsforhertermination,
+Doc. No. 43, at 4, 20, but provides no record evidence for this assertion. To the contrary,
+the records Plaintiff references show that the sole reason provided for Plaintiff’s
+termination was her violation of the OEPP. See Doc. No. 35-1 ¶ 7; Doc. No. 35-5, at 35, 44-
+45; Doc. No. 35-3, at 35.
+22 Plaintiff also appears to argue that Defendant bypassed its own policies by not
+interviewing Plaintiff prior to terminating her employment, by not verifying her work
+hoursthroughareviewofPlaintiff’sFMLAandADApaperwork,andthatPlaintiff’sdirect
+supervisor should have fired her, not Fox. Doc. No. 43, at 15-17. But once again, Plaintiff
+has provided no evidence suggesting that any such internal policies existed, and Plaintiff
+cites no legal authority suggesting that a failure to take such steps can infer intentional
+disability discrimination.-35-
+as the plaintiff’; (2) ‘have been subject to the same employment policy, guideline, or
+rule as the plaintiff’; (3) ‘have been under the jurisdiction of the same supervisor’;
+and (4) ‘share the plaintiff's employment or disciplinary history.’” Wilkie v.
+Outokumpu Stainless USA, LLC, No. 24-14109, 2025 WL 3079343, at *1 (11th Cir. Nov.
+4, 2025) (quoting Lewis v. City of Union City, 918 F.3d 1213, 1227–28 (11th Cir. 2019)).
+Plaintiff identifies in her response two potential comparators, Brown and Herman
+(Doc. No. 43, at 3, 23), but neither are sufficient. Brown was Plaintiff’s supervisor,
+and thus was not similarly situated to Plaintiff, and she testified that her second job
+did not conflict with her work with Defendant as it was seasonal and only on
+weekends and evenings. Doc. No. 35-4, at 10-13. See also Crawford v. City of Tampa,
+No. 8:08-cv-927-T-26TBM, 2009 WL 3586619, at *6 (M.D. Fla. Oct. 28, 2009), aff'd, 397
+F. App'x 621 (11th Cir. 2010) (supervisor of plaintiff is not similarly situated and
+therefore cannot be viewed as a comparator).
+And Herman, who at the time was Defendant’s Senior HR Manager, clearly
+held different job duties from Plaintiff, there is no evidence that she was under the
+same chain of command as Plaintiff, and most importantly, Herman testified that
+she never held a second job while working for Defendant. See Doc. No. 35-5, at 8-
+17, 56-57. This testimony is uncontradicted by anything other than Plaintiff’s own-36-
+speculation.23 See also Akridge, 93 F.4th at 1198 (rejecting convincing mosaic
+argument inpartbecauseplaintiff’sprofferedcomparatorshaddifferentjobduties);
+Guinand-Dao v. Baptist Health of S. Fla., Inc., No. 19-24233-CIV, 2021 WL 783824, at
+*9 (S.D. Fla. Mar. 1, 2021) (granting summary judgment on age and disability
+discrimination claims where plaintiff “failed to present evidence of any other
+employee who conducted herself in a similar manner under similar conditions yet
+remained employed.”).
+This leaves the temporal proximity between when Plaintiff requested and
+received her ADA accommodations and her termination, and the factual disputes
+regarding Defendant’s distribution of the OEPP. But taking these facts in the most
+favorable light to Plaintiff, they are not enough to raise a genuine dispute about
+whether the reason for her termination was disability discrimination. As discussed
+above, there is no evidence that Fox had any knowledge of Plaintiff’s disability or
+accommodation requests, and “temporal proximity by itself generally cannot prove
+that an employer’s proffered reasons are pretextual.” Todd, 998 F.3d at 1219. See
+23 Plaintiff testified that she saw Herman’s LinkedIn profile and an HR consulting
+website (Doc. No. 35-2, at 137-38), but did not produce copies of same, nor anything else
+that would render this uncorroborated testimony anything other than inadmissible
+hearsay. See MSP Recovery Claims, Series LLC v. Am. Nat'l Prop. & Cas. Co., 550 F. Supp. 3d
+1311, 1319 (S.D. Fla. 2021) (unauthenticated screenshots and printouts of websites are
+inadmissible hearsay and cannot be considered at summary judgment). In addition,
+Plaintiff mentions three other employees who she contends are potential comparators –
+Sarah Porter, and someone named “Terocko” and another named “Ana.” Doc. No. 35-2,
+at 134-36. But other than this brief reference, Plaintiff provides no evidence to establish
+that these individuals could be comparators.-37-
+also Sanichara, 2026 WL 113612, at *8 (“While Ms. Sanichara was terminated a few
+weeks after requesting leave from Ms. Holmer, this closeness in time is insufficient
+by itself to suggest that the real reason for her termination was discrimination given
+the decisionmakers’ lack of knowledge.” (citing Rudy v. Walter Coke, Inc., 613 F.
+App'x 828, 830 (11th Cir. 2015))). And whether the OEPP policy actually existed
+and/or Plaintiff was aware of it does not create a genuine issue of material fact
+given that there still remains an absence of evidence sufficient for a reasonable
+factfinder to infer that the “but-for” reason for Plaintiff’s termination was her
+disability. See Wilkie, 2025 WL 3079343, at *2 (“To show pretext, the employee must
+confront the employer’s seemingly legitimate reason . . . ‘head on and rebut it.’ It
+is not enough for the plaintiff to ‘simply quarrel[ ] with the wisdom of that reason.’”
+(citations omitted) (alterations in original)); Akridge, 93 F.4th at 1198 (plaintiff did
+not establish convincing mosaic of disability discrimination where there was no
+genuine factual dispute that the decisionmakers who terminated plaintiff did not
+have knowledge of plaintiff’s medical issues, and thus plaintiff failed to present
+evidence that the reasons for her firing were pretextual). In other words, “an
+employer may fire an employee for a good reason, a bad reason, a reason based on
+erroneousfacts, orfornoreason at all,as longas its action is notfora discriminatory
+reason.” Akridge, 93 F.4th at 1195 (citation and internal quotation marks omitted).
+See also Flowers v. Troup Cnty., Ga., Sch. Dist., 803 F.3d 1327, 1338 (11th Cir. 2015)-38-
+(“[The Court is] not a ‘super-personnel department’ assessing the prudence of
+routine employment decisions, ‘no matter how medieval,’ ‘high-handed,’ or
+‘mistaken.’” (quoting Alvarez v. Royal Atl. Developers, Inc., 610 F.3d 1253, 1266 (11th
+Cir. 2010))).24
+In sum, the undisputed evidence shows that Fox had no knowledge of
+Plaintiff’s disability or requested accommodations, Plaintiff held two full-time jobs
+at the same time and did not notify Defendant or seek permission to do so, no
+evidence was submitted suggesting that Defendant harbored any hostility towards
+employees with disabilities, and Plaintiff has not identified any comparators that
+engaged in similar conduct but were not disciplined or terminated. And while the
+timing of Plaintiff’s termination certainly raises an eyebrow, without more, no
+reasonable jury could find that the reason for Plaintiff’s termination was disability
+discrimination. See Sanichara, 2026 WL 113612, at *7-10 (granting summary
+judgment and rejecting convincing mosaic argument on ADA discrimination claim
+24 For these same reasons, Plaintiff’s claim that the “honest belief” rule does not
+apply (Doc. No. 43, at 3, 16-18) fails, as there is no evidence that Defendant inconsistently
+applied the OEPP, and Plaintiff has admitted that she was simultaneously working two
+full-time jobs, and did not notify or seek approval from Defendant. See Jones v. Gerwens,
+874 F.2d 1534, 1540 (11th Cir. 1989) (Admission of misconduct provides sufficient
+foundation for an employer’s good faith belief that an employee has engaged in
+misconduct). The Court is unsure why Plaintiff cites to Howard v. Hyundai Motor
+Manufacturing Alabama, 754 F. App’x 798, 805-07 (11th Cir. 2018), as this case affirmed the
+grant of summary judgment where the plaintiff failed to put forth any similarly situated
+comparators. Doc. No. 43, at 16.-39-
+for similar reasons); Akridge, 93 F.4th at 1197-98 (affirming entry of summary
+judgment on ADA disparate treatment claim for similar reasons).
+Summary judgment will be granted as to the ADA discrimination claim.
+C. ADA and FMLA Retaliation Claims (Counts II-III).
+Plaintiff has also asserted two claims for retaliation, one under the ADA
+(Count II), and the other under the FMLA (Count III).25 The elements of Plaintiff’s
+prima facie case are the same for both claims. See Frazier-White v. Gee, 818 F.3d 1249,
+1258 (11th Cir. 2016) (“To prevail on her ADA retaliation claim, Plaintiff must show
+that: (1) she engaged in a statutorily protected expression, (2) she suffered an
+adverse employment action, and (3) there was a causal link between the two.”);
+Jarvela v. Crete Carrier Corp., 776 F.3d 822, 832 (11th Cir. 2015) (To establish a prima
+facie case of retaliation under the FMLA, “an employee must show that, (1) he
+engaged in statutorily protected activity, (2) he suffered an adverse employment
+decision, and (3) the decision was causally related to the protected activity.”)
+(citation and internal quotation marks omitted). Requesting a reasonable
+accommodation and/or requesting FMLA leave constitute statutorily protected
+25 Throughout her response, Plaintiff also appears to argue that Defendant
+interfered with her FMLA rights. See, e.g., Doc. No. 43, at 3, 5, 7, 10-11. But Plaintiff did
+not allege a claim of FMLA interference in her complaint (Doc. No. 1), and cannot do so
+now. Poer v. Jefferson Cnty. Comm'n, 100 F.4th 1325, 1338 (11th Cir. 2024) (“[A] plaintiff[ ]
+may notraise newclaimsat the summary judgment stage.”(citationandinternalquotation
+marks omitted)).-40-
+activity. Frazier-White, 818 F.3d at 1258 (reasonable accommodation); Dowler v.
+GEICO Gen. Ins. Co., 554 F. Supp. 3d 1243, 1249 (M.D. Fla. 2021) (requesting FMLA
+leave). However, to establish the causation element of either an ADA or FMLA
+retaliation claim “requires a showing of but-for causation.” Frazier-White, 818 F.3d
+at 1258 (ADA retaliation); see also Lapham v. Walgreen Co., 88 F.4th 879, 893 (11th Cir.
+2023) (FMLA retaliation).
+Defendant concedes that Plaintiff engaged in protected activity under both
+the ADA and FMLA, and that she was subjected to an adverse employment action
+via her termination. Doc. No. 36, at 20-22. Defendant argues, however, that as with
+her discrimination claim, Plaintiff cannot establish causation, primarily due to Fox’s
+lack of knowledge that Plaintiff made any ADA accommodation request or asked
+for/was using FMLA leave. Id.
+Plaintiff’s arguments in response mirror those raised in support of her
+disparate treatment claim. First, she contends that direct evidence of retaliation
+exists, but again has failed to point to any. Second, she contends that she has
+established causation either via the McDonnell Douglas framework, the cat’s paw
+theory, or the convincing mosaic analysis26 because: (1) her termination and her
+26 The cat’s paw and convincing mosaic frameworks apply equally to retaliation
+claims. See, e.g., McCormick v. Se. Pers. Leasing, Inc., No. 22-10466, 2022 WL 4462172, at *2
+(11th Cir. Sept. 26, 2022) (discussing convincing mosaic argument in ADA and FMLA
+retaliation case); Ahern v. Delta Air Lines, Inc., 609 F. Supp. 3d 1314, 1339 (S.D. Fla. 2022)
+(analyzing cat’s paw theory in ADA retaliation claim).-41-
+requests for accommodation/leave were in close temporal proximity to each other;
+(2) her requests for a reasonable accommodation were previously delayed and/or
+denied; (3) Herman began her investigation into Plaintiff’s outside employment
+with Valencia while Plaintiff was proceeding with the ADA interactive process; (4)
+Plaintiff received “performance” emails and reprimands: (5) Defendant selectively
+enforced the OEPP and did not discipline or terminate other employees who
+engaged in outside employment; (6) issues of fact remain as to whether the OEPP
+existed prior to her termination; (7) Defendant proffered “shifting” explanations for
+her termination; (8) Defendant bypassed the normal chain of command in
+investigating Plaintiff’s dual employment; and (9) Herman lied to Valencia that
+Plaintiff was abusing her FMLA leave. Doc. No. 43, at 10-18, 23-24.
+The Court has addressed the majority of these arguments in detail above, and
+they are equally unpersuasive here. Plaintiff has presented no record evidence
+establishing that her requests for accommodation were delayed or denied; that
+there were similarly situated comparators treated differently from Plaintiff; that
+Defendant proffered shifting explanations for Plaintiff’s termination and/or
+bypassed the normal chain of command; and/or that Herman ever told Valencia
+anything about Plaintiff’s ADA or FMLA status. Rather, all Plaintiff has to support
+these assertions is her own speculation, or the argument of counsel in her-42-
+response.27 But neither are sufficient to create a genuine issue of material fact that
+would survive summary judgment. See Ibeh v. Wilson, No. 23-13128, 2024 WL
+2723253, at *1 (11th Cir. May 28, 2024) (“[A]n inference based on speculation and
+conjecture is not reasonable.” (citation and internal quotation marks omitted)); Ellis
+v. England, 432 F.3d 1321, 1326 (11th Cir.2005) (“For factual issues to be considered
+genuine, they must have a real basis in the record[;] . . . mere conclusions and
+unsupported factual allegations are legally insufficient to defeat a summary
+judgment motion.” (citations and internal quotation marks omitted)). See also
+27 In her complaint and response, Plaintiff also contends that the alleged denial of
+her requested accommodations on multiple occasions and Herman’s alleged disclosure of
+confidential information to Valencia constitute adverse employment actions. Doc. No. 1
+¶¶ 74, 88; Doc. No. 43, at 12, 21. These arguments merit no further discussion given the
+absence of any record evidence to support them. Plaintiff further alleges that she suffered
+additional adverse employment actions in the form of her work being unfairly scrutinized,
+she was provided false information regarding her FMLA paperwork, denied a project
+management toolkit, forced to shut down two group chats, reprimanded via email, and
+accused of abusing her FMLA leave. Doc. No. 1 ¶¶ 74, 86, 88; Doc. No. 43, at 6. But none
+of these additional acts constitute an adverse employment action because Plaintiff has not
+establishedthat they resultedinany discipline or negative impact onany termor condition
+of Plaintiff’s employment. See Lucas v. W.W. Grainger, Inc., 257 F.3d 1249, 1261 (11th Cir.
+2001) (“[a]n employment action is considered ‘adverse’ only if it results in some tangible,
+negative effect on the plaintiff's employment.”); Presley v. Gulf Cnty. Sch. Bd., 730 F. Supp.
+3d 1218, 1227 (N.D. Fla. 2024), appeal dismissed, No. 24-11575-J, 2024 WL 3806003 (11th Cir.
+June11,2024)(afailure toaccommodateorfailuretoengageintheADAinteractiveprocess
+do not constitute adverse employment actions; rather “[a] tangible employment action
+constitutes a significant change in employment status, such as hiring, firing, failing to
+promote, reassignment with significantly different responsibilities, or a decision causing a
+significant change in benefits.” (citations and internal question marks omitted); Moore v.
+Hillsborough Cnty. Bd. of Cnty. Comm'rs, 544 F. Supp. 2d 1291, 1308 (M.D. Fla. 2008)
+(“Negative performance evaluations, standing alone, do not constitute adverse
+employment action sufficient to satisfy the second element of a prima facie case of
+retaliation under the ADA.” (citation and internal quotation marks omitted)).-43-
+Straley v. Ferrellgas, Inc., No. 8:08-cv-2460-T-26MAP, 2009 WL 10670500, at *3 (M.D.
+Fla. Sept. 16, 2009) (“To the extent that Plaintiff contends Defendant ‘knew’ she was
+working off the clock, the record reflects nothing but conclusory statements,
+personal opinion, and speculation as the basis. This is insufficient as a matter of
+law.”).28
+As for the timing of Plaintiff’s termination, “[t]emporal proximity alone is
+insufficient to establish a causal connection in the absence of actual knowledge by
+the employer.” Jarvela, 776 F.3d at 832. And again, Plaintiff has presented no
+information even suggesting Fox was aware of Plaintiff’s ADA or FMLA status at
+the time he decided to terminate her employment. Moreover, while Herman, who
+clearly was aware of Plaintiff’s ADA and FMLA requests, was the person who
+conducted the investigation into Plaintiff’s employment with Valencia, Plaintiff has
+28 Plaintiff also claims that White testified that Plaintiff was limited to one day per
+monthofFMLAleave,butthatnosuchrestrictionexistedinPlaintiff’smedicalcertification
+or FMLA regulations. Doc. No. 43, at 10. Not only does Plaintiff fail to cite to White’s
+deposition testimony on this point, but the exhibit Plaintiff does cite to clearly states that
+Plaintiff was approved for “1 day per episode 1 episode per month and 6 appointments
+per month.” Doc. No. 35-11. Plaintiff also states that Brown testified that Defendant
+limited her ability to allow Plaintiff’s FMLA absences, and that Brown coded Plaintiff’s
+FMLA leave as paid time off. Doc. No. 43, at 11. Again, the deposition citations Plaintiff
+references contain no such testimony, nor is there any record evidence that Plaintiff’s
+FMLA leave was ever denied. Doc. No. 35-4, at 41-43, 45-49. And Plaintiff also argues that
+she had no active discipline until after she sought FLMA and ADA accommodations. Doc.
+No. 43, at 5. Again, Plaintiff cites no record evidence in support, she testified that she was
+not disciplined for seeking leave and accommodations, (Doc. No. 35-2, at 82-83), and the
+only discipline she was subjected to was her 2022 PIP, which was completed well before
+any FMLA or ADA requests were made.-44-
+again failed to point to any record evidence that Herman ever informed Fox about
+Plaintiff’s requests, made any recommendations to Fox, that the information
+provided to Fox was untrue, or that Herman was otherwise involved in the decision
+to terminate Plaintiff.
+Accordingly, Defendant is entitled to summary judgment on Plaintiff’s ADA
+and FMLA retaliation claims.29 See McCormick v. Se. Pers. Leasing, Inc., No. 22-10466,
+2022 WL 4462172, at *2 (11th Cir. Sept. 26, 2022) (affirming summary judgment on
+ADA and FMLA retaliation claims where plaintiff did not establish causation
+because the human resources director involved in plaintiff’s FMLA and ADA
+requests was not involved in the decision to fire her); Jarvela, 776 F.3d at 832
+(affirmingsummaryjudgmentonFMLAretaliationclaimwherevicepresidentwho
+fired plaintiff was unaware that plaintiff had taken FMLA leave, the information
+the vice president relied upon in terminating plaintiff did not mention the FMLA,
+and plaintiff, who had the burden of proving actual knowledge of his FMLA leave,
+failed to do so); Rudy, 613 F. App'x at 830 (stating in the context of an FMLA
+retaliation claim that “[t]emporal proximity alone does not establish a causal
+connection when there is unrebutted evidence that the decisionmaker was not
+29 Plaintiff asserts in her response that she filed retaliation complaints with HR on
+March2,2023andApril17,2023. Doc.No.43,at2,12,13,23. ButPlaintiff’srecordcitations
+on this point either do not exist (Doc. No. 35-5, at 72:12-74-74:2; Doc. No. 35-3 at 57:19-
+58:11), or they do not support Plaintiff’s argument. Doc. No. 35-17 (letter and email to
+Plaintiff approving her accommodations in full).-45-
+aware of the protected activity”); Brungart v. BellSouth Telecomms., Inc., 231 F.3d 791,
+799-800 (11th Cir. 2000) (affirming summary judgment on FMLA retaliation claim
+where there was unrebutted evidence that the decision maker did not have
+knowledge that the employee engaged in protected conduct); see also Clover v. Total
+Sys. Servs., Inc., 176 F.3d 1346, 1355-56 (11th Cir. 1999) (finding summary judgment
+appropriate on Title VII retaliation claim where plaintiff was informed the day after
+she engaged in protected activity that she was going to be terminated, because
+plaintiff “failed to present sufficient evidence to establish that [the decision maker]
+was aware of her protected conduct”).
+D. Tortious Interference (Count IV).
+In her final claim, Plaintiff alleges that Defendant tortiously interfered with
+her long-standing employment relationship with Valencia when Herman contacted
+Valencia and reported that Plaintiff was working full-time for Defendant, that
+Herman intentionally and maliciously informed Valenica that Plaintiff was abusing
+FMLA and disclosed Plaintiff’s ADA medical information to Valencia, and that as
+a result, Valencia ultimately terminated Plaintiff’s employment. Doc. No. 1 ¶¶ 93-
+98.
+“To prevail on a claim for tortious interference, a plaintiff must prove: 1) the
+existence of a business relationship that affords the plaintiff legal rights; 2)
+knowledge of the relationship by the defendant; 3) an intentional and unjustified-46-
+interference with the relationship by the defendant; and 4) damage to the plaintiff
+resulting from the breach of that relationship.” Z Prods., Inc. v. SNR Prods., Inc., No.
+8:10-cv-966-T-23MAP, 2011 WL 3754693, at * 8 (M.D. Fla. Aug. 18, 2011), report and
+recommendation adopted, No. 8:10-cv-966-T-23MAP, 2011 WL 3752281 (M.D. Fla.
+Aug. 25, 2011) (citing Ethan Allen, Inc. v. Georgetown Manor, Inc., 647 So. 2d 812, 814
+(Fla. 1995)).
+Defendant only challenges the third element, arguing that it did not
+intentionally or unjustifiably interfere with Plaintiff’s employment with Valencia.
+Doc. No. 36, at 22-25. “[A]n interference is intentional if the person interfering
+knows of the business relationship with which he is interfering, knows he is
+interfering with that relationship, and desires to interfere or knows that the
+interference is substantially certain to occur as a result of his action.” Weight-Rite
+Golf Corp. v. U.S. Golf Ass'n, 766 F. Supp. 1104, 1112 (M.D. Fla. 1991) (citation and
+internal quotations omitted), aff'd sub nom. Weight-Rite Golf v. U.S. Golf, 953 F.2d 651
+(11th Cir. 1992). A plaintiff “must plead and prove that the defendant manifested
+a specific intent to interfere with the business relationship.” NoNaNi Ent., LLC v.
+Live Nation Worldwide, Inc., No. 8:22-cv-1829-WFJ-JSS, 2023 WL 1967579, at *3 (M.D.
+Fla. Feb. 13, 2023) (citations and internal quotation marks omitted). “Proof of the
+requisite intent is necessary as ‘[t]here is no such thing as a cause of action for
+interference which is only negligently or consequentially effected.’” Maxi–Taxi of-47-
+Fla., Inc. v. Lee Cnty. Port Auth., 301 Fed. Appx. 881, 885–86 (11th Cir.2008) (quoting
+Ethyl Corp. v. Balter, 386 So.2d 1220, 1223–24 (Fla. 3d DCA 1980)) (alterations in
+original).
+Further, “malice is key to the tort of tortious interference with a business
+relationship.” Ingenuity, Inc. v. Linshell Innovations Ltd., No. 6:11-cv-93-Orl-28KRS,
+2014 WL 1230695 (M.D. Fla. Mar. 25, 2014), aff’d, 644 F. App’x 913 (11th Cir. 2016)
+(citation and internal quotation marks omitted). “Without direct evidence of
+malicious intent, malice can only be shown by proving a series of acts which, in
+their context or in light of the totality of the circumstances, are inconsistent with the
+premise of a reasonable man pursuing a lawful objective, but rather indicate a plan
+or course of conduct motivated by spite, ill-will, or other bad motive.” Cherestal v.
+Sears Roebuck & Co., No. 6:12-cv-1681-Orl-28TBS, 2014 WL 644727, at *4 (M.D. Fla.
+Feb. 19, 2014) (quoting Rockledge Mall Assocs., Ltd. v. Custom Fences of S. Brevard, Inc.,
+779 So.2d 554, 557 (Fla. 5th DCA 2001)) (internal quotation marks omitted). And if
+intent is shown, a plaintiff must then establish that the interference was unjustified,
+which is based on a defendant’s conduct, motives, and interests being advanced.
+Weight-Rite Golf Corp., 766 F. Supp. at 1112 (citing Smith v. Emery Air Freight Corp.,
+512 So.2d 229, 230 (Fla. 3rd DCA 1987)).
+The undisputed record evidence fails to support that Defendant acted with
+malice or an intent to interfere with Plaintiff’s employment with Valencia. Herman-48-
+testified that the sole reason for communicating with anyone at Valencia was to
+confirm Plaintiff’s dual employment, Doc. No. 35-5, at 37, and the emails between
+Herman and Valencia support her testimony. Doc. No. 35-20. There is nothing in
+the record suggesting that Herman intended to interfere with or damage Plaintiff’s
+employment with Valencia. See Tardif v. People for Ethical Treatment of Animals, 829
+F. Supp. 2d 1219, 1231 (M.D. Fla. 2011), on reconsideration in part, No. 2:09-cv-537-
+FTM-29, 2011 WL 6004071 (M.D. Fla. Dec. 1, 2011) (granting summary judgment
+where there was no evidence that would support an inference that defendant
+disclosed information with an intent to interfere with or damage the employment
+relationship between plaintiff and his employer). And while Plaintiff repeatedly
+argues that Herman told Valencia about Plaintiff’s ADA and FMLA status, and
+defamed Plaintiff by telling Valencia that Plaintiff was abusing her FMLA leave,
+there is simply no evidence to support these contentions; Plaintiff’s speculation
+alone is insufficient. See, e.g., W.P. Prods., Inc. v. Tramontina USA, Inc., No. 18-63162-
+CIV, 2020 WL 3566400, at *3 (S.D. Fla. June 12, 2020) (granting summary judgment
+on tortious interference claim where plaintiff attempted “to use rumors, conjecture
+and inadmissible hearsay to create a genuine dispute”); Baumgartner v. Papa Johns
+USA, Inc., No. 6:18-cv-658-Orl-37GJK, 2019 WL 7423531, at *4 (M.D. Fla. Oct. 16,
+2019) (“But because there is no evidence that Defendant or Billman provided-49-
+negative references to Plaintiff’s prospective employers Plaintiff cannot show
+Defendant tortiously interfered with his business relationships by doing so.”).
+Nor is there any record evidence to suggest that Defendant acted without
+justification. “No cause of action for intentional interference exists which is the
+consequence of a rightful action.” Networkip, LLC v. Spread Enters., Inc., 922 So.2d
+355, 358 (Fla. 3d DCA 2006). “Additionally, a plaintiff cannot be successful in a
+tortious interference case if the defendant merely gave a third party truthful
+information.” Cherestal, 2014 WL 644727, at *4 (citing Worldwide Primates, Inc. v.
+McGreal, 26 F.3d 1089, 1092 (11th Cir. 1994)). Surely an employer is justified in
+verifying whether an employee is engaging in conduct that violates a company
+policy and/or creates a conflict of interest, which is exactly what Herman did.
+Moreover, it is undisputed that the information Herman provided to Valencia was
+accurate, and Plaintiff has failed to support her claim that Herman ever mentioned
+anything about the ADA or FMLA to Valencia.30 See Doc. No. 35-20. And while
+Plaintiff claims that Defendant did not go through the proper channels to confirm
+her dual employment (Doc. No. 43, at 26-27), she once again points to nothing
+besides her own speculative testimony. Doc. No. 35-2, at 158-59. See also Westgate
+30 Plaintiff’s testimony on this point is also based on inadmissible hearsay. Doc. No.
+35-2, at 149-51, 158. In addition, Plaintiff again contends that Herman contacted Valenica
+one day after Plaintiff filed an internal ADA retaliation complaint specifically naming
+Herman(Doc. No.43,at26),butasbefore,thereisnorecordevidence tosupportthisclaim.-50-
+Resorts, Ltd. v. Sussman, 387 F. Supp. 3d 1318, 1352-53 (M.D. Fla. 2019) (“The issue is
+not simply whether the actor is justified in causing the harm, but rather whether he
+is justified in causing it in the manner in which he does cause it.” (citation and internal
+quotation marks omitted) (emphasis in original)).
+“Under Florida law, a company’s actions are justified when undertaken to
+protect its own business interests, such as to reduce the risk of loss. So long as the
+company does not engage in improper conduct, it may take steps to protect its
+business interests without liability for tortious interference.” Romika–USA, Inc. v.
+HSBC Bank USA, N.A., 514 F.Supp.2d 1334, 1339 (S.D.Fla.2007). This is exactly what
+happened here, Plaintiff cites no legal authority to the contrary,31 and no reasonable
+jury would find for Plaintiff given the undisputed record evidence.32 Accordingly,
+31 Plaintiff’scitationto McCurdyv.Collis, 508So.2d380,384(Fla.Dist.Ct.App.1987)
+is unpersuasive as that case involved facts suggesting malice on the part of the defendant.
+And Plaintiff’s quotation from Tamiami Trail Tours, Inc. v. Cotton, 463 So. 2d 1126, 1128 (Fla.
+1985) does not appear to exist (see Doc. No. 43, at 28), as that case involved the question of
+vicarious or agency liability in a tortious interference claim.
+32 While not argued by Defendant, the Court also questions whether Plaintiff can
+establish the causation element of her claim. Defendant only provided truthful and
+accurate information to Valencia, and as noted in Valencia’s Notice of Dismissal, Plaintiff
+was terminated due to her violations of Valencia’s own policies, as well as the
+inconsistencies in Plaintiff’s own statements to Valencia during their independent
+investigation. Doc. Nos. 35-20, 35-22. See also Cherestal, 2014 WL 644727, at *5 (M.D. Fla.
+Feb. 19, 2014) (granting summary judgment on tortious interference claim where there was
+no evidence that termination was based on anything other than accurate information, and
+plaintiff provided no evidence other than her speculative opinion that she was fired for
+reasonsother thanviolating company policy); Ingenuity,Inc.v.Linshell Innovations Ltd.,No.
+6:11-cv-93-Orl-28-KRS, 2014 WL 1230695, at *4 (M.D. Fla. Mar. 25, 2014), aff'd, 644 F. App'x
+913 (11th Cir. 2016) (“The law in Florida is clear [t]hat there is no such thing as a cause of-51-
+Defendant is entitled to summary judgment on Plaintiff’s tortious interference
+claim.33
+IV. CONCLUSION.
+Forthereasonsdiscussedabove,Defendant’sMotionforSummaryJudgment
+(Doc. No. 36) is GRANTED as to all claims. The Clerk of Court is directed to enter
+judgment in favor of Defendant and against Plaintiff, terminate any other pending
+motions, and close the file. Defendant may proceed with any request for fees and
+costs a permitted by law, including 28 U.S.C. § 1920, FederalRule of Civil Procedure
+54, and Local Rule 7.01.
+A final note. This Order is unusually lengthy, in large part due to the
+numerous mischaracterizations of fact and law that permeate Plaintiff’s response
+and which required extensive review by the Court. While the Court understands a
+mis-cite or incorrect quote here and there, Plaintiff’s response goes far beyond the
+action for interference [with a contractual or advantageous business relationship] which is
+only negligently or consequentially effected.” (citations and internal quotations omitted)
+(alterations in original)).
+33 Because Plaintiff has failed to establish her prima facie case, the Court need not
+address Defendant’s privilege arguments. Doc. No. 36, at 24-25. That said, the Court does
+note that at least one of Defendant’s arguments appears persuasive. See Premise Health
+Holding Corp. v. Thomas, No. 6:21-cv-2166-WWB-LHP, 2024 WL 6893871, at *3-4 (M.D. Fla.
+Jan.22,2024)(findingstatementsmadebyone havinganinterestordutythereintoanother
+having a corresponding interest in the same statement are protected by a qualified
+privilege and cannot support a tortious interference claim absent a showing that malice
+was the sole basis for the interference); Crestview Hosp. Corp. v. Coastal Anesthesia, P.A., 203
+So. 3d 978, 981 (Fla. Dist. Ct. App. 2016) (conditional privilege applies to statements made
+between parties who have a mutual interest in evaluating a person’s work).-52-
+normal excusable mistakes or carelessness, repeatedly cites to facts and legal
+theories that do not exist on this record, and appears to rise to the level of a potential
+violation of Federal Rule of Civil Procedure 11, as well as raises concerns that the
+response may be a product of the impermissible use of Artificial Intelligence
+programs. The Court will be issuing a separate order to show cause to Plaintiff’s
+counsel to address this concern.
+DONE and ORDERED in Orlando, Florida on May 14, 2026.
+Copies furnished to:
+Counsel of Record

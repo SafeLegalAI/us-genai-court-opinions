@@ -1,0 +1,854 @@
+Hardy v. Whitaker, --- F.R.D. ---- (2026)
+
+
+                                                              *1 This case stems from a seemingly straightforward
+                    2026 WL 575225                           set of facts involving the alleged false arrest of Plaintiff
+      Only the Westlaw citation is currently available.      Gregory Hardy and subsequent alleged mistreatment while
+             United States District Court, E.D.              incarcerated at the Genesee County Jail. On April 25, 2025,
+               Michigan, Northern Division.                  after a year of litigation, Plaintiff filed a pro se Amended
+                                                             Complaint. In it, he alleged (1) a count for a violation
+               Gregory HARDY, Plaintiff,                     of his Fourth Amendment right due to false arrest under
+                         v.                                  42 U.S.C. § 1983 against Defendant Deshawn Perry, and
+              WHITAKER, et al., Defendants.                  (2) a count for a violation of his Fourteenth Amendment
+                                                             Due Process rights due to excessive force, also under 42
+                   Case No. 1:24-cv-11270                    U.S.C. § 1983, against the “Genesee County Defendants”:
+                              |                              Defendants Deputy Whitaker, Lieutenant Wallenman, and
+                    Signed March 2, 2026                     Sargeant Lipset. 1
+
+Honorable Thomas L. Ludington, United States District
+                                                             On August 6, 2024, the Court referred all matters for this
+Judge
+                                                             case to Magistrate Judge Elizabeth A. Stafford. On January
+Attorneys and Law Firms                                      12, 2026, Magistrate Judge Stafford filed a report (R&R)
+                                                             recommending dismissal of Plaintiff's Amended Complaint
+Gregory Hardy, Flint, MI, Pro Se.                            under Rule 41(b). On January 21, 2026, Plaintiff timely
+                                                             objected to Magistrate Judge Stafford's R&R and then
+Barbara Patek, Detroit Mercy Law, Grosse Pointe Farms, MI,   objected again, this time untimely, on February 10, 2026.
+for Plaintiff.                                               As explained below, the R&R will be adopted, Plaintiffs’
+                                                             Objections will be overruled, Plaintiff's Amended Complaint
+Barney R. Whitesman, Flint, MI, for Defendants Whitaker,
+                                                             will be dismissed, the seven remaining motions filed by both
+Wallenman, Lipset.
+                                                             Plaintiff and Defendants will be denied as moot, and Plaintiff
+Tom Sparrow, City of Flint Law Department, Flint, MI, for    will be enjoined from further filing in federal court.
+Defendant Deshawn Perry.
+
+
+      OPINION AND ORDER (1) ADOPTING                                                       I.
+      MAGISTRATE JUDGE'S REPORT AND
+     RECOMMENDATION, (2) OVERRULING                                                       A.
+  PLAINTIFF'S OBJECTIONS, (3) DENYING AS
+  MOOT DEFENDANT LIPSET, WALLENMAN,                          While the facts of the case jump from arrest to detention,
+  AND WHITAKER'S MOTION TO DISMISS, (4)                      they remain straightforward. The case starts on August 7,
+  REJECTING JUDGE STAFFORD'S OCTOBER                         2023, with Defendant Perry—an officer for the City of Flint,
+ 20, 2025 REPORT AND RECOMMENDATION AS                       ECF No. 93 at PageID.756 —responding to a 9-1-1 call made
+  MOOT, (5) DENYING AS MOOT PLAINTIFF'S                      by Plaintiff concerning a “man with a gun.” Id. Plaintiff
+    MOTION FOR SUMMARY JUDGMENT, (6)                         claims he was first seen by Defendant Perry returning from
+   DENYING AS MOOT PLAINTIFF'S MOTION                        a house located at 422 W. Austin Avenue in Flint, which
+  FOR LEAVE TO FILE NOTICE OF FILING, (7)                    Plaintiff contends was the “[a]ssailants' [h]ouse.” Id. He
+   DENYING AS MOOT DEFENDANT PERRY'S                         contends that the gunman was the stepson of one of the
+   MOTION FOR LEAVE TO FILE A DIGITAL                        people at the assailant's house: Tony Howard, whom Plaintiff
+RECORDING, (8) DENYING AS MOOT PLAINTIFF'S                   alleges manufactures and distributes crack cocaine. Id. at
+    “OMNIBUS” MOTION TO CONSOLIDATE                          PageID.758. Defendant Perry allegedly asked the members of
+     CASES, AND (9) ENJOINING PLAINTIFF                      the assailants' house, “who is that out here with a gun?”, to
+                                                             which they pointed Defendant Perry to another house, 430 E.
+STEPHEN J. MURPHY, III, United States District Judge for     Austin Avenue, which is Plaintiff's address. Id. at 756.
+Thomas L. Ludington, United States District Judge
+
+
+
+
+               © 2026 Thomson Reuters. No claim to original U.S. Government Works.                                      1
+Hardy v. Whitaker, --- F.R.D. ---- (2026)
+
+
+                                                                      County Defendants were too tight, but of which nothing was
+Plaintiff alleges that Defendant Perry took an “aggressive
+                                                                      done, (4) that he was treated “completely differently” from
+approach” to his house and took no further action to
+                                                                      other inmates, (5) that he “would cry out all night because he
+investigate whether there was a gun at the assailant's house.
+                                                                      could not feel his legs” due to the tight leg restraints, which
+Id. Defendant Perry told Plaintiff to put his hands behind his
+                                                                      he claims eventually made him go unconscious, and (5) that
+back but also let him know that he was “not under arrest
+                                                                      the leg restraints impacted his ability to walk in the days
+but was just being detained.” Id. at PageID.757. Plaintiff
+                                                                      following their removal, causing him to fall within the jail. Id.
+alleges that he was then placed into the backseat of Defendant
+                                                                      at PageID.760–62.
+Perry's squad car “without any cause.” Id. Plaintiff alleges
+that he requested medical attention because he had begun
+                                                                      On August 12, 2023, Plaintiff was released from custody and
+hyperventilating “from being twisted in [the] restraints” and
+                                                                      went to the McLaren Hospital in Flint. Id. at PageID.762.
+because he was “unable to move because he was fearful” due
+                                                                      There, he allegedly received medical test results which
+to the fact that he felt that he had not been told “why he was
+                                                                      “showed that [Plaintiff's] injuries were the result of the
+being arrested.” Id.
+                                                                      excessively tight ankle restraints,” and he was diagnosed with
+                                                                      “Foot Drop.” Id.
+ *2 Plaintiff alleges that, seemingly at some point after he
+was placed in Defendant Perry's squad car, the members of the
+assailant's house “gave conflicting statement(s)” and declined
+to press charges. Id. Despite this, and the fact that Plaintiff was                                  B.
+never armed or brandished any weapons, id. at PageID.758,
+Plaintiff states that he was still arrested. Id. at PageID.757.       On May 14, 2024, Plaintiff filed his original Complaint.
+Plaintiff claims that he attempted to inform Defendant Perry          ECF No. 1. And on August 6, 2024, the Court referred this
+about the harassment he experienced at the hands of people            case and all matters to Magistrate Judge Stafford. ECF No.
+at the assailant's house, including repeated threats—some of          10. But after the referral followed a dizzying number of
+which seemingly involved the use of guns, “making offers              motions before Plaintiff was finally allowed to amend his
+of protection,” intimidation, and even a shooting involving           complaint for the last time on April 25, 2025. ECF No. 93.
+Plaintiff's dog. Id. at PageID.758–59. But he was still arrested.     The operative Complaint alleges (1) a violation of his Fourth
+                                                                      Amendment rights due to false arrest under 42 U.S.C. § 1983
+As a result of his arrest, Plaintiff was brought to the Genesee       against Defendant Deshawn Perry, id. at PageID.765, and (2)
+County Jail. Id. at PageID.760. It was inside the jail, Plaintiff     a violation of his Fourteenth Amendment Due Process rights
+claims, that the Genessee County Defendants “created a                due to excessive force, also under 42 U.S.C. § 1983, against
+hostile environment through aggressive, unwarranted and               the Genesee County Defendants, id. at PageID.767.
+excessive forceful actions.” 2 Id. Allegedly, the uses of
+                                                                      Since the filing of his Amended Complaint, both Plaintiff
+excessive force included: (1) a threat of tasing after Plaintiff
+                                                                      and Defendants have filed several pending motions. These
+knocked on a glass door seeking a mattress, (2) being forced
+                                                                      motions are represented in the following chart:
+to remain in a “[w]rap suit” for 10-12 hours, (3) placing him
+in leg restraints, which Plaintiff allegedly told the Genessee
+ Motion                                    Filer                                  Pending Report and
+                                                                                  Recommendation
+
+ Motion to Dismiss (ECF No. 142)           Genesee County Defendants              Yes (ECF No. 180)
+
+ Motion for Summary Judgment               Plaintiff                              No
+ (ECF No. 192)
+
+ Motion for Leave to File Notice of        Plaintiff                              No
+ Corrected Reply Brief (ECF No.
+ 206)
+
+ Motion for leave to File Digital          Defendant Perry                        No
+ Recording (ECF No. 207)
+
+
+
+
+                © 2026 Thomson Reuters. No claim to original U.S. Government Works.                                                 2
+Hardy v. Whitaker, --- F.R.D. ---- (2026)
+
+
+
+
+ Motion for Summary Judgment            Defendant Perry                      No
+ (ECF No. 210)
+
+ Omnibus Motion to Consolidate          Plaintiff                            No
+ Cases (ECF No. 218)
+
+                                                                 After reviewing the evidence, the court may accept, reject, or
+On January 12, 2026, Magistrate Judge Stafford submitted an
+                                                                 modify the magistrate judge's findings or recommendations.
+R&R recommending this Court dismiss Plaintiff's Amended
+Complaint under Federal Rule of Civil Procedure 41(b), with      FED. R. CIV. P. 72(b)(3); Peek v. Comm'r of Soc. Sec., 585
+prejudice, and enjoin Plaintiff from filing new actions in       F.Supp.3d 1014, 1017–18 (E.D. Mich. 2021). If the court
+federal court. ECF No. 211 at PageID.2385. Under Civil Rule      adopts the R&R, then it may simply “state that it engaged
+72, Judge Stafford provided all parties 14 days to object to     in a de novo review of the record and adopts the report and
+                                                                 recommendation” without “stat[ing] with specificity what it
+the R&R., id. at PageID.2414, and Plaintiff did so in a timely
+                                                                 reviewed.” United States v. Robinson, 366 F. Supp. 2d 498,
+manner, see ECF No. 213. But then Plaintiff filed yet another
+set of objections, which were untimely. ECF No. 221.             505 (E.D. Mich. 2005) (Lardie v. Birkett, 221 F. Supp. 2d 806,
+                                                                 807 (E.D. Mich. 2002); 12 CHARLES A. WRIGHT ET AL.,
+                                                                 FEDERAL PRACTICE AND PROCEDURE § 3070.2 (2d
+                                                                 ed. 1997)), aff'd, 290 F. App'x 769 (6th Cir. 2008); Fharmacy
+                             II.                                 Recs. v. Nassar, 465 F. App'x 448, 456 (6th Cir. 2012) (“[T]he
+                                                                 district court's statement that it conducted de novo review is
+ *3 A party may object to and seek review of a R&R. See
+                                                                 deemed sufficient”).
+FED. R. CIV. P. 72(b)(2). If a party properly objects, then
+“[t]he district judge must determine de novo” the part of the
+                                                                 This Court has reviewed Plaintiff's Amended Complaint,
+R&R to which the objection pertains. FED. R. CIV. P. 72(b)
+                                                                 ECF No. 93, Plaintiff's Objections, ECF No. 213, Defendant
+(3). A party must object timely and with specificity—failure
+                                                                 Perry's response to Plaintiff's Objections, ECF No. 214,
+to do so waives any right of appeal. Thomas v. Arn, 474 U.S.
+                                                                 Plainittiff's Reply to Defendant Perry's Response, ECF No.
+140, 151, 155 (1985) (citation omitted); Howard v. Sec'y of
+                                                                 217, and Plaintiff's untimely filed Objections, ECF No. 221;
+Health & Human Servs., 932 F.2d 505, 508 (6th Cir. 1991);
+                                                                 as well as all other applicable filings on the docket. Having
+United States v. Walters, 638 F.2d 947, 950 (6th Cir. 1981).
+                                                                 conducted this de novo review, this Court concludes that
+Likewise, parties may not “raise at the district court stage
+                                                                 Judge Stafford's factual conclusions and legal reasoning are
+new arguments or issues that were not presented” before the
+                                                                 correct. For these reasons, Plaintiffs' Objections will be
+magistrate judge issues the R&R. See Murr v. United States,
+                                                                 overruled, and the Magistrate Judge's recommendations will
+200 F.3d 895, 902 n.1 (6th Cir. 2000).
+                                                                 be adopted.
+
+When reviewing an R&R de novo, this Court must review
+at least the evidence the parties presented to the magistrate
+judge. See Hill v. Duriron Co., 656 F.2d 1208, 1215 (6th Cir.                                 IV.
+1981). After reviewing the evidence, the court can accept,
+                                                                 Accordingly, it is ORDERED that Plaintiff's objections, ECF
+reject, or modify the R&R. FED. R. CIV. P. 72(b)(3).
+                                                                 Nos. 213, 221, are OVERRULED.
+
+                                                                 Further, it is ORDERED that Magistrate Judge Stafford's
+                             III.                                Report and Recommendation, ECF No. 211, is ADOPTED.
+
+When a party objects to a magistrate judge's report, the court
+                                                                 Further, it is ORDERED that Plaintiff's Amended Complaint,
+must review de novo those portions of the report to which
+                                                                 ECF No. 93, is DISMISSED WITH PREJUDICE.
+the party has properly objected. 28 U.S.C. § 636(b)(1); FED.
+R. CIV. P. 72(b)(3). To that end, the court must review at
+                                                                 Further, it is ORDERED, that the Genessee County
+least the evidence that was before the magistrate judge. See
+                                                                 Defendants' Motion to Dismiss, ECF No. 142, Magistrate
+Hill v. Duriron Co., 656 F.2d 1208, 1215 (6th Cir. 1981).
+                                                                 Judge Stafford's R&R, ECF No. 180, Plaintiff's Motion for
+
+
+
+               © 2026 Thomson Reuters. No claim to original U.S. Government Works.                                          3
+Hardy v. Whitaker, --- F.R.D. ---- (2026)
+
+
+Summary Judgment, ECF No. 192, Plaintiff's Motin for              Plaintiff Gregory Hardy, proceeding pro se and in forma
+Leave to File Notice for a Corrected Reply Brief, ECF No.         pauperis, sues under 42 U.S.C. § 1983, alleging violations
+206, Defendant Perry's Motion for Leave to File a Digital         of his rights under the Fourth, Eighth, and Fourteenth
+Recording, ECF No. 207, Defendant perry's Motion for              amendments. ECF No. 93. The Honorable Thomas L.
+Summary Judgment, ECF No. 210, and Plaintiff's Omnibus            Ludington referred the matter to the undersigned for all
+Motion to Consolidate Cases, ECF No. 218, are all DENIED          pretrial matters under 28 U.S.C. § 636(b)(1). ECF No. 10.
+AS MOOT.
+                                                                  Throughout this litigation, Hardy has wasted the resources of
+ *4 Further, it is ORDERED that Plaintiff is ENJOINED             the Court and opposing counsel by filing umpteen frivolous
+from filing any new federal actions in the Eastern District of    motions and unauthorized documents. He filed those motions
+Michigan without obtaining leave of court, and any action         and unauthorized documents without regard to court rules or
+filed without leave be stricken.                                  prior orders, repeating the same violations over and over. The
+                                                                  Court held many status conferences and tried many measures
+Further it is ORDERED that to obtain leave to file a new          to help Hardy make a course correction without imposing
+action Plaintiff must file a “Motion Pursuant to Court Order      sanctions, but any progress was short-lived. Finding no hope
+Seeking Leave to File” with any proposed complaint; attach        that Hardy will cease his wasteful litigation practices, the
+as an exhibit to that motion a declaration under 28 U.S.C.        Court now recommends that this case be dismissed with
+§ 1746, or a sworn affidavit, certifying that his complaint is    prejudice under Federal Rule of Civil Procedure 41(b), and
+not prohibited by the permanent injunction, and that it is not    that Hardy be enjoined from filing new actions.
+frivolous or made in bad faith; identify and list in a second
+exhibit: (1) the full caption of every suit which has been
+previously filed by him or on his behalf in any court against       II. Background
+every defendant in the suit that he wishes to file, and (2) the   For over 20 years, Hardy has been filing complaints
+full caption of every suit which he has currently pending;        in Michigan's federal district courts. See, e.g., Hardy v.
+(3) provide, in a third exhibit, a copy of each complaint         Southwestern Michigan Assessment Services, Case No. 1:98-
+covered by the preceding section and a certified record of its    cv-786 (W.D. Mich. Dec. 1, 1998); Hardy v. Lane, Case No.
+disposition, and he must serve a copy of this order on each       03-73517 (E.D. Mich., Jan. 20, 2004). As early as 2007, he
+defendant if leave to file is granted; (4) and attach the order   was an “active litigant in the federal courts in Michigan,” with
+granting the permanent injunction to any new action that he       more than three lawsuits dismissed for failure to state a claim.
+may file in any court.                                            Hardy v. Michigan Dep't of Corr., No. 1:07-cv-607, 2007 WL
+                                                                  2030106, at *2 (W.D. Mich. July 11, 2007).
+Further, it is ORDERED that this injunction does not impair
+Plaintiff's ability to defend himself in any criminal action.      *5 Courts have consistently found Hardy's endless lawsuits
+                                                                  to lack merit. See, e.g., Hardy v. Lansing Police Dep't,
+Further, it is ORDERED that the Court retains jurisdiction        No. 1:20-cv-1224, 2021 WL 12258029, at *2 (W.D. Mich.
+to modify this injunction as necessary where circumstances        Mar. 5, 2021) (“Plaintiff has a history of filing meritless or
+may change.                                                       unsuccessful lawsuits in this Court.”) 1 ; Hardy v. Kushman,
+                                                                  No. 09-cv-14825, 2010 WL 3906327, at *6 (E.D. Mich. Sept.
+This is a final order and closes the case.                        30, 2010) (dismissing “meritless action” against law firm and
+                                                                  attorneys who had represented him pro bono at trial); Hardy
+                                                                  v. City Rescue Mission of Lansing, No. 1:18-cv-628, 2018
+                                                                  WL 8899332, at *4 (W.D. Mich. Nov. 14, 2018), adopted,
+      REPORT AND RECOMMENDATION TO                                2019 WL 3432435 (W.D. Mich. July 30, 2019) (sua sponte
+     DISMISS ACTION UNDER FEDERAL RULE                            dismissing action under 28 U.S.C. § 1915(e)(2)).
+     OF CIVIL PROCEDURE 41(b) AND ENJOIN
+     PLAINTIFF FROM FILING NEW ACTIONS                            In Hardy v. City of Flint, the Honorable Mark A. Goldsmith
+                                                                  dismissed a complaint against police officers, 911 operators,
+ELIZABETH A. STAFFORD United States Magistrate Judge              and a child protective services agent. Case No. 22-11351,
+                                                                  ECF No. 49 (E.D. Mich. Aug. 7, 2023). Hardy claimed that
+  I. Introduction
+
+
+               © 2026 Thomson Reuters. No claim to original U.S. Government Works.                                             4
+Hardy v. Whitaker, --- F.R.D. ---- (2026)
+
+
+those defendants violated his constitutional rights after Hardy     *6 Soon after the June R&R, Hardy returned to his practice
+called 911 and child protective services to report misconduct      of flooding the docket with motions and other filings, many
+by an unnamed neighbor. Id. In response to a motion to             of them repetitive or unauthorized supplements to motions,
+dismiss, Hardy claimed that the neighbor held him at gunpoint      including for leave to supplement pleadings, to compel
+in June 2022. Id., ECF No. 29, PageID.220.                         discovery, and to determine the sufficiency of defendants'
+                                                                   answers. ECF No. 111; ECF No. 114; ECF No. 117; ECF No.
+Echoing his 2022 lawsuit, Hardy claims here that his               118; ECF No. 120; ECF No. 125; ECF No. 131; ECF No. 132;
+constitutional rights were violated after he called 911 in         ECF No. 139. And Hardy filed discovery motions despite this
+August 2023 to report that an unnamed neighbor was armed           Court's order forbidding parties from filing discovery motions
+with a gun. ECF No. 93, PageID.756-757. Hardy was arrested         without leave of court. ECF No. 108, PageID.839; ECF No.
+instead. Id. If this Court's report and recommendation (R&R)       125; ECF No. 132.
+to dismiss the Genesee County defendants is adopted, his
+only remaining claim here will be that Flint Police Officer        Defendants' responses to Hardy's motions included requests
+DeShawn Perry arrested him without probable cause. ECF             for reimbursement of the costs associated with responding
+No. 93, PageID.765-766; ECF No. 180.                               to Hardy's filings. ECF No. 119, PageID.973; ECF No.133,
+                                                                   PageID.1207; ECF No. 134, PageID.1288; ECF No. 136,
+Hardy began this case by clogging the docket with filings          PageID.1302-1306. The Court had discretion to grant those
+that lacked merit, including several motions to amend or           requests. See Fed. R. Civ. P. 37(a)(5)(B) (permitting a court
+supplement his complaint. The Court denied or struck almost        to order fees and costs be paid when motion challenging the
+all those filings. See ECF No. 34; ECF No. 39; ECF No. 40;         sufficiency of an answer is denied); Fed. R. Civ. P. 11(c)(4)
+ECF No. 41; ECF No. 42; ECF No. 45; ECF No. 46; ECF                (permitting sanctions including fees and costs when a party
+No. 49; ECF No. 51; ECF No. 53; ECF No. 68; ECF No. 69;            files a frivolous motion); Fed. R. Civ. P. 26(g) (requiring fees
+ECF No. 73; ECF No. 75; ECF No. 78; ECF No. 113. Trying            and costs be taxed when a party's certification violates the
+to get the case on track, the Court held a status conference in    discovery rule without substantial justification). But during
+April 2025 and solicited the Federal Pro Se Legal Assistance       an August 2025 status conference, the Court denied the
+Clinic, headed by Director Barbara Patek, to help him draft        defendants' requests for reimbursement of their costs.
+an amended complaint. ECF No. 89. Hardy then successfully
+filed the operative second amended complaint (SAC). ECF            Rather than imposing sanctions, the Court cautioned Hardy
+No. 93.                                                            during the August conference that he was clogging the
+                                                                   docket with repetitive documents that lacked legal analysis
+After accepting Hardy's SAC, the Court entered a June 2025         showing that he was entitled to relief. ECF No. 146,
+R&R to deny defendants' motion to dismiss under Rule               PageID.1483. For example, his requests for the Court to
+41(b). ECF No. 110. Defendants argued that Hardy had               determine the sufficiency of defendants' answers to requests
+“repeatedly failed to follow this Court's instructions in orders   to admit included no legal analysis to guide the requested
+denying and striking his proposed amended complaints.” Id.,        determination. See ECF No. 125; ECF No. 132. And Hardy's
+PageID.848-849 (referring to ECF No. 34; ECF No. 40; ECF           motions to supplement his complaint included no analysis of
+No. 43; ECF No. 45; ECF No. 46; ECF No. 51; ECF No.                how the supplement was allowed under Federal Rule of Civil
+73; ECF No. 76; ECF No. 78). The Court found that “Hardy           Procedures 15(d). See ECF No. 117; ECF No. 118.
+was at fault for failing to follow the Court's instructions
+about amending his complaint” and that “defendants wasted          Hardy admitted during the August status conference that he
+time moving to strike Hardy's amended complaints.” Id.,            found the discovery process too complicated and that he
+PageID.850. But because Hardy had “not engaged in bad              needed help because he does not know the law. ECF No. 146,
+faith, contumacious conduct, perverse resistance of authority,     PageID.1483. Thus, with Hardy's agreement, the Court again
+or stubborn disobedience” and because he had not been              solicited the Federal Pro Se Legal Assistance Clinic to help
+warned that he faced dismissal, the Court recommended that         him navigate the discovery process and scheduled another
+dismissal be denied. Id., PageID.850-851. Judge Ludington          status conference for September 2025. Id.
+adopted that recommendation. ECF No. 115.
+                                                                   But days before the September 2025 status conference, Hardy
+                                                                   sent the Court an email objecting to the clinic's continued
+
+
+
+                © 2026 Thomson Reuters. No claim to original U.S. Government Works.                                             5
+Hardy v. Whitaker, --- F.R.D. ---- (2026)
+
+
+assistance, claiming that he could “litigat[e] his own case” and   proposed TAC, Hardy both objected to that order and moved
+needed no help with responding to defendants' motions. Id.         for leave to file a permissive joinder under Rule 20 to add the
+He sent the email without copying defense counsel, although        deputies identified in the rejected TAC. ECF No. 184; ECF
+the Court had already warned him not to send ex parte              No. 185. Both filings lacked analysis showing that joinder
+communications. Id., PageID.1483, n.1.                             was proper.
+
+Hardy revealed during the status conference that he was upset      Still in October 2025, the Court issued an R&R to grant
+by the clinic's legal advice. The Court permitted Director         the Genesse County defendants' motion for judgment on
+Patek to withdraw as counsel for Hardy, and warned him “that       the pleadings (MJOP). 2 ECF No. 180. Hardy opposed
+his continued failure to follow procedural rules or orders,        the motion in his response brief and at a hearing, and
+and filing of frivolous motions, could result in sanctions,        he filed objections to the R&R. ECF No. 144; ECF No.
+including orders to reimburse defendants and the involuntary       185. But wasting judicial resources, he moved to strike the
+dismissal of his complaint.” ECF No. 146, PageID.1483; ECF         MJOP under Federal Rule of Civil Procedure 12(f) more
+No. 151, PageID.1501.                                              than a month after the R&R was issued. ECF No. 197,
+                                                                   PageID.2173. Hardy's motion to strike was both untimely
+In October 2025, the Court denied Hardy's motion for leave         and frivolous. Under Rule 12(f), “[t]he Court may strike
+to file a third amended complaint (TAC) because of undue           from a pleading any redundant, immaterial, impertinent, or
+delay and futility. ECF No. 144; ECF No. 179. One reason           scandalous matter.” (Emphasis added); Fox v. Mich. State
+that the proposed TAC was futile was because adding the            Police Dep't, 173 F. App'x 372, 375 (6th Cir. 2006). Neither
+proposed new defendants—Genessee County Jail deputies              a response brief nor its supporting exhibits are “pleadings”
+—would lead to misjoinder under Federal Rule of Civil              under Rule 7(a). Lopez v. Trans Union LLC, No. 25-12733,
+Procedure 20(a)(2). ECF No. 179, PageID.1802-1803. The             2025 WL 2976840, at *2 (E.D. Mich. Oct. 17, 2025) (“A
+Court explained:                                                   response brief is not a ‘pleading’ as defined under Rule
+                                                                   7(a).”); Fox, 174 F. App'x at 375 (“Exhibits attached to a
+   *7 In Price v. City of Elyria, the court found misjoinder
+                                                                   dispositive motion are not ‘pleadings’ within the meaning of
+  of defendants because, “the claims against the Elyria
+                                                                   Fed. R. Civ. P. 7(a).”). So the Court denied the motion to
+  Defendants concern conduct occurring before and during
+                                                                   strike. ECF No. 209.
+  the search, whereas the claims against the Lorain County
+  Defendants concern conduct occurring after the search.
+                                                                   The Court issued another warning to Hardy in October 2025.
+  Furthermore, there are no counts in the Second Amended
+                                                                   Hardy had “improperly suggested that he had a right to
+  Complaint that are brought against all Defendants
+                                                                   object to deposition questions,” so the Court warned that
+  collectively.” No. 1:24-CV-1707-PAB, 2025 WL 2733667,
+                                                                   his continued “violations of discovery rules may prompt
+  at *6 (N.D. Ohio Sept. 25, 2025) (emphasis in original).
+                                                                   sanctions, up to involuntary dismissal of his complaint.”
+  Hardy's proposed false arrest claims against [Defendant          ECF No. 162, PageID.1722-1724. Rather than heeding the
+  Shawn] Perry concern conduct before and during his arrest        warning, Hardy moved the Court to recuse itself, accusing
+  in Hardy's neighborhood, while the claims against the            it of “repeatedly [bashing him] over the head with threats of
+  deputies involve conduct that occurred after his arrest          sanctions and dismissal because of errors in pleadings, acting
+  when he was in jail. And the only claim Hardy brought            pro se.” ECF No. 181, PageID.1815. Denying the motion, the
+  collectively against Perry and the deputies is the conspiracy    Court explained:
+  claim are futile for the reasons already stated.
+
+Id.                                                                            Hardy alleges that the Court has
+                                                                               engaged in a pattern of hostility,
+Before the hearing on Hardy's motion for leave and other                       but the record shows that the
+motions, the Court had described the authority about                           Court solicited the Federal Pro Se
+misjoinder and ordered Hardy to be prepared to address                         Legal Assistance Clinic to help him
+the issue. ECF No. 162, PageID.1717-1719. But during                           prosecute his case and entered orders
+the hearing, Hardy made no substantive argument to refute                      to ensure that he obtained usable
+the Court's analysis. Even so, after the Court rejected his                    video evidence during discovery. ECF
+
+
+                © 2026 Thomson Reuters. No claim to original U.S. Government Works.                                            6
+Hardy v. Whitaker, --- F.R.D. ---- (2026)
+
+
+            No. 146, PageID.1480; ECF No. 162,                   Wesley v. Rigney, 860 F.3d 931 (6th Cir. 2017). 5 ECF No.
+            PageID.1721-1722; ECF No. 166,                       192, PageID.2007-2008, 2014. The Court suspects that the
+            PageID.1746. Hardy rejected the help                 fake citations result from Hardy using generative artificial
+            of the clinic despite admitting during               intelligence (AI).
+            an August 2025 status conference
+            that he needed help because he did
+            not know the law. ECF No. 146,
+                                                                              [T]he use of generative AI when
+            PageID.1483. And despite Hardy's
+                                                                              drafting legal filings is a very risky
+            pattern of clogging the docket with
+                                                                              practice, as pro se litigants and
+            meritless motions, the Court has
+                                                                              attorneys are still subject to the
+            denied defendants' repeated requests
+                                                                              requirements of Fed. R. Civ. P. 11(b)
+            for reimbursement of costs associated
+                                                                              (2) with respect to pleadings, motions
+            with those filings. See ECF No. 146,
+                                                                              and other documents they sign and
+            PageID.1481-1482.
+                                                                              submit to the Court; even in the
+                                                                              absence of bad faith, Rule 11 sanctions
+                                                                              for use of AI generated phantom cases
+*8 ECF No. 190, PageID.1941.                                                  may be warranted.
+
+In November 2025, Hardy filed a meritless motion for
+summary judgment (MSJ) under Federal Rule of Civil
+                                                                 Smart v. Pro. Grp., No. 4:25-cv-11833, 2025 WL 3091139, at
+Procedure 56. ECF No. 192. As noted, Hardy claims
+                                                                 *5 (E.D. Mich. Nov. 5, 2025).
+that Perry arrested him without probable cause. ECF No.
+93, PageID.765-766. In his MSJ, Hardy failed to set
+                                                                 Then, after Perry responded to Hardy's MSJ, Hardy was not
+forth authority showing that his vague and conclusory
+                                                                 satisfied with filing a reply brief, as allowed under E.D. Mich.
+factual allegations support that claim. Id., PageID.2006-2015.
+                                                                 LR 7.1(d)(1). ECF No. 194; ECF No. 195. He also burdened
+And contradicting the purpose of a MSJ, he argued that
+                                                                 the Court and opposing counsel by frivolously moving to
+“[m]aterial factual disputes” preclude the Court from granting
+                                                                 strike portions of the response brief under Rule 12(f) “on
+summary judgment on the issue of qualified immunity.
+                                                                 the basis that the arguments are factually false, immaterial,
+Id., PageID.2008. Hardy did not grasp the fundamental
+                                                                 and without merit.” ECF No. 196, PageID.2159-2161. Perry
+requirement of a MSJ that the “movant shows that there is
+                                                                 responded that Rule 12(f) allows only pleadings to be
+no genuine dispute as to any material fact and the movant is
+                                                                 stricken. ECF No. 198. Rather than accepting that his motion
+entitled to judgment as a matter of law.” Rule 56(a).
+                                                                 to strike under Rule 12(f) was frivolous under the authority
+                                                                 Perry cited, Hardy moved to file a 16-page reply brief for his
+Hardy also made arguments about claims not raised in his
+                                                                 motion to strike, well in excess of the 7-page limit for reply
+complaint, including that he was subjected to a Terry 3 stop     briefs under LR 7.1(d)(3)(B). ECF No. 202.
+without reasonable suspicion and detained too long under
+Terry standards; that he was deprived of equal protection         *9 And the proposed oversized reply brief includes no
+and due process; that Perry withheld exculpatory evidence        arguments showing that Hardy's motion to strike is permitted
+in violation of Brady 4 ; and that Perry violated state laws     under Rule 12(f). Rather, the oversized brief equates to an
+and falsified evidence. Id. At the summary judgment stage, a     extra brief in support of Hardy's MSJ in that it focuses on
+plaintiff may not pursue claims not raised in his complaint.     why Perry's affidavit in response to the MSJ should be found
+Spengler v. Worthington Cylinders, 514 F. Supp. 2d 1011,         inadmissible. Id. The proposed extra brief is not allowed
+1017 (S.D. Ohio 2007); Edison v. Twp. of Northville, 752 F.      under LR 7.1(d)(1), which authorizes only a response brief
+Supp. 3d 808, 822 (E.D. Mich. 2024).                             and a reply brief to a motion. Acceptance Indem. Ins. Co. v.
+                                                                 Shepard, No. 19-cv-12777, 2021 WL 1087416, at *7 (E.D.
+Making matters worse, Hardy's MSJ included fake citations:       Mich. Mar. 22, 2021) (defendant violated “Local Rule 7.1(d)
+Patel v. City of Ferndale, 308 F.3d 511, 517 (6th Cir. 2002);    by filing more than one brief to accompany her Motion to Set
+Thompson v. City of Lebanon, 813 F.3d 318, 323 (6th Cir.         Aside Default.”)
+2016); Spurlock v. Satterfield, 167 F.3d 915 (5th Cir. 1999);
+
+
+               © 2026 Thomson Reuters. No claim to original U.S. Government Works.                                            7
+Hardy v. Whitaker, --- F.R.D. ---- (2026)
+
+
+Still not done, Hardy filed a “notice of admitted facts and        filings exceed prisoner filings in this district for the first time
+supplemental authority,” without leave of court, in support        in recent years.
+of his MSJ almost a month after Perry responded to the
+motion, again in violation of LR 7.1(d)(1). ECF No. 205. The         MIED
+Court had already warned Hardy about filing unauthorized
+                                                                     Year FY2025 FY2024 FY2023 FY2022 FY2021 Prisoner
+supplements to motions. ECF No. 146, PageID.1480 (citing
+                                                                     Filings 691 675 665 663 739 Non Prisoner Pro Se Filing
+ECF No. 131; ECF No. 139).
+                                                                     315 542 431 359 285 Non Prisoner Non Pro Se Civil
+                                                                     Filings 2440 2233 2201 2072 2027 Grand Total 3946
+In December 2025, Perry moved for leave to file a digital
+                                                                     3450 3297 3099 3051
+recording of his bodycam video to support his planned
+MSJ. 6 ECF No. 207. Hardy filed a meritless opposition to             *10 MIED
+Perry's motion for leave, arguing that the motion was made
+after briefing closed. ECF No. 208, PageID.207-208. Perry's          Year FY2025 FY2024 FY2023 FY2022 FY2021 Prisoner
+motion was timely, as the dispositive motions deadline is            Filings 17.50% 19.57% 20.17% 21.56% 24.22% Non
+January 13, 2026. ECF No. 109. Hardy also claimed that Perry         Prisoner Pro Se Filings 20.65% 15.71% 13.07% 11.53%
+was “sandbagging” and that his “late-disclosed evidence”             9.34% Non Prisoner Non Pro Se Filings 61.33% 64.72%
+should be excluded under Federal Rule of Civil Procedure             66.76% 66.36% 66.44% Grand Total 100% 100% 100%
+37. ECF No. 208, PageID.2280. But the record shows that              100% 100%
+the video was not belatedly disclosed, as Hardy has for
+                                                                     Rest of the 6 th Circuit
+months repeatedly described Perry's bodycam footage and
+claimed that it contradicts the police reports. See ECF No.          Year FY2025 FY2024 FY2023 FY2022 FY2021 Prisoner
+125, PageID.1103; ECF No. ECF No. 131, PageID.1187; ECF              Filings 3315 3234 3070 2833 2717 Non Prisoner Pro Se
+No. 192, PageID.2003; ECF No. 205, PageID.2260. And in               Filing 2212 1531 1307 1118 1215 Non Prisoner Non Pro
+his own MSJ, Hardy cited timestamped portions of the video,          Se Civil Filings 9873 12463 11063 11173 13536 Grand
+confirming that he viewed it. ECF No. 192, PageID.2003.              Total 15400 17233 15440 15129 17468
+Given Hardy's reliance on the bodycam video, his objection to
+Perry's motion to upload a digital copy of that video is another     Rest of the 6 th Circuit
+waste of this Court's judicial resources.
+                                                                     Year FY2025 FY2024 FY2023 FY2022 FY2021 Prisoner
+                                                                     Filings 21.53% 13,77% 19.88% 13,73% 15,55% Non
+   III. Analysis                                                     Prisoner ProSe Filing 14.36% 8.88% 8.47% 7.39% 6.96%
+Courts have the power to impose sanctions as “necessary in           Non Prisoner Non Pro Se Civil Filings 64,11% 72,35%
+order to prevent undue delays in the disposition of pending          71,65% 73.88% 77,49% Grand Total 100% 100% 100%
+cases and to avoid congestion in the calendars of the District       100% 100%
+Courts.” Link v. Wabash R. Co., 370 U.S. 626, 629–30 (1962).
+Exercising that power is increasingly important in the wake        The office of the Eastern District of Michigan's Court
+of the exploding use of generative AI. Damien Charlotin, a         Administrator provided the data in the above charts. The
+legal analyst, has tracked more than 500 legal decisions about     “filings” in the charts reflect the number of complaints rather
+AI-generated hallucinated content in the United States. 7          than the number of documents filed by pro se plaintiffs. But
+The hallucinated content is “typically fake citations, but also    the Court has observed that non-prisoner pro se plaintiffs
+other types of AI-generated arguments.” Id.; see also Sanders      are increasingly likely to clog dockets with frivolous and
+v. United States, 176 Fed. Cl. 163, 169 (2025) (“It is no          improper documents.
+secret that generative AI programs are known to ‘hallucinate’
+nonexistent cases, and with the advent of AI, courts have seen     The sharp increase in frivolous pro se filings burdens
+a rash of cases in which both counsel and pro se litigants have    the Court. See In re McDonald, 489 U.S. 180, 184-185
+cited such fake, hallucinated cases in their briefs.”).            (1989) (“Every paper filed with the Clerk of this Court, no
+                                                                   matter how repetitious or frivolous, requires some portion
+Likely because of the availability of AI, non-prisoner pro se      of the institution's limited resources. A part of the Court's
+filings have skyrocketed in this district and circuit, and such    responsibility is to see that these resources are allocated in
+
+
+
+                © 2026 Thomson Reuters. No claim to original U.S. Government Works.                                                8
+Hardy v. Whitaker, --- F.R.D. ---- (2026)
+
+
+a way that promotes the interests of justice.”); U.S. ex rel        at *4 (W.D. Pa. July 16, 2020) (“Imposing a monetary
+Verdone v. Circuit Court for Taylor Cnty., 73 F.3d 669, 671         sanction on Simmons would be ineffective as he appears to
+(7th Cir. 1995) (“Frivolous, vexatious, and repeated filings        be impecunious.”). Imposing monetary sanctions on a pro se
+by pro se litigants interfere with the orderly administration       plaintiff who has a history of clogging the docket would also
+of justice by diverting scarce judicial resources from cases        only “provoke further litigation.” Jones v. Michigan Dep't of
+having merit and filed by litigants willing to follow court         C.R., No. 18-11934, 2020 WL 4812700, at *2 (E.D. Mich.
+orders.”); Thanedar v. Time Warner, Inc., 352 F. App'x. 891,        Feb. 7, 2020).
+900 (5th Cir. 2009) (“[i]t is well-settled that a plaintiff's pro
+se status does not give him a license to harass others, clog the     *11 So rather than imposing monetary sanctions, the better
+judicial machinery with meritless litigation, and abuse already     options for sanctions against pro se plaintiffs proceeding IFP
+overloaded court dockets.”).                                        who engage in bad faith conduct include: (1) involuntary
+                                                                    dismissal with prejudice; (2) revoking the plaintiff's IFP
+Courts and opposing counsel are also burdened by the careless       status; 8 and (3) enjoining the plaintiff from filing lawsuits in
+use of AI by pro se filers.
+                                                                    this district without leave of court. 9 Revoking Hardy's IFP
+                                                                    status is unlikely to be effective because, in Hardy v. City
+                                                                    of Flint, he paid the filing fee after his IFP application was
+             Litigants who simply file the material                 denied. Case No. 22-cv-11351, ECF No. 4.
+             that AI tools generate, without
+             carefully reviewing it first for                       The Court instead recommends that Hardy's complaint be
+             accuracy, have the potential to swamp                  dismissed under Rule 41(b) and that he be enjoined from
+             courts with what appear at first glance                filing more lawsuits without leave of court.
+             to be legal arguments built on law
+             and precedent, but which are in fact
+             nothing of the sort. And not only
+             are these problems in their own                                         Dismissal under Rule 41(b)
+             right, but they also heighten the two
+                                                                    Rule 41(b) authorizes courts to involuntarily dismiss an action
+             concerns the Court highlighted above
+                                                                    with prejudice “[i]f the plaintiff fails to prosecute or to comply
+             —that defendants will be forced to
+                                                                    with these rules or a court order.” A court also has the
+             spend more time and incur more
+                                                                    inherent authority to sanction bad-faith conduct, “derive[d]
+             costs parsing through copious baseless
+                                                                    from its equitable power to control the litigants before it and
+             filings to defend an action, and that
+                                                                    to guarantee the integrity of the court and its proceedings.”
+             Courts will waste precious time doing
+                                                                    First Bank of Marietta v. Hartford Underwriters Ins. Co., 307
+             the same in ruling on motions and
+                                                                    F.3d 501, 512 (6th Cir. 2002). “A primary aspect of [a court's
+             moving matters along.
+                                                                    inherent authority] is the ability to fashion an appropriate
+                                                                    sanction for conduct which abuses the judicial process.”
+                                                                    Chambers v. NASCO, Inc., 501 U.S. 32, 44-45 (1991).
+Muhammad v. Gap Inc., No. 2:24-cv-3676, 2025 WL
+1836657, at *14 (S.D. Ohio July 3, 2025). And while                 Although dismissal is a severe sanction, it is within a court's
+monetary sanctions under Rule 11 may effectively discourage         discretion. Bradley J. Delp Revocable Tr. v. MSJMR 2008
+attorneys from carelessly relying on AI, imposing a monetary        Irrevocable Tr., 665 F. App'x 514, 520 (6th Cir. 2016). Four
+sanction on plaintiffs proceeding in forma pauperis (IFP)           factors guide whether dismissal is proper:
+would likely be futile. See In re McDonald, 489 U.S. 180,
+184 (1989) (“[P]aupers filing pro se petitions are not subject
+to the financial considerations—filing fees and attorney's fees
+                                                                                 (1) whether the party's conduct was
+—that deter other litigants from filing frivolous petitions.”);
+                                                                                 due to willfulness, bad faith, or
+Hoskins v. Dart, 633 F.3d 541, 544 (7th Cir. 2011) (“Monetary
+                                                                                 fault; (2) whether the adversary was
+sanctions are generally not as effective against a pro se
+                                                                                 prejudiced by the dismissed party's
+plaintiff proceeding as a pauper, as Hoskins does here.”);
+                                                                                 conduct; (3) whether the dismissed
+Simmons v. Gilmore, No. 2:17-cv-00996, 2020 WL 4016331,
+
+
+                © 2026 Thomson Reuters. No claim to original U.S. Government Works.                                                9
+Hardy v. Whitaker, --- F.R.D. ---- (2026)
+
+
+            party was warned that failure to                      after being warned that he had no right to file supplemental
+            cooperate could lead to dismissal;                    briefs without leave of court, he continued to do so. Hardy
+            and (4) whether less drastic sanctions                acknowledged that he does not understand the law, but he
+            were imposed or considered before                     refused the assistance of the Federal Pro Se Legal Assistance
+            dismissal was ordered.                                Clinic because he did not like its advice.
+
+                                                                  Hardy's failure to learn and follow basic court rules is notable
+                                                                  because “this is not his first rodeo”; he is “no ordinary pro
+Id. at 520-21 (cleaned up). 10 Although no one factor
+                                                                  se litigant” given his “share of experience” in federal courts.
+is dispositive, bad faith is the preeminent consideration.
+                                                                  Muhammad, 2025 WL 1836657, at *8. He has been filing
+Fharmacy Records v. Nassar, 379 F. App'x 522, 524 (6th
+                                                                  lawsuits since 1998, and a Bloomberg Law search shows that
+Cir. 2010). And while pro se litigants are generally entitled
+                                                                  he has filed 42 civil cases in this district and in the Western
+to a degree of leniency, “pro se filings do not serve as an
+                                                                  District of Michigan (see attached).
+impenetrable shield, for one acting pro se has no license
+to harass others, clog the judicial machinery with meritless
+                                                                  Hardy's pattern of vexatious litigation may stem from mental
+litigation, and abuse already overloaded court dockets.”
+                                                                  illness. In 2011, he was diagnosed as having bipolar disorder
+Porton v. SP One, Ltd., No. 6:15-cv-566–Orl-40KRS, 2015
+                                                                  with severe psychotic features. ECF No. 194, PageID.2141.
+WL 1648893, at *2 (M.D. Fla. Apr. 13, 2015) (cleaned
+                                                                  He is disabled and receives Supplemental Security Income.
+up); see also Simmons v. Henry Ford Health Sys., No. 18-
+                                                                  ECF No. 2, PageID.12-13. And though he describes himself
+cv-14058, 2023 WL 1767473, at *4 (E.D. Mich. Feb. 3,
+                                                                  as a “65-year-old male who suffers in memory lost, paranoia,
+2023).
+                                                                  schizoaffective and bipolar disorders,” he acknowledges that
+                                                                  he “stopped taking his psychotropic medications about 4
+*12 Applying these factors, dismissal is proper here.
+                                                                  years ago.” ECF No. 88, Page.725-726. Hardy's paranoia
+                                                                  might also explain his repeated calls to 911 complaining about
+For the first factor, to qualify as “bad faith, willfulness,
+                                                                  his neighbor(s) possessing a firearm, as well as the responding
+or fault,” a party's conduct “must display either an intent
+                                                                  officials' apparent failure to find wrongdoing on the part of
+to thwart judicial proceedings or a reckless disregard for
+                                                                  the neighbor(s).
+the effect of [his] conduct on those proceedings.” Mulbah
+v. Detroit Bd. of Educ., 261 F.3d 586, 591 (6th Cir. 2001)
+                                                                  Whatever the cause, Hardy has been stubbornly disobedient
+(quoting Shepard Claims Serv. v. William Darrah & Assocs.,
+                                                                  of court rules and orders. The bad faith factor is satisfied.
+796 F.2d 190, 194 (6th Cir. 1986)). There must be “a clear
+record of delay or contumacious conduct” that is “perverse in
+                                                                   *13 Addressing the second factor, defendants have been
+resisting authority and stubbornly disobedient.” Carpenter v.
+                                                                  prejudiced by having to waste time and resources filing
+City of Flint, 723 F.3d 700, 704-05 (6th Cir. 2013) (cleaned
+                                                                  responses and motions to strike Hardy's endless, meritless,
+up). The type of conduct to which the bad-faith standard
+                                                                  and repetitive filings. The Court resisted defendants' efforts
+applies includes a pattern of violating court orders; “delaying
+                                                                  in April 2025 to dismiss Hardy's complaint based on his
+or disrupting the litigation”; or “hampering enforcement of a
+                                                                  repeated failures to follow orders about his proposed amended
+court order.” Metz v. Unizan Bank, 655 F.3d 485, 489 (6th Cir.
+                                                                  complaints. ECF No. 83; ECF No. 110; ECF No. 115.
+2011) (cleaned up); Simmons, 2023 WL 1767473, at *4.
+                                                                  In the R&R to deny the motion to dismiss, the Court
+                                                                  found that “Hardy was at fault for failing to follow the
+As described above, despite the Court's best efforts, Hardy
+                                                                  Court's instructions about amending his complaint” and that
+has continued to clog the docket with frivolous and improper
+                                                                  “defendants wasted time moving to strike Hardy's amended
+filings. He has been stubbornly resistant to the Court's
+                                                                  complaints.” ECF No. 110, PageID.850. But the Court found
+orders, persistently pursing relief that has already been
+                                                                  at the time that bad faith and a prior warning were lacking.
+rejected. For example, after the Court recommended that the
+                                                                  Id., PageID.850-851.
+Genessee County defendants be dismissed, Hardy repackaged
+arguments he had already made by filing a motion to strike.
+                                                                  After defendants' motion to dismiss was denied, Hardy
+After the Court rejected his proposed TAC because adding
+                                                                  intensified his practice of clogging the docket with repetitive,
+jail deputies would result in misjoinder, he filed a motion for
+                                                                  unauthorized, and meritless documents, multiplying the
+permissive joinder asking to add the same jail deputies. And
+
+
+               © 2026 Thomson Reuters. No claim to original U.S. Government Works.                                            10
+Hardy v. Whitaker, --- F.R.D. ---- (2026)
+
+
+prejudice to defendants. The prejudice Hardy has caused                          adequate to protect the courts and
+defendants warrants dismissal of this case.                                      other parties. Ultimately, the question
+                                                                                 the court must answer is whether a
+For the third factor, Hardy has been warned repeatedly that                      litigant who has a history of vexatious
+he faced dismissal of his complaint if he continued to fail to                   litigation is likely to continue to abuse
+follow procedural rules or orders, or file frivolous motions.                    the judicial process and harass other
+ECF No. 146, PageID.1483; ECF No. 151, PageID.1501;                              parties.
+ECF No. 162, PageID.1722-1744. Rather than heeding those
+warnings, he moved for the Court to recuse itself, accusing
+it of “repeatedly [bashing him] over the head with threats of       Kersh v. Borden Chem., a Div. of Borden, Inc., 689 F. Supp.
+sanctions and dismissal because of errors in pleadings, acting      1442, 1450 (E.D. Mich. 1988) (cleaned up). Application of
+pro se.” ECF No. 181, PageID.1815. Hardy's refusal to respect       these factors supports the issuance of an injunction.
+the Court's warnings supports dismissal of his complaint.
+                                                                    Addressing the first consideration, Hardy has an extensive
+And as to the fourth factor, the Court has considered               history of filing meritless lawsuits. Assessing Hardy's motives
+other sanctions, but for the reasons stated above, finds that       in pursuing litigation, the second consideration, the Court
+monetary sanctions and revoking his IFP status would be             believes that his litigious conduct stems from his mental
+ineffective.                                                        illnesses and the ample time that he has on his hands because
+                                                                    of his disability. The third consideration highlights that
+                                                                    filing injunctions are especially appropriate for unrepresented
+                      Filing Injunction                             litigants like Hardy with histories of filing repetitive,
+                                                                    frivolous, or vexatious lawsuits. See also Gilmore-Bey v.
+“There is nothing unusual about imposing prefiling                  Schneider, No. 24-cv-10689, 2025 WL 1618975, at *7 (E.D.
+restrictions in matters with a history of repetitive or vexatious   Mich. May 29, 2025); Jones, 2020 WL 4812700, at *2;
+litigation.” Feathers v. Chevron U.S.A., Inc., 141 F.3d 264,        Johnson v. Bell, No. 2:15-cv-0048, 2016 WL 5339599, at *5
+269 (6th Cir. 1998). There is nothing wrong with an order           (W.D. Mich. Jan. 15, 2016).
+that “restrains not only an individual litigant from repeatedly
+filing an identical complaint, but that places limits on             *14 As to the fourth consideration, Hardy has caused
+a reasonably defined category of litigation because of a            needless expenses to other parties and has unnecessarily
+recognized pattern of repetitive, frivolous, or vexatious cases     burdened the courts and personnel in this district and the
+within that category.” Id.                                          Western District of Michigan. And the prejudice other parties
+                                                                    experience in having to respond to Hardy's frivolous motions
+To determine whether a permanent injunction is warranted,           is ongoing in other cases. For example, in Hardy v. Genessee
+courts consider:                                                    County, he has moved for judgment on the pleadings under
+                                                                    Rule 12(c), arguing that the Court “must accept all factual
+                                                                    allegations in the complaint as true.” Case No. 24-cv-11190,
+             (1) the litigant's history of litigation               ECF No. 58, PageID.393 (emphasis added). But when
+             and in particular whether it entailed                  considering a Rule 12(c) motion, the Court must accept as
+             vexatious, harassing or duplicative                    true “all well-pleaded material allegations of the pleadings
+             lawsuits; (2) the litigant's motive in                 of the opposing party.” Moderwell v. Cuyahoga Cty., 997
+             pursuing the litigation, e.g., does the                F.3d 653, 659 (6th Cir. 2021) (cleaned up, emphasis added).
+             litigant have an objective good faith                  Despite filing dozens of lawsuits over decades, Hardy does
+             expectation of prevailing?, (3) whether                not understand the basic rules of civil procedure. For the fifth
+             the litigant is represented by counsel;                consideration, no other sanctions will protect the Court and
+             (4) whether the litigant has caused                    other parties from Hardy's litigiousness.
+             needless expense to other parties or
+             has posed an unnecessary burden on                     When it comes to the ultimate question, “whether a litigant
+             the courts and their personnel; and                    who has a history of vexatious litigation is likely to continue
+             (5) whether other sanctions would be                   to abuse the judicial process and harass other parties,” Kersh,
+
+
+
+                © 2026 Thomson Reuters. No claim to original U.S. Government Works.                                             11
+Hardy v. Whitaker, --- F.R.D. ---- (2026)
+
+
+
+689 F. Supp. at 1450 (E.D. Mich. 1988), a filing injunction is        • attach as an exhibit to that motion a declaration under 28
+appropriate even when the vexatious litigation has occurred              U.S.C. § 1746, or a sworn affidavit, certifying that his
+within a single lawsuit. See Jones, 2020 WL 4812700, at                  complaint is not prohibited by the permanent injunction,
+*2 (“Although Jones has not filed a series of duplicative                and that it is not frivolous or made in bad faith;
+lawsuits, he has filed a multitude of motions, amendments,
+and requests that reflect his refusal to accept that his lawsuit      • identify and list in a second exhibit: (1) the full caption of
+has been dismissed.”). In this case alone, Hardy has filed a             every suit which has been previously filed by him or on
+multitude of motions, proposed amendments to his complaint,              his behalf in any court against every defendant in the suit
+and unauthorized supplements, and has refused to accept the              that he wishes to file, and (2) the full caption of every
+Court's decisions in orders and R&Rs. And Hardy's history                suit which he has currently pending;
+of filing 42 total civil lawsuits is extraordinary. There can
+be no question that Hardy will continue to abuse the judicial         • provide, in a third exhibit, a copy of each complaint
+process and unnecessarily burden opposing parties if no filing          covered by the preceding paragraph and a certified
+injunction is imposed.                                                  record of its disposition. He must serve a copy of this
+                                                                        order on each defendant if leave to file is granted; and
+Thus, an injunction should be entered against Hardy that is
+                                                                      • attach the order granting the permanent injunction to any
+“sufficiently tailored to the vice so as not to infringe upon the
+                                                                         new action that he may file in any court.
+litigator's right of access to the courts.” Ortman v. Thomas,
+906 F. Supp. 416, 422 (E.D. Mich. 1995). The injunction             The injunction should state that it does not impair Hardy's
+should preclude him from:                                           ability to defend himself in any criminal action. Finally, the
+                                                                    Court should retain jurisdiction to modify this injunction as
+    • filing any new federal actions in the Eastern District of
+       Michigan without obtaining leave of court, and order that    necessary where circumstances may change. 11
+       any action filed without leave be stricken; and
+
+    • filing any new action in “any court whatsoever (state            IV. Conclusion
+       or federal) against any state or federal judge, officer       *15 The Court RECOMMENDS that this case be
+       or employee, or court employee, for actions taken in         DISMISSED WITH PREJUDICE under Rule 41(b), and
+       the course of their official duties as a judge, officer,     that Hardy be enjoined from filing new actions as described
+       employee, or court employee,” without leave of court.        above.
+       Kersh, 689 F. Supp. at 1452.
+
+To obtain leave to file a new action, Hardy should be ordered       All Citations
+to:
+                                                                    --- F.R.D. ----, 2026 WL 575225
+    • file a “Motion Pursuant to Court Order Seeking Leave to
+       File” with any proposed complaint;
+
+
+
+
+                                                            Footnotes
+
+
+1        The Amended Complaint does not provide the first names of the Genesee County Defendants.
+
+2        Notably, it is unclear from Plaintiff's Amended Complaint which of the Genessee County Defendants are
+         accused of committing which acts of excessive force. See ECF No. 93 at PageID.760–62.
+
+1        Citing “Gregory Hardy v. Community Mental Health, et al., 1:16-cv-815 (dismissed for failing to pay filing fee)
+         (ECF No. 11, PageID.65); Gregory Hardy v. Community Mental Health, et al., No. 1:16-cv-1415 (Judgment
+         for defendants); Gregory Hardy v. Ingham County Jail, et al., 1:17-cv-20 (Judgment for defendants); Gregory
+
+
+
+                 © 2026 Thomson Reuters. No claim to original U.S. Government Works.                                             12
+Hardy v. Whitaker, --- F.R.D. ---- (2026)
+
+
+       Hardy v. East Lansing Police Department, et al., 1:17-cv-338 (Judgment for defendants); Gregory Hardy v.
+       City Rescue Mission of Lansing, et al., 1:18-cv-628 (Judgment for defendants); Gregory Hardy v. Ingham
+       County Jail, et al., 1:18-cv-839 (Judgment for defendants); Gregory Hardy v. Letavis Enterprises, Inc., et al.,
+       1:18-cv-1077 (dismissed for failure to state a claim); and, Gregory Hardy v. Bill Johnston, et al., 1:20-cv-649
+       (case dismissed).” Hardy v. Lansing Police Dep't, 2021 WL 12258029 at *2.
+
+2      The parties described the motion as one to dismiss, but it was really a MJOP under Federal Rule of Civil
+       Procedure 12(c).
+
+3      Referring to Terry v. Ohio, 392 U.S. 1 (1968).
+
+4      Referring to Brady v. Maryland, 373 U.S. 83 (1963).
+
+5      The Court has not checked all of Hardy's filings for fake citations; there may be other instances of him using
+       them.
+
+6      Perry filed his MSJ on January 9, 2026. ECF No. 210.
+
+7      AI       Hallucination    Cases,       https://www.damiencharlotin.com/hallucinations/?q=&sort_by=-
+       date&states=USA&period_idx=0&page=2 (last visited on January 9, 2025).
+
+8      See Youn v. Track, Inc., 324 F.3d 409, 420 (6th Cir. 2003); Coppedge v. United States, 369 U.S. 438, 445
+       (1962); Molter v. Trinity Health, ___ F.Supp.3d ___, 2025 WL 3295122, at *4 (E.D. Mich. Nov. 26, 2025).
+
+9      When the pro se plaintiffs have electronic document upload privileges, revoking those privileges is another
+       sanction to consider. Hardy does not have those privileges. See Evans v. Robertson, No. 24-13435, 2025
+       WL 3243458, at *3-4 (E.D. Mich. Nov. 20, 2025) (revoking parties' pro se electronic upload privileges as
+       sanctions after parties filed briefs with factitious citations).
+
+10     These factors are the same whether proceeding under Federal Rules of Civil Procedure 16(f), 37, 41(b), or
+       the Court's inherent authority. Mager v. Wisc. Cent. Ltd., 924 F.3d 831, 837 (6th Cir. 2019); Coleman v. Am.
+       Red Cross, 23 F.3d 1091, 1094 n.1 (6th Cir. 1994).
+
+11     This recommended injunction borrows heavily from, and is supported by, Kersh, 689 F. Supp at 1452-53,
+       and Shophar v. Gorski, No. 17-cv-13322, 2018 WL 4442268, at *5 (E.D. Mich. Sept. 18, 2018).
+
+
+
+End of Document                                          © 2026 Thomson Reuters. No claim to original U.S. Government Works.
+
+
+
+
+               © 2026 Thomson Reuters. No claim to original U.S. Government Works.                                      13
+

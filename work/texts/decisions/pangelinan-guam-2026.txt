@@ -1,0 +1,745 @@
+                    IN THE SUPREME COURT OF GUAM
+
+
+
+                   IN THE MATTER OF THE ESTATE OF
+                       JOSE AGUON PANGELINAN,
+                                      Deceased.
+
+
+                          Supreme Court Case No. CVA25-007
+                          Superior Court Case No. PR0004-24
+
+
+                                      OPINION
+
+
+                                Cite as: 2026 Guam 5
+
+                        Appeal from the Superior Court of Guam
+                       Argued and submitted on October 27, 2025
+                                   Hagåtña, Guam
+
+
+
+Appearing for Petitioner-Appellant:           Appearing for Cross-Petitioner-Appellee
+Gregory P. Schacher, pro se                   Family Finance Company, Inc.:
+327-535 Ch. Pale RH, Ste. 116                 Oliver Weston Bordallo, Esq.
+Yigo, GU 96929                                502 Agana Bay Condominium
+                                              182 Trankilo St.
+                                              Tamuning, GU 96913
+In re Est. of Pangelinan, 2026 Guam 5, Opinion                                                          Page 2 of 16
+
+
+BEFORE: ROBERT J. TORRES, Chief Justice; F. PHILIP CARBULLIDO, Associate Justice;
+KATHERINE A. MARAMAN, Associate Justice.1
+
+
+MARAMAN, J.:
+
+[1]     Pro se Appellant Gregory P. Schacher appeals the probate court’s decision and order:
+
+(1) denying his petition for letters testamentary and for appointment as executor of the Estate of
+
+Jose Aguon Pangelinan (“the Estate”), (2) finding he engaged in the unauthorized practice of law,
+
+(3) finding he was incompetent due to improvidence or want of understanding, and (4) appointing
+
+Attorney Oliver Weston Bordallo—counsel for the Estate’s creditor—as administrator.
+
+[2]     The probate court abused its discretion by applying the wrong legal standard, requiring
+
+Schacher to obtain legal counsel before submitting his petition, even though he was not legally
+
+required to do so.
+
+[3]     We reverse the probate court’s decision and order and remand with instructions to appoint
+
+Schacher as executor.
+
+                         I. FACTUAL AND PROCEDURAL BACKGROUND
+
+[4]     Pangelinan took out a loan from Family Finance Company, Inc. (“FFC”) in 2004 and
+
+consolidated it in 2011. In 2019, FFC sued Pangelinan and obtained a default judgment of
+
+$258,550.78.
+
+[5]     Pangelinan executed a will, appointing his nephew, Schacher, as his executor and naming
+
+eight beneficiaries, including Schacher. The Estate includes at least three lots of real property, two
+
+of which—5309 and 5312—are ancestral properties that were returned to Pangelinan as part of the
+
+Guam Ancestral Lands Act of 1999, codified at 21 GCA ch. 80. Between 1997 and 2021,
+
+Pangelinan allegedly recorded transfers of portions of or entire lots to at least seven individuals
+
+
+        1
+             The signatures in this opinion reflect the titles of the Justices at the time this matter was argued and
+submitted.
+In re Est. of Pangelinan, 2026 Guam 5, Opinion                                           Page 3 of 16
+
+
+through deeds of gift, warranty deeds, sales contracts, and land sale agreements. Pangelinan may
+
+have terminated at least one of these transfers. Record on Appeal (“RA”), tab 13 (Decl. Creditor
+
+FFC’s Couns., May 20, 2024), Ex. 5 (Notice of Term’n Contract, Dec. 11, 2013). On March 3,
+
+2021, Pangelinan executed a notarized deed of gift conveying lots 5309, 5312, and 5316 to
+
+Schacher. Pangelinan died testate on January 15, 2022. The deed of gift from Pangelinan to
+
+Schacher was recorded on July 7, 2022, six months after Pangelinan’s death and after several other
+
+deeds had been recorded for the same property.
+
+[6]     Schacher filed a petition to admit Pangelinan’s will to probate and to be appointed executor
+
+in accordance with the will. Three named beneficiaries in Pangelinan’s will signed notarized
+
+appearance and consent forms in support of Schacher’s appointment as executor of the Estate. The
+
+four other named beneficiaries did not sign consent forms for Schacher’s appointment.
+
+[7]     On behalf of FFC, Attorney Bordallo filed an objection to Schacher’s petition. FFC did
+
+not contest the will. Instead, FFC objected to Schacher as executor, arguing that Schacher (1) had
+
+a history of unauthorized practice of law, (2) was allegedly involved in Pangelinan’s “colorful
+
+history of shady dealings,” and (3) had a conflict of interest because he has an adverse claim
+
+against the Estate. See generally RA, tab 14 (Creditor FFC’s Objs. Pet. Probate Will & for Letters,
+
+May 20, 2024); RA, tab 15 at 10 (Mem. P. & A. Supp. Opp’n Pet. Will, May 20, 2024). As for
+
+FFC’s second argument, FFC claimed this because (a) Schacher was a co-defendant alongside
+
+Pangelinan in Superior Court Case No. CV0207-14 for terminating a contract of sale (dismissed
+
+with prejudice), (b) “strong evidence” that Schacher was committing fraud as Schacher recorded
+
+a deed of gift from Pangelinan to himself six months after Pangelinan’s death, and (c) Schacher
+In re Est. of Pangelinan, 2026 Guam 5, Opinion                                                   Page 4 of 16
+
+
+offered an inaccurate estimated estate value2 in his petition. RA, tab 15 at 3 (Mem. P. & A. Supp.
+
+Opp’n Pet. Will).
+
+[8]     Attorney Bordallo argued that Schacher could not serve as executor without legal
+
+representation because a quiet-title action would be necessary and because Schacher had a personal
+
+adverse claim against the Estate. Id. at 10; Tr. at 8 (Hr’g on Pet., Dec. 3, 2024). Schacher argued
+
+to the probate court that “Mr. Bordallo has a bill to collect from the estate and . . . he’s jumping
+
+the gun on this and aspires to become the administrator.” Tr. at 5 (Hr’g on Pet.).
+
+[9]     In an initial order, the probate court found that Schacher “effectively engaged in the
+
+unauthorized practice of law by presenting pleadings on behalf of others despite not being admitted
+
+to practice law in Guam.” RA, tab 16 at 1 (Order, May 20, 2024). Specifically, the probate court
+
+determined that because there were other beneficiaries, Schacher needed an attorney to submit a
+
+petition for probate of the will and for letters testamentary, and to serve as executor.
+
+[10]    Schacher struggled to comply with the probate court’s initial order because of the lack of
+
+attorneys on Guam. The probate court recognized that it is difficult to find legal representation on
+
+Guam, explaining, “It’s not a secret that there’s a huge shortage of attorneys on Guam. There are
+
+just simply not enough.” Tr. at 4 (Hr’g on Pet.).
+
+[11]    Schacher moved for reconsideration, arguing “that the presence of other beneficiaries does
+
+not negate my right to self-representation, especially as I am the sole petitioner named in the
+
+petition.” RA, tab 27 at 2 (Mot. Rescind Order Req’g Couns. & Recons. Approving Pet., Dec. 3,
+
+2024). Schacher also argued, “At no point did I intend or attempt to represent others or solicit
+
+
+
+
+        2
+            Attorney Bordallo argued that it was too soon to provide an estimate because “upstream” probate
+proceedings are still ongoing in Superior Court Case Nos. PR0058-04, PR0009-16, and PR0175-19. See RA, tab 15
+at 2, 4, 7–8 (Mem. P. & A. Supp. Opp’n Pet. Will, May 20, 2024).
+In re Est. of Pangelinan, 2026 Guam 5, Opinion                                            Page 5 of 16
+
+
+legal services or engage in the unauthorized practice of law. I submitted pleadings only on my
+
+own behalf as allowed by law.” Id.
+
+[12]    After Schacher “failed to comply with the Court’s order to retain counsel within ninety
+
+(90) days to continue his petition,” the probate court found him incompetent “to serve as executor
+
+by reason of either improvidence or want of understanding,” focusing on the fact that he is not an
+
+attorney and did not hire one. RA, tab 29 at 4 (Dec. & Order, Mar. 6, 2025). The probate court
+
+granted Attorney Bordallo’s petition for letters of administration and appointed him, an attorney
+
+for the Estate’s creditor FFC, to serve as the Estate’s personal representative. Id.
+
+[13]    Schacher timely filed a notice of appeal in which he requested “that this Court issue an
+
+immediate temporary stay of the Appointment of the Personal Representative, Oliver Weston
+
+Bordallo, pending a full hearing on this request.” RA, tab 31 at 2 (Notice of Appeal, Apr. 1, 2025).
+
+We excused Schacher’s noncompliance with the Guam Rules of Appellate Procedure in
+
+consideration of his pro se status. No response was filed to Schacher’s request for relief. We
+
+stayed the probate court’s decision and order finding Schacher incompetent and appointing
+
+Attorney Bordallo as administrator of the Estate.
+
+[14]    Attorney Bordallo submitted an entry of appearance as appellee.
+
+                                           II. JURISDICTION
+
+[15]    This court has jurisdiction over probate court orders granting letters of administration with
+
+the will annexed. 7 GCA § 25102(k) (2005); 15 GCA § 3433 (2005).
+
+                                    III. STANDARD OF REVIEW
+
+[16]    “We review questions of law de novo.” Ests. of Torres v. Est. of Cruz ex rel. Guzman,
+
+2011 Guam 4 ¶ 17 (citing Nissan Motor Corp. in Guam v. Sea Star Grp. Inc., 2002 Guam 5 ¶ 10).
+In re Est. of Pangelinan, 2026 Guam 5, Opinion                                            Page 6 of 16
+
+
+“The interpretation of a statute is a legal question subject to de novo review.” Lujan v. Est. of
+
+Rosario, 2016 Guam 28 ¶ 15 (quoting Guerrero v. Santo Thomas, 2010 Guam 11 ¶ 8).
+
+[17]    We review for abuse of discretion the probate court’s refusal to grant letters testamentary
+
+to the executor named in the will. See Sapp. v. Rogers (Est. of Sapp), 248 Cal. Rptr. 3d 244, 258
+
+(Ct. App. 2019). The probate court “abuses its discretion when its decision is based on clearly
+
+erroneous factual findings or an incorrect legal standard.” See Lujan, 2016 Guam 28 ¶ 14 (quoting
+
+Agana Beach Condo. Homeowners’ Ass’n v. Untalan, 2015 Guam 35 ¶ 12). We will not reverse
+
+the probate court’s findings of fact for abuse of discretion unless they are clearly erroneous. See
+
+Gov’t of Guam v. O’Keefe ex rel. Heirs of Torres Est., 2018 Guam 4 ¶ 13; In re Leon Guerrero,
+
+2005 Guam 1 ¶ 15.
+
+[18]    “[W]e give deference to a pro se party’s litigation efforts.” Linsangan v. Gov’t of Guam,
+
+2020 Guam 27 ¶ 34 (per curiam) (collecting cases); accord Erickson v. Pardus, 551 U.S. 89, 94
+
+(2007) (per curiam); see also Schoene v. Spirit Airlines, Inc., 726 F. Supp. 3d 1248, 1255 (D. Or.
+
+2024) (“A court must liberally construe the filings of a self-represented, or pro se, plaintiff and
+
+afford the plaintiff the benefit of any reasonable doubt.” (citing Hebbe v. Pliler, 627 F.3d 338, 342
+
+(9th Cir. 2010))). “We also ‘provide lenient treatment’ of those efforts and give the parties ‘every
+
+fair opportunity to present their case[].’” Allen v. Richardson, 2020 Guam 13 ¶ 8 (quoting Caspino
+
+v. Caspino, DCA Civ. No. 87-00065A, S.C. Domestic No. 1445-86, 1988 WL 242619, at *2 (D.
+
+Guam App. Div. June 7, 1988)).
+
+                                             IV. ANALYSIS
+
+[19]    “Because the Guam Legislature enacted a probate code substantially similar to the
+
+California Probate Code in 1953, we look to California case law for interpretation.” Zahnen v.
+
+Limtiaco, 2008 Guam 5 ¶ 17 (citing People v. Angoco, 2007 Guam 1 ¶ 52 n.4). “A testator’s
+In re Est. of Pangelinan, 2026 Guam 5, Opinion                                             Page 7 of 16
+
+
+selection of an executor should not be annulled except on a clear showing that the best interests of
+
+the estate require it.” Morse v. Buchman (In re Buchman’s Est.), 267 P.2d 73, 80 (Cal. Dist. Ct.
+
+App. 1954) (citing Sherman v. Cohn (In re Sherman’s Est.), 56 P.2d 230, 236 (Cal. 1936) (in
+
+bank)). There is no requirement that a person have a law license, or retain legal counsel, to submit
+
+a will to probate or be appointed executor of an estate. See 15 GCA § 1507(a) (2005) (“A petition
+
+for the probate of a will and for the grant of letters testamentary . . . must be in writing, signed by
+
+the petitioner or the petitioner’s counsel . . . .” (emphasis added)); see also 15 GCA §§ 1701, 1725,
+
+1811 (2005). The probate court has no discretion to find a person incompetent solely because they
+
+are not an attorney or do not have one. See 15 GCA § 1701(c)(5); see also Backer v. Backer (Est.
+
+of Backer), 211 Cal. Rptr. 163, 165 (Ct. App. 1985); In re Bauquier’s Est., 26 P. 178, 179–80 (Cal.
+
+1891) (in bank), aff’d, 26 P. 532 (Cal. 1891) (per curiam).
+
+A. The Probate Court Abused Its Discretion When It Found Schacher Incompetent for Not
+   Having Legal Counsel or a Law License
+
+[20]    Petitioners are presumed competent to be executors unless proven otherwise, In re Olcese’s
+
+Est., 291 P. 193, 195–96 (Cal. 1930) (in bank) (per curiam). Attorney Bordallo failed to meet his
+
+burden of proving Schacher’s incompetency, see Farnham v. Gordon (In re Est. of Gordon), 75 P.
+
+672, 674 (Cal. 1904). Courts have interpreted “improvidence” and “want of understanding”
+
+narrowly. See 15 GCA § 1701(c)(5); Davis v. Lyman (In re Davis’ Est.), 131 P.2d 557, 559 (Cal.
+
+Dist. Ct. App. 1942) (interpreting “improvidence”); In re Flood’s Will, 140 N.E. 936, 937 (N.Y.
+
+1923) (same); Olcese’s Est., 291 P. at 196 (collecting cases) (interpreting “want of
+
+understanding”); Bauquier’s Est., 26 P. at 180 (interpreting “want of understanding”); Berry v.
+
+Hamilton, 51 Ky. 191, 193 (12 B. Mon. 191) (1851) (interpreting “want of understanding”). The
+
+probate court found that, because Schacher lacked a law license, he was not “competent to serve
+
+as executor by reason of either [(1)] improvidence or [(2)] want of understanding.” RA, tab 29 at
+In re Est. of Pangelinan, 2026 Guam 5, Opinion                                                          Page 8 of 16
+
+
+4 (Dec. & Order). “[T]here is a strong presumption of competency operating in favor of a
+
+petitioner for letters of administration, and the burden of proof rests upon one claiming otherwise.”
+
+Olcese’s Est., 291 P. at 195–96. “Every person is presumed to be sane, and in the full possession
+
+of ordinary mental faculties. Likewise it is presumed that he possesses a fair character for truth,
+
+honesty, and integrity.” Est. of Gordon, 75 P. at 674. “Where such presumption exists, it is neither
+
+necessary to allege matters in aid of such presumption nor does the law cast upon the petitioner
+
+the burden of proving them.” Id. As in Estate of Gordon, here, “all that the petitioner was required
+
+to show, in order to establish his right to letters, was that he was an heir at law. . . . As to the
+
+existence of any other matters which might disqualify him, the law raised a presumption in his
+
+favor of their nonexistence.” See id. Moreover, “any person contesting [an application for general
+
+grant of letters] on the ground of the incompetency of the applicant must allege his grounds of
+
+incompetency, and necessarily the burden of proof is upon him to establish his allegations in that
+
+regard.” Id. (citation omitted). As discussed below, Attorney Bordallo failed to meet his burden
+
+of proving incompetency based on either “improvidence” or “want of understanding.”3 See id.; 15
+
+GCA § 1701(c)(5).
+
+        1. There is no substantial evidence of “improvidence” in the record
+
+[21]    It appears only one California case interprets the meaning of “improvidence,” finding that
+
+“[k]eeping the money of his ward in a little box for over twenty years with no earnings and no
+
+accounting would in [that court’s] judgment, in the absence of justification or excuse, support a
+
+finding of improvidence.” Davis’ Est., 131 P.2d at 559. The Court of Appeals of New York
+
+explained that improvidence meant more than unsuccessfully managing one’s private estate or not
+
+
+
+        3
+            The probate court did not address Attorney Bordallo’s allegations of Schacher’s “want of integrity,” and
+that is not the basis on which the probate court made its decision and order. See RA, tab 29 at 4 (Dec. & Order, Mar.
+6, 2025); 15 GCA § 1701(c)(5) (2005).
+In re Est. of Pangelinan, 2026 Guam 5, Opinion                                              Page 9 of 16
+
+
+remembering making large payments, but that it “refers to habits of mind and conduct which
+
+become a part of the man, and render him generally, and under all ordinary circumstances, unfit
+
+for the trust or employment in question.” Flood’s Will, 140 N.E. at 937 (quoting Emerson v.
+
+Bowers, 14 N.Y. 449, 454 (1856)).
+
+[22]    The probate court provided no factual basis or analysis for its finding of improvidence, see
+
+RA, tab 29 at 4 (Dec. & Order), and we look to the entire record for substantial evidence of such
+
+improvidence, see Lujan v. Tebo, 2024 Guam 15 ¶ 17 (per curiam). Attorney Bordallo alleges
+
+improvidence, arguing that Schacher was involved in Pangelinan’s “colorful history of shady
+
+dealings” and making several claims of Schacher’s bad faith. RA, tab 15 at 1 (Mem. P. & A. Supp.
+
+Opp’n Pet. Will). Attorney Bordallo implies that Schacher intentionally tried to deceive the
+
+probate court when he submitted his petition for letters testamentary. Appellee’s Br. at 18 (Aug.
+
+4, 2025) (“Schacher made no effort to address or explain the materially false representation in his
+
+petition that: ‘The decedent is survived by: No . . . issue.’”). While Attorney Bordallo argues that
+
+Schacher did not include or notify Pangelinan’s “numerous nieces and nephews,” RA, tab 14 ¶ 16
+
+(Creditor FFC’s Objs. Pet. Probate Will & for Letters), we attribute this omission to the legalese
+
+“issue” rather than to bad faith. There is no evidence in the record to support Attorney Bordallo’s
+
+claims of Schacher’s bad faith, and the probate court abused its discretion when it found Schacher
+
+incompetent for “improvidence.” See 15 GCA § 1701(c)(5).
+
+        2. There is no substantial evidence of “want of understanding” in the record
+
+[23]    The California Supreme Court interpreted the meaning of “want of understanding”:
+
+        The expression ‘want of understanding’ means that petitioner must have a want of
+        common intelligence amounting to a defect in intellect. For example, it has been
+        held that failure to understand the law applicable to administration, inability to read,
+        write, or speak the English language, old age, unfamiliarity with large business
+        affairs—none of these are sufficient to disqualify one otherwise entitled to letters.
+In re Est. of Pangelinan, 2026 Guam 5, Opinion                                             Page 10 of 16
+
+
+Olcese’s Est., 291 P. at 196 (emphasis added) (citation omitted) (collecting cases). The same court
+
+remarked, regarding the lack of any of these skills, that: “It is true, they may render it difficult for
+
+[an executor] to perform some of her duties properly, yet they do not render it impossible.”
+
+Bauquier’s Est., 26 P. at 180. Since an understanding of the law applicable to administration is
+
+not required to serve as an executor, a law license is not required either. See Olcese’s Est., 291 P.
+
+at 196.
+
+[24]      An earlier case in Kentucky explains that “generally speaking, all persons who are capable
+
+of making wills and some others beside, are capable of being made executors” and that “poverty
+
+or insolvency is no objection.” Berry, 51 Ky. at 193 (quoting Williams on Executors, vol. i at 112,
+
+119). The court further explained that “idiots and lunatics are incapable of being executors or
+
+administrators; for these disabilities render them not only incapable of executing the trust reposed
+
+in them, but also by their insanity and want of understanding, they are incapable of determining
+
+whether they will take upon them the trust or not.” Id. (quoting Williams on Executors, vol. i at
+
+121).
+
+[25]      Based on the plain language of 15 GCA § 1701(c)(5) and caselaw interpreting the
+
+definition, a person must be severely incapacitated or disabled to be deemed to have a “want of
+
+understanding.”
+
+[26]      Attorney Bordallo made several allegations of incompetence in his initial objections to
+
+Schacher’s appointment, including that Schacher was pro se. See RA, tab 14 ¶¶ 15–17 (Creditor
+
+FFC’s Objs. Pet. Probate Will & for Letters). The probate court never found a “defect in intellect.”
+
+Instead, it found that Schacher was not a lawyer and did not hire one, and incorrectly concluded
+
+this meant Schacher was incompetent. RA, tab 29 at 1–4 (Dec. & Order).
+In re Est. of Pangelinan, 2026 Guam 5, Opinion                                            Page 11 of 16
+
+
+[27]    Despite the Supreme Court of California’s recognition that the probate court’s “opportunity
+
+to observe the appearance and demeanor of appellant on the stand and his manner of answering
+
+questions . . . should be given great weight,” the court clarified that it did “not feel that a finding
+
+of want of understanding, implying as it does a defect in intellect, should be predicated upon that
+
+fact alone.” Olcese’s Est., 291 P. at 196 (citation omitted). The court reasoned that “[s]uch a rule
+
+would be exceedingly dangerous to litigants and would, in effect, deprive [an appellate] court of
+
+its power of review in such cases.” Id.
+
+[28]    Nothing appears in the record to suggest Schacher suffers from “a want of common
+
+intelligence amounting to a defect in intellect.” See id. Schacher submitted the petition for letters
+
+testamentary; defended claims against Attorney Bordallo; filed several pleadings; and initiated,
+
+briefed, and argued this appeal. Schacher’s cogent oral arguments and pleadings before the probate
+
+court and on appeal do not suggest a “want of common intelligence amounting to a defect in
+
+intellect.” See id. Attorney Bordallo did not meet his burden of establishing the facts necessary
+
+for the probate court to find Schacher incompetent under 15 GCA § 1701(c)(5). See Est. of
+
+Gordon, 75 P. at 674. Thus, the probate court abused its discretion when it found Schacher
+
+incompetent for “want of understanding” for not being a lawyer and for not finding one. See
+
+Bauquier’s Est., 26 P. at 180.
+
+B. Neither a Law License nor Legal Counsel Is Required to Submit a Petition for Letters
+   Testamentary and Appointment as Executor to Probate
+
+[29]    The central issue is whether a law license is required to serve as an executor when there
+
+are multiple named beneficiaries or at least one creditor, and the named executor has a potential
+
+adverse claim against the Estate. See Appellee’s Br. at 3–4.
+
+[30]    Schacher argues that “representing an estate does not automatically constitute unauthorized
+
+practice of law, especially where the executor is also a beneficiary and has no adverse interest.”
+In re Est. of Pangelinan, 2026 Guam 5, Opinion                                                              Page 12 of 16
+
+
+Appellant’s Am. Br. at 12 (June 30, 2025).4 Attorney Bordallo argues that “allowing fiduciaries,
+
+including executors and administrators, to adjudicate probate claims and issues on behalf of a
+
+decedent’s estate, without competent representation, may prejudice the rights of other parties
+
+interested in the estate.” Appellee’s Br. at 10. Attorney Bordallo recognizes that California
+
+caselaw is persuasive, yet he cites cases from other jurisdictions without explaining why we should
+
+consider them more persuasive. See id. at 10–12.
+
+[31]     “[P]ro. per. representation by a personal representative is improper if the representation in
+
+effect permits a non-lawyer to practice law.” Pepper v. Superior Court (Brentwood Country Club),
+
+142 Cal. Rptr. 759, 764 (Ct. App. 1977) (citing City of Downey v. Johnson, 69 Cal. Rptr. 830, 836
+
+(Ct. App. 1968)). Moreover, “[a] person who is unlicensed to practice law and who represents a
+
+decedent’s estate cannot appear in propria persona on behalf of the estate in matters outside the
+
+probate proceedings.” Hansen v. Hansen, 7 Cal. Rptr. 3d 688, 691 (Ct. App. 2003); see also
+
+Johnson, 69 Cal. Rptr. at 833–34 (finding no authority preventing an executor without a law license
+
+from appearing unrepresented on behalf of an estate in probate proceedings); see generally
+
+Michael Hatfield, Pro Se Executors—Unauthorized Practice of Law, or Not?, 59 Baylor L. Rev.
+
+329 (2007) (using jurisdictional case studies to argue “why under Texas law an individual named
+
+as executor in a will has the right to offer the will for probate and otherwise appear in a probate
+
+court without hiring a lawyer”). However, California appellate courts suggest that executors may
+
+appear pro se within probate proceedings “affecting rights personal to [their] office as executor.”
+
+Johnson, 69 Cal. Rptr. at 834.
+
+
+
+          4
+            In Schacher’s opening brief, two nonexistent citations may be attributed to generative artificial intelligence
+use. See Appellant’s Am. Br. at 15 (June 30, 2025). We do not find sanctions warranted, considering Schacher’s pro
+se status and this being his initial appearance before the court. However, we reiterate that “[i]t is the responsibility of
+attorneys, judges, and self-represented litigants to ensure the integrity of their final submissions.” Re: Adoption of the
+Judiciary of Guam Policy on Artificial Intelligence, ADM25-001, Ex. A (Admin. Order No. ADM25-001, Apr. 30,
+2025).
+In re Est. of Pangelinan, 2026 Guam 5, Opinion                                           Page 13 of 16
+
+
+[32]    Attorney Bordallo is incorrect that “the ‘within vs. outside probate court’ delineation in
+
+Johnson and Hansen has been disapproved” by Peralta v. Sanchez (Estate of Sanchez), 313 Cal.
+
+Rptr. 3d 109 (Ct. App. 2023), reh’g denied (2023), review denied (2023). Appellee’s Br. at 14.
+
+Rather, the Estate of Sanchez court clarified that even when proceeding in probate court, there is
+
+a “requirement that the personal representative retain counsel if proceeding against third parties
+
+for the benefit of the estate’s beneficiaries.” 313 Cal. Rptr. 3d at 120. The court explained that
+
+“the primary concern raised by a personal representative appearing in propria persona is that they
+
+are representing the interests of others and not just themselves.” Id. at 118; accord Donkin v.
+
+Donkin, 260 Cal. Rptr. 3d 844, 845–46 (Ct. App. 2020) (addressing this concern).
+
+[33]    Attorney Bordallo does not distinguish Estate of Sanchez from the issue presented by this
+
+appeal: whether Schacher committed the unauthorized practice of law by submitting a petition for
+
+letters testamentary. In Estate of Sanchez, the executor had been appointed, granted letters, and
+
+then filed a complaint in propria persona against third parties in the probate court “for the benefit
+
+of the estate’s beneficiaries, including herself.” 313 Cal. Rptr. 3d at 119. This is unlike Schacher’s
+
+situation, in which he filed a petition for his own appointment as executor, which is his statutory
+
+right, see 15 GCA §§ 1701, 1725(a)(1), 1805 (2005), and was denied because he could not find
+
+counsel at this preliminary stage. Unlike in Estate of Sanchez, where there was an unauthorized
+
+practice of law violation due to submissions purporting to represent others’ interests, here the
+
+probate court found a violation before any violation occurred. Estate of Sanchez holds that
+
+executors cannot sue third parties on behalf of other beneficiaries without retaining counsel. See
+
+313 Cal. Rptr. 3d at 120. It does not stand for the sweeping proposition that executors cannot file
+
+documents in probate court without an attorney.
+In re Est. of Pangelinan, 2026 Guam 5, Opinion                                           Page 14 of 16
+
+
+[34]    Attorney Bordallo also does not distinguish Hansen and Johnson from the issue of whether
+
+Schacher committed the unauthorized practice of law by submitting a petition for letters
+
+testamentary. Both cases involved already-appointed representatives attempting to litigate on
+
+behalf of beneficiaries in nonprobate proceedings. By contrast, Schacher appeals the probate
+
+court’s denial of his statutory right to be named executor because he is not an attorney and cannot
+
+hire one. In Johnson, there were multiple devisees, heirs, and creditors, and the decedent’s son
+
+proceeded pro se to represent his mother’s estate in probate proceedings. 69 Cal. Rptr. at 832–33.
+
+There, a condemnation proceeding removed the case from probate, and the decedent’s son had to
+
+retain an attorney. Id. at 834. In Hansen, a purported personal representative filed a separate civil
+
+action on behalf of the estate in propria persona. 7 Cal. Rptr. 3d at 689–90. Hansen stated that
+
+the estate’s personal representative “may have been able to present the claims asserted in the
+
+Complaint in a petition in the probate proceedings,” and that Johnson “suggests (but does not hold)
+
+a nonlawyer representative of a decedent’s estate may appear in propria persona on behalf of the
+
+estate in matters within the probate proceedings.” Id. at 691 (citing Johnson, 69 Cal. Rptr. at 834).
+
+[35]    A majority of federal courts recognize a pro se executor’s right to sue in federal court in
+
+limited circumstances. Iriele v. Griffin, 65 F.4th 1280, 1284 (11th Cir. 2023) (collecting cases).
+
+Because “a federal court has no jurisdiction to probate a will or administer an estate,” Markham v.
+
+Allen, 326 U.S. 490, 494 (1946), such cases are outside probate proceedings. Because at least six
+
+federal circuits allow pro se executors to bring suits outside probate court, it is not true that an
+
+unlicensed person cannot serve as executor of an estate. See Iriele, 65 F.4th at 1284.
+
+[36]    If there are no other beneficiaries or creditors, the law favors a pro se executor acting on
+
+behalf of the estate outside probate court: “[f]or [i]t is only a legal fiction that assigns the sole
+
+beneficiary’s claims to a paper entity – the estate – rather than the beneficiary himself.” Clark v.
+In re Est. of Pangelinan, 2026 Guam 5, Opinion                                                            Page 15 of 16
+
+
+Santander Bank, N.A., 122 F.4th 56, 59 (2d Cir. 2024) (second alteration in original) (quoting
+
+Guest v. Hansen, 603 F.3d 15, 21 (2d Cir. 2010)) (internal quotation marks omitted). However,
+
+when there are other beneficiaries or creditors, to determine whether an executor may proceed pro
+
+se, we consider whether: (1) the proceeding is within the probate court’s jurisdiction, (2) the
+
+proceeding involves matters personal to the executor’s office (e.g., appointment, fees), and (3) the
+
+executor is acting for their own benefit and in their own capacity. See Est. of Sanchez, 313 Cal.
+
+Rptr. 3d at 119–20. If the answer to all three elements is yes, the executor may proceed pro se,
+
+provided they are also competent and comply with all other provisions of the probate code.
+
+[37]     There is a significant difference between (1) submitting a will to probate and
+
+(2) proceeding against third parties in probate or other actions on behalf of an estate when not an
+
+attorney. The probate court skipped Schacher’s eligibility for the former, assuming that the latter
+
+would arise. Because there is no evidence of unauthorized practice of law in this record, we
+
+reverse.5
+
+C. Schacher Will Need Legal Counsel to Bring Claims for the Benefit of Other Beneficiaries
+
+[38]     The Estate may need to pursue a quiet-title action against multiple third parties, including
+
+Schacher. If Schacher were the sole beneficiary and there were no creditors, he could pursue the
+
+quiet-title action.6 However, because there are other beneficiaries and at least one creditor,
+
+Schacher will need legal counsel for any quiet-title action, as it does not involve matters personal
+
+to the executor’s office and would require the executor to act “for the benefit of the estate’s
+
+
+
+         5
+         In Guam, the illegal practice of law requires the representation of another or advertising such representation.
+7 GCA § 9A215(b) (2005). Performing legal services or appearing in court for oneself is expressly permitted. Id.
+§ 9A215(c)(1). Schacher submitted his own petition for letters testamentary and appeared for himself for his
+appointment as executor—which he has the right to do.
+         6
+           The probate court has jurisdiction over third-party claims when the third party is in privity with the estate.
+Zahnen v. Limtiaco, 2008 Guam 5 ¶ 20. An executor claiming part of the estate has been held to be in privity with the
+estate. Id. (citing Cent. Bank v. Superior Court, 285 P.2d 906, 909 (Cal. 1955) (in bank) (collecting cases)).
+In re Est. of Pangelinan, 2026 Guam 5, Opinion                                         Page 16 of 16
+
+
+beneficiaries.” Est. of Sanchez, 313 Cal. Rptr. 3d at 119. Eventually, Schacher must retain counsel
+
+for the quiet-title action, or disqualification as executor would be proper if he took this action
+
+without counsel. However, the occasion to disqualify Schacher has not arisen, as there is no
+
+evidence of any unauthorized practice of law violation in this record.
+
+                                           V. CONCLUSION
+
+[39]    Because Schacher did not need legal counsel to submit his petition for letters testamentary
+
+and appointment as executor, and there is no substantial evidence of “improvidence” or “want of
+
+understanding” in this record, we REVERSE. We REMAND with instructions to the probate
+
+court to appoint Schacher as executor of the Estate and for further proceedings not inconsistent
+
+with this opinion.
+
+
+
+
+                    /s/                                                /s/
+         F. PHILIP CARBULLIDO                              KATHERINE A. MARAMAN
+             Associate Justice                                 Associate Justice
+
+
+                                                 /s/
+                                          ROBERT J. TORRES
+                                             Chief Justice
+

@@ -1,0 +1,1062 @@
+   Case 1:25-cv-00510-SM-TSM   Document 18   Filed 08/26/26   Page 1 of 20
+
+
+
+                     UNITED STATES DISTRICT COURT
+
+                      DISTRICT OF NEW HAMPSHIRE
+
+
+Noella P. Turgeon,
+     Debtor.
+
+Noella P. Turgeon,                     Case No. 25-cv-0510-SM-TSM
+     Appellant,                        Opinion No. 2026 DNH 112
+
+     v.
+
+Federal Home Loan Mortgage
+Corporation, and Andrew M.
+Dudley, Chapter 13 Trustee,
+     Appellee.
+
+                               O R D E R
+
+     Noella P. Turgeon is a Chapter 13 debtor appealing a
+
+November 24, 2025, order by the bankruptcy court that dismissed
+
+her petition and declined jurisdiction over all remaining
+
+matters.    For the reasons discussed, the bankruptcy court’s
+
+decision is affirmed.
+
+
+                          STANDARD OF REVIEW
+
+     Federal district courts have jurisdiction to decide appeals
+
+from final judgments, orders, and decrees of the bankruptcy
+
+court.    28 U.S.C. § 158(a); In re Shove, 83 F.4th 102, 108 (1st
+
+Cir. 2023).    The court reviews factual findings for clear error,
+
+legal conclusions de novo, and discretionary decisions for abuse
+
+of discretion.    Id.; UMB Bank, N.A. v. MacMillin Co., LLC, 654
+
+B.R. 824, 827 (D.N.H. 2023), appeal dismissed sub nom. In re
+     Case 1:25-cv-00510-SM-TSM   Document 18   Filed 08/26/26   Page 2 of 20
+
+
+
+Prospect-Woodward Home, No. 23-2001, 2024 WL 2805540 (1st Cir.
+
+May 3, 2024); In re Hoover, 828 F.3d 5, 8 (1st Cir. 2016).
+
+“Under the clear error standard, [the court] defer[s] to the
+
+bankruptcy court’s factual findings unless, on the whole of the
+
+record, [the court] form[s] a strong, unyielding belief that a
+
+mistake has been made.”      In re Montreal, Maine & Atl. Ry., Ltd.,
+
+956 F.3d 1, 6 (1st Cir. 2020) (internal quotation marks
+
+omitted).     “Abuse of discretion occurs when the trial court
+
+ignores a material factor deserving significant weight, relies
+
+upon an improper factor, or assesses all proper and no improper
+
+factors, but makes a serious mistake in weighing them.”              Torres
+
+Lopez v. Consejo de Titulares del Condominio Carolina Ct. Apts.
+
+(In re Torres Lopez), 405 B.R. 24, 30 (B.A.P. 1st Cir. 2009).
+
+
+                                 BACKGROUND
+
+1.     Debtor’s Prior Bankruptcy Proceeding
+
+       Appellant/Debtor Turgeon filed a previous petition for
+
+bankruptcy in this district on June 3, 2024.           Her Schedule E/F
+
+in the case listed claims held by Federal Home Loan Mortgage
+
+Corporation (FHLMC) and Santander Consumer USA Inc.             Her Chapter
+
+13 plan proposed treating FHLMC’s mortgage claim of $288,146.45
+
+as unsecured pending resolution of Turgeon’s forthcoming
+
+adversary proceeding challenging FHLMC’s securitization.
+
+
+
+
+                                      2
+     Case 1:25-cv-00510-SM-TSM   Document 18   Filed 08/26/26   Page 3 of 20
+
+
+
+       The Chapter 13 Trustee moved to dismiss on August 13, 2025,
+
+because, inter alia, Turgeon was in arrears on plan payments by
+
+over $5000; she failed to properly serve notice with respect to
+
+her Chapter 13 plan; and she had not resolved a purported claim
+
+dispute regarding FHLMC’s mortgage on her property located at 28
+
+Donati Drive, in Hooksett (which was, at that time, over $46,000
+
+in arrears).
+
+
+     The bankruptcy court granted the Trustee’s motion on October
+
+4, 2024, and dismissed the case.          At that point, Turgeon still
+
+had yet to file an adversary proceeding (or any other
+
+litigation) against FHLMC.
+
+
+2.     2025 Bankruptcy Proceeding
+
+       On July 3, 2025, Turgeon again filed a voluntary petition
+
+for relief under Chapter 13 with the bankruptcy court.              On July
+
+18, 2025, Turgeon filed a Chapter 13 plan, which was noticed for
+
+hearing on September 12, 2025, along with other bankruptcy
+
+schedules and statements. 1      Turgeon’s Schedule D listed FHLMC’s
+
+claim as secured but disputed, and she did not list Santander’s
+
+claim at all (although she later amended her Schedule E/F to
+
+reflect the claim).
+
+
+
+
+1    The initial Chapter 13 plan provided for payments of
+$341.90/month for 60 months. Turgeon commenced making payments
+under that plan.
+                                      3
+   Case 1:25-cv-00510-SM-TSM    Document 18   Filed 08/26/26   Page 4 of 20
+
+
+
+     Santander and FHLMC filed objections to confirmation of the
+
+July 18 plan.   Santander filed “Proof of Claim No. 1,” asserting
+
+a $32,384.12 claim, secured by Turgeon’s Honda Pilot.             FHLMC
+
+filed “Proof of Claim No. 3,” asserting a $318,908.70 mortgage
+
+claim against Turgeon’s property at 28 Donati Drive, in Hooksett
+
+(now $82,105.36 in arrears).
+
+
+     On August 13, 2025, the Chapter 13 Trustee conducted the 11
+
+U.S.C. § 341(a) meeting.       The Trustee issued findings from that
+
+meeting on August 19, 2025, recommending against confirmation of
+
+the plan due to multiple issues.         Those issues included
+
+Turgeon’s failure to challenge the validity of either the
+
+Santander or FHLMC claim, despite asserting that she planned to
+
+do so.   On August 28, 2025, the Trustee filed a motion to
+
+dismiss, arguing that dismissal was warranted since Turgeon had
+
+failed to move forward with her challenge to Santander’s and
+
+FHLMC’s claims.   Nor had she amended her schedules to reflect
+
+her interest in the Hooksett property.
+
+
+     On September 9, 2025, Turgeon filed an amended Chapter 13
+
+plan, noticed for a confirmation hearing on October 24, 2025
+
+(the “Amended Plan”).    Her Amended Plan provided for monthly
+
+plan payments of $945/month for 60 months.         But, Turgeon’s
+
+filing contained several omissions, and she failed to properly
+
+file a certificate of service.       On September 10, 2025, the
+
+                                     4
+   Case 1:25-cv-00510-SM-TSM    Document 18   Filed 08/26/26   Page 5 of 20
+
+
+
+bankruptcy court issued a Notice of Defective Amendment, along
+
+with an Amended Notice of Defective Amendment, explaining
+
+Turgeon’s omissions and misfilings.
+
+
+     On September 12, 2025, the bankruptcy court declined to
+
+confirm Turgeon’s amended plan, and continued the scheduled
+
+hearing on the Trustee’s motion to dismiss until October 24,
+
+2025.   The court instructed Turgeon to serve a copy of the
+
+amended plan and a notice of confirmation hearing as required by
+
+the federal bankruptcy rules, “failing which,” the court
+
+instructed, “the case may be dismissed.”         Bankruptcy Court
+
+Docket, Document No. 36.       The bankruptcy court also directed
+
+Turgeon to file and serve a notice of hearing on her objection
+
+to the Santander proof of claim.         The court wrote, “[f]ailure to
+
+comply may result in the Court denying the Objection without
+
+further notice or hearing.”
+
+
+     On September 18, Turgeon filed a “Notice of Hearing” on her
+
+Amended Plan, and, on September 22, filed a second Notice of
+
+Hearing.   Both of those notices were deficient.          With respect to
+
+her Notice of Hearing on the Amended Plan, Turgeon failed to
+
+“provide notice of the hearing on Local Bankruptcy Form 31015-
+
+1B, per local rules”; had “erroneously set the hearing location
+
+as the Clerk’s Office, and did not state a specific deadline for
+
+objections.”   Bankruptcy Court Docket, Document No. 47.            The
+
+                                     5
+   Case 1:25-cv-00510-SM-TSM   Document 18   Filed 08/26/26    Page 6 of 20
+
+
+
+court allowed Turgeon until September 29, 2025, to serve a
+
+Notice of Hearing on confirmation of the Amended Plan “in the
+
+form of LBF 3015-1B” for October 24, and to “file the notice of
+
+hearing and certificate regarding such service with the Court,
+
+failing which confirmation will be denied and the case may be
+
+dismissed.”   Id.
+
+
+     With respect to the September 22 Notice of Hearing filed by
+
+Turgeon, the Bankruptcy Court noted that the notice was “unclear
+
+on what matter Debtor is trying to notice for hearing,” and
+
+surmised that Turgeon “may be attempting to comply with [the
+
+court’s] September 12, 2025 Order Directing Debtor to Notice
+
+Objection for Hearing, which ordered Debtor to notice her
+
+September 12, 2025 claim objection for hearing on October 24,
+
+2025.”   Bankruptcy Court Docket, Document No. 48.            The court
+
+ordered Turgeon to “serve an amended notice of hearing on Local
+
+Bankruptcy Form 3007-1,” and to “file such notice of hearing and
+
+certificate regarding service with the Court, failing which the
+
+Objection may be denied.”      Id.
+
+
+     On October 8, 2025, the bankruptcy court issued an order
+
+addressing the Santander claim.      The court overruled Turgeon’s
+
+objection to Santander’s claim based, at least in part, on her
+
+“persistent failure to comply with [the] Court’s Orders.”
+
+
+
+
+                                     6
+   Case 1:25-cv-00510-SM-TSM   Document 18   Filed 08/26/26   Page 7 of 20
+
+
+
+Bankruptcy Court Docket, Document No. 55.        The court also noted
+
+Turgeon’s several procedural missteps.
+
+
+     On October 16, Turgeon filed an objection to FHLMC’s proof
+
+of claim, and, on October 23, she moved to vacate the court’s
+
+October 8 order overruling her objection to Santander’s claim,
+
+and to re-notice her objection to the claim.
+
+
+     At the October 24, 2025, hearing, the bankruptcy court
+
+observed that Turgeon had failed to properly notice and serve
+
+objections to her creditor’s claims on several occasions.             The
+
+court explained to Turgeon that if she failed to comply with the
+
+notice and service requirements mandated by bankruptcy court
+
+rules, a hearing date could not be scheduled.         The court allowed
+
+Turgeon until October 31 and October 29, respectively, to
+
+properly notice her Motion to Vacate, and her Objection to
+
+Santander’s claim.
+
+
+     The court then questioned Turgeon regarding her Objection
+
+to the Trustee’s motion to dismiss.      Specifically, the court
+
+asked Turgeon about her use of “false, hallucinated case
+
+citations” within her brief.     The bankruptcy court explained to
+
+Turgeon that the citations she referenced and relied upon in her
+
+objection were inaccurate and misleading.        Accordingly, her
+
+objection to the motion to dismiss would be stricken.
+
+
+
+                                    7
+   Case 1:25-cv-00510-SM-TSM    Document 18   Filed 08/26/26   Page 8 of 20
+
+
+
+     Turgeon protested that she had been trying to act in “good
+
+faith.”    The court responded: “it’s not going well for you
+
+because items are not getting noticed, []proper forms are not
+
+getting used, and you’re misleading the Court.           So I really
+
+strongly urge you to get an attorney in this case and to go that
+
+route.    If you continue to proceed pro se, we’ll continue to
+
+monitor the case accordingly.”       Bankruptcy Court Docket,
+
+Document No. 74 at 8:1-6.      The court then allowed Turgeon leave
+
+to file an amended objection to the Trustee’s motion on or
+
+before November 7, 2005.       The hearing on the Trustee’s motion to
+
+dismiss was continued until November 21, 2025.
+
+
+     The bankruptcy court also denied confirmation of Turgeon’s
+
+amended Chapter 13 Plan at the October 24 hearing.             Turgeon
+
+requested two weeks to file a second amended plan to address
+
+Santander’s claim.    The bankruptcy court allowed Turgeon until
+
+November 14, 2025, to file a second amended plan, and told her
+
+that the second amended plan should be properly served on all
+
+creditors, along with notice of hearing on confirmation of the
+
+amended plan for December 19.      The court warned Turgeon that if
+
+she did not comply with that deadline, the case could be
+
+dismissed.
+
+
+     Following the October 24 hearing, the court issued a
+
+written order the same day.      The October 24 order (again)
+
+                                     8
+    Case 1:25-cv-00510-SM-TSM   Document 18    Filed 08/26/26   Page 9 of 20
+
+
+
+instructed Turgeon to file an amended Chapter 13 plan, and to
+
+serve a copy of the amended plan and notice of hearing, along
+
+with a certificate of service filed with the court.             The court’s
+
+October 24 order (again) advised Turgeon that failure to comply
+
+could result in the case’s dismissal.          Bankruptcy Court Docket,
+
+Document No. 66.
+
+
+      Turgeon did not properly notice her Motion to Vacate or her
+
+Objection to Santander’s claim by the deadlines the court had
+
+imposed.   So, on November 4, 2025, the court issued an order
+
+denying both of those motions for that reason.            And, instead of
+
+filing an amended Chapter 13 plan as she had been ordered,
+
+Turgeon filed an objection to FHLMC’s proof of claim, an amended
+
+objection to Santander’s proof of claim, and a motion for
+
+sanctions against FHLMC’s attorneys.          Then, on November 20,
+
+2025, Turgeon initiated adversary proceedings against Santander
+
+and FHLMC.
+
+
+      At the November 21 hearing, the Trustee informed the
+
+bankruptcy court that (1) Turgeon’s plan payments were
+
+delinquent, since she had not increased her payments to the
+
+amount specified in the September 9, 2025, plan; 2 and (2) despite
+
+
+
+2    As of the date of the November 21 hearing, Turgeon had made
+payments of $341.90 in August and September, 2025, and payments
+of $945 in October and November, 2025. Thus, pursuant to the
+Amended Plan (which required monthly payments of $945), the
+                                     9
+     Case 1:25-cv-00510-SM-TSM   Document 18   Filed 08/26/26   Page 10 of 20
+
+
+
+the court’s order on October 24, Turgeon had failed to properly
+
+file and serve her amended Chapter 13 plan.           The court further
+
+observed that, despite being granted leave to do so, Turgeon had
+
+failed to file an objection to the Trustee’s motion to dismiss.
+
+The court then stated that an order would be entered dismissing
+
+the case.
+
+
+3.     Bankruptcy Court’s Dismissal Order
+
+       Following the hearing, as promised, the bankruptcy court
+
+issued an order that granted the Trustee’s motion to dismiss,
+
+and dismissed the case.
+
+
+       The court explained that Turgeon had failed to file a
+
+second amended Chapter 13 plan by the deadline set by the court,
+
+and had instead filed a claim objection, a motion for sanctions,
+
+and two adversary proceedings.        Turgeon had also failed to
+
+disclose her ownership of real property in her Schedule A.               By
+
+failing to file a timely Chapter 13 plan as instructed, the
+
+court held, Turgeon had unreasonably delayed the case to the
+
+detriment of her creditors.
+
+
+       The bankruptcy court observed the absence of significant
+
+unsecured debt reflected in Turgeon’s filings, specifically in
+
+
+
+
+Trustee stated that Turgeon was delinquent in the amount of
+$1,206.20.
+                                      10
+  Case 1:25-cv-00510-SM-TSM   Document 18   Filed 08/26/26   Page 11 of 20
+
+
+
+her claims register and schedules.      That absence, the court
+
+wrote, “shows that the Debtor’s case is not motivated by an
+
+effort to reorganize her financial affairs generally, but solely
+
+to litigate against FHLMC and Santander.”        Bankruptcy Court
+
+Docket, Document No. 84 at 7.     Notwithstanding that apparent
+
+motivation, Turgeon delayed filing adversary proceedings against
+
+FHLMC or Santander for over four months, even though her prior
+
+bankruptcy case had been dismissed (at least in part) due to her
+
+failure to timely commence litigation against FHLMC.
+
+
+     The bankruptcy court observed that Turgeon had “ample
+
+notice, through the Prior Case and from admonitions by this
+
+Court and the Trustee, that she needed to both fulfill her
+
+obligations as a Chapter 13 debtor by filing accurate schedules
+
+and timely filing a confirmable plan, and to promptly file any
+
+litigation she wished to pursue against her secured creditors.”
+
+Bankruptcy Court Docket, Document No. 84 at 7.         Because Turgeon
+
+failed to comply with those obligations, the bankruptcy court
+
+dismissed the case, and declined jurisdiction over all remaining
+
+pending litigation.
+
+
+                              DISCUSSION
+
+     In support of her appeal of the bankruptcy court’s
+
+judgment, Turgeon argues that the bankruptcy court erred by
+
+dismissing the case pursuant to 11 U.S.C. § 1307(c) because the
+
+                                   11
+  Case 1:25-cv-00510-SM-TSM   Document 18     Filed 08/26/26   Page 12 of 20
+
+
+
+statutory requirements for dismissal were not satisfied.              She
+
+takes issue with the bankruptcy court’s striking of her
+
+objection to the trustee’s motion to dismiss, as well as the
+
+court’s factual findings concerning her failure to make timely
+
+payments under the Chapter 13 plan.         She says that those errors,
+
+in conjunction with the court’s dismissal while claims
+
+objections remained pending, and the court’s declination of
+
+jurisdiction and termination of the automatic stay, cumulatively
+
+require reversal of the bankruptcy court’s dismissal.
+
+
+     Pursuant to 11 U.S.C. § 1307(c), “the bankruptcy court,
+
+after notice and a hearing,” may “dismiss a chapter 13 case or
+
+convert the case to one under chapter 7 ‘for cause.’”             In re
+
+Santiago, 671 B.R. 774, 780 (B.A.P. 1st Cir. 2025) (quoting 11
+
+U.S.C. § 1307(c)).   “The three principal requirements of
+
+dismissal under § 1307 are: (1) the request of a party in
+
+interest or the United States Trustee, (2) notice and a hearing,
+
+and (3) a showing of cause.”     In re Stevenson, 583 B.R. 573, 579
+
+(B.A.P. 1st Cir. 2018) (quoting Minkes v. LaBarge (In re
+
+Minkes), 237 B.R. 476, 478 (8th Cir. B.A.P. 1999)) (cleaned up).
+
+
+     Neither party disputes that the first two requirements for
+
+dismissal under Section 1307(c) have been met.           Thus, the only
+
+question before this court is whether “cause” existed for
+
+dismissal.   Section 1307 does not specifically define cause, but
+
+                                   12
+  Case 1:25-cv-00510-SM-TSM   Document 18   Filed 08/26/26   Page 13 of 20
+
+
+
+the “Bankruptcy Code lists eleven examples of cause justifying
+
+dismissal or conversion of a chapter 13 case.”         In re Santiago,
+
+671 B.R. at 780.   Those examples, which are not exhaustive,
+
+include a debtor’s failure to file a timely plan, and delay by
+
+the debtor that is unreasonable and prejudicial to creditors,
+
+both circumstances which the bankruptcy court determined were
+
+present here.
+
+
+  1. Dismissal for Failure to File a Timely Plan
+
+     As the court explained in Taal v. St. Mary’s Bank, No. 13-
+
+CV-194-PB, 2014 WL 130980, at *3 (D.N.H. Jan. 10, 2014):
+
+
+     A bankruptcy court's dismissal for failure to file a
+     confirmation plan is discretionary, and if “the
+     bankruptcy court's conclusions supporting dismissal
+     are supported by the facts there is no abusive
+     discretion.” In re Burgos, 476 B.R. 107, 111
+     (S.D.N.Y.2012) (citing In re Dudley, 273 B.R. 197, 199
+     (8th Cir. B.A.P. 2002)); see also Howard [v. Lexington
+     Investments, Inc., 284 F.3d 320, 323 (1st Cir. 2002)
+     (holding that it is “entirely appropriate” for a
+     bankruptcy court to set and enforce a deadline for a
+     debtor to file tax returns). A bankruptcy court “may
+     issue any order, process, or judgment” that it deems
+     necessary, and can “sua sponte, take any action or
+     make any determination necessary or appropriate to
+     enforce or implement court orders or rules, or to
+     prevent an abuse of process.” 11 U.S.C. § 105(a). . .
+     . The First Circuit has noted that Chapter 13 allows a
+     debtor many benefits over other bankruptcy
+     proceedings, but “to obtain these benefits, Chapter 13
+     debtors are required to act swiftly. They must file a
+     plan within 15 days of the petition, and must commence
+     payments under the plan within 30 days. Failure to act
+     in a timely manner is grounds for dismissal.” Howard,
+     284 F.3d at 321 n. 1 (citations omitted).
+
+
+
+                                   13
+  Case 1:25-cv-00510-SM-TSM   Document 18    Filed 08/26/26   Page 14 of 20
+
+
+
+2014 WL 130980, at *3 (emphases added)(cleaned up).
+
+
+     As set forth fully above, Turgeon was given multiple
+
+opportunities to properly file and serve her amended Chapter 13
+
+plan.   She was also instructed by the bankruptcy court on
+
+several occasions that a failure to timely (and properly) file
+
+and serve that amended plan could result in dismissal of the
+
+case.
+
+
+     A brief overview of the record makes the point.            On
+
+September 12, 2025, the bankruptcy court told Turgeon to serve a
+
+copy of her amended plan and a notice of confirmation hearing as
+
+required by the federal bankruptcy rules, “failing which,” the
+
+court instructed, “the case may be dismissed.”          Bankruptcy Court
+
+Docket, Document No. 36. Turgeon did not comply with the court’s
+
+instruction.   Instead, she filed a deficient Notice of Hearing
+
+on her amended plan on September 19.        After explaining why the
+
+Notice was deficient, the court allowed Turgeon until September
+
+29, 2025, to properly serve a Notice of Hearing on her amended
+
+plan, “failing which confirmation will be denied and the case
+
+may be dismissed.”   Bankruptcy Court Docket, Document No. 47.
+
+
+     Turgeon did re-file her Notice of Hearing on the amended
+
+Chapter 13 plan on September 29, but, when questioned in court
+
+during the hearing on October 24 about its status, she stated,
+
+“that is something I need to do.        I want to prepare an amended
+                                   14
+  Case 1:25-cv-00510-SM-TSM   Document 18   Filed 08/26/26    Page 15 of 20
+
+
+
+Chapter 13 to properly address Santander’s claim.”            Bankruptcy
+
+Court Docket, Document No. 74 at 9:8-10.       So, the court denied
+
+confirmation of the amended Chapter 13 plan, allowing Turgeon
+
+until November 14, to file a second amended plan.            The court
+
+stated: “that requires you to file the amended plan and then it
+
+is your responsibility to serve that plan on all of your
+
+creditors, not just the plan, but notice of the hearing on
+
+confirmation of that plan for December 19,” warning Turgeon
+
+“[i]f you don’t do that, it’s going to be struck again by the
+
+court.”   Bankruptcy Court Docket, Document No. 74 at 10:3-9.
+
+The contemporaneous order also instructed Turgeon to file an
+
+amended Chapter 13 plan by November 14, and advised Turgeon that
+
+failure to comply could result in the case’s dismissal.
+
+Bankruptcy Court Docket, Document No. 66.
+
+
+     Thus, despite being given multiple opportunities to file
+
+and serve her amended Chapter 13 plan, and despite being
+
+repeatedly instructed that failure to do so could result in
+
+dismissal of her case, Turgeon failed to properly file and serve
+
+her Chapter 13 plan.
+
+
+     Turgeon argues that she was actively attempting to comply
+
+with the bankruptcy court’s demands, had filed an amended plan,
+
+and that, while her efforts may have been procedurally
+
+imperfect, “[p]rocedural imperfection is not synonymous with
+
+                                   15
+  Case 1:25-cv-00510-SM-TSM    Document 18    Filed 08/26/26   Page 16 of 20
+
+
+
+abandonment.”    Bankruptcy Court Docket, Document No. 11 at 6.
+
+She argues that those facts distinguish her case from those upon
+
+which the Trustee relies, Taal v. St. Mary’s Bank, No. 13-CV-
+
+194-PB, 2014 WL 130980, at *3 (D.N.H. Jan. 10, 2014), and Howard
+
+v. Lexington Investments, Inc., 284 F.3d 320.
+
+
+     Turgeon’s efforts to distinguish her case are not
+
+persuasive.    Taal v. St. Mary’s Bank is a strikingly similar
+
+case.    In Taal, the district court upheld the bankruptcy court’s
+
+dismissal of the debtor’s Chapter 13 petition for failure to
+
+file an amended Chapter 13 plan.         Like Turgeon, the debtor,
+
+“actively participated in [her] Chapter 13 proceedings, filing
+
+countless motions on [her] own behalf,” and “had difficulties
+
+complying with bankruptcy court rules.”         Taal, 2014 WL 130980,
+
+at *1.    And, like the bankruptcy court here, the bankruptcy
+
+court in Taal “appropriately set and enforced a deadline for
+
+timely filing an amended plan,” and the debtor, like Turgeon,
+
+“was given explicit instructions – both in a court order and
+
+during the hearing preceding the order – that a failure to
+
+timely file a plan would lead to [the] case’s dismissal.”              Taal
+
+v. St. Mary's Bank, No. 13-CV-194-PB, 2014 WL 130980, at *3
+
+(D.N.H. Jan. 10, 2014).       It simply cannot be said that the
+
+bankruptcy court abused its discretion under 11 U.S.C. §
+
+
+
+
+                                    16
+  Case 1:25-cv-00510-SM-TSM   Document 18   Filed 08/26/26   Page 17 of 20
+
+
+
+1307(c)(3) when it dismissed Turgeon’s case for failure to
+
+timely file an amended Chapter 13 plan.
+
+
+  2. Unreasonable Delay to the Detriment of Creditors
+
+     The bankruptcy court further determined that Turgeon had
+
+unreasonably delayed her case to the prejudice of her creditors.
+
+The court’s determination was based not only on Turgeon’s
+
+failure to file a second amended plan by the deadline, but also
+
+on Turgeon’s inconsistent statements concerning her ownership of
+
+real property, and her seeming focus on secured creditor
+
+litigation, which, the court wrote, “shows that the Debtor’s
+
+case is not motivated by an effort to reorganize her financial
+
+affairs generally, but solely to litigate against FHLMC and
+
+Santander.”    Bankruptcy Court Docket, Document No. 84 at 7.
+
+Despite that focus, and despite dismissal of her earlier
+
+bankruptcy case for failure to timely commence litigation
+
+against FHLMC, the court observed, Turgeon had failed to file
+
+adversary proceedings against either Santander or FHLMC for over
+
+four months.
+
+
+     Turgeon argues that the court’s finding was in error
+
+because the only prejudice identified by the bankruptcy court
+
+was procedural timing; she was making payments under the amended
+
+plan; and her secured creditors retained their lien rights.
+
+None of those arguments are persuasive because “the most obvious
+
+                                   17
+  Case 1:25-cv-00510-SM-TSM   Document 18   Filed 08/26/26   Page 18 of 20
+
+
+
+example of an unreasonable delay prejudicial to creditors is the
+
+unjustified failure to file a reasonable plan of reorganization
+
+in a timely fashion.”    In re Colón Martinez, 472 B.R. 137, 145
+
+(1st Cir. BAP 2012) (citation omitted) (internal quotations
+
+omitted).   Those circumstances are present here.
+
+
+     Even putting that aside, the bankruptcy court’s
+
+determination finds support in In re Stevenson, 583 B.R. 573,
+
+581 (B.A.P. 1st Cir. 2018).     In that case, the Bankruptcy
+
+Appellate Panel determined that the bankruptcy court had not
+
+abused its discretion in dismissing the debtor’s Chapter 13 case
+
+“for unreasonable delay that is prejudicial to creditors within
+
+the meaning of § 1307(c)(1),” where the record in that case
+
+suggested that the Chapter 13 filing “was motivated by or
+
+targeted at a single creditor.”     Id. at 581.      And, like Turgeon,
+
+the debtor offered no justification for the delay.           Id.
+
+
+     Because the record supports the bankruptcy court’s finding,
+
+the court did not abuse its discretion in dismissing Turgeon’s
+
+bankruptcy proceedings for unreasonable delay.
+
+
+  3. Denial of Due Process
+
+     Finally, Turgeon’s argument, that she was denied due
+
+process because the court struck her objection to the Trustee’s
+
+motion to dismiss, is also not persuasive.
+
+
+
+                                   18
+  Case 1:25-cv-00510-SM-TSM   Document 18   Filed 08/26/26   Page 19 of 20
+
+
+
+     First, Turgeon mistakes the record – contending that she
+
+was not afforded an opportunity to cure.       That is not correct.
+
+After striking the objection, the bankruptcy court allowed
+
+Turgeon two weeks to file an amended objection.         And, the
+
+bankruptcy court was well within its rights to strike Turgeon’s
+
+objection, which, the court observed, contained “false,
+
+hallucinated case citations,” that were “misleading . . . [to]
+
+the Court and other parties.”     Document No. 74 at 7:10-15.         See
+
+11 U.S.C. § 105(a) (bankruptcy courts may “issue any order,
+
+process or judgment that is necessary or appropriate to carry
+
+out the provisions of this title.”); see also In re Johnson, 236
+
+B.R. 510, 521 (D.D.C. 1999) (explaining that “Section 105
+
+specifically codifies what are traditionally called ‘inherent
+
+powers’ to give the Bankruptcy Courts the necessary ability to
+
+manage the cases on their docket.       It is imperative that courts
+
+have the necessary authority to manage the arguments and conduct
+
+of parties to ensure judicial efficiency and to do justice.”).
+
+The bankruptcy court even took the time to explain to Turgeon
+
+why the cases she had cited in her objection were misleading,
+
+clarifying for her that the cases she had cited either did not
+
+exist, were issued by a different court than the court Turgeon
+
+had cited, or simply did not stand for the propositions for
+
+which Turgeon had cited them.     Bankruptcy Court Docket, Document
+
+No. 73:22-74:22.
+
+                                   19
+  Case 1:25-cv-00510-SM-TSM   Document 18   Filed 08/26/26   Page 20 of 20
+
+
+
+      Turgeon’s due process argument further founders on the fact
+
+that she was allowed the opportunity to cure, the court granting
+
+her two weeks leave to file an amended objection to the
+
+Trustee’s motion.   But, Turgeon did not file an amended
+
+objection, and it is not entirely clear why she failed to do so.
+
+But, the law is clear: having failed to take advantage of her
+
+opportunity to be heard, Turgeon cannot now complain that she
+
+was denied sufficient process.     See, e.g., Mercado-Alicea v.
+
+P.R. Tourism Co., 396 F.3d 46, 53 (1st Cir. 2005) (upholding
+
+district court’s finding that “defendants did not violate
+
+[plaintiff’s] due process rights when his inability to present
+
+his side of the story was due to his failure to participate.”).
+
+
+      For these reasons, Turgeon’s due process argument
+
+concerning her stricken objection is unavailing.
+
+
+                              CONCLUSION
+
+      For the foregoing reasons, the decision of the bankruptcy
+
+court dismissing Turgeon’s Chapter 13 petition is affirmed.
+
+
+      SO ORDERED.
+
+
+                                        ____________________________
+                                        Steven J. McAuliffe
+                                        United States District Judge
+
+August 26, 2026
+
+cc:   Noella P. Turgeon, pro se
+      Counsel of Record
+                                   20
+

@@ -1,0 +1,525 @@
+Case 4:26-cv-00433-P      Document 20     Filed 08/27/26     Page 1 of 12   PageID 173
+
+
+
+                     UNITED STATES DISTRICT COURT
+                  FOR THE NORTHERN DISTRICT OF TEXAS
+                         FORT WORTH DIVISION
+
+      PETER WILLIAMS, ET AL.,
+
+           Plaintiffs,
+
+      v.                                                   No. 4:26-cv-00433-P
+
+      DALLAS-FORT WORTH INTERNATIONAL
+      AIRPORT BOARD, ET AL.,
+
+           Defendants.
+
+                     MEMORANDUM OPINION & ORDER
+         Before the Court is Defendant’s Motion to Dismiss. ECF No. 10.
+      Having reviewed the filing and the relevant law, the Court will GRANT
+      Defendants’ Motion to Dismiss as to the Section 1983 claims and
+      declines to exercise supplemental jurisdiction over the remaining
+      claims.
+
+                                   BACKGROUND
+         On April 14, 2024, Plaintiffs Peter Williams and Dr. Mary Jane
+      Williams were ticketed passengers on American Airlines flights from
+      Evansville, Indiana to Phoenix, Arizona with a connection at Dallas-
+      Fort Worth International Airport (“DFW”). ECF No. 2 at 5. During a
+      dispute over baggage policy between Plaintiffs and American Airlines,
+      Defendant Officer B. Jackson and three unidentified officers responded
+      to the jetway. ECF No. 2 at 5. After some back and forth, officers and
+      airline personnel eventually instructed Mr. Williams to vacate the
+      jetway. ECF No. 2 at 6. Mr. Williams nevertheless attempted to re-board
+      the aircraft, at which point Officer Jackson grabbed Mr. Williams. ECF
+      No. 2 at 6. Plaintiffs and Defendant dispute what happens next.
+      Compare ECF No. 2 at 6 with ECF No. 10 at 9.
+
+           According to police body-cam footage, Officer Jackson stated that Mr.
+      Williams was “under arrest now” and attempted to restrain him. ECF
+Case 4:26-cv-00433-P    Document 20      Filed 08/27/26    Page 2 of 12   PageID 174
+
+
+
+      No. 18-1, Exhibit 4 at 2:06. Mr. Williams can be heard replying “No”
+      repeatedly and appears to be physically resisting arrest for a period of
+      roughly 25 seconds. ECF No. 18-1, Exhibit 4 at 2:10–2:45. Eventually,
+      Officer Jackson takes Mr. Williams to the ground in what appears to be
+      an attempt to restrain and handcuff him. ECF No. 18-1, Exhibit 4 at
+      2:45–2:51. Mr. Williams continues to writhe on the ground, evading
+      handcuffs, at which point Officer Jackson places knee in his back and
+      once again informs him that he is under arrest. ECF No. 18-1, Exhibit 4
+      at 2:52. Once more, Mr. Williams replies repeatedly “No.” ECF No. 18-
+      1, Exhibit 4 at 2:53–2:55. There is then a period of brief respite wherein
+      Officer Jackson continues to have his knee on Mr. Williams who is
+      audibly objecting but does not appear to be actively resisting, though his
+      hands remain uncuffed. ECF No. 18-1, Exhibit 4 at 3:00–3:15. After this
+      period, Officer Jackson informs Mr. Williams that “if you do not put your
+      hands behind your back, you will be tased.” ECF No. 18-1, Exhibit 4 at
+      3:15. Mr. Williams nevertheless continues to verbally object and
+      physically resists Officer Jackson’s attempt to restrain his hands. ECF
+      No. 18-1, Exhibit 4 at 3:26. Officer Jackson finally discharges his taser
+      once to Mr. Williams’ side. ECF No. 18-1, Exhibit 4 at 3:29.
+
+         Plaintiffs filed suit against the Dallas-Fort Worth International
+      Airport Board (“the Board”), Dallas-Fort Worth Airport Department of
+      Public Safety, Officer Jackson, and bystander officers on April 8th, 2026,
+      alleging civil-rights violations under 42 U.S.C § 1983 and advancing
+      various state-law claims. ECF No. 1. On June 22nd, 2026, Defendant
+      offered the Motion now under consideration.
+
+                               LEGAL STANDARDS
+         Under Fed R. Civ. P. 12(b)(6), dismissal is appropriate if Plaintiffs’
+      pleading fails to state a claim upon which relief can be granted. In
+      conducting that review, the Court accepts “all well-pleaded facts as true
+      and draw[s] all reasonable inferences in favor of the nonmoving party.”
+      Morgan v. Swanson, 659 F. 3d 359, 370 (5th Cir. 2011) (en banc). The
+      court does not, however, “presume true a number of categories of
+      statements, including legal conclusions; mere labels; threadbare recitals
+      of the elements of a cause of action; conclusory statements; and naked
+      assertions devoid of further factual enhancement.” Id. (cleaned up)
+                                          2
+Case 4:26-cv-00433-P        Document 20         Filed 08/27/26       Page 3 of 12       PageID 175
+
+
+
+      (quoting Ashcroft v. Iqbal., 556 U.S. 662, 678, 129 S. Ct. 1937, 1949
+      (2009)).
+
+         A court ruling on a motion to dismiss “may rely on the complaint, its
+      proper attachments, documents incorporated into the complaint by
+      reference, and matters of which a court may take judicial notice.”
+      Randall D. Wolcott M.D., P.A. v. Sebelius, 635 F.3d 757, 763 (5th Cir.
+      2011). Further, a court may permissibly consider “[d]ocuments that a
+      defendant attaches to a motion to dismiss” without converting the
+      motion to dismiss to a motion for summary judgment if those documents
+      “are referred to in the plaintiff's complaint and are central to her
+      claim.” 1 Collins v. Morgan Stanley Dean Witter, 224 F.3d 496, 499 (2000)
+      (quoting Venture Assocs. Corp. v. Zenith Data Sys. Corp., 987 F.2d 429,
+      431 (7th Cir. 1993)). Moreover, where video recordings are included in
+      the pleadings, the video depictions of events, viewed in the light most
+      favorable to the plaintiffs, should be adopted over the factual allegations
+      in the complaint if the video “blatantly contradict[s]” those allegations.
+      Scott v. Harris, 550 U.S. 372, 380, 127 S. Ct. 1769, 1776 (2007).
+
+                                            ANALYSIS
+         The Court’s analysis proceeds in three parts. First, the Court reasons
+      that Plaintiffs’ Section 1983 claims against Officer Jackson are barred
+      by qualified immunity and should therefore be dismissed. This applies
+      with equal force to Plaintiffs’ claims as to bystander liability. Second,
+      the Court finds that the Plaintiffs have not plausibly alleged a claim for
+      municipal liability. Third, the Court concludes that it may, in its
+      discretion, decline to hear Plaintiffs’ remaining state law claims.
+
+          A. The Officers are Entitled to Qualified Immunity Because
+             No Clearly Established Law “Squarely Governs”
+
+         “Qualified immunity protects officers from suit unless their conduct
+      violates a clearly established [statutory or] constitutional right.”
+
+      1 This applies, too, to video exhibits. See Esco v. City of Chicago, 107 F.4th 673, 678
+
+      (7th Cir. 2024) (writing that “the court, therefore, may examine exhibits, including
+      video exhibits, attached to the complaint, or referenced in the pleading if they are
+      central to the claim”); Johnson v. City of Atlanta, 107 F.4th 1292, 1298 (11th Cir. 2024)
+      (affirming the district court’s consideration of video evidence despite it not being
+      attached to, or even mentioned in, the plaintiff’s complaint).
+
+                                                 3
+Case 4:26-cv-00433-P     Document 20      Filed 08/27/26    Page 4 of 12    PageID 176
+
+
+
+      Converse v. City of Kemah, 961 F.3d 771, 774 (5th Cir. 2020) (quoting
+      Mace v. City of Palestine, 333 F.3d 621, 623 (5th Cir. 2003)). “Although
+      qualified immunity is nominally an affirmative defense, the plaintiff
+      bears a heightened burden to negate the defense once properly raised.”
+      Newman v. Guedry, 703 F.3d 757, 761 (5th Cir. 2012) (citation omitted).
+      Plaintiff bears the burden to “plead facts which, if proved, would defeat
+      the claim of immunity.” Waller v. Hanlon, 922 F.3d 590, 599 (5th Cir.
+      2019) (citation omitted).
+
+         Accordingly, Officer Jackson is entitled to qualified immunity at the
+      motion-to-dismiss stage unless Plaintiffs have alleged facts sufficient to
+      plausibly show that (1) the defendant’s conduct violated a constitutional
+      right and (2) the constitutional right was clearly established at the time
+      of the alleged misconduct. Pearson v. Callahan, 555 U.S. 223, 232, 129
+      S. Ct. 808, 816 (2009). The Court has discretion as to which of the two
+      prongs should be analyzed first. Cope v. Cogdill, 3 F.4th 198, 236 (2021).
+      Because Plaintiffs do not carry their burden as to the clearly established
+      prong, this Court need not evaluate the validity of the excessive force
+      claim.
+
+          Plaintiffs do not plausibly show that Officer Jackson violated any
+      “clearly established” right. This burden is a heavy one: A right is “clearly
+      established” only if preexisting precedent “ha[s] placed the . . .
+      constitutional question beyond debate.” Ashcroft v. al-Kidd, 563 U.S.
+      731, 741 (2011). This restrictive analysis provides that the right must
+      be “sufficiently clear that every reasonable official would have
+      understood that what he is doing violates that right.” Mullenix v. Luna,
+      577 U.S. 7, 11 (2015) (per curiam) (internal quotation marks and citation
+      omitted). Courts must not "define clearly established law at a high level
+      of generality"; instead, their "inquiry must be undertaken in light of the
+      specific context of the case." Id. at 12 (internal quotation marks and
+      citations omitted). Therefore, unless existing precedent "squarely
+      governs" the conduct at issue, an official will be entitled to qualified
+      immunity. See Brosseau v. Haugen, 543 U.S. 194, 201 (2004) (per
+      curiam); Mullenix, 577 U.S. at 12 (emphasizing that "[t]he dispositive
+      question is whether the violative nature of particular conduct is clearly
+      established" (internal quotation marks and citation omitted)).
+
+                                           4
+Case 4:26-cv-00433-P         Document 20         Filed 08/27/26         Page 5 of 12       PageID 177
+
+
+
+          To put it pointedly, Plaintiffs must "identify[] a case in which an
+      officer acting under similar circumstances was held to have violated the
+      [Constitution], and . . . explain[] why the case clearly proscribed the
+      conduct of that individual officer." Joseph ex rel. Estate of Joseph v.
+      Bartlett, 981 F.3d 319, 345 (5th Cir. 2020). This cannot be undertaken
+      at too broad a level of generality, id., and it certainly cannot be
+      established by citation to nonexistent cases. 2
+
+          Here, Plaintiffs make a borderline sanctionable attempt to identify
+      “clearly established” law from five cases. ECF No. 18. Three of these
+      cases—Iko v. Shreve, 122 F.3d 707 (4th Cir. 1997), Yates v. Terry, 817
+      F.3d 877 (4th Cir. 2016), and Dawkins v. Fields 354 F.3d 392 (5th Cir.
+      2003)—are either non-existent or mistakenly out-of-circuit and, in any
+      event, inapposite. With respect to Dawkins, this Court cannot even find
+      a case purporting to “clearly establish” law on the matter and wastes its
+      limited judicial resources in doing so. As to Iko, mistakenly cited as a
+      5th Circuit case, Plaintiffs presumably meant to refer to Iko v. Shreve,
+      535 F.3d 225 (4th Cir. 2008). But this out-of-circuit case concerned
+      correctional officers who broke up a fight by administering pepper spray
+      to a non-confrontational inmate, not a taser applied to a resistant
+      passenger. It therefore cannot constitute “clearly established” law in
+      this Circuit nor “squarely governs” on its own facts. The same is true of
+      Yates. This out-of-circuit decision concerned an officer who tased a non-
+      resisting arrestee three separate times. Id. at 881. There, the officer
+      tased Yates for a second time when the suspect was already on the
+      ground “ma[king] no attempt to get up” and a third time after he asked
+      his brother to call for the officer’s supervisor. Id. Yates is thus both non-
+
+      2 The Court cautions that use of generative artificial intelligence that results in
+      repeated misrepresentations of law may qualify for sanctions under Fed. R. Civ. P.
+      11(b)–(c) (“The rule . . . require[s] litigants to ‘stop-and-think’ before initially making
+      legal or factual contentions . . . A litigant’s obligations . . . include reaffirming to the
+      court and advocating positions contained in those pleadings and motions after learning
+      that they cease to have any merit.”); Tex. Disciplinary Rules Prof’l Conduct R. 3.01 (“A
+      lawyer shall not . . . assert or controvert an issue [in a proceeding], unless the lawyer
+      reasonably believes that there is a basis for doing so that is not frivolous.”); Id.
+      3.03(a)(1) (“A lawyer shall not knowingly . . . make a false statement of material fact
+      or law to a tribunal”); Id. 8.04(a)(3) (A lawyer shall not “engage in conduct involving
+      dishonesty, fraud, deceit[,] or misrepresentation”). The Fifth Circuit, for example,
+      recently approved a $2,500 sanction for AI hallucinated misrepresentations. Fletcher
+      v. Experian Info. Sols., Inc., 168 F.4th 231 (2026).
+
+                                                   5
+Case 4:26-cv-00433-P    Document 20      Filed 08/27/26    Page 6 of 12   PageID 178
+
+
+
+      binding and materially dissimilar. Neither of these cases therefore carry
+      Plaintiffs’ burden. The Court has little patience for such “lazy
+      lawyering.”
+
+         The remaining two cases, Tennessee v. Garner, 471 U.S. 1 (1985) and
+      Graham v. Connor, 490 U.S. 386 (1989), fare no better. Plaintiffs argue
+      that Garner clearly establishes that non-deadly force against a
+      compliant, non-threatening person is unreasonable. ECF No. 18 at 7.
+      But this formulation asks too much of Garner. In Garner, police officers
+      pursued and shot a fleeing purse-snatcher. 471 U.S. at 4. At most, the
+      5th Circuit has noted, Garner stands for the proposition that deadly
+      force is prohibited against an unarmed burglary suspect fleeing on foot
+      who poses no immediate threat. Harmon v. City of Arlington, 16 F.4th
+      1159, 1167 (5th Cir. 2021). It simply does not follow that because deadly
+      force is unreasonable under those circumstances, non-deadly force (like
+      a taser) must be too. Cf. ECF. No 18 at 7. That inference gets the
+      reasoning precisely backward and is the kind of defective, over-
+      generalized extension that the Supreme Court has repudiated. See, e.g.,
+      Kisela v. Hughes, 584 U.S. 100, 105 (2018) (rejecting use of broad
+      formulation of Garner’s holding).
+
+         Graham v. Connor does not help Plaintiffs either. In Graham, the
+      Court held that the question of excessive force requires “requires careful
+      attention to the facts and circumstances of each particular case,
+      including the severity of the crime at issue, whether the suspect poses
+      an immediate threat to the safety of the officers or others, and whether
+      he is actively resisting arrest or attempting to evade arrest by flight.”
+      Graham v. Connor, 490 U.S. 386, 396 (1989). There, officers applied
+      force to a diabetic detained during an investigative stop that resulted in
+      a broken foot, cuts on his wrists, a bruised forehead, and an injured
+      shoulder. Id. at 390. But the Court cautioned that “officers are often
+      forced to make split-second judgments––in circumstances that are
+      tense, uncertain, and rapidly evolving––about the amount of force that
+      is necessary in a particular situation.” Id. at 396. The reasonableness of
+      force required, therefore, should be “judged from the perspective of a
+      reasonable officer on the scene, rather than with the 20/20 vision of
+      hindsight.” Id. at 397.
+
+                                          6
+Case 4:26-cv-00433-P     Document 20      Filed 08/27/26    Page 7 of 12    PageID 179
+
+
+
+         Here, the Court need not, and does not, decide whether Jackson
+      violated the Fourth Amendment when he used force against Plaintiffs.
+      For even assuming a Fourth Amendment violation occurred—a
+      proposition that is not at all evident—Plaintiffs’ desired principle simply
+      cannot be extracted from Garner with sufficient clarity to constitute
+      “clearly established” law. Cf. ECF. No. 18 at 7 (misconstruing Garner to
+      stand for the proposition that application of force against a compliant,
+      non-threatening person is always objectively unreasonable).
+
+         In any event, the Supreme Court has noted that “Garner and
+      Graham do not by themselves create clearly established law outside an
+      ‘obvious case.’” White v. Pauly, 580 U. S. 73, 80 (2017) (internal
+      quotation marks omitted). And while undoubtedly “obvious” excessive
+      force cases can arise, they are extremely rare. See, e.g., Taylor v. Riojas,
+      141 S. Ct. 52, 54 (2020) (per curiam) (noting that to qualify as an
+      “obvious” case, there must be (1) particularly egregious facts and (2) no
+      evidence that the officials’ actions were compelled by necessity or
+      exigency). The facts alleged here involving a single taser discharge
+      against a non-compliant adult are not so egregious as to be an obvious
+      case.
+
+         The “clearly established” inquiry is demanding, especially in claims
+      for excessive force. Morrow v. Meachum, 917 F.3d 870, 874 (5th Cir.
+      2019). Qualified immunity protects “all but the plainly incompetent or
+      those who knowingly violate the law.” Malley v. Briggs, 475 U.S. 335,
+      341, 106 (1986). Here, Plaintiffs failed to identify any clearly established
+      law that would place beyond doubt the constitutional question in this
+      case. As a result, their excessive force claim cannot succeed.
+
+         Finally, while it is true that an officer who is present at the scene
+      and does not take reasonable measures to protect a suspect from another
+      officer's use of excessive force may be liable under Section 1983, Hale v.
+      Townley, 45 F.3d 914, 919 (5th Cir. 1995), this claim rises and falls with
+      Plaintiffs’ claim against Officer Jackson. If Plaintiffs do not plausibly
+      allege that clearly establish law forbids Officer Jackson’s actions, then
+      a fortiori they have not proved that bystanding officers were not entitled
+      to immunity. Put otherwise, if a reasonable official would not have
+      understood that his conduct violated the Fourth Amendment, neither
+
+                                           7
+Case 4:26-cv-00433-P        Document 20         Filed 08/27/26        Page 8 of 12       PageID 180
+
+
+
+      would a reasonable bystander. Accordingly, Plaintiffs’ claim for
+      bystander liability by excessive force are also barred.
+
+          B. Plaintiffs Do Not Plausibly Allege Municipal Liability
+
+         Plaintiffs’ complaint presses two theories of municipal liability. First,
+      Plaintiffs allege that DFW had a “custom and practice” of using
+      excessive force against compliant individuals. ECF No. 2 at 12. Second,
+      Plaintiffs allege that DFW failed to train officers who violated
+      constitutional rights. ECF No. 2 at 12. Neither claim survives. 3
+
+          1. Plaintiffs Do Not Plausibly Allege Custom and Practice
+
+          A governmental entity may only be held liable in a Section 1983 suit
+      when the complained-of constitutional injury, here the use of excessive
+      force, results from “execution of a government’s policy or custom.”
+      Monell v. Dep’t of Social Servs., 436 U.S. 658, 694 (1978). Per Monell,
+      “municipal liability under § 1983 requires proof of three elements: [1] a
+      policymaker; [2] an official policy; and [3] a violation of constitutional
+      rights whose ‘moving force’ is the policy or custom.” Id. at 694. To
+      proceed beyond the pleading stage, a complaint’s “description of a policy
+      or custom and its relationship to the underlying constitutional violation
+      . . . cannot be conclusory; it must contain specific facts.” Spiller v. City
+      of Tex. City, Police Dep’t, 130 F.3d 162, 167 (5th Cir. 1997).
+
+          The problem is that Plaintiffs do not plausibly allege any official
+      policy or custom at all. The second element—an official policy—includes
+      “[a] policy statement, ordinance, regulation, or decision that is officially
+      adopted and promulgated by the municipality’s lawmaking officers or by
+
+
+      3 Plaintiffs sue both DFW Airport Department of Public Safety (“DPS”) and DFW
+      International Airport Board (‘the Board”). For Plaintiffs to sue a department of a city,
+      that department must enjoy a separate legal existence. Darby v. Pasadena Police Dep’t,
+      939 F.2d 311, 313 (5th Cir. 1991). But as Defendants note, DFW DPS does not “enjoy
+      a separate legal existence” from the city. ECF No. 10 at 17. The capacity of an entity
+      to be sued is determined “by the law of the state where the court is located.” FED. R.
+      CIV. P. 17(b); see also Darby 939 F.2d at 313. Unless the political entity that created
+      the department has taken “explicit steps to grant the servient agency with jural
+      authority,” the department lacks the capacity to sue or to be sued. Id. Plaintiffs’ do not
+      allege separate jural authority and, in any event, concede this point in their Reply.
+      ECF No. 18 at 9. Even assuming arguendo that they are separate entities, Plaintiffs
+      have not plausibly alleged Monell liability against either entity and thus both claims
+      should be dismissed.
+
+                                                  8
+Case 4:26-cv-00433-P     Document 20      Filed 08/27/26     Page 9 of 12    PageID 181
+
+
+
+      an official to whom the lawmakers have delegated policy-making
+      authority.” Webster v. City of Houston, 735 F.2d 838, 841 (5th Cir. 1984)
+      (en banc) (per curiam). But the complaint does not identify a single
+      official policy to supply the requisite moving force behind the alleged
+      violation. ECF No. 2.
+
+         True, an official policy may also be “[a] persistent, widespread
+      practice of city officials or employees, which, although not authorized by
+      officially adopted and promulgated policy, is so common and well settled
+      as to constitute a custom that fairly represents municipal policy” and
+      “practically have the force of law.” Id; see also Connick v. Thompson, 563
+      U.S. 51, 61 (2011). But Plaintiffs do not plead that DFW maintained a
+      policy of widespread and persistent use of excessive force. Nowhere in
+      the complaint do Plaintiffs allege other incidents of excessive force or
+      misuse of taser. The only oblique reference to a pattern is that the “police
+      regularly encounter non-criminal customer service disputes,” ECF No.
+      18 at 9, and a threadbare recitation in the complaint of a “custom and
+      practice of using excessive force against compliant individuals.” ECF No.
+      2 at 9. But, as the Fifth Circuit has noted, “if actions of city employees
+      are to be used to prove a custom for which the municipality is liable,
+      those actions must have occurred for so long or so frequently that the
+      course of conduct warrants the attribution to the governing body of
+      knowledge that the objectionable conduct is the expected, accepted
+      practice of city employees.” Webster v. City of Houston, 735 F.2d 838, 842
+      (5th Cir. 1984). Plaintiffs’ conclusory statements without additional
+      factual enhancement do not come close to plausibly alleging the custom
+      or policy required for municipal liability.
+
+         2. Plaintiff’s Do Not Plausibly Allege a Failure to Train
+
+         Neither have Plaintiffs plausibly pleaded that DFW’s allegedly
+      inadequate training or supervision of Officer Jackson was a moving force
+      behind the supposed constitutional violation. To establish municipal
+      liability under a failure-to train theory, Plaintiffs must prove three
+      elements: 1) the city failed to train or supervise the officers involved; 2)
+      there is a causal connection between the alleged failure to supervise or
+      train and the alleged violation of the plaintiff’s rights; and 3) the failure
+      to train or supervise constituted deliberate indifference to the plaintiff’s
+
+                                           9
+Case 4:26-cv-00433-P    Document 20      Filed 08/27/26    Page 10 of 12    PageID 182
+
+
+
+      constitutional rights. Hutcheson v. Dallas Cnty., 994 F.3d 477, 482 (5th
+      Cir. 2021). Plaintiffs argue that DFW failed to establish adequate
+      policies governing taser deployment, to train in de-escalation, and to
+      discipline or supervise officers, ECF No. 2 at 9, and that this amounted
+      deliberate indifference to the need for better training and supervision.
+      ECF No. 2 at 13. Specifically, Plaintiffs seize on Officer Jackson’s fellow
+      officer’s statement “No, No, it’s good, we got this” to demonstrate
+      inadequate training and supervision. ECF No. 2 at 13. But this does not
+      work either.
+
+         In Littell v. Houston Independent School District 894 F.3d 616 (5th
+      Cir. 2018), the Fifth Circuit clarified the two means of proving municipal
+      liability under a failure-to-train theory outlined by the Supreme Court
+      in City of Canton v. Harris 489 U.S. 378 (1989). The first is when
+      violations are so frequent that the factfinder can infer the need for
+      further training was obvious to policymakers. Littell, 894 F.3d at 624.
+      But as noted above, Plaintiffs have not alleged a pattern. However, even
+      absent proof of pattern, the Court noted that deliberate indifference can
+      still be inferred if the factfinder determines that the risk of
+      constitutional violations was or should have been an “obvious” or “highly
+      predictable consequence” of the alleged training inadequacy. Id.
+      Presumably, Plaintiffs rely on the latter single-incident theory.
+         Yet Plaintiffs do not plausibly plead that DFW was deliberately
+      indifferent to the need for further training. The single-incident theory is
+      generally reserved for those cases in which the government actor was
+      provided with no training whatsoever. Peña v. City of Rio Grande City,
+      879 F.3d 613, 624 (5th Cir. 2018). Further, “[a] municipality’s culpability
+      for a deprivation of rights is at its most tenuous where a claim turns on
+      a failure to train.” Connick v. Thompson, 563 U.S. 51, 61 (2011).
+
+         For one, Plaintiffs’ threadbare allegations argue as to the extent of
+      training, not that officers lack training whatsoever. ECF No. 2 at 13.
+      But even more fundamentally, Plaintiffs offer no factual support for
+      these contentions other than Officer Jackson’s fellow officer’s statement
+      that “no, no, we got this.” ECF. No 2 at 13. This statement alone,
+      however, cannot support the inference plaintiff desires. Even supposing
+      that his admonition to his fellow officer indicates disapproval of the
+
+                                          10
+Case 4:26-cv-00433-P    Document 20     Filed 08/27/26    Page 11 of 12       PageID 183
+
+
+
+      technique, the lone statement does not plausibly support inadequate
+      training. The statement could just as well indicate that officers had
+      received training and therefore disapproved. But the statement and
+      accompanying threadbare conclusions do not “allege with specificity how
+      a particular … program is defective.” Zarnow v. City of Wichita Falls,
+      614 F. 3d 161, 170 (5th Cir. 2020). Nor do they approach deliberate
+      indifference, which “requires a showing of more than negligence or even
+      gross negligence.” Est. of Davis ex rel. McCully v. City of N. Richland
+      Hills, 406 F.3d 375, 381 (5th Cir. 2005). Plaintiffs thus also fail to
+      plausibly allege municipal liability under a failure-to-train theory.
+
+         C. The Court Declines to Exercise Supplemental jurisdiction
+            Over Plaintiffs’ State Law Claims
+
+         Because the Plaintiffs’ constitutional claims are barred by qualified
+      immunity and foreclosed under Monell, and thus should be dismissed,
+      only the state law claims remain. Those too should be dismissed.
+
+         Under 28 U.S.C. § 1367(c), a court may decline to exercise
+      supplemental jurisdiction over a state law claim if the district court has
+      dismissed all claims over which it has original jurisdiction. We are also
+      guided by “considerations of judicial economy, convenience, fairness,
+      and comity.” Mendoza v. Murphy, 532 F.3d 342, 346 (5th Cir. 2008)
+      (citing McClelland v. Gronwaldt, 155 F.3d 507, 519 (5th Cir. 1998),
+      overruled on other grounds by Arana v. Ochsner Health Plan, 338 F.3d
+      433 (5th Cir. 2003)). Our general rule is to dismiss state law claims when
+      the federal claims to which they are pendent are dismissed. Parker &
+      Parsley Petrol. Co. v. Dresser Indus., 972 F.2d 580, 585 (5th Cir. 1992).
+      However, we review each claim “on a case-by-case basis, and no single
+      factor is dispositive.” Mendoza, 532 F.3d at 346.
+
+         Here, considerations of judicial economy, convenience, fairness, and
+      comity support dismissal. It would serve the important interests of
+      federalism and comity, because federal courts are courts of limited
+      jurisdiction that “often are not as well equipped for determinations of
+      state law as are state courts.” Parker, 972 F.2d at 588–89. Plaintiffs’
+      state law claims, though themselves subject to serious jurisdictional
+
+
+
+                                          11
+v.                                              No. 4:23-cv-00841-P
+         Case 4:26-cv-00433-P    Document 20    Filed 08/27/26   Page 12 of 12   PageID 184
+REGIONS BANK ET AL.,
+
+     Defendants.hurdles, nevertheless involve interpretation of state law and further
+                               ORDER
+               factual development  that is best left to state court.
+     Before the Court is Plaintiff’s Unopposed Motion for Leave to File
+                                            CONCLUSION
+Second Amended Complaint. ECF No. 18. Having considered the Motion
+                  For entries,
+and applicable docket  the above
+                               thereasons, the Court
+                                   Court GRANTS        Motion. Defendants’ Motion to
+                                                     GRANTS
+                                                   the
+               Dismiss as to the Section 1983 claims with prejudice and dismisses
+   SO ORDERED on this 18th day of September 2023.
+               the state law claims without prejudice so they can be pursued in
+               Texas state court.
+
+                   SO ORDERED on this 27th day of August 2026.
+
+
+
+
+                      ______________________________________________
+                      Mark T. Pittman
+                      UNITED STATES DISTRICT JUDGE
+
+
+
+
+                                                  12
+

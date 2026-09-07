@@ -1,0 +1,846 @@
+                            UNITED STATES DISTRICT COURT
+                            FOR THE DISTRICT OF COLUMBIA
+
+CATARINA ALMEIDA PORFIRIO,                        :
+                                                  :
+       Plaintiff,                                 :       Civil Action No.:       25-4055 (RC)
+                                                  :
+       v.                                         :       Re Document No.:        5
+                                                  :
+MARKWAYNE MULLIN, Secretary of                    :
+Homeland Security, et al.,                        :
+                                                  :
+       Defendants.                                :
+
+                                  MEMORANDUM OPINION
+
+    GRANTING DEFENDANTS’ MOTION TO TRANSFER AND DENYING WITHOUT PREJUDICE
+                        DEFENDANTS’ MOTION TO DISMISS
+
+                                      I. INTRODUCTION
+
+       Plaintiff Catarina Almeida Porfirio, a citizen of Brazil who resides in Utah, challenges
+
+the denial of her visa. She had filed an I-140 petition seeking classification as an alien of
+
+extraordinary ability in the field of athletics for an employment-based, first preference
+
+immigration visa, known as an EB-1A visa. The government denied the petition from a field
+
+office in Texas. Notwithstanding her place of residence or the location of the center that denied
+
+her petition, Ms. Porfirio brings this action challenging that denial in the District of Columbia
+
+against Defendants Markwayne Mullin, in his official capacity as U.S. Secretary of Homeland
+
+Security, and Joseph B. Edlow, in his official capacity as Director of the U.S. Citizenship and
+
+Immigration Services (“USCIS”). 1
+
+
+
+
+       1
+        The current Secretary of Homeland Security, Markwayne Mullin, is substituted for his
+predecessor, Kristi Noem, pursuant to Federal Rule of Civil Procedure 25(d).
+       The government moves to transfer this action to the Northern District of Texas or, in the
+
+alternative, to the District of Utah, under 28 U.S.C. § 1404(a) and to dismiss the case under Fed.
+
+R. Civ. P. 12(b)(3) and 12(b)(6). For the reasons explained below, the Court will grant the
+
+government’s motion to transfer the case to the Northern District of Texas and deny the
+
+government’s motion to dismiss without prejudice.
+
+                                II. FACTUAL BACKGROUND
+
+       Ms. Porfirio is a Brazilian citizen and endurance athlete specializing in ultra-distance
+
+open-water swimming, Compl. for Declaratory Relief & Review of Agency Action Under the
+
+Administrative Procedure Act (“Compl.”) ¶ 1, ECF No. 1. Per the Complaint, she currently
+
+resides in Highland, Utah. See id. at 1. On the basis of her achievements as an athlete,
+
+Ms. Porfirio filed a Form I-140 petition on May 27, 2025. Id. ¶¶ 1, 11. As part of her filing,
+
+Ms. Porfirio submitted evidence of her “prizes or awards, membership in associations, published
+
+materials about [her], participation as a judge, authorship of scholarly articles, and evidence of
+
+leadership roles,” to demonstrate the requisite “extraordinary ability evidenced by sustained
+
+national or international acclaim.” Id. ¶¶ 12, 14.
+
+       On June 12, 2025, USCIS’s Texas Service Center issued a Request for Evidence
+
+(“RFE”), Defs.’ Mot. to Transfer & Dismiss and Mem. in Supp. Thereof (“Defs.’ Mot.”), Ex. 5-1
+
+at 1–2, ECF No. 5, centered on “(1) potential fraud/misrepresentation; (2) clarification of
+
+evidence/compliance; (3) evidence of intent to continue work; and (4) final merits determination
+
+on sustained acclaim,” Compl. ¶ 19. In response, Ms. Porfirio provided USCIS with additional
+
+evidence “clarifying that no misrepresentation occurred and that any confusion was due to
+
+USCIS’s interpretation of general versus category-specific race results.” Id. ¶ 20. Nonetheless,
+
+on September 22, 2025, USCIS’s Texas Service Center denied Ms. Porfirio’s petition, finding
+
+
+
+
+                                                 2
+that the record did not show that she had either received a major internationally recognized prize
+
+or, in its absence, fulfilled at least three of the ten criteria through which an individual can
+
+establish the sustained acclaim necessary to qualify as an individual of extraordinary ability
+
+under 8 C.F.R. § 204.5(h)(3). Defs.’ Mot., Ex. 5-1 at 1, 3–14.
+
+       Ms. Porfirio filed this lawsuit on November 19, 2025, against the Secretary of Homeland
+
+Security and the Director of USCIS. Compl. at 1; id. ¶¶ 1–3. Ms. Porfirio alleges that USCIS’s
+
+denial of her I-140 Petition was arbitrary and capricious in violation of the Administrative
+
+Procedure Act, 5 U.S.C. §§ 701–06, and the Fifth Amendment’s Due Process Clause, U.S.
+
+Const. amend. V. Id. ¶¶ 35–70. Her Complaint requests that the Court reverse USCIS’s
+
+decision, declare it unlawful and an arbitrary abuse of discretion under Section 706, award
+
+Ms. Porfirio reasonable attorney’s fees and costs incurred by bringing this action, and any other
+
+relief the Court “deems just and proper.” Id. at 15–16 (request for relief).
+
+       On February 2, 2026, the government moved under 28 U.S.C. § 1404(a) to transfer
+
+Ms. Porfirio’s lawsuit to the Northern District of Texas or, in the alternative, to the District of
+
+Utah, and to dismiss the case under Fed. R. Civ. P. 12(b)(3) and 12(b)(6). Defs.’ Mot. at 6.
+
+                                    III. LEGAL STANDARD
+
+       The federal change-of-venue statute provides that “[f]or the convenience of the parties
+
+and witnesses, in the interest of justice, a district court may transfer any civil action to any other
+
+district or division where it might have been brought.” 28 U.S.C. § 1404 (a). This allows a court
+
+to transfer a case even if a plaintiff has brought a case in a district with proper venue. Ngonga v.
+
+Sessions, 318 F. Supp. 3d 270, 274 (D.D.C. 2018) (citing 28 U.S.C. § 1404(a)). In making the
+
+decision to transfer, the Court must make an “individualized, case-by-case consideration of
+
+
+
+
+                                                   3
+convenience and fairness.” Stewart Org., Inc. v. Ricoh Corp., 487 U.S. 22, 29 (1988) (quoting
+
+Van Dusen v. Barrack, 376 U.S. 612, 622 (1964)).
+
+       The moving party has the burden to establish that transfer is proper. Chauhan v.
+
+Napolitano, 746 F. Supp. 2d 99, 102 (D.D.C. 2010). To establish that the transfer of venue is
+
+proper, the government must demonstrate that the instant case “might have been brought” in the
+
+proposed transferee districts by showing that venue would have been proper there per Section
+
+1391. 2 Melnattur v. U.S. Citizenship & Immigr. Servs., No. CV 20-3013 (JDB), 2021 WL
+
+3722732, at *2 (D.D.C. Aug. 23, 2021) (citing Wei Lai Dev. LLC vs. U.S. Citizenship & Immigr.
+
+Servs., No. CV 21-887 (RDM), 2021 WL 2073403, at *3 (D.D.C. May 24, 2021). Once this
+
+threshold is satisfied, the government must show that, on balance, private and public interests
+
+weigh in favor of transfer. Chauhan, 746 F. Supp. 2d at 102. In deciding a motion to transfer, a
+
+court may consider materials outside the pleadings. Id. Whether a transfer or a dismissal is in
+
+
+
+
+       2
+          Transfer under Section 1404(a) is only appropriate if venue is also proper in the district
+where the suit is originally filed; if it is not, the appropriate mechanism for transfer is Section
+1406(a). See Atl. Marine Const. Co., Inc. v. U.S. Dist. Ct. for W. Dist. of Tex., 571 U.S. 49, 55–
+57, 59–60 (2013). The residence of employees of the United States sued in their official capacity
+“is determined on the basis of the official residence of the federal officer or agency.” Bourdon v.
+DHS, 235 F. Supp. 3d 298, 304 (D.D.C. 2017) (quoting Franz v. United States, 591 F. Supp.
+372, 377 (D.D.C. 1984)). Although USCIS used to be headquartered in Washington, D.C., as of
+December 2020, the agency moved its headquarters to Camp Springs, Maryland. See Wei Lai,
+2021 WL 2073403, at *3 n.5. In its motion to dismiss, the government challenged the propriety
+of venue in this district. See Defs.’ Mot. at 12–14. Because the Court will transfer the case,
+however, it does not need to address the government’s motion to dismiss. After all, even if
+venue were improper in the District of Columbia, the result would not change because Section
+1406(a) also permits a court to transfer a case “to any district or division in which it could have
+been brought” “if it be in the interest of justice,” 28 U.S.C. § 1406(a), and the framework for
+assessing a transfer under Section 1406(a) is essentially identical to that under Section 1404(a).
+See Bahena v. Renaud, No. CV 21-291 (RDM), 2021 WL 1820232, at *2 (D.D.C. May 6, 2021);
+Claros v. Cowan, No. CV 21-609 (JEB), 2021 WL 1820209, at *1 (D.D.C. May 6, 2021)
+(“[A]lthough Plaintiffs and Defendants disagree about whether venue is proper in this District,
+the Court need not wade into that controversy today. Instead, it will proceed with the § 1404(a)
+transfer framework . . . .”).
+
+
+                                                 4
+the interest of justice, “rests within the sound discretion of the district court.” Naartex
+
+Consulting Corp. v. Watt 722 F.2d 779, 789 (D.C. Cir. 1983).
+
+                                          IV. ANALYSIS
+
+        The government asks this Court to transfer the instant action to the Northern District of
+
+Texas, where the USCIS Service Center that processed Ms. Porfirio’s petition is located, or
+
+alternatively to the District of Utah, where Ms. Porfirio resides. Defs.’ Mot. at 6. The Court
+
+agrees with the government that the instant case should be transferred to the Northern District of
+
+Texas. The Court first concludes that the proposed transferee districts are appropriate venues
+
+and then finds that both the private and public factors are served by transfer to the Northern
+
+District of Texas.
+
+                                  A. Venue in Transferee Courts
+
+        First, the Court concludes that the proposed transferee districts—the Northern District of
+
+Texas and the District of Utah—are ones where the action “might have been brought.” 28
+
+U.S.C. § 1404(a). For suits, like this one, against “an officer or employee of the United
+
+States . . . or an agency of the United States,” venue is proper “in any judicial district in which
+
+(A) a defendant in the action resides, (B) a substantial part of the events or omissions giving rise
+
+to the claim occurred, or a substantial part of property that is the subject of the action is situated,
+
+or (C) the plaintiff resides if no real property is involved in the action.” 28 U.S.C. § 1391(e)(1).
+
+        The District of Utah fits within the third prong, and the Northern District of Texas
+
+satisfies the second. Starting with Utah, Plaintiff resides in Highland, Utah, located in the
+
+District of Utah. See Compl. at 1; Defs.’ Mot. at 6. Venue would thus be proper in that district
+
+under Section 1391(e)(1)(C). As for the Northern District of Texas, Ms. Porfirio’s petition was
+
+adjudicated by the USCIS Texas Service Center located in Irving, Texas. Defs.’ Mot. at 6,
+
+
+
+
+                                                   5
+Ex. 5-1 at 1. Accordingly, “a substantial part of the events or omissions giving rise” to this claim
+
+occurred in the Northern District of Texas. 28 U.S.C. § 1391(e)(1)(B); see also Pengbo Li v.
+
+Miller, No. CV 20-1122 (EGS), 2021 WL 1124541, at *3 (D.D.C. Mar. 24, 2021) (determining
+
+that the District of Nebraska was “an appropriate venue because it is the location where NSC
+
+[USCIS’s Nebraska Service Center] processed and denied Plaintiffs’ request.”). Venue is
+
+thereby also proper in the Northern District of Texas under Section 1391(e)(1)(B).
+
+                         B. The Balance of Public and Private Interests
+
+       With the threshold requirement satisfied, the Court’s analysis turns to the Government’s
+
+showing that “considerations of convenience and the interests of justice weigh in favor of
+
+transfer.” Chauhan, 746 F. Supp. 2d at 102 (citing Devaughn v. Inphonic, Inc., 403 F. Supp. 2d
+
+68, 72 (D.D.C. 2005); Trout Unlimited v. U.S. Dep’t of Agric., 944 F. Supp. 13, 16 (D.D.C.
+
+1996)). To evaluate this, the Court weighs six private-interest factors: “(1) the plaintiff’s choice
+
+of forum, (2) the defendant’s choice of forum, (3) where the claim arose, (4) the convenience of
+
+the parties, (5) the convenience of the witnesses, and (6) the ease of access to sources of proof.”
+
+Wolfram Alpha LLC v. Cuccinelli, 490 F. Supp. 3d 324, 331 (D.D.C. 2020) (citing Aftab v.
+
+Gonzalez, 597 F. Supp. 2d 76, 80 (D.D.C. 2009)). The Court also considers three public-interest
+
+factors: “(1) the transferee court’s familiarity with the applicable law; (2) the relative congestion
+
+of the calendars of the transferee and transferor courts; and (3) the local interest in deciding local
+
+controversies at home.” Id. at 334 (quoting Al-Ahmed v. Chertoff, 564 F. Supp. 2d 16, 19
+
+(D.D.C. 2008)). The Court examines each set of factors in sequence.
+
+
+
+
+                                                  6
+                                   C. Private-Interest Factors
+
+                                   1. Plaintiff’s Choice of Forum
+
+       Although courts typically defer to the plaintiff’s choice of forum, Gyau v. Sessions,
+
+No. 18-cv-407, 2018 WL 4964502, at *2 (D.D.C. Oct. 15, 2018), this deference is “lessened
+
+when the plaintiff’s choice is not the plaintiff’s home forum, and is at its nadir when the
+
+‘plaintiff’s forum choice lacks meaningful ties to the controversy and [has] no particular interest
+
+in the parties or subject matter.’” Melnattur v. U.S. Citizenship & Immigr. Servs., No. CV 20-
+
+3013 (JDB), 2021 WL 3722732, at *4 (D.D.C. Aug. 23, 2021) (quoting Wei Lai, 2021 WL
+
+2073403, at *4)).
+
+       Ms. Porfirio chose the District of Columbia as her preferred forum by filing suit here.
+
+The District of Columbia, however, is not Ms. Porfirio’s place of residence. Utah is. See
+
+Compl. at 1. Furthermore, as elaborated below, Ms. Porfirio’s petition was processed
+
+exclusively in Irving, Texas, and she has not presented a persuasive allegation that any action in
+
+the District of Columbia influenced the grievances alleged in the instant case. Defs.’ Mot. at 6,
+
+Ex. 5-1 at 1. Without being Ms. Porfirio’s home forum and lacking a nexus to any actions at
+
+issue in this suit, the Court’s deference to Ms. Porfirio’s choice of venue in the District of
+
+Columbia is “at its nadir.” Melnattur, 2021 WL 3722732, at *4 (quoting Wei Lai, 2021 WL
+
+2073404, at *4).
+
+       Ms. Porfirio nonetheless insists that her choice of forum is entitled to meaningful
+
+deference, “is not ignored simply because [she] does not reside [there],” and should not be
+
+overridden absent a convincing demonstration that the balance of factors “strongly favors”
+
+transfer. Pl.’s Br. in Opp’n to Defs. Mot. to Transfer & Dismiss at 6 (“Pl.’s Opp’n”) at 6, ECF
+
+No. 6. She supports this argument by citing Wolfram Alpha for the first two propositions and
+
+
+
+
+                                                  7
+both In re Scott, 709 F.2d 717 (D.C. Cir. 1983), and Greater Yellowstone Coal. v. Bosworth, 180
+
+F. Supp. 2d 124 (D.D.C. 2001), for the last point.
+
+       The Court has reviewed these cases and does not find support for any of these
+
+propositions. To the contrary, as it does here, in Wolfram Alpha, the Court acknowledged that a
+
+plaintiff’s forum of choice is typically entitled to deference, but that this is significantly lessened
+
+when it is not their home forum and the chosen forum lacks a meaningful connection to the
+
+alleged controversy. 490 F. Supp. 3d at 332 (explaining that “deference to the plaintiff’s choice
+
+of forum is lessened when the plaintiff’s choice is not the plaintiff’s home forum” and that the
+
+factor therefore weighs “only slightly” in the plaintiff’s favor). In re Scott, for its part, focused
+
+on the propriety of a district court transferring a case sua sponte (as opposed to on a parties’
+
+motion) as well as the “express congressional design to render the District of Columbia an all-
+
+purpose forum” for cases under the Freedom of Information Act, neither of which is implicated
+
+here. 709 F.2d at 720–21 (explaining only that a court ordering transfer sua sponte “should be
+
+reserved for exceptional circumstances”). And, finally, Ms. Porfirio quotes Greater Yellowstone
+
+Coalition as stating that a transfer from Plaintiff’s choice of forum requires more than a “close”
+
+call, but the Court cannot find that language in the opinion. Pl.’s Opp’n at 6 (quoting Greater
+
+Yellowstone Coal., 180 F. Supp. 2d at 129). Instead, like this Court’s analysis above, that
+
+opinion’s evaluation of the deference afforded to the plaintiff’s choice of forum was contingent
+
+upon there being a connection between the forum and the controversy or parties. See 180 F.
+
+Supp. 2d at 128–29.
+
+       Because Ms. Porfirio does not reside in the District of Columbia and this forum has no
+
+meaningful connection to the controversy at issue, her choice of forum is afforded minimal
+
+deference. Therefore, this factor weighs against transfer, but only slightly.
+
+
+
+
+                                                   8
+                                  2. Defendant’s Choice of Forum
+
+       The government’s choice of forum favors transfer in the instant case. “A defendant’s
+
+choice of forum is typically granted deference only when they can establish that the added
+
+convenience and justice of litigating in their chosen forum overcomes any deference to the
+
+Plaintiffs’ choice of venue.” Melnattur, 2021 WL 3722732, at *5 (cleaned up). As
+
+Ms. Porfirio’s choice of forum receives minimal deference and the government moves to transfer
+
+to the forum where the claim arose or, alternatively, her home forum, see Defs.’ Mot. at 6, the
+
+government’s choice of forum is given some weight. See Melnattur, 2021 WL 3722732, at *5
+
+(applying identical reasoning). This factor thereby favors transfer to the Northern District of
+
+Texas or, alternatively, to the District of Utah.
+
+                       3. Location of Activities that Gave Rise to the Action
+
+       The location of activities that gave rise to the action in the instant case weighs heavily in
+
+favor of transfer. “When the material events that form the factual predicate of a plaintiff’s claim
+
+did not occur in [their] chosen forum, transfer is favored.” Wolfram Alpha, 490 F. Supp. 3d at
+
+331 (quoting Ngonga, 318 F. Supp. 3d at 275). In APA cases, “the underlying claim typically
+
+arises ‘where the decisionmaking process occurred.’” Rabelo v. Noem, 2025 WL 3171005, at *3
+
+(quoting McAfee, 2019 WL 6051559, at *1).
+
+       Ms. Porfirio does not allege a meaningful nexus between the District of Columbia and
+
+USCIS’s denial of her petition. Her Complaint neither identifies any “‘acts or omissions’
+
+occurring in this District,” Gummaraju v. Mullin, No. CV 25-3714 (SLS), 2026 WL 1718284, at
+
+*4 (D.D.C. June 15, 2026) (quoting Aishat v. U.S. Dep’t of Homeland Sec, 288 F. Supp. 3d 261,
+
+264 (D.D.C. 2018)), nor alleges that the named officials “had any role in adjudicating the
+
+Petition.” Gummaraju, 2026 WL 1718284, at *4. Instead, USCIS personnel reviewed and
+
+
+
+
+                                                    9
+denied her petition at the Texas Service Center, and Ms. Porfirio presumably received that denial
+
+at her residence in Utah. Defs.’ Mot., Ex. 5-1 at 1; Compl. at 1. Accordingly, the
+
+“decisionmaking process” occurred outside the District of Columbia, which favors transfer.
+
+Rabelo, 2025 WL 3171005, at *3 (quoting McAfee, 2019 WL 6051559, at *1); Wolfram Alpha,
+
+490 F. Supp. 3d at 331.
+
+       This result is ordinary. “[C]ourts in this district,” including this one, “routinely conclude
+
+that lawsuits challenging the denial of an immigration-related application should be litigated in
+
+either the district where the denial occurred or the district where the applicant resides.”
+
+Gummaraju, 2026 WL 1718284, at *4; see also, e.g., Bourdon v. DHS, 235 F. Supp. 3d 298, 305
+
+(D.D.C. 2017) (“Cases challenging the actions of local USCIS offices are frequently, and
+
+appropriately, transferred to the venue encompassing those local offices . . . .”); Wolfram Alpha,
+
+590 F. Supp. 3d 340 (transferring case challenging visa denial to district where applicant
+
+resided).
+
+       Ms. Porfirio raises two counterarguments, but neither persuades the Court. First, she
+
+argues that the District of Columbia “has a substantial connection to the case” because “DHS
+
+leadership is headquartered here” and USCIS “leadership is nearby.” Pl.’s Opp’n at 6. It does
+
+not suffice, however, to merely name agency officials residing in the District of Columbia as
+
+defendants. See Aftab, 597 F. Supp. 2d at 81 (“[N]aming . . . agency directors does not alone
+
+anchor venue [in the District of Columbia].”). The Secretary of Homeland Security did not deny
+
+Ms. Porfirio’s request. USCIS employees in Texas did.
+
+       Second, Ms. Porfirio appears to argue that her complaint challenges a policy or
+
+interpretation of legal standards that was made by agency leadership in the District of Columbia.
+
+See Pl.’s Opp’n at 5. The problem with this argument is that her Complaint describes neither a
+
+
+
+
+                                                 10
+national policy nor a discrete form of centralized supervision. Rather, she alleges that USCIS
+
+mischaracterized and misinterpreted her achievements on multiple instances—facts specific to
+
+the review of her particular application, which occurred in Texas. Compl. ¶¶ 40–50. And she
+
+does not ask the Court to set aside any governmental regulations or policies but rather that the
+
+Court order the government to either approve her EB-1A petition or to reopen and reconsider it.
+
+Id. at 16 (request for relief). Indeed, she does not “identify or challenge ‘any specific USCIS
+
+policy or directive that might have caused the [Texas] Service Center to deny [her] petition.’”
+
+Gummaraju, 2026 WL 1718284, at *4 (quoting Ike v. USCIS, No. 20-CV-1744 (CRC), 2020 WL
+
+7360214, at *3 (D.D.C. Dec. 15, 2020)); see also Wolfram Alpha, 690 F. Supp. 3d at 332
+
+(“Importantly, this case seeks review of CSC’s denial of Plaintiff’s individualized petition only
+
+and does not involve either a broad challenge to USCIS or DHS policies or raise any allegation
+
+that USCIS or DH[S] administrators in the District of Columbia played any role in adjudicating
+
+Plaintiff’s petition.”). To the extent Ms. Porfirio argues that the application by officials in Texas
+
+of policies created in the District of Columbia supports venue in the District of Columbia, courts
+
+have concluded that such “attenuated or insignificant involvement by an official in the District of
+
+Columbia does not support venue here.” Aftab, 597 F. Supp. 2d at 82. 3
+
+
+
+       3
+          In making this argument, Ms. Porfirio once again appears to misinterpret the cases upon
+which she relies in opposing transfer. She cites Wolfram Alpha, and Nat’l Wildlife Fed’n v.
+Harvey, for the proposition that this Court and others in this District “look to where the operative
+decisionmaking and policymaking occurred—not merely where paperwork was processed,” Pl.’s
+Opp’n at 5, when they both held that the decisionmaking occurred at the physical locus of the
+agency actors responsible for the adjudication. See 490 F. Supp. 3d at 331–32; 437 F. Supp. 2d
+42, 47 (D.D.C. 2006). Ms. Porfirio also contends that the location of the USCIS Service Center
+is not the locus of the decisionmaking in the instant case because this is merely where the
+paperwork was processed and the center “do[es] not establish policy or interpret legal standards.”
+Pl.’s Opp. at 5. In doing so, Ms. Porfirio argues that, “where challenged action reflects national
+policy or centralized supervision, [the District of Columbia] has a meaningful connection to the
+dispute.” Pl.’s Opp’n at 5 (citing Aftab, 597 F. Supp. 2d 76; Cameron v. Thornburg, 983 F.2d
+253, 256 (D.C. Cir. 1993)). As discussed above, Aftab comes out against Ms. Porfirio’s
+
+
+                                                 11
+                 4. Convenience to the Parties, the Witnesses, and the Evidence
+
+       The private interest factors related to convenience weigh slightly in favor of transfer to
+
+the Northern District of Texas because any relevant evidence will be located there. “In a case
+
+involving review of an agency action, ‘the location of witnesses is not a significant factor,’ but
+
+‘the location of the administrative record, however, carries some weight.’” Melnattur, 2021 WL
+
+3722732, at *5 (quoting Aftab, 597 F. Supp. 2d at 83 (D.D.C. 2009)). As Ms. Porfirio’s claims
+
+arise under the APA (and a constitutional claim that mirrors her APA claims), they will likely be
+
+decided using only the administrative record, bypassing the need for much discovery or witness
+
+testimony. Melnattur, 2021 WL 3722732, at *5 (citing Akinyode v. U.S. Dep’t of Homeland
+
+Sec., No. CV 21-110 (JDB), 2021 WL 3021440, at *4 (D.D.C. July 16, 2021)). Nonetheless, as
+
+this Court explained in Wolfram Alpha, “[w]hen claims arise within a geographic district, that
+
+district is more likely to be convenient for potential witnesses and more likely to house
+
+evidence.” 490 F. Supp. 3d at 333 (citing McAfee, 2019 WL 6051559, at *2). Although the
+
+government has not explicitly stated the location of the administrative record, much of it is
+
+presumably situated at the Texas Service Center, where Ms. Porfirio’s petition was processed,
+
+and where witnesses relating to the instant case are more likely to reside (other than Ms. Porfirio
+
+herself, who resides in Utah). See id.
+
+
+
+
+argument. Indeed, the court there rejected venue in the District of Columbia because even
+though the plaintiff identified relevant “policy memoranda and reports by the defendants,” he
+“neither point[ed] to any involvement by the DHS Secretary or [other D.C. officials] in his
+application nor challenge[d] a general policy or regulation.” 597 F. Supp. 2 at 81. Similarly,
+Cameron, does not appear to support her argument and instead reiterates that courts must be
+wary of attempts to “manufacture venue” merely by naming high government officials as
+defendants, as Ms. Porfirio has done here. 983 F.2d at 256.
+
+
+
+                                                 12
+        Objecting to the proposed transfer, Ms. Porfirio contends that transfer would “deprive
+
+[her] of her chosen counsel, who is not admitted in [the Northern District of Texas], and would
+
+impose substantial delay and expense to secure new counsel or admission.” Pl.’s Opp’n at 4.
+
+Ms. Porfirio cites “Ravenell v. Van Buren, 2019 WL 6619363, at *5 (D.D.C. Dec. 5, 2019)” in
+
+support of the proposition that courts in this district consider this kind of deprivation of counsel
+
+as part of their transfer assessment. Id. This Court, like the government, could not locate the
+
+case in question to verify this proposition. Defs.’ Reply in Supp. Mot. (“Defs.’ Reply”), ECF
+
+No. 7, at 4 n.1. On the contrary, this Court, alongside others, has previously concluded that
+
+“[t]he location of counsel is not a consideration” when assessing the convenience of the parties.
+
+Wolfram Alpha, 490 F. Supp. 3d at 333 (citing Chauhan, 746 F. Supp. 2d at 104).
+
+        In sum, the private-interest factors favor transferring the case away from the District of
+
+Columbia. The location where the activities in question arose and convenience factors strongly
+
+favor transfer to the Northern District of Texas. The balance of the remaining private-interest
+
+factors is either neutral or slightly in favor of transfer to the District of Utah.
+
+                                     D. Public-Interest Factors
+
+                       1. Transferee Court’s Familiarity with Applicable Law
+
+        As both parties agree that Ms. Porfirio’s claim requires the interpretation of federal law,
+
+the first public-interest factor is neutral. Defs.’ Mot. at 14; Pl.’s Opp’n at 7. In such instances,
+
+“[t]he transferee district is presumed to be equally familiar with the federal laws governing [the
+
+plaintiff’s claims].” Wolfram Alpha, 490 F. Supp. 3d at 335 (citing Aftab, 597 F. Supp. 2d at 83).
+
+Absent either party contesting that federal claims “could be handled competently by a court in
+
+either district,” this factor is neutral. Wolfram Alpha, 490 F. Supp. 3d at 335 (quoting Aishat,
+
+288 F. Supp. 3d at 271).
+
+
+
+
+                                                   13
+                                2. Relative Congestion of the Courts
+
+        The second public interest factor, the relative congestion of the calendars of the transferee
+
+and transferor courts, is also neutral. The government argues that “there can be no dispute” that
+
+both the Northern District of Texas and the District of Columbia have congested dockets, and
+
+Ms. Porfirio does not dispute this. Defs.’ Mot. at 6. Neither party comments on the relative
+
+congestion of the District of Utah. This factor, therefore, appears to be neutral. Def. Servs., Inc.
+
+v. Mayorkas, No. CV 21-1314 (RC), 2022 WL 910335, at *5 (D.D.C. Mar. 29, 2022) (citing
+
+Wolfram Alpha, 490 F. Supp. 3d at 337).
+
+                    3. Local Interest in Deciding Local Controversies at Home
+
+        The local interest in deciding local controversies at home, arguably the most important of
+
+the public-interest factors, weighs in favor of transfer. Wolfram Alpha, 490 F. Supp. 3d at 338.
+
+In assessing this factor, consider “where the challenged decision was made; whether the decision
+
+directly affected the citizens of the transferee state; the location of the controversy[;] . . . whether
+
+the controversy has some national significance; and whether there was personal involvement by
+
+a District of Columbia official.” Melnattur, 2021 WL 3722732 at *6 (quoting Bourdon, 235 F.
+
+Supp. 3d at 308). As explained above, the decision appears to have been made in Texas with
+
+minimal, if any, involvement from any officials in the District of Columbia. The decision does
+
+not appear to affect any citizens of the District of Columbia—only Ms. Porfirio who resides in
+
+Utah—and the adjudication of an individual visa application is generally not of national
+
+significance.
+
+        Ms. Porfirio counters that the District of Columbia “has a strong interest in the legality of
+
+actions taken by federal departments and leadership located here” and that, where the record and
+
+legal issues are the same in either forum, “defendants cannot satisfy their burden by pointing to a
+
+
+
+
+                                                  14
+nominally “local” service-center location.” Pl.’s Opp’n at 7. Ms. Porfirio does not explain,
+
+however, why the District of Columbia has any greater interest in the federal government
+
+following the law than any of the fifty states. She cites Hand & Hand, LLC v. U.S. Department
+
+of Health & Human Services, 21 F. Supp. 3d 8, 18 (D.D.C. 2014), for the proposition that the
+
+“public interest includes [the] local interest in resolving controversies connected to the forum,”
+
+Pl.’s Opp’n at 7, but the Court has been unable to locate this case. At any rate, even assuming
+
+the authority exists, the problem with Ms. Porfirio’s argument is that she has not identified a
+
+controversy related to the District of Columbia. The controversy appears to be more related to
+
+Texas or Utah, and those fora at least have a greater interest in the controversy than the District
+
+of Columbia.
+
+        In sum, two public-interest factors are neutral, and the most important factor supports
+
+transfer to the Northern District of Texas. Like their private counterparts, the public-interest
+
+factors thereby also weigh in favor of transfer to this district.
+
+                                       E. Remaining Motions
+
+        The Government recognizes that the Court, having found transfer warranted, need not
+
+reach the merits of the motion to dismiss. Defs.’ Mot. at 10; see Wei Lai Dev., 2021 WL
+
+2073403, at *3 n.5 (D.D.C. May 24, 2021); Mohammadi v. Scharfen, 609 F. Supp. 2d 14, 16 n.2
+
+(D.D.C. 2009) (“In light of the transfer, the court does not address the defendants’ motion to
+
+dismiss.”). The Court thereby denies the government’s motion to dismiss without prejudice “so
+
+that [the government] may refile it, if appropriate, upon transfer.” Abusadeh v. Chertoff, No. 06-
+
+cv-2014 (CKK), 2007 WL 2111036, at *1 (D.D.C. July 23, 2007).
+
+
+
+
+                                                  15
+        V. POTENTIAL IMPROPER PREPARATION OF OPPOSITION BRIEF
+
+       Before closing, the Court notes that it harbors some concern about the preparation of the
+
+opposition brief. The Government has identified at least one case cited in the opposition brief
+
+which it could not corroborate. See Defs.’ Reply at 4 n.1 (noting that the Government could not
+
+identify the case cited by Ms. Porfirio’s counsel as Ravenell v. Van Buren, 2019 WL 6617363, at
+
+*5 (D.D.C. Dec. 5, 2019)). Like the Government, the Court has searched for this authority to no
+
+avail. Nor could the Court locate “Hand & Hand, LLC v. U.S. Dep’t of Health & Hum. Services,
+
+21 F. Supp. 3d 8 (D.D.C. 2014),” another authority cited in the opposition brief. Pl.’s Opp’n at
+
+7. Similarly, the Court has been unable to find at least some of the quotes used in the opposition
+
+brief. See supra at 8 (discussing missing quotation). Finally, the brief appears to severely
+
+mischaracterize case holdings and dispositions, some of which are described above. Compare,
+
+e.g., Pl.’s Opp’n at 3 (characterizing this Court’s decision in Wolfram as “denying transfer”),
+
+with Wolfram, 490 F. Supp. 3d at 340 (transferring case to Illinois).
+
+       It is not acceptable to submit filings to the Court containing false, misleading, or
+
+nonexistent quotations or authorities. Such conduct contravenes an attorney’s duty toward their
+
+client to exercise professional judgment and responsibility. See Park v. Kim, 91 F.4th 610, 614
+
+(2d Cir. 2024). In particular, Rule 11(b)(2) of the Federal Rules of Civil Procedure provides that
+
+“[b]y presenting to the court a pleading, written motion, or other paper,” an attorney “certifies
+
+that to the best of the person’s knowledge, information, and belief, formed after an inquiry
+
+reasonable under the circumstances . . . the claims, defenses, and other legal contentions are
+
+warranted by existing law . . . .” Fed. R. Civ. P. 11(b)(2). Furthermore, Rule 3.3(a)(1) of the
+
+District of Columbia Rules of Professional Conduct provides that an attorney “shall not
+
+knowingly . . . [m]ake a false statement of fact or law to a tribunal.” D.C. R. Pro.
+
+
+
+
+                                                 16
+Conduct 3.3(a)(1). The Court agrees with the Second Circuit that, at minimum, such rules
+
+“require that attorneys read, and thereby confirm the existence and validity of, the legal
+
+authorities on which they rely.” Park, 91 F.4th at 615.
+
+       Courts have taken diverse disciplinary actions against attorneys who have filed pleadings
+
+and other court papers citing nonexistent legal authorities and quotations, ranging from striking
+
+the pleadings, see, e.g., Grant v. City of Long Beach, 96 F.4th 1255, 1256–57 (9th Cir. 2024); to
+
+ordering counsel to show cause why sanctions should not issue, see, e.g., Mata v. Avianca, Inc.,
+
+No. 22-cv-1461, 2023 WL 3696209, at *1 (S.D.N.Y. May 4, 2023); and referring counsel to a
+
+court’s grievance panel, see, e.g., Park, 91 F.4th at 612.
+
+       At this juncture, however, it would be premature for the Court to find that anything
+
+improper was done in the preparation of the opposition brief, and the Court makes no such
+
+finding at this time. After all, counsel for Ms. Porfirio has had no opportunity to address the
+
+Court’s concerns. And the Court will not open an inquiry into the brief’s preparation at this time
+
+because, as explained above, it is transferring this case to another district and will leave to the
+
+sound judgment of the transferee court how to handle the matter. But the Court notes that the
+
+brief’s citation to nonexistent quotations and cases as well as its misstatements of law bear the
+
+hallmarks of reliance on an artificial intelligence tool. See Williams v. Cap. One Bank, N.A.,
+
+No. 15 24-cv-2032, 2025 WL 843285, at *7 (D.D.C. Mar 18, 2025) (“Courts have recently seen
+
+increasing reliance on artificial intelligence in legal proceedings, leading to the use of
+
+nonexistent citations in court documents.”). And if this case somehow returns to this Court, the
+
+Court may inquire further into the preparation of the opposition brief.
+
+
+
+
+                                                  17
+                                     VI. CONCLUSION
+
+       For the foregoing reasons, the Court grants the government’s motion to transfer and
+
+denies their motion to dismiss without prejudice. An order consistent with this Memorandum
+
+Opinion is separately and contemporaneously issued.
+
+
+Dated: July 23, 2026                                            RUDOLPH CONTRERAS
+                                                                United States District Judge
+
+
+
+
+                                              18
+

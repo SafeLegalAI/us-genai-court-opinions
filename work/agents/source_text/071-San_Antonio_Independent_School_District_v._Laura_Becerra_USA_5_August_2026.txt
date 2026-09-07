@@ -1,0 +1,666 @@
+                                     Fourth Court of Appeals
+                                              San Antonio, Texas
+                                        MEMORANDUM OPINION
+                                                  No. 04-25-00724-CV
+
+                         SAN ANTONIO INDEPENDENT SCHOOL DISTRICT,
+                                          Appellant
+
+                                                              v.
+
+                               Laura BECERRA, as Next Friend of J.C., a Minor,
+                                               Appellee
+
+                          From the 45th Judicial District Court, Bexar County, Texas
+                                       Trial Court No. 2025-CI-24418
+                               Honorable Mary Lou Alvarez, Judge Presiding
+
+Opinion by:          Lori I. Valenzuela, Justice
+
+Sitting:             Rebeca C. Martinez, Chief Justice
+                     Lori I. Valenzuela, Justice
+                     Velia J. Meza, Justice
+
+Delivered and Filed: August 5, 2026
+
+REVERSED AND RENDERED
+
+           Appellant San Antonio Independent School District (“SAISD”) appeals the trial court’s
+
+denial of its plea to the jurisdiction, which sought the dismissal of claims that appellee Laura
+
+Becerra filed against SAISD on behalf of her son, J.C. 1 We reverse the trial court’s order and
+
+render judgment dismissing Becerra’s claims against SAISD.
+
+
+
+
+1
+    To protect J.C.’s privacy, we will refer to him only by his initials. See TEX. R. APP. P. 9.9(a)(3).
+                                                                                                       04-25-00724-CV
+
+
+                                                    BACKGROUND
+
+           At the outset of this dispute, J.C. was a fifth grader at SAISD’s Mark Twain Dual Language
+
+Academy. On September 10, 2025, another child’s parent reported that J.C. had brought a knife to
+
+school the previous day. 2 When assistant principal Sarah Harrell questioned J.C. about this
+
+allegation, she learned that he once again had the knife at school. Both Harrell and an SAISD
+
+police officer examined the knife, which turned out to be a Montessori knife meant to teach
+
+children to cut fruits and vegetables. During the meeting with Harrell, J.C. submitted a handwritten
+
+statement that said:
+
+           So I accidently [sic] brought my knife so I used it to cut my fruit and carrot and I
+           helped my [friends] cut [their] fruit as well and we just talked for the rest of lunch.
+           I was going to use it for a game but I didn’t and I just tagged them on the shoulder.
+
+Harrell did not inform J.C.’s parents about the incident before she talked with him and collected
+
+his written statement.
+
+           After meeting with J.C., Harrell notified his parents about the issue and suspended J.C.
+
+from school for two-and-a-half days. Principal David Garcia then informed the campus community
+
+about the incident via email. In his email, Garcia stated, “District protocols were followed, and an
+
+investigation determined [J.C.] had no intention to harm anyone.”
+
+
+2
+    The record in this appeal shows that SAISD policy defines three different categories of knives:
+
+       •   “Location-Restricted Knife,” which is “[d]efined by the [Texas] Penal Code as a knife with a blade over 5 ½
+           inches.”
+
+       •   “Prohibited Weapon,” which is defined as “[a] dagger or similar knife . . . . The length of the blade is not a
+           factor in identifying these knives, since they are identified by their design and features.”
+
+       •   “Other Knives,” which are defined as “any other knife, with a blade length up to and including 5 ½ inches[.]”
+
+SAISD policy also provides that “[p]ossessing, using, or exhibiting any knife is prohibited by the SAISD Student
+Code of Conduct.” (emphasis in original). Possession of “location-restricted” knives and “prohibited weapons” are
+defined as Level IV, expulsion-level offenses, while possession of “other knives” “may be considered to be a violation
+of a Level III offense, resulting in DAEP placement, or Level II offense, generally resulting in suspension from school
+or other serious consequences.” The Montessori knife at issue here appears to fall under the definition of “other
+knives.”
+
+
+                                                           -2-
+                                                                                                  04-25-00724-CV
+
+
+        J.C. returned to school at Twain after serving his suspension. After he returned to school,
+
+he wrote notes to other students that read “Hate you now,” “[W]e are not friends,” and “[F]ound a
+
+[phone] number to leak hehe[.]” The record appears to indicate that J.C. attempted to distribute at
+
+least some of these notes to their intended recipients, but it does not indicate whether he
+
+succeeded. 3
+
+        As part of her review of this incident, Harrell prepared a Critical Incident Report and
+
+forwarded it to an SAISD hearing officer, Elisa Zavala. After reviewing the Critical Incident
+
+Report, Zavala notified J.C.’s home campus, Twain—which in turn notified J.C.’s parents—that
+
+SAISD would hold a hearing on whether to refer J.C. to SAISD’s Disciplinary Alternative
+
+Education Program (“DAEP”). Neither Assistant Principal Harrell nor Principal Garcia
+
+participated in the decision to hold a DAEP hearing.
+
+        J.C. and his parents appeared at the hearing and presented evidence on his behalf. At the
+
+end of the hearing, Zavala found that J.C. had violated SAISD’s Student Code of Conduct by
+
+possessing a knife and “engag[ing] in unruly, disruptive, disrespectful, or abusive conduct that
+
+substantially interferes with the orderly operation of the classroom, campus or District-related
+
+activity[.]” She signed an order placing J.C. in DAEP for 25 days. Although it is undisputed that
+
+J.C. does not have any disabilities, a checklist on Zavala’s order indicated that she made her
+
+decision after considering “[d]isability that interferes with student’s ability to appreciate the
+
+wrongfulness of the student’s conduct.” Additionally, Zavala’s checklist did not indicate that she
+
+reviewed “[s]upporting documents provided by parent and/or guardian,” even though it is
+
+undisputed that J.C.’s parents submitted evidence at the hearing. Zavala later testified that this was
+
+a clerical error and that she did review the materials submitted by J.C.’s parents.
+
+
+3
+ Garcia testified that “a couple of” the notes were confiscated from another student who stated that J.C. had asked
+him to deliver them.
+
+
+                                                       -3-
+                                                                                                    04-25-00724-CV
+
+
+         On September 26, 2025, Becerra filed a “Level One” grievance with SAISD, 4 which asked
+
+the district to suspend enforcement of the DAEP placement pending the outcome of the grievance
+
+process. Julissa Herrera, who is SAISD’s executive director for policies, procedures, and public
+
+information, informed Becerra by email that SAISD’s “board policy does not provide the
+
+suspension of campus or district actions during the grievance process.” Herrera later testified that
+
+this email was the full extent of her involvement in this matter and that she had no role in either
+
+the DAEP hearing or the decision to refer J.C. to DAEP.
+
+         On October 15, 2025, Becerra sued SAISD, Herrera in her official capacity, and Garcia in
+
+his official capacity. Becerra’s petition alleged violations of J.C.’s due process rights under article
+
+I, section 19 of the Texas Constitution; “arbitrary [and] capricious use of discretionary authority”;
+
+and ultra vires actions. She sought a temporary restraining order, a temporary injunction, and
+
+attorney’s fees. In response, SAISD, Herrera, and Garcia filed a plea to the jurisdiction, which
+
+argued that Becerra’s claims against them were barred by governmental immunity because: (1)
+
+SAISD’s disciplinary decisions are not subject to judicial review; (2) referral to a DAEP program
+
+does not affect a protected property interest and therefore does not trigger due process concerns;
+
+and (3) neither Herrera nor Garcia “had any involvement in the decision to place [J.C.] in DAEP.”
+
+         The trial court held a two-day hearing on SAISD’s plea to the jurisdiction, at which it heard
+
+live testimony from Herrera, Garcia, Harrell, and Zavala and received documentary evidence.
+
+After considering the pleadings and evidence, the trial court verbally dismissed the claims against
+
+Herrera and Garcia “without prejudice to amending of pleadings if that’s something that’s
+
+warranted as the discovery process continues.” It signed a written order denying the plea to the
+
+
+
+
+4
+  Although Becerra’s appellate briefing makes factual representations about the progress of the grievance process, the
+record is largely silent on that issue.
+
+
+                                                        -4-
+                                                                                                  04-25-00724-CV
+
+
+jurisdiction “as to [SAISD] only.” 5 SAISD then timely filed this interlocutory appeal. See TEX.
+
+CIV. PRAC. & REM. CODE § 51.014(a)(8).
+
+                                                   ANALYSIS
+
+                                         Becerra’s Cited Authority
+
+        We begin by noting that Becerra’s appellee’s brief cites eight judicial opinions, four of
+
+which appear to be hallucinations created by generative artificial intelligence:
+
+    •   “Alief Independent School District v. Lozano, 543 S.W.3d 118 (Tex. App.—Houston [14th
+        Dist.] 2018, pet. denied),” cited on page 23 of Becerra’s brief, does not exist. The citation
+        543 S.W.3d 118 leads to a 2018 opinion from a Missouri court of appeals. See Payne v.
+        Fiesta Corp., 543 S.W.3d 109, 118 (Mo. App. E.D. 2018). Despite a thorough search of
+        Westlaw and the websites of the Houston courts of appeals, we have been unable to locate
+        any appellate opinions in which Alief Independent School District was opposed by a party
+        named Lozano. SAISD’s reply brief expressly identifies this citation as a hallucination.
+
+        Becerra cites this hallucination for the proposition that “Texas courts have recognized that
+        interference with a student’s educational rights can give rise to a justiciable injury,” and
+        she identifies it as “finding jurisdiction where a district acted beyond its authority in
+        removing a student from a program without due process.” In other words, Becerra relies
+        on this hallucination as a core part of her argument to this court. She does not offer any
+        further authority to support the propositions she attributes to this hallucination.
+
+    •   “Hoffman v. ESD 48, No. 01-14-00676-CV (Tex. App.—Houston [1st Dist.] 2015, pet.
+        denied),” cited on page 22 of Becerra’s brief, does not exist. Our searches of Westlaw and
+        the website for the Houston First Court of Appeals show that cause number 01-14-00676
+        was assigned to a criminal case in the relevant year. See Alcaraz v. State, 481 S.W.3d 712
+        (Tex. App.—Houston [1st Dist.] 2015, pet. ref’d). We have not found any Texas appellate
+        opinions involving the named parties.
+
+    •   “Neely v. West Orange-Cove Consol. ISD, No. 09-17-00196-CV (Tex. App.—Beaumont
+        2018, no pet.),” cited on page 21 of Becerra’s brief, does not exist. Our searches of Westlaw
+        and the website for the Beaumont Court of Appeals show that cause number 09-17-00196
+        was assigned to a criminal case in the relevant year. See Munn v. State, No. 09-17-00196-
+        CV, 2018 WL 5623689 (Tex. App.—Beaumont Oct. 31, 2018, no pet.) (mem. op., not
+        designated for publication). While there are two Texas cases that carry the style Neeley v.
+        West Orange-Cove Consolidated Independent School District, those opinions revolve
+        around the constitutionality of Texas’s public school finance system and an award of
+        attorney’s fees arising out of that dispute. They do not involve student discipline or other
+
+5
+ The trial court also signed a temporary restraining order that, inter alia, enjoined SAISD from enforcing the DAEP
+order. The temporary restraining order expired under its own terms on November 3, 2025, before SAISD filed its
+notice of appeal.
+
+
+                                                       -5-
+                                                                                         04-25-00724-CV
+
+
+        issues relevant to this case. See Neeley, 176 S.W.3d 746, 751 (Tex. 2005); Neeley, 228
+        S.W.3d 864, 865–866 (Tex. App.—Austin 2007, pet. denied).
+
+    •   “Cutrer v. Tarrant County College District, 943 F.3d 265 (5th Cir. 2019),” cited on page
+        21 of Becerra’s brief, appears to be an attempt to cite a Fifth Circuit opinion styled Cutrer
+        v. Tarrant County Local Workforce Development Board, 943 F.3d 265 (5th Cir. 2019).
+        Becerra’s brief states that Cutrer “involved a college student’s expressive conduct and
+        campus restrictions[.]” This is not correct. Cutrer is an employment discrimination dispute
+        that does not involve any school law, expressive conduct, or campus restriction issues. See
+        generally 943 F.3d at 267–68.
+
+Becerra contends that she cited the Hoffman, Neely, and Cutrer hallucinations identified above to
+
+refute SAISD’s own reliance on those citations. But SAISD did not cite any of these fictitious
+
+opinions in either its appellate briefing or its trial court filings. It is therefore unclear why Becerra
+
+decided to include these hallucinations in her brief.
+
+        We have previously warned litigants that generative artificial intelligence tools “lack the
+
+ability to produce reliable and accurate citations to legal authorities.” See Suday v. Suday, No. 04-
+
+23-00836-CV, 2026 WL 100418, at *1 n.3 (Tex. App.—San Antonio Jan. 14, 2026, pet. filed)
+
+(mem. op.); AGiza v. Franklin, No. 04-25-00099-CV, 2025 WL 2058089, at *2 n.1 (Tex. App.—
+
+San Antonio July 23, 2025, pet. denied) (per curiam) (mem. op.). We once again repeat that
+
+admonition. We also feel compelled to remind licensed attorneys, including Becerra’s counsel in
+
+this appeal, that they owe both a duty of candor to this court and a duty of competence to their
+
+clients. TEX. DISCIPLINARY RULES PROF’L CONDUCT R. 1.01 cmt. 6; id. R. 3.03(a)(1). Reliance on
+
+fictitious citations and inaccurate representations about the contents of an opposing party’s brief
+
+are inconsistent with both of these duties.
+
+        In light of these hallucinations, we have considered whether to strike Becerra’s brief “and
+
+proceed as if [she] had failed to file a brief.” See TEX. R. APP. P. 38.9; Suday, 2026 WL 100418,
+
+at *1 n.3; see also Nellis v. Haynie, 596 S.W.3d 920, 922 n.2 (Tex. App.—Houston [1st Dist.]
+
+2020, no pet.) (noting that when “an appellee does not file a brief, the appellate court may accept
+
+
+
+                                                  -6-
+                                                                                      04-25-00724-CV
+
+
+any factual statement made in the appellant’s brief as true”). However, we will proceed to the
+
+merits of this appeal without taking further action on this issue. We nevertheless caution Becerra’s
+
+counsel that we will not tolerate similar issues in any future appearances before this court.
+
+                                     Limitations on Our Review
+
+        We begin our merits review by noting there is a balance between necessary safety
+
+precautions that a school must take and the risk of excessive punishment imposed for violating
+
+such safety rules. That balance can be reviewed when a school takes steps to suspend or expel a
+
+student, and there often exists an appellate process embedded in the school’s protocols, including
+
+final decision-making for alleged excessive punishment. Under SAISD’s internal procedures, the
+
+duty to perform that appellate review falls on SAISD’s Board of Trustees. Our role in this appeal
+
+is to determine whether the trial court properly denied SAISD’s plea to the jurisdiction and nothing
+
+else. We make no comment on SAISD’s appellate process or the outcome of Becerra’s appeal
+
+pursuant to that internal district process.
+
+                                         Standard of Review
+
+        “In Texas, sovereign immunity deprives a trial court of subject matter jurisdiction for
+
+lawsuits in which the state or certain governmental units have been sued unless the state consents
+
+to suit.” Tex. Dep’t of Parks & Wildlife v. Miranda, 133 S.W.3d 217, 224 (Tex. 2004). Because
+
+sovereign immunity “defeats a trial court’s subject matter jurisdiction,” it “is properly asserted in
+
+a plea to the jurisdiction.” Id. at 225–26.
+
+        This court reviews a trial court’s ruling on a plea to the jurisdiction de novo. City of San
+
+Antonio v. Summerglen Prop. Owners Ass’n Inc., 185 S.W.3d 74, 83 (Tex. App.—San Antonio
+
+2005, pet. denied). A plaintiff who sues a governmental entity has the burden to plead facts that
+
+affirmatively show a waiver of immunity. Val Verde Hosp. Dist. v. Salazar, 708 S.W.3d 759, 761–
+
+62 (Tex. App.—San Antonio 2025, no pet.). In determining whether the plaintiff has met that
+
+
+                                                -7-
+                                                                                       04-25-00724-CV
+
+
+burden, the reviewing court must “construe the pleadings liberally in favor of the plaintiffs and
+
+look to the pleaders’ intent.” Miranda, 133 S.W.3d at 226. When a jurisdictional plea challenges
+
+the pleadings, we must determine “if the plaintiff has alleged facts that affirmatively demonstrate
+
+the court’s jurisdiction to hear the case[.]” Meyers v. JDC/Firethorne, Ltd., 548 S.W.3d 477, 486
+
+(Tex. 2018). If the pleaded facts do not affirmatively demonstrate the trial court’s jurisdiction but
+
+also do not reveal incurable jurisdictional defects, the plaintiff should be allowed to amend. Id.
+
+However, “if the pleadings affirmatively negate the existence of jurisdiction, such that it is
+
+impossible to amend the pleadings to invoke jurisdiction, the plea may be granted and the suit
+
+dismissed without allowing the plaintiffs an opportunity to amend.” Id.
+
+                                             Ultra Vires
+
+                                           Applicable Law
+
+       “Absent a statutory waiver of immunity by the Legislature,” a plaintiff’s claim against a
+
+governmental employee can proceed only if the employee’s actions “were ultra vires—without
+
+state authority.” Hall v. McRaven, 508 S.W.3d 232, 234 (Tex. 2017); see also Franka v. Velasquez,
+
+332 S.W.3d 367, 382–83 (Tex. 2011). A governmental employee commits ultra vires acts if he
+
+acts without legal authority, if he fails to perform a purely ministerial act, “or if his acts conflict
+
+with the law itself.” Hall, 508 S.W.3d at 238; Hous. Belt & Terminal Ry. Co. v. City of Houston,
+
+487 S.W.3d 154, 158 (Tex. 2016). Importantly, however, an ultra vires suit “cannot be brought
+
+against the state, which retains immunity, but must be brought against the state actors in their
+
+official capacity.” City of El Paso v. Heinrich, 284 S.W.3d 366, 373 (Tex. 2009).
+
+                                             Application
+
+       The order SAISD challenges in this appeal does not explicitly adjudicate the claims against
+
+its employees, Herrera and Garcia. While the reporter’s record shows the trial court verbally
+
+dismissed the claims against Herrera and Garcia, the clerk’s record does not contain a written order
+
+
+                                                 -8-
+                                                                                                     04-25-00724-CV
+
+
+to that effect. However, both SAISD and Becerra represented to this court that the trial court
+
+dismissed those claims. Neither side raises any appellate complaints about that dismissal, and
+
+Herrera and Garcia are not parties to this appeal. If any ultra vires or other claims against Herrera
+
+and Garcia remain pending below, those claims are not before us, and we express no opinion as to
+
+their validity or the trial court’s jurisdiction over them.
+
+         The challenged order denied the plea to the jurisdiction “as to [SAISD] only” without
+
+identifying any specific claims. If the trial court intended to retain jurisdiction over an ultra vires
+
+claim against SAISD as an entity, it erred. As noted above, an ultra vires claim will not lie against
+
+a governmental entity. See, e.g., Patel v. Tex. Dep’t of Licensing & Regul., 469 S.W.3d 69, 76
+
+(Tex. 2015); Heinrich, 284 S.W.3d at 373; Suarez v. Silvas, 613 S.W.3d 549, 557 (Tex. App.—
+
+San Antonio 2020, no pet.). Such claims may only be brought “against the appropriate state
+
+officials in their official capacities.” Patel, 469 S.W.3d at 76 (citing Tex. Dep’t of Ins. v.
+
+Reconveyance Servs., Inc., 306 S.W.3d 256, 258–59 (Tex. 2010) (per curiam)). We therefore
+
+reverse the trial court’s order as to the ultra vires claim against SAISD and render judgment
+
+dismissing that claim. See Reconveyance, 306 S.W.3d at 259.
+
+                                 Judicial Review of Assignment to DAEP6
+
+                                                 Applicable Law
+
+         Chapter 37 of the Texas Education Code codifies standards for student codes of conduct
+
+and behavior management in Texas public schools. See generally TEX. EDUC. CODE §§ 37.001–
+
+.028. “Because [J.C.]’s placement in the alternative education program was not an expulsion,
+
+review of [SAISD]’s decision is governed by section 37.009(b).” Flour Bluff Indep. Sch. Dist. v.
+
+
+6
+  In her appellate briefing, Becerra appears to challenge both the referral to DAEP and the initial two-and-a-half day
+suspension. However, her live petition challenged only the referral to DAEP. As a result, SAISD did not seek the
+dismissal of any claims arising out of the initial suspension, and the trial court did not consider or rule on any such
+claims. We therefore will not consider Becerra’s appellate arguments on that point.
+
+
+                                                         -9-
+                                                                                         04-25-00724-CV
+
+
+R.S., No. 13-05-00623-CV, 2006 WL 949968, at *2 (Tex. App.—Corpus Christi–Edinburg Apr.
+
+12, 2006, no pet.) (mem. op.); see also TEX. EDUC. CODE §§ 37.006 (establishing requirements for
+
+placement in DAEP program), 37.009 (conference, review, and hearing requirements that apply
+
+when student is removed from class under section 37.006).
+
+        Several Texas courts have held that under the plain language of section 37.009,
+
+“disciplinary actions involving mere placement in an alternative education program are not
+
+reviewable by a court of law.” Hankins v. P.H., 1 S.W.3d 352, 354 (Tex. App.—Corpus Christi–
+
+Edinburg 1999, pet. denied); see also Nw. Indep. Sch. Dist. v. K.R., No. 02-20-00067-CV, 2020
+
+WL 4907331, at *4 (Tex. App.—Fort Worth Aug. 20, 2020, no pet.) (mem. op.); Stephens v.
+
+Trinity Indep. Sch. Dist., No. 12-12-00094-CV, 2012 WL 5289346, at *2–3 (Tex. App.—Tyler
+
+Oct. 24, 2012, no pet.) (mem. op.); In re Vidor Indep. Sch. Dist., No. 09-10-00558-CV, 2010 WL
+
+5232996, at *4 (Tex. App.—Beaumont Dec. 13, 2010, orig. proceeding) (per curiam) (mem. op.);
+
+Flour Bluff, 2006 WL 949968, at *2; Sutton v. Katy Indep. Sch. Dist., 961 S.W.2d 216, 217–18
+
+(Tex. App.—Houston [1st Dist.] 1997, no writ) (considering predecessor to section 37.009). These
+
+cases hold that a trial court lacks jurisdiction to consider a claim that challenges a student’s referral
+
+to DAEP. See Flour Bluff, 2006 WL 949968, at *2.
+
+                                              Application
+
+        Becerra’s petition alleged that SAISD did not comply with the statutory requirements of
+
+sections 37.006 and 37.009 and that its decision to assign J.C. to DAEP was therefore an arbitrary
+
+and capricious use of discretionary authority. As support for this contention, she argued the knife
+
+J.C. brought to school “was a Montessori educational tool, not a weapon”; J.C.’s “intent was
+
+innocent and educational, not malicious”; “[t]he incident was at most a developmental
+
+misunderstanding” to which the assessed punishment “bears no reasonable relation”; and SAISD
+
+“appl[ied] a blanket punishment designed for much more serious misconduct” instead of
+
+
+                                                  - 10 -
+                                                                                                    04-25-00724-CV
+
+
+considering “statutory mitigating factors.” She also argued that DAEP placement is only
+
+authorized “where a student’s conduct is seriously disruptive or presents a danger to persons or
+
+property.” (emphasis in original).
+
+         These allegations directly challenge the merits of SAISD’s disciplinary decision. Because
+
+the trial court lacks jurisdiction to consider such a challenge, these allegations affirmatively negate
+
+the existence of jurisdiction. See, e.g., Stephens, 2012 WL 5289346, at *3; Flour Bluff, 2006 WL
+
+949968, at *2; see also Meyers, 548 S.W.3d at 486. The trial court thus erred by denying SAISD’s
+
+plea to the jurisdiction as to the merits of the disciplinary decision. See, e.g., Stephens, 2012 WL
+
+5289346, at *3; Flour Bluff, 2006 WL 949968, at *2.
+
+                                                   Due Process
+
+                                                 Applicable Law
+
+         “Even if there is no jurisdiction to review complaints arising out of the statutory rights in
+
+Chapter 37 of the Texas Education Code, an appellate court has jurisdiction to determine whether
+
+the complained of action violates the student’s constitutional rights.” K.R., 2020 WL 4907331, at
+
+*3. The United States Supreme Court has held that under the Fourteenth Amendment’s due process
+
+clause, 7 public school districts may not impose discipline that deprives a student of his right to an
+
+education without first providing him with notice and a hearing. See Goss v. Lopez, 419 U.S. 565,
+
+574–76 (1975).
+
+         “But for a court to have jurisdiction of constitutional claims against a governmental entity,
+
+the constitutional claims must be ‘viable.’” K.R., 2020 WL 4907331, at *3. A governmental
+
+entity’s “immunity from suit is not waived if the constitutional claims are facially invalid.” Id. In
+
+
+
+7
+ While Becerra’s appellate briefing raises due process arguments “under both the Fourteenth Amendment to the U.S.
+Constitution and Article I, Section 19 of the Texas Constitution,” her trial court pleadings did not raise any federal
+due process claims.
+
+
+                                                        - 11 -
+                                                                                        04-25-00724-CV
+
+
+the context of a due process claim under article I, section 19 of the Texas Constitution, this means
+
+that the plaintiff must allege that the challenged action affected a protected property or liberty
+
+interest. Id. at *4, *6. “[P]rotected property rights are affected and due process protections are
+
+required when the discipline imposed amounts to a deprivation of access to education.” Riggan v.
+
+Midland Indep. Sch. Dist., 86 F. Supp. 2d 647, 655 (W.D. Tex. 2000) (emphasis added).
+
+                                             Application
+
+        Becerra alleged that J.C.’s referral to DAEP impacted a protected property interest because
+
+it deprived him of participation in the dual-language program he attended at Twain. But the record
+
+shows that J.C. “is not being denied access to public education, not even temporarily. He was only
+
+to be transferred from one school program to another program with stricter discipline.” Nevares v.
+
+San Marcos Consol. Indep. Sch. Dist., 111 F.3d 25, 26 (5th Cir. 1997). Texas courts have held that
+
+“a student’s transfer to an alternative education program did not implicate due process protection
+
+and a liberty or property interest was not taken” by a referral to a program like DAEP. See K.R.,
+
+2020 WL 4907331, at *6; Stafford Mun. Sch. Dist. v. L.P., 64 S.W.3d 559, 563 (Tex. App.—
+
+Houston [14th Dist.] 2001, no pet.). Becerra has not cited any authority holding that a temporary
+
+disciplinary transfer out of a specialized program deprives a student of access to an education, and
+
+we have not found any. See Stafford, 64 S.W.3d at 563 (student’s allegation “that he was not
+
+provided with an ‘appropriate education’” did not implicate a protected property interest); see also
+
+Nevares, 111 F.3d at 27 (“We have previously held that no protected property interest is implicated
+
+in a school’s denial to offer a student a particular curriculum.”). This claim therefore does not
+
+allege a constitutionally protected property interest. See K.R., 2020 WL 4907331, at *6–7.
+
+        When read in the light most favorable to Becerra, as the applicable standard of review
+
+requires, the petition also appears to allege that the referral to DAEP impacted J.C.’s liberty interest
+
+in his reputation. The K.R. court rejected a similar assertion, noting that “reputation alone is not
+
+
+                                                 - 12 -
+                                                                                    04-25-00724-CV
+
+
+entitled to due process protection.” Id. at *5. “Only when [reputation] is coupled with a ‘more
+
+tangible interest such as employment’ is it worthy of due process protection.” Id. (quoting Bd. of
+
+Trs. of Galveston Wharves v. O’Rourke, 405 S.W.3d 228, 237–38 (Tex. App.—Houston [1st Dist.]
+
+2013, no pet.)). Accordingly, the reputational claim will not support the trial court’s exercise of
+
+jurisdiction in this matter.
+
+        After reviewing the record and the applicable law, we conclude that Becerra did not allege
+
+any impact to a protected property or liberty interest and therefore did not plead a viable due
+
+process claim. See K.R., 2020 WL 4907331, at *5–7. Consequently, the trial court erred by denying
+
+SAISD’s plea to the jurisdiction as to that claim.
+
+                                           CONCLUSION
+
+        We reverse the trial court’s order denying SAISD’s plea to the jurisdiction and render
+
+judgment dismissing Becerra’s lawsuit against SAISD.
+
+
+                                                     Lori I. Valenzuela, Justice
+
+
+
+
+                                               - 13 -
+

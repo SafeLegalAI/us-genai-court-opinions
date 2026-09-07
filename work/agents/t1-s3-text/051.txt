@@ -1,0 +1,1001 @@
+          United States Court of Appeals
+                     For the First Circuit
+
+No. 25-1309
+
+   UNITED STATES OF AMERICA, ex rel. REYNALDO SOLANO AND NEALS
+    MAXILIN; STATE OF CALIFORNIA, STATE OF FLORIDA, STATE OF
+   ILLINOIS, COMMONWEALTH OF MASSACHUSETTS, STATE OF MICHIGAN,
+ STATE OF NEW JERSEY, STATE OF NEW YORK, STATE OF TEXAS, ex rel.
+               REYNALDO SOLANO AND NEALS MAXILIN,
+
+                     Plaintiffs, Appellants,
+
+                               v.
+
+                    BARTON ASSOCIATES, INC.,
+
+                      Defendant, Appellee,
+
+  MEDTECH WORLDWIDE, INC.; REALTIME PHYSICIANS, LLC; OCENTURE,
+                      LLC; CARELUMINA, LLC,
+
+                           Defendants.
+
+
+          APPEAL FROM THE UNITED STATES DISTRICT COURT
+               FOR THE DISTRICT OF MASSACHUSETTS
+
+       [Hon. George A. O'Toole, Jr., U.S. District Judge]
+
+
+                             Before
+
+                      Barron, Chief Judge,
+              Howard and Rikelman, Circuit Judges.
+
+
+     Christopher Furlong, with whom Frier Levitt was on brief, for
+appellants.
+     Jordan Bock, with whom Kevin Martin, Miranda Hooker, and
+Goodwin Procter LLP were on brief, for appellee.
+May 28, 2026
+          RIKELMAN, Circuit Judge.        This case is a qui tam action
+
+under the False Claims Act (FCA).       See 31 U.S.C. §§ 3729-3733.        In
+
+2022, Reynaldo Solano and Neals Maxilin sued Barton Associates,
+
+Inc., claiming that Barton ran a fraudulent scheme to induce others
+
+to submit false claims to Medicare and other government benefit
+
+programs in exchange for a fee.            The district court granted
+
+Barton's motion to dismiss, concluding that Solano and Maxilin had
+
+failed to plead fraud with the particularity required by Federal
+
+Rule of Civil Procedure 9(b).         They now appeal the dismissal, as
+
+well as the district court's decision to deny their request for
+
+reconsideration or, in the alternative, to amend their complaint.
+
+Discerning no legal error or abuse of discretion in the district
+
+court's rulings, we affirm.
+
+                            I. BACKGROUND
+
+                           A. Relevant Facts
+
+          Solano owns a company that specializes in repairs and
+
+installations   of   mobility   and    accessibility     devices,   such   as
+
+wheelchair   lifts   and   scooters.1       In   2019,    he   received    an
+
+unsolicited phone call from an account manager at Barton.            Barton
+
+operates a staffing agency that assigns medical professionals to
+
+"locum tenens," or temporary, positions at hospitals and other
+
+
+     1 Because the district court dismissed the case at the
+pleading stage, we draw the facts from the complaint. See United
+States ex rel. Duxbury v. Ortho Biotech Prods., L.P., 579 F.3d 13,
+20 (1st Cir. 2009).
+
+
+                                - 3 -
+medical entities across the United States.     Solano alleges that
+
+the Barton employee sought to recruit him into Barton's "scheme"
+
+to "defraud Medicare and other government funded health plans."
+
+          According to Solano, the Barton employee outlined the
+
+scheme over "several conversations."    The employee explained that
+
+Barton recruits individuals or medical organizations ("clients")
+
+that provide medical services or products and can access the
+
+contact information of patients eligible for Medicare or other
+
+government programs.    Barton then "encourages" its clients to
+
+create a call center to solicit requests for medical treatment
+
+from those patients.    If a patient seeks a medical service or
+
+product, the client would then connect the patient with Barton,
+
+which would assign the patient to one of its own physicians to
+
+prescribe the service or product.    Solano alleges that, on top of
+
+what the patient pays for the physician consultation, Barton
+
+collects an additional $40 "assessment fee" from the client for
+
+each prescription its physicians write, and the client then submits
+
+a claim to the government for providing the service or product to
+
+the patient.
+
+          In one phone call, the Barton employee told Solano that,
+
+although a Barton physician must review each patient request for
+
+a service or product and "be allowed to reject" it, in fact, "99.9%
+
+of the submitted requests are approved." Solano never participated
+
+
+
+
+                             - 4 -
+in the scheme, but the Barton employee claimed that Barton had
+
+several clients already engaged in this ongoing operation.
+
+               Meanwhile,     Maxilin          worked     as    a    certified          coding
+
+associate for Medtech Worldwide, Inc., which operates a network of
+
+virtual       medical    clinics     pairing      patients       with     providers        for
+
+consultations.          His role involved coding prescriptions for cancer
+
+tests, pain creams, and medical equipment.
+
+               According    to     Maxilin,       Medtech      was   one      of    Barton's
+
+recruited clients that participated in the fraudulent scheme by
+
+channeling       its      patients       to      Barton        physicians          to    write
+
+"unnecessary" prescriptions.              He alleges that Medtech and another
+
+medical organization, RealTime Physicians, LLC, were obtaining
+
+"tens    of    thousands"     of    dollars       in    prescriptions         from      Barton
+
+physicians       every     month    for        various    testing,        equipment,        or
+
+medications       requested        by    Medicare-eligible           patients.             The
+
+organizations      would     then       seek    reimbursement        from     the       federal
+
+government      for     providing       the    prescribed       service     or      product.2
+
+Maxilin avers that Barton also contracted with other medical teams,
+
+such as Ocenture, LLC and CareLumina, LLC, which "were paying
+
+patients to take . . . cancer screening test[s] and then billing
+
+Medicare . . . for          reimbursement."              Ocenture       and      CareLumina
+
+
+
+
+     2 Maxilin alleges that Medtech also falsified signatures and
+forms, among other misconduct. Because Barton is not implicated
+in these additional allegations, we do not discuss them further.
+
+
+                                        - 5 -
+allegedly performed between "8,000 and 10,000 cancer-screening
+
+tests per month."3
+
+                       B. Procedural History
+
+          In June 2020, Solano and Maxilin brought a sealed qui
+
+tam action under the FCA and the analogous statutes of eight
+
+states.   In a qui tam suit, whistleblowers (called "relators")
+
+purport to bring claims on behalf of the United States.      See 31
+
+U.S.C. § 3730(b)(1).
+
+          Here, Solano and Maxilin alleged five claims under the
+
+FCA, including the presentation of false claims and conspiracy to
+
+commit an FCA violation.   See id. § 3729(a)(1)(A)-(G).    Overall,
+
+they alleged that Barton
+
+          knowingly provid[ed] or contract[ed] with
+          providers to furnish medical services to
+          patients eligible for Medicare or other
+          government-funded     health     plans     for
+          unnecessary services prescribed by physicians
+          that did not engage in treatment of the
+          patients,     had     no     physician-patient
+          relationship with them, and often did not even
+          speak with the patients for whom they
+          prescribed the services.
+
+Thus, they claimed that Barton engaged in fraud.
+
+          As required by the FCA, Solano and Maxilin submitted a
+
+disclosure statement to the local United States Attorney's Office
+
+when they filed their complaint.     See id. § 3730(b)(2).    Three
+
+
+     3  Solano and Maxilin initially sued Medtech, RealTime,
+Ocenture, and CareLumina, as well as Barton. Only Barton is a
+party to this appeal.
+
+
+                             - 6 -
+years later, in May 2023, the United States declined to intervene,
+
+and the district court ordered the complaint unsealed and served
+
+on Barton.
+
+              A few months after the complaint was unsealed, Barton
+
+moved to dismiss.       It argued, in part, that Solano and Maxilin had
+
+failed to plead fraud with the particularity required by Federal
+
+Rule of Civil Procedure 9(b).
+
+              The district court granted Barton's motion to dismiss.
+
+See United States ex rel. Solano v. Barton & Assocs., Inc., No.
+
+20-11231-GAO, 2024 WL 1346532, at *4 (D. Mass. Mar. 29, 2024).            It
+
+ruled that Solano and Maxilin had alleged the scheme at "too high
+
+a level of generality" to satisfy the requirements of Rule 9(b).
+
+Id. at *3.      The court went on to hold that, "[b]eyond a general
+
+outline of a fraudulent scheme, the complaint is minimal as to any
+
+details about specific false claims and lacks reliable indicia
+
+that   lead    to   a   strong   inference   that   claims   were   actually
+
+submitted."      Id.    It pointed out that Solano and Maxilin did not
+
+include details of the "time periods, locations, or amounts of
+
+fraudulently submitted claims" and also failed to identify the
+
+"specific government programs" involved in any false claims.             Id.
+
+The court acknowledged Solano and Maxilin's effort to allege "some
+
+numerical totals as to dollars and the number of prescriptions,"
+
+but it concluded that this information did not "connect . . . with
+
+the submission of any false claims to government programs."              Id.
+
+
+                                  - 7 -
+As    the   court    explained,         they    did   not     allege    that   these
+
+prescriptions        were         "written       without       a     doctor-patient
+
+relationship," were "medically unnecessary," or that the patients
+
+were actually enrolled in (rather than just eligible for) Medicare.
+
+Id.
+
+            In sum, the district court concluded that although the
+
+facts     alleged    by     Solano      and     Maxilin     could    give   rise   to
+
+"speculation"       of    fraud    by   Barton,    they     were    insufficient   to
+
+"strengthen the inference of fraud beyond possibility." Id. (first
+
+quoting United States ex rel. Duxbury v. Ortho Biotech Prods.,
+
+L.P., 579 F.3d 13, 31 (1st Cir. 2009); and then quoting Hagerty ex
+
+rel. United States v. Cyberonics, Inc., 844 F.3d 26, 31 (1st Cir.
+
+2016)).     It thus dismissed both the federal and state-law claims
+
+with prejudice for failing to meet the demands of Rule 9(b).
+
+            Less than one month after the district court entered its
+
+dismissal order, thus ending the case, Solano and Maxilin filed a
+
+motion for reconsideration.             See Fed. R. Civ. P. 59(e).          In their
+
+motion, they also requested, in the alternative, that the court
+
+treat the dismissal as without prejudice and grant them leave to
+
+amend the complaint.         See Fed. R. Civ. P. 15(a)(2).             The district
+
+court denied the motion in full.
+
+            Solano and Maxilin timely appealed.
+
+
+
+
+                                        - 8 -
+                            II. STANDARD OF REVIEW
+
+              We review de novo a district court's decision to grant
+
+a    motion   to   dismiss      for   failure      to   plead    fraud    with    the
+
+particularity required by Rule 9(b).            See United States ex rel. Ge
+
+v. Takeda Pharm. Co., 737 F.3d 116, 123 (1st Cir. 2013).                           By
+
+contrast, we review a district court's denial of a motion to amend
+
+a complaint for abuse of discretion.                See United States ex rel.
+
+Kelly v. Novartis Pharms. Corp., 827 F.3d 5, 10 (1st Cir. 2016).
+
+We may affirm if any adequate reason for the denial is apparent
+
+from the record.       See Acosta-Mestre v. Hilton Int'l of P.R., Inc.,
+
+156 F.3d 49, 51 (1st Cir. 1998).              Finally, we review a denial of
+
+a motion for reconsideration under Rule 59(e) for manifest abuse
+
+of discretion.      See Ruiz Rivera v. Pfizer Pharms., LLC, 521 F.3d
+
+76,   81    (1st   Cir.    2008).       District    courts      have    "substantial
+
+discretion and broad authority" in resolving a Rule 59(e) motion.
+
+Id.
+
+                                 III. DISCUSSION
+
+              Solano and Maxilin argue that the district court erred
+
+by    not   applying      the   "more    flexible"      pleading       standard   for
+
+inducement-based FCA claims, and that their complaint against
+
+Barton survives under that standard.                Duxbury, 579 F.3d at 30.
+
+They also contend that the court abused its discretion in denying
+
+their motion for reconsideration and, alternatively, for leave to
+
+
+
+
+                                      - 9 -
+amend their complaint.          As we explain, we find no legal error or
+
+abuse of discretion in the district court's rulings.
+
+                             A. Motion to Dismiss
+
+              Solano and Maxilin argue that their complaint "set[]
+
+forth a detailed account of a fraudulent scheme" by Barton that
+
+"include[d] reliable indicia that [false] claims were submitted"
+
+and thus satisfied Rule 9(b).               We disagree that they have met
+
+Rule 9(b)'s requirements.
+
+              A party bringing a fraud claim under the FCA must show
+
+that (1) the defendant submitted or caused the submission of a
+
+claim for payment to the government and (2) the claim was false or
+
+fraudulent.      See Ge, 737 F.3d at 124; 31 U.S.C. § 3729(a)(1).
+
+Under    Rule    9(b),      both     components   must     be     alleged     with
+
+particularity.     See Lawton ex rel. United States v. Takeda Pharm.
+
+Co., 842 F.3d 125, 130 (1st Cir. 2016) ("Rule 9(b) requires both
+
+that    the   circumstances     of    the   alleged   fraud     and   the   claims
+
+themselves be alleged with particularity.").              That means alleging
+
+the "who, what, when, where, and how of the alleged fraud."                    Ge,
+
+737 F.3d at 123 (citation modified).              Allegations of misconduct
+
+not linked to submission of false claims are "not enough."                  Id. at
+
+124.
+
+              Generally,    a   complaint     brought    under    the   FCA   must
+
+"identify      particular    false     claims"    that    the    defendant     has
+
+submitted.      Duxbury, 579 F.3d at 29 (emphasis omitted).                 But we
+
+
+                                     - 10 -
+have recognized "a distinction between" qui tam actions alleging
+
+that the defendant submitted false claims and those alleging that
+
+the defendant induced others to file false claims.               Id.
+
+            For inducement cases under the FCA, relators may survive
+
+a motion to dismiss "by alleging particular details of a scheme to
+
+submit false claims paired with reliable indicia that lead to a
+
+strong    inference     that    claims   were   actually    submitted."     Id.
+
+(quoting United States ex rel. Grubbs v. Kanneganti, 565 F.3d 180,
+
+190 (5th Cir. 2009)).            Such reliable indicia may include the
+
+"specific     medical     providers      who    allegedly    submitted    false
+
+claims, . . . rough time periods, locations, and amounts of the
+
+claims, and the specific government programs to which the claims
+
+were made."    Ge, 737 F.3d at 124 (discussing Duxbury, 579 F.3d at
+
+30).     We have described this path as a "somewhat more flexible
+
+standard" under Rule 9(b).            Hagerty, 844 F.3d at 31 (citation
+
+modified) (quoting Kelly, 827 F.3d at 13).               But, in the end, to
+
+overcome the Rule 9(b) hurdle, relators must include allegations
+
+that   "strengthen      the    inference   of   fraud   beyond   possibility."
+
+Duxbury, 579 F.3d at 29 (emphasis added) (citation modified).
+
+            Solano and Maxilin argue that their complaint "easily
+
+satisfies" the "more flexible standard" for inducement-based FCA
+
+claims.     In their view, their allegations "include[] multiple
+
+reliable indicators that Barton's scheme led directly to the
+
+submission of large numbers of false claims."              They point out that
+
+
+                                   - 11 -
+the allegations identify the "specific government programs (e.g.,
+
+Medicare), the types of items and services reimbursed (genetic
+
+tests, [durable medical equipment], pain creams), the nature of
+
+the falsity (no patient contact, lack of medical necessity), and
+
+the    mechanism      of     causation     (prescriptions        rubberstamped    by
+
+Barton's providers and used to submit claims)."                          Thus, they
+
+contend, the district court "misappli[ed]" the legal standard for
+
+inducement-based FCA claims, instead "requir[ing] them to identify
+
+specific false claims submitted for payment."
+
+              To    begin,     we   disagree      that     the    district      court
+
+"misappli[ed]" the relevant legal standard.                  The court correctly
+
+determined that Solano and Maxilin "alleg[ed] inducement" such
+
+that   their       claims   against      Barton   were    subject   to   the    "more
+
+accommodating standard" under Duxbury, meaning that they did not
+
+need to "provid[e] details as to each false claim."                   Solano, 2024
+
+WL 1346532, at *2 (citation modified).                   It also recognized that
+
+"there   is    no     checklist     of    mandatory      requirements    that    each
+
+allegation in a complaint must meet to satisfy Rule 9(b)."                        Id.
+
+(citation modified).           As the court pointed out, for inducement
+
+cases, a complaint can meet the requirements of Rule 9(b) if it
+
+contains "reliable indicia that lead to a strong inference that
+
+[false] claims were actually submitted."                   Id. (quoting Duxbury,
+
+579 F.3d at 29).       It then highlighted that "factual or statistical
+
+evidence" can amount to reliable indicia but stressed that the
+
+
+                                         - 12 -
+alleged facts must "strengthen the inference of fraud beyond
+
+possibility."        Id. (quoting Hagerty, 844 F.3d at 31).            The court
+
+went on to conclude that Solano and Maxilin failed to satisfy this
+
+more flexible standard.         Based on our review, the district court
+
+checked all the boxes of the applicable legal test, contrary to
+
+Solano and Maxilin's arguments.
+
+              Solano and Maxilin insist that their claims survive
+
+under the Duxbury standard, but we are not persuaded.                To be sure,
+
+in Duxbury, we determined that the complaint satisfied the "more
+
+flexible standard" for an inducement-based kickback scheme for a
+
+drug manufacturer.         579 F.3d at 30.       In doing so, however, we
+
+pointed out that the complaint identified the who (eight named
+
+healthcare      providers),      the     what    (illegal     kickbacks      from
+
+defendant's promotion of use of the drug, Procrit), and roughly
+
+the where and when (from 1992 to 1998 in the Western United
+
+States).       See   id.   at   29-30.    And,   importantly,        the   Duxbury
+
+complaint provided "specifics" and "information as to the dates
+
+and amounts of the false claims filed by these providers with the
+
+Medicare program."         Id. at 30.       For instance, the relators in
+
+Duxbury alleged that "[i]n 1997-98 Western Washington Treatment
+
+Center   in    Olympia,    Washington     received    more    than    $5,000   of
+
+free . . . Procrit from [the defendant] under the direction of
+
+Robert Ashe so that Western Washington could submit the free
+
+product for reimbursement to Medicare."              Id.     Finally, we noted
+
+
+                                   - 13 -
+that they "alleged facts that false claims were in fact filed"
+
+with government programs.         Id. at 31.      Thus -- "[a]lthough a close
+
+call" -- we    held    that     the   Duxbury     complaint   met     Rule 9(b)'s
+
+requirements.       Id. at 30.
+
+           By contrast, we concluded that the complaint in Kelly
+
+failed under Rule 9(b).         See 827 F.3d at 7.      The relators in Kelly
+
+alleged a similar scheme to the one alleged in Duxbury: they
+
+asserted     that     certain    physicians        received       kickbacks   from
+
+defendants in exchange for selling and submitting claims for
+
+off-label prescriptions of the drug Xolair.                 See id. at 8.       The
+
+Kelly relators sought to provide reliable indicia of fraud by
+
+specifying    dates    on   which     a    defendant   treated     physicians    to
+
+"upscale   meals     and    drinks"       as   kickbacks,   and    the   complaint
+
+referenced emails describing how the defendants "pushed for Xolair
+
+sales."    United States ex rel. Garcia v. Novartis AG, 91 F. Supp.
+
+3d 87, 108 (D. Mass. 2015) (citing Kelly Compl. ¶¶ 257-63).                     The
+
+allegations even referenced a slide presentation reflecting the
+
+defendants' "efforts to maximize billing of Medicare patients," as
+
+well as an FDA report describing the "widespread off-label use of
+
+Xolair."   Id. (citing Kelly Compl. ¶¶ 13, 267).
+
+           Despite the allegations of misconduct, we affirmed the
+
+district court's ruling that the Kelly complaint was insufficient
+
+to raise an "inference of fraud beyond possibility."                  827 F.3d at
+
+15 (citation modified).         Fatally, the complaint "had not provided
+
+
+                                      - 14 -
+reliable indicia that the alleged underlying schemes resulted in
+
+submission of false claims, nor had [it] brought forward evidence
+
+that   the     physicians    who    prescribed      Xolair    sought   federal
+
+reimbursement."        Id. (citation modified).       Instead, the "closest
+
+Relators g[ot] to positing the existence of fraud" was alleging
+
+that "certain doctors" who were "enrolled in federal reimbursement
+
+programs"      "prescribed      Xolair"     and   "received    services    and
+
+incentives" from the defendants. Id. And although we acknowledged
+
+that it would "not be irrational to infer" from these allegations
+
+that   some    false   claims    were   submitted    to   federal   government
+
+programs, the complaint "g[a]ve rise to only speculation" and
+
+therefore was "not enough to satisfy Rule 9(b)."                Id. (citation
+
+modified).
+
+              The complaint here suffers from the same flaws as did
+
+the Kelly complaint.         Solano and Maxilin allege that, in 2019,
+
+Barton induced four third-party clients to refer patients to Barton
+
+physicians to review and approve requests for a variety of medical
+
+services and products.          The alleged facts -- at most -- identify
+
+the "who" and the "when."        Just like in Kelly, however, the "what"
+
+of the FCA claim -- meaning, indicia of the actual submission of
+
+false claims to federal benefit programs -- is missing.
+
+              Solano and Maxilin point to facts in their complaint
+
+that they argue provide "reliable indicia that false claims were
+
+actually submitted."         But those facts amount to a handful of
+
+
+                                   - 15 -
+statistics,     some    unsupported,        and    one   example.     As     for   the
+
+statistics,      they    assert      that    two     companies -- Medtech          and
+
+RealTime -- obtained         "tens     of         thousands    of     dollars      in
+
+prescriptions every month for genetic testing, durable medical
+
+equipment, and pain cream prescriptions."                  And they allege that
+
+two   other    companies -- Ocenture         and     CareLumina -- "perform[ed]
+
+between   8,000    and   10,000      cancer-screening         tests   per    month."
+
+Finally, they point to the Barton employee boasting that "99.9%"
+
+of the prescription requests submitted to Barton were approved.
+
+As for the example, they claim that a Barton physician signed a
+
+prescription for a patient on January 10, 2019, without ever
+
+meeting that patient.
+
+              Even if we were to infer from these allegations that
+
+Barton physicians issued some medically unnecessary prescriptions
+
+to patients, Solano and Maxilin still fail to allege that those
+
+particular patients, including the patient who met with a Barton
+
+physician in January 2019, were enrolled in Medicare or another
+
+government program.        Instead, the complaint only describes the
+
+patients that Barton served as "Medicare eligible."                   This leaves
+
+a gap in the allegations about whether any false claims were
+
+submitted for payment to the government.                 We have held relators'
+
+allegations to be insufficient on this score if they fail to
+
+provide facts beyond insinuation "that the patients were actually
+
+covered   by    government    programs."            Hagerty,    844   F.3d    at   33
+
+
+                                     - 16 -
+(affirming dismissal of FCA claims given the relators "d[id] not
+
+allege that any particular patient was actually covered by a
+
+government program").
+
+              Solano and Maxilin's complaint            cannot overcome this
+
+pleading      gap,    even   under     the   "more   flexible     standard"    for
+
+inducement-based FCA claims.           Thus, we affirm the district court's
+
+dismissal of their complaint under Rule 9(b).
+
+         B. Motion to Amend and Motion for Reconsideration
+
+              According to Solano and Maxilin, the district court
+
+abused   its    discretion       by   denying,    without   explanation,      their
+
+motion to reconsider the dismissal order or, alternatively, for
+
+leave to amend their complaint.                   This argument    faces strong
+
+headwinds.
+
+                                 1. Motion to Amend
+
+              Solano and Maxilin argue that the district court should
+
+have granted their motion for leave to amend the complaint under
+
+the liberal standard of Federal Rule of Civil Procedure 15(a)(2).
+
+And they are correct that, generally, courts should "freely give
+
+leave"   to    amend     "when    justice    so   requires."      Fed.   R.   Civ.
+
+P. 15(a)(2).         But the timing of the request matters: only when "a
+
+motion to amend is properly made before entry of judgment" does
+
+
+
+
+                                      - 17 -
+this "liberal standard" apply.                      Ge, 737 F.3d at 127 (citation
+
+modified) (second emphasis added).
+
+               Here, Solano and Maxilin never properly moved to amend.
+
+Before the district court entered its judgment, their only hint of
+
+a potential amendment was during the hearing on Barton's motion to
+
+dismiss.    At the end of that hearing, they stated: "[I]n the event
+
+that this [c]ourt does not find our arguments persuasive or that
+
+it   otherwise     deem[s]       it    necessary        to    dismiss     parts   of    the
+
+complaint, we respectfully ask leave to amend the complaint and
+
+cure any defects this court deems it to have."                     But such a "passing
+
+request    for    contingent       leave       to    file    an   amended     complaint,"
+
+especially when made as a part of an "opposition to a motion to
+
+dismiss, is insufficient" to make a proper Rule 15(a) motion.
+
+Fisher v. Kadant, Inc., 589 F.3d 505, 510-11 (1st Cir. 2009).
+
+               Only after the district court dismissed their complaint
+
+with prejudice did Solano and Maxilin move for leave to amend their
+
+complaint -- and          they        did     so      within      their       motion    for
+
+reconsideration.         We have consistently affirmed a district court's
+
+denial    of     leave    to     amend       when    the     request    has    been    made
+
+post-judgment.      See, e.g., Ge, 737 F.3d at 127-28 (explaining that
+
+a "district court cannot allow an amended pleading where a final
+
+judgment has been rendered unless that judgment is first set aside
+
+or vacated") (citation modified).
+
+
+
+
+                                            - 18 -
+              Solano and Maxilin also "made no attempt to supplement
+
+their bare request for leave to amend" with any proposed amendment
+
+or   any   explanation    of    how   they   would     cure     the    complaint's
+
+deficiencies.      Aponte-Torres v. Univ. of P.R., 445 F.3d 50, 58
+
+(1st   Cir.    2006)   (explaining    that     the   "absence     of    supporting
+
+information, may, in and of itself, be a sufficient reason for the
+
+denial of leave to amend").        Their boilerplate entreaty "failed to
+
+provide the district court with the reasons supporting their
+
+request [to amend] and with the substance of possible amendments."
+
+Silverstrand Invs. v. AMAG Pharms., Inc., 707 F.3d 95, 107-08 (1st
+
+Cir.   2013)     (affirming     the   district       court's     dismissal    with
+
+prejudice in part on this ground).
+
+              Concerningly,     Solano   and     Maxilin       misrepresent    our
+
+precedent in lodging this challenge to the district court's order.
+
+They assert that a district court "must explain its reasoning [for
+
+denying leave to amend] on the record."               They also contend that
+
+the "First Circuit [has] consistently held that a district court
+
+abuses its discretion by dismissing with prejudice without first
+
+allowing amendment where . . . the plaintiff has not had a prior
+
+opportunity to do so."         But we have never so held.         Under our case
+
+law, it is "not a basis for reversal" if the district court denies
+
+a party's "first motion to amend . . . without explaining its
+
+reasoning on the record," so long as the reasons for the denial
+
+are apparent from the record itself.                  Kelly, 827 F.3d at 10
+
+
+                                   - 19 -
+(emphasis added). And we have frequently affirmed denials of first
+
+motions to amend.      See, e.g., id.4
+
+                       2. Motion for Reconsideration
+
+           Finally, we find no error, let alone sufficient error to
+
+constitute a "manifest abuse of discretion," in the district
+
+court's denial of Solano and Maxilin's motion for reconsideration
+
+under Federal Rule of Civil Procedure 59(e).            ACA Fin. Guar. Corp.
+
+v.   Advest,   Inc.,    512   F.3d   46,   55   (1st   Cir.   2008)   (citation
+
+modified).
+
+           "The granting of a motion for reconsideration is 'an
+
+extraordinary remedy which should be used sparingly.'"                Palmer v.
+
+Champion Mortg., 465 F.3d 24, 30 (1st Cir. 2006) (quoting 11 Wright
+
+& Miller's Federal Practice & Procedure § 2810.1 (2d ed. 1995)).
+
+In their motion before the district court, Solano and Maxilin
+
+failed to "clearly establish a manifest error of law" or "present
+
+newly discovered evidence," as required for relief under Rule
+
+59(e).    Ge, 737 F.3d at 127 (quoting Marie v. Allied Home Mortg.
+
+Corp., 402 F.3d 1, 7 n.2 (1st Cir. 2005)).              Instead, they merely
+
+declared that they could "cure[]" any deficiencies and that the
+
+
+
+
+      In addition to misrepresenting the holdings of several cases
+      4
+
+in their opening appellate brief, Solano and Maxilin also
+referenced quotations that do not appear in those cases or in any
+case that we have been able to find.     Then, even after Barton
+pointed out these errors, Solano and Maxilin filed a reply brief
+that again cited cases for propositions that the cases do not
+support and quoted language that the cases do not contain.
+
+
+                                     - 20 -
+district court had "misapplied the Duxbury standard" in dismissing
+
+their complaint.           These conclusory assertions do "no more than
+
+reiterate the[ir] [earlier] arguments."                     Palmer, 465 F.3d at 30.
+
+And a motion for reconsideration is "not a promising vehicle for
+
+revisiting     a   party's     case      and     rearguing     theories     previously
+
+advanced and rejected."           Id.
+
+              Solano and Maxilin again misrepresent our case law in
+
+claiming that we have "repeatedly emphasized" that a "district
+
+court abuses its discretion when it                        fails to articulate any
+
+rationale for denying" a Rule 59(e) motion.                      None of the cases
+
+they cite stand for such a proposition.                    In fact, one of the cases
+
+they   cite    does    not   even     involve      a   Rule    59(e)     motion.      See
+
+Davila-Alvarez        v.   Escuela      de     Medicina      Universidad    Cent.     del
+
+Caribe, 257 F.3d 58, 63-64 (1st Cir. 2001) (discussing motions for
+
+relief from judgment under Federal Rule of Civil Procedure 60(b)
+
+in the context of a dismissal for want of prosecution).                            And we
+
+have   even     affirmed      a     denial       of    a     relator's     motion     for
+
+reconsideration that was issued without explanation.                        See, e.g.,
+
+Ge, 737 F.3d at 127-28 (holding that the district court "did not
+
+abuse its discretion" in denying relator's Rule 59(e) motion
+
+"without opinion").
+
+              The district court was well within its discretion to
+
+deny Solano and Maxilin's motion for reconsideration, or, in the
+
+alternative, for leave to amend their complaint.
+
+
+                                        - 21 -
+                         IV. CONCLUSION
+
+           For all these reasons, we affirm the district court's
+
+rulings.
+
+
+
+
+                             - 22 -
+

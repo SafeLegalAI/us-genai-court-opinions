@@ -1,0 +1,521 @@
+441 G St. N.W.                                                          Comptroller General
+Washington, DC 20548                                                    of the United States
+
+
+Decision
+Matter of:    The JAAW Group, LLC
+
+File:         B-424433.22
+
+Date:         July 31, 2026
+
+Joel Ward, for the protester.
+Wade L. Brown, Esq., and Jonathan A. Hardage, Esq., Department of the Army, for the
+agency.
+Heather Self, Esq., and Peter H. Tran, Esq., Office of the General Counsel, GAO,
+participated in the preparation of the decision.
+DIGEST
+
+Protester’s challenge of the rejection of its proposal due to allegedly conflicting file
+naming convention instructions between the solicitation and proposal submission portal
+is dismissed for failing to state factually sufficient grounds of protest where the record
+reflects the protest is premised on factually inaccurate assertions.
+DECISION
+
+The JAAW Group, LLC (JAAW), a small business of Ogden, Utah and the managing
+member of joint venture (JV) Paralaxx LLC, protests the rejection of Paralaxx’s proposal
+under request for proposals (RFP) No. W15P7T-26-R-A006, issued by the Department
+of the Army for a variety of professional services. The protester claims the agency’s
+proposal submission portal failed to function properly, resulting in the improper rejection
+of JAAW’s attempts to submit its proposal.
+
+We dismiss the protest.
+BACKGROUND
+
+On April 1, 2026 the Army issued the solicitation using the procedures of Revolutionary
+Federal Acquisition (FAR) Overhaul (RFO) part 15. 1 Req. for Dismissal at 3; Req. for
+Dismissal exh. 1, RFP at 4, 243; Req. for Dismissal exh. 14, Contracting Officer’s
+Statement (COS) at 1. 2 The solicitation contemplates the award of multiple
+indefinite-delivery, indefinite-quantity (IDIQ) contracts to establish a marketplace for the
+acquisition of professional services (MAPS), which will combine the services currently
+procured under two different sets of IDIQ multiple-award task order contracts into a
+single procurement vehicle intended to provide “uncommon knowledge-based
+professional services and support [for] the Army enterprise infrastructure and
+infostructure goals with information technology (IT) services worldwide.” RFP at 2-3.
+
+The MAPS solicitation intends to award up to 70 IDIQ contracts in each of five
+“domains,” for a potential total of 350 awards. RFP at 243. The five domains are:
+(1) engineering, logistics and operational services; (2) research, development, test and
+evaluation (RDT&E) services; (3) management and advisory services; (4) emerging IT
+services; and (5) foundational IT services. Id. at 3. The types of orders permitted under
+the awarded IDIQ contracts will include fixed price, time-and-materials, cost
+reimbursement, and hybrids “of all types.” Id. at 5. The awarded IDIQ contracts will
+have a base ordering period of 5-years with one 5-year optional ordering period. Id.
+at 20. The maximum contract ceiling, including the optional ordering period, will be $50
+billion, and the minimum guarantee for each awarded contract will be $100. Id. at 2, 29.
+
+The solicitation establishes that awards will be made to the highest rated technical
+offerors proposing fair and reasonable prices in each domain without tradeoffs between
+price and non-price factors. RFP at 243. The agency will use a phased and rolling
+evaluation process that takes into consideration offerors’ verified scorecards, past
+performance qualifying projects (QPs), price (assessed for reasonableness), and, for
+large business offerors, their small business subcontracting plans. See id. generally
+at 243-246, 256-257. The solicitation permitted offerors to submit proposals for multiple
+domains, and, relevant here, established a set of five “overarching NAICS [North
+
+1 The Department of Defense (DOD) issued a class deviation adopting RFO part 15
+
+effective March 16, 2026. DOD-wide Class Deviation-Revolutionary Federal Acquisition
+Regulation (FAR) Overhaul Part 15, Defense FAR Supplement (DFARS) Part 215 at 1.
+2 Our citations to the record use documents’ PDF pagination.       The agency filed its initial
+request for dismissal on July 10. Electronic Protest Docketing System (EPDS) at
+Docket (Dkt.) No. 5. Our Office required additional briefing related to the dismissal
+request. Dkt. No. 10. In response, the Army filed a consolidated initial and
+supplemental request for dismissal. Dkt. No. 11. Unless otherwise noted, our citations
+to the request for dismissal are to the later-filed consolidated version at Dkt. No. 11.
+Our citations to the solicitation are to the final version as issued by RFP amendment 10.
+
+
+
+                                                                                   B-424433.22
+Page 2
+American Industry Classification System] codes” for each of the five domains. 3 Id. at
+202, 220-222, 252.
+
+The solicitation also set forth specific file naming conventions required to be used by
+offerors’ when submitting proposals, stating:
+
+         L.1 GENERAL INSTRUCTIONS & COMPLIANCE
+
+                                  *       *      *      *      *
+
+         2. The Offeror shall prepare proposal as follows:
+
+     Document                                 File Name*                                 Notes
+ Volume I--Cover                                                                      Attachment
+ Letter                               xxxxCOVERDDMMMYYYY.pdf                             0001
+ Volume II--                                                                          Attachment
+ Scorecard                 xxxxDOMAINSCORECARDDDMMMYYYY.pdf                              0002
+                               xxxxDOMAINQP1DDMMMYYYY.pdf                             Attachment
+ Volume III--Past              xxxxDOMAINQP2DDMMMYYYY.pdf                                0003
+ Performance                   xxxxDOMAINQP3DDMMMYYYY.pdf
+ Volume IV--Small                                                                 Required only
+ Business                                                                           for Large
+ Subcontracting                                                                    Businesses
+ Plan                         xxxxSBSPLANDDMMMYYYY.doc or .pdf
+
+         * Offerors shall replace “xxxx” with the Offeror’s name.
+
+         * Offers shall replace “DOMAIN” with the NAICS Code of the proposed
+         Domain.
+
+         * If Offeror is utilizing a QP (Attachment 0003) across multiple Domains
+         they shall replace “DOMAIN” with “MULTIDOMAIN”.
+
+         * Offerors shall replace “DDMMMYYYY” with date, month and year of
+         submission. Example--“02APR2026”
+
+         ** Offerors shall propose utilizing the latest version of the solicitation
+         amendments.
+
+
+
+3 The overarching NAICS codes assigned to the five domains were:  (1) engineering,
+logistics and operational services--541330; (2) management and advisory services--
+541611; (3) RDT&E--541715; (4) emerging IT--541512; and (4) foundational IT--
+541519. RFP at 251-252.
+
+
+
+                                                                                       B-424433.22
+Page 3
+RFP at 200-201. 4 The attachments referenced in the table were forms provided with
+the solicitation, and offerors were required to use them as part of their proposal
+submissions. Id. at 205-206, 216-217.
+
+Additionally, the solicitation required offerors to submit proposals “through the Digital
+Market Portal” (the “Portal”), and provided instructions for setting up Portal user
+accounts in appendix A of the solicitation. 5 RFP at 200. With respect to file naming
+conventions, appendix A did not provide a separate set of file naming conventions for
+the Portal, appendix A instead instructed offerors to use the conventions set forth in the
+RFP, stating: “All documents shall be submitted in accordance with the naming
+conventions listed in RFP Section L.1 Paragraph 2 in order to be accepted as a full and
+complete package.” Req. for Dismissal exh. 8, RFP append. A at 3.
+
+Of further relevance here, prior to issuance of the solicitation, the Army conducted “a
+MAPS Industry Day virtual listening session” on January 28, the same day the Portal
+went live and opened for offeror account registration. Req. for Dismissal at 3, 9; COS
+at 1. The agency’s industry day presentation included an overview of both the Portal
+account registration process and the proposal submission process; the slides from this
+presentation were subsequently posted to the System for Award Management. Id.;
+Req. for Dismissal exh. 3, Industry Day Slides at 1, 35-40. The industry day
+presentation advised offerors of the need to “[e]nsure all files are named in accordance
+with the RFP to be valid package submissions.” Req. for Dismissal exh. 3, Industry Day
+Slides at 38; see also RFP at 200-201 (“Offeror shall prepare proposal as follows . . .”;
+“Each volume shall be properly identified . . .”).
+
+4 We note the “.pdf” in the “File Name” column of the table is the file extension denoting
+
+the file type or file format--a PDF file. It is commonly understood that the file extension
+is a suffix to the name of a computer file typically delimited from the rest of the filename
+with a period; the file extension is not part of the text of the actual file name rather it is a
+type of metadata about the file. See https://en.wikipedia.org/wiki/Filename_extension
+(site last visited July 22, 2026). The file extension typically is added automatically by
+the software program used to create and save the file.
+As an example, if company ABC used the Adobe Acrobat software to create its cover
+letter with RFP attachment 1 and intended to submit its cover letter in the Portal on June
+22, the company would name the file “ABCCOVER22JUN2026” and the Adobe Acrobat
+software would automatically append the “.pdf” file extension to the file name when the
+file was created and saved, resulting in the file submitted in the Portal appearing as
+“ABCCOVER22JUN2026.pdf”. ABC would not need to add “.pdf” into the file name text
+because the resulting file name would then appear as “ABCCOVER22JUN2026.pdf.pdf”
+when ABC tried to submit the file into the Portal.
+5 The solicitation set out separate file naming and submission requirements specific to
+
+any controlled unclassified information (CUI) included in an offeror’s proposal; CUI was
+required to be submitted through the DOD Secure Access File Exchange website,
+rather than through the Portal. RFP at 203.
+
+
+
+                                                                                     B-424433.22
+Page 4
+Additionally, the presentation instructed that “[e]ach Volume being submitted shall be
+consolidated into one (1) PDF,” while “A full package” for an offeror’s proposal would
+consist of: (a) one cover letter volume (RFP attach. 1); (b) one self-scoring scorecard
+volume (RFP attach. 2); (c) up to three QP volumes (RFP attach. 3) per domain; 6 and
+(d) for large business offerors, one small business subcontracting participation plan
+volume; these instructions comport with those included in the solicitation. Req. for
+Dismissal exh. 3, Industry Day Slides at 40; RFP at 202, 205-206, 216-217. The Portal
+opened for proposal submission on April 1, the same day the initial RFP was issued.
+COS at 1. Solicitation appendix A, providing the Portal instructions, was amended twice
+after issuance of the initial solicitation; the final version of appendix A was issued on
+April 22. Id.; Req. for Dismissal at 3-4, 10.
+
+The solicitation established an initial due date for receipt of proposals of May 1. Req.
+for Dismissal at 3. Solicitation amendment 3 extended the due date to May 8. Id. at 4.
+On May 8, JAAW filed a protest with our Office in which the firm contended, among
+other things, that the Portal failed to function properly on both May 7 and May 8,
+preventing JAAW from submitting a proposal, and that the agency failed to provide
+adequate time for offerors to prepare proposals as multiple required proposal templates
+were not finalized until just a handful of days before proposals were due. The JAAW
+Group LLC, B-424433.9, June 1, 2026, at 1 (unpublished decision). In response to
+JAAW’s May 8 protest, the Army notified our Office it had taken corrective action by
+correcting the problems with the Portal and by amending the RFP to extend the due
+date for receipt of proposals until June 22. Id. As a result, we dismissed JAAW’s May 8
+protest as academic. Id. at 2.
+
+The final amended solicitation required proposals to be submitted in the Portal no later
+than “1200 Eastern Time on 22 June 2026.” RFP at 200. On June 22, JAAW
+attempted to submit the JV Paralaxx’s proposal in the Portal, but the firm’s submission
+attempts were rejected. Protest at 1-2; Resp. to Req. for Dismissal at 8. Also on
+June 22, JAAW sought assistance “through the Agency’s designated help-desk
+channel,” but did not receive a response. Protest at 2. At 5:55 p.m. on June 25, JAAW
+filed an agency-level protest with the Army. Id. On July 2, having received no
+acknowledgment of its agency-level protest, JAAW filed this protest with our Office. Id.
+On July 6, the Army issued a decision dismissing JAAW’s agency-level protest. Req.
+for Dismissal exh. 13, Agency-Level Protest Decision at 1. The Army’s decision
+dismissed JAAW’s agency-level protest as an untimely challenge to the terms of the
+solicitation, which was required to be filed prior to the time set for receipt of proposals.
+Id. Additionally, the Army’s decision stated that, in accordance with agency procedure,
+JAAW’s agency-level protest also was being dismissed because other potential offerors
+had filed protests that were still pending with in our bid protest forum. Id. at 1-2.
+
+6 An offeror could potentially submit up to 15 QP volumes if they were submitting
+
+proposal packages for each of the five domains and were including with each of their
+five proposal packages the maximum number of 3 QPs permitted per domain. Req. for
+Dismissal exh. 3, Industry Day Slides at 40; see also RFP at 202, 216-217.
+
+
+
+                                                                                 B-424433.22
+Page 5
+For the reasons discussed below, we dismiss JAAW’s July 2 protest to our Office.
+
+DISCUSSION
+
+The protester alleges it attempted to submit proposal files that followed the file naming
+convention set out in the RFP’s instructions to offerors, but the Portal set out a different
+file naming convention. According to JAAW, its proposal was improperly rejected
+because of these conflicting naming convention requirements. In this context, JAAW
+asserts:
+
+         This time, the failure arose because the file-naming conventions expressly
+         mandated by the written solicitation (RFP Section L.1, Paragraph 2, and
+         Appendix A--Portal Instructions for Submission of MAPS Proposals)
+         directly conflicted with the naming conventions the portal’s own upload
+         interface would actually accept, and because the portal’s on-screen
+         prompts were internally inconsistent as to the required naming format. An
+         offeror who followed the written solicitation’s instructions produced a
+         proposal the portal rejected; an offeror who followed the portal’s prompts
+         produced a proposal that did not conform to the solicitation’s written terms.
+         No offeror could comply with both. As a direct result, Protester was again
+         unable to submit a complete, compliant proposal package by the extended
+         June 22, 2026 deadline.
+
+Protest at 1-2. JAAW argues this alleged conflict between the solicitation and the Portal
+regarding file naming conventions constitutes “a patent, uncorrected ambiguity requiring
+solicitation and/or system correction.” Id. at 2. The protester further contends “the
+portal’s own submission prompts were internally inconsistent” and that “[t]his defect
+undermines the integrity and transparency of the competition.” Id. at 3. The protester
+raises other collateral arguments that we do not discuss; we have fully considered all of
+JAAW’s arguments, however, and find none provides a valid basis of protest.
+
+The Army requests that we dismiss JAAW’s protest as an untimely challenge to the
+terms of the solicitation. Req. for Dismissal at 5. In support of this request, the Army
+notes that JAAW’s own protest filing characterizes the firm’s argument as a challenge to
+“a patent uncorrected ambiguity” between the RFP’s and Portal’s instructions. Id.
+(citing Protest at 2, emphasis added). The protester responds that “[i]t was only during
+the final submission period under the extended deadline--when JAAW attempted to
+submit and encountered the same defects [it previously protested in May]--that a fresh
+basis for protest arose,” and that the firm “filed its protest within 10 days of that
+discovery”--i.e., within 10 days of JAAW’s June 22 attempt to submit Paralaxx’s
+proposal. Resp. to Req. for Dismissal at 4, 8.
+
+We need not discuss further the parties’ disagreement about whether JAAW timely
+protested alleged inconsistencies between the RFP’s and Portal’s file naming
+convention instructions, because--as the agency asserts and the relevant portions of the
+solicitation discussed above demonstrate--the alleged inconsistencies do not exist.
+
+
+                                                                                 B-424433.22
+Page 6
+Here, the Portal instructions required offerors to comply with the file naming conventions
+set forth in section L of the solicitation. Req. for Dismissal at 9-10; RFP at 200-201;
+Req. for Dismissal exh. 8, RFP append. A at 3; see also e.g., comparison of RFP at 200
+(requiring use of the file naming convention “xxxxCOVERDDMMMYYYY.pdf”) with
+Protest attach. 3, Agency-Level Protest Transmittal Email at 1 (showing screenshot of
+JAAW’s Portal submission attempt where Portal generated error message instructed
+protester to use the same file naming convention for its cover letter proposal volume as
+the RFP instructed--"xxxxCOVERDDMMMYYYY.doc or .pdf”) 7.
+
+Further, as will be explained below, the record reflects the rejection of the protester’s
+proposal submission attempts was not due to any inconsistency between the Portal’s
+and the RFP’s file naming convention instructions, but was due to JAAW’s own failure to
+follow those instructions. 8 Req. for Dismissal at 9 n.3; see generally Protest attach. 3,
+Agency-Level Protest Transmittal Email (showing multiple screenshots of JAAW’s
+attempts to submit Paralaxx’s proposal in the Portal).
+
+Our Bid Protest Regulations require that protests include a detailed statement of the
+legal and factual grounds of protest and that the grounds be legally sufficient. 4 C.F.R.
+§§ 21.1(c)(4), (f). This requirement contemplates that protesters will provide, at a
+minimum, credible allegations that are supported by evidence and are sufficient, if
+uncontradicted, to establish the likelihood of the protester’s claim of improper agency
+action. Warfighter Focused Logistics, Inc., B-423546, B-423546.2, Aug. 5, 2025, at 4.
+In this context, factually inaccurate representations by a protester do not constitute an
+adequate basis for protest. Roku Mgmt. Consulting, LLC, B-423683, July 29, 2025,
+at 3.
+
+Here, the crux of JAAW’s protest--that inconsistencies between the RFP’s and Portal’s
+file naming convention instructions resulted in the improper rejection of the protester’s
+proposal--is based on factually inaccurate representations. JAAW included with its
+protest screenshots of its attempts to submit Paralaxx’s proposal into the Portal. Those
+screenshots show that JAAW repeatedly used file names that failed to comply with the
+solicitation requirements. As a representative example, we detail below the protester’s
+attempts to submit Paralaxx’s cover letter volume in the Portal.
+
+
+
+7 As explained above, the “.doc” or “.pdf” file extensions denoting the file type or file
+
+format are not text in the file name but are suffixes added after the end of the file name
+by the software tool used to create and save the file. While the Portal apparently was
+capable of accepting both .doc and .pdf file types, the solicitation here required
+submission of proposal volumes using a PDF file format. RFP at 200-201, 205-206,
+216-217.
+8 The agency represents that over 1,300 offerors were able to submit proposals in the
+
+Portal by successfully complying with the solicitation’s required file naming conventions.
+Req. for Dismissal at 9 n.3.
+
+
+
+                                                                                  B-424433.22
+Page 7
+As noted above, the solicitation required an offeror to submit its cover letter volume
+using the file naming convention, “xxxxCOVERDDMMMYYYY” where the “xxxx” was
+replaced with the offeror’s name and the “DDMMMYYYY” were replaced with the offer
+date in day, month, year format. RFP at 200; see also Protest attach. 3, Agency-Level
+Protest Transmittal Email at 1 (screenshot showing the Portal required the same
+“xxxxCOVERDDMMMYYYY” file naming convention for the cover letter volume).
+Accordingly, to comply with the solicitation requirements, JAAW could have named its
+cover letter file in one of the following two ways: “PARALAXXLLCCOVER22JUN2026”
+or “PARALAXXCOVER22JUN2026”. It would have been at the protester’s discretion
+whether to use “ParalaxxLLC” or just “Paralaxx” as the name of the JV in the proposal
+file names.
+
+Depending on which of the versions of the JV’s company name JAAW chose to use
+(ParalaxxLLC or Paralaxx), the completed file name with the file extension for a PDF file
+type would have appeared in the Portal in one of the following two ways if JAAW had
+complied with the solicitation’s file naming convention instructions:
+
+         PARALAXXLLCCOVER22JUN2026.pdf
+         PARALAXXCOVER22JUN2026.pdf.
+
+The screenshots submitted by JAAW, however, show none of the protester’s attempted
+submissions used one of these two compliant file names. Instead, the record shows
+that JAAW’s attempts to submit the cover letter volume used the following file names.
+
+         PARALAXXLLCVOLUME122JUN2026pdf.pdf
+         COVERLETTERVOLUME122JUN2026pdf.pdf
+         PARALLAXMULTICOVER122JUN2026.pdf
+         XXXXPARALLAXMULTICOVER22JUN2026.pdf
+
+Protest attach. 3, Agency-Level Protest Transmittal Email at 1-5; see also Protest
+attach. 4, Portal Submission Attempt Screenshots at 1-4 (showing the same four
+attempted file names for submission of the cover letter proposal volume); Protest
+attach. 5, Additional Portal Submission Attempt Screenshots at 1-4 (same).
+
+None of JAAW’s submission file names complies with the solicitation’s required file
+naming conventions. The first attempt uses the term “VOLUME1” instead of “COVER”
+as instructed by the solicitation, and includes the file extension as text in the file name
+itself. The second attempt uses the term “COVERLETTERVOLUME1” instead of
+“COVER”, does not include the offeror’s name as required by the solicitation, and
+includes the file extension as text in the file name itself. The third attempt uses the term
+“MULTICOVER1” instead of the term “COVER” as instructed by the solicitation, and, we
+note, spells the offeror’s name incorrectly as “PARALLAX” with two Ls and one X rather
+than correctly with one L and two Xs (Paralaxx). The fourth attempt uses the term
+“MULTICOVER” instead of the term “COVER” as instructed by the solicitation, spells the
+offeror’s name incorrectly, and leaves in the file name the “XXXX” placeholder text,
+which the solicitation required to be replaced by the offeror’s name.
+
+
+                                                                                B-424433.22
+Page 8
+The screenshots submitted by JAAW show the protester’s attempts to submit proposal
+volumes II and III--scorecard and QPs, respectively--suffered from similar failures to
+comply with the solicitation’s required file naming conventions. For example, JAAW
+repeatedly included the domain name, rather than the domain NAICS code, in its file
+name attempts for submission of the scorecard proposal volume. Protest attach. 3,
+Agency-Level Protest Transmittal Email at 2-3 (showing attempted file names of
+“MANAGEMENTADVISORYPARALAXXLLCVOLUMEII22JUN2026pdf.xlsx.pdf” and
+“XXXXPARALAXXMANAGEMENTADVISORYSCORECARD22JUNE2026.pdf"); RFP
+at 201 (instructing that “Offers shall replace ‘DOMAIN’ with the NAICS Code of the
+proposed Domain.”).
+
+In sum, JAAW’s claim that the RFP’s and Portal’s file naming convention instructions
+were inconsistent is factually inaccurate; the record shows the instructions were
+consistent. Further, JAAW’s insistence that the reason it was unable to submit
+Paralaxx’s proposal in the Portal was because of these alleged inconsistencies also is
+factually inaccurate. The Portal submission screenshots submitted by the protester,
+itself, reveal the reason JAAW was unable to submit a proposal is because the protester
+repeatedly, and in a variety of ways, failed to comply with the RFP’s and Portal’s
+consistent file naming convention requirements. As JAAW’s protest rests on a
+foundation of unsupported assertions, it fails to meet our threshold requirement that a
+protester provide a detailed statement of the legal and factual grounds of protest.
+4 C.F.R. § 21.1(c)(4). Accordingly, we dismiss the protest. See e.g., Roku Mgmt.
+Consulting, LLC, supra at 4 (dismissing for failing to provide sufficient basis of protest
+where allegations were premised solely on factually inaccurate assertions of
+solicitation’s requirements).
+
+Inaccurate Legal Citations
+
+In addition to the factual inaccuracies discussed above, JAAW offered, in support of its
+protest arguments, citations to five bid protest decisions--two decisions of our Office and
+three decisions of the U.S. Court of Appeals for the Federal Circuit. 9 Protest at 2-3. In
+its dismissal request, the Army represented it was either unable to locate decisions cited
+by the protester or the cited decision did not stand for the proposition for which JAAW
+cited it. Initial Req. for Dismissal at 6. Based on these inaccurate legal citations, the
+Army posited that JAAW’s protest “bears indicia consistent with the use of a large-
+language model or other artificial intelligence (AI)” tool. Id.
+
+As a result, our Office directed the protester to address the Army’s assertions regarding
+the legal citations in JAAW’s response to the agency’s request for dismissal, as well
+
+9 Specifically, the protest includes the following citations:
+                                                          (1) Tyco Electronics Corp.,
+B-411937, Nov. 9, 2015; (2) Pemco World Air Servs., B-310372, Dec. 27, 2007; (3) Blue
+& Gold Fleet, L.P. v. U.S., 492 F.3d 1308 (Fed. Cir. 2007); (4) Impresa Construzioni
+Geom. Domenico Garufi v. U.S., 238 F.3d 1324 (Fed. Cir. 2001); and (5) Statistica, Inc.
+v. Christopher, 102 F.3d 1577, 1581 (Fed. Cir. 1996). Protest at 2-3.
+
+
+
+                                                                               B-424433.22
+Page 9
+requiring the protester to provide copies of all cases cited in JAAW’s protest. Dkt.
+No. 6. On July 13, JAAW submitted its response to the Army’s dismissal request, and
+addressed the accuracy of the legal citations in the protest as follows:
+
+      The Army correctly notes that two citations in JAAW’s July 2, 2026 GAO
+      protest require correction. JAAW acknowledges these errors and takes
+      full responsibility:
+
+   1. Tyco Electronics Corp., B-411937: The Army was unable to locate this
+      decision. JAAW has independently verified that this citation as presented
+      does not correspond to a published GAO decision. JAAW withdraws this
+      citation. The substantive proposition it was offered to support--that a
+      solicitation containing irreconcilable submission requirements constitutes a
+      patent ambiguity warranting corrective action--is a well-established
+      principle of GAO bid protest law. JAAW will provide verified, accurate
+      citations supporting this proposition in its Comments on the Agency
+      Report if GAO retains jurisdiction, and commits to independent verification
+      of all legal authorities in all future filings.
+
+   2. Impresa Construzioni Geom. Domenico Garufi v. United States, 238 F.3d
+      1324 (Fed. Cir. 2001): The Army correctly notes that this case addresses
+      a contractor responsibility determination, not solicitation ambiguity. JAAW
+      withdraws the citation as applied to the ambiguity argument. The
+      underlying principle--that ambiguous government requirements undermine
+      the integrity of a competition--will be supported by properly verified GAO
+      authorities in JAAW’s Comments on the Agency Report.
+
+      JAAW takes seriously its obligation of accuracy before GAO. These
+      errors resulted from inadequate verification prior to filing. JAAW commits
+      to independent verification of all legal authorities in all future submissions
+      and respectfully requests that GAO not dismiss the protest on this basis,
+      as the substantive grounds remain legally sound and accurately supported
+      when correct citations are substituted.
+
+Resp. to Req. for Dismissal at 1-2.
+
+The protester’s response did not include copies of all the cases cited in its protest, as
+requested by our Office. Because additional development of the record was necessary
+to resolve the agency’s request for dismissal, we required further briefings from the
+parties. In setting the deadline for the protester’s briefing, we reminded JAAW of the
+requirement to provide copies of all cases cited in its protest. Notice of Additional
+Briefing Requirement at 3. The protester submitted a timely response, including the
+requested copies of the protest decisions cited in JAAW’s protest that had not been
+withdrawn. Supp. Resp. to Req. for Dismissal at 1, 9-50.
+
+
+
+
+                                                                                B-424433.22
+Page 10
+As decisions of our Office have explained, while there is nothing inherently wrong with
+the proper and competent use of AI tools in the legal arena, this evolving technology
+has many glitches--including hallucinations--and must only be used with close, careful
+supervision, fact-checking, and citation-checking. KE System Servs., Inc., B-423881 et
+al., Dec. 22, 2025, at 6. In order to satisfy our statutory mandate to resolve protests and
+to maintain our role as a meaningful, efficient protest forum, we expect all parties to
+prepare and present their cases carefully and diligently. Wolverton Prop. Mgmt., LLC--
+Recon., B-415295.4, June 6, 2018, at 3. This expectation applies to both protesters
+represented by counsel and pro se protesters proceeding without counsel. See KE
+System Servs., Inc., supra. The use of AI tools to draft or assist in drafting legal filings
+can result in the citation of non-existent decisions, such that reliance on those tools
+without review for accuracy wastes the time of all parties and of GAO. Raven
+Investigations & Sec. Consulting, LLC, B-423447, May 7, 2025, at 4. As such, our
+Office necessarily reserves an inherent right to dismiss any protest and to impose
+sanctions against a protester, where a protester’s actions undermine the integrity and
+effectiveness of our process. Id.
+
+Here, because we dismiss the protest for failing to set forth a factually sufficient basis of
+protest, we do not exercise our right to impose sanctions for JAAW’s submission of one
+non-existent citation and one wholly irrelevant citation. The protester, however, is
+advised that any future submissions of filings to our Office with citations to non-existent
+or wholly irrelevant authority may, after a review of the totality of the circumstances,
+result in the imposition of sanctions.
+
+The protest is dismissed.
+
+Edda Emmanuelli Perez
+General Counsel
+
+
+
+
+                                                                                  B-424433.22
+Page 11
+

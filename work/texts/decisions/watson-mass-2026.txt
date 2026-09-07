@@ -1,0 +1,1539 @@
+NOTICE: All slip opinions and orders are subject to formal
+revision and are superseded by the advance sheets and bound
+volumes of the Official Reports. If you find a typographical
+error or other formal error, please notify the Reporter of
+Decisions, Supreme Judicial Court, John Adams Courthouse, 1
+Pemberton Square, Suite 2500, Boston, MA, 02108-1750; (617) 557-
+1030; SJCReporter@sjc.state.ma.us
+
+SJC-13850
+
+                COMMONWEALTH   vs.   JAVAINE WATSON.
+
+
+
+            Suffolk.    April 8, 2026. - July 9, 2026.
+
+   Present:   Budd, C.J., Gaziano, Kafker, Wendlandt, Georges,
+                     Dewar, & Wolohojian, JJ.
+
+
+Homicide. Cellular Telephone. Evidence, Scientific test,
+     Identification, Presumptions and burden of proof.
+     Practice, Criminal, Postconviction relief, Presumptions and
+     burden of proof. Evidence, Relevancy and materiality.
+     Practice, Criminal, Discovery. Statute, Construction.
+     Identification. Words, "Evidence."
+
+
+
+     Indictment found and returned in the Superior Court
+Department on March 14, 2014.
+
+     Following review by this court, 487 Mass. 156 (2021),
+postconviction motions for scientific or forensic analysis,
+filed on May 1 and December 4, 2023, were heard by Michael J.
+Pineault, J.
+
+     A request for leave to appeal was allowed by Kafker, J., in
+the Supreme Judicial Court for the county of Suffolk.
+
+
+     Darcy Jordan, Assistant District Attorney (Ian Polumbaum,
+Assistant District Attorney, also present) for the Commonwealth.
+     Merritt Schnipper for the defendant.
+     M. Chris Fabricant, of New York, Claudia Leis Bolgen, Kevin
+S. Prussia, James M. Lyons, Kerry G. Matlack, Radha Natarajan,
+Katharine Naples-Mitchell, & Suma V. Nair, for Massachusetts
+                                                                    2
+
+
+Association of Criminal Defense Lawyers & others, amici curiae,
+submitted a brief.
+
+
+    WENDLANDT, J.   General Laws c. 278A, inserted by St. 2012,
+
+c. 38, "An Act providing access to forensic and scientific
+
+analysis" (act), establishes a process, "separate from the trial
+
+and any subsequent proceedings challenging an underlying
+
+conviction, that permits forensic and scientific analysis of
+
+evidence or biological material, the results of which could
+
+support a motion for a new trial."   Commonwealth v. Clark, 472
+
+Mass. 120, 121-122 (2015).   Because the Legislature intended "to
+
+remedy the injustice of wrongful convictions," Commonwealth v.
+
+Wade, 467 Mass. 496, 504 (2014) (Wade II), S.C., 475 Mass. 54
+
+(2016) (Wade III), the act makes "postconviction forensic
+
+testing easier and faster than it had been for defendants who
+
+sought such testing in conjunction with motions for new trials
+
+pursuant to Mass. R. Crim. P. 30, as appearing in 435 Mass. 1501
+
+(2001)," Commonwealth v. Moffat, 478 Mass. 292, 301 (2017).
+
+Accordingly, discovery under the act is governed by the
+
+requirements set forth therein rather than by the standards for
+
+a motion for a new trial under rule 30.
+
+    The Commonwealth contends that the defendant, Javine
+
+Watson, was not entitled to discovery under the act because it
+
+narrowly permits scientific testing of "physical" evidence for
+
+biological material and the defendant requested digital forensic
+                                                                     3
+
+
+analysis of a codefendant's cell phones.   We disagree.   Although
+
+enacted "in the wake of a national recognition that
+
+[deoxyribonucleic acid (DNA)] testing has an unparalleled
+
+ability both to exonerate the wrongly convicted and to identify
+
+the guilty" (quotation and citation omitted), Wade II, 467 Mass.
+
+at 497, the act is not limited to scientific testing for
+
+biological material.   Instead, the act broadly permits a party
+
+to seek "forensic or scientific analysis" of "evidence or
+
+biological material," G. L. c. 278A, §§ 3, 7; the act defines
+
+"analysis" as a "process by which a forensic or scientific
+
+technique is applied to evidence or biological material."     G. L.
+
+c. 278A, § 1.
+
+    Consistent with this broad, remedial mandate, we have
+
+recognized that the act permits postconviction testing of
+
+biological material for DNA evidence, as well as other forensic
+
+testing of clothing, shell casings, and ballistics for evidence
+
+other than DNA.   See, e.g., Commonwealth v. Jenks, 487 Mass.
+
+1032, 1034-1036 (2021) (reversing denial of G. L. c. 278A motion
+
+for testing of ballistics evidence for weights and diameters of
+
+projectiles, land and grove impressions, and rifling system
+
+direction); Commonwealth v. Williams, 481 Mass. 799, 803, 809
+
+(2019) (reversing denial of G. L. c. 278A motion "requesting
+
+that clothing recovered from the victim be tested for traces of
+
+gunshot residue and that shell casings recovered at the crime
+                                                                     4
+
+
+scene be tested for fingerprints"); Wade II, 467 Mass. at 497,
+
+515 (reversing denial of G. L. c. 278A motion for DNA testing of
+
+seminal fluid).
+
+     Concluding that the act permits digital forensic analysis
+
+of a cell phone, and further concluding that the Superior Court
+
+judge did not err in determining that the defendant showed by a
+
+preponderance of the evidence that a reasonably effective
+
+attorney would have sought the requested discovery and that the
+
+anticipated analysis has the potential to unearth evidence that
+
+is material to the defendant's identification as the perpetrator
+
+of the crime in the underlying case, we affirm the judge's
+
+allowance of the defendant's G. L. c. 278A motions.1
+
+     1.   Background.   We present the relevant factual background
+
+from the trial record, reserving certain details for later
+
+discussion.2
+
+
+
+
+     1 We acknowledge the amicus brief submitted by the
+Massachusetts Association of Criminal Defense Lawyers, the New
+England Innocence Project, the Criminal Justice Institute at
+Harvard Law School, the Innocence Project, the Innocence
+Network, and the Boston Bar Association.
+
+     2 The defendant was tried jointly alongside three
+codefendants -- Omar Bonner, Omar Denton, and Andrew Robertson.
+The evidence presented at trial is summarized in more detail in
+our decisions affirming the convictions of murder in the first
+degree for the defendant, Bonner, and Robertson. See
+Commonwealth v. Bonner, 489 Mass. 268, 269-275 (2022);
+Commonwealth v. Robertson, 489 Mass. 226, 227-229, cert. denied,
+143 S. Ct. 498 (2022); Commonwealth v. Watson, 487 Mass. 156,
+157-161 (2021).
+                                                                    5
+
+
+     In December 2013, the victim, Romeo McCubbin, was shot and
+
+killed while sitting in his car after attending an event at a
+
+nearby nightclub.    The murder was captured by a surveillance
+
+camera mounted to the exterior of a residence near the
+
+nightclub; the surveillance video footage, in conjunction with
+
+photographs from the nightclub event, placed the defendant's
+
+codefendants -- Omar Bonner, Andrew Robertson, and Omar Denton
+
+–- at the scene of the crime.
+
+     The footage showed a man, inferably Robertson, firing a
+
+handgun about ten times into the front driver's side window of
+
+the victim's car before fleeing the scene in a getaway vehicle
+
+-- a red Lincoln MKX, which the prosecution asserted the
+
+defendant was driving.3   The victim subsequently climbed over to
+
+the passenger's side seat and rolled out of the passenger door
+
+onto the sidewalk.
+
+     Roughly forty seconds after the first shooting, a second
+
+person, inferably Denton, walked toward the victim and shot him
+
+four times.   A third person, inferably Bonner, accompanied
+
+Denton and kicked the victim before leaving the scene.
+
+     About an hour after the murder, police officers discovered
+
+the Lincoln, unoccupied and with the engine running, near where
+
+two of the codefendants were arrested.    Inside were keys to the
+
+
+     3 The video footage did not reveal the face of the driver of
+the Lincoln.
+                                                                   6
+
+
+defendant's own car and to the back door of his home and a cell
+
+phone with a number ending in 6426 (6426 number), which was
+
+registered to the defendant's stepmother but used by the
+
+defendant.   Fingerprint analysis revealed the presence of the
+
+defendant's and his codefendants' fingerprints throughout the
+
+Lincoln.   The defendant's fingerprints were found on the
+
+vehicle's gearshift, outside driver's side door handle, inside
+
+driver's side door handle, and front and rear passenger's side
+
+doors.
+
+     Digital forensic analysis of the defendant's 6426 number
+
+showed the codefendants' contact information and numerous
+
+communications between the defendant's cell phone and the
+
+codefendants' cell phones in the month preceding the murder,
+
+including multiple calls on the days before and on the night of
+
+the shooting.   Listed in the defendant's cell phone was the
+
+contact information for a phone number ending in 8764 (8764
+
+number), which was registered to Robertson's former girlfriend.4
+
+     Digital forensic analysis of the 8764 number revealed that
+
+in the month preceding the murder, the 8764 number had 203
+
+contacts with the defendant's 6426 number and 312 contacts with
+
+the cell phone of a key witness –- Nadira Amoroso; the
+
+
+
+
+     4 Robertson's former girlfriend testified at trial that she
+canceled service for the 8764 number in December 2013, the same
+month as the murder, at Robertson's request.
+                                                                   7
+
+
+prosecution relied on Amoroso's testimony to show the
+
+defendant's participation in the planning of the murder.
+
+     Specifically, Amoroso testified that she had been dating
+
+the defendant at the time of the murder; that, prior to the
+
+murder, the defendant had asked to borrow the Lincoln, which she
+
+had rented; that she had seen the defendant at the nightclub
+
+near the site of the shooting on the night of the murder;5 that
+
+the morning after the murder, the defendant told her that he had
+
+abandoned the vehicle in an unknown driveway, fearing that he
+
+was being followed; and that during her relationship with the
+
+defendant she contacted him on both the 6426 number and the 8764
+
+number registered to Robertson's former girlfriend.   At trial,
+
+defense counsel maintained that Amoroso was in a relationship
+
+with Robertson and that her testimony, including her assertion
+
+that she had loaned the Lincoln to the defendant, was fabricated
+
+to protect Robertson.   To support this theory, counsel focused
+
+on Amoroso's assertion that during her relationship with the
+
+defendant she contacted him on the 8764 number registered to
+
+Robertson's former girlfriend; specifically, counsel highlighted
+
+
+
+
+     5 At trial, Amoroso testified that she did not remember
+seeing the defendant at the nightclub near the scene of the
+murder and had mistakenly told the grand jury that she had
+witnessed him there; however, her grand jury testimony was
+admitted substantively at trial. See Commonwealth v. Daye, 393
+Mass. 55, 73 (1984), overruled in part on other grounds by
+Commonwealth v. Cong Duc Le, 444 Mass. 431, 435-439 (2005).
+                                                                      8
+
+
+that digital forensic analysis of the 8764 and 6426 numbers
+
+revealed that in the month preceding the murder, there were
+
+approximately 312 contacts between Amoroso's cell phone and the
+
+8764 number registered to Robertson's former girlfriend, but
+
+only one contact between Amoroso's cell phone and the
+
+defendant's 6426 number.
+
+    When confronted with this extensive call history with the
+
+8764 number, Amoroso dismissed counsel's suggestion that she was
+
+speaking with Robertson rather than the defendant, testifying
+
+that she did not know Robertson at all and could not identify
+
+him in the court room.     In closing, the prosecution also
+
+combatted the defendant's theory that the 8764 number belonged
+
+to Robertson, suggesting that the defendant and Robertson may
+
+have been "changing up" their cell phones and highlighting
+
+Amoroso's testimony, including her assertion that she contacted
+
+the defendant on the 8764 number and that the defendant had two
+
+cell phones.   The jury convicted the defendant of murder in the
+
+first degree on theories of deliberate premeditation and extreme
+
+atrocity or cruelty.     The defendant moved for judgment
+
+notwithstanding the verdict on the grounds that "Amoroso
+
+perjured herself and that the government was well aware of
+
+that," as she "had no relationship with [the defendant]
+
+whatsoever."   The trial judge denied the motion.    In April 2021,
+                                                                   9
+
+
+we affirmed the defendant's conviction.6   See Commonwealth v.
+
+Watson, 487 Mass. 156, 170 (2021).
+
+     2.   G. L. c. 278A motions.   In May 2023, the defendant
+
+filed a motion pursuant to G. L. c. 278A, § 3, for forensic
+
+analysis of three cell phones that police officers had seized
+
+from Robertson following an unrelated incident in February 2014,
+
+approximately two months after the victim's shooting.    The
+
+defendant had sought access to these same cell phones pretrial,
+
+but his motions were denied,7 and the defendant did not appeal
+
+from the trial judge's rulings.
+
+     In December 2023, the defendant filed a second motion
+
+pursuant to G. L. c. 278A, § 3, seeking forensic analysis of two
+
+additional cell phones that police officers had seized from
+
+Robertson in connection with another unrelated crime, which
+
+occurred in July 2013, approximately five months before the
+
+
+     6 The jury also convicted the defendant of being an
+accessory after the fact, which we vacated on direct appeal.
+Watson, 487 Mass. at 170.
+
+     7 In his pretrial motions, the defendant argued that the
+records from Robertson's three cell phones could reveal
+contacts, calls, and text messages showing that Amoroso and
+Robertson were in a relationship, arguably refuting Amoroso's
+grand jury testimony that she was in a relationship with the
+defendant and bolstering his defense that Amoroso provided false
+testimony about the defendant's involvement in the planning of
+the shooting in an attempt to protect Robertson. After a
+nonevidentiary hearing, the trial judge denied the defendant's
+motions on the grounds that the cell phones were seized during
+an unrelated investigation with no nexus to the victim's
+killing.
+                                                                    10
+
+
+victim's shooting.   Trial counsel had not sought access to these
+
+two additional cell phones even though he knew that they were
+
+available prior to trial.   As the defendant had done in
+
+connection with his pretrial motions for access to Robertson's
+
+cell phones, see note 7, supra, the defendant asserted in his
+
+c. 278A motions that digital forensic analysis of the now five
+
+cell phones could yield evidence that Amoroso committed perjury
+
+to protect Robertson, who the defendant alleged was her
+
+boyfriend at the time of the murder.8
+
+     In April 2024, the motion judge, who was not the trial
+
+judge, concluded that the defendant had met the threshold
+
+showing required under G. L. c. 278A, § 3 (b), and scheduled an
+
+evidentiary hearing to determine whether the defendant's request
+
+also satisfied the requirements of G. L. c. 278A, § 7.     In its
+
+opposition, the Commonwealth argued that the phrase "forensic or
+
+
+
+
+     8 In support of his argument that the requested analysis was
+reasonably likely to produce evidence that Amoroso provided
+false testimony about contacting the defendant on the 8764
+number registered to Robertson's former girlfriend, the
+defendant noted that in the month preceding the murder, the 8764
+number not only had 312 contacts with Amoroso's number and 203
+contacts with the defendant's 6426 number, but also 73, 276, and
+224 respective contacts with three numbers belonging to women
+known to have dated Robertson. The defendant argued that, "[a]s
+a simple matter of physics," it would have been impossible for
+him to use the 8764 number to contact Amoroso roughly ten times
+per day during the month preceding the murder while Robertson
+also used it to communicate with his three girlfriends nearly
+twenty times per day and with the defendant six times per day
+over the same period.
+                                                                   11
+
+
+scientific analysis," as used in the act, means the application
+
+of "natural and physical sciences" to (1) "evidence in the case
+
+that has already been tested" but should be retested "due to
+
+advancements in scientific testing," or (2) "already collected
+
+evidence that reasonably contains material suitable for
+
+[scientific] testing."   The Commonwealth contended that the
+
+defendant's motions did not involve forensic analysis as "no
+
+scientific principles" needed to "be applied to obtain the [cell
+
+phones] or their records, or to identify, interpret, evaluate,
+
+or understand the contents of those records."   The Commonwealth
+
+also contended that the defendant's request did not involve
+
+"evidence" within the meaning of the act, as the defendant was
+
+not seeking analysis of previously tested or already collected
+
+evidence, but rather was seeking "the production of tangible
+
+items ([cell phones]), and the production of documentary
+
+evidence associated with those tangible items ([cell phone]
+
+records)" (emphases in original); put differently, the
+
+Commonwealth argued that the defendant was "asking for a means
+
+to collect –- not analyze or test –- data from the phones."
+
+    At the evidentiary hearing, the sole witness was the
+
+defendant's digital forensics expert.   The expert testified that
+
+digital forensic analysis of a cell phone is a multistep process
+
+involving proper seizure of the physical device, overcoming
+
+password protection to decrypt cell phone content, and
+                                                                  12
+
+
+extracting and memorializing data from the device and any media
+
+storage devices.   The expert focused on digital forensic
+
+techniques that can access password-protected cell phones
+
+through "brute force" methodology and that can extract a wide
+
+array of digital content, including user-deleted content, call
+
+logs, text message logs, global positioning system (GPS)
+
+coordinates, and encrypted data from user applications.     The
+
+expert noted that errors in the application of the forensic
+
+techniques can cause loss of data; he testified that an analyst
+
+should try to extract data from the cell phone as soon as the
+
+device is powered on, as a device can start overwriting older
+
+data once it is active.
+
+    Following the expert's testimony, in its posthearing
+
+memorandum, the Commonwealth conceded that "digital forensic
+
+analysis ([the defendant's expert's] field) is a type of
+
+forensic science" and that "digital forensics involves
+
+scientific expertise."    Nonetheless, relying on Commonwealth v.
+
+Cronin, 495 Mass. 170, 178-181 (2025), the Commonwealth argued
+
+that the cell phone data extraction sought by the defendant
+
+"falls outside the 'forensic analysis' contemplated by c. 278A"
+
+because an extraction report "can be generated by a layperson
+
+with basic training and read by anyone."
+
+    In May 2025, the judge allowed the defendant's motions for
+
+forensic analysis of the five cell phones, concluding, inter
+                                                                   13
+
+
+alia, that digital forensics falls within the scope of
+
+"analysis" as defined in G. L. c. 278A, § 1, and that the
+
+defendant had otherwise satisfied the requirements of G. L.
+
+c. 278A, §§ 3 and 7.   The Commonwealth appealed,9 and in November
+
+2025, a single justice of this court allowed the Commonwealth's
+
+petition under the gatekeeper provision of G. L. c. 278, § 33E.
+
+    3.   Discussion.   a.   Standards of review.   "We review a
+
+question of statutory interpretation de novo."     Wade III, 475
+
+Mass. at 60.   Because the motion judge was not the trial judge,
+
+we also review de novo his rulings that the defendant satisfied
+
+G. L. c. 278A, §§ 3 and 7, to the extent that the rulings were
+
+based purely on the documentary record, see Wade II, 467 Mass.
+
+at 506; we defer to the judge's findings of fact based on the
+
+defendant's expert's testimony unless they are clearly
+
+erroneous, see Commonwealth v. Cadet, 473 Mass. 173, 179 (2015)
+
+("A reviewing court accepts the motion judge's findings of fact,
+
+made after an evidentiary hearing, if they are supported by the
+
+record, and defers to the judge's assessments of credibility
+
+. . ." [citation omitted]).
+
+
+
+
+    9  Robertson opposed the defendant's G. L. c. 278A motions,
+arguing, inter alia, that the defendant was not entitled to
+analyze the five seized cell phones because he still had a
+privacy interest in them. The motion judge rejected Robertson's
+arguments. Robertson did not appeal from the judge's order or
+otherwise participate in the present appeal.
+                                                                  14
+
+
+     b.   Scope of permissible "analysis."   On appeal, the
+
+Commonwealth does not press precisely the same arguments it
+
+marshalled before the motion judge.   Instead, it principally
+
+contends that the term "analysis" as used in the act is limited
+
+to "laboratory testing" of what it describes as "physical
+
+evidence," which it further asserts is limited to "tangible
+
+evidence capable of being handled, preserved, consumed,
+
+degraded, or destroyed" during testing.   At oral argument, the
+
+Commonwealth further clarified its position, contending that
+
+G. L. c. 278A is limited to "physical, tangible evidence that's
+
+capable of being tested for biological material," such as a
+
+"bloody sock" onto which a biological specimen has been
+
+deposited.10
+
+
+
+
+     10"Ordinarily, the failure to raise a legal argument at the
+trial level results in its waiver." Luppold v. Hanlon, 495
+Mass. 148, 165-166 (2025). However, because here the
+Commonwealth's principal argument on appeal is essentially an
+extension of its earlier assertions that the sought discovery
+does not fall within the act, as it does not involve application
+of "natural and physical sciences" to "analyze or test" the
+sought evidence, and because the issue presented is purely a
+legal one of statutory construction, we reach the merits. See
+Commonwealth v. Powell, 468 Mass. 272, 275 n.5 (2014) ("The
+Commonwealth's over-all challenge to the . . . rule is
+essentially an extension of its assertion that the . . . rule is
+limited in scope. . . . We therefore do not consider the
+argument waived"). Cf. LaChance v. Commonwealth, 437 Mass.
+1013, 1014 (2002) (declining to reach issues raised for first
+time on appeal where record was "lacking . . . in providing a
+basis for their intelligent resolution" [citation omitted]).
+                                                                    15
+
+
+    Consideration of the Commonwealth's arguments requires us
+
+to determine whether digital forensic analysis of a cell phone
+
+involves "analysis" as defined under the act.     "[A] statute must
+
+be interpreted according to the intent of the Legislature
+
+ascertained from all its words construed by the ordinary and
+
+approved usage of the language, considered in connection with
+
+the cause of its enactment, the mischief or imperfection to be
+
+remedied and the main object to be accomplished" (citation
+
+omitted).   Matter of the Estate of Mason, 493 Mass. 148, 151
+
+(2023).   We begin "our analysis . . . with the principal source
+
+of insight into legislative intent –- the plain language of the
+
+statute."   Gravito v. Commonwealth, 496 Mass. 756, 759 (2025),
+
+quoting Patel v. 7-Eleven, Inc., 489 Mass. 356, 362 (2022),
+
+S.C., 494 Mass. 562 (2024).    "If the statutory language is clear
+
+and unambiguous, it is conclusive as to legislative intent"
+
+(quotation omitted).     Gravito, supra, quoting Patel, supra.
+
+    In construing the plain language, "we must strive to give
+
+effect to each word . . . so that no part will be inoperative or
+
+superfluous" (citation omitted).    Commonwealth v. Fleury, 489
+
+Mass. 421, 427 (2022).    And "[i]f the words used are not
+
+otherwise defined . . . , we afford them their plain and
+
+ordinary meaning."     Matter of E.C., 479 Mass. 113, 118 (2018).
+
+    Here, the Legislature defined the term "analysis" as "the
+
+process by which a forensic or scientific technique is applied
+                                                                     16
+
+
+to evidence or biological material to identify the perpetrator
+
+of a crime."    G. L. c. 278A, § 1.   The Legislature did not
+
+define the terms "forensic or scientific technique" or
+
+"evidence."    Accordingly, we turn to consider whether digital
+
+forensic analysis of a cell phone involves application of a
+
+"forensic or scientific technique" to "evidence," applying the
+
+terms' plain and ordinary meanings consistent with legislative
+
+intent.
+
+     i.    Forensic or scientific technique.     We need not dwell
+
+long on the question whether digital extraction of data on the
+
+sought cell phones, as described by the defendant's expert,
+
+involves the application of a "forensic or scientific technique"
+
+because the Commonwealth conceded that "digital forensic
+
+analysis" of the type contemplated by the defendant's expert is
+
+a type of "forensic science" involving "scientific expertise."
+
+The Commonwealth presses the argument that, despite its
+
+concession, our decision in Cronin, 495 Mass. at 178-181,
+
+compels a contrary conclusion.    We disagree.
+
+     In Cronin, 495 Mass. at 178-179, we concluded that a lay
+
+witness, such as a police officer trained in the proper use of a
+
+digital forensics tool, can testify to the steps he or she
+
+personally performed to obtain an extraction report using the
+
+tool.     We did not consider the act, much less the question
+
+whether cell phone extraction involves application of forensic
+                                                                     17
+
+
+or scientific techniques.     Indeed, we cautioned that such a lay
+
+witness could not attest to the tool's reliability and accuracy.
+
+Id. at 180.     This is because such testimony requires expertise
+
+about the underlying forensic and scientific techniques embedded
+
+in the tool that permit retrieval of digital data from the cell
+
+phone.    Id.   Our careful delineation between a lay witness
+
+trained to use the tool, on the one hand, and an expert in
+
+digital forensics with specialized knowledge as to the
+
+reliability and accuracy of the forensic and scientific
+
+techniques in the tool, on the other hand, does not support the
+
+Commonwealth's claim.     Accordingly, we conclude, consistent with
+
+the defendant's expert's testimony, that digital extraction of
+
+cell phone data involves application of a forensic or scientific
+
+technique.11
+
+     ii.    Evidence.   We next consider the Commonwealth's
+
+principal argument on appeal -- that the requested digital
+
+
+     11To the extent the Commonwealth contends that forensic or
+scientific techniques are limited to "laboratory testing," the
+claim is entirely undeveloped and does not rise to the level of
+appellate argument. See Mass. R. A. P. 16 (a) (9) (A), as
+appearing in 481 Mass. 1628 (2019). Further, limiting the act's
+permissible "forensic or scientific technique[s]" to those that
+occur in a "laboratory," a term undefined by the Commonwealth,
+finds no basis in the words of the act or the act's broad
+remedial purposes. See Commonwealth v. Ramos, 490 Mass. 818,
+824 (2022) ("As a broad interpretation of c. 278A aligns with
+the remedial nature of the statute, we generally have construed
+the language of [the act] . . . in a manner that is generous to
+the moving party" [quotation, citation, and alteration
+omitted]).
+                                                                    18
+
+
+forensic analysis does not involve "evidence" as that term is
+
+used in the act.   The Legislature did not define the term
+
+"evidence," and thus we are guided by its plain and ordinary
+
+meaning.   See Matter of E.C., 479 Mass. at 118.    Specifically,
+
+evidence ordinarily includes objects "that tend[] to prove or
+
+disprove the existence of an alleged fact."12    Black's Law
+
+Dictionary 696 (12th ed. 2024).   See Black's Law Dictionary 635
+
+(9th ed. 2009) (same); Merriam-Webster's Collegiate Dictionary
+
+565 (12th ed. 2026) (defining evidence as "something [as
+
+testimony, a writing, or an object] submitted at a judicial or
+
+administrative proceeding for the purpose of proving a party's
+
+case"); American Heritage Dictionary of the English Language 616
+
+(5th ed. 2018) (defining evidence as "[a] thing or set of things
+
+helpful in forming a conclusion or judgment").
+
+     The sought cell phones and their digital contents, which
+
+include, inter alia, call logs, text message logs, location
+
+information, and information from cell phone applications, fall
+
+comfortably within the scope of "evidence."     See, e.g.,
+
+Commonwealth v. Carleton, 497 Mass. 11, 27-28 (2026)
+
+(considering as evidence photographs retrieved using digital
+
+
+
+
+     12Notably, the act does not apply to all evidence; the
+"evidence" must be of a type as to which a forensic or
+scientific technique may be applied. See G. L. c. 278A, § 1.
+The sought discovery must also meet the other requirements of
+the act. See, e.g., G. L. c. 278A, §§ 3, 7.
+                                                                 19
+
+
+forensic software that "locate[d] the code necessary to unlock
+
+the cell phone" and then "read the files extracted from the cell
+
+phone"); Cronin, 495 Mass. at 175 ("Commonwealth . . . entered
+
+in evidence fifteen images that [a police officer] had extracted
+
+from the defendant's cell phone" using digital forensics tool
+
+[emphasis added]); Commonwealth v. Woollam, 478 Mass. 493, 498-
+
+499 (2017), cert. denied, 584 U.S. 944 (2018) (upholding
+
+admissibility of evidence, including "cell phone records, . . .
+
+records of call metadata, text messages, and a summary chart"
+
+[footnote omitted]).   In fact, the Commonwealth introduced cell
+
+phones and cell phone data extraction reports as evidence in
+
+connection with the defendant's underlying conviction.
+
+     The Commonwealth's argument that the "structure" of G. L.
+
+c. 278A "presupposes" that "evidence" consists of "tangible
+
+evidence capable of being handled, preserved, consumed,
+
+degraded, or destroyed" by testing and thus (according to the
+
+Commonwealth13) does not encompass a cell phone or its digital
+
+
+     13It is not apparent that the Commonwealth's assertions are
+grounded in any scientific principles. The defendant's expert
+testified that digital forensics involves "handling" the
+physical, tangible cell phones, as well as any attached
+physical, tangible media storage devices, like subscriber
+identity module (SIM) cards and secure digital (SD) cards, and
+"preserving" the content that is extracted from those physical,
+tangible devices. The expert also testified that preservation
+of the data required proper application of techniques and that
+improper handling of the physical devices could result in
+overwriting, modification, or destruction of data. The
+Commonwealth leaves unexplained the scientific basis for its
+                                                                 20
+
+
+contents, as well as its further contention that "evidence" is
+
+limited to items containing biological specimens, ignores that
+
+the act uses the term "evidence" without the additional features
+
+fashioned to it by the Commonwealth.    See Wade III, 475 Mass. at
+
+63 ("We do not read into the [act] a provision which the
+
+Legislature did not see fit to put there, nor add words that the
+
+Legislature had the option to, but chose not to include"
+
+[citation omitted]).
+
+    Nor does the Commonwealth's construction of "evidence" find
+
+support in G. L. c. 278A, § 8.   Section 8 sets forth the
+
+standards for conducting analysis of "evidence or biological
+
+material," including protocols for, inter alia, protecting the
+
+integrity of the tested item, using accredited forensic services
+
+providers, and preserving the tested item for replicate
+
+analysis, where possible.   None of these standards demonstrates
+
+that the defendant's requested digital forensic analysis falls
+
+outside the act's permitted analysis.   Indeed, G. L. c. 278A,
+
+§ 8, like the other sections of the act, uses the term
+
+
+
+position that DNA extracted from a physical item, such as a
+bloody sock, is any more "physical" than the data extracted from
+a cell phone. Cf. 1 M.R. Arkfeld, Electronic Discovery and
+Evidence § 2.5(F) (2025) (listing types of data stored on cell
+phones and external media storage devices, including call logs,
+pictures, and GPS location data); Withers, Electronically Stored
+Information: The December 2006 Amendments to the Federal Rules
+of Civil Procedure, 4 Nw. J. Tech. & Intell. Prop. 171, 174
+(2006) ("electronically stored information is replicated on
+media in various physical locations").
+                                                                      21
+
+
+"evidence" without affixing the limitations posited by the
+
+Commonwealth.
+
+    To the extent the Commonwealth's position is that the act
+
+is limited to testing for DNA or similar biological evidence, we
+
+disagree.   The act contemplates the application of forensic or
+
+scientific techniques to "evidence or biological material"
+
+(emphasis added).    G. L. c. 278A, § 1.   The disjunctive "or"
+
+indicates that "evidence" is not "biological material," which
+
+the act separately defines as "a sexual assault forensic
+
+examination kit, semen, blood, saliva, hair, skin tissue or
+
+other identified biological substance."     Id.   See Wade III, 475
+
+Mass. at 61 ("The word 'or' is given a disjunctive meaning
+
+unless the context and the main purpose of all the words demand
+
+otherwise" [citation omitted]).   Reading "evidence" as limited
+
+to items that can be tested for biological specimens would
+
+render the defined term "biological material" largely
+
+superfluous.    See Fleury, 489 Mass. at 427.     It would also run
+
+counter to our decisions allowing postconviction testing of
+
+other types of nonbiological material.     See, e.g., Jenks, 487
+
+Mass. at 1034-1036 (testing of ballistics evidence for weight,
+
+dimensions, and rifling system direction); Williams, 481 Mass.
+
+at 803, 809 (testing of gunshot residue on clothing and
+
+fingerprints on shell cases).
+                                                                    22
+
+
+     The Commonwealth's reliance on the act's legislative
+
+history is misplaced.    To begin, ordinarily where "the words of
+
+the statute are unambiguous, we need not consult its legislative
+
+history."     Garcia v. Steele, 492 Mass. 322, 328 n.7 (2023).   The
+
+Legislature deliberately chose to permit forensic analysis of
+
+"evidence or biological material."    G. L. c. 278A. §§ 3, 7.
+
+     Notably, the Commonwealth was the forty-ninth State to
+
+enact legislation allowing for postconviction testing.     See Wade
+
+II, 467 Mass. at 509 & n.15.    In determining to permit
+
+postconviction analysis using forensic or scientific techniques
+
+applied to "evidence" or "biological materials," the Legislature
+
+chose to enact a broader remedial scheme rather than adopt the
+
+more limited enactments from other States, which expressly
+
+limited postconviction discovery to DNA testing of biological
+
+material.14    See id. at 509 (noting that Massachusetts, as forty-
+
+ninth State to enact postconviction testing law, "set[] a far
+
+
+
+
+     14See, e.g., Cal. Penal Code § 1405(a) ("A person who was
+convicted of a felony and is currently serving a term of
+imprisonment may make a written motion . . . for performance of
+forensic [DNA] testing"); Colo. Rev. Stat. § 18-1-412(1) ("An
+eligible person may apply at any time to the district court in
+the district where the conviction was secured for DNA testing
+concerning the conviction and sentence"); N.C. Gen. Stat. § 15A-
+269(a) ("A defendant may make a motion before the trial court
+that entered the judgment of conviction against the defendant
+for performance of DNA testing . . .").
+                                                                     23
+
+
+lower bar for access to scientific testing than that required by
+
+similar statutes in other States").
+
+     The Commonwealth posits that if digital forensic analysis
+
+of cell phones is permitted by the act, "every few weeks, [a]
+
+defendant would meet the requirements of G. L. c. 278A and the
+
+cell phones could arguably be re-extracted in perpetuity"
+
+because digital forensic technologies may be updated
+
+periodically.    The concern is overstated.   As we have concluded
+
+previously, to re-analyze evidence using an updated forensic or
+
+scientific technique, the moving party must show "a material
+
+improvement over any previously conducted analysis in accurately
+
+identifying or excluding the [moving] party as the perpetrator
+
+of the crime."   Commonwealth v. Donald, 468 Mass. 37, 44 (2014),
+
+S.C., 487 Mass. 1036 (2021).    The moving party seeking to re-
+
+analyze the same evidence must also satisfy all the other
+
+requirements of G. L. c. 278A.15   See id. at 47-48 (affirming
+
+
+
+
+     15For example, a party seeking digital forensic analysis
+must show, as discussed infra, that the requested analysis has
+the potential to result in evidence that is material to the
+moving party's identification as the perpetrator of the crime in
+the underlying case. G. L. c. 278A, § 7 (b) (4). See, e.g.,
+Moffat, 478 Mass. at 300-301 (G. L. c. 278A motion for DNA
+testing of four cigarette butts found on public road in vicinity
+of crime scene properly denied where testing did not have
+potential to reveal evidence material to identifying perpetrator
+of crime given there was nothing to indicate when cigarette
+butts might have been deposited and no witness mentioned
+cigarette smoking).
+                                                                  24
+
+
+denial of G. L. c. 278A motion where defendant could show
+
+requested re-analysis using new method offered "material
+
+improvement," but failed to satisfy G. L. c. 278A, § 3 [b] [5]).
+
+     c.   Allowance of motion.   i.   Reasonably effective counsel.
+
+The Commonwealth next maintains that the defendant is not
+
+entitled to the requested analysis because he did not satisfy
+
+G. L. c. 278A, § 7 (b) (3), which required that the defendant
+
+show by a preponderance of the evidence "that the evidence or
+
+biological material [the defendant seeks to analyze] has not
+
+been subjected to the requested analysis for any of the reasons"
+
+enumerated in G. L. c. 278A, § 3 (b) (5).16    The motion judge
+
+
+     16The five reasons enumerated in G. L. c. 278A,
+§ 3 (b) (5), for not having previously conducted the requested
+analysis are as follows:
+
+     "(i) the requested analysis had not yet been developed at
+     the time of the conviction;
+
+     "(ii) the results of the requested analysis were not
+     admissible in the courts of the commonwealth at the time of
+     the conviction;
+
+     "(iii) the moving party and the moving party's attorney
+     were not aware of and did not have reason to be aware of
+     the existence of the evidence or biological material at the
+     time of the underlying case and conviction;
+
+     "(iv) the moving party's attorney in the underlying case
+     was aware at the time of the conviction of the existence of
+     the evidence or biological material, the results of the
+     requested analysis were admissible as evidence in courts of
+     the commonwealth, a reasonably effective attorney would
+     have sought the analysis and either the moving party's
+     attorney failed to seek the analysis or the judge denied
+     the request; or
+                                                                  25
+
+
+determined that the defendant had satisfied G. L. c. 278A,
+
+§ 3 (b) (5) (iv),17 because a "reasonably effective attorney
+
+would have sought the analysis" of Robertson's five cell phones,
+
+trial counsel "failed to seek the analysis" for two of the cell
+
+phones, and trial counsel did seek the now-requested analysis
+
+for three of the cell phones, but "the judge denied the
+
+request."   G. L. c. 278A, § 3 (b) (5) (iv).
+
+     The Commonwealth does not contest the motion judge's
+
+findings, which are amply supported by the record.   The
+
+defendant's principal defense at trial was that Amoroso, who
+
+provided key testimony linking the defendant to planning the
+
+shooting, provided false testimony against the defendant to
+
+protect Robertson, with whom she was in a relationship.
+
+Examining the five cell phones, which were known to belong to
+
+Robertson in the months immediately before and immediately after
+
+the murder, to uncover information connecting Amoroso and
+
+Robertson and thus potentially undermine Amoroso's testimony
+
+that she did not know (or even recognize) Robertson, falls
+
+
+
+
+     "(v) the evidence or biological material was otherwise
+     unavailable at the time of the conviction."
+
+     17The motion judge also found that the defendant satisfied
+G. L. c. 278A, § 3 (b) (5) (i). Because a defendant need only
+show that the requested analysis was not previously performed
+because of one of the five enumerated reasons set forth
+in 3 (b) (5), we need not review the judge's conclusion as to
+that prong. See Wade III, 475 Mass. at 61.
+                                                                  26
+
+
+squarely within a strategy that a reasonably effective trial
+
+counsel would have employed.   See Wade II, 467 Mass. at 511
+
+(G. L. c. 278A, § 3 [b] [5] [iv], does not "import[] the
+
+standard of ineffective assistance of counsel"; defendant need
+
+only show that "'a' reasonably effective attorney would have
+
+sought the requested analysis, not that every reasonably
+
+effective attorney would have done so" [emphases in original]).
+
+See also Commonwealth v. Ramos, 490 Mass. 818, 828 (2022) ("a
+
+reasonably effective attorney would have requested the DNA
+
+testing in light of the fact that it potentially could
+
+corroborate the testimony of the lone defense witness and
+
+contradict the Commonwealth's argument").
+
+    Instead, the Commonwealth argues that the motion judge
+
+erred because G. L. c. 278A, § 3 (b) (5) (iv), should be read to
+
+apply only when the defendant's earlier motion for the same
+
+analysis was denied on the grounds that the results were
+
+inadmissible in the courts of the Commonwealth at the time.      The
+
+argument confuses G. L. c. 278A, § 3 (b) (5) (iv), with G. L.
+
+c. 278A, § 3 (b) (5) (ii), which expressly provides as an
+
+independent basis for relief that "the results of the requested
+
+analysis were not admissible in the courts of the commonwealth
+
+at the time of the conviction."   We are not at liberty to add
+
+this limitation, which is absent from prong (iv) and which would
+
+render superfluous the separate basis for relief under prong
+                                                                    27
+
+
+(ii).     See Tze-kit Mui v. Massachusetts Port Auth., 478 Mass.
+
+710, 712 (2018) ("ordinarily we will not add language to a
+
+statute where the Legislature itself has not done so").     See
+
+also A. Scalia & B.A. Garner, Reading Law:     The Interpretation
+
+of Legal Texts 174 (2012) ("If possible, every word and every
+
+provision is to be given effect . . . .     None should be ignored.
+
+None should needlessly be given an interpretation that causes it
+
+to duplicate another provision or to have no consequence").18
+
+     ii.    Analysis material to identification.   The Commonwealth
+
+further maintains that the motion judge erred in concluding that
+
+the defendant satisfied G. L. c. 278A, § 7 (b) (4), which
+
+required the defendant to show by a preponderance of the
+
+evidence that the requested forensic analysis "has the potential
+
+to result in evidence that is material to the [defendant's]
+
+identification as the perpetrator of the crime in the underlying
+
+case."    Evidence is "material" within the meaning of G. L.
+
+c. 278A, § 7 (b) (4), when it "is of significance to the moving
+
+party's identification as the perpetrator of the crime"; this
+
+includes evidence that "would tend to support" the defendant's
+
+
+
+
+     18The Commonwealth's additional argument that the defendant
+waived his right to analyze the five cell phones pursuant to
+G. L. c. 278A because he failed to appeal from the denial of his
+pretrial motion for access to three of the cell phones is
+contrary to the express language of the act. See G. L. c. 278A,
+§ 15 ("The right to file a motion under this chapter shall not
+be waived").
+                                                                   28
+
+
+theory of defense and "challenge the Commonwealth's account of
+
+the sequence of events."   Ramos, 490 Mass. at 825, 827-828.
+
+    Here, records show hundreds of calls between the 8764
+
+number -- the cell phone number registered to Robertson's former
+
+girlfriend, which Robertson had canceled following the murder
+
+and which plausibly was being used by Robertson -- and at least
+
+three women with whom Robertson had a relationship.   Trial
+
+counsel relied on these records to mount the defendant's
+
+principal defense –- that Amoroso, the only witness to testify
+
+that the defendant knowingly participated in an advanced plan to
+
+kill the victim by borrowing the Lincoln, fabricated her
+
+testimony to protect Robertson.   The requested discovery, which
+
+may reveal contacts between Robertson and Amoroso on his other
+
+cell phones in the months preceding and following the murder,
+
+thus has the potential to uncover communications between
+
+Robertson and Amoroso, see Clark, 472 Mass. at 135-136
+
+("Legislature's use of the word 'potential' in § 7 [b] [4]
+
+suggests an awareness of the fact that the requested forensic
+
+analysis may not produce the desired evidence, but such a
+
+consequence should not be an impediment to analysis in the first
+
+instance"), and those potential communications would bolster the
+
+defendant's defense by showing that Amoroso committed perjury in
+
+stating that she did not know Robertson and could not identify
+
+him; evidence of her perjury would in turn cast doubt on her
+                                                                   29
+
+
+testimony as a whole –- testimony the prosecution relied on in
+
+advancing its theory that the defendant was an active
+
+participant in the planning of the murder.   Indeed, in closing,
+
+the prosecution emphasized Amoroso's testimony to argue that the
+
+defendant was "the driver of that [Lincoln] MKX," including her
+
+assertion that she contacted the defendant on the 8764 number,
+
+that the defendant had two cell phones, and that he borrowed the
+
+Lincoln from her prior to the murder.
+
+    Thus, contrary to the Commonwealth's contentions, the
+
+requested analysis would not provide "mere" impeachment
+
+evidence.   Evidence that Amoroso and the defendant did not in
+
+fact have numerous telephone calls together would "challenge the
+
+Commonwealth's account of the sequence of events" -- namely,
+
+that the defendant was a full participant in the advanced
+
+planning of the murder, including by asking Amoroso if he could
+
+borrow the Lincoln, which the Commonwealth alleged the defendant
+
+used to bring Robertson to the location of the shooting and then
+
+assist Robertson in fleeing the scene.   Ramos, 490 Mass. at 828.
+
+See Watson, 487 Mass. at 162 ("For murder in the first degree
+
+both under the theory of deliberate premeditation and under the
+
+theory of extreme atrocity or cruelty, to prove the defendant
+
+guilty as a joint venturer, the Commonwealth had to prove beyond
+
+a reasonable doubt that the defendant knowingly participated in
+
+the commission of the crime charged, and that the defendant had
+                                                                   30
+
+
+or shared the required criminal intent" [quotations and citation
+
+omitted; emphasis added]).
+
+    The Commonwealth claims that the discovery of
+
+communications between Amoroso and Robertson would not be
+
+"material" to identifying the defendant as required by the act
+
+because other evidence implicated him in the joint venture –-
+
+specifically, the presence of his fingerprints and personal
+
+belongings in the Lincoln, and the call logs showing numerous
+
+contacts between him and his codefendants in the month leading
+
+up to the murder and on the night of the murder.    That other
+
+evidence may pose a challenge for the defendant to successfully
+
+move for a new trial, see Commonwealth v. Gaines, 494 Mass. 525,
+
+539 (2024), but it does not govern his ability to access
+
+discovery under the act, which was intended to "provide
+
+increased and expeditious access to scientific or forensic
+
+testing," "the results of which subsequently might support a
+
+motion for a new trial," Wade II, 467 Mass. at 505, 509.     See
+
+Ramos, 490 Mass. at 824 ("we have emphasized that defendants
+
+need not demonstrate that the requested testing could result in
+
+evidence that would justify a new trial"); Commonwealth v.
+
+Linton, 483 Mass. 227, 242 (2019) ("The requirements of G. L.
+
+c. 278A are, by design, less stringent than a motion for a new
+
+trial pursuant to Mass. R. Crim. P. 30").   See also Commonwealth
+
+v. Steadman, 489 Mass. 372, 389 (2022) ("moving party need only
+                                                                    31
+
+
+show that the required analysis could be material to the
+
+question of . . . identity, and not whether it would have had
+
+any effect on the underlying conviction" [emphases in original;
+
+quotations and citation omitted]); Clark, 472 Mass. at 136
+
+(evidence may be material under act even in "the presence of
+
+overwhelming evidence of guilt in the underlying trial"
+
+[citation omitted]).19
+
+     4.   Conclusion.    For the foregoing reasons, we affirm the
+
+allowance of the defendant's motions for postconviction forensic
+
+analysis under G. L. c. 278A.
+
+                                     So ordered.
+
+
+
+
+     19Construing the act to permit the discovery requested here
+does not impermissibly "allow[] the defendant to bypass the
+limits of [Mass. R. Crim. P. 30]," as the Commonwealth contends.
+"In enacting G. L. c. 278A, the Legislature separated the
+procedure for seeking forensic testing from the procedure for
+seeking scientific testing in conjunction with a motion for a
+new trial pursuant to Mass. R. Crim. P. 30 (b), and intended
+that G. L. c. 278A provide increased and expeditious access to
+scientific or forensic testing" (emphases added). Wade II, 467
+Mass. at 509. Should the sought discovery prove fruitful, the
+defendant will need to meet the requirements of rule 30 to
+obtain a new trial.
+

@@ -1,0 +1,25 @@
+leverages a natural search engine based on artificial intelligence to generate results from public
+information, such as “case law, statutes, and regulations across various practice areas.” (D.I. 12 |
+at 2, 4)
+Cc ROSS And LegalEase ‘
+LegalEase Solutions, LLC (“LegalEase”) is a legal research and writing support services
+company; it is not a legal research platform like West or ROSS. (DI. 1 4 29) Starting in 2008,
+LegalEase obtained a limited license to use Westlaw to conduct legal research for customers.
+(Id.) According to Plaintiffs, the “Service Agreement between LegalEase and West prohibited |
+LegalEase from running or installing any computer software on West’s products or network, as
+well as selling, sublicensing, distributing, displaying, storing, or transferring Westlaw |
+information in bulk to third parties.” (Id.) Plaintiffs allege that LegalEase started to breach these |
+terms by July 2017. (id. 130)
+In July 2017, LegalEase stated in an interview that it was working with a machine |
+learning research firm (later revealed to be ROSS) to help create a legal research platform, and )
+that LegalHase was feeding that firm with “tons and tons of legal research.” (Ud. §33) Around |
+this time, Plaintiffs observed a nearly 40-fold increase over LegalEase’s historical usage pattern,
+i.e., from approximately 6,000 Westlaw transactions per month to a maximum of about 236,000
+transactions per month (a usage rate nearly five times greater than the average monthly usage
+rate of the top 100 law firms, as ranked by “The American Lawyer”). (Id. 31) According to
+Plaintiffs, their investigation revealed that the users of certain Westlaw credentials assigned to
+LegalEase were exhibiting bot-like behavior and that content from Westlaw was being
+downloaded and stored in bulk by computer software. (/d. { 32)
+Plaintiffs allege, on information and belief, that “ROSS paid LegalEase to copy Westlaw
+Content from Westlaw to build ROSS’s competing platform, thereby knowingly and deliberately
+4

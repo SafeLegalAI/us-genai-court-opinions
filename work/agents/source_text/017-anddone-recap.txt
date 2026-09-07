@@ -1,0 +1,557 @@
+                   IN THE UNITED STATES DISTRICT COURT FOR THE
+                           WESTERN DISTRICT OF MISSOURI
+                                WESTERN DIVISION
+ ANDDONE, LLC,                                       )
+                                                     )
+                                  Plaintiff,         )
+                                                     )
+                        v.                           )       Case No. 4:25-cv-00346-RK
+                                                     )
+ SHANTE GAINES; RESET FINANCIAL                      )
+ GROUP, LLC,                                         )
+                                                     )
+                                  Defendants.        )
+                                                     )
+                                                ORDER
+       This is a breach of contract action. Before the Court are three motions filed by Plaintiff
+AndDone, LLC: (1) motion for attorney fees associated with its early efforts to compel discovery
+pursuant to Rule 37, (Doc. 60); (2) motion for default judgment against pro se Defendant Shante
+Gaines, (Docs 76; 81 at 6-8); and (3) motion for default judgment against Defendant Reset
+Financial Group, LLC, (Doc. 81). Only the motion for default judgment against Gaines is fully
+briefed. (Docs. 82, 83). After careful consideration and for the reasons stated below, the Court
+ORDERS that: (1) AndDone’s motion for attorney fees pursuant to Rule 37 is GRANTED;
+(2) AndDone’s motion for default judgment as to its breach of contract claim against Gaines is
+GRANTED and the Court enters default judgment against Gaines; and (3) AndDone’s motions
+for default judgment on its alternative claims against Defendant Gaines and Defendant Reset
+Financial Group are DENIED as moot.
+                                               Background
+       AndDone offers electronic payment processing services to brokers in the insurance
+industry. Insurance brokers use AndDone’s platform to, inter alia, collect secure payments through
+its online platform. At all times relevant to AndDone’s allegations, Gaines was an insurance broker
+licensed in Kentucky.
+       On April 11, 2024, Gaines and AndDone executed a Sub-Merchant Agreement which
+established the terms under which AndDone would provide payment processing services to
+Gaines. 1 (Doc. 55-1.) Under the Sub-Merchant Agreement, Gaines agreed to not “use an account
+
+       1
+           The Sub-Merchant Agreement refers to the parties to the agreement as AndDone and “the party
+
+
+
+       Case 4:25-cv-00346-RK             Document 84        Filed 08/25/26     Page 1 of 15
+number for any purpose other than as payment for [her] goods or services,” and that she would
+“always maintain” an open settlement account with “sufficient cleared funds to meet [her]
+obligations” to AndDone under the contract. (Id. at 3.) Gaines authorized AndDone to debit her
+bank account “to settle any and all fees and other amounts due [to] AndDone” and she agreed that
+AndDone would “have the right at any time to charge” her “for any return, [or] chargeback.” (Id.
+at 7.) A chargeback occurs when an account holder disputes a transaction with their bank, resulting
+in a reversal of the payment and a refund to the disputing account holder.
+       As part of AndDone’s payment processing services, AndDone provided Gaines a unique
+payment portal she could give her customers which they used to pay Gaines for insurance products.
+On November 22, 2024, Gaines’ portal accepted an ACH direct debit for $78,203 from a payor
+using a PNC Bank account owned by Nola Foster with the last three digits *973. The payor
+identified themselves as “Nola Foster” and provided the email “nolafoster1951@gmail.com.” On
+November 25, 2024, Gaines’ portal accepted an ACH direct debit for $10,303.00 from the same
+account and credentials. However, Nola Foster died on November 21, 2024, the day before the
+first transaction. Gaines used Nola Foster’s account to initiate the transfers. 2 (See id. at ¶ 26; Doc.
+6 at ¶¶ 2-3.) These funds were not payments for goods or services provided by Gaines.
+       Once the funds settled in Gaines’ AndDone account, Gaines transferred the funds to her
+bank account at Navy Federal Credit Union on November 26 and 27, 2024. Then, an account
+holder on Nola Foster’s PNC accounts reported the $78,203 and $10,303 debits as unauthorized
+transactions, and on December 16, 2024, PNC clawed back the funds from AndDone. There were
+no funds in Gaines’ settlement account with AndDone, and as a result, PNC clawed back $88,506
+from AndDone’s operating account. AndDone notified Gaines and told her she must reimburse
+AndDone; however, she refused.            Between December 2024 and March 2025, Gaines was
+represented by counsel, who acknowledged multiple times that Gaines owed AndDone $88,506
+for the chargeback and asked how AndDone would like to receive its reimbursement. Gaines never
+reimbursed AndDone. AndDone twice attempted to debit Gaines’ Navy Federal Credit Union
+
+
+
+named below (‘Company’),” and is signed by “Shante’ Gaines” following the provision: “I acknowledge
+that I have read the Sub Merchant Agreement above and agree to be bound by its terms; I authorize
+AndDone, LLC to make any business or personal credit inquiries they consider necessary to review the
+acceptance and continuation of this Agreement.” (Doc. 55-1 at 1, 20-21.)
+       2
+           Gaines has represented to the Court that Nola Foster was her grandmother. (Doc. 6 at ¶ 2.)
+
+                                                     2
+
+        Case 4:25-cv-00346-RK             Document 84         Filed 08/25/26       Page 2 of 15
+account to recoup the funds, as provided for in the Sub-Merchant Agreement. Both transactions
+(March 26, 2025 for $88,500, and April 9, 2025 for $10,000) failed due to insufficient funds.
+        On May 8, 2025, AndDone filed its original complaint alleging breach of contract, unjust
+enrichment, and negligence against Gaines. (Doc. 1.) On July 29, 2025, Senior District Judge
+Gary A. Fenner (“Initial Court”) 3 entered the Scheduling Order which set a November 7, 2025
+deadline by which the parties could file discovery motions and a November 21, 2025 deadline for
+close of all discovery. 4 (Doc. 13). AndDone served its discovery requests on September 16, 2025,
+meaning Gaines’ responses were due October 16, 2025. (Doc. 31; Fed. R. Civ. P. 33(b)(2),
+34(b)(2)(A), and 36(a)(3).) She did not serve responses.
+        Gaines did file a motion to dismiss (which was denied) and various other improper filings
+(which were later struck), claiming, inter alia, that she is not personally liable under the Sub-
+Merchant Agreement, rather, Reset Financial Group, LLC, her limited liability company, is the
+proper party. (See, e.g., Doc. 19-1.)
+        On October 20, 2025, AndDone moved for leave to file a second amended complaint
+seeking to add an alternative breach of contract claim against Reset Financial Group based upon
+Gaines’ representations. (Doc. 34.) Gaines’ response deadline was November 3, 2025. (Doc. 34.)
+Also on October 20, AndDone began attempting to schedule a date to depose Gaines remotely. 5
+(Doc. 36-2.)
+        On October 21, 2025, five days after Gaines’ written discovery responses were due, Gaines
+moved for an extension of time to respond to AndDone’s motion for leave and to provide discovery
+requests. (Doc. 35.) Gaines insisted that written discovery was improper before AndDone’s
+motion for leave to amend was resolved, and she requested fourteen days from the Initial Court’s
+ruling on AndDone’s motion for leave to amend the complaint to serve her discovery responses.
+In AndDone’s response in opposition to the motion for extension of time, AndDone notified the
+
+        3
+         Judge Fenner presided over this case until an order of recusal was entered on December 2, 2025.
+The case was transferred to this Court on December 3, 2025.
+        4
+          The Scheduling Order provided: “All pretrial discovery authorized by the Federal Rules of Civil
+Procedure shall be completed on or before November 21, 2025. This means that all discovery shall be
+completed, not simply submitted, on the date specified by this paragraph. Accordingly, all discovery
+requests and depositions shall be submitted and/or scheduled prior to the date specified in this paragraph
+and shall allow sufficient time for completion within the time specified by the Federal Rules of Civil
+Procedure, the Local Court Rules, and/or orders of this Court.” (Doc. 13 at 1.)
+        5
+            Gaines lived in Kentucky, while AndDone’s counsel was located in Kansas City.
+
+                                                     3
+
+        Case 4:25-cv-00346-RK             Document 84        Filed 08/25/26       Page 3 of 15
+Initial Court that Gaines was also refusing to schedule or appear for her deposition, and it requested
+that the Initial Court order Gaines to appear for a remote deposition. (Doc. 36.) On October 28,
+2025, the Initial Court ordered Gaines to respond to AndDone’s motion for leave to amend by the
+original deadline—November 3, 2025—and to provide discovery responses by November 7, 2025.
+(Doc. 38.) The Initial Court ordered the parties to confer and schedule Gaines’ deposition “without
+delay” and warned Gaines that it would not permit her “to further delay the scheduling of her
+deposition.” (Id.)
+        AndDone continued trying to schedule a date for Gaines’ deposition, explaining to her that
+the deposition would need to be completed with sufficient time for AndDone to pursue discovery
+motions by the November 7, 2025 deadline, if needed. (Doc. 41 at 4.) Gaines refused. AndDone’s
+counsel followed up on November 4, 2025, again requesting that Gaines provide a date for her
+deposition. Gaines responded that she would not schedule her deposition until the Initial Court
+ruled on AndDone’s motion for leave to amend. (Doc. 41-1 at 8.)
+        On November 13, 2025, a discovery dispute teleconference was set for November 20, 2025,
+at AndDone’s request based upon Gaines’ deficient written discovery responses and refusal to
+schedule her deposition. On November 19, 2025, the Initial Court granted AndDone’s motion for
+leave to amend, and AndDone filed its Second Amended Complaint including an alternative breach
+of contract claim against Reset Financial Group for breach of the Sub-Merchant Agreement
+described above. (Doc. 55.) Gaines failed to appear for the discovery dispute teleconference on
+November 20. 6
+        On November 21, 2025, AndDone filed a motion requesting an order that Gaines show
+cause why she should not be sanctioned for violations of Federal Rule of Civil Procedure 11 for
+misrepresentations to the Initial Court including citations to nonexistent cases and quotations
+contained in a November 18 filing, (Doc. 53). (Doc. 57.)
+
+
+        6
+          Prior to the discovery conference, Gaines requested to stay the case and/or discovery conference
+multiple times, arguing that she was attempting to reopen a previous bankruptcy proceeding and she was
+unavailable on November 20. The Initial Court explained that the case would proceed “unless and until
+[Gaines] proves that the Western District of Kentucky has reopened said bankruptcy case,” and declined to
+reschedule from November 20 because Gaines “had several opportunities to state she was unavailable on
+that date via email communications between the Court, opposing counsel, and herself,” but she never
+indicated her unavailability or provided alternative dates. (Doc. 47.) The Initial Court cautioned Gaines
+that she was ordered to appear via video conference on November 20 and that her “absence may result in
+an order against [her].” (Doc. 58 at 1.)
+
+                                                    4
+
+        Case 4:25-cv-00346-RK            Document 84         Filed 08/25/26       Page 4 of 15
+       Also on November 21, 2025, after the Initial Court reviewed AndDone’s discovery dispute
+summary and exhibits, Gaines’ written discovery responses, and AndDone’s motion to extend the
+Scheduling Order deadlines based upon Gaines’ failure to participate, and argument from counsel,
+the Initial Court entered an Amended Scheduling Order. The Initial Court cautioned, “Defendant
+Gaines is expressly cautioned that the following constitute binding orders of the Court. Failure to
+comply with these orders may result in sanctions including monetary sanctions and/or the entry of
+default judgment against Defendant. See Fed. R. Civ. P. 37(b)(2)(C).” The Initial Court overruled
+Gaines’ objections to AndDone’s discovery requests and ordered Gaines to respond by December
+5, 2025. The Initial Court noted “that it appears from the record that Defendant Gaines has been
+obstructive and uncooperative with respect to her discovery obligations, including the scheduling
+of her deposition,” therefore, it ordered Gaines “to appear for her deposition in person at 9 am
+central on December 18, 2025.” (Doc. 58.) The conclusion of discovery was moved to February
+27, 2026. The Initial Court also ordered Gaines to show cause why she should not be sanctioned
+for the Rule 11 violations identified in AndDone’s motion for order to show cause by December
+12, 2025. (Doc. 59.) Gaines did not provide further written discovery responses as ordered, she
+did not appear for her deposition, and she did not respond to the Initial Court’s show cause order.
+       AndDone filed a motion for attorney fees pursuant to Rule 37 to recover the attorney fees
+it incurred by pursuing the Initial Court’s November 21, 2025 order compelling Gaines to provide
+written discovery and appear for her deposition. (Doc. 60.) That motion remains pending.
+       This matter was reassigned to this Court on December 3, 2025. The Court scheduled a
+status conference for January 29, 2026. In the meantime, AndDone notified the Court that Reset
+Financial Group was served with the Second Amended Complaint on December 15, 2025. Neither
+Reset Financial Group nor Gaines filed an answer to the Second Amended Complaint.
+       At the January 29, 2026 status conference, AndDone appeared by counsel and Gaines
+appeared pro se. Reset Financial Group did not have counsel. Gaines acknowledged her
+understanding that she would need to hire counsel to represent Reset Financial Group. The Court
+ordered Reset Financial Group to secure counsel and have an entry of appearance on file by March
+2, 2026. The Court reiterated to Gaines that all prior orders by the Initial Court still applied and
+that the February 27, 2026 discovery deadline would not be extended as to the claims against her
+as an individual. The Court warned Gaines that she was in a “very dire position” due to her
+obstructiveness and if she did not begin participating in discovery in a significant way, the Court
+
+                                                 5
+
+       Case 4:25-cv-00346-RK          Document 84        Filed 08/25/26      Page 5 of 15
+would have to issue a default judgment against her. Gaines acknowledged that she understood the
+dire situation she was in.
+       On February 19, 2026, after several more failed attempts at obtaining a favorable
+deposition date for Gaines, AndDone filed a unilateral notice of deposition to conduct Gaines’
+deposition in-person on February 25, 2026, in Kansas City, Missouri. (Doc. 71.) On February 24,
+2026, at approximately 3:40 p.m., (the eve before that deposition), Gaines filed an “emergency”
+motion for protective order, requesting that the Court continue her deposition “for a reasonable
+time to allow [Gaines] to retain counsel” or that the Court allow the deposition to be “conducted
+remotely by videoconference” due to her Kentucky residence and financial hardship. (Doc. 72.)
+In response, AndDone explained that despite multiple orders, Gaines continued refusing to
+schedule her deposition or provide any written discovery responses or documents. (Doc. 74.)
+AndDone explained that it had repeatedly requested that it receive Gaines’ responsive documents
+and interrogatory responses seven days before her deposition so that it could prepare for the
+deposition. In ruling on Gaines’ motion for protective order, the Court explained that it found
+Gaines’ request to conduct her deposition remotely (rather than in person in Kansas City) to be
+reasonable. Accordingly, the Court ordered that Gaines provide full and complete discovery
+responses by February 27, 2026, and that Gaines appear for a remote deposition between March 6
+and 13, 2026. (Doc. 75.) Gaines did not produce any documents or appear for her deposition as
+ordered by the Court.
+       In the Second Amended Complaint, AndDone alleges one breach of contract claim against
+Gaines arising from her breach of the Sub-Merchant Agreement.            (Doc. 55 at ¶¶ 49-54.)
+Alternatively, AndDone alleges unjust enrichment and negligence claims against Gaines (Counts
+2 and 3, respectively) and an alternative breach of contract claim against Reset Financial Group.
+(Id. at ¶¶ 55-74.) AndDone seeks recovery of $88,506 from the chargebacks plus pre-judgment
+interest provided for in the Sub-Merchant Agreement, post-judgment interest at the statutorily
+prescribed rates, and AndDone’s reasonable attorney fees and costs. (Doc. 55 at 10.)
+
+
+
+
+                                                6
+
+        Case 4:25-cv-00346-RK        Document 84        Filed 08/25/26     Page 6 of 15
+                                            Discussion
+   I.       Default Judgment
+        AndDone moves for default judgment against (1) Gaines pursuant to Rule 37(b)(2)(A)(vi)
+for her repeated refusal to provide basic discovery despite three orders to do so, (Docs. 76, 81 at
+6-8), and (2) Reset Financial Group pursuant to Rule 55(b)(2) for its failure to plead or otherwise
+defend, (Doc. 81). The Court begins with AndDone’s motion for default judgment against Gaines.
+        Where a party “fails to obey an order to provide or permit discovery” the Court may issue
+certain sanctions, including “rendering a default judgment against the disobedient party.” Rule
+37(b)(2). “[H]owever, dismissal may be considered as a sanction only if there is: (1) an order
+compelling discovery; (2) a willful violation of that order; and (3) prejudice to the other party.”
+Keefer v. Provident Life & Acc. Ins. Co., 238 F.3d 937, 940 (8th Cir. 2000). A violation is “willful”
+if the offending party “acted intentionally as opposed to accidentally or involuntarily.” Hunt v.
+City of Minneapolis, 203 F.3d 524, 527 (8th Cir. 2000). “A finding of ‘prejudice’ under Rule 37(b)
+is proper if the failure to make discovery impairs an opponent’s ability to determine the factual
+merits of a party’s claim.” In re O’Brien, 351 F.3d 832, 839 (8th Cir. 2003). “Courts have found
+willfulness and bad faith in cases in which a party has repeatedly engaged in discovery abuses.”
+United States v. Yennie, 585 F. Supp. 3d 1194, 1199 (D. Minn. 2022) (collecting Eighth Circuit
+decisions affirming default judgment sanctions).
+        Between the Initial Court and this Court, three orders were entered which in no uncertain
+terms directed Gaines to provide full and complete discovery responses and to schedule and/or
+appear for her deposition. (See Doc. 38 (October 28, 2025), Doc. 58 (November 21, 2025),
+Doc. 75 (February 26, 2026).)
+        Gaines disobeyed all three orders—she has never provided full and complete discovery
+responses or appeared for her deposition. Gaines filed an opposition to AndDone’s motion for
+default judgment against her on June 10, 2026 (almost three months after her response was due).
+In her response, she argues that she disobeyed the three orders that she participate in discovery
+because of “confusion” and “unresolved bankruptcy issues.” (Doc. 82.) Gaines has repeatedly
+raised her attempts to reopen her bankruptcy proceeding in the United States Bankruptcy Court for
+the Western District of Kentucky 7 (“Bankruptcy Court”) as a reason why she should not have to
+
+
+        7
+         Gaines filed a Chapter 7 bankruptcy case on August 13, 2024. (Doc. 53-3.) The case was
+determined to be a “no asset” case. On November 13, 2024, Gaines received her discharge and the case
+                                                 7
+
+        Case 4:25-cv-00346-RK          Document 84        Filed 08/25/26      Page 7 of 15
+participate in discovery. However, the Initial Court twice explained to Gaines that discovery would
+proceed “unless and until [Gaines] proves that the Western District of Kentucky has reopened said
+bankruptcy case.” (Docs. 46, 47.) The Initial Court denied Gaines’ request to stay proceedings
+based upon her motion to reopen the bankruptcy case. (Doc. 47.) And, since those orders, on
+November 18, 2025, the Bankruptcy Court denied Gaines’ motion to reopen the bankruptcy
+proceeding. 8 (Doc. 53-3.) Yet, Gaines still refused to participate in discovery or appear for her
+deposition.
+        The Court finds that Gaines’ failure to provide complete discovery responses and appear
+for her deposition was clearly willful. Gaines’ refusal to participate in discovery has continued for
+over nine months and in the face of three separate court orders. Gaines has been repeatedly
+admonished, and she has acknowledged that she understood the dire circumstances she faced if
+she continued to disobey court orders. Both the Initial Court and this Court warned Gaines that
+she faced imminent risk of a default judgment against her pursuant to Rule 37 if her refusal to
+participate in discovery continued. (Docs. 58, 69.) Yet, Gaines continued to categorically refuse
+to abide by the Court’s order. Cf. Everyday Learning Corp. v. Larsen, 242 F.3d 815, 818 (8th Cir.
+2001) (concluding that default judgment sanction was appropriate where defendant’s “discovery
+abuses continued unabated” after a detailed discovery order and the “abuses went to the core of
+the trial preparation process,” including refusing to appear to a deposition and delays in production
+of documents); Forsythe v. Hales, 255 F.3d 487, 490 (8th Cir. 2001) (concluding that defendants’
+conduct which included “complete failure to engage in discovery and failure to appear at
+depositions and hearings set by the court” provided “ample basis for a grant of default judgment”).
+        Finally, AndDone has suffered prejudice. Gaines began resisting AndDone’s discovery
+efforts in October 2025, and by November 2025, she began outright refusing to participate. Gaines
+
+
+
+was closed. Almost a year later, on November 12, 2025, Gaines filed a motion to reopen the bankruptcy
+case so she could file an amendment adding AndDone as a creditor.
+        8
+          Gaines incorrectly and improperly represented to the Initial Court that the Bankruptcy Court
+expressly held “that AndDone LLC’s claim ‘is discharged, whether the debt was listed in the schedules or
+not,’ because this was a no-asset Chapter 7.” (Doc. 53 at 1-2 (emphasis in original).) The Bankruptcy
+Court did not so hold—instead, it explained that it was unnecessary to reopen the bankruptcy proceeding
+because “[i]f a debt was owed by the debtor, arose prior to the filing of the bankruptcy petition, and was a
+dischargeable debt and not of the kind that are excepted from discharge under 11 U.S.C. § 523, the schedules
+do not need to be amended to add the debt.” (Doc. 53-3 at 1-2.) The Bankruptcy Court did not mention
+AndDone, nor did it make any rulings on the purported dischargeability of Gaines’ (then alleged) debt.
+
+                                                     8
+
+        Case 4:25-cv-00346-RK             Document 84         Filed 08/25/26       Page 8 of 15
+has now refused to participate in discovery for nine months, leaving AndDone with scant options
+to obtain the relief it seeks. It cannot move forward when Gaines refuses to respond or participate
+in discovery.
+       In the Eighth Circuit, “before dismissing a case under Rule 37(b)(2) the court must
+investigate whether a sanction less extreme than dismissal would suffice, unless the party’s failure
+was deliberate or in bad faith.” Comstock v. UPS Ground Freight, Inc., 775 F.3d 990, 992 (8th
+Cir. 2014) (internal quotation marks omitted); but see Everyday Learning, 242 F.3d at 817-18
+(“When the facts show willfulness and bad faith, . . . the district court need not investigate the
+propriety of a less extreme sanction.” (emphasis added)). Even without this finding that Gaines’
+refusal was intentional; however, it has become apparent to this Court that further warnings and
+lesser sanctions would not cure her conduct such that this litigation could proceed in a just, speedy,
+and orderly fashion. Gaines has not filed an answer to the operative pleading, and she has provided
+scant written discovery, meaning an order prohibiting her from supporting a defense or striking
+pleadings, or an order that facts be taken as established, would not effectively remedy AndDone’s
+prejudice. See also KC Ravens, LLC v. Micah Energy Corp., No. 4:13-00870-CV-DGK, 2014 WL
+12623661, at *1 (W.D. Mo. Dec. 19, 2014) (“The Court also finds that while a lesser sanction,
+such as ordering a fine, is theoretically available, it is not appropriate because [the defendant] is
+unlikely to pay any fine, and imposing a fine would not remedy the prejudice to [the plaintiff] by
+correcting the delay it has experienced in this case.”). Accordingly, Gaines’ conduct warrants a
+default judgment sanction.
+       When a defendant is in default, the Court accepts as true all of the factual allegations in the
+complaint except those relating to the amount of damages and determines whether the
+unchallenged facts constitute a legitimate cause of action. Murray v. Lene, 595 F.3d 868, 871 (8th
+Cir. 2010) (vacating Rule 55 default judgment because allegations in complaint were insufficient
+to state a claim); see also Hornady v. Outokumpu Stainless USA, LLC, 118 F.4th 1367, 1382-83
+(11th Cir. 2024) (applying to Rule 37(b)(2)(A)(vi) defaults); KCI USA, Inc. v. Healthcare
+Essentials, Inc., 801 Fed. App’x 928, 933-34 (6th Cir. 2020) (same); United States v. Norwood,
+812 Fed. App’x 365, 370 (7th Cir. 2020) (same); S.E.C. v. Razmilovic, 738 F.3d 14, 33 (2d Cir.
+2013) (same). To enter default judgment in favor of AndDone against Gaines in this case, then,
+the Court must be satisfied that, accepting as true all well-pleaded facts in AndDone’s Second
+Amended Complaint, AndDone has asserted a legitimate cause of action for breach of contract.
+
+                                                  9
+
+        Case 4:25-cv-00346-RK          Document 84        Filed 08/25/26       Page 9 of 15
+        Under Missouri law, to prevail on a breach of contract claim, a plaintiff must show: (1) the
+existence of a contract; (2) that AndDone performed its duties under the contract; (3) that
+Defendant breached the contract; and (4) AndDone incurred damages as a result. Topchian v.
+JPMorgan Chase Bank, N.A., 760 F.3d 843, 850 (8th Cir. 2014).
+        The Court finds that AndDone has demonstrated that it entered into a valid contract with
+Gaines (the Sub-Merchant Agreement) under which AndDone provided payment processing
+services to Gaines. However, Gaines breached the Sub-Merchant Agreement when she (1) used
+Nola Foster’s account to pay $78,203 and $10,303 to herself via her AndDone portal (the payments
+were not for goods or services provided by Gaines); (2) disbursed the funds to her Navy Federal
+Credit Union thereby leaving her account with insufficient funds to meet her obligations; and
+(3) after the $78,203 and $10,303 debits were reported as unauthorized transactions from Nola
+Foster’s account, the $88,506 was clawed back from AndDone’s operating account due to Gaines’
+account having insufficient funds (i.e., the chargebacks) and Gaines refused to reimburse AndDone
+for the chargebacks. (Doc. 55 at ¶¶ 24-35.) Therefore, AndDone’s motion for entry of default
+judgment pursuant to Rule 37(b)(2)(A)(vi) is GRANTED.
+        The remainder of AndDone’s claims (unjust enrichment and negligence against Gaines
+(Counts 2 and 3) and breach of contract against Reset Financial Group (Count 4) were plead in the
+alternative. Because the Court enters default judgment against Gaines in favor of AndDone on its
+primary breach of contract claim, the Court DENIES as moot AndDone’s motions for default
+judgment as to its alternative claims against Gaines and Reset Financial Group. 9
+
+
+
+
+        9
+          The Court notes that to the extent that it did reach the issue of Reset Financial Group’s liability
+on the breach of contract claim, the record is insufficient for the Court to find that Reset Financial Group
+was a party to the Sub-Merchant Agreement. AndDone argues only that it alternatively pled that Reset
+Financial Group was the counterparty to the Sub-Merchant Agreement to the extent that the Court
+concluded that Gaines was not personally liable as the counterparty, and that due to Gaines and Reset
+Financial Group’s failure to participate in discovery, AndDone was precluded “from finally resolving this
+issue.” (Doc. 81 at 6.) On the record available to the Court, the Sub-Merchant Agreement reflects that
+Gaines signed the contract on April 11, 2024, in her personal capacity with no reference to Reset Financial
+Group. (See Doc. 55-1 at 21.)
+
+                                                     10
+
+       Case 4:25-cv-00346-RK             Document 84          Filed 08/25/26       Page 10 of 15
+   II.       Damages and Interest
+          What remains is damages—AndDone “must still prove its actual damages to a reasonable
+degree of certainty.” Everyday Learning, 242 F.3d at 818-19. A hearing is not necessary. See
+Stephenson v. El-Batrawi, 524 F.3d 907, 915-16 (8th Cir. 2008) (hearing not necessary if there is
+sufficient evidence to support default judgment).           AndDone has submitted supporting
+documentation for its calculation of damages sufficient for the Court to determine that AndDone
+is entitled to recover $88,506 for the chargebacks. (See Doc. 88-1 at ¶¶ 5, 12.)
+          AndDone also request pre- and post-judgment interest. AndDone is entitled to pre-
+judgment interest on the chargebacks pursuant to the Sub-Merchant Agreement. See Travelers
+Prop. Cas. Ins. Co. of Am. v. Nat’l Union Ins. Co. of Pittsburgh, 735 F.3d 993, 1004 (8th Cir. 2013)
+(state law governs the question of prejudgment interest in diversity actions); Karr v. Kansas City
+Life Ins. Co., 702 S.W.3d 1, 45 (Mo. Ct. App. 2024) (internal citation omitted) (“Judgments do not
+bear interest either as a matter of legal right or under the common law . . . [a]ny allowance of
+interest, therefore, must be based upon either a statute or a contract, either express or implied.”).
+Under section 16 of the Sub-Merchant Agreement, the unreimbursed chargebacks are subject to
+interest at 1% per month ($15,450.96 for interest accrued between December 16, 2024, (the date
+AndDone demanded reimbursement) and May 31, 2026, plus $29.09 every day beyond May 31
+until judgment is entered). (Doc. 55-1 at ¶ 16; Doc. 81-1 at ¶ 12.)
+          In addition, AndDone is also entitled to post-judgment interest. Federal law governs the
+availability of post-judgment interest. See Vanicek v. Kratt, 772 F. Supp. 3d 1055, 1063 n.1 (D.
+Neb. 2025); Travelers Prop. Cas. Ins. Co. of Am., 735 F.3d at 1007. 28 U.S.C. § 1961(a) provides
+that interest “shall be allowed on any money judgment in a civil case recovered in a district court.”
+Post-judgment interest awarded under § 1961(a) is calculated “at a rate equal to the weekly average
+1-year constant maturity Treasury yield, as published by the Board of Governors of the Federal
+Reserve System, for the calendar week preceding the date of judgment.” AndDone is entitled to
+post-judgment interest at the statutory rate.
+   III.      Attorney Fees
+          In its motion for default judgment against Gaines, AndDone also seeks $53,324.90 in
+attorney fees and costs incurred since the inception of its lawsuit, asserting that the Sub-Merchant
+Agreement provides for recovery of its attorney fees and costs for the entirety of the litigation.
+(Doc. 81 at 8.)
+
+                                                 11
+
+         Case 4:25-cv-00346-RK         Document 84       Filed 08/25/26      Page 11 of 15
+       In a diversity action, state law dictates the availability of attorney fees, absent any
+conflicting federal statute or rule. Weitz Co. v. MH Washington, 631 F.3d 510, 528-29 (8th Cir.
+2011). Missouri follows the American Rule, “which provides that each party to litigation must
+pay its own litigation expenses unless a statute specifically authorizes recovery of [attorney] fees
+or a contract provides for them.” Monarch Fire Prot. Dist. of St. Louis Cnty., Mo. v. Freedom
+Consulting & Auditing Servs., Inc., 644 F.3d 633, 637 (8th Cir. 2011).
+       AndDone does not address Missouri law (or any law) to support its request of attorney fees.
+The Court is unaware of any Missouri statute specifically authorizing the attorney fees requested
+by AndDone. Therefore, in order to recover attorney fees, the contract must provide for them.
+       AndDone cites to a portion of the indemnification provision of the Sub-Merchant
+Agreement which provides:
+       [Gaines] shall indemnify, defend, and hold harmless AndDone . . . from and
+       against all proceedings, claims, losses, damages, demands, liabilities and
+       expenses whatsoever, including all reasonable legal and accounting fees and
+       expenses and all reasonable collection costs, incurred by AndDone . . . resulting
+       from or arising out of the Services in this Agreement, [Gaines’] processing
+       activities, the business of [Gaines] or its customers, any sales transaction acquired
+       by AndDone, any noncompliance with the Operating Regulations (or any rules or
+       regulations promulgated by or in conjunction with the Associations) by [Gaines] or
+       its agent . . . , any Data Incident, any infiltration, hack, breach, or violation of the
+       processing system of [Gaines], . . . or any other third party processor or system, or
+       by reason of any breach or nonperformance of any provision of this Agreement
+       on the part of [Gaines].
+(Doc. 55-1 at ¶ 17(ii) (emphasis added).)
+       Because “an indemnity clause ordinarily envisions third-party claims,” the clause must
+contain “express language referencing litigation between contracting parties” in order for the
+prevailing party to recover attorney fees incurred in an action where it has asserted its rights under
+the contract. Crutcher v. MultiPlan, Inc., 22 F.4th 756, 764 (8th Cir. 2022); see also Monarch, 644
+F.3d at 637 (“Absent language expressly requiring the payment of [attorney] fees incurred in
+litigation between the parties, the non-drafting party may be unaware that by agreeing to cover the
+drafting party’s [attorney] fees arising from a claim for indemnity, it is actually assenting to cover
+[attorney] fees the other party incurs in suing for breach of the agreement.”).
+       The indemnity clause here does not contain express language referring to the recovery of
+attorney fees incurred in litigation between AndDone and Gaines. It is very similar to the
+indemnity considered in Monarch, which the district court and the Eighth Circuit found insufficient
+
+                                                 12
+
+       Case 4:25-cv-00346-RK           Document 84        Filed 08/25/26      Page 12 of 15
+to entitle the plaintiff to attorney fees it incurred in a lawsuit asserting its rights under the contract.
+644 F.3d at 637-37 (“[Defendant] will indemnify and hold harmless [plaintiff] . . . from and against
+any claim, cause of action, liability, damage, cost or expense, including [attorney] fees and court
+or proceeding costs, arising out of or in connection with . . . any [] breach of the terms of [the
+contract] by [the defendant].”)
+        The Court is sensitive to AndDone’s point that Gaines has been obstructive throughout
+litigation. However, Gaines’ obstructiveness does not justify awarding AndDone’s attorney fees
+for its entire involvement in this case. See KC Ravens, LLC, 2014 WL 12623661, at *2 (“Entering
+default will remedy the prejudice caused by [the defendant’s] obstructionism by moving the
+litigation to the next phase—determining damages—without forcing [the plaintiff] to litigate
+liability.”). Because the Sub-Merchant Agreement does not provide for attorney fees incurred in
+this action, AndDone would not otherwise be entitled to attorney fees for the entirety of this action
+absent Gaines’ obstructiveness. In other words, AndDone would have spent money litigating
+liability regardless.
+        However, the Court does find it appropriate to award AndDone attorney fees that it incurred
+pursuing the Initial Court’s November 21, 2025 discovery order pursuant to Rule 37(a)(5). (Doc.
+60.)
+        Rule 37(a) provides for the various reasons a party may move for an order compelling
+disclosure or discovery and the manner in which it should proceed. When a motion to compel is
+granted, “the court must, after giving an opportunity to be heard, require the party or deponent
+whose conduct necessitated the motion, the party or attorney advising that conduct, or both to pay
+the movant’s reasonable expenses incurred in making the motion, including [attorney] fees” unless
+one of three exceptions apply—i.e., “(i) the movant filed the motion before attempting in good
+faith to obtain the disclosure or discovery without court action; (ii) the opposing party’s
+nondisclosure, response, or objection was substantially justified; or (iii) other circumstances make
+an award of expenses unjust.” Fed. R. Civ. P. 37(a)(5).
+        The Initial Court granted AndDone’s request for an order (1) compelling Gaines’ discovery
+responses (to the sole interrogatory and requests for production one through five) and (2) directing
+Gaines to appear for her deposition. (See Docs. 41, 45, 58.) AndDone requests $6,200 in attorney
+fees for time spent attempting to confer with Gaines, reviewing and responding to Gaines’
+numerous and dilatory refusals, and preparing its motion. (Doc. 60-3 at 2.) AndDone’s request of
+
+                                                    13
+
+       Case 4:25-cv-00346-RK            Document 84          Filed 08/25/26       Page 13 of 15
+$6,200 in attorney fees is reasonable, authorized by Rule 37 and justified by Gaines’ unwarranted
+failure to participate in and provide full and complete discovery responses and schedule her
+deposition. Accordingly, AndDone’s motion for attorney fees, (Doc. 60), is GRANTED and
+AndDone is awarded $6,200 in attorney fees pursuant to Rule 37. 10
+
+
+
+
+                             [remainder of page left intentionally blank]
+
+
+
+
+        10
+            The Court notes that Rule 37(b)(2)(C) also makes available attorney fees caused by a party’s
+failure to obey an order to provide or permit discovery “unless the failure was substantially justified or
+other circumstances make an award of expenses unjust.” However, AndDone’s request for the full amount
+of its attorney fees incurred since the inception of this case ($53,324.90) was not made pursuant to Rule
+37(b)(2)(C); instead, AndDone relied solely on its purported contractual right to attorney fees in the
+indemnity provision.
+        To the extent that AndDone’s request for attorney fees in its motion for default judgment could be
+construed as being brought pursuant to Rule 37(b)(2)(C), that request is DENIED without prejudice. Any
+further motion for attorney fees associated with Gaines’ failure to comply with discovery orders should
+account for the Court’s conclusion that the Sub-Merchant Agreement did not provide for recovery of
+attorney fees. Thus, any attorney fees requested pursuant to Rule 37(b)(2)(C) should heed the Court’s
+conclusion and Rule 37(b)(2)(C)’s carve out for “other circumstances [which] make an award of expenses
+unjust.” See KC Ravens, LLC, 2014 WL 12623661, at *2 (By entering default, the district court remedied
+the prejudice caused by the defendant’s “obstructionism by moving the litigation to the next phase” which
+ultimately saved the plaintiff “money it would have spent on attorney[] fees litigating liability.”).
+
+                                                   14
+
+       Case 4:25-cv-00346-RK            Document 84         Filed 08/25/26       Page 14 of 15
+                                         Conclusion
+      After careful consideration and for the reasons explained above, the Court ORDERS that:
+      (1) AndDone’s motion for default judgment as to its breach of contract claim against
+      Gaines, (Doc. 76; Doc. 81 at 6-8), is GRANTED and the Court enters default
+      judgment against Gaines;
+      (2) AndDone’s motions for default judgment as to its alternative claims against
+      Gaines and Reset Financial Group, (Doc. 76 at 10; Doc. 81), are DENIED as moot;
+      (3) AndDone’s request for the full amount of its attorney fees pursuant to the Sub-
+      Merchant Agreement, (Doc. 81 at 8), is DENIED;
+      (4) AndDone’s motion for attorney fees pursuant to Rule 37 in the amount of
+      $6,200, (Doc. 60), is GRANTED; and
+      (4) AndDone is awarded the following damages against Gaines:
+             (a) $88,506 in compensatory damages;
+             (b) pre-judgment interest in the amount of $17,923.61, as set forth in the
+             Sub-Merchant Agreement;
+             (c) attorney fees in the amount of $6,200; and
+             (d) post-judgment interest on the sum of the foregoing ($112,629.61)
+             pursuant to 28 U.S.C. § 1961.
+      IT IS SO ORDERED.
+
+
+
+                                            s/ Roseann A. Ketchmark
+                                            ROSEANN A. KETCHMARK, JUDGE
+                                            UNITED STATES DISTRICT COURT
+
+DATED: August 25, 2026
+
+
+
+
+                                              15
+
+     Case 4:25-cv-00346-RK          Document 84        Filed 08/25/26     Page 15 of 15
+

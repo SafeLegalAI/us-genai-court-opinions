@@ -1,0 +1,1255 @@
+Owen v. Askew et al                                                                                   Doc. 109
+
+
+
+
+                                 IN THE UNITED STATES DISTRICT COURT
+
+                                       FOR THE DISTRICT OF OREGON
+
+                                               EUGENE DIVISION
+
+
+
+             KURSTEN OWEN, individually                                 Civ. No. 6:25-cv-01272-AA
+             and dba Elegance & Geekery LLC,
+
+                                  Plaintiff,                            OPINION & ORDER
+                            v.
+
+             BREANA ASKEW, individually
+             and dba Breromi; KIANDRIA
+             DEMONE BOYCE; DOES 1-100,
+
+                               Defendants.
+             _______________________________________
+
+             AIKEN, District Judge.
+
+                      This case comes before the Court on Motions to Dismiss filed by Defendants
+
+             Breana Askew, ECF No. 78, and Kiandria Demone Boyce, ECF No.79. Defendant
+
+             Boyce has also filed a motion in the alternative to transfer the case to the Northern
+
+             District of Georgia. Defendant Boyce has also filed a Special Motion to Strike under
+
+             Oregon’s Anti-SLAPP statute. ECF No. 81. The Court concludes that these motions
+
+             are suitable for resolution without oral argument. For the reasons set forth below,
+
+             the motions are DENIED.
+
+                                                BACKGROUND
+
+                      The following is drawn from Plaintiff’s First Amended Complaint (“FAC”), ECF
+
+             No. 97.
+
+
+
+
+             Page 1 –OPINION & ORDER
+
+
+                                                                                             Dockets.Justia.com
+      Plaintiff Kursten Owen is an Oregon resident and is the owner of Elegance &
+
+Geekery, LLC, an Oregon business. FAC ¶ 3. Elegance & Geekery sells accessories
+
+and had gross receipts of $190,310 in 2024. Id. ¶ 9. Relevant to the present case,
+
+Plaintiff makes and sells hair accessories through Elegance & Geekery and has done
+
+so for eight years. Id. ¶ 26.
+
+      Defendant Breana Askew, dba Breromi, FAC ¶ 4, is a resident of Georgia. Like
+
+Plaintiff, Ms. Askew makes and sells hair accessories. Ms. Askew also has a large
+
+social media following.
+
+      Defendant Kiandria Demone Boyce is a civil rights activist who resides in
+
+Georgia. FAC ¶ 6. Ms. Boyce also has a large social media following, which Plaintiff
+
+alleges Ms. Boyce “weaponizes” in order to engage in “cyberbullying.” Id. ¶ 46. Ms.
+
+Boyce is alleged to have “previously engaged in online campaigns wherein she
+
+leverages her online following in order to orchestrate the filing of mass public
+
+complaints to third party sites such as GiveSendGo/Square in order to compel the
+
+companies to act in a certain way.” Id. ¶ 57. Unlike Ms. Askew or Plaintiff, Ms.
+
+Boyce is not alleged to be involved in the hair accessory business.
+
+      On July 14, 2025, Ms. Askew saw a promotional video for Plaintiff’s hair clips
+
+and came to believe that Plaintiff’s hair clip designs were copied from those produced
+
+by Ms. Askew. FAC ¶¶ 22-25. Plaintiff alleges that the design and construction of
+
+her hair clips are materially different from those made and sold by Ms. Askew. Id.
+
+¶¶ 29-33. Plaintiff asserts that she developed this design independently and from
+
+scratch. Id. ¶ 30.
+
+
+
+
+Page 2 –OPINION & ORDER
+      Beginning on the evening of July 14, 2025, Ms. Askew began posting comments
+
+on Plaintiff’s business’s social media pages accusing Plaintiff of infringing on Ms.
+
+Askew’s intellectual property.    FAC ¶ 34.     That same evening, Ms. Askew sent
+
+Plaintiff a “Cease & Desist” email accusing Plaintiff of infringing on Ms. Askew’s
+
+intellectual property rights and threatening legal action. Id. ¶¶ 34-37. In addition
+
+to maintaining that her designs were independently developed and materially
+
+different from those sold by Ms. Askew, Plaintiff alleges that Ms. Askew lacks any
+
+enforceable intellectual property right over her products. Id. ¶ 13.
+
+      Less than an hour after sending the Cease & Desist email, Ms. Askew posted
+
+on social media accusing Plaintiff of stealing her designs and calling on her followers
+
+to report Plaintiff’s business for selling “rip offs.” FAC ¶¶ 40-43.
+
+      On the morning of July 15, 2025, Ms. Boyce contacted Ms. Askew via social
+
+media and requested Plaintiff’s business account information, which Ms. Askew gave
+
+her. FAC ¶ 44. On the same day, Ms. Boyce commented that Plaintiff “has yet to
+
+meet a bully honestly. I’ve been busy today.” Id. ¶ 47.
+
+      Also on July 15, 2025, Plaintiff publicly responded to Ms. Askew’s accusations
+
+and denied that she had infringed on Ms. Askew’s intellectual property rights. FAC
+
+¶ 48. Shortly afterwards, Ms. Boyce posted a response on social media accusing
+
+Plaintiff of stealing Ms. Askew’s designs, which garnered significant attention. Id.
+
+¶¶ 49-50. Ms. Boyce made additional social media posts accusing Plaintiff of theft
+
+and instructing her followers to report Plaintiff’s business and to post negative
+
+reviews for the business on Facebook. Id. ¶ 52.
+
+
+
+
+Page 3 –OPINION & ORDER
+      Ms. Boyce and Ms. Askew separately posted to social media that they were
+
+working together in their campaign against Plaintiff and Plaintiff’s business. FAC
+
+¶¶ 54 (Ms. Boyce posting “We’re not just tussling in the comments. We have a plan.”);
+
+55 (Ms. Askew posting that she and Ms. Boyce “are strategizing” and again accusing
+
+Plaintiff of theft); 56 (“Defendant Boyce publicly proclaimed these actions were the
+
+result of ‘a plan,’ insinuating this was an organized and strategic conspiracy to
+
+defame Plaintiff and interfere with her lawful business.”).
+
+      Both Ms. Askew and Ms. Boyce posted links and detailed instructions for their
+
+social media followers to contact Shopify, an online commerce platform utilized by
+
+Plaintiff’s business, and to report that Plaintiff’s business was illegally selling
+
+counterfeit products. FAC ¶¶ 54-55.
+
+      Also on July 15, 2025, Ms. Boyce posted a link to Plaintiff’s personal social
+
+media account, “stating ‘THIS is the person behind it’ and ‘don’t hide behind your
+
+business page . . . Come outside’ and including an image with the caption ‘Come
+
+outside, we not gonna jump you.’” FAC ¶ 59. Ms. Boyce made additional posts
+
+accusing Plaintiff of stealing Ms. Askew’s designs. Id. ¶¶ 60-61, 82.
+
+      Ms. Askew also made additional posts accusing Plaintiff of being a thief and
+
+stealing her designs. FAC ¶¶ 65-66, 72-73, 77.
+
+      On July 15, 2025, Plaintiff posted a video asking Defendants to “stop ‘sending
+
+their hate mob after (her).’” FAC ¶ 68.
+
+      Also on July 15, 2025, Ms. Boyce posted photos of Plaintiff and her LinkedIn
+
+page showing that Plaintiff is located in Oregon. FAC ¶ 78.
+
+
+
+
+Page 4 –OPINION & ORDER
+      On July 16, 2025, Ms. Boyce made additional social media posts on Facebook
+
+accusing Plaintiff of theft, FAC ¶ 105, and encouraging her followers to report
+
+Plaintiff’s webpage and to leave negative reviews of Plaintiff’s business. Id. ¶ 86.
+
+      Also on July 16, 2025, Plaintiff responded to Ms. Askew’s Cease & Desist,
+
+denying that she had stolen Ms. Askew’s intellectual property, stating that Ms.
+
+Askew possessed no enforceable intellectual property rights, and demanding that Ms.
+
+Askew delete her social media posts accusing Plaintiff of theft and patent
+
+infringement. FAC ¶ 87. Plaintiff asked Ms. Askew to “remove her defamatory posts
+
+and ‘leave a comment responding to (any) third party poster(s) stating that this
+
+situation has been privately resolved and encouraging them to discontinue their
+
+efforts.’” Id. ¶ 92. Plaintiff later amended this request to ask that Ms. Askew remove
+
+her own social media videos and refrain from creating similar content in the future
+
+or engaging others to do so on her behalf. Id. ¶ 93. Ms. Askew responded that no
+
+resolution could be reached and accused Plaintiff of “blackmailing” her, before telling
+
+Plaintiff that she was filing a civil suit and would “see [her] in court.” Id. ¶ 94.
+
+      These communications were evidently also shared with Ms. Boyce, who
+
+responded publicly to them on July 17, 2025, claiming that she had had her attorney
+
+review her social media comments and telling Plaintiff to “GO TO HELL,” adding
+
+“This is a perfect example of ‘they don’t know who they’re fucking with.’” FAC ¶ 91.
+
+Ms. Boyce subsequently published videos to social media accusing Plaintiff of
+
+attempting to blackmail Ms. Askew. Id. ¶¶ 95-96.
+
+
+
+
+Page 5 –OPINION & ORDER
+      In social media posts on July 16 and 17, 2025, Ms. Askew again accused
+
+Plaintiff of theft and solicited GoFundMe donations from her social media followers
+
+to pay for Ms. Askew’s legal fees. FAC ¶¶ 100-01. On July 17, 2025, Ms. Boyce again
+
+posted to social media accusing Plaintiff of theft and blackmail and encouraging her
+
+followers to donate to Ms. Askew’s GoFundMe. Id. ¶ 102. Plaintiff alleges that this
+
+campaign succeeded in raising $13,179. Id. ¶ 104.
+
+      On July 17, 2025, Ms. Boyce posted a video directed at Plaintiff in which she
+
+said “If you value that business and that website, I would think twice before you
+
+continue to play the game you’re playing . . . the real bully has entered the chat. I
+
+promise you, you haven’t seen anything yet . . . I’m the one who made the viral post
+
+about it.” FAC ¶ 119. Ms. Boyce continued “Bre [Ms. Askew] didn’t send a hate mob
+
+after you. I did . . . this was orchestrated because at this point, you fucking know that
+
+this was not an original idea. You know that it was stolen from a black creator, and
+
+you are still doing backflips to make excuses for that. So I’m going to say this and I
+
+promise you, I’m not going to say this again. Keep antagonizing this black woman.
+
+Keep going back and forth with her. Keep gaslighting her and painting her out to be
+
+the aggressor. When you are the one who stole her design. Keep doing it. Just go
+
+ahead and keep engaging it. And I promise you, going to court with Bre [Ms. Askew]
+
+is going to be the least of your worries. Google me, Google Kiandria Demone. And
+
+then keep on antagonizing this black woman. And you’re going to find out exactly
+
+who the fuck I am.” Id. ¶ 120. Ms. Boyce followed this video with a comment calling
+
+
+
+
+Page 6 –OPINION & ORDER
+on Shopify to stop selling Plaintiff’s products, stating that the products are
+
+“counterfeit” and an “intellectual property violation.” Id. ¶ 121.
+
+       In a post on July 17, 2025, Ms. Boyce posted instructions for her followers to
+
+report Plaintiff’s website for “selling stolen designs.” Id. ¶ 124.
+
+       Plaintiff alleges that, collectively, “content created by Defendant Askew
+
+repeating the defamatory statements have garnered over 1.8 million views, 118,000
+
+likes, 2,100 comments, 12,700 reposts, and 980 sends.” FAC ¶ 134. Content “created
+
+by Defendant Boyce repeating the defamatory statements have garnered over 2.3
+
+million views, 198,000 likes, 3,600 comments, 6,900 reposts, and 4000 sends.” Id. ¶
+
+135.   Plaintiff alleges that “[a]ltogether, the defamatory statements Defendants
+
+conspired to spread were therefore heard by an audience of well over 14 million
+
+individuals.” Id. ¶ 137. Defendants are alleged to have “actively tagged and directed
+
+people towards Plaintiff, and even went so far as displaying Plaintiff’s full name,
+
+image, and State/City location in Defendant Boyce’s case.” Id. ¶ 142.
+
+       As a result of this campaign, Plaintiff alleges that she has suffered
+
+considerable personal harassment. FAC ¶¶ 143-44, 154. The reporting of Plaintiff’s
+
+business to its online platforms is alleged to have resulted in lost profits, lost sales,
+
+lost future sales, and loss of customer goodwill. Id. ¶ 146. Plaintiff has had to
+
+decrease activity on her online business platform and has lost established business
+
+relationships with other online creators. Id. ¶¶ 158, 160. Plaintiff alleges that this
+
+has damaged her personal and business reputation, as well as causing her emotional
+
+harm. Id. ¶¶ 155-157.
+
+
+
+
+Page 7 –OPINION & ORDER
+                                    DISCUSSION
+
+        Plaintiff brings claims for (1) defamation against both Defendants; (2) trade
+
+defamation (injurious falsehood/business disparagement) against both Defendants;
+
+(3) tortious interference with business relations and prospective economic advantage
+
+against both Defendants; (4) civil conspiracy to defame and interfere with business
+
+against both Defendants; (5) intentional infliction of emotional distress against both
+
+Defendants; and (6) false advertising (Lanham Act 15 U.S.C. § 1125(a)) and unfair
+
+competition against Ms. Askew.
+
+   I.      Conferral
+
+        As a preliminary matter, the Court must once again address the issue of
+
+conferral. As the Court has previously advised the parties, litigants must make a
+
+good faith effort to confer prior to filing any motion other than a motion for a
+
+temporary restraining order. In that conferral, the parties must discuss “each claim,
+
+defense, or issue that is the subject of the proposed motion.” Local Rule 7-1(a).
+
+        Neither Ms. Boyce nor Ms. Askew conferred with Plaintiff prior to filing their
+
+motions.    “The Court may deny any motion that fails to meet this certification
+
+requirement.” LR 7-1(a)(3). The Court has repeatedly emphasized that conferral is
+
+a requirement under Local Rule 7-1(a) and that requirement has not been waived.
+
+Defendants have been expressly warned that failure to confer will result in the
+
+summary denial of their motions. See, e.g., ECF Nos. 44 (Ms. Boyce warned that
+
+failure to confer will result in the summary denial of motions); 51 (Ms. Askew warned
+
+
+
+
+Page 8 –OPINION & ORDER
+of the same). The failure to confer supplies a complete and independent basis for the
+
+denial of Defendants’ Motions. LR 7-1(a)(3).
+
+   II.      Hallucinated Citations
+
+         In the course of briefing her motion to dismiss and in response to Plaintiff’s
+
+filings, Ms. Askew acknowledged that she relied on a false citation, “Young v.
+
+Maciorca, 69 F.4th 1099, 1106 (9th Cir. 2023).” ECF No. 92. Ms. Askew subsequently
+
+withdrew her references to “Young v. Maciorca,” which is not a Ninth Circuit decision.
+
+The Court notes, however, that “Young v. Maciorca” is not the only false citation in
+
+Ms. Askew’s briefing.
+
+         Ms. Askew also cited to “IGI Cybersecurity Services v. [Defendant], Case No.
+
+3:23-cv-01277 (D. Or. July 11, 2024),” in which Ms. Askew claims that “the court
+
+found     no   personal   jurisdiction   even   though   the   defendant   engaged       in
+
+videoconferences and communications with Oregon parties. The court explained that
+
+such incidental or attenuated contacts, absent purposeful targeting, do not satisfy
+
+due process.” Askew Mot. at 6. As might be guessed from its incomplete caption, this
+
+is not the case cited. The docket number, 3:23-cv-1277, is for Cohen v. Infinite Group,
+
+Inc. et al. and, while that case did discuss personal jurisdiction and final judgment
+
+was entered on July 11, 2024, the case was subsequently reversed by the Ninth
+
+Circuit, which found errors in the district court’s analysis of personal jurisdiction.
+
+         The Court understands that the parties in this case are self-represented and
+
+that there is a significant temptation to rely on artificial intelligence in the drafting
+
+of legal papers. The Court therefore advises the parties that it will not accept false
+
+
+
+
+Page 9 –OPINION & ORDER
+or “hallucinated” citations and will view their inclusion in legal filings as an attempt
+
+to deceive or mislead the Court. All parties are warned that the inclusion of false or
+
+hallucinated citations in future briefs may result in the imposition of sanctions on the
+
+filing party.
+
+   III.   Personal Jurisdiction Motions
+
+       Defendants renew their previous arguments that this Court lacks personal
+
+jurisdiction over them in connection with Plaintiff’s claims. After the motions to
+
+dismiss were filed, Plaintiff filed a First Amended Complaint and voluminous
+
+supporting exhibits. Defendants have opted not to update their motions, but, as
+
+Defendants are self-represented, the Court will consider the motions with reference
+
+to the operative pleading, which is the FAC.
+
+       A court may dismiss a complaint for lack of personal jurisdiction under Federal
+
+Rule of Civil Procedure 12(b)(2). “Where a defendant moves to dismiss a complaint
+
+for lack of personal jurisdiction, the plaintiff bears the burden of demonstrating that
+
+jurisdiction is appropriate.” Schwarzeneggar v. Fred Martin Motor Co., 374 F.3d 797,
+
+800 (9th Cir. 2004). In addition, when the court considers a motion challenging
+
+personal jurisdiction before discovery has commenced, and in the absence of an
+
+evidentiary hearing, “the plaintiff need only make a prima facie showing of
+
+jurisdictional facts to withstand the motion to dismiss.” Burri Law PA v. Skurla, 35
+
+F.4th 1207, 1213 (9th Cir. 2022) (internal quotation marks and citations omitted).
+
+“In determining whether the plaintiff has met that burden, a court must accept as
+
+true all uncontroverted allegations in the plaintiff’s complaint and must resolve all
+
+
+
+
+Page 10 –OPINION & ORDER
+disputed facts in favor of the plaintiff.” Id. Here, because discovery has not yet taken
+
+place, Plaintiff need only make a prima facie showing and the Court must accept the
+
+uncontroverted allegations of the FAC as true and resolve all disputed facts in
+
+Plaintiff’s favor.
+
+       “An exercise of personal jurisdiction in federal court must comport with both
+
+the applicable state’s long-arm statute and the federal Due Process Clause.” Burri
+
+Law, 35 F.4th at 1212. Oregon’s long-arm statute “authorizes personal jurisdiction
+
+over defendants to the full extent permitted by the United States Constitution.”
+
+Ranza v. Nike, Inc., 793 F.3d 1059, 1068 (9th Cir. 2015). Accordingly, the Court must
+
+examine whether its exercise of jurisdiction over Defendants would comport with the
+
+limits imposed by federal due process.
+
+       There are two types of personal jurisdiction that a court may exercise over a
+
+defendant: general and specific personal jurisdiction. Boschetto v. Hansing, 539 F.3d
+
+1011, 1016 (9th Cir. 2008). General personal jurisdiction is not at issue here.
+
+       “Federal due process permits a court to exercise personal jurisdiction over a
+
+non-resident defendant if that defendant has at least minimum contacts with the
+
+relevant forum such that the exercise of jurisdiction does not offend traditional
+
+notions of fair play and substantial justice.” Glob. Commodities Trading Grp., Inc. v.
+
+Beneficio de Arroz Choloma, S.A., 972 F.3d 1101, 1106, (9th Cir. 2020) (internal
+
+quotation marks and citation omitted). The Ninth Circuit uses a three-prong test to
+
+analyze whether a party’s minimum contacts meet the due process standard for the
+
+
+
+
+Page 11 –OPINION & ORDER
+exercise of specific personal jurisdiction. LNS Enters. LLC v. Cont’l Motors, Inc., 22
+
+F.4th 852, 859 (9th Cir. 2022).
+
+      “First, the non-resident defendant must purposefully direct his activities or
+
+consummate some transaction with the forum or resident thereof; or perform some
+
+act by which he purposefully avails himself of the privilege of conducting activities in
+
+the forum, thereby invoking the benefits and protections of its laws.”             Glob.
+
+Commodities, 972 F.3d at 1107 (internal quotation marks and citations omitted,
+
+alterations normalized). Second, the plaintiff’s “claim must arise out of or relate to
+
+the defendant’s forum-related activities.” Id. Third, the district court’s exercise of
+
+personal jurisdiction over the defendant must be reasonable. Id.
+
+      “All three prongs must be satisfied [for a court] to assert personal jurisdiction.”
+
+LNS Enters., 22 F.4th at 859. However, the Ninth Circuit has held that “in [the
+
+court’s] consideration of the first two prongs, a strong showing on one axis will permit
+
+a lesser showing on the other.” Id. (internal quotation marks and citation omitted,
+
+alterations normalized). “If the plaintiff succeeds in satisfying both of the first two
+
+prongs, the burden then shifts to the defendant to present a compelling case that the
+
+exercise of jurisdiction would not be reasonable.” Glob. Commodities, 972 F.3d at
+
+1107 (internal quotation marks and citation omitted).
+
+      A. Purposeful Direction
+
+      Under the first prong of the specific jurisdiction inquiry, “purposeful
+
+availment” and “purposeful direction” are “distinct concepts.” Glob. Commodities,
+
+972 F.3d at 1107. Purposeful availment generally provides a more useful frame of
+
+
+
+
+Page 12 –OPINION & ORDER
+analysis for claims sounding in contract, while purposeful direction is often the better
+
+approach for analyzing claims in tort, but “[a]t bottom, both purposeful availment
+
+and purposeful direction ask whether defendants have voluntarily derived some
+
+benefit from their interstate activities such that they will not be haled into a
+
+jurisdiction solely as a result of random, fortuitous, or attenuated contacts.” Id.
+
+(internal quotation marks and citation omitted).
+
+      Because the claims in this case sound in tort, the Court will begin with the
+
+purposeful direction analysis.     To determine whether a defendant “purposefully
+
+directed” its activities toward the forum, courts apply the “effects” test derived from
+
+Calder v. Jones, 465 U.S. 783 (1984). “That test focuses on the forum in which the
+
+defendant’s actions were felt, whether or not the actions themselves occurred in the
+
+forum,” and asks “whether the defendant: (1) committed an intentional act, (2)
+
+expressly aimed at the forum state, (3) causing harm that the defendant knows is
+
+likely to be suffered in the forum state.” Herbal Brands, Inc. v. Photoplaza, 72 F.4th
+
+1085, 1091 (9th Cir. 2023) (internal quotation marks and citations omitted). Under
+
+the second prong of the “effects” test, a plaintiff must demonstrate that the defendant
+
+expressly aimed its actions at the forum state and “‘something more’ than mere
+
+foreseeability is required in order to justify the assertion of personal jurisdiction, and
+
+that ‘something more’ means conduct expressly aimed at the forum.” Fatnani v.
+
+JPMorgan Chase Bank, N.A.¸743 F. Supp.3d 1253, 1268-69 (D. Or. Aug. 1, 2024)
+
+(internal   quotation   marks    and    citation   omitted,   alterations   normalized).
+
+“Jurisdiction may be constitutionally maintained in such a scenario even if the
+
+
+
+
+Page 13 –OPINION & ORDER
+defendant never set foot in the forum state, if the defendant’s contacts with the forum
+
+state are out-of-state acts that had an effect in the forum.” Burri Law, 35 F.4th at
+
+1213.
+
+        Here, there is no question that the FAC alleges intentional acts by Defendants
+
+in the form of defamation, tortious interference, intentional infliction of emotional
+
+distress, civil conspiracy, and unfair competition. Defendants challenge the second
+
+and third prongs of the Calder analysis, which require that the act be expressly aimed
+
+at the forum state and that the act cause harm the defendant knows is likely to be
+
+suffered in the forum state.
+
+        Turning to the second Calder prong, the analysis focuses “on the relationship
+
+between the defendants, the forum, and the litigation, examining the various contacts
+
+the defendants had created with [the forum state] (and not just with the plaintiff),
+
+including . . . circulating false statements in [the forum state.]” Burri Law, 35 F.4th
+
+at 1214 (internal quotation marks and citation omitted, alterations normalized).
+
+        As alleged on the FAC, Defendants repeatedly accused Plaintiff of stealing Ms.
+
+Askew’s intellectual property and selling counterfeit goods. They directed these
+
+accusations at Plaintiff, tagging Plaintiff’s social media accounts, and published them
+
+to their large social media followings, which caused Defendants’ statements to
+
+circulate to millions of people, both in Oregon and elsewhere. Notably, Defendants
+
+also directed their accusations at Plaintiff’s brother, who is also located in Oregon.
+
+FAC Ex. Z. These communications had an “Oregon focus” because they concerned
+
+Plaintiff’s activities in Oregon. See Burri Law, 35 F.4th at 1214 (“Moreover, these
+
+
+
+
+Page 14 –OPINION & ORDER
+false statements had a ‘California focus’ because they concerned ‘the plaintiff’s
+
+activities in California,’” and “[t]he effect those out-of-state actions had in California
+
+justified exercising jurisdiction over the Calder defendants.” (quoting Walden v.
+
+Fiore, 571 U.S. 277, 286-88 (2014), distinguishing Calder)).
+
+      The Ninth Circuit has held that “if the purpose of an act is to cause harm in
+
+the forum state, the act has targeted the forum state.” Burri Law, 35 F.4th at 1215
+
+(citing Brainerd v. Governors of the Univ. of Alberta, 873 F.2d 1257 (9th Cir. 1989)).
+
+      Here, the FAC alleges that Defendants’ accusations were accompanied by links
+
+to Plaintiff and her business’s social media pages or, in some instances, by links to
+
+Plaintiff’s website along with entreaties for Defendants’ social media followers to
+
+report Plaintiff and her business to their online sales platforms. See, e.g., FAC Exs.
+
+I, J. The alleged purpose of these posts was to have Plaintiff removed from her online
+
+vendor platforms and to destroy her business. “[W]here acts are performed for the
+
+very purpose of having their consequences felt in the forum state, the forum will have
+
+personal jurisdiction over the actor.” Brainerd, 873 F.2d at 1259-60; see also Burri
+
+Law, 35 F.4th at 1215 (holding same).
+
+      Here, the Court concludes that Plaintiff has made a sufficient prima facie
+
+showing that Defendants expressly aimed their conduct, both the defamatory
+
+statements and the efforts to interfere with Plaintiff’s ongoing business relationships,
+
+at Oregon.
+
+      The final prong of the Calder analysis asks whether Defendants “knew or
+
+should have known that their actions were likely to cause [the plaintiff] harm in the
+
+
+
+
+Page 15 –OPINION & ORDER
+forum state.” Burri Law, 35 F.4th at 1215. Here, the FAC alleges that Ms. Boyce
+
+and Ms. Askew were coordinating their activities. See FAC ¶¶ 54 (“Defendant Boyce
+
+stated ‘We’re not just tussling in the comments. We have a plan.’ and then instructed
+
+her followers to report Plaintiff’s Shopify account.”); 55 (“On July 15th, Defendant
+
+Askew posted a similar instruction, noting that she and Defendant Boyce ‘are
+
+strategizing,’”). On the same day, July 15, 2025, Ms. Boyce posted Plaintiff’s name
+
+and face, identifying her as the “real owner” of Elegance & Geekery. FAC Ex. Z. The
+
+post also included a screenshot of Plaintiff’s LinkedIn profile showing that she was
+
+the owner of Elegance & Geekery and that she was located in “Albany, Oregon.” FAC
+
+Ex. Z. Plaintiff has sufficiently demonstrated the Defendants knew, or should have
+
+known, that Plaintiff was located in Oregon and, as noted, their actions are alleged
+
+to have been for the very purpose of causing harm to Plaintiff. The Court concludes
+
+that Plaintiff has sufficiently demonstrated that Defendants knew or should have
+
+known that their actions were likely to cause harm in Oregon.
+
+      Defendants also argue that, because their conduct was confined to the internet,
+
+it cannot suffice to establish purposeful direction. This is not, however, a case where
+
+Defendants are alleged to have passively operated a website or engaged in fleeting
+
+online contact with residents of the forum. As discussed above, the FAC alleges a
+
+sustained and targeted campaign for the purpose of causing Plaintiff to suffer harm
+
+in Oregon. Defendants also assert that they cannot be liable for the acts of third
+
+parties, but the FAC alleges Defendants’ own conduct as the basis for its claims. The
+
+Court concludes that the purposeful direction prong has been satisfied.
+
+
+
+
+Page 16 –OPINION & ORDER
+      B. Arising Out of or Related to Defendants’ Forum-Related Activities
+
+      The second requirement for specific personal jurisdiction is that the plaintiff’s
+
+claims “must arise out of or relate to the defendants contacts” with the forum state
+
+such that there is “an affiliation between the forum and the underlying controversy.”
+
+Ford Motor Co. v. Montana Eighth Judicial Dist. Court, 592 U.S. 351, 359-60 (2021).
+
+For an injury to “arise out of” a defendant’s forum contacts, a plaintiff must show “a
+
+direct nexus . . . between a defendant’s contacts with the forum state and the cause
+
+of action.” Yamashita v. LG Chem, Ltd., 62 F.4th 496, 504 (9th Cir. 2023) (internal
+
+quotation marks and citations omitted, alterations normalized). For an injury to
+
+“relate to” the defendant’s forum contacts, there must be a “close connection between
+
+contacts and injury.” Id. at 506. Here, there is a direct and close nexus between
+
+Defendants’ Oregon-related activities, in the form of defamatory statements and
+
+efforts to disrupt Plaintiff’s ongoing business relationships as set forth above, and the
+
+claims advanced by Plaintiff. There can be no reasonable dispute that Plaintiff’s
+
+claims arise from Defendants’ forum-related contacts. The Court concludes that
+
+Plaintiff has sufficiently demonstrated that her claims arise out of Defendants’
+
+forum-related activities.
+
+      C. Reasonableness of the Exercise of Jurisdiction
+
+      Because Plaintiff has satisfied the first two prongs of the “minimum contacts”
+
+analysis, the burden now shifts to Defendants to set forth a compelling case that the
+
+exercise of jurisdiction would not be reasonable. CollegeSource, Inc. v. AcademyOne,
+
+Inc., 653 F.3d 1066, 1076 (9th Cir. 2011). To evaluate reasonableness, courts use a
+
+
+
+
+Page 17 –OPINION & ORDER
+seven-factor balancing test that weighs: (1) the extent of the defendant’s purposeful
+
+interjection into the forum state’s affairs; (2) the burden on the defendant of
+
+defending in the forum; (3) the extent of conflict with the sovereignty of defendant’s
+
+state; (4) the forum state’s interest in adjudicating the dispute; (5) the most efficient
+
+judicial resolution of the controversy; (6) the importance of the forum to the plaintiff’s
+
+interest in convenient and effective relief; and (7) the existence of an alternative
+
+forum. Freestream Aircraft (Bermuda) Ltd. v. Aero Law Group, 905 F.3d 597, 607
+
+(9th Cir. 2018). Defendants, who are self-represented, do not address each of the
+
+factors, but the Court will examine each in turn.
+
+       1. Extent of Purposeful Interjection
+
+       Here, the Court has already concluded that Defendants’ conduct presents a
+
+“purposeful interjection” into Oregon. “Actions directed at a forum resident expected
+
+to cause harm in the forum constitute purposeful interjection.” CollegeSource Inc.,
+
+653 F.3d at 1080. Weighed in the balance, the Court concludes that this factor weighs
+
+in favor of jurisdiction.
+
+       2. Burden on Defendants of Defending in the Forum
+
+       Defendants emphasize that they face a significant burden if they are required
+
+to litigate in Oregon, including the difficulty of locating counsel to represent them.
+
+However, “[w]ith the advances in transportation and telecommunications and the
+
+increasing interstate practice of law, any burden of litigation in a forum other than
+
+one’s residence is substantially less than in days past.” CollegeSource, Inc., 653 F.3d
+
+
+
+
+Page 18 –OPINION & ORDER
+at 1080 (internal quotation marks and citation omitted). The Court concludes that
+
+this factor weighs slightly in Defendants’ favor.
+
+       3. Extent of Conflict with the Sovereignty of Defendants’ State
+
+       Defendants are residents of Georgia and there is no meaningful conflict with
+
+the sovereignty of Georgia. This factor weighs in favor of jurisdiction.
+
+       4. Forum State’s Interest in Adjudicating the Dispute
+
+       “The Ninth Circuit assumes that a forum state maintains a strong interest in
+
+providing an effective means of redress for its residents tortiously injured.” Adidas
+
+America, Inc. v. Cougar Sport, Inc., 169 F. Supp.3d 1079, 1094 (D. Or. Mar. 14, 2016)
+
+(internal quotation marks and citation omitted).      This factor weighs in favor of
+
+jurisdiction.
+
+       5. Most Efficient Judicial Resolution of the Controversy
+
+       “This factor focuses on the location of the evidence and witnesses” and, as with
+
+the factor considering the burden on the defendant, “this factor is no longer weighed
+
+heavily given the modern advances in communication and transportation.” Adidas
+
+America, 169 F. Supp.3d at 1094 (internal quotation marks and citation omitted).
+
+Defendants point out that the evidence in this case is largely likely to be digital and
+
+the Court notes that the witnesses are likely to be located in both Georgia and Oregon.
+
+The Court concludes that this factor is neutral.
+
+
+
+
+Page 19 –OPINION & ORDER
+         6. Importance of the Forum to Plaintiff’s Interest in Convenient and
+
+            Effective Relief
+
+         The sixth factor is the convenience and effectiveness of relief for the plaintiff.
+
+Ziegler v. Indian River Cnty., 64 F.3d 470, 476 (9th Cir. 1995). If Oregon is not a
+
+proper forum, then Plaintiff would be required to litigate this case in Georgia.
+
+Although litigating the case in Georgia would likely be inconvenient for Plaintiff, the
+
+Ninth Circuit does not give much weight to the plaintiff’s inconvenience. Id. This
+
+factor only slightly favors jurisdiction.
+
+         7. Existence of an Alternative Forum
+
+         To be sure, Georgia exists as an alternative forum for Plaintiff’s claims,
+
+however, “[w]hether another reasonable forum exists becomes an issue only when the
+
+forum state is shown to be unreasonable.” CollegeSource, Inc., 653 F.3d at 1080
+
+(internal quotation marks and citation omitted). Defendants have not made that
+
+showing. This factor is either neutral or very slightly favors Defendants.
+
+         The Court concludes that Defendants have not made a “compelling case” that
+
+the exercise of jurisdiction would be unreasonable.
+
+         Defendants’ motions to dismiss for lack of personal jurisdiction are DENIED.
+
+   IV.      Motion to Transfer Venue
+
+         Ms. Boyce moves in the alternative to transfer the case to the Northern District
+
+of Georgia. 28 U.S.C. § 1404 governs motions to transfer venue “[f]or the convenience
+
+of parties and witnesses,” and “in the interest of justice” to “any other district or
+
+
+
+
+Page 20 –OPINION & ORDER
+division where it might have been brought or to any district or division to which all
+
+parties have consented.” 28 U.S.C. § 1404(a).
+
+      District courts have discretion to grant or deny motions to transfer based on
+
+an “individual, case-by-case consideration of convenience and fairness.” Jones v. GNC
+
+Franchising, Inc., 211 F.3d 495, 498 (9th Cir. 2000) (internal quotation marks and
+
+citation omitted). In assessing a motion to transfer venue, courts weigh multiple
+
+factors, including (1) the location where the relevant agreements were negotiated and
+
+executed; (2) the state that is most familiar with the governing law; (3) the plaintiff’s
+
+choice of forum; (4) the respective parties’ contacts with the forum; (5) the contacts
+
+relating to the plaintiff’s cause of action in the chosen forum; (6) the differences in
+
+the costs of litigation in the two forums; (7) the availability of compulsory process to
+
+compel attendance of unwilling non-party witnesses; and (8) the ease of access to
+
+sources of proof. Id. at 499-500. “[T]he relevant public policy of the forum state, if
+
+any, is at least as significant a factor in the § 1404(a) balancing.” Id.
+
+      Here, there are no relevant agreements and so that factor is irrelevant.
+
+Plaintiff’s state law claims are brought under Oregon law, and so Oregon would have
+
+a greater familiarity with the governing law, which weighs against transfer.
+
+      In a motion to transfer, a plaintiff’s choice of forum generally receives “great
+
+weight.” Lou v. Belzberg, 834 F.2d 730, 739 (9th Cir. 1987). Here, Plaintiff, an Oregon
+
+resident, has chosen Oregon. This factor weighs against transfer.
+
+      The parties’ contacts with the forum and contacts relating to the cause of action
+
+have been discussed at length in the preceding sections, but neither Defendant lives
+
+
+
+
+Page 21 –OPINION & ORDER
+in Oregon. Plaintiff’s contacts with Georgia, where Defendants reside and where Ms.
+
+Boyce seeks to transfer the case, are limited. These factors are neutral. No party has
+
+presented any discussion of witnesses, but the ability to subpoena third parties is
+
+generally available in both forums.
+
+           The cost of litigation and ease of access to proof are connected to the
+
+convenience of witnesses, which is “often cited as the most significant factor in ruling
+
+on a motion for transfer.” Westrock CP, LLC v. Ming’s Resource Corp.¸ Case No. 3:21-
+
+cv-00929-MO, 2022 WL 93891, at *3 (D. Or. Jan. 7, 2022). No argument or evidence
+
+has been presented concerning witnesses. This factor is neutral.
+
+           After weighing the factors, the Court DENIES the motion to transfer the case
+
+to the Northern District of Georgia.
+
+      V.      Anti-SLAPP Motion
+
+           Ms. Boyce has also filed a special motion to strike under Oregon’s Anti-SLAPP1
+
+statute. Oregon’s anti-SLAPP statute, ORS 31.150, provides “an expedited procedure
+
+for dismissal of certain nonmeritorious civil cases without prejudice at the pleading
+
+stage.” Neumann v. Liles, 358 Or. 706, 723 (2016). Under the statute, a defendant
+
+may bring a special motion to strike a claim that arises out of, in relevant part, “[a]ny
+
+oral statement made, or written statement or other document presented, in a place
+
+open to the public or a public forum in connection with an issue of public interest,” or
+
+“[a]ny other conduct in furtherance of the exercise of the constitutional right of
+
+assembly, petition or association or the constitutional right of free speech or freedom
+
+
+
+1
+    “Strategic lawsuit against public participation.”
+
+
+Page 22 –OPINION & ORDER
+of the press in connection with a public issue or an issue of public interest.” ORS
+
+31.150(1), (2)(a)(C)-(D).
+
+      A court considers a special anti-SLAPP motion to strike using a two-step
+
+burden-shifting process. Gardner v. Martino, 563 F.3d 981, 986 (9th Cir. 2009). First,
+
+the defendant has the initial burden to show that the challenged statement is within
+
+one of the categories of civil actions described in the anti-SLAPP statute. Id. If the
+
+defendant satisfies its burden, the burden then shifts to the plaintiff “to establish
+
+that there is a probability that the plaintiff will prevail on the claim by presenting
+
+substantial evidence to support a prima facie case.” Id. (quoting ORS 31.150(3)).
+
+      The analysis at the second step differs in federal court.          See Planned
+
+Parenthood Fed’n of Am., Inc. v. Ctr. for Med. Progress, 890 F.3d 828, 833-35 (9th Cir.
+
+2018). In federal court, when an anti-SLAPP motion to strike challenges the factual
+
+sufficiency of a claim, the Rule 56 standard will apply and “discovery must be allowed
+
+. . . before any decision is made by the court.” Id. at 834. However, if the motion
+
+challenges the legal sufficiency of the claim, the motion is treated in the same manner
+
+as a motion under Rule 12(b)(6), except that the attorney fee provisions of the anti-
+
+SLAPP statute will apply. Id. If a defendant challenges only the legal sufficiency of
+
+pleadings, “then the plaintiff can properly respond merely by showing the sufficiency
+
+of pleadings, and there’s no requirement for a plaintiff to submit evidence to oppose
+
+contrary evidence that was never presented by defendants.” Id.
+
+      Here, Ms. Boyce presents challenges to both the legal and factual sufficiency
+
+of the claim. With respect to the factual challenges, Ms. Boyce claims there is no
+
+
+
+
+Page 23 –OPINION & ORDER
+evidence of true threats or harassment; that Plaintiff failed to mitigate the harm;
+
+that third parties were the true cause of the harm; that Plaintiff has mischaracterized
+
+the evidence; that Ms. Boyce’s actions were directed at protecting consumers and
+
+encouraging transparency in online commerce; and that Ms. Boyce’s statements were
+
+not literal threats but “rhetorical hyperbole and activist expression.” Boyce Mot. to
+
+Strike 4-7. As noted, under the federal rules, a factual challenge is premature before
+
+discovery has been undertaken. Planned Parenthood, 890 F.3d at 833-35 (holding
+
+that “when an anti-SLAPP motion to strike challenges the factual sufficiency of a
+
+claim, then the Federal Rule of Civil Procedure 56 standard will apply,” and
+
+“discovery must be allowed, with opportunities to supplement evidence based on the
+
+factual challenges, before any decision is made by the court.”). Here, no discovery has
+
+taken place and it would be improper to allow a challenge to the factual sufficiency of
+
+the claims to proceed at the pleading stage. The Court will therefore DENY the
+
+motion to the extent that it challenges the factual sufficiency of the claims with leave
+
+to refile after the close of discovery.
+
+       Ms. Boyce also appears, at least in part, to challenge the legal sufficiency of
+
+the claims. The Court must therefore address the standards for a motion to dismiss
+
+under Rule 12(b)(6). To survive a motion to dismiss under the federal pleading
+
+standards, a pleading must contain a short and plain statement of the claim and
+
+allege “sufficient factual matter, accepted as true, to ‘state a claim to relief that is
+
+plausible on its face.’” Ashcroft v. Iqbal, 556 U.S. 662, 667 (2009) (quoting Bell Atl.
+
+Corp. v. Twombly, 550 U.S. 544, 570 (2007)). While a pleading does not require
+
+
+
+
+Page 24 –OPINION & ORDER
+“detailed factual allegations,” it needs more than “a formulaic recitation of the
+
+elements of a cause of action.” Iqbal, 556 U.S. at 677-78. “A claim has facial
+
+plausibility when the plaintiff pleads factual content that allows the court to draw
+
+the reasonable inference that the defendant is liable for the misconduct alleged. The
+
+plausibility standard . . . asks for more than a sheer possibility that a defendant has
+
+acted unlawfully.” Id. at 678. Legal conclusions without any supporting factual
+
+allegations do not need to be accepted as true. Id. “A plaintiff opposing an anti-
+
+SLAPP motion in federal court must overcome substantive defenses that would
+
+prevent the plaintiff from properly stating a claim under Rule 12(b)(6). Cagle v.
+
+Sattler, 761 F. Supp.3d 1357, 1364 (D. Or. 2025).
+
+       Ms. Boyce’s specific arguments concerning the sufficiency of the claim are
+
+scattered and do not directly address all of Plaintiff’s claims.           The Court has
+
+endeavored to separate what appear to be Ms. Boyce’s challenges to the legal
+
+sufficiency of Plaintiff’s claims, which can be addressed at the pleading stage, from
+
+her challenges to the factual sufficiency of the claims, which cannot.
+
+       Ms. Boyce argues that Plaintiff’s “selective targeting” of her “undermines
+
+credibility” and “reveals a retaliatory motive.” Questions of credibility are generally
+
+reserved for the finder of fact (i.e., the jury or, in the case of a bench trial, the Court)
+
+and cannot sustain a challenge to the pleadings. Ms. Boyce argues that “[s]elective
+
+litigation aimed at retaliation contravenes constitutional principles,” for which she
+
+cites BE & K Const. Co. v. NLRB, 536 U.S. 516, 530 (2002). The cited authority
+
+concerns the National Labor Relations Board’s imposition of liability on an employer
+
+
+
+
+Page 25 –OPINION & ORDER
+for filing a losing retaliatory lawsuit. Id. at 524. BE & K Construction has no
+
+applicability to the present case. Nor do Ms. Boyce’s arguments concerning Plaintiff’s
+
+motive in filing the case suffice to undermine Plaintiff’s claims. See Professional Real
+
+Estate Investors, Inc. v. Columbia Pictures Indus., Inc., 508 U.S. 49, 69 (1993)
+
+(Stevens, J., concurring in judgment) (“We may presume that every litigant intends
+
+to harm his adversary.”).
+
+      Ms. Boyce also argues that her statements were prefaced with “my guess” and
+
+“I think” and were therefore non-actionable expressions of opinion. However, the
+
+FAC alleges numerous defamatory statements by Ms. Boyce that were not so
+
+qualified. See, e.g., FAC ¶¶ 49, 51, 52, 54.
+
+      Ms. Boyce also argues that she cannot be held liable for the actions of third
+
+parties, citing 47 U.S.C. § 230(c)(1). Leaving aside whether § 230 applies to Ms.
+
+Boyce, the FAC seeks to hold Ms. Boyce liable for her own alleged conduct, notably
+
+defamation and tortious interference, rather than for the acts of third parties.
+
+      For the reasons set forth above, Ms. Boyce’s Special Motion to Strike is
+
+DENIED.
+
+                                   CONCLUSION
+
+      For the reasons set forth above, Defendants’ Motions to Dismiss for Lack of
+
+Personal Jurisdiction, ECF Nos. 78, 79, are DENIED both for failure to confer and on
+
+the merits. Defendant Boyce’s Motion to Transfer is DENIED both for failure to
+
+confer and on the merits. Defendant Boyce’s Special Motion to Strike, ECF No. 81, is
+
+DENIED both for failure to confer and on the merits. Defendants are again warned
+
+
+
+
+Page 26 –OPINION & ORDER
+that failure to confer prior to filing a motion will result in the summary denial of their
+
+motions. Defendants are ordered to respond to the First Amended Complaint, ECF
+
+No. 97, within thirty (30) days of the date of this Order.
+
+      It is so ORDERED and DATED this            28th        day of July 2026.
+
+                                          /s/Ann Aiken
+                                         ANN AIKEN
+                                         United States District Judge
+
+
+
+
+Page 27 –OPINION & ORDER
+

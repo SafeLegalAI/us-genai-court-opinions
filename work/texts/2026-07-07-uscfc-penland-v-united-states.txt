@@ -1,0 +1,1166 @@
+          In the United States Court of Federal Claims
+                                        No. 22-62L
+                                    (Filed: July 7, 2026)
+
+
+                                              )
+ CHARLES J. PENLAND, et al.,                  )
+                                              )
+                      Plaintiffs,             )
+                                              )
+           v.
+                                              )
+ THE UNITED STATES,                           )
+                                              )
+                      Defendant.              )
+                                              )
+
+Mark F. Hearne, II, True North Law, LLC, St. Louis, Missouri, for Plaintiffs.
+
+Arthur D. Burger, Jackson & Campbell, P.C., Washington, D.C., for Mark F. Hearne, II.
+
+Joseph H. Kim, Natural Resources Section, Energy and Natural Resources Division, United
+States Department of Justice, Washington, D.C., for Defendant. With him on the briefs
+was Adam R.F. Gustafson, Acting Assistant Attorney General, Energy and Natural
+Resources Division.
+
+                                OPINION AND ORDER
+
+SOLOMSON, Chief Judge.
+
+      A well-known proverb warns those who live in a glass house not to throw stones.1
+What Plaintiffs did here is worse than that. The proverb assumes a rough parity — two
+flawed parties, each exposed, the hypocrite merely imprudent for hurling what could be
+hurled back. That is not what happened here. Plaintiffs did not throw stones from a glass
+house at another glass house. They stood inside a house made entirely of glass, pointed
+
+
+1 George Herbert, Jacula Prudentum (1640), reprinted in The English Poems of George Herbert:
+
+Together with His Collection of Proverbs Entitled Jacula Prudentum 227 (Longmans, Green &
+Co. 1891) (“Whose house is of glass must not throw stones at another.”), available at
+https://perma.cc/Q89R-N9BM.
+Daniel P. Brown                                  Toms                 Ex. 4
+Ernest C., Jr. and Pamela D. Cloer               Toms                 Ex. 4
+Gary M. Delise and Thomas G. Delise              Allison              Ex. 5
+Les A. Foss and Jennifer E. Foss,                Henry                Ex. 6
+Trustees, or their successors in interest,
+of The Les and Jennifer Foss Living
+Trust dated December 2, 2021 and any
+amendments thereto
+Joen Goodman and William Goodman                 Price                Ex. 7
+David and Marie Levine                          Ripley                Ex. 8
+Vincent Palumbo, Jr.                            Allison               Ex. 5
+Diane M. Scott                                  Ripley                Ex. 8
+Catherine L. Stone, Trustee, under the          Whitted               Ex. 9
+Catherine L. Stone Trust dated (UDT)
+August 9, 2011, for the benefit of (FBO)        McMinn               Ex. 10
+the Stone family
+Cesar R. and Isabel Valdez                      Clayton              Ex. 11
+Janet Walczak                                  Ledbetter             Ex. 12
+
+ All the source deeds contain nearly identical conveyance language:
+
+        [I]n consideration of the benefits to be by us derived from the
+        construction of its railroad through their premises in said
+        State and County particularly described as follows . . . and of
+        one dollar to them in hand paid, . . . [the grantors] give grant
+        bargain sell and convey to the Hendersonville and Brevard
+        Railway Telegraph and Telephone Company and its
+        successors forever a strip of land of sufficient width upon
+        which to locate construct operate and maintain a standard
+        gauge railroad through said premises as has been marked out
+        by the engineer or engineers of said company and indicated
+        upon the map by him or them and the president of said
+        company placed on file in the office of the clerk of said
+        Henderson County as required by law such a strip as marked
+        out and indicated to be the land hereby conveyed provided
+        that this deed shall be void unless said company shall have
+
+
+                                         3
+               constructed a railway through said premises on or before [a
+               certain date]. Provided [other condition(s)].
+
+Def. MSJ at Ex. 5 (Allison deed with partial transcription); see also Pls. Cross-MSJ at 23
+(quoting the Wilson deed and asserting that “[a]ll of the other conveyance documents are
+similar”); ECF No. 68, Oral Argument Transcript (“Tr.”) 15:20-16:3 (Plaintiffs’ counsel
+agreeing that the source deeds are “in material respects fairly identical”). 2
+
+        In 2021, Blue Ridge Southern Railroad (“Blue Ridge”), the original railroad’s
+successor-in-interest, filed a Verified Notice of Exemption pursuant to 49 C.F.R. § 1152.50
+with the Surface Transportation Board (“STB”), seeking authorization to abandon the
+corridor “to facilitate interim use of the Line as a public recreation trail, consistent with 16
+U.S.C. § 1247(d)[,]” the National Trails System Act or “Trails Act.” Am. Compl., Ex. 1 at
+5. On April 27, 2021, the STB determined that the abandonment exemption would be
+effective on May 27, 2021, unless stayed for reasons such as a request for interim trail
+use/rail banking pursuant to 49 C.F.R. § 1152.29. Def. MSJ at 6. The STB gave Blue Ridge
+one year to exercise the authority granted and fully abandon the line by filing a notice of
+consummation. Id.
+
+       Instead of abandoning the rail line, on June 16, 2021, Blue Ridge and Ecusta
+Rails2Trails LLC (“Ecusta”) filed a joint Petition for Interim Trail Use and Notification of
+Trails Use/Railbanking Agreement, notifying the STB that the parties had already
+entered into an interim trail use agreement and asking the STB to issue a Notice of Interim
+Trail Use or Abandonment (“NITU”). Am. Compl., Ex. 2 at 2. On June 29, 2021, the STB
+issued the NITU. Id., Ex. 3 at 11. That same day, the parties filed a notification of the trail
+use agreement. Def. MSJ at 7 (citing Blue Ridge Southern Railroad, L.L.C. — Abandonment
+Exemption — In Henderson and Transylvania Counties, N.C., No. AB 1306X (STB June 29,
+2021), Doc. ID 302640).
+
+       On January 19, 2022, Plaintiffs filed a complaint in this Court, alleging that, as
+owners of the property abutting and underlying the railroad corridor, they suffered a
+Fifth Amendment taking of their real property interests, without compensation, on the
+day the NITU was issued. See ECF No. 1 (“Compl.”); Am. Compl. at 2. On June 17, 2025,
+following the close of discovery, the government filed a motion for summary judgment,
+
+2 Although Plaintiffs rely on the Wilson conveyance in their opening brief, the deed is not part of
+
+any of the pertinent chains of title and is thus merely illustrative of the language used in the other
+source deeds.
+                                                  4
+arguing that the source deeds conveyed a fee simple ownership interest in the railroad
+corridor to the original railroad, which was then transferred to Ecusta via Blue Ridge, the
+original railroad’s successor-in-interest. Def. MSJ at 1-2 (“The pertinent title documents
+are deeds by which the original railroad obtained a fee simple interest in the corridor.”).
+The government contends that because the original railroad acquired a fee simple interest
+in the subject properties, Plaintiffs have not, and cannot, establish an ownership interest
+in the corridor and, therefore, are not entitled to compensation. Id.
+
+       On August 5, 2025, Plaintiffs filed their response and cross-motion for summary
+judgment, construing the original railroad’s interest in the railroad corridor as a “right-
+of-way across [Plaintiffs’] land.” Pls. Cross-MSJ at 8. They argue that “when the railroad
+abandoned the railway line, [Plaintiffs] held unencumbered title to the fee estate in the
+land,” which was taken without just compensation by the issuance of the NITU. Id. at 9.
+
+       On September 4, 2025, the government filed its response and reply. ECF No. 62
+(“Def. Reply”). On September 18, 2025, Plaintiffs filed their reply. ECF No. 63 (“Pls.
+Reply”). On January 12, 2026, this Court held oral argument on the parties’ pending
+motions, ECF No. 68, following which this Court issued a show cause order to Plaintiffs’
+counsel, pursuant to Rule 11 of the Rules of the United States Court of Federal Claims
+(“RCFC”), to explain why sanctions should not be imposed for his unsupported — and
+unsupportable — arguments, ECF No. 69. Plaintiffs’ counsel filed his response to that
+order on February 11, 2026. ECF No. 71.
+
+       B.     Standard of Review
+
+        RCFC 56(a) provides that the Court “shall grant summary judgment if the movant
+shows that there is no genuine dispute as to any material fact and the movant is entitled
+to judgment as a matter of law.” RCFC 56(a). 3 A fact is material if it might “affect the
+outcome of the suit under the governing law,” Anderson v. Liberty Lobby, Inc., 477 U.S. 242,
+248 (1986), and an issue is genuine if it “may reasonably be resolved in favor of either
+party,” id. at 250. “Where the record taken as a whole could not lead a rational trier of
+fact to find for the non-moving party, there is no ‘genuine issue for trial,’” and summary
+judgment is appropriate. Matsushita Elec. Indus. Co. v. Zenith Radio Corp., 475 U.S. 574, 587
+(1986) (citing First Nat. Bank of Ariz. v. Cities Serv. Co., 391 U.S. 253, 289 (1968)).
+
+
+
+3 RCFC 56(a) is the same as Federal Rule of Civil Procedure 56(a).
+
+
+                                                5
+      When, as here, the parties have cross-moved for summary judgment, “the court
+must evaluate each motion on its own merits, resolving reasonable inferences against the
+party whose motion is under consideration.” Silver State Land LLC v. United States, 155
+Fed. Cl. 209, 212 (2021) (quoting First Commerce Corp. v. United States, 335 F.3d 1373, 1379
+(Fed. Cir. 2003)); see also Lippmann v. United States, 127 Fed. Cl. 238, 244 (2016) (“The
+[RCFC 56] standard also applies when the Court considers cross-motions for summary
+judgment.”).
+
+       In this case, the material facts are not in dispute. Accordingly, the central issue
+before the Court — whether the source deeds conveyed a fee simple interest in the
+railroad corridor, or merely an easement — is a purely legal one, thus making this issue
+particularly amenable for summary judgment.
+
+       C.     Discussion: This Court Grants the Government’s Motion for Summary
+              Judgment
+
+        The government’s implementation of the Trails Act is subject to the Fifth
+Amendment’s Takings Clause. “It is settled law that a Fifth Amendment taking occurs
+in Rails–to–Trails cases when government action destroys state-defined property rights
+by converting a railway easement to a recreational trail, if trail use is outside the scope of
+the original railway easement.” Ladd v. United States, 630 F.3d 1015, 1019 (Fed. Cir. 2010)
+(citing Ellamae Phillips Co. v. United States, 564 F.3d 1367, 1373 (Fed. Cir. 2009)). If the
+railroad owns the underlying property in fee simple at the time of the alleged taking,
+however, “another party cannot be owed just compensation for the taking of that land.”
+Whispell Foreign Cars, Inc. v. United States, 97 Fed. Cl. 324, 330 (2011). “It is axiomatic that
+only persons with a valid property interest at the time of the taking are entitled to
+compensation.” Wyatt v. United States, 271 F.3d 1090, 1096 (Fed. Cir. 2001); see also Palmyra
+Pac. Seafoods, L.L.C. v. United States, 561 F.3d 1361, 1364 (Fed. Cir. 2009) (“[I]n order to
+have a cause of action for a Fifth Amendment taking, the plaintiff must point to a
+protectable property interest that is asserted to be the subject of the taking.”).
+
+       When evaluating a rails-to-trails takings claim, this Court evaluates three factors:
+
+              (1) who owned the strips of land involved, specifically did the
+              Railroad ... acquire only easements, or did it obtain fee simple
+              estates;
+
+
+                                               6
+                (2) if the Railroad acquired only easements, were the terms of
+                the easements limited to use for railroad purposes, or did they
+                include future use as public recreational trails; and
+
+                (3) even if the grants of the Railroad's easements were broad
+                enough to encompass recreational trails, had these easements
+                terminated prior to the alleged taking so that the property
+                owners at that time held fee simples unencumbered by the
+                easements.
+
+Preseault v. United States, 100 F.3d 1525, 1533 (Fed. Cir. 1996) (en banc). In this case, the
+first question — whether the railroad acquired an easement or fee simple title — is
+dispositive. If the railroad acquired a fee simple interest in the property, “the court need
+not address the two remaining questions because the Plaintiffs did not hold any
+reversionary interest in the property that was taken.” Kent v. United States, 174 Fed. Cl.
+684, 689 (2025).
+
+        State law governs the “property rights of the parties in a rails-to-trails case.”
+Castillo v. United States, 952 F.3d 1311, 1319 (Fed. Cir. 2020); see also Rogers v. United States,
+814 F.3d 1299, 1305 (Fed. Cir. 2015) (“We analyze the property rights of the parties in a
+rails-to-trails case under the relevant state law.” (citing Preseault, 100 F.3d at 1543)).
+Because the property in this case is in North Carolina, this Court applies North Carolina
+law. Plaintiffs have the burden to demonstrate that they own the land at issue. Cienega
+Gardens v. United States, 331 F.3d 1319, 1328 (Fed. Cir. 2003) (“For any Fifth Amendment
+takings claim, the complaining party must show it owned a distinct property interest at
+the time it was allegedly taken[.]”); BHL Props., LLC v. United States, 135 Fed. Cl. 222, 229
+(2017) (“[I]t is [plaintiffs’] burden to prove [their] ownership of the land abutting the
+railway corridor; it is not the government's burden to disprove it.”).
+
+           1.      Plaintiffs waived their McCotter-related arguments.
+
+       The government builds its summary judgment argument around the North
+Carolina Supreme Court’s decision in McCotter v. Barnes, 101 S.E.2d 330 (N.C. 1958),
+which relied, in part, on a North Carolina statute to find that a deed granted land to a
+railroad in fee simple. Def. MSJ at 12-13 (citing McCotter, 101 S.E.2d at 334). The relevant
+statute, now codified as N.C. Gen. Stat. § 39-1, creates a presumption of fee simple
+conveyance for grants of real estate:
+
+                                                7
+               Chapter 39. Conveyances.
+
+               Article 1. Construction and Sufficiency
+
+               § 39-1. Fee presumed, though word “heirs” omitted.
+               When real estate is conveyed to any person, the same shall be
+               held and construed to be a conveyance in fee, whether the
+               word “heir” is used or not, unless such conveyance in plain
+               and express words shows, or it is plainly intended by the
+               conveyance or some part thereof, that the grantor meant to
+               convey an estate of less dignity. (1879, c. 148; Code, s. 1280;
+               Rev., s. 946; C.S., s. 991.)
+
+N.C. Gen. Stat. § 39-1 (2024); see also Def. MSJ at Ex. 13 (N.C. Sess. Laws, ch. 148 (1879),
+the predecessor statute to N.C. Gen. Stat. § 39-1). 4 The government contends that like the
+deed in McCotter, “the source deeds [in this case] are clearly conveyances of real estate,
+as each one states that the grantors grant bargain and sell ‘a strip of land’ and refer to ‘the
+land hereby conveyed[,]’” and thus “establish the original railroad’s fee simple interest in
+the disputed land.” Def. MSJ at 11 (quoting Allison deed (Def. MSJ at Ex. 5)).
+
+      The government also highlights numerous similarities between the McCotter deed
+and the railroad’s source deeds. Like the conveyances at issue here, the McCotter deed
+included:
+              (1) a consideration of a small amount of “Two (2.00) Dollars,”
+              (2) the granting clause’s conveyance of land (“a tract or parcel
+              of land”), (3) the land’s precise boundaries to be determined
+              by future action (“to be cut” out of the described tract of
+
+4 N.C. Sess. Laws, ch. 148 (1879) provided:
+
+
+       Chapter 148. AN ACT TO PROVIDE THAT ALL CONVEYANCES OF REAL
+       ESTATE SHALL BE CONSTRUED TO BE IN FEE, UNLESS THE CONTRARY
+       SHALL APPEAR FROM THE LANGUAGE OF THE INSTRUMENT.
+       The General Assembly of North Carolina do enact:
+       Section 1. When real estate shall be conveyed to any person the same shall be held
+       and construed to be a conveyance in fee, whether the word “heirs” shall be used
+       or not, unless such conveyance shall, in plain and express words show, or it shall
+       be plainly intended by the conveyance or some part thereof, that the grantor meant
+       to convey an estate of less dignity.
+                                               8
+                land”; “[t]o be located” by the grantee after execution of the
+                deed), (4) identifying the intended railroad use (“There shall
+                be no building other than for railroad use.”), and (5) a time
+                limit for building the railroad (otherwise “the estate hereby
+                conveyed is to cease and determine and the property hereby
+                conveyed is to revert to and become the property of the
+                grantors herein”).
+
+Def. MSJ at 13 (quoting McCotter, 101 S.E.2d at 332). All of these features, the government
+points out, did not deter the McCotter court from finding a conveyance of “an unqualified
+fee-simple estate,” McCotter, 101 S.E.2d at 334, and should not prevent this Court from
+finding so here. Def. MSJ at 13.
+
+       Plaintiffs improperly waited until their reply brief to grapple with the
+government’s McCotter-centered argument. See Pls. Reply at 13-14. Indeed, McCotter is
+not so much as mentioned a single time in their 29-page response and cross-motion.
+Instead, Plaintiffs devote the vast majority of that brief to an explication of supposed
+“background principle[s] of law that inform[] the interpretation of these conveyances.”
+See Pls. Cross-MSJ at 16-19 (grantor’s intent); id. at 20-22 (the strip and gore doctrine); id.
+at 24-25 (railroads and eminent domain). Their brief analysis of N.C. Gen. Stat. § 39-1 is
+relegated to a single page at the very end of their argument, where they characterize the
+government’s position as “meritless and frivolous” and posit an alternative reading of
+the statute — sans supporting North Carolina caselaw — that this Court struggles to even
+understand. Pls. Cross-MSJ at 32. 5
+
+       This Court has previously held that “[a] party’s failure to raise an argument in an
+opening or responsive brief constitutes waiver.” Sarro & Assocs., Inc. v. United States, 152
+Fed. Cl. 44, 58–59 (2021) (finding that a response brief’s “single reference” to prior
+arguments indicated that plaintiff “all but abandoned” his claim); see also Golden IT, LLC
+v. United States, 157 Fed. Cl. 680, 695 (2022) (finding that Plaintiff “waived those eight
+claims” for which it “failed to respond to the government’s counterarguments”); Cap
+Export, LLC v. Zinus, Inc., 722 F. App’x 1004, 1009 (Fed. Cir. 2018) (quoting Stichting
+Pensioenfonds ABP v. Countrywide Fin. Corp., 802 F.Supp.2d 1125, 1132 (C.D. Cal. 2011), for
+
+5 Plaintiffs contend that the “statute applies to the construction of estates in land,” but does not
+
+apply to servitudes, such as easements. Tr. 17:7-15. But the statute provides a presumption
+regarding how to interpret a conveyance of real estate in the first place (i.e., in favor of a fee simple
+transfer), as discussed infra.
+                                                   9
+the proposition that “in most circumstances, failure to respond in an opposition brief to
+an argument put forward in an opening brief constitutes waiver or abandonment in
+regard to the uncontested issue”).
+
+        Reserving an argument for a reply brief will not preserve it because “[i]t is unfair
+to consider an argument to which the government has been given no opportunity to
+respond.” United States v. Ford Motor Co., 463 F.3d 1267, 1277 (Fed. Cir. 2006); see also
+Novosteel SA v. United States, 284 F.3d 1261, 1274 (Fed. Cir. 2002) (“Raising the issue for
+the first time in a reply brief does not suffice; reply briefs reply to arguments made in the
+response brief—they do not provide the moving party with a new opportunity to present
+yet another issue for the court’s consideration.”); Ironclad/EEI v. United States, 78 Fed. Cl.
+351, 358 (2007) (noting that “under the law of [the Federal Circuit], arguments not
+presented in a party’s principal brief to the court are typically deemed to have
+been waived”); Advanced Powder Sols., Inc. v. United States, 160 Fed. Cl. 575, 581 n.8
+(2022) (“[A] reply brief is an entirely inappropriate medium for new arguments.”).
+Plaintiffs’ failure to address McCotter in their opening brief thus ties this Court’s hands;
+“[a]s a matter of litigation fairness and procedure,” we cannot entertain their belated
+attempts to distinguish McCotter from this case. Novosteel SA, 284 F.3d at 1274.
+
+      In the alternative, as explained below, this Court finds that the government’s
+reading of the deeds at issue, in light of North Carolina law, is correct — and, on this
+record at least, it’s not a close call.
+
+          2.      The government is entitled to summary judgment because Plaintiffs
+                  do not demonstrate any disputed material fact and fail to overcome
+                  the statutory presumption of a fee simple conveyance.
+
+        Let us be clear about what Plaintiffs do argue and what they do not. Plaintiffs’
+entire opposition to the government’s summary judgment motion is purely legal; they
+assert that the deeds transferred only an easement, not land in fee simple. Plaintiffs raise
+no factual dispute about: (1) the acreage or physical boundaries of the railroad's
+occupation; (2) whether the railroad exceeded any deed description; (3) the identity of
+any owners or successors; or (4) the language of the conveyances themselves (both sides
+agree on what the deeds say). Rather, Plaintiffs’ opposition to the government’s motion
+for summary judgment reduces to this legal argument: “[i]t could not be more explicit
+and emphatic that [the] predecessors-in-title intended to grant only a right-of-way for a
+railroad line across their land,” Pls. Cross-MSJ at 23, and that “[w]hen the railroad line
+
+                                             10
+was no longer necessary and was abandoned, the right-of-way easement terminated,” id.
+at 18. Plaintiffs fail, however, to offer a single phrase in the source deeds sufficient to
+overcome North Carolina’s statutory presumption of a fee simple conveyance.
+
+        As the government correctly asserts, North Carolina law presumes that
+conveyances of real estate are in fee simple, absent conflicting provisions in the granting
+instrument. N.C. Gen. Stat. § 39-1; McCotter, 101 S.E.2d at 334. In Bevirt v. United States,
+a recent decision from our Court involving some of the same source deeds at issue here,
+Judge Hadji explained that because the source deeds “all include the hallmarks of a fee
+simple conveyance,” the Court must “begin[] its analysis with the underlying
+presumption the grant was a fee simple conveyance.” Bevirt v. United States, 177 Fed. Cl.
+275, 282 (2025) (citing McCotter, 101 S.E.2d at 334, and noting that the source deeds
+“explicitly convey ‘a strip of land’ and reference elsewhere ‘the land hereby conveyed’”),
+recons. denied, 180 Fed. Cl. 217 (2026).
+
+       So too, here. The source deeds at issue in this case “give[,] grant[,] bargain[,] sell[,]
+and convey . . . a strip of land” and refer to “the land hereby conveyed.” Def. MSJ at Exs.
+3-12. The undersigned agrees with Judge Hadji: “[s]uch language suggests an
+unequivocal grant of land, not an easement, and no conflicting provisions contradict this
+interpretation.” Bevirt, 177 Fed. Cl. at 282. The fact that the deeds recite only nominal
+consideration, and that the stated purpose of the conveyance was for the location and
+operation of a railway line, see Def. MSJ at Exs. 3-12, does not indicate a conveyance of a
+lesser property interest any more than the deed at issue in McCotter. See McCotter, 101
+S.E.2d at 332-35 (holding that the “deed conveyed title in fee simple” notwithstanding
+the deed’s recital of only two dollars in consideration and the clauses either conditioning
+the conveyances on, or restricting them to, railroad purposes). Like the North Carolina
+Supreme Court in McCotter, we see no reason to override the statutory presumption of a
+fee simple conveyance. This Court thus adopts Judge Hadji’s conclusion in full:
+
+              [B]ecause Plaintiffs fail to provide any support to overcome
+              the presumption of a fee simple conveyance, the Court finds
+              as a matter of law that the Source Deeds granted HBR a fee
+              simple conveyance, to which Plaintiffs retained no
+              reversionary interest. Having failed to establish a property
+              interest in the land at issue, the Court further finds that
+              Plaintiffs have not established the existence of an essential
+
+
+                                              11
+               element to their case for which they bear the burden of proof
+               at trial, and thus summary judgment is appropriate.
+
+Bevirt, 177 Fed. Cl. at 283 (citing Celotex Corp. v. Catrett, 477 U.S. 317, 322-23 (1986)).
+
+       In sum, Plaintiffs make many bold claims about North Carolina law, but fail to cite
+a single source of law that either undermines McCotter, in general, or its applicability to
+the deeds at issue in particular. McCotter all but dictates a win for the government, and
+Plaintiffs have provided nothing — persuasive or otherwise — to undermine that
+conclusion. Given that Plaintiffs raise no dispute of material fact and the law squarely
+favors the government, the government is entitled to summary judgment. Indeed, as
+discussed below, Plaintiffs’ many unsupported assertions prompted this Court to issue a
+show cause order to their counsel to explain why sanctions should not be imposed upon
+him for substantial Rule 11 violations.
+
+   II.     RULE 11 SANCTIONS
+
+        Shops selling fragile wares often post a warning to its browsing customers: you
+break it, you bought it. RCFC 11 carries a litigation analogue, as the Court put it to
+Plaintiffs’ counsel at oral argument: “You file a brief, you sign it, you own it.” Tr. 7:14-
+15. The occasion for that reminder was itself telling. Counsel’s first response to being
+confronted with the contents of his own summary judgment brief was to disclaim the
+filing as “the wrong corrected brief” — to set the merchandise back on the shelf, as it were,
+and walk out of the store. Tr. 6:23 (emphasis added). But that is not a viable strategy for
+avoiding the consequences of violating Rule 11, which provides that, by signing a filing,
+an attorney certifies that “after an inquiry reasonable under the circumstances,” its “legal
+contentions are warranted by existing law or by a nonfrivolous argument for extending,
+modifying, or reversing existing law.” RCFC 11(b)(2). 6
+
+       Much of the recent Rule 11 docket, in the federal courts generally, involves a new
+genre of misconduct: briefs drafted by generative artificial intelligence and filed by
+lawyers who, not understanding how large language models work, never noticed that
+the machine had invented the citations. That conduct is sanctionable, and courts have
+rightly sanctioned it. Repeatedly — to the point that it is surprising that counsel keep
+
+
+6 The Court notes that Plaintiffs’ counsel never sought to file a second corrected brief or to provide
+
+proof to this Court that such a brief even exists somewhere.
+                                                 12
+making the same error. See, e.g., N.Z. v. Fenix Int’l Ltd., 2025 WL 3626155, at *2, *4-*5 (C.D.
+Cal. Dec. 12, 2025) (imposing a $3,000 sanction against the drafting attorney who
+“misused AI by failing to verify the validity of the AI-generated material” and a $10,000
+sanction against the signing attorney and his firm, jointly and severally, where the firm
+“did not follow its standard practice of proofing and checking sections or contributions
+by other firms”). 7 But that Rule 11 failure, at bottom, is one of verification. The offending
+lawyer at least believed that authority supported his or her position; the fault lies in
+trusting a tool he or she did not understand and skipping the check that would have
+exposed the error.
+
+       What occurred in this case is worse. Plaintiffs’ counsel, Mr. Mark F. (“Thor”)
+Hearne, II, did not merely (unknowingly) rely on fictional authority. He filed sweeping
+declarations about what North Carolina law is — in his own voice, over his own
+signature, and without citing a single North Carolina case that supports any of them. For
+example, he wrote that “[u]nder North Carolina law the only interest the railroad could
+acquire was a right-of-way easement.” Pls. Cross-MSJ at 24. He wrote that the contrary
+suggestion “is not only incredulous [sic], it is a frankly stupid and frivolous argument,”
+because “[n]o authority would hold these documents conveyed the railroad title to the
+fee simple estate in the land.” Id. at 23. But the Supreme Court of North Carolina held
+precisely that, in McCotter v. Barnes, 101 S.E.2d 330 — a binding decision that Mr. Hearne’s
+brief never cited, named, or distinguished. And in Bevirt v. United States, 177 Fed. Cl. 275,
+Judge Hadji reached the same conclusion on materially similar instruments — a decision
+the government had placed on the docket in this case, by notice of supplemental
+authority, more than a month and “almost ten ECF filings” before counsel filed the brief.
+Tr. 7:17-23 (discussing ECF No. 52).
+
+       An assertion of settled law obliges a court to find the settled law. Taking counsel
+at his word, this Court in preparing for oral argument went looking for the North
+Carolina authority his brief invoked, and the search came up empty — not because the
+Court missed something, but because there was nothing to find. When the Court pressed
+
+7 See also Mata v. Avianca, Inc., 678 F. Supp. 3d 443, 448 (S.D.N.Y. 2023) (imposing a $5,000 sanction
+
+on attorneys who “abandoned their responsibilities when they submitted non-existent judicial
+opinions with fake quotes and citations created by the artificial intelligence tool ChatGPT, then
+continued to stand by the fake opinions after judicial orders called their existence into question”);
+Lifetime Well LLC v. IBSpot.com Inc., 819 F. Supp. 3d 373, 387 (E.D. Pa. 2026) ($4,000 sanction); OTG
+New York, Inc. v. OTTOGI Am., Inc., 2025 WL 2671460, at *3 (D.N.J. Sept. 18, 2025) ($3,000 sanction);
+Fletcher v. Experian Info. Sols., Inc., 168 F.4th 231, 233 (5th Cir. 2026) ($2,500 sanction); Amarsingh v.
+Frontier Airlines, Inc., 2026 WL 352016, at *7 (10th Cir. Feb. 9, 2026) ($1,000 sanction).
+                                                   13
+the point at argument, Mr. Hearne could not identify a single North Carolina case
+supporting the assertions this Court flagged. See Tr. 10:23 (“I don’t find it in there.”); Tr.
+11:8-9 (“I don’t have that in front of me, Your Honor.”); Tr. 12:23-24 (“I didn’t cite a case
+under that specific heading.”). He withdrew his North Carolina strip-and-gore
+argument. Tr. 11:10-23. He agreed that his accusation of frivolousness should be
+withdrawn. Tr. 7:24–8:2. And he conceded that the one authority he had assured the
+Court did not exist — a decision of this Court holding that materially identical deeds
+conveyed property in fee simple — in fact did exist, had been served on him months
+earlier, and made his “[n]o authority” representation “wrong.” Tr. 6:5-18; 7:17-23.
+
+       Mr. Hearne’s response, ECF No. 71, to this Court’s order to show cause, ECF
+No. 69, now offers, for the first time, a few North Carolina decisions. Not one supports
+the proposition for which it is cited, and none undermines McCotter.
+
+       Dispatching a court on a wild goose chase — categorically, confidently, and with
+invective aimed at the party whose position the law in fact supports — is precisely what
+Rule 11’s certification exists to prevent. A lawyer duped by AI misleads the court
+unknowingly; what this record reflects is the older variety of Rule 11 violations.
+Applying the objective standard that governs sanctions pursuant to RCFC 11, this Court
+concludes that Mr. Hearne violated RCFC 11(b)(2) and the duty of candor that the Rule
+reinforces.
+
+       A.     Factual and Procedural Background
+
+         To recap, this is a rails-to-trails Fifth Amendment takings case. Plaintiffs, North
+Carolina landowners, contend that the United States took their property without
+compensation through operation of the National Trails System Act, when a railroad
+corridor crossing their land was converted to trail use. The parties’ cross-motions for
+summary judgment, ECF Nos. 51 and 61, as explained supra, turn entirely on a single
+question of state property law: whether the railroad source deeds — substantially similar
+1894-95 conveyances, of which the Allison and Wilson instruments are representative —
+conveyed to the railroad a fee simple estate in a strip of land, or only an easement. If a
+fee, the railroad’s successor owned the corridor, and Plaintiffs have no compensable
+property interest. Two North Carolina authorities are dispositive of that question. The
+first is N.C. Gen. Stat. § 39-1, originally enacted in 1879, which directs that a conveyance
+of real estate “shall be held and construed to be a conveyance in fee” unless the
+instrument “in plain and express words shows, or it is plainly intended by the
+conveyance or some part thereof, that the grantor meant to convey an estate of less
+                                             14
+dignity.” The second is McCotter, in which the Supreme Court of North Carolina applied
+§ 39-1 to a 1904 deed running to a railroad’s predecessor and held that the deed conveyed
+“an unqualified fee-simple estate.” 101 S.E.2d at 334. McCotter has never been overruled;
+the Supreme Court of North Carolina reaffirmed it in Craig v. Southern Ry. Co., 138 S.E.2d
+35, 36 (N.C. 1964) (per curiam), and the North Carolina Court of Appeals has applied and
+distinguished it since, see Crawford v. Wilson, 257 S.E.2d 696, 697 (N.C. Ct. App. 1979);
+International Paper Co. v. Hufham, 345 S.E.2d 231, 234 (N.C. Ct. App. 1986) (distinguishing
+McCotter where the deed conveyed no land and predated § 39-1). McCotter is binding
+North Carolina law.
+
+        The government’s opening motion relied on N.C. Gen. Stat. § 39-1 and McCotter.
+Then, in late June 2025, the government also filed a notice of supplemental authority, ECF
+No. 52, highlighting Judge Hadji’s then-recent decision in Bevirt, 177 Fed. Cl. 275, which
+applied McCotter to the construction of conveyance instruments, a few of which are at
+issue here, and concluded that they conveyed a fee simple interest, id. at 282-83. Plaintiffs
+filed their corrected opening brief on August 5, 2025. ECF No. 61. That brief does not
+cite McCotter. It does not cite International Paper, the decision on which Plaintiffs’
+easement theory now principally rests. It does not acknowledge Judge Hadji’s decision.
+What it does instead is assert, boldly, that “[n]o authority would hold these documents
+conveyed the railroad title to the fee simple estate in the land,” and that the government’s
+contrary argument is “frankly stupid and frivolous.” Pls. Cross-MSJ at 23.
+
+      Following oral argument, this Court ordered Mr. Hearne to show cause why he
+should not be sanctioned pursuant to RCFC 11 for four assertions regarding North
+Carolina law in his opening brief that appeared to this Court to “entirely lack supporting
+authority.” ECF No. 69 at 1. Those assertions are:
+
+       1. “North Carolina public policy strongly disfavors the creation of fee estates in
+          strips or ‘gores’ of land and presumes that strips of land are easements for a
+          specific purpose.” Pls. Cross-MSJ at 20.
+       2. “Under North Carolina law the only interest the railroad could acquire was a
+          right-of-way easement.” Id. at 24; see also id. at 30 n.12 (“North Carolina is not
+          unique in its construction of railroad conveyances as granting only a right-of-
+          way easement.”).
+       3. “The government wrongly claims that North Carolina law mandates that any
+          conveyance concerning an interest in real property must be presumed to
+          convey title to the fee simple estate. Simply put[:] [t]he government’s argument
+                                             15
+            is meritless and frivolous. These provisions of North Carolina law do not apply
+            to servitudes such as easements. These provisions concern the construction of
+            conveyances that apply to estates in land.” Id. at 32 (emphasis and citation
+            omitted).
+       4. “The other features of these conveyances [at issue], [including] the nominal
+          consideration paid and the description by reference to an existing railroad line
+          that had already been surveyed and located by the railroad, suggest that the
+          grantor intended an easement.” Id. at 33.
+
+For each assertion, the order to show cause directed Mr. Hearne to indicate whether the
+brief cites North Carolina authority supporting it and, if not, to supply “the single best
+North Carolina legal authority” he could locate, together with the precise supporting
+language. ECF No. 69 at 4. The order further directed counsel to quote, in no more than
+five sentences and one case citation, the passage of a law review article counsel had
+invoked during oral argument to support his reading of N.C. Gen. Stat. § 39-1. Id. at 4-5.
+Mr. Hearne responded on February 11, 2026, joined by separate counsel, Arthur D.
+Burger, who addressed the question of the governing Rule 11 standard. ECF No. 71.
+
+       B.      RCFC 11 Sanction Standards
+
+         By presenting a pleading, motion, or other paper to the Court — “whether by
+signing, filing, submitting, or later advocating it” — an attorney “certifies that to the best
+of the person’s knowledge, information, and belief, formed after an inquiry reasonable
+under the circumstances,” the filing’s “claims, defenses, and other legal contentions are
+warranted by existing law or by a nonfrivolous argument for extending, modifying, or
+reversing existing law or for establishing new law.” RCFC 11(b)(2). The certification is
+measured objectively. Rule 11 “functions to assure that parties assert litigation positions
+that are objectively reasonable at the time of filing”; it “does not require a showing of bad
+faith” and “does not involve inquiry into a party’s subjective good faith.” Kilopass Tech.,
+Inc. v. Sidense Corp., 738 F.3d 1302, 1313 (Fed. Cir. 2013). The Supreme Court has described
+Federal Rule of Civil Procedure 11 the same way. Chambers v. NASCO, Inc., 501 U.S. 32,
+47 (1991) (Rule 11 “imposes an objective standard of reasonable inquiry which does not
+mandate a finding of bad faith”). The objective standard “is intended to eliminate any
+‘empty-head pure-heart’ justification for patently frivolous arguments.” Fed. R. Civ. P.
+11 advisory committee’s note to 1993 amendment. 8
+
+
+8 “[T]o the extent permitted by this court’s jurisdiction, [the RCFC] must be consistent with the
+
+                                               16
+        This Court may enforce the Rule 11 certification on its own initiative, after
+ordering the attorney to show cause, RCFC 11(c)(3), and its determination is reviewed
+only for abuse of discretion. In Oak Grove Technologies, LLC v. United States, 116 F.4th 1364
+(Fed. Cir. 2024), the Federal Circuit affirmed this Court’s imposition of Rule 11 sanctions
+following a show cause order, holding that “[t]he Court of Federal Claims did not abuse
+its discretion in determining that the [sanctioned party’s] conduct was not ‘objectively
+reasonable’ and, therefore, violated Court of Federal Claims Rule 11.” Id. at 1385; see id.
+at 1383 (explaining that “[a] court abuses its discretion if the order imposing sanctions is
+based on an erroneous view of the law or on a clearly erroneous assessment of the
+evidence” (quoting 1-10 Indus. Assocs., LLC v. United States, 528 F.3d 859, 867 (Fed. Cir.
+2008))).
+
+       Mr. Hearne, through Mr. Burger, urges the Court to require a finding of subjective
+bad faith before sanctioning conduct identified in a show cause order. ECF No. 71 at 6-
+10. The clear weight of Federal Circuit authority provides no support for that premise: a
+court’s imposition of Rule 11 sanctions requires no evidence of bad faith, and a violation
+of that rule is neither established nor excused by the litigant’s state of mind — objective
+unreasonableness is enough. Kilopass, 738 F.3d at 1313; Oak Grove, 116 F.4th at 1385
+(affirming this Court’s imposition of sanctions and finding that “[t]he Court of Federal
+Claims did not abuse its discretion in determining that the government's conduct was not
+‘objectively reasonable’ and, therefore, violated [RCFC] 11”); see Chambers, 501 U.S. at 47.
+The proper question, then, is whether a reasonable attorney, after an inquiry reasonable
+under the circumstances, could have certified Mr. Hearne’s contentions as warranted by
+North Carolina law.
+
+        In answering that question, this Court further notes that the Rule 11 certification
+does not operate in isolation. It reinforces — and is reinforced by — the lawyer’s duty of
+candor to the tribunal, a duty this Court has had prior occasion to examine at length. See
+Penna v. United States, 153 Fed. Cl. 6, 36-42 (2021); Hous. Auth. of City of Slidell v. United
+States, 149 Fed. Cl. 692, 695 (2020); Hanover Ins. Co. v. United States, 146 Fed. Cl. 447, 450
+(2019) (noting “the truism that attorneys must not mislead the court”). Rule 3.3 of the
+American Bar Association’s Model Rules of Professional Conduct — captioned “Candor
+Toward the Tribunal” — provides that “[a] lawyer shall not knowingly . . . make a false
+statement of fact or law to a tribunal or fail to correct a false statement of material fact or
+
+Federal Rules of Civil Procedure [FRCP].” RCFC 83(a). “Interpretation of an FRCP ‘informs the
+Court’s analysis’ of the corresponding RCFC.” Lakeland Partners, LLC v. United States, 88 Fed. Cl.
+124, 131 n.3 (2009) (quoting Zoltek Corp. v. United States, 71 Fed. Cl. 160, 167 (2006)).
+                                               17
+law previously made to the tribunal by the lawyer.” Model Rules of Prof’l Conduct r.
+3.3(a)(1); see Penna, 153 Fed. Cl. at 36-37. That Rule “sets forth the special duties of lawyers
+as officers of the court to avoid conduct that undermines the integrity of the adjudicative
+process.” Candor Toward the Tribunal, Ann. Mod. Rules Prof. Cond. § 3.3; see ECF No. 69
+at 2 n.2 (quoting same). The duty is not professional etiquette; it is load-bearing. It “is
+an integral part of ensuring that our system of justice functions properly because first and
+foremost an attorney is an officer of the court, an institution whose purpose is to seek the
+truth in order to do justice,” and it “helps promote judicial efficiency and avoid crowding
+the court’s docket with frivolous actions.” Penna, 153 Fed. Cl. at 41-42 (quoting Bautista
+v. Star Cruises, 696 F. Supp. 2d 1274, 1281 (S.D. Fla. 2010)). In short: “The system can
+provide no harbor for clever devices to divert the search, mislead opposing counsel or
+the court, or cover up that which is necessary for justice in the end.” Id. at 42 (quoting
+United States v. Shaffer Equip. Co., 11 F.3d 450, 457-58 (4th Cir. 1993)).
+
+        Zealous advocacy does not relax these obligations; it is bounded by them. 9 “[A]
+lawyer acting as an advocate in an adjudicative proceeding has an obligation to present
+the client’s case with persuasive force,” but “[p]erformance of that duty . . . is qualified
+by the advocate’s duty of candor to the tribunal”: although an advocate “is not required
+to present an impartial exposition of the law,” he “must not allow the tribunal to be
+misled by false statements of law or fact.” Ann. Mod. Rules Prof. Cond. § 3.3.
+
+       A lawyer is thus free to argue creatively about what a court should conclude from
+the governing materials — “all of which would constitute zealous advocacy.” Penna, 153
+Fed. Cl. at 41. “What a lawyer may not do, however, is decide on the conclusion he or
+she wants the Court to reach,” and then shape the presentation — in Penna, of the facts;
+here, of the governing law — to produce it. Id. The Federal Circuit has confirmed that
+Rule 11 polices precisely this territory. In Precision Specialty Metals, Inc. v. United States,
+315 F.3d 1346 (Fed. Cir. 2003), our appellate court affirmed the formal reprimand of an
+attorney who cropped quotations from judicial opinions in a way that changed their
+meaning. Although “’the central purpose of Rule 11 is to deter baseless filings in district
+court,’” the court explained, “the scope of the rule is not that limited.” Id. at 1355 (quoting
+Cooter & Gell v. Hartmarx Corp., 496 U.S. 384, 393 (1990)). By signing a filing, an attorney
+
+9 See United States Dep’t of Hous. & Urban Dev. v. Cost Control Mktg. & Sales Mgmt. of Va., Inc., 64
+
+F.3d 920, 925 (4th Cir. 1995) (“[A] lawyer’s duty of candor to the court must always prevail in any
+conflict with the duty of zealous advocacy.”); Martrano v. Quizno’s Franchise Co., 2009 WL 1704469,
+at *3 n.11 (W.D. Pa. June 15, 2009) (“Counsel are cautioned that zealous advocacy must be
+tempered by observance of the duty of candor toward a tribunal.”).
+                                                18
+certifies that its legal contentions are “warranted by existing law” — and “[i]nherent in
+that representation” is that the attorney “stated therein the ‘existing law’ accurately and
+correctly.” Id. at 1356. A “distortion of the law,” the court held, is “inconsistent with and
+violate[s] the standards of Rule 11.” Id. The court collected its precedents condemning,
+in the same vein, “distorting cited authority by omitting language from quotations,”
+“misrepresenting facts or law to the court,” and, of particular relevance here, “failing to
+reference or discuss controlling precedents.” Id. (quoting Abbs v. Principi, 237 F.3d 1342,
+1345 (Fed. Cir. 2001)); see also Porter v. Farmers Supply Serv., Inc., 790 F.2d 882, 887 (Fed.
+Cir. 1986) (sanctioning a party that “distorted the quote by omitting language devastating
+to its position”). This aligns with other courts of appeals. See Jorgenson v. Cnty. of Volusia,
+846 F.2d 1350, 1351-52 (11th Cir. 1988) (affirming sanctions against counsel for failing to
+identify relevant adverse precedent); Borowski v. DePuy, a Div. of Boehringer Mannheim Co.,
+850 F.2d 297, 304–05 (7th Cir. 1988) (concluding that counsel’s “ostrich-like tactic of
+pretending that potentially dispositive authority against [his] contention does not exist[]
+[is] precisely the type of behavior that would justify imposing Rule 11 sanctions” (internal
+quotations omitted)).
+
+       Finally, the Federal Circuit has cautioned that because “[a] formal order of
+sanction of any kind imposed by a court necessarily tarnishes an attorney’s professional
+reputation,” sanctions should issue “only when truly warranted,” 1-10 Indus. Assocs., 528
+F.3d at 861, and that “being wrong in choice of theory” does not itself breach the Rule —
+there is a difference between “a position which is merely losing” and “one which is both
+losing and sanctionable,” id. at 870. This Court is cognizant of that caveat. A losing
+argument is not sanctionable. But a categorical assertion of settled law, made without
+authority, contrary to controlling precedent, and deployed to brand the correct position
+frivolous, is a different thing entirely.
+
+       C.     Mr. Hearne Concedes the Assertions at Issue Had No North Carolina
+              Support — Concessions this Court Had to Extract from Him
+
+       The order to show cause posed straightforward questions that required only short
+responses: for each assertion (quoted above), does the opening brief cite North Carolina
+authority, and, if so, where? ECF No. 69 at 4. Mr. Hearne’s answers are concessions. As
+to Assertion 1 — the claim that North Carolina policy “strongly disfavors” fee estates in
+strips and “presumes” strips to be easements — Mr. Hearne “acknowledges that ECF
+No. 61 did not cite any North Carolina legal authority expressly supporting this
+assertion.” ECF No. 71 at 10. Likewise, as to Assertion 3 — the claim that N.C. Gen. Stat.
+
+                                              19
+§ 39-1 “do[es] not apply to servitudes such as easements” — Mr. Hearne now concedes
+that “ECF 61 does not cite a North Carolina case that expressly supports this proposition.”
+Id. at 15. As to Assertion 2 — the claim that “the only interest the railroad could acquire
+was a right-of-way easement” — the opening brief’s sole North Carolina citation was
+Beasley v. Aberdeen & Rockfish R. Co., 59 S.E. 60 (N.C. 1907), relegated to a footnote, ECF
+No. 61 at 28 n.10. But Mr. Hearne acknowledged at argument that he “didn’t cite a case
+[supporting] that specific heading,” Tr. 12:23-24, and that the North Carolina cases he
+invoked from the podium appear nowhere in the briefs, Tr. 13:14-17, 15:8-12. Finally, as
+discussed below, Assertion 4’s reliance on nominal consideration runs headlong into
+McCotter itself.
+
+       Mr. Hearne’s written concessions track what this Court extracted at argument, one
+assertion at a time. Asked to locate North Carolina support for the strip-and-gore
+heading, counsel answered, “I don’t find it in there,” and ventured that the filing was “a
+draft.” Tr. 10:23-25. Asked which North Carolina case he had meant to cite, he answered
+that he did not know. Tr. 11:8-9, 11:17-18. He then withdrew the contention: “As to North
+Carolina, I will withdraw it.” Tr. 11:22-23. Asked whether he discusses McCotter
+anywhere in his opening brief, he answered, “I don’t know if I did in the opening brief,”
+Tr. 19:1-3, then conceded, “I didn’t specifically cite McCotter,” Tr. 19:16-17 — prompting
+the Court to flag the omission as a potential waiver, Tr. 19:19-21. Asked whether the
+opening brief discusses International Paper, he answered, “I don’t believe it was cited.”
+Tr. 23:8-10. Asked to withdraw the “stupid and frivolous” characterization, he did. Tr.
+7:24-8:2; see Tr. 8:6-10 (representing that he would withdraw the same language from the
+reply to the extent it appears there).
+
+        The character of these withdrawals deserves comment because counsel’s response
+to the show cause order treats them as mitigation. But they are not corrective action; they
+are capitulation. Counsel in this brief advanced each assertion in the most strident
+register available and then abandoned each one the moment the Court asked him to
+produce its foundation, offering no defense because he had none. His opening
+explanations were that this Court was reading “the wrong corrected brief,” Tr. 6:23, and
+that the filing was “a draft,” Tr. 10:24. This version of the “dog ate my homework
+defense” will not hunt. A lawyer who asserts settled law and then surrenders the
+assertion — without argument — the instant he is asked for support has not corrected a
+good-faith error; he instead has confirmed that the assertion should never have been
+made. Nor did Mr. Hearne’s response to the show cause order improve his case.
+
+
+                                            20
+       D.     The “No Authority” Representation Was False When Made
+
+        One statement in the opening brief warrants separate treatment because it is not
+merely unsupported; it is false. Mr. Hearne wrote that the government’s position — that
+the grantors conveyed the railroad fee simple title — “is not only incredulous [sic], it is a
+frankly stupid and frivolous argument,” because “[n]o authority would hold these
+documents conveyed the railroad title to the fee simple estate in the land.” ECF No. 61
+at 23. Authority had so held, however — twice. The Supreme Court of North Carolina
+so held in McCotter, on a railroad deed “substantially similar to the language at issue in
+our case.” Tr. 22:6-10. And Judge Hadji had so held in Bevirt — concluding that “[t]he
+Source Deeds at issue conveyed a fee simple interest” to the railroad’s predecessor, 177
+Fed. Cl. at 282. This is the decision the government filed as supplemental authority, ECF
+No. 52, in late June 2025, more than a month and “almost ten ECF filings” before counsel
+filed the brief still “maintaining that there’s no such case.” Tr. 7:17-23. Confronted with
+the second of these cases at argument, Mr. Hearne conceded the point without
+qualification:
+
+                     THE COURT: But one authority did so hold, correct?
+                     MR. HEARNE: Yes. . . .
+                     THE COURT: [Your] statement is wrong, isn’t it?
+                     MR. HEARNE: That statement would be wrong.
+
+
+Tr. 6:11-18. Mr. Hearne likewise conceded that if this Court follows Judge Hadji’s
+interpretation, applies McCotter, and applies the statute, “I think I would answer yes”—
+Plaintiffs lose. Tr. 5:3-11.
+
+       This is where Mr. Hearne’s conduct parts company with the careless filer of AI-
+fabricated citations. The lawyer who files an AI-hallucinated case at least does not know
+with certainty that the authority is fake. Mr. Hearne had the adverse authority delivered
+to him, on this docket, by the opposing party, more than a month before he signed a brief,
+declaring that it did not exist — and then repeated that while calling the government’s
+position frivolous. But a lawyer “must not allow the tribunal to be misled by false
+statements of law.” Model Rules of Prof’l Conduct r. 3.3 cmt.; see Hanover, 146 Fed. Cl. at
+450. Whatever the outer boundaries of that duty, it comfortably reaches an affirmative
+representation that no contrary authority exists, made while contrary authority sits on
+the docket under a filing captioned “notice of supplemental authority.” ECF No. 52.
+                                             21
+        The Federal Circuit’s Rule 11 case law forecloses any suggestion that such conduct
+lies beyond the Rule’s reach. If an attorney violates Rule 11 by cropping quotations in a
+manner that overstates the support for her position, Precision, 315 F.3d at 1356, then a
+fortiori an attorney violates it by declaring that no authority supports his adversary’s
+position while omitting controlling precedent that supplies it — the very “failing to
+reference or discuss controlling precedents” the Federal Circuit identified as
+sanctionable. Id. (quoting Abbs, 237 F.3d at 1345). Nor may counsel “proceed with
+impunity in real or feigned ignorance of authorities which render his argument
+meritless.” Golden Eagle Distrib. Corp. v. Burroughs Corp., 801 F.2d 1531, 1542 (1986); see
+Jorgenson, 846 F.2d at 1351-52. Whether Mr. Hearne’s ignorance of McCotter and Bevirt
+was real or not, the certification he signed was false either way — and zealous advocacy
+supplies no defense because “a lawyer’s duty of candor to the court must always prevail
+in any conflict with the duty of zealous advocacy.” Cost Control Mktg., 64 F.3d at 925.
+
+      E.     The North Carolina Authorities Mr. Hearne Now Offers Are Inapposite
+             and Do Not Rescue His Otherwise Frivolous Legal Assertions
+
+      This Court’s order to show cause gave Mr. Hearne a second chance: for each
+unsupported assertion, he had an opportunity to supply the single best North Carolina
+authority he could now locate, with the precise language relied upon. ECF No. 69 at 4.
+The exercise proved the order’s point. Mr. Hearne’s response answered a question this
+case does not present, and simply fails to support his otherwise orphaned assertions
+regarding North Carolina law.
+
+       Assertion 1. For the proposition that North Carolina “strongly disfavors” fee
+estates in strips of land and “presumes” such strips to be easements, Mr. Hearne now
+cites N.C. Gen. Stat. § 1-44.2 and McDonald’s Corp. v. Dwyer, 432 S.E.2d 165 (N.C. Ct. App.
+1993), aff’d, 450 S.E.2d 888 (N.C. 1994). ECF No. 71 at 10-12. Neither authority addresses,
+let alone supports, the critical proposition. Section 1-44.2 is captioned “Presumptive
+ownership of abandoned railroad easements” and operates only “[w]henever a railroad
+abandons a railroad easement” (emphasis added). Thus, by its terms, the statute
+presupposes that the railroad held an easement. The statute says nothing about how a
+court decides, in the first instance, whether a conveyance to a railroad transferred
+property in fee simple or merely an easement. Moreover, the property interest at issue
+in the McDonald’s case was an admitted, already-abandoned easement, so the court had no
+occasion to construe a deed as between fee and easement. McDonald’s, 450 S.E.2d at 889
+(“This case involves the ownership of land formerly subject to a railroad right-of-way
+
+                                            22
+easement which was abandoned by Seaboard Coastline Railroad prior to 19 June 1987.”).
+
+         As for the statutory provision, § 1-44.2, the Supreme Court of North Carolina held
+only “that the first sentence of subsection (b) of North Carolina General Statute section
+1–44.2 is unconstitutional because it does not provide sufficient notice, an opportunity to
+be heard, and just compensation before divesting owners of a valuable property interest.”
+McDonald’s, 450 S.E.2d at 892. Nothing in this case purports to explain when an
+instrument conveys a fee as opposed to an easement or otherwise indicates that N.C. Gen.
+Stat. § 1-44.2 somehow trumps N.C. Gen. Stat. § 39-1, or is even dealing with the same
+subject matter.
+
+       Mr. Hearne’s invocation of the centerline presumption is difficult to follow, and in
+any event it assumes the answer to the very question before this Court. The centerline
+presumption applies only to easements and to “those persons, firms or corporations
+owning lots or parcels of land adjacent to the abandoned easement.” N.C. Gen. Stat. § 1-
+44.2(a) (emphasis added). Invoking it here merely begs the question that this Court must
+decide — and did decide supra: did the original railroad’s source deeds convey the land
+at issue in fee or did the railroads possess only an easement? The centerline presumption
+cannot answer that question. If this is the best cite Mr. Hearne can muster, this Court
+correctly concludes that the relevant assertion in his brief in fact has no basis and is
+frivolous, particularly in the absence of addressing N.C. Gen. Stat. § 39-1 or McCotter.
+
+       Assertion 2. For the categorical claim that “the only interest the railroad could
+acquire was a right-of-way easement,” Mr. Hearne offers Beasley v. Aberdeen & Rockfish R.
+Co., 59 S.E. 60 (N.C. 1907) — the opening brief’s lone North Carolina citation under that
+heading, Pls. Cross-MSJ at 28 n.10 — now together with Tighe v. Seaboard Air Line R. Co.,
+97 S.E. 164 (N.C. 1918); Raleigh & Augusta Air-Line R. Co. v. Sturgeon, 26 S.E. 779 (N.C.
+1897); and Sparrow v. Dixie Leaf Tobacco Co., 61 S.E.2d 700 (N.C. 1950). ECF No. 71 at 12-
+15. None of these cases support the proposition that a railroad could acquire only an
+easement.
+
+       Beasley — the only case from the opening brief — is the clearest mismatch. The
+deed at issue in that case did not convey land; it granted only “a right of way” and
+easement, and the court said so: “[n]o land is conveyed but a ‘right of way’ and
+easement.” 59 S.E. at 61. A holding about a deed that conveys no land cannot support a
+categorical rule about deeds that do convey “a strip” of land “forever.” Worse for counsel,
+the grantee in Beasley was not a railroad and could not lawfully build one: it was an
+
+                                            23
+improvement company chartered under a general incorporation law that “expressly
+excepts from the corporate powers granted building railroads,” empowered only to build
+“tramways or other roads, not meaning railways,” and therefore one that “had no power
+to build or operate a railroad, and therefore no capacity to take and use an easement for
+that purpose.” Id. at 61-62. Beasley thus construes the grant of an easement in light of the
+limitations on the grantee’s authority. It says nothing about whether a deed granting
+land to an actual railroad conveys a fee — which is the only question here, and which
+McCotter answers in the government’s favor.
+
+        Tighe, Sturgeon, and Sparrow miss Mr. Hearne’s target for much the same reason:
+each involves an easement and what is litigated is something other than its existence.
+Tighe is a width case — the dispute was whether the railroad’s right of way ran one
+hundred feet or some lesser width; the holding was simply that the railroad “is restricted
+to the boundary described in its deed.” 97 S.E. at 167. The easement-presumption
+language counsel quotes from Tighe is, by its own terms, confined to deeds “for the ‘right
+of way’” or to acquisition “by condemnation or by occupation” — the very modes of
+acquisition McCotter distinguished from a deed of purchase. Tighe, 97 S.E. at 166-67; see
+McCotter, 101 S.E.2d at 334-36 (deeming the railroad deed “presumptively a deed of
+purchase” and distinguishing the condemnation dictum in Shepard v. Suffolk & C. R. Co.,
+53 S.E. 137 (N.C. 1906)). Tighe’s presumption attaches only when a railroad acquires “the
+right of way” — by condemnation, occupation, or “a deed for the right of way” — not
+where, as in McCotter and here, a deed conveys the underlying land itself. Id. at 167
+(internal quotations omitted).
+
+        In Sturgeon, the North Carolina Supreme Court explained that “the right which
+railroad companies acquire in lands condemned for their rights of way amounts to an
+easement, and not to the purchase of the estate of the owner.” 26 S.E. at 780 (emphasis
+added) (citing Blue v. Aberdeen & W.E.R. Co., 117 N.C. 644, 23 S.E. 275, 275 (1895)). But, in
+Sturgeon, the court recounted, “[t]he plaintiff company, did not acquire its right of way
+by either condemnation or purchase.” Id. at 779. Rather, “[i]ts claim to the title and
+absolute and actual possession of the whole of the 100 feet on both sides of its track is
+founded upon what it contends is the legal effect of one of the provisions of its charter….”
+Id. at 779-80. Thus, Sturgeon cannot tell us anything about the proper interpretation of a
+putative conveyance.
+
+       Sparrow concerned the permissible use of a right of way the parties stipulated was
+an easement, not whether an easement existed. 61 S.E.2d at 701-02 (“The lessor railroad
+
+                                             24
+acquired its right of way under and by virtue of Sec. 27, Chap. 136, Laws 1852. It thus
+acquired and possesses nothing more than an easement for railroad purposes, with the
+right of actual possession of so much thereof as is necessary for the operation of its road
+and to carry on its business as a common carrier of freight and passengers with dispatch
+and convenience.”). And “[t]he concrete question” before the court was “whether the use
+of the building in question as a tobacco redrying and storage plant is, under the facts
+agreed, a misuse of the railroad company’s easement in the land occupied by the said
+buildings.” Id. at 704. This case is thus similarly entirely inapposite to the central issue
+presented by the parties’ cross-motions for summary judgment in this case.
+
+       A deed of purchase is not a condemnation, and the question of the existence of a
+fee estate is not the same question as its width or its use. On the question these cases do
+not reach, the controlling authority is flatly contrary: McCotter held a voluntary railroad
+deed conveyed “an unqualified fee-simple estate,” 101 S.E.2d at 334, and Craig reaffirmed
+that such a deed may indeed “convey[] a fee simple” and not “merely an easement,” 138
+S.E.2d at 36. Mr. Hearne’s assertion that “the only interest the railroad could acquire was
+a right-of-way easement,” a proposition the State’s highest court has twice rejected, is not
+“warranted by existing law.” RCFC 11(b)(2). Mr. Hearne provides nothing that remotely
+undermines the North Carolina Supreme Court’s holding in McCotter or its application
+to the undisputed facts of the case before this Court.
+
+        Assertion 3. For Mr. Hearne’s claim that N.C. Gen. Stat. § 39-1 “do[es] not apply
+to servitudes such as easements,” he now refers to the statute’s text, a 1968 student note,
+Mahlow W. DeLoatch, Jr., Future Interests—The Rule in Shelley’s Case, 4 Wake Forest Intra.
+L. Rev. 132 (1968), and Vickers v. Leigh, 10 S.E. 308 (N.C. 1889). ECF No. 71 at 15-16; see
+also Tr. 51:2-20. In response to the show cause order, Mr. Hearne admits that his opening
+brief “does not cite a North Carolina case that expressly supports this proposition.” ECF
+No. 71 at 15. The order to show cause further directed counsel to quote the single passage
+of the DeLoatch article that best supports Mr. Hearne’s argument. ECF No. 69 at 4-5. But
+Mr. Hearne quotes no language from the article — in violation of this Court’s order —
+for the obvious reason that the DeLoatch article is devoted entirely to the Rule in Shelley’s
+Case and to urging its abolition; it neither discusses nor cites any authority on whether
+§ 39-1 reaches a fee-versus-easement dispute. See DeLoatch, at 145-48.
+
+      Vickers is worse for counsel still, because it holds the opposite of what he cites it
+for. Mr. Hearne cites Vickers to posit that N.C. Gen. Stat. § 39-1 governs only “estates”
+and not “servitudes.” But Vickers is a decision applying a fee-construction principle. As
+
+                                             25
+the North Carolina Supreme Court later explained:
+
+              It must be conceded that prior to 1879 the word “heirs” was
+              in certain instances held to be necessary to create a fee–simple
+              estate. However, the decision in Vickers v. Leigh, 104 N. C. 248,
+              10 S. E. 308, declared that the trend of judicial utterances
+              plainly indicated a disposition to relax the rigor of the
+              common–law rule that invariably demanded the presence of
+              the word “heirs” as a necessary requisite for the creation of an
+              estate of inheritance by deed. Seeking to avoid the manifest
+              idolatry of a word, the courts by a process of highly technical
+              reasoning and bold transposition of words undertook to
+              construe conveyances so as to effectuate the hypothetical
+              intention of the grantor without primary regard for technical
+              terms. This liberalizing tendency finally headed up in a
+              statute, now known as C. S. § 991, and enacted in 1879.
+
+Tucker v. Smith, 154 S.E. 826, 827 (N.C. 1930). Vickers thus applied the canon that “if two
+constructions can be placed on a deed . . . that shall be given to it which is most beneficial
+to the grantee,” and on that basis — and its other terms — read the instrument at issue to
+convey a fee. 10 S.E. at 311 (noting that “[t]he liberal tendency of the age in reference to
+deeds culminated in the act of 1879, (Code, § 1280,) providing the same rule of
+construction for deeds as for devises” — the predecessor statute to § 39-1).
+
+          The bottom line is that Mr. Hearne’s response to the show cause order suffers from
+the same problems the order identified: across two briefs, an oral argument, and a court-
+ordered response, Mr. Hearne has yet to cite a single North Carolina decision that
+supports his sweeping assertions. The North Carolina decisions that do address the
+precise question for this Court — McCotter, Craig, Crawford, International Paper — were all
+absent from his opening brief. The reason for the omission seems clear: McCotter and
+Craig squarely favor the government, and Crawford applied § 39-1 to the very fee-versus-
+easement question Mr. Hearne insists the statute does not reach. See Crawford, 257 S.E.2d
+at 697 (distinguishing McCotter and holding that “[a]s to the application of [G.S. § 39-1],
+. . . it was plainly intended by the conveyance to convey an estate of less dignity than fee
+simple”).
+
+
+
+
+                                             26
+        A common defect runs through just about every authority Mr. Hearne has offered,
+in his briefs and in his response to the show cause order: each presupposes an easement
+and addresses its consequences — its scope, its width, or who owns the land when it is
+abandoned. This defect reflects a basic misrepresentation in Plaintiffs’ repeated
+arguments. This case is not about how to interpret the scope of an easement. It is about
+whether the deeds at issue conveyed an easement at all or instead a fee simple estate in a
+strip of land. On that (necessarily) antecedent question, the deed language and the
+controlling North Carolina statute and decisions point the same way: in the government’s
+favor.
+
+         Start with what the granting clauses convey. The McCotter deed conveyed “a tract
+or parcel of land 100 feet in width.” 101 S.E.2d at 332. The representative deeds conveyed
+to the railroad “and its successors forever a strip of land of sufficient width upon which
+to locate, construct, operate, and maintain a standard gauge railroad through said
+premises.” Pls. Cross-MSJ at 23 (Wilson deed); see ECF No. 71 at 18 (quoting the
+materially similar Ledbetter deed). Both convey land. And International Paper is
+inapposite, as the deed in that case conveyed no land at all — only “the right and privilege
+. . . to enter upon” the grantor’s tracts and lay out a railroad. 345 S.E.2d at 23. Indeed,
+International Paper contrasted McCotter’s grant of “a tract or parcel of land” with a
+granting clause that “conveyed only the right and privilege to enter upon the lands.” Id.
+The line International Paper drew is the line that decides this case — but the deeds at issue
+here fall on the McCotter side of it. As this Court put it at argument: “The object of the
+verb ‘convey’ here is [‘]strip of land[‘].” Tr. 57:21-22. 10
+
+       Plaintiffs’ reply brief — the first filing in which Mr. Hearne engaged McCotter at
+all — confirms rather than cures his significant misrepresentations. See Pls. Reply at 13.
+There, Mr. Hearne recast the controlling decision of the state’s highest court as an
+“unusual and exceptional” result to be “cabined . . . to the unique language in the
+McCotter conveyance,” and offered International Paper as “[t]he better case.” Id. A lawyer
+may argue that binding precedent is distinguishable; but she or he may not relegate it to
+
+10 Even the authority Plaintiffs cited at argument cuts against them: the King Associates decision
+
+distinguishes International Paper on the ground that there “what was granted was a right and
+privilege and no land was conveyed,” whereas a deed that says “I convey a strip of land forever”
+is something else. Tr. 58:19-59:4; see King Assocs., LLP v. Bechtler Dev. Corp., 632 S.E.2d 243, 247–
+48 (N.C. Ct. App. 2006) (disagreeing with plaintiffs “that the facts of the instant case are
+sufficiently similar to the facts of International Paper,” and instead finding “the facts here more
+comparable to the facts of McCotter” due to deed language such as “the part and parcels of said
+land herein granted”).
+                                                 27
+a reply, after his opening brief declared that no such authority existed. And in any event
+the distinction fails even considering counsel’s considerable spin. The reply concedes
+that the deed at issue in International Paper “predated the enactment of G.S. 39-1,” id. at
+14 (quoting International Paper, 345 S.E.2d at 234), which is why N.C. Gen. Stat. § 39-1’s
+fee presumption did not operate in that case. But the deeds at issue in our case were
+executed in 1894-95, fifteen years after the enactment of the first version of N.C.
+Gen. Stat. § 39-1. The presumption that was absent from International Paper thus governs
+this case, exactly as it governed in McCotter.
+
+        Other deed features Plaintiffs invoke do not help them, as McCotter itself indicates
+— something counsel conceded just about point-by-point at argument. Right-of-way
+language? McCotter holds it “does not necessarily mean that what is being conveyed is
+an easement,” and counsel conceded the language is “not conclusive.” Tr. 23:13-25. A
+recital limiting the land to railroad use? “Without significance,” as counsel agreed. Tr.
+24:4-13; see Tr. 38:3-5. Nominal consideration (Assertion 4)? The McCotter deed recited
+two dollars; the ones at issue recite a dollar, but Mr. Hearne disclaimed any distinction
+and agreed “the amount’s not going to help you because the Supreme Court of North
+Carolina has spoken to that.” Tr. 20:7-17. Reversionary language? “There is no
+reversionary language.” Tr. 39:13-14. The only durational term — a deadline to construct
+the railroad — “was satisfied,” Tr. 39:24-40:2, and the McCotter deed itself contained a
+defeasance condition yet conveyed a fee, 101 S.E.2d at 332.
+
+       Mr. Hearne had no basis in law or fact for his sweeping assertions in his opening
+brief and the response to this Court’s show cause order yields no firmer ground for him.
+
+       F.     Mr. Hearne Violated Rule 11 Under the Objective Standard, and the
+              Record Does Not Support a Good-Faith Explanation
+
+       Measured objectively, Mr. Hearne violated his RCFC 11 certification. Counsel
+presented categorical statements of North Carolina law — “the only interest the railroad
+could acquire,” “No authority would hold,” the strip-and-gore “presum[ption]” — on
+the dispositive question in the case, without any supporting North Carolina authority,
+and contrary to the controlling decisions of the Supreme Court of North Carolina. No
+reasonable attorney who had conducted “an inquiry reasonable under the
+circumstances,” RCFC 11(b), into North Carolina railroad-deed law could have missed
+McCotter: the Government’s own motion featured it, Tr. 19:11-13, and the most cursory
+search for North Carolina authority on railroad conveyances returns it. And no attorney
+
+                                            28
+who had read the docket could have certified that “[n]o authority would hold” what
+Judge Hadji had held in a decision filed on that docket as supplemental authority. The
+contentions were not objectively reasonable when filed. Kilopass, 738 F.3d at 1313.
+
+        Mr. Hearne’s response to the show cause order answers none of these glaring
+omissions and falsities. He offers a closing assurance that his representations were made
+“in complete good faith and without any intention whatsoever to mislead the Court.”
+ECF No. 71 at 25. As a legal matter, the assurance is beside the point: subjective good
+faith is not a defense, Kilopass, 738 F.3d at 1313; Chambers, 501 U.S. at 47, and the objective
+standard exists precisely to “eliminate any ‘empty-head pure-heart’ justification,” Fed. R.
+Civ. P. 11 advisory committee’s note to 1993 amendment. As a factual matter, moreover,
+the assurance is utterly unexplained — and on this record, inexplicable. Nowhere does
+Mr. Hearne account for how his brief asserting settled North Carolina law came to cite
+no supporting North Carolina authority; for why McCotter went unmentioned while the
+brief declared that no authority supported the government; or for why Judge Hadji’s
+decision, served on counsel more than a month before he filed his opening brief, was
+never acknowledged. The only explanations counsel has ever offered were that the Court
+was reading “the wrong corrected brief” and that the filing “was a draft” — explanations
+that are no defense. Tr. 6:23-7:3, 10:24-25 (emphasis added). Mr. Hearne never even
+asked for leave or otherwise attempted to file a corrected “corrected brief.” Ultimately,
+this is not “the dog ate my homework defense”; this is a new one this Court has never
+heard: “the dog ate my real brief and then I filed the wrong one.”
+
+       Let’s be clear. There are only two ways to assert, with confidence and invective,
+that the law of a state is settled in one’s favor while citing none of it: either counsel never
+performed the inquiry Rule 11 requires, or he performed it and represented the law to be
+other than what he found. The first is a textbook violation of RCFC 11(b)(2). The second
+is worse. This Court need not choose between them because the standard is objective.
+But the pattern this record discloses, taken whole, is fairly read as an effort to steer the
+Court away from the law that governs this case, while vilifying the party who had
+correctly explained it. 11
+
+
+11 Although we do not rely on any prior conduct in imposing sanctions, the undersigned is not
+
+the first judge of this Court to criticize Mr. Hearne for unsupported arguments. See Barron v.
+United States, 174 Fed. Cl. 114, 128 (2024) (Meyers, J.) (“Vermont law is not Florida law—
+Montpelier does not govern Miami. Plaintiffs have pointed to nothing that supports their
+assertion that ‘[t]he principles of Vermont law in the early 1900s ... are indistinguishable from
+Florida law in the early 1900s.’” (quoting Mr. Hearne’s brief)).
+                                               29
+                                          * * * *
+
+       Other members of the bench and bar may think this opinion harsh. But extending
+grace to the conduct this Court critiques and sanctions today would be accompanied by
+a significant externality — a cost imposed on others: unsophisticated clients who think
+they are getting zealous advocacy when in reality they have no case, or their arguments
+are poorly constructed. The only way for this Court to protect future litigants — if not
+our adversarial system as a whole — is to take the time and effort to enforce Rule 11. This
+Court of course takes no issue with novel or creative arguments or with counsel who flag
+adverse precedent and attempt to distinguish it, even where difficult to do so. But this
+opinion should serve as a warning to litigators in future cases before this Court: we will
+not tolerate briefs that entirely lack support for asserted propositions or that contain
+blatant misrepresentations of case law — whether wholly invented by machine or
+substantially by man.
+
+   III.   CONCLUSION
+
+       For the foregoing reasons, the government’s Motion for Summary Judgment, ECF
+No. 51, is GRANTED, and Plaintiffs’ Cross-Motion for Summary Judgment, ECF No. 61,
+is DENIED. The Clerk of Court is directed to enter judgment accordingly.
+
+        Furthermore, pursuant to RCFC 11 and this Court’s inherent authority,
+Mr. Hearne must compensate the government for its time and costs expended on
+responding to Plaintiffs’ cross-motion for summary judgment, as well as for the time
+government counsel spent preparing and presenting oral argument. In that regard,
+Mr. Hearne shall meet and confer with the government counsel to discuss the
+government’s claimed costs and, on or before July 31, 2026, the parties shall file a joint
+status report indicating whether the parties have reached an agreement on the sum to be
+paid the government or, alternatively, presenting their respective positions. This Court
+urges the parties to be reasonable in their discussions — and, if necessary, in presenting
+their respective positions in the joint status report — because in the event of disagreement
+this Court will select the more reasonable of the two positions.
+
+
+
+
+                                            30
+       Finally, Mr. Hearne is ordered to pay the Clerk of this Court $5,000, representing
+a very modest penalty for wasting judicial resources — well below the value of the time
+this Court expended researching nonexistent North Carolina law. This sum is in line with
+what other courts have imposed for similar Rule 11 violations, as catalogued supra.
+
+       These sanctions shall be borne by Mr. Hearne, without recourse to his clients; and
+a copy of this opinion and order shall be provided to all of the Plaintiffs. Mr. Hearne
+shall certify that he has done so in the parties’ next joint status report.
+
+      IT IS SO ORDERED.
+
+                                                s/Matthew H. Solomson
+                                                Matthew H. Solomson
+                                                Chief Judge
+
+
+
+
+                                           31
+

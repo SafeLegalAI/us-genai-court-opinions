@@ -1,0 +1,443 @@
+             If this opinion indicates that it is “FOR PUBLICATION,” it is subject to
+                  revision until final publication in the Michigan Appeals Reports.
+
+
+
+
+                           STATE OF MICHIGAN
+
+                             COURT OF APPEALS
+
+
+JOYCE BARBER,                                                          FOR PUBLICATION
+                                                                       June 17, 2026
+               Plaintiff-Appellant,                                    2:00 PM
+
+v                                                                      No. 374773
+                                                                       Oakland Circuit Court
+LAWRENCE J. MORAWA, MD,                                                LC No. 2023-199637-NH
+
+               Defendant-Appellee,
+
+and
+
+ASCENSION PROVIDENCE HOSPITAL,
+
+               Defendant
+
+
+
+Before: BORRELLO, P.J., and M. J. KELLY and ACKERMAN, JJ.
+
+ACKERMAN, J.
+
+       Plaintiff raises a straightforward challenge to the denial of her motion for a new trial or
+evidentiary hearing. But in presenting that challenge, plaintiff’s counsel created a separate
+problem by repeatedly relying on fabricated and unsupported legal authority.
+
+        The merits issue is easily resolved. Plaintiff sought a new trial or evidentiary hearing based
+on alleged juror misconduct and irregularities, but the allegations depended on facts outside the
+record and were not supported by valid affidavits. Even setting aside this procedural defect,
+plaintiff also failed to show that any alleged irregularity affected her substantial rights. The trial
+court therefore did not abuse its discretion by denying relief.
+
+        The briefing issue requires separate attention. In the trial court and again on appeal,
+plaintiff’s counsel relied on artificial intelligence without adequate verification, leading him to cite
+nonexistent cases and invoke real cases for propositions they do not support, even after defendant
+identified the defects. Counsel later acknowledged in a “Notice of Correction” that artificial
+intelligence had generated “plausible but fabricated case citations—a known limitation of such
+
+
+
+                                                  -1-
+tools.” Yet that notice, also prepared with the assistance of artificial intelligence, attributed
+quotations and legal propositions to cases that did not contain them.
+
+       We affirm the trial court’s order denying plaintiff’s motion for a new trial or evidentiary
+hearing. But because counsel’s repeated submission of fabricated and unsupported authority
+grossly disregarded the requirements of fair presentation and violated the duty of reasonable
+inquiry, we remand for a determination of the actual damages and expenses that defendant incurred
+because of this appeal, which shall be payable by plaintiff’s counsel personally.
+
+                                         I. BACKGROUND
+
+       This case arises from a hip replacement surgery that defendant, an orthopedic surgeon,
+performed on plaintiff at Ascension Providence Hospital in October 2020. Plaintiff sued, asserting
+claims of medical malpractice and negligence related to the surgery.
+
+        After a five-day trial, the jury found that defendant was not negligent. The trial court then
+polled the jurors. Jurors 1, 2, 3, 4, and 5 confirmed that the verdict accurately reflected their votes.
+Juror 7, the foreperson, answered that it did not. Because five jurors agreed, the verdict was
+sufficient in this civil action. See MCL 600.1352; MCR 2.514(A). After the poll, defense counsel
+asked whether the attorneys could speak with the jurors. The trial court agreed to permit a
+discussion if the jurors were willing. The court then spoke with the jurors and participated in an
+off-the-record discussion with the jurors and trial counsel.
+
+        Plaintiff later moved for a new trial or an evidentiary hearing. She alleged that the verdict
+was tainted by juror misconduct, improper extraneous influences, and irregularities in the
+deliberative process. Specifically, plaintiff asserted that, during the post-verdict discussion, one
+juror admitted consulting his mother, who had undergone hip surgery, about x-rays and her opinion
+of the case; that another juror admitted conducting independent online research about the size of a
+25-millimeter screw; that the foreperson said he wanted to review trial exhibits further before
+voting but other jurors prevented him from doing so; and that alternate jurors remained in the jury
+room during deliberations and favored the defense.
+
+       Plaintiff relied primarily on criminal caselaw and constitutional principles, contending that
+she was entitled to a new trial because the verdict was “influenced by improper extraneous
+evidence and a compromised deliberation process.” To support the factual assertions in the
+motion, plaintiff purported to attach affidavits from her trial attorneys. Those affidavits, however,
+were not notarized.
+
+        Defendant disputed plaintiff’s account of the post-verdict discussion and supported his
+response with notarized affidavits from defense counsel. According to defendant, no juror stated
+that he had consulted his mother about x-rays or evidence in the case; one juror merely mentioned
+that his mother had previously undergone hip replacement surgery. Defendant also asserted that
+no juror admitted conducting independent research regarding the screw; one juror commented only
+that the 25-millimeter screw looked large on the x-ray admitted into evidence but was, in fact,
+rather small. Defendant further maintained that the foreperson did not say the other jurors
+prevented him from reviewing exhibits. Instead, the foreperson “indicated that he was 90% for
+the defense” when the final vote was taken and that, although he had wanted to review additional
+
+
+                                                  -2-
+exhibits, he realized his vote was unnecessary because the other jurors were already in agreement.
+Finally, defendant asserted that the alternate jurors were dismissed after being selected as
+alternates and did not participate in deliberations.
+
+        Defendant also observed that plaintiff’s motion relied on two nonexistent criminal cases
+and otherwise cited criminal authority and constitutional protections inapplicable to this civil
+action. Defendant requested sanctions.
+
+       In reply, plaintiff acknowledged that “an innocent and inadvertent mistake was made”
+regarding the citations to nonexistent cases. Plaintiff nevertheless continued to rely primarily on
+criminal authority.
+
+        At the hearing on plaintiff’s motion, the trial court rejected plaintiff’s characterization of
+the post-verdict discussion, finding that its own recollection of the off-the-record conversation was
+consistent with defendant’s account rather than plaintiff’s. The court therefore denied plaintiff’s
+motion for a new trial or evidentiary hearing. This appeal followed.
+
+                II. MOTION FOR NEW TRIAL OR EVIDENTIARY HEARING
+
+        Turning first to the merits, the trial court did not abuse its discretion in denying plaintiff’s
+motion for a new trial or evidentiary hearing. Plaintiff’s motion relied on factual allegations
+outside the record that were not supported by valid affidavits, and even if the affidavits were valid,
+plaintiff did not show that any alleged misconduct or irregularity materially affected her substantial
+rights.
+
+        In civil cases, motions for a new trial are governed by MCR 2.611, and we review a trial
+court’s decision on a motion for a new trial for an abuse of discretion. Gilbert v DaimlerChrysler
+Corp, 470 Mich 749, 761; 685 NW2d 391 (2004). A trial court abuses its discretion when its
+decision falls outside the range of reasonable and principled outcomes or when it commits an error
+of law. Pirgu v United Servs Auto Ass’n, 499 Mich 269, 274; 884 NW2d 257 (2016).
+
+           Under MCR 2.611, a trial court may grant a new trial when a party’s substantial rights were
+materially affected by an “[i]rregularity in the proceedings of the court, jury, or prevailing party . . .
+which denied the moving party a fair trial,” MCR 2.611(A)(1)(a), or “[m]isconduct of the jury or
+of the prevailing party,” MCR 2.611(A)(1)(b). When “the facts stated in the motion for a new
+trial . . . do not appear on the record of the action, the motion must be supported by affidavit, which
+must be filed and served with the motion.” MCR 2.611(D)(1).
+
+        That affidavit requirement matters here because plaintiff’s motion depended almost
+entirely on alleged statements made during an off-the-record post-verdict discussion. Those facts
+did not appear in the record, so plaintiff was required to support the motion with affidavits. But
+the affidavits plaintiff submitted were not notarized and were therefore invalid. See Sherry v East
+Suburban Football League, 292 Mich App 23, 31; 807 NW2d 859 (2011) (“Because an affidavit
+lacking notarization is invalid, a trial court need not consider it.”).
+
+      Plaintiff argued in the trial court that the unnotarized affidavits had “the same effect as a
+sworn declaration,” citing § 2184 of the Uniform Unsworn Foreign Declarations Act,
+
+
+
+                                                   -3-
+MCL 600.2181 et seq. But that act does not apply to declarations made within the United States.
+See MCL 600.2183 (“This chapter does not apply to a declaration by a declarant who is physically
+located on property that is within the boundaries of the United States . . . .”). Plaintiff therefore
+offered no basis to conclude that the unnotarized statements of her trial attorneys satisfied
+MCR 2.611(D)(1).
+
+        On appeal, plaintiff contends that the affidavits were offered only “to trigger the
+[evidentiary] hearing—not to prove medical facts—and satisfy MCR 2.119(B)(1).” That
+distinction does not assist plaintiff. When the asserted facts do not appear in the record, the rule
+provides that the motion “must be supported by affidavit.” MCR 2.611(D)(1) (emphasis added).
+The rule does not contain a lesser affidavit requirement for motions seeking an evidentiary hearing
+as a step toward a new trial. Plaintiff cites no authority holding that an unnotarized affidavit
+satisfies that requirement and has therefore abandoned the argument. See Mettler Walloon, LLC
+v Melrose Twp, 281 Mich App 184, 220; 761 NW2d 293 (2008) (deeming an argument abandoned
+when the litigant failed to cite supporting authority). But it is likely that plaintiff cites no such
+authority because the plain text of the rule, combined with Sherry’s holding that an unnotarized
+affidavit is invalid, strongly suggests that no such authority could exist.
+
+        Even if plaintiff had properly supported the factual allegations in her motion, she failed to
+allege facts that would entitle her to relief. A new trial may be granted under MCR 2.611 only
+when the moving party’s substantial rights were materially affected. “An error affects substantial
+rights if it caused prejudice, i.e., it affected the outcome of the proceedings.” Lawrence v Mich
+Unemployment Ins Agency, 320 Mich App 422, 443; 906 NW2d 482 (2017) (cleaned up).
+
+         Plaintiff does not explain how the alleged misconduct or irregularities affected the outcome
+of the trial. Instead, plaintiff relies on the premise that juror misconduct “creat[es] a presumption
+of prejudice.” In support, plaintiff invokes Remmer v United States, 347 US 227, 229; 74 S Ct
+450; 98 L Ed 654 (1954). But Remmer expressly concerned criminal proceedings, holding that
+“[i]n a criminal case, any private communication, contact, or tampering directly or indirectly, with
+a juror during a trial . . . is, for obvious reasons, deemed presumptively prejudicial.” Id. (emphasis
+added). This is not a criminal case. Plaintiff’s reliance on the Sixth Amendment and Const 1963,
+art 1, § 20, is similarly misplaced because those provisions apply to criminal prosecutions, not
+civil medical malpractice actions.
+
+        Plaintiff has identified no non-criminal authority establishing a presumption of prejudice
+under these circumstances. Nor has plaintiff shown that the trial court’s refusal to conduct an
+evidentiary hearing was an abuse of discretion. Plaintiff’s allegations were unsupported by valid
+affidavits, contradicted by defendant’s notarized affidavits, and rejected by the trial court based on
+its own recollection of the post-verdict discussion in which it participated. On this record, plaintiff
+failed to demonstrate that the alleged misconduct or irregularities materially affected her
+substantial rights. The trial court thus did not abuse its discretion by denying plaintiff’s motion
+for a new trial or evidentiary hearing.
+
+
+
+
+                                                 -4-
+                                         III. SANCTIONS
+
+                                   A. COUNSEL’S CONDUCT
+
+        We must also address significant concerns about plaintiff’s counsel’s repeated submission
+of fabricated and unsupported legal authority in the trial court and in this Court.
+
+        Counsel first cited fabricated authority in plaintiff’s December 2024 motion for a protective
+order, relying on “People v. O’Keefe, 2019 WL 6907273,” regarding the exclusion of cumulative
+expert testimony. Defendant identified the fabricated citation in response. Counsel then sought
+leave to file a reply brief, but the proposed reply did not acknowledge or correct the citation.
+
+         The problem recurred two months later. In plaintiff’s February 2025 motion seeking a new
+trial or evidentiary hearing based on juror misconduct, counsel cited two nonexistent criminal
+cases, “People v. Stubblefield, 197 Mich. App. 365 (1992),” and “People v. Royster, 291 Mich.
+App. 508 (2011).” Defendant again identified the fabricated citations, observed that this was not
+the first time plaintiff had cited nonexistent authority, and sought sanctions under MCR 1.109 and
+MCL 600.2591. In reply, counsel acknowledged that “an innocent and inadvertent mistake was
+made regarding the citation of Stubblefield and Royster.” Yet counsel continued to rely primarily
+on criminal authority and related constitutional principles in support of a motion arising from a
+civil medical malpractice trial.
+
+         The same pattern continued on appeal. In plaintiff’s brief in this Court, counsel cited
+“Meyer v. Walker, 241 Mich. App. 295 (2000),” a case that does not exist, for propositions
+concerning presumed prejudice and the standard of review. Counsel also repeatedly cited real
+authorities for propositions they do not support. For example, counsel cited People v Budzyn, 456
+Mich 77; 566 NW2d 229 (1997), for the proposition that a “trial court’s handling of juror
+misconduct allegations is reviewed for an abuse of discretion,” but Budzyn states no such standard.
+Counsel similarly cited People v Miller, 482 Mich 540; 759 NW2d 850 (2008), for the proposition
+that a “trial court’s management of trial procedures, including exhibit availability and deliberation
+duration” is reviewed for an abuse of discretion, but Miller addressed neither issue. In short, most
+of the citations in plaintiff’s initial brief on appeal do not support the propositions for which they
+are offered.
+
+         Defendant again identified the deficiencies in his responsive brief, including the
+nonexistent citation to Meyer. Yet plaintiff’s counsel then filed a reply brief addressing the merits
+without acknowledging the fabricated case or correcting the unsupported legal assertions in the
+initial brief.
+
+        Eight months later—and less than three weeks before scheduled oral argument—plaintiff’s
+counsel filed a “Notice of Correction.” In it, counsel conceded that Meyer is not a real case and
+acknowledged that other authorities cited in plaintiff’s brief did not support the propositions for
+which they were offered. Counsel accepted “full responsibility” for the citation errors and
+attributed them to “over-reliance on artificial intelligence research tools” that generated “plausible
+but fabricated case citations—a known limitation of such tools.” Counsel also represented that he
+had “since implemented verification protocols to prevent recurrence.”
+
+
+
+                                                 -5-
+        But the Notice of Correction did not cure the problem. Counsel purported to substitute
+valid authorities for the fabricated and unsupported ones, but those substitute authorities still did
+not support the propositions for which counsel offered them. Most notably, counsel attributed to
+Miller, 482 Mich at 548-552, quotations concerning “extraneous prejudicial information” and
+“outside influence.” Those phrases do not appear in Miller. They appear instead in
+MRE 606(b)(2), which Miller does not discuss. At oral argument, counsel acknowledged that he
+used artificial intelligence to prepare the Notice of Correction.
+
+        This issue is therefore anything but an isolated mistake. By the time counsel filed
+plaintiff’s brief on appeal, he had already been told twice that his trial court filings contained
+fabricated authority. Yet the appellant’s brief he filed contained another fabricated citation and
+multiple unsupported citations—and when defendant identified those problems in his responsive
+brief, plaintiff’s counsel did not so much as acknowledge the problem in the reply brief he
+subsequently filed, which otherwise responded to defendant’s arguments. Months later, counsel
+represented that he had adopted verification protocols—in a filing that repeated the same kind of
+verification failure.
+
+        This sequence demonstrates counsel’s repeated carelessness regarding his independent
+duty to verify the legal authorities submitted to the courts. Under MCR 1.109(E)(5), an attorney’s
+signature on a filing certifies that “he or she has read the document” and that, “to the best of his or
+her knowledge, information, and belief formed after reasonable inquiry, the document is well
+grounded in fact and is warranted by existing law.” “The reasonableness of the inquiry is
+determined by an objective standard,” meaning “[t]he attorney’s subjective good faith is
+irrelevant.” Attorney General v Harkins, 257 Mich App 564, 576; 669 NW2d 296 (2003). “The
+requirement of ‘reasonable inquiry’ is obviously intended to impose a burden on pleaders not to
+make inaccurate assertions innocently but carelessly . . . . Although made in good faith, a mistaken
+legal argument may not satisfy the ‘formed after reasonable inquiry’ requirement, which by its
+terms qualifies all of the subrule.” 1 Longhofer & Quick, Michigan Court Rules Practice, Text
+(8th ed), § 1109.8, p 69.
+
+        Michigan has no specific caselaw regarding the consequences for fabricated or unsupported
+legal authority generated through the misuse of artificial intelligence, but federal caselaw provides
+useful guidance. Because MCR 1.109(E) is ultimately based on FR Civ P 11, “[a] body of case
+law has developed under FR Civ P 11 that may be used as guidance by the Michigan courts in
+applying MCR 1.109(E)(6).”1 Longhofer & Quick, § 1109.9, p 70.
+
+
+
+1
+  The signature rules in MCR 1.109(E) are, in relevant part, a recitation of the former MCR 2.114.
+The amendment adding that language to MCR 1.109(E) “move[d] existing language into
+MCR 1.109 as a way to, for the first time, include most filing requirements in one single rule,
+instead of scattered in various rules.” MCR 1.109, 501 Mich cclxxviii, cccx (staff comment). See
+also Cove Creek Condo Ass’n v Vistal Land & Home Dev, LLC, 330 Mich App 679, 707 n 9; 950
+NW2d 502 (2019) (“MCR 2.114 was repealed, effective September 1, 2018, and substantially
+relocated to current MCR 1.109(E).”). Former MCR 2.114, in turn, was “based on . . . FR Civ P
+11.” MCR 2.114, 419A Mich 36, 38 (staff comment). See also Fisher v Detroit Free Press, Inc,
+
+
+
+                                                 -6-
+        Federal courts, in turn, have consistently held that an attorney who files a signed pleading
+containing hallucinated or otherwise erroneous citations produced through reliance on artificial
+intelligence violates FR Civ P 11. “Relying on generative AI or citing authorities that do not, in
+fact, exist subjects a person to sanctions under Rule 11.” Nixon v Ken Ganley Ford West, 798 F
+Supp 3d 770, 778 (ND Ohio, 2025). See also Wadsworth v Walmart Inc, 348 FRD 489, 495 (D
+Wyo, 2025) (“[U]sing a fake opinion to support an argument is a violation of Rule 11(b)(2).”).
+Even where an attorney has “readily admitted” to such a mistake, it does not change that they have
+“fail[ed] to make the ‘reasonable inquiry’ required by Rule 11.” Benjamin v Costco Wholesale
+Corp, 779 F Supp 3d 341, 348 (ED NY, 2025). See also Hardy v Whitaker, ___ FRD ___, ___
+(ED Mich, 2026).
+
+        We join these other jurisdictions and hold that counsel’s submission of fabricated and
+unsupported authority violated the duty of reasonable inquiry required by MCR 1.109(E)(5).
+Counsel cited fabricated authority in a motion for a protective order, cited fabricated authority
+again in a motion for a new trial or evidentiary hearing, and then cited fabricated authority a third
+time in plaintiff’s brief on appeal.2 He also cited real cases for propositions they do not support,
+invoked criminal constitutional protections in a civil medical malpractice action, failed to timely
+correct a fabricated appellate citation after defendant identified it, and eventually filed a Notice of
+Correction that itself attributed quotations and propositions to cases that did not contain them.
+
+        Counsel’s explanation does not excuse the violation. Artificial intelligence may be a useful
+tool for legal research and drafting, but the use of such technology does not alter an attorney’s
+professional obligations. Lawyers remain responsible for the filings they sign and submit. They
+must verify that cited authorities exist, read the authorities on which they rely, and ensure that
+those authorities support the propositions asserted. Counsel’s repeated reliance on artificial
+intelligence without meaningful verification, despite having been alerted more than once that his
+filings contained fabricated authority, fell below that standard.
+
+                                 B. APPROPRIATE SANCTION
+
+        Counsel’s conduct burdened both defendant and this Court. Defendant was required to
+expend resources identifying and responding to fabricated citations, unsupported authorities, and
+arguments grounded in inapplicable criminal doctrine. This Court, in turn, was required to expend
+judicial resources disentangling plaintiff’s arguments from authorities that either did not exist or
+did not say what counsel represented them to say. We therefore consider the appropriate sanction.
+
+
+
+
+158 Mich App 409, 417; 404 NW2d 765 (1987); Briarwood v Faber’s Fabrics, Inc, 163 Mich App
+784, 792-793; 415 NW2d 310 (1987). The Supreme Court has since adopted a new version of
+MCR 2.114, which addresses the unrelated topic of certain proceedings under the Uniform Public
+Expression Protection Act, MCL 691.1851 et seq.
+2
+  We discuss the trial court filings not as an independent basis for appellate sanctions, but because
+they show that counsel was on notice before filing the appellate brief that his filings contained
+fabricated authority.
+
+
+                                                 -7-
+        Under MCR 7.216(C)(1)(b), this Court may “assess actual and punitive damages or take
+other disciplinary action when it determines that an appeal or any of the proceedings in an appeal
+was vexatious because” a brief filed on appeal “was grossly lacking in the requirements of
+propriety, violated court rules, or grossly disregarded the requirements of a fair presentation of the
+issues to the court.” Counsel’s brief violated MCR 1.109(E)(5) and grossly disregarded the
+requirements of fair presentation by relying on fabricated authority, unsupported citations, and
+inapplicable criminal doctrine. Sanctions are therefore authorized under MCR 7.216(C)(1)(b).
+
+        Sanctions are also required under MCR 1.109(E)(6). When a document is signed in
+violation of MCR 1.109(E)(5), the court “shall impose . . . an appropriate sanction, which may
+include an order to pay to the other party or parties the amount of the reasonable expenses incurred
+because of the filing of the document, including reasonable attorney fees.” MCR 1.109(E)(6).
+Because “the sanctions provided for by MCR [1.109(E)(6)] are mandatory” once a violation is
+found, Guerrero v Smith, 280 Mich App 647, 678; 761 NW2d 723 (2008), we must determine the
+appropriate sanction.
+
+        No published Michigan decision addresses the appropriate sanction under
+MCR 7.216(C)(1) or MCR 1.109(E)(6) for an attorney’s submission of fabricated or unsupported
+legal authority resulting from the misuse of generative artificial intelligence. Courts in other
+jurisdictions, however, have recognized that such conduct may warrant monetary sanctions,
+including reasonable attorney fees incurred to identify and respond to the fabricated authority.3
+
+
+3
+  See, e.g., Whiting v City of Athens, 170 F4th 455, 458, 466-467 (CA 6, 2026) (imposing
+reasonable attorney fees, double costs, and $15,000 in individual punitive sanctions against each
+attorney for briefing that “repeatedly misrepresented the record, cited non-existent cases, and cited
+cases for propositions of law that they did not even discuss, much less support”); Fletcher v
+Experian Info Solutions, Inc, 168 F4th 231, 233 (CA 5, 2026) (imposing a $2,500 sanction for
+briefing that contained fabricated quotations and unsupported legal propositions); Amarsingh v
+Frontier Airlines, Inc, unpublished order of the United States Court of Appeals for the Tenth
+Circuit, issued February 9, 2026 (Case No. 24-1391), pp 1, 5 (imposing monetary sanctions and
+referring counsel to attorney disciplinary authority when briefing included “citations to nonexistent
+cases and attribution of propositions or quotations to two real cases that did not stand for the
+propositions or contain the quotations”); Mata v Avianca, Inc, 678 F Supp 3d 443, 466 (SD NY,
+2023) (imposing a $5,000 sanction and requiring counsel to send “a letter individually addressed
+to each judge falsely identified as the author of the fake . . . opinions”); Ringo v Colquhoun Design
+Studio, LLC, 345 Or App 301, 306; 582 P3d 695 (2025) (imposing sanctions of “$500 for each
+false citation, and $1,000 for each false quotation or statement of law”); Couvrette v Wisnovsky,
+order of the United States District Court for the District of Oregon, issued December 12, 2025
+(Case No. 1:21-cv-00157-CL), pp 1, 15, and later order issued March 23, 2026, p 5 (imposing a
+$15,500 sanction and later awarding $94,704.38 in attorney fees and costs after filings contained
+nonexistent cases and fabricated quotations falsely attributed to legitimate authorities); ByoPlanet
+Int’l, LLC v Johansson, 792 F Supp 3d 1341, 1358 (SD Fla, 2025), and later order issued August 1,
+2025 (Case Nos. 0:25-cv-60630, 0:25-cv-60646, 0:25-cv-60647, and 0:25-cv-60712), p 4
+(referring counsel to the Florida Bar for appropriate discipline and later ordering counsel to pay
+$85,567.75 in attorney fees after counsel submitted fabricated quotations and a nonexistent case).
+
+
+                                                 -8-
+Courts have also imposed nonmonetary sanctions for similar conduct, including striking briefs,
+dismissing appeals, reprimanding attorneys, and referring counsel for disciplinary review.4
+
+        Under MCR 7.216(C)(2), defendant may recover “actual damages and expenses
+incurred . . . because of the vexatious appeal or proceeding, including reasonable attorney fees.”
+We remand to the trial court for a determination of those damages. On remand, the trial court shall
+conduct an evidentiary hearing to determine the actual damages, including reasonable attorney
+fees, that were incurred as a direct result of this vexatious appeal. After determining the extent of
+the damages, the sanction is to be paid by plaintiff’s counsel personally.
+
+                                       IV. CONCLUSION
+
+        We affirm the trial court’s order denying plaintiff’s motion for a new trial or evidentiary
+hearing. We further conclude that counsel’s repeated submission of fabricated and unsupported
+authority violated MCR 7.216(C)(1) and MCR 1.109(E)(5). We therefore remand for the trial
+court to determine the actual damages and expenses, including reasonable attorney fees, that
+defendant incurred because of this appeal. See Dillon v DeNooyer Chevrolet Geo, 217 Mich App
+163, 170; 550 NW2d 846 (1996). We do not retain jurisdiction, but we direct the Clerk of this
+Court to forward this opinion to the Attorney Grievance Commission for possible investigation.
+
+                                                              /s/ Matthew S. Ackerman
+                                                              /s/ Stephen L. Borrello
+                                                              /s/ Michael J. Kelly
+
+
+
+
+4
+ See, e.g., Park v Kim, 91 F4th 610, 612 (CA 2, 2024) (referring counsel to an attorney grievance
+panel and directing counsel “to furnish a copy of th[e] decision to her client” after counsel cited a
+nonexistent case); McCarthy v United States Drug Enforcement Admin, 171 F4th 245, 248, 251-
+252 (CA 3, 2026) (reprimanding counsel for submitting “a meritless legal argument” that “relied
+upon non-existent authority or was wholly unsupported by the adjudications cited” and noting that
+future violators may face additional sanctions); Grant v City of Long Beach, 96 F4th 1255, 1257
+(CA 9, 2024) (striking a brief and dismissing an appeal where the brief relied on nonexistent cases
+and misrepresented existing authorities); In re Nwaubani, unpublished opinion of the United States
+Court of Appeals for the Fourth Circuit, issued March 11, 2026 (Case No. 25-9517), pp 1-2, 5
+(publicly admonishing counsel for briefing that cited nonexistent cases).
+
+
+                                                -9-
+

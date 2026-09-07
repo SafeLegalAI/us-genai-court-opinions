@@ -1,0 +1,495 @@
+441 G St. N.W.                                                                   Comptroller General
+Washington, DC 20548                                                             of the United States
+
+
+                                                DOCUMENT FOR PUBLIC RELEASE
+                                             The decision issued on the date below was subject to
+
+Decision                                     a GAO Protective Order. This redacted version has
+                                             been approved for public release.
+
+
+
+Matter of:   Adapt Forward, LLC
+
+File:        B-424006
+
+Date:        February 18, 2026
+
+Lewis P. Rhodes, Esq., and Thomas K. David, Esq., Reston Law Group, LLP, for the
+protester.
+Paul Hawkins, Esq., and Callie M. Loveland, Esq., Gentry Locke, for 3ReSen, LLC, the
+intervenor.
+Scott J. McGuigan, Esq., and Christian J. Flask, Esq., Department of the Navy, for the
+agency.
+Kenneth Kilgour, Esq., and Heather Weiner, Esq., Office of the General Counsel, GAO,
+participated in the preparation of the decision.
+DIGEST
+
+1. Protest that the agency unreasonably evaluated the awardee’s technical proposal is
+denied where the record demonstrates that the evaluation was reasonable and
+consistent with the solicitation.
+
+2. Allegation that the agency unreasonably determined that the awardee’s proposal
+provided a contract reference for the prime contractor is denied where the record
+demonstrates that the evaluation was consistent with the solicitation and procurement
+law and regulation.
+DECISION
+
+Adapt Forward, LLC, of Charleston, South Carolina, protests the issuance of a task
+order to 3ReSen, LLC, 1 of Mechanicsville, Virginia, under request for proposals (RFP)
+No. N6523624R30260004, issued by the Department of the Navy, to support the Naval
+Information Warfare Center (NIWC) Atlantic’s Cybersecurity Service Provider (CSSP)
+
+
+
+1
+  3ReSen, LLC, is a joint venture, approved under the Small Business Administration’s
+(SBA) mentor-protégé program, between Sentar, Inc. (mentor partner) and 3 Reasons
+Consulting, LLC (protégé partner). First Supp. Agency Report (AR), Exh. B, Awardee
+Technical Proposal at 8.
+team. The protester--the incumbent contractor--asserts that the agency unreasonably
+evaluated the awardee’s technical proposal.
+
+We deny the protest.
+
+BACKGROUND
+
+The Navy issued the solicitation on March 3, 2025, as a small business set-aside
+pursuant to Federal Acquisition Regulation (FAR) subpart 16.5, seeking proposals from
+holders of the Navy’s seaport-next generation (SeaPort-NxG) indefinite-delivery,
+indefinite-quantity (IDIQ) multiple award contact. AR, Tab 4, RFP amend. 0004 (RFP)
+at 141. The RFP advised offerors that the Navy would issue a cost-plus-fixed-fee/level
+of effort task order to the offeror whose proposal, conforming to the solicitation, was
+determined to be technically superior and whose price was determined to be fair and
+reasonable based on a cost/price analysis. Id. at 4, 141. The two non-cost evaluation
+factors were technical capability and staffing plan; the technical capability factor was
+significantly more important than the staffing plan factor. Id. at 141. There was no
+tradeoff between the non-cost factors and cost/price. Id.
+
+Under the technical capability factor, the RFP advised offerors that the Navy would
+evaluate offerors’ corporate experience under four subfactors: managing of network
+architecture, identifying and reporting cyber events, customization of security incident
+and event management (SIEM) tools, and purple teaming. 2 Id. at 143-144. Offerors
+were required to “submit data on current contracts performed by the offeror and each
+proposed significant subcontractor (if applicable) for efforts relevant to the requirements
+of this RFP.” Id. at 134. The RFP reiterated: “At least one (1) current and relevant
+contract reference shall be submitted by the prime contractor and each significant
+subcontractor[,]” up to a total of no more than five references. Id. The RFP defined
+current as performed within 5 years of the date of solicitation issuance; relevant was
+defined as “similar to the requirements of this RFP.” Id.
+
+As relevant to this protest, the RFP contained the following evaluation criteria under the
+managing of network architecture subfactor:
+
+         Subfactor A1: Managing of Network Architecture
+
+         Demonstrate experience directly supporting a Cyber Security Service
+         Provider (CSSP) that provides concurrent support to five (5) or more CSSP
+         Subscribers. The offeror shall provide the following information for all
+         supported subscribers:
+
+               1. Dates of support
+
+2
+  Purple teaming is a collaborative cybersecurity approach where offensive (red) and
+defensive (blue) teams work together, rather than in isolation, to improve an
+organization’s security posture. See RFP at 26.
+
+
+Page 2                                                                 B-424006; B-424006.2
+                2. The name of the supported CSSP subscriber(s)
+                3. Identify tool suites used to monitor the network architectures
+                4. Identify the type of network architecture being monitored
+
+         For purposes of this subfactor, the definition of ‘Subscriber’ is as follows: an
+         organization or entity that has entered into a formal agreement to
+         receive cybersecurity services, support, and/or protection from a Provider.
+
+Id. at 134.
+
+The RFP advised offerors that the agency’s evaluation would be “based on the
+information provided by the offeror and submitted with its proposal (see Section L of the
+request for proposal for instructions about the preparation of information).” Id. at 145.
+Under section L, offerors were required to submit two reference information sheets
+provided as attachments 1A and 1B to the RFP. Id. at 134. The agency would evaluate
+and assign adjectival ratings of outstanding, good, acceptable, marginal or
+unacceptable 3 to the subfactors, and those ratings would be rolled into an overall
+technical capability factor rating. Id. at 142, 145. A proposal receiving a rating of
+unacceptable under any non-cost factor or subfactor would be ineligible for award. Id.
+at 143.
+
+Under the staffing plan factor, which is not at issue in this protest, offerors were required
+to propose a staffing plan matrix in accordance with the Microsoft Excel format provided
+in RFP attachment 7, staffing plan matrix. Id. at 135. The agency would evaluate the
+proposed staffing plan matrix to confirm the proposed individuals, labor categories,
+labor hours, location, and site shown in the matrix match those provided in the prime
+and subcontractor pricing models. Id.
+
+Regarding the cost/price factor, the RFP advised offerors that “[c]ost proposals will be
+evaluated in accordance with the criteria in FAR 15.404-1” and that “[t]he Government
+may limit its cost and price analysis (including cost realism) to the technically superior
+proposal.” Id. at 146. The evaluation of cost/price is not at issue.
+
+The Navy received proposals from seven firms, including the protester and the
+awardee. AR, Tab 5, Selection Evaluation Board (SEB) Report at 4. The awardee
+submitted four contract references, including one--contract reference 3 (CR3)--for
+Sentar, Inc., the awardee’s mentor partner for its joint venture. See First Supp. AR,
+Exh. 3, Sentar, Inc., Contract Reference at 13. The awardee’s proposal represented
+that:
+
+         Sentar’s [Defense Health Agency (DHA)] Cybersecurity Operations Center
+         (CyOC) CSSP support spanned the [medical community of interest (Med-
+
+3
+  The RFP defined an unacceptable proposal as one that “does not meet requirements
+of the solicitation and thus, contains one or more deficiencies[; p]roposal is
+unawardable.” Id. at 142.
+
+
+Page 3                                                                    B-424006; B-424006.2
+         COI)] and [DHS Network (DHAN)], encompassing 132 Medical Treatment
+         Facility enclaves, Program Management Offices, and Program Executive
+         Officer [Defense Health Management Systems Modernization (DHMSM)], and
+         750,000+ endpoints, tailoring services through separately negotiated CSSP
+         service enhancements defined under the DHA NIWC super statement of
+         work.
+
+Id. at 13.
+
+The awardee’s reference included all information required by the solicitation under
+the managing of network architecture subfactor of the technical capability factor,
+including: the dates of support, the names of the five or more CSSP subscribers
+supported, the tools used to monitor the network architecture, and the type of
+network architecture being monitored. Id.; see RFP at 134. In addition, the
+awardee’s proposal included the required reference information sheets--solicitation
+attachments 1A and 1B. See First Supp. AR, Exh. B, Awardee Technical Capability
+Proposal.
+
+The agency assigned Adapt Forward’s proposal ratings of outstanding under all four
+technical capability subfactors, outstanding under the technical capability factor overall,
+and good under the staffing plan. AR, Tab 5, SEB Report at 9. 3ReSen’s proposal was
+more highly rated, however, receiving ratings of outstanding under each of the four
+technical capability subfactors, outstanding under the technical capability factor overall,
+and a rating of outstanding under the staffing plan factor. Id. 3ReSen’s proposal was
+the most highly rated of all proposals, and Adapt Forward’s was the next most highly
+rated. Id. Adapt Forward’s total proposed cost of $262,896,057 was higher than
+3ReSen’s total proposed cost of $232,576,002. AR, Tab 8, Source Selection Document
+(SSD) at 5.
+
+The agency determined that the awardee’s price was reasonable based on a
+comparison of 3ReSen’s total estimated cost/price to the independent government
+estimate (IGE). AR, Tab 8, SSD at 39. 3ReSen’s total estimated price of $232,576,002
+was $77,426,074 lower than the IGE total estimated price of $310,002,076. Id.
+Additionally, the Navy determined through an analysis of 3ReSen’s other than certified
+cost or pricing data that each cost element was fair and reasonable. Id.
+
+Because the RFP specified that the Navy would issue the task order to the highest
+technically rated proposal with a reasonable cost, the source selection authority (SSA)
+determined that 3ReSen’s proposal represented the best value to the agency, id. at 40,
+and the SSA selected 3ReSen for task order issuance. 4 AR, Tab 9, Business
+
+
+4
+ Importantly, the SSA looked behind the technical capability subfactor ratings and, for
+example, found 3ReSen’s proposal superior to Adapt Forward’s under the managing of
+network architecture subfactor, notwithstanding that the agency evaluated both
+proposals as outstanding. See AR, Tab 8, at 7-8 (finding that 3ReSen’s proposal was
+                                                                            (continued...)
+
+
+Page 4                                                                 B-424006; B-424006.2
+Clearance Memorandum at 2. After receiving a debriefing on November 17, 2025, the
+protester filed this protest with our Office. 5 AR, Tab 3, Notice of Unsuccessful Offer and
+Post Award Debriefing.
+
+DISCUSSION
+
+Adapt Forward challenges as unreasonable the Navy’s evaluation of the awardee’s
+technical proposal. Specifically, the protester argues that the agency unreasonably
+evaluated the awardee’s corporate experience under the technical capability factor by
+improperly finding one of the awardee’s contract references relevant. Adapt Forward
+also contends that the awardee’s proposal should have been rejected because it did not
+include a contract reference for the prime contractor as required by the RFP. In this
+regard, the protester argues that the reference submitted by the awardee for one of its
+joint venture partners could not reasonably satisfy the prime contractor experience
+requirement. As explained below, we deny the first allegation because the record
+demonstrates that the evaluation was reasonable and consistent with the solicitation.
+We deny the second allegation because the record reflects that the experience provided
+by one of the joint venture partners satisfied the pertinent RFP requirement. 6
+
+“clearly technically superior” to Adapt Forward’s; both proposals received a significant
+strength for the offerors’ experience meeting the subfactor requirements, and 3ReSen’s
+proposal received two strengths for implementing automation and process
+improvements across CSSP environments and for demonstrating experience in
+developing and delivering targeted training to enhance cybersecurity with CSSPs).
+5
+  The value of the task order is over $200 million and therefore is within our jurisdiction
+to review protests related to the issuance of orders exceeding $35 million under
+multiple-award IDIQ contracts issued under the authority of title 10 of the United States
+Code. 10 U.S.C. § 3406(f)(1)(B).
+6
+  The protester asserted that the awardee’s staffing plan contained a material
+misrepresentation based, in large part, on the awardee’s attempts--after task order
+issuance--to hire incumbent staff. Comments and Supp. Protest at 7-8. The agency
+provided a thorough defense of its allegation, arguing that post-award efforts to recruit
+incumbent staff do not establish a material misrepresentation. Supp. AR at 8, citing
+Systems Plus, Inc., B-415559; B-415559.2, Jan. 12, 2018; Xenith Group, LLC,
+B-420706, July 14, 2022. Because the protester failed to respond to the agency’s
+defense of its evaluation, see Supp. Comments, we consider this allegation abandoned.
+Avionic Instruments LLC, B-418604.3, May 5, 2021, at 6. Other allegations were
+similarly abandoned. See Supp. Comments.
+Also, the protester asserted that the agency improperly calculated the awardee’s
+“Monthly Market Basket price” and that the agency “looked away from the higher priced
+[contract line items] contained in the quotes submitted by the large business offerors but
+placed Adapt Forward’s price quote under a more stringent and contrasting lens.”
+Comments and Supp. Protest at 8-9. The agency’s claim that these allegations are
+unrelated to the protested procurement went unchallenged by the protester. Supp. AR
+                                                                            (continued...)
+
+
+Page 5                                                                  B-424006; B-424006.2
+Evaluation of Relevance of Awardee’s Contract Reference--CR3
+
+The protester contends that the required contract reference submitted by 3ReSen as
+the prime contractor in support of the awardee’s corporate experience under the
+technical approach factor should have been evaluated as not relevant because the
+solicitation required offerors to demonstrate support of a CSSP provider and the
+requirement for the awardee’s reference was, instead, in support of a CSSP
+subscriber. 7 Comments and Supp. Protest at 3. The Navy contends that its evaluation
+was reasonable. Supp. AR, exh. 2, SEB Chairperson Statement at 4.
+
+The task order competition here was conducted among SeaPort-NxG contract holders
+pursuant to the IDIQ task order provisions of FAR subpart 16.5. In reviewing protests of
+awards in task order competitions, we do not reevaluate proposals but examine the
+record to determine whether the evaluations and source selection decision are
+reasonable and consistent with the solicitation’s evaluation criteria and applicable
+procurement laws and regulations, adequately documented, and treat all offerors or
+vendors equally. Sparksoft Corp., B-420944.4, June 2, 2023, at 5. A protester’s
+disagreement with the agency’s judgment regarding the evaluation of proposals, without
+more, is not sufficient to establish that the agency acted unreasonably. Id. Agency
+evaluators may reasonably use their personal knowledge to determine whether an
+offeror’s corporate experience met or exceeded the requirement of the solicitation.
+Mindpetal Software Sols., Inc., B-420070, B-420070.2, Nov. 18, 2021, at 6.
+
+As noted above, the RFP advised offerors that, under the technical capability factor, the
+Navy would evaluate offerors’ corporate experience under four subfactors: managing of
+network architecture, identifying and reporting cyber events, customization of SIEM
+tools, and purple teaming. RFP at 143-144. Under the managing of network
+architecture subfactor, offerors were to demonstrate “experience directly supporting a
+Cyber Security Service Provider (CSSP) that provides concurrent support to five (5) or
+more CSSP Subscribers.” Id. at 143.
+
+As relevant here, the CR3 experience reference is generally referred to as the DHA
+contract. See First Supp. Document Prod., exh. B, Awardee Technical Proposal at 13
+(describing the contract as “Sentar’s DHA Cybersecurity Operations Center (CyOC)
+CSSP support” contract). Adapt Forward contends that because DHA is not a CSSP,
+
+
+
+
+at 12; see Supp. Comments. Whether addressed or not, we considered all the
+protester’s allegations and found none meritorious.
+7
+  Adapt Forward claims that the Department of Defense (DOD) draws a distinction
+between a company acting as a DOD component subscriber in internal cyber
+organizations and a CSSP provider, which delivers actual CSSP services. Protest at 9.
+A subscriber, the protester explains, enters into a formal agreement to receive
+cybersecurity services, support, or protection from a provider. Id.
+
+
+Page 6                                                                B-424006; B-424006.2
+work performed under the DHA contract is not directly supporting a CSSP. 8 Comments
+and Supp. Protest at 3.
+
+In response, the agency provided a statement from the SEB Chair, who has been a
+program manager within NIWC Atlantic since 2021 and currently serves as the
+Acquisition Strategy Lead for the Defense Health Information Technology (DHIT)
+Division. Agency Response to Notice of Question for Agency. In this capacity, the SEB
+Chair oversees and manages all task orders supporting the DHIT Division, which
+included the contract submitted by 3ReSen as CR3. Id. Through her official duties, she
+had personal knowledge of the scope of CR3, the basic structure of the NIWC Atlantic
+CSSP Integrated Product Team (IPT), the main subscribers supported under CR3, and
+major organizational and programmatic changes that have occurred over time. Id.
+
+Specifically, with regard to the protester’s assertion that DHA is not a CSSP, the
+SEB Chair states that although DHA is “the primary CSSP subscriber for this specific
+task order,” “the procurement was solicited by NIWC Atlantic and therefore the prime
+customer of the referenced PWS is NIWC-Atlantic.” Supp. AR, exh. 2, First
+Statement of SEB Chair at 1. The SEB Chair explains that “[a]s such, the support
+required by this scope directly supports the NIWC Atlantic CSSP (formerly CNDSP)
+tasking, more specifically tying in elements of Cybersecurity, Incident Response and
+
+8
+  Adapt Forward also asserts what it regards as a meaningful omission, namely, that
+“nothing in 3ReSen’s proposal states that DHA is a CSSP Provider[.]” Comments and
+Supp. Protest at 3, citing AR, Tab 6, Awardee attach. 1A, reference information sheet
+at 13-15. The protester’s own proposal, however, lacks the explicit statement that
+Adapt Forward asserts should have been included in the awardee’s. See AR, Tab 7A,
+Protester attach. 1A, reference information sheet (nowhere using the phrase “CSSP
+Provider”). Instead, the CSSP language used in Adapt Forward’s reference sheet is
+similar to the language used in the awardee’s reference sheet. Compare AR, Tab 7A,
+Protester attach. 1A, Reference Information Sheet at 20 (noting that “[t]he Adapt
+Forward team has supported the Naval Information Warfare Center (NIWC) Atlantic
+DoD Manual 8530.01--accredited Cybersecurity Service Provider (CSSP) for over a
+decade”), with AR, Tab 6, Awardee attach. 1A, Reference Information Sheet at 13
+(noting that “Sentar’s DHA Cybersecurity Operations Center (CyOC) CSSP support
+spanned [listing of numerous services].”).
+Moreover, the protester concedes that two of the awardee’s other contract references
+for major subcontractors are relevant, and neither reference states that the agency
+supported a “CSSP Provider.” See Comments and Supp. Protest at 6 (describing as
+“relevant” the references the awardee provided for “its two major subcontractors”); see
+also AR, Tab 6, Awardee attach. 1A, reference information sheet at 8 (noting that one
+major subcontractor “delivered CSSP services to [a variety of entities]”), at 18 (noting
+that the other subcontractor “provided the [Marine Corps Cyberspace Operations
+Group] with comprehensive CSSP support”). The omission in the CR3 contract
+reference is not meaningful where references in both offerors’ proposals routinely failed
+to make explicit that the contract reference cited supported a “CSSP Provider.”
+
+
+
+Page 7                                                                B-424006; B-424006.2
+Threat Analysis, and mitigation support[.]” Id. In addition, the SEB Chair notes that
+the awardee’s CR3 identified a list of six subscribers. Id. at 2. The SEB Chair
+explains that the SEB therefore concluded that the CR3 reference provided all the
+information required by the solicitation under the managing of network architecture
+subfactor; in particular, the reference established that the contractor directly
+supported a CSSP provider that supported five or more CSSP subscribers. Id.
+
+Based on our review, we find nothing unreasonable regarding the agency’s evaluation.
+Although Adapt Forward argues that DHA is not a CSSP provider, the SEB Chair is
+unequivocal that “Sentar, as the Prime contractor, directly supported the NIWC Atlantic
+CSSP that provided support to five (5) or more CSSP Subscribers.” Agency Supp.
+Comment, exh. C, Second Statement of SEB Chair at 2. The SEB Chair represents
+that, during the period of performance of CR3, the CyOC was part of the NIWC Atlantic
+SCCP key services; thus, Sentar was providing direct support to the NIWC Atlantic
+CSSP. Id., citing exh. D, NIWC Defensive Cyber Operations (DCO) IPT Lead
+Memorandum to File. The DCO IPT lead, while not a part of the SEB Board,
+corroborates the representation of the SEB Chair, stating that “the CyOC was part of the
+NIWC Atlantic CSSP IPT as a key service.” Agency Supp. Comment, exh. D, NIWC
+Defensive Cyber Operations (DCO) IPT Lead Memorandum to File at 1. As noted
+above, the awardee’s proposal stated that CR3 supported “DHA Cybersecurity
+Operations Center (CyOP) CSSP support[.]” First Supp. Document Prod., exh. B,
+Awardee Technical Capability Proposal at 13.
+
+As referenced above, agency evaluators may reasonably use their personal knowledge
+to determine whether an offeror’s corporate experience met or exceeded the
+requirement of the solicitation. Mindpetal Software Sols., Inc., supra. Here, the
+personal knowledge of both the SEB Chair--who participated in the evaluation--and the
+DCO IPT lead support the reasonableness of the agency’s evaluation of CR3 as
+relevant under the technical capability factor. Although Adapt Forward contends that
+the awardee’s corporate experience contract reference CR3 did not demonstrate
+support of a CSSP provider and therefore should not have been deemed relevant by the
+agency, the protester has not demonstrated that the agency’s evaluation was
+unreasonable. The protester’s disagreement with the agency’s judgment, without more,
+is not sufficient to establish that the agency acted unreasonably. Accordingly, this
+allegation is denied. 9
+
+
+9
+   The GAO attorney assigned to this protest conducted a litigation risk alternative
+dispute resolution teleconference with the parties during which the parties were advised
+of this outcome. The protester declined to withdraw its protest. Instead, Adapt Forward
+filed comments, which were uninvited and for which the protester had not requested
+leave to file. See Comment on ADR. In those comments, the protester provided three
+citations to GAO decisons, asserting that “[i]n each of those cases, the GAO sustained
+protests even though the respective solicitations did not require submission of the
+underlying source documents.” Id. at 2. The protester provided these citations:
+“Boeing Sikorsky Aircraft Support, B-277263.2, Jan. 7, 1998”; “Caci, Inc.–Federal,
+                                                                              (continued...)
+
+
+Page 8                                                                  B-424006; B-424006.2
+Alleged Failure of Awardee to Submit Contract Reference for Prime Contractor
+
+As noted above, the solicitation required that “[a]t least one (1) current and relevant
+contract reference shall be submitted by the prime contractor and each significant
+subcontractor.” RFP at 134. Adapt Forward argues that “13 CFR [§] 125.8(e) states, ‘A
+procuring activity must consider work done and qualifications held individually by each
+partner to the joint venture as well as any work done by the joint venture itself
+previously.’” Comments and Supp. Protest at 7. The protester contends that “3ReSen
+did not provide, and [the Navy] did not consider or evaluate, any contract references
+assigned to the Joint Venture or the Protégé[.]” Id. at 8. The Navy contends that it
+reasonably determined that the awardee’s proposal met the RFP requirement because
+3ReSen, as the prime contractor, properly submitted a corporate experience reference
+for its joint venture mentor partner, Sentar. Supp. AR at 10.
+
+Where relevant experience instructions do not define the prime contractor as the joint
+venture itself, those instructions and SBA regulation 13 C.F.R. § 125.8(e) 10 permit the
+
+
+B-419446.2, Jan. 27, 2021”; and “SRA Int’l, Inc., B-407709.2, Jan. 25, 2013.” Id. The
+GAO attorney advised the protester of his difficulty in locating the cases cited and
+requested updated citations. See Email Exchange at 2-3. The GAO attorney also
+advised the parties that, in accordance with 4 C.F.R. § 21.3(j), GAO would disregard the
+filing. The protester replied with these citations: “Boeing Sikorsky Aircraft Support,
+B-277263.2, B-277263.3, Sept. 29, 1997, 97-2 CPD 91”, “Caci, Inc.- Fed., B-421224
+(Jan. 23, 2023) 2023 CPD P 35”; “SRA Int’l, Inc., B-407709.5; B-407709.6, Dec. 3,
+2013, 2013 CPD 281.” Id. at 1.
+
+None of the original citations correctly identified both the case B-number and date; one
+citation contained an inaccurate B-number. Although the protester provided accurate
+revised citations, none of the three decisions cited support the asserted proposition. An
+attorney’s citation of non-existent or inapposite decisions that might have been
+generated by artificial intelligence may implicate applicable rules of professional
+conduct. See, e.g., United States v. Hayes, 763 F. Supp. 3d 1054, 2025 U.S. Dist.
+LEXIS 9408, at *19 (E.D. Cal. 2025) (“Submitting fictitious cases and quotations to the
+court ‘degrades or impugns the integrity of the Court’ and ‘interferes with the
+administration of justice’ in violation of Local Rule 180(e), and violates California Rules
+of Professional Conduct 3.1(a)(2), 3.3(a)(1), and 3.3(a)(2).”). We therefore advise
+attorneys appearing before our Office that the citation of non-existent authority may
+result in referral to appropriate bar associations or other disciplinary bodies.
+10
+     That regulation states:
+
+         A procuring activity has discretion whether to require a protégé or lead small
+         business member of a joint venture to demonstrate some level of past
+         performance and/or experience. It may rely solely on the past performance
+                                                                               (continued...)
+
+
+Page 9                                                                   B-424006; B-424006.2
+agency to accept an experience reference from a partner to the joint venture. Gunnison
+Consulting Grp., Inc., B-418876.5, Feb. 4, 2021, at 2-3. Where the solicitation requires
+an offeror relying on a major subcontractor or teaming partner to submit one reference
+from the major subcontractor or teaming partner and one reference from the prime
+contractor, defined as the offeror, we interpret that requirement as differentiating
+between a prime contractor and its subcontractors or teaming partners. Gunnison
+Consulting Group, Inc., B-418876 et al., Oct. 5, 2020, at 6. We do not construe that
+solicitation provision as creating a requirement for a joint venture to submit a reference
+on its own behalf rather than relying on the experience of a partner to the joint venture.
+Id.
+
+The agency contends that the facts of the instant case are “nearly identical” to those of
+Gunnison Consulting Group, Inc., B-418876 et al. Supp. AR at 11, citing Gunnison
+Consulting Group, Inc., B-418876 et al., supra. We agree with the agency. Together,
+the Gunnison Consulting Group, Inc. decisions referenced above, support the
+reasonableness of the agency’s acceptance of the mentor partner’s reference as
+satisfying the requirement that the offeror submit one reference from the prime
+contractor, where, as here, the solicitation defined prime contractor simply as the
+offeror. The protester does not challenge the Navy’s contention that Gunnison
+Consulting Group, Inc., B-418876 et al., is applicable here. See Supp. Comments
+at 5-6. Accordingly, we find reasonable that the agency permitted the joint venture
+prime offeror to rely on the experience of a partner to the joint venture to satisfy the
+corporate experience requirement, and we deny this allegation.
+
+The protest is denied.
+
+Edda Emmanuelli Perez
+General Counsel
+
+
+
+
+      and experience of the mentor or non-similarly situated joint venture partner, or
+      it may require some level of past performance and/or experience of the
+      protégé or lead small business member. Where it requires some level of past
+      performance and/or experience of the protégé or lead small business firm, the
+      procuring activity shall not require that firm to individually meet all the same
+      evaluation or responsibility criteria as that required of other offerors generally.
+
+13 C.F.R. § 125.8(e)(1).
+
+
+Page 10                                                                 B-424006; B-424006.2
+

@@ -1,0 +1,731 @@
+    Case: 1:26-cv-06266 Document #: 17 Filed: 08/26/26 Page 1 of 14 PageID #:77
+
+
+
+
+                       THE UNITED STATES DISTRICT COURT
+                     FOR THE NORTHERN DISTRICT OF ILLINOIS
+                               EASTERN DIVISION
+
+                                                )
+ TYLER SHELBERT,                                )
+                                                )
+                       Plaintiff,               )            No. 26 C 6266
+        v.                                      )
+                                                )            Chief Judge Virginia M. Kendall
+ BAXTER INTERNATIONAL, INC.,                    )
+                                                )
+                       Defendant.               )
+                                                )
+
+                         MEMORANDUM OPINION AND ORDER
+
+       Plaintiff Tyler Shelbert moves to strike nine of Defendant Baxter International, Inc.’s
+
+affirmative and other defenses from its Answer under Federal Rule of Civil Procedure 12(f). (Dkt.
+
+12). For the reasons below, the Court grants in part and denies in part Tyler’s Motion. (Id.) The
+
+Court grants Tyler’s Motion as to Affirmative Defense Nos. 1, 10, 11, 12, 13, and grants Baxter
+
+14 days to amend its Answer to replead these Affirmative Defenses. (Id.) The Court denies Tyler’s
+
+Motion as to Affirmative Defense Nos. 5, 7, 8, 14. (Id.)
+
+       Tyler asserts that nine of Baxter’s Affirmative Defenses—Nos. 1, 5, 7, 8, 10, 11, 12, 13,
+
+and 14—should be stricken because they: (1) “are not affirmative defenses as a matter of law”; (2)
+
+“merely restate” Baxter’s “denials of” Tyler’s allegations or “invoke equitable or procedural
+
+doctrines without alleging any facts supporting their application”; and (3) “are facially
+
+inapplicable” to Tyler’s “ADA and USERRA claims.” (Dkt. 12 at 3). Specifically, Tyler first asserts
+
+that Baxter’s Affirmative Defense Nos. 1, 7, and 14 are not “true” affirmative defenses because
+
+they “merely negate[] an element” of Tyler’s “prima facie case or simply den[y] liability[.]” (Id.
+
+at 3-5). Second, Tyler contends that Baxter’s Affirmative Defense Nos. 11, 12, and 13 fail to
+
+provide fair notice because they are “conclusory invocations of equitable and procedural
+
+
+
+                                                1
+    Case: 1:26-cv-06266 Document #: 17 Filed: 08/26/26 Page 2 of 14 PageID #:78
+
+
+
+
+doctrines” that lack “any factual basis supporting their application to this case.” (Id. at 5-6). Third,
+
+Tyler claims that Baxter’s Affirmative Defense Nos. 5, 8, and 10 “should be stricken because they
+
+bear no apparent relationship to the claims asserted in this action or the factual allegations
+
+contained in” Baxter’s Answer and are thus “facially inapplicable.” (Id. at 6-9). Alternatively, Tyler
+
+asks the Court to order Baxter “to replead” the 9 contested Affirmative Defenses “with sufficient
+
+factual and legal specificity to provide fair notice of the issues genuinely in dispute.” (Id. at 9-10).
+
+        Baxter responds that Tyler’s Motion—filed “[w]ithin two hours” of Baxter filing its
+
+Answer—should be denied because he failed to carry his burden. (Dkt. 15 at 1, 5-6). Baxter asserts
+
+that Tyler failed to “include any argument that striking any defense would alter the pretrial process
+
+or prevent prejudice” to him (id. at 5); it further notes that he “never explains how striking these
+
+defenses would generate any efficiency, narrow discovery, or otherwise alter the pretrial process
+
+in a meaningful way.” (Id. at 6). Rather, Baxter maintains that pleading “defenses early ensures
+
+that the case runs smoothly and proceeds without delay.” (Id.) Baxter counters Tyler’s claim that
+
+its defenses are conclusory by noting that, when viewed as a whole—instead of in a “vacuum”—
+
+Baxter pleaded “sufficient facts to support [its] defenses” and “to put [Tyler] on notice of [Baxter’s]
+
+position.” (Id. at 7). “Regardless of whether they are true affirmative defenses,” Baxter continues,
+
+its “defenses meet the pleading standard under Rule 8, which requires only a short and plain
+
+statement of the defense.” (Id. at 9). In the alternative, Baxter seeks leave to amend under Federal
+
+Rule of Civil Procedure 15(a)(2) “[i]f the Court determines that any of [Baxter’s] defenses do not
+
+satisfy the pleading standards or should not be part of its responsive pleading[.]” (Id. at 9-10).
+
+                                       LEGAL STANDARD
+
+        Motions to strike are governed by Federal Rule of Civil Procedure 12(f) which provides
+
+that “[t]he court may strike from a pleading an insufficient defense or any redundant, immaterial,
+
+
+
+
+                                                   2
+    Case: 1:26-cv-06266 Document #: 17 Filed: 08/26/26 Page 3 of 14 PageID #:79
+
+
+
+
+impertinent, or scandalous matter.” Fed. R. Civ. P. 12(f). “Motions to strike are not favored and
+
+will not be granted unless it appears to a certainty that plaintiffs would succeed despite any state
+
+of the facts which could be proved in support of the defense and are inferable from the pleadings.”
+
+Williams v. Jader Fuel Co., 944 F.2d 1388, 1400 (7th Cir. 1991) (cleaned up). “Affirmative
+
+defenses are pleadings and, therefore, are subject to all pleading requirements of the Federal Rules
+
+of Civil Procedure.” Heller Fin., Inc. v. Midwhey Powder Co., 883 F.2d 1286, 1294 (7th Cir. 1989).
+
+Federal Rule of Civil Procedure 8(a) requires a “‘short and plain statement’” of the asserted
+
+defense Id. (quoting Fed. R. Civ. P. 8(a)). “Ordinarily, defenses will not be struck if they are
+
+sufficient as a matter of law or if they present questions of law or fact.” Id. Thus, the Court will
+
+only strike affirmative defenses “when they are insufficient on the face of the pleadings.” Id.
+
+                                           ANALYSIS
+
+       Tyler’s first argument is that Baxter’s Affirmative Defense Nos. 1, 7, and 14 are not true
+
+Affirmative Defenses. (Dkt. 12 at 3-5). These Affirmative Defenses are as follows:
+
+       1. The Complaint fails to state facts sufficient to constitute a cause of action for
+       which relief may be granted.
+
+       7. Any and all conduct of which Plaintiff complains or which is attributed to
+       Defendant was a just and proper exercise of management discretion, at all times
+       privileged and justified, and undertaken for fair and honest reasons, for good cause,
+       and in good faith and without malice.
+
+       14. Plaintiff’s claims are barred, in whole or in part, because the decisions made in
+       regard to his employment were for legitimate, non-discriminatory, and non-
+       pretextual reasons.
+
+(Dkt. 9 at 22-24). “To survive a motion to strike, an affirmative defense must satisfy a three-part
+
+test: ‘(1) the matter must be properly pleaded as an affirmative defense; (2) the matter must be
+
+adequately pleaded under the requirements of Federal Rules of Civil Procedure 8 and 9; and (3)
+
+the matter must withstand a Rule 12(b)(6) challenge.’” See Crumpton v. Octapharma Plasma, Inc.,
+
+
+
+
+                                                 3
+     Case: 1:26-cv-06266 Document #: 17 Filed: 08/26/26 Page 4 of 14 PageID #:80
+
+
+
+
+513 F. Supp. 3d 1006, 1012 (N.D. Ill. 2021) (quoting Sarkis’ Café, Inc. v. Sarks in the Park, LLC,
+
+55 F. Supp. 3d 1034, 1039 (N.D. Ill. 2014)); see also Intercon Sols., Inc. v. Basel Action Network,
+
+969 F. Supp. 2d 1026, 1059 (N.D. Ill. 2013), aff’d, 791 F.3d 729 (7th Cir. 2015) (applying same
+
+standard); Microthin.com, Inc. v. Siliconezone USA, LLC, 2006 WL 3302825, at *9 (N.D. Ill. Nov.
+
+14, 2006) (same); Bobbitt v. Victorian House, Inc., 532 F. Supp. 734, 737 (N.D. Ill. 1982) (same).
+
+“A defense is affirmative: (1) ‘if the defendant bears the burden of proof’ under relevant law or (2)
+
+‘if it does not controvert the plaintiff’s proof.’” Thirteen Inv. Co., Inc. v. Foremost Ins. Co. Grand
+
+Rapids Michigan, 67 F.4th 389, 391 (7th Cir. 2023) (brackets omitted) (quoting Winforge, Inc. v.
+
+Coachmen Indus., Inc., 691 F.3d 856, 872 (7th Cir. 2012)). “‘An affirmative defense limits or
+
+excuses a defendant’s liability even if the plaintiff establishes a prima facie case.’” Id. at 392
+
+(quoting Bell v. Taylor, 827 F.3d 699, 704-05 (7th Cir. 2016)). “In other words, an affirmative
+
+defense is a defendant’s assertion of facts and arguments that, if true, will defeat the plaintiff’s
+
+claim, even if all the allegations in the complaint are true.” Id. (cleaned up).
+
+         Affirmative Defense Nos. 1, 7, and 14 lack clear indicia of being true Affirmative Defenses.
+
+(Compare id. with Dkt. 9 at 22-24). Baxter concedes as much. (Dkt. 15 at 7) (conceding that, “to
+
+the extent they overlap with Defendant’s denials, they are properly treated as specific denials rather
+
+than stricken”); (id. at 8) (“Defendant acknowledges that most of these are not true affirmative
+
+defenses, and that it was not legally required to plead them.”). 1 That said, Affirmative Defense
+
+Nos. 7 and 14 satisfy Rule 8, withstand Rule 12(b)(6) scrutiny, and raise issues of fact and law,
+
+making dismissal improper. Heller, 883 F.2d at 1294; Crumpton, 513 F. Supp. 3d at 1012. This
+
+much is necessarily so given that Court’s “typically give defendants some slack in pleading”
+
+affirmative defenses given “the specific context within which these issues often arise[.]” See Red
+
+
+1
+  For ease of reading and clarity, the Court refers to all of the Defenses as Affirmative Defenses even if they are not
+“true” Affirmative Defenses because the resolution of Tyler’s Motion turns on substance not labels.
+
+
+                                                          4
+    Case: 1:26-cv-06266 Document #: 17 Filed: 08/26/26 Page 5 of 14 PageID #:81
+
+
+
+
+Label Music Publ’g, Inc. v. Chila Prods., 388 F. Supp. 3d 975, 983 (N.D. Ill. 2019). Affirmative
+
+Defense No. 1 is rather opaque, however. (Dkt. 9 at 22). It gives the impression of an argument
+
+under Rule 12(b)(6), but it is conclusory. The Court therefore denies Tyler’s Motion as to
+
+Affirmative Defense Nos. 7 and 14 but grants it as to Affirmative Defense No. 1. The Court grants
+
+Baxter 14 days to amend its Answer to amend Affirmative Defense No. 1.
+
+       In Tyler’s view, any Affirmative Defense that is not a “true” Affirmative Defense is “legally
+
+insufficient” and must be dismissed as unnecessary “clutter.” (Dkt. 12 at 1-5); (Dkt. 16 at 1-4).
+
+Some courts apply this standard inflexibly. See, e.g., Stoicescu v. Hamilton Sundstrand Corp., 2025
+
+WL 919519, at *4 (N.D. Ill. Mar. 26, 2025). This Court does not. No doubt it may be appropriate
+
+when, for example, a party asserts a defense late; but if the asserted defense is timely and satisfies
+
+Rule 8, it makes little sense to strike it early in litigation with discovery barely off the ground.
+
+Consider Affirmative Defense Nos. 7 and 14. Tyler fails to show how to a “certainty” he “would
+
+succeed despite any state of . . . facts which could be proved in support of the[se] defense[s]” or
+
+that “are inferable from the pleadings.” Williams, 944 F.2d at 1400. Whether these Affirmative
+
+Defenses are “sufficient as a matter of law” the Court need not decide because they clearly “present
+
+questions of . . . fact.” Heller, 883 F.2d at 1294. Affirmative Defense No. 14, for example, states
+
+that the “decisions made in regard to [Tyler’s] employment were for legitimate, non-
+
+discriminatory, and non-pretextual reasons.” (Dkt. 9 at 24). The answer to that can only be
+
+determined after discovery fleshes out what decisions were made, who made them, and whether
+
+those facts—taken in view of the law—demonstrate legitimate, non-discriminatory, or non-
+
+pretextual conduct. Id. Moreover, it is a best practice to plead defenses early instead of waiting
+
+until later in the case. Judge Marovich aptly captured just this point: “the Court would like to avoid
+
+having to rule on multiple motions to amend the answer during the course of discovery as the
+
+
+
+
+                                                  5
+    Case: 1:26-cv-06266 Document #: 17 Filed: 08/26/26 Page 6 of 14 PageID #:82
+
+
+
+
+defendant obtains additional information that would support those affirmative defenses (such as
+
+mitigation of damages) that defendant has no practical way of investigating before discovery. The
+
+Court would also like to avoid the discovery disputes that would inevitably develop as a defendant
+
+seeks discovery related to affirmative defenses it had not stated in its answer.” See Leon v.
+
+Jacobson Transp. Co., 2010 WL 4810600, at *1 (N.D. Ill. Nov. 19, 2010). “It is to everyone’s
+
+benefit to have defendant plead its affirmative defenses early, even if defendant does not have
+
+detailed facts.” Id.; see also LaPorte v. Bureau Veritas N. Am. Inc., 2013 WL 250657, at *3 (N.D.
+
+Ill. Jan. 18, 2013) (holding same). The Court therefore declines to strike Affirmative Defense Nos.
+
+7 and 14 merely because they are not “true” Affirmative Defenses.
+
+       Tyler’s second position is that Affirmative Defense Nos. 11, 12, and 13 fail to give him fair
+
+notice because they are conclusory and lack factual support. (Dkt. 12 at 5-6). These three
+
+Affirmative Defenses are as follows:
+
+       11. Plaintiff’s causes of action are barred, in whole or in part, by the doctrine of
+       unclean hands.
+
+       12. Plaintiff’s claims are barred by the doctrines of laches, waiver, and/or estoppel.
+
+       13. Plaintiff’s claims are barred, in whole or in part, to the extent they are outside
+       the applicable statute of limitations.
+
+(Dkt. 9 at 23-24). For starters, almost all of these are required under Federal Rule of Civil
+
+Procedure 8(c)(1) and thus must be pleaded to avoid waiver. Id. Each of these are “true”
+
+Affirmative Defenses because Baxter bears the burden of proof on them. Thirteen, 67 F.4th at 391.
+
+They fall just short of complying with the text of Rule 8(d)(1) requiring “[e]ach allegation [to] be
+
+simple, concise, and direct,” however. Id. “Courts routinely strike laches, waiver and estoppel
+
+defenses when they are insufficiently pled.” See Microthin.com, 2006 WL 3302825, at *10 (quotes
+
+omitted); see also Builders Bank v. First Bank & Tr. Co. of Illinois, 2004 WL 626827, at *6 (N.D.
+
+
+
+
+                                                 6
+    Case: 1:26-cv-06266 Document #: 17 Filed: 08/26/26 Page 7 of 14 PageID #:83
+
+
+
+
+Ill. Mar. 25, 2004) (“Courts have held time and time again that stringing together a long list of
+
+legal defenses is not sufficient to satisfy Rule 8(a)’s short and plain statement requirement.”). Each
+
+of these three Affirmative Defenses “are nothing but bare bones conclusory allegations” lacking a
+
+“short and plain statement of facts and . . . the necessary elements of the alleged claims.” Heller,
+
+883 F.2d at 1295. Baxter notes that Affirmative Defenses “need not be viewed in a vacuum.” (Dkt.
+
+15 at 7) (quoting Green v. Kubota Tractor Corp., 2012 WL 1416465, at *3 (N.D.Ill. 2012)). That
+
+is true, but unsupported. Baxter identifies nothing in its Answer to back up these Affirmative
+
+Defenses. (Id.) Baxter further asserts that these Affirmative Defenses “may develop as the factual
+
+record is established through discovery.” (Id.) The Court recognizes that this is a young case with
+
+much life left in discovery and that facts relevant to these Affirmative Defenses may solely be in
+
+Tyler’s possession. The Court grants Tyler’s Motion to strike Affirmative Defense Nos. 11, 12, and
+
+13 but grants Baxter 14 days to amend them to put a bit more meat on the bone.
+
+       Tyler’s third position is that Affirmative Defense Nos. 5, 8, and 10 “should be stricken
+
+because they bear no apparent relationship to the claims asserted in this action or the factual
+
+allegations contained in [Baxter’s] own Answer.” (Dkt. 12 at 6-9). These three Affirmative
+
+Defenses are as follows:
+
+       5. To the extent Plaintiff alleges that any employee of Defendant acted in an
+       unlawful manner, such conduct, if it occurred, was outside the course and scope of
+       that individual’s employment, was not authorized or condoned by Defendant, and
+       was undertaken without the knowledge or consent of Defendant. Thus, Defendant
+       is not liable for any such conduct, if it occurred.
+
+       8. Defendant cannot be held liable for any unlawful or wrongful acts, to the extent
+       they occurred, because any such acts were contrary to Defendant’s express policies,
+       procedures, and/or good faith efforts to apply with applicable law.
+
+       10. Plaintiff, by his actions or otherwise, failed to comply with Defendant’s internal
+       policies and/or practices for addressing complaints, including a policy and/or
+       practice barring discrimination and/or retaliation in the workplace and
+       opportunities for addressing such complaints and, accordingly, Plaintiff is estopped,
+
+
+
+                                                  7
+    Case: 1:26-cv-06266 Document #: 17 Filed: 08/26/26 Page 8 of 14 PageID #:84
+
+
+
+
+       otherwise has waived, or is precluded from asserting his claims for damages or
+       other relief.
+
+(Dkt. 9 at 22-23). Affirmative Defenses are not viewed in isolation but up against the allegations
+
+and claims in the Complaint. Tyler asserts three claims. Counts I and II are for disability
+
+discrimination under the Americans with Disabilities Act (42 U.S.C. §§ 12112, 12102). (Dkt. 1 at
+
+6-7). Tyler’s Count III is for discrimination under the Uniformed Services Employment and
+
+Reemployment Rights Act (38 U.S.C. § 4311). (Id. at 7). Disability is defined under 42 U.S. Code
+
+§ 12102; whereas discrimination is prohibited under 42 U.S. Code § 12112. “[A] plaintiff pursuing
+
+a claim under § 12112(a) must plead and prove that []he held or sought a job when the defendant
+
+discriminated against [him] on the basis of disability.” Stanley v. City of Sanford, Fla., 606 U.S.
+
+46, 60-61 (2025). “[U]nlawful discrimination can take place at any one of three points in time:
+
+When a defendant adopts a discriminatory practice, when an individual is affected by application
+
+of a discriminatory practice, or when []he becomes subject to such a practice.” Id. (cleaned up).
+
+“To prevail on [his] ADA claim, [Tyler] ha[s] the burden to prove that that (1) []he is disabled; (2)
+
+[]he is otherwise qualified to perform the essential functions of the job with or without reasonable
+
+accommodation; (3) []he suffered an adverse employment action; and (4) the adverse action was
+
+caused by [his] disability.” Myers v. Sunman-Dearborn Cmty. Schs., 142 F.4th 527, 534 (7th Cir.
+
+2025) (quotes omitted). As for Count III, “USERRA prohibits employment discrimination against
+
+members of the armed services.” Arroyo v. Volvo Grp. N. Am., LLC, 805 F.3d 278, 284 (7th Cir.
+
+2015). The statute provides that “[a] person who is a member of . . . a uniformed service shall not
+
+be denied . . . retention in employment, promotion, or any benefit of employment by an employer
+
+on the basis of that membership.” 38 U.S.C. § 4311(a). “The statute provides further that such
+
+discrimination exists where the employee’s service membership was ‘a motivating factor’ in the
+
+employer’s adverse action ‘unless the employer can prove that the action would have been taken
+
+
+
+                                                 8
+    Case: 1:26-cv-06266 Document #: 17 Filed: 08/26/26 Page 9 of 14 PageID #:85
+
+
+
+
+in the absence of such membership.’” Arroyo, 805 F.3d at 284 (quoting 38 U.S.C. § 4311(c)(1)).
+
+“This provision creates a two-step burden-shifting scheme: (1) once a plaintiff makes out a prima
+
+facie case by showing that his membership was ‘a motivating factor,’ (2) the burden shifts to the
+
+employer to prove that it would have taken the same action regardless.” Id. (quoting Crews v. City
+
+of Mt. Vernon, 567 F.3d 860, 864 (7th Cir. 2009)).
+
+       Baxter’s Affirmative Defense Nos. 5, 8, and 10 lack clear indicia of being true Affirmative
+
+Defenses but are better categorized as denials. Thirteen, 67 F.4th at 391; Winforge, 691 F.3d at
+
+872; Bell, 827 F.3d at 704-05. Affirmative Defense Nos. 5 and 8 satisfy Rule 8 and would withstand
+
+Rule 12(b)(6) scrutiny. See Microthin.com, 2006 WL 3302825, at *9. Tyler asserts that Affirmative
+
+Defense No. 5 is “inconsistent” with his Complaint and Baxter’s Answer. (Dkt. 12 at 6-7). He
+
+further claims that it is directed towards “claims seeking to impose vicarious liability” but that he
+
+has asserted “no such claim.” (Id. at 7). The Court rejects Tyler’s position. “An employer may be
+
+liable for both negligent and intentional torts committed by an employee within the scope of his
+
+or her employment”; but, subject to certain exceptions, an employer “is not subject to liability for
+
+the torts of his servants acting outside the scope of their employment[.]” Burlington Indus., Inc. v.
+
+Ellerth, 524 U.S. 742, 756-58, (1998). Baxter’s defense is related to and consistent with Tyler’s
+
+allegations—even if he only sued Baxter and not any of Baxter’s employees. For this reason too
+
+whether Tyler asserted a claim seeking to hold Baxter vicariously liable is irrelevant. See
+
+Bartenwerfer v. Buckley, 598 U.S. 69, 82 (2023) (“though an employer is generally accountable
+
+for the wrongdoing of an employee, he usually can escape liability if he proves that the employee’s
+
+action was committed outside the scope of employment”). The Court denies Tyler’s Motion as to
+
+Affirmative Defense No. 5.
+
+
+
+
+                                                 9
+    Case: 1:26-cv-06266 Document #: 17 Filed: 08/26/26 Page 10 of 14 PageID #:86
+
+
+
+
+       Seeking to strike Baxter’s Affirmative Defense No. 8, Tyler claims that it is impermissible
+
+because it is “considerably broader than the defense recognized by the Supreme Court in Kolstad
+
+v. Am. Dental Ass’n, 527 U.S. 526, 545-46 (1999).” (Dkt. 12 at 7). Kolstad addressed the scope
+
+and applicability of punitive damages under Title VII of the Civil Rights Act (42 U.S.C. § 2000e et
+
+seq.) and the Americans with Disabilities Act of 1990 (42 U.S.C. § 12101 et seq.). See Kolstad v.
+
+Am. Dental Ass’n, 527 U.S. 526, 529 (1999). The Court held “that, in the punitive damages context,
+
+an employer may not be vicariously liable for the discriminatory employment decisions of
+
+managerial agents where these decisions are contrary to the employer’s good-faith efforts to
+
+comply with Title VII.” Id. at 545 (quotes omitted). Baxter’s Affirmative Defense No. 8 is multi-
+
+part: it addresses (i) acts that are “contrary to Defendant’s express policies, procedures” and (ii)
+
+“good faith efforts to apply with applicable law.” (Dkt. 9 at 23). The former, as discussed directly
+
+above, is a valid and recognized defense regarding the scope of employment. Supra at 9. The latter
+
+piggybacks off the holding in Kolstad. Id. To be sure Baxter’s use of “any” in Affirmative Defense
+
+No. 8 is broad, but it does not suddenly render the Affirmative Defense legally insufficient. Fed.
+
+R. Civ. P. 12(f). Nor would it somehow entitle Baxter to relief not afforded under law. The Court
+
+denies Tyler’s Motion as to Affirmative Defense No. 8.
+
+       The last Affirmative Defense Tyler seeks to strike is No. 10. (Dkt. 12 at 8-9). Tyler claims
+
+that “[b]ecause [he] challenges a tangible employment action—not a hostile work environment
+
+culminating in no tangible action—the Faragher/Ellerth affirmative defense is facially
+
+inapplicable and should be stricken.” (Id. at 9). Baxter counters that Affirmative Defense No. 10
+
+“is a recognized avoidable-consequences/failure-to-mitigate principle that gives [Tyler] notice [of
+
+how Baxter] intends to show he bypassed available remedies — a factual issue properly developed
+
+in discovery.” (Dkt. 15 at 8). If this were a hostile work environment action there is no question
+
+
+
+
+                                                10
+    Case: 1:26-cv-06266 Document #: 17 Filed: 08/26/26 Page 11 of 14 PageID #:87
+
+
+
+
+Baxter’s Affirmative Defense No. 10 would be stricken because “[n]o affirmative defense is
+
+available . . . when the supervisor’s harassment culminates in a tangible employment action, such
+
+as discharge, demotion, or undesirable reassignment.” Burlington Indus., Inc. v. Ellerth, 524 U.S.
+
+742, 765 (1998). Tyler did not allege a hostile work environment, however. (Dkt. 1). He also
+
+plainly alleged a tangible employment action which Baxter has admitted. (Dkt. 9, ¶ 52). At the
+
+same time, Baxter’s arguments about Tyler’s failure to adhere to Baxter’s internal policies and
+
+procedures are relevant—and not barred under Burlington—in other respects, such as mitigation
+
+of damages. See, e.g., Stragapede v. City of Evanston, Illinois, 865 F.3d 861, 868 (7th Cir. 2017)
+
+(discussing mitigation); Leon, 2010 WL 4810600, at *1 (declining to strike affirmative defense
+
+concerning mitigation of damages because the “defendant has no practical way of investigating”
+
+it “before discovery”). As this Affirmative Defense relates to the mitigation of damages, it is
+
+improper to be stricken. Id. Yet Baxter does not plead Affirmative Defense No. 10 for mitigation
+
+but for a total bar of liability: “Plaintiff is estopped, otherwise has waived, or is precluded from
+
+asserting his claims for damages or other relief.” (Dkt. 9 at 23). Under similar circumstances,
+
+Courts have struck affirmative defenses akin to this one. See, e.g., Thomas v. Exxon Mobil Corp.,
+
+2009 WL 377334, at *3 (N.D. Ill. Feb. 11, 2009) (“Because it is undisputed that Thomas was
+
+discharged from his position, Faragher makes clear that this affirmative defense is inapplicable.”).
+
+Given the ambiguity and tension with Supreme Court precedent, the Court grants Tyler’s Motion
+
+on Affirmative Defense No. 10 but grants Baxter 14 days to amend to clarify and delineate its
+
+scope to ensure that it does not run afoul Burlington/Faragher.
+
+       Finally, the Court provides the following notice under Rule 11 and admonishment under
+
+its inherent authority. Vega v. Chicago Bd. of Educ., 109 F.4th 948, 954 (7th Cir. 2024); Johnson
+
+v. Cherry, 422 F.3d 540, 551 (7th Cir. 2005). Baxter filed its 26-page Answer complete with 14
+
+
+
+
+                                                11
+    Case: 1:26-cv-06266 Document #: 17 Filed: 08/26/26 Page 12 of 14 PageID #:88
+
+
+
+
+Affirmative Defenses on July 27, 2026, at 6:04 PM CDT. (Dkt. 9). Tyler filed his 10-page Motion
+
+to Strike just 1 hour 25 minutes later at 7:29 PM CDT. (Dkt. 12). When Baxter filed its Response
+
+to Tyler’s Motion to Strike on August 11, 2026, at 2:16 PM CDT (Dkt. 15), Tyler filed his Reply
+
+2 hours, 21 minutes later at 4:37 PM CDT. (Dkt. 16). This raises two red flags. The first is whether
+
+Tyler’s client was fully apprised of his attorney’s actions. To be sure, filing before the deadline is
+
+not improper; but to review a 26-page Answer, draft a 10-page Motion to Strike, receive client
+
+approval, and file the Motion on the Court’s docket in 1 hour and 25 minutes is quite speedy
+
+indeed. Assuming Tyler (the client) was fully informed and signed off or gave pre-existing
+
+approval, the speed in which Tyler filed this Motion begs the question: how? Perhaps Tyler was
+
+anticipating filing this Motion and had aspects of it already drafted. Yet it is not boilerplate but
+
+bespoke. (See Dkt. 12). The presumable conclusion was that Tyler had AI review Baxter’s Answer
+
+and had it generate his Motion to Strike. While there is not yet a proscription prohibiting this
+
+conduct, there is a proscription of filing a brief with citations to cases that do not stand for the
+
+asserted proposition. Perez-Castillo v. Blanche, 177 F.4th 837, 848 (7th Cir. 2026). Indeed,
+
+“[u]nder this circuit’s standards for professional conduct, lawyers promise that they will not
+
+knowingly misrepresent, mischaracterize, misquote, or miscite facts or authorities in any oral or
+
+written communication to the court.” Id. (quotes omitted).
+
+       Tyler cites to Instituto Nacional de Comercializacion Agricola (Indeca) v. Continental
+
+Illinois National Bank & Trust Co., 858 F.2d 1264, 1270 (7th Cir. 1988) for the following two
+
+propositions: (1) “An affirmative defense is one that accepts the allegations of the complaint as
+
+true but nevertheless asserts additional matter that defeats or avoids liability”; and (2) “It is well
+
+settled that a pleading which merely negates an element of the plaintiff’s prima facie case or simply
+
+denies liability is not an affirmative defense and should not be pleaded as one.” (Dkt. 12 at 2-3).
+
+
+
+
+                                                 12
+    Case: 1:26-cv-06266 Document #: 17 Filed: 08/26/26 Page 13 of 14 PageID #:89
+
+
+
+
+The Seventh Circuit opinion in Instituto supports neither of these propositions. See Instituto, 858
+
+F.2d at 1265-72. Indeed, the words “affirmative defense” are not even in the opinion. Id.
+
+        The Court admonishes Tyler for repeatedly citing to a Seventh Circuit decision for a false
+
+proposition. AI generated content routinely contains errors—including those that may be difficult
+
+to readily ascertain. 2 Even if this mistake were committed without the assistance of AI, that would
+
+not change the result. Perez-Castillo, 177 F.4th at 848. Tyler’s mistake was avoidable. Tyler had
+
+at least 21 days to file his Motion to Strike. See, e.g., Fed. R. Civ. P. 12(f)(2). Yet he chose to file
+
+in 1 hour and 25 minutes. Had he taken a couple of hours to proofread his work and verify his
+
+citations, he might have discovered the mistake. He instead chose to file a Motion with false
+
+citations. This admonishment serves as both parties’ warning that the Court will not countenance
+
+any submission containing false or hallucinated citations or factual assertions. Vega, 109 F.4th at
+
+954; see also Allen v. Casper, 2026 WL 674309, at *10 (N.D. Ill. Mar. 10, 2026) (sanctioning
+
+plaintiff $1,500 for violating Rule 11 by misusing AI); Obi v. Cook Cnty., Illinois, 2026 WL
+
+1001481, at *2 (N.D. Ill. Apr. 9, 2026) (sanctioning plaintiff $5,000 sanction for violating Rule 11
+
+by filing motions with AI hallucinations).
+
+
+
+
+2
+ For example, the case presumably intending to be cited was the following district court decision: Instituto Nacional
+De Comercializacion Agricola (Indeca) v. Cont’l Illinois Nat. Bank & Tr. Co., 576 F. Supp. 985, 988 (N.D. Ill. 1983)
+(discussing affirmative defenses).
+
+
+
+                                                        13
+   Case: 1:26-cv-06266 Document #: 17 Filed: 08/26/26 Page 14 of 14 PageID #:90
+
+
+
+
+                                        CONCLUSION
+
+       The Court grants Tyler’s Motion to Strike as to Affirmative Defense Nos. 1, 10, 11, 12, 13,
+
+and grants Baxter 14 days to amend its Answer to amend these Affirmative Defenses. (Dkt. 12).
+
+The Court denies Tyler’s Motion to Strike as to Affirmative Defense Nos. 5, 7, 8, 14. (Id.)
+
+
+
+
+                                             ____________________________________
+                                             Virginia M. Kendall
+                                             United States District Judge
+Date: August 26, 2026
+
+
+
+
+                                               14
+

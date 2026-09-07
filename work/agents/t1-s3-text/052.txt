@@ -1,0 +1,339 @@
+In the Matter of Kevin A. Julien, appellant, v. Danielle M. Arthur, respondent. (Proceeding No. 1) In..., ---
+N.Y.S.3d ---- (2026)
+2026 N.Y. Slip Op. 03308
+                                                                     intelligence (hereinafter GenAI) in drafting appellate briefs—
+                    2026 WL 1476261                                  which has the potential to produce misleading or inaccurate
+             Supreme Court, Appellate Division,                      information, including citations to nonexistent cases. We hold
+              Second Department, New York.                           that the unverified usage of GenAI to draft an appellate brief
+                                                                     containing false information constitutes frivolous conduct
+                                                                     warranting the imposition of a sanction, even when the
+    In the Matter of Kevin A. Julien, appellant,
+                                                                     offending party is a pro se litigant.
+                         v.
+                Danielle M. Arthur,                                  COLLEEN D. DUFFY, J.P. PAUL WOOTEN CARL J.
+                                                                     LANDICINO SUSAN QUIRK, JJ.
+        respondent. (Proceeding No. 1)
+            In the Matter of Danielle
+             M. Arthur, respondent,                                  Argued—January 8, 2026
+                        v.
+  Kevin A. Julien, appellant. (Proceeding No. 2)                     OPINION & ORDER
+
+                                                                      *1 I. Relevant Factual Background
+                       2024–03307
+                                                                     The parties, who were never married, are the parents of a
+                             |
+                                                                     child, born in June 2020. In March 2021, the father filed a
+          (Docket Nos. V-4283-21,V-4283-21/23B,
+                                                                     petition pursuant to Family Court Act article 6 for parental
+        V-4283-21/23C, V-4709-21,V-4709-21/23B,
+                                                                     access with the child, who resided with the mother. In May
+       V-4709-21/23C, O-12667-23, O-12667-23/23A)
+                                                                     2021, the mother filed a petition pursuant to Family Court
+                             |
+                                                                     Act article 6 for sole legal and residential custody of the
+                 Argued - January 8, 2026
+                                                                     child. Thereafter, the Family Court issued a temporary order
+                             |
+                                                                     of parental access awarding the father certain parental access
+                       May 27, 2026
+                                                                     with the child.
+Attorneys and Law Firms
+                                                                     In June 2023, the mother filed a family offense petition
+APPEAL by the father, in related proceedings pursuant to             pursuant to Family Court Act article 8, alleging, inter alia, that
+Family Court Act articles 6 and 8, from an order of the              the father failed to return the child at the end of his scheduled
+Family Court (Gregory L. Gliedman, J.), dated April 16,              parental access on multiple occasions and that the father
+2024, and entered in Kings County. The order, insofar as             assaulted the child's maternal aunt and maternal grandmother
+appealed from, after a hearing, granted the mother's petition        in the presence of the child during an exchange of the child for
+for sole legal and residential custody of the parties' child, with   scheduled parental access with the father. In July and August
+certain parental access to the father. By order to show cause        2023, the father filed petitions pursuant to Family Court Act
+dated January 14, 2026, this Court directed the parties to show      article 6, alleging that the mother violated the terms of an
+cause before this Court why an order should not be made              order of parental access.
+and entered imposing sanctions and/or costs, if any, as this
+Court may deem appropriate, against the appellant pursuant           On October 12, 2023, the Family Court issued a temporary
+to 22 NYCRR 130–1.1 for filing a brief containing fabricated         order of protection in favor of the mother, directing the father,
+legal authority. The motion was held in abeyance and referred        among other things, to stay away from the mother except for
+to the panel of Justices hearing the appeal for determination        court-ordered parental access. In November 2023, the mother
+upon the argument or submission thereof. Kevin A. Julien,            filed a petition pursuant to Family Court Act article 8, alleging
+Brooklyn, NY, appellant pro se.                                      that the father violated the temporary order of protection dated
+                                                                     October 12, 2023.
+Geanine Towers, Brooklyn, NY, for respondent.
+                                                                     Commencing on October 12, 2023, the Family Court
+WOOTEN, J. This appeal presents this Court with the
+                                                                     conducted a consolidated hearing on the parties' petitions.
+opportunity to address an emerging issue with broad and
+                                                                     During the hearing, the father testified, inter alia, that the
+significant implications—the usage of generative artificial
+
+
+ WESTLAW            © 2026 Thomson Reuters. No claim to original U.S. Government Works.                                             1
+In the Matter of Kevin A. Julien, appellant, v. Danielle M. Arthur, respondent. (Proceeding No. 1) In..., ---
+N.Y.S.3d ---- (2026)
+2026 N.Y. Slip Op. 03308
+mother failed to produce the child for parental access with the       fictional citation to a nonexistent case. The mother asserted
+father on multiple occasions. Further, testimony was elicited         that the father's failure to take any steps to verify that the
+from the mother that on July 1, 2023, the father assaulted her        information and citations he presented to this Court were
+at a police precinct station house during an exchange of the          legitimate constituted frivolous conduct warranting sanctions,
+child. The mother acknowledged that she did not produce the           including dismissal of the appeal.
+child for subsequent parental access with the father from July
+2023 to September 2023 because she was fearful of the father.         On January 14, 2026, by order to show cause, this Court
+The mother also testified that when parental access with the          directed the parties to show cause why an order should
+father resumed, the father failed to return the child to the          not be made and entered imposing sanctions and/or costs,
+mother in September 2023, as he also had done on previous             if any, as this Court may deem appropriate, against the
+occasions, requiring the mother to file a writ for the child's        father pursuant to 22 NYCRR 130–1.1 for filing a brief
+return.                                                               containing fabricated legal authority. Thereafter, the father
+                                                                      submitted an affirmation wherein he acknowledged that “the
+In an order dated April 16, 2024, made after the hearing,             legal authority in question was extracted from an internet
+the Family Court, among other things, granted the mother's            source that appeared genuine.” The father stated that “[a]s
+petition for sole legal and residential custody of the child, with    a self-represented litigant, I utilized these tools to assist in
+certain parental access to the father. The court determined,          my advocacy, and I mistakenly believed the information
+inter alia, that (1) the mother had been the primary parent for       provided was accurate and legitimate.” The father added an
+the child since the child's birth and had provided for the child's    apology to this Court for “wast[ing] the Court's time and
+needs; (2) the father “has done virtually nothing to ensure           resources” through his “total, but misplaced, reliance on the
+that [the child's] needs have been addressed”; (3) the father         research tools [he] was using” and averred that the filing of
+assaulted the mother in the presence of the child; and (4) the        his appellate brief was “made in good faith.”
+mother had to obtain a writ for the return of the child when
+the father refused to return the child as ordered. The father         The mother has not submitted an affirmation in response to
+appeals.                                                              the order to show cause.
+
+
+ *2 II. The Father's Appellate Brief                                  III. The Use of GenAI in Drafting Briefs
+In June 2025, the father, acting pro se, submitted an appellate       Courts across the country have recognized the pitfalls posed
+brief in which he argued that the Family Court was biased             by the use of GenAI in drafting briefs and other memoranda
+against him, that the court's decision relied on “false facts         without verifying the accuracy of the information generated
+from another case,” and that the parental access awarded to           (see e.g. Smith v. Smith, 2025 WL 3706691, *3, 2025 U.S.
+him was contrary to the child's best interests.                       Dist LEXIS 263592, *7–8 [ND NY, No. 5:25–CV–1077
+                                                                      (MAD/DJS) ]; Jarrus v. Governor of Michigan, 2025 WL
+The father's appellate brief was highly suggestive of having          3146421, *6, 2025 U.S. Dist LEXIS 221984, *17–18 [ED
+been created with the aid of GenAI in several respects.               Mich, No. 25–11168–FKB–APP]; OTG New York, Inc. v.
+Most significantly, the father's appellate brief contained a          OTTOGI Am., Inc., 2025 WL 2671460, *2–3, 2025 U.S.
+citation to a nonexistent decision purportedly issued by              Dist LEXIS 183358, *5–6 [D NJ, No. 24–cv–07209 (BRM)
+the Appellate Division, First Department, in support of the           (JRA) ]; United States v. McGee, 806 F Supp 3d 1264, 1269
+father's claim of judicial bias. In addition, in four instances the   [SD Ala]; Wadsworth v. Walmart Inc., 348 FRD 489, 492–
+father's appellate brief contained bracketed language stating         493 [D Wyo] ). In particular, courts have noted the risk of
+that “Appellant” was to provide information. For instance,            GenAI “hallucinations,” which may take the form of citations
+following the father's statement that “the Family Court relied        to nonexistent cases, fabricated quotations from actual cases,
+on false facts from another case,” the father's appellate brief       or misstatements of law that are not representative of what
+states “[Appellant to provide specific details of the alleged         a case actually decided (Braica v. Frankowski, 2025 WL
+false facts and the other case].”                                     3644231, *5, 2025 U.S. Dist LEXIS 263098, *12 [D Conn,
+                                                                      No. 3:24–CV–1709 (VDO) ] ). The danger posed by GenAI
+In the mother's appellate brief, she argued, among other              hallucinations lies not merely in their inaccuracy, but also
+things, that the father's appellate brief appeared to be the          in their tendency to masquerade as a genuine citation or
+product of GenAI and that his appellate brief included a              statement of law (see OTG New York, Inc. v. OTTOGI Am.,
+
+
+ WESTLAW            © 2026 Thomson Reuters. No claim to original U.S. Government Works.                                            2
+In the Matter of Kevin A. Julien, appellant, v. Danielle M. Arthur, respondent. (Proceeding No. 1) In..., ---
+N.Y.S.3d ---- (2026)
+2026 N.Y. Slip Op. 03308
+Inc., 2025 WL 2671460, *2, 2025 U.S. Dist LEXIS 183358,             judicial opinions with fake quotes and citations” (emphasis
+*5–6), resulting in a waste of time and money to the opposing       and internal quotation marks omitted) ] ).
+party “in exposing the deception” and an unnecessary burden
+on the court's resources (Mata v. Avianca, Inc., 678 F Supp 3d      While this Court has not yet had the opportunity to address
+443, 448 [SD NY, No. 22–cv–1461 (PKC) ] ).                          the issue of the unverified usage of GenAI to draft briefs and
+                                                                    other legal memoranda, other Appellate Departments in New
+ *3 Consequently, various courts have determined that               York have confronted the issue. In Dowlah v Professional
+reliance by an attorney or party on GenAI to draft legal            Staff Congress (PSC–CUNY) (227 AD3d 609, 610), the
+memoranda containing GenAI hallucinations constitutes               Appellate Division, First Department, noted that the plaintiff
+frivolous conduct warranting the imposition of sanctions (see       cited several nonexistent cases in a memorandum of law,
+e.g. Fletcher v Experian Info. Solutions, Inc., 168 F4th 231        which the plaintiff acknowledged in a reply brief was the
+[5th Cir]; Amarsingh v. Frontier Airlines, Inc., 2026 WL            result of “legal software applications” that deploy artificial
+352016, *6–7, 2026 U.S. App LEXIS 3928, *17–20 [10th                intelligence (internal quotation marks omitted). While not
+Cir, No. 24–1391]; Lexos Media IP, LLC v. Overstock.com,            imposing a sanction, the First Department “caution[ed]
+Inc., 2026 WL 265581, 2026 U.S. Dist LEXIS 20994 [D                 plaintiff that his pro se status does not excuse his failure to
+Kan, No. 22–2324–JAR]; Dubinin v. Papazian, 2025 WL                 check the legal citations that he offers to a court” (id.).
+3248187, *3, 2025 U.S. Dist LEXIS 229362, *9–10 [SD Fla,
+No. 25–CV–23877–RAR]; Mata v. Avianca, Inc., 678 F Supp             Further, in NewRez LLC v. Morton (242 AD3d 416), the First
+3d at 466–467). Further, courts have stressed that even pro         Department declined to impose a sanction on the defendant
+se litigants, who are typically afforded greater leniency than      for citing to four nonexistent cases. The First Department
+parties represented by an attorney, may be subject to sanctions     reasoned that “[a]lthough such citations should generally
+for presenting fabricated case citations or misrepresentations      warrant sanctions, and a party's pro se status should not render
+resulting from reliance on GenAI (see Button v. McCawley,           the party immune, in this instance the Court is mindful to
+2026 WL 292150, *4, 2026 U.S. Dist LEXIS 23074, *10                 afford leniency to the pro se defendant” (id. at 417).
+[SD Fla, No. 0:24–cv–60911–LEIBOWITZ/AUGUSTIN–
+BIRCH] [“(c)ourts in this district have not hesitated to            Also of note, in Matter of Zareh (_____ AD3d _____,
+sanction parties, even pro se litigants, for fake or hallucinated   2026 N.Y. Slip Op 00619), the First Department determined,
+citations” (emphasis omitted) ]; Kulkarni v. Merit Sys.             in the context of an attorney disciplinary proceeding,
+Protection Bd., 2025 WL 3627611, *3, 2025 U.S. App LEXIS            that a public censure was an appropriate sanction for an
+32662, *6 [Fed Cir, No.2025–1597, 2025–1598] [“(w)hile pro          attorney who submitted a brief containing citation errors and
+se litigants are understandably held to a less stringent standard   misrepresentations of case law, which was determined to have
+than parties represented by counsel, a baseline, common-            been drafted using GenAI.
+sense standard nonetheless requires that all parties refrain
+from citing non-existent case law and quoting non-existent          In contrast to the First Department's decisions, which
+language”]; Braica v. Frankowski, 2025 WL 3644231, *5,              did not impose monetary sanctions for the submission of
+2025 U.S. Dist LEXIS 263098, *13–14 [noting that the                materials containing GenAI hallucinations, the Appellate
+plaintiff's statement that he failed to verify the accuracy of      Division, Third Department, in Deutsche Bank Natl. Trust
+his submissions containing GenAI hallucinations because he          Co. v LeTennier (_____ AD3d _____, 2026 N.Y. Slip Op
+is a pro se party lacking legal training “undermine(s) the          00040), granted the plaintiff's motion, inter alia, to impose
+capabilities of pro se litigants” (emphasis omitted) ]; Moore       sanctions against the defendant and the defendant's attorney
+v. City of Del City, 2025 WL 3471341, *3, 2025 U.S. App             for submitting a brief containing fabricated cases believed to
+LEXIS 31411, *8 [10th Cir, No. 25–6002] [warning future             be the result of GenAI (see Deutsche Bank Natl. Trust Co. v
+litigants, pro se and those represented by counsel alike, of        LeTennier, _____ AD3d at _____, 2026 N.Y. Slip Op 00040,
+the possibility of sanctions, monetary and otherwise, resulting     *8). In that case, the defendant submitted a brief containing
+from “the unscrutinized use of GenAI”]; Anonymous v New             citations to six nonexistent cases. The Third Department
+York City Dept. of Educ., 2024 WL 3460049, *7, 2024 U.S.            noted that in response to the plaintiff's motion, among
+Dist LEXIS 127114, *20 [SD NY, No. 1:24–cv–04232 (JLR) ]            other things, to sanction the defendant and the defendant's
+[“(w)ithout question, it is improper and unacceptable for           attorney, the defendant “claimed the nonexistent cases were
+litigants—including pro se litigants—to submit non-existent         citation or formatting errors that he would correct in his
+
+
+
+ WESTLAW            © 2026 Thomson Reuters. No claim to original U.S. Government Works.                                          3
+In the Matter of Kevin A. Julien, appellant, v. Danielle M. Arthur, respondent. (Proceeding No. 1) In..., ---
+N.Y.S.3d ---- (2026)
+2026 N.Y. Slip Op. 03308
+reply brief, and then opposed the motion for sanctions with      to impose a monetary sanction on the defendant's attorney in
+more fake cases and interpretations for existing cases that      the sum of $5,000 for the use of erroneous reliance on GenAI
+are at best strenuously attenuated, and at worse entirely        “without human oversight” (Deutsche Bank Natl. Trust Co.
+inapposite” (Deutsche Bank Natl. Trust Co. v LeTennier,          v LeTennier, _____ AD3d at _____, 2026 N.Y. Slip Op
+_____ AD3d at _____, 2026 N.Y. Slip Op 00040, *3).               00040, *7). The Third Department also imposed an additional
+The defendant then submitted a reply brief that “failed to       sanction of $2,500 on the defendant's attorney (for a total
+offer any corrections or further explanation” (Deutsche Bank     sanction of $7,500) and $2,500 on the defendant due to the
+Natl. Trust Co. v LeTennier, _____ AD3d at _____, 2026           “baseless nature of th[e] appeal” (Deutsche Bank Natl. Trust
+N.Y. Slip Op 00040, *3). Following the submission of his         Co. v LeTennier, _____ AD3d at _____, 2026 N.Y. Slip Op
+reply brief, the defendant submitted two letters to the Third    00040, *7).
+Department containing “more fake cases and false legal
+propositions” (Deutsche Bank Natl. Trust Co. v LeTennier,
+_____ AD3d at _____, 2026 N.Y. Slip Op 00040, *3).               IV. Sanctions for Frivolous Conduct in this Case
+The Third Department noted that the defendant's attorney         “Pursuant to 22 NYCRR 130–1.1(a), a court may impose
+“reluctantly conceded during oral argument that he used AI       financial sanctions upon any party or attorney in a civil action
+in the preparation of his papers” (Deutsche Bank Natl. Trust     or proceeding who engages in frivolous conduct” (Aretakis
+Co. v LeTennier, _____ AD3d at _____, 2026 N.Y. Slip Op          v. CPEX Real Estate, LLC, 246 AD3d 691, 693). “Conduct
+00040, *3). In total, the defendant's multiple filings during    is frivolous if: (1) it is completely without merit in law
+the appeal included “23 fabricated cases, as well as many        and cannot be supported by a reasonable argument for an
+other blatant misrepresentations of fact or law from actual      extension, modification or reversal of existing law; (2) it is
+cases” (Deutsche Bank Natl. Trust Co. v LeTennier, _____         undertaken primarily to delay or prolong the resolution of the
+AD3d at _____, 2026 N.Y. Slip Op 00040, *3).                     litigation, or to harass or maliciously injure another; or (3) it
+                                                                 asserts material factual statements that are false” (id. [internal
+ *4 The Third Department, in Deutsche Bank Natl. Trust Co.       quotation marks omitted]; see 22 NYCRR 130–1.1[c] ).
+v LeTennier, determined that the “submission of fabricated
+legal authorities is completely without merit in law and         Here, by filing an appellate brief citing to a nonexistent case
+therefore constitutes frivolous conduct” pursuant to 22          as the sole support for his claim of judicial bias, the father
+NYCRR 130–1.1(c)(1) (Deutsche Bank Natl. Trust Co. v             engaged in conduct that was “completely without merit in
+LeTennier, _____ AD3d at _____, 2026 N.Y. Slip Op 00040,         law and cannot be supported by a reasonable argument for
+*5). The Third Department noted that it was “most troubled”      an extension, modification or reversal of existing law” (22
+by the fact that “more than half of the fake cases offered       NYCRR 130–1.1[c][1]; see Deutsche Bank Natl. Trust Co. v
+by defendant came after he was on notice of such issue,          LeTennier, _____ AD3d at _____, 2026 N.Y. Slip Op 00040,
+whereby his reliance on fabricated legal authorities grew more   *5), and that involved the assertion of “material factual
+prolific as this appeal proceeded—despite it being apparent to   statements that are false” (22 NYCRR 130–1.1[c][3] ). Thus,
+him that such conduct lacked a legal basis” (Deutsche Bank       the father's reliance on GenAI, without taking the time to
+Natl. Trust Co. v LeTennier, _____ AD3d at _____, 2026           verify that the limited number of cases in his appellate brief
+N.Y. Slip Op 00040, *5 [emphasis omitted] ). In assessing        stood for the propositions cited, let alone were actually in
+the appropriate sanction, the Third Department stated that       existence, constituted frivolous conduct.
+relevant factors to consider included “the conduct of the
+attorney or party offering such fabricated legal authorities,    The more difficult question before this Court is the
+including the number of fake cases or propositions, whether      appropriate sanction to impose on the father for engaging
+there were fake quotes, if the submitter continued to use or     in frivolous conduct. The circumstances of this case are far
+create more fabricated authorities across other filings in the   less egregious than those in Deutsche Bank Natl. Trust Co.
+same proceeding after being on notice of the misconduct,         v LeTennier, as the father cited only 1 nonexistent case in
+there was an admission of the error, there was remorse and       contrast to the 23 fabricated cases cited in LeTennier over the
+the extent of the impact that the fabricated legal authorities   course of multiple filings. Moreover, in contrast to LeTennier,
+had on the proceedings” (Deutsche Bank Natl. Trust Co. v         once the father was alerted to the issue, he did not persist
+LeTennier, _____ AD3d at _____, 2026 N.Y. Slip Op 00040,         in citing to nonexistent cases and readily acknowledged
+*6). The Third Department concluded that it was appropriate      his misplaced reliance on GenAI. In addition, whereas the
+
+
+
+ WESTLAW           © 2026 Thomson Reuters. No claim to original U.S. Government Works.                                          4
+In the Matter of Kevin A. Julien, appellant, v. Danielle M. Arthur, respondent. (Proceeding No. 1) In..., ---
+N.Y.S.3d ---- (2026)
+2026 N.Y. Slip Op. 03308
+defendant in LeTennier was represented by counsel, the father      quotation marks omitted]; see Matter of Watling v. Watling,
+in this case is acting pro se.                                     236 AD3d 1047, 1048).
+
+Nevertheless, the mere fact that the father's conduct was          Here, the Family Court's determination that an award of sole
+not as egregious as that of the defendant in LeTennier does        legal and residential custody of the child to the mother was in
+not obviate the need for a sanction. The failure to verify         the child's best interests has a sound and substantial basis in
+even a single GenAI citation to a fictitious case may warrant      the record. Accepting the court's credibility determinations,
+the imposition of sanctions to account for the unnecessary         the evidence presented at the hearing showed, inter alia,
+waste of resources of the Court and of opposing parties            that the mother, who has been the child's primary caretaker
+(see Grymes Dev. Co. v. Fodera, 88 Misc.3d 767 [Sup Ct,            since birth, was better suited to promote stability in the
+Richmond County] ). Further, the mere fact of a party's pro se     child's life than the father and that the mother was the parent
+status “does not excuse [the party's] failure to check the legal   most likely to foster the other parent's relationship with the
+citations” presented to the Court (Dowlah v Professional Staff     child (see Matter of Diaz v. Vicente, 241 AD3d 1559, 1560;
+Congress [PSC–CUNY], 227 AD3d at 610). Moreover, the               Matter of Steward v. Okon, 238 AD3d 1055, 1057). Moreover,
+imposition of a sanction for frivolous conduct serves not only     the evidence elicited at the hearing showed that the father
+to punish a party for the offending conduct, but also to deter     assaulted the mother in the presence of the child during an
+future frivolous conduct by other pro se litigants and attorneys   exchange of the child and that on other occasions, the father
+(see Deutsche Bank Natl. Trust Co. v LeTennier, _____ AD3d         refused to return the child to the mother at the end of his
+at _____, 2026 N.Y. Slip Op 00040, *5–6; Leggio v. Leggio,         scheduled parental access (see Matter of Diaz v. Vicente, 241
+183 A.D.2d 815, 816).                                              AD3d at 1560–1561; Matter of Sookchan v. Sookchan, 234
+                                                                   AD3d 779, 781).
+ *5 Under the circumstances presented, and taking into
+account the father's acknowledgment of responsibility for his      The father's contention that the Family Court relied on “false
+conduct without further reoccurrence, we deem it appropriate       facts” that were not supported by the record is without merit.
+to impose a monetary sanction in the sum of $250. We also          The only examples of purportedly “false facts” articulated by
+caution the father that any misuse of GenAI in future filings      the father are the court's finding that the father provided “little
+may result in a greater sanction.                                  support, financial or otherwise” for the child and the court's
+                                                                   “reference to an assault and a writ for [the child's] return.”
+                                                                   Contrary to the father's contention, however, those findings
+V. Merits of the Appeal                                            were based upon testimony elicited at the hearing. The mother
+Turning to the merits of the instant appeal, we determine that     testified at the hearing, among other things, that from the time
+the Family Court properly granted the mother's petition for        the child was born, the father did not provide financial support
+sole legal and residential custody of the child, with certain      “consistently that can take care of the child.” For instance,
+parental access to the father. We note that in reaching this       the mother indicated that the father gave her only $25 for the
+determination, we have not drawn any unfavorable inference         child's care in 2020. Moreover, the mother described in detail
+against the father as the result of his reliance on GenAI in       the incident in which the father assaulted her in the presence
+drafting his appellate brief.                                      of the child on July 1, 2023, and testified that she had to obtain
+                                                                   a writ for the return of the child in September 2023. The court
+“The paramount concern in matters of custody and parental          was in the best position to evaluate the testimony elicited
+access is the best interests of the child under the totality of    at the hearing, and we perceive no basis on this record to
+the circumstances” (Matter of Navarro v. Clarke, 232 AD3d          disturb the court's credibility findings (see Matter of Calogero
+797, 798 [internal quotation marks omitted] ). “Since the          v. McMahon, 232 AD3d 894, 895).
+Family Court's determination with respect to custody and
+parental access depends to a great extent upon its assessment       *6 Furthermore, the Family Court providently exercised
+of the credibility of the witnesses and upon the character,        its discretion in setting the father's parental access schedule,
+temperament, and sincerity of the parties, its findings are        which is supported by a sound and substantial basis in the
+generally accorded great deference and will not be disturbed       record (see Matter of Steward v. Okon, 238 AD3d at 1057–
+unless they lack a sound and substantial basis in the record”      1058; Matter of Krubally v. Jobe, 161 AD3d 1076, 1077).
+(Matter of Freyer v. Macruari, 234 AD3d 755, 756 [internal
+
+
+
+ WESTLAW           © 2026 Thomson Reuters. No claim to original U.S. Government Works.                                             5
+In the Matter of Kevin A. Julien, appellant, v. Danielle M. Arthur, respondent. (Proceeding No. 1) In..., ---
+N.Y.S.3d ---- (2026)
+2026 N.Y. Slip Op. 03308
+                                                                     him, the father shall deposit the sum of $250 with the Clerk of
+The father's contention that the Family Court was biased
+                                                                     this Court for transmittal to the Commissioner of Taxation and
+against him is unpreserved for appellate review. “A party
+claiming court bias must preserve an objection and move for          Finance (see 22 NYCRR 130–1.3), and the order is affirmed
+                                                                     insofar as appealed from.
+the court to recuse itself” (Matter of Baby Girl Z. [Yaroslava
+Z.], 140 AD3d 893, 894; see Matter of George A.C. [Anthony
+C.], 223 AD3d 798, 800). “In any event, when a claim of bias         DUFFY, J.P., LANDICINO and QUIRK, JJ., concur.
+is raised, the inquiry on appeal is limited to whether the court's   Upon the order to show cause and the papers filed in response
+bias, if any, unjustly affected the result to the detriment of the   thereto, and upon the argument of the appeal, it is
+complaining party” (Matter of George A.C. [Anthony C.], 223
+AD3d at 800 [internal quotation marks omitted]; see Matter of        ORDERED that the motion is granted to the extent of
+Hossain v. Chowdhury, 238 AD3d 751, 753). Here, the record           directing the appellant to pay a sanction in the sum of $250;
+demonstrates that the court listened to the testimony, treated       within 20 days after service of a copy of this opinion and order
+the parties fairly, and did not have a predetermined outcome         upon him, the appellant shall deposit the sum of $250 with
+of the case in mind during the hearing (see Matter of Roman v.       the Clerk of this Court for transmittal to the Commissioner
+Deceus, 239 AD3d 751, 752; Matter of Perlman v. Kolodny,             of Taxation and Finance (see 22 NYCRR 130–1.3); and it is
+236 AD3d 1038, 1044).                                                further,
+
+                                                                     ORDERED that the order is affirmed insofar as appealed
+VI. Conclusion
+                                                                     from, without costs or disbursements.
+We determine that the father should pay a sanction for
+frivolous conduct pursuant to 22 NYCRR 130–1.1(c)(1) in                ENTER:
+the sum of $250. We also determine that the Family Court             Darrell M. Joseph
+properly granted the mother's petition for sole legal and
+residential custody of the child with certain parental access to
+the father.                                                          Clerk of the Court
+
+Accordingly, the motion is granted to the extent of directing        All Citations
+the father to pay a sanction in the sum of $250; within 20
+                                                                     --- N.Y.S.3d ----, 2026 WL 1476261, 2026 N.Y. Slip Op.
+days after service of a copy of this opinion and order upon
+                                                                     03308
+
+End of Document                                                        © 2026 Thomson Reuters. No claim to original U.S.
+                                                                                                   Government Works.
+
+
+
+
+ WESTLAW            © 2026 Thomson Reuters. No claim to original U.S. Government Works.                                           6
+

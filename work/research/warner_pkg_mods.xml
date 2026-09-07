@@ -1,0 +1,227 @@
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.3" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" ID="P0b002ee1db25afd2">
+    <name type="corporate">
+         <namePart>United States Government Publishing Office</namePart>
+         <role>
+              <roleTerm authority="marcrelator" type="text">publisher</roleTerm>
+              <roleTerm authority="marcrelator" type="code">pbl</roleTerm>
+        </role>
+         <role>
+              <roleTerm authority="marcrelator" type="text">distributor</roleTerm>
+              <roleTerm authority="marcrelator" type="code">dst</roleTerm>
+        </role>
+    </name>
+    <name type="corporate">
+         <namePart>United States</namePart>
+         <namePart>United States District Court Eastern District of Michigan</namePart>
+         <role>
+              <roleTerm authority="marcrelator" type="text">author</roleTerm>
+              <roleTerm authority="marcrelator" type="code">aut</roleTerm>
+        </role>
+         <description>Government Organization</description>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="marcgt">government publication</genre>
+    <language>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+    <extension>
+         <collectionCode>USCOURTS</collectionCode>
+         <category>Judicial Publications</category>
+         <branch>judicial</branch>
+         <dateIngested>2025-12-05</dateIngested>
+    </extension>
+    <originInfo>
+         <publisher>Administrative Office of the United States Courts</publisher>
+         <dateIssued encoding="w3cdtf">2025-12-04</dateIssued>
+         <issuance>monographic</issuance>
+    </originInfo>
+    <physicalDescription>
+         <note type="source content type">deposited</note>
+         <digitalOrigin>born digital</digitalOrigin>
+         <extent>21 digital object pages</extent>
+    </physicalDescription>
+    <classification authority="sudocs">JU 4.15</classification>
+    <identifier type="uri">https://www.govinfo.gov/app/details/USCOURTS-mied-2_24-cv-12333</identifier>
+    <identifier type="local">P0b002ee1db25afd2</identifier>
+    <recordInfo>
+         <recordContentSource authority="marcorg">DGPO</recordContentSource>
+         <recordCreationDate encoding="w3cdtf">2025-12-05</recordCreationDate>
+         <recordChangeDate encoding="w3cdtf">2025-12-05</recordChangeDate>
+         <recordIdentifier source="DGPO">USCOURTS-mied-2_24-cv-12333</recordIdentifier>
+         <recordOrigin>machine generated</recordOrigin>
+         <languageOfCataloging>
+              <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+        </languageOfCataloging>
+    </recordInfo>
+    <accessCondition type="GPO scope determination">fdlp</accessCondition>
+    <extension>
+         <docClass>USCOURTS</docClass>
+         <accessId>USCOURTS-mied-2_24-cv-12333</accessId>
+         <courtType>District</courtType>
+         <courtCode>mied</courtCode>
+         <courtCircuit>6th</courtCircuit>
+         <courtState>Michigan</courtState>
+         <courtSortOrder>2251</courtSortOrder>
+         <caseNumber>2:24-cv-12333</caseNumber>
+         <caseOffice>Detroit</caseOffice>
+         <caseType>civil</caseType>
+         <natureSuitCode>442</natureSuitCode>
+         <natureSuit>Civil Rights Employment</natureSuit>
+         <cause>42:1981 Job Discrimination (Race)</cause>
+         <party fullName="Gilbarco Veeder-Root" lastName="Gilbarco Veeder-Root" role="Defendant"></party>
+         <party fullName="Gilbarco, Inc." lastName="Gilbarco, Inc." role="Defendant"></party>
+         <party fullName="Vontier Corporation" lastName="Vontier Corporation" role="Defendant"></party>
+         <party firstName="Sohyon" fullName="Sohyon Warner [E-filer]" lastName="Warner [E-filer]" role="Plaintiff"></party>
+    </extension>
+    <titleInfo>
+         <title>Warner v. Gilbarco, Inc . et al</title>
+         <partNumber>2:24-cv-12333</partNumber>
+    </titleInfo>
+    <location>
+         <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/USCOURTS-mied-2_24-cv-12333</url>
+    </location>
+    <classification authority="sudocs">JU 4.15</classification>
+    <identifier type="preferred citation">2:24-cv-12333;24-12333</identifier>
+    <name type="corporate">
+         <namePart>United States District Court Eastern District of Michigan</namePart>
+         <namePart>6th Circuit</namePart>
+         <namePart>Detroit</namePart>
+         <affiliation>U.S. Courts</affiliation>
+         <role>
+              <roleTerm type="text" authority="marcrelator">author</roleTerm>
+              <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+         <displayForm>Gilbarco Veeder-Root</displayForm>
+         <namePart type="family">Gilbarco Veeder-Root</namePart>
+         <namePart type="given"></namePart>
+         <namePart type="termsOfAddress"></namePart>
+         <description>Defendant</description>
+    </name>
+    <name type="personal">
+         <displayForm>Gilbarco, Inc.</displayForm>
+         <namePart type="family">Gilbarco, Inc.</namePart>
+         <namePart type="given"></namePart>
+         <namePart type="termsOfAddress"></namePart>
+         <description>Defendant</description>
+    </name>
+    <name type="personal">
+         <displayForm>Vontier Corporation</displayForm>
+         <namePart type="family">Vontier Corporation</namePart>
+         <namePart type="given"></namePart>
+         <namePart type="termsOfAddress"></namePart>
+         <description>Defendant</description>
+    </name>
+    <name type="personal">
+         <displayForm>Sohyon Warner [E-filer]</displayForm>
+         <namePart type="family">Warner [E-filer]</namePart>
+         <namePart type="given">Sohyon</namePart>
+         <namePart type="termsOfAddress"></namePart>
+         <description>Plaintiff</description>
+    </name>
+    <extension>
+         <docClass>USCOURTS</docClass>
+         <accessId>USCOURTS-mied-2_24-cv-12333</accessId>
+         <courtType>District</courtType>
+         <courtCode>mied</courtCode>
+         <courtCircuit>6th</courtCircuit>
+         <courtState>Michigan</courtState>
+         <courtSortOrder>2251</courtSortOrder>
+         <caseNumber>2:24-cv-12333</caseNumber>
+         <caseOffice>Detroit</caseOffice>
+         <caseType>civil</caseType>
+         <natureSuitCode>442</natureSuitCode>
+         <natureSuit>Civil Rights Employment</natureSuit>
+         <cause>42:1981 Job Discrimination (Race)</cause>
+         <party fullName="Gilbarco Veeder-Root" lastName="Gilbarco Veeder-Root" role="Defendant"></party>
+         <party fullName="Gilbarco, Inc." lastName="Gilbarco, Inc." role="Defendant"></party>
+         <party fullName="Vontier Corporation" lastName="Vontier Corporation" role="Defendant"></party>
+         <party firstName="Sohyon" fullName="Sohyon Warner [E-filer]" lastName="Warner [E-filer]" role="Plaintiff"></party>
+         <state>Michigan</state>
+    </extension>
+    <relatedItem type="constituent" ID="id-USCOURTS-mied-2_24-cv-12333-0" xlink:href="https://www.govinfo.gov/metadata/granule/USCOURTS-mied-2_24-cv-12333/USCOURTS-mied-2_24-cv-12333-0/mods.xml">
+         <titleInfo>
+              <title>Warner v. Gilbarco, Inc . et al</title>
+              <subTitle>ORDER Following Status Conference. 48 Amended MOTION to Compel Discovery, 49 MOTION for Protective Order REGARDING DEFENDANTS NOTICE OF DEPOSITION :( Response due by 10/15/2025, Reply due by 10/22/2025, Resolved/Unresolved Issues due by 10/24/2025, Motion Hearing set for 10/28/2025 10:00 AM before Magistrate Judge Anthony P. Patti) Signed by Magistrate Judge Anthony P. Patti. (SHic)</subTitle>
+              <partNumber>0</partNumber>
+        </titleInfo>
+         <originInfo>
+              <dateIssued>2025-09-26</dateIssued>
+        </originInfo>
+         <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/USCOURTS-mied-2_24-cv-12333/pdf/USCOURTS-mied-2_24-cv-12333-0.pdf">
+              <identifier type="FDsys Unique ID">D09002ee1db2e3bf2</identifier>
+        </relatedItem>
+         <identifier type="uri">https://www.govinfo.gov/app/details/USCOURTS-mied-2_24-cv-12333/USCOURTS-mied-2_24-cv-12333-0</identifier>
+         <identifier type="former granule identifier">mied-2_24-cv-12333_0.pdf</identifier>
+         <location>
+              <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/USCOURTS-mied-2_24-cv-12333/USCOURTS-mied-2_24-cv-12333-0</url>
+              <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/USCOURTS-mied-2_24-cv-12333/pdf/USCOURTS-mied-2_24-cv-12333-0.pdf</url>
+        </location>
+         <extension>
+              <searchTitle>USCOURTS 2:24-cv-12333; Warner v. Gilbarco, Inc . et al; </searchTitle>
+              <courtName>United States District Court Eastern District of Michigan</courtName>
+              <state>Michigan</state>
+              <accessId>USCOURTS-mied-2_24-cv-12333-0</accessId>
+              <sequenceNumber>0</sequenceNumber>
+              <dateIssued>2025-09-26</dateIssued>
+              <docketText>ORDER Following Status Conference. 48 Amended MOTION to Compel Discovery, 49 MOTION for Protective Order REGARDING DEFENDANTS NOTICE OF DEPOSITION :( Response due by 10/15/2025, Reply due by 10/22/2025, Resolved/Unresolved Issues due by 10/24/2025, Motion Hearing set for 10/28/2025 10:00 AM before Magistrate Judge Anthony P. Patti) Signed by Magistrate Judge Anthony P. Patti. (SHic)</docketText>
+        </extension>
+    </relatedItem>
+    <relatedItem type="constituent" ID="id-USCOURTS-mied-2_24-cv-12333-1" xlink:href="https://www.govinfo.gov/metadata/granule/USCOURTS-mied-2_24-cv-12333/USCOURTS-mied-2_24-cv-12333-1/mods.xml">
+         <titleInfo>
+              <title>Warner v. Gilbarco, Inc . et al</title>
+              <subTitle>ORDER (1) Granting in Part and Denying in Part Plaintiff&apos;s Amended 48 Motion to Compel Discovery, (2) Granting in Part and Denying in Part Plaintiff&apos;s 49 Motion for Protective Order regarding Defendants&apos; Notice of Deposition, (3) Modifying the Court&apos;s March 18, 2025 Protective Order (see ECF No. 21); (4) Directing the Parties to read Lee v EUSA Pharma US LLC, No. 2:22-CV-11145, 2024 WL 250064 (E.D. Mich. Jan. 23,2024); (5) Directing Plaintiff to read Ali v. IT People Corp., Inc., No. 2:25-CV-10815, 2025 WL 2682622 (E.D. Mich. Sept. 19, 2025), (6) Striking Plaintiff&apos;s Statement of Resolved and Unresolved Issues (ECF No. 63), and (7) Recording the Parties&apos; Agreement to Engage in Mediation.. Signed by Magistrate Judge Anthony P. Patti. (SHic)</subTitle>
+              <partNumber>1</partNumber>
+        </titleInfo>
+         <originInfo>
+              <dateIssued>2025-10-30</dateIssued>
+        </originInfo>
+         <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/USCOURTS-mied-2_24-cv-12333/pdf/USCOURTS-mied-2_24-cv-12333-1.pdf">
+              <identifier type="FDsys Unique ID">D09002ee1db2e3aa2</identifier>
+        </relatedItem>
+         <identifier type="uri">https://www.govinfo.gov/app/details/USCOURTS-mied-2_24-cv-12333/USCOURTS-mied-2_24-cv-12333-1</identifier>
+         <identifier type="former granule identifier">mied-2_24-cv-12333_1.pdf</identifier>
+         <location>
+              <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/USCOURTS-mied-2_24-cv-12333/USCOURTS-mied-2_24-cv-12333-1</url>
+              <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/USCOURTS-mied-2_24-cv-12333/pdf/USCOURTS-mied-2_24-cv-12333-1.pdf</url>
+        </location>
+         <extension>
+              <searchTitle>USCOURTS 2:24-cv-12333; Warner v. Gilbarco, Inc . et al; </searchTitle>
+              <courtName>United States District Court Eastern District of Michigan</courtName>
+              <state>Michigan</state>
+              <accessId>USCOURTS-mied-2_24-cv-12333-1</accessId>
+              <sequenceNumber>1</sequenceNumber>
+              <dateIssued>2025-10-30</dateIssued>
+              <docketText>ORDER (1) Granting in Part and Denying in Part Plaintiff&apos;s Amended 48 Motion to Compel Discovery, (2) Granting in Part and Denying in Part Plaintiff&apos;s 49 Motion for Protective Order regarding Defendants&apos; Notice of Deposition, (3) Modifying the Court&apos;s March 18, 2025 Protective Order (see ECF No. 21); (4) Directing the Parties to read Lee v EUSA Pharma US LLC, No. 2:22-CV-11145, 2024 WL 250064 (E.D. Mich. Jan. 23,2024); (5) Directing Plaintiff to read Ali v. IT People Corp., Inc., No. 2:25-CV-10815, 2025 WL 2682622 (E.D. Mich. Sept. 19, 2025), (6) Striking Plaintiff&apos;s Statement of Resolved and Unresolved Issues (ECF No. 63), and (7) Recording the Parties&apos; Agreement to Engage in Mediation.. Signed by Magistrate Judge Anthony P. Patti. (SHic)</docketText>
+        </extension>
+    </relatedItem>
+    <relatedItem type="constituent" ID="id-USCOURTS-mied-2_24-cv-12333-2" xlink:href="https://www.govinfo.gov/metadata/granule/USCOURTS-mied-2_24-cv-12333/USCOURTS-mied-2_24-cv-12333-2/mods.xml">
+         <titleInfo>
+              <title>Warner v. Gilbarco, Inc . et al</title>
+              <subTitle>OPINION AND ORDER GRANTING IN PART AND DENYING IN PART PLAINTIFF SOHYON WARNER&apos;S MOTION FOR LEAVE TO FILE SECOND AMENDED COMPLAINT [#43]. Vontier Corporation added as party defendant. Signed by District Judge Gershwin A. Drain. (TDam)</subTitle>
+              <partNumber>2</partNumber>
+        </titleInfo>
+         <originInfo>
+              <dateIssued>2025-12-04</dateIssued>
+        </originInfo>
+         <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/USCOURTS-mied-2_24-cv-12333/pdf/USCOURTS-mied-2_24-cv-12333-2.pdf">
+              <identifier type="FDsys Unique ID">D09002ee1db2e3aa1</identifier>
+        </relatedItem>
+         <identifier type="uri">https://www.govinfo.gov/app/details/USCOURTS-mied-2_24-cv-12333/USCOURTS-mied-2_24-cv-12333-2</identifier>
+         <identifier type="former granule identifier">mied-2_24-cv-12333_2.pdf</identifier>
+         <location>
+              <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/USCOURTS-mied-2_24-cv-12333/USCOURTS-mied-2_24-cv-12333-2</url>
+              <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/USCOURTS-mied-2_24-cv-12333/pdf/USCOURTS-mied-2_24-cv-12333-2.pdf</url>
+        </location>
+         <extension>
+              <searchTitle>USCOURTS 2:24-cv-12333; Warner v. Gilbarco, Inc . et al; </searchTitle>
+              <courtName>United States District Court Eastern District of Michigan</courtName>
+              <state>Michigan</state>
+              <accessId>USCOURTS-mied-2_24-cv-12333-2</accessId>
+              <sequenceNumber>2</sequenceNumber>
+              <dateIssued>2025-12-04</dateIssued>
+              <docketText>OPINION AND ORDER GRANTING IN PART AND DENYING IN PART PLAINTIFF SOHYON WARNER&apos;S MOTION FOR LEAVE TO FILE SECOND AMENDED COMPLAINT [#43]. Vontier Corporation added as party defendant. Signed by District Judge Gershwin A. Drain. (TDam)</docketText>
+        </extension>
+    </relatedItem>
+</mods>

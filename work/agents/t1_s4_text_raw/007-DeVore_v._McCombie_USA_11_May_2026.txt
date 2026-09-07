@@ -1,0 +1,212 @@
+1
+IN THE UNITED STATES DISTRICT COURT
+FOR THE NORTHERN DISTRICT OF ILLINOIS
+EASTERN DIVISION
+THOMAS G. DEVORE,
+Plaintiff,
+v.
+TONY MCCOMBIE,
+Defendant.
+Case No. 1:25-cv-00323
+Judge Mary M. Rowland
+MEMORANDUM OPINION AND ORDER
+Plaintiff sued Defendant Tony McCombie, alleging that Defendant violated his
+First amendment rights by blocking him and deleting his comments from Defendant’s
+Facebook page. Before the court is Defendant’s Motion to Dismiss [24] Plaintiff’s First
+Amended Complaint [22] (the “FAC”). For the reasons stated herein, Defendant’s
+Motion to Dismiss is granted, and Plaintiff’s complaint is dismissed with prejudice.
+I. Factual Background
+The following factual allegations taken from the operative complaint (Dkt. 22) are
+accepted as true for purposes of the motion to dismiss. See Lax v. Mayorkas, 20 F.4th
+1178, 1181 (7th Cir. 2021).
+Plaintiff is an Illinois resident and Defendant is an Illinois state representative.
+[22] ¶¶ 6, 10. On May 19, 2015, Defendant created a Facebook page called “Tony
+McCombie for State Representative 71st District” (“the 2015 Facebook Page”)1. [22]
+¶ 15. She changed the name of the 2015 Facebook Page to “Tony McCombie” on
+1 This Facebook page is available at www.facebook.com/McCombieforIllinois.
+DeVore v. McCombie Doc. 30
+Dockets.Justia.com2
+November 17, 2016 after she was elected to the Illinois House of Representatives. Id.
+Defendant took office in the Illinois House of Representatives on January 11, 2017.
+Id. Defendant has used the 2015 Facebook Page to discuss government business and
+to interact with users about government business since taking office in January 2017.
+Id.
+Defendant was appointed as Illinois House Minority Leader on January 11, 2023.
+[22] ¶16. Defendant created a new Facebook page (“the 2024 Facebook Page”) named
+“Illinois House Minority Leader Tony McCombie” on September 16, 2024, a year and
+a half after her appointment.2 [22] ¶ 18. However, the 2015 Facebook Page continues
+to be the “substantively exclusive arena where citizens directly engage with Leader
+McCombie.” [22] ¶21. The 2015 Facebook Page has over 20,000 followers. [22] ¶ 16.
+The 2024 Facebook Page has a few hundred followers. [22] ¶ 19.
+Defendant administers the 2015 Facebook Page, which gives her control over who
+is banned from the Page and what comments are hidden or deleted on its posts. [22]
+¶ 10. Defendant banned Plaintiff from the 2015 Facebook Page and has also deleted
+some of his comments on her posts. [22] ¶ 53.
+II. Procedural Background
+On January 13, 2025, Plaintiff brought this action against Defendant in her
+individual and official capacities, alleging that Defendant violated his First
+Amendment rights by blocking him and deleting his Facebook comments. [1]. This
+Court granted Defendant’s motion to dismiss on September 22, 2025 and gave
+2 This Facebook page is at available www.facebook.com/IllinoisHouseMinorityLeader.3
+Plaintiff leave to amend his complaint. DeVore v. McCombie, No. 1:25-CV-00323, 2025
+WL 2696304, at *5 (N.D. Ill. Sept. 22, 2025). Plaintiff’s official capacity claim failed
+because Plaintiff failed to allege that his rights were violated as a result of any state
+policy or custom. Id. at *3. And the Court dismissed Plaintiff’s individual capacity
+claim because it failed to allege that Defendant was acting under color of state law
+pursuant to the Supreme Court’s decision in Lindke v. Freed, 601 U.S. 187, 198
+(2024).
+Plaintiff filed the FAC on October 6, 2025. [22]. As with Plaintiff’s first complaint,
+the FAC alleges that the 2015 Facebook Page is a public forum and that Defendant
+violated his First Amendment rights by blocking him and deleting his comments. [22]
+¶¶ 3, 53. On November 3, 2025, Defendant moved to dismiss Plaintiff’s FAC pursuant
+to Federal Rules of Civil Procedure 12(b)(1) and 12(b)(6) for lack of subject matter
+jurisdiction and failure to state a claim upon which relief can be granted. [25] at 1.
+Defendant also moved to strike immaterial matter from the pleading pursuant to
+Federal Rule of Civil Procedure 12(f). [25] at 1.
+III. Standard
+“To survive a motion to dismiss under Rule 12(b)(6), the complaint must provide
+enough factual information to state a claim to relief that is plausible on its face and
+raise a right to relief above the speculative level.” Haywood v. Massage Envy
+Franchising, LLC, 887 F.3d 329, 333 (7th Cir. 2018) (quoting Camasta v. Jos. A. Bank
+Clothiers, Inc., 761 F.3d 732, 736 (7th Cir. 2014)); see also Fed. R. Civ. P. 8(a)(2)
+(requiring a complaint to contain a “short and plain statement of the claim showing4
+that the pleader is entitled to relief”). A court deciding a Rule 12(b)(6) motion
+“construe[s] the complaint in the light most favorable to the plaintiff, accept[s] all
+well-pleaded facts as true, and draw[s] all reasonable inferences in the plaintiff’s
+favor.” Lax, 20 F.4th at 1181. However, the court need not accept as true “statements
+of law or unsupported conclusory factual allegations.” Id. (quoting Bilek v. Fed. Ins.
+Co., 8 F.4th 581, 586 (7th Cir. 2021)). “While detailed factual allegations are not
+necessary to survive a motion to dismiss, [the standard] does require ‘more than mere
+labels and conclusions or a formulaic recitation of the elements of a cause of action to
+be considered adequate.’” Sevugan v. Direct Energy Servs., LLC, 931 F.3d 610, 614
+(7th Cir. 2019) (quoting Bell v. City of Chicago, 835 F.3d 736, 738 (7th Cir. 2016)).
+Dismissal for failure to state a claim is proper “when the allegations in a
+complaint, however true, could not raise a claim of entitlement to relief.” Bell Atl.
+Corp. v. Twombly, 550 U.S. 544, 558 (2007). Deciding the plausibility of the claim is
+“a context-specific task that requires the reviewing court to draw on its judicial
+experience and common sense.” McCauley v. City of Chicago, 671 F.3d 611, 616 (7th
+Cir. 2011) (quoting Ashcroft v. Iqbal, 556 U.S. 662, 679 (2009)).
+A Rule 12(b)(1) motion to dismiss requires a court to dismiss any action over which
+it lacks subject matter jurisdiction. Fed. R. Civ. P. 12(b)(1). On a motion to dismiss
+under Rule 12(b)(1), where the motion challenges the sufficiency of the allegations of
+subject matter jurisdiction, the court must accept as true all well-pled allegations of
+the complaint, drawing all reasonable inferences in the plaintiff’s favor. Evers v.
+Astrue, 536 F.3d 651, 656 (7th Cir. 2008).5
+A Rule 12(f) motion to strike gives the court discretion to strike immaterial matter
+from the pleading. Fed. R. Civ. P. 12(f). Delta Consulting Grp., Inc. v. R. Randle
+Const., Inc., 554 F.3d 1133, 1141 (7th Cir. 2009).
+IV. Analysis
+A. Plaintiff has standing to bring this suit.
+Initially, Defendant moves to dismiss for lack of standing under Rule 12(b)(1),
+arguing that Plaintiff failed to plead a concrete injury or a causal connection between
+Defendant’s conduct and Plaintiff’s injury. To establish standing, a plaintiff must
+allege that he has suffered an injury in fact, that there is a causal connection between
+plaintiff’s injury and defendant’s conduct, and that there is a likelihood that the
+injury will be redressed by a favorable decision. Parents Protecting Our Children, UA
+v. Eau Claire Area Sch. Dist., 95 F.4th 501, 505 (7th Cir. 2024) (citing Lujan v. Defs.
+of Wildlife, 504 U.S. 555, 560–61 (1992)), cert. denied, 145 S. Ct. 14 (2024). Defendant
+argues that Plaintiff fails to allege he (1) suffered an actual injury that was (2) caused
+by Defendant’s conduct. Both arguments can be quickly dispatched with.
+The Seventh Circuit has recognized that a plaintiff in almost identical
+circumstances suffered a cognizable injury. See Krasno v. Mnookin, 148 F.4th 465,
+477 (7th Cir. 2025) (plaintiff suffered cognizable injury where university officials
+deleted comments from social media pages). Defendant argues that to establish
+standing, Plaintiff must identify (1) the dates on which he commented on the 2015
+Facebook Page, (2) the dates on which his comments were deleted, (3) the date on
+which he was blocked, and (4) the specific content of his deleted comments. [25] at 5.6
+But standing does not require such specificity; rather, it requires only that Plaintiff
+demonstrate “a colorable claim” that his rights were allegedly infringed. Krasno, 148
+F.4th at 477. Plaintiff has met his burden. See id.
+Defendant’s causation argument also falls short. Plaintiff alleges that, as
+administrator of the 2015 Facebook Page, Defendant banned Plaintiff and deleted his
+comments. [22] ¶¶ 4, 53. In other words, Plaintiff alleges that Defendant caused
+Plaintiff’s injury. Taking the facts in the complaint as true, Plaintiff has standing to
+bring this suit. Accordingly, Defendant’s motion to dismiss under Rule 12(b)(1) is
+denied.
+B. The FAC Again Fails to State a Claim Under Section 1983
+1. Plaintiff’ official capacity claim again fails to allege a policy or custom of the
+state that caused the First Amendment violation
+Plaintiff complains against Defendant in her official capacity as the Illinois State
+Representative and Illinois Republican House Minority Leader. [22] at 10. To state a
+claim against a defendant in her official capacity, Plaintiff must allege that the state’s
+“‘policy or custom’ . . . played a part in the violation of federal law.” Kentucky v.
+Graham, 473 U.S. 159, 166 (1985).
+The Court previously dismissed Plaintiff’s official capacity claim for failure to
+allege a policy or custom. DeVore, 2025 WL 2696304, at *3. The FAC does not fix this
+deficiency. Nor does Plaintiff’s opposition brief address this requirement, Plaintiff’s
+claim against Defendant in her official capacity is dismissed.
+2. Plaintiff’s individual capacity claim fails to reckon with Lindke7
+To establish a cause of action against Defendant in her individual capacity,
+Plaintiff must allege that Defendant acted under color of law. 42 U.S.C. § 1983
+(“[e]very person who, under color of any statute, ordinance, regulation, custom, or
+usage [. . .] subjects, or causes to be subjected, any [. . .] person [. . .] to the deprivation
+of any rights.”). In Lindke v. Freed, the Supreme Court explained how to allege state
+action in cases involving First Amendment violations on a social media platforms: “A
+public official’s social-media activity constitutes state action under Section 1983 only
+if the official (1) possessed actual authority to speak on the State’s behalf, and (2)
+purported to exercise that authority when he spoke on social media.” 601 U.S. 187,
+198 (2024).
+As to the first prong, actual authority must be “rooted in written law or
+longstanding custom to speak for the State.” Lindke, 601 U.S. at 201. Courts applying
+Lindke generally require an explicit and narrow creation of authority, rather than
+one that is deduced or extrapolated from general duties of legislators. Freeman v.
+Epps, No. 24-CV-01215-MDB, 2025 WL 2948598, at *7 (D. Colo. Sept. 19, 2025)
+(granting motion to dismiss because although “legislators may represent their
+constituents, debate matters of public concern, and vote on proposed legislation, [. . .]
+they do not possess ‘actual authority’ to speak on behalf of the state”); Fox v. Faison,
+798 F. Supp. 3d 809, 822 (M.D. Tenn. 2025) (holding that a state representative did
+not have actual authority to speak on behalf of the state when neither the state
+constitution nor the legislators’ oath created that authority); Dixon v. Clyburn, 2024
+WL 5379014, at *5 (D.S.C. Oct. 10, 2024), report and recommendation adopted, 20258
+WL 354416 (D.S.C. Jan. 31, 2025) (dismissing complaint because it “lack[ed]
+sufficient factual allegations to show that [the congressman] exercised actual
+authority to speak on behalf of the Legislature when he spoke via his Twitter
+accounts.”).
+The FAC attaches as exhibits multiple examples of Defendant’s Facebook posts.
+See [22] ¶¶ 25-44. These posts reflect that Defendant regularly used Facebook to
+provide updates on legislative matters and to communicate with constituents. But
+the posts say nothing about whether Defendant has actual authority to speak on the
+state’s behalf, and they thus say nothing about whether Plaintiff can satisfy Linke’s
+first prong. The Court dismissed Plaintiff’s prior complaint for failing to reckon with
+Lindke. Plaintiff again fails to identify any written law or longstanding custom that
+gives Defendant actual authority to speak on behalf of the state. Plaintiff thus fails
+to satisfy the first element of the Lindke test, and his claim against Defendant in her
+individual capacity must also be dismissed.3
+D. The First Amended Complaint is dismissed with prejudice
+Defendant argues that the FAC should be dismissed with prejudice. The Court
+agrees. In their discretion, courts may dismiss complaint with prejudice where a
+plaintiff “fail[s] to cure deficiencies by amendments previously allowed,” or where
+amendment would be futile. Foman v. Davis, 371 U.S. 178, 182 (1962). Here, the FAC
+is dismissed for the same reasons that Plaintiff’s first complaint was dismissed.
+3 Because the Court dismisses Plaintiff’s only count for failure to state a claim, the Court declines to address
+Defendants’ arguments that Plaintiff’s allegations should be stricken as time-barred and that Defendant is
+protected by qualified immunity.9
+Plaintiff failed to adequately address any of the deficiencies previously identified, so
+the FAC is dismissed with prejudice.
+D. Defendant’s citations
+Despite having granted Defendant’s motion to dismiss, the Court notes with some
+concern that Defendant appears to have cited a non-existent case in support of her
+argument. While arguing that Plaintiff’s claim was time barred, Defendant cited to
+Beecham v. City of Anniston, 42 F.4th 1130, 1135 (11th Cir. 2022) for the proposition
+that “discrete acts of speech deletion must occur within limitations period.” [25] at
+11. The Court is unable to find a case with that name or that combination of volume
+number, reporter, and page number. Defendant also cited to Alvarez v. City of
+Chicago, 605 F.3d 445, 452–53 (7th Cir. 2010) for the well-established proposition
+that Courts have discretion to deny leave to amend where a plaintiff fails to cure
+deficiencies in their complaint. [25] at 13. Alvarez is a real case, but (1) the case ends
+at page 451, so it appears Defendant cites to non-existent pages, and (2) Alvarez says
+nothing about the circumstances under which a court may dismiss a complaint with
+prejudice. It may be that Defendant inadvertently included typos that prevent the
+Court from locating the correct versions of either case. In any event, by May 12, 2026,
+Defense counsel shall file a declaration with the Court explaining how the
+memorandum in support of Defendant’s motion to dismiss was generated and how
+counsel came to locate Beecham and Alvarez.
+V. Conclusion10
+For the stated reasons, Defendant’s Motion to Dismiss [24] is granted. The
+complaint is dismissed for failure to state a claim. The FAC is dismissed with
+prejudice. By May 22, 2026, Defense counsel shall file a declaration with the Court
+explaining how the memorandum in support of Defendant’s motion to dismiss was
+generated and how counsel came to locate Beecham and Alvarez. Judgment to enter.
+Civil case terminated.
+Dated: May 11, 2026
+E N T E R:

@@ -1,0 +1,161 @@
+1
+IN THE UNITED STATES DISTRICT COURT
+FOR THE DISTRICT OF MARYLAND
+ALI BEHROZ AZIZ, et al.,
+Plaintiff,
+v.
+UNITED STATES OF AMERICA, et al.,
+Defendants.
+Case No. 26-cv-243-ABA
+MEMORANDUM OPINION
+Plaintiffs Ali Behroz Aziz and Shinkay Aziz (“Plaintiffs”) have sued the United
+States, the Maryland Attorney General’s Office (the “AG”), Bezhan Aziz (hereinafter,
+“Defendant Aziz”), and Jonathan Kagan. This case is related to a prior one filed by the
+same Plaintiffs against Defendant Aziz. Aziz, et al., v. Aziz, Case No. 22-cv-2834-BAH
+(D. Md.) (hereinafter, the “2834 Case”). Defendants Kagan and the AG have filed
+motions to dismiss, which are pending. ECF No. 43, 49. Further, the Court has already
+issued an opinion ruling on several of Plaintiffs’ motions and ordering Plaintiffs to show
+cause why their case against Defendant Aziz should not be dismissed. ECF No. 52.
+Plaintiffs’ response to the order to show cause is due on May 9, 2026. Id. at 5.
+Since the Court’s prior order roughly three weeks ago, Plaintiffs have filed 7
+different motions:
+• A motion to convert Mr. Kagan’s motion to dismiss into a motion for
+summary judgment (ECF No. 54)
+• A motion for leave to amend the complaint a second time (ECF No. 55)
+Case 1:26-cv-00243-ABA Document 72 Filed 04/27/26 Page 1 of 72
+• An “emergency motion to vacate all orders, for recusal under 28 U.S.C. §§ 144
+and 455(a), for reassignment to a different judge, and for a complete rest of
+these proceedings” (ECF No. 57)
+• A motion for reconsideration (ECF No. 58)
+• An emergency motion to stay (ECF No. 62)
+• A motion for leave to exceed page and word limits for all future filings (ECF
+No. 64)
+• An “emergency ex parte motion for temporary restraining order and order to
+show cause why a preliminary injunction should not issue against Defendant
+Bezhan Aziz” (ECF No. 65)
+Plaintiffs have also filed three supplemental memoranda of law (ECF Nos. 59, 66, 70) as
+well as a second amended complaint (ECF No. 67).
+All of these motions are denied except for the motion to amend, for which the
+Court will reserve ruling. Regarding the motion to convert Mr. Kagan’s motion to
+dismiss (ECF No. 54), to the extent Plaintiffs are objecting to the Court’s consideration
+of the settlement agreement in the 2834 case, that objection is overruled. Plaintiffs
+referred to the settlement agreement numerous times in their own amended complaint,
+including as the basis for certain claims. See, e.g., ECF No. 16 at 28 (asserting count III
+for “coercion, duress, perjury, void settlement, and fraud on court”). “In reviewing a
+motion to dismiss, courts may consider documents referenced or relied upon in the
+complaint.” Medispec, Ltd. v. Chouinard, 133 F. Supp. 3d 771, 772 n.1 (D. Md. 2015).
+The Court will not convert Mr. Kagan’s motion under Rule 12(d) at this juncture.
+Concerning the motion for leave to amend (ECF No. 55), the Court will reserve
+ruling on that motion until both currently pending motions to dismiss are fully briefed
+Case 1:26-cv-00243-ABA Document 72 Filed 04/27/26 Page 2 of 73
+and Plaintiffs have responded to the order to show cause regarding Defendant Aziz.
+Plaintiffs have also filed what appears to be a proposed second amended complaint
+(ECF No. 67). Until the Court rules regarding the motion for leave to amend, the
+operative complaint in this case remains ECF No. 16.
+As for the recusal motion (ECF Nos. 57, 59, 71), Plaintiffs contend that this Court
+is objectively biased because it granted Mr. Kagan’s motion to seal without first
+considering Plaintiffs’ opposition and due to disagreements with the Court’s order
+denying the motion to appoint counsel. ECF No. 57 at 2–4. Federal judges must
+disqualify themselves “in any proceeding in which [their] impartiality might reasonably
+be questioned.” 28 U.S.C. § 455(a). “[E]ven the appearance of partiality requires
+recusal.” Duke Energy Carolinas, LLC v. NTE Carolinas II, LLC, 111 F.4th 337, 367 (4th
+Cir. 2024). To determine whether such an appearance is objectively present requires
+asking “whether a reasonable person would have a reasonable basis for questioning the
+judge’s impartiality.” United States v. Cherry, 330 F.3d 658, 665 (4th Cir. 2003)
+(quoting In re Beard, 811 F.2d 818, 827 (4th Cir. 1987)). Recusal is not required in the
+face of a party’s “unsupported, irrational or highly tenuous speculation.” Id. (quoting
+United States v. DeTemple, 162 F.3d 279, 287 (4th Cir. 1998)). Applying these
+standards, recusal is not warranted here. The Court stated explicitly in its prior order
+that it was considering Mr. Kagan’s request to seal as if the earlier order had not issued,
+following Plaintiffs’ motions indicating their opposition to sealing. ECF No. 52 at 2 (“As
+the Court granted the motion for leave to file under seal without considering Plaintiffs’
+opposition, the Court will construe Plaintiffs’ motions as oppositions to sealing, rather
+than motions to reconsider, and analyze the issue anew.”). Other than disagreement
+over the Court’s orders on appointment of counsel and sealing, for which the Court did
+Case 1:26-cv-00243-ABA Document 72 Filed 04/27/26 Page 3 of 74
+take Plaintiffs’ opposition into account, Plaintiffs have articulated no other basis for
+recusal. Their disagreement alone is not sufficient. United States v. Smith, Case No. 22-
+6820, 2024 WL 2151186, at *1 (4th Cir. May 14, 2024) (“[M]ere dissatisfaction with the
+district court’s rulings . . . is not a sufficient basis for recusal.”); Belue v. Leventhal, 640
+F.3d 567, 574 (4th Cir. 2011) (“[W]hile recusal motions serve as an important safeguard
+against truly egregious conduct, they cannot become a form of brushback pitch for
+litigants to hurl at judges who do not rule in their favor.”).
+The motion for reconsideration (ECF Nos. 58, 66) is also denied. Plaintiffs claim
+that the Court overlooked “binding Fourth Circuit precedent” that requires district
+courts to consider “whether Plaintiffs possess the capacity to present their colorable
+claims,” citing Brock v. City of Richmond, 983 F.2d 1055, 1058 (4th Cir. 1993). First of
+all, Plaintiffs’ page number citation to Brock appears erroneous, as Brock is an
+unpublished “Table” case (and therefore is also not binding precedent). More
+importantly, the Court did consider Plaintiffs’ capacity, noting that they had already
+filed multiple motions and had not explained “why they are not capable of continuing to
+litigate the case in a similar manner.” ECF No. 52 at 4. The flurry of lengthy filings
+following that order only reinforces Plaintiffs’ capacity. The motion for reconsideration
+is denied.
+Plaintiffs have also moved to stay the case pending the Court’s consideration of
+the motions for reconsideration and for recusal, as well as “any subsequent interlocutory
+appeal or extraordinary review.” ECF No. 62 at 1. The Court has now ruled on the
+motions for reconsideration and recusal. Plaintiffs have no pending appeal. The motion
+to stay is denied.
+Case 1:26-cv-00243-ABA Document 72 Filed 04/27/26 Page 4 of 75
+The motion for an ongoing increase of page and word counts (ECF No. 64) is
+denied. See Prangley v. Cokinos, 509 B.R. 822, 832 (D. Md. 2014) (“Presiding judges
+have considerable discretion in managing their dockets.”).
+Finally, Plaintiffs have moved under seal for a temporary restraining order (TRO)
+to “freez[e] all assets of Defendant Bezhan Aziz traceable to the $101,500 fraudulently
+transferred from Plaintiffs in June 2021.” ECF No. 65 at 1. “To obtain preliminary
+injunctive relief, Plaintiffs bear the burden to show that they are likely to succeed on one
+of their claims.” Profiles, Inc. v. Bank of Am. Corp., 453 F. Supp. 3d 742, 747 (D. Md.
+2020). Upon consideration of Plaintiffs’ briefs, the Court remains of the view that
+Plaintiffs’ claims against Defendant Aziz are likely foreclosed by the settlement and/or
+court orders in the previous case. Even if the Court were convinced that Plaintiffs were
+likely to succeed, they have not explained why, nearly five years after the alleged fraud,
+“freezing” Defendant Aziz’s assets would prevent immediate and irreparable harm. The
+motion for a TRO will be denied.
+Plaintiffs have filed an unusually high number of motions in a short amount of
+time. Plaintiffs note they are “non-native English speakers unfamiliar with American
+legal customs, adversarial procedure, and evidentiary rules,” ECF No. 32 at 6, and are
+disadvantaged by “[l]anguage barriers,” ECF No. 58 at 4. But Plaintiffs’ filings thus far
+are not consistent with these limitations. For example, they filed four motions and a
+response (ECF Nos. 53–55, 56–58) comprising over 40 pages of coherent legal analysis
+all on April 10, 2026, the day after the Court’s prior order, ECF No. 52. The latest flurry
+worsens a pattern of repeated filings: the Court’s previous order denied four of
+Plaintiffs’ motions that were filed within the space of a few weeks. ECF No. 52. The
+likeliest explanation is that Plaintiffs are using an artificial intelligence (AI) tool. This
+Case 1:26-cv-00243-ABA Document 72 Filed 04/27/26 Page 5 of 76
+inference is further corroborated by numerous hallucinated cases and citations: for
+example, in ECF No. 59 at 8, Plaintiffs’ quote a previous case of this Court (“United
+States v. $17,900 in U.S. Currency”) that does not appear to exist.
+Although the use of AI tools for legal research or drafting is not inherently
+improper, Plaintiffs’ avalanche of filings here, whether AI-generated or not, have
+burdened the Court, advanced frivolous arguments, misstated the record, and fabricated
+legal authorities. Parties bear responsibility for the filings they sign, regardless of actual
+authorship. See LBCMT 2007-C3 Urbana Pike, LLC v. Sheppard, 302 F.R.D. 385, 388
+(D. Md. 2014) (“[P]ro se litigants[,] where appropriate, are still held to a basic standard
+of accountability for the contents of their court papers.”). This responsibility includes
+the duty to include accurate factual and legal citations. See United States v. Malik, Case
+No. 16-cr-324-JKB, 2025 WL 2687413, at *1 n.2 (D. Md. Sept. 19, 2025) (“While the
+Court affords pro se litigants substantial latitude in their filings, that does not provide
+permission to include nonexistent quotations and citations. In particular, when using
+generative artificial intelligence, litigants must be aware ‘that such platforms sometimes
+‘hallucinate,’ meaning they provide inaccurate responses.’”) (quoting Kruglyak v. Home
+Depot U.S.A., Inc., 774 F. Supp. 3d 767, 770 (W.D. Va. 2025)).
+Accordingly, to facilitate an efficient and fair resolution of this case, the Court will
+limit the length of any new motions or oppositions to four pages (this limitation will
+apply to both sides). As noted above, Mr. Kagan and the AG’s motions to dismiss are still
+pending (Plaintiffs have responded to both motions). Further, despite their numerous
+filings, Plaintiffs have not responded to the order to show cause why their claims against
+Defendant Aziz should not be dismissed (that response is due May 9, 2026). See ECF
+No. 52 at 5. The page limitation will not apply to the AG’s reply in support of its motion
+Case 1:26-cv-00243-ABA Document 72 Filed 04/27/26 Page 6 of 77
+to dismiss (Mr. Kagan has already filed his reply) or to Plaintiffs’ response to the order
+to show cause (instead, the normal page limitations under the local rules shall apply).
+The page limitation will also not apply to any dispositive motion filed by Defendant
+United States of America. These limitations will be set forth in a separate order.
+If Plaintiffs continue to file frivolous motions or include fabricated citations,
+and/or violate the page limitation set forth in the accompanying order, the Court may
+enjoin them from submitting further filings or consider imposing other sanctions.
+Date: April 27, 2026 ___________________
+Adam B. Abelson
+United States District Judge
+/s/
+Case 1:26-cv-00243-ABA Document 72 Filed 04/27/26 Page 7 of 7

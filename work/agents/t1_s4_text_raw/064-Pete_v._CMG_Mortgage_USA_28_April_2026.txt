@@ -1,0 +1,378 @@
+UNITED STATES DISTRICT COURT
+EASTERN DISTRICT OF TENNESSEE
+AT CHATTANOOGA
+MICHAEL D. PATE and JENNIFER M.
+PATE,
+Plaintiffs,
+v.
+CMG MORTGAGE, INC., MORTGAGE
+ELECTRONIC REGISTRATION
+SYSTEMS, INC., et al.,
+Defendants.
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+Case No. 1:25-cv-349
+Judge Travis R. McDonough
+Magistrate Judge Michael J. Dumitru
+MEMORANDUM OPINION
+Before the Court are Defendants CMG Mortgage, Inc.’s (“CMG”) and Mortgage
+Electronic Registration Systems, Inc.’s (“MERS”) (collectively, “Defendants”) motion to dismiss
+Plaintiffs Michael D. Pate and Jennifer M. Pate’s first amended complaint pursuant to Federal
+Rule of Civil Procedure 12(b)(6) (Doc. 30). For the reasons set forth below, Defendants’ motion
+to dismiss is GRANTED and Plaintiffs’ first amended complaint is DISMISSED WITH
+PREJUDICE.1
+I. BACKGROUND
+On July 16, 2025, Plaintiffs Michael D. Pate and Jennifer M. Pate (“Plaintiffs”) executed
+a promissory note (the “Note”) in the principal amount of $443,157.00 in favor of “CMG
+1
+Prior to Plaintiffs filing their amended complaint, Defendants filed a motion to dismiss the
+original complaint on November 20, 2025. (Doc. 18.) Because the Plaintiffs have since filed an
+amended complaint, the Defendants’ original motion to dismiss (Doc. 18) is DENIED as moot.
+Additionally, Plaintiffs’ motion to set a Rule 26(f) conference (Doc. 37), and Defendants’ motion
+to stay a Rule 26(f) conference (Doc. 39) are also DENIED as moot.
+Case 1:25-cv-00349-TRM-MJD Document 41 Filed 04/28/26 Page 1 of 14 PageID
+#: 3172
+Mortgages, Inc. dba CMH Home Loans” and a corresponding Deed of Trust (the “Deed of
+Trust”) encumbering their real property located at 1323 Pine Burr Lane, Chattanooga, Tennessee
+37419 (the “Property”). (See Doc. 26, at 2, 4; Doc. 26-4 at 1–2; Doc. 31-1, at 1.) The Deed of
+Trust names MERS as “the beneficiary to [the] security agreement” and was duly recorded in the
+Hamilton County Register of Deeds on July 18, 2025. (See Doc. 26, at 1, 4; Doc. 26-4, at 1–2.)
+Plaintiffs conducted a MERS ServicerID search using their mortgage identification
+number and found that MERS “listed Ginnie Mae as the ‘investor’ for Plaintiff’s loans.” (Doc.
+26, at 6; see also Doc. 26-3.) Ginnie Mae is not specifically listed as a beneficiary in the Deed of
+Trust, and Plaintiffs claim that a separate assignment to Ginnie Mae has not been recorded in the
+Hamilton County land records. (See Doc. 26, at 5–6.)
+On August 11, 2025, Plaintiffs submitted a Qualified Written Request (“QWR”) to CMG
+requesting, among other things, identification of the current owner and investor of the loan, the
+original Note and “[c]omplete chain of assignments of the mortgage/deed of trust,” securitization
+documents, and life-of-loan payment histories. (See id. at 6; Doc. 26-5, at 2–3.) CMG
+responded in writing on August 26, 2025, identifying CMG Mortgage, Inc., as the loan owner,
+confirming its servicer status, providing a copy of a “Notice of Assignment, Sale or Transfer of
+Servicing,” and declining to produce investor identity information on the grounds that such
+information was “beyond the scope permitted” by the Real Estate Settlement Procedures Act, 12
+U.S.C. § 2601 et seq. (“RESPA”). (Doc. 26-6, at 1–2, 9.) CMG also enclosed a copy of the
+Deed of Trust as well as the loan transaction history in its response to Plaintiffs’ QWR. (Id. at 1,
+5; Doc. 26–7, at 1–2.)
+Plaintiffs separately obtained two certified UCC-11 searches from the Tennessee
+Secretary of State, dated August 22, 2025, and September 28, 2025, both of which “showed no
+Case 1:25-cv-00349-TRM-MJD Document 41 Filed 04/28/26 Page 2 of 14 PageID
+#: 3183
+UCC-1 financing statement file under Plaintiffs’ names in relation to the alleged loan or note.”
+(Doc. 26, at 7; see also Docs. 26-1; 26-2.) As of the filing of the suit, Plaintiffs’ year-to-date
+payments in 2025 totaled $11,850.84, and Plaintiffs claim they made additional payments to
+CMG thereafter. (Doc. 26, at 8–9; Doc. 26-7, at 2.)
+Plaintiffs initiated this action pro se on October 9, 2025, in Hamilton County Chancery
+Court. (See Doc. 1-1, at 12.) Defendants filed a notice of removal to this Court on November
+13, 2025. (See Doc. 1). Plaintiffs amended their complaint on December 1, 2025. (Doc. 26). In
+the operative complaint (Doc. 26), Plaintiffs assert the following six causes of action: (1) quiet
+title/declaratory relief; (2) conversion; (3) fraud and fraudulent concealment; (4) unjust
+enrichment/restitution; (5) violations of the Tennessee Consumer Protection Act, § 47-18-101 et
+seq. (“TCPA”); and (6) supplemental declaratory and injunctive relief.2
+(See Doc. 26, at 11–24.)
+Plaintiffs seek “restitution of all payments wrongfully collected from them on the alleged
+debt, in an amount to be proven at trial,” compensatory damages for the conversion, fraud, unjust
+enrichment, and TCPA claims, punitive damages in the amount of $500,000, and “temporary,
+preliminary, or permanent injunctive relief prohibiting any foreclosure, sale, . . . or other
+disposition of the Property.” (Id. at 22.) Defendants moved to dismiss Plaintiffs’ operative
+complaint for failure to state a claim on December 15, 2025. (Doc. 30.) The motion is now ripe
+for review.
+II. LEGAL STANDARD
+A. Federal Rule of Civil Procedure 8(a)(2)
+Rule 8 of the Federal Rules of Civil Procedure requires a complaint to contain “a short
+2
+The Court notes that “counts” 1 and 6 are not technically causes of action as stated in the
+amended complaint, but rather are requests for relief. (See Doc. 26, at 11, 20.)
+Case 1:25-cv-00349-TRM-MJD Document 41 Filed 04/28/26 Page 3 of 14 PageID
+#: 3194
+and plain statement of the claim showing that the pleader is entitled to relief.” Fed. R. Civ. P.
+8(a)(2). Though the statement need not contain detailed factual allegations, it must contain
+“factual content that allows the court to draw the reasonable inference that the defendant is liable
+for the misconduct alleged.” Ashcroft v. Iqbal, 556 U.S. 662, 678 (2009). “[Rule 8] demands
+more than an unadorned, the-defendant-unlawfully-harmed-me accusation.” Id.
+A defendant may obtain dismissal of a claim that fails to satisfy Rule 8 by filing a motion
+pursuant to Rule 12(b)(6). On a Rule 12(b)(6) motion, the Court considers not whether the
+plaintiff will ultimately prevail, but whether the facts permit the court to infer “more than the
+mere possibility of misconduct.” Id. at 679. For purposes of this determination, the Court
+construes the complaint in the light most favorable to the plaintiff and assumes the truth of all
+well-pleaded factual allegations in the complaint. Thurman v. Pfizer, Inc., 484 F.3d 855, 859
+(6th Cir. 2007). This assumption of truth, however, does not extend to legal conclusions, Iqbal,
+556 U.S. at 679, nor is the Court “bound to accept as true a legal conclusion couched as a factual
+allegation,” Papasan v. Allain, 478 U.S. 265, 286 (1986). “When a court is presented with a
+Rule 12(b)(6) motion, it may consider the Complaint and any exhibits attached thereto, public
+records, items appearing in the record of the case and exhibits attached to defendant’s motion to
+dismiss so long as they are referred to in the Complaint and are central to the claims contained
+therein.” Bassett v. Nat’l Collegiate Athletic Ass’n, 528 F.3d 426, 430 (6th Cir. 2008) (citation
+omitted).
+After sorting the factual allegations from the legal conclusions, the Court next considers
+whether the factual allegations, if true, would support a claim entitling the plaintiff to relief.
+Thurman, 484 F.3d at 859. The factual allegations must “state a claim to relief that is plausible
+on its face.” Bell Atl. Corp. v. Twombly, 550 U.S. 544, 570 (2007). Plausibility “is not akin to a
+Case 1:25-cv-00349-TRM-MJD Document 41 Filed 04/28/26 Page 4 of 14 PageID
+#: 3205
+‘probability requirement,’ but it asks for more than a sheer possibility that a defendant has acted
+unlawfully.” Iqbal, 556 U.S. at 678 (quoting Twombly, 550 U.S. at 556). “[W]here the
+well-pleaded facts do not permit the court to infer more than the mere possibility of misconduct,
+the complaint has alleged—but it has not ‘show[n]’—‘that the pleader is entitled to relief.’” Id.
+at 679 (quoting Fed. R. Civ. P. 8(a)(2)).
+B. Federal Rule of Civil Procedure 9(b)
+Rule 9(b) applies in cases in which a plaintiff alleges fraud and requires that “a party []
+state with particularity the circumstances constituting fraud . . . .” Fed. R. Civ. P. 9(b);
+Sanderson v. HCA-The Healthcare Co., 447 F.3d 873, 877 (6th Cir. 2006). “To plead fraud with
+particularity, the plaintiff must allege: (1) the time, place, and content of the alleged
+misrepresentation, (2) the fraudulent scheme, (3) the defendant’s fraudulent intent, and (4) the
+resulting injury.” Chesbrough v. VPA, P.C., 655 F.3d 461, 467 (6th Cir. 2011) (quotations and
+citation omitted); see also Greer v. Strange Honey Farm, LLC, 114 F.4th 605, 614–15 (6th Cir.
+2024) (requiring plaintiff to “specify the ‘who, what, when, where, and how’ of the alleged
+fraud).
+The purposes of Rule 9(b) are to “alert[] defendants to the precise misconduct with which
+they are charged and protect[] defendants against spurious charges of immoral and fraudulent
+behavior.” United States ex rel. Prather v. Brookdale Senior Living Cmtys., Inc., 838 F.3d 750,
+771 (6th Cir. 2016) (citation omitted). While this is a high bar, “so long as a [plaintiff] pleads
+sufficient detail—in terms of time, place and content, the nature of a defendant’s fraudulent
+scheme, and the injury resulting from the fraud—to allow the defendant to prepare a responsive
+pleading, the requirements of Rule 9(b) will generally be met.” U.S. ex rel. SNAPP, Inc. v. Ford
+Case 1:25-cv-00349-TRM-MJD Document 41 Filed 04/28/26 Page 5 of 14 PageID
+#: 3216
+Motor Co., 532 F.3d 496, 504 (6th Cir. 2008).
+The Sixth Circuit has emphasized that “Rule 9(b) should be interpreted in harmony with
+Rule 8’s statement that a complaint must only provide ‘a short and plain statement of the
+claim.’” Id. at 503 (quoting Fed. R. Civ. P. 8(a)). It has also cautioned that “[Rule 9(b)] should
+not be read to defeat the general policy of simplicity and flexibility in pleadings contemplated by
+the Federal Rules.” Id. (citation omitted); see U.S. ex rel. Bledsoe v. Cmty. Health Sys., Inc., 501
+F.3d 493, 503 (6th Cir. 2007) (“Bledsoe II”) (“When read against the backdrop of Rule 8, it is
+clear that the purpose of Rule 9 is not to reintroduce formalities to pleading . . .”). Therefore,
+“[a]lthough conjecture and speculation are insufficient under Rule 9(b), [a court] must construe
+the complaint in the light most favorable to the plaintiff [and] accept all factual allegations as
+true.” Prather, 838 F.3d at 771 (citations omitted).
+III. ANALYSIS
+The entirety of Plaintiffs’ complaint rests on three factual allegations: (1) Ginnie Mae is
+listed as an investor in the MERS system for Plaintiffs’ loan, and no corresponding assignment
+from MERS to Ginnie Mae has been recorded in the Hamilton County land records; (2) CMG
+declined to disclose Ginnie Mae’s investor status in response to Plaintiffs’ QWR; and (3) no
+UCC-1 financing statement has been filed under Plaintiffs’ names. As explained below, even
+accepted as true, these allegations do not support a plausible claim for relief under any of
+Plaintiffs’ theories. (See Doc. 26, at 6–8, 12).
+A. MERS’s Role and Lawful Transfer of Beneficial Rights to Ginnie Mae
+Plaintiffs’ core grievance—pervading all six counts—is that Ginnie Mae is an investor in
+their loan but has no recorded interest in the Hamilton County land records, and that CMG and
+Case 1:25-cv-00349-TRM-MJD Document 41 Filed 04/28/26 Page 6 of 14 PageID
+#: 3227
+MERS therefore lack authority to enforce the Deed of Trust. (See id.) This argument is
+foreclosed by well-settled Tennessee and federal law.
+“MERS is a company that provides mortgage recording services to lenders and allows
+lenders to trade the mortgage note and servicing rights on the market, with MERS maintaining
+electronic recordings of each transaction.” See Thompson v. Bank of America, N.A., 773 F.3d
+741, 748 (6th Cir. 2014) (citation omitted). MERS is regularly named as the beneficiary for the
+original lender and its successors and assigns on recorded deeds of trusts. See id. at 749. This
+structure is specifically designed so that when beneficial interests in a promissory note are
+transferred in the secondary market, corresponding assignments need not be recorded in local
+land records. See id. (“[A] promissory note is a negotiable instrument . . . [and] [a] note can be
+sold or assigned to another party who then receives the right to enforce the
+instrument. . . . regardless of whether it is recorded.”). Tennessee state and federal courts have
+consistently upheld the validity of MERS’s role as nominee for a lender’s successors and assigns
+and as beneficiary under a deed of trust. See id. at 749–50 (citing Samples v. Bank of Am., N.A.,
+No. 3:12-CV-44, 2012 WL 1309135, at *3–4 (E.D. Tenn. Apr. 16, 2012) (collecting cases)).
+The Deed of Trust here, which Plaintiffs attached to their complaint, explicitly identifies
+MERS as “beneficiary” solely as nominee for CMG and CMG’s “successors and assigns,” and
+was properly recorded with the Hamilton County Register of Deeds on July 18, 2025. (Doc. 26-
+4 at 1–2.) Because the Deed of Trust already names MERS as beneficiary for CMG and all
+successors and assigns, no separate recorded assignment to Ginnie Mae was required. See
+Thompson, 773 F.3d at 750–51.
+Additionally, Plaintiffs’ argument that securitization or transfer to Ginnie Mae creates a
+fatal “separation” between the Note and the Deed of Trust—such that neither CMG nor MERS
+Case 1:25-cv-00349-TRM-MJD Document 41 Filed 04/28/26 Page 7 of 14 PageID
+#: 3238
+can enforce the Note—is an argument the Sixth Circuit has explicitly rejected. In Dauenhauer v.
+Bank of New York Mellon, the court confirmed it is “well-settled under Tennessee law that the
+transfer of a note automatically carries with it the lien created by the accompanying deed of
+trust.” 562 F. App’x 473, 479 (6th Cir. 2014), (citing W.C. Early Co. v. Williams, 186 S.W. 102,
+103–04 (Tenn. 1916)). Securitization alone “does not render a note or deed of trust
+unenforceable and does not alter a borrower’s obligation to pay back his loan.” Id. at 480
+(citation omitted).
+Because Plaintiffs’ split-interest and cloud-on-title theories fail as a matter of law,
+Plaintiffs have failed to state a claim for quiet title/declaratory relief, conversion (to the extent it
+rests on MERS/securitization authority), and unjust enrichment/restitution. Each of these
+“claims” relies on the securitization-and-split-interest allegations, and no additional factual
+allegations in those counts provide an independent basis for relief. (See Doc. 26, at 11–19.)
+B. CMG’s Response to Plaintiff’s QWR does not Support Fraud, TCPA, or Unjust
+Enrichment Claims.
+Plaintiffs argue that CMG’s failure to disclose Ginnie Mae’s investor status in its August
+26, 2025 QWR response was fraudulent concealment and constituted an unfair or deceptive
+practice under the TCPA. (Doc. 26, at 15–17, 19–20.) This argument fails on multiple
+independent grounds.
+First, RESPA is the statutory scheme that governs QWRs. See 12 U.S.C. § 2065(e)(1)(A)
+(stating borrowers may utilize a QWR to request from lenders any “information relating to the
+servicing of [a] loan”). RESPA defines “servicing” to mean “receiving any scheduled periodic
+payments from a borrower . . . and making the payments of principal and interest and such other
+payments with respect to the amounts received from the borrower.” 12 U.S.C. § 2065(i)(3).
+Case 1:25-cv-00349-TRM-MJD Document 41 Filed 04/28/26 Page 8 of 14 PageID
+#: 3249
+Other courts have found that requests for information about the identity of loan investors
+or note holders do not relate to “servicing” within the meaning of RESPA. See, e.g., Kelly v.
+Fairon & Assocs., 842 F. Supp. 2d 1157, 1160 (D. Minn. 2012) (citation omitted) (“Requests for
+information pertaining to the identity of a note holder or master servicer do not relate to
+servicing.”); see also DeVary v. Countrywide Home Loans, Inc., 701 F. Supp. 2d 1096, 1108 (D.
+Minn. 2010) (stating “ownership of the loan” is unrelated to servicing). Therefore, CMG’s
+written declination stating that, “[t]he remaining information requested is beyond the scope
+permitted by RESPA” appears to be compliant with the governing statute and Plaintiffs fail to
+otherwise identify how CMG mislead or omitted material facts under the TCPA.3
+(Doc. 26–6, at
+1.)
+Second, the First Amended Complaint expressly disclaims any standalone RESPA cause
+of action, acknowledging that “references to 12 U.S.C. § 2605(e) are pled solely as part of the
+factual and legal context for Defendants’ duties relevant to Plaintiffs’ common-law fraud and
+concealment claims.” (Doc. 26, at 16.) Plaintiffs nonetheless attempt to use RESPA to define a
+duty of disclosure for their state-law fraud claim. But if the disclosure Plaintiffs sought was not
+required by RESPA, then CMG had no statutory duty to make it, and CMG’s lawful declination
+3
+In opposing the motion to dismiss (Doc. 34), Plaintiffs raise a challenge under the Truth In
+Lending Act, 15 U.S.C. § 1601, et seq. (“TILA”), stating “TILA requires a servicer, upon written
+request, to provide the obligor with the name, address, and telephone number of the owner of the
+obligation or the master servicer ‘to the best knowledge of the servicer.’” (Doc. 34, at 6.)
+Plaintiffs raise no claims under TILA in their operative complaint. However, even if the Court
+did consider this argument, Plaintiffs do not allege any damages flowing from CMG’s response
+to the QWR. See Marais v. Chase Home Fin., LLC, 736 F.3d 711, 720 (6th Cir. 2013)
+(affirming dismissal of TILA and RESPA claims for failing to “allege a sufficient link between
+the alleged actual damages and [defendant]’s deficient response to [the] QWR”). Additionally,
+Plaintiffs do not allege any facts to suggest that they ever sent a QWR to MERS. Therefore, to
+the extent any claims against MERS assert wrongdoing for failure to respond to the QWR, those
+claims will be dismissed.
+Case 1:25-cv-00349-TRM-MJD Document 41 Filed 04/28/26 Page 9 of 14 PageID
+#: 32510
+under RESPA cannot be transformed into tortious fraudulent concealment simply by relabeling
+it.
+Third, Plaintiffs’ fraud and fraudulent concealment claim fails to satisfy Rule 9(b)’s
+heightened pleading standard. Plaintiffs identify the August 26, 2025 QWR response as the
+allegedly fraudulent communication, but that response discloses that CMG Mortgage, Inc. is the
+loan owner/assignee and servicer, provides a transaction history, and encloses a copy of the Deed
+of Trust. (See Doc. 26-6.) CMG also explicitly stated that it was declining to provide any of the
+additional information based on its understanding of the statutory scope of QWR disclosures.
+(Id. at 1.) Explicitly stating that specific information is not included is not a fraudulent
+misrepresentation or a material omission. Plaintiffs do not allege that CMG made any false
+statement of fact; the claim is that CMG did not volunteer information it stated it believed it was
+not legally required to disclose. That does not satisfy the “who, what, when, where, and how”
+standard for fraud. Greer, 114 F.4th at 614–15.4
+Fourth, Plaintiffs appear to base their TCPA claim on the same conduct—that CMG’s
+allegedly deceptive QWR responses omitted investor information, thereby “split[ting]” interests
+between “the economic owner of the Note” and “the parties appearing in the land records and on
+monthly statements.” (Doc. 26, at 6; see also id. at 20.) Because CMG’s QWR response was
+legally compliant and the split-interest theory fails as a matter of law (see Section IV.A, supra),
+there is no plausible allegation of an “unfair or deceptive” act or practice under the TCPA. See
+4
+Plaintiffs’ reliance on Hodge v. Craig, 382 S.W.3d 325, 342–44 (Tenn. 2012), and Redwing v.
+Catholic Bishop for Diocese of Memphis, 363 S.W.3d 436 (Tenn. 2012), for their
+fraudulent-concealment theory likewise does not alter the analysis. Even accepting that one who
+voluntarily undertakes to speak must not suppress material facts, CMG clearly noted it was
+declining to provide additional information about investor identity. (See Doc. 26-6, at 1.)
+Plaintiffs do not allege any facts to show CMG suppressed any facts, material or otherwise.
+Case 1:25-cv-00349-TRM-MJD Document 41 Filed 04/28/26 Page 10 of 14
+PageID #: 32611
+Tenn. Code Ann. § 47-18-104; see also Tucker v. Sierra Builders, 180 S.W.3d 109 (Tenn. Ct.
+App. 2005) (citing Morris v. Mack’s Used Cars, 824 S.W.2d 538, 540 (Tenn. 1992) (“[O]ne of
+the express purposes of the TCPA is to provide . . . state law remedies to consumers victimized
+by unfair or deceptive business acts . . .”).
+Finally, Plaintiffs’ unjust-enrichment claim rests on the theory that CMG received
+securitization proceeds and simultaneously collected mortgage payments, and therefore allegedly
+“obtain[ed] multiple recoveries on the same underlying debt obligation.” (Doc. 26, at 18.) This
+theory likewise fails to state a plausible claim. Securitization of a mortgage loan does not relieve
+borrowers of their obligation to repay the loan. See Dauenhauer, 562 F. App’x at 479–80.
+“Rather, securitization creates a separate contract, distinct from a plaintiff’s debt obligations
+under the [Note].” Id. at 480 (citation modified) (citation omitted). Plaintiffs signed a note
+obligating them to make monthly payments to CMG as lender; CMG’s separate financial
+arrangements with investors do not affect that obligation. See id. at 480 (“Securitization would
+not absolve a plaintiff from having to make payments on his loan or somehow shield plaintiff’s
+property from foreclosure.”) (citation modified). To hold otherwise would permit borrowers to
+escape lawful debt obligations simply by pointing to normal secondary-market activity, a result
+that Tennessee and federal courts uniformly reject.
+C. The Deed of Trust was Properly Perfected
+Plaintiffs also argue that the Deed of Trust is unenforceable because no UCC-1 financing
+statement has been filed under Plaintiffs’ names. (See Doc. 26, at 7–8, 11–26.) This argument
+reflects a fundamental misunderstanding of the applicable recording scheme.
+UCC-1 financing statements perfect security interests in personal property under Article
+9 of the Uniform Commercial Code. Real property transactions—including mortgages and deeds
+of trust—are governed by Tennessee’s recording statutes, not Article 9. Tenn. Code Ann. § 66-
+Case 1:25-cv-00349-TRM-MJD Document 41 Filed 04/28/26 Page 11 of 14
+PageID #: 32712
+24-101(a)(8) (deeds of trust are eligible for registration); Id. § 66-26-103 (unrecorded deed of
+trust is null and void as to subsequent bona fide purchasers). The proper method to perfect a
+deed of trust on real property in Tennessee is to register it with the local county Register of
+Deeds. Id. § 66-24-101.
+Defendants did exactly that. The Deed of Trust was recorded with the Hamilton County
+Register of Deeds on July 18, 2025. (See Doc. 26-4, at 26.) The absence of a UCC-1 financing
+statement is not only unsurprising—it is entirely expected and legally appropriate. It reflects that
+the transaction involves real property, not personal property. The UCC-11 searches Plaintiffs
+obtained therefore have no bearing on the validity or enforceability of the Deed of Trust.
+Accordingly, all claims premised on the absence of a UCC-1 financing statement will be
+dismissed.
+D. CMG is the Holder of the Note and Therefore Entitled to Enforce It
+Finally, Plaintiffs contend that Defendants are not persons “entitled to enforce” the Note
+within the meaning of Tenn. Code Ann. § 47-3-301 and therefore allege that CMG “wrongfully
+collected and retained Plaintiffs’ payments . . . which constitutes conversion[.]” (Doc. 26, at 14.)
+A promissory note is a negotiable instrument that may be enforced by “the holder of the
+instrument.” Tenn. Code Ann. § 47-3-301. A “holder” is “the person in possession of [the]
+negotiable instrument that is payable either to bearer or to an identified person that is the person
+in possession.” Id. § 47-1-201(20). CMG is identified in the Note as the lender to whom
+payments are to be made. (See Doc. 31-1, at 1.) The Note further states that anyone “who is
+entitled to receive payments under this Note is called the “Note Holder.” (Id.) CMG is thus the
+“holder” of the Note with authority to enforce it. See Tenn. Code. Ann. § 47-1-201(20).
+Consequently, Plaintiffs fail to state a claim for conversion against any of the Defendants.
+Case 1:25-cv-00349-TRM-MJD Document 41 Filed 04/28/26 Page 12 of 14
+PageID #: 32813
+Plaintiffs argue that the Court should not consider the Note or alternatively should
+convert the motion into a motion for summary judgment and allow discovery on
+chain-of-custody and endorsement. (See Doc. 34, at 3–4.) The Court disagrees. The Note is
+“referred to in [the] Complaint and central to the claim[s].” See Bassett, 528 F.3d at 430 (noting
+a court may consider “exhibits attached to defendant’s motion to dismiss so long as they are
+referred to in the Complaint and are central to the claims contained therein”).
+Plaintiffs’ entire lawsuit turns on who holds and may enforce the Note. Therefore, the
+Court may—and does—consider it. Because CMG’s possession and holder status are
+established by the face of the document, conversion to a summary judgment motion and further
+discovery on this point would serve only to delay the inevitable.
+E. Leave to Amend Would be Futile
+Ordinarily, courts in the Sixth Circuit should freely grant leave to amend under Federal
+Rule of Civil Procedure 15(a). However, leave to amend may be denied when amendment
+would be futile. Foman v. Davis, 371 U.S. 178, 182 (1962). An amendment is futile if it cannot
+survive a Rule 12(b)(6) motion to dismiss. See Rose v. Hartford Underwriters Ins. Co., 203 F.3d
+417, 420 (6th Cir. 2000) (citation omitted). The legal defects identified in this Opinion are not
+curable by additional factual allegations. Plaintiffs’ claims fail because, on the undisputed facts
+they themselves pled and the documents they attached, all three of their core legal theories—the
+MERS/split-interest theory, the QWR-fraud theory, and the UCC-1 theory—are legally
+untenable as a matter of Tennessee and federal law. No amendment could alter the lawful
+structure of MERS beneficiary relationships, CMG’s statutory right to decline non-servicer
+Case 1:25-cv-00349-TRM-MJD Document 41 Filed 04/28/26 Page 13 of 14
+PageID #: 32914
+QWR disclosures, or the real-property recording requirements under Tennessee law. Dismissal
+with prejudice is therefore appropriate.5
+IV. CONCLUSION
+For the foregoing reasons, Defendants CMG Mortgage, Inc., and Mortgage Electronic
+Registration Systems, Inc.’s motion to dismiss (Doc. 30) is GRANTED. Plaintiffs’ First
+Amended Complaint (Doc. 26) is DISMISSED WITH PREJUDICE in its entirety.
+Additionally, Defendants’ original motion to dismiss (Doc. 18), Plaintiffs’ motion for a Rule
+26(f) conference (Doc. 37), and Defendants’ motion to stay a Rule 26(f) conference are all
+DENIED as moot.
+AN APPROPRIATE JUDGMENT WILL ENTER.
+/s/ Travis R. McDonough
+TRAVIS R. MCDONOUGH
+UNITED STATES DISTRICT JUDGE
+5
+The Court further notes that Plaintiffs’ filings have included citations to cases that do not exist
+as cited, including “Pope v. Redwing, 370 S.W.3d 708 (Tenn. 2012)” and “First Nat. Bank of
+Louisville v. Brooks Farms, LLC, 624 S.W.3d 601 (Tenn. Ct. App. 2020).” (See Doc. 31, at 3
+n.1; Doc. 35, at 4.) Plaintiffs have filed a notice of errata acknowledging some of these errors.
+(Doc. 36.) The Court does not find it necessary to address sanctions at this time, but Plaintiffs
+are reminded that Federal Rule of Civil Procedure 11 applies to pro se litigants and that citation
+to non-existent authority undermines the credibility of otherwise legitimate arguments. The
+Court encourages Plaintiffs, should they seek legal counsel in any future proceedings, to ensure
+that any legal citations are carefully verified.
+Case 1:25-cv-00349-TRM-MJD Document 41 Filed 04/28/26 Page 14 of 14
+PageID #: 330

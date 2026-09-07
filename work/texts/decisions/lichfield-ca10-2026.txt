@@ -1,0 +1,2138 @@
+     Appellate Case: 25-4135     Document: 44-1   Date Filed: 07/27/2026   Page: 1
+                                                                               FILED
+                                                                   United States Court of Appeals
+                                                                           Tenth Circuit
+                                      PUBLISH
+                                                                           July 27, 2026
+                   UNITED STATES COURT OF APPEALS
+                                                                       Christopher M. Wolpert
+                         FOR THE TENTH CIRCUIT                             Clerk of Court
+                       _________________________________
+
+NARVIN LICHFIELD,
+
+        Plaintiff - Appellant,
+
+v.                                                         No. 25-4135
+
+KATHERINE KUBLER; NETFLIX,
+INC.,
+
+        Defendants - Appellees.
+                     _________________________________
+
+                Appeal from the United States District Court
+                          for the District of Utah
+                    (D.C. No. 2:24-CV-00458-JNP-CMR)
+                     _________________________________
+
+Ross P. Meyer of Enara Law, Scottsdale, Arizona (Michael K. Hepworth of
+Hepworth Legal, Bountiful, Utah, on the briefs) for Plaintiff-Appellant.
+
+Natalie J. Spears of Dentons US LLP, Chicago, Illinois (David W. Tufts and
+Ian M. Kinghorn of Dentons Durham Jones Pinegar P.C., Salt Lake City, Utah;
+Gregory R. Naron and Jacqueline A. Domenella of Dentons US LLP, Chicago,
+Illinois, with her on the brief) for Defendants-Appellees.
+                       _________________________________
+
+Before TYMKOVICH, BACHARACH, and FEDERICO, Circuit Judges.
+               _________________________________
+
+FEDERICO, Circuit Judge.
+                 _________________________________
+   Appellate Case: 25-4135   Document: 44-1   Date Filed: 07/27/2026   Page: 2
+
+
+
+      Narvin Lichfield operated boarding schools and programs for
+
+purportedly “troubled teens” for more than three decades. During this time,
+
+these boarding schools – as well as the broader industry – drew attention
+
+from the public and press for allegations of extreme disciplinary techniques
+
+that allegedly crossed the line into physical and mental abuse. Katherine
+
+Kubler is a filmmaker who, as a teenager, spent fifteen months at a facility
+
+for troubled teens that billed itself as a high school (even though it was not
+
+accredited to award diplomas). While she was enrolled, Kubler swore that
+
+she would one day get revenge by making a documentary about her
+
+experience.
+
+      Kubler did ultimately create a documentary about her boarding
+
+school. The documentary took the form of a three-part series that also
+
+discussed the larger troubled-teen industry. So, although he did not
+
+supervise or direct the school Kubler attended, Lichfield was featured
+
+during one episode for his affiliation with an industry organization and
+
+other schools for troubled teens. Netflix produced the documentary and
+
+streamed it on its platform. When Lichfield sued Kubler for defamation, he
+
+also named Netflix as a Defendant. The district court dismissed Lichfield’s
+
+complaint because it failed to state a claim for which relief could be granted.
+
+He appealed to this court.
+
+
+
+                                       2
+   Appellate Case: 25-4135   Document: 44-1   Date Filed: 07/27/2026   Page: 3
+
+
+
+      This dispute, then, brings into conflict two sets of values honored by
+
+our legal system. On the one hand, Lichfield seeks recompense for what he
+
+alleges is unlawful defamation of his character. But, on the other hand,
+
+Kubler and Netflix seek refuge in their free-speech rights to make and
+
+distribute a film about a topic of public importance. Determining the
+
+boundary between these competing interests – free speech versus
+
+defamation – is the topic of this appeal. In the end, we agree with the
+
+district court and affirm.
+
+                                       I
+
+                                       A
+
+      Long before Kubler entered the world of professional filmmaking, she
+
+was a troubled high-school student. During her teenage years, she “started
+
+acting out,” by drinking, smoking, and sneaking out at night. The Program:
+
+Cons Cults and Kidnapping, Part 1: Where the F*** Am I?! at 6:37 (Netflix
+
+2024) (hereinafter The Program) (on file with the Clerk’s Office). 1 As Kubler
+
+
+      1 Because this case comes to us on appeal of a motion to dismiss for
+
+failure to state a claim, we accept as true the well-pleaded facts of the
+operative complaint. Bell Atlantic Corp. v. Twombly, 550 U.S. 544, 556
+(2007). Throughout the Amended Complaint, Lichfield references The
+Program, and its precise content is central to his claims. The parties do not
+dispute the authenticity of the recording that has been filed with the Clerk’s
+Office and ask that we treat it as incorporated into the Amended Complaint
+by reference. Consistent with our jurisprudence, we will do so. Brokers’
+Choice of Am., Inc. v. NBC Universal, Inc., 861 F.3d 1081, 1103 (10th Cir.
+2017).
+                                       3
+   Appellate Case: 25-4135   Document: 44-1   Date Filed: 07/27/2026   Page: 4
+
+
+
+tells it, she was engaged in “typical teenager stuff” related to a fraught
+
+relationship with her stepmother. Id. Kubler begged her father to send her
+
+“somewhere, anywhere” away from her stepmother. Id. at 6:45. Then,
+
+midway through her sophomore year, Kubler transferred to a private
+
+religious boarding school. After a few months, the boarding school expelled
+
+her for violating its alcohol policy.
+
+      Following her expulsion, Kubler waited in the principal’s office for her
+
+father’s arrival. Instead, two strangers arrived with handcuffs. Kubler’s
+
+father had hired them without her knowledge to escort her to a new school:
+
+Academy at Ivy Ridge (Ivy Ridge). Soon after her arrival, Kubler learned
+
+Ivy Ridge was not a typical high school. She was strip searched for
+
+contraband upon her arrival at campus. She would not be free to come and
+
+go. And, until she could prove her good standing, she could not call her
+
+parents on the phone.
+
+      Good standing could be earned through compliance with a
+
+multitudinous list of rules that included prohibitions on talking to other
+
+students, making eye contact, and looking out the window. The restroom
+
+could only be used under the supervision of the staff. Compliance with the
+
+rules could earn students “upper-level privileges,” which permitted them to
+
+talk to their peers, wear makeup, and look out the window. Id. at 16:00.
+
+
+
+                                        4
+   Appellate Case: 25-4135   Document: 44-1   Date Filed: 07/27/2026   Page: 5
+
+
+
+When students earned enough points to progress through the various levels,
+
+they could finally leave the program.
+
+      Ivy Ridge was not a freestanding program. It was affiliated with the
+
+World Wide Association of Specialty Programs and Schools (WWASP).
+
+WWASP itself is no stranger to controversy; it has come under public
+
+scrutiny in connection with allegations of abuse and neglect at affiliated
+
+institutions. See, e.g., World Wide Ass’n of Specialty Programs v. Pure, Inc.,
+
+450 F.3d 1132, 1135–36 (10th Cir. 2006) (detailing news reports). It was
+
+also highly profitable, in part due to steep attendance fees and relatively
+
+low expenses. And, by Kubler’s telling, Narvin Lichfield – whose brother,
+
+Robert, founded WWASP – was instrumental in building WWASP into an
+
+“empire of troubled teen programs.” The Program, Part 3: Follow the Money
+
+at 24:43. The dispute now before this Court is predicated on the character
+
+and truthfulness of statements made about Lichfield’s involvement with
+
+WWASP and several facilities connected with it.
+
+     Kubler, for her part, never completed the program at Ivy Ridge or
+
+earned a high-school diploma. Instead, her father pulled her out of Ivy Ridge
+
+after fifteen months. By then, Kubler’s relationship with her father was
+
+severely damaged. In an attempt to get her “big revenge” against the
+
+school’s staff, The Program, Part 1 at 27:15, through which she might “get
+
+all this evidence together” about her experience “and present it to [her]
+
+                                        5
+   Appellate Case: 25-4135   Document: 44-1   Date Filed: 07/27/2026   Page: 6
+
+
+
+dad,” The Program, Part 2: Mind Control at 27:51; accord The Program,
+
+Part 3, at 50:10, Kubler made a documentary about Ivy Ridge and schools
+
+like it, The Program Part 1 at 27:15, 27:47. The series that Kubler directed
+
+and produced, and that Netflix also produced, contains the speech that
+
+eventually led to Lichfield’s lawsuit.
+
+      The series’ three episodes are built around and filtered through
+
+Kubler’s personal experience as a child at home and at Ivy Ridge. The first
+
+episode, titled Part 1: Where the F*** Am I?!, displays home video footage
+
+while describing Kubler’s personal conflict with her “evil stepmother” and
+
+her transfer to Ivy Ridge. The Program, Part 1 at 6:30. Kubler later reunites
+
+with other students on Ivy Ridge’s abandoned campus, where they detail
+
+their experiences of physical and sexual abuse at the now-defunct high
+
+school. At one point, Kubler opens a Mike’s Hard Lemonade alcoholic
+
+beverage – possession of which got her sent to Ivy Ridge so many years ago
+
+– before wandering the empty halls.
+
+      In Part 2: Mind Control, Kubler again roams the Ivy Ridge campus
+
+holding a Mike’s Hard Lemonade. The narrative focus, though, shifts to
+
+“seminars” at Ivy Ridge that served as the purported backbone of the
+
+program. The Program, Part 2 at 2:00. Two of Kubler’s classmates describe
+
+a session in which they were required to repeat an eight-word mantra with
+
+associated hand movements for eight hours uninterrupted. The narrator
+
+                                         6
+      Appellate Case: 25-4135   Document: 44-1   Date Filed: 07/27/2026   Page: 7
+
+
+
+describes these techniques as tantamount to “literal brainwashing,” handed
+
+down to the “troubled teen industry” from a 1960s-era cult. Id. at 8:57, 9:50,
+
+12:09. Over the course of the episode Kubler interviews a friend’s parent,
+
+sneaks into a seminar for parents of WWASP students, and confronts a
+
+former public relations coordinator for Ivy Ridge. The episode culminates
+
+with a scene in which Kubler confronts her father about her “complicated
+
+feelings” stemming from her time at Ivy Ridge. Id. at 53:40, 55:07. Prior to
+
+the confrontation, Kubler had not seen her father in person for years. In the
+
+scene, her father apologizes for sending her away to Ivy Ridge.
+
+        The first two episodes of the series are important for context, but it is
+
+the content of Part 3: Follow the Money that is central to this legal dispute.
+
+The episode begins with one of the series’ recurrent tropes: the camera
+
+displays a bulletin board to which photos, news clippings, and paper
+
+documents have been affixed by thumb tacks. The Program, Part 3 at 00:18.
+
+As the camera cuts between different portions of the bulletin board, Kubler
+
+narrates:
+
+        It bothers me how people low on the totem pole end up taking
+        the fall. And the people at the top seem to get away with murder.
+        I knew if I really wanted to go after these places, I’d need to
+        follow the money.
+
+Id.
+
+
+
+
+                                          7
+   Appellate Case: 25-4135   Document: 44-1   Date Filed: 07/27/2026   Page: 8
+
+
+
+     Then, as Kubler concludes her remarks, the camera cuts to a wider
+
+shot, in which a silhouetted person – apparently Kubler – stands in front of
+
+the bulletin board and its array of images, newspaper clippings, and a map
+
+of the United States, with string connecting various items. Id. at 00:32.
+
+Most notable for this appeal, though, is the frame shown when Kubler
+
+references “people at the top” seeming to “get away with murder.” See id. at
+
+00:27. At that moment, the camera rests on a newspaper clipping from the
+
+Salt Lake Tribune headlined “As Therapy Hikes Reviewed, Another Teen
+
+Dies in Program.” Id. Next to this clipping is an image of a man who has
+
+not yet appeared in the series. See id. That man is the Plaintiff-Appellant,
+
+Narvin Lichfield. A screenshot of this moment in the record is reproduced
+
+below.
+
+
+
+
+                                       8
+      Appellate Case: 25-4135   Document: 44-1   Date Filed: 07/27/2026   Page: 9
+
+
+
+Id.
+
+        This image – along with the corresponding statement – comprises the
+
+first scene or segment of the series that Lichfield challenges in this appeal
+
+as defamatory. By his theory, the juxtaposition of the visuals and narration
+
+falsely implies that he is responsible for a teen’s death.
+
+        The second challenged segment appears midway through the episode.
+
+Shortly before it is introduced, Kubler is engaged in an interview with
+
+Lichfield’s estranged son, who describes his father’s decision to open a
+
+school in Costa Rica named Dundee. Id. at 30:20. Kubler then narrates:
+
+“Dundee was only open for nineteen months before authorities were alerted
+
+to abuse, raided the facility, and Narvin was arrested.” Id. at 30:36. The
+
+series displays a clip from an episode of the TV program Inside Edition
+
+contemporaneous to the arrest in which Lichfield told a local news reporter:
+
+“We haven’t done anything here but try to run a school.” Id. at 30:43.
+
+Kubler, again narrating, says: “Narvin didn’t waste any time in rebuilding
+
+his Costa Rican facility into a new program called Pillars of Hope, only
+
+seven months after his previous program was raided.” Id. at 30:53. Although
+
+Lichfield concedes that the facility was raided and he was arrested, he
+
+contends on appeal that this segment is defamatory because it fails to
+
+mention that Costa Rican authorities ultimately dismissed the criminal
+
+charges against him.
+
+                                          9
+  Appellate Case: 25-4135   Document: 44-1   Date Filed: 07/27/2026   Page: 10
+
+
+
+      The third challenged segment is prefaced by a screenshot of Lichfield’s
+
+social media post inviting his Instagram followers to join him on a
+
+Wednesday night to sing karaoke. Id. at 47:33. The image then cuts to
+
+Kubler drinking from a pint glass at the karaoke bar while Lichfield takes
+
+the stage to sing “Witchcraft” as performed by Frank Sinatra. Id. at 47:39.
+
+Lichfield dances side to side, and an audio track of Kubler’s narration plays:
+
+      It was surreal to see Narvin in person, knowing everything I
+      know about this guy: the children he abused, the parents he
+      conned, all the crimes he’s gotten away with. Yet, here he is –
+      free as a bird, singing Frank Sinatra at a club in Utah. I didn’t
+      talk to him because I didn’t want to blow my cover. And I don’t
+      like giving abusers a platform to spew their bullshit.
+
+Id. at 48:04.
+
+      The narration fades away, Lichfield returns to his seat, and Kubler
+
+drinks from a shot glass chased with lime before running to the stage. Id.
+
+at 48:30. Kubler narrates: “Unlike the Justice Department or FBI, there’s
+
+nothing I can really do to the Lichfields, except this. But don’t get too
+
+comfortable Narvin. ‘Cuz one way or another, I’m gonna get you.” Id. at
+
+48:42. She and two friends then perform an off-key version of Blondie’s “One
+
+Way or Another” while Lichfield looks on bemused. 2 Id. at 48:55. On appeal,
+
+Lichfield contends that Kubler’s statement about abusing children, conning
+
+
+      2 Kubler sings: “One way or another, I’m gonna find ya, I’m gonna get
+
+ya, get ya, get ya, get ya // One way or another, I’m gonna win ya, I’m gonna
+get ya, get ya, get ya, get ya.” The Program, Part 3 at 48:55.
+                                      10
+  Appellate Case: 25-4135   Document: 44-1   Date Filed: 07/27/2026   Page: 11
+
+
+
+parents, and getting away with crimes is defamatory because it makes
+
+provably false assertions of fact.
+
+      In total, the third episode is somewhat less personal than the first two
+
+episodes. Over the course of Part 3, Kubler interviews, inter alia: an
+
+anonymous staffer from Ivy Ridge, a sociologist, a plaintiff’s lawyer, a pair
+
+of journalists, a lawyer who previously served in a state attorney general’s
+
+office, two state legislators, and Lichfield’s son. The episode reviews
+
+WWASP’s purported political connections, and Kubler asks a Utah state
+
+legislator to prevent Lichfield’s brother, Robert, from operating facilities for
+
+troubled teens. The episode, and thus the series, concludes with a clip of
+
+Kubler and her friends burning files from Ivy Ridge while the narrator calls
+
+her audience to action.
+
+                                       B
+
+      Lichfield filed the complaint in the District of Utah. He amended his
+
+pleading in short order. In the Amended Complaint, Lichfield pleaded five
+
+causes of action: defamation, defamation per se, false light invasion of
+
+privacy, intentional infliction of emotional distress (IIED), and civil
+
+
+
+
+                                      11
+  Appellate Case: 25-4135   Document: 44-1   Date Filed: 07/27/2026   Page: 12
+
+
+
+conspiracy. Defendants Kubler and Netflix (collectively, Kubler 3) responded
+
+with a motion to dismiss for failure to state a claim under Federal Rule of
+
+Civil Procedure 12(b)(6). She argued in support of dismissal that Lichfield’s
+
+defamation claim rested upon statements that are non-actionable under
+
+Utah law and protected by the First Amendment. And, because Lichfield’s
+
+remaining claims are derivative of defamation, she argued, they should be
+
+dismissed for the same reasons.
+
+     In the same filing, Kubler submitted a special motion to strike under
+
+state statutory laws governing lawsuits that could chill free expression.
+
+These state laws – commonly styled Anti-Strategic Lawsuits Against Public
+
+Participation (anti-SLAPP) statutes – may provide for, inter alia, attorneys’
+
+fees if a court determines that a lawsuit was filed to chill First Amendment-
+
+protected speech. See Los Lobos Renewable Power, LLC v. Americulture,
+
+Inc., 885 F.3d 659, 662 (10th Cir. 2018). In her special motion, Kubler
+
+argued that Utah and California laws are interchangeable for the purposes
+
+of attorney fee awards and, in the alternative, that California’s anti-SLAPP
+
+statute should apply because Defendants are based there.
+
+
+
+
+     3 Kubler and Netflix are jointly represented, filed a joint brief, and
+
+have aligned interests in affirmance of the district court’s opinion. To the
+extent that there is any daylight between their legal interests, it is not
+relevant here. For brevity, we refer to their joint arguments with only the
+lead Defendant’s name.
+                                      12
+  Appellate Case: 25-4135   Document: 44-1   Date Filed: 07/27/2026   Page: 13
+
+
+
+     Lichfield opposed both the Rule 12(b)(6) motion and the special motion
+
+under anti-SLAPP law. He argued that neither the First Amendment nor
+
+Utah law doomed his claims. He further argued that the district court
+
+should apply Utah’s anti-SLAPP statute, not California’s similar law. Also,
+
+he argued that a district court applying the Utah statute would conclude it
+
+“essentially mimics the language of Rule 12(b)(6)” and could proceed to
+
+apply the anti-SLAPP law by conducting a traditional Rule 12(b)(6)
+
+analysis. Aplt. App. at 241 (citation omitted). This analysis, Lichfield
+
+argued, would result in the conclusion that the Amended Complaint
+
+surmounted the Rule 12 standard and would allow his claims to proceed to
+
+discovery.
+
+     The district court saw it otherwise. It determined that all the
+
+contested statements were either opinions protected under state law and
+
+the First Amendment, did not imply any defamatory statements, or were
+
+true statements and thus not actionable. And because Lichfield could not
+
+state a claim for defamation, his remaining derivative claims also failed.
+
+     Regarding the special anti-SLAPP motion, the district court declined
+
+to decide whether Utah or California law should apply. Instead, it reasoned
+
+that under either statute, a motion to strike would be available when claims
+
+are subject to Rule 12(b)(6) dismissal. And, because the Rule 12 standard
+
+
+
+                                      13
+  Appellate Case: 25-4135    Document: 44-1   Date Filed: 07/27/2026   Page: 14
+
+
+
+was met, the district court concluded that Kubler was entitled to recover
+
+attorneys’ fees and costs.
+
+      Lichfield timely appeals.
+
+                                       II
+
+      On appeal, Lichfield presents three issues, though only one is truly
+
+central to resolution of the case. The primary question on appeal is the
+
+threshold legal question of whether Lichfield has properly alleged that any of
+
+Kubler’s statements are subject to defamatory meaning. Under Utah
+
+defamation law, Utah constitutional law, and the First Amendment, the
+
+answer is no, so the claims must be dismissed.
+
+      Additionally, Lichfield argues that the district court erred in its
+
+application of state anti-SLAPP laws. But any error was invited in the district
+
+court. Lichfield further asks for leave to amend the operative complaint. 4 He
+
+can show no legal basis for that relief. Exercising jurisdiction pursuant to 28
+
+U.S.C. 1291, we affirm.
+
+
+
+
+      4 Although Lichfield also argues on appeal that the district court
+“prematurely dismissed” the Amended Complaint by declining to decide
+whether he was a public figure for the purposes of the First Amendment,
+see Op. Br. at 43, there is no error in the district court’s resolution of the
+case on narrower grounds than Lichfield would prefer. Because the merits
+of this question are not necessary to decide the appeal, we do not decide
+them.
+                                       14
+  Appellate Case: 25-4135    Document: 44-1    Date Filed: 07/27/2026   Page: 15
+
+
+
+                                         A
+
+      We begin with the dismissal of the operative complaint. Because
+
+Lichfield appeals from an order issued under Rule 12(b)(6), the district court’s
+
+determination is reviewed de novo. Hogan v. Winder, 762 F.3d 1096, 1104 (10th
+
+Cir. 2014). In this procedural posture, a court will typically defer to an
+
+operative complaint’s well-pleaded factual allegations and affirm dismissal
+
+only where the plaintiff has failed to state “a claim to relief that is plausible on
+
+its face.” Bell Atlantic Corp. v. Twombly, 550 U.S. 544, 570 (2007). However, in
+
+addition to the complaint’s well-pleaded factual allegations, a court may
+
+“consider documents attached to or referenced in the complaint if they ‘are
+
+central to the plaintiff’s claim and the parties do not dispute the documents’
+
+authenticity.’” Brokers’ Choice of Am., Inc. v. NBC Universal, Inc., 861 F.3d
+
+1081, 1103 (10th Cir. 2017) (quotation omitted). Here, because Lichfield’s
+
+claims are entirely predicated on a three-part documentary miniseries, we will
+
+treat the Amended Complaint as incorporating the miniseries, which has itself
+
+been filed with both the district court and this court. To the extent that any of
+
+the Amended Complaint’s allegations are in tension with the record video, the
+
+video will govern. See id. at 1101, 1105 (citing Jackson v. Alexander, 465 F.2d
+
+1389, 1390 (10th Cir. 1972)). The parties agree that this is the correct
+
+approach.
+
+
+
+                                        15
+  Appellate Case: 25-4135    Document: 44-1    Date Filed: 07/27/2026   Page: 16
+
+
+
+      There is another nuance relevant to our review of the Rule 12(b)(6)
+
+dismissal in this case. Under Utah law, “whether a statement is capable of
+
+sustaining a defamatory meaning is a question of law.” Hogan, 762 F.3d at
+
+1106 (alteration adopted) (quoting West v. Thomson Newspapers, 872 P.2d 999,
+
+1008 (Utah 1994)). In cases alleging defamation, courts must determine at the
+
+threshold whether “a publication might be considered defamatory by a
+
+reasonable person” before the case may proceed to discovery and, ultimately, a
+
+jury trial. Id. (quoting Cox v. Hatch, 761 P.2d 556, 561 (Utah 1988)). Thus, as
+
+the parties rightly agree, Lichfield receives no deference when he states that
+
+the contested portions of the series are capable of defamatory meaning – those
+
+are legal conclusions, not factual allegations. Accord Brokers’ Choice, 861 F.3d
+
+at 1100 n.17 (deciding issue of truth on motion to dismiss).
+
+                                        B
+
+      Although Lichfield alleged five different causes of action in the district
+
+court, our review on appeal is relatively narrow, at least as a matter of doctrine.
+
+This is because the district court predicated its dismissal order on a holding
+
+that the statements at issue were incapable of defamatory meaning. And
+
+because this element of defamation could not be met, the district court held
+
+that Lichfield’s derivative claims of defamation per se, IIED, and civil
+
+conspiracy also failed. Lichfield does not dispute this reasoning on appeal.
+
+Instead, he argues that we should reverse the dismissal of the derivative
+
+                                        16
+  Appellate Case: 25-4135    Document: 44-1    Date Filed: 07/27/2026   Page: 17
+
+
+
+claims because the district court erred by holding the challenged statements
+
+were not defamatory as a matter of law. Thus, Lichfield’s primary substantive
+
+challenge requires us only to determine whether the three contested segments
+
+of The Program: Part 3 are capable of defamatory meaning.
+
+      This case did not arise on a federal claim, and the district court exercised
+
+jurisdiction based on the parties’ diversity of state citizenship. See 28 U.S.C.
+
+§ 1332. A federal court exercising jurisdiction on the basis of diversity applies
+
+state substantive law, Racher v. Westlake Nursing Home Ltd. P’ship, 871 F.3d
+
+1152, 1162 (10th Cir. 2017), and here the parties agree that Utah law applies
+
+to construe Lichfield’s claims, see Op. Br. at 12; Resp. Br. at 26.
+
+      This court has recognized four elements of Utah defamation law, as
+
+enumerated by the Utah Supreme Court: “(1) that the defendants ‘published
+
+the statements’; (2) that the ‘statements were false, defamatory, and not
+
+subject to any privilege’; (3) ‘that the statements were published with the
+
+requisite degree of fault’; and (4) that ‘their publication resulted in damage’ to
+
+the plaintiff.” Hogan, 762 F.3d at 1105 (quoting West, 872 P.2d at 1007–08).
+
+Here, only the second element is at issue: whether the statements were false,
+
+defamatory, and not privileged by law.
+
+      Courts have enumerated several ways in which a statement might fail
+
+to meet this element. For example, if the statement is itself literally true and
+
+does not implicitly “convey a false representation of fact,” then it is not capable
+
+                                        17
+  Appellate Case: 25-4135    Document: 44-1   Date Filed: 07/27/2026   Page: 18
+
+
+
+of defamatory meaning. Id. at 1106 (quoting Dixson v. Newsweek, Inc., 562 F.2d
+
+626, 631 (10th Cir.1977)). Even if the challenged statement may not be literally
+
+true, where “a reasonable reader [or viewer] would not accept the statement[]
+
+at face value,” then it is not defamatory. Hogan, 762 F.3d at 1106. Additionally,
+
+if a statement does not “impeach[] an individual’s honesty, integrity, virtue, or
+
+reputation,” then it is not defamatory under Utah law. West, 872 P.2d at 1008.
+
+The First Amendment and Utah’s constitutional law each also provide
+
+protection for certain opinion statements. West, 872 P.2d at 1015, 1017;
+
+Jefferson Cnty. Sch. Dist. No. R-1 v. Moody’s Investor’s Servs., Inc., 175 F.3d
+
+848, 853 (10th Cir. 1999).
+
+                                       1
+
+      Applying these legal principles to the contested segments in the series is
+
+the challenge of this appeal. Consider first the photo of Lichfield tacked to a
+
+bulletin board, juxtaposed to a newspaper headline about a teen’s death. To
+
+refresh: this scene appears at the opening of Part 3, in which the camera
+
+quickly moves from point to point on the bulletin board filled with images from
+
+Kubler’s investigation. She narrates: “It bothers me how people low on the
+
+totem pole end up taking the fall. And the people at the top seem to get away
+
+with murder.” The Program, Part 3 at 00:27. As Kubler narrates, the camera
+
+rests on a newspaper clipping from the Salt Lake Tribune headlined “As
+
+
+
+                                       18
+  Appellate Case: 25-4135     Document: 44-1   Date Filed: 07/27/2026   Page: 19
+
+
+
+Therapy Hikes Reviewed, Another Teen Dies in Program.” Id. Next to it is the
+
+image of Lichfield. See id.
+
+      Lichfield argues that the photo, newspaper clipping, and narration
+
+combine to create a defamatory message: that he was involved in the death of
+
+a child. 5 This purportedly defamatory message was never directly stated in the
+
+series. Instead, “it is the implication arising from the statement and the
+
+context in which it was made,” that “forms the basis of [Lichfield’s] claim.”
+
+West, 872 P.2d at 1011.
+
+      A defamation-by-implication claim arising under Utah law is reviewed
+
+to determine whether the “the gist of the defendant’s statement, rather than
+
+its literal meaning is ‘false, defamatory, and not subject to any privilege.’”
+
+Hogan, 762 F.3d at 1105 (quoting West, 872 P.2d at 1007). In examining the
+
+gist of the episode’s challenged segment, courts “conduct a context-driven
+
+assessment of the alleged defamatory statement and reach an independent
+
+
+      5 In the Amended Complaint, Lichfield characterized this segment of
+
+the series as defamatory because it implies he was “responsible for a
+murder,” Aplt. App. at 17, “either facilitat[ed] or [was] complicit in murder,”
+id. at 26, 28, 32, “involved in a murder,” id. at 34, and because it implicitly
+“accused [him] of murder, id. at 30. In his district court opposition to the
+motion to dismiss, Lichfield argued that he was falsely accused of “being
+complicit in or getting away with murder.” Id. at 225; accord id. at 230, 232,
+242, 245. To the extent that Lichfield attempts to argue a broader theory on
+appeal – see, e.g., Op. Br. at 35 (construing the series as alleging that “his
+actions contributed to deadly outcomes in the troubled-teen industry”) – it
+is outside the scope of our review. United States v. Leffler, 942 F.3d 1192,
+1196 (10th Cir. 2019).
+                                        19
+  Appellate Case: 25-4135   Document: 44-1     Date Filed: 07/27/2026   Page: 20
+
+
+
+conclusion   about    the   statement’s      susceptibility   to   a    defamatory
+
+interpretation.” O’Connor v. Burningham, 165 P.3d 1214, 1222 (Utah 2007). If,
+
+in context, “a reasonable reader would not accept the statements at face value,”
+
+then “the statements do not cause damage to the plaintiff’s reputation and are
+
+therefore not defamatory.” Hogan, 762 F.3d at 1106 (citing Mast v. Overson,
+
+971 P.2d 928, 933 (Utah Ct. App. 1998)). “In this evaluation of context, we
+
+should examine: (1) the words themselves and their implications; (2) the entire
+
+article or message; (3) the events or disputes that gave rise to the article; and
+
+(4) the likely effect on the reasonable reader.” Id. (citing Dan B. Dobbs, Paul T.
+
+Hayden, and Ellen M. Bublick, The Law of Torts § 526 (2d ed. 2014)).
+
+      We start by considering the spoken words. Here, Lichfield complains of
+
+the narrative statement that “the people at the top seem to get away with
+
+murder,” in conjunction with a flash to the newspaper headline stating that
+
+“Another Teen Dies in Program.” The district court was correct that the phrase
+
+“get away with murder” is a “common idiom.” Aplt. App. at 281. Indeed, it is
+
+“usually used figuratively to describe someone who does something very bad or
+
+wrong without being criticized or punished.” Get Away with Murder, Merriam-
+
+Webster.com, https://perma.cc/R4EB-5ZUT. It is also true, though, that the
+
+term may be used in a literal sense to describe a person’s evasion of culpability
+
+for homicide. See, e.g., Jed S. Rakoff, Getting Away With Murder, New York
+
+Review of Books, Dec. 2020 (describing allegations that corporate executives
+
+                                       20
+  Appellate Case: 25-4135   Document: 44-1    Date Filed: 07/27/2026   Page: 21
+
+
+
+“have literally gotten away with murder” by virtue of deaths connected to
+
+faulty products); Brown v. Hearst Corp., 54 F.3d 21, 25 (1st Cir. 1995) (treating
+
+rhetorical question of whether a person could “get away with murder” as
+
+contributing to a TV program’s suggestion that a man had killed his estranged
+
+wife). Here, to the extent that the term “get away with murder” could be taken
+
+literally, the headline’s words “Teen Dies” might bolster that understanding.
+
+That the challenged phrase may – in the abstract – denote Lichfield’s proffered
+
+meaning does provide some evidence in Lichfield’s favor. But this is far from
+
+dispositive on its own. West, 872 P.2d at 1009 n.15.
+
+      Unfortunately for Lichfield, there is little else that supports his
+
+argument. In analyzing the “entire . . . message,” Hogan, 762 F.3d at 1106, it
+
+is helpful to bear in mind that a “writing or program is normally viewed as a
+
+whole.” Brown, 54 F.3d at 27 (citing William Prosser & Page Keeton, Torts 781
+
+(rev. ed. 1984)). Because the statements challenged in this case arise in the
+
+visual medium of documentary film, we find especially helpful the observation
+
+that “literary context” may be “critical in interpreting” the series for the
+
+existence of defamatory statements. Dobbs at § 526 (2d. ed. 2026). And in
+
+viewing all three episodes of the documentary, we agree with the district court
+
+that the series repeatedly uses a recurrent trope for an investigative program:
+
+a bulletin board filled with documents, maps, images, and news clippings to
+
+visually symbolize the effort toward and status of an ongoing investigation.
+
+                                       21
+  Appellate Case: 25-4135   Document: 44-1    Date Filed: 07/27/2026   Page: 22
+
+
+
+See, e.g., The Accountant 2 (Artists Equity 2025); The Wire, Game Day (HBO
+
+2002); see generally Only Murders in the Building (Hulu 2021). But the
+
+contents of the bulletin board do not necessarily tell a coherent visual story.
+
+      For instance, in Part 1, the camera pans behind Kubler’s back while she
+
+looks at the bulletin board and narrates: “For the past decade, I’ve been
+
+investigating the program[.]” The Program, Part 1, at 2:11. At this point and
+
+from this angle, the bulletin board contains photos of a national politician
+
+juxtaposed with a publication titled “Parent Support News” and near a news
+
+clipping headlined “Czech school accused of torturing pupils.” See id. No
+
+reasonable viewer would perceive this juxtaposition to allege that the politician
+
+endorses “Parent Support News” as a publication or was involved in torture
+
+overseas. Instead, a reasonable viewer would understand that the bulletin
+
+board is filled with partially refined grist for the mill that is Kubler’s
+
+investigation into the troubled-teen industry. It may be that placement on the
+
+board signifies some degree of relevance to her investigation, but the visual
+
+presentation does not go so far as to convey a conclusive link between items
+
+and images by virtue of their proximity to one another on a bulletin board.
+
+      When our view of the series becomes wider, Lichfield’s claim is further
+
+imperiled. At the time the viewer encounters the challenged segment, Lichfield
+
+has not yet even been introduced by name. And from that point forward, there
+
+is no other mention – throughout the entirety of the three-hour series – of
+
+                                       22
+  Appellate Case: 25-4135    Document: 44-1    Date Filed: 07/27/2026   Page: 23
+
+
+
+death, murder, or homicide as those terms could be taken to relate to Lichfield.
+
+The closest Kubler ever gets to this point is a non-specific reference to “crimes.”
+
+See infra. And the primary and motivating event that gave rise to the series,
+
+see Hogan, 762 F.3d at 1106, was not a death within a facility but instead
+
+Kubler’s reckoning with her adolescent experience at Ivy Ridge.
+
+      The totality of the first challenged segment consists of a passing visual
+
+juxtaposition and the use of an idiomatic expression. Any reasonable viewer
+
+would understand that if Kubler had meant to accuse Lichfield of involvement
+
+in a teen’s death, she would say more and say it explicitly at some point in the
+
+series. Thus, in this context, no reasonable viewer could accept the phrase
+
+“seems to get away with murder” at face value, cf. Hogan, 762 F.3d at 1106,
+
+but would instead understand it to be “exaggerated rhetoric intended to spark
+
+the debate,” CACI Premier Tech., Inc. v. Rhodes, 536 F.3d 280, 301 (4th Cir.
+
+2008), about accountability for leaders in the troubled-teen industry. The first
+
+challenged segment is not defamatory as a matter of law.
+
+                                        2
+
+      We next turn to the second segment at issue, wherein Kubler discusses
+
+Lichfield’s arrest in Costa Rica. About halfway through Part 3, the challenged
+
+segment is introduced by an interview with Lichfield’s son. After the son
+
+describes Lichfield’s decision to open a school in Costa Rica called Dundee,
+
+Kubler narrates: “Dundee was only open for nineteen months before
+
+                                        23
+  Appellate Case: 25-4135   Document: 44-1    Date Filed: 07/27/2026   Page: 24
+
+
+
+authorities were alerted to abuse, raided the facility, and Narvin was
+
+arrested.” The Program, Part 3 at 30:36. The series displays a clip from an
+
+episode of Inside Edition contemporaneous to the arrest and Kubler further
+
+narrates: “Narvin didn’t waste any time in rebuilding his Costa Rican facility
+
+into a new program called Pillars of Hope, only seven months after his previous
+
+program was raided.” Id. at 30:53.
+
+      Lichfield contends that the challenged segment is made defamatory not
+
+by what it says but by what it does not say. That is, his Amended Complaint
+
+alleges that he was defamed because the series mentions the arrest “without
+
+disclosing that he was exonerated, and all charges dismissed at the
+
+prosecutor’s request.” Aplt. App. at 23. According to the Amended Complaint,
+
+this omission would lead a reasonable viewer to wrongly conclude that he was
+
+convicted of child abuse.
+
+      Where an allegation of defamation is predicated on omission rather than
+
+commission, the standard for liability is material falsity. Brokers’ Choice, 861
+
+F.3d at 1108. That is, so long as the matter published is substantially true, the
+
+First Amendment will prohibit liability even if the publisher “failed to include
+
+additional facts which might have cast plaintiff in a more favorable or balanced
+
+light” or decided “to omit facts that may place the plaintiff under less harsh
+
+public scrutiny.” Id. (quotations omitted). And a court will look past “minor
+
+inaccuracies” to find a statement substantially true “so long as ‘the substance,
+
+                                       24
+  Appellate Case: 25-4135    Document: 44-1    Date Filed: 07/27/2026   Page: 25
+
+
+
+the gist, the sting’” of the challenged statement “can be justified.” Masson v.
+
+New Yorker Mag., Inc., 501 U.S. 496, 516–17 (1991) (quotation omitted). On
+
+the other side of the coin, a statement is materially false only if it “produces ‘a
+
+different effect on the mind of the [viewer] from that which the pleaded truth
+
+would have produced.’” Schwartz v. Am. Coll. of Emergency Physicians, 215
+
+F.3d 1140, 1146 (10th Cir. 2000) (quoting Masson, 501 U.S. at 517).
+
+      To support that he was defamed by omission, Lichfield attempts to
+
+distinguish and leverage the difference between an arrest and a criminal
+
+conviction. However, such a distinction must be considered against the
+
+substantial truth doctrine. After all, this court has credited reasoning that
+
+although there is “some difference between being a suspected participant in a
+
+heinous bombing and being a material witness in the investigation” of that
+
+bombing, a defamation action cannot proceed on such a distinction. Bustos v.
+
+A & E Television Networks, 646 F.3d 762, 768 (10th Cir. 2011) (citing Nichols
+
+v. Moore, 477 F.3d 396, 398, 401 (6th Cir. 2007)). So, to the extent that a
+
+“respectable community member” would find the difference between an arrest
+
+and a conviction “significant enough to make the misstatement actionable,” id.,
+
+we doubt that same viewer would reason in the first instance that Lichfield’s
+
+arrest was tantamount to his guilt and subsequent criminal conviction. That
+
+is, we do not see how the reasonable viewer could be ignorant of the difference
+
+between arrest and conviction but knowledgeable enough to credit a dismissal
+
+                                        25
+  Appellate Case: 25-4135   Document: 44-1    Date Filed: 07/27/2026   Page: 26
+
+
+
+for lack of evidence. Even assuming away ad arguendo the inherent tension in
+
+Lichfield’s theory, his argument has a bigger problem.
+
+      That problem is context. “Trying to focus on the defamatory words alone
+
+would be like trying to appreciate a pointillist painting by Seurat with a
+
+magnifying glass—the telling pattern would be lost in a maze of dots.” Hogan,
+
+762 F.3d at 1106 (quoting Dobbs at § 526 (2d ed. 2014)). The relevant context
+
+here is that throughout the series Kubler calls for law enforcement and
+
+government officials to investigate and punish executives in the troubled-teen
+
+industry. See, e.g., The Program, Part 3 at 49:30. Indeed, the very thesis of
+
+Kubler’s policy stance in the third episode is that executives like Lichfield have
+
+evaded liability for their mistreatment of children. And just after the
+
+challenged segment, Kubler narrates that Lichfield re-opened the Costa Rican
+
+facility seven months after the raid and his arrest. See The Program, Part 3 at
+
+30:53. Thus, if the series had included the additional facts pleaded in the
+
+Amended Complaint – that charges “were voluntarily dropped by the public
+
+prosecutor,” which is “a nearly unprecedented outcome given the severity of
+
+the underlying allegations,” Aplt. App. at 24 – the gist of the challenged
+
+statement would remain the same. Or, in other words, the inclusion of this
+
+additional information would produce no “different effect,” Schwartz, 215 F.3d
+
+at 1146, than that already conveyed: executives in the troubled-teen industry
+
+tend to avoid legal liability for what the speaker argues to be misconduct.
+
+                                       26
+  Appellate Case: 25-4135    Document: 44-1    Date Filed: 07/27/2026   Page: 27
+
+
+
+      Additionally, a series such as The Program will always be subject to an
+
+editing process that “obviously entails professional judgment. In this process
+
+material that is flattering or critical of a particular person may be included or
+
+eliminated.” Machleder v. Diaz, 801 F.2d 46, 54 (2d Cir. 1986). A person who
+
+is the subject of the speech is not entitled to hold the editor’s pen or exercise a
+
+producer’s review merely because he is the subject of a given segment or article.
+
+Just as a state legislature may not require newspapers to publish the
+
+responses of political candidates to unfavorable stories, Miami Herald Pub. Co.
+
+v. Tornillo, 418 U.S. 241, 258 (1974), a private plaintiff is not entitled to the
+
+publication of every fact that might cast him “in a more favorable or balanced
+
+light,” Brokers’ Choice, 861 F.3d at 1108 (quotation omitted). So long as there
+
+is no statement of material falsehood – implied or otherwise – the director,
+
+editor, and producer must be free to exercise their collective editorial
+
+discretion.
+
+      Here, the “substance,” “gist,” and “sting” of the challenged statement
+
+“can be justified.” Masson, 501 U.S. at 516–17. In other words, Lichfield has
+
+not shown this speech contained material falsehood. And without material
+
+falsity, there has been no defamation. Brokers’ Choice, 861 F.3d at 1108. The
+
+district court correctly found that the purported omission cannot render the
+
+truth of this segment defamatory. We agree that the second challenged
+
+segment is also not susceptible to defamatory meaning as a matter of law.
+
+                                        27
+  Appellate Case: 25-4135   Document: 44-1    Date Filed: 07/27/2026   Page: 28
+
+
+
+                                      3
+
+     We turn now to the third challenged segment to determine whether it is
+
+susceptible to a defamatory meaning. The scene in question begins at a Utah
+
+karaoke bar, where Kubler drinks from a pint glass and Lichfield performs a
+
+song first recorded by Frank Sinatra. The Program, Part 3 at 47:39. While
+
+Lichfield dances, Kubler narrates:
+
+     It was surreal to see Narvin in person, knowing everything I
+     know about this guy: the children he abused, the parents he
+     conned, all the crimes he’s gotten away with. Yet, here he is –
+     free as a bird, singing Frank Sinatra at a club in Utah. I didn’t
+     talk to him because I didn’t want to blow my cover. And I don’t
+     like giving abusers a platform to spew their bullshit.
+
+Id. at 48:04. Once Lichfield has returned to his seat, Kubler takes a drink
+
+from a shot glass chased with lime before performing Blondie’s “One Way
+
+or Another” with two friends. Id. at 48:30.
+
+     On appeal, Lichfield contends that Kubler’s narrative statement is
+
+defamatory because it makes provably false assertions of facts. This is the
+
+closest call of the three challenged segments. But, ultimately, like the
+
+statements associated with the first two segments, Kubler’s statements are
+
+not defamatory as a matter of law.
+
+     The inquiry again centers on whether the “statements were false,
+
+defamatory, and not subject to any privilege.” Hogan, 762 F.3d at 1105
+
+(quoting West, 872 P.2d at 1007–08). When determining whether a
+
+
+                                      28
+  Appellate Case: 25-4135   Document: 44-1   Date Filed: 07/27/2026   Page: 29
+
+
+
+statement is defamatory, the inquiry consists of “a context-driven
+
+assessment of the alleged defamatory statement.” O’Connor, 165 P.3d at
+
+1222. And our contextual analysis relies on the four factors discussed above:
+
+“(1) the words themselves and their implications; (2) the entire article or
+
+message; (3) the events or disputes that gave rise to the article; and (4) the
+
+likely effect on the reasonable reader.” Hogan, 762 F.3d at 1106.
+
+      Also relevant is a question of privilege. Article I of the Utah
+
+Constitution protects expression of opinion even where that opinion might
+
+otherwise be defamatory. West, 872 P.2d at 1017. And the Utah Supreme
+
+Court has provided a non-exhaustive four factor test to discern whether a
+
+given statement is either factual – and thus potentially susceptible to
+
+defamatory meaning – or privileged opinion. See id. at 1018. The factors
+
+include:
+
+
+
+
+                                      29
+  Appellate Case: 25-4135   Document: 44-1   Date Filed: 07/27/2026   Page: 30
+
+
+
+   1)     “[T]he common usage or meaning of the words used;”
+
+   2)     “whether the statement is capable of being objectively verified as
+
+          true or false;”
+
+   3)     “the full context of the statement – for example, the entire article
+
+          or column – in which the defamatory statement is made; and”
+
+   4)     “the broader setting in which the statement appears.”
+
+Id. (citing Ollman v. Evans, 750 F.2d 970, 979 (D.C. Cir. 1984) (en banc)). 6
+
+        The First Amendment does not provide “a wholesale defamation
+
+exemption for anything that might be labeled ‘opinion.’” Milkovich v. Lorain J.
+
+Co., 497 U.S. 1, 18 (1990). But similar principles as those applicable under the
+
+Utah Constitution are operative, including a requirement that the plaintiff
+
+show proof of both fault and falsity, Philadelphia Newspapers, Inc. v. Hepps,
+
+475 U.S. 767, 776 (1986), thus exempting from liability statements made by
+
+media defendants on matters of public concern that constitute only “rhetorical
+
+
+
+
+        6 This non-exhaustive list of factors bears some resemblance to the
+
+factors relevant to determining whether a statement’s context renders it
+non-defamatory despite its literal words. Cf. Hogan, 762 F.3d at 1106 (citing
+Dobbs at § 526 (2d ed. 2014)). The partial overlap makes sense: there, the
+inquiry is whether, in context, a statement is defamatory and “convey[s] a
+false representation of fact.” Id. (quotation omitted). Here, the inquiry is
+whether the statement is a privileged opinion rather than a factual
+assertion. We recognize, as a general matter, that opinions privileged by
+the Utah Constitution might also (though not always) independently fail to
+constitute defamation in the first instance because they convey no
+objectively verifiable fact.
+                                      30
+  Appellate Case: 25-4135   Document: 44-1    Date Filed: 07/27/2026   Page: 31
+
+
+
+hyperbole,” Greenbelt Co-op. Pub. Ass’n v. Bresler, 398 U.S. 6, 14 (1970). And
+
+statements that may not “‘reasonably be interpreted as stating actual facts’
+
+about an individual” are protected. Milkovich, 497 U.S. at 20 (alteration
+
+adopted) (quoting Hustler Magazine, Inc. v. Falwell, 485 U.S. 46, 50 (1988)).
+
+These First Amendment principles can reasonably be said to protect at least
+
+“evaluative opinions.” Moody’s Investor’s Servs., 175 F.3d at 853. This means
+
+that statements that are “too indefinite to be proven true or false,” that are not
+
+subject to proof of falsity by objective evidence, or that are based on factual
+
+premises that have already been “fully disclosed” are exempt from liability
+
+under the First Amendment. Id. at 853–54 (collecting cases).
+
+      Kubler argues on appeal that her statements made at the karaoke bar
+
+are protected by the constitutions of both the United States and Utah. We
+
+agree. In this posture, we determine whether the First Amendment protects
+
+Kubler’s statements by looking to whether they are mere evaluative opinions
+
+constituting “rhetorical hyperbole” or “imaginative expression[]” rather than
+
+“stating actual facts” about Lichfield. Mink v. Knox, 613 F.3d 995, 1005 (10th
+
+Cir. 2010) (quotation omitted). Because this analysis overlaps heavily with
+
+Utah’s constitutional analysis, see West, 872 P.2d at 1018, we will discuss the
+
+doctrines in parallel.
+
+      Begin with the introductory clause: “It was surreal to see Narvin in
+
+person[.]” The Program, Part 3 at 48:04. Because it describes the experience of
+
+                                       31
+  Appellate Case: 25-4135   Document: 44-1    Date Filed: 07/27/2026   Page: 32
+
+
+
+seeing Lichfield in person, we can infer that the clause is drawn from the
+
+speaker’s personal experience. This conclusion is further reinforced by the
+
+word “surreal,” which itself is a subjective, qualitative descriptive term.
+
+Because there is nothing inherently surreal about seeing a person singing
+
+karaoke, we can easily infer that Kubler is describing her personal and
+
+subjective experience in this segment.
+
+      And, in the next portion of the sentence, the narrator makes explicit the
+
+reason for her experience of sur-reality: her personal knowledge. She
+
+continues: “knowing everything I know about this guy: the children he abused,
+
+the parents he conned, all the crimes he’s gotten away with.” Id. at 48:07. Here,
+
+in referencing what she knows, Kubler ties the subjectivity of her experience
+
+to purportedly real-world occurrences. But the question remains whether these
+
+occurrences are “capable of being objectively verified as true or false.” West,
+
+872 P.2d at 1018. Or, in the language of the First Amendment, whether they
+
+are “evaluative opinions,” that are “too indefinite to be proven true or false,”
+
+Moody’s Investor’s Servs., 175 F.3d at 853, or “rhetorical hyperbole” that falls
+
+short of “stating actual facts” about Lichfield. Mink, 613 F.3d at 1005.
+
+      Kubler makes three allegations that she presents as personal knowledge.
+
+The first is that there are children whom Lichfield “abused.” This could be
+
+understood in a certain context to mean specific types of abuse. For instance,
+
+if a prosecutor at a criminal hearing in a Utah courtroom represented to a judge
+
+                                       32
+  Appellate Case: 25-4135     Document: 44-1   Date Filed: 07/27/2026   Page: 33
+
+
+
+that a particular person abused children, a reasonable listener would
+
+understand that to be an accusation of violating the state’s prohibition on child
+
+abuse. See Utah Code Ann. § 76-5-109. But there are other meanings that the
+
+relevant term “abused” can and does take in common speech. Elsewhere in the
+
+series, the term “abuse” is used to refer to Ivy Ridge staff members’ use of
+
+physical restraints that seem to at least border on assault. See, e.g., The
+
+Program, Part 1 at 33:20. This term is also used to refer to an adult’s sexual
+
+exploitation of juveniles. See id. at 41:45; The Program, Part 2 at 59:20. But it
+
+is additionally used to refer to allegations of “isolation” and “brainwashing.”
+
+The Program, Part 2 at 14:44.
+
+      In the Amended Complaint, Lichfield concedes that the term may be
+
+used malleably. He alleges:
+
+      The [s]eries presented allegations of “abuse” that conflate loose
+      definitions of abuse with actual claims of legal abuse,
+      characterizing the military academy-style discipline of grossly
+      troubled and criminally convicted teenagers (such as by turning
+      ninety degrees at corners) as abuse while then accusing youth
+      programs it claims Narvin was involved with of legitimate abuse,
+      such as assault.
+
+Aplt. App. at 18.
+
+      Dictionaries confirm that the term can take a broad range of meanings.
+
+People have been abused when they are “treat[ed] without consideration or
+
+fairness,” Abuse, Webster’s Third New International Dictionary 8 (2002),
+
+“treat[ed] . . . with cruelty or violence,” Abuse, New Oxford American
+
+                                        33
+  Appellate Case: 25-4135   Document: 44-1    Date Filed: 07/27/2026   Page: 34
+
+
+
+Dictionary 7 (3d ed. 2010), or “hurt or injure[d] by maltreatment,” Abuse,
+
+American Heritage Dictionary of the English Language 8 (5th ed. 2016). These
+
+broader definitions surely capture conduct that would fall outside the scope of
+
+criminal statutes. So, we will need to reference more than just the literal words
+
+that are challenged. Here, again, context is critical.
+
+      Turning back briefly to our hypothetical criminal proceeding, we would
+
+say that the “full context” of a prosecutor’s statement would incorporate the
+
+“common usage” of the words in that setting to mean that the prosecutor
+
+referred to a violation of Utah’s criminal law. See West, 872 P.2d at 1018. And
+
+such a statement would be “capable of being objectively verified,” presumably
+
+by a jury or other factfinder responsible for adjudicating guilt. See id. But when
+
+looking to the “full context” of Kubler’s statement and the “broader setting in
+
+which [it] appears,” West, 872 P.2d at 1018, we reach a different conclusion.
+
+      To begin with, Kubler is not a prosecutor, and she did not speak in the
+
+context of a criminal hearing. She spoke, instead, in a narrative dubbed over
+
+top of video showing people drinking, dancing, and singing karaoke. Shortly
+
+after the challenged segment, Kubler, speaking to the camera from a front
+
+porch, underlines her lack of legal training. During this monologue she
+
+concedes that she does not know if a law enforcement agency will investigate
+
+Lichfield, whether he will be subject to prison time, or whether he will be
+
+subject to “whatever punishment is due for people who abuse children.” The
+
+                                       34
+  Appellate Case: 25-4135   Document: 44-1    Date Filed: 07/27/2026   Page: 35
+
+
+
+Program, Part 3 at 49:45. After all, Kubler concedes, “I’m not a law
+
+enforcement agency, I’m just a kid trying to expose the truth. And it really just
+
+started out just to show my dad because he didn’t believe me.” Id. at 50:05.
+
+      Indeed, Kubler is the quintessential unreliable narrator. She admits that
+
+she is “not a real journalist” and more of an “amateur gumshoe.” Id. at 3:11.
+
+Elsewhere in the series she compares herself to the wrongly-imprisoned
+
+protagonist in The Count of Monte Cristo and acknowledges that she returned
+
+to Ivy Ridge to get “revenge.” The Program, Part 1 at 27:47. And this story of
+
+revenge is expressly personal. In the series’ early segments, she describes
+
+“look[ing] back at” her home videos “and try[ing] to pinpoint where things went
+
+wrong.” Id. at 5:05. She describes her mother’s death from cancer, id. at 5:32,
+
+and her father’s re-marriage to her “evil stepmother,” id. at 6:08. Kubler
+
+recounts that when things “got really bad at home,” she began “beg[ging] her
+
+dad to go somewhere, anywhere, as long as [Kubler] didn’t have to stay with”
+
+the stepmother. Id. at 6:46. The series explains that Kubler enrolled in a
+
+religious boarding school, and then, upon getting expelled, was taken to Ivy
+
+Ridge.
+
+      This is not only an origin story but a personal narrative framework
+
+around which the series is built. It is interspersed with clips from Kubler’s
+
+childhood home videos, see, e.g., id. at 4:31; The Program, Part 3 at 51:58, and
+
+she repeatedly cries while discussing the effect of her experience at Ivy Ridge
+
+                                       35
+  Appellate Case: 25-4135   Document: 44-1    Date Filed: 07/27/2026   Page: 36
+
+
+
+on her familial relationships, see, e.g., The Program, Part 2 at 21:40
+
+(conversation with sisters); id. at 53:10 (conversation with father); The
+
+Program, Part 3 at 50:05 (monologue to camera). While interviewing a
+
+purported “cult expert,” Kubler says that she’s “been going through a years-
+
+long process to try to deprogram” her father from what she believes to be a cult.
+
+The Program, Part 2 at 42:25. She cuts off in-person communication with him
+
+and reproduces images of his emails on screen. See, e.g., id. at 43:11. When
+
+they meet in person for the first time in years, she records it. Id. at 54:20. The
+
+meeting is not exactly mutually amicable. When he arrives, he is apparently
+
+unaware that he was going to be recorded. The first thing she asks him is:
+
+“What do you have to say for yourself?” Id. at 54:50.
+
+      In addition to centering her familial relationships in the narrative,
+
+Kubler also discusses the effects of her childhood experiences in the troubled-
+
+teen facility on her mental health. When burning files apparently taken from
+
+Ivy Ridge’s abandoned campus, she tells her friends: “[T]his is therapy.” The
+
+Program, Part 3 at 59:40. She is also shown apparently engaging in literal talk
+
+therapy, id. at 57:34, and discusses her symptoms of complex post-traumatic
+
+stress disorder, id. at 56:58, and anxiety, which she attributes to her time at
+
+Ivy Ridge, The Program, Part 2 at 57:45.
+
+      Kubler does not just articulate these negative experiences and outcomes
+
+and attribute them to the troubled-teen industry, she also advocates for public
+
+                                       36
+  Appellate Case: 25-4135   Document: 44-1     Date Filed: 07/27/2026   Page: 37
+
+
+
+policy changes and law enforcement intervention. When interviewing a Utah
+
+state senator, she asks him to watch the series to determine if Robert Lichfield
+
+– the Plaintiff-Appellant’s brother – should be put on a “blacklist.” The
+
+Program, Part 3 at 46:40. In a different segment, she calls for law enforcement
+
+“get their shit together and investigate.” Id. at 49:45. And in the concluding
+
+minutes of the series, she broadens her demand for change: “There are
+
+thousands of children still trapped in these programs . . . the abuse of a child
+
+is the business of anyone who knows about it. And now you know.” Id. at
+
+1:03:35.
+
+      This is all to say that, contrary to the operative complaint, the series does
+
+not “present[] itself as an objective documentary” as a reasonable viewer would
+
+understand it. Contra Aplt. App. at 16. Kubler admits that she has an axe to
+
+grind and that her films are intended to be a piquant commentary on boarding
+
+schools for troubled teens. The series Kubler created is, at times, highly
+
+personal. It seeks to convince her father that her complaints are non-frivolous.
+
+And, simultaneously, it seeks to motivate law enforcement, legislators, and the
+
+public to modify their positions on the troubled-teen industry. Given this
+
+operative context and the broad range of meanings that the word “abused” can
+
+take, it is impossible to objectively verify whether or not Lichfield abused
+
+children in the meaning expressed by this segment.
+
+
+
+                                       37
+  Appellate Case: 25-4135   Document: 44-1    Date Filed: 07/27/2026   Page: 38
+
+
+
+      In fact, a reasonable viewer would understand that Kubler refers to
+
+abuse in this context not to accuse Lichfield of some discrete act never aired,
+
+but to argue that he is responsible for conduct facilitated by WWASP that – in
+
+her view, and described elsewhere in the series – should be considered abuse,
+
+whether or not it is violative of a particular criminal statute. As Lichfield
+
+concedes on video, he’s “either a sinner or a saint based on whatever argument
+
+you want to believe.” The Program, Part 3 at 24:01. Kubler wants you to believe
+
+Lichfield is a sinner, not a saint. That is precisely the sort of subjective view
+
+that the Utah Constitution protects as privileged opinion. See West, 872 P.2d
+
+at 1018. And, similarly, under the First Amendment, she has stated
+
+“evaluative opinions,” Moody’s Investor’s Servs., 175 F.3d at 853, consisting of
+
+– at most – “rhetorical hyperbole,” Greenbelt, 398 U.S. at 14.
+
+      Kubler’s references to “the parents [Lichfield] conned,” and “all the
+
+crimes he’s gotten away with” do nothing to change this conclusion. See The
+
+Program, Part 3 at 48:04. Like “abused,” the term “conned” takes a broad range
+
+of meanings. And it is used earlier in the episode to refer to WWASP’s business
+
+model of “holding children hostage in remote locations with unqualified staff,
+
+while they con parents with cult-like seminars and collect the checks.” Id. at
+
+22:20. So, again, the context shows that Kubler is not accusing Lichfield of
+
+some separate criminal fraud but instead critiquing a business model that she
+
+views and presents as illegitimate.
+
+                                       38
+  Appellate Case: 25-4135    Document: 44-1    Date Filed: 07/27/2026   Page: 39
+
+
+
+      This court has previously credited the proposition that “lying” may be
+
+nonactionable hyperbole because it applies to a “spectrum of untruths.” See
+
+Brokers’ Choice, 861 F.3d at 1136 n.92 (citing Underwager v. Channel 9
+
+Australia, 69 F.3d 361, 367 (9th Cir. 1995). And we have also recognized that
+
+the First Amendment protected a news broadcast’s opinion that a particular
+
+product was a “scam,” Moody’s Investor’s Servs., 175 F.3d at 854 (citing NBC
+
+Subsidiary (KCNC-TV), Inc. v. Living Will Ctr., 879 P.2d 6, 11–12 (Colo. 1994)
+
+(en banc)), because the statement expressed “nothing more than his judgment
+
+that people need not pay for a [certain product] because they can get [the most
+
+valuable portion] free,” Living Will Ctr., 879 P.2d at 11. The same principle
+
+applies here. Indeed, its application is even more powerful where it is
+
+presented not by a traditional broadcast journalist but by a self-admitted
+
+“amateur gumshoe” who thinks of herself as a “kid” and admits she is out for
+
+“revenge.”
+
+      For its part, “crime[]” can reasonably be said to refer to conduct
+
+prohibited by the broad scope of the criminal law. To the extent that Kubler
+
+could be alleging that Lichfield violated some already extant criminal statutes
+
+(and is not merely arguing for a shift in public policy to create new substantive
+
+crimes), her amorphous allegations are untethered from specific allegations of
+
+criminal activity that could be actionable under defamation laws. This sort of
+
+general reference to criminal activity is the sort of thing that is not “capable of
+
+                                        39
+  Appellate Case: 25-4135    Document: 44-1    Date Filed: 07/27/2026   Page: 40
+
+
+
+being objectively verified as true or false,” West, 872 P.2d at 1018, because
+
+“there is simply no objective evidence that could prove that [it is] false,”
+
+Moody’s Investor’s Servs., 175 F.3d at 854.
+
+      The broad-sweeping and inherently subjective language of Kubler’s
+
+statements, in conjunction with context that exacerbates their subjectivity,
+
+render her speech protected as privileged opinion under the Utah Constitution
+
+and as evaluative opinion under the First Amendment. The district court
+
+correctly held that Lichfield failed to allege a statement capable of defamatory
+
+meaning in this third contested segment.
+
+                                        C
+
+      We next turn to Lichfield’s anti-SLAPP arguments made on appeal,
+
+which differ from the argument he made before the district court. On appeal,
+
+Lichfield argues that “state anti-SLAPP laws do not apply in federal diversity
+
+actions under Erie.” Op. Br. at 48 (bolding and capitalization omitted).
+
+Additionally, he argues that the district court independently erred by treating
+
+the anti-SLAPP standard as equivalent to Rule 12(b)(6) and “impos[ing] a
+
+consequence (fee-shifting) that would not normally attach” to dismissal under
+
+that Rule. Id. at 53. But Lichfield made neither of these arguments in the
+
+district court. In fact, his district court arguments were directly contrary to the
+
+arguments now made on appeal.
+
+
+
+                                        40
+  Appellate Case: 25-4135   Document: 44-1    Date Filed: 07/27/2026   Page: 41
+
+
+
+      The invited error doctrine “prevents a party who induces an erroneous
+
+ruling from being able to have it set aside on appeal.” United States v. Burson,
+
+952 F.2d 1196, 1203 (10th Cir. 1991). Or, stated otherwise, it “precludes a party
+
+from arguing that the district court erred in adopting a proposition that the
+
+party had urged the district court to adopt.” Peterson v. Martinez, 707 F.3d
+
+1197, 1208 (10th Cir. 2013) (quoting United States v. DeBerry, 430 F.3d 1294,
+
+1302 (10th Cir. 2005)). Because the doctrine only applies when the party has
+
+decided to argue a particular point, it is treated as a species of waiver, rather
+
+than forfeiture. Id. (citing United States v. Zubia-Torres, 550 F.3d 1202, 1206
+
+(10th Cir. 2008)).
+
+      The doctrine applies here. In the district court, Kubler filed an omnibus
+
+motion to dismiss under Rule 12(b)(6) and to strike pursuant to state anti-
+
+SLAPP laws. In the motion, she argued that Utah and California anti-SLAPP
+
+laws are identical for the purposes of this case, and – in the alternative – that
+
+the district court should apply California’s law. Lichfield filed a brief in
+
+opposition. On the first page of his brief, he included a footnote stating:
+
+“Lichfield argues that the Utah [anti-SLAPP law] should be applied to all
+
+claims in this matter.” Aplt. App. at 225 n.1. Then, he headed the relevant
+
+subsection of his brief, in bold: “The Utah [Anti-SLAPP Law] Applies.” Id. at
+
+239. In support of this argument he cited to Erie Railroad Co. v. Tompkins for
+
+the proposition that “federal courts sitting in diversity apply the forum state’s
+
+                                       41
+  Appellate Case: 25-4135   Document: 44-1   Date Filed: 07/27/2026   Page: 42
+
+
+
+substantive law.” Id. at 240 (citing 304 U.S. 64 (1938)). He went on to argue
+
+that application of the Utah law “does not automatically dismiss [his] claims.
+
+The court must still conduct a claim-by-claim analysis under the Rule 12(b)(6)
+
+standard.” Id.
+
+      So, when Lichfield now argues on appeal that “under binding Tenth
+
+Circuit precedent, the district court should have denied the anti-SLAPP motion
+
+outright on Erie grounds,” Op. Br. at 52, his audience is unreceptive. Lichfield
+
+made precisely the opposite argument in district court: that Erie should lead
+
+to application of Utah anti-SLAPP law and that his claims survived the motion.
+
+Lichfield could have argued to the district court that state anti-SLAPP laws
+
+are categorically inapplicable in federal court, and – in the alternative – that
+
+Utah law would be the appropriate choice of law if application of such laws did
+
+comport with Erie. Cf. Peterson, 707 F.3d at 1208. But Lichfield made no such
+
+argument. Thus, on appeal, he “cannot be heard to complain of any [such]
+
+alleged error.” Id.
+
+      The same principle applies to Lichfield’s argument that the district court
+
+erred by treating the anti-SLAPP standard as equivalent to Rule 12(b)(6). He
+
+asked the district court to follow that procedure. Now, unhappy with the result,
+
+he complains that the district court accepted his argument. He has invited
+
+these errors, and so he must live with them. We treat Lichfield’s anti-SLAPP
+
+arguments as waived.
+
+                                      42
+  Appellate Case: 25-4135    Document: 44-1    Date Filed: 07/27/2026   Page: 43
+
+
+
+                                        D
+
+      Lichfield additionally argues that the district court erred by dismissing
+
+his suit without granting him leave to amend the complaint. But he also
+
+implicitly concedes that he did not move for leave to amend in the manner
+
+contemplated by our caselaw. See Reply Br. at 24–25. And he is right to
+
+concede, because his opposition to dismissal in the district court contained only
+
+one line requesting leave to amend, and only if Kubler’s motion was granted.
+
+This court has said that a “single sentence, lacking a statement for the grounds
+
+for amendment and dangling at the end of [a] memorandum [does] not rise to
+
+the level of a motion for leave to amend.” Calderon v. Kansas Dep’t of Soc. &
+
+Rehab. Servs., 181 F.3d 1180, 1187 (10th Cir. 1999). We think it makes no
+
+difference for purposes of this rule that Lichfield’s single sentence appeared on
+
+the first, rather than last, page of his opposition briefing. Because he did not
+
+move for leave to amend in the manner required, the district court “did not
+
+abuse its discretion in failing to address [his] request.” Id.
+
+                                        E
+
+      Finally, we address an issue that only became operative on appeal. In
+
+his Opening Brief, Lichfield included citation to a legal authority that does not
+
+exist, see Op. Br. at 39, and characterized two cases in manners wholly
+
+unsupported by the text of the opinions, see Op. Br. at 43, 45. Kubler pointed
+
+out these errors in response, see Resp. Br. at 48–49, and although Lichfield
+
+                                        43
+  Appellate Case: 25-4135   Document: 44-1    Date Filed: 07/27/2026   Page: 44
+
+
+
+conceded in reply that his Opening Brief “contained several citation errors”
+
+and contended that the errors “h[ad] been corrected,” he did not file a corrected
+
+brief, see Reply Br. at 6. When questioned at oral argument, counsel offered to
+
+file a notice directly correcting the statements at issue. And, indeed, the
+
+authoring attorney filed the next day a Notice of Errata, identifying the specific
+
+errors in the opening brief and providing actual, existing authority that could
+
+support the arguments made.
+
+      The rules of this court provide that when an attorney presents a brief to
+
+the court, they certify, inter alia, that they have undertaken a reasonable
+
+inquiry to ensure that “the issues presented are warranted by existing law or
+
+by a nonfrivolous argument for extending, modifying, or reversing existing
+
+law.” 10th Cir. R. 46.5(B)(2). It should go without saying that a bare-minimum
+
+reasonable inquiry will ensure legal authorities cited in papers submitted to
+
+the court actually exist, and the quotations or propositions attributed to them
+
+also exist. The Opening Brief in this case therefore failed to fully comply with
+
+Rule 46.5.
+
+      The filing of this non-compliant brief is conduct sanctionable at our
+
+discretion. 10th Cir. R. 46.5(C). Our rules empower us to issue sua sponte
+
+sanctions, which may include: dismissal of the appeal, an order of monetary
+
+payments, initiation of disciplinary proceedings, and an order to pay the
+
+
+
+                                       44
+  Appellate Case: 25-4135     Document: 44-1    Date Filed: 07/27/2026    Page: 45
+
+
+
+opposing party’s reasonable expenses that resulted from the paper in question.
+
+Id.
+
+      This court has recently issued sanctions for the use of generative
+
+artificial intelligence that resulted in the filing of a brief with citations to seven
+
+cases that do not exist and two cases that do exist but do not contain the
+
+quotations that the briefing alleged. Amarsingh v. Frontier Airlines, Inc., No.
+
+24-1391, 2026 WL 352016, at *5 (10th Cir. Feb. 9, 2026) (unpublished). 7 There,
+
+the filer – who is a barred attorney but was litigating the case pro se –
+
+addressed the issue with “candor,” and we stated that we “appreciate that she
+
+is willing to try to do better” and “may have taken steps in that direction.” Id.
+
+at *6. But this was ultimately not sufficient to wholly mitigate her frivolous
+
+argument. Id. at *7. We thus ordered the attorney to pay $1,000 to offset
+
+opposing counsel’s fees and costs and directed the Clerk’s Office to refer the
+
+matter to the relevant disciplinary body. Id. at *7–8.
+
+      Here, the errors are not as egregious. Although we assume the use of
+
+generative artificial intelligence led to the misrepresentations of legal
+
+authority, the brief here had significantly fewer errors than in Amarsingh. But,
+
+on the other hand, generative artificial intelligence is no longer a novel tool.
+
+Attorneys who choose to use it must be willing to also apply “actual intelligence
+
+
+      7 We cite unpublished decisions for their persuasive value only and do
+
+not treat them as binding precedent. 10th Cir. R. 32.1(A).
+                                         45
+  Appellate Case: 25-4135   Document: 44-1   Date Filed: 07/27/2026   Page: 46
+
+
+
+in its execution.” Id. at *6 (quotation omitted). We are further concerned that
+
+the Reply Brief did not appropriately remedy the misstatements of law. After
+
+briefly acknowledging “several citation errors” and contending that they “have
+
+been corrected,” counsel went on to attack the opposing party. Reply Br. at 6.
+
+He contended that “[t]he more significant issue” was “mischaracterizations of
+
+controlling authority” in the Response Brief. Id. But those purported
+
+mischaracterizations were grounded in the words of cases that indeed exist. It
+
+is the court that decides which issues are “more significant.” And the errors in
+
+the Opening Brief are more significant in this case.
+
+      We appreciate that counsel filed a Notice of Errata the day after oral
+
+argument. But it should not have taken questioning at argument to elicit such
+
+a response. Submission of a brief containing fabricated or hallucinated
+
+citations is a divergence from the standards expected of attorneys appearing
+
+before this court. Any such error should be corrected explicitly and without
+
+prompting.
+
+      The missteps in this case do not merit sanctions. However, counsel
+
+should take note that although generative artificial intelligence may attract
+
+with the promise of less laborious brief writing, its use may result in
+
+hallucinated falsities. Counsel is responsible for ensuring briefs and
+
+
+
+
+                                      46
+  Appellate Case: 25-4135   Document: 44-1   Date Filed: 07/27/2026   Page: 47
+
+
+
+representations made to the court are warranted by the law and supported by
+
+the record, no matter the technology used to create them.
+
+     AFFIRMED.
+
+
+
+
+                                      47
+

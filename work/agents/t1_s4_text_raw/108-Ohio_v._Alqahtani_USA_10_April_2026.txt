@@ -1,0 +1,377 @@
+STATE OF OHIO, PLAINTIFF-APPELLEE, v. ABDULLAH M...., Slip Copy (2026)
+2026-Ohio-1335
+© 2026 Thomson Reuters. No claim to original U.S. Government Works. 1
+2026 WL 992449
+CHECK OHIO SUPREME COURT RULES FOR
+REPORTING OF OPINIONS AND WEIGHT OF LEGAL
+AUTHORITY.
+Court of Appeals of Ohio, Third District, Auglaize County.
+STATE OF OHIO, PLAINTIFF-APPELLEE,
+v.
+ABDULLAH M. ALQAHTANI,
+DEFENDANT-APPELLANT.
+CASE NO. 2-25-11
+|
+Date of Decision: April 13, 2026
+Appeal from Auglaize County Municipal Court Trial
+Court No. 2025 TRD 05151
+Judgment Affirmed
+Attorneys and Law Firms
+APPEARANCES: Abdullah M. Alqahtani, Appellant
+Joshua A. Muhlenkamp for Appellee
+OPINION AND JUDGMENT ENTRY
+MILLER, J.
+*1 {¶1} Defendant-appellant, Abdullah Alqahtani
+(“Alqahtani”),bringsthisappealfromtheSeptember11,2025
+judgment of the Auglaize County Municipal Court finding
+him guilty of speeding. On appeal, Alqahtani asserts the court
+erred by admitting radar evidence without sufficient proof
+of proper calibration and operation of the radar device. He
+also argues that the trial court's finding of guilt was against
+the manifest weight of the evidence and the court abused its
+discretion by denying his motion for a continuance. For the
+reasons that follow, we affirm the judgment of the trial court.
+Facts and Procedural History
+{¶2} On July 13, 2025, at approximately 1:37 a.m., while
+traveling northbound on State Route 66 in Auglaize County,
+Ohio State Highway Patrol Trooper Colin Costin (“Trooper
+Costin”) observed Alqahtani's vehicle traveling southbound
+toward his cruiser. Trooper Costin visually estimated that
+Alqahtani's vehicle was traveling at a rate of speed that
+exceeded the speed limit of 55 miles per hour. He confirmed
+this suspicion by utilizing his standard issue BEE III radar
+device which indicated Alqahtani was travelling at 72 miles
+per hour. Trooper Costin issued Alqahtani a traffic citation,
+charging him with speeding in violation of R.C. 4511.21(D)
+(1). The citation was filed in the Auglaize County Municipal
+Court on July 14, 2025.
+{¶3} On July 15, 2025, Alqahtani filed a written plea of not
+guilty. The court accepted his plea and set the case for trial
+on August 14, 2025. On August 11, 2025, Alqahtani filed a
+motion to continue the trial. This motion was granted, and
+the trial was set for August 28, 2025. On August 13, 2025,
+Alqahtani requested another continuance to obtain additional
+discovery. The trial court denied the request.
+{¶4} At the August 28, 2025 bench trial, Trooper Costin
+testified that he performs a calibration check on the device at
+the beginning and end of each shift, including the shift during
+which he pulled over Alqahtani. Trooper Costin further stated
+that on the day in question the device was in good working
+order and that, as an Ohio State Highway Patrol officer, he
+was qualified to use the radar device. Additionally, the State
+entered the radar certification document into evidence which
+showed the device was calibrated on June 4, 2025, with the
+calibration certification expiring on December 1, 2025. At
+the conclusion of the trial, the court took the matter under
+advisement.
+{¶5} The trial court filed a judgment entry on September 11,
+2025findingAlqahtaniguiltyofspeedinginviolationofR.C.
+4511.21(D)(1). The court imposed a $100 fine. Alqahtani
+timely appealed, setting forth three assignments of error.
+First Assignment of Error
+The trial court abused its discretion by admitting
+the radar evidence without sufficient proof of proper
+calibration and operation, in violation of R.C. 4511.091
+and relevant case law.
+Second Assignment of Error
+The trial court's finding of guilt was against the manifest
+weight and sufficiency of the evidence, as the prosecutionSTATE OF OHIO, PLAINTIFF-APPELLEE, v. ABDULLAH M...., Slip Copy (2026)
+2026-Ohio-1335
+© 2026 Thomson Reuters. No claim to original U.S. Government Works. 2
+failed to prove the elements of speeding beyond a
+reasonable doubt.
+*2 {¶6} At the outset, we address the glaring misapplication
+of case law presented in the brief Alqahtani submitted to
+this court. We find the citations provided at best vaguely
+support appellant's claims and at worst are either completely
+irrelevant to the matter at hand or, in at least one example
+of a case cited, do not seem to exist. Nevertheless, given
+this brief was submitted by a self-represented party, with the
+claimed errors presenting non-complex issues, we decline to
+sua sponte strike the brief and dismiss the appeal, choosing
+instead to afford a measure of grace and consider the merits
+of the assignments of error.1
+First and Second Assignments of Error
+{¶7} In his first and second assignments of error, which
+we address together, Alqahtani contends that the trial court
+improperly admitted evidence of the radar device used by
+Trooper Costin, and his guilty conviction was founded on
+insufficient evidence and is against the manifest weight of the
+evidence.
+Standards of Review
+{¶8} Although Alqahtani cross-examined Trooper Costin
+about the radar device, he did not object to the admission of
+the radar device evidence at trial. Therefore, the admission
+of this evidence is reviewed for plain error, and not abuse
+of discretion as Alqahtani contends. State v. Mitchell, 2019-
+Ohio-5168, ¶ 35 (3d Dist.). “For this Court to notice plain
+error, the error must be an obvious defect in a trial's
+proceedings, it must have affected substantial rights, and it
+musthaveaffectedtheoutcomeofthetrial.”Id.“[E]venwhen
+the minimum requirements have been met, a reviewing court
+should still be conservative in its application of plain-error
+review, reserving notice of plain error for situations involving
+more than merely theoretical prejudice to substantial rights.”
+State v. Steele, 2013-Ohio-2470, ¶ 30, citing State v. Long,
+53 Ohio St.2d 91, 94 (1978). “Notice of plain error ...
+is to be taken with the utmost caution, under exceptional
+circumstances and only to prevent a manifest miscarriage of
+justice.” Long at paragraph three of the syllabus.
+{¶9} As to Alqahtani's second assignment of error, the
+concepts of sufficiency of the evidence and manifest weight
+of the evidence are legally distinct. “An appellate court's
+function when reviewing the sufficiency of the evidence to
+support a criminal conviction is to examine the evidence
+admitted at trial to determine whether such evidence, if
+believed, would convince the average mind of the defendant's
+guilt beyond a reasonable doubt.” State v. Jenks, 61 Ohio
+St.3d 259 (1991), paragraph two of the syllabus, superseded
+by state constitutional amendment on other grounds, State v.
+Smith,80Ohio.St.3d89(1997).Consequently,“[t]herelevant
+inquiry is whether, after viewing the evidence in a light most
+favorable to the prosecution, any rational trier of fact could
+have found the essential elements of the crime proven beyond
+a reasonable doubt.” Id. “In deciding if the evidence was
+sufficient, we neither resolve evidentiary conflicts nor assess
+the credibility of witnesses, as both are functions reserved for
+the trier of fact.” State v. Jones, 2013-Ohio-4775, ¶ 33 (1st
+Dist.).
+*3 {¶10} Finally, when reviewing whether a conviction is
+against the manifest weight of the evidence, “an appellate
+court must review the entire record, weigh the evidence and
+allreasonableinferences,considerthecredibilityofwitnesses
+and determine whether, in resolving conflicts in the evidence,
+the factfinder ‘clearly lost its way and created such a manifest
+miscarriage of justice that the conviction must be reversed
+andanewtrialordered.’”Statev.Williams,2024-Ohio-2307,
+¶ 22 (3d Dist.), quoting State v. Thompkins, 78 Ohio St.3d
+380,387(1997).“Areviewingcourtmust,however,allowthe
+trier of fact appropriate discretion on matters relating to the
+weight of the evidence and the credibility of the witnesses.”
+State v. Sewell, 2016-Ohio-7175, ¶ 8 (3d Dist.), citing State
+v. DeHass, 10 Ohio St.2d 230 (1967), paragraph one of the
+syllabus. “Only in exceptional cases, where the evidence
+‘weighs heavily against the conviction,’ should an appellate
+court overturn the trial court's judgment.” State v. Haller,
+2012-Ohio-5233,¶9(3dDist.),quotingStatev.Hunter,2011-
+Ohio-6524, ¶ 119.
+Analysis
+{¶11} “To prove a case of speeding based on the reading
+of a radar gun, [the State] is required to show the accuracy
+and reliability of the device; that the unit was in good
+condition for accurate work; and the operator's qualifications
+by training and experience to use the device.” State v. Helke,
+2007-Ohio-5483, ¶ 7 (3d Dist.).2
+“[T]he results of a speed-
+measuring device using either radar or laser technology are
+admissible in court without expert testimony establishing,
+or the court taking judicial notice of, the reliability of theSTATE OF OHIO, PLAINTIFF-APPELLEE, v. ABDULLAH M...., Slip Copy (2026)
+2026-Ohio-1335
+© 2026 Thomson Reuters. No claim to original U.S. Government Works. 3
+scientific principles underlying that technology. However,
+the fact-finder is required to determine whether the evidence
+presented concerning the accuracy of the particular speed-
+measuring device and the qualifications of the person who
+used it is sufficient to support a conviction based on the
+device's results.” City of Brook Park v. Rodojev, 2020-
+Ohio-3253, ¶ 19. The trial court relied on Rodojev in its
+judgment entry for a finding that, based on the evidence
+presented at trial, the radar device in question was accurate,
+in proper working condition, and its operator was sufficiently
+qualified.
+{¶12} Alqahtani claims that the trial court's reliance on
+Rodojev was misplaced, because Rodojev still requires case-
+specific proof of the radar unit's accuracy and operation.
+Indeed, in Rodojev the Supreme Court of Ohio indicated
+that although the results of a speed-measuring device
+are admissible without expert testimony, “determinations
+involvingthesufficiencyandweightoftheevidence[arestill]
+to be made on a case-by-case basis.” Id. at ¶18. The record
+showsthatsuchcase-specificproofofaccuracyandoperation
+of the radar device were provided as part of the State's case
+against Alqahtani.
+{¶13} “The trial court is the finder of fact in a bench trial.”
+Harrold v. Homsher, 2002-Ohio-4688, ¶ 20 (3d Dist.). It
+is the job of the fact finder to weigh the evidence and
+determine the credibility of the witnesses and, as such, may
+choose to believe a witness in all of their testimony, some
+of their testimony, or to discredit them entirely. In re K.S.,
+2026-Ohio-79, ¶ 16 (3d Dist.). In the present case, Trooper
+Costin testified that he had properly completed the necessary
+calibration checks, that the radar device was in good working
+condition, and that he was qualified as a graduate of the
+Ohio State Highway Patrol Academy to use the device. As
+fact-finder, the court found this testimony sufficient to admit
+the radar evidence in order for the State to prove beyond a
+reasonable doubt that Alqahtani was speeding. We find that
+Trooper Costin's testimony along with the radar certification
+document submitted into evidence, viewed in the light most
+favorable to the prosecution, was sufficient proof from which
+any rational fact finder could determine the accuracy of the
+speed-measuring device and the qualifications of its operator
+to support a conviction based on the device's results.
+*4 {¶14} Similarly, we find the trial court's guilty
+verdict was not against the manifest weight of the
+evidence. Alqahtani claims that Trooper Costin displayed an
+argumentative demeanor during the traffic stop and would
+not advise him of the reason for the stop until Alqahtani
+first provided identification. At trial and in his appellate brief
+he attempted to claim the trooper's alleged confrontational
+behavior evidenced a “preconceived notion [that] could have
+coloredhistestimonyontheradarreadingandvisualestimate,
+further tipping the manifest weight against conviction.” In
+contrast, Trooper Costin testified that he followed proper
+protocol, the order of questions during a traffic stop holds
+no significance, and there is no script given to state highway
+patrol troopers to follow when conducting a traffic stop.3
+Alqahtani's accusation of prejudice does not refute the
+evidence that he was travelling over the speed limit.
+{¶15} Giving the fact-finder its appropriate discretion in
+weighing the evidence and assessing the credibility of the
+witness, we do not find this to be an exceptional case
+manifesting a miscarriage of justice such that a new trial
+must be ordered. The State established Trooper Costin's
+qualifications and the functionality of the speed-measuring
+device at trial. Alqahtani did not present adequate evidence to
+refute these established claims.
+{¶16} Alqahtani's argument in his first assignment of error
+that the trial court erred by admitting the radar evidence was
+based on the trier of fact's assessment of the credibility of
+Trooper Costin's testimony. Consequently, because we find
+the admittance of the radar device testimony sufficient, we do
+not make a finding of plain error as to the admission of the
+radar evidence showing Alqahtani was traveling at 72 miles
+per hour.
+{¶17} In addition, on appeal Alqahtani argues for the first
+time that Trooper Costin's actions were contrary to the steps
+required in the manual for the BEE III radar device, the
+specific device used by the trooper to record Alqahtani's
+speeding violation. Although Alqahtani attached to his brief
+what appears to be various excerpts from the manual, the
+actual manual was not presented as part of his cross-
+examination of Trooper Costin, so it cannot be considered for
+thefirsttimeonappeal.See,Grovev.Grove,2001-Ohio-2109,
+¶5(3dDist.)(“Evidencenotpartoftherecordthatisattached
+to an appellate brief cannot be considered by a reviewing
+court.”) Alqahtani purports to cite multiple cases for the
+proposition that there is a burden on the prosecution to show
+that strict calibration requirements were met in accordance
+with the BEE III radar manual. We find the cases cited are
+misapplied and irrelevant as to the arguments presented by
+Alqahtani such that they do not warrant further discussion.STATE OF OHIO, PLAINTIFF-APPELLEE, v. ABDULLAH M...., Slip Copy (2026)
+2026-Ohio-1335
+© 2026 Thomson Reuters. No claim to original U.S. Government Works. 4
+{¶18} Finding no plain error in the admission of the radar
+device evidence, we overrule the first assignment of error.
+Further, we conclude the record provides sufficient evidence
+to support the finding of guilt and the trial court's verdict
+was not against the manifest weight of the evidence or a
+miscarriage of justice. Accordingly, we overrule the second
+assignment of error.
+Third Assignment of Error
+The trial court abused its discretion by denying
+Appellant's motion for continuance to obtain discovery,
+prejudicing the defense in violation of Crim.R. 16.
+{¶19} In his third assignment of error, Alqahtani contends
+that he was prejudiced when the trial court denied his motion
+to continue the trial in order for him to obtain additional
+discovery.
+Standard of Review
+{¶20} “The grant or denial of a continuance is within the
+sound discretion of the trial judge and we will not reverse
+a determination regarding a continuance absent an abuse of
+discretion.” City of Fostoria v. Flinders, 2020-Ohio-4263, ¶
+23 (3d Dist.). “The term ‘abuse of discretion’ connotes more
+than an error of law or judgment; it implies that the court's
+attitude is unreasonable, arbitrary, or unconscionable.” State
+ex rel. Edwards v. Toledo City School Dist. Bd. Of Edn., 72
+Ohio St.3d 106, 107 (1995).
+Analysis
+*5 {¶21} “The Supreme Court of Ohio has created a
+list of factors to be considered in evaluating a motion
+for continuance, which includes: the length of delay
+requested, whether other continuances have been requested
+and received; inconvenience to litigants, witnesses, and the
+trial court; whether the delay is for legitimate reasons or
+dilatory, purposeful, or contrived; whether the defendant
+contributed to the circumstances giving rise to the request,
+and any other relevant factors.” Flinders, at ¶ 24, citing State
+v. Unger, 67 Ohio St.2d, 65, 68 (1981).
+{¶22} Upon examining the record in this case, we find the
+trial court was properly within its discretion in refusing to
+grant the continuance. Specifically, in his letter to the court in
+response to the denial of his motion to continue and at trial,
+Alqahtani requested additional time to obtain “full officer
+notes”, a “radar log”, and body camera footage. In the same
+letter, Alqahtani confirmed that the prosecution “provided all
+available material.”
+{¶23} At trial, Trooper Costin testified he is not required to
+keep a log of the radar calibration checks he performs at the
+beginningandendofeachofhisshifts,andtheStatereiterated
+that all available notes and materials had been delivered to
+Alqahtani pursuant to his discovery request. Alqahtani has
+not directed our attention to any legal authority that states a
+radar log is required to be kept by an officer operating such
+a device. Nonetheless, Alqahtani persisted in his request for
+a document that does not exist. Alqahtani acknowledged on
+the record that he was in possession of officer notes included
+with the citation that contain a “brief narrative” of the events
+surrounding his traffic stop but contends that the “full officer
+notes ... are missing.” Beyond Alqahtani's assertion, he points
+to no proof or facts that would create a reasonable inference
+thataradarlogormoredetailednotesexistandwerewithheld
+from him. As to his request for the body camera footage,
+we find Alqahtani's contention bizarre, because in his pretrial
+correspondences with the trial court not only does he admit
+the prosecution provided him with the body camera footage,
+he describes in some detail what is found on the recording.
+{¶24} Given that the record demonstrates the prosecution
+complied fully with Alqahtani's discovery request, we do not
+findthetrialcourtabuseditsdiscretionindenyingAlqahtani's
+motion for a continuance. Appellant's third assignment of
+error is, accordingly, overruled.
+Conclusion
+{¶25} Having found no error prejudicial to the Appellant
+herein in the particulars assigned and argued in the
+assignments of error, we affirm the judgment of the Auglaize
+County Municipal Court.
+Judgement Affirmed
+JUDGMENT ENTRY
+For the reasons stated in the opinion of this Court, the
+assignments of error are overruled and it is the judgment and
+order of this Court that the judgment of the trial court isSTATE OF OHIO, PLAINTIFF-APPELLEE, v. ABDULLAH M...., Slip Copy (2026)
+2026-Ohio-1335
+© 2026 Thomson Reuters. No claim to original U.S. Government Works. 5
+affirmed with costs assessed to Appellant for which judgment
+is hereby rendered. The cause is hereby remanded to the trial
+court for execution of the judgment for costs.
+It is further ordered that the Clerk of this Court certify a copy
+of this Court's judgment entry and opinion to the trial court
+as the mandate prescribed by App.R. 27; and serve a copy of
+this Court's judgment entry and opinion on each party to the
+proceedings and note the date of service in the docket. See
+App.R. 30.
+Mark C. Miller, Judge
+John R. Willamowski, Judge
+Juergen A. Waldick, Judge
+WILLAMOWSKI, and WALDICK, J. J., concur.
+All Citations
+Slip Copy, 2026 WL 992449, 2026-Ohio-1335
+Footnotes
+1 “Pro se litigants are held to the same rules and procedures as those litigants who retain counsel.” Jones v.
+Booker, 114 Ohio App.3d 67, 70 (10th Dist. 1996), quoting Meyers v. First Nat'l Bank, 3 Ohio App.3d 209,
+210 (1st Dist. 1981). Accordingly, a pro se litigant may not knowingly “make a false statement of fact or law
+to a tribunal.” Prof.Cond.R. 3.3(a)(1). Furthermore a pro se litigant must not “engage in conduct involving
+dishonesty, fraud, deceit, or misrepresentation” or “engage in conduct that is prejudicial to the administration
+of justice.” Prof.Cond.R. 8.4(c)-(d). “It is well established that courts possess inherent authority to manage
+proceedings essential to their function, to control the conduct of those who appear before them, and to
+sanction conduct that abuses the judicial process.” State v. Coleman, 2026-Ohio-965, ¶ 39 (11th Dist.).
+Striking a filing containing fabricated and misplaced authority is an appropriate remedy a court could employ.
+See, id. at ¶103-104.
+2 Appellant incorrectly cites R.C. 4511.091 as the source for this rule. While R.C. 4511.091 addresses the
+arrest of an individual based on radar and other devices, it does not place such a burden on the prosecution
+as Alqahtani claims.
+3 Moreover, Alqahtani fails to offer any support for the notion that an officer must state the reason for a traffic
+stop before requesting identification from a driver, nor can we find any such requirement in the law to that
+effect.
+End of Document © 2026 Thomson Reuters. No claim to original U.S. Government Works.

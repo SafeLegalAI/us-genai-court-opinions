@@ -1,0 +1,372 @@
+Arron v. Custer et al                                                                                     Doc. 9
+
+
+
+
+                                      UNITED STATES DISTRICT COURT
+                                       SOUTHERN DISTRICT OF OHIO
+                                            EASTERN DIVISION
+
+               SHELBY ARRON,
+                                                          :
+                                     Plaintiff,                 Case No. 2:26-cv-390
+                        v.                                      Chief Judge Sarah D. Morrison
+                                                                Magistrate Judge S. Courter M.
+               BRANDI CUSTER, et al.,                           Shimeall
+                                                          :
+                                     Defendants.
+
+                                              OPINION AND ORDER
+
+                        This matter is before the Court on the Order and Report and
+
+              Recommendation (“OR&R”) issued by the Magistrate Judge on April 8, 2026. (ECF
+
+              No. 5.) Therein, the Magistrate Judge granted Shelby Arron’s request to proceed in
+
+              forma pauperis (ECF No. 1) and, after performing an initial screen of Ms. Arron’s
+
+              Complaint pursuant to 28 U.S.C. § 1915(e)(2), recommended that the Court dismiss
+
+              this case for lack of subject-matter jurisdiction. (OR&R, ECF No. 5, PAGEID # 23.)
+
+              Ms. Arron timely objected. (Obj., ECF No. 7).
+
+                        For the reasons set forth below, the Court SUSTAINS in part and
+
+              OVERRULES in part Ms. Arron’s objection and accordingly ADOPTS AND
+
+              AFFIRMS in part and REJECTS in part the Magistrate Judge’s OR&R.
+
+              I.        BACKGROUND
+
+                        Ms. Arron, who is proceeding without counsel, sues Coshocton County
+
+              Children Services, caseworker Brandi Custer, and supervisor Laura Martin
+
+              (collectively, “Defendants”), alleging that they improperly labeled her as mentally
+
+              unstable and unlawfully removed her children from her custody in June 2025.
+
+
+
+
+                                                                                               Dockets.Justia.com
+(Compl., ECF No. 1-1.) She further alleges that she was placed in a mental
+
+institution without due process and that court proceedings regarding the custody of
+
+her children occurred without her presence or a meaningful opportunity for her to
+
+participate. (Id.)
+
+       Ms. Arron asserts that Defendants violated the Fourth and Fourteenth
+
+Amendments and interfered with her parental rights. (Compl., ECF No. 1-1.) She
+
+also brings a municipal liability claim under Monell v. Department of Soc. Svcs., 436
+
+U.S. 658 (1978). (Id.) She seeks injunctive relief in the form of immediate
+
+reunification with her children, compensatory and punitive damages, a declaration
+
+that Defendants’ conduct was unconstitutional, and injunctive relief preventing
+
+further violations. (Id.)
+
+       In tandem with her Complaint, Ms. Arron sought a temporary restraining
+
+order (“TRO”) against Defendants and a third party (Mark Arron) for the immediate
+
+return of her children. (ECF No. 1-2.)
+
+II.    STANDARD OF REVIEW
+
+       If a party objects within the allotted time to a report and recommendation,
+
+the Court “shall make a de novo determination of those portions of the report or
+
+specified proposed findings or recommendations to which objection is made.” 28
+
+U.S.C. § 636(b)(1); see also Fed. R. Civ. P. 72(b). The Court “may accept, reject, or
+
+modify, in whole or in part, the findings or recommendations made by the
+
+magistrate judge.” 28 U.S.C. § 636(b)(1).
+
+
+
+
+                                            2
+III.   ANALYSIS
+
+       Upon review of Ms. Arron’s Complaint, the Magistrate Judge observed that it
+
+“relates entirely to domestic relation issues, which are within the exclusive
+
+jurisdiction of the State of Ohio.” (OR&R, ECF No. 5, PAGEID # 22.) The
+
+Magistrate Judge determined that the Burrus abstention doctrine prevents Ms.
+
+Arron from challenging the removal of her children in federal court and that the
+
+Rooker-Feldman doctrine bars any attack on the outcome of the state-court custody
+
+proceedings or any lack of due process therein. (Id., PAGEID # 22–23 (citing District
+
+of Columbia Court of Appeals v. Feldman, 460 U.S. 462 (1983); Rooker v. Fidelity
+
+Trust Co., 263 U.S. 413 (1923); In re Burrus, 136 U.S. 586 (1890)).) As such, the
+
+Magistrate Judge concluded that, even accepting Ms. Arron’s allegations as true,
+
+“the Court lacks jurisdictional authority to grant” the relief she seeks, including a
+
+TRO. (Id., PAGEID # 23.)
+
+       Ms. Arron objects. (Obj., ECF No. 7.) She insists that the Burrus doctrine “is
+
+narrow and does not apply to constitutional claims” like those she asserts in her
+
+Complaint. (Id., PAGEID # 27.) She also argues that the Rooker-Feldman doctrine
+
+applies only to the review of final state-court judgments and that she seeks review
+
+of independent constitutional violations. (Id.) Finally, she notes that the Supreme
+
+Court of Ohio previously rejected Mark Arron’s attempts to obtain custody of her
+
+children based on evidence of safety concerns.1 (Id.)
+
+
+
+       1 Ms. Arron cites to a purported 2023 opinion from the Supreme Court of Ohio
+
+in a case captioned “Arron v. Arron” (Obj., ECF No. 7, PAGEID # 28), but the Court
+cannot locate that case or otherwise confirm its existence.
+                                           3
+      In determining the applicability of the Burrus and Rooker-Feldman doctrines,
+
+courts focus on a plaintiff’s injury and request for relief. See VanderKodde v. Mary
+
+Jane M. Elliott, P.C., 951 F.3d 397, 402 (6th Cir. 2020) (citations omitted); Chevalier
+
+v. Est. of Barnhart, 803 F.3d 789, 797 (6th Cir. 2015). The Burrus doctrine—also
+
+called the “domestic-relations exception,” see Ankenbrandt v. Richards, 504 U.S.
+
+689, 692 (1992)—deprives a federal court of jurisdiction to adjudicate a claim if “a
+
+plaintiff positively sues in federal court for divorce, alimony, or child custody … or
+
+seeks to modify or interpret an existing divorce, alimony, or child-custody decree.”
+
+Chevalier, 803 F.3d at 797 (citation omitted). The Rooker-Feldman doctrine
+
+prevents federal courts from exercising jurisdiction over “cases brought by state-
+
+court losers complaining of injuries caused by state-court judgments rendered
+
+before the district court proceedings commenced and inviting district court review
+
+and rejection of those judgments.” Exxon Mobil Corp. v. Saudi Basic Indus. Corp.,
+
+544 U.S. 280, 284 (2005).
+
+      Here, portions of Ms. Arron’s Complaint clearly ask the Court to wade into
+
+child custody matters. As the Magistrate Judge aptly noted, the “main remedy of
+
+both [Ms. Arron’s] Complaint and TRO is for her children to be immediately
+
+returned to her.” (OR&R, ECF No. 5, PAGEID # 22; see also Compl., ECF No. 1-1
+
+(requesting “immediate reunification with children”).) “[I]f the plaintiff requests
+
+that a federal court determine who should have care for and control a child, then
+
+that request is outside the jurisdiction of the federal courts.” Chevalier, 803 F.3d at
+
+797. Therefore, the Court lacks jurisdiction under the Burrus doctrine to grant this
+
+
+
+                                           4
+form of relief, and the Court finds no error in the Magistrate Judge’s reasoning and
+
+conclusion on this point.
+
+      Other parts of Ms. Arron’s Complaint, though, confirm that she is asserting
+
+claims separate and apart from domestic-relations matters. Although she does seek
+
+a custody determination by way of her request that her children be returned to her,
+
+she also asks for declaratory and injunctive relief and monetary damages. (Compl.,
+
+ECF No. 1-1, PAGEID # 4.) Moreover, none of her claims or remedies (besides her
+
+“reunification” request) ask or require the Court to issue, modify, or interpret a
+
+divorce, alimony, or child-custody order. See Ankenbrandt, 504 U.S. at 704 (“[T]he
+
+domestic relations exception encompasses only cases involving the issuance [or
+
+modification] of a divorce, alimony, or child custody decree.”) (emphasis added).
+
+      The Magistrate Judge found that Ms. Arron’s claims are “merely ‘pretense’ to
+
+challenge domestic relations matters,” but the Court respectfully disagrees. (OR&R,
+
+ECF No. 5, PAGEID # 22 (citing Edelstein v. Flottman, No. 24-3156, 2025 WL
+
+609487, at *2 (6th Cir. Jan. 10, 2025)).) Initially, the Burrus doctrine “relates not to
+
+the subject of domestic relations, but to particular status-related functions that fall
+
+within state power and competence.” Chevalier, 803 F.3d at 797 (emphasis in
+
+original) (citation omitted). That a matter touches on domestic relations does not,
+
+standing alone, trigger the Burrus doctrine where, as here, there is no request for a
+
+court to perform these traditional state functions. See id.
+
+      Additionally, this case is distinguishable from Edelstein. There, a plaintiff
+
+sued the judges, social workers, and other entities involved in her divorce and child-
+
+
+
+                                           5
+custody proceedings, arguing that the proceedings were unconstitutional and
+
+seeking primarily the return of her children and monetary damages based on the
+
+custody decisions. Edelstein, 2025 WL 609487, at *1. The Sixth Circuit affirmed the
+
+lower court’s application of the Burrus doctrine to bar the plaintiff’s claims because
+
+“the substance of the claims revolves around the state courts’ decisions in the
+
+domestic-relations proceedings as they relate to [the child’s] custody and [the
+
+plaintiff’s] visitation rights.” Id. at *3. In contrast, Ms. Arron’s suit is concerned not
+
+only with child custody issues but also whether Defendants acted in violation of
+
+federal law when they took her children and detained her as mentally unstable
+
+before any custody proceedings commenced. Her case is thus not merely a pretense
+
+to convince the Court to modify or nullify state-court domestic-relations orders.
+
+       Likewise, the Complaint does not appear to be attacking a state-court
+
+judgment so as to implicate the Rooker-Feldman doctrine. Beyond a vague reference
+
+to “court proceedings” (Compl, ECF No. 1-1, PAGEID # 3), Ms. Arron has not
+
+alleged the existence of any specific state judicial decision that she wants the Court
+
+to overturn.2 See, e.g., HPIL Holding, Inc. v. Zhang, 168 F.4th 944, 951 (6th Cir.
+
+2026) (“Rooker and Feldman apply only to attempts to directly reverse a state
+
+court’s judgment.”) (emphasis added); cf. Exxon Mobil Corp., 544 U.S. at 284
+
+(referencing “the narrow ground occupied by Rooker-Feldman”).
+
+
+
+
+       2 If it is found that such a state-court case does exist, however,
+
+reconsideration of subject-matter jurisdiction under the Rooker-Feldman doctrine
+may become appropriate.
+                                            6
+      Even assuming that there was some qualifying state-court custody
+
+determination, the source of Ms. Arron’s injury is not that determination but rather
+
+Defendants’ allegedly improper conduct of detaining her, seizing her children
+
+without a warrant, and preventing her from being heard. (See Compl., ECF No. 1-1,
+
+PAGEID # 3–4 (alleging that Defendants “labeled [her] as mentally unstable
+
+without lawful justification,” removed her children “without a warrant, court order,
+
+or exigent circumstances,” placed her “in a mental institution without due process,”
+
+and “denied [her] notice and an opportunity to be heard before and after removal”).)
+
+The Rooker-Feldman doctrine does not apply when plaintiffs (like Ms. Arron) bring
+
+independent claims, or claims asserted “if the source of injury is other than the
+
+judgment itself, such as a third party’s actions.” McCormick v. Braverman, 451 F.3d
+
+382, 393 (6th Cir. 2006); see, e.g., Lawrence v. Welch, 531 F.3d 364, 369 (6th Cir.
+
+2008) (holding that a “plaintiff’s claims that certain defendants committed fraud
+
+and misrepresentation in the course of state probate proceedings did not allege an
+
+injury caused by the state court judgment”); Chapman v. Troutt, No. 3:10-CV-01009,
+
+2011 WL 2160941, at *6 (M.D. Tenn. June 1, 2011), R&R adopted, 2011 WL
+
+2416739 (M.D. Tenn. June 14, 2011) (“Because Plaintiff’s claims against Defendants
+
+Wyllie and Hyatt allege the source of the injury to be their conduct and not just the
+
+state court judgment, the Rooker-Feldman doctrine does not apply to the claims[.]”).
+
+      Because the Court finds on de novo review that neither the Burrus doctrine
+
+nor the Rooker-Feldman doctrine bar Ms. Arron’s claims (except, as explained
+
+above, her custody request), her objection to the OR&R is well taken.
+
+
+
+                                           7
+IV.   CONCLUSION
+
+      For the reasons herein, the Court SUSTAINS in part and OVERRULES in
+
+part Ms. Arron’s objection. (ECF No. 7)
+
+      The Court ADOPTS AND AFFIRMS the Magistrate Judge’s OR&R (ECF
+
+No. 5) insofar as it grants Ms. Arron’s application to proceed in forma pauperis and
+
+recommends dismissal for lack of subject-matter jurisdiction of Ms. Arron’s
+
+requested relief in the form of the “immediate reunification with [her] children”
+
+(Compl., ECF No. 1-1, PAGEID # 4). The Court further DENIES Ms. Aaron’s
+
+motion for a TRO (ECF No. 1-2).
+
+      The Court otherwise REJECTS the OR&R and accordingly RECOMMITS
+
+the remainder of Ms. Arron’s Complaint to the Magistrate Judge for a further
+
+screening determination under 28 U.S.C. § 1915(e)(2).
+
+
+
+      IT IS SO ORDERED.
+
+
+                                       /s/ Sarah D. Morrison
+                                       SARAH D. MORRISON, CHIEF JUDGE
+                                       UNITED STATES DISTRICT COURT
+
+
+
+
+                                          8
+

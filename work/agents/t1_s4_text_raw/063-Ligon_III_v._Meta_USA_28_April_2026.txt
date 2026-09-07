@@ -1,0 +1,2077 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+United States District Court
+Northern District of California
+UNITED STATES DISTRICT COURT
+NORTHERN DISTRICT OF CALIFORNIA
+EUREKA DIVISION
+LOUIS L. LIGON III,
+Plaintiff,
+v.
+META PLATFORMS INC.,
+Defendant.
+Case No. 25-cv-03959-RMI
+ORDER ON MOTION TO DISMISS
+Re: Dkt. Nos. 50, 60
+Plaintiff Louis Ligon III brings this case against Defendant Meta Platforms, Inc., alleging
+that Defendant violated his civil rights and right to free speech by its actions during the 2024
+election for Georgia State Senate. (Compl., Dkt. 1; First Amended Compl., Dkt. 49.) Now pending
+before the court is Defendant’s Motion to Dismiss and request for judicial notice, (dkts. 50 & 51),
+re-noticed after this case was reassigned to this court following the consent of the parties, (dkt.
+60). Plaintiff has filed his response, (dkt. 52), Defendant has replied, (dkt. 54), and the motion is
+ripe for adjudication on the merits. For the following reasons, the court GRANTS Defendant’s
+Motion to Dismiss.
+BACKGROUND
+1. Procedural History
+Plaintiff, proceeding pro se, originally filed this complaint in the United States District
+Court for the Northern District of Georgia on August 9, 2024. (Compl. 1.) The Georgia District
+Court transferred the case to this district based on the mandatory forum-selection clause in
+Defendant’s Terms of Service, and this district received the case on May 7, 2025. (Order, Dkt. 24;
+Transfer Receipt, Dkt. 28.) The presiding judge at the time then granted Plaintiff leave to amend,
+Ligon III v. Meta Platforms, Inc. Doc. 66
+Dockets.Justia.com2
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+United States District Court
+Northern District of California
+and Plaintiff filed his First Amended Complaint (“FAC”) on September 4, 2025. (Order, Dkt. 48;
+FAC, Dkt. 49.) Defendant filed its Motion to Dismiss on September 20, 2025, after which Plaintiff
+filed his response and Defendant filed its reply.1
+(Dkts. 50, 52, & 54.) The case was then
+reassigned to this court on November 17, 2025. (Order Reassigning Case, Dkt. 59.) Defendant
+filed an amended Notice of Motion to Dismiss, identifying this court as the adjudicating court,
+(dkt. 60), to which Plaintiff filed a response and request for oral argument, (dkt. 62). Defendant
+filed a response to argue that Plaintiff’s second response was improper and should not be
+considered.2
+(Dkt. 63.) The court then found that the Motion to Dismiss was appropriate for
+adjudication on the papers and vacated the hearing. (Dkt. 64.)
+2. Facts Alleged in the FAC
+Plaintiff registered with the Republican Party of Georgia and the Georgia Secretary of
+State’s Office on March 7, 2024, to run as a Republican candidate for Georgia State Senator in
+District Seven. (FAC ¶ 7.) Defendant Meta Platforms, Inc. owns and operates the social media
+websites Facebook and Instagram. (FAC ¶ 4.) On May 6, 2024, Plaintiff signed a “Verification of
+Identity” form with Defendant to meet the advertising policy requirements for running political
+campaign ads on Defendant’s platform Facebook. (FAC ¶ 8.) Plaintiff received a verification code
+on May 8 for additional vetting. (FAC ¶ 9.) On May 9, he created six political ads for his
+1
+Defendant argues in its reply that Plaintiff’s response should be given little weight because he improperly
+used artificial intelligence (“AI”) to draft his filing, leading to many misstatements of law. (Def.’s Reply 2,
+Dkt. 54.) The court agrees that the vast majority of Plaintiff’s case citations are cited for legal propositions
+that the cases themselves do not support, and this impacts how the court weighs his arguments—however,
+the court declines to independently factor in Plaintiff’s use of AI software when weighing his response, as it
+does not contain any hallucinated or fabricated citations and there is no need to separately account for his use
+of AI in considering his arguments. Plaintiff is cautioned, however, that it is his responsibility to ensure that
+any filings drafted with AI assistance are properly reviewed for accuracy before they are submitted to this
+court. Additionally, the court notes that Plaintiff’s response contains a number of factual citations and
+allegations not included in his FAC, which are improper and will not be considered as part of the analysis of
+the Motion to Dismiss.
+2
+In response to the re-noticed Motion, Plaintiff filed another substantive brief arguing his position and
+containing facts not alleged in the FAC. (Dkts. 61 & 62.) Defendant argued that this response was improper
+and that Plaintiff should not be given a second chance to make the arguments he should have made in his
+original response. (Dkt. 63.) The court agrees that Plaintiff cannot file two responses to the same Motion—
+as such, Plaintiff’s response to the re-noticed Motion at Dkts. 61 and 62 will not be addressed in this Order,
+particularly to the extent that the response contains different arguments from his original response or facts
+not alleged in the FAC.3
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+United States District Court
+Northern District of California
+campaign for Georgia State Senate, which were planned to run for the next ten days through the
+early voting period leading up to the main statewide election on May 21, 2024, and were intended
+to be shown on Facebook to the approximately 150,000 residents of Georgia District Seven. (FAC
+¶ 10.) Plaintiff paid Defendant $653.00 for the six advertisements and “verified, approved,
+populated, and scheduled the campaign ads to run starting May 10, 2024.” (FAC ¶ 10.)
+The ads ran for a partial day on May 10, but the following day, Plaintiff received five
+emails from representatives of Defendant informing him that his ads were flagged because of
+“unspecified violations” of community standards.3
+(FAC ¶ 11.) He was also told that his campaign
+ads and campaign Facebook page might be permanently suspended as a result. (FAC ¶ 11.)
+Plaintiff replied to the emails within 24 hours and requested information on the specific violations
+so that he could correct the problems quickly. (FAC ¶ 12.) He attempted to appeal through the
+links provided in the emails, but the links were nonfunctional. (FAC ¶ 33.) He received no
+response from Defendant, and his campaign ads, campaign pages, and personal profiles on
+Facebook and Instagram were permanently suspended the next day without any further
+explanation. (FAC ¶ 12–13.) The ads and campaign messaging continued to run without issue on
+other social media sites, including X and Truth Social. (FAC ¶ 14.) Plaintiff attempted to recreate
+his campaign pages on Facebook and Instagram after they were suspended, but these duplicate
+pages were also suspended with no explanation in May 2024. (FAC ¶ 19.) On May 21, 2024,
+Plaintiff filed an official election interference complaint against Defendant with the Georgia
+Secretary of State and the Georgia State Election Board. (FAC ¶ 16.)
+Plaintiff alleges that Defendant’s permanent suspension of his personal Facebook profile
+3
+Plaintiff attached some of the emails from Defendant to his original complaint: an email from May 10
+begins by stating “Your Facebook page is scheduled for permanent deletion due to a post that has infringed
+upon our trademark rights,” (Compl. Ex. D-1, Dkt. 1, at 19); a different email from the same day begins with
+the same sentence, (Compl. Ex. D-2, Dkt. 1, at 21); another email from May 10 begins, “Dear administrator,
+wehavereceivedmultiplereportsthat yourbusinessaccount hasviolatedthetermsof serviceandcommunity
+guidelines. 1. Using false names/images of others. 2. Sharing content that puts other users at risk. 3. Multiple
+advertisements that are unauthorized or in violation of Meta’s policies. 4. Using tricks to bypass Meta’s ad
+verification system” and informs Plaintiff that his account is scheduled for review, (Compl. Ex. D-3, Dkt. 1,
+at 23); and the final email from May 10 from the Meta Support-Team says, “Your page was detected with
+copyright infringement”and informs Plaintiffthat his account isscheduled for review, (Compl. Ex. D-4, Dkt.
+1, at 25).4
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+United States District Court
+Northern District of California
+caused him to lose hundreds of photos, communications with constituents, and administrative
+roles in three community groups, “causing significant personal and professional harm.” (FAC ¶¶
+12, 15.) In addition, Defendant allegedly “engage[d] in a pattern of post-suspension harassment,”
+including through sending him two identical emails on May 4, 2025, alleging new violations
+associated with the suspended accounts and ads and providing a non-functional link to appeal;
+sending him another email on May 20, 2025, alleging copyright violations associated with one of
+the suspended ads; and sending an email “on behalf of” Universal Music Group to Plaintiff on
+May 20, 2025, alleging that he had unlawfully used 45 seconds of a copyrighted song on his
+suspended campaign page and demanding the removal of the infringing content. (FAC ¶ 13.)
+Plaintiff alleges that Defendant’s suspension of his profile page and campaign ads was part
+of Defendant’s partnership with “government-aligned entities, such as the Elections Infrastructure
+Information Sharing and Analysis Center (“EI-ISAC”),” and with other fact-checking
+organizations like Politifact, which allegedly “disproportionately flag conservative content.” (FAC
+¶ 17.) Plaintiff also alleges that he was one of multiple conservative political candidates who faced
+the same unexplained suspensions. (FAC ¶ 21.) Because of his reliance on Defendant for effective
+advertising and outreach, Plaintiff argues that Defendant disrupted his campaign during a critical
+voting period, breaching its contractual obligations and violating both Plaintiff’s rights and the
+rights of District Seven voters. (FAC ¶¶ 16, 18, 22–26.) Finally, he alleges that Defendant makes
+content moderation decisions based on “opaque algorithmic processes” and a “nonfunctional
+appeal system,” (FAC ¶ 20), and that this lack of transparency or meaningful review “transforms
+these suspensions into a prohibited prior restraint on speech” and “necessitates comprehensive
+discovery to uncover the extent of Defendant’s unconstitutional practices.” (FAC ¶¶ 24, 20).
+3. Causes of Action in the FAC
+Plaintiff brings eight causes of action against Defendant in the FAC. The first claim is for
+violation of Plaintiff’s First Amendment rights to free speech and political expression, alleging
+that social media platforms are modern public squares subject to the First Amendment; that
+Defendant targeted Plaintiff’s advertisements for their conservative viewpoints; that Defendant’s
+“extensive partnerships with EI-ISAC and government-influenced fact-checkers” render it a state5
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+United States District Court
+Northern District of California
+actor; that Section 230 immunity does not apply because the claim is based on Defendant’s own
+content moderation decisions; and that Defendant’s suppression of Plaintiff’s advertisements was
+a “targeted effort to silence conservative political speech.” (FAC ¶¶ 27–31.) The second cause of
+action is for violation of Plaintiff’s Fifth Amendment procedural due process rights based on
+“Defendant’s failure to provide adequate notice or a functional appeal process for the suspensions
+of Plaintiff’s advertisements and accounts.” (FAC ¶¶ 32–34.) The third claim is brought under 42
+U.S.C. § 1985(3) for conspiracy to deprive Plaintiff of his civil rights—he alleges that Defendant
+conspired with fact-checkers and “government-aligned entities” to deprive him of equal protection
+because of his conservative views. (FAC ¶¶ 35–36.) Because Defendant’s conduct impacted his
+campaign, he also mentions interference with voting rights as part of this claim. (FAC ¶ 36.) He
+then repeats his argument that Section 230 immunity does not apply because the claim is based on
+Defendant’s own actions rather than third-party content. (FAC ¶ 37.) The fourth cause of action is
+brought pursuant to 42 U.S.C. § 1986 and alleges that Defendant is liable under this section
+because it had knowledge of the conspiracy to deprive Plaintiff of his rights and failed to prevent it
+(and that Section 230 immunity does not apply for the same reasons as above). (FAC ¶¶ 38–40.)
+Plaintiff’s fifth cause of action is for breach of contract. (FAC ¶ 42.) Plaintiff claims that
+Defendant entered into a binding implied contract with Plaintiff by accepting his payment of
+$653.00 and approving his advertisements to appear for District Seven voters, that it impliedly
+promised fair and transparent enforcement, and that Defendant breached this contract when it
+refused to run his ads and suspended his account without explanation or opportunity to appeal.
+(FAC ¶¶ 41–43.) Claim six alleges that Defendant violated the implied covenant of good faith and
+fair dealing when it suspended Plaintiff’s accounts and advertisements in bad faith based on his
+conservative political viewpoints. (FAC ¶¶ 44–46.) The seventh cause of action is brought
+pursuant to 42 U.S.C. § 1981, claiming that Defendant’s suspension of Plaintiff’s ads and accounts
+“discriminated against Plaintiff in the making and enforcement of contracts . . . based on his
+conservative political viewpoint, a protected characteristic under § 1981’s broad interpretation.”
+(FAC ¶¶ 47–48.) Finally, the eighth claim is brought for harassment and intentional infliction of
+emotional distress. (FAC ¶¶ 49–52.) This claim is based on Defendant’s “ongoing pattern of6
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+United States District Court
+Northern District of California
+sending threatening and harassing emails after the permanent suspension of Plaintiff’s accounts,”
+despite knowing that Plaintiff had no access to the accounts and no way to appeal or address the
+alleged violations. (FAC ¶ 50.) According to the FAC, this conduct caused Plaintiff “severe
+emotional distress, including anxiety, mental anguish, and loss of quality family time,” which was
+worsened by “the loss of irreplaceable personal content and the public reputational harm from
+false allegations of policy and copyright violations.” (FAC ¶ 51.) This claim also requests punitive
+damages because Defendant’s actions were “intentional and malicious” retaliation for Plaintiff’s
+political speech. (FAC ¶ 52.)
+Plaintiff requests multiple kinds of relief in his FAC. First, he requests a declaratory
+judgement that Defendant committed the violations alleged in all eight causes of action and is not
+protected by Section 230. (FAC at 24–25.) Second, he requests injunctive relief ordering
+Defendant to reinstate his campaign Facebook page, reinstate his personal Facebook page,
+reinstate his political advertisements, reinstate his personal Instagram page, immediately cease
+further suspensions or other actions against his accounts, immediately cease sending harassing
+emails based on alleged content violations, and “permit comprehensive discovery of internal
+algorithms.” (FAC at 25–26.) Third, Plaintiff requests monetary damages: $2,500,000.00 in
+compensatory damages for the disruption of Plaintiff’s campaign, emotional distress, reputational
+harm, the cost of recreating his online presence, and the loss of his administrative roles in
+community groups; and $10,000,000.00 in punitive damages for willful and malicious suppression
+of Plaintiff’s speech. (FAC at 26–27.) Finally, Plaintiff requests attorney’s fees and costs and
+“[s]uch further relief as the Court deems just, including discovery into Defendant’s algorithms to
+ensure transparency and prevent future harm.” (FAC at 27.)
+LEGAL STANDARD
+Under Rule 12(b)(6) of the Federal Rules of Civil Procedure, a complaint may be
+dismissed for failure to state a claim for which relief may be granted. Rule 12(b)(6) requires
+dismissal when a complaint lacks either a “cognizable legal theory” or “sufficient facts alleged” in
+support of such a theory. Godecke v. Kinetic Concepts, Inc., 937 F.3d 1201, 1208 (9th Cir. 2019)
+(citation omitted). A complaint contains sufficient factual allegations if it pleads enough facts to7
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+United States District Court
+Northern District of California
+“state a claim to relief that is plausible on its face.” Ashcroft v. Iqbal, 556 U.S. 662, 678 (2009)
+(quoting Bell Atl. Corp. v. Twombly, 550 U.S. 544, 570 (2007)). In turn, a claim is plausible
+“when the plaintiff pleads factual content that allows the court to draw the reasonable inference
+that the defendant is liable for the misconduct alleged.” Id. at 678. Plausibility is a context-specific
+task that requires the reviewing court to determine if the well-pleaded facts permit the court to
+infer more than the mere possibility of misconduct. Id.
+When evaluating a motion to dismiss, courts “accept factual allegations in the complaint as
+true and construe the pleadings in the light most favorable to the nonmoving party.” Manzarek v.
+St. Paul Fire & Marine Ins. Co., 519 F.3d 1025, 1031 (9th Cir. 2008). However, “allegations in a
+complaint . . . may not simply recite the elements of a cause of action [and] must contain sufficient
+allegations of underlying facts to give fair notice and to enable the opposing party to defend itself
+effectively.” Levitt v. Yelp! Inc., 765 F.3d 1123, 1135 (9th Cir. 2014) (quoting Eclectic Props. E.,
+LLC v. Marcus & Millichap Co., 751 F.3d 990, 996 (9th Cir. 2014)).
+Pro se pleadings are to be liberally construed, but they still must meet basic plausibility
+standards and provide the minimum factual basis necessary to give defendants notice of the claims
+against them. See Turner v. Cnty. of Los Angeles, 18 F. App’x 592, 596 (9th Cir. 2001) (“Even
+given the more generous pleading standards for pro se plaintiffs, [plaintiff] has failed to provide a
+minimum factual basis needed to provide notice to these defendants.”); Ortez v. Washington Cnty.,
+88 F.3d 804, 807 (9th Cir. 1996) (pro se pleadings must be construed liberally on Rule 12(b)(6)
+motions, such that the court should determine whether the plaintiff would not be entitled to relief
+“under any state of facts he could prove”). When dismissing a claim, a court “should grant leave to
+amend even if no request to amend the pleading was made, unless it determines that the pleading
+could not possibly be cured by other facts.” Lopez v. Smith, 203 F.3d 1122, 1127 (9th Cir. 2000).
+DISCUSSION
+A. Request for Judicial Notice
+Defendant requests that the court take judicial notice of three documents for the purposes
+of ruling on its Motion: a true and correct copy of the Meta Terms of Service in effect at the time
+of the alleged events; a true and correct copy of the Instagram Terms of Use in effect at the time of8
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+United States District Court
+Northern District of California
+the alleged events; and a true and correct copy of Meta’s Advertising Standards in effect at the
+time of the alleged events. (Def.’s Request Judicial Notice, Dkt. 51; Duffy Decl. ¶¶ 5–7, Dkt. 50-
+1.) In general, courts cannot look beyond the four corners of the complaint and the attached
+exhibits when ruling on Rule 12(b)(6) motions to dismiss. Swartz v. KPMG LLP, 476 F.3d 756,
+763 (9th Cir. 2007). However, courts may take judicial notice of outside information and may
+consider documents incorporated by reference. Courts may judicially notice facts not subject to
+reasonable dispute that are (1) generally known in the trial court’s territorial jurisdiction or (2)
+capable of accurate and ready determination by sources whose accuracy cannot be reasonably
+questioned. Fed. R. Evid. 201(b). Separately, courts may incorporate by reference documents that
+are not attached to the complaint but are central to the plaintiff’s claim and are unquestionably
+authentic. See Knievel v. ESPN, 393 F.3d 1068, 1076 (9th Cir. 2005) (finding that the
+incorporation by reference doctrine applies when “plaintiff’s claim depends on the contents of a
+document, the defendant attaches the document to its motion to dismiss, and the parties do not
+dispute the authenticity of the document, even though the plaintiff does not explicitly allege the
+contents of that document in the complaint”).
+Defendant represents that all users of Facebook and Instagram must agree to the terms as a
+condition of using those services; it further represents that all users who advertise across its
+services are covered by the Advertising Standards, which are incorporated into the terms. (Duffy
+Decl. ¶¶ 3–4, 7.) Defendant has also represented that the documents attached to its motion are the
+terms of service/use and advertising standards in place during the events alleged in the complaint.
+(Duffy Decl. ¶¶ 5–7.) Plaintiff did not oppose the request for judicial notice or object to the
+authenticity of the documents.
+Defendant Meta Platform’s Terms of Service and Instagram Terms of Use are publicly
+available webpages that are routinely judicially noticed in this district. E.g., Scott v. Meta
+Platforms, Inc., No. 25-CV-09955-TSH, 2026 WL 593341, at *6 (N.D. Cal. Mar. 3, 2026) (taking
+judicial notice of Meta’s Terms of Service); Lloyd v. Facebook, Inc., No. 21-CV-10075-EMC,
+2022 WL 4913347, at *4 (N.D. Cal. Oct. 3, 2022) (incorporating by reference Meta’s Terms of
+Service and Data Use Policy); Moates v. Facebook, Inc., No. 22-CV-04478-RFL, 2024 WL9
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+United States District Court
+Northern District of California
+2853976, at *1 n.1 (N.D. Cal. Apr. 3, 2024) (incorporating by reference Meta’s Terms of Service).
+Cf. Al-Ahmed v. Twitter, Inc., 603 F. Supp. 3d 857, 869 (N.D. Cal. 2022) (judicially noticing
+Twitter’s Terms of Service); Zhang v. Twitter, Inc., No. 23-CV-00980-JSC, 2023 WL 5493823, at
+*3 (N.D. Cal. Aug. 23, 2023) (same); Huber v. Biden, No. 21-CV-06580-EMC, 2022 WL 827248,
+at *1 n.1 (N.D. Cal. Mar. 18, 2022) (same); Coffee v. Google, LLC, No. 20-CV-03901-BLF, 2021
+WL 493387, at *4 (N.D. Cal. Feb. 10, 2021) (taking judicial notice of Google’s Terms of Service);
+Matera v. Google, Inc., No. 15-CV-04062-LHK, 2016 WL 8200619, at *5 (N.D. Cal. Aug. 12,
+2016) (same). The Advertising Standards are incorporated into the terms and are similarly
+available to the public. Plaintiff does not dispute that the proffered Meta Terms of Service,
+Instagram Terms of Use, and Advertising Standards are authentic, and thus the court GRANTS the
+request and takes judicial notice of Meta’s Terms of Service, Instagram’s Terms of Use, and
+Meta’s Advertising Standards.4
+B. Section 230 Limits on Liability
+Defendant first moves to dismiss the FAC on the grounds that every claim in the complaint
+is barred by Section 230(c)(1) of the Communications Decency Act, 47 U.S.C. § 230(c)(1).
+Section 230, titled “Protection for private blocking and screening of offensive material,” contains
+the following provisions: “No provider or user of an interactive computer service shall be treated
+as the publisher or speaker of any information provided by another information content provider . .
+. No cause of action may be brought and no liability may be imposed under any State or local law
+that is inconsistent with this section.” 47 U.S.C. § 230(c)(1), (e)(3). Thus, Section 230(c)(1)
+immunity applies to “(1) a provider or user of an interactive computer service, (2) whom a
+plaintiff seeks to treat, under a [federal or] state law cause of action, as a publisher or speaker, (3)
+of information provided by another information content provider.” Calise v. Meta Platforms, Inc.,
+103 F.4th 732, 738 (9th Cir. 2024) (quoting Barnes v. Yahoo!, Inc., 570 F.3d 1096, 1100–01 (9th
+4
+Moreover, although Plaintiff does not discuss any of these documents explicitly in his complaint, his
+contract-based claims and his due process claims are based in part on Defendant’s Terms of Service/Use and
+Advertising Standards; thus, because he does not dispute the authenticity of these documents, the documents
+are also properly incorporated by reference. See, e.g., Al-Ahmed, 603 F. Supp. 3d at 867–68 (incorporating
+by reference documents hinted at in the complaint that were key to the claims and whose authenticity was
+undisputed).10
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+United States District Court
+Northern District of California
+Cir. 2009), as amended (Sep. 28, 2009)) (alterations in original); accord Vargas v. Facebook, Inc.,
+No. 21-16499, 2023 WL 6784359, at *2 (9th Cir. Oct. 13, 2023) (unpublished).
+The law thus seeks to limit liability for acts undertaken by interactive computer services
+pursuant to their role as publishers; a publisher “reviews material submitted for publication,
+perhaps edits it for style or technical fluency, and then decides whether to publish it,” and
+therefore traditional publishing conduct protected by section 230 includes “reviewing, editing, and
+deciding whether to publish or to withdraw from publication third-party content.” Barnes, 570
+F.3d at 1102. Moreover, “any activity that can be boiled down to deciding whether to exclude
+material that third parties seek to post online is perforce immune under section 230.” Fair Hous.
+Council of San Fernando Valley v. Roommates.Com, LLC, 521 F.3d 1157, 1170–71 (9th Cir.
+2008). In deciding whether Section 230 immunity applies, the Ninth Circuit has not drawn a
+bright-line distinction between certain causes of action, nor mechanically asked whether the
+underlying facts concern third-party content. Instead, it has directed courts to “engage in a careful
+inquiry” to determine whether the “fundamental duty” invoked by the plaintiff “derives from the
+defendant’s status or conduct as a ‘publisher or speaker.’” Est. of Bride by & through Bride v.
+Yolo Techs., Inc., 112 F.4th 1168, 1178 (9th Cir. 2024) (quoting Barnes, 570 F.3d at 1102), cert.
+denied Est. of Bride v. Yolo Techs., Inc., 145 S. Ct. 1435 (2025). Thus, even where the conduct or
+claim at issue might involve publishing activities, section 230(c)(1) may not apply when the
+alleged duty does not arise from the defendant’s status as publisher or satisfaction of the duty
+would not require the defendant to engage in publishing conduct.
+It appears that neither party contests that Defendant is an interactive computer service
+provider, and many other courts have found Defendant to be an interactive computer service
+provider. See Fed. Agency of News LLC v. Facebook, Inc., 432 F. Supp. 3d 1107, 1117 (N.D. Cal.
+2020) (collecting cases). It is also not contested that the content at issue—Plaintiff’s campaign
+pages, his personal profiles, and his advertisements—was created by Plaintiff, not Defendant, and
+thus the content at issue is attributable to a third party creator.5
+The first and third requirements for
+5
+Plaintiff argues that “Section 230 protects passive hosts from third-party content liability, but not for their
+own editorial actions or content creation,” and claims that Plaintiff’s “editorial decisions” and use of a11
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+United States District Court
+Northern District of California
+section 230(c)(1) limits on liability are thus met, and the court need evaluate only the second
+element for each claim: whether the causes of action seek to treat Defendant as a publisher or
+speaker.
+Defendant argues that all eight claims seek to hold it liable for its actions as a publisher
+because they are all based on Defendant’s decision to suspend Plaintiff’s ads and accounts, which
+is a publishing decision that is “perforce immune under section 230.” Roommates.Com, 521 F.3d
+at 1170–71. However, while many of the claims are premised on Defendant’s suspension of
+Plaintiff’s content, there are two other courses of conduct on which some of the claims are
+premised: Defendant’s failure to provide notice and an appeals process, and Defendant’s sending
+of repeat emails after the suspension of Plaintiff’s accounts. These actions are not tied to
+Defendant’s status as publisher—providing notice and an appeals process, even when related to
+publishing decisions, is not an activity necessarily derived from the status of publisher, and
+sending emails or other notices about a user’s content is similarly not a traditional element of
+publication. See, e.g., King v. Facebook, Inc., 572 F. Supp. 3d 776, 795 (N.D. Cal. 2021) (“That
+Facebook has the editorial discretion to post or remove content has little do to with the implied
+promise to explain why content was removed.”). Cf. Bogard v. TikTok Inc., No. 24-CV-03131-
+VKD, 2025 WL 3637035, at *9 (N.D. Cal. Dec. 15, 2025) (finding that affirmative statements by
+Defendants regarding how they “actually handle reported content” were actionable under section
+recommendationalgorithmareDefendant’sownactionsand arenotrelatedtothird-partycontent.(Pl.’sResp.
+11; FAC ¶¶ 37, 40, 43, 46.) This argument misunderstands the distinction between the second and third
+prongsofthesection 230(c)(1) analysis:thesecondelement asks whethertheclaimisbased ontheplatform’s
+statusorconductaspublisher,whilethethirdprongaskswhether theplatformitselfcontributedtothecontent
+at issue. Defendant’s “editorial decisions” includes publishing decisions, like whether to remove published
+material, which are covered by section 230(c)(1) when the content was created by a third-party, but such
+editorial decisions alone do not constitute content creation. Plaintiff does not allege that any content was
+made or contributed to by Defendant, except insofar as he alleges that Defendant created the algorithm that
+“drives” the enforcement of Defendant’s content moderation and that this constitutes Defendant’s own
+content. (E.g., FAC ¶ 45.) However, Defendant’s use of an algorithm to assist initspublishing functions does
+not take those actions outside the scope of its conduct as publisher so long as the algorithm is not assisting in
+the creation of content, which Plaintiff does not allege is the case here. See, e.g., Dyroff v. Ultimate Software
+Grp., Inc., 934 F.3d 1093, 1098 (9th Cir. 2019) (holding that the defendant’s use of “features and functions,
+including algorithms, to analyze user posts” and make recommendations did not defeat section 230(c)(1)).
+Whether Defendant used the algorithm to perform traditional publishing duties is distinct from whether the
+algorithm constitutes third-party content, which it does not based on the facts alleged here.12
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+United States District Court
+Northern District of California
+230(c)(1) in claim for fraudulent and negligent misrepresentation because they were separate from
+general publisher discretion). Claim Two for violation of Plaintiff’s Fifth Amendment rights is
+entirely based on the notice and appeals process; Claim Eight for intentional infliction of
+emotional distress and Claim Six for breach of the implied covenant of good faith and fair dealing
+are partially based on this process and on the sending of emails separate from the actual
+suspension of his accounts and ads. These claims and partial claims do not arise out of
+Defendant’s status as publisher and are not barred by section 230(c)(1).
+The remaining claims are based on Defendant’s decision to suspend Plaintiff’s account
+pages and advertisements. The Ninth Circuit has consistently held that decisions to publish
+content, or not publish content, or revoke content from publication, are quintessential publishing
+functions for which interactive computer services cannot be held liable under section 230(c)(1).
+Roommates, 521 F.3d at 1170–71. However, this does not end the inquiry, as the duties
+underpinning each cause of action may not arise from Defendant’s status as publisher or require it
+to undertake certain publishing decisions. The source of the duties alleged is different across
+Plaintiff’s constitutional, federal statutory, and contract-based causes of action, and thus a more
+particularized analysis is warranted.
+Plaintiff’s Claim One is a constitutional cause of action alleging that Defendant violated
+his First Amendment rights; his Claims Three and Four are related federal statutory claims for
+conspiracy to violate his civil rights and failure to prevent the conspiracy. These claims are based
+squarely on Defendant’s decision to remove and suspend Plaintiff’s content. The First Amendment
+claim is based solely on Defendant’s publishing conduct inherent to its status as publisher and
+remedy would require it to undertake further publishing activity by reactivating or reposting
+Plaintiff’s content. The conspiracy claim is essentially an allegation that Defendant coordinated
+with other entities to make its publishing decisions, and the tools Defendant chooses to use when
+making publication decisions—including potential consultation with other actors—are part of
+Defendant’s discretion as publisher whether to publish content. Remedy for this claim would also
+require Defendant to undertake specific publication actions because the alleged outcome and goal
+of the conspiracy is the removal of Plaintiff’s content. It then follows that the failure to prevent13
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+United States District Court
+Northern District of California
+conspiracy claim is merely an allegation that Defendant failed to prevent a particular editorial
+decision from being made and enacted, whose remedy would also require Defendant to undertake
+specific publishing actions. See Castronuova v. Meta Platforms, Inc., No. 4:24-CV-02523-YGR,
+2025 WL 1914860, at *4 (N.D. Cal. June 10, 2025) (“Plaintiff’s allegation that these decisions [to
+remove or exclude her accounts] resulted from a larger conspiracy with the federal government
+does not change the nature of the underlying conduct as protected publisher activity.”). It is
+immaterial that these claims are premised on the removal of Plaintiff’s content for political
+reasons—Ninth Circuit courts have consistently held that Section 230(c)(1) immunizes the
+removal of political content. See, e.g., Fed. Agency of News, 432 F. Supp. at 1120 (“Numerous
+courts have held that Section 230 immunizes a website’s removal of political speech.”); Loomer v.
+Zuckerberg, No. 22-CV-02646-LB, 2023 WL 6464133, at *13 (N.D. Cal. Sept. 30, 2023) (holding
+that plaintiff’s claim was barred by section 230(c)(1) where her “theory generally [was] that the
+alleged enterprise unlawfully bans conservatives from social-media platforms” and her alleged
+injury was the banning of her account under this scheme). As such, Claims One, Three, and Four
+are inseparable from Defendant’s status or conduct as publisher and are barred by section
+230(c)(1). See Castronuova v. Meta Platforms, Inc., No. 4:24-CV-02523-YGR, 2025 WL
+1914860, at *3–4 (N.D. Cal. June 10, 2025) (dismissing First Amendment claim against Meta
+Platforms under section 230 and finding that other Ninth Circuit courts had also dismissed
+constitutional claims pursuant to section 230, citing to Brittain v. Twitter, Inc., 2019 WL
+2423375,*3 (N.D. Cal. June 10, 2019), Lewis v. Google LLC, 461 F.Supp.3d 938, 955 (N.D. Cal.
+2020), aff’d, 851 F. App’x 723 (9th Cir. 2021), and Ebeid v. Facebook, Inc., No. 18-CV-07030-
+PJH, 2019 WL 2059662, at *5 (N.D. Cal. May 9, 2019)).
+Plaintiff’s Claim Seven is brought under 42 U.S.C. § 1981, alleging that Defendant
+discriminated against him in the making and enforcement of contracts “by suspending his ads and
+accounts based on his conservative political viewpoint.” (FAC ¶ 48.) As with the above claims,
+this claim is based solely on Defendant’s suspension and removal of Plaintiff’s content and
+profiles, which is essential publishing activity routinely protected by Section 230(c)(1)’s liability
+limitations despite the allegations that the removal and deletion of his content were motivated by14
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+United States District Court
+Northern District of California
+political reasons. Accordingly, this claim is also barred by Section 230(c)(1).
+Plaintiff brings two contract claims against Defendant: one for breach of contract, and one
+for breach of the implied covenant of good faith and fair dealing. Plaintiff’s Claim Five for breach
+of contract alleges that Defendant entered into an implied contract with Plaintiff by accepting his
+payment of $653.00 in exchange for approving his advertisements to run for a ten-day period, and
+that Defendant breached that contract by suspending the advertisements after only one partial day.
+(FAC ¶ 42.) The Ninth Circuit has found that section 230(c)(1) does not bar claims which seek to
+hold an internet provider liable as “the counter-party to a contract, as a promisor who has
+breached,” rather than as a publisher, even when the promise or contract involves performance of
+a traditional publishing action. Barnes v. Yahoo!, Inc., 570 F.3d 1096, 1107 (9th Cir. 2009). This
+rule was recently applied to a claim alleging that Meta promised to “take appropriate action”
+against scam advertisements—the Ninth Circuit found that this promise bound Meta with a
+contractual duty separate from its status as a publisher, and thus held that section 230 did not bar
+the claim because “Meta’s duty arising from its promise to moderate third-party advertisements is
+unrelated to Meta’s publisher status.” Calise v. Meta Platforms, Inc., 103 F.4th 732, 743 (9th Cir.
+2024).
+However, the Ninth Circuit has also stated that there is no “categorical rule that contract-
+based claims are never barred by Section 230(c)(1).” King v. Facebook, Inc., No. 22-15602, 2023
+WL 5318464, at *2 (9th Cir. Aug. 18, 2023) (unpublished). In affirming the district court, the
+memorandum opinion in King found that “[t]he specific promise to take down explicit content at
+issue in Barnes does not compare to the general promise made by Facebook, and incorporated into
+its [Terms of Service], to use ‘good faith’ or make an ‘honest’ determination before deciding to
+exercise publishing or editorial discretion.” Id. District courts have used similar logic to
+distinguish between promises and enforceable contracts to perform some specific action, and
+broad statements or terms like those found in terms of service that merely restate a platform’s
+discretion as publisher rather than creating a new, enforceable contractual duty. See Al-Ahmed v.
+Twitter, Inc., 603 F. Supp. 3d 857, 884–85 (N.D. Cal. 2022) (holding that section 230 barred all of
+the suspension-based claims but that the breach of contract claim was not barred by section15
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+United States District Court
+Northern District of California
+230(c)(1) insofar as it was based on the promise in Facebook’s Terms of Service to provide
+adequate explanation for any suspensions, which was not publishing conduct); King v. Facebook,
+Inc., 572 F. Supp. 3d 776, 795 (N.D. Cal. 2021) (barring part of the contract claim because “all
+that Facebook did here was to incorporate into the contract (the Terms of Service) its right to act
+as a publisher,” which did not defeat section 230, but allowing the part of the contract claim based
+on Facebook’s implied promise to explain its decisions).
+Plaintiff’s breach of contract claim does not allege that Defendant or any of Defendant’s
+agents made specific, enforceable promises to him related to the suspension of his content; instead,
+he relies on the general contractual underpinnings of his use of Defendant’s platforms and
+payment to Defendant. His statement that Defendant’s acceptance of his payment created a duty to
+publish his content does not constitute an allegation that Defendant made a specific promise to
+publish Plaintiff’s content which was intended to supersede its discretion as publisher to make
+publication decisions. Whether based on an implied contract or a document like the Terms of
+Service, this type of general contract-based allegation has routinely been found insufficient to
+overcome section 230’s bar on liability for publishing conduct. See, e.g., Goddard v. Google, Inc.,
+640 F. Supp. 2d 1193, 1200–01 (N.D. Cal. 2009) (holding that without separate promise to enforce
+provisions in contracts like terms and conditions, such provisions are not enforceable promises
+and may be subject to section 230(c)(1) immunity); Shared.com v. Meta Platforms, Inc., No. 22-
+CV-02366-RS, 2022 WL 4372349, at *3 (N.D. Cal. Sept. 21, 2022) (“To the extent Facebook’s
+Terms of Service outline a set of criteria for suspending accounts . . ., this simply restates Meta’s
+ability to exercise editorial discretion. Such a restatement does not, thereby, waive
+Defendant’s section 230(c)(1) immunity.”); Newton v. Meta Platforms Inc., No. 23-CV-00116-JD,
+2023 WL 5749258, at *2 (N.D. Cal. Sept. 6, 2023) (finding that “the general allegation that
+Facebook did not ‘live up to its written Community Standards’” when declining to publish the
+plaintiffs’ content did not allege a specific promise enforceable under Barnes); King, 572 F. Supp.
+3d at 795 (holding that section 230(c)(1) immunity applied for contract claim based on the
+removal of plaintiff’s content because “[u]nlike the very specific one-time promise made
+in Barnes, the promise relied upon here is indistinguishable from ‘paradigmatic editorial decisions16
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+United States District Court
+Northern District of California
+not to publish particular content.’” (quoting Murphy v. Twitter, Inc., 274 Cal. Rptr. 3d 360, 373
+(Cal. Ct. App. 2021)); Rangel v. Dorsey, No. 21-CV-08062-CRB, 2022 WL 2820107, at *3 (N.D.
+Cal. July 19, 2022) (finding that plaintiff’s contract claim failed because it was based on the terms
+of service, which only incorporated Twitter’s rights as publisher); Lloyd v. Facebook, Inc., No. 21-
+CV-10075-EMC, 2022 WL 4913347, at *9 (N.D. Cal. Oct. 3, 2022) (finding that Facebook’s
+Community Standards constituted a general monitoring policy that did not fall under the Barnes
+framework for avoiding section 230 immunity); Frenken v. Hunter, No. 17-CV-02667-HSG, 2018
+WL 1964893 (N.D. Cal. Apr. 26, 2018) (finding that Twitter’s rules did not create a contract or
+quasi-contract enforceable under section 230 as to its decision to maintain accounts and transmit
+messages).6
+As written, Plaintiff’s breach of contract claim is premised solely on Defendant’s
+6
+Other courts have gone even further when barring contract claims under section 230(c)(1) to broadly find
+that contract claims based on the removal of content are inseparable from internet platforms’ status as
+publishers and are therefore barred. See Yuksel v. Twitter, Inc., No. 22-CV-05415-TSH, 2022 WL 16748612,
+at *5 (N.D. Cal. Nov. 7, 2022) (“[C]ourts routinely hold that Section 230 immunizes platforms from contract
+claims, where, as here, they seek to impose liability for protected publishing activity [in this case, the
+suspension of his account]”); Kifle v. YouTube LLC, No. 21-CV-01752-CRB, 2021 WL 10331555, at *3–4
+(N.D. Cal. Oct. 5, 2021) (finding the contract claim to be precluded by 230(c)(1) because it sought “to hold
+YouTube liable for removing content,” which is a quintessential publishing function); Morton v. Twitter,
+Inc.,No.CV20-10434-GW-JEMX,2021WL1181753,at *5(C.D.Cal.Feb.19,2021) (“abreachofcontract
+claim premised solely on Twitter’s failure to suspend those accounts would be barred by Section 230 . . .
+because the actions that Morton alleges Twitter failed to take – thereby breaching its duty – are suspending
+a user’s account.”); Zhang v. Twitter Inc., No. 23-CV-00980-JSC, 2023 WL 5493823, at *4 (N.D. Cal. Aug.
+23, 2023) (“Courts routinely hold Section 230 immunizes platforms from contract claims, where, as here,
+they seek to impose liability for protected publishing activity” [in this case, “the suspension of his account
+and the alleged failure to suspend the third-party user’s account”]); Fed. Agency of News LLC v. Facebook,
+Inc.,432 F. Supp. 3d1107,1120(N.D. Cal. 2020) (“Thus, because Plaintiffs’[contract claims] are predicated
+on Facebook’s decision to remove content, Ninth Circuit law under Barnes unambiguously establishes that
+Plaintiffs’ claims treat Facebook as a publisher.”). In contrast, still other courts have found that contract
+claims based on an alleged contractual duty of any kind are not barred by section 230(c)(1). See Enhanced
+Athlete Inc. v. Google LLC, 479 F.Supp.3d 824, 830 (N.D. Cal. 2020) (“[T]he Court finds that Plaintiff's
+cause of action for breach of the implied covenant of good faith and fair dealing is based in contract, and thus
+is not precluded by Section 230(c)(1).”); Berenson v. Twitter, Inc., No. C 21-09818 WHA, 2022 WL
+1289049, *2 (N.D. Cal. Apr. 29, 2022) (“With regard to breach of contract and promissory estoppel, this
+order reads our court of appeals’ Barnes decision to allow those claims to go forward despite Section 230, so
+long as they are properly pleaded under state law.”); Daniels v. Alphabet Inc., No. 20-CV-04687-VKD, 2021
+WL 1222166, at *12 (N.D. Cal. Mar. 31, 2021) (“[D]efendants acknowledged that Section
+230(c)(1) immunity would not apply to a properly pled breach of contract claim”). However, reading Barnes
+together with Calise and Estate of Bride, this court in persuaded that the relevant question is whether there is
+an “outwardly manifested intention” to create an “enforceable promise” by the internet platform. Calise, 103
+F.4th at 743. Accordingly, a contract-based claim would not be blocked by section 230(c)(1) if it alleged a
+specific promise or contract term intended to be enforceable, even if it was based on a quintessential
+publishing activity like removing or failing to remove content. E.g., Berenson, 2022 WL 1289049, at *2
+(finding that defendant’s “specific and direct” assurances to plaintiff about whether his content violated new
+policies created actionable promise on which to base contract claims). On the other hand, a contract term17
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+United States District Court
+Northern District of California
+decision to suspend his accounts and his advertisements. Plaintiff’s claim for breach of contract
+does not properly allege that Defendant entered into a contract intended to overwrite its discretion
+as publisher, and this claim is therefore barred by section 230(c)(1).
+Similarly, Plaintiff’s sixth claim for breach of the implied covenant of good faith and fair
+dealing is also barred by section 230(c)(1), insofar as this claim seeks to hold Defendant liable for
+the suspension of Plaintiff’s accounts and ads, for Defendant’s decision to continue publishing
+other content while removing Plaintiff’s content, and for the frustration of the contract via
+Defendant’s removal of Plaintiff’s content. Any implied promise by Defendant to use “good faith”
+or any general statements in the terms of service/use about its criteria when making editorial
+decisions like removing content is not the type of specific, directed promise that could take this
+claim out from the umbrella of section 230(c)(1), even when the claim is premised on the implied
+covenant of good faith and fair dealing rather than an explicit term. See King v. Facebook, Inc.,
+No. 22-15602, 2023 WL 5318464, at *2 (9th Cir. Aug. 18, 2023) (unpublished) (“The district
+court also properly concluded that King’s breach of the implied covenant of good faith and fair
+dealing claim relating to her account termination was foreclosed by Barnes. . . . The specific
+promise to take down explicit content at issue in Barnes does not compare to the general promise
+made by Facebook, and incorporated into its TOS, to use ‘good faith’ or make an ‘honest’
+determination before deciding to exercise publishing or editorial discretion.”); Shared.com v. Meta
+Platforms, Inc., No. 22-CV-02366-RS, 2022 WL 4372349 (N.D. Cal. Sept. 21, 2022) (“To the
+extent Facebook’s Terms of Service outline a set of criteria for suspending accounts (i.e., when
+accounts have ‘clearly, seriously, or repeatedly’ breached Facebook’s policies), this simply
+restates Meta’s ability to exercise editorial discretion.”). There is no indication from the factual
+relatedtoapublishingactivitydoesnotproperlyformthebasisforacontractclaimwherethereisnomanifest
+intent that the term should be enforceable—section 230(c)(1) applies even though the basis for liability is
+technically the contract rather than the publisher’s status. See King v. Facebook, Inc., No. 22-15602, 2023
+WL 5318464, at *2 (9th Cir. Aug. 18, 2023) (unpublished) (finding that the “specific promise” in Barnes
+was not similar to the “general promise” in the Facebook Terms of Service in the case at issue). Applying
+this distinction to the allegations in this case, the court finds that Plaintiff has failed to demonstrate the type
+of specific, enforceable promise or contract that wouldgo beyond Defendant’s roleas publisher, as explained
+above.18
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+United States District Court
+Northern District of California
+allegations that Defendant made a promise or enforceable contract surrounding the publishing of
+Plaintiff’s content that did more that incorporate its editorial discretion—thus, the contract term or
+goal frustrated by Defendant’s alleged breach of the implied covenant is the same restatement of
+Defendant’s editorial discretion, which the court explained above does not eliminate section
+230(c)(1) limits on liability. Plaintiff’s allegation that Defendant enacted the suspensions “in bad
+faith” does not thwart section 230(c)(1) immunity. See Lewis v. Google LLC, 461 F. Supp. 3d 938,
+953–54 (N.D. Cal. 2020) (explaining that section 230(c)(1) prohibits liability for decisions to
+remove content and that section 230(c)(1) does not have a good faith requirement), aff’d, 851 F.
+App’x 723 (9th Cir. 2021); Levitt v. Yelp! Inc., No. C-10-1321 EMC, 2011 WL 5079526, at *7
+(N.D. Cal. Oct. 26, 2011) (“[Section] (c)(1)’s immunity applies regardless of whether the
+publisher acts in good faith.”). Accordingly, Plaintiff’s Claim Six is also barred to the extent it is
+based on Defendant’s suspension of Plaintiff’s accounts and removal of his content.
+Finally, Plaintiff’s Claim Eight for intentional infliction of emotional distress is also barred
+by section 230(c)(1) to the extent that it is based on Defendant’s removal of his content from its
+platforms. Plaintiff cannot hold Defendant liable for preventing him from accessing its platforms
+to publish content or removing his content, as this would hold them liable for its quintessential
+publishing decisions regarding what information may be published and contained on their
+platforms. See Reaud v. Facebook Inc., No. 23-CV-06329-AMO, 2024 WL 4126066, at *5 (N.D.
+Cal. Sept. 9, 2024) (“[T]o the extent that Reaud’s IIED claim is also based on Facebook ‘blocking’
+him from Facebook, such a claim similarly seeks to hold Facebook liable for its decisions as a
+‘publisher.’”); Karam v. Meta Platforms, Inc., No. 3:25-CV-01397-AMO, 2025 WL 3079048, at
+*2 (N.D. Cal. Nov. 4, 2025) (finding that section 230 barred claim for intentional infliction of
+emotional distress because the claim was “related to Meta’s alleged editorial decisions to suspend
+or ban his account and to permit content posted by other Facebook users”). As such, Claim Eight
+is barred by section 230(c)(1) to the extent that it is based on the loss of Plaintiff’s content and
+Plaintiff’s inability to regain access to his content or accounts.
+Thus, Plaintiff’s Claim One for First Amendment violations, Claim Three for conspiracy
+under section 1985(3), Claim Four for failure to prevent conspiracy under section 1986, Claim19
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+United States District Court
+Northern District of California
+Five for breach of contract, and Claim Seven for discrimination in contracts under section 1981
+are blocked in their entirety by section 230(c)(1); Claim Six for breach of the implied covenant of
+good faith and fair dealing and Claim Eight for harassment and intentional infliction of emotional
+distress are blocked by section 230(c)(1) to the extent they are based on the suspension and
+deletion of Plaintiff’s content and profiles; and Claim Two for Fifth Amendment violations is not
+blocked by section 230(c)(1).
+C. Failure to State a Claim
+In addition to section 230(c)(1) immunity, Defendant argues that Plaintiff’s complaint fails
+to state a plausible claim for each cause of action, and it may be dismissed independently for this
+reason.7
+The court analyzes failure to state a claim for each cause of action in the alternative to
+section 230(c)(1) immunity.
+1. Claims One and Two: Violations of Plaintiff’s Constitutional Rights
+Plaintiff’s first two causes of action allege that Defendant violated his right to free speech
+and his right to due process under the First and Fifth Amendments to the United States
+Constitution. The basis for the First Amendment claim is that “Defendant’s suspension of
+Plaintiff’s advertisements and accounts violated his First Amendment rights to free speech and
+political expression.” (FAC ¶ 28.) Plaintiff’s Fifth Amendment due process claim alleges that
+“Defendant’s failure to provide adequate notice or a functional appeal process for the suspension
+of Plaintiff’s advertisements and accounts violates procedural due process under the Fifth
+Amendment.” (FAC ¶ 33.)
+Both of Plaintiff’s constitutional claims fail because he has not alleged facts showing that
+Defendant Meta is a state actor for constitutional purposes. The First Amendment only prohibits
+the governmental abridgment of speech and does not apply to private actors except in those
+“exceptional cases” where a private party may be considered a state actor for the purposes of an
+alleged constitutional deprivation. Children’s Health Def. v. Meta Platforms, Inc., 112 F.4th 742,
+753 (9th Cir. 2024), cert. denied, 145 S. Ct. 2846 (2025); O’Handley v. Weber, 62 F.4th 1145,
+7
+Because the court finds other grounds for dismissal, the court does not reach Defendant’s argument that its
+own First Amendment rights foreclose Plaintiff’s claims.20
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+United States District Court
+Northern District of California
+1156 (9th Cir. 2023). The Fifth Amendment’s due process clause also applies exclusively to the
+federal government, Bingue v. Prunchak, 512 F.3d 1169, 1174 (9th Cir. 2008), and it is only
+extended to private actors in the rare circumstance that there is “a sufficiently close nexus between
+the (government) and the challenged action of the . . . (private) entity so that the action of the latter
+may be fairly treated as that of the (government) itself.” Rank v. Nimmo, 677 F.2d 692, 701 (9th
+Cir. 1982) (quoting Warren v. Gov’t Nat’l Mortg. Ass’n, 611 F.2d 1229, 1232 (8th Cir. 1980))
+(alterations in original). A private party may be treated as a government actor when it meets both
+the “state policy” requirement, under which the alleged constitutional violation must result from a
+right created by the state or a rule of conduct imposed by the state, and the “state actor”
+requirement, which may be satisfied by showing that “(1) the private actor performs a traditionally
+public function; (2) the private actor is a ‘willful participant in joint activity’ with the government;
+(3) the government compels or encourages the private actor to take a particular action; or (4) there
+is a ‘sufficiently close nexus’ between the government and the challenged action.” Children’s
+Health Def., 112 F.4th at 754 (internal citations omitted).
+Plaintiff has not alleged facts sufficient to show that Defendant acted pursuant to state
+policy or constituted a state actor such that it may be treated as a governmental entity for the
+purposes of his constitutional claims. First, with regards to the state policy requirement,
+Defendant’s suspensions of Plaintiff’s ads and accounts and deletion of his content were
+conducted pursuant to Defendant’s own content moderation policy and Terms of
+Service/Advertising Standards, and there are no facts to suggest those actions are traceable to any
+state-created right or privilege or to a state-imposed rule of conduct. See Children’s Health Def.,
+112 F.4th at 754–55. Plaintiff’s claims that Defendant coordinated with “government-aligned
+entities” to “moderate election-related content” falls far short of the threshold for showing that a
+private actor enforced a government rule rather than its own rules.8
+See O’Handley v. Weber, 62
+8
+Moreover, Plaintiff does not identify any specific government agencies or officials in his complaint apart
+from the Elections Infrastructure Information Sharing and Analysis Center (“EI-ISAC”), which he only
+describes as a “government-aligned” entity. (FAC ¶ 17.) It is not clear from the FAC whether EI-ISAC is
+itself a government agency, or if it is an explicit partnership with a government agency, or if it is an entirely
+separate body that sometimes coordinates with the government, nor is it clear which agency, departments, or
+officials are involved in it. Thus, it is possible that Plaintiff’s complaint alleges no government involvement21
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+United States District Court
+Northern District of California
+F.4th 1145, 1156–57 (9th Cir. 2023) (holding that private company’s removal of a post marked as
+election misinformation by the California Office of Elections Cybersecurity did not establish that
+the company removed the post pursuant to a state-imposed rule); accord Children’s Health Def.,
+112 F.4th at 754–55 (finding that general alignment of government goals with goals or actions of
+private actor does not establish that a government rule or right was the cause of those actions).
+There are no other factual allegations that go beyond these accusations of coordination and
+partnership, and there is nothing to suggest that anything more than the broad alignment of goals
+occurred. As such, Plaintiff has not met the state policy requirement.
+Second, Plaintiff has not alleged any facts sufficient to show that Defendant was a state
+actor. Plaintiff primarily invokes the public function test, arguing that Defendant’s social media
+platforms constitute “public forums” or “modern public squares” such that it performs a traditional
+public function. (Pl.’s Resp. 11–12, Dkt. 52.) However, “merely hosting speech by others is not a
+traditional, exclusive public function and does not alone transform private entities into state actors
+subject to First Amendment constraints.” Manhattan Cmty. Access Corp. v. Halleck, 587 U.S. 802,
+812 (2019); accord Howard v. Am. Online, Inc., 208 F.3d 741, 754 (9th Cir. 2000) (finding that an
+internet information service was not a “quasi-public utility” rendered a state actor for
+constitutional purposes). The Ninth Circuit has recently held that online social media companies
+are not transformed into state actors because of their broad hosting of speech. Prager Univ. v.
+Google LLC, 951 F.3d 991, 996–99 (9th Cir. 2020) (rejecting the argument that YouTube
+performs a public function and is therefore a state actor because (1) hosting speech on a private
+platform is not an activity traditionally performed by the government, (2) the ubiquity of online
+social media does not change the analysis, (3) YouTube did not perform “necessary municipal
+functions,” (4) YouTube is not a public forum, and (5) a private entity does not because a public
+forum by opening its property for public discourse). The reasoning in Prager University applies
+here—Defendant’s operation of Facebook and Instagram does not render it a state actor under the
+public function test. See Zimmerman v. Facebook, Inc., No. 19-CV-04591-VC, 2020 WL
+in the conduct at all. However, reading Plaintiff’s complaint with as much leniency as possible, the court
+presumes that this vagueness may be easily corrected and that the government is at least a part of EI-ISAC.22
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+United States District Court
+Northern District of California
+5877863, at *2 (N.D. Cal. Oct. 2, 2020) (applying the reasoning of Prager University to find that
+Facebook is not rendered a state actor by virtue of providing a “digital town square”).
+In addition, Plaintiff’s allegations are insufficient to meet the joint action, state
+compulsion, and nexus tests. Plaintiffs alleging joint action must show that there has been a
+specific agreement between the private actor and the government such that their actions are
+“inextricably intertwined.” Children’s Health Def., 112 F.4th at 755–56. Plaintiff’s allegation that
+Defendant partnered or coordinated with government-aligned entities that “disproportionately flag
+conservative content” to “moderate election content,” (FAC ¶¶ 17, 29), falls far short of the
+specificity necessary to establish “an agreement or a conspiracy to violate [the plaintiff’s] rights in
+particular.” Id. at 756 (quoting Brunette v. Humane Soc’y of Ventura Cnty., 294 F.3d 1205, 1212
+(9th Cir. 2002)). The FAC does not indicate that there was any express agreement to take
+particular actions with regard to Plaintiff or anyone else. Id. (“Without plausible allegations of an
+agreement to take specific action, we cannot say that Meta’s conduct is fairly attributable to the
+government.”). Plaintiff has also not met the state compulsion test because he did not properly
+allege that the government threatened adverse action or otherwise imposed incentives that
+essentially compelled Defendant to comply with its requests. Children’s Health Def., 112 F.4th at
+759. The FAC alleges only that Defendant partnered with government-aligned entities and that
+Defendant’s actions were “supported by coordinated efforts,” none of which shows coercion by
+the government. Finally, Plaintiff did not allege sufficient facts to satisfy the nexus test, which
+asks “whether ‘there is such a close nexus between the State and the challenged action that the
+seemingly private behavior may be fairly treated as that of the State itself.’” Kirtley v. Rainey, 326
+F.3d 1088, 1095 (9th Cir. 2003) (quoting Brentwood Acad. v. Tenn. Secondary Sch. Athletic Ass’n,
+531 U.S. 288, 295 (2001)). Plaintiff’s allegations are inadequate to meet the high burden of
+showing that Defendant’s actions “are fairly attributable to the state.” Kirtley, 326 F.3d at 1095
+(quoting Sutton v. Providence St. Joseph Med. Ctr., 192 F.3d 826, 836 (9th Cir. 1999)).
+Overall, Plaintiff has failed to “allege facts supporting an inference that the government
+‘is responsible for the specific conduct of which [he] complains.’” Children’s Health Def., 112
+F.4th at 754 (quoting Ohno v. Yasuma, 723 F.3d 984, 994 (9th Cir. 2013)). See also Rogalinski v.23
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+United States District Court
+Northern District of California
+Meta Platforms, Inc., No. 22-16327, 2023 WL 7876519 (9th Cir. Nov. 16, 2023) (unpublished)
+(affirming the district court finding that Meta Platforms was not a state actor based on allegations
+that it coordinated with the government to target online misinformation); Hart v. Facebook, Inc.,
+No. 23-15858, 2024 WL 1693355 (9th Cir. Apr. 19, 2024) (unpublished) (affirming the district
+court holding that Facebook was not a state actor when the allegations only demonstrated
+“consulting and information sharing” with the government on issues of content moderation); Fed.
+Agency of News LLC v. Facebook, Inc., 432 F. Supp. 3d 1107, 1121–27 (N.D. Cal. 2020) (finding
+that Meta was not a state actor under the First Amendment and collecting cases holding the same).
+Plaintiff cannot cure his First Amendment claim because it is separately barred by section
+230. Moreover, there is no indication that he can successfully amend his Fifth Amendment claim
+with facts that would cure the significant deficiencies with regard to state action because the
+entirety of his allegations involving the government pertain to the suppression of his content rather
+than the deficiencies in Defendant’s review and appeal process. As such, his First and Fifth
+Amendment claims are DISMISSED without leave to amend.
+2. Claim Three: Conspiracy under 42 U.S.C. § 1985(3)
+Plaintiff’s Claim Three is for conspiracy to deprive him of his civil rights under 42 U.S.C.
+§ 1985(3). While Plaintiff’s claim is unclear, it appears that he brings this cause of action pursuant
+to the first clause of section 1985(3), which covers conspiracy to deprive “any person or class of
+persons of the equal protection of the laws.”9
+To be successful under this clause of section
+9
+Plaintiff saysin his FACthat Defendant conspiredto deprive him of“equal protection under thelaw,” (FAC
+¶ 36), and he writes in his Response that Defendant conspired “to deprive equal protection,” (Pl.’s Resp. 12,
+Dkt.53),whichinvokes thelanguageof thefirstclauseofsection1985(3).However,helater mentionsvoting
+rights and election interference and cites to cases involving the third clause of section 1985(3), which
+proscribes conspiracies to interfere with the right to support or advocate for candidates in federal elections.
+42 U.S.C. § 1985(3). This third clause, called the Support or Advocacy Clause, has different elements and
+requirements than claims brought under the equal protection clause of section 1985(3). Under the first
+subsection of the Support or Advocacy Clause, a plaintiff must show “(1) a conspiracy; (2) the purpose of
+which is to force, intimidate, or threaten; (3) an individual legally entitled to vote who is engaging in lawful
+activity related to voting in federal elections.” Kennedy v. Meta Platforms, Inc., No. 3:24-CV-02869-WHO,
+2024 WL 4031486, at *13 (N.D. Cal. Sep. 3, 2024) (quoting Nat’l Coal. on Black Civic Participation v.
+Wohl, 498 F. Supp. 3d 457, 486–87 (S.D.N.Y. 2020)). Under the second subsection, a plaintiff must show
+(1) a conspiracy that (2)injured someone for advocating for a candidate for federal office. See Kennedy, 2024
+WL 4031486 at *13. While Plaintiff seems to primarily rely on the Equal Protection clause, the court briefly
+addresses his FAC under the Support or Advocacy Clause factors for the sake of completeness. Plaintiff fails
+to state a claim under this clause for at least three separate reasons: first, he has not alleged facts24
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+United States District Court
+Northern District of California
+1985(3), plaintiffs must prove the following elements: “(1) the existence of a conspiracy to
+deprive the plaintiff of the equal protection of the laws; (2) an act in furtherance of the
+conspiracy[;] and (3) a resulting injury.” Addisu v. Fred Meyer, Inc., 198 F.3d 1130, 1141 (9th
+Cir. 2000). Although section 1985(3) has been interpreted to reach private conspiracies to violate
+constitutionally protected rights, conspiracy claims based on alleged violations of First
+Amendment rights must show either that the state was directly involved in the conspiracy or that
+the conspiracy intended to influence the activity of the state.10
+United Bhd. of Carpenters &
+Joiners of Am., Loc. 610 v. Scott, 463 U.S. 825, 830–31 (1983).
+Plaintiff’s section 1985(3) claim fails for multiple independent reasons. First, he has failed
+to state a claim for an underlying constitutional violation, which is essential to a section 1985(3)
+claim. See, e.g., Kay v. Placer Cnty., 219 F. App’x 679, 682 (9th Cir. 2007); Peloza, 37 F.3d at
+524 (“[Plaintiff’s] allegations are insufficient to support a claim based on a violation of his
+constitutional rights of free speech and due process. Accordingly, his allegations of a conspiracy to
+violate these constitutional rights do not state a claim.”). Moreover, Plaintiff has failed to show
+that he is part of a protected class under the first clause of section 1985(3). The Supreme Court has
+interpreted the “equal protection” language of section 1985(3) to mean “that there must be some
+demonstrating a conspiracy of any kind, as the court explains in the main text; second, he has not alleged any
+facts to show that any individual voter was forced, intimidated, or threatened because of their voting or their
+lawful activity supporting or advocating for a candidate; and third, Plaintiff was a candidate for state office
+in a state election, rather than a federal election, so advocacy related to his campaign is not covered by the
+second subsection. See Kennedy, 2024 WL 4031486 at *10–14 (analyzing section 1985(3) in case brought
+over Meta’s content moderation effecting a presidential campaign account); Gaetz v. City of Riverside, 722
+F. Supp. 3d 1054, 1072–74 (C.D. Cal. 2024) (“Here, Plaintiffs fail to allege that any specific voter was
+intimidated from providing their support or advocacy to Plaintiffs’ reelection campaigns, nor did they allege
+facts that show how a reasonable voter could be intimidated.”).
+10
+It appears that the alleged First Amendment violations are the primary object of the claimed conspiracy,
+but it is not clear whether Plaintiff intended for the alleged conspiracy to cover other conduct like the claimed
+due process violations. Caselaw in the Ninth Circuit is mixed on the viability of section 1985(3) conspiracy
+claims based on Fifth Amendment deprivations, Peloza v. Capistrano Unified Sch. Dist., 37 F.3d 517, 524
+n.8 (9th Cir. 1994), but even if Plaintiff intended to include the Fifth Amendment violations and that would
+be a permissible basis for conspiracy claims, he would still be required to show direct government
+involvement in the conspiracy because the Fifth Amendment also applies only to government conduct. Scott,
+463 U.S. at 833 (“Because that Amendment restrains only official conduct, to make out their § 1985(3) case,
+it was necessary for respondents to prove that the state was somehow involved in or affected by the
+conspiracy.”).25
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+United States District Court
+Northern District of California
+racial, or perhaps otherwise class-based, invidiously discriminatory animus behind the
+conspirators’ action.” Griffin v. Breckenridge, 403 U.S. 88, 102 (1971). In elaborating on the
+bounds of “otherwise class-based” animus proscribed by this section, the Supreme Court has held
+that bias on account of economic views or status is not covered, and has opined that it is a “close
+question” whether the section may “be construed to reach conspiracies aimed at any class or
+organization on account of its political views or activities.” Scott, 463 U.S. at 837. The Ninth
+Circuit has further narrowed this analysis to require that plaintiffs bringing section 1985(3)
+conspiracy claims allege that they are members of a class that “the courts have designated . . . a
+suspect or quasi-suspect classification requiring more exacting scrutiny or that Congress has
+indicated through legislation . . . require[s] special protection.” Schultz v. Sundberg, 759 F.2d 714,
+718 (9th Cir. 1985); accord Sever v. Alaska Pulp Corp., 978 F.2d 1529, 1536–37 (9th Cir. 1992)
+(quoting Schultz for the general rule that classes under section 1985(3) must show that there is a
+governmental determination that class members require special assistance in protecting their civil
+rights).
+Defendant alleges in his complaint that he was targeted for being a “conservative,” (FAC ¶
+36), that he was targeted for “promoting conservative principles,” (FAC ¶ 28), that the conspiracy
+was “part of a broader effort to suppress conservative voices,” (FAC ¶ 39), and that Defendant
+“target[ed] conservative content,” (FAC ¶ 45). He makes no mention of any other class besides
+“political conservatives” or “people who express politically conservative viewpoints,” nor does he
+allege that he was targeted for being a member of the Republican party. He does not identify any
+determination by the courts or by Congress that such a class requires special protection, and
+Plaintiff makes no argument that he is part of a class with governmentally-determined protection,
+only repeating his conclusory allegations that Defendant conspired to “deprive equal protection”
+and that “bias evidence” supports this conclusion. (Pl.’s Resp. 12, Dkt. 52.) This is insufficient to
+meet the class-based animus requirement of a section 1985(3) claim for conspiracy to deprive
+Plaintiff of equal protection.11
+11
+There is disagreement between the circuits as to whether political groups can constitute protected classes
+under section 1985(3), and the Ninth Circuit has yet to address this question. Pasadena Republican Club v.26
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+United States District Court
+Northern District of California
+Finally, Plaintiff has failed to allege a conspiracy because he has not alleged facts to
+support his allegation, and “[a] mere allegation of conspiracy without factual specificity is
+insufficient.” Karim-Panahi v. Los Angeles Police Dep’t, 839 F.2d 621, 626 (9th Cir. 1988). The
+FAC says the following about the alleged conspiracy: “Defendant’s actions were facilitated by
+partnerships with government-aligned entities, such as the Elections Infrastructure Information
+Sharing and Analysis Center (EI-ISAC), and third-party fact-checking organizations like
+PolitiFact, which disproportionately flag conservative content, implicating state action.” (FAC ¶
+17.) Defendant’s conspiracy with “third-party fact-checkers and government-aligned entities”
+allegedly involved “regular coordination with federal and state officials to moderate election-
+related content,” and Plaintiff’s evidence for this conspiracy includes “Defendant’s selective
+enforcement, inconsistent fact-checker emails, and Zuckerberg’s admission of bias, supported by
+coordinated efforts with fact-checkers and EI-ISAC.” (FAC ¶¶ 29, 36.) These allegations do not
+constitute the type of specific factual allegations required to plausibly allege a conspiracy—no
+timeline is established, no persons involved are identified except Mr. Zuckerberg, no objective is
+identified or defined beyond “flag[ging]” conservative content and moderating election-related
+content, and no “meeting of the minds” or “agreement” is described with any level of detail
+beyond cursory legal conclusions.12
+See Steshenko v. Albee, 70 F. Supp. 3d 1002, 1015–16 (N.D.
+W. Just. Ctr., 424 F. Supp. 3d 861, 878 (C.D. Cal. 2019), aff’d, 985 F.3d 1161 (9th Cir. 2021) (“It does not
+appear that the Ninth Circuit has addressed whether § 1985(3) reaches conspiracies motivated by political or
+religious animus”). Compare Cameron v. Brock, 473 F.2d 608, 610 (6th Cir. 1973) (politically motivated
+animus covered), with Farber v. City of Paterson, 440 F.3d 131, 138–40 (3d Cir. 2006) (political animus not
+covered). District courts in the Ninth Circuit have reached different conclusions on this question. Compare
+Dodge v. Evergreen Sch. Dist. No. 114, No. 3:20-CV-05224-RBL, 2020 WL 4366054, at *4–5 (W.D. Wash.
+July 30, 2020) (political affiliation not a covered group), with Stevens v. Rifkin, 608 F. Supp. 710, 722–26
+(N.D. Cal. 1984) (animus based on political association is covered). Because Plaintiff has failed to allege
+constitutional violations, and given that the recent trend has been against the extension of section 1985(3) to
+a greater number of possible classes, that Plaintiff fails to make an argument as to why his vague class of
+“conservatives” qualifies for protection under the statute, and that there is no clear Ninth Circuit authority on
+the matter, this court does not find a reason to extend section 1985(3) to cover animus based on “political
+viewpoint.” See Dodge, 2020 WL 4366054, at *5.
+12
+Moreover, these allegations fail to allege the conspiracy’s “intent” to deprive equal protection based on
+“invidiously discriminatory animus.” See Bray v. Alexandria Women’s Health Clinic, 506 U.S. 263, 274–75
+(1993) (reiterating that the conspiracy must be “for the purpose” of denying equal protection “because of”
+the adverse effects of such denial on an identifiable group). Plaintiff alleges only that Defendant partnered
+with other entities to moderate election content online, and that this moderation was selectively enforced and
+these partnering groups “disproportionately flag” conservative content—this does not demonstrate that the27
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+United States District Court
+Northern District of California
+Cal. 2014) (finding that sufficient conspiracy allegations in the Ninth Circuit should include the
+alleged specific agreement between the conspirators, the scope of the conspiracy, the role of the
+defendants in the conspiracy, how the conspiracy operated, when the conspiracy operated, and
+how the acts taken against the plaintiff furthered the conspiracy).
+While it may be possible for Plaintiff to allege further facts about the claimed conspiracy,
+there is no indication from the complaint that Plaintiff intends to allege any other group
+classification that would qualify under section 1985(3), and he cannot successfully amend his First
+Amendment constitutional claim. As such, Claim Three is DISMISSED without leave to amend.
+3. Claim Four: Failure to Prevent Conspiracy under 42 U.S.C. § 1986
+Plaintiff’s fourth claim is brought pursuant to 42 U.S.C. § 1986. Section 1986 “provides a
+cause of action for damages where a valid claim for relief has been stated under section 1985.”
+I.H. by & through Hunter v. Oakland Sch. for Arts, 234 F. Supp. 3d 987, 994 (N.D. Cal. 2017);
+accord Karim-Panahi, 839 F.2d at 626. Because Plaintiff failed to state a valid claim under
+section 1985(3), he has also failed to state a claim under section 1986; similarly, because he
+cannot successfully amend his section 1985(3) claim, Claim Four is DISMISSED without leave to
+amend.
+4. Claim Five: Breach of Contract
+Plaintiff’s fifth claim for breach of contract alleges that Defendant entered into an implied
+contract with Plaintiff by accepting his payment of $653.00 in exchange for approving his
+advertisements to run for a ten-day period, and that Defendant breached that contract by
+suspending the advertisements after only one partial day. (FAC ¶ 42.) As an initial matter,
+Plaintiff’s claim fails because it is premised on an implied contract that is superseded by the
+express, written contract between the parties. “[I]t is well settled that an action based on an
+implied-in-fact or quasi-contract cannot lie where there exists between the parties a
+conspiracy was acoordinated, purposeful effort totarget conservativesbecausethey are conservatives. While
+Plaintiff alleges that his ads were flagged “as part of a broader effort to suppress conservative voices,” the
+wording is not clear whether Defendant agreed to be part of that effort or whether the third-party groups
+flagged his ads because of his viewpoints and Defendant did not object. Allegations of conspiracy require
+greater clarity to properly put defendants on notice of the claims against them.28
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+United States District Court
+Northern District of California
+valid express contract covering the same subject matter.” Be In, Inc. v. Google Inc., No. 12–CV–
+03373–LHK, 2013 WL 5568706, at *5 (N.D. Cal. Oct. 9, 2013) (quoting Lance Camper Mfg.
+Corp. v. Republic Indem. Co., 51 Cal. Rptr. 4th 622, 628 (Cal. Ct. App. 1996)). In such
+circumstances, the express contract controls. Here, although Plaintiff does not discuss the express
+contracts in his complaint, there is judicially-noticed evidence of express contracts between the
+parties in the form of Meta’s Terms of Service, Instagram’s Terms of Use, and Meta’s Advertising
+Standards. Plaintiff’s claim that Defendant’s acceptance of his payment created an implied
+contract by which they agreed to run his ads is directly contradicted by the Advertising Standards
+and terms of service/use, which reserve to Defendant the ability to reject or restrict advertisements
+“for violation of [its] policies at any time.” (Duffy Decl. Ex. C, Dkt. 50-4, at 4.) Plaintiff’s alleged
+implied contract thus covers the same subject matter (Defendant’s conditions for running the
+ads)13
+and requires a different result than the express contract, which is not allowed under
+California contract law. See O’Connor v. Uber Techs., Inc., 58 F. Supp. 3d 989, 1001 (N.D. Cal.
+2014) (finding that the plaintiffs’ breach of contract claim failed because the judicially-noticed
+Terms and Conditions were an express contract superseding the alleged implied contract).
+Accordingly, Plaintiff has failed to state a claim for breach of contract.
+However, even if the court liberally interprets Plaintiff’s breach of contract claim to be
+based on the Terms of Service/Use and the Advertising Standards (rather than an implied
+contract), the claim would still fail because it fails to state a plausible claim.14
+If Plaintiff’s
+contract claim had been properly brought pursuant to the express contract, it would be barred by
+the terms of that contract, which give Defendant the right to review and remove his content at any
+time.15
+(E.g., Duffy Decl. Ex. C, Dkt. 50-4, at 20 (“We reserve the right to reject, approve or
+13
+Plaintiff also states that Defendant’s conduct created an implied contract promising fair and transparent
+enforcement, although he does not describe how this element of the implied contract was violated beyond
+the suspension of his accounts as part of the breach of contract claim. In any case, this subject matter—
+Defendant’s enforcement of its conditions for hosting content—is also covered by the express contract, and
+this alleged implied term cannot support a claim for implied contract.
+14
+Under California law, a cause of action for breach of contract must allege (1) a contract; (2) the plaintiff’s
+performance or excuse for nonperformance; (3) the defendant’s breach; and (4) the resulting damages to the
+plaintiff. Oasis W. Realty, LLC v. Goldman, 250 P.3d 1115, 1121 (Cal. 2011).
+15
+The Meta Terms of Service include the following provisions: “If we determine, in our discretion, that you29
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+United States District Court
+Northern District of California
+remove any ad for any reason, in our sole discretion. . .”).) As for the contract allegations tending
+toward showing a breach based on an implied promise to operate with fairness and transparency,
+the express contract once again controls, and no specific contract terms have been identified as the
+basis of the breach. Coronavirus Rep. v. Apple, Inc., 85 F.4th 948, 957 (9th Cir. 2023) (plaintiffs
+did not state a claim for breach of contract where they did not identify the relevant specific
+provisions of the “developer agreement” or show how the contract was breached). Moreover,
+Plaintiff has not alleged facts that would support finding any of the various policies in Defendant’s
+Terms of Service/Use and Advertising Standards to be enforceable promises under California
+contract law. See Caraccioli v. Facebook, Inc., 167 F. Supp. 3d 1056 (N.D. Cal. 2016) (“[W]hile
+Facebook’s Terms of Service ‘place restrictions on users’ behavior,’ they ‘do not create
+have clearly, seriously, or repeatedly breached our Terms or Policies, including in particular the Community
+Standards, we may suspend or permanently disable your access to Meta Company Products, and we may
+permanently disable or delete your account. We may also disable or delete your account if you repeatedly
+infringe other people’s intellectual property rights or where we are required to do so for legal reasons. . . .
+Where we take such action we’ll let you know and explain any options you have to request a review, unless
+doing so may expose us or others to legal liability; harm our community of users; compromise or interfere
+with the integrity or operation of our services, systems, or Products; where we are restricted due to technical
+limitations; or where we are prohibited from doing so for legal reasons.” (Duffy Decl. Ex. A, Dkt. 50-2, at
+6.) The same language applies to the removal or restriction of user content. (Id. at 4.) The Instagram Terms
+of Use read as follows: “We can remove any content or information you share on the Service if we believe
+that it violated these Terms of Use, our policies (including our Instagram Community Guidelines), or we are
+permitted or required to do so by law. We can refuse to provide or stop providing all or part of the Service to
+you (including terminating or disabling your access to the Meta Products and Meta Company Products)
+immediately to protect our community or services, or if you create risk or legal exposure for us, violate these
+Terms of Use or our policies (including our Instagram Community Guidelines), if you repeatedly infringe
+other people’s intellectual property rights, or where we are permitted or required to do so by law. . . . If you
+believe your account has been terminated in error, . . . consult our Help Center.” (Duffy Decl. Ex. B., Dkt.
+50-3, at 5.) Finally, Meta’s Advertising Standards include the following language: “We use automated and,
+in some instances, manual review to enforce our policies. Beyond reviewing individual ads, we also monitor
+and investigate advertiser behavior, and may restrict advertiser accounts that don’t follow our Advertising
+Standards, Community Standards, or other Meta policies and terms. Our review process may not detect all
+policy violations, and ads remain subject to review and re-review and may be rejected for violating our
+policies at any time. It is an advertiser’s responsibility to understand and comply with our terms and
+guidelines, in addition to all local laws, regulations and, where applicable, self-regulatory advertising codes.
+Advertisers whose ads are rejected will typically be provided an opportunity to edit their ads in order to bring
+them intocomplianceandcanrequestanotherreviewiftheybelievetheiradwasincorrectlyrejected.”(Duffy
+Decl. Ex. C, Dkt. 50-4, at 3.) It repeats these basic premises later, with additions: “Ads remain subject to
+review and re-review at all times, and may be rejected or restricted for violation of our policies at any time.
+. . If you believe the ad, ad account, user account, Page or Business Account was incorrectly rejected or
+restricted, you can request a review of the decision in Account Quality.” (Id. at 4–5.) Election-specific ads
+are also subject to restrictions under the Advertising Standards: “Advertisers can run ads about social issues,
+elections or politics, provided the advertiser complies with all applicable laws and the authorization process
+required by Meta. Meta may restrict issue, electoral, or political ads. In addition, certain content related to
+elections may be prohibited by local law or remove in specific regions ahead of voting.” (Id. at 14.)30
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+United States District Court
+Northern District of California
+affirmative obligations.’” (quoting Young v. Facebook, Inc., No. 5:10-CV-03579-JF/PVT, 2010
+WL 4269304, at *3 (N.D. Cal. Oct. 25, 2010)); Goddard v. Google, Inc., 640 F. Supp. 2d 1193,
+1200 (N.D. Cal. 2009) (“Under California law, ‘if a contract is to be a basis of liability for the
+defendant’s violation of [its own terms and conditions] . . . , it must be a contract in which the
+defendant promises to abide by [these terms].’” (edited for clarity) (quoting Souza v. Westlands
+Water Dist., 38 Cal. Rptr. 3d 78, 89 (Cal. Ct. App. 2006)). Cf. King v. Facebook, Inc., 572 F.
+Supp. 3d 776, 789 (N.D. Cal. 2021) (finding that plaintiff had minimally shown that “it [was]
+plausible that Facebook is obligated to provide at least some information in addition to the fact
+that the account has been suspended or terminated”).
+While the language of the Terms of Service/Use and Advertising Standards do not seem to
+create the kind of enforceable promise necessary for this claim—for example, by stating that
+advertisers whose ads are rejected will “typically” have an opportunity to request review—the
+court cannot say at this juncture that Plaintiff cannot successfully amend this claim to identify the
+specific provisions that were breached. Additionally, although the breach of contract claim as
+written is blocked by section 230(c)(1), it is possible for Plaintiff to amend this claim such that
+section 230(c)(1) would not apply. As such, Plaintiff’s claim for breach of contract is
+DISMISSED with leave to amend to the extent that it is not barred by section 230(c)(1).
+5. Claim Six: Breach of the Implied Covenant of Good Faith and Fair Dealing
+Plaintiff’s sixth claim states that Defendant violated the implied covenant of good faith and
+fair dealing “by suspending Plaintiff’s ads and accounts in bad faith, without providing specific
+violations despite appeals, and targeting conservative content while allowing similar ads from
+other viewpoints.” (FAC ¶ 45.) Plaintiff has failed to state a claim for breach of the implied
+covenant of good faith and fair dealing based on both the suspension and deletion of his content
+and accounts and based on Defendant’s process for notifying him of their publishing decisions and
+responding to his appeals.
+The implied covenant of good faith and fair dealing is tied to an existing specific
+contractual obligation—it is well established that “the scope of conduct prohibited by the covenant
+of good faith is circumscribed by the purposes and express terms of the contract.” Carma Devs.31
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+United States District Court
+Northern District of California
+(Cal.), Inc. v. Marathon Dev. California, Inc., 826 P.2d 710, 727 (Cal. 1992); accord Lewis v.
+Google LLC, 461 F. Supp. 3d 938, 961 (N.D. Cal. 2020). In California, claims for breach of this
+implied covenant must allege the specific contract term that was frustrated by Defendant’s
+conduct. This claim suffers from the same deficiencies as the breach of contract claim—he has not
+identified the specific contract provisions that were thwarted, and he has not alleged facts to
+support the finding that those provisions were enforceable contract terms rather than general
+policies. Moreover, the implied covenant of good faith and fair dealing cannot require a party to
+go beyond the terms of a contract and cannot contradict the express terms. See Song fi Inc. v.
+Google, Inc., 108 F. Supp. 3d 876, 885 (N.D. Cal. 2015) (“[I]f defendants were given the right to
+do what they did by the express provisions of the contract there can be no breach.” (quoting
+Carma Devs., 826 P.2d at 728)). Here, Defendant’s Advertising Standards specifically give
+Defendant the right to reject ads “for any reason, in [its] sole discretion.” (Duffy Decl. Ex. C, Dkt.
+50-4, at 14.) Thus, Defendant is explicitly allowed under the terms of the contract to reject
+Plaintiff’s ads for any reason whenever it wants.
+Finally, Plaintiff’s claims that Defendant violated the implied covenant through its non-
+functional appeals process is also not borne out by the facts as alleged. Plaintiff states that he
+replied to the emails about the suspension of his ads requesting further information and that the
+links to the appeals portal were broken, and that despite his entreaties he was never given further
+explanation as to the rejections of his content. While this is unfortunate, the Advertising Standards
+explicitly include the means for requesting review of ad rejections—through requesting a review
+“in Account Quality”—and do not guarantee that requests for review will be granted or that
+specific violations information will be provided to advertisers. (Id. at 5.) “[I]t is well settled the
+implied covenant does not extend so far as to impose enforceable duties that are beyond the scope
+of the contract, nor does the covenant prohibit actions that are expressly authorized by the
+contract’s terms.” Jenkins v. JPMorgan Chase Bank, N.A., 156 Cal. Rptr. 3d 912, 935 (2013), as
+modified (June 12, 2013), disapproved of on other grounds by Yvanova v. New Century Mortg.
+Corp., 365 P.3d 845 (Cal. 2016). The express contract here does not require that Plaintiff be given
+detailed information or an opportunity to appeal if his ads are rejected, and it expressly allows32
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+United States District Court
+Northern District of California
+Defendant to reject ads for any reason in its sole discretion. Without more, the factual assertions
+do not state a claim for breach of the implied covenant of good faith and fair dealing. As with the
+breach of contract claim, although the court is skeptical that Plaintiff can successfully amend this
+claim, it cannot be categorically ruled out. As such, Claim Six is DISMISSED with leave to
+amend.
+6. Claim Seven: Discrimination in Contracts under 42 U.S.C. § 1981
+Plaintiff’s seventh claim alleges that Defendant violated 42 U.S.C. § 1981 because
+“Defendant’s actions—approving his ads, accepting payment, then suspending them without cause
+while permitting liberal ads—denied him equal contractual rights, motivated by viewpoint bias.”
+(FAC ¶ 48.) Section 1981 prohibits only racial discrimination in the making and enforcement of
+private contracts. E.g., Shah v. Mt. Zion Hosp. & Med. Ctr., 642 F.2d 268, 272 (9th Cir. 1981).
+Plaintiff has not alleged any facts to suggest that Defendant racially discriminated against him or
+that his race was the reason he was allegedly denied equal contractual rights, and thus he has failed
+to state a claim under section 1981. Plaintiff’s complaint contains no hint that he could amend this
+claim to allege racial discrimination, and this claim is barred by section 230(c)(1); accordingly,
+Claim Seven is DISMISSED without leave to amend.
+7. Claim Eight: Harassment and Intentional Infliction of Emotional Distress
+Plaintiff’s final claim is for harassment and intentional infliction of emotional distress
+(“IIED”) due to “Defendant’s ongoing pattern of sending threatening and harassing emails after
+the permanent suspension of Plaintiff’s accounts.” 16
+(FAC ¶ 50.) He alleges that these emails
+16
+Because it is not entirely clear whether Plaintiff is stating two causes of action (harassment and IIED) or if
+he is stating an IIED claim based on harassment, the court notes that there is no common law tort of
+“harassment” recognized in California. McCree v. State of Cal. Dep’t of Conservation, No. 12-CV-04127-
+JST, 2014 WL 1936504, at *6 (N.D. Cal. May 14, 2014) (“California courts do not recognize a common law
+tort of harassment.”). If Plaintiff intended to bring statutory harassment claim pursuant to California Code of
+Civil Procedure § 527.6, which allows persons who have suffered harassment to seek temporary restraining
+orders and injunctions against such behavior, he has not made it clear that this was his intent. Moreover, even
+if this claim cited section 527.6, it would still fail to state a claim—for the same reasons that the IIED claim
+fails as described below, Defendant’s alleged conduct does not amount to civil harassment as statutorily
+defined, which requires “unlawful violence, a credible threat of violence, or a knowing and willful course of
+conduct directed at a specific person that seriously alarms, annoys or harasses the person, and that serves no
+legitimate purpose.” Cal. Code Civ. Proc. § 527.6(b)(3). See Copelin v. Athene Annuity & Life Co., No. 2:25-
+CV-00832-SB-JPR, 2025 WL 2551079, at *3 (C.D. Cal. July 31, 2025) (“Even assuming that this special
+stateprocedure[undersection527.6]couldbetreatedasacauseofactioncognizableinfederalcourt,Plaintiff33
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+United States District Court
+Northern District of California
+caused him “severe emotional distress,” which “was compounded by the loss of irreplaceable
+personal content and the public reputational harm from false allegations of policy and copyright
+violations.” (FAC ¶ 51.)
+Despite the fact that section 230(c)(1) does not serve as a total bar to this claim, Plaintiff
+still fails to state a claim on which relief can be granted. “A cause of action for intentional
+infliction of emotional distress exists when there is ‘(1) extreme and outrageous conduct by the
+defendant with the intention of causing, or reckless disregard of the probability of causing,
+emotional distress; (2) the plaintiff’s suffering severe or extreme emotional distress; and (3) actual
+and proximate causation of the emotional distress by the defendant’s outrageous conduct.’” Reaud
+v. Facebook Inc., No. 23-CV-06329-AMO, 2024 WL 4126066 (N.D. Cal. Sept. 9, 2024) (quoting
+Hughes v. Pair, 209 P.3d 963, 976 (Cal. 2009)). Conduct is outrageous if it is so extreme that it is
+outside the bounds of what is tolerated in a civilized community. Zhang v. Twitter Inc., No. 23-
+CV-00980-JSC, 2023 WL 5493823, at *6 (N.D. Cal. Aug. 23, 2023); Corales v. Bennett, 567 F.3d
+554, 571 (9th Cir. 2009). Moreover, “[a]n IIED claim ‘calls for intentional, or at least reckless
+conduct—conduct intended to inflict injury or engaged in with the realization that injury will
+result.’” Reaud, 2024 WL 4126066, at *3 (quoting Davidson v. City of Westminster, 649 P.2d 894,
+901 (Cal. 1982)).
+Plaintiff has not identified any conduct by Defendant beyond the sending of five emails:
+two of the emails were identical, informing Plaintiff that his accounts or advertisements had been
+identified as and restricted for using copyrighted music; four of the messages informed Plaintiff of
+Defendant’s findings upon reviewing the content; and one sent “on behalf of Universal Music
+Group” included information about the penalties for violations of copyright law and the possibility
+of a lawsuit. (FAC ¶ 13.) None of this conduct plausibly rises to the level of “outrageous”
+behavior. There are also no facts alleged to support the contention that Defendant’s conduct was
+intended to injure or committed with the knowledge that sending such emails was likely to cause
+has neither alleged harassment as defined by the statute nor sought relief authorized by the statute, as she
+seeks monetary damages”); Rockridge Tr. v. Wells Fargo, N.A., 985 F. Supp. 2d 1110, 1155–56 (N.D. Cal.
+2013) (dismissing claim brought under 527.6 where “[n]one of the conduct amounts to civil harassment,” in
+part because there was no allegation that conduct lacked legitimate purpose).34
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+United States District Court
+Northern District of California
+extreme emotional distress, and the allegations regarding Plaintiff’s emotional reaction are
+barebones. These allegations are insufficient to give rise to the inference that Defendant is liable
+under this tort claim. As such, he has failed to state a plausible claim for IIED on which relief may
+be granted and Claim Eight is DISMISSED. However, to the extent that this claim is not barred by
+section 230(c)(1), the court grants Plaintiff leave to amend.
+CONCLUSION
+For the foregoing reasons, Defendant’s Motion to Dismiss is GRANTED. Claims 1, 2, 3,
+4, and 7 are DISMISSED without leave to amend. Plaintiff is GRANTED leave to amend Claims
+5, 6, and 8, to the extent that these claims are not barred by Section 230(c)(1) in accordance with
+this Order. Plaintiff has thirty (30) days from the entry of this Order to file any amended
+complaint. Failure to file an amended complaint will result in the dismissal of this action.
+IT IS SO ORDERED.
+Dated: April 28, 2026
+ROBERT M. ILLMAN
+United States Magistrate Judge

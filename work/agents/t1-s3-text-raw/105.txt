@@ -1,0 +1,247 @@
+1
+UNITED STATES DISTRICT COURT
+WESTERN DISTRICT OF OKLAHOMA
+JANE DOE 1, et al., )
+)
+Plaintiffs, )
+)
+v. ) No. CIV-22-992-R
+)
+MOUNT SAINT MARY HIGH SCHOOL )
+CORPORATION OF THE STATE OF )
+OKLAHOMA, an Oklahoma corporation; )
+et al., )
+)
+Defendants )
+ORDER
+This matter is before the Court on a February 24, 2026 order directing Plaintiffs’
+counsel to show cause as to why they should not be sanctioned for violating Rule 11.
+Plaintiffs’ and Defendants each filed a written response to the show cause order and the
+CourtheldahearingonMarch31,2026.Aftercarefullyreviewingthefullrecord,theCourt
+finds as follows.
+Introduction
+This matter concerns an issue that has unfortunately become all too common: an
+attorney’s violation of her ethical and professional responsibilities via the inclusion of fake
+or misleading case citations in a legal brief. The proliferation of this issue is the result of
+Case 5:22-cv-00992-R Document 177 Filed 05/13/26 Page 1 of 112
+some attorneys misusing new technological tools – specifically generative AI – to prepare
+legal briefs.1
+In this Court’s opinion, the legal profession’s growing reliance on the use of
+generative AI to prepare legal briefs is profoundly troubling for two reasons. The primary
+reason is that there is a willingness by some attorneys (too many) to use generative AI to
+draft briefs without verifying the accuracy of the content, leading to the inclusion of fake
+cases and misleading arguments. This conduct is a patent violation of an attorney’s ethical
+and professional responsibilities.
+The second reason is that the preparation of a persuasive legal brief requires more
+than just citation to accurate cases – it requires the exercise of sound judgment. An attorney
+must make a host of reasoned decisions, such as what arguments should be included, how
+the arguments should be organized, which authority is most pertinent, how conflicting facts
+should be addressed, what should be culled and what should be emphasized, and so on.
+The arguments are strengthened, and the writer’s judgment is honed, by the writing process
+itself, i.e. the act of researching, drafting, deliberating, and revising the brief. When all of
+those tasks are outsourced to generative AI, something essential is surely lost, even if an
+attorney makes a cursory check of the case citations on the back end.
+In any event, until instructed otherwise, the Court accepts and follows the Tenth
+Circuit’s pronouncement that “there is nothing inherently problematic with the use of
+1
+See Lexos Media IP, LLC v. Overstock.com, Inc., No. 22-2324-JAR, 2026 WL 265581, at *12 (D. Kan.
+Feb. 2, 2026) (“The sheer amount of case law that has erupted over the last few years due to attorneys’
+relianceonunverifiedgenerativeAIresearch,oftengeneratinghallucinatedlegal authority,isstaggering.”).
+Case 5:22-cv-00992-R Document 177 Filed 05/13/26 Page 2 of 113
+GenAI in the practice of law.” Amarsingh v. Frontier Airlines, Inc., No. 24-1391, 2026 WL
+352016, at *6 (10th
+Cir. Feb. 9, 2026). And, as another judge aptly stated, the real issue
+here “is not about technology. It is about trust.” Mattox v. Prod. Innovations Rsch., LLC,
+807 F. Supp. 3d 1341, 1343 (E.D. Okla. 2025). As detailed below, attorney Rachel Bussett
+broke that trust and violated the standards outlined in Federal Rule of Civil Procedure 11.
+Pertinent Background
+Plaintiffs’ filed a response brief [Doc. No. 115] in opposition to two separate
+motions to compel. The response brief was signed and filed by Plaintiffs’ counsel, Rachel
+Bussett.2
+The response was stricken because the document that was filed included
+comments and editing notions indicating that it was a draft brief. The response was re-filed
+[Doc. No. 116] without the notations. Although the response was untimely, Ms. Bussett
+did not seek leave to file the response or provide any explanation for the delay.
+Defendants filed separate reply briefs [Doc. Nos. 121, 122] pointing out that
+Plaintiffs’ response was late, included reference to legal authorities that were either
+nonexistent or misleading, made inflammatory and inappropriate attacks on defense
+counsel, and referenced material that was subject to a Protective Order. Defendant MSM’s
+briefing also implied that Plaintiffs’ counsel was not being forthright about when they
+2
+This case has already been pending for over three years. At various points, other attorneys have appeared
+and then withdrawn as counsel for Plaintiffs. However, Ms. Bussett initiated this case on Plaintiffs’ behalf
+and has represented Plaintiffs throughout the case. In addition to Ms. Bussett, Plaintiffs are also currently
+represented by Laura Reasons. Because Ms. Bussett prepared the filings at issue, the Court does not find
+that Rule 11 sanctions should be imposed on Ms. Reasons. Plaintiffs are also currently represented by
+Mbilike Mwafulirwa. Mr. Mwafulirwa entered his appearance after the Court issued the show cause order
+and was retained to provide additional support and oversight. Accordingly, nothing in this order is directed
+toward Mr. Mwafulirwa.
+Case 5:22-cv-00992-R Document 177 Filed 05/13/26 Page 3 of 114
+mailed their responses to Defendant MSM’s requests for admission. Defendant MSM
+explained that, even though counsel had previously agreed to electronic service of all
+documents and had sent multiple emails about the status of the responses, Ms. Bussett
+opted to mail Plaintiffs’ responses to Defendant MSM’s Requests for Admission. The
+mailing raised concern because the responses arrived over two weeks past the deadline and
+over two weeks from the date they were purportedly mailed according to the Certificate of
+Service.
+Plaintiffs then filed a Motion for Leave [Doc. No. 128]3
+seeking permission to file
+their response brief out of time and to substitute the response brief with an amended
+response. The motion was signed and filed by Ms. Bussett. The motion deflected
+responsibility for the briefing errors, offered an absurd explanation for the inclusion of fake
+cases, and included numerous statements that proved to be false, including that Plaintiffs’
+counsel “personally reviewed the authorities cited in the brief,” “the cases cited were real
+published decisions, not fabricated or AI-generated,” and the errors relate to quotation
+“formatting and confirmation.” To put it plainly, Ms. Bussett included fake citations in a
+brief and when she got caught, she tried to cover it up.
+This conduct is not an isolated occurrence. In another action pending before the
+undersigned, Ms. Bussett submitted a response brief that included nonexistent and
+misleading case citations. See Crist v. West, CIV-25-1446-R (W.D. Okla.), Doc. No. 16.
+3
+The Court struck Plaintiffs’ initial motion [Doc. No. 125] because it included an exhibit disclosing the
+names of certain Plaintiffs, even though they are proceeding pseudonymously.
+Case 5:22-cv-00992-R Document 177 Filed 05/13/26 Page 4 of 115
+Although she eventually alerted defense counsel to the citation errors, she did not notify
+the Court or seek to withdraw the brief.
+In this action, after reviewing the parties briefing and performing its own
+independent evaluation of the cited authority, the Court issued an order directing Plaintiffs’
+counsel to appear for a show cause hearing. The Court specifically cautioned Plaintiffs’
+counsel that it was considering whether sanctions under Rule 11(b) were warranted. Prior
+to the hearing, Ms. Bussett filed a response to the show cause order [Doc. No. 148] and
+Defendants filed a response [Doc. Nos. 149, 150] to Plaintiffs’ motion seeking leave to file
+an amended brief.4
+The hearing was held on March 31, 2026, at which the Court received statements
+andargumentfrom Ms. Bussett, herco-counsel,anddefensecounsel. Ms.Bussettalso filed
+a supplementary written response [Doc. No. 176]. The Court took the matter under
+advisement and now issues its ruling.
+Discussion
+Fed.R.Civ.P.11(b)statesthat,bypresentinga writtenmotionorpaper totheCourt,
+an attorney is certifying that, to the best of her knowledge and formed after a reasonable
+inquiry,
+(1) it is not being presented for any improper purpose, such as to harass,
+cause unnecessary delay, or needlessly increase the cost of litigation;
+(2)theclaims,defenses,andotherlegalcontentionsarewarrantedbyexisting
+law or by a nonfrivolous argument for extending, modifying, or reversing
+existing law or for establishing new law;
+4
+A more detailed outline of the erroneous citations contained in Plaintiffs’ original response brief is
+contained in the appendix [Doc. No. 150] submitted by Defendants.
+Case 5:22-cv-00992-R Document 177 Filed 05/13/26 Page 5 of 116
+(3) the factual contentions have evidentiary support or, if specifically so
+identified, will likely have evidentiary support after a reasonable opportunity
+for further investigation or discovery; and
+(4) the denials of factual contentions are warranted on the evidence or, if
+specifically so identified, are reasonably based on belief or a lack of
+information.
+Fed. R. Civ. P. 11(b). This “rule is not aspirational; it is the minimal standard of honesty
+that keeps the adversarial process tethered to reality.” Mattox, 807 F. Supp. 3d at 1346–47
+(E.D. Okla. 2025). And notably, “an attorney violates Rule 11 even when that attorney
+does not subjectively intend to deceive the court.” Lexos Media, 2026 WL 265581, at *10.
+“If, after notice and a reasonable opportunity to respond, the court determines that Rule
+11(b) has been violated, the court may impose an appropriate sanction on any attorney, law
+firm, or party that violated the rule or is responsible for the violation.” Fed. R. Civ. P. 11(c).
+In this action, Ms. Bussett signed and presented a response brief that contained case
+citations to nonexistent authority, inaccurate quotations, and case citations that do not stand
+for the proposition indicated. Ms. Bussett then submitted a motion that includes inaccurate
+or misleading statements about the circumstances surrounding her actions.
+In her written response to the show cause order and at the show cause hearing, Ms.
+Bussett acknowledged that she used AI tools without performing the essential step of
+personally reviewing the cited authority. She apologized for her conduct and expressed
+remorse. However, for several reasons, the Court is left with the impression that Ms.
+Bussett is not being completely candid about how the errors occurred.
+Case 5:22-cv-00992-R Document 177 Filed 05/13/26 Page 6 of 117
+To start, Ms. Bussett has not adequately explained why the requests for admission
+have a significant discrepancy between the date they were received and the date they were
+purportedly mailed. In a normal case, this might be chalked up to a misunderstanding or an
+unusual delay in the mail delivery. But given the pattern of misleading conduct that has
+occurred in this case, defense counsel’s skepticism about whether the certificate of service
+contains the accurate mailing date appears entirely warranted.
+Second, the Court does not agree that Plaintiffs’ counsel “immediately owned up to
+their mistake when it was brought to their attention.” See Doc. No. 148 at p. 8. On the
+contrary, after defense counsel pointed out the citation errors in their briefs, Ms. Bussett
+filed a motion that contained false and misleading statements about the circumstances
+surrounding the citation errors. And at the show cause hearing, Ms. Bussett vacillated
+between admitting that the cases were “clearly wrong” and continuing to profess that she
+believed she “did everything correctly” or “thought [she] had done the right things.” Hr’g
+Tr. [Doc. No. 164] at p. 55, 57.
+Further, Ms. Bussett continues to assert that the errors were due, at least in part, to
+a misunderstanding in how to use new technological tools and a “tech stack” error that
+involved mistakenly incorporating part of one brief into another. Id. at p. 2, 5; see also Hr’g
+Tr. at p. 30-32. The Court is frankly at a loss to understand how using portions of one brief
+to help prepare another brief results in the inclusion of fake cases. This explanation is
+rendered even less plausible by the fact that the same misconduct occurred in another
+completely unrelated proceeding pending before the undersigned.
+Case 5:22-cv-00992-R Document 177 Filed 05/13/26 Page 7 of 118
+Additionally, some of Ms. Bussett’s statements at the show cause hearing seemed
+to downplay or obfuscate what actually occurred. For example, when the Court pointed out
+that the brief included cases that simply do not exist, Ms. Bussett responded that they do
+not exist “as written” or they do not exist “as the way they’re written.” Hr’g Tr. at p. 30,
+32. The Court does not know what she means by this. She also implied that the errors were
+a matter of citations “get[ting] messed up” and that the she misunderstood what constituted
+a fabricated/hallucinated case and a real case. Hr’g Tr. at p. 30, 33. This is not a matter of
+a stray error in a case citation or a couple of misattributed quotations. As to Ms. Bussett’s
+suggestion that the errors were at least partly the result of using AI tools that she did not
+fully understand, “a reasonably competent attorney filing documents in court should be
+aware of the pronounced, well-publicized risks of using unverified generative AI for legal
+research and the ethical obligations associated with signing a court filing without checking
+it for accuracy.” Lexos Media, 2026 WL 265581, at *13.
+Ms. Bussett also explains that at the time of the misconduct, she was experiencing
+serious personal circumstances that hindered her ability to perform as she should have. The
+Court is not unsympathetic to those difficulties and bears them in mind as a mitigating
+factor.
+The Court finds that Ms. Bussett’s conduct – specifically the inclusion of fake
+authority and misleading statements in two separate briefs in this case – violates Rule
+11(b)(2) and (b)(3). See Wadsworth v. Walmart Inc., 348 F.R.D. 489, 495 (D. Wyo. 2025)
+(“[U]sing a fake opinion to support an argument is a violation of Rule 11(b)(2).”); Mattox,
+807 F. Supp. 3d at 1347 (attorney that cited fake cases and then falsely described the errors
+Case 5:22-cv-00992-R Document 177 Filed 05/13/26 Page 8 of 119
+as formatting errors “violated Rule 11(b)(2) and (b)(3) by presenting legal contentions not
+warranted by existing law and factual representations lacking evidentiary support”). Ms.
+Bussett’s conduct also implicates the duty of candor to the Court contained in Rule 3.3 of
+the Oklahoma Rules of Professional Conduct.
+Having determined that Ms. Bussett violated Rule 11(b), the Court turns to the issue
+of sanctions. “Rule 11 sanctions are meant to serve several purposes, including (1)
+deterring future litigation abuse, (2) punishing present litigation abuse, (3) compensating
+victims of litigation abuse, and (4) streamlining court dockets and facilitating case
+management.” White v. Gen. Motors Corp., 908 F.2d 675, 683 (10th
+Cir. 1990). However,
+the “primary goal” is deterrence. Id. “The appropriate sanction should be the least severe
+sanction adequate to deter and punish the plaintiff.” Id. at 684.
+TheCourthasreviewednumerouscaseswhereattorneysweresanctionedforsimilar
+misconduct. Other courts have imposed monetary sanctions, revoked pro hac vice status,
+referred attorneys to the appropriate disciplinary body, ordered specific CLE attendance,
+ordered attorney’s fees to be paid to opposing counsel, and/or issued a public reprimand.
+See Mattox, 807 F. Supp. 3d 1341, 1349-50 (collecting cases). The Court is mindful that
+the primary goal of Rule 11 sanctions is deterrence, and the sanction should be the least
+severetoachievethatgoal.Withthoseprinciplesinmind,the Courtfindsthatthefollowing
+sanctions are appropriate: The Court publicly reprimands Ms. Bussett for her conduct in
+this case, orders her to notify her clients in this case of this incident, and orders her to self-
+report this incident to the state bar disciplinary authority where she is licensed to practice.
+The Court would also, as many other courts have done, be inclined to assess a monetary
+Case 5:22-cv-00992-R Document 177 Filed 05/13/26 Page 9 of 1110
+sanction. However, in this case, the offending conduct occurred in conjunction with a
+discovery motionand theCourt has already determined thatattorneys’fees willbe awarded
+for those discovery failures. The Court has also assessed a monetary sanction against Ms.
+Bussett in the Crist action. Additional monetary sanctions are unnecessary to achieve the
+goals of Rule 11.
+The Court also notes that this issue has caused significant delay and subsumed
+significant judicial resources (to say nothing of the time and expense of opposing counsel)
+in a case that has already been plagued by several delays. The Court recently entered a
+second revised Scheduling Order [Doc. No. 154] and expects counsel to make every effort
+to comply with those deadlines. Additionally, the Court admonishes Plaintiffs’ counsel that
+it expects compliance with the Protective Order [Doc. No. 109] that was entered in this
+case. If Plaintiffs’ counsel wishes to challenge the confidential designation of certain
+material, the Protective Order sets out the procedure for doing so. Including an excerpt of
+a document that was marked as confidential and subject to attorneys’ eyes only in a public
+filing is a violation of the Protective Order.
+Accordingly, the Court finds that Ms. Bussett violated Rule 11(b) and issues
+sanctions as follows: (1) This order will stand as a public reprimand of Ms. Bussett’s
+conduct in this case; (2) within fourteen days of the date of this order, Ms. Bussett shall
+provide a copy of this order to each of her clients in this case and file a notice certifying
+that she has complied with this requirement; and (3) within fourteen days of the date of this
+order, Ms. Bussett shall self-report this incident, and provide a copy of this order, to the
+state bar authority where she is licensed to practice.
+Case 5:22-cv-00992-R Document 177 Filed 05/13/26 Page 10 of 1111
+IT IS SO ORDERED this 13th
+day of May, 2026.
+Case 5:22-cv-00992-R Document 177 Filed 05/13/26 Page 11 of 11

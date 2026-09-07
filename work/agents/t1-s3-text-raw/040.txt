@@ -1,0 +1,189 @@
+1
+UNITED STATES DISTRICT COURT
+EASTERN DISTRICT OF WISCONSIN
+BRANDEN DRIVER,
+Plaintiff,
+Case No. 25-cv-1204-pp
+v.
+CNA FINANCIAL CORPORATION,
+VALLEY FORGE INSURANCE COMPANY,
+KENNETH D. NELSON, MICHAEL KAZAN,
+CATHY HORVATH and SUPER STEEL, LLC,
+Defendants.
+ORDER CONSTRUING PLAINTIFF’S RESPONSE AS NOTICE OF
+VOLUNTARY DISMISSAL (DKT. NO. 17) AND CLOSING CASE, DENYING AS
+MOOT DEFENDANTS’ MOTION TO DISMISS (DKT. NO. 7) AND DENYING AS
+MOOT PLAINTIFF’S MOTION FOR EXTENSION OF TIME (DKT. NO. 14)
+I. Background
+The plaintiff, who is representing himself, has filed three cases in this
+federal court. Driver v. Super Steel, et al., Case No. 25-cv-903 (filed June 3,
+2025); Driver v. Matrix Absence Management, et al., Case No. 25-cv-1203 (filed
+August 12, 2025); and this case (also filed August 12, 2025). In each case,
+shortly after filing the initial complaints, the plaintiff filed amended complaints.
+Case No. 25-cv-903, Dkt. No. 5 (filed June 17, 2025—two weeks after the initial
+complaint); Case No. 25-cv-1203, Dkt. No. 4 (filed August 15, 2025—three days
+after the initial complaint); Case No. 25-cv-1204, Dkt. No. 4 (filed August 15,
+2025—three days after the initial complaint). The amended complaint in Case
+No. 25-cv-903 is thirty-six pages long; it is not on the courts’ complaint form, it
+is not double-spaced and it raises twenty-one claims. The amended complaint
+Case 2:25-cv-01204-PP Filed 06/01/26 Page 1 of 7 Document 192
+in Case No. 25-cv-1203 is sixty-seven pages long; it is not on the court’s
+complaint form, it is not double spaced and it raises twenty-one claims. The
+amended complaint in Case No. 25-cv-1204 is forty pages long; it is not on the
+court’s complaint form, it is not double-spaced and it raises thirteen claims.
+Altogether, the amended complaints contain almost two hundred pages and
+allege over fifty separate claims against numerous defendants; the claims
+appear to stem from the plaintiff’s workplace injury and subsequent insurance
+and leave disputes. Id. Among others, the plaintiff alleges OSHA, ERISA,
+HIPPAA, ADA, FMLA and Wisconsin statutory and common law claims against
+his former employer and several insurance companies. Id.
+In each of the three cases, the court granted the plaintiff’s motions for
+leave to proceed without prepaying the filing fee. Case No. 25-cv-903, Dkt. No.
+13 at 10; Case No. 25-cv-1203, Dkt. No. 7 at 10; Case No. 25-cv-1204, Dkt. No.
+16 at 10.1 But rather than screen the amended complaints or address the other
+motions the plaintiff had filed, the court issued an order requiring the plaintiff
+to show cause why the court should not sanction him for violating Fed. R. Civ.
+P. 11. Id.
+The court identified sixteen instances of what appeared to be generative
+artificial intelligence (AI) hallucinations in the plaintiff’s filings, such as
+fabricated quotes and cases and misattributed quotes. Id. at 5–9. As the court
+explained, “[i]t is unacceptable for any party, represented or not, to submit
+filings that contain non-existent legal citations[,]” and “[p]arties who do so
+expose themselves to Rule 11 sanctions[.]” Id. at 5. The court ordered the
+plaintiff to show cause
+why the court should not sanction him for citing to cases that do
+not exist, fabricating quotes and asserting that cases stand for
+1 The court filed an identical order in each case.
+Case 2:25-cv-01204-PP Filed 06/01/26 Page 2 of 7 Document 193
+certain propositions when they do not. The plaintiff must file with
+the court a written statement explaining why the court should not
+sanction him for violating his obligations under Rule 11(b) to certify
+to the best of his knowledge, information and belief that the legal
+contentions in his filings “are warranted by existing law[.]” The
+statement does not need to be long, but the plaintiff must explain
+whether and to what extent he used generative AI in drafting his
+filings and how he plans to avoid violating Rule 11 in any future
+filings.
+Id. at 9. The court gave the plaintiff a deadline of January 30, 2026 by which to
+file his statement. Id. at 11.
+In addition to the plaintiff’s AI use, the court alerted the plaintiff that the
+length of his amended complaints and the number of his claims “do not meet
+Federal Rule of Civil Procedure 8(a)(2)’s requirement that a complaint must
+contain ‘a short and plain statement of the claim showing that the pleader is
+entitled to relief.’” Id. at 3 (emphasis in original) (citing United States ex rel.
+Garst v. Lockheed-Martin Corp., 328 F.3d 374, 378 (7th Cir. 2003)). The court
+wrote that “[o]nce the court understands the extent of the plaintiff’s AI use, it
+will take the necessary steps to screen the complaints in another order.” Id. at
+4.
+In late January 2026, the plaintiff submitted his response to the order to
+show cause, filing the same statement in each case. Case No. 25-cv-903, Dkt.
+No. 14; Case No. 25-cv-1203, Dkt. No. 8; Case No. 25-cv-1204, Dkt. No. 17.
+First addressing his use of generative AI, the plaintiff explains that although
+“[t]he merits, facts, and substantive allegations” in the amended complaints
+came from him, he “utilized generative artificial intelligence in a limited way,
+solely as a supplemental tool to help locate potential legal citations and to
+assist with wording[.]” Id. at 2. The plaintiff explains that he “mistakenly
+believed” that AI “functioned like an advanced legal search engine” and that he
+“was unaware that generative AI could hallucinate and produce non-existent
+Case 2:25-cv-01204-PP Filed 06/01/26 Page 3 of 7 Document 194
+cases or quotes.” Id. The plaintiff asserts that he “acted in good faith and did
+not intend to mislead the Court[,]” and that he “made diligent efforts to obtain
+counsel but was unable to secure representation due to attorneys’ existing
+caseloads, so [he] did [his] best to research and draft the complaint [him]self.”
+Id. The plaintiff states that he accepts “full responsibility for not independently
+verifying each citation before filing.” Id. at 3. He claims that he has “now
+completely ceased using generative AI for legal research, citations, or
+drafting[,]” and that “going forward, [he] will personally verify every case
+citation, statute, and quotation using reliable legal sources before submitting
+any filing[.]” Id. The plaintiff asks to “voluntarily dismiss, without prejudice, all
+claims in Case No. 25-cv-1204-pp against” all defendants named in that case.2
+Id. at 4.
+In his conclusion, the plaintiff summarizes his requests:
+I respectfully request that the Court:
+1. Accept this response as my showing of cause under Rule 11.
+2. Allow me to voluntarily dismiss Case No. 25-cv-1204-pp without
+prejudice.
+2 The plaintiff also addressed the court’s Rule 8(a) concerns in his other two
+cases by explaining that “Case No. 25-cv-903-pp is an employment and
+workplace case against Super Steel LLC and its officers, focusing on FMLA and
+ADA rights, retaliation, constructive discharge, and related Wisconsin law.
+Case No. 25-cv-1203-pp is a benefits and ERISA case against Matrix Absence
+Management, Reliance Standard, and related individuals, and it also names
+Super Steel LLC and Janice Obregon in their roles relating to the disability
+benefits at issue, arising from the administration and denial of short term
+disability benefits, alleged ERISA violations, and associated privacy and claims
+handling issues. While these cases share a common factual background, the
+same injury and employment relationship, they are grounded in different legal
+frameworks and involve different primary duties and legal questions.” Dkt. No.
+25-cv-1204, Dkt. No. 17 at 3. The plaintiff asked the court for “leave to file
+amended pleadings” if the court “concludes that amendment, consolidation, or
+reorganization of these claims would better serve clarity and efficiency[.]” Id. at
+3–4. The court addressed this issue in a separate order filed in Case Nos. 25-
+cv-903 and 25-cv-1203.
+Case 2:25-cv-01204-PP Filed 06/01/26 Page 4 of 7 Document 195
+3. Permit Case Nos. 25-cv-903-pp and 25-cv-1203-pp to proceed to
+screening, with leave to amend, consolidate, or reorganize the
+complaints if the Court deems that necessary to satisfy Rule 8 and
+promote efficient resolution of these issues.
+Id. at 5.
+II. Rule 11
+The plaintiff’s response addresses the concerns the court identified and
+discharges the court’s show cause order. The plaintiff explained his
+misunderstanding of the risks of generative AI in legal research, took
+responsibility for the fabricated legal contentions and articulated a plan for
+how he intends to avoid future violations of Rule 11. Id. at 2–3. The court will
+not sanction the plaintiff under Rule 11. See Hinterberger v. City of
+Indianapolis, 966 F.3d 523, 529 (7th Cir. 2020) (district courts have
+“considerable discretion in deciding whether to issue Rule 11 sanctions”); Fed.
+R. Civ. P. 11(c)(1) (“the court may impose an appropriate sanction . . .”). But if
+the court discovers another Rule 11 violation related to the plaintiff’s AI use, it
+will consider sanctions.
+III. Voluntary Dismissal
+The plaintiff seeks to voluntarily dismiss this case. Dkt. No. 17 at 5. All
+the defendants except Super Steel, LLC have elected to seek dismissal of the
+amended complaint in lieu of an answer. Dkt. No. 7. Super Steel, LLC has not
+answered or otherwise responded, although the plaintiff has sought an
+extension of time to effect service. Dkt. No. 14. Counsel for defendants CNA
+Financial, Valley Forge Insurance Company, Nelson, Kazan and Horvath also
+has filed a letter (an unnecessary one) asking the court to grant the plaintiff’s
+request for voluntary dismissal. Dkt. No. 18.
+Federal Rule of Civil Procedure 41(a)(1)(A)(i) allows a plaintiff to “dismiss
+an action without a court order by filing . . . a notice of dismissal before the
+Case 2:25-cv-01204-PP Filed 06/01/26 Page 5 of 7 Document 196
+opposing party serves either an answer or a motion for summary judgment[.]” A
+plaintiff’s right to voluntarily dismiss his case before the defendant answers or
+moves for summary judgment is “absolute.” Marques v. Federal Reserve Bank
+of Chi., 286 F.3d 1014, 1017 (7th Cir. 2002). A plaintiff “doesn’t need a good
+reason, or even a sane or any reason, to dismiss a suit voluntarily.” Id. A notice
+to dismiss under Rule 41(a)(1)(A)(i) is “self-executing and case-terminating.”
+United States v. UCB, Inc., 970 F.3d 835, 849 (7th Cir. 2020).
+The court will construe the plaintiff’s statement as a notice of voluntary
+dismissal under Rule 41(a)(1)(A)(i) because the defendants have not served
+“either an answer or a motion for summary judgment,” Fed. R. Civ. P.
+41(a)(1)(A)(i). Edwards-Brown v. Crete-Monee 201-U School Dist., 491 F. App’x
+744, 746 (7th Cir. 2012); see Marques, 286 F.3d at 1017. That means that he
+has a right to voluntary dismissal of the complaint, and does not need the
+court’s permission.
+IV. Pending Motions
+As the court explained above, all defendants except Super Steel have
+asked the court to dismiss the amended complaint. Dkt. No. 7. The plaintiff
+has filed a motion for extension of time to serve defendants under Rule 4(m).
+Dkt. No. 14. Because the plaintiff is voluntarily dismissing the case, the court
+will deny as moot both pending motions.
+V. Conclusion
+The court CONSTRUES the plaintiff’s response as a notice of voluntary
+dismissal. Dkt. No. 17.
+The court ORDERS that the clerk’s office must close the case and
+memorialize on the docket that the plaintiff has voluntarily dismissed the case
+without prejudice under Fed. R. Civ. P. 41(a)(1)(A)(i).
+Case 2:25-cv-01204-PP Filed 06/01/26 Page 6 of 7 Document 197
+The court DENIES AS MOOT the defendants’ motion to dismiss. Dkt. No.
+7.
+The court DENIES AS MOOT the plaintiff’s motion for extension to time
+to serve defendants. Dkt. No. 14.
+Dated in Milwaukee, Wisconsin this 1st day of June, 2026.
+BY THE COURT:
+_____________________________________
+HON. PAMELA PEPPER
+Chief United States District Judge
+Case 2:25-cv-01204-PP Filed 06/01/26 Page 7 of 7 Document 19

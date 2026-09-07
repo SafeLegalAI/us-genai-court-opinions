@@ -1,0 +1,230 @@
+Case 1:24-cv-01365-JRS-TAB                 Document 206     Filed 05/26/26    Page 1 of 5 PageID #:
+                                                  1286
+
+
+
+                               UNITED STATES DISTRICT COURT
+                               SOUTHERN DISTRICT OF INDIANA
+                                  INDIANAPOLIS DIVISION
+
+WILLIAM C. MAXWELL,                                     )
+                                                        )
+                              Plaintiff,                )
+                                                        )
+                         v.                             )      No. 1:24-cv-01365-JRS-TAB
+                                                        )
+DAKOTA MICHAEL Officer, et al.,                         )
+                                                        )
+                              Defendants.               )
+
+                    ORDER ON PLAINTIFF'S SHOW CAUSE RESPONSE
+                                 AND SANCTIONS
+
+        On March 26, 2026, the district judge adopted the undersigned's report and
+
+ recommendation concluding Plaintiff William C. Maxwell should pay deposition costs as an
+
+ appropriate sanction for his refusal to answer questions at his first deposition and granted
+
+ Defendants' motion to show cause. [Filing No. 162.]1 The Court ordered Defendants to file
+
+ evidence showing the cost of the deposition transcript and video recording, as well as the fees of
+
+ the court reporter and videographer. [Filing No. 163.] The Court further directed Plaintiff to file
+
+ a statement showing why he should not be subject to Federal Rule of Civil Procedure 11(c)
+
+ sanctions for citing and quoting non-existent cases.
+
+        Plaintiff responded to the Court's order on April 9, 2026. [Filing No. 165.] Plaintiff does
+
+ not dispute that certain citations were incorrect, but claims his errors were not intentionally
+
+ fabricated or designed to mislead the Court. Plaintiff argues his errors fell into two categories:
+
+ (1) citations he could not locate and failed to correct, and (2) quotations that paraphrased, rather
+
+ than cited, authority. [Filing No. 165, at ECF p. 2.] He argues that no additional sanctions are
+
+
+
+ 1
+   Plaintiff filed two motions for reconsideration of the Court's order adopting the report and
+ recommendation. Those motions remain pending with the district judge. [Filing Nos. 173; 176.]
+Case 1:24-cv-01365-JRS-TAB             Document 206         Filed 05/26/26      Page 2 of 5 PageID #:
+                                              1287
+
+
+
+ warranted, or alternatively, that any sanction imposed be proportionate to the conduct and limited
+
+ to a formal verified citation requirement going forward.
+
+         In contrast, Defendants argue significant sanctions are warranted because Plaintiff acted
+
+ in either bad faith or in reckless reliance on artificial intelligence by citing fake cases or
+
+ quotations on at least 37 instances throughout this litigation. [Filing No. 180, at ECF p. 1-2.]
+
+ As noted by Defendants, Plaintiff's show cause response does not confirm whether he used
+
+ generative AI to present fictious legal authority. The Court agrees with Defendants that his
+
+ fabricated authority contains the hallmarks of generative AI hallucinations. See, e.g., Jones v.
+
+ Kankakee County Sheriff's Dep't, 164 F.4th 967, 969–70 (7th Cir. 2026) (summarizing potential
+
+ problems with use of generative AI in briefing).
+
+         The Seventh Circuit advised in Jones:
+
+                 As pro se litigants employ AI to assist with court filings, a basic reminder
+         seems wise. Accuracy and honesty matter. Indeed, the submission of a legal filing
+         constitutes a representation to a court and, as the Federal Rules of Civil Procedure
+         put the point, both attorneys and unrepresented parties are certifying "that to the
+         best of the person's knowledge, information and belief, formed after an inquiry
+         reasonable under the circumstances," the "factual contentions have evidentiary
+         support" and the "legal contentions are warranted by existing law or a nonfrivolous
+         argument for extending, modifying, or reversing existing law or for establishing
+         new law." Fed. R. Civ. P. 11(b)(2), (3); see also Fed. R. App. P. 38. Right to it, all
+         litigants—represented and unrepresented—must read their filings and take
+         reasonable care to avoid misrepresentations, factual and legal.
+
+                 No doubt the inquiry is different for pro se and represented parties. Indeed,
+         our reaction to what we saw in Jones's brief may have been quite different if the
+         non-existent quotations came in a brief submitted by a lawyer—an officer of the
+         court with professional responsibilities and the training necessary to avoid such a
+         misrepresentation. But pro se litigants shoulder responsibility too and, while our
+         understanding of honest mistakes and common presentational foot faults will
+         remain, in no way will we allow a court filing to include misrepresentations on legal
+         or factual points that an unrepresented party reasonably knows or should know
+         exist. For today, then, suffice it to say nothing about the many efficiencies and
+         promises offered by AI eliminates the peril that may well accompany a serious
+         abdication of the care the law demands of even unrepresented parties.
+
+
+
+                                                    2
+Case 1:24-cv-01365-JRS-TAB            Document 206        Filed 05/26/26       Page 3 of 5 PageID #:
+                                             1288
+
+
+
+ Id. at 970–71.
+
+        Whether or not Plaintiff used AI, his conduct remains sanctionable, as it represents a
+
+ deliberate intent to fabricate citations and quotations. Plaintiff alleges that in instances where he
+
+ could not find an actual case with his desired holding, he inserted case citation "placeholders"
+
+ that he "intended to find support for" and correct before filing. [Filing No. 165, at ECF p. 2.]
+
+ This does not make the conduct less sanctionable. Plaintiff could have simply inserted a generic
+
+ placeholder, such as "FIND CASE" or "CITE." He did not do that. Instead, he claims he created
+
+ fake citations, fabricating the name, case number, citation, pin cite, court, and other identifying
+
+ information—actions he took at least 37 times. The fact that he then formatted those citations to
+
+ look like legitimate citations shows an intent to deceive the Court, not simply a reckless failure
+
+ to verify. In addition, Plaintiff's show cause response makes no attempt to explain why he
+
+ presented so many "paraphrases" as direct quotations.
+
+        Even pro se parties, such as Plaintiff, are subject to Rule 11 sanctions. See Jones, id.;
+
+ Fed. R. Civ. P. 11(b)(2) ("By presenting to the court a pleading, written motion or other paper—
+
+ whether by signing, filing, submitting, or later advocating it—an attorney or unrepresented party
+
+ certifies that to the best of the person's knowledge, information, and belief, formed after an
+
+ inquiry reasonable under the circumstances… the claims, defenses, and other legal contentions
+
+ are warranted by existing law[.]") (emphasis added). "Filing a document that contains citations
+
+ to nonexistent cases, quotes language that comes from no real case, or that contains arguments
+
+ wholly unsupported by the record violates Rule 11. [Plaintiff] did just that." Allen v. Casper,
+
+ No. 25 C 10438, 2026 WL 674309, at *10 (N.D. Ill. Mar. 10, 2026)
+
+
+
+
+                                                   3
+Case 1:24-cv-01365-JRS-TAB             Document 206         Filed 05/26/26      Page 4 of 5 PageID #:
+                                              1289
+
+
+
+         Defendants ask the Court to fine Plaintiff $250 per instance of fake citation or quotation,
+
+ for a total fine of $9,250. However, Rule 11 sanctions "must be limited to what suffices to deter
+
+ repetition of the conduct or comparable conduct by others similarly situated." Fed. R. Civ. P.
+
+ 11(c)(3). The purpose is deterrence, not compensation. The Court is also mindful of the indigent
+
+ status of this Plaintiff. While the Court agrees that Plaintiff's use of fictitious citations and cases
+
+ warrants sanctions, a reduced sanction of $1,000 "suffices to deter repetition of the conduct or
+
+ comparable conduct by others similarly situated." Fed. R. Civ. P. 11(c)(4). This is comparable
+
+ or less than sanctions orders recently issued to self-represented litigants in this Circuit for similar
+
+ Rule 11 violations. See, e.g., Allen, 2026 WL 674309, at *10 (N.D. Ill. Mar. 10, 2026) (imposing
+
+ $1,500 sanction on pro se plaintiff for violating Rule 11 with two nonexistent cases and
+
+ repeatedly inaccurate and false statements); Obi v. Cook Cnty, Illinois, No. 25 C 3096, 2026 WL
+
+ 1001481, at *2 (N.D. Ill. Apr. 9, 2026) (imposing $5,000 sanction on pro se plaintiff for filing
+
+ briefs containing 13 false cases, quotes, and statements of law and fact). Accordingly, the
+
+ Court sanctions Plaintiff in the amount of $1,000 for his actions. Plaintiff shall make this
+
+ payment to the Clerk of Court by June 25, 2026.
+
+         In addition, Defendants also filed a notice of deposition costs totaling $886.80. [Filing
+
+ No. 181.] The Court finds this request reasonable for reimbursement of the costs Defendants
+
+ incurred in relation to Plaintiff's first deposition. Therefore, Plaintiff shall reimburse
+
+ Defendants for the cost of the deposition transcript and video recording in the total of
+
+ $886.80. Plaintiff shall provide this additional payment directly to Defendants by June 25, 2026.
+
+       Date: 5/26/2026
+                                   _______________________________
+                                     Tim A. Baker
+                                     United States Magistrate Judge
+                                     Southern District of Indiana
+
+
+                                                    4
+Case 1:24-cv-01365-JRS-TAB         Document 206       Filed 05/26/26   Page 5 of 5 PageID #:
+                                          1290
+
+
+
+
+ Distribution:
+
+ All ECF-registered counsel of record via email
+
+ WILLIAM C. MAXWELL
+ 201 N. McClure St.
+ Wingate, IN 47994
+
+
+
+
+                                                  5
+

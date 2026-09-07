@@ -1,0 +1,429 @@
+FIRST DIVISION
+BARNES, P. J.,
+MARKLE and HODGES, JJ.
+NOTICE: Motions for reconsideration must be
+physically received in our clerk’s office within ten
+days of the date of decision to be deemed timely filed.
+https://www.gaappeals.gov/rules
+June 10, 2026
+In the Court of Appeals of Georgia
+A26A0698. HENRY COUNTY SCHOOLS et al. v. GRANT.
+A26A0699. HENRY COUNTY SCHOOLS et al. v. DOUGLAS.
+A26A0700. HENRY COUNTY SCHOOLS et al v. FORBES.
+MARKLE, Judge.
+Intheserelatedinterlocutoryappeals,HenryCountySchoolsandseveralofits
+employees appeal from the denial of their motions to dismiss the state law tort and
+contractclaims,andtheemploymentdiscriminationsuitsbroughtunderTitleVIIof
+the Civil Rights Act of 1964 (“Title VII”), 42 USCA § 2000e-2 et seq., by three
+former employees on the grounds that (1) the suits were barred by sovereign and
+official immunity, and (2) the plaintiffs failed to state a claim under OCGA § 9-11-
+12(b)(6).Forthereasonsthatfollow,wereversethedenialofthemotionswithregard
+tothestatelawclaimsassertedagainstalldefendantsaseitherbarredbyimmunityorfor failure to state a claim, we vacate the order as to the Title VII claims against the
+school district, and we remand the cases with direction.
+“We review de novo a trial court’s denial of a motion to dismiss based on
+sovereign immunity grounds, which is a matter of law. However, factual findings by
+the trial court in support of its legal decision are sustained if there is evidence
+authorizing them, and the burden of proof is on the party seeking the waiver of
+immunity.” Loehle v. Ga. Dep’t of Pub. Safety, 334 Ga. App. 836, 836–37 (780 SE2d
+469)(2015)(quotationmarksomitted).SeealsoGa.Dep’tofLaborv.RTTAssocs.,299
+Ga. 78, 81(1) (786 SE2d 840) (2016). We also review the trial court’s order on a
+motion to dismiss for failure to state a claim de novo, taking the allegations in the
+complaintastrueandresolvinganydoubtsintheplaintiffs’favor.Williamsv.DeKalb
+County, 308 Ga. 265, 270(2) (840 SE2d 423) (2020).
+Based on the allegations in the complaints, the records shows that Tyrome
+Grant,Sr.,aBlackmale,istheformerprincipalofOaklandElementarySchool,which
+has a predominantly Black student body, in Henry County. Beginning in 2019, he
+voiced concerns regarding staffing shortages and transportation issues at his school
+thathebelieveddidnotexistatpredominantlywhiteschools.Thereafter,theassistant
+2superintendent allegedly responded by assigning a mentor to him, began visiting the
+schoolatinappropriatetimes,andtookcontrolovercertaintransportationduties.As
+a result, in 2023, Grant resigned his position.
+PlaintiffMalikDouglas,aBlackmalearmyreservist,wastheprincipalofEagles
+Landing Middle School, a predominantly Black school, in 2019. Douglas also
+complainedtodistrictstaffabouttransportationissuesforhisstudents.Additionally,
+during his tenure, the assistant superintendent “recruited administrators to
+undermine[his]authority,”resultinginfalsecomplaintsbeingfiledagainsthimwith
+theschooldistrict.Afterhediscussedhisconcernswithdistrictstaff,hiscontractfor
+renewal was delayed. He was also told that his style was too militant, which he
+perceivedasdiscriminationduetohismilitaryservice.Ultimately,hewasputonleave
+and denied promotions or other positions.
+KathleenForbes,aBlack/Panamanianwoman,wastheprincipalatStockbridge
+MiddleSchooluntil2021,whenhercontractwasnotrenewed.Duringhertenure,she
+was subject to harassment; district employees demeaned her professional skills; and
+she was demoted to a position as assistant principal at McDonough High School.
+Whenshecomplainedthatshehadbeenthreatenedwithtermination,shewasplaced
+3ina“ProfessionalDevelopmentPlan.”Shelaterappliedfortheprincipalpositionand
+was denied an interview. She ultimately resigned her position.
+All three then filed separate suits, alleging breach of contract, and race
+discrimination,harassment,andretaliationunderTitleVIIagainsttheschooldistrict;
+andintentionalinflictionofemotionaldistressandbreachoffiduciarydutyagainstthe
+school district and its employees in their individual and official capacities. Douglas
+also alleged that he was discriminated against because of his military status. They
+requested compensatory and punitive damages.
+Theschooldistrictmovedtodismissallthreecomplaintsasbarredbysovereign
+and official immunity, as well as for failure to state a claim. Following a hearing, the
+trial court denied the motions. It then certified its orders for immediate review, and
+we granted the interlocutory applications. These appeals followed.
+1. We begin with the threshold question of subject matter jurisdiction, that is,
+whether the claims against the school district and the employees in their official
+capacities are barred by sovereign immunity.
+Sovereign immunity is immunity from suit, involving actions or
+claims against the state and its departments, agencies, officers, and
+employees. The Georgia Constitution provides that the General
+4Assembly may waive the immunity of counties, municipalities, and
+school districts by statute. ... [T]he applicability of sovereign immunity
+toclaimsbroughtagainsttheStateisajurisdictionalissueandtherefore,
+theapplicabilityofsovereignimmunityisathresholddetermination,and,
+if it does apply, a court lacks jurisdiction over the case and,
+concomitantly, lacks authority to decide the merits of a claim that is
+barred.
+Ga.Div.,SonsofConfederateVeteransv.Downs,370Ga.App.669,675(2)(898SE2d
+850) (2024) (citation modified). Constitutional sovereign immunity extends to
+countiesandschool districts.McBrayerv.Scarbrough,317Ga.387,391-92(2)(a)(893
+SE2d 660) (2023). And, where the State or school district enjoys immunity, public
+employees who are sued in their official capacities are also entitled to sovereign
+immunity.Cameronv.Lang,274Ga.122,126(3)(549SE2d341)(2001).SeealsoGa.
+Const. of 1983, Art. IX, Sec. II, Par. IX; OCGA § 36-33-1.
+Inadditiontostateconstitutionalimmunity,theEleventhAmendmentprovides
+immunityfromsuitagainstfederalclaimsinstatecourt.U.S.Const.Amend.XI.But
+that immunity does not extend to “lesser entities” unless they are “an arm of the
+[S]tate.” Ga. Ports Auth. v. Lawyer, 304 Ga. 667, 668(1) (821 SE2d 22) (2018). The
+burdenis on theplaintiffstoshow sovereign immunityhasbeenwaived. Alredv.Ga.
+5Pub.Def.Council,362Ga.App.465,466(869SE2d99)(2022).SeealsoDep’tofPub.
+Safety v. Justice, 320 Ga. 149, 153(2) (907 SE2d 817) (2024).
+With this framework in mind, we consider whether the plaintiffs met their
+burdentoshowawaiverofsovereignimmunityfortheirvariousfederalandstatelaw
+claims.
+(a) Is there a waiver of immunity for Title VII claims in state court?1
+Theschooldistrictarguesthatthetrialcourtlackedsubjectmatterjurisdiction
+over the discrimination claims because there is no waiver of immunity in state court
+forTitleVIIclaims.Theplaintiffscontendthattheschooldistrictisnotanarmofthe
+State and thus was not entitled to immunity under the Eleventh Amendment.2
+1
+The trial court considered Douglas’s claim formilitary discrimination under
+the Uniformed Services Employment and Reemployment Rights Act of 1994
+(“USERRA”), 38 USC § 4311, et seq. We have held that there is no waiver of
+immunityforUSERRAclaimsinstatecourt.Anstadtv.Bd.ofRegentsoftheUniv.Sys.
+of Ga., 303 Ga. App. 483, 486-87(1) (693 SE2d 868) (2010).
+2
+The State is immune from federal claims brought in state court under the
+Eleventh Amendment if the state would be immune from suit on those claims in
+federal court. See Augusta Jud. Circuit Off. of Pub. Def. v. Hodge-Peets, 370 Ga. App.
+819,822(2) (899 SE2d 363)(2024). TitleVIIclaimscontain awaiverofimmunityin
+federalcourt.See42USC§2000e-5(f)(3);Fitzpatrickv.Bitzer,427US445,456(96
+SCt 2666, 49 LE2d 614) (1976); Collier v. Clayton County Comm. Serv. Bd., 236 F
+Supp2d 1345, 1370(III)(A)(2) (N. D. Ga. 2002). Although the plaintiffs failed to
+identifythiswaiverofimmunityaffordedTitleVIIclaimsasabasistowaiveimmunity
+6TheEleventhAmendment,whichprotectsstatesfromsuitinfederalcourt,also
+providesimmunityagainstsuitsbroughtagainstastateinstatecourts.Aldenv.Maine,
+527 US 706, 741-754(II)(B)(1) to (4) (119 SCt 2240, 144 LE2d 636) (1999). That
+immunity extends to departments and agencies of the State, but not to other State
+entitiesunlesstheyare“anarmoftheState.”Id.at756(III);Ga.PortsAuth.,304Ga.
+at 674(3). Thus, a county school district is only immune from federal claims if it
+constitutes an arm of the State. See Mt. Healthy City Sch. Dist. Bd. of Educ. v. Doyle,
+429 US 274, 280 (III) (97 SCt 568, 50 LE2d 471) (1977). See also Lightfoot v. Henry
+CountySch.Dist.,771F3d764,768-69(III)(A)(11thCir.2014)(settingoutthefactors
+relevant to determining whether the school board was an arm of the State).
+Here, in addressing whether Eleventh Amendment immunity applied to the
+Title VII claims, the plaintiffs failed to plead any basis for a waiver of immunity in
+their complaints and did not raise the issue until their responses to the motions to
+dismiss. And, in those responses, they cited law applicable to official immunity,
+conflating the legal framework for claims alleging constitutional violations by state
+actors under 42 USC § 1983 with liability under Title VII. It was not until
+instatecourt,EleventhAmendmentimmunityonlyappliesiftheschooldistrictisan
+arm of the State. Ga. Ports Auth., 304 Ga. at 668(1).
+7supplemental briefing that the plaintiffs even mentioned that Eleventh Amendment
+immunitywouldnotprotecttheschooldistrictbecauseitwasnotanarmoftheState.
+Critically,thetrialcourt’sorder,whichwasdraftedbytheplaintiffs’attorney,
+contains several mistakes. In addition to citing federal law applicable to motions to
+dismiss and confusing constitutional claims with employment discrimination, it also
+ignores binding Georgia precedent, mis-quotes cases cited, and relies on at least one
+hallucinatedcase.Wefindittroublingthatcounselsubmittedsuchanordertothetrial
+court, and regrettable that the trial court failed to identify any of these errors. See
+Paynev.State,CaseNo.S26A0459,slipop.at1-5(1)-(4),2026WL1215905(Ga.May
+5, 2026) (sanctioning counsel who prepared order citing hallucinated cases,
+remanding to the trial court to issue a new order omitting such citations, and
+encouragingtrialcourtstoengageinacarefulreviewofmaterialssubmittedtoit);Slay
+v. Ross, __ Ga. App. __ (927 SE2d 569, 571) (2026) (“[h]allucinated cases are
+typicallyahallmarkoftheirresponsibleuseofregenerativeartificialintelligence(A.I.)
+in legal drafting.” (punctuation omitted)). Accordingly, we must, yet again, remind
+counsel,andlowercourts,oftheirprofessionalresponsibilitiesandobligationsinthe
+use of artificial intelligence.
+8Moreover, the trial court’s order contains no analysis of the Eleventh
+Amendmentimmunityissuenorfactualfindingsastoanyofthefactorsapplicableto
+the question of whether the school district was an “arm of the State.” The trial
+court’s summary conclusion, coupled with the errors identified above, hampers our
+abilitytoreachthemeritsoftheEleventhAmendmentarguments.Asaresult,wefind
+itnecessarytovacatetheorderdenyingthemotiontodismisstheTitleVIIclaims,and
+weremandthecaseforreconsiderationundertheproperstandardsandbonafidecase
+law. See Payne, Case No. S26A0459, slip op. at 1-5(1)-(4) (remanding case for
+reconsideration without hallucinated cases).
+(b)Isthereawaiverofthedistrict’ssovereignimmunityforstatelawclaimsbrought
+in state court?
+We next consider whether the plaintiffs established a waiver of sovereign
+immunityforthestatelawtortandbreachofcontractclaims,concludingthattheydid
+not.
+TheHenryCountySchool Districtisapoliticalsubdivision of theStateand is
+entitledtosovereignimmunityunlessithasbeenwaived.Ga.Const.of1983,Art.IX,
+9Sec. II, Par. IX (“The General Assembly may waive the immunity of counties,
+municipalities, and school districts by law.”). See also Worth County School Dist. v.
+Tibbets,319Ga.103,107(2)(902SE2d 558)(2024);Parrv.CookCountySchoolDist.,
+359 Ga. App. 823, 824(1) (860 SE2d 114) (2021); Wellborn v. DeKalb County School
+Dist.,227Ga.App.377,379-80(4)(489SE2d345)(1997);CrispCountySchoolSystem
+v.Brown,226Ga.App.800(1)(487SE2d512)(1997).Suchimmunity“canbewaived
+only by an Act of the General Assembly which specifically provides that sovereign
+immunityistherebywaivedandtheextentofthewaiver.”Wellborn,227 Ga. App.at
+379(4) (citing Ga. Const. of 1983, Art. I, Sec. II, Par. IX (e)). “[I]mplied waivers are
+notfavored.” AugustaJud.CircuitOff.ofPub.Def.v.Hodge-Peets,370Ga.App.819,
+824(3) (899 SE2d 363) (2024). The plaintiffs beartheburdenof showing awaiver of
+immunity. Dep’t of Pub. Safety, 320 Ga. at 153(2); Alred, 362 Ga. App. at 466.
+Here, the plaintiffs alleged intentional infliction of emotional distress and
+breach of fiduciary duty against the district and its employees in their official
+capacities. But they failed to plead any basis for a waiver of immunity in their
+complaints, or the extent of such waiver. SeeRamosv.Owens,366Ga.App. 216, 218
+10(881 SE2d 464) (2022). And, although Douglas amended his complaint after the
+school district filed its motion to dismiss, he did not remedy this omission.
+Inresponsetothemotiontodismiss,theplaintiffsassertedthatimmunitywas
+waivedduetotheallegedmaliceof theschooldistrictanditsvariousemployees,and
+thattheschooldistrictwasnotanarmoftheState.But,neitherargumentestablishes
+a waiver of the district’s sovereign immunity from the statelaw claims. First, malice
+isawaivertoofficial—notsovereign—immunity.SeeAtlantaPub.Schoolsv.M.M.,
+__ Ga. App. __ (1) (926 SE2d 859, 862-63(1) (2026) (“[S]overeign immunity and
+officialimmunityarenotsynonymous,butareseparate,relateddoctrines.”(quotation
+marks omitted)).Thus, malicewould waiveimmunity only as to those claims against
+the employees in their individual capacities. Id. Second, school districts’ sovereign
+immunity under the Georgia Constitution does not depend on whether they are “an
+arm of the State.” See Worth County School Dist., 319 Ga. at 107(2); Parr, 359 Ga.
+App.at824(1);Wellborn,227Ga.App.at379-80(4);CrispCountySchoolSystem,226
+Ga. App. at 802(2).3
+3
+To the extent that they now claim the Georgia Tort Claims Act provides a
+waiverofimmunity,theActexpresslystatesthatitdoesnotapplytoschooldistricts.
+OCGA§50–21–22(5);CoffeeCountySchoolDist.v.Snipes,216Ga.App.293,295(454
+SE2d 149) (1995). See also McConnell v. Dep’t of Labor, 345 Ga. App. 669, 675(1)(b)
+11Because the plaintiffs failed to meet their burden of establishing the waiver of
+sovereign immunity, the tort claims against the school district and the employees in
+their official capacities must be dismissed. Dep’t of Pub. Safety, 320 Ga. at 153(2);
+Alred, 362 Ga. App. at 466.
+As to the breach of contract claims against the district,
+one of the exceptions to the defense of sovereign immunity is for “any
+actionexcontractuforthebreachofanywrittencontract...enteredinto
+by the state or its departments and agencies.” Ga. Const. of 1983, Art.
+I, Sec. II, Par. IX (c). To meet [the] burden of proving a waiver of
+sovereign immunity, [the plaintiffs were] required to show that the
+contractsoughttobeenforcedisinwriting and contains all oftheterms
+necessary to constitute a valid contract. And general provisions of
+contract law cannot be applied by the courts to create a waiver of
+sovereign immunity by means other than by written contract.
+Justice, 320 Ga. at 153-54(2). See also OCGA § 50-21-1(a).
+Here, none of the plaintiffs attached a copy of the contract to their complaint
+orestablished the existence of a valid contract and its terms within theframework of
+(814SE2d790)(2018)(notingthatbreachoffiduciarydutyisatortclaim).And,any
+argument that the school district waived immunity through the purchase of liability
+insurance is foreclosed by our decision in Crisp County School System, 226 Ga. App.
+at 801(1).
+12thecomplaint,nordidtheyamendthecomplainttoincludeitaftertheschooldistrict
+fileditsmotiontodismiss.Boydv.Neal,350Ga.App.274,275-79(1)(828SE2d 650)
+(2019)(nowaiverofimmunitywhereplaintiffdidnotestablishexistenceofacontract
+in the original complaint or the amended complaint). Accord Young v. Johnson, 359
+Ga.App.769,771(860SE2d 82) (2021)(affirming dismissalwhereplaintifffailedto
+explicitly plead a waiver of sovereign immunity in her complaint, did not amend the
+complainttocorrecttheomission,andshefailedtoraisethewaiverissueinanyofher
+filings inthetrialcourtbeloworrespondtothemotiontodismiss).CompareJustice,
+320 Ga. at 150(1) (complaint alleged there was a written contract that included all of
+the elements of a contract and the terms that allegedly were breached). See also
+OCGA § 20-2-211(a) (providing for written contracts for teachers). As a result, the
+plaintiffs failed to establish a waiver for their contract claims against the school
+district.Thetrialcourtthereforeerredbydenyingthemotionstodismissthecontract
+claims.
+2.Wenowturntowhethertheclaimsagainsttheemployeesintheirindividual
+capacities would be barred by official immunity or, alternatively, whether the
+allegations failed to state a claim under OCGA § 9-11-12(b)(6) (“Rule 12(b)(6)”).
+13(a) Official immunity
+Theonlyclaimsatissuewithregardtoofficialimmunityarethestatelawclaims
+for intentional infliction of emotional distress and breach of fiduciary duty.
+“We review de novo a trial court’s ruling on a motion to dismiss based on
+officialimmunitygrounds,whichisamatteroflaw.However,factualfindingsbythe
+trial court in support of its legal decision are sustained if there is any evidence
+authorizing them, and the burden of proof is on the party seeking the waiver of
+immunity.”4
+Garren v. Bryant, 377 Ga. App. 699, 699 (922 SE2d 902) (2025).
+“Thedoctrineofofficialimmunityofferspublicofficersandemployeeslimited
+protection fromsuitintheirpersonalcapacities.”Schultzv.Lowe,364Ga.App. 345,
+348(2)(874SE2d842)(2022)(quotationmarksomitted).SeealsoGa.Const.of1983,
+Art. I, § II, Par. IX. Such immunity protects public employees from suit for
+“discretionary actions taken within the scope of their official authority, and done
+withoutwilfulness,maliceorcorruption.”Hallv.Acker,367Ga.App.411,414(1)(885
+4
+Where adefendantmovestodismiss on thegroundsof official immunity,“a
+trialcourtisnotconfinedtotheallegationsofthecomplaintbutisauthorizedtohear
+thematteronaffidavitspresentedbytherespectiveparties,ortodirectthatthematter
+be heard wholly or partly on oral testimony or depositions.” State of Ga. v. Federal
+Def. Program, 315 Ga. 319, 327(3) (882 SE2d 257) (2022) (citation modified). Here,
+the plaintiffs proffered no evidence apart from the allegations in the complaints.
+14SE2d 266) (2023) (quotation marks omitted). The acts complained of here are
+discretionary acts, which “call[s] for the exercise of personal deliberation and
+judgment, which in turn entails examining the facts, reaching reasoned conclusions,
+andactingontheminawaynotspecificallydirected.”Roperv.Greenway,294Ga.112,
+115–16 (751 SE2d 351) (2013) (citation modified).
+Here, in response to the motions to dismiss, the plaintiffs alleged that the
+employeesactedwith malice.Althoughthetrialcourtappliedthestandardofreview
+applicable in federal court instead of Georgia law, we need not remand on this basis
+because the federal standard applicable to amotion todismiss is more stringent than
+thestatestandard.CompareAshcroftv.Iqbal,556US662,679(IV)(A)(129SCt1937,
+173 LE2d 868) (2009) (to survive a motion to dismiss under federal law, legal
+conclusions made in the complaint “must be supported by factual allegations” that
+“plausibly give rise to an entitlement to relief.”), with Dillingham v. Doctors Clinic,
+P.A., 236 Ga. 302, 303 (223 SE2d 625) (1976) (under Georgia law, complaint need
+only“givethedefendantfairnoticeofwhattheclaimisandageneralindicationofthe
+type of litigation involved; the discovery process bears the burden of filling in
+details.”). Thus, the allegation that the defendants acted with malice is sufficient to
+15overcome official immunity at this stage of the litigation under Georgia law. Everson
+v. DeKalb County School Dist., 344 Ga. App. 665, 669(2) (811 SE2d 9) (2018).
+(b) Rule 12(b)(6)
+Havingconcludedthatofficialimmunitywouldnotbartheplaintiffs’claimsat
+thisstageof the litigation, we next consider whether anyof theplaintiffs’allegations
+are sufficient to state a claim under Rule 12(b)(6). We conclude that they are not.
+Weapplyadenovostandardofreviewtoatrialcourt’sgrantofamotion
+to dismiss. A motion to dismiss forfailuretostateaclaim should not be
+sustained unless (1) the allegations of the complaint disclose with
+certaintythattheclaimantwouldnotbeentitledtoreliefunderanystate
+of provable facts asserted in support thereof; and (2) the movant
+establishes that the claimant could not possibly introduce evidence
+withintheframeworkofthecomplaintsufficienttowarrantagrantofthe
+relief sought.
+Stewart v. Johnson, 358 Ga. App. 813, 818(4) (856 SE2d 401) (2021) (citations
+omitted).
+(i) Plaintiff Grant
+16In his complaint, Grant alleged that he suffered intentional infliction of
+emotional distress (“IIED”) and breach of fiduciary duty. We conclude that the
+claims must be dismissed.
+Georgia has long recognized a cause of action for intentional
+inflictionofemotionaldistress.However,theburdenwhichtheplaintiff
+mustmeetinordertoprevailinthiscauseofactionisastringentone.To
+prevail, a plaintiff must demonstrate that: (1) the conduct giving rise to
+the claim was intentional or reckless; (2) the conduct was extreme and
+outrageous; (3) the conduct caused emotional distress; and (4) the
+emotional distress was severe. The defendant’s conduct must be so
+extreme in degree, as to go beyond all possible bounds of decency, and
+to be regarded as atrocious, and utterly intolerable in a civilized
+community. Whether a claim rises to the requisite level of
+outrageousness and egregiousness to sustain a claim for intentional
+infliction of emotional distress is a question of law.
+Mayorga v. Benton, 364 Ga. App. 665, 670(1) (875 SE2d 908) (2022). As we have
+explained, “conduct which occurs in the context of the victim’s employment may
+produceacharacterofoutrageousnessthatmightotherwisenotexist...[because]the
+workplace presents a hierarchy of structured relationships which cannot easily be
+avoidedandtherebyprovidesacaptivevictim[.]”Howertonv.HarbinClinic,333Ga.
+App.191,206(2)(a)(776SE2d288)(2015)(citationmodified).Andwhenweconsider
+17whether conduct meets the standard for IIED, we consider the alleged actions
+collectively.Id.Nevertheless,“[a]ctionableconductdoesnotincludeinsults,threats,
+indignities, annoyances, petty oppressions, or other vicissitudes of daily living but
+mustgobeyondallreasonableboundsofdecency.”Ashmanv.Marshall’sofMA,244
+Ga. App. 228, 229(1) (535 SE2d 265) (2000). Thus, we have imposed liability “only
+where the conduct has been so outrageous in character, and so extreme in degree, as
+... to be regarded as atrocious, and utterly intolerable in a civilized community.”
+Ghodrati v. Stearnes, 314 Ga. App. 321, 323–24 (723 SE2d 721) (2012) (quotation
+marks omitted).
+Here,evenassumingtheallegationsinGrant’scomplaintaretrue,andviewing
+the alleged actions cumulatively, they do not rise to the requisite level of extreme or
+outrageousconducttostateaclaimforIIEDasamatteroflaw.Mayorga,364Ga.App.
+at 670(1). Grant complained that he was assigned a “coach” or mentor to shadow
+him, but white principals were not; other employees warned him that district
+employees were “trying to build a case against” him; he was “forced to relinquish
+command and control of the school” to district employees; and he was “placed on
+leave due to the stressors incurred at the hands of” district employees before he
+18ultimately resigned. But we have generally required more than a mere adverse
+employment decision to establish that the conduct was sufficiently extreme and
+outrageous to state a claim for IIED. Bowers v. Estep, 204 Ga. App. 615, 618(2) (420
+SE2d336)(1992)(plaintifffailedtoestablishIIEDwhereplaintiffallegedthathewas
+“maliciously” transferred to another position, and his supervisors threatened,
+humiliated, and intimidated him while asking about his emotional condition).5
+Compare Howerton, 333 Ga. App. at 206-07(2)(a) (plaintiff stated a claim for IIED
+wheresheallegedphysicianintheclinicwheresheworkedmadecommentsabouther
+genitalia to other employees while she was being treated by them).
+TheconductGrantalleges,althoughunpleasantanddemeaning,isinsufficient
+to survive a motion to dismiss because it is not “so outrageous in character, and so
+extremeindegree,astogobeyondallpossibleboundsofdecency.”Ghodrati,314Ga.
+5
+We have repeatedly found similar conduct insufficient to avoid summary
+judgment.SouthlandPropanev.McWhorter,312Ga.App.812,819(3)(720SE2d270)
+(2011) (accusations of forgery, followed by termination and removal from premises
+was insufficient to constitute IIED); Abdul-Malik v. AirTran Airways, 297 Ga. App.
+852, 857(1) (678 SE2d 555) (2009) (comments in meeting calling plaintiff a terrorist
+andaliarwereinsufficienttoestablishIIED);Kramerv.KrogerCo.,243Ga.App.883,
+888(3)(c)(534SE2d446)(2000)(“defamatoryorderogatoryremarksregardingone’s
+employment generally do not rise to the level of extreme and outrageous conduct.”
+(citation modified));
+19App. at 323–24. At most, this conduct constitutes the type of annoyances and
+indignities that can occur in the workplace. Ashman, 244 Ga. App. at 229(1).
+As to the breach of fiduciary duty, Grant contends that there is a fiduciary
+relationship between himself, the defendant employees, and the Human Resources
+officers based on the contract for employment. We disagree.
+To establishabreach of fiduciaryduty,Grantmustshow “(1)theexistenceof
+a fiduciary duty; (2) breach of that duty; and (3) damage proximately caused by the
+breach.”AnsleyMarineConst.,Inc.v.Swanberg,290Ga.App.388,391(1)(660SE2d
+6) (2008) (citation modified).
+The employee-employer relationship is not one from which the
+law will necessarily imply fiduciary obligations; however, the facts of a
+particularcasemayestablishtheexistenceofaconfidentialrelationship
+between an employer and an employee concerning a particular
+transaction, thereby placing upon the parties the fiduciary obligations
+associated with a principal-agent relationship.
+Atlanta Mkt. Ctr. Mgmt., Co. v. McLane, 269 Ga. 604, 607(1)(b) (503 SE2d 278)
+(1998). A fiduciary relationship stems from a confidential relationship between the
+parties.McConnell,345Ga.App.at680(3).SeealsoAtlantaMkt.Ctr.Mgmt.,269Ga.
+at 606(1). And, under OCGA § 23-2-58,
+20[a]ny relationship shall be deemed confidential, whether arising from
+nature,createdbylaw,orresultingfromcontracts,whereonepartyisso
+situatedastoexerciseacontrollinginfluenceoverthewill,conduct,and
+interest of another or where, from a similar relationship of mutual
+confidence, the law requires the utmost good faith, such as the
+relationship between partners, principal and agent.
+SeealsoMcConnell,345Ga.App.at680(3).And,toconstituteafiduciaryrelationship
+inanemployer-employeecontext,theemployeemustbe“vestedwithauthority,real
+or ostensible, to create obligations on behalf of the employer.” Atlanta Mkt. Ctr.
+Mgmt., 269 Ga. at 606(1)(a).
+Here, Grant has not alleged any particular facts, outside the contract for
+employment, that would create a confidential relationship and a fiduciary duty. See
+AtlantaMkt.Ctr.Mgmt.,269Ga.at607(1)(b).SeealsoHaleyv.Children’sHealthcare
+ofAtlanta,No.1:25-cv-3855-ELR-LRS,slipop.at*6(D),2026WL790900,at*6(D)
+(N. D. Ga. 2026) (dismissing breach of fiduciary duty claim where plaintiff failed to
+allege how the parties’ relationship established a fiduciary duty).
+Giventheallegationsinthecomplaint,GranthasfailedtostateaclaimforIIED
+orabreachoffiduciaryduty.Accordingly,thetrialcourterredbydenyingthemotion
+21to dismiss Grant’s complaint with regard to the allegations against the employees in
+their individual capacities.
+b. Plaintiff Douglas
+Douglas alleged that district employees questioned his decisions in front of
+other staff; ignored reports that he had been threatened by the spouse of a school
+employee; held his contract for a period of time before renewing it; demeaned his
+leadership;recruitedstafftounderminehisauthorityandharasshim;andplacedhim
+on administrative leave without cause.
+Douglas does not allege in his complaint that the employees’ actions were
+outrageousandextreme.Scoutenv.AmerisaveMortg.Corp.,284Ga.App.242,244(3)
+(643 SE2d 759) (2007), vacated in part on other grounds in 291 Ga. App. 493 (662
+SE2d741)(2008)(whereplaintiff’scomplaintfailedtoallegeorshowthatemployer’s
+actions were “extreme” or “outrageous,” it was “defective as a matter of law” and
+properly dismissed) (quotation marks omitted).
+Nor has Douglas sufficiently stated a claim for breach of fiduciary duty. See
+AtlantaMkt.Ctr.Mgmt.,269Ga.at606(1)(b);Haley,No.1:25-cv-3855-ELR-LRS,slip
+22op.at*6(D),2026WL790900,at*6(D).Accordingly,thetrialcourterredbydenying
+themotiontodismisstheseclaimsagainsttheemployeesintheirindividualcapacities.
+c. Plaintiff Forbes
+Forbes alleged that district employees demeaned her communication and
+leadershipskills;harassedher;warnedherthatshewould beremovedafterherthird
+year; made negative comments about her in front of other staff; and demoted her.
+As detailedabove,theseallegationsfail tostateaclaim foreither IIED, Bower,
+204Ga.App.at618(2),orbreachoffiduciaryduty,AtlantaMkt.Ctr.Mgmt.,269Ga.
+at607(1)(b);Haley,No.1:25-cv-3855-ELR-LRS,slipop.at*6(D),2026WL790900,
+at*6(D).Accordingly,thetrialcourterredbydenyingthemotiontodismissForbes’s
+claims against the employees in their individual capacities.
+Fortheforegoingreasons,thetrialcourt’sorderdenyingthemotionstodismiss
+isreversedinpartastothestatelawclaimsraisedagainstalldefendants.Thoseclaims
+are either barred by sovereign immunity or failed to state a claim. As to the Title VII
+claims against the school district, we vacate the trial court’s order, and remand the
+23case for reconsideration consistent with this opinion.
+Judgments reversed in part; vacated in part; and cases remanded with direction.
+Barnes, P. J., and Hodges, J., concur.
+24

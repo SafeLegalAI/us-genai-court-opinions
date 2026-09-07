@@ -1,0 +1,488 @@
+Mathew v. Verma
+
+Doc. 49
+
+UNITED STATES DISTRICT COURT
+EASTERN DISTRICT OF MICHIGAN
+SOUTHERN DIVISION
+ANISH SAM MATHEW,
+Plaintiff,
+v.
+
+Case No. 4:25-CV-13262
+District Judge F. Kay Behm
+Magistrate Judge Anthony P. Patti
+
+PARV VERMA,
+Defendant.
+_________________________/
+OPINION AND ORDER GRANTING “MOTION FOR ISSUANCE OF
+AMENDED SUMMONS” (ECF NO. 15), DENYING PLAINTIFF’S
+MOTION TO STRIKE THE UNAUTHORIZED FILINGS (ECF NO. 30);
+DENYING DEFENDANT’S MOTION FOR LEAVE TO FILE A SURREPLY (ECF NO. 29); AND DENYING DEFENDANT’S MOTION FOR
+LEAVE TO FILE EXCESS PAGES (ECF NO. 37)
+AND
+MAGISTRATE JUDGE’S REPORT AND RECOMMENDATION TO DENY
+WITHOUT PREJUDICE ALL DISPOSITIVE MOTIONS AS PREMATURE
+(ECF NOS. 16, 21, 40)
+I.
+
+ORDER AND RECOMMENDATION
+A. Order
+Plaintiff’s “Motion for Issuance of Amended Summons and Order Directing
+
+Clerk of Court to Sign and Seal Request for Service Abroad of Judicial or
+Extrajudicial Documents (Form USM-94)” (ECF No.15) is GRANTED.
+Defendant’s motion for leave to file a sur-reply (ECF No. 29 is DENIED.
+
+Dockets.Justia.com
+
+Plaintiff’s motion to strike the unauthorized filings (ECF No. 30) is DENIED.
+Finally, Defendant’s motion for leave to file excess pages (ECF No. 37) is
+DENIED.
+B. Recommendation
+Additionally, because Defendant is not yet properly served, and because he
+is adamant that he has not waived service, all pending substantive motions (ECF
+No. 16, 21, 40) should be DENIED WITHOUT PREJUDICE AS
+PREMATURE.
+II.
+
+ORDER ON SERVICE ISSUES
+A. Background
+Plaintiff Anish Sam Mathew, proceeding in pro per, initiated this case on
+
+October 16, 2025, against Parv Verma. (ECF No. 1.). On November 28, 2025,
+Plaintiff filed an amended complaint as of right. (ECF No. 10.) The amended
+complaint is the current operative pleading. Defendant, also in pro per, filed an
+answer to the original complaint as well as to the amended complaint. (ECF No.
+12.) In Defendant’s answer, he asserts that he was not properly served, that venue
+is improper, and that personal jurisdiction may be lacking. (Id.) Judge F. Kay
+Behm referred the matter to me “for all pretrial proceedings, including a hearing
+and determination of all non−dispositive matters pursuant to 28 U.S.C. §
+
+2
+
+636(b)(1)(A) and/or a report and recommendation on all dispositive matters
+pursuant to 28 U.S.C. § 636(b)(1)(B).” (ECF No. 6, PageID.21.)
+Both parties have filed a number of motions and, on February 12, 2026, I
+issued a Text-Only Order which stayed the case and directed the parties to cease
+filing motions pending further order of the Court.
+B. Analysis
+The parties have filed several motions related to the service of Defendant. I
+will address each in turn.
+1. Motion for Issuance of Amended Summons (ECF No. 15.)
+On December 31, 2025, two weeks after Defendant filed an answer to the
+amended complaint, Plaintiff filed a “Motion for Issuance of Amended Summons
+and Order Directing Clerk of Court to Sign and Seal Request for Service Abroad of
+Judicial or Extrajudicial Documents (Form USM-94).” (ECF No.15.) Plaintiff
+states that, as Defendant resides in India, and as India is a signatory to the Hague
+Convention, Plaintiff requires an amended summons and particular form (USM94) signed by a court officer in order to effectuate service. (ECF No. 15,
+PageID.256.)
+In a document entitled “Non-Waiver and Limited Appearance Solely to
+Preserve Objections to Service Under the Hague Convention,” Defendant objects
+to the issuance of an amended summons and to service under the Hague
+3
+
+Convention. (ECF No. 17.) The Court interprets this document as a response in
+opposition to Plaintiff’s “Motion for Issuance of Amended Summons . . .” (ECF
+No. 15.) This document asserts that Defendant has not consented to service or
+personal jurisdiction, but that anything Defendant has filed has been to “prevent
+default and preserve objections.” (ECF No. 17, PageID.278.) Defendant clearly
+has actual notice of this lawsuit and has been following the docket and receiving, at
+a minimum, electronic notice of all filings, but asserts that service has not been
+proper thus far.
+Confusingly, Defendant argues that he has “already filed limited objections
+preserving service defenses” and that therefore “Hague service is unnecessary at
+this stage.” (ECF No. 17.) Defendant wishes to avoid Hague service because such
+service “is typically executed through local courts and police authorities” and
+would be executed at his private residential address which would “unnecessarily
+disclose this civil dispute to Defendant’s family, neighbours [Commonwealth
+spelling] and community, causing irreparable prejudice and unwarranted thirdparty disclosure wholly unrelated to the merits of this case.” (ECF No. 17,
+PageID.279.) Defendant suggests this “harm is disproportionate and unnecessary
+given Defendant’s active participation in this action.” (Id.) Defendant contends
+that Hague service commonly requires several months to complete and that
+“imposing this delay solely to re-serve a defendant who has already appeared
+4
+
+serves no practical purpose and would unnecessarily prolong the proceedings.”
+(Id.) Defendant then requests the following relief:
+1.
+
+Deny or limit Plaintiff’s request for service under the Hague
+Convention to avoid Undue and Irreparable Prejudice; or
+
+2.
+
+In the alternative, authorize less intrusive and faster alternative
+service, if any, as the Court deems appropriate under Rule 4(f)(3),
+including electronic or mail service through the Court or Clerk; and
+
+3.
+
+Confirm that Defendant’s prior and present filings constitute no
+waiver of defenses under Fed. R. Civ. P. 12(b), including insufficient
+service of process and lack of personal jurisdiction; and
+
+4.
+
+Grant any other relief the Court deems just and proper.
+
+(ECF No. 17, PageID.279.)
+The day after filing his “Non-Waiver and Limited Appearance Solely to
+Preserve Objections to Service Under the Hague Convention,” Defendant filed two
+additional response briefs, both of them setting forth the arguments in opposition to
+Plaintiff’s “Motion for Issuance of Amended Summons . . .” (ECF No. 18, 19.) In
+both of these documents, Defendant takes the perplexing and self-contradictory
+position that he has never been validly served, but that he objects to service
+through the Hague; that service through alternative methods would “achieve notice
+efficiently,” but that he does not “consent to service” or “consent” to this Court’s
+jurisdiction and that he has “preserve[d]” his challenges to service and jurisdiction.
+(ECF No. 18, 19.) In other words, Defendant objects to official service, suggests
+alternative service, but seeks to preserve his objection to service even through that
+5
+
+alternative service. Defendant contends that he is not evading service, but objects
+to service “under the Hague Convention through local authorities.” (ECF No. 18,
+PageID.282.) Defendant states in one response that he is “prepared to accept
+service via email, the Court, Clerk, or any method deemed appropriate,” but also
+asserts that his brief is submitted solely to object to the method of proposed service
+and is not a consent to service or jurisdiction. (ECF No. 19, PageID.289.)
+Likewise, in another response, Defendant states that “Defendant is prepared
+to receive service by the following alternative methods” and then lists email,
+service through the Court or Clerk, or “any other method the Court Deems
+appropriate under Rule 4(f)(3).” (ECF No. 18, PageID.282.) But, Defendant also
+states that he is “prepared to receive [this] service . . . without waiving any
+jurisdictional or service defenses.” (Id. (emphasis added).) In other words,
+Defendant is suggesting alternative service that he will receive but nonetheless
+challenge. This is confirmed in yet another response brief filed by Defendant on
+January 14, 2026, in which he states that “Defendant has never made a general
+appearance, has never accepted service, and has never consented to this Court’s
+personal jurisdiction. Defendant’s filings have expressly and consistently preserved
+all objections to service, jurisdiction, and process.” (ECF No. 24, PageId.346.)
+In his reply, Plaintiff asserts that he does not wish to pursue alternative
+service, at this juncture. According to Plaintiff, any judgment obtained in this
+6
+
+lawsuit would need to be enforced in India and Indian courts specifically do not
+recognize service through alternate means. Specifically, Plaintiff states:
+While the Defendant has indicated a willingness to accept service via email
+to avoid the “embarrassment” of formal service, the Plaintiff declines to
+utilize alternative service under Federal Rule of Civil Procedure 4(f)(3) at
+this time. The Plaintiff’s insistence on formal service pursuant to the Hague
+Convention on the Service Abroad of Judicial and Extrajudicial Documents
+(“Hague Convention”) is intended to ensure the international enforceability
+of any judgment rendered by this Court.
+Because the Defendant resides in India, the ultimate value of this litigation
+rests on the Plaintiff’s ability to enforce a U.S. judgment in Indian courts.
+India has strictly objected to Article 10 of the Hague Convention.
+Consequently, a judgment resulting from service by email—a method not
+explicitly sanctioned by Indian law for foreign processes—risks being
+declared void and unenforceable by Indian courts.
+Therefore, to protect the integrity of these proceedings and the finality of the
+Court’s judgment, the Plaintiff respectfully requests that this Court grant the
+original Motion [ECF No. 15] and direct the Clerk to issue the Amended
+Summons and sign the Request for Service Abroad (Form USM-94) for
+transmission to the Indian Central Authority.
+(ECF No. 22, PageID.325-326.) Plaintiff’s argument is well taken.
+Plaintiff is entitled to attempt valid service through formal methods to ensure
+the enforceability of any judgment in foreign courts, Defendant’s “embarrassment”
+notwithstanding. This is particularly true where, as here, Defendant appears to be
+engaging in gamesmanship by suggesting alternative service while specifically
+attempting to reserve the right to challenge the suggested service. Further,
+Defendant has added confusion to the docket by filing a document entitled “Notice
+of Non-Waiver and Limited Appearance Solely to Preserve Objections to Service
+7
+
+Under the Hague Convention” (ECF No. 17), which suggests that Defendant is not
+waiving service, but then simultaneously asserting that Plaintiff should employ
+alternative service through email.
+Having reviewed all the briefing related to service, the Court finds:
+• Under Federal Rule of Civil Procedure 4(f)(1), “an individual—other
+than a minor, an incompetent person, or a person whose waiver has
+been filed—may be served at a place not within any judicial district of
+the United States . . . by any internationally agreed means of service
+that is reasonably calculated to give notice, such as those authorized
+by the Hague Convention on the Service Abroad of Judicial and
+Extrajudicial Documents . . .”
+• Defendant resides in India and therefore Rule 4(f)(1) applies.
+• Both parties agree that the Hague Convention applies and that
+Defendant has, at this point, not been validly served under the
+requirements of the Hague Convention.
+• Despite not having been validly served, Defendant demonstrably has
+actual notice of this lawsuit and is aware of all of the filings to date,
+including the complaint and the amended complaint, as Defendant
+makes repeated references to both in his filings.
+• Moreover, Plaintiff has registered as an e-filer with this Court and
+Defendant has utilized the pro se portal to upload his filings;
+therefore, both parties are savvy enough to navigate the Court’s
+system to preserve and pursue their rights.
+• No matter that Defendant has actual notice of this lawsuit, he has
+consistently asserted that he has not been validly served and that he
+has not waived any objections to personal jurisdiction or service.
+Under these facts, Plaintiff has set forth a persuasive argument as to why
+formal service through the Hague Convention is necessary, and has correctly
+8
+
+identified the form necessary to achieve service. Further, from the Court’s
+research, Plaintiff is correct that the “USM-94: Request for Service Abroad of
+Judicial or Extrajudicial Documents” must be certified and stamped by the Clerk of
+the Court, because a pro se party cannot be the forwarding authority. 1 The Court
+therefore GRANTS Plaintiff’s “Motion for Issuance of Amended Summons and
+Order Directing Clerk of Court to Sign and Seal Request for Service Abroad of
+Judicial or Extrajudicial Documents (Form USM-94)” (ECF No. 15) as follows:
+Plaintiff is DIRECTED to prepare a Form USM-94 to present to the Clerk
+of the Court for stamping and certification. It is Plaintiff’s responsibility to
+properly complete the form and the Clerk’s Office is not responsible for verifying
+its accuracy. Plaintiff is DIRECTED to present the form and any necessary copies
+in person at the Clerk’s Office at the Theodore Levin Federal Courthouse at 231
+W. Lafayette Blvd, in Detroit, Michigan. Upon presentation of the form(s), the
+Clerk of the Court is DIRECTED to sign, certify, or stamp the form(s), as
+necessary, in the normal course of business.
+Plaintiff also asks for issuance of an amended summons. While an amended
+summons may not be necessary, neither will it hurt or prejudice either party. As
+such, when presenting the Form USM-94 to the Clerk of Court, Plaintiff may also
+present an amended summons to the Clerk for signature. The Clerk of the Court is
+1
+
+https://www.justice.gov/civil/page/file/1064896/dl?inline
+9
+
+DIRECTED to cooperate with Plaintiff to facilitate the issuance of the amended
+summons.
+The Court notes that Fed. R. Civ. P. 4(m) sets the time in which a plaintiff
+must effect service and provides that, “[i]f a defendant is not served within 90 days
+after the complaint is filed, the court—on motion or on its own after notice to the
+plaintiff—must dismiss the action without prejudice against that defendant or order
+that service be made within a specified time.” Fed. R. Civ. P. 4(m). However,
+Rule 4(m) “does not apply to service in a foreign country under Rule 4(f), 4(h)(2),
+or 4(j)(1)” and Rule 4 does not set a deadline for foreign service otherwise. Id.
+Accordingly, Plaintiff need not show “good cause” at this point to extend time for
+service. The Sixth Circuit has not addressed the time afforded to a plaintiff to
+serve process in a foreign country. Kremer v. Webador.com, No. 2:24-CV-00028,
+2025 WL 2492476, at *4 (M.D. Tenn. July 29, 2025), report and recommendation
+adopted, No. 2:24-CV-00028, 2026 WL 19411 (M.D. Tenn. Jan. 2, 2026).
+“Weighing the difficulty of setting a strict deadline for foreign service when
+processes differ across nations and may be largely out of the plaintiff’s control
+against the need for ‘some time limit for service of process in a foreign country
+that courts can delineate’ to prevent plaintiffs from ‘flout[ing] statutes of
+limitations,’ district courts in the Sixth Circuit have adopted equitable tests applied
+in other circuits.” Id. (citing Warren v. Jarrold, Case No. 2:21-cv-11734, 2021
+10
+
+WL 5299670, at *2 (E.D. Mich. Nov. 15, 2021) (collecting district court cases and
+adopting an equitable “excusable neglect analysis”); see also Harris v. Orange
+S.A., 636 F. App’x 476, 485–86 (11th Cir. 2015) (following “the majority of
+circuits” to allow dismissal upon showing that a plaintiff “failed to exercise
+diligence in attempting to effectuate service on a foreign defendant”); Lozana v.
+Bosdet, 693 F.3d 485, 488–89 (5th Cir. 2012) (adopting a “flexible due diligence”
+standard); Nylok Corp. v. Fastener World Inc., 396 F.3d 805, 807 (7th Cir. 2005)
+(holding that “the amount of time allowed for foreign service is not unlimited”)).
+In this case, there is no doubt that Plaintiff is diligently pursuing his rights
+and Plaintiff is entitled to more time to serve Defendant, especially in light of the
+fact that the USM-94 has not yet been completed. Nonetheless, in order to keep
+this litigation progressing, the Court will set a deadline by which Plaintiff must
+complete the form for presentation to the Clerk’s Office. Plaintiff is DIRECTED
+to present the properly completed USM-94 to the Clerk’s Office by September 10,
+2026.
+Finally, Plaintiff is strongly encouraged to utilize the services of private,
+third-party entities specializing in assisting parties in the proper completion of
+Hague documents such as the USM-94. Further, there is also a federal pro se legal
+assistance clinic operated in the Courthouse by the University of Detroit-Mercy
+Law School. To determine eligibility for assistance, pro se parties may contact the
+11
+
+Federal Pro Se Legal Assistance Clinic at (313) 234-2690 or at
+proseclinic@udmercy.edu.
+2. Other Non-Dispositive Motions (ECF No. 29, 30, 37)
+Also pending before the Court is Defendant’s motion for leave to file a surreply (ECF No. 29), in which he seeks to file yet another brief on the service issue.
+This motion is DENIED. Under the Local Rules of this Court, parties are allowed
+one response brief in opposition to any motion. See E.D. Mich. LR 7.1(c). My
+practice guidelines make clear that I adhere to the local rules regarding the number
+and format of briefs, and that additional briefs will be disregarded or stricken. See
+https://www.mied.uscourts.gov/index.cfm?pageFunction=chambers&judgeid=51.
+At this point, Defendant has filed multiple unauthorized briefs in response to
+Plaintiff’s “Motion for Issuance of Amended Summons . . .” (See ECF Nos. 17,
+18, 19, 23, 24.) I have already stricken one of these briefs. (ECF No. 23.) The
+only reason I am opting not to strike the other pending briefs is because Defendant
+makes certain representations and concessions in these briefs that are relevant to
+what I perceive to be Defendant’s gamesmanship. I will not strike the other briefs
+in the unlikely event another court finds it necessary to review the representations
+made in the filings. However, I will not grant further leave to file yet additional
+briefs on this already over-litigated issue.
+
+12
+
+Additionally, Plaintiff’s motion to strike the unauthorized filings (ECF No.
+30) is DENIED. As stated, at this point the better course of action is to leave the
+filings on the docket, given the representations made therein.
+Finally, Defendant’s motion for leave to file excess pages (ECF No. 37) is
+DENIED. The Court does not need additional pages for any briefing in this case.
+And, because the Local Rules are already generous enough in this regard, the
+parties should not expect extended page limitations int the future either.
+III.
+
+REPORT AND RECOMMENDATION ON DEFENDANT’S MOTION
+TO DISMISS (ECF NO. 21); PLAINTIFF’S MOTION TO DISMISS
+THE COUNTERCLAIMS (ECF NO. 16); AND DEFENDANT’S
+MOTION FOR IMMEDIATE RELIEF (ECF NO. 40.)
+Before the Court, are two dispositive motions: Defendant’s motion to
+
+dismiss (ECF No. 21) filed under Fed. R. Civ. P. 12(b)(6), which challenges the
+strength of Plaintiff’s pleadings, and Plaintiff’s motion to dismiss Defendant’s
+counterclaims (ECF No. 16). The Court should DENY both motions without
+prejudice as premature. “Due process requires proper service of process for a court
+to have jurisdiction to adjudicate the rights of the parties.” O.J. Distrib., Inc. v.
+Hornell Brewing Co., Inc., 340 F.3d 345, 353 (6th Cir. 2003) (abrogated on other
+grounds by Morgan v. Sundance, Inc., 596 U.S. 411 (2022)). When a defendant
+objects to service but also files a motion under 12(b)(6), the proper course of action
+is to first determine if service was sufficient, and if so, to subsequently address the
+merits of the plaintiff’s claims. See Fedele v. INEOS Pigments USA, No. 1:24-CV13
+
+01225-PAB, 2025 WL 50240, at *10–11 (N.D. Ohio Jan. 8, 2025) (citing Simpkins
+v. D.C. Gov’t, 108 F.3d 366, 370 (D.C. Cir. 1997) (“The sequence of decision
+[plaintiff] describes—first, determine if service of process has been properly
+accomplished, and only if it has, proceed to the Rule 12(b)(6) determination—is
+the usual practice.”); Hilska v. Jones, 217 F.R.D. 16, 22 n.10 (D.D.C. 2003) (“The
+court need not address defendant Jones’s alternative Rule 12(b)(6) motion at this
+time in light of the court’s determination of insufficient service of process. Indeed,
+to proceed to a Rule 12(b)(6) determination, the court must first determine that the
+plaintiff has properly effected service of process.”)). If service is not proper, the
+Court lacks personal jurisdiction over Defendant to address any substantive
+arguments. See id. (citing Nguedi v. Admin. Office of United States Court, 2024
+WL 2252084, 2024 U.S. Dist. LEXIS 89063 (D.D.C. May 17, 2024) (In Nguedi,
+the court declined to “reach the [defendant’s] other arguments for dismissal until
+service is effectuated” because “the Court currently lacks personal jurisdiction over
+[the defendant].”)).
+Since Defendant has not been adequately served, it is premature to address
+or adjudicate the rights of the parties or the strength of the pleadings. 2
+
+The Court could also consider striking Defendant’s two answers (ECF No. 11 &
+12). As Defendant vehemently asserts he has not been properly served, the
+answers are likewise premature. For docket clarity, Defendant could be instructed
+not to file any answer until he has been served.
+
+2
+
+14
+
+Similarly, Defendant’s Motion for Immediate Relief (ECF No. 40) should
+also be DENIED without prejudice as premature, because it too challenges the
+content of Plaintiff’s complaint. Defendant argues that Plaintiff’s initial complaint
+caused damage to Defendant’s business through its circulation, and argues that
+Defendant is entitled to damages based on circulation of the initial complaint.
+Defendant’s motion is premature, at a minimum, and likely improper. As stated
+above, Defendant is yet to be served in this case and appears to challenge this
+Court’s jurisdiction. It is difficult to comprehend how Defendant can, on one
+hand, claim this Court lack’s jurisdiction to entertain Plaintiff’s lawsuit, but on the
+other hand ask this Court to dismiss the complaint on the merits and award
+Defendant damages based on the allegations made in Plaintiff’s pleading.
+Moreover, it appears to the Court that Defendant’s argument is based on an abuse
+of process claim, which is a cause of action, not an argument to be made in a
+motion.
+In any event, until Defendant is validly served, the Court should not
+entertain any dispositive motions or any substantive motions that attack the
+pleadings. Accordingly, the Court should DENY WITHOUT PREJUDICE
+Defendant’s motion to dismiss (ECF No. 21); Plaintiff’s motion to dismiss
+Defendant’s counterclaims (ECF No. 16); and, Defendant’s Motion for Immediate
+Relief (ECF No. 40), as all three motions are premature.
+15
+
+IV.
+
+A Warning on Use of Artificial Intelligence (AI)
+There is ample reason to suspect the use of AI in this case. That is a bad idea
+
+in one very real and important sense: The parties will be held responsible for the
+content of their filings under Fed. R. Civ. P. 11, including the accuracy of all facts
+and law, regardless of whether they used generative AI to assist them. The Court
+will not accept AI as an excuse for inaccuracies and will hold the parties
+responsible for whatever filings appear with their signatures. As this Court has
+previously held:
+AI programs “are based on complex mathematical systems that learn their
+skills by analyzing enormous amounts of digital data. They do not — and
+cannot — decide what is true and what is false. Indeed, at times, they just
+make stuff up—a phenomenon some A.I. researchers call hallucinations.”
+Cade Metz & Karen Weise, A.I. Is Getting More Powerful, but Its
+Hallucinations Are Getting Worse, N.Y. Times (May 6, 2025),
+https://www.nytimes.com/2025/05/05/technology/ai-hallucinations-chatgptgoogle.html. As such, some courts have rejected the use of such AI programs
+in legal pleadings “out of hand”. J.G. v. New York City Dep’t of Educ., 719 F.
+Supp. 3d 293, 308 (S.D.N.Y. 2024).
+Hunt v. Morissette, No. 2-24-CV-12947-TGB-APP, 2025 WL 1660358, at *1
+(E.D. Mich. June 11, 2025). While the Court will not directly prohibit the parties
+from utilizing generative AI, the Court STRONGLY suggests that they do not
+attempt to utilize it to draft their Court filings and should certainly never fully rely
+upon it. Indeed, this Court has sanctioned pro se litigants for misrepresentations or
+AI-generated “phantoms” or “hallucinated” citations. See Ali v. IT People Corp.,
+Inc., No. 2:25-CV-10815, 2025 WL 2682622, at *2 (E.D. Mich. Sept. 19, 2025).
+16
+
+The parties are hereby DIRECTED to carefully read Fed. R. Civ. P. 11 in its
+entirety and to be on notice that any misrepresentation or AI-generated
+“phantom” citation will be sanctionable, per violation.
+V. CONCLUSION
+Plaintiff’s “Motion for Issuance of Amended Summons and Order Directing
+Clerk of Court to Sign and Seal Request for Service Abroad of Judicial or
+Extrajudicial Documents (Form USM-94)” (ECF No.15) is GRANTED.
+Defendant’s motion for leave to file a sur-reply (ECF No. 29 is DENIED.
+Plaintiff’s motion to strike the unauthorized filings (ECF No. 30) is DENIED.
+Finally, Defendant’s motion for leave to file excess pages (ECF No. 37) is
+DENIED.
+Additionally, because Defendant is not yet properly served, and because he
+is adamant that he has not waived service, all pending substantive motions (ECF
+No. 16, 21, 40) should be DENIED WITHOUT PREJUDICE AS
+PREMATURE.
+In closing, I note that Plaintiff has not yet served Defendant, yet there are
+already 48 docket entries on this case. Both parties are filing excessive motions,
+responses, notices, and other documents. The filing of multiple, unnecessary
+motions clogs the Court’s docket, takes time and attention from other cases, and
+ultimately delays this litigation. The parties are DIRECTED to cease filing
+17
+
+repetitive motions and briefs on the same issue. At this stage, Plaintiff should
+focus on obtaining valid service on Defendant.
+V.
+
+PROCEDURE ON OBJECTIONS
+A.
+
+Report and Recommendation
+
+The parties to this action may object to and seek review of this Report and
+Recommendation, but are required to file any objections within 14 days of service,
+as provided for in Federal Rule of Civil Procedure 72(b)(2) and Local Rule
+72.1(d). Failure to file specific objections constitutes a waiver of any further right
+of appeal. Thomas v. Arn, 474 U.S. 140, 144 (1985); Howard v. Sec’y of Health &
+Human Servs., 932 F.2d 505, 508 (6th Cir. 1991). Filing objections that raise some
+issues but fail to raise others with specificity will not preserve all the objections a
+party might have to this Report and Recommendation. Willis v. Sec’y of Health &
+Human Servs., 931 F.2d 390, 401 (6th Cir. 1991); Smith v. Detroit Fed’n of
+Teachers, Local 231, 829 F.2d 1370, 1373 (6th Cir. 1987). Pursuant to Local Rule
+72.1(d)(2), any objections must be served on this Magistrate Judge.
+Any objections must be labeled as “Objection No. 1,” and “Objection No.
+2,” etc. Any objection must recite precisely the provision of this Report and
+Recommendation to which it pertains. Not later than 14 days after service of an
+objection, the opposing party may file a concise response proportionate to the
+objections in length and complexity. Fed. R. Civ. P. 72(b)(2); E.D. Mich. LR
+18
+
+72.1(d). The response must specifically address each issue raised in the objections,
+in the same order, and labeled as “Response to Objection No. 1,” “Response to
+Objection No. 2,” etc. If the Court determines that any objections are without
+merit, it may rule without awaiting the response.
+B.
+
+Order On Non-Dispositive Motions
+
+The attention of the parties is drawn to Fed. R. Civ. P. 72(a), which provides
+a period of fourteen (14) days after being served with a copy of this order within
+which to file objections for consideration by the district judge under 28 U.S.C. §
+636(b)(1).
+
+Dated: August 10, 2026
+
+Anthony P. Patti
+UNITED STATES MAGISTRATE JUDGE
+
+19
+
+

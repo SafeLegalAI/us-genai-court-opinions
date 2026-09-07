@@ -1,0 +1,240 @@
+                               COURT OF CHANCERY
+                                     OF THE
+                               STATE OF DELAWARE
+     LORI W. WILL                                                LEONARD L. WILLIAMS JUSTICE CENTER
+    VICE CHANCELLOR                                                  500 N. KING STREET, SUITE 11400
+                                                                    WILMINGTON, DELAWARE 19801-3734
+                                       April 4, 2025
+
+    Daniel Jaiyong An                         A. Thompson Bayliss, Esquire
+    27 Calle Orta 3D Apt.                     Ben Lucy, Esquire
+    Cond Los Nardos A                         Abrams & Bayliss LLP
+    San Juan, Puerto Rico 00907               20 Montchanin Road, Suite 200
+                                              Wilmington, Delaware 19807
+
+          RE:    Daniel Jaiyong An v. Archblock, Inc.,
+                 C.A. No. 2024-0102-LWW
+
+Dear Counsel and Mr. An:
+
+          I write regarding the petitioner’s motion to compel discovery from the
+
+respondent (the “Motion”).1 There are several incorrect citations to case law in the
+
+Motion.2 Some of the authorities do not stand for the cited propositions. Others are
+
+quoted for statements they do not contain.
+
+          For example:
+
+          •      The Motion cites Terramar Retail Centers, LLC v. Marion #2-Seaport
+                 Trust U/A/D/ June 21, 2002 to explain that “[t]he Court has broad
+                 discretion in resolving discovery disputes and fashioning appropriate
+
+
+
+1
+    Pet.’s Mot. to Compel Discovery (Dkt. 25) (“Mot.”).
+2
+ The defendants likewise observe that the Motion “fabricates authority that does not exist.”
+See Defs.’ Opp’n to Pet.’s Mot. to Compel (Dkt. 26) ¶ 43.
+2024-0102-LWW
+April 4, 2025
+Page 2 of 6
+
+               remedies.”3 But Terramar addressed a motion to dismiss under Rule
+               12(b)(2). It did not make the point that the petitioner offers it for—or
+               even involve discovery.
+
+         •     The Motion twice cites Deutsch v. ZST Digital Networks, Inc. for the
+               idea that the Court of Chancery disfavors parties’ attempts to impose
+               unilateral discovery stays.4 It attributes the following quote to Deutsch:
+               “A party cannot unilaterally decide to stay discovery.”5 That quote is
+               not in Deutsch, which addressed a receiver’s request for an arrest
+               warrant for contempt. In fact, I am unable to find any case—in
+               Delaware or elsewhere—with that quote.6
+
+         •     The Motion cites Production Resources Group, LLC v. NCT Group,
+               Inc. to support the argument that the Court of Chancery interprets Rule
+               26 “broadly to facilitate the free flow of information between parties.”7
+               It attributes the following quote to the decision: “Delaware courts have
+               traditionally construed the scope of permissible discovery liberally.”8
+               That quote is not in NCT Group, or any other case I can find.9
+
+
+
+
+3
+ Mot. ¶ 12 (purportedly citing Terramar Retail Ctrs., LLC v. Marion #2-Seaport Tr.
+U/A/D/ June 21, 2002, 2017 WL 3575712 (Del. Ch. Aug. 18, 2017)).
+4
+ Id. ¶¶ 20, 29 (purportedly citing Deutsch v. ZST Digit. Networks, Inc., 2018 WL 3005822,
+at *3 (Del. Ch. June 14, 2018)).
+5
+    Id. ¶ 29 (purportedly quoting Deutsch, 2018 WL 3005822, at *3).
+6
+  I searched Westlaw’s “All State & Federal” database for this quote. The only hit returned
+was the petitioner’s own motion to compel. Interestingly, though, when prompted to find
+a Delaware decision with this quote, ChatGPT directed me to the Terramar decision for a
+similar cite.
+7
+ Mot. ¶ 11 (purportedly citing Prod. Res. Grp., LLC v. NCT Grp., 863 A.2d 772, 802 (Del.
+Ch. 2004)).
+8
+    Id. (purportedly quoting NCT Grp., 863 A.2d at 802).
+9
+  As with Deutsch, I searched Westlaw’s “All State & Federal” database for the quoted
+text. The only hit was the motion at issue here. See supra note 6.
+2024-0102-LWW
+April 4, 2025
+Page 3 of 6
+
+Based on these miscites, I suspect that the petitioner used generative artificial
+
+intelligence (“GenAI”) to prepare his Motion, and that the program may have
+
+“hallucinated.”10
+
+      The use of GenAI in legal work is not inherently problematic. It can benefit
+
+litigants and courts alike. GenAI streamlines legal research, assists in drafting
+
+documents, and supports efficient document review and summarization.11                By
+
+enhancing the accessibility of legal services, GenAI can lower barriers to justice.
+
+      Still, GenAI carries significant risks to the legal system if it is used carelessly.
+
+The Motion exemplifies the potential downsides. Specifically, the petitioner failed
+
+to ensure the accuracy of material prepared with GenAI and submitted to the court.
+
+“Quite obviously, many harms flow from such deception—including wasting the
+
+opposing party’s time and money, the Court’s time and resources, and reputational
+
+harm to the legal system (to name a few).”12
+
+
+10
+    “AI hallucination is a phenomenon wherein a large language model (LLM)—often a
+generative AI chatbot or computer vision tool—perceives patterns or objects that are
+nonexistent or imperceptible to human observers, creating outputs that are nonsensical or
+altogether inaccurate.” Harris as Next Friend of RNH v. Adams, --- F. Supp. 3d. ---, 2024
+WL 4843837, at *1 n.3 (D. Mass. Nov. 20, 2024) (quoting What are Hallucinations?, IBM,
+https://www.imb.com/topics/ai-hallucinations).
+11
+  See, e.g., Berger v. Graf Acquisition, LLC, 2024 WL 4541011, at *2 (Del. Ch. Oct. 21,
+2024) (discussing the efficiencies of technology-assisted document review).
+12
+  Morgan v. Cmty. Against Violence, 2023 WL 6976510, at *8 (D.N.M. Oct. 23, 2023);
+see also Park v. Kim, 91 F.4th 610, 615 (2d Cir. 2004) (recognizing that relying on “non-
+existent precedent generated by” AI is “an abuse of the adversary system” (citation
+2024-0102-LWW
+April 4, 2025
+Page 4 of 6
+
+      The petitioner’s submission of a filing with fictitious citations is
+
+sanctionable.13 “[I]t is improper and unacceptable for litigants—including pro se
+
+litigants—to submit ‘non-existent judicial opinions with fake quotes and
+
+citations.’”14 At the same time, “Delaware judges traditionally (and naturally) treat
+
+self-represented individuals with some degree of latitude” so long as the party’s pro
+
+se status does not “impose[] on the party opponent in a material way.”15
+
+      Mindful of these interests, I would have been inclined to deny the Motion
+
+without prejudice if the petitioner had been forthright. In his reply, however, the
+
+petitioner doubled down. He insists that though “some of the quoted language [in
+
+his cites] was paraphrased rather than verbatim, the principles from the cited cases
+
+
+
+
+omitted)); Mata v. Avianca, Inc., 678 F.Supp.3d 443, 448-49 (S.D.N.Y. 2023) (discussing
+“harms flow[ing] from the submission of fake opinions”).
+13
+   Anon. v. New York City Dep’t of Educ., 2024 WL 3460049, at *7 (S.D.N.Y. July 18,
+2024) (“Sanctions may be imposed for submitting false and nonexistent legal authority to
+the Court.” (citations omitted)).
+14
+   Id. (quoting Mata, 678 F. Supp. 3d at 448); Morgan, 2023 WL 6976510, at *7
+(“Although courts ‘make some allowances for the pro se [p]laintiff’s failure to cite to
+proper legal authority,’ courts do not make allowances for a [party] who cites to fake,
+nonexistent, misleading authorities.” (quoting James v. Wadas, 724 F.3d 1312, 1315 (10th
+Cir. 2013))).
+15
+  Govette v. Elec. Referral Manager, Inc., 2021 WL 2311956, at *2 (Del. Ch. June 7,
+2021).
+2024-0102-LWW
+April 4, 2025
+Page 5 of 6
+
+are directly relevant and on point.”16 That is untrue, as I explained above.17 The
+
+Motion is therefore denied with prejudice.
+
+         The petitioner should consider himself warned.18            Although I am not
+
+sanctioning the petitioner today, he must ensure that every future filing satisfies his
+
+obligations to this court, including that the filing is truthful, accurate, and cites to
+
+legitimate authorities.19 Any future filing must also include the certification required
+
+by the order accompanying this letter opinion, which addresses the use of GenAI.20
+
+The petitioner’s failure to comply with these requirements may result in sanctions,
+
+including monetary penalties, stricken filings, or the dismissal of this suit.
+
+
+16
+     Pet.’s Reply in Supp. of Mot. to Compel Discovery (Dkt. 27) ¶ 27.
+17
+     See supra notes 3-9 and accompanying text (discussing cited cases).
+18
+  Cf. Anon., 2024 WL 3460049, at *7 (declining to sanction a pro se litigant for citing fake
+authorities but warning that “the Court will not look kindly on similar infractions in the
+future”); Transamerica Life Ins. Co. v. Williams, 2024 WL 4108005, at *2 n.3 (D. Ariz.
+Sept. 6, 2024) (reminding a pro se litigant that she must comply with procedural rules and
+that “future filings with citations to nonexistent cases may result in sanctions such as
+dismissal of her claims”); Dukuray v. Experian Info. Sols., 2024 WL 3812259, at *11
+(S.D.N.Y. July 26, 2024) (acknowledging the possibility that a pro se plaintiff was “not
+aware of the risk that ChatGPT and similar AI programs are capable of generating fake
+case citations” but “warning” the plaintiff that “further filings with citations to
+nonexistence cases may result in sanctions”).
+19
+   He must also abide by his meet and confer obligation before filing a discovery motion
+and understand that this court is inclined to enter a confidentiality order in advance of any
+discovery.
+20
+   See Order Requiring Certification on Use Of Generative AI (Dkt. 39). This order is
+based upon a thoughtful precedent authored by Judge Brennan in the Superior Court. See
+Lillard v. Offit Kurman, P.A., 2025 WL 800833 (Del. Super. Mar. 12, 2025) (ORDER).
+2024-0102-LWW
+April 4, 2025
+Page 6 of 6
+
+III.   CONCLUSION
+
+       The petitioner’s Motion is denied. Similar misconduct by the petitioner in the
+
+future will yield sanctions. Any future filing must include the requisite certification
+
+on GenAI usage, as set out in the order accompanying this letter opinion.
+
+
+                                              Sincerely yours,
+
+                                              /s/ Lori W. Will
+
+                                              Lori W. Will
+                                              Vice Chancellor
+

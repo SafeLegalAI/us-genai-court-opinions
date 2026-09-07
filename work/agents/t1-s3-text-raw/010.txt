@@ -1,0 +1,800 @@
+In re Garcia-Martz, --- B.R. ---- (2026)
+WESTLAW © 2026 Thomson Reuters. No claim to original U.S. Government Works. 1
+2026 WL 1815400
+Only the Westlaw citation is currently available.
+United States Bankruptcy Court,
+N.D. Indiana, South Bend Division.
+IN RE: Luanna GARCIA-MARTZ, Debtor.
+Case No.: 25-31324-pes
+|
+Signed June 10, 2026
+Attorneys and Law Firms
+Lavita R. Ball, Rodney W. Geer, Cecil Scruggs, Geraci Law
+L.L.C., Chicago, IL, for Debtor.
+Tracy L. Updike, Office of the Chapter 13 Trustee, South
+Bend, IN, for Trustee Tracy L. Updike.
+Memorandum Decision on the Trustee's
+Objection to Application for Compensation
+Paul E. Singleton, United States Bankruptcy Judge
+*1 I. Introduction...––––
+II. Jurisdiction and Venue...––––
+III. Facts...––––
+IV. Analysis of the Trustee's Brief...––––
+A. Brief's Arguments: Section I(A) and I(B) statutory
+construction mandates that the Trustee, as disbursement
+agent, disburse the funds to Debtor and not Debtor's
+attorneys....––––
+1. Section 1326: The majority view applies because it is more
+specific than general Code provisions....––––
+a) Section 1326(a): Chapter 13 requires preconfirmation
+payments....––––
+b) Section 1326(a)(2): A Trustee's roadmap for disbursement
+of funds when a Chapter 13 plan is not confirmed....––––
+c) Section 503(b): Administrative compensation and
+reimbursement under § 330(a)....––––
+d) Section 330(a)(4)(B): Compensation for attorney work, in
+Chapter 13 cases....––––
+e) Section 330(a)(3): Compensation for relevant factors,
+including time, rate, and customary compensation....––––
+2. The Court found cause under § 349 to revest the property
+to Debtor's attorneys....––––
+B. Brief's Argument: Sweports is “binding case law” that
+requires the Court to return the funds to Debtor and not
+Debtor's attorneys....––––
+C. Brief's Argument: “Harm Created by a Contrary Ruling –
+Burden Shifting”...––––
+D. Brief's Argument: “Debtor's Ability to Compromise/
+Contract with Trustee”...––––
+V. Brief's Shortcomings under Indiana Rules of
+Professional Conduct and the Federal Rules of Bankruptcy
+Procedure....––––
+VI. Conclusion...––––
+The issue before the Court is how a Chapter 13 trustee should
+disburse funds from the estate when the Court does not
+confirm a Chapter 13 plan and dismisses the case.
+I. Introduction
+The Bankruptcy Code,1
+requires a debtor to make plan
+payments to the Chapter 13 trustee before a bankruptcy court
+confirms a debtor's plan. Section 1326(a)(1).2
+Under most
+circumstances, a Chapter 13 trustee does not distribute any
+of a debtor's payments until the court confirms or denies a
+debtor'sChapter13plan.3
+TheCourtneverconfirmedDebtor
+Garcia-Martz's Chapter 13 Plan.
+Debtor's attorneys, Geraci Law LLC, ask the Court to
+award the firm attorney fees from the funds the Chapter 13
+Trustee currently holds. The Trustee argues: (I) the timing
+of Debtor's Application for attorney fees prohibits the Court
+fromgrantingtheirApplication,and(II)theagreementamong
+Debtor,Debtor'sattorneys,andtheTrustee,requirestheCourt
+to distribute the funds to Debtor, and then Debtor would
+release those funds to Debtor's attorneys. The Court rejects
+both arguments and orders the Trustee to pay Geraci Law
+directly.
+II. Jurisdiction and VenueIn re Garcia-Martz, --- B.R. ---- (2026)
+WESTLAW © 2026 Thomson Reuters. No claim to original U.S. Government Works. 2
+A. Jurisdiction Statutes and Local Rules
+*2 ThisCourthassubjectmatterjurisdiction.Federaldistrict
+courts have “original and exclusive jurisdiction” of all cases
+underTitle11oftheUnitedStatesCode.28U.S.C.§1334(a).
+Geraci Law's administrative claim is a “core proceeding.”
+Id. § 157(b)(2)(B) (explaining core proceedings include
+“[a]llowance or disallowance of claims against the estate”).
+Bankruptcy courts have exclusive jurisdiction over disputes
+involving attorney fees. In re Edgewater Sun Spot, Inc., 183
+B.R. 938, 943 (N.D. Fla. 1995), aff’d sub nom. Edgewater
+Sun v. Pennington & Haben, 84 F.3d 438 (11th Cir. 1996); In
+re Garris, 496 B.R. 343, 354 (Bankr. S.D.N.Y. 2013).
+Bankruptcy courts are units of their district court. 28 U.S.C.
+§ 151. District judges may refer bankruptcy cases to the
+bankruptcy judges in their district. Id. § 157. The District
+Court for the Northern District of Indiana has referred all its
+bankruptcy cases to the Bankruptcy Court for the Northern
+District of Indiana. Id. § 157(a); N.D. Ind. L.R. 200-1(a).
+B. Ancillary Jurisdiction
+The Court also has “ancillary jurisdiction.” The Seventh
+Circuit described ancillary jurisdiction as “clean up”
+jurisdiction because bankruptcy courts use it to address any
+minorlooseendsofacase.InreSweports,Ltd.,777F.3d364,
+367 (7th Cir. 2015). Bankruptcy courts may retain ancillary
+jurisdiction for fee applications post dismissal. Id. at 367-68;
+In re Garris, 496 B.R. 343, 354 (Bankr. S.D.N.Y. 2013); In re
+Merovich, 547 B.R. 643, 649 (Bankr. M.D. Pa. 2016); In re
+Elias, 188 F.3d 1160, 1164 (9th Cir. 1999).
+C. Venue
+The South Bend Division is the proper venue for Debtor's
+case. 28 U.S.C. § 94(a) (identifying La Porte County as a
+county belonging in the South Bend Division, a division
+within the Northern District of Indiana).4
+III. Facts
+A. Debtor files her bankruptcy Petition and Plan but then
+moves to dismiss her case before confirmation.
+On August 8, 2025, Geraci Law, on Debtor's behalf, filed her
+Chapter 13 Petition [Doc 1] and Chapter 13 Plan. [Doc 6.]
+Once the attorneys filed the Petition, the automatic stay went
+into place.5
+The Court set a plan confirmation hearing for
+November 6, 2025. [Doc 9.] At the hearing, one of Debtor's
+attorneysorallymovedtodismissthecase.[Docs32,33.]The
+Court granted the request but stated, “[a]ny entity wishing to
+file a request for payment of an administrative expense under
+11 U.S.C. § 503(b) shall file the request within 14 days from
+the date of this order.” [Doc 33.]
+B. Geraci Law applies for compensation, files a proposed
+order, and notifies parties that they must object.
+Debtor's attorneys filed their Application for Compensation
+timely. [Doc 36.] In two and one-half pages, Debtor's
+attorneys listed the time they spent on performing duties,
+including: interviewing Debtor, deciding whether to file a
+Chapter 7 or 13 petition, preparing for and attending the
+341 meeting, communicating with Debtor and the Trustee,
+drafting the Plan, and reviewing documents. [Id. at pp.
+3-5.] Further, Debtor's attorneys listed their hourly rates and
+included the number of years each attorney has practiced law.
+[Id.] Senior attorneys worked for 13 years or more and billed
+at $425 or $450 per hour, while one attorney, who has only
+practiced for two years, billed at $300 per hour. [Id.]
+*3 The Application says nothing about settlement or an
+agreement between parties, nor did it ask the Court to return
+the funds to Geraci Law through Debtor. The Attorneys’
+Application simply requested, “that the balance of Attorney
+fees in the amount of $1,785 be ordered in the instant case
+and to grant such other relief as this Court deems just and
+proper.” [Id. at p. 1.]
+Geraci Law's proposed order [Doc 36-2.] did not match the
+firm's Application. The proposed order stated, “Trustee shall
+disburse any funds on hand at dismissal to the Debtor – Care
+of Geraci Law LLC.” [Id.] The form of order did not state
+that Debtor, Debtor's attorneys, and the Trustee agreed to the
+proposed order, nor did those three entities sign the proposed
+order.6
+Geraci Law informed Debtor, creditors, and the Trustee that
+if they objected to the law firm's Application, they must file
+their objection on or before December 11, 2025. [Doc 37.] If
+they did not file their objection by that time, the Court may
+grant the attorneys’ request without having a hearing. [Id.]
+On the other hand, if they did object, the Court would set a
+hearing. [Id.]
+C. The Trustee objects to the Application.
+The Trustee, the only party opposing the Application, timely
+filed her Objection. [Doc 38.] At the hearing, the Trustee wasIn re Garcia-Martz, --- B.R. ---- (2026)
+WESTLAW © 2026 Thomson Reuters. No claim to original U.S. Government Works. 3
+not prepared to argue the Objection and asked for additional
+time to file a supporting brief. [Docket Entry 01/22/2026.]
+The Court granted the request, and 34 days later, the Trustee
+filed her Brief.7
+[Doc 41.] The Brief's outline is as follows:
+I.Timingofanypost-dismissaladministrativeclaimwould
+be inappropriate for Trustee to disburse.
+A. Duties and Authority of the Chapter 13 Trustee as
+Disbursement Agent set by statute
+B. Statutory Construction
+C. Binding Caselaw Supports Return of All Funds at
+Denial of Confirmation
+D.HarmCreatedbyaContraryRuling–BurdenShifting
+II. Debtor's Ability to Compromise/Contract with Trustee
+The Court includes additional facts pertaining to the Trustee's
+individual arguments in the relevant sections below.
+IV. Analysis of the Trustee's Brief
+A. Brief's Arguments: Section I(A) and I(B) statutory
+construction mandates that the Trustee, as disbursement
+agent, disburse the funds to Debtor and not Debtor's
+attorneys.
+For Parts I(A) and I(B) of the Brief, it appears the Trustee's
+argument highlights a split that the Seventh Circuit has yet
+to resolve – whether § 1326(a)(2) or § 349(b)(3) controls
+when a bankruptcy court dismisses a Chapter 13 case pre-
+confirmation. The majority of courts conclude that § 1326(a)
+(2) controls, and therefore, a trustee must disburse funds
+to entities (like debtors’ attorneys) who have an allowed
+administrative claim before returning any remaining funds to
+thedebtor.InreNelums,617B.R.70,74(Bankr.D.S.C.2020)
+(citingWheaton,547B.R.490,498-99(B.A.P.1stCir.2016))
+(citations omitted); In re Kirk, 537 B.R. 856, 860-61 (Bankr.
+N.D. Ohio 2015); In re Fairnot, 571 B.R. 767, 771 (Bankr.
+E.D. Mich. 2017); Matter of Hightower, No. 14-30452-EJC,
+2015 WL 5766676, at *5 (Bankr. S.D. Ga. Sept. 30, 2015);
+Merovich, 547 B.R. at 648; In re Ward, 523 B.R. 142 (E.D.
+Wis 2014); In re Rogers, 519 B.R. 267, 273 (Bankr. E.D. Ark.
+2014);InreJames,490B.R.795,798(Bankr.N.D.Ill.2013).
+*4 Undertheminorityview,§349(b)(3)requiresatrusteeto
+releasethefundstoadebtor.ThatCodesectionrequiresfunds
+to “revest[ ] in the entity in which such property was vested
+immediately before the commencement of the case under this
+title,”which,theTrusteeseemstoargue,wouldbeDebtor,not
+Debtor's attorneys. Section 349(b)(3); In re Lewis, 346 B.R.
+89 (Bankr. E.D. Pa. 2006); Nelums, 617 B.R. at 74 (citations
+omitted) (explaining that § 349 controlling over § 1326 is the
+minority view).
+The Trustee's Brief is unclear, at times, about which Code
+provisionitisciting.Ituseswordsfrombothstatutesbutoften
+omits the Code citations. In short, the Court rejects the Brief's
+arguments under I(A) and I(B) and finds:
+• § 1326(a)(2) applies because it is the more specific Code
+provision that controls Chapter 13 cases, whereas §
+349(b)(3) has general applicability across all chapters;
+• § 349(b)(3) does not apply, but even if it did, the Court's
+“finding cause” and “ordering otherwise” requires the
+Trustee to disburse the funds to Debtor's attorneys; and
+• Contrary to the Brief's assertions, under the facts here, §
+1326(a)(2), not § 349(b)(3), returns the parties closest to
+their prepetition status.
+1. Section 1326: The majority view applies because
+it is more specific than general Code provisions.
+As explained in more detail in sections (a)-(e) below, §§
+1326(a); 503(b); and 330(a)(4)(B) allow attorneys to be
+compensated for the work they perform in unconfirmed
+Chapter 13 cases.
+a) Section 1326(a): Chapter 13
+requires preconfirmation payments.
+Section 1326(a)(1) requires, under most circumstances, a
+debtor to make plan payments before a debtor's confirmation
+hearing: “Unless the court orders otherwise, the debtor
+shall commence making payments not later than 30 days
+after the date of the filing of the plan or the order for
+relief, whichever is earlier.” A debtor may make “adequate
+protection” payments to a Chapter 13 trustee so that the
+trusteemaypayaparticularsecuredcreditorpre-confirmation
+payments.Section1326(a)(2);InreBrown,348B.R.583,590
+(Bankr.N.D.Ga.2006);KeithM.Lundin,LundinOnChapter
+13, § 39.9.8In re Garcia-Martz, --- B.R. ---- (2026)
+WESTLAW © 2026 Thomson Reuters. No claim to original U.S. Government Works. 4
+b) Section 1326(a)(2): A Trustee's
+roadmap for disbursement of funds when
+a Chapter 13 plan is not confirmed.
+Section 1326(a)(2) explains that if a court dismisses a case
+before the plan is confirmed, the Chapter 13 trustee must
+deduct allowed administrative claims under § 503(b) – the
+Codesectionthatgovernsadministrateexpenses–thenreturn
+the remaining funds to the debtor. Section 1326(a)(2) states:
+A payment made under paragraph
+(1)(A) shall be retained by the
+trustee until confirmation or denial of
+confirmation. If a plan is confirmed,
+the trustee shall distribute any such
+paymentinaccordancewiththeplanas
+soon as is practicable. If a plan is not
+confirmed, the trustee shall return
+any such payments not previously
+paid and not yet due and owing to
+creditors pursuant to paragraph (3)
+to the debtor, after deducting any
+unpaid claim allowed under section
+503(b)
+(emphasis added).
+Thus, here, § 1326(a)(2) operates as follows:
+(1) Under the first sentence in § 1326(a)(2), Debtor made
+pre-confirmation plan payments.
+(2) The Chapter 13 Trustee held those payments until the
+Plan was confirmed or denied.
+(3) Under the third sentence in § 1326(a)(2), the Plan
+was not confirmed. Accordingly, the Trustee must first
+deductunpaid§503(b)claims,which,asthenextsection
+of this Decision explains, can be Debtor's attorney fees,
+and then return the funds to Debtor (or appropriate
+creditors under some circumstances, none of which
+apply here).
+*5 The third sentence in § 1326(a)(2) is clear and only
+becomes operative if the court does not confirm a plan. In
+re Kerr, 570 B.R. 76-77 (Bankr. N.D. Ind. 2017). The third
+sentence is a specific Code provision for Debtor's scenario
+and is more applicable than any general Code provisions.
+Kirk, 537 B.R. at 860-61; Wheaton, 547 B.R. at 498-99;
+Merovich, 547 B.R. at 648.
+The general Code provision, the part of the Bankruptcy Code
+the minority view approach uses, is § 349(b)(3), which states,
+“Unless the court, for cause, orders otherwise, “a dismissal
+of a case ... revests the property of the estate in the entity
+in which such property was vested immediately before the
+commencement of the case under this title.” Section 349(b)
+(3) (emphasis added). As the Court will show below, with
+the facts in this case, the emphasized language will become
+important. Even if this Court were to adopt the minority view,
+the language in its order dismissing this case mandates the
+Trustee pay Geraci Law its attorney fees.
+This Court agrees with the majority of courts that have
+concluded that when a Chapter 13 case is dismissed pre-
+confirmation, § 1326(a)(2), not § 349(b), controls. Nelums,
+617 B.R. at 74 (citing Wheaton, 547 B.R. at 498-99)
+(explaining that the majority of courts conclude that §
+1326(a)(2) is the controlling statute regarding disbursement
+offundsonceaChapter13caseisdismissedpreconfirmation)
+(citations omitted); see Kirk, 537 B.R. at 861; Fairnot,
+571 B.R. at 771 (citations omitted); Hightower, 2015 WL
+5766676, at *6 (citation omitted); Merovich, 547 B.R. at 648;
+Ward, 523 B.R. at 148; Rogers, 519 B.R. at 271; Garris, 496
+B.R. at 352; James, 490 B.R. at 798; Kerr, 570 B.R. at 76
+(citations omitted).
+Therefore,theTrusteemustdisburse,asdirectedby§1326(a)
+(2), all pre-confirmation payments to Debtor, “excluding
+only those amounts specifically exempted by the statute
+(i.e., ... § 503(b) administrative expenses).” In re Soussis,
+136 F.4th 415, 437 (2d Cir. 2025) (emphasis added) (citations
+omitted). Next, the Court turns to administrative expenses
+under § 503(b).
+c) Section 503(b): Administrative compensation
+and reimbursement under § 330(a)
+Section 503(b) addresses administrative expenses and allows
+a court to award attorneys compensation and reimbursement
+under § 330(a). The Court underlines the portion the Trustee
+focusesonin§503(b)(1)(A)butboldsthelanguagetheCourt
+finds applicable.In re Garcia-Martz, --- B.R. ---- (2026)
+WESTLAW © 2026 Thomson Reuters. No claim to original U.S. Government Works. 5
+(b) After notice and a hearing, there shall be allowed
+administrative expenses ... including—
+(1)
+(A) the actual, necessary costs and expenses of
+preserving the estate ...9
+(2) compensation and reimbursement awarded
+under section 330(a) of this title;
+(emphasis added). The Brief makes a critical error. It relies
+on the underlined text – the text in § 503(b)(1)(A) – without
+considering the bold text – the text in § 503(b)(2). Section
+503(b) allows different types of administrative expenses.
+A § 503(b)(2) administrative expense does not require the
+administrative expense to be incurred by the estate. In re
+Perdido Motel Grp., Inc., 115 B.R. 340, 343 (Bankr. N.D.
+Ala. 1990); In re Argento, 282 B.R. 108, 116 (Bankr. D.
+Mass. 2002); Rogers, 2023 WL 6938150, at *2; 3 Collier on
+Bankruptcy P 330.03 [1][v] (16th 2026). In fact, § 503(b)
+(2) does not reference the estate. Perdido Motel Grp., 115
+B.R. at 343. Attorney fees are considered an allowable
+administrative expense under 11 U.S.C. § 503(b)(2). Matter
+of Malaspina, 30 B.R. 267, 269 (Bankr. W.D. Pa. 1983).
+An appropriate § 503(b)(2) administrative expense may also
+include compensation and reimbursement awarded under §
+330(a).
+d) Section 330(a)(4)(B): Compensation
+for attorney work, in Chapter 13 cases
+*6 Section 330(a)(4)(B) allows attorneys for Chapter 13
+debtors to be compensated for the work attorneys performed
+in representing the debtors, even if the attorneys’ work does
+not benefit the estate:
+In a Chapter 12 or Chapter 13
+case in which the debtor is an
+individual, the court may allow
+reasonable compensation to the
+debtor's attorney for representing
+the interests of the debtor in
+connection with the bankruptcy case
+based on a consideration of the
+benefitandnecessityofsuchservices
+to the debtor and the other factors
+set forth in this section
+(emphasis added); In re Steen, 631 B.R. 704, 709 (Bankr.
+N.D. Tex. 2021) (“Section 330(a)(4)(B) essentially creates
+an exception to the general rule that fees are compensable
+from the estate only if the services benefit the estate”); In
+re Williams, 378 B.R. 811, 823 (Bankr. E.D. Mich. 2007)
+(Section 330(a)(4)(B) (same)); 3 Collier on Bankruptcy P
+330.03[1][b][v] (16th 2026) (same).
+Therefore, whether the services rendered benefited the estate
+is not the proper question to ask here. Congress intended for
+debtors’ attorneys in Chapter 13 cases to be compensated
+from the estate, even when the estate received no direct
+benefit from the attorneys’ services. In re Walsh, 538 B.R.
+466, 475 (Bankr. N.D. Ill. 2015) (citations omitted).
+e) Section 330(a)(3): Compensation for relevant factors,
+including time, rate, and customary compensation
+Section 330(a)(3) explains how courts should consider
+reasonable compensation and lists factors a court may take
+into account:
+In determining the amount of reasonable compensation to
+be awarded to an examiner, trustee under Chapter 11, or
+professional person, the court shall consider the nature, the
+extent, and the value of such services, taking into account
+all relevant factors, including—
+(A) the time spent on such services;
+(B) the rates charged for such services;
+(C) whether the services were necessary to the
+administrationof,orbeneficialatthetimeatwhichthe
+service was rendered toward the completion of, a case
+under this title;
+(D) whether the services were performed within a
+reasonable amount of time commensurate with the
+complexity, importance, and nature of the problem,
+issue, or task addressed;
+(E) with respect to a professional person, whether the
+person is board certified or otherwise has demonstrated
+skill and experience in the bankruptcy field; andIn re Garcia-Martz, --- B.R. ---- (2026)
+WESTLAW © 2026 Thomson Reuters. No claim to original U.S. Government Works. 6
+(F) whether the compensation is reasonable based on
+thecustomarycompensationchargedbycomparably
+skilledpractitionersincasesotherthancasesunderthis
+title
+(emphasis added). When a Chapter 13 debtor's plan is not
+confirmed, and the debtor's attorneys seek administrative
+expenses,theattorneysmustshowthey“providedsubstantial,
+valuable professional services including investigation,
+evaluation, and counseling that was intended and designed
+to achieve an objective appropriate for Chapter 13 cases.”
+Garris, 496 B.R. at 350.
+Here, Geraci Law acted reasonably because they provided
+substantial, valuable, and professional services that were
+consistent with the complexity of the problems. The more
+experienced attorneys billed at either $425 or $450 per hour.
+The one junior attorney billed at $300 per hour. Based in this
+Court's review of other attorney fees in Chapter 13 cases,
+Geraci Law's rates and the amount of time the attorneys spent
+onthetasksareconsistentwithotherattorneys’ratesandtime
+intheNorthernDistrictofIndiana.TheGeraciLawattorneys’
+actions benefited Debtor. The automatic stay went into effect
+once Geraci Law filed Debtor's Petition. Section 362(a); In re
+Swindle, 584 B.R. 259, 264 (Bankr. N.D. Ill. 2018) (citing In
+re Wilson, 536 B.R. 218, 221-22 (Bankr. N.D. Ill. 2015)).
+*7 The automatic stay gave Debtor “a breathing spell” from
+her creditors. Swindle, 584 B.R. at 263 (quotation omitted).
+The attorneys also interviewed Debtor. They evaluated
+whether a Chapter 7 petition was better than a Chapter 13
+petition. Even though the Court did not confirm Debtor's
+Plan, the attorneys’ counseling intended and was designed
+to achieve an objective appropriate for Chapter 13 cases.
+Thus, the Court holds, after careful review, that Geraci Law's
+Application for Compensation, Doc 36, shows a clear benefit
+to Debtor and is reasonable. Geraci Law's Application for
+Compensation is allowed under §§ 503(b)(2) and 330(a).
+2. The Court found cause under § 349 to
+revest the property to Debtor's attorneys.
+Again,theCourtfindsthemajority'sapproachtothe§1326(a)
+- § 349(b) debate to be the more logical approach. But
+for argument's sake, even if the Court applied the minority
+view and concluded that § 349(b) applied, the Trustee still
+must disburse the funds she holds to Debtor's attorneys. The
+Court's order dismissing the case implied that there was
+cause to not have the funds that the Trustee held dispersed
+to Debtor. Rather than dismiss the case, the Court allowed
+parties to request an administrative expense within 14 days.
+The Court did exactly what § 349(b)(3) contemplated. It
+ordered“otherwise”anddidnotdismissthecaseimmediately.
+TheTrusteearguespolicyconsiderationsshouldbethereason
+theCourtuses§349(b)(3).TheTrusteestates:(1)timingmay
+beanissue,andthattheclaimmusthavealreadybeenallowed
+prior to case dismissal [Doc 41 at p. 4-5], and (2) “§ 349(b)
+is broad and serves to undo the bankruptcy case to the extent
+possible–toputallpartiesinthepositionstheywereinbefore
+thecasewasfiled.SeeInreHamilton,493B.R.31,38(Bankr.
+M.D. Tenn. 2013).” [Doc 41 at p. 11.]
+First, to address the timing argument, this Court, like many
+other courts, concludes, the Trustee's argument is mistaken.
+Accepting the Trustee's argument would encourage, “earlier
+and more frequent fee applications.” Garris, 496 B.R. at 350.
+Additionally, the Trustee's argument “would ‘add complexity
+to the Chapter 13 process and compel the expenditure of
+an inordinate amount of attorney and judicial resources
+on the fee allowance process.’ ” Id. (quotation omitted).
+Courts may order Chapter 13 trustees to disburse funds in
+unconfirmedcaseson“unpaidclaim[s]thatmightbeallowed
+under 11 U.S.C. § 503(b).” In re Pynn, 676 B.R. 819, 821
+(Bankr. W.D.N.Y. 2026) (emphasis added); see also Matter
+of Malaspina, 30 B.R. 267, 269 (Bankr. W.D. Pa. 1983)
+(explaining that attorney's fees are an allowable § 503(b)(2)
+administrative expense); see also James, 490 B.R. at 798-99
+(explaining that compensation and reimbursement awarded
+under § 330 is an allowed claim when there is no plan
+confirmation). Even when a Chapter 13 plan has not been
+confirmedorgetsconverted,atrusteestillhasauthorityunder
+§ 1326(a)(2) to be the distributing agent. Wheaton, 547 B.R.
+at 497; see also Fairnot, 571 B.R. at 771 (holding that once
+thecaseisdismissed,pre-confirmation,debtor'sattorneymay
+refile their fee application and if it is granted the trustee
+must disburse funds to counsel before returning funds to the
+debtor).
+Second, the Trustee's 349(b) argument is wrong for another
+reason. The Trustee cites In re Hamilton, 493 B.R. 31, 38
+(Bankr. M.D. Tenn. 2013), but that case does not apply. In
+Hamilton, Chief Judge Lundin confirmed debtor's plan. Id.
+at 32, 33 (emphasis added). In this case, the Court never
+confirmed Debtor's Plan.In re Garcia-Martz, --- B.R. ---- (2026)
+WESTLAW © 2026 Thomson Reuters. No claim to original U.S. Government Works. 7
+*8 Third, even if Hamilton did apply, the holding hurts
+the Trustee's argument. There, the Hamilton court stated,
+at least four times, under § 349(b), property vests with
+the debtor, unless the court orders “otherwise.” Id. at 39,
+44, 45 (UNLESS THE COURT, FOR CAUSE, ORDERS
+OTHERWISE) (bold and capitalization in the original). Id.
+at 44. The court also said, “[b]ankruptcy courts have statutory
+discretion to order otherwise”. Id. at 46. In fact, the Hamilton
+court held that “undistributed funds held by the trustee must
+be returned to the debtors after notice and opportunity for
+parties in interest to ask the court to order otherwise.” Id. And
+that is precisely what the Court did here. It ordered otherwise.
+Figures 1 and 2 below summarize the major provisions from
+§§ 1326(a) and 349(b). In sum, the Court agrees with the
+majority, but even if the Court were to adopt the minority
+approach, the Court would still be correct. The Court rejects
+the Trustee's policy arguments and the case law she cites
+because the case law does not apply. But even if the case law
+the Brief cites did apply, those cases would cut against the
+Trustee's arguments.
+Figure 1: Attorney Compensation in Ch. 13 (Majority)
+Figure 2: § 349(b)(3) Dismissal of a Case (Minority)
+B. Brief's Argument: Sweports is “binding case law” that
+requires the Court to return the funds to Debtor and not
+Debtor's attorneys.
+TheTrustee'sBriefiswrongforthreereasons.First,Sweports
+does not apply. In re Sweports Ltd., 777 F.3d 364 (7th
+Cir. 2015). In Sweports, the Seventh Circuit reversed the
+bankruptcy court when the bankruptcy court erroneously
+concluded that it did not have jurisdiction to determine
+whether the Chapter 11 creditors’ attorney was entitled to
+attorney fees, after the bankruptcy court dismissed the case.
+Id. at 365, 368. Sweports does not apply because:
+•SweportswasaChapter11case,andthiscaseisaChapter
+13 case. As discussed above, § 330(a)(4)(B), allows
+Chapter13attorneystobecompensatedwhentheirwork
+benefits the debtor.
+• The issue in Sweports was whether the bankruptcy court
+had the jurisdiction to order payment of fees (as opposed
+to“determininganentitlementtofees”)ontheattorney's
+second request for work. Id. at 365. Previously, the
+attorney made an interim request for fees, and the Court
+granted the request. Id. at 365, 366.
+• The attorney in Sweports requested an award for attorney
+fees as creditor's counsel. Id. at 365-366. Here, Geraci
+Law firm represents Debtor, not creditors.
+Geraci Law is not yet a creditor (but would be, if the
+CourtadoptedtheTrustee'sapproach).GeraciLawrepresents
+Debtor; § 1326(a)(2) (and even under the Trustee's incorrect
+approach, § 349(b)(3)) allows the law firm to ask for payment
+as an administrative expense. But if the Court accepted
+the Trustee's approach, as discussed below, the firm would
+becomeacreditor.Thus,theTrusteeshoulddisbursethefunds
+directly to Geraci Law.
+The Brief also cites Marshall v. Johnson, another case from
+the Seventh Circuit. Marshall v. Johnson, 100 F.4th 914, 917
+(7th Cir. 2024). It is unclear whether the Brief considers
+Marshall binding case law because it only discusses it in the
+sectionlabeled“StatutoryConstruction.”Still,theCourtfinds
+Marshall inapplicable. The issue in Marshall was whether
+Chapter 13 trustees could deduct their own fees before
+disbursing the remaining funds back to debtors. Id. at 916.
+The case was not about distribution of all fees as the Trustee's
+Brief indicates. The Seventh Circuit explained that neither
+exception under § 1326(a)(2) applies to Chapter 13 trustees’
+fees. Id. at 917. Further, § 503(b) did not apply in Marshall.
+Id. (citation omitted) (explaining that a Chapter 13 trustee fee
+is not considered a § 503(b) administrative expense). Here, §
+503(b) is a central Code provision for this Courts particular
+issue.
+*9 Thus, different from what the Brief says, Sweports nor
+Marshall apply, and there is no other “binding” case law that
+mandates the Court order the Trustee to disburse the funds to
+Debtor and not Debtor's attorneys.
+C. Brief's Argument: “Harm Created by a Contrary
+Ruling – Burden Shifting”
+Section (I)(D) of the Brief states, “Harm Created by a
+Contrary Ruling – Burden Shifting,” and the first sentence
+in this section reads, “Trustee fees are not compensation to
+the Trustee, but instead are reimbursement to the Trust for
+costs ....” [Doc 41 at p. 9.] The Brief also says, “shifting costs
+fordisbursementsthatarenotrequiredtobemadebytheTrust
+to the Trust by ordering such disbursements shifts those costsIn re Garcia-Martz, --- B.R. ---- (2026)
+WESTLAW © 2026 Thomson Reuters. No claim to original U.S. Government Works. 8
+to all other debtors,” and “Trustee simply requests that this
+Court order that any reasonable compensation due and owing
+to Applicant be ordered to be paid by Debtor directly.” [Doc
+41 at p. 9] (emphasis in original).
+The Court does not understand how the Trustee distributing
+the funds to Debtor instead of Debtor's attorneys shifts a
+burden or harms other debtors. Further, the Trustee did
+not support the argument with statutes, rules, case law, or
+data. The arguments pertained to whether the Trustee could
+be compensated for the Trustee's expenses in unconfirmed
+Chapter 13 cases. They make no sense here, and the Court
+disregards them.
+D. Brief's Argument: “Debtor's Ability to Compromise/
+Contract with Trustee”
+The Trustee states that Debtor, Debtor's attorneys, and the
+Trustee reached a settlement agreement where the Trustee
+would pay Debtor, and then Debtor would pay Geraci Law.
+[Doc 41 at pp. 1, 10.] Bankruptcy Rule 9019(a) addresses
+compromises and settlement agreements and states, “On the
+trustee's motion and after notice and a hearing, the court may
+approve a compromise or settlement.” Trustees must give
+notice to, among others, “all creditors.” Id.
+The Trustee never filed a motion to settle or compromise,
+nor did the Trustee give notice to creditors. And even if
+the Trustee did both things, parties may not enter into
+an agreement to circumvent the Bankruptcy Code. Rogers,
+519 B.R. at 271 (explaining, “the Code is not preempted
+or supplanted by the supposed attorney's lien or [debtor's
+attorney] contract with the debtor.”); see generally In re
+FirstEnergy Sols. Corp., 596 B.R. 631, 659 (Bankr. N.D.
+Ohio 2019) (citation omitted) (explaining that a party's right
+to contract around an essential provision of the Bankruptcy
+Code is pre-empted). Allowing parties to contract around
+the Code would render the Code useless. In re Intervention
+Energy Holdings, 553 B.R. 258, 263 (Bankr. D. Del. 2016)
+(quoting In re 203 N. LaSalle St. P'ship, 246 B.R. 325, 331
+(Bankr. N.D. Ill. 2000)).
+Further, no party would be able to enforce the parties’
+separate agreement. Garris, 496 B.R. at 354 (citations
+omitted) (explaining “[a] fee that is not enforceable under the
+Bankruptcy Code is not transformed by virtue of a private
+agreement, into an enforceable one after a case is dismissed,
+even if such an agreement would be otherwise enforceable
+under state law.”) Geraci Law would be unable to collect fees
+without the Court's approval. Rogers, 519 B.R. at 271 (citing
+Garris, 496 B.R. at 353-54).
+*10 Additionally, the settlement would leave Debtor worse
+than she was before filing her bankruptcy petition. As the
+Brief says, if the Court dismissed the case and the Trustee
+gave the funds directly to Debtor, Debtor would now have
+“obligations to counsel.” [Doc 41 at p. 11.] So, if the
+Court were to accept the Trustee's approach after the Court
+dismissed the case, Debtor would not be in the same position
+she was in before she filed her Petition. She would be in a less
+desirable position because she would have a new creditor –
+Geraci Law. If she did not pay Geraci Law and sought to file
+another bankruptcy petition, Geraci Law would be unable to
+represent her. In Debtor's hypothetical new petition, Debtor
+would list Geraci Law as a creditor and the attorneys would
+be in a position where they would be seeking to discharge
+the fees Debtor owes them in this case and at the same time,
+seeking fees for representing Debtor in the new case.
+Here, the Court declines to accept an unapproved,
+unenforceable settlement agreement. The Trustee must
+distribute payments as laid out in § 1326(a)(2). In re Harris,
+258 B.R. 8, 14 (Bankr. D. Idaho 2000) (explaining that
+“Debtor's desires (or perhaps those of his attorney) should not
+be allowed to short circuit the operation of the Bankruptcy
+Code.”) The Court will issue a separate order instructing the
+Trustee to do so.
+V. Brief's Shortcomings under Indiana Rules of
+Professional Conduct and the Federal Rules of
+Bankruptcy Procedure
+The Seventh Circuit said, “judges are not like pigs, hunting
+fortrufflesburiedinbriefs.”UnitedStatesv.Dunkel,927F.2d
+955, 956 (7th Cir. 1991). The Indiana Rules of Professional
+Conduct (“Ind. R. Prof. Cond.”)10
+and the Federal Rules
+of Bankruptcy Procedure (“Fed. R. Bank. P.”)11
+codify this
+sentiment. Under the Ind. R. Prof. Cond., attorneys must
+display competence under Rule 1.1;12
+present meritorious
+claims and contentions under Rule 3.1;13
+and have candor
+toward the tribunal under Rule 3.3.14
+Davis v. Marion
+Co. Superior Ct Juvenile Detention Ctr, Kervan, No. 1:24-
+CV-01918-JRO-MJD, 2026 WL 1408448, at *2 (S.D. Ind.
+May 20, 2026) (citing Ind. R. Prof. Cond.).
+*11 UnderFed.R.Bankr.P.9011(b),whenanattorneysigns
+or files a document with the court, the attorney, among otherIn re Garcia-Martz, --- B.R. ---- (2026)
+WESTLAW © 2026 Thomson Reuters. No claim to original U.S. Government Works. 9
+representations, certifies that, to the best of the attorney's
+“knowledge, information, and belief formed after an inquiry
+reasonable under the circumstances:
+...
+(2) the claims, defenses, and other legal contentions are
+warranted by existing law or by a nonfrivolous argument
+to extend, modify, or reverse existing law, or to establish
+new law; [and]
+(3) the allegations and factual contentions have evidentiary
+support—or if specifically so identified, are likely to have
+evidentiary support after a reasonable opportunity for
+further investigation or discovery.”
+Rule 9011 is meant to “deter unnecessary filings, prevent the
+assertion of frivolous pleadings, and to require good faith
+filings.” In re McNichols, 258 B.R. 892, 899 (Bankr. N.D.
+Ill. 2001) (citation omitted). Reasonable misconstruction of
+case law is not sanctionable; however, deliberately ignoring
+or misstating case law is a sanctionable offense. Hess v.
+Biomet, Inc., No. 3:16-CV-208 JD, 2022 WL 2314885, at
+*19 (N.D. Ind. June 28, 2022)15
+(citation omitted). Actions
+such as deliberately misstating case law, not indicating to
+the court that a quotation was altered, relying on cases not
+legally relevant to the issue, and misrepresenting quotations
+or including misleading quotations have all been found as
+sanctionable conduct. Hess v. Biomet, Inc., No. 3:16-CV-208
+JD, 2022 WL 2314885, at *19-20 (N.D. Ind. June 28, 2022).
+When attorneys assert law that “a reasonable attorney in like
+circumstances could not have believed [their] actions to be
+legally justified” there has been a violation of Rule 9011(b)
+(2). In re Kersner, 412 B.R. 733, 745 (Bankr. D. Md. 2009)
+(citation modified).
+The Court was prepared to hear arguments on the Trustee's
+Objection. But the Trustee was not prepared and asked
+for additional time to file a supporting Brief. The Court
+granted the Trustee's request and gave her 34 days to file
+the Brief. Still, the Court had to hunt for the arguments
+buried in the Trustee's Brief. Some errors could be seen as
+a reasonable misconstruction of case law. Other arguments,
+some discussed above, and others included below, misstated
+case law, did not indicate that quotations were altered, and
+relied on cases not legally relevant. Accordingly, the Court
+found that the Trustee's Brief included statements for which
+the Court may sanction.
+Figure 3 below cites the 13 deficient arguments previously
+mentioned above; captures additional questionable
+arguments, misleading quotes, a non-existent Bankruptcy
+Rule; internally inconsistent and contradictory arguments;
+and describes other problems with the Trustee's Brief. The
+Court would not have a problem if the issues below were
+isolated, or if only a few of them appeared. But collectively,
+they may suggest that the Trustee has violated one or more of
+the Ind. R. Prof. Cond or Fed. R. Bank. P 9011.
+Figure 316
+: Deficiencies in the Trustee's Brief
+VI. Conclusion
+*12 The Court rejects the Trustee's arguments. First, the
+majority approach to the §§ 1326(a)(2) – 349(b)(3) divide is
+thebetterapproach.ButeveniftheCourtappliedtheminority
+approach,theresultwouldbethesame.GeraciLawisentitled
+to the administrative expense it seeks, and the Trustee must
+disburse the funds to Debtor's attorneys. To the Trustee's
+second argument, the Trustee is wrong about “binding” case
+law. There is no binding case law that says the Trustee must
+disburse the funds to Debtor, and then Debtor will disburse
+those funds to Debtor's attorneys.
+The Trustee's third argument, the harm created by a contrary
+ruling, does not apply to these facts, and it appears to be
+cut and pasted from previous briefs. The fourth argument,
+Debtor's ability to compromise, lacks support from the
+Bankruptcy Code, Federal Rules of Bankruptcy Procedure,
+and case law.
+The Court will enter two separate orders. The first will
+award Geraci Law its request for compensation as an allowed
+administrative expense under § 503(b). The Trustee will
+distributethefundsinaccordancewith§1326(a)(2),meaning
+the Trustee must first distribute $1,785 to Debtor's attorney
+as an allowed administrative expense before distributing any
+remaining funds to Debtor. The second order will direct the
+Trustee to show cause in writing and at a hearing, why she
+should not be sanctioned for the 13 issues highlighted in
+Figure 3.
+SO ORDERED.In re Garcia-Martz, --- B.R. ---- (2026)
+WESTLAW © 2026 Thomson Reuters. No claim to original U.S. Government Works. 10
+All Citations
+--- B.R. ----, 2026 WL 1815400
+Footnotes
+1 Aside from Section I of this Decision, when the Court discusses jurisdiction and venue, all future references
+to statutes will be to Title 11, the Bankruptcy Code.
+The Code does not capitalize “Title” or “Chapter.” See, e.g., § 503. Many courts capitalize Title and Chapter.
+See, e.g., Marshall v. Johnson, 100 F.4th 914, 918 (7th Cir. 2024). For consistency purposes, this Decision
+capitalizes Title and Chapter, unless the quoted material does not capitalize Title and Chapter.
+This Decision uses “§” and “Section” interchangeably. “Section” is used after a sentence's period, and “§”
+is used in the middle of sentences.
+2 Section 1326(a)(1) states, “Unless the court orders otherwise, the debtor shall commence making payments
+not later than 30 days after the date of the filing of the plan or the order for relief, whichever is earlier ...”
+3 In re Lewis, 346 B.R. 89, 109 (Bankr. E.D. Pa. 2006).
+4 Debtor resides in La Porte County, Indiana. [Doc 1 at p. 2.]
+5 11 U.S.C. § 362(a); In re Swindle, 584 B.R. 259, 264 (Bankr. N.D. Ill. 2018) (“The automatic stay is a self-
+executing provision of the Bankruptcy Code and begins to operate nationwide, without notice, once a debtor
+files a petition for relief”) (citing In re Wilson, 536 B.R. 218, 221-22 (Bankr. N.D. Ill. 2015)).
+6 In this Court, when parties tender an agreed order, they customarily communicate that the parties agree to
+the order by writing, “reviewed and agreed to by ____” and sign their name.
+7 Geraci Law did not respond to the Trustee's Objection or Brief.
+8 LundinOnChapter13.com (last visited April 29, 2026).
+9 Trustee quotes, this language, “preserving the estate,” but does not cite any Bankruptcy Code provisions or
+case law. [Doc 41 at p. 7.] The Court believes she is citing § 503(b).
+10 The District Court's Local Rules state the Ind. R. Prof. Cond. apply to attorneys appearing in court. N.D. Ind.
+L.R. 83-5(e). Bankruptcy courts are units of the district court. 28 U.S.C. § 151. Therefore, Indiana Rules of
+Professional Conduct apply to attorneys practicing in this Court.
+11 Bankruptcy Courts interpreting Federal Rule of Bankruptcy Procedure 9011 may use Federal Rule of Civil
+Procedure 11 for guidance. In re Brent, 458 B.R. 444, 457 fn 9 (Bankr. N.D. Ill. 2011) (citation omitted); In
+re McNichols, 258 B.R. 892, 899 (Bankr. N.D. Ill. 2001) (citing In re Famisaran, 224 B.R. 886, 894 (Bankr.
+N.D. Ill. 1998)).
+Rule 9011 was modeled after Civil Procedure Rule 11. In re McNichols, 258 B.R. 892, 899 (Bankr. N.D. Ill.
+2001) (citing In re Park Place Assocs., 118 B.R. 613, 616 (Bankr. N.D. Ill. 1990)); In re Excello Press, Inc.,
+967 F.2d 1109, 1111 (7th Cir.1992); see also In re Brent, 458 B.R. 444, 457 fn 9 (Bankr. N.D. Ill. 2011)
+(citation omitted) (explaining that Rule 11 case law is helpful when analyzing Rule 9011).In re Garcia-Martz, --- B.R. ---- (2026)
+WESTLAW © 2026 Thomson Reuters. No claim to original U.S. Government Works. 11
+12 Ind. R. Prof. Cond. 1.1 states, “A lawyer shall provide competent representation to a client. Competent
+representation requires the legal knowledge, skill, thoroughness and preparation reasonably necessary for
+the representation.”
+13 Ind. R. Prof. Cond. 3.1 says, “A lawyer shall not bring or defend a proceeding, or assert or controvert an issue
+therein, unless there is a basis in law and fact for doing so that is not frivolous, which includes a good faith
+argument for an extension, modification or reversal of existing law. A lawyer for the defendant in a criminal
+proceeding, or the respondent in a proceeding that could result in incarceration, may nevertheless so defend
+the proceeding as to require that every element of the case be established.”
+14 Ind. R. Prof. Cond. 3.3(a) prohibits lawyers from making false statements of fact or law or offer evidence the
+lawyer knows to be false.
+15 In Hess, the District Court examined Fed. R. Civ. P. 11 and required defense counsel to show cause why
+they should not be sanctioned. 2022 WL 2314885, at *19, 21.
+16 This chart follows Trustee's Brief, Doc 41, in chronological order.
+End of Document © 2026 Thomson Reuters. No claim to original U.S. Government Works.

@@ -1,0 +1,181 @@
+UNITED STATES DISTRICT COURT
+DISTRICT OF MINNESOTA
+WILLIAM MALIK HARRIS,
+Plaintiff,
+v.
+ST. PETER INVESTORS, LLC;
+AVIDITY REAL ESTATE SERVICES,
+LLC; and GREGG STELLICK,
+Defendants.
+Case No. 25-cv-2237 (LMP/DLM)
+ORDER DENYING
+MOTION FOR
+DEFAULT JUDGMENT
+WITHOUT PREJUDICE
+Plaintiff William Malik Harris brought this action on May 27, 2025, asserting
+various federal and state causes of action against Defendants St. Peter Investors, LLC,
+Avidity Real Estate Services, LLC, and Gregg Stellick. ECF No. 1. Avidity and Stellick
+have been served but have not answered. See ECF No. 58. As a result, Harris sought and
+was granted an entry of default from the Clerk of Court pursuant to Federal Rule of Civil
+Procedure 55(a), ECF No. 54, and now moves for default judgment against Avidity and
+Stellick under Rule 55(b), ECF No. 55. Because an entry of default judgment at this time
+might lead to inconsistent judgments, the Court denies the motion without prejudice.
+BACKGROUND
+On January 26, 2024, Harris signed a residential lease with Avidity, a property
+management company. Id. at 5.1
+At the time he signed the lease, Harris—who alleges he
+1
+Given Harris’s pro se status, the Court is mindful to liberally construe his complaint.
+See Lamar v. Payne, 111 F.4th 902, 907 n.2 (8th Cir. 2024).
+Harris v. St. Peter Investors, LLC et al Doc. 60
+Dockets.Justia.com2
+has disabilities—was granted the ability to have a service dog live in his apartment with
+him. Id. Although not named in the lease, Harris alleges that St. Peter “functioned as the
+de facto owner and landlord by exercising control over rent collection, lease enforcement,
+and lockout decisions.” Id. at 4. Stellick, Harris alleges, is the “managing principal of both
+corporate Defendants.” Id.
+At some point in 2024, St. Peter initiated eviction proceedings against Harris in
+Minnesota state court. Id. at 8. In response, Harris filed a counterclaim alleging abusive
+housing practices. Id. Then, on March 27, 2025, Harris alleges that he was locked out of
+hisapartment without warning. Id. at1. Whilehewaslockedout,his service dog remained
+inside for 10 hours without food or water. Id. at 5, 13. Harris then received an emergency
+order from a Minnesota state court authorizing his return, but he alleges that staff initially
+refused to restore his access. Id. at 1, 7.
+Harris alleges that his 10-hour lockout, and the initial refusal to grant him access to
+return to his apartment, constitute a calculated pattern of housing discrimination, id. at 11,
+and violated a variety of federal and state statutes, including the Fair Housing Act,
+42 U.S.C. § 1981, theFourthAmendmentoftheUnitedStatesConstitution,similarprivacy
+protections under the Minnesota Constitution, and the Minnesota Human Rights Act, id.
+at 11–12. Harris seeks $50,000,000 in damages. Id. at 2.
+Relevant here, Harris repeatedly represents that Avidity and St. Peter functioned as
+one entity. For instance, he asserts that “Avidity’s agents acted on behalf of both Avidity
+and St. Peter Investors, establishing joint and vicarious liability,” id. at 4; that St. Peter
+assumed control of the lease signed by Avidity and Harris, id. at 4–5; that St. Peter filed3
+claims against him and asserted landlord authority, id. at 11–12; and that “[t]hese
+interlinked companies operated as a single enterprise—structurally fragmented on paper
+but unified in purpose, execution, and benefit,” id. at 26.
+Harris now moves for default judgment against Avidity and Stellick, pursuant to
+Federal Rule of Civil Procedure 55(b), because neither has appeared in this litigation. ECF
+No. 55. He argues that default judgment is proper because “liability is now established as
+a matter of law and damages are supported by sworn declaration.” Id. at 1. He further
+asserts that although St. Peter has appeared and answered his complaint, see ECF No. 48,
+default judgment can still be entered against Avidity and Stellick because the “conduct
+attributed to” Avidity and Stellick “including the lockout, [emotional support animal]
+interference, retaliation,and statutoryviolations”is “factuallyand legallydistinctfromthat
+attributed to” St. Peter, and no “joint liability exists, and no risk of inconsistent judgments
+is present.” Id. at 2.
+ANALYSIS
+I. Default Judgment
+Securing a default judgment is a two-step process. First, the party seeking default
+judgment must apply for entry of default from the Clerk of Court. See Fed. R. Civ. P. 55(a).
+“Only after an application is made, and granted under Rule 55(a), can a plaintiff seek a
+Default Judgment” under Rule 55(b). Armstrong v. Astrue, 569 F. Supp. 2d 888, 895 n.6
+(D. Minn. 2008). Here, the Clerk of Court entered default against Avidity and Stellick.
+ECF No. 54. As a result, Rule 55 authorizes the Court to issue a judgment againstAvidity4
+and Stellick if the complaint shows that “the unchallenged facts constitute a legitimate
+cause of action.” Murray v. Lene, 595 F.3d 868, 871 (8th Cir. 2010) (citation omitted).
+But “default judgments are not favored by the law and should be a rare judicial act”
+because “there is a judicial preference for adjudication on the merits.” Belcourt Pub. Sch.
+Dist. v. Davis, 786 F.3d 653, 661 (8th Cir. 2015) (internal quotation marks omitted)
+(citations omitted). Whether—and when—to issue a default judgment is left to the sound
+discretion of the Court. See Ackra Direct Mktg. Corp. v. Fingerhut Corp., 86 F.3d 852, 856
+(8th Cir. 1996). Bearing on this case, a court should not enter default judgment when “co-
+defendants are similarly situated,” and at least one has appeared in the lawsuit, because
+“inconsistent judgments will result if one defendant defends and prevails on the merits and
+the other suffers a default judgment.” Angelo Iafrate Constr., LLC v. Potashnick Constr.,
+Inc., 370 F.3d 715, 722 (8th Cir. 2004). In general, “a judgment on the merits for the
+answering party should accrue to the benefit of the defaulting party,” id., so “if an action
+against the answering defendants is decided in their favor, then the action should be
+dismissed against both answering and defaulting defendants,” In re First T.D. & Inv., Inc.,
+253 F.3d 520, 532 (9th Cir. 2001). In such a situation, a default judgment would lead to an
+“absurdity.” Frow v. De La Vega, 82 U.S. 552, 554 (1872).
+Here, the parties are similarly situated because they have “closely related defenses.”
+U.S. ex rel. Costner v. United States, 56 F. App’x 287, 288 (8th Cir. 2003) (quoting 10A
+Charles Alan Wright & Arthur R. Miller, Federal Practice and Procedure § 2690 (3d ed.
+1998)); see also Moore v. Booth, 122 F.4th 61, 67 (2d Cir. 2024) (noting that this rule
+applies when the defendants are “similarly situated” or have “‘closely related defenses’5
+even if not jointly liable”). Indeed, Harris’s complaint alleges that St. Peter, the answering
+defendant, acted as his landlord and directed Avidity to take the actions it did. ECF No. 1
+at 4. Further, Harris alleges that Stellick is the managing partner of both Avidity and
+St. Peter, and that the companies “operated as a single enterprise—structurally fragmented
+on paper but unified in purpose, execution, and benefit,” Id. at 26. Should St. Peter assert
+a meritorious defense to any of the claims against it, it is almost certain that Harris’s claims
+against Avidity and Stellick would likewise fail. Farzetta v. Turner & Newall, Ltd.,
+797 F.2d 151, 154 (3d Cir. 1986) (explaining that “if at trial facts are proved that exonerate
+certain defendants and that as a matter of logic preclude the liability of another defendant,
+the plaintiff should be collaterally estopped from obtaining a judgment against the latter
+defendant, even though it failed to participate in the proceeding”).
+Harris asserts in his motion that St. Peter’s appearance should not preclude entry of
+default judgment against Avidity and Stellick for two reasons. First, he suggests that the
+actions taken by Avidity and Stellick are “factually and legally distinct” from the actions
+taken by St. Peter. ECF No. 55 at 2. But that argument is rebutted by his complaint, in
+which he repeatedly suggests thatAvidity and St. Peter are, in effect, the same entity. See,
+e.g.ECF No. 1at 4–5(allegingthatSt. Peter “functioned asthe defactoowner andlandlord
+by exercising control over rent collection, lease enforcement, and lockout decisions”).
+Second, he suggests that a default judgment is only unwarranted when liability between an
+answering defendant and a defaulting defendant is truly joint, not simply where the
+defendants are closely related. ECF No. 55 at 2. But “[a]lthough joint liability is one
+circumstance in which such inconsistency may arise, it is not the only one”; inconsistency6
+can also arise when “several defendants have closely related defenses.” Costner, 56 F.
+App’x at 288 (citation omitted). Regardless, Harris himself alleges that “Avidity’s agents
+acted on behalf of both Avidity and St. Peter Investors, establishing joint and vicarious
+liability.” ECF No. 1 at 4 (emphasis added).
+As a result, the Court believes that the “better approach to remedy this problem” is
+“to defer judgment against the defaulting party until the merits have been resolved.”
+Rankin v. Direct Recovery Servs., LLC, No. 21-cv-1560 (MJD/LIB), 2023 WL 3597724,
+at *2 (D. Minn. May 23, 2023) (citation omitted).
+II. Hallucinated Citations
+As a final matter, the Court notes that Harris repeatedly misquotes caselaw cited in
+his motion and provides completely hallucinated citations. For instance, he provides
+purported quotations from Pfannenstiel Architects, Inc. v. Chouteau Petroleum Co.,
+978 F.2d 430, 433 (8th Cir. 1992); Johnson v. Dayton Elec. Mfg. Co., 140 F.3d 781 (8th Cir.
+1998); and Stephenson v. El-Batrawi, 524 F.3d 907 (8th Cir. 2008). See ECF No. 55 at 1–
+2. Each case is real and concerns the subject matter contained within the purported
+quotation. But the specific quotations Harris provides are not found in any of those cases.
+Worse, Harris provides at least two citations—Taylor v. City of Minneapolis, 202 F. Supp.
+3d 933, 941–42 (D. Minn. 2016) and Berg v. Copeland, 2019WL1493461, at *5 (D. Minn.
+Apr. 4, 2019)—which do not appear to exist at all. The “Taylor” citation leads to a
+completely unrelated case from the Southern District of Indiana, and the “Berg” citation
+leads to an unrelated case from the Colorado Court ofAppeals.7
+Given this, the Court questions whether Harris used, or more accurately misused,
+artificial intelligence (“AI”) tools to help him draft his motion. See Jessica R. Gunder, Why
+Can’t I Have a Robot Lawyer? Limits on the Right to Appear Pro Se, 98 Tul. L. Rev. 363,
+406 (2024) (explaining AI technology “hallucinates,” meaning “it lies about facts or
+invents them”). While the use of AI tools is not prohibited, Harris and all litigants have a
+duty to ensure the accuracy and validity of all documents and supporting authority
+submitted to the Court. See generally GenAI FAQ, U.S. Dist. Ct., Dist. of Minn. (Oct. 1,
+2025), https://www.mnd.uscourts.gov/sites/mnd/files/GenAI_FAQ.pdf [https://perma.cc/
+ZYA6-3QQS].
+Whether or not it stemmed from the use of AI, Harris provided inaccurate quotes
+and cited nonexistent authority. As a result, he has likely violated Federal Rule of Civil
+Procedure 11. See Fed. R. Civ. P. 11(b) (stating, in relevant part, that an “unrepresented
+party” who presents a “written motion” to a federal court “certifies that to the best of the
+person’s knowledge, information, and belief,” the “legal contentions” made are “warranted
+by existing law” (emphasis added)); see also Pavelic & LeFlore v. Marvel Ent. Grp.,
+493 U.S. 120, 126–27 (1989) (explaining that Rule 11 imposes a “personal, nondelegable
+responsibility” to “validate the truth and legal reasonableness of the papers filed” in an
+action). And although “pro se pleadings are to be construed liberally, pro se litigants are
+not excused from failing to comply with substantive and procedural law.” Burgs v. Sissel,
+745 F.2d 526, 528 (8th Cir. 1984). Rule 11 also authorizes the Court to impose an
+appropriate sanction “to deter repetition of the conduct or comparable conduct by others
+similarly situated.” Fed. R. Civ. P. 11(c)(4); see also Vallejo v. Amgen, Inc., 903 F.3d 733,8
+747 (8th Cir. 2018) (citation omitted) (recognizing that district courts have “broad
+discretion in the choice of sanctions”). That includes the authority to strike pleadings
+entirely. Sanders v. United States, 176 Fed. Cl. 163, 170 (2025) (citation omitted) (noting
+that courts have imposed a wide variety of sanctions on litigants for “citing fake, AI-
+generated cases,” including “fines, requiring payment of the opposing party’s fees, striking
+filings, dismissal of the action, and initiating disciplinary actions”).
+Because the Court has not previously warned Harris that the submission of false
+authority may result in sanctions, the Court will not strike his motion for default judgment.
+But Harris is now warned that if he continues to submit inaccurate filings, the Court will
+not hesitate to impose the “‘steep consequences’ that courts across the country have
+imposed for the use of fake, AI-generated sources.” Kasso v. Police Officers’ Fed’n of
+Minneapolis, No. 23-cv-2777 (DLM), 2025 WL 2963375, at *8 (D. Minn. Oct. 21, 2025)
+(internal quotation marks omitted) (citations omitted).
+ORDER
+Based on the foregoing, and on all the files, records, and proceedings in this matter,
+IT IS HEREBY ORDERED that Harris’s Motion for Default Judgment (ECF No. 55) is
+DENIED without prejudice.
+Dated: May 18, 2026 s/Laura M. Provinzino
+Laura M. Provinzino
+United States District Judge

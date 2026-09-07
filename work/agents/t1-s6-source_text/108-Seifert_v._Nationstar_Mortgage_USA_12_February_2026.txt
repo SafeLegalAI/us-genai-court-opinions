@@ -1,0 +1,508 @@
+         Case 4:25-cv-00645-DCN          Document 15         Filed 02/12/26       Page 1 of 10
+
+
+
+
+                             UNITED STATES DISTRICT COURT
+
+                                FOR THE DISTRICT OF IDAHO
+
+
+    RICHARD SEIFERT,
+                                                        Case No. 4:25-cv-00645-DCN
+           Plaintiff,
+                                                        MEMORANDUM DECISION AND
+    v.                                                  ORDER
+
+    NATIONSTAR MORTGAGE LLC
+    D/B/A MR. COOPER; LAKEVIEW
+    LOAN SERVICING, LLC, ALDRIDGE
+    PITE, LLP; SYDNEY K LEAVITT;
+    MORTGAGE ELECTRONIC
+    REGISTRATION SYSTEMS, INC.
+    (MERS); and DOE DEFENDANTS 1-10,
+
+           Defendants.
+
+                                       I. INTRODUCTION
+
+         Before the Court are Defendants Nationstar Mortgage LLC d/b/a Mr. Cooper
+
+(“Nationstar”) and Lakeview Loan Servicing, LLC’s (together “Nationstar Defendants”)
+
+Motion to Dismiss (Dkt. 11) and Defendant Mortgage Electronic Registration Systems,
+
+Inc.’s (“MERS”) Motion to Dismiss (Dkt. 12). MERS has also filed a Motion to Take
+
+Judicial Notice. Dkt. 13. Plaintiff Richard Seifert has not responded to any of the motions.
+
+         Upon review, and for the reasons set forth below, the Court GRANTS all three
+
+motions and dismisses Seifert’s Complaint. 1 The Court will, however, grant Seifert an
+
+opportunity to amend his complaint should he so choose.
+
+
+
+1
+ The Court finds the facts and legal arguments are adequately presented and will decide the Motion on the
+record and without oral argument. Dist. Idaho Loc. Civ. R. 7.1(d)(1)(B).
+
+
+MEMORANDUM DECISION AND ORDER - 1
+      Case 4:25-cv-00645-DCN         Document 15       Filed 02/12/26    Page 2 of 10
+
+
+
+
+                                   II. BACKGROUND
+
+       Seifert’s Complaint is 206 pages long and asserts fifty-five separate causes of action
+
+against five named Defendants. Dkt. 1-2. The claims span the gambit: federal statutory
+
+claims under the Real Estate Settlement Procedures Act, the Truth in Lending Act, and the
+
+Racketeer Influenced and Corrupt Organizations Act; state statutory and common law
+
+claims for breach of contract, fraud, and consumer protection violations; equitable claims
+
+for quiet title and accounting; and claims that have no conceivable application to mortgage
+
+servicing, including breach of the covenant of habitability (a landlord-tenant doctrine),
+
+accounting malpractice (against non-accountants), and civil rights violations under 42
+
+U.S.C. § 1983 (against private parties).
+
+       At its base, however, the case appears to be about a mortgage servicing dispute.
+
+Seifert alleges he obtained a Federal Housing Administration insured mortgage loan
+
+secured by real property located at 113 5th Street, Idaho Falls, Idaho 83401. Seifert further
+
+alleges he was approved for a loan modification in July 2025 and claims a foreclosure sale
+
+was improperly scheduled for October 2025 while his modification was pending.
+
+       Seifert contends Defendants failed to properly credit his payments, mishandled his
+
+loss mitigation application, and violated various federal and state laws in connection with
+
+the servicing and attempted foreclosure of his loan.
+
+       Seifert names Nationstar as loan servicer, Lakeview as the investor/loan owner,
+
+Aldridge Pite, LLP as foreclosure counsel, Sydney K. Leavitt as the successor trustee, and
+
+MERS as the nominee beneficiary for the lender, AdvantageFirst Lending Inc.
+
+       The Nationstar Defendants removed this action on November 10, 2025, from the
+
+
+MEMORANDUM DECISION AND ORDER - 2
+      Case 4:25-cv-00645-DCN         Document 15       Filed 02/12/26     Page 3 of 10
+
+
+
+
+District Court of the Seventh Judicial District of the State of Idaho, in and for the County
+
+of Bonneville. Dkt. 1.
+
+       Thereafter, the Nationstar Defendants and MERS filed Motions to Dismiss on
+
+December 17, 2025. Dkts. 11, 12. MERS also filed a Motion to Take Judicial Notice asking
+
+the Court to take notice of certain underlying mortgage documents to the extent it finds
+
+doing so necessary in adjudicating the pending Motions. Dkt. 13.
+
+       The next day, the Court sent Seifert its standard Notice to Pro Se Litigants
+
+informing him of Defendants’ Motions and what was required in response. Dkt. 14.
+
+       To date, however, Seifert has not responded to any of the motions.
+
+                                 III. LEGAL STANDARD
+
+       Federal Rule of Civil Procedure 12(b)(6) permits a court to dismiss a claim if the
+
+plaintiff has “fail[ed] to state a claim upon which relief can be granted.” “A Rule 12(b)(6)
+
+dismissal may be based on either a ‘lack of a cognizable legal theory’ or ‘the absence of
+
+sufficient facts alleged under a cognizable legal theory.’” Johnson v. Riverside Healthcare
+
+Sys., LP, 534 F.3d 1116, 1121 (9th Cir. 2008) (citation omitted). Federal Rule of Civil
+
+Procedure 8(a)(2) requires a complaint to contain “a short and plain statement of the claim
+
+showing that the pleader is entitled to relief,” in order to “give the defendant fair notice of
+
+what the . . . claim is and the grounds upon which it rests.” See Bell Atl. Corp. v. Twombly,
+
+550 U.S. 544, 554 (2007). “This is not an onerous burden.” Johnson, 534 F.3d at 1121. A
+
+complaint “does not need detailed factual allegations,” but it must set forth “more than
+
+labels and conclusions, and a formulaic recitation of the elements.” Twombly, 550 U.S. at
+
+555. The complaint must also contain sufficient factual matter to “state a claim to relief
+
+
+MEMORANDUM DECISION AND ORDER - 3
+       Case 4:25-cv-00645-DCN              Document 15         Filed 02/12/26       Page 4 of 10
+
+
+
+
+that is plausible on its face.” Id. at 570. In considering a Rule 12(b)(6) motion, the Court
+
+must view the complaint in the light most favorable to the claimant and “accept[] all well-
+
+pleaded factual allegations as true, as well as any reasonable inference drawn from them.”
+
+Johnson, 534 F.3d at 1122.
+
+        Where a plaintiff is proceeding pro se, the complaint must be liberally construed,
+
+and he must be given the benefit of any doubt. See Resnick v. Hayes, 213 F.3d 443, 447
+
+(9th Cir.2000). If dismissal is appropriate under Rule 12(b)(6), a court “should grant leave
+
+to amend even if no request to amend the pleading was made, unless it determines that the
+
+pleading could not possibly be cured by the allegation of other facts.” Ballinger v. City of
+
+Oakland, 398 F. Supp. 3d 560, 567 (N.D. Cal. 2019) (quoting Lopez v. Smith, 203 F.3d
+
+1122, 1130 (9th Cir. 2000)). The decision is within the discretion of the trial court.
+
+                                           IV. ANALYSIS
+
+        In this case, the Court begins by noting that procedural grounds exist for granting
+
+Defendants’ Motions to Dismiss outright. As explained, upon the filing of Defendants’
+
+Motions, the Clerk of the Court sent Seifert the District of Idaho’s standard Notice to Pro
+
+Se Litigants (the “Notice”) outlining what was required of him. 2 The Notice contained an
+
+explanation of Rule 12 motions to dismiss and how and when Seifert needed to respond.
+
+The Notice also included the following warning:
+
+        You are warned that if you do not file your response opposing the motion
+        within 21 days (or such other time period set by the Court), the Court will
+        consider the facts provided by the moving party as undisputed and may
+2
+ In Klingele v. Eikenberry, 849 F.2d 409 (9th Cir. 1988), the Ninth Circuit held that prisoners (and other
+unrepresented parties) must receive fair notice of the requirements of Rule 12 and Rule 56 Motions. In the
+District of Idaho—as in courts across the nation—this notice is a standard form sent to all pro se litigants
+explaining what he or she must do when a motion under Rule 12 or Rule 56 has been filed.
+
+
+MEMORANDUM DECISION AND ORDER - 4
+        Case 4:25-cv-00645-DCN          Document 15    Filed 02/12/26     Page 5 of 10
+
+
+
+
+        grant the motion based on the record before it, or it may dismiss your
+        entire case for failure to prosecute (abandonment of your case). See Local
+        Rule 7.1(e)(2); Fed. R. Civ. P. 41(b).
+
+Dkt. 14, at 2 (emphasis in original).
+
+        Furthermore, Idaho District Local Rule 7.1 outlines that:
+
+        Failure by the moving party to file any documents required to be filed under
+        this rule in a timely manner may be deemed a waiver by the moving party of
+        the pleading or motion. Except as provided in subpart (2) below, if an adverse
+        party fails to timely file any response documents required to be filed under
+        this rule, such failure may be deemed to constitute a consent to the sustaining
+        of said pleading or the granting of said motion or other application.
+
+Idaho Dist. Loc. R. 7.1(f)(1).
+
+        The Court sent Seifert the Notice on December 18, 2025. Dkt. 14. The Notice
+
+indicated Seifert’s responses to Defendants’ motions were due in 21 days—or by January
+
+7, 2026. January 7, 2026, came and went without any filings from Seifert. The Court has
+
+waited an additional 30 days to provide Seifert every reasonable opportunity to respond.
+
+Still nothing.
+
+        Accordingly, pursuant to this Court’s Notice, as well as Local Rule 7.1, Seifert’s
+
+failure to timely respond to Defendants’ Motions to Dismiss is deemed acquiescence to the
+
+granting of said motions. This conclusion is sufficient to find in Defendants’ favor;
+
+however, the Court will briefly address the merits of each motion as a second, independent
+
+reason for dismissal and to highlight what Seifert must do should he decide to pursue this
+
+case.
+
+        A. Nationstar Defendants’ Motion to Dismiss (Dkt. 11)
+
+        Federal Rule of Civil Procedure 8(a)(2) requires “a short and plain statement of the
+
+
+
+MEMORANDUM DECISION AND ORDER - 5
+      Case 4:25-cv-00645-DCN         Document 15       Filed 02/12/26    Page 6 of 10
+
+
+
+
+claim showing that the pleader is entitled to relief.” This rule serves critical functions: it
+
+provides defendants with fair notice of claims against them, enables courts to manage cases
+
+efficiently, and ensures defendants can prepare appropriate responsive pleadings. See
+
+Destfino v. Reiswig, 630 F.3d 952, 958 (9th Cir. 2011) (holding Rule 8’s fair notice
+
+requirements are violated when complaints fail to “state clearly how each and every
+
+defendant is alleged to have violated plaintiffs’ legal rights.”); see also Morgan v. Mason,
+
+1999 WL 718599, at *1 (D. Idaho July 21, 1999) (“Statements in pleadings need to be short
+
+because unnecessary prolixity in a pleading places an unjustified burden on the court and
+
+the party who must respond to it because they are forced to select the relevant material
+
+from a mass of verbiage.”) (citation modified).
+
+       Shotgun pleadings are pleadings that seek to overwhelm defendants with an unclear
+
+mass of allegations and make it impossible for the defendants to make informed responses
+
+to the plaintiff’s allegations. Destfino, 630 F.3d 952, 958. A complaint is considered a
+
+shotgun pleading when it “does not give the Defendants fair notice of which claim is
+
+against whom.” Tuinstra v. Bonner Cnty., 2021 WL 2534983, at *3 (D. Idaho June 21,
+
+2021) (citing Harris v. Cnty. of San Diego., 2019 WL 6683367, at *6 (S.D. Cal. Dec. 5,
+
+2019)).
+
+       In their Motion to Dismiss, the Nationstar Defendants allege they cannot tell what
+
+claims are directed towards which Defendants because Seifert’s Complaint is over 200
+
+pages long and contains various legal theories, causes of action, and irrelevant digressions.
+
+The Court agrees.
+
+       For example, Seifert incorporates all preceding paragraphs as part of each of his
+
+
+MEMORANDUM DECISION AND ORDER - 6
+      Case 4:25-cv-00645-DCN         Document 15      Filed 02/12/26     Page 7 of 10
+
+
+
+
+fifty-five causes of action. But by the fifty-fifth cause of action, there are over 560
+
+preceding paragraphs, most of which address different legal theories, Defendants, and
+
+factual predicates. It is virtually impossible to ascertain which facts give rise to which
+
+claims as applied to which Defendnats.
+
+       Even then, most claims are factually deficient. For example, the Fiftieth Cause of
+
+Action asserts civil rights violations under 42 U.S.C. § 1983 against all Defendants. See
+
+Dkt. 1-2 at ¶¶ 519-527. For a claim under § 1983 to be viable, a Plaintiff must demonstrate
+
+a defendant acted “under color of state law,” which involves exercising power granted by
+
+state law and only possible because the wrongdoer is endowed with state authority. See
+
+West v. Atkins, 487 U.S. 42, 49 (1988). Private parties generally do not act under the color
+
+of state law. See Price v. State of Hawaii, 939 F.2d 702, 708 (9th Cir. 1991). A plaintiff
+
+must provide specific facts showing that the defendant’s actions were attributable to the
+
+state. Id. Here, all five Defendants are private entities or individuals, and the Complaint
+
+does not allege any facts plausibly suggesting state action. Moreover, “[c]ourts have
+
+repeatedly rejected Section 1983 claims against lenders and loan servicers premised for
+
+mortgage loan and foreclosure actions, finding that they are not government actors or
+
+standing as government actors in their efforts.” Deville v. Specialized Loan Servicing, LLC,
+
+2020 WL 13267725, at *5 (C.D. Cal. Sept. 9, 2020).
+
+       Finally, the problems are not just substantive. Seifert’s Complaint appears to contain
+
+fabricated or hallucinated case citations. For example, Seifert cites “McGinnis v. GMAC
+
+Mortg. Corp., 2013 WL 1282124 (D. Colo.).” Dkt. 1-2, at 6. However, 2013 WL 1282124
+
+is not a case called McGinnis v. GMAC Mortgage Corp., nor is it from the District of
+
+
+MEMORANDUM DECISION AND ORDER - 7
+      Case 4:25-cv-00645-DCN         Document 15       Filed 02/12/26     Page 8 of 10
+
+
+
+
+Colorado—it is an appellate brief from Washington. See STATE OF WASHINGTON,
+
+Respondent, v. Daniel LUSE, Jr., Appellant., 2013 WL 1282124. Meanwhile, a search for
+
+“McGinnis v. GMAC Mortgage Corp.” returns a 2010 case from Utah. See McGinnis v.
+
+GMAC Mortg. Corp., 2010 WL 3418204 (D. Utah Aug. 27, 2010).
+
+       In sum, Seifert’s Complaint fails to meet the requirements of Rule 8(a) in its entirety.
+
+Without specific causes of action against specific defendants based on specific facts, the
+
+Complaint does not provide Defendants with adequate notice of Seifert’s theory of the case
+
+and what it must defend. Furthermore, what claims can be drawn out from the Complaint
+
+suffer from legal and factual deficiencies. Consequently, the Complaint is subject to
+
+dismissal under Rule 12(b)(6).
+
+       B. MERS’s Motion to Dismiss (Dkt. 12)
+
+       MERS asserts it should be dismissed from this suit as it did not have any
+
+involvement or interest in Seifert’s loan at the time of the alleged misconduct, having
+
+assigned the Deed of Trust to Lakeview Loan Servicing, LLC, prior to the facts that appear
+
+to have given rise to Seifert’s Complaint. In support of its argument, MERS asks the Court
+
+to take judicial notice of the loan documents. Dkt. 13.
+
+       Judicial notice of these specific documents is proper for two reasons. First, the Court
+
+“may [] examine documents referred to in the complaint, although not attached thereto,
+
+without transforming the motion to dismiss into a motion for summary judgment.” Gilbert
+
+v. Bank of Am. Corp., 2012 WL 4470897, at *2 (D. Idaho Sept. 26, 2012) (taking judicial
+
+notice of a promissory note) (citing Knievel v. ESPN, 393 F.3d 1068, 1076 (9th Cir.2005)).
+
+Second, the Court may take judicial notice of publicly recorded documents associated with
+
+
+MEMORANDUM DECISION AND ORDER - 8
+      Case 4:25-cv-00645-DCN         Document 15       Filed 02/12/26    Page 9 of 10
+
+
+
+
+real property in connection with foreclosure proceedings. See Koenig v. Bank of Am., N.A.,
+
+714 F. App’x 715, 716 (9th Cir. 2018) (citing Fed. R. Evid. 201(b)(2)). The instant
+
+documents were referenced by Seifert in his complaint and are publicly recorded.
+
+Therefore, the Court can consider them at this stage of the case.
+
+       Having done so, it is clear MERS is an improper Defendant.
+
+       To the extent any claims against MERS can be discerned from the Complaint, each
+
+fail because MERS was not involved with Seifert’s loan at the time of the alleged
+
+misconduct. MERS assigned the Deed of Trust to Lakeview on April 3, 2025. Dkt. 13-1,
+
+at 20–21. MERS had no interest in the Deed of Trust and no role in Seifert’s loan when he
+
+was approved for a modification on July 15, 2025, when the foreclosure sale was scheduled
+
+for October 2, 2025, or when any other alleged misconduct occurred.
+
+       Second, even if it could be said MERS had some connection to the events in
+
+question, the Court’s analysis as to Nationstar’s Motion would apply equally to MERS as
+
+well. Seifert’s complaint does not set forth any specific facts or plausible causes of action
+
+against MERS with the requisite degree of specificity. What vague, confusing, and
+
+conclusory allegations exist cannot withstand scrutiny under Rule 8.
+
+       For these reasons, MERS Request to Take Judicial Notice is GRANTED and its
+
+Motion to Dismiss is likewise GRANTED.
+
+                                    V. CONCLUSION
+
+       The Court is required to freely grant leave to amend, especially to a pro se plaintiff,
+
+when it appears that the deficiencies in the pleading may be cured by amendment.
+
+       Candidly, the Court is not certain any amendment can cure the deficiencies here.
+
+
+MEMORANDUM DECISION AND ORDER - 9
+     Case 4:25-cv-00645-DCN         Document 15       Filed 02/12/26     Page 10 of 10
+
+
+
+
+Critically, Seifert must file a substantially shorter and clearer complaint so the Court and
+
+the remaining Defendants can properly analyze the claims.
+
+       Thus, the Court will allow Seifert an opportunity to amend his complaint. Seifert
+
+shall file a short and plain complaint, indicating specific acts that gave rise to specific
+
+causes of action against specific defendants. He will also verify that all legal citations are
+
+accurate and exist in a recognized legal database.
+
+                                        VI. ORDER
+
+Therefore, the Court HEREBY ORDERS:
+
+       1. Nationstar Defendants’ Motion to Dismiss (Dkt. 11) is GRANTED.
+
+       2. MERS’s Motion to Dismiss (Dkt. 12) is GRANTED.
+
+       3. MERS’s Request to Take Judicial Notice (Dkt. 13) is GRANTED.
+
+       4. Seifert’s Complaint (Dkt. 1-2) is DISMISSED WITHOUT PREJUDICE.
+
+       5. Should Seifert choose to file an Amended Complaint, he must do so within 30
+
+          days of the date of this order. Failure to comply will result in the full dismissal
+
+          of this case WITH PREJUDICE and without further notice.
+
+                                                  DATED: February 12, 2026
+
+
+                                                  _________________________
+                                                  David C. Nye
+                                                  U.S. District Court Judge
+
+
+
+
+MEMORANDUM DECISION AND ORDER - 10
+

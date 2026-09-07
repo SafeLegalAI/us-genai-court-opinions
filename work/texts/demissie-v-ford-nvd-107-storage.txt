@@ -1,0 +1,163 @@
+     Case 2:25-cv-00504-GMN-EJY          Document 107       Filed 10/07/25      Page 1 of 3
+
+
+
+
+ 1                                 UNITED STATES DISTRICT COURT
+ 2                                        DISTRICT OF NEVADA
+ 3                                                   ***
+ 4     DANIEL DEMISSIE,                                        Case No. 2:25-cv-00504-JAD-EJY
+ 5                   Plaintiff,
+ 6            v.                                                             ORDER
+ 7     AARON D. FORD, LAS VEGAS
+       METROPOLITAN POLICE DEPARTMENT,
+ 8     DETECTIVE GABRIEL LEA, DETECTIVE
+       BROOKS WEST, CAESARS
+ 9     ENTERTAINMENT, INC., FLAMINGO LAS
+       VEGAS OPERATING COMPANY, LLC, and
+10     JOHN DOE, FLAMINGO ASSISTANT
+       SECURITY SHIFT MANAGER,
+11
+                     Defendants.
+12
+
+13            Pending before the Court is “Plaintiff’s Emergency Motion for Protective Order Pursuant to
+14     FRCP 26(c)(1) to Preclude Deposition Noticed by Metro Defendants for October 8, 2025.” ECF
+15     No. 98. The Motion was filed on September 25, 2025. Thus, no response has yet been received.
+16     The Motion argues that Plaintiff’s deposition cannot proceed because Plaintiff has a pending Motion
+17     for Terminating Sanctions (ECF No. 71) alleging fraud on the Court based on the unrelenting theme
+18     that Las Vegas Metropolitan Police Department (“Metro”) produced fabricated body worn camera
+19     footage. Id. at 1. Plaintiff further contends Metro is withholding critical discovery including
+20     “Detective Lea’s ‘Order-Out Corridor’ recommendation to prosecutors”; “[s]pecifications and
+21     grounds for … [his] placement on the ‘Order-Out Corridor’ list”; “[d]atabase logs showing
+22     agencies/officers who accessed … [his] record”; and “[u]naltered, native BWC [body worn camera]
+23     footage from Officer West’s interactions with Flamingo employee.” Id. at 3-4. Plaintiff attacks the
+24     credibility of opposing counsel’s representations and states “he knows for a fact” that the already
+25     produced body worn footage is altered. Id. at 7. Plaintiff fears his “video- or audio-recorded
+26     deposition could likewise be manipulated to prejudice” him. Id. Plaintiff cites to his Reply in
+27     support of his Motion for Terminating Sanctions as demonstrating the misstatements of opposing
+28     counsel. Id. citing ECF No. 84.
+                                                       1
+     Case 2:25-cv-00504-GMN-EJY            Document 107         Filed 10/07/25      Page 2 of 3
+
+
+
+
+ 1            It is worth noting that the Court’s review of Plaintiff’s Motion for Terminating Sanctions
+
+ 2     appears to be based on Plaintiff’s asserted “belief” that Metro has altered body worn camera;
+
+ 3     however, Plaintiff provides no reliable evidence that the camera footage contains deepfake edits or
+
+ 4     other alteration. Metro also notes that it has produced the native, original and unedited footage that
+
+ 5     was captured during Plaintiff’s June 17, 2023 apprehension and arrest (supported by evidence). ECF
+
+ 6     No. 77 at 8 (and citations therein). A declaration was offered by Metro’s Systems Administrator
+
+ 7     regarding how body worn camera footage is captured, stored, maintained, and produced. Id. Despite
+
+ 8     this and other evidence offered by Metro and counsel for Metro’s professional obligation of candor
+
+ 9     owed to the Court, the Court recognizes that it has not yet had an opportunity to fully evaluate
+
+10     Plaintiff’s Motion.
+
+11            Further, Plaintiff has not cited any law holding he is entitled to have all documentation
+
+12     requested before he appears for deposition and the Court is not aware of any such rule applicable to
+
+13     the U.S. District Court for the District of Nevada. The Court notes it is unlikely that there is any
+
+14     body worn camera footage in Metro’s possession that Plaintiff does not have given Metro’s
+
+15     representation that it previously produced the native, original footage. As for the other requested
+
+16     documents, Plaintiff does not explain why these are critical or even necessary before he is deposed.
+
+17     Plaintiff instead argues that proceeding with his deposition “would not assist the Court in resolving
+
+18     … [his contentions of alteration and fabrication] but would instead create substantial risk of
+
+19     prejudice by subjecting Plaintiff to further exploitation, harassment, and manipulation of his voice
+
+20     and image.” ECF No. 98 at 9.
+
+21            Plaintiff’s deposition will be recorded and or transcribed by a licensed court reporter who
+
+22     has independent obligations regarding accuracy. Plaintiff presents nothing to suggest that the firm
+
+23     or individual who will record his deposition would participate in altering his voice or image. With
+
+24     respect to “exploitation,” it is Plaintiff who brings his case against Metro (and others). Metro is
+
+25     entitled to take Plaintiff’s deposition even with dispositive motion practice pending. In the absence
+
+26     of a stay of discovery, which is not present here, Plaintiff cannot avoid participation in his deposition
+
+27     based solely on the pendency of a potentially dispositive motion.
+
+28
+                                                         2
+     Case 2:25-cv-00504-GMN-EJY            Document 107        Filed 10/07/25      Page 3 of 3
+
+
+
+
+ 1            Generally, a dispositive motion does not warrant a stay of discovery. Tradebay, LLC v. eBay,
+
+ 2     Inc., 278 F.R.D. 597, 601 (D. Nev. 2011). “The party seeking a stay . . . has the burden to show
+
+ 3     good cause by demonstrating harm or prejudice that will result from the discovery.” Rosenstein v.
+
+ 4     Clark Cnty. Sch. Dist., Case No. 2:13-cv-1443-JCM-VCF, 2014 WL 2835074, at *3 (D. Nev. June
+
+ 5     23, 2014), citing Fed. R. Civ. P. 26(c)(1) (internal quotation marks omitted). A party seeking a
+
+ 6     discovery stay carries the “heavy burden” of making a strong showing why the discovery process
+
+ 7     should be halted. Turner Broad. Sys., Inc. v. Tracinda Corp., 175 F.R.D. 554, 556 (D. Nev. 1997).
+
+ 8     When deciding whether to issue a stay, a court must take a “preliminary peek” at the merits of the
+
+ 9     dispositive motion pending in the case. Buckwalter v. Nevada Bd. of Med. Exam’rs, Case No. 2:10-
+
+10     cv-02034-KJD-GWF, 2011 WL 841391, at *1 (D. Nev. Mar. 7, 2011). A stay of discovery is only
+
+11     appropriate where a court is convinced that all claims will be dismissed. Tradebay, 278 F.R.D. at
+
+12     602 (pending motion must be “potentially dispositive of the entire care or at least dispositive of the
+
+13     issue on which discovery is sought”); see also Flynn v. Nevada, 345 F.R.D. 338, 352 (D. Nev. 2024)
+
+14     (the court must take a “preliminary peek” at the merits of the potentially dispositive motion and find
+
+15     it “is convinced” that all claims will be dismissed). As mentioned above, the Court took a
+
+16     preliminary peek at the merits of Plaintiff’s Motion for Terminating Sanctions (ECF No. 71). While
+
+17     the Motion is potentially case dispositive, the Court is not convinced that all claims will be dismissed
+
+18     as the result of the Motion. For this reason, the Court finds a stay of Plaintiff’s deposition is not
+
+19     supported by the facts presented.
+
+20            Accordingly, and based on the foregoing, IT IS HEREBY ORDERED that Plaintiff’s
+
+21     Motions seeking shortened time (ECF No. 99) and for Leave to Supplemental Declaration (ECF No.
+
+22     102) are GRANTED.
+
+23            IT IS FURTHER ORDERED that Plaintiff’s Emergency Motion for Protective Order
+
+24     Pursuant to FRCP 26(c)(1) to Preclude Deposition Noticed by Metro Defendants for October 8, 2025
+
+25     (ECF No 98) is DENIED.
+
+26            Dated this 7th day of October, 2025.
+
+27
+                                                      ELAYNA J. YOUCHAH
+28                                                    UNITED STATES MAGISTRATE JUDGE
+                                                         3
+

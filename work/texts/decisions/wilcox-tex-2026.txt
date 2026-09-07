@@ -1,0 +1,986 @@
+             In the
+        Court of Appeals
+Second Appellate District of Texas
+         at Fort Worth
+     ___________________________
+          No. 02-25-00643-CV
+     ___________________________
+
+      ZDENKA WILCOX, Appellant
+
+                      V.
+
+    JUAN DIEGO DURAN, Appellee
+
+
+
+  On Appeal from the 141st District Court
+          Tarrant County, Texas
+      Trial Court No. 141-358707-24
+
+
+  Before Sudderth, C.J.; Kerr and Bassel, JJ.
+  Memorandum Opinion by Justice Bassel
+                           MEMORANDUM OPINION
+
+                                    I. Introduction
+
+       This interlocutory appeal pursuant to the Texas Citizens Participation Act
+
+(TCPA) arises from litigation separate from but incident to a bitter custody dispute
+
+between the parties. See generally Tex. Civ. Prac. & Rem. Code §§ 27.001–.011. The
+
+question in this appeal is whether the original defendant––now counter-plaintiff and
+
+appellee––Juan Diego Duran offered sufficient evidence to defeat counter-defendant
+
+and appellant Zdenka Wilcox’s TCPA motion after amending his pleadings to add
+
+(1) an abuse-of-process claim in response to Wilcox’s litigation conduct and (2) a
+
+“negligence-per-se/intentional-tort” claim for Wilcox’s making allegedly false police
+
+reports contending that Duran had assaulted her. Because we hold that the trial court
+
+erred by denying Wilcox’s motion to dismiss Duran’s abuse-of-process and false-
+
+reporting claims, we reverse the trial court’s order.
+
+                             II. Procedural Background
+
+       In October 2024, Wilcox, acting pro se, sued Duran, her ex-husband, and Maria
+
+Fernanda Omana Perez for “fraudulent misrepresentation, conspiracy to defraud,
+
+intentional infliction of emotional distress, negligent infliction of emotional distress,
+
+civil theft under Texas Penal Code § 31.03, abuse of process, defamation per se,
+
+defamation, fraudulent concealment, invasion of privacy, unauthorized access to
+
+computer systems, tortious interference with a relationship, and harassment.” In
+
+
+
+                                            2
+general, Wilcox alleged that Duran had engaged in domestic violence against her during
+
+their marriage and that he and Perez had had an affair.
+
+       Duran and Perez filed a joint answer in which they alleged, among other things,
+
+that Wilcox had filed the suit in bad faith and for purposes of harassment. Duran and
+
+Perez then filed a joint original counterclaim against Wilcox in December 2024, after
+
+which Wilcox filed a notice of nonsuit of her claims against both Duran and Perez. In
+
+February 2025, Duran filed a first amended counterclaim against Wilcox, but Perez
+
+nonsuited her counterclaim.
+
+       Duran then filed a second amended counterclaim on March 14, 2025, in which
+
+he brought defamation and tortious-interference-with-contract claims against Wilcox,
+
+alleging that she had on at least once occasion made a false police report against him
+
+and that she had been contacting his employer with false claims in an attempt to get
+
+him fired. Duran filed a third amended counterclaim on September 9, 2025. The third
+
+amended counterclaim contained two new causes of action against Wilcox: (1) abuse
+
+of process and (2) “negligence per se and intentional tort in con[n]ection with . . . trying
+
+to press false criminal charges” against Duran (false-reporting claim).
+
+       In response to Duran’s third amended counterclaim, Wilcox filed a TCPA
+
+motion to dismiss, alleging that Duran’s new claims were brought in response to her
+
+exercise of free speech. She characterized the abuse-of-process claim as alleging
+
+“vexatious litigation tactics, including improper motions and discovery disputes.” And
+
+she contended that both claims were based on her reporting matters of public concern.
+
+                                             3
+Wilcox requested that a hearing be held on her motion, and a hearing was set for
+
+November 6, 2025. See id. § 27.004(a).
+
+       Wilcox amended her TCPA motion on September 19, 2025. In the amended
+
+motion, she did not specifically ask for a hearing.
+
+       In his fifty-page response to Wilcox’s TCPA motion, Duran contended that
+
+       • The motion could not be heard because Wilcox had not requested a
+         hearing in her amended motion;
+
+       • The motion was untimely;
+
+       • Wilcox’s pleadings were confusing, and she appeared to have prepared
+         them with ChatGPT;
+
+       • Wilcox had not shown standing to bring a TCPA motion;
+
+       • Wilcox had not proffered any proper evidence; and
+
+       • Duran had clear and specific evidence to support his claims.
+
+Duran then made objections to each of the three exhibits attached to Wilcox’s TCPA
+
+motion. He also provided several exhibits of his own in response.
+
+       At the beginning of the TCPA motion hearing on November 6, 2025, the trial
+
+court overruled Duran’s objection to allowing the hearing to go forward. The trial court
+
+then declined to rule on the TCPA motion, expressing its preference that the parties go
+
+to trial on their original setting of December 1, 2025. But eight days later, the trial court
+
+signed an order denying Wilcox’s TCPA motion. In the order, the trial court granted
+
+all of Duran’s objections to the evidence attached to Wilcox’s TCPA motions. Five
+
+
+
+                                             4
+days later, Duran’s trial counsel filed a motion to withdraw on the basis of attorney–
+
+client conflict.
+
+       Wilcox timely filed a notice of appeal from the denial order. See id. § 27.008(b).
+
+While the appeal was pending, the trial court granted Duran’s counsel’s motion to
+
+withdraw and substituted new counsel for Duran. Although Wilcox has filed an
+
+appellant’s brief, Duran did not file an appellee’s brief.
+
+                              III. Timeliness of Motion
+
+       We first consider whether Wilcox’s TCPA motion was timely. “A motion to
+
+dismiss a legal action under [Section 27.003 of the Texas Civil Practice and Remedies
+
+Code] must be filed not later than the 60th day after the date of service of the legal
+
+action.” Id. § 27.003(b). For purposes of Section 27.003(b) timing, “an amended or
+
+supplemental pleading that asserts a new claim involving different elements than a
+
+previously asserted claim also asserts a new legal action that triggers a new sixty-day
+
+period for filing a motion to dismiss that new claim.” Montelongo v. Abrea, 622 S.W.3d
+
+290, 301 (Tex. 2021).
+
+       Here, Duran’s abuse-of-process cause of action requires different elements than
+
+the defamation and tortious-interference-with-contract claims raised in his second
+
+amended counterclaim. 1 See In re Lipsky, 460 S.W.3d 579, 593 (Tex. 2015) (orig.
+
+
+       1
+        Additionally, Duran’s abuse-of-process claim is based on Wilcox’s pleading and
+other litigation practices during this litigation, including filing a “counterclaim” against
+Duran (in response to his counterclaim against her), in what he contends is simply an
+attempt to reopen discovery after the discovery period should have ended.
+
+                                             5
+proceeding) (setting forth defamation-claim elements); Moore v. Bushman, 559 S.W.3d
+
+645, 653 (Tex. App.—Houston [14th Dist.] 2018, no pet.) (listing abuse-of-process-
+
+claim elements); Allegiance Expl., LLC v. Davis, No. 02-13-00349-CV, 2016 WL 1164331,
+
+at *15 (Tex. App.—Fort Worth Mar. 24, 2016, pets. denied) (setting forth tortious-
+
+interference-with-contract-claim elements). Likewise, his false-reporting claim requires
+
+different elements. See Discovery Operating, Inc. v. BP Am. Prod. Co., 311 S.W.3d 140, 162
+
+(Tex. App.—Eastland 2010, pet. denied) (“Negligence per se is a common-law doctrine
+
+that allows courts to rely on a penal statute to define a reasonably prudent person’s
+
+standard of care.”). Thus, Wilcox’s TCPA motion was timely filed as to the new causes
+
+of action in Duran’s third amended counterclaim. See Montelongo, 622 S.W.3d at 301.
+
+                               IV. Procedural Rulings
+
+      Before considering the merits of the denial of Wilcox’s TCPA motion, we
+
+address three of her procedural complaints.
+
+A. The Trial Court Considered Both of Wilcox’s Motions.
+
+      In her second issue,2 Wilcox contends that the trial court erred by refusing to
+
+consider her first amended TCPA motion. She contends that the trial court had
+
+overruled Duran’s objections to her evidence at the beginning of the TCPA hearing but
+
+then reversed course.
+
+
+
+
+      2
+       We address Wilcox’s issues out of order for organizational purposes.
+
+                                            6
+      Wilcox’s assertion is incorrect.      The trial court did not overrule Duran’s
+
+evidentiary objections at the TCPA motion hearing; instead, it ruled solely on Duran’s
+
+objection to having a hearing on the motion. In the denial order, the trial court noted
+
+that it had “fully considered the various . . . ANTI-SLAPP MOTION PLEADINGS”
+
+and had granted all of Duran’s objections to the evidence submitted by Wilcox “in her
+
+‘Anti-Slapp’ motions.” The order’s plain language thus indicates that the trial court
+
+considered both Wilcox’s original and amended TCPA motions. See John Gannon, Inc. v.
+
+Tex. Dep’t of Transp., No. 01-22-00762-CV, 2024 WL 1513875, at *4 (Tex. App.—
+
+Houston [1st Dist.] Apr. 9, 2024, pet. denied) (noting that we construe language in
+
+orders according to its plain meaning). Accordingly, we overrule her second issue.
+
+B. The Trial Court Properly Sustained Duran’s Objections to Wilcox’s
+Evidence.
+
+      In part of her third issue, Wilcox contends that the trial court abused its
+
+discretion by granting what she characterizes as general, blanket objections to the
+
+exhibits attached to her motions. 3
+
+      Wilcox purports to quote In re Lipsky for the following proposition: “‘A court
+
+should disregard only the conclusory portions of an affidavit, not the entire affidavit.’
+
+460 S.W.3d 579, 590 (Tex. 2015).” But this quotation is not to be found in Lipsky.
+
+Instead, Lipsky confirmed that the trial court could not consider a conclusory affidavit
+
+
+      3
+        As we have noted, contrary to Wilcox’s assertion in this issue, the trial court did
+not overrule these objections at the TCPA motion hearing. Instead, the trial court ruled
+solely on Duran’s objection to having a hearing.
+
+                                            7
+with only “[b]are, baseless opinions.” Id. at 592. Wilcox also cites Robert B. James, DDS,
+
+Inc. v. Elkins, 553 S.W.3d 596, 606 (Tex. App.—San Antonio 2018, pet. denied), for the
+
+same proposition, but that case does not support the proposition.4
+
+       Wilcox further confuses the discussion in Dallas Morning News, Inc. v. Tatum about
+
+how a court is to evaluate whether a publication was defamatory for a holding that a
+
+TCPA motion opponent cannot make evidentiary objections to an entire document or
+
+that the trial court may not grant objections to only certain parts of exhibits. 5 See 554
+
+S.W.3d 614, 624, 635 (Tex. 2018). She also erroneously relies on Youngkin v. Hines for
+
+the same proposition. 546 S.W.3d 675, 680–81 (Tex. 2018) (noting that “[i]t is by now
+
+axiomatic that we must construe individual words and provisions in the context of the
+
+statute as a whole”).
+
+       Duran did not make blanket objections. He objected to the exhibit attached to
+
+her original motion as improperly authenticated, irrelevant, and containing hearsay and
+
+because he contended that her original petition was superseded by her amended
+
+motion.6 Duran objected to certain sentences in the affidavit attached to Wilcox’s
+
+
+       Wilcox admitted using ChatGPT to prepare filings in this case.
+       4
+
+
+       5
+        Wilcox also cites James v. Brown, 637 S.W.2d 914, 916–17 (Tex. 1982). But that
+case cannot support her argument because it pre-dates the enactment of the TCPA. See
+Act of May 21, 2011, 82nd Leg., R.S., ch. 341, §§ 1–4, 2011 Tex. Gen. Laws 961, 961–
+64 (original TCPA enactment).
+
+       This exhibit is a copy of Duran’s third amended counterclaim. Even if the trial
+       6
+
+court had erred by granting Duran’s objection to this exhibit, see Tex. Civ. Prac. & Rem.
+Code § 27.006(a), we consider this pleading in our later analysis of the trial court’s ruling
+
+                                             8
+amended petition as conclusory, but he also objected to others on the grounds of
+
+hearsay, the best-evidence rule, and Rohrmoos. 7 He objected to her two other exhibits
+
+on authentication, hearsay, and relevance grounds.
+
+      Wilcox contends in her brief that the affidavit attached to her amended petition
+
+contained no conclusory statements. Duran objected to the following statements as
+
+conclusory:
+
+      • “My communications to the Southlake Police Department (SLPD)
+      regarding alleged assaults by . . . Duran, as referenced in the Third
+      Amended Counter-Claim (filed September 9, 2025), were made in good faith
+      based on my belief in their truth, supported by prior incidents, including a
+      previous personal protection order petition filed against Duran . . . .”
+
+      • “These reports were intended to address safety concerns, not with malice or ulterior
+      motive, as alleged by Duran.”
+
+      • “This communication [an email to Duran’s employer informing it of the
+      damages he claims in this suit] was made in good faith to address pilot fitness and
+      safety, a matter of public concern, and was not intended to defame or interfere with his
+      employment, which has not resulted in job loss or discipline per Kalitta HR
+      testimony.”
+
+
+
+
+on Wilcox’s TCPA motion, see Morrell v. Frost Bank, No. 02-25-00556-CV, 2026 WL
+1765525, at *3 (Tex. App.—Fort Worth June 18, 2026, no pet. h.).
+      7
+        Duran objected to the following statement as violative of the best-evidence rule
+and as insufficient to prove attorney’s fees under Rohrmoos Venture v. UTSW DVA
+Healthcare, LLP, 578 S.W.3d 469, 502 (Tex. 2019): “I incurred reasonable attorney’s
+fees of $11,000 prior to proceeding pro se on August 28, 2025, as documented in my
+retainer agreement dated December 4, 2024.” Although it appears that Wilcox may
+have hired counsel at some point during the litigation, according to Duran’s pleadings,
+Wilcox fired that attorney in August 2025; Wilcox filed all of her TCPA-related filings
+pro se.
+
+                                                 9
+      • “I assert that these amendments [to Duran’s counterclaims in response
+      to a Rule 91a motion] concede the baselessness of his original claims, supporting my
+      TCPA motion filed on September 19, 2025.”
+
+      • “I believe Duran’s serial amendments—four iterations since December 11,
+      2024, including the September 9, 2025, filing the night before a September
+      10 hearing—constitute bad-faith retaliation, warranting joint sanctions against
+      him and his counsel, Ernest ‘Skip’ Reynolds III.”
+
+      • “No actual malice existed in my actions, as required under Tex. R. Evid. 602
+      for personal knowledge, and I reserve all rights to amend pleadings,
+      pursue dismissal, or seek summary judgment.
+
+[Emphasis added.]
+
+      Merely stating that one acted either in good faith or bad faith is conclusory. See,
+
+e.g., Moody v. Herz, No. 01-22-00202-CV, 2024 WL 1260278, at *14 (Tex. App.—
+
+Houston [1st Dist.] Mar. 26, 2024, no pet.); Bryan v. Human Power of N Co., No. 03-22-
+
+00632-CV, 2024 WL 734654, at *13 (Tex. App.—Austin Feb. 23, 2024, pet. denied); see
+
+also Tex. Div.-Tranter, Inc. v. Carrozza, 876 S.W.2d 312, 314 (Tex. 1994) (“[S]ubjective
+
+beliefs are no more than conclusions and are not competent summary judgment
+
+evidence.”). Accordingly, we hold that the trial court did not abuse its discretion by
+
+sustaining Duran’s objections to these statements in Wilcox’s affidavit.
+
+      Wilcox fails to address the other objections to her affidavit. Thus, she has waived
+
+any argument that the trial court abused its discretion by sustaining those objections.
+
+See Tex. R. App. P. 38.1(i); Ruffin v. Sanchez, No. 04-16-00759-CV, 2017 WL 4014651,
+
+at *1 (Tex. App.—San Antonio Sept. 13, 2017, no pet.).
+
+
+
+
+                                              10
+      Wilcox wholly fails to address the relevancy objections to her two other exhibits.
+
+And although she contends that the hearsay objections were invalid because she was
+
+offering the documents for “non-hearsay purposes” and because they are public and
+
+governmental records,8 she fails to address Duran’s objection that she failed to properly
+
+authenticate them. See Tex. R. Evid. 901(a); In re L.G.K.S., No. 12-18-00178-CV, 2019
+
+WL 4462693, at *6 (Tex. App.—Tyler Sept. 18, 2019, no pet.) (holding that police
+
+report was not self-authenticating because it was neither filed under seal nor a certified
+
+copy); see also Anthony v. Fields, No. 12-26-00057-CV, 2026 WL 1882855, at *7 (Tex.
+
+App.—Tyler June 30, 2026, no pet. h.) (concluding that unauthenticated USB drive was
+
+not proper TCPA evidence). Thus, Wilcox has waived any argument that those
+
+objections were improperly granted. See Tex. R. App. P. 38.1(i); Ruffin, 2017 WL
+
+4014651, at *1.
+
+      We therefore overrule this part of Wilcox’s third issue.
+
+C. Wilcox Did Not Preserve Any Complaint About the Discovery Stay.
+
+      In her sixth issue that Wilcox claims is an issue of first impression, she contends
+
+that we should reverse the trial court’s order denying her TCPA motion because the
+
+trial court violated the TCPA’s discovery stay by allowing other “litigation activity that
+
+is inherently dependent on discovery—such as witness lists, exhibit lists, mandatory
+
+
+      8
+       Her only argument regarding Duran’s hearsay objections is as follows: “Even
+if some internal statements required hearsay parsing, the documents were admissible to
+show what Wilcox reported, how law enforcement and the DA responded, and the
+context for falsity and malice.”
+
+                                           11
+disclosures, evidentiary exchanges, and no-evidence summary-judgment practice.” See
+
+Tex. Civ. Prac. & Rem. Code § 27.003(c) (“Except as provided by Section 27.006(b),
+
+on the filing of a motion under this section, all discovery in the legal action is suspended
+
+until the court has ruled on the motion to dismiss.”).
+
+       Not only does Wilcox’s complaint lack support in the appellate record but also
+
+she failed to preserve this complaint in the trial court. See Tex. R. App. P. 33.1(a); cf.
+
+Thomas v. Logic Underwriters, Inc., No. 02-16-00376-CV, 2017 WL 5494386, at *5 (Tex.
+
+App.—Fort Worth Nov. 16, 2017, pet. denied) (holding that appellant failed to preserve
+
+complaint of insufficient notice of hearing on Rule 91a motion). Moreover, Wilcox
+
+cites no authority supporting the proposition that a trial court’s violating the automatic
+
+discovery-stay provision warrants the granting of a TCPA motion on the merits. Thus,
+
+we overrule her sixth issue.
+
+                               V. Merits of TCPA Motion
+
+       Wilcox addresses the merits of the trial court’s denial of her TCPA motion in her
+
+first and fourth issues and in part of her third issue.9
+
+A. We Set Forth the Standard of Review and Applicable Law.
+
+       A party who moves for dismissal under the TCPA invokes a three-step, burden-
+
+shifting process: (1) first, the movant seeking dismissal must demonstrate that a “legal
+
+
+
+       In her first issue, she addresses whether she met the step-one element of the
+       9
+
+TCPA test; she addresses whether Duran met his step-two burden in part of her third
+issue. And in her fourth issue, she addresses whether she met her step-three burden.
+
+                                            12
+action” has been brought against her and that the action is “based on or is in response
+
+to” an exercise of a protected constitutional right; (2) then the burden shifts to the party
+
+bringing the legal action to avoid dismissal by establishing, by clear and specific
+
+evidence, a prima facie case for each essential element of the claim in question; and (3)
+
+finally, the burden shifts back to the movant to justify dismissal by establishing an
+
+affirmative defense or other ground on which she is entitled to judgment as a matter of
+
+law. See Tex. Civ. Prac. & Rem. Code § 27.005(b)–(d); Morrell, 2026 WL 1765525, at *3.
+
+When reviewing a trial court’s determination as to whether the parties have satisfied
+
+their respective burdens, we consider “the pleadings, evidence a court could consider
+
+under Rule 166a, Texas Rules of Civil Procedure, and supporting and opposing
+
+affidavits stating the facts on which the liability or defense is based,” and we view all of
+
+these in a light most favorable to the nonmovant               Tex. Civ. Prac. & Rem.
+
+Code § 27.006(a); Morrell, 2026 WL 1765525, at *3.
+
+       We review a trial court’s ruling on a TCPA motion to dismiss—including the
+
+applicability of any statutory exemption—de novo. Landry’s, Inc. v. Animal Legal Def.
+
+Fund, 631 S.W.3d 40, 45–46 (Tex. 2021).
+
+B. We Conclude That Wilcox Met Her Step-One Burden.
+
+       To carry her burden under the TCPA’s first step, a movant must “demonstrate[]
+
+that the legal action is based on or is in response to” a protected legal right. Tex. Civ.
+
+Prac. & Rem. Code § 27.005(b). Wilcox contends that the abuse-of-process claim is
+
+based on “her pleadings, motions, and discovery in this lawsuit”; we agree. Thus, she
+
+                                            13
+met her step-one burden as to that claim. See Kute Bar, LLC v. Tran, No. 02-24-00119-
+
+CV, 2024 WL 4562500, at *5 (Tex. App.—Fort Worth Oct. 24, 2024, no pet.). Wilcox
+
+contends that the false-reporting cause of action is directly in response to her
+
+communications on a matter of public concern. Again, we agree. See McShirley v. Lucas,
+
+No. 02-23-00229-CV, 2024 WL 976512, at *5 (Tex. App.—Fort Worth Mar. 7, 2024,
+
+pet. denied); Bibby v. Bibby, 634 S.W.3d 401, 409 (Tex. App.—Houston [1st Dist.] 2021,
+
+no pet.). Thus, we hold that Wilcox met her step-one burden on that claim as well. We
+
+therefore sustain her first issue.
+
+C. We Conclude That Duran Failed to Meet His Step-Two Burden.
+
+       Showing a prima facie case in step two is “not a high hurdle”; it “is the
+
+measurement the Legislature selected to distinguish genuine claims from suits brought
+
+to harass or silence.” USA Lending Grp., Inc. v. Winstead PC, 669 S.W.3d 195, 198 (Tex.
+
+2023). A prima facie case is the “minimum quantity of evidence necessary to rationally
+
+infer that an allegation is true.” Id. Evidence is clear and specific if, taken at face value,
+
+it provides enough detail to show the claim’s factual basis. Id. at 200, 203. A claim
+
+survives step two if the clear and specific evidence “is legally sufficient to establish [the]
+
+claim as factually true if it is not countered.” Id. at 204.
+
+       1. Duran Failed to Present Clear and Specific Evidence of the Type of
+       Damages Required for an Abuse-of-Process Claim.
+
+       Wilcox contends with regard to step two that “Duran . . . produced no evidence
+
+sufficient to meet § 27.005(c) of an ulterior purpose, an improper act in the use of
+
+
+                                             14
+process, or damages, which are essential elements of abuse of process.”10 [Emphasis
+
+added.] We agree that Duran’s prima facie proof failed to establish the damages element
+
+of his abuse-of-process claim.
+
+      In pleading his abuse-of-process claim, Duran reiterated his contention from his
+
+original answer that Wilcox had filed her original petition against him and Perez in bad
+
+faith. He then alleged that even though Wilcox had nonsuited that petition, she had
+
+later rehashed the allegations from that petition in a “counterclaim” against him in
+
+response to his counterclaims against her. He further alleged as follows:
+
+      Along the way [Wilcox] has filed a series of improper motions, many of
+      them dilatory in nature, and has failed to participate in good faith in the
+      discovery process. Now, though the time period during whic[h] new
+      discovery may for the first time be initiated has passed, [Wilcox] is
+      basically trying [in a legall[y] incorrect and impermissible way] to initiate
+      new discovery and to claim that the discovery period has not concluded;
+      and it was [Wilcox] herself who first requested Level 2 discovery! [Wilcox]
+      is also improperly trying to conflate this case and a totally separate and
+      distinct case, and is engaged in connection with her tactics in a practice of
+      filing non-meritorious complaints [based on false assertions of supposed
+      “facts”]. In connection with her improper and/or perverted use of the
+      legal process in this present case, [Wilcox] has improper ulterior motives
+      in doing all of this, some of which appear to relate to a separate case, and
+      some of which appear to relate to [Wilcox’s] animosity toward DURAN,
+
+      10
+         Wilcox also contends that Duran “produced no clear and specific evidence of
+falsity, actual malice, causation, or damages—each an essential element of the
+defamation-type theories he repackages into Counts VII–VIII.” Although Duran’s
+defamation-related facts and theories are peppered throughout his pleadings,
+defamation as a cause of action was squarely raised in his second amended petition.
+Therefore, Wilcox did not timely file her TCPA motion as to that claim, and it is not
+relevant to our step-two analysis. See Montelongo, 622 S.W.3d at 301. On remand, Duran
+may proceed on his defamation and tortious-interference-with-contract causes of action
+as pleaded in his third amended petition, which are not affected by our rulings in this
+appeal.
+
+                                           15
+       and some of which appear to relate to [Wilcox] [in connection with some
+       matters] trying to hide truth; and all of this has caused, and continues to
+       cause, significant damage and harm to DURAN. As [Wilcox] has engaged,
+       and is engaging, in this misconduct intentionally and/or purposively and
+       or maliciously, this is conduct within the realm of intentional tortious
+       misconduct, and th[u]s [Wilcox] is liable to DURAN for both actual and
+       exemplary damages.
+
+
+       As evidence, Duran attached, among other things, (1) the affidavit of his counsel
+
+in his and Wilcox’s divorce-and-custody action, (2) a copy of his own “Second
+
+Supplemental     Objections    And     Responses     To    Defendant     [Wilcox’s]    First
+
+Interrogatories,” (3) Southlake Police Department records produced with Duran’s
+
+deposition on written questions, and (4) his counsel’s affidavit.
+
+       The elements of abuse of process are: (1) the defendant made an illegal,
+
+improper, or perverted use of the process, a use neither warranted nor authorized by
+
+the process; (2) the defendant had an ulterior motive or purpose in exercising such
+
+illegal, perverted, or improper use of the process; and (3) damage resulted to the plaintiff
+
+as a result of such illegal act. Whitelock v. Stewart, No. 10-23-00132-CV, 2025 WL
+
+2473021, at *4 (Tex. App.—Waco Aug. 28, 2025, no pet.); Hunt v. Baldwin, 68 S.W.3d
+
+117, 129 (Tex. App.—Houston [14th Dist.] 2001, no pet.). To sustain an abuse-of-
+
+process claim, “[i]t is critical that the process be improperly used after it has been
+
+issued.” Whitelock, 2025 WL 2473021, at *4 (quoting Hunt, 68 S.W.3d at 130); see also In
+
+re Garate, No. 13-24-00625-CV, 2025 WL 817438, at *4 (Tex. App.—Corpus Christi–
+
+Edinburg Mar. 13, 2025, orig. proceeding [mand. denied]); Martinez v. English, 267
+
+
+                                            16
+S.W.3d 521, 528 (Tex. App.—Austin 2008, pet. denied). “In other words, abuse of
+
+process applies to a situation where a properly issued service of process is later used for
+
+a purpose for which it was not intended.” Martinez, 267 S.W.3d at 528–29. “Filing a
+
+complaint is not an improper or illegal use of the process.” RRR Farms, Ltd. v. Am.
+
+Horse Prot. Ass’n, Inc., 957 S.W.2d 121, 134 (Tex. App.—Houston [14th Dist.] 1997, pet.
+
+denied).
+
+       “To recover for abuse of process in Texas, a claimant must demonstrate that he
+
+suffered special damages, i.e. some physical interference with the claimant’s person or
+
+property in the form of an arrest, attachment, injunction, or sequestration.” See Pitts &
+
+Collard, L.L.P. v. Schechter, 369 S.W.3d 301, 332–33 (Tex. App.—Houston [1st Dist.]
+
+2011, no pet.) (op. on reh’g); Martin v. Trevino, 578 S.W.2d 763, 766–69 (Tex. App.––
+
+Corpus Christi–Edinburg 1978, writ ref’d n.r.e.); cf. Tex. Beef Cattle Co. v. Green, 921
+
+S.W.2d 203, 209 (Tex. 1996) (op. on reh’g) (articulating same for malicious-prosecution
+
+action). “[F]or purposes of the special-injury requirement, ‘[i]t is insufficient that a party
+
+has suffered the ordinary losses incident to defending a civil suit, such as inconvenience,
+
+embarrassment, discovery costs, and attorney’s fees.’” Pitts, 369 S.W.3d at 333 (quoting
+
+Tex. Beef Cattle Co., 921 S.W.2d at 208).
+
+       Duran presented the following evidence of damages:
+
+       • “Wilcox has caused . . . Duran[] . . . attorney fees and related costs he
+       has been forced to incur due to this abuse of process . . . .”
+
+       • [Wilcox] has communicated online and verbally with [Duran] and has
+       told him she would use this case to defeat or humble or harm him and
+
+                                             17
+      would ruin his life. [Wilcox] has made it clear she does not want to resolve
+      this case via mediation. [Wilcox] has tried to blame [Duran] for the
+      complexity of this case, but in fact she filed the case and she is the one
+      who has made it complex and difficult. . . . [Wilcox] had already been
+      finding and employing many other means to make this case as difficult
+      and expensive as possible for [Duran] . . . .”
+
+      • Wilcox’s “original ulterior motivation was to burden [Duran] with this
+      litigation so she could beat him down and thus win the just mentioned
+      child custody battle, and to ruin [Duran’s] life and make him unemployed
+      and broke, and to make his life difficult; and [Wilcox] has made [Duran’s]
+      life difficult through her litigation ‘hi-jinks’ in this case, and also has caused
+      him harm financially because what [Wilcox] has done has caused [Duran]
+      to incur a lot of litigation expense.”
+
+      • “What [Wilcox] has done to [Duran] with her abuse of process and
+      related abuse of the litigation/legal system, has resulted in legal fees to
+      [Duran] costing many thousands of dollars. . . . [T]his misbehavior . . . has
+      caused [Duran to] have to incur legal fees and costs, and also has caused
+      [Duran] much frustration and concern.”
+
+      Although Duran presented evidence that Wilcox’s litigation tactics had caused
+
+him to incur additional and burdensome attorney’s fees and costs, as well as frustration
+
+and concern, he offered no evidence that he had incurred special damages of the type
+
+required to prove an abuse-of-process claim.11 Accordingly, we hold that Duran failed
+
+to meet his step-two burden on his abuse-of-process cause of action.
+
+      2. Duran Failed to Present Clear and Specific Evidence of Causation and
+      Damages in Support of His False-Reporting Claim.
+
+      Duran contended in his response to Wilcox’s TCPA motion that he provided
+
+clear and specific evidence that Wilcox had made a false report to law enforcement
+
+
+      11
+        Wilcox noted in her brief that “[n]o agency produced any report attributed to
+Wilcox in response to subpoena or process.”
+
+                                             18
+pursuant to Texas Penal Code Section 37.08, which provides that “[a] person commits
+
+an offense if, with intent to deceive, he knowingly makes a false statement that is
+
+material to a criminal investigation and makes the statement to: (1) a peace officer . . . .”
+
+Tex. Penal Code § 37.08. Wilcox argues on appeal that “Duran offered no clear and
+
+specific evidence that [her] [law-enforcement] report[ing] was knowingly false or that
+
+she acted with actual malice—both required to defeat petition/crime-report protections
+
+and to satisfy Step Two on falsity and fault.” She also contends that Duran presented
+
+no evidence of causation or damages with respect to this claim.
+
+       We note first that Duran made no attempt to identify any particular intentional
+
+tort in his pleading. But construing his complaint according to Texas’s fair-notice
+
+pleading standard, it appears that the intentional tort he is attempting to bring is a
+
+malicious-prosecution claim. See Horizon/CMS Healthcare Corp. v. Auld, 34 S.W.3d 887,
+
+896–97 (Tex. 2000). “The essential elements of a malicious-prosecution claim are
+
+(1) the commencement of a criminal prosecution against the plaintiff, (2) causation of
+
+the action by the defendant, (3) termination of the prosecution in the plaintiff’s favor,
+
+(4) the plaintiff’s innocence, (5) the absence of probable cause for the proceedings,
+
+(6) malice in filing the charge, and (7) damage to the plaintiff.” McShirley, 2024 WL
+
+976512, at *9.     Initiating a prosecution requires filing formal charges with law-
+
+enforcement authorities while procuring a prosecution occurs when the defendant’s
+
+actions are enough to cause the prosecution. Id. Merely making a police report is not
+
+clear and specific evidence of causation for a malicious-prosecution claim. Anderson v.
+
+                                             19
+Goodwin, No. 05-23-00343-CV, 2024 WL 725669, at *5 (Tex. App.—Dallas Feb. 22,
+
+2024, no pet.) (“[I]n the malicious-prosecution context, ‘initiate’ has the technical
+
+meaning of filing formal charges against the plaintiff. A mere witness statement to law-
+
+enforcement personnel is not a formal charge.” (citations omitted)).            And no
+
+prosecution was procured; Duran’s evidence shows that the Southlake police detective
+
+who investigated Wilcox’s report concluded that “[t]here [are] not sufficient facts and
+
+or circumstances to charge . . . Duran.” 12 He recommended suspending the case after
+
+“finding no supporting evidence of assault by . . . Duran.”
+
+      Duran’s petition identifies no other discernible intentional-tort claim related to
+
+the allegedly false reporting other than his defamation and tortious-interference-with-
+
+contract claims. Accordingly, Duran failed to meet his step-two burden to provide clear
+
+and specific evidence supporting an intentional-tort claim for making a false police
+
+report.
+
+      Duran’s effort to assert or establish a negligence-based claim based on false
+
+reporting is equally unavailing. “Negligence per se is a common-law doctrine that
+
+allows courts to rely on a penal statute to define a reasonably prudent person’s standard
+
+of care.” Simon v. Barrum, No. 01-24-00039-CV, 2025 WL 3768326, at *3 (Tex. App.—
+
+Houston [1st Dist.] Dec. 31, 2025, pet. denied) (quoting Reeder v. Daniel, 61 S.W.3d 359,
+
+361–62 (Tex. 2001)); see Mo. Pac. R.R. v. Am. Statesman, 552 S.W.2d 99, 103 (Tex. 1977)
+
+
+      12
+        Duran later provided the detective with evidence that he had been out of the
+country on the two dates that Wilcox had alleged Duran assaulted her.
+
+                                           20
+(“Where the Legislature has declared that a particular act shall not be done, it fixes a
+
+standard of reasonable care, and an unexcused violation of the statute constitutes
+
+negligence or contributory negligence as a matter of law.”). Thus, negligence per se is
+
+“a species of negligence, in which the breach of duty element is established by showing
+
+the violation of a statute or regulation.” Simon, 2025 WL 3768326, at *3 (quoting City
+
+of Houston v. Manning, 714 S.W.3d 592, 596 (Tex. 2025)). “To establish negligence per
+
+se, a plaintiff must prove that: (1) the defendant’s act or omission violates a penal
+
+statute or ordinance; (2) the injured person is within the class of persons that the statute
+
+or ordinance was designed to protect; and (3) the defendant’s act or omission
+
+proximately caused the injury.” Id.
+
+       Assuming that a negligence-per-se claim can be based on a violation of Section
+
+37.08, see Perry v. S.N., 973 S.W.2d 301, 305 (Tex. 1998) (op. on reh’g), 13 Duran did not
+
+provide clear and specific evidence of causation or damages sufficient to meet his step-
+
+two burden as to that claim. Although the nonmovant need not “provide evidence
+
+sufficient to allow an exact calculation” of damages to meet its step-two burden, S & S
+
+Emergency Training Sols., Inc. v. Elliott, 564 S.W.3d 843, 848 (Tex. 2018), “[b]are, baseless
+
+opinions” are not “a sufficient substitute for the clear and specific evidence required to
+
+establish a prima facie case under the TCPA,” Lipsky, 460 S.W.3d at 592. The
+
+
+
+        Although we have found no Texas cases holding that Penal Code Section 37.08
+       13
+
+creates a private right of action, Wilcox does not argue that such a cause of action is
+not authorized.
+
+                                             21
+nonmovant must present evidence sufficient to support a rational inference as to “some
+
+specific, demonstrable” damages. S & S Emergency Training Sols., Inc., 564 S.W.3d at 848;
+
+Stallion Oilfield Serv. Ltd. v. Gravity Oilfield Servs., LLC, 592 S.W.3d 205, 220 (Tex. App.—
+
+Eastland 2019, pets. denied).
+
+       Duran pleaded that (1) that Wilcox’s defamation and tortious interference with
+
+contract caused him “future loss of income,” (2) that her negligence per se caused him
+
+“harm” resulting in actual and exemplary damages, and (3) that all of her conduct caused
+
+him “STRESS OVER A LONG PERIOD OF TIME AND PRESENTLY.” He
+
+pleaded that he had experienced in general “severe financial loss [of income and
+
+retirement benefit contributions due to not being permitted for some period of time to
+
+fly and work] well in excess of $5,000,000.00, past and future.” [Alterations in original.]
+
+       In addition to the damages evidence Duran provided in his attorney’s affidavit
+
+in connection with his abuse-of-process claim, Duran attached his “Second
+
+Supplemental     Objections     and    Responses      to   Defendant      [Wilcox’s]    First
+
+Interrogatories.” In those objections and responses, he averred that he suffered
+
+damages from several missed months when he was not able to work and that he
+
+suffered “reputational and employment-related harm.”             But he also stated that
+
+“Information on these damages has been, or will be, provided in Initial Disclosures or
+
+Supplements thereto.” The initial disclosures are not attached to his TCPA response.
+
+Although in the context of asserting these damages Duran did not distinguish among
+
+his various causes of action, the only effect he claimed from the police report is that he
+
+                                             22
+had to talk to the Southlake police detective; he provides no evidence that Wilcox’s
+
+police report was ever communicated to his employer or the FAA or that he was
+
+arrested or otherwise detained in connection with the allegedly false report such that it
+
+caused him to miss work.
+
+       Thus, we hold that Duran failed to meet his step-two burden with respect to his
+
+false-reporting claim. We sustain the remainder of Wilcox’s third issue. 14
+
+                                    VI. Conclusion
+
+      Having sustained Wilcox’s dispositive issues, we conclude that the trial court erred
+
+by denying Wilcox’s TCPA motion on Duran’s abuse-of-process and false-reporting claims
+
+raised in his third amended counterclaim. We reverse the trial court’s order denying that
+
+motion and render judgment dismissing only those claims with prejudice. We remand this
+
+matter for further proceedings consistent with this opinion and Section 27.009 of the Texas
+
+Civil Practice and Remedies Code. Tex. Civ. Prac. & Rem. Code § 27.009.
+
+                                                       /s/ Dabney Bassel
+
+                                                       Dabney Bassel
+                                                       Justice
+
+Delivered: August 13, 2026
+
+       14
+         Because we hold that Duran failed to meet his step-two burden to provide clear
+and specific evidence of his abuse-of-process and false-reporting claims, we need not
+address Wilcox’s fourth issue contending that she met her step-three burden. We also
+need not address Wilcox’s fifth issue contending that the trial court erred by relying on
+the commercial-speech exception because Duran never alleged this as an exception to
+the TCPA’s application. See Walgreens v. McKenzie, 713 S.W.3d 394, 403 (Tex. 2025)
+(“For a party to benefit from an exception, it generally must raise that exception in the
+trial court.”).
+
+                                            23
+

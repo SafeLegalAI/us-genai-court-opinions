@@ -1,0 +1,388 @@
+=== page-01.png ===
+Case 1:25-cr-00503-JSR Document27_ Filed 02/17/26 Page 1of 12
+UNITED STATES DISTRICT COURT
+SOUTHERN DISTRICT OF NEW YORK
+UNITED STATES OF AMERICA,
+25 Cr. 503 (JSR)
+-y-
+MEMORANDUM
+BRADLEY HEPPNER, TT
+ae
+JED S. RAKOFF, U.S.D.J.:
+
+At a pretrial conference in this matter held on February 10,
+2026, the Court, after hearing the arguments of counsel, granted from
+the bench the Government’s motion for a ruling that certain written
+exchanges that defendant Bradley Heppner had with a generative
+artificial intelligence (“AI”) platform were not protected from
+Government inspection by either the attorney-client privilege or the
+work product doctrine. See ECF No. 22 (“Gov’t Mot.”). This Memorandum
+sets forth the reasons for the Court’s ruling.
+
+I. Background and Procedural History
+
+Generative artificial intelligence tools have become increasingly
+prevalent across various domains of human activity. It has reliably
+been estimated, for instance, that more than half of United States
+households have adopted AI in some form. See Bond, Trends — Artificial
+Intelligence (2025), https: //www.bondcap.com/report/pdf/Trends __
+Artificial Intelligence.pdf at 59 (accessed February 12, 2026). Only
+three years after its release, one prominent AI platform is being used
+by more than 800 million people worldwide every week. Id. at 55. Yet
+the implications of AI for the law are only beginning to be explored.
+
+1
+
+=== page-02.png ===
+Case 1:25-cr-00503-JSR Document 27_ Filed 02/17/26 Page 2 of 12
+Thus, the Court’s ruling in this case appears to answer a question of
+first impression nationwide: whether, when a user communicates with a
+publicly available AI platform in connection with a pending criminal
+investigation, are the AI user’s communications protected by attorney-
+client privilege or the work product doctrine?! For the reasons that
+follow, the answer is no.
+
+On October 28, 2025, a grand jury in this District returned an
+indictment charging Heppner with securities fraud, wire fraud,
+conspiracy to commit securities fraud and wire fraud, making false
+statements to auditors, and falsifying corporate records. ECF No. 3.
+The indictment was unsealed on November 4, 2025, see ECF No. 4, and
+Heppner was arrested the following day in the Northern District of
+Texas. On November 10, 2025, Heppner pleaded not guilty before this
+Court to all the charges against him and was released on bond. See ECF
+Nos. 16, 18. Trial is set to commence April 6, 2026. See ECF No. 16.
+
+The charges against Heppner arise from his alleged misconduct as
+an executive of several corporate entities, including the publicly
+traded company GWG Holdings, Inc. (“GWG”). See generally ECF No. 3.
+At a high level, the indictment charges that Heppner defrauded GWG’s
+investors out of more than $150 million by making false representations
+about, and causing GWG to enter into undisclosed self-serving
+1 The Court is unaware of, and the parties have not identified, any
+case to date that has presented this issue. Most published decisions
+involving generative artificial intelligence have had to do with
+attorneys’ misuse of that technology. That set of concerns is plainly
+not present here.
+
+2
+
+=== page-03.png ===
+Case 1:25-cr-00503-JSR Document27_ Filed 02/17/26 Page 3of 12
+transactions concerning, two privately held companies that Heppner
+controlled, Beneficient Company Group, L.P. and Highland Consolidated
+L.P. See id. (7 1-3.
+
+In connection with Heppner’s arrest on November 4, 2025, agents
+with the Federal Bureau of Investigation executed a search warrant at
+Heppner’s home and seized numerous documents and electronic devices.
+See Gov’t Mot. at 3; ECF No. 23-1 at 1. Heppner’s counsel later
+represented to the Government that among the seized materials were
+approximately thirty-one documents that memorialize communications
+that Heppner had with the generative AI platform “Claude,” which is
+operated by the private company Anthropic. See Gov’t Mot. at 3; ECF
+Nos. 23-1 23-2. According to Heppner’s counsel, the documents represent
+communications between Heppner and Claude that took place “in 2025,
+after Mr. Heppner had received a grand jury subpoena [and] after it
+was clear with discussions with the government that Mr. Heppner was
+the target of this investigation.” Transcript, February 10, 2026
+(“Tr.”) at 4. Without any suggestion from counsel that he do so,
+Heppner “prepared reports that outlined defense strategy, that
+outlined what he might argue with respect to the facts and the law
+that we anticipated that the government might be charging.” Id. Thus,
+counsel asserted, Heppner “was preparing these reports in anticipation
+of a potential indictment.” Id.
+
+In exchanges with the Government, Heppner, through his counsel,
+asserted privilege over these documents (the “AI Documents”), arguing
+that (1) Heppner had inputted into Claude, among other things,
+
+3
+
+=== page-04.png ===
+Case 1:25-cr-00503-JSR Document27_ Filed 02/17/26 Page 4of12
+information that Heppner had learned from counsel; (2) Heppner had
+created the AI Documents for the purpose of speaking with counsel to
+obtain legal advice; and (3) Heppner had subsequently shared the
+contents of the AI Documents with counsel. See Gov’t Mot. at 3-4, 11;
+ECF Nos. 23-2, 23-4, 23-5. Heppner’s counsel conceded, however, that
+counsel “did not direct [Heppner] to run Claude searches.” ECF No. 23-
+5. Pursuant to a “Privilege Protocol Stipulation,” the Government and
+Heppner’s counsel agreed that the Government would segregate the AI
+Documents and not inspect them pending the resolution of Heppner’s
+claims of privilege, and Heppner’s counsel listed the AI Documents in
+Heppner’s privilege log. See Gov’t Mot. at 3-4 & n.1; ECF Nos. 23-1,
+23-2.
+
+On February 6, 2026, the Government moved, in writing, for a
+ruling that the AI Documents are protected by neither the attorney-
+client privilege nor the work product doctrine. Gov’t Mot. The Court
+heard oral argument on the Government’s motion at the pretrial
+conference held on February 10, 2026, and, as noted, orally granted
+the motion.
+
+II. Attorney-Client Privilege
+
+It is well established that the attorney-client privilege
+attaches to, and protects from disclosure, “communications (1) between
+a client and his or her attorney (2) that are intended to be, and in
+fact were, kept confidential (3) for the purpose of obtaining or
+providing legal advice.” United States v. Mejia, 655 F.3d 126, 132 (2d
+
+4
+
+=== page-05.png ===
+Case 1:25-cr-00503-JSR Document27_ Filed 02/17/26 Page 5 of 12
+Cir. 2011).% Courts construe the attorney-client privilege narrowly
+because it operates as an exception to the rule that “all relevant
+proof is essential” for a complete record and for “confidence in the
+fair administration of justice.” In re Six Grand Jury Witnesses, 979
+F.2d 939, 943 (2d Cir. 1992). See also, e.g., Calvin Klein Trademark
+Tr. v. Wachner, 198 F.R.D. 53, 55 (S.D.N.Y. 2000).
+
+Applying these principles here, the AI Documents lack at least
+two, if not all three, elements of the attorney-client privilege.
+First, the AI Documents are not communications between Heppner and his
+counsel. Heppner does not, and indeed could not, maintain that Claude
+is an attorney. “In the absence of an attorney-client relationship,
+the discussion of legal issues between two non-attorneys is not
+protected by attorney-client privilege.” E.g., In re OpenAI, Inc.,
+Copyright Infringement Litig., 802 F. Supp. 3d 688, 699 (S.D.N.Y.
+2025). Because Claude is not an attorney, see ECF No. 23-6, that alone
+disposes of Heppner’s claim of privilege.
+
+The Court is aware that some commentators have argued that whether
+Claude is an attorney is irrelevant because a user’s AI inputs, rather
+than being communications, are more akin to the use of other Internet-
+based software, such as cloud-based word processing applications. But
+the use of such applications is not intrinsically privileged in any
+case, and the argument that Claude is like any other form of software
+2 Except where otherwise indicated, all quotations in this Memorandum
+omit citations, quotation marks, footnotes, brackets, ellipses, and
+other alterations in source material.
+
+5
+
+=== page-06.png ===
+Case 1:25-cr-00503-JSR Document27_ Filed 02/17/26 Page 6 of 12
+
+only cuts against the invocation of privilege because all “[r]ecognized
+privileges” require, among other things, “a trusting human
+relationship,” such as, in the attorney-client context, a relationship
+“with a licensed professional who owes fiduciary duties and is subject
+to discipline.” See Ira P. Robbins, Against an AI Privilege, JOLT
+Dig., Harvard L. Sch. (Nov. 7, 2025), https://jolt.law.harvard.edu/
+digest/against-an-ai-privilege. No such relationship exists, or could
+exist, between an AI user and a platform such as Claude.
+
+Second, the communications memorialized in the AI Documents were
+not confidential. This is not merely because Heppner communicated with
+a third-party AI platform but also because the written privacy policy
+to which users of Claude consent provides that Anthropic collects data
+on both users’ “inputs” and Claude’s “outputs,” that it uses such data
+to “train” Claude, and that Anthropic reserves the right to disclose
+such data to a host of “third parties,” including “governmental
+regulatory authorities.” See Anthropic, Privacy Policy (as of February
+19, 2025), https://www.anthropic.com/legal/archive/ a2eecf43-807a-
+4a53-89dd-04c44c351138. The policy clearly puts Claude’s users on
+notice that Anthropic, even in the absence of a subpoena compelling
+it to do so, may “disclose personal data to third parties in connection
+with claims, disputes[,] or litigation.” Id. More generally, as another
+court in this District recently observed, AI users do not have
+substantial privacy interests in their “conversations with [another
+publicly accessible AI platform] which users voluntarily disclosed”
+to the platform and which the platform “retains in the normal course
+
+6
+
+=== page-07.png ===
+Case 1:25-cr-00503-JSR Document27_ Filed 02/17/26 Page 7 of 12
+
+of its business.” In re OpenAI, Inc., Copyright Infringement Litig.,
+No. 25 MD 3143, ECF No. 1021 at 3 (Jan. 5, 2026). For these reasons,
+Heppner could have had no “reasonable expectation of confidentiality
+in his communications” with Claude. See Mejia, 655 F.3d at 132-34. And
+the AI Documents are not like confidential notes that a client prepares
+with the intent of sharing them with an attorney because Heppner first
+shared the equivalent of his notes with a third-party, Claude. Cf.
+United States v. DeFonte, 441 F.3d 92, 95-96 (2d Cir. 2006) (per
+curiam).
+
+Third, Heppner did not communicate with Claude for the purpose
+of obtaining legal advice. This issue perhaps presents a closer call
+because Heppner’s counsel asserts that Heppner communicated with
+Claude for the “express purpose of talking to counsel.” ECF No. 23-5.
+But, as Heppner’s counsel also conceded, Heppner did not do so at the
+suggestion or direction of counsel. See id. (noting that counsel “did
+not direct [Heppner] to run Claude searches”). Had counsel directed
+Heppner to use Claude, Claude might arguably be said to have functioned
+in a manner akin to a highly trained professional who may act as a
+lawyer’s agent within the protection of the attorney-client privilege.
+Cf. United States v. Adiman, 68 F.3d 1495, 1498-99 (2d Cir. 1995)
+(citing United States v. Kovel, 296 F.2d 918 (2d Cir. 1961)). But
+because Heppner communicated with Claude of his own volition, what
+matters for the attorney-client privilege is whether Heppner intended
+to obtain legal advice from Claude, not whether he later. shared
+Claude’s outputs with counsel. And Claude disclaims providing legal
+
+7
+
+=== page-08.png ===
+Case 1:25-cr-00503-JSR Document27_ Filed 02/17/26 Page 8 of 12
+advice. Indeed, when the Government asked Claude whether it could give
+legal advice, it responded that “I’m not a lawyer and can’t provide
+formal legal advice or recommendations” and went on to recommend that
+a user “should consult with a qualified attorney who can properly
+assess your specific circumstances.” ECF No. 23-6 at 1-2.
+
+Thus, the communications between Heppner and Claude were not .
+privileged at the time they took place.3 Moreover, even assuming that
+Heppner intended to share these communications with his counsel and
+eventually did so, it is black-letter law that non-privileged
+communications are not somehow alchemically changed into privileged
+ones upon being shared with counsel. Thus, because the AI Documents
+“would not be privileged if they remained in [Heppner’s] hands,” they
+did not “acquire protection merely because they were transferred” to
+counsel. See Gould, Inc. v. Mitsui Min. & Smelting Co., Ltd., 825 F.2d
+676, 679-80 (2d Cir. 1987).
+
+III. Work Product Doctrine
+
+Related to but distinct from the attorney-client privilege, the
+work product doctrine, “[a]t its core[,] . . . shelters the mental
+processes of the attorney, providing a privileged area within which
+3 At oral argument, Heppner’s counsel suggested in passing that the AI
+Documents may be privileged because they “incorporated information
+that we had conveyed to Mr. Heppner over the course of our
+representation.” Tr. at 3. But even if certain information that Heppner
+input into Claude was privileged, he waived the privilege by sharing
+that information with Claude and Anthropic, just as if he had shared
+it with any other third party. Further, in light of Anthropic’s privacy
+policy discussed above, Heppner had no reasonable expectation that the
+inputs would not be shared with other third parties.
+
+8
+
+=== page-09.png ===
+Case 1:25-cr-00503-JSR Document27_ Filed 02/17/26 Page 9 of 12
+
+he can analyze and prepare his client’s case.” United States v. Nobles,
+422 U.S. 225, 238 (1975). The doctrine “provides qualified protection
+for materials prepared by or at the behest of counsel in anticipation
+of litigation or for trial.” In re Grand Jury Subpoenas Dated March
+19, 2002, and August 2, 2002, 318 F.3d 379, 383 (2d Cir. 2003). As
+with the attorney-client privilege, the work product doctrine is not
+“lightly created nor expansively construed,” id. (quoting United
+States v. Nixon, 418 U.S. 683, 710 (1974)), and the Second Circuit has
+repeatedly held that the doctrine’s purpose “is not generally promoted
+by shielding from discovery materials in an attorney’s possession that
+were prepared neither by the attorney nor his agents,” id. (citing
+Matter of Grand Jury Subpoenas Dated Oct. 22, 1991, and Nov. 1, 1991,
+959 F.2d 1158 (2d Cir. 1992)). The doctrine’s availability in reference
+to materials in the possession of a client “depends upon the existence
+of a real, rather than speculative, concern that the thought processes
+of [the client’s] counsel in relation to pending or anticipated
+litigation would be exposed.” Matter of Grand Jury Subpoenas, 959 F.2d
+at 1167 (quoting Gould, 825 F.2d at 680).
+
+The AI Documents do not merit protection under the work product
+doctrine because, even assuming, arguendo, that they were prepared “in
+anticipation of litigation,” In re Grand Jury Subpoenas, 318 F.3d at
+383, they were nevertheless not “prepared by or at the behest of
+counsel,” id., nor did they reflect defense counsel’s strategy, see
+Matter of Grand Jury Subpoenas, 959 F.2d at 1167. As to the former,
+Heppner’s counsel confirmed that the AI Documents “were prepared by
+
+9
+
+=== page-10.png ===
+Case 1:25-cr-00503-JSR Document27_ Filed 02/17/26 Page 10 of 12
+the defendant on his own volition.” Tr. at 5. That means that Heppner
+was not acting as his counsel’s agent when he communicated with Claude.
+As to the latter, counsel conceded that while the AI Documents did
+“affect” counsel’s strategy going forward, they did not “reflect”
+counsel’s strategy at the time that Heppner created them. See id.
+
+At oral argument, Heppner resisted these conclusions by relying
+on two authorities. The first, Federal Rule of Criminal Procedure
+16(b) (2) (A), is inapplicable on its face. That rule provides that,
+where the Government provides a defendant with pretrial discovery and
+the defendant thereby becomes obligated to satisfy the Government’s
+pretrial discovery requests, the defendant’s obligation does not
+extend to “discovery or inspection of reports, memoranda, or other
+documents made by the defendant, or the defendant’s attorney or agent,
+during the case’s investigation or defense.” Id. Here, however, the
+AI Documents were seized from Heppner, at the time of his arrest,
+pursuant to a search warrant the validity of which Heppner’s counsel
+does not challenge. See Gov’t Mot. at 3. The Government did not request
+them, and Heppner did not produce them, in pretrial discovery.
+
+Heppner’s second authority is Shih v. Petal Card, Inc., 565 F.
+Supp. 3d 557 (S.D.N.Y. 2021). In that case, a Magistrate Judge in this
+District authorized the plaintiff to withhold certain communications
+that she had with an individual who was then her lawyer, and later
+became her husband, that the plaintiff prepared in anticipation of
+litigation or for trial. The court held that the work product doctrine
+protected such communications, “regardless of whether [the
+
+10
+
+=== page-11.png ===
+Case 1:25-cr-00503-JSR Document27_ Filed 02/17/26 Page 11 of 12
+lawyer/husband] was acting as her counsel at the time, and without
+showing that another attorney ‘directed the work.’” Id. at 574.
+
+Shih, of course, is not binding on this Court, and this Court
+respectfully disagrees with its holding. As relevant here, the court
+in Shih principally concluded that the work product doctrine is not
+limited to materials prepared by or at the direction of an attorney.
+Id. But that conclusion undermines the policy animating the work
+product doctrine, which, as one of the cases cited in Shih explains,
+is “to preserve a zone of privacy in which a lawyer can prepare and
+develop legal theories and strategy ‘with an eye toward litigation.’”
+Parneros v. Barnes & Noble, Inc., 332 F.R.D. 482, 492 (S.D.N.Y. 2019)
+(quoting United States v. Adlman, 134 F.3d 1194, 1996 (2d Cir. 1998)
+(quoting, in turn, Hickman v. Taylor, 329 U.S. 495, 510-11 (1947)));
+see Shih, 565 F. Supp. 3d at 574 (citing Parneros). While it is true
+that the work product doctrine may apply to materials generated by
+non-lawyers, the Second Circuit has repeatedly stressed that the
+purpose of the doctrine is to protect lawyers’ mental processes. See,
+e.g., In re Grand Jury Subpoenas, 318 F.3d at 383-85 (extensively
+describing doctrine’s rationale and applying it to material “prepared
+by or for counsel”); Adlman, 134 F.3d at 1197 (similar); Adlman, 68
+F.3d at 1500-02 (similar); Matter of Grand Jury Subpoenas, 959 F.2d
+at 1166 (doctrine “generally does not shield from discovery documents
+that were not prepared by the attorneys themselves, or their agents”);
+see also Bice v. Robb, 511 F. App’x 108, 110 (2d Cir. 2013) (summary
+
+11
+
+=== page-12.png ===
+Case 1:25-cr-00503-JSR Document27_ Filed 02/17/26 Page 12 of 12
+order) (declining to extend protection to documents “not the work
+product of an individual acting as [plaintiffs’] attorney”).
+
+Here, there is no dispute that Heppner acted on his own when he
+created the AI Documents. See ECF No. 23-5 (noting that defense counsel
+“did not direct [Heppner] to run Claude searches”); Tr. at 5
+(confirming same). Because the AI Documents were not prepared at the
+behest of counsel and did not disclose counsel’s strategy, they do not
+merit protection as work product.
+
+IV. Conclusion
+
+Generative artificial intelligence presents a new frontier in the
+ongoing dialogue between technology and the law. Time will tell
+whether, as in the case of other technological advances, generative
+artificial intelligence will fulfill its promise to revolutionize the
+way we process information. But AI’s novelty does not mean that its
+use is not subject to longstanding legal principles, such as those
+governing the attorney-client privilege and the work product doctrine.
+Because Heppner’s use of Claude fails to satisfy either of these rules,
+the AI Documents do not merit the protections Heppner has claimed.
+
+New York, NY » LL
+
+February [%, 2026 =: Ape
+
+12
+

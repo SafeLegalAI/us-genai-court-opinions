@@ -1,0 +1,289 @@
+Hack v. Preston et al                                                                                                                   Doc. 40
+
+
+
+
+                                             THE UNITED STATES DISTRICT COURT
+                                                     DISTRICT OF UTAH
+
+
+                  CHARLENE HACK,                                           MEMORANDUM DECISION AND
+                                                                           ORDER RE: GHOSTWRITING AND
+                                          Plaintiff,                       [39] JAYNE D. STEPHENS [HACK]
+                                                                           DECLARATION IDENTIFYING
+                  v.                                                       ASSISTANCE USED IN PREPARING
+                                                                           PAPERS FILED TO DATE
+                  DANIEL M. PRESTON a/k/a DANIEL
+                  PRESTON MARTIN, JEFFREY PAUL                             Case No. 4:25-cv-00096-DN
+                  HACK, JAYNE D. HACK, and DOES
+                  1-10, inclusive,                                         District Judge David Nuffer
+
+                                          Defendants.
+
+
+                        Defendant Jayne D. Hack (also known as Jayne D. Stephens and hereinafter referred to as
+
+              “Ms. Stephens”) filed a Declaration Identifying Assistance Used in Preparing Papers Filed to
+
+              Date. 1 The Declaration was filed in response to an order requiring Ms. Stephens to file a
+
+              declaration “identifying each person or AI tool used in preparing her papers filed to date.” 2
+
+              “Because Ms. Stephens’ papers appear[ed] drafted with assistance,” the order also required Ms.
+
+              Stephens to file “[a] declaration with this same information” for “any further filings by her
+
+              unless counsel files on her behalf.” 3
+
+
+
+
+              1
+                Defendant Jayne D. Stephens’ Declaration Identifying Assistance Used in Preparing Papers Filed to Date
+              (“Declaration”), docket no. 39, filed August 3, 2026.
+              2
+               Memorandum Decision and Order Denying Defendant Jayne D. Stephens [Hack] Motion to Dismiss for
+              Insufficient Service of Process Pursuant to Fed. R. Civ. P. 12(b)(5) and 7(m) (“Order”), docket no. 37, filed July 27,
+              2026.
+              3
+                  Id.
+
+
+
+
+                                                                                                                              Dockets.Justia.com
+           Ms. Stephens filed the Declaration on August 3, 2026, and declared, under penalty of
+
+perjury, that she had used a generative artificial intelligence (“GenAI”) tool known as ChatGPT. 4
+
+She confirms that she utilized ChatGPT “for assistance with research, organization, drafting,
+
+editing, and formatting.” 5 Her candor is appreciated, but necessitates a caution.
+
+                                             LEGAL STANDARD
+
+           The Tenth Circuit has held that while “[t]here is nothing inherently problematic with the
+
+use of artificial intelligence in the practice of law[;] its careless use can waste both judicial
+
+resources and the opposing party’s time and money, and it can damage the credibility of the legal
+
+system.” 6 “GenAI functions as a digital ghostwriter by producing text, outlines, and complete
+
+drafts from prompts, but carries the well-known risk of “AI hallucinations,” which “occurs when
+
+an AI database generates fake sources of information,” such as fabricated cases and
+
+misattributions. 7
+
+           “As one court has aptly put it, ‘[T]he use of artificial intelligence must be accompanied
+
+by the application of actual intelligence in its execution.’” 8 Importantly here, “[a]n attempt to
+
+persuade a court or oppose an adversary by relying on fake opinions is an abuse of the adversary
+
+system.” 9 And, “[s]uch conduct is sanctionable.” 10
+
+
+
+4
+    Declaration at ¶ 2.
+5
+    Id.
+6
+    Picon-Diaz v. Bondi, No. 25-9530, 2026 WL 412348, at *5 (10th Cir. Feb. 13, 2026).
+7
+ Moore v. City of Del City, No. 25-6002, 2025 WL 3471341, at *2 (10th Cir. Dec. 3, 2025) (quoting What are AI
+Hallucinations?, Google Cloud, https://cloud.google.com/discover/what-are-ai-
+hallucinations [https://perma.cc/EJS8-CFMX])]).
+8
+ Amarsingh v. Frontier Airlines, Inc., No. 24-1391, 2026 WL 352016, at *6 (10th Cir. Feb. 9, 2026) (quoting Mid
+Cent. Operating Eng'rs Health & Welfare Fund v. HoosierVac LLC, No. 2:24-CV-326, 2025 WL 574234, at *4
+(S.D. Ind. Feb. 21, 2025), report and recommendation adopted as modified, 2025 WL 1511211 (S.D. Ind. May 28,
+2025)).
+9
+    Id.
+10
+     Id.
+
+
+
+                                                                                                                  2
+                                                   Rule 11 Sanctions
+
+           All pleadings, written motion, or other papers presented to the court must follow the
+
+Federal Rules of Civil Procedure and be filed for a proper purpose to avoid unnecessary delay or
+
+costs in litigation. 11 Federal Rule of Civil Procedure 11(b), provides that when an attorney or
+
+unrepresented party files “a pleading, written motion, or other paper” they are “certif[ying] that
+
+to the best of the person’s knowledge, information, and belief, formed after an inquiry reasonable
+
+under the circumstances” the following:
+
+                     (1) it is not being presented for any improper purpose, such as to
+                     harass, cause unnecessary delay, or needlessly increase the cost of
+                     litigation;
+                     (2) the claims, defenses, and other legal contentions are warranted
+                     by existing law or by a nonfrivolous argument for extending,
+                     modifying, or reversing existing law or for establishing new law;
+                     (3) the factual contentions have evidentiary support or, if
+                     specifically so identified, will likely have evidentiary support after
+                     a reasonable opportunity for further investigation or discovery; and
+                     (4) the denials of factual contentions are warranted on the evidence
+                     or, if specifically so identified, are reasonably based on belief or a
+                     lack of information. 12
+
+Rule 11(c) allows a court, with notice, to impose sanctions “on any attorney, law firm, or party
+
+that violated the rule or is responsible for the violation.” 13 This includes pro se litigants.
+
+           “A court may consider a litigant's pro se status when determining whether to impose Rule
+
+11 sanctions, but the objective reasonableness standard ‘applies whether the person against
+
+whom sanctions are sought is an attorney, a pro se litigant, or both.’” 14 Normally, “[a] pro se
+
+
+
+
+11
+     Fed. R. Civ. P. 1; see also Fed R. Civ. P. 11(b).
+12
+     Id. (emphasis added).
+13
+     Id. at 11(c) (emphasis added).
+ Rasmussen v. Burnett, No. 24-CV-01727-SKC-KAS, 2025 WL 808364, at *2 (D. Colo. Mar. 12, 2025) (quoting
+14
+
+McCormick v. City of Lawrence, Kan., 218 F.R.D. 687, 690 (D. Kan. 2003)).
+
+
+
+                                                                                                          3
+litigant’s pleadings are to be construed liberally and held to a less stringent standard than formal
+
+pleadings drafted by lawyers.” 15
+
+           In practicing leniency, the Tenth Circuit has explained:
+
+                     We believe that this rule means that if the court can reasonably
+                     read the pleadings to state a valid claim on which the plaintiff
+                     could prevail, it should do so despite the plaintiff's failure to cite
+                     proper legal authority, his confusion of various legal theories, his
+                     poor syntax and sentence construction, or his unfamiliarity with
+                     pleading requirements. 16
+
+The Tenth Circuit warns that courts are not to “assume the role of [as the pro se party’s]
+
+advocate.” 17 And courts “will not supply additional factual allegations to round out a plaintiff's
+
+complaint or construct a legal theory on a plaintiff's behalf.” 18
+
+           A party’s status as a pro se litigant, or the use of generative intelligence, does not excuse
+
+violations of this rule or potential sanctions for frivolous or bad-faith filings. 19
+
+                                                   ANALYSIS
+
+           Ms. Stephens has acknowledged using ChatGPT, 20 a GenAI tool that is widely known for
+
+its potential to produce inaccurate or fabricated information, commonly referred to as “AI
+
+
+
+
+15
+   Hall v. Bellmon, 935 F.2d 1106, 1110 (10th Cir. 1991); see also Amarsingh, 2026 WL 352016, at *3; Walz v.
+Cent. Bank of Utah, No. 2:24-CV-00618-DAK-CMR, 2025 WL 1310850, at *2 (D. Utah May 6, 2025), report and
+recommendation adopted, No. 2:24CV0618-DAK-CMR, 2025 WL 1455802 (D. Utah May 21, 2025).
+16
+   Hall, 935 F.2d at 1110.
+17
+   Id.; Sifuentes v. Cap. One, No. 25-4123, 2026 WL 322610, at *2 (10th Cir. Feb. 6, 2026) (quoting Hall, 935 F.2d
+at 1110).
+18
+  Smith v. United States, 561 F.3d 1090, 1096 (10th Cir. 2009) (quoting Whitney v. New Mexico, 113 F.3d 1170,
+1173–74 (10th Cir.1997)).
+19
+  See McMillan v. Green DOT Corp., No. 1:25-CV-00159-DBB-JCB, 2026 WL 1481729, at *3 (D. Utah May 27,
+2026) (discussing the use of a pro se litigant’s use of GenAI: “All parties, including pro se parties, must comply with
+Fed. R. Civ. P. 11 and can be sanctioned for violating that rule.”).
+20
+     Declaration at ¶ 2.
+
+
+
+                                                                                                                     4
+hallucinations.” 21 Although the use of GenAI is not inherently improper, it presents a risk that
+
+filings may contain unsupported or inaccurate legal authority if not carefully verified.
+
+           In her reply memorandum, supporting her motion to dismiss for insufficient service, 22
+
+Ms. Stephens includes a mischaracterized legal assertion relying on a case that was improperly
+
+cited. 23 Briefing has not yet crossed the threshold to warrant sanctions, but the risks of AI
+
+hallucinations in future filings concern the court.
+
+           Accordingly, this order serves as a caution that sanctions under Rule 11 of the Federal
+
+Rules of Civil Procedure may be imposed if the use of GenAI results in violations of the Federal
+
+Rules of Civil Procedure. Under Rule 11 this includes pleadings, motions, or papers that are
+
+presented for an improper purpose, that contain legal contentions not warranted by existing law
+
+or a nonfrivolous argument for changing the law, or that include factual contentions or denials
+
+that lack evidentiary support. 24
+
+
+
+
+21
+   Moore, 2025 WL 3471341, at *2 (citing What are AI Hallucinations?, Google Cloud,
+https://cloud.google.com/discover/what-are-ai-hallucinations [https://perma.cc/EJS8-CFMX])] (last visited August
+6, 2026),); see also When AI Hallucinates in Court: A Cautionary Tale for Legal Professionals, Univ. of N.H.
+Franklin Pierce Sch. of Law Libr. (May 28, 2025), https://law.unh.libguides.com/blog/When-AI-Hallucinates-in-
+Court-A-Cautionary-Tale-for-Legal-Professionals.
+22
+  Defendant Jayne Stephens’ Reply in Support of her Motion to Dismiss for Insufficient Service of Process
+Pursuant to Fed. R. Civ. P. 12(b)(5) and 4(m) (“Reply”), docket no. 32, filed February 25, 2026.
+23
+  Id. at 6 (providing the wrong citation Hukill v. Oklahoma Native Am. Domestic Violence Coal., 542 F.3d 794
+(10th Cir. 2008)). Ms. Stephens argues that this Tenth Circuit case clearly sets precedent that her limited appearance
+to challenge the sufficiency of service in this case does not rise to the level of waiver of service. Ms. Stephens
+incorrectly cited to this case by including the wrong year, volume number, and page number. And her legal analysis
+mischaracterizes the Tenth Circuit’s legal analysis.
+24
+     See Fed R. Civ. P. 11(b).
+
+
+
+                                                                                                                     5
+                                             ORDER
+
+       As previously stated, any future filings submitted by Ms. Stephens must be accompanied
+
+by a declaration identifying each person or GenAI tool that assisted in preparing the filing, unless
+
+the filing is submitted by counsel on her behalf.
+
+       Signed August 7, 2026.
+
+                                              BY THE COURT
+
+
+                                              ________________________________________
+                                              David Nuffer
+                                              United States District Judge
+
+
+
+
+                                                                                                  6
+

@@ -1,0 +1,868 @@
+                                RECOMMENDED FOR PUBLICATION
+                                Pursuant to Sixth Circuit I.O.P. 32.1(b)
+                                       File Name: 25a0264p.06
+
+                   UNITED STATES COURT OF APPEALS
+                                  FOR THE SIXTH CIRCUIT
+
+
+
+                                                             ┐
+ THOMAS MICHAEL SMITH; MONALETO SNEED,
+                                                             │
+                            Plaintiffs-Appellants,           │
+                                                              >        No. 24-5549
+                                                             │
+        v.                                                   │
+                                                             │
+ P.A.M. TRANSPORT, INC.,                                     │
+                                  Defendant-Appellee.        │
+                                                             ┘
+
+ Appeal from the United States District Court for the Middle District of Tennessee at Nashville.
+                   No. 3:21-cv-00262—Eli J. Richardson, District Judge.
+
+                                    Argued: March 18, 2025
+
+                            Decided and Filed: September 25, 2025
+
+                 Before: COLE, STRANCH, and READLER, Circuit Judges.
+
+                                      _________________
+
+                                            COUNSEL
+
+ARGUED: Douglas B. Janney, III, JANNEY LAW, Brentwood, Tennessee, for Appellant.
+Autumn L. Gentry, DICKINSON WRIGHT PLLC, Nashville, Tennessee, for Appellee. Tara
+Patel, EQUAL EMPLOYMENT OPPORTUNITY COMMISSION, Washington, D.C., for
+Amicus Curiae. ON BRIEF: Douglas B. Janney, III, JANNEY LAW, Brentwood, Tennessee,
+Stephen W. Grace, GRACE LAW, Nashville, Tennessee, for Appellant. Autumn L. Gentry, M.
+Reid Estes, Jr., DICKINSON WRIGHT PLLC, Nashville, Tennessee, for Appellee. Tara Patel,
+EQUAL EMPLOYMENT OPPORTUNITY COMMISSION, Washington, D.C., for Amicus
+Curiae.
+
+       STRANCH, J., delivered the opinion of the court in which COLE, J., concurred, and
+READLER, J., concurred in part and in the judgment. READLER, J. (pp. 22–24), delivered a
+separate concurring opinion.
+ No. 24-5549                        Smith, et al. v. P.A.M. Transp., Inc.                                  Page 2
+
+
+                                             _________________
+
+                                                   OPINION
+                                             _________________
+
+         JANE B. STRANCH, Circuit Judge. Plaintiffs Thomas Michael Smith and Monaleto
+Sneed bring this action against their former employer, P.A.M. Transport, Inc. (“P.A.M.
+Transport”), under Title VII of the Civil Rights Act of 1964, 42 U.S.C. § 2000e et seq.;
+42 U.S.C. § 1981; and the Tennessee Human Rights Act (THRA). Plaintiffs assert that their
+supervisors at P.A.M. Transport created a racially hostile work environment. The district court
+granted summary judgment to P.A.M. Transport on the ground that Plaintiffs failed to adduce
+evidence of racial harassment sufficient to sustain a viable hostile work environment claim. For
+the reasons set forth below, we REVERSE the judgment of the district court.
+
+                                             I. BACKGROUND
+
+         A. Factual Background1
+
+         P.A.M. Transport is a trucking company with approximately 2,600 employees. Thomas
+Michael Smith and Monaleto Sneed are African Americans2 who were employed by P.A.M.
+Transport as truck drivers and stationed at the company’s Whites Creek location in Nashville,
+Tennessee. Smith served as a local driver from October 24, 2018, through April 23, 2019.
+Sneed was first hired by P.A.M. Transport on February 8, 2019, as an over-the-road driver,
+which required him to transport freight across the country.                     On April 10, 2019, he was
+transferred, at his request, to a local driver position based out of the Whites Creek location,
+where he continued to work until April 16, 2020. At Whites Creek, both Sneed and Smith were
+under the supervision of driver manager Jermaine Davis. Davis, who is also African American,
+reported to operations manager Jordan Claytor, who is white. Like most of the Whites Creek
+drivers, Smith and Sneed were designated as Texas Regional Relay (“TRR”) drivers. TRR is a
+relay network created to transport freight from Laredo, Texas to various points in the United
+
+         1
+        We relay the facts, which are heavily disputed, in the light most favorable to Plaintiffs, as required at the
+summary judgment stage. See Matsushita Elec. Indus. Co. v. Zenith Radio Corp., 475 U.S. 574, 587 (1986).
+         2
+          Plaintiffs use the term “African American” in their complaint and briefing materials. We follow their lead
+and do the same in this opinion.
+ No. 24-5549                        Smith, et al. v. P.A.M. Transp., Inc.                                  Page 3
+
+
+States using a network of trucks. TRR drivers are paid at a daily rate regardless of hours on the
+road or distance driven.
+
+         According to Smith and Sneed, P.A.M. Transport required them to work more hours than
+their non-African American counterparts for the same pay. Smith testified that he was assigned,
+relative to his non-African American coworkers, lengthier routes with longer wait times, which
+caused him to work nearly 70 hours per week. According to Smith, he would complain about his
+longer work hours directly to his supervisors, who would tell him “that’s part of it” and “just do
+the job.” R. 33-1, Smith Dep., PageID 474. Sneed testified that he often had to drive two loads
+per day to Horse Cave, Kentucky—a two-hour, one-way drive from Whites Creek—whereas
+another local driver, Melvin, who is white, only had to drive one load per day to Horse Cave.
+Sneed also claims that white drivers received vacation time and holiday pay, whereas he did not.
+
+         Smith and Sneed claim that their supervisors often targeted them with pejorative
+remarks.3 For example, Smith testified that, when he and Davis communicated, Davis would
+“use[]” the terms “monkey” and “monkey ass.” R. 33-1, PageID 446-47, 454. Sneed similarly
+testified that Davis told him to “get [his] monkey [ass] out there and do the job,” and that
+Claytor, “like [Davis],” also “used” the terms “monkey” and “monkey ass” when they
+interacted.4 R. 33-2, Sneed Dep., PageID 663-65. These insults were alleged to have been
+accompanied by other forms of negative treatment. Smith testified that Davis would speak to
+him in a hostile and demeaning manner, criticize him, and threaten to terminate or withhold pay
+from him. Sneed also testified that Davis and Claytor would criticize, threaten, scream at, and
+curse at him. Smith and Sneed did not observe or hear about any instances in which their non-
+African American coworkers received similar verbal abuse. Both testified that the demeaning
+
+
+         3
+         Smith testified that he generally interacted with his supervisors by phone, while Sneed testified that most,
+though not all, of his interactions with his supervisors were over the Qualcomm messaging system installed in
+P.A.M. Transport’s trucks.
+         4
+          Although the parties agree that Smith and Sneed testified that their supervisors called them “monkey ass,”
+they disagree on whether Smith and Sneed also testified that their supervisors used the term “monkey.” For
+purposes of summary judgment, we construe the record in the light most favorable to Plaintiffs, and that record
+supports the proposition that Smith and Sneed testified to the use of both terms. See R. 33-1, Smith Dep.,
+PageID 447 (testifying that Davis “used the [term] monkey – monkey A[ss]” (emphasis added)); R. 33-2, Sneed
+Dep., PageID 665 (testifying that Claytor, like Davis, “used monkey . . . [m]onkey ass, they used that” (emphasis
+added)).
+ No. 24-5549                    Smith, et al. v. P.A.M. Transp., Inc.                    Page 4
+
+
+treatment hurt their morale, caused them significant anxiety and fatigue, and made it more
+difficult for them to do their jobs.
+
+        Smith claims that he repeatedly reported Davis’s conduct to James Brown, a driver
+liaison who has since passed away, by telephone. Driver liaisons act as intermediaries between
+drivers and driver managers, assist with driver issues, and provide driver counseling. Brown
+would purportedly tell Smith that Davis’s behavior “shouldn’t be going on” and that he would
+“check into it,” but the alleged misconduct persisted. R. 33-1, PageID 477-78. Sneed similarly
+testified that he reported Davis and Claytor’s misconduct to various driver liaisons and managers
+in person, by telephone, and via the Qualcomm system installed in P.A.M. Transport’s trucks.
+These driver liaisons and managers included Brown, Tyrone Luckett, and Keith Coatney, all
+driver liaisons, as well as their manager Fred Meek. According to Sneed, nothing was done to
+stop the misconduct.
+
+        Smith, “fed up with the working conditions,” voluntarily resigned his employment on
+April 23, 2019. R. 33-1, PageID 459. He departed in good standing. Sneed, however, was fired.
+Sneed received mixed performance reviews during his employment, the final two of which were
+largely negative and mentioned, among other things, his leaving early and refusing loads. The
+proffered reason for Sneed’s termination, in turn, was performance issues, specifically for
+“refusing loads” and “leaving in the middle of a shift,” which Sneed denies doing. R. 33-4,
+Wright Dep., PageID 860.         Davis, with Claytor’s support, made the recommendation to
+terminate, and it was ultimately Luckett who dismissed Sneed. Sneed was never formally
+disciplined prior to his termination.
+
+        B. Procedural Background
+
+        On March 26, 2021, Smith and Sneed sued P.A.M. Transport, asserting claims of race
+discrimination, retaliation, and hostile work environment, in violation of Title VII, 42 U.S.C.
+§ 1981, and the THRA. Sneed brought his claims under Title VII, 42 U.S.C. § 1981, and the
+THRA, while Smith brought his claims under § 1981 only.
+
+        P.A.M. Transport moved for summary judgment on all claims on May 9, 2022. Two
+years later, on May 9, 2024, the district court granted P.A.M. Transport summary judgment on
+ No. 24-5549                   Smith, et al. v. P.A.M. Transp., Inc.                        Page 5
+
+
+all Plaintiffs’ claims. Plaintiffs timely appealed. On appeal, Plaintiffs challenge only the district
+court’s grant of summary judgment as to their hostile work environment claim and abandon their
+race discrimination and retaliation claims. The Equal Employment Opportunity Commission
+filed an amicus brief and participated at oral argument in support of Plaintiffs.
+
+                                          II. ANALYSIS
+
+       The district court had federal question jurisdiction to hear this case under 28 U.S.C.
+§ 1331. Smith and Sneed, in turn, appeal the district court’s final judgment, conferring this court
+with jurisdiction to hear the appeal under 28 U.S.C. § 1291.
+
+       We review a district court’s order granting summary judgment de novo. King v. Steward
+Trumbull Mem’l Hosp., Inc., 30 F.4th 551, 559 (6th Cir. 2022). Summary judgment is proper
+only “if the movant shows that there is no genuine dispute as to any material fact and the movant
+is entitled to judgment as a matter of law.” Id. (quoting Fed. R. Civ. P. 56(a)). The court must
+view the facts and draw reasonable inferences in the light most favorable to the nonmoving
+party. Kirilenko-Ison v. Bd. of Educ. of Danville Indep. Schs., 974 F.3d 652, 660 (6th Cir. 2020).
+A nonmovant’s testimony, even if self-serving, may be sufficient to defeat a motion for summary
+judgment unless it is demonstrably false or totally implausible. See Davis v. Gallagher, 951 F.3d
+743, 750 (6th Cir. 2020).
+
+       Under Title VII, a plaintiff may establish a prima facie case of a racially hostile work
+environment by demonstrating that “(1) [he] was a member of a protected class; (2) [he] was
+subjected to unwelcome [] harassment; (3) the harassment was based on race; (4) the harassment
+unreasonably interfered with [his] work performance by creating an intimidating, hostile, or
+offensive work environment; and (5) the employer is liable.” Barrett v. Whirlpool Corp., 556
+F.3d 502, 515 (6th Cir. 2009). The same legal framework applies to hostile work environment
+claims brought pursuant to § 1981 and the THRA. Jackson v. Quanex Corp., 191 F.3d 647, 658
+(6th Cir. 1999) (explaining that Title VII and § 1981 are reviewed under the same standards);
+Bailey v. USF Holland, Inc., 526 F.3d 880, 885 n. 1 (6th Cir. 2008) (“The analysis of claims
+brought pursuant to the THRA is identical to the analysis used for Title VII claims.”). Although
+ No. 24-5549                  Smith, et al. v. P.A.M. Transp., Inc.                          Page 6
+
+
+there is no dispute that Plaintiffs are part of a protected class, the parties contest the last four
+elements.
+
+       A. Evidence of Racial Harassment
+
+       A plaintiff may show that unwelcome harassment occurred and was based on race, and
+thereby satisfy the second and third elements, by adducing evidence of the use of race-specific
+and derogatory terms, or comparative evidence of how the alleged harassers treated members of
+both races in a mixed-race workplace. See Strickland v. City of Detroit, 995 F.3d 495, 503 (6th
+Cir. 2021). In the present case, Plaintiffs’ evidence consists of testimony that their supervisors
+called them “monkey” and “monkey ass” and subjected them to mistreatment that their white
+counterparts did not experience. Although the district court found that at least some of this
+testimony constituted evidence of harassment, it nonetheless held that the evidence was
+insufficient to show that such harassment was race-based.
+
+               1. Use of the Terms “Monkey” and “Monkey Ass”
+
+       We begin with Plaintiffs’ testimony that their supervisors called them “monkey” and
+“monkey ass.” The district court held that the use of these terms does not constitute evidence of
+racial harassment. It first determined that “monkey” and “monkey ass” are not plainly racist
+terms, and any conclusion that they were used in a racially motivated manner here “can be
+drawn—if at all—only by inference.” R. 43, Mem. Op., PageID 1002. Second, the court held
+that Plaintiffs failed to point to any evidence tending to show that their supervisors used the
+terms to refer only to African American employees. Id. at PageID 1028. The district court also
+stated that any potential racism attached to the terms was further diminished because one of the
+two alleged perpetrators, Davis, “was himself African American.” Id. at PageID 1003.
+
+       The term “monkey” has an extensive history as a racial slur against African Americans.
+We    have     recognized   that,   “[g]iven   the    history   of    racial   stereotypes   against
+African-Americans and the prevalent one of African-Americans as animals or monkeys, it is []
+reasonable—perhaps even [] obvious”—to conclude that the invocation of the term “monkey”
+against an African American is “intended [as a] racial insult.” United States v. Jones, 159 F.3d
+969, 977 (6th Cir. 1998). Our sister circuits have been similarly forthright about the term’s racial
+ No. 24-5549                  Smith, et al. v. P.A.M. Transp., Inc.                       Page 7
+
+
+valence. As the Fourth Circuit has explained, the “use of the word ‘monkey’ to describe African
+Americans” carries “similar[] odious[ness]” as the use of the word “n----r,” which is “pure
+anathema to African-Americans.” Spriggs v. Diamond Auto Glass, 242 F.3d 179, 185 (4th Cir.
+2001). “To suggest that a human being’s physical appearance is essentially a caricature of a
+jungle beast goes far beyond the merely unflattering; it is degrading and humiliating in the
+extreme.” Id.
+
+       Consequently, circuit courts, including our circuit, have overwhelmingly held that the use
+of the term “monkey” against an African American employee constitutes evidence of race-based
+harassment sufficient to support a hostile work environment claim. For example, we have found
+evidence of racial harassment where, among other things, African American firefighters were
+assigned to workstations labeled “Monkey Island.” Jordan v. City of Cleveland, 464 F.3d 584,
+596-97 (6th Cir. 2006). The Second Circuit, meanwhile, has held that the “use of the word
+‘monkey’ or derivative terms” within the workplace is “odious” and “constitutes compelling
+evidence of a racially hostile work environment.” Banks v. Gen. Motors, LLC, 81 F.4th 242, 266
+(2d Cir. 2023). The Third Circuit has similarly held that the term “monkey,” when directed at an
+African American individual, was “clear[ly] . . . used in a racist manner.” Kengerski v. Harper,
+6 F.4th 531, 539-40 (3d Cir. 2021). The Eighth Circuit has also recognized that “[t]he use of the
+term ‘monkey’ and other similar words have been part of actionable racial harassment claims
+across the country.” Green v. Franklin Nat’l Bank of Minneapolis, 459 F.3d 903, 911 (8th Cir.
+2006). As has the Eleventh Circuit. Jones v. UPS Ground Freight, 683 F.3d 1283, 1297-98
+(11th Cir. 2012) (holding that the use of the term “monkey” and the invocation of monkey-
+related imagery constitute evidence of racial harassment). All these circuit court cases reach the
+same conclusion—the word “monkey” and its derivatives are racist terms.
+
+       Based on well-established precedent across multiple circuits, Plaintiffs’ testimony that
+Davis and Claytor called them “monkey” and “monkey ass” constituted evidence of race-specific
+harassment. There is “no benign explanation” in the record as to why Plaintiffs’ supervisors
+would have directed these specific terms at them. Id. at 1297.
+
+       In holding otherwise, in part on the ground that the terms’ racist nature “can be
+drawn . . . only by inference,” R. 43, PageID 1002, the district court misread Supreme Court and
+ No. 24-5549                   Smith, et al. v. P.A.M. Transp., Inc.                       Page 8
+
+
+Sixth Circuit precedent. We have previously stated that a “plaintiff may prove that harassment
+was based on race” by pointing to “direct evidence of the use of race-specific and derogatory
+terms.” Williams v. CSX Transp. Co., 643 F.3d 502, 511 (6th Cir. 2011) (emphasis added). The
+district court construed the language in Williams as imposing a literal “direct evidence”
+requirement. R. 43, PageID 1002, 1027-28. That language, however, is derived from Oncale v.
+Sundowner Offshore Services, Inc., 523 U.S. 75 (1998). There, the Supreme Court explained
+that “sex-specific and derogatory terms” can constitute evidence upon which “[a] trier of fact
+might reasonably find” sex-based harassment. Id. at 80. The Court did not hold that such terms
+must be, on their face, explicitly or unquestionably sexist, such that no inference is necessary to
+conclude that the terms constitute sex-based harassment. Rather, it explained that evidence of
+the use of such terms need only raise “an inference of discrimination on the basis of sex” to
+support a finding of sex-based harassment.         Id.   That makes good sense—after all, the
+discriminatory nature of a term is necessarily dependent on the “social context in which
+particular behavior occurs and is experienced by its target.” Id. at 81.
+
+       The Supreme Court’s holding and reasoning apply to our jurisprudence on race-based
+harassment, including this case.      See Strickland, 995 F.3d at 503 (citing Oncale for the
+proposition that race-specific and derogatory terms can constitute evidence of race-based
+harassment). The term “monkey” and its derivatives, while not overtly racial in isolation, have a
+long and well-understood history as racial slurs when directed at African Americans. See, e.g.,
+Spriggs, 242 F.3d at 185. In this case, two African American plaintiffs have testified that their
+supervisors directly and repeatedly called them “monkey” and “monkey ass.” The use of the
+terms in that context raises a reasonable “inference of discrimination on the basis of” race.
+Oncale, 523 U.S. at 80. That suffices to show race-based harassment at the summary judgment
+stage. The district court’s determination that Plaintiffs’ testimony about the use of these terms
+does not constitute “evidence of the use of race-specific and derogatory terms,” therefore, was
+plainly incorrect. R. 43, PageID 1028 (quotation omitted).
+
+       Resisting this clear conclusion, P.A.M. Transport claims that Plaintiffs are improperly
+attempting to “conflate” the terms “monkey” and “monkey ass” “so that Plaintiffs can rely upon
+their numerous cited discrimination cases discussing the term ‘monkey’” in support of their
+ No. 24-5549                        Smith, et al. v. P.A.M. Transp., Inc.                                    Page 9
+
+
+argument that “monkey ass” is a racial epithet. Appellee Br. 30 n.12. This argument is
+frivolous.    P.A.M. Transport offers no reason—and we can think of none—as to why the
+addition of the word “ass” somehow obviates the racialized nature of the term “monkey.” To the
+contrary, the “use of the term ‘monkey’ or derivative terms” against African Americans
+constitutes compelling evidence of racial harassment. Banks, 81 F.4th at 266 (emphasis added).
+Simply put, there is no meaningful difference between the terms “monkey” and “monkey ass”
+when used by a supervisor against an African American employee, as alleged here.5
+
+         Contrary to the reasoning of the district court, moreover, the racist nature of the terms
+“monkey” and “monkey ass” is not automatically obviated simply because one of the two alleged
+speakers is African American. Our circuit has recognized that “Title VII can be violated by
+members of the same race or sex as the victim of discrimination.”6 EEOC v. Harbert-Yeargin,
+Inc., 266 F.3d 498, 513 (6th Cir. 2001). To be sure, in some contexts, the fact that the alleged
+perpetrator is within the same protected class as the alleged victim may be material. But on this
+record, we see no fact or reason why Davis’s race undermines the conclusion that a reasonable
+jury could find his (and his supervisor’s) alleged use of “monkey” and “monkey ass” to be
+racially derogatory.
+
+         5
+         The concurrence cites a ChatGPT inquiry asking, “What does monkey ass mean?” Conc. op. at 22.
+ChatGPT functions as a consolidator of information, synthesizing patterns from a vast body of text, but it does not
+independently verify the accuracy of any material or its unknown sources. The information provided in the
+concurrence’s permalink to Urban Dictionary speaks for itself.
+         6
+           The concurrence cites two articles when discussing “Black-on-Black” racism. Conc. op. at 22. Both are
+explanatory of and not contradictory to the existence of race-on-race discrimination. Ultimately, this issue is
+controlled by black-letter law. As the EEOC’s workplace guidance makes clear, “[h]arassment that is based on the
+complainant’s protected characteristics is covered [by Title VII] even if the harasser is a member of the same
+protected class (intraclass harassment).” U.S. Equal Emp. Opportunity Comm’n, Enf’t. Guidance on Harassment in
+the Workplace (Apr. 29, 2024), https://www.eeoc.gov/laws/guidance/enforcement-guidanceharassment-workplace
+[https://perma.cc/BC6U-VQ7C]. And the Supreme Court has provided guidance as to how Title VII (and all of its
+protected categories) function. See Onacle, 523 U.S. at 79-80. In Onacle, the Court rejected a categorical rule
+excluding same-sex harassment claims, explaining that “statutory prohibitions often go beyond the principal evil to
+cover reasonably comparable evils, and it is ultimately the provisions of our laws rather than the principal concerns
+of our legislators by which we are governed.” Id. Title VII, which prohibits employment discrimination against
+employees and applicants based on race, sex, color, religion, or national origin, was held to prohibit sexual
+harassment “of any kind that meets the statutory requirements.” Id.; 42 U.S.C. § 2000e-2(a)(1). Thus, Title VII
+covers harassment between persons of the same sex and similarly prohibits discrimination between persons of the
+same race. See id. This principle has also been upheld by other circuit courts. See Johnson v. Advoc. Health &
+Hosps. Corp., 892 F.3d 887, 908 (7th Cir. 2018) (rejecting “entirely” the claim that it “strains credulity” for African
+Americans to face race-based harassment in workplaces with many African American managers and further noting
+that women and minorities may tolerate or even participate in discrimination against members of their own class)
+(citation omitted)).
+ No. 24-5549                  Smith, et al. v. P.A.M. Transp., Inc.                       Page 10
+
+
+       Nor were Plaintiffs required to adduce evidence tending to show that Davis and Claytor
+used the terms only to refer to African American employees, as the district court suggested.
+Plaintiffs have testified that Davis and Claytor directly called them “monkey” and “monkey ass,”
+and nothing in their testimony or in the broader record indicates that Davis and Claytor also
+directed the slurs at non-African American employees. In sum, the evidence, viewed in the light
+most favorable to Plaintiffs, raises a genuine issue of material fact as to whether they
+experienced racial harassment. See Jones, 683 F.3d at 1297.
+
+               2. Comparative Evidence
+
+       In addition to the alleged racial slurs, Plaintiffs also point to their testimony about the
+generally unfavorable treatment they received from their supervisors relative to other local TRR
+drivers who are not African American.
+
+                      a. Race of the Relevant Comparators
+
+       All three of Plaintiffs’ claims before the district court relied, in part, on their testimony
+regarding their comparably unfavorable treatment. The district court, however, rejected this
+evidence at the outset, deeming it inadequate as a matter of law. The court reasoned:
+
+       [B]ecause [Plaintiffs’] protected class is African American—as opposed to Black,
+       importantly—the relevant comparators for [them] must be non-African American,
+       which is not synonymous with being “white”; a person can be African American
+       even if someone might characterize them as being “white” based on a subjective
+       perception of how light-colored their skin may be. The undersigned is loath to
+       say that a person cannot be African American—or otherwise have the heritage of
+       African descent—merely because someone might characterize the person as
+       “white.” . . . Absent clear authority requiring him to do so, the undersigned will
+       not countenance the outdated and scientifically, sociologically, and evidentially
+       unsound notion that being African American and being perceivable by a particular
+       plaintiff as “white” are mutually exclusive. . . . [W]hat will not suffice is the
+       plaintiff[s’] mere assertion that [they] ha[ve] perceived unidentified people to be
+       “white” (and thus supposedly not African American), which is all [they] ha[ve]
+       done.
+
+R. 43, PageID 981-83 (citations, emphasis, and footnotes omitted).            Analyzing the race
+discrimination claim, the district court mused that Smith and Sneed failed to prove their prima
+facie case in part because their identified comparators were merely “white,” which it determined
+ No. 24-5549                  Smith, et al. v. P.A.M. Transp., Inc.                     Page 11
+
+
+“is not synonymous” with “non-African American.” Id. at PageID 981, 996 n.69 (emphasis
+omitted). Recognizing that each of Plaintiffs’ claims relied on “the same facts,” id. at PageID
+950, the court applied that reasoning to the hostile work environment claim. It again rejected
+testimony that Davis and Claytor spoke to non-African American drivers more favorably on the
+ground that Plaintiffs failed to “establish[] a basis for personal knowledge about the race of the
+[proffered comparators].” Id. at PageID 1027. The district court also specified evidence that, in
+its view, is necessary to establish the comparators’ race, such as an “averment” by the
+comparators self-identifying as African American or “an admission by the defendant-employer.”
+Id. at PageID 983. The district court cited no caselaw or other legal authorities supporting its
+reasoning or these requirements. Id.
+
+       This reasoning is deeply flawed. It starts from the erroneous premise that “African
+American” and “Black”—and, in turn, “non-African American” and “white”—are rigid
+categories of identity that can never be used interchangeably. Contrary to that assumption, our
+Title VII jurisprudence on race discrimination governs, and we have often used “African
+American” and “Black” interchangeably and compared “African Americans” with “whites.”
+See, e.g., Barrett, 556 F.3d at 507-09; Alexander v. Local 496 Laborers’ Int’l Union of N. Am.,
+177 F.3d 394, 400- 03 (6th Cir. 1999); United States v. City of Warren, 138 F.3d 1083, 1094 &
+n.10 (6th Cir. 1998). Our caselaw reflects the basic reality that “[c]olor-based language denotes
+race in common parlance: [c]olor terms such as ‘Black’ and ‘White’ commonly designate
+specific racial groups.” Vinay Harpalani, Civil Rights Law in Living Color, 79 Md. L. Rev. 881,
+887-88 (2020). The district court attempted to justify its additional evidentiary requirements by
+pointing to Title VII’s prohibition on discrimination based on skin color, reasoning that
+“discrimination based on color is distinct from discrimination based on race.” R. 43, PageID 983
+n.57; see 42 U.S.C. § 2000e et seq. But that distinction does not obviate our well-established
+caselaw recognizing “Black” and “white” as racial identities.
+
+       By relying on this narrow conception of racial identity, unadorned by legal precedent, the
+district court effectively imposed a heightened burden on Plaintiffs beyond what Title VII,
+§ 1981, and the THRA require. Our circuit has never held that a plaintiff must proffer evidence
+of a comparator’s racial self-identification or genetic composition to survive judgment in a Title
+ No. 24-5549                  Smith, et al. v. P.A.M. Transp., Inc.                    Page 12
+
+
+VII case. To the contrary, we have routinely accepted, at summary judgment, plaintiff testimony
+of disparate, race-based treatment grounded in experience and perception. For example, in
+Logan v. Denny’s, Inc., we found a plaintiff’s testimony that her white coworkers were given
+more hours and treated with greater respect than she was sufficient to “create a factual dispute
+for purposes of surviving summary judgment as to whether similarly situated non-minority
+[employees] were treated more favorably than [the] [p]laintiff.” 259 F.3d 558, 563, 573-74 (6th
+Cir. 2001). This understanding accords with the rules of evidence. A plaintiff may offer
+testimony based on personal knowledge, and such knowledge “may consist of what the witness
+thinks he knows from personal perception.” Fed. R. Evid. 602 & advisory committee’s notes.
+The threshold for admitting testimony based on personal knowledge is “low.” United States v.
+Hickey, 917 F.2d 901, 904 (6th Cir. 1990).
+
+       In this case, there is no dispute that Smith and Sneed had non-African American
+coworkers at Whites Creek. Both indicated through their testimony that they discerned their
+fellow drivers’ races from personal interaction. P.A.M. Transport has not adduced evidence
+demonstrating that Plaintiffs’ testimony is demonstrably false or totally implausible. Davis, 951
+F.3d at 750. Thus, the testimony, which is admissible under Federal Rule of Evidence 602,
+suffices to establish the race of the relevant comparators for purposes of summary judgment. See
+Fed. R. Evid. 602; Logan, 259 F.3d at 573-74.
+
+       In sum, the district court erred by disregarding Plaintiffs’ comparative evidence based on
+its own narrow conception of racial identity, unsupported by any legal authorities.
+
+                      b. Verbal Mistreatment
+
+       We turn to the substance of the comparative evidence, which can roughly be separated
+into two buckets: (1) verbal mistreatment and (2) unfavorable employment-related actions.
+Smith and Sneed testified that, in addition to using the specific racial slurs “monkey” and
+“monkey ass,” Davis and Claytor were verbally abusive toward them. According to Smith,
+Davis and Claytor frequently spoke to him in an aggressive and demeaning manner and
+threatened him with termination and the withholding of his pay. And Sneed testified that Davis
+and Claytor would often curse at, scream at, and threaten him, making inappropriate and
+ No. 24-5549                   Smith, et al. v. P.A.M. Transp., Inc.                    Page 13
+
+
+aggressive comments like “get your ass up” and “I need another load out of your ass.” R. 33-2,
+PageID 635, 664-66.
+
+       Here, Plaintiffs assert that non-African Americans were not subjected to the same hostile
+and demeaning treatment, and they point in part to Smith’s testimony that he consistently
+overheard Davis speak to non-African American drivers in a “more professional” manner. R.
+33-1, PageID 455. As discussed above, the district court incorrectly rejected this testimony on
+the ground that Smith lacked personal knowledge that these comparator drivers were not African
+American.      The testimony, however, is grounded in Smith’s personal interactions and
+observations, rendering it admissible under Federal Rule of Evidence 602.         Based on that
+testimony, a reasonable jury could find that Davis subjected Plaintiffs to verbal abuse while
+sparing non-African Americans from the same mistreatment. See Smith v. Rock-Tenn Servs.,
+Inc., 813 F.3d 298, 308-09 (6th Cir. 2016) (noting that a plaintiff can show discriminatory
+harassment with evidence “that the harasser treated” members of two groups “differently”).
+Such harassment, “when viewed against the backdrop of . . . comparator evidence,” can be
+“reasonably tie[d]” to a plaintiff’s race. Schlosser v. VRHabilis, LLC, 113 F.4th 674, 686 (6th
+Cir. 2024).
+
+       In addition, as discussed below, Davis and Claytor’s alleged criticisms, cursing, threats,
+and shouting must also be considered in conjunction with their purported use of racial slurs.
+“[F]acially neutral abusive conduct can support a finding of . . . animus sufficient to sustain a
+hostile work environment claim when that conduct is viewed in the context of other,
+overtly . . . discriminatory conduct.” Jordan, 464 F.3d at 596 (alteration in original) (quoting
+O’Shea v. Yellow Tech. Servs., Inc., 185 F.3d 1093, 1097 (10th Cir. 1999)). Here, given the
+alleged use of racial slurs by Davis and Claytor, a reasonable jury could infer that the
+accompanying (purportedly race-neutral) verbal abuse by both individuals was, in fact, also
+racially motivated, without regard to Plaintiffs’ testimony that non-African Americans received
+more favorable treatment.
+
+       The alleged verbal abuse by Plaintiffs’ supervisors thus constitutes an additional piece of
+evidence of racial harassment, and the district court erred by rejecting it.
+ No. 24-5549                         Smith, et al. v. P.A.M. Transp., Inc.                                   Page 14
+
+
+                           c. Unfavorable Employment-Related Actions
+
+          In addition, Plaintiffs point to their testimony regarding unfavorable, employment-related
+treatment relative to their non-African American counterparts, including longer work hours for
+the same pay, lengthier routes, lack of vacation time, and older and more damaged trucks.7
+
+          P.A.M. Transport first contends that Smith and Sneed provided only limited
+argumentation on “whether [the] alleged evidence of extra loads, work assignments and
+excessive hours supports Plaintiffs’ hostile work environment claims,” and therefore waived the
+argument. Appellee Br. 22. That is simply wrong. Plaintiffs extensively discuss their allegedly
+disproportionately long work hours and lengthy routes and the effect of that unfavorable
+treatment throughout their appellate brief, and they cite a legal basis for why that evidence is
+relevant to their hostile work environment claim. Thus, Plaintiffs have raised this issue on
+appeal.
+
+          The district court categorically rejected Plaintiffs’ evidence on the ground that it “is not
+the type of conduct that can even count toward the finding of a hostile work environment,”
+because it “simply do[es] not constitute harassment (intimidation, ridicule, insult, and the like).”8
+R. 43, PageID 1024-25 (emphasis omitted). But our circuit imposes no such blanket limitation.
+Rather, we have held that “discrete [employment-related] act[s] may contribute to . . . different
+and continuing harm[s]—for example, the pervasive humiliation of an employee,” and in those
+circumstances, the “ancillary impacts may be considered in a hostile-work-environment claim.”
+McNeal v. City of Blue Ash, 117 F.4th 887, 902 & n.14 (6th Cir. 2024). Here, Smith and Sneed
+testified that their comparatively unfavorable work arrangements were part of a continuing string
+of hostile treatment that, like the verbal abuse, contributed to their feelings of anxiety, fatigue,
+
+
+          7
+          Plaintiffs also raise, for the first time on appeal, Sneed’s testimony that he was denied holiday pay,
+whereas his non-African American colleagues were given holiday pay. Because Plaintiffs did not raise this issue
+before the district court, we do not consider it on appeal. See United States v. Ellison, 462 F.3d 557, 560 (6th Cir.
+2006).
+          8
+           The district court framed this category of evidence as an allegation that Plaintiffs “were paid less (relative
+to the amount of work completed) than their non-African American counterparts.” R. 43, PageID 1023. But
+Plaintiffs’ claim regarding disparate, employment-related treatment was more expansive; it included, among other
+things, allegations that they worked longer hours, drove lengthier routes, and received older and more damaged
+trucks.
+ No. 24-5549                       Smith, et al. v. P.A.M. Transp., Inc.                                 Page 15
+
+
+and diminished morale.            The “ancillary impacts” of that treatment are relevant to our
+determination of whether Plaintiffs experienced a racially hostile work environment, and the
+district court erred in holding otherwise. Id.
+        P.A.M. Transport attempts to discount Smith and Sneed’s testimony regarding
+unfavorable employment-related treatment, arguing that it is either inadmissible hearsay or
+speculation or contradicted by other portions of the record. As an initial matter, the governing
+standard requires us to review the evidence in the light most favorable to Smith and Sneed—we
+cannot discount their testimony wholesale solely because certain portions of it may be
+inadmissible or stand in tension with countervailing evidence proffered by P.A.M. Transport.
+See Tolan v. Cotton, 572 U.S. 650, 657 (2014).
+
+        Indeed, P.A.M. Transport is incorrect that Plaintiffs’ evidence largely consists of
+inadmissible hearsay and speculation. As we have explained, where a plaintiff “has sufficiently
+proffered that . . . hearsay evidence of [a] co-workers’ statements will be produced in an
+admissible form, i.e., through their direct testimony, at trial, we can consider what would
+otherwise be inadmissible hearsay evidence.” Wyatt v. Nissan N. Am., Inc., 999 F.3d 400, 424
+n.8 (6th Cir. 2021). Parts of Plaintiffs’ testimony could be admissible at trial and can therefore
+be considered at summary judgment. For example, testimony regarding the longer hours and
+lengthier routes is based on Plaintiffs’ personal observations and their conversations with at least
+one named and identifiable coworker, Melvin, who could testify at trial.9 See, e.g., R. 33-2,
+PageID 600 (testimony from Sneed that Melvin “would do one load to Horse Cave” per day,
+whereas he would do two); id. at PageID 646 (testimony from Sneed that he saw non-African
+American drivers “go home” while he “would have another trip to Horse Cave”); accord R. 25-
+3, Route Records, PageID 228 (document confirming that an individual named “Melvin” worked
+at P.A.M. Transport).         Supervisors’ statements recounted by Smith and Sneed seemingly
+acknowledging their complaints regarding this disproportionate workload also constitute
+admissible, non-hearsay evidence.
+
+
+        9
+          In addition, to the extent Melvin’s statements to Plaintiffs pertained to his own pay and workload, those
+statements likely constitute admissible non-hearsay under Federal Rule of Evidence 801(d)(2)(D), which excludes
+from hearsay statements offered against an opposing party “made by the party’s . . . employee on a matter within the
+scope of that relationship and while it existed.”
+ No. 24-5549                         Smith, et al. v. P.A.M. Transp., Inc.                                  Page 16
+
+
+         P.A.M. Transport is also incorrect in its claim that virtually all of Smith and Sneed’s
+testimony regarding unfavorable treatment is blatantly contradicted by other record evidence.
+Although P.A.M. Transport points to documentary evidence purportedly showing that TRR
+drivers at Whites Creek drove similar routes and were assigned a similar number of loads per day
+on average, a facial review of the document does not clearly show that Smith and Sneed worked
+the same hours and drove the same routes as their non-African American counterparts.10
+Similarly, Plaintiffs’ contention that they received more damaged trucks is not blatantly
+contradicted by P.A.M. Transport’s records showing that most Whites Creek drivers, including
+Plaintiffs, received trucks that were the same age—damage, after all, is distinct from age.11
+
+         The district court’s determination that Sneed’s allegations of unfair treatment were
+“plainly contradicted” by other portions of his testimony was similarly inaccurate. R. 43,
+PageID 986. Specifically, the court saw an apparent discrepancy between Sneed’s concession
+that he was not “sure” whether all drivers at his job were paid the same and his testimony that
+other, non-African American drivers, including Melvin, told him they were paid the same as him
+despite doing less work. Id. But those two portions of testimony are not clearly contradictory;
+Sneed could retain some uncertainty about his colleagues’ exact pay, even if certain coworkers
+indicated to him that they made the same amount of money but worked fewer hours. Indeed,
+P.A.M. Transport has attested that TRR drivers were paid at the same daily rate. By disregarding
+Sneed’s testimony on this basis, the district court failed to view the evidence in the light most
+favorable to Plaintiffs.
+
+         Smith and Sneed have therefore adduced evidence sufficient to raise a genuine issue of
+material fact as to whether they were required to work longer hours, drive lengthier routes, and
+use damaged trucks, unlike their non-African American counterparts. A reasonable jury could
+
+
+         10
+            The record purports to show, for each trip made by a TRR driver from October 2018 to April 2020, the
+start time and end time, the identity of the driver, the truck driven, and the various stages of the trip.
+         11
+             P.A.M. Transport asserts that Plaintiffs waived their ability to argue that their purported receipt of
+damaged trucks constitutes evidence of hostile work environment because they failed to raise it in the section of
+their district court brief discussing hostile work environment. But Plaintiffs did raise this specific argument in their
+district court brief, stating several times that they received damaged trucks as part of their contention that they were
+treated worse than their non-African American counterparts. As the district court noted, the facts alleged by
+Plaintiffs undergirded all three of their claims. Because Plaintiffs raised the issue below, it was not waived.
+ No. 24-5549                   Smith, et al. v. P.A.M. Transp., Inc.                         Page 17
+
+
+infer, from its racially disparate nature, that this unfavorable treatment was based, at least in part,
+on race. See Schlosser, 113 F.4th at 686-87. A reasonable jury could also find that at least some
+of this treatment “add[ed] to [the] climate of hostility” at P.A.M. Transport—causing Plaintiffs
+anxiety, fatigue, and demoralization—and thus constituted another piece of evidence of race-
+based harassment in support of Plaintiffs’ hostile work environment claim. McNeal, 117 F.4th at
+901; see Smith, 813 F.3d at 308-09. The district court erred in failing to consider this additional
+piece of evidence as part of its broader racial harassment analysis.
+
+       B. Whether the Racial Harassment was Severe or Pervasive
+
+       Having met the second and third elements, Plaintiffs must now meet the fourth by
+showing that the race-based harassment they experienced was “sufficiently severe or pervasive to
+alter the conditions of [their] employment and create an abusive working environment.”
+Strickland, 995 F.3d at 505 (quoting Harris v. Forklift Sys., Inc., 510 U.S. 17, 21 (1993)). Smith
+and Sneed must demonstrate “not only [that they] perceived the work environment as hostile, but
+that a reasonable person would have found it hostile or abusive as well.” Smith, 813 F.3d at 309.
+“When assessing the hostility of a work environment, courts and juries consider the totality of
+the circumstances, including ‘the frequency of the discriminatory conduct; its severity; whether it
+[was] physically threatening or humiliating, or a mere offensive utterance; and whether it
+unreasonably interfere[d] with an employee’s performance.’”             Id. (alterations in original)
+(quoting Randolph v. Ohio Dep’t of Youth Servs., 453 F.3d 724, 733 (6th Cir. 2006)).
+Importantly, in assessing whether harassment was severe or pervasive, courts must evaluate “the
+‘work environment as a whole’ rather than individual instances of harassment.” Id. at 310
+(quoting Bowman v. Shawnee State Univ., 220 F.3d 456, 463 (6th Cir. 2000)).
+
+       We first address the decision below. After rejecting Smith and Sneed’s contention that
+the term “monkey ass” sufficed to show race-based harassment, the district court held that
+“[e]ven assuming arguendo that ‘monkey ass’ implicates Plaintiffs’ race (and thus satisfies the
+third element), Plaintiffs cannot establish that Defendant’s alleged use of the term was
+sufficiently severe or pervasive to create a jury question on the fourth element.”             R. 43,
+PageID 1028. In doing so, the district court “[p]ut[] aside” Davis and Claytor’s alleged use of
+“monkey ass” from the other testimony regarding verbal abuse.                   Id. at PageID 1026.
+ No. 24-5549                    Smith, et al. v. P.A.M. Transp., Inc.                      Page 18
+
+
+Our governing precedent, however, requires evaluation of the work environment as a whole,
+including the broader context in which the terms “monkey” and “monkey ass” were allegedly
+used. See Smith, 813 F.3d at 310. As noted, facially neutral abusive conduct, such as screaming,
+cursing, and threatening, “can support a finding of . . . animus sufficient to sustain a hostile work
+environment     claim    when     that   conduct     is   viewed    in   the   context   of    other,
+overtly . . . discriminatory conduct.” Jordan, 464 F.3d at 596 (alterations in original) (quoting
+O’Shea, 185 F.3d at 1097). By refusing to consider the use of the slurs in conjunction with the
+accompanying verbal abuse (or, for that matter, the unfavorable employment-related treatment)
+when assessing severity and pervasiveness, the district court relied on an incomplete picture of
+the harassment that Plaintiffs allegedly experienced.
+
+       We turn to the admissible evidence proffered by Plaintiffs. As discussed, Smith and
+Sneed testified that their supervisors called them “monkey” and “monkey ass” multiple times.
+Although P.A.M. Transport attempts to quibble with their testimony that they were “repeatedly”
+called “monkey” and “monkey ass,” a fair reading of the testimony suggests that they were each
+called these terms multiple times. See R. 33-1, PageID 447, 454 (testimony from Smith that
+Davis “used the [term] monkey – monkey A[ss]”); R. 33-2, PageID 665 (testimony from Sneed
+that Claytor, like Davis, “used monkey . . . [m]onkey ass, they used that”).
+
+       Nonetheless, our circuit has recognized that even a single incident of racial harassment,
+including the use of an egregious racial slur like the n-word, “may be so severe as to constitute a
+hostile work environment.” Reed v. Proctor & Gamble Mfg. Co., 556 Fed. App’x 421, 433 n.2
+(6th Cir. 2014). Our sister circuits have also expressly found that a “one-time use” of an
+“egregious” epithet like the n-word “can in some circumstances warrant Title VII liability.”
+Scaife v. U.S. Dep’t of Veterans Affs., 49 F.4th 1109, 1116 (7th Cir. 2022); accord Woods v.
+Cantrell, 29 F.4th 284, 285 (5th Cir. 2022) (finding a supervisor’s one-time usage of the phrase
+“[l]azy [m]onkey [a]ss [n]----[r]” to an African American employee sufficient to state a claim for
+hostile work environment). Like the n-word, the term “monkey” is “odious” and “degrading and
+humiliating in the extreme” when used as an insult against African Americans. Spriggs, 242
+F.3d at 185. That is particularly true in this case, where Smith and Sneed were purportedly
+called the term directly by their supervisors. The utterance of a slur by a manager “greatly
+ No. 24-5549                  Smith, et al. v. P.A.M. Transp., Inc.                      Page 19
+
+
+increase[s] its severity,” and “harassment will be more severe if offensive comments were
+directed at a plaintiff.” Johnson v. UPS, Inc., 117 Fed. App’x 444, 454, 456 (6th Cir. 2004).
+
+       These circumstances distinguish this case from Williams v. CSX, relied upon by P.A.M.
+Transport, which deemed the use of the term “monkey” insufficient to show severe or pervasive
+conduct. 643 F.3d at 513. In Williams, the plaintiff’s supervisor called Jesse Jackson and Al
+Sharpton “monkeys” and said that Black people should “go back to where [they] came from”—
+comments that were made one time over the course of two days and were not about the plaintiff.
+Id. at 506, 513.
+
+       In this case, by contrast, Smith and Sneed testified that they were directly called
+“monkey” and “monkey ass” by their supervisors on multiple occasions over time. Plaintiffs
+have also proffered evidence that, at least with respect to Sneed, the term “monkey ass” was used
+in an overtly threatening manner. For example, Sneed testified that Davis once told him, “you’re
+going to get your monkey A-S-S out there and do the job or . . . I’m going to write you up.” R.
+33-2, PageID 663. Even standing alone, the evidence of these race-specific and derogatory terms
+very likely suffices to show severe or pervasive racial harassment.
+
+       We do not rely on the use of the slurs alone, however, because our governing cases
+require consideration of the totality of the circumstances in hostile work environment cases. See
+Smith, 813 F.3d at 309-10. As discussed, Smith and Sneed testified not only that they were
+directly called egregious, degrading, and humiliating racial slurs by their supervisors on several
+occasions, but also that they were subjected to sustained verbal use, in the form of threats,
+demeaning criticism, cursing, and screaming, while non-African American TRR drivers were
+spared from that same abuse. Plaintiffs also testified that they were consistently forced to work
+longer hours, drive lengthier routes with longer wait times, and use damaged trucks, unlike their
+non-African American counterparts.       And both testified that the harassment caused them
+significant anxiety and diminished morale, which made it more difficult to drive on the road.
+
+       Viewing the totality of the record in the light most favorable to Plaintiffs, as we must, we
+conclude that a “reasonable person would have found [Smith and Sneed’s work environment]
+hostile [and] abusive.” Id. at 309. In turn, a reasonable jury could find, from the totality of the
+ No. 24-5549                   Smith, et al. v. P.A.M. Transp., Inc.                     Page 20
+
+
+evidence, that Smith and Sneed were subjected to recurring, severe, and humiliating racial
+harassment that unreasonably interfered with their employment. See id. The district court thus
+erred in concluding that the racial harassment was insufficiently severe or pervasive.
+
+       C. Liability of P.A.M. Transport and Affirmative Defense
+
+       The fifth and final element of a hostile work environment claim is employer liability.
+Smith, 813 F.3d at 311. Although Smith and Sneed testified that they reported the harassment to
+officials at P.A.M. Transport, “employers are vicariously liable for harassment by supervisors,
+and the employee need not show that the employer had knowledge of the harassment.” Barrett,
+556 F.3d at 516. Here, the parties agree that Davis and Claytor—the alleged perpetrators—had
+supervisory authority over Smith and Sneed. See Oral Argument at 19:14-19:52, 35:35-35:57
+(“Q: Are you contesting that [Davis and Claytor] were supervisors . . . as a legal matter? A: We
+haven’t. I don’t see why we would do that now. . . . [T]hat is not something that we had an issue
+over.”); accord R. 25-2, PageID 222 (attestation from P.A.M. Transport that “both Plaintiffs
+reported to Jermaine Davis”); R. 33-4, PageID 859 (testimony from P.A.M. Transport’s
+corporate representative that Davis reported to Claytor). That suffices to establish the employer
+liability prong of Plaintiffs’ prima facie case. Barrett, 556 F.3d at 516.
+
+       An employer can overcome that prima facie showing, however, by proving an affirmative
+defense establishing “(1) that it exercised reasonable care to prevent and correct promptly any
+racially harassing behavior by its supervisor, and (2) that the plaintiff employee unreasonably
+failed to take advantage of any preventive or corrective opportunities provided by the employer
+or to otherwise avoid the harm.” Id. This affirmative defense is not available to employers when
+the victim has “suffer[ed] some tangible employment action, such as a demotion, discharge, or
+undesirable transfer.” Clark v. UPS, Inc., 400 F.3d 341, 348 n.1 (6th Cir. 2005).
+
+       Plaintiffs argue that P.A.M. Transport cannot avail itself of the affirmative defense
+because “Smith and Sneed suffered tangible employment actions when they were constructively
+and actually discharged, respectively, following the discrimination and harassment.” Appellant
+Br. 46. But Smith and Sneed have abandoned their race discrimination and retaliation claims,
+which were based in part on their alleged constructive and actual discharge. Beyond cursory
+ No. 24-5549                  Smith, et al. v. P.A.M. Transp., Inc.                    Page 21
+
+
+averments that they were constructively and actually discharged in their appellate brief, Smith
+and Sneed do not attempt to relitigate those issues on appeal. Accordingly, this court lacks an
+adequate legal basis to conclude that Plaintiffs’ alleged constructive discharge and actual
+discharge obviate P.A.M. Transport’s ability to assert the affirmative defense.
+
+       Nonetheless, P.A.M. Transport has not proffered evidence sufficient, at the summary
+judgment stage, to meet the first prong of the defense. While it points to the fact that it gave
+Smith and Sneed a copy of its Anti-Discrimination and Harassment Policy, our caselaw makes
+clear that the existence and provision of a harassment policy alone are insufficient to show
+“reasonable care to prevent and correct promptly any racially harassing behavior.” Barrett, 556
+F.3d at 516; see Clark, 400 F.3d at 349. An employer must also show that the policy was
+reasonable and “effective in practice.” Clark, 400 F.3d at 349. P.A.M. Transport points to no
+evidence, and does not even attempt to argue, that it had an effective policy. It makes no
+mention of the policy’s “requirements” on supervisors or the “training regarding the policy”—
+both of which are baseline requirements for establishing the existence of a reasonable harassment
+policy. Id. at 349-50. The record also does not show that P.A.M. Transport took reasonable care
+to promptly correct the alleged harassment. To the contrary, Plaintiffs have testified that they
+placed P.A.M. Transport on notice of the harassment by reporting it to management-level
+employees, and P.A.M. Transport has proffered no evidence that it acted to promptly correct the
+situation. On this record, we cannot say that P.A.M. Transport “exercised reasonable care to
+prevent and correct promptly any racially harassing behavior by its supervisor[s].” Barrett, 556
+F.3d at 516. Because P.A.M. Transport has not met its burden of proving the first prong of the
+affirmative defense, it cannot prevail at summary judgment.
+
+                                      III. CONCLUSION
+
+       For the foregoing reasons, we REVERSE the judgment of the district court and
+REMAND for further proceedings consistent with this opinion.
+ No. 24-5549                   Smith, et al. v. P.A.M. Transp., Inc.                       Page 22
+
+
+                                      __________________
+
+                                        CONCURRENCE
+                                      __________________
+
+       READLER, J., concurring in part and in the judgment. For many of the reasons put
+forward by the majority opinion, I agree that this case should be returned to the district court for
+further proceedings. Reading the record in a light most favorable to them, Thomas Michael
+Smith and Monaleto Sneed were subjected to severe and pervasive harassment due to the race-
+specific and derogatory names their supervisors called them, “monkey” in particular. What is
+more, Smith and Sneed allege that their supervisors coupled these names with threats while
+utilizing a hostile and demeaning tone. Taken together, that is enough to overcome P.A.M.
+Transport’s motion for summary judgment.
+
+       While I disagree with the district court’s conclusion to the contrary, that court admittedly
+had difficult issues to address in the delicate setting of race discrimination. Among them, how
+do we assess intent, context, and other relevant considerations in a setting where the individual
+who purportedly engaged in race discrimination is a member of the plaintiff’s race? Compare
+Theodore R. Johnson, Black-on-Black Racism: The Hazards of Implicit Bias, The Atlantic (Dec.
+26, 2014), https://perma.cc/X8T9-8MKA, with George Yancy, No, Black People Can’t Be
+“Racists,” Truthout (Oct. 20, 2021), https://perma.cc/ND6L-99WV. Does the term “monkey
+ass,” a phrase understandably not included in traditional dictionaries, have the same racial
+connotation as the term “monkey”? See Monkey Ass, Urban Dictionary (last visited Sep. 22,
+2025), https://perma.cc/RRF9-D7ZC (offering definitions such as “One who acts badly or
+stupid,” “A stubborn child, esp[ecially] one that exhibits monkey-like traits (e.g. small, agile, and
+wild),” and “The resultant condition from prolonged periods of poor personal hygiene . . . .”); see
+also ChatGPT, “What does monkey ass mean?” (Sep. 23, 2025), https://perma.cc/SS32-JRUX
+(explaining that monkey ass can be “potentially racial (depending on context)” but also an “insult
+or put-down (non-specific),” “emphasizing someone acting wild or stupid,” or “used in joking or
+aggressive banter” (citation modified)).       And is there daylight, for purposes of a race
+discrimination claim, between the terms “black” and “African American”? See Smith v. P.A.M.
+Transp., Inc., No. 21-cv-00262, 2024 WL 2097102, at *21 (M.D. Tenn. May 9, 2024)
+ No. 24-5549                   Smith, et al. v. P.A.M. Transp., Inc.                      Page 23
+
+
+(discussing the possibility that someone could be both African American and white); see also
+Carl Zimmer, White? Black? A Murky Distinction Grows Still Murkier, N.Y. Times (Dec.
+24, 2014), https://www.nytimes.com/2014/12/25/science/23andme-genetic-ethnicity-study.html
+(describing how many individuals with African ancestry may not identify as black). As the
+opinions at all levels in this case reflect, fair-minded jurists can disagree over how to resolve
+these questions, which, in future cases, as here, will be influenced by the specific circumstances
+of the matter at hand.
+
+         As for the majority opinion, I would not reach the issue of whether Smith’s and Sneed’s
+comparative evidence is sufficient to avoid summary judgment. We need not do so, as we
+remand the case for trial on their separate theory that defendant’s acts of subjecting Smith and
+Sneed to repeated, derogatory name-calling established a racially hostile work environment.
+Nor, as explained next, do I see the comparator claims as meritorious.
+
+         To that end, Smith and Sneed begin by alleging that their supervisors treated white
+drivers more favorably by assigning those drivers shorter routes. But the company’s records
+refute the allegations. During the relevant period, its records reveal, drivers of all races were
+assigned similar routes.
+
+         The two likewise allege that white drivers were afforded better trucks. Yet the evidence
+on the point is scant. Smith, for his part, never testified that he drove a damaged truck. Nor is
+Sneed’s testimony on the matter, which revealed no evidence that he was assigned particular
+trucks because of his race, the kind of evidence that “show[s] he was treated differently (and
+worse) than others” on account of race. Smith v. City of Toledo, 13 F.4th 508, 517 (6th Cir.
+2021).
+
+         Next, Sneed claims that he was not given paid time-off, unlike white drivers. Again, that
+claim appears to be false. His paystubs show that the company paid him his accrued vacation
+time on March 12, 2020.
+
+         That leaves allegations that supervisors spoke to white drivers in a more professional tone
+and asked questions of Sneed that they did not ask of white drivers. Outside of his own
+conclusory assertions, however, Smith has not pointed to any evidence that the differences in
+ No. 24-5549                  Smith, et al. v. P.A.M. Transp., Inc.                     Page 24
+
+
+tone were based on race. And Sneed, for his part, admitted that he did not know whether white
+drivers were being asked the same questions. So once more, Smith’s and Sneed’s deposition
+testimony does not reflect “significantly probative” evidence that they were harassed because of
+their race. Anderson v. Liberty Lobby, Inc., 477 U.S. 242, 249 (1986); see also Smith, 13 F.4th at
+517.
+
+       In the end, the comparative evidence proffered by Smith and Sneed does not stand up to
+scrutiny. Nor, again, is it necessary to rely on that evidence to reach today’s conclusion,
+especially given the direct evidence of derogatory name-calling. See Weberg v. Franks, 229 F.3d
+514, 526 (6th Cir. 2000) (“Having met [the] summary judgment burden with direct evidence of
+discrimination . . . we need not consider whether there is also circumstantial evidence.”);
+Freeman v. Wainwright, 959 F.3d 226, 230 (6th Cir. 2020) (observing that an opinion need not
+discuss “an issue beyond what the court must decide in that case”).
+

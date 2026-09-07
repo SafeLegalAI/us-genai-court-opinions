@@ -1,0 +1,29 @@
+and to the copyrights in Westlaw.” (Id. 23) These allegations are sufficient to plausibly state
+ownership in the alleged copyrighted works and meet the second prong of the analysis.° :
+3. The Complaint Alleges Registration Of The Work In Question
+The complaint alleges that “Thomson Reuters registers the database with the United
+States Copyright Office every three months,” and Plaintiffs attach numerous certificates of
+registration. (Id. ]22) Thus, the third prong of the four-factor test is satisfied. ,
+4. The Complaint Alleges Acts By
+Which Defendant Infringed The Copyright
+ROSS contends that the complaint does not allege any copying by a specific accused |
+product. (D.I. 12 at 7-9; see Tr. at 62-65) The Court disagrees. Paragraphs 24 to 39 of the
+complaint allege that ROSS gained access to LegalEase’s Westlaw subscription and downloaded
+significant amounts of allegedly copyrighted material that ROSS was not granted access to viaa |
+subscriber agreement. (See, e.g., DI. 1, 4] 31-32) (describing 40-fold increase in LegalEase’s /
+!
+Westlaw usage rate supposedly indicative of bot-like behavior) ROSS is alleged to have
+leveraged the Westlaw information obtained via LegalEase “to develop its platform.” (/d. | 29,
+see also id. J 26-35) To be sure, Plaintiffs’ allegations are mostly made “upon information and
+belief,” which is permitted “when the facts at issue are peculiarly within the defendant’s |
+possession.” See Lincoln Ben. Life Co. v. AEI Life, LLC, 800 F.3d 99, 107 n.31 (3d Cir. 2015). |
+The Court does not agree with Defendant that Plaintiffs were required to have conducted
+5 Defendant contends that any alleged copyright in the WKNS has expired because the
+complaint alleges that the WKNS has existed since West’s inception in 1879, thereby extending
+beyond the 95-year term of protection. (D.I. 12 at 6-7) (citing D.I. 1,1) This position, which
+Defendant appears to have abandoned on reply (see D.I. 17), runs contrary to Section 103(6) of
+the Copyright Act, which permits copyrights independent of preexisting material. In view of the ; |
+allegation that the WKNS is “regularly edit[ed] and revise[d]” (D.I. 1, {| 14), and the attached
+copyright registration certificates filed every three months (id. { 22), ROSS’s argument does not
+provide a basis to dismiss the complaint.
+11

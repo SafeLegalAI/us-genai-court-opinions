@@ -1,0 +1,217 @@
+1
+NOT DESIGNATED FOR PUBLICATION
+No. 129,066
+IN THE COURT OF APPEALS OF THE STATE OF KANSAS
+KENDALL E. SCHEER,Minority Member of Scheer Farms, LLC,
+Appellant,
+v.
+SCHEER FARMS, LLC, a Kansas Limited Liability Company,
+BRICK SCHEER and TIBB SCHEER, in Their Capacity as
+Co-Manager Members of Scheer Farms, LLC,
+Appellees.
+MEMORANDUM OPINION
+Appeal from Sedgwick District Court; MICHAEL E.WARD, judge. Submitted without oral
+argument. Opinion filed June 5, 2026. Affirmed.
+Kendall E. Scheer, appellant pro se.
+Benjamin K. Carmichael, of Morris Laing Law Firm, of Wichita, for appellees.
+Before HILL, P.J., PICKERING and BOLTON FLEMING, JJ.
+HILL, J.: Three brothers, who own a Limited Liability Company known as Scheer
+Farms, LLC, disagreed about the LLC's sales of some farm ground. Two were in favor of
+the sales, one was not. The brother who objected to the sales sued and lost when the
+district court, relying on the business judgment rule, granted summary judgment and
+approved the LLC's sales of the real estate. The losing brother appeals, contending that
+the district court improperly granted summary judgment to the LLC. It did not err.2
+How the LLC is managed controls the outcome of this dispute.
+Scheer Farms, LLC, was organized in 2013 and operates as a manager-managed
+limited liability company. The operating agreement governing the LLC states that the
+business purpose of the LLC "is to hold and manage agricultural land, and to engage in
+any other business or activity in which a limited liability company may legally engage
+under Kansas law." Article 5 of the operating agreement provides the LLC's management
+structure. It requires that a manager be appointed for daily operations but limits the
+manager's authority to trade, sell, transfer, or otherwise dispose of any assets of the
+company by requiring consent or approval of the majority in interest.
+This appeal involves a dispute between Kendall E. Scheer, a minority member of
+Scheer Farms, LLC, and his two brothers, Brick Scheer and Tibb Scheer—co-managers
+of the LLC. Kendall alleges that his two brothers, in their capacity as co-managers,
+breached their fiduciary duties and their implied duty of good faith and fair dealing when
+they made two proposed sales of the LLC's real property.
+Co-managers Brick and Tibb each hold a 10 percent interest in the LLC. Kendall
+also had a 10 percent interest but negotiated with two other minority members for their
+respective 10 percent interest in the LLC, resulting in Kendall now owning a 30 percent
+interest.
+The co-managers negotiated two sales for the LLC's real property with two
+prospective buyers. Under the operating agreement, a proposed sale may not be finalized
+without a meeting of the LLC's members and a majority vote for the sale. Such a meeting
+took place, in which all membership interest holders attended, and the proposed sales
+passed with a 60 percent vote. Kendall was present at this meeting and voted against the
+proposed sales.3
+Outvoted, Kendall tries to prevent the sales.
+Kendall sued and moved for a temporary restraining order barring the proposed
+sales. He contended that the co-managers were using outdated appraisals in the sales,
+which meant that the sales would result in a $147,000 loss. That loss would unfairly
+diminish his interest. He alleged that the sales would cause him an irreparable harm and
+he would be unable to be redressed with monetary damages alone. And Kendall claimed
+that granting the temporary restraining order preserved the status quo and would protect
+minority shareholder rights. This result would align with public policy favoring fairness
+and equitable treatment within business entities.
+Kendall asserted that the co-managers breached their fiduciary duty under K.S.A.
+17-76,134(e) by acting in bad faith and without loyalty to Scheer as a minority owner. He
+asked the court to issue a temporary restraining order, hold a prompt hearing on his
+request for a preliminary injunction, and treat the matter as an emergency. The court
+denied Scheer's request.
+Brick and Tibb moved to join Scheer Farms LLC as a party to the lawsuit, which
+the district court granted. Later, the LLC moved for summary judgment, arguing that
+Kendall's allegations were insufficient to rebut the business judgment rule. Kendall
+proceeded to file several pleadings, which the district court found did not meet the rules
+for opposing a motion for summary judgment under Supreme Court Rule 141 (2026 Kan.
+S. Ct. R. at 220).
+After considering the motion, the parties' arguments, and the record, the district
+court granted summary judgment for the LLC. The court found that the two proposed
+sales were protected by the business judgment rule. It further found that Kendall
+presented no evidence of self-dealing or self-interest and thus had failed to satisfy his
+burden to rebut the rule.4
+We must review this district court's grant of summary judgment.
+Summary judgment may be granted when a court finds the record shows that no
+genuine issue as to any material fact exists "and the moving party is entitled to judgment
+as a matter of law. The district court must resolve all facts and reasonable inferences
+drawn from the evidence in favor of the party against whom the ruling is sought."
+GFTLenexa, LLC v. City of Lenexa, 310 Kan. 976, 981-82, 453 P.3d 304 (2019). The
+opposing party must produce evidence to establish that a dispute as to a material fact
+exists. To escape summary judgment, "the facts subject to the dispute must be material to
+the conclusive issue in the case." 310 Kan. at 982. "Mere speculation" or "hope that
+something may develop later during discovery or at trial" is "insufficient to avoid
+summary judgment." Geer v. Eby, 309 Kan. 182, 190, 432 P.3d 1001 (2019).
+On appeal, a reviewing court applies the same rules as the district court: If the
+court finds that reasonable minds could differ as to the conclusions drawn from the
+evidence, then reversal of the summary judgment is proper.An appellate court's "review
+of the legal effect of undisputed facts is de novo." GFTLenexa, LLC, 310 Kan. at 982.
+Officers of corporations must obey strict fiduciary duties to stockholders.
+"'Kansas imposes a very strict fiduciary duty on officers and directors of a
+corporation to act in the best interests of the corporation and its stockholders.'" Burcham
+v. Unison Bancorp, Inc., 276 Kan. 393, 416, 77 P.3d 130 (2003). The party alleging a
+breach of a fiduciary duty bears the burden of establishing a prima facie case of the
+breach. See Becker v. Knoll, 291 Kan. 204, 207, 239 P.3d 830 (2010). Under this rule,
+Scheer has the burden to show the breach of fiduciary duty.
+Our rules of corporate governance are well established and establish a priority.
+"'The duty of loyalty requires that the best interests of the corporation and its5
+shareholders take precedence over any self-interest of a director, officer, or controlling
+shareholder that is not shared by the stockholders generally. [Citations omitted.]' McCall
+v. Scott, 239 F.3d 808, 824 (6th Cir. 2001)." Becker, 291 Kan. at 208. This priority of
+interests supports the business judgment rule.
+The business judgment rule presumes that, "in making business decisions not
+involving direct self-interest or self-dealing, corporate directors act on an informed basis,
+in good faith, and in the honest belief that their actions are in the corporation's best
+interest." 291 Kan. at 208-09.Application of the rule has significant consequences:
+"The business judgment rule 'shield[s] internal business decisions from second-guessing
+by the courts. . . . Under the rule, when business judgments are made in good faith based
+on reasonable business knowledge, the decision makers are immune from liability from
+actions brought by others who have an interest in the business entity.' [Citations
+omitted.]" 291 Kan. at 209.
+We are mindful that the business judgment rule is a rebuttable presumption,
+placing "an initial burden on the party challenging a corporate decision to demonstrate
+the decisionmaker's 'self-dealing or other disabling factor.'" 291 Kan. at 209. Self-dealing
+in a corporate context means "'[p]articipation in a transaction that benefits oneself instead
+of another who is owed a fiduciary duty.'" 291 Kan. at 210. Self-interest or self-dealing
+can be proven by showing that the directors "'"appear on both sides of a transaction . . . or
+expect to derive any personal financial benefit from it in the sense of self-dealing, as
+opposed to a benefit which devolves upon the corporation or all stockholders generally."
+[Citation omitted.]' Matter of Seidman, 37 F.3d 911, 934 (3d Cir. 1994)." Becker, 291
+Kan. at 209.
+Finally, nearly every contract infers a duty of good faith and fair dealing. That
+implied duty ensures that both parties to a contract will not intentionally undermine the
+other party's performance under the contract. Waste Connections of Kansas, Inc. v.6
+Ritchie Corp., 296 Kan. 943, 965, 298 P.3d 250 (2013). Sharp dealing and hidden terms
+are not permitted or tolerated in Kansas contracts. See 296 Kan. at 963 ("In general,
+parties may contract to any terms so long as they are neither illegal nor contrary to public
+policy.").
+Summary judgment was proper as we see no evidence of self-interest or self-dealing in
+this record.
+Scheer attacks summary judgment in this appeal on two fronts: (1) The co-
+managers breached their implied duty of good faith and fair dealing, and (2) the co-
+managers breached their fiduciary duties of care and loyalty.
+Both attacks fail to overcome the presumption made by the business judgment
+rule. That rule establishes a presumption that business judgments not involving self-
+interest or self-dealing are undertaken with good-faith, and in the honest belief that the
+decisions are in the corporation's best interest. Becker, 291 Kan. at 209.
+Simply put, Scheer has not shown that either of the LLC's co-managers engaged in
+self-dealing or self-interest. First, the co-managers sought the requisite approval by a
+majority of the LLC's members at a meeting where Kendall was present, had a vote, and
+voiced his objections. Second, the co-managers each owned a 10 percent interest in the
+LLC and would share in the sales' proceeds on the same pro rata basis as Kendall. No one
+director stood to benefit in any manner different from the other members.
+Third, Kendall's claims that the sales were not at arm's length lack merit because
+he has offered no admissible evidence supporting his claim. Words alone do not rebut the
+business judgment rule, nor does he show any questionable relationship between the co-
+managers and the two parties on the other end of the two sales.7
+Fourth, Kendall's claim regarding the "right of first refusal," that right applied
+solely to members transferring their respective membership interests and did not apply to
+allow members to have the right of first refusal to any proposed sale of the LLC. As the
+LLC asserts, even if such a right existed under the operating agreement, the majority vote
+would have overridden that right absent a conflict of interest or self-dealing.
+Kendall's remaining arguments are defeated by the business judgment rule because
+he fails to establish any showing of self-interest or self-dealing by the co-managers in the
+two proposed sales.
+With no evidence that the LLC engaged in self-dealing or self-interest in the two
+real estate deals, the business judgment rule presumes that the sales were undertaken with
+good faith and in honest belief the decisions were in the LLC's best interest. See Becker,
+291 Kan. at 208. Thus, we must affirm the district court's grant of summary judgment for
+the LLC.
+We see no denial of due process by the district court.
+Kendall also raises claims involving the denial of his due process rights. He
+alleges that his due process rights were violated when his emergency request for a
+temporary restraining order was not timely docketed and that his motion for deep
+discovery was misfiled and unheard. To his first allegation, Kendall failed to timely
+appeal the district court's denial of his temporary restraining order request; therefore, that
+issue is not properly before this court.
+To the second allegation, Kendall's motion for deep discovery was filed before the
+LLC's motion to stay discovery pending the disposition of the summary judgment
+motion. The district court granted the stay and subsequently granted summary judgment
+for the LLC. Therefore, the district court did not deny Kendall's due process rights8
+because the matter of discovery was heard by the district court and Kendall had an
+opportunity to be heard. Kendall's due process claims lack merit.
+The district court appropriately granted summary judgment.
+Neither of Kendall's claims prevails, nor do they rebut the business judgment rule.
+He failed to show that the proposed sales of the real property involved a conflict of
+interest or that the transactions benefited one member more than others. He had the
+opportunity to object to the sale at the meeting where 60 percent of the members
+consented to the sale—above the required vote under the operating agreement. The sale
+benefited all members equally and respected all of the different membership interests,
+meaning no one member or manager would benefit in any manner different than the other
+members or managers.
+Affirmed.
+* * *
+PICKERING, J., concurring: I concur with affirming the district court's ruling. I
+would, however, address the appellant's use of several fake case citations in his brief.
+An appellate brief containing nonexistent case citations or fake legal authority
+needlessly undermines the validity of a party's arguments. Mata v. Avianca, Inc., 678 F.
+Supp. 3d 443, 448-49 (S.D.N.Y. 2023). Here, the appellant's brief—as noted by the
+appellee—contains several fake case citations in support of his arguments. It is unclear
+whether the fake cases were the result of fabrications on the part of artificial intelligence.
+See United States v. Hayes, 763 F. Supp. 3d 1054, 1064-65 (E.D. Cal. 2025) (describing
+characteristics of "hallucinated case" citations generated by artificial intelligence).
+Regardless, we should disregard any of the appellant's arguments supported by9
+nonexistent cases because "[a] fake opinion is not 'existing law' and citation to a fake
+opinion does not provide a non-frivolous ground for extending, modifying, or reversing
+existing law, or for establishing new law." Mata, 678 F. Supp. 3d at 461. Failure to
+support a point with pertinent authority—or, as here, use of fake cases to support an
+argument—is akin to failing to brief an issue. "'Where the appellant fails to brief an issue,
+that issue is waived or abandoned.'" Mid-Continent Specialists, Inc. v. Cap. Homes, L.C.,
+279 Kan. 178, 191, 106 P.3d 483 (2005).
+Additionally, Scheer's status as a self-represented litigant does not rid him of the
+duty to confirm the validity of any cited legal authority. K.S.A. 60-211(b)(2) states:
+"(b) . . . By presenting to the court a pleading, written motion or other paper, whether by
+signing, filing, submitting or later advocating it, an attorney or unrepresented party
+certifies that to the best of the person's knowledge, information and belief formed after an
+inquiry reasonable under the circumstances:
+. . . .
+(2) the claims, defenses and other legal contentions are warranted by existing law
+or by a nonfrivolous argument for extending, modifying or reversing existing law or for
+establishing new law." (Emphases added.)
+Simply stated, the use of nonexistent cases with fake quotes and citations—
+regardless if a party is a self-represented litigant—is not allowed in either legal filings or
+arguments made to the courts. To do otherwise "'degrades or impugns the integrity of the
+Court [and] interferes with the administration of justice.'" Hayes, 763 F. Supp. 3d at 1064.
+Moreover, "[a]n attempt to persuade a court or oppose an adversary by relying on fake
+opinions is an abuse of the adversary system." Mata, 678 F. Supp. 3d at 461. On this
+basis, I would affirm the district court's ruling due to appellant's attempt to support his
+argument with nonexistent cases.

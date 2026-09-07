@@ -1,0 +1,589 @@
+              BUNDESGERICHTSHOF
+                   IM NAMEN DES VOLKES
+                                 URTEIL
+I ZR 113/20
+                                                             Verkündet am:
+                                                             9. September 2021
+                                                             Führinger
+                                                             Justizangestellte
+                                                             als Urkundsbeamtin
+                                                             der Geschäftsstelle
+
+                              in dem Rechtsstreit
+
+Nachschlagewerk:       ja
+BGHZ:               nein
+BGHR:                  ja
+
+
+
+                                                 Vertragsdokumentengenerator
+
+UWG § 3a; RDG § 2 Abs. 1, § 3
+
+Die Erstellung eines Vertragsentwurfs mithilfe eines digitalen Rechtsdokumen-
+tengenerators, bei dem anhand von Fragen und vom Nutzer auszuwählenden
+Antworten standardisierte Vertragsklauseln abgerufen werden, stellt keine
+Rechtsdienstleistung im Sinne von § 2 Abs. 1 RDG dar.
+
+BGH, Urteil vom 9. September 2021 - I ZR 113/20 - OLG Köln
+                                                   LG Köln
+
+
+
+
+ECLI:DE:BGH:2021:090921UIZR113.20.0
+                                          -2-
+
+
+
+
+          Der I. Zivilsenat des Bundesgerichtshofs hat auf die mündliche Verhand-
+    lung vom 17. Juni 2021 durch den Vorsitzenden Richter Prof. Dr. Koch, den Rich-
+    ter Feddersen, die Richterinnen Pohl, Dr. Schmaltz und Wille
+
+    für Recht erkannt:
+
+
+          Die Revision gegen das Urteil des 6. Zivilsenats des Oberlandes-
+          gerichts Köln vom 19. Juni 2020 wird auf Kosten der Klägerin zu-
+          rückgewiesen.
+
+                                   Von Rechts wegen
+
+
+
+
+                                      Tatbestand:
+
+1         Die Klägerin ist die Rechtsanwaltskammer für den Oberlandesgerichtsbe-
+    zirk H.   . Ihr obliegt die Wahrung und Förderung der beruflichen Belange
+    ihrer Mitglieder. Die Beklagte ist ein Verlag, der schwerpunktmäßig in den Berei-
+    chen Recht, Wirtschaft und Steuern tätig ist.
+
+2         Die Beklagte stellt im Internet unter der Bezeichnung "smartlaw" einen
+    elektronischen Generator zur Erstellung von Verträgen und anderen Rechtsdo-
+    kumenten in verschiedenen Rechtsgebieten bereit, die Unternehmen und Ver-
+    braucher im Rahmen eines Abonnements oder im Wege des Einzelkaufs erwer-
+    ben können. Hierzu werden dem Kunden Fragen zum Gegenstand, zum ge-
+    wünschten Inhalt und zur beabsichtigten Reichweite des Dokuments gestellt, die
+    überwiegend anhand von zur Auswahl gestellten Angaben und teils offen zu be-
+    antworten sind. Neben der jeweiligen Frage ist eine Erläuterung der verwendeten
+    Rechtsbegriffe oder zur rechtlichen Bedeutung der Frage eingeblendet. Mithilfe
+    einer von der Beklagten programmierten Software werden anhand der Antworten
+                                                -3-
+
+
+
+
+    des Kunden aus einer Sammlung ihnen zugeordneter Textbausteine bestimmte
+    Vertragsklauseln oder Textpassagen generiert, aus denen ein individueller Ver-
+    tragsentwurf erstellt wird. Im Anschluss an das erstellte Dokument erteilt die Be-
+    klagte jedenfalls teilweise Hinweise und Empfehlungen zur richtigen und sicheren
+    Verwendung des Dokuments. Die Beklagte hat die Frage-Antwort-Systeme und
+    die Textbausteine in Zusammenarbeit mit Rechtsanwälten entwickelt.
+
+3         Die Klägerin macht geltend, die Beklagte verstoße durch die elektronische
+    Bereitstellung auf die Kundenwünsche zugeschnittener Vertragsdokumente ge-
+    gen das Rechtsdienstleistungsgesetz. Sie hat beantragt, die Beklagte unter An-
+    drohung näher bezeichneter Ordnungsmittel zu verurteilen,
+
+          es zu unterlassen, geschäftlich handelnd entgeltlich und selbständig Dritten ge-
+          genüber ohne entsprechende Erlaubnis außergerichtlich Rechtsdienstleistun-
+          gen zu erbringen, anzubieten und/oder zu bewerben, indem sie für Dritte durch
+          einen digitalen Rechtsdokumentengenerator auf Grundlage eines Frage-Ant-
+          wort-Systems aus einer Sammlung alternativer Textbausteine individuelle
+          Rechtsdokumente erstellt, wie geschehen unter www.smartlaw.de und aus den
+          Anlagen K 5 bis K 8 ersichtlich.
+
+          [Es folgen Internetausdrucke, die knapp 30 Eingabeschritte zur Erzeugung ei-
+          nes neun Paragrafen umfassenden "Content-Lizenzvertrags" sowie knapp
+          40 Eingabeschritte zur Erzeugung eines neun Paragrafen umfassenden "Gra-
+          fikdesignervertrags" zeigen.]
+
+
+4         Die Klägerin hat die Beklagte ferner auf Unterlassung bestimmter Werbe-
+    aussagen in Anspruch genommen, in denen sie eine unzulässige qualitative
+    Gleichstellung der durch den Generator "smartlaw" erzeugten Rechtsdokumente
+    mit anwaltlichen Dienstleistungen gesehen hat.
+
+5         Das Landgericht hat die Beklagte antragsgemäß verurteilt (LG Köln, MMR
+    2020, 56). Dagegen hat die Beklagte Berufung eingelegt. Im Verlauf des Beru-
+    fungsverfahrens hat sie das Rechtsmittel zurückgenommen, soweit sie zur Un-
+    terlassung der Werbeaussagen verurteilt worden ist. Das Berufungsgericht hat
+    die Klage abgewiesen, soweit sie gegen die Erstellung von Vertragsdokumenten
+                                            -4-
+
+
+
+
+    mithilfe des Generators gerichtet ist (OLG Köln, WRP 2020, 1213). Insoweit be-
+    gehrt die Klägerin mit ihrer vom Berufungsgericht zugelassenen Revision die
+    Wiederherstellung des landgerichtlichen Urteils. Die Beklagte beantragt, die Re-
+    vision zurückzuweisen.
+
+
+
+
+                                   Entscheidungsgründe:
+
+6            A. Das Berufungsgericht hat einen wettbewerbsrechtlichen Unterlas-
+    sungsanspruch der Klägerin verneint, weil die Beklagte mit dem Angebot des
+    digitalen Rechtsdokumentengenerators nach dem Wortlaut sowie dem Sinn und
+    Zweck von § 2 Abs. 1 RDG unter Berücksichtigung des Willens des Gesetzge-
+    bers keine erlaubnispflichtige Rechtsdienstleistung erbringe. Dazu hat es ausge-
+    führt:
+
+7            Die Tätigkeit der Beklagten bestehe in der Entwicklung und Bereitstellung
+    des Computerprogramms. Sie beziehe sich nicht auf eine konkrete Angelegen-
+    heit, sondern auf eine Vielzahl denkbarer Fälle. Soweit der Nutzer das abstrakte
+    Dienstleistungsangebot der Beklagten durch die Inanspruchnahme des Rechts-
+    dokumentengenerators in einen konkreten Einzelfall überführe, handele es sich
+    um eine eigenverantwortliche Tätigkeit des Anwenders zur Erledigung seiner
+    eigenen Rechtsangelegenheiten. Die Tätigkeit des Nutzers in eigener Sache sei
+    der Beklagten mangels Begründung einer Gefahr im Schutzbereich des Rechts-
+    dienstleistungsgesetzes nicht als Tätigkeit in einer konkreten fremden Angele-
+    genheit zurechenbar. Durch das automatisierte Verfahren werde der Rechtsu-
+    chende nicht der Gefahr einer unqualifizierten Rechtsberatung ausgesetzt. Das
+    zur Anwendung kommende Computerprogramm nehme für den Nutzer erkenn-
+    bar keine Rechtsprüfung vor, sondern füge mithilfe des festgelegten Frage-Ant-
+    wort-Schemas einen Sachverhalt in ein vorgegebenes Raster ein und kombiniere
+    vorgegebene Textbausteine anhand von logisch-schematischen Verknüpfungen.
+                                            -5-
+
+
+
+
+     Für eine enge Auslegung des Begriffs der Rechtsdienstleistung spreche der Wille
+     des Gesetzgebers, das neu gestaltete Recht der außergerichtlichen Rechts-
+     dienstleistungen zu liberalisieren und die Entwicklung neuer Berufsbilder zu er-
+     lauben.
+
+8          B. Die gegen diese Beurteilung gerichtete Revision der Klägerin hat keinen
+     Erfolg. Das Berufungsgericht hat mit Recht angenommen, dass die Klägerin von
+     der Beklagten die Unterlassung der Erstellung von Vertragsentwürfen mithilfe
+     des digitalen Rechtsdokumentengenerators "smartlaw" nicht verlangen kann.
+
+9          I. Die Klage ist zulässig.
+
+10         1. Das Berufungsgericht hat die Klägerin zu Recht als klagebefugt ange-
+     sehen. Sie ist als berufsständische Vertretung der Rechtsanwälte im Bezirk des
+     Oberlandesgerichts H.        gemäß § 8 Abs. 3 Nr. 2 UWG (in der bis zum
+     30. November 2021 geltenden Fassung) befugt, den Unterlassungsanspruch aus
+     § 8 Abs. 1 UWG wegen Verstoßes gegen § 3 Abs. 1, § 3a UWG geltend zu ma-
+     chen (vgl. BGH, Urteil vom 31. März 2016 - I ZR 88/15, GRUR 2016, 1189 Rn. 13
+     = WRP 2016, 1232 - Rechtsberatung durch Entwicklungsingenieur; Urteil vom
+     11. Februar 2021 - I ZR 227/19, GRUR 2021, 758 Rn. 11 = WRP 2021, 610
+     - Rechtsberatung durch Architektin).
+
+11         2. Der Unterlassungsantrag genügt den Bestimmtheitsanforderungen des
+     § 253 Abs. 2 Nr. 2 ZPO.
+
+12         a) Nach § 253 Abs. 2 Nr. 2 ZPO darf ein Unterlassungsantrag - und nach
+     § 313 Abs. 1 Nr. 4 ZPO eine darauf beruhende Verurteilung - nicht derart undeut-
+     lich gefasst sein, dass der Streitgegenstand und der Umfang der Prüfungs- und
+     Entscheidungsbefugnis des Gerichts nicht klar umrissen sind, der Beklagte sich
+     deshalb nicht erschöpfend verteidigen kann und im Ergebnis dem Vollstre-
+     ckungsgericht die Entscheidung darüber überlassen bleibt, was dem Beklagten
+                                           -6-
+
+
+
+
+     verboten ist. Die Bestimmtheit der Klageanträge ist auch im Revisionsverfahren
+     von Amts wegen zu prüfen (BGH, Urteil vom 12. März 2020 - I ZR 126/18, BGHZ
+     225, 59 Rn. 38 f. - WarnWetter-App; Urteil vom 11. Februar 2021 - I ZR 126/19,
+     GRUR 2021, 746 Rn. 16 f. = WRP 2021, 604 - Dr. Z.; Urteil vom 25. März 2021
+     - I ZR 37/20, GRUR 2021, 971 Rn. 14 f. = WRP 2021, 904 - myboshi). Der Ge-
+     brauch auslegungsbedürftiger Begriffe im Klageantrag zur Bezeichnung der zu
+     untersagenden Handlung genügt, wenn über ihren Sinngehalt zwischen den Par-
+     teien kein Streit besteht und objektive Maßstäbe zur Abgrenzung vorliegen, oder
+     wenn der Kläger den auslegungsbedürftigen Begriff hinreichend konkret um-
+     schreibt und gegebenenfalls mit Beispielen unterlegt oder sein Begehren an der
+     konkreten Verletzungshandlung ausrichtet (BGH, Urteil vom 4. November 2010
+     - I ZR 118/09, GRUR 2011, 539 Rn. 13 = WRP 2011, 742 - Rechtsberatung
+     durch Lebensmittelchemiker; Urteil vom 23. September 2015 - I ZR 78/14,
+     GRUR 2015, 1201 Rn. 42 = WRP 2015, 1487 - Sparkassen-Rot/Santander-Rot;
+     Urteil vom 6. Oktober 2016 - I ZR 25/15, GRUR 2017, 266 Rn. 29 = WRP 2017,
+     320 - World of Warcraft I).
+
+13         b) Nach diesen Grundsätzen ist der Unterlassungsantrag hinreichend be-
+     stimmt. Die Klägerin hat den auslegungsbedürftigen Begriff der "Rechtsdienstlei-
+     stungen" im Klageantrag dahin konkretisiert, dass sie darunter die Erstellung in-
+     dividueller Rechtsdokumente durch einen digitalen Generator anhand eines
+     Frage-Antwort-Systems und zugeordneter Textbausteine fasst. Dabei hat sie die
+     Funktionsweise des Rechtsdokumentengenerators durch die Bezugnahme auf
+     Internetausdrucke veranschaulicht, die die Schritte zur Erzeugung eines "Con-
+     tent-Lizenzvertrags" für Bild und/oder Film und eines "Grafikdesignervertrags"
+     zeigen. Ergänzend hat sie in der Revisionsverhandlung klargestellt, dass sich ihr
+     Unterlassungsbegehren gegen die Erstellung von Verträgen wie die als konkrete
+     Verletzungsformen eingeblendeten Dokumente und nicht gegen die Erzeugung
+                                           -7-
+
+
+
+
+     jedweden Rechtsdokuments wie etwa auch einer Rechnung, einer Handelsregis-
+     teranmeldung oder einer Vermieterbescheinigung richtet. Hierdurch hat die Klä-
+     gerin das zu verbietende Verhalten ausreichend konkret beschrieben.
+
+14           II. Die Klage ist unbegründet. Der Klägerin steht der geltend gemachte
+     Unterlassungsanspruch aus § 8 Abs. 1 Satz 1, § 3 Abs. 1, § 3a UWG nicht zu,
+     weil die Beklagte durch die Erzeugung von Vertragsdokumenten mithilfe des di-
+     gitalen Generators "smartlaw" nicht gegen das gesetzliche Verbot zur Erbringung
+     unerlaubter Rechtsdienstleistungen in § 3 RDG verstößt.
+
+15           1. Das Berufungsgericht ist zutreffend davon ausgegangen, dass ein Ver-
+     stoß gegen § 3 RDG einen Unterlassungsanspruch aus § 8 Abs. 1 Satz 1, § 3
+     Abs. 1, § 3a UWG begründen kann. Dem steht nicht entgegen, dass nach Art. 4
+     der Richtlinie 2005/29/EG über unlautere Geschäftspraktiken diejenigen Vor-
+     schriften der Mitgliedstaaten über unlautere Geschäftspraktiken vollständig har-
+     monisiert werden sollen, die die wirtschaftlichen Interessen der Verbraucher be-
+     einträchtigen. Nach Art. 3 Abs. 8 der Richtlinie 2005/29/EG bleiben alle spezifi-
+     schen Regeln für reglementierte Berufe unberührt, damit die strengen Integritäts-
+     standards gewährleistet bleiben, die die Mitgliedstaaten den in dem Beruf tätigen
+     Personen nach Maßgabe des Unionsrechts auferlegen können. Dementspre-
+     chend ist die Anwendung des § 3a UWG auf berufsrechtliche Bestimmungen zu-
+     lässig, die - wie die Vorschrift des § 3 RDG - das Marktverhalten in unionsrechts-
+     konformer Weise regeln (BGH, GRUR 2011, 539 Rn. 23 - Rechtsberatung durch
+     Lebensmittelchemiker; GRUR 2016, 1189 Rn. 17 - Rechtsberatung durch Ent-
+     wicklungsingenieur; GRUR 2021, 758 Rn. 30 - Rechtsberatung durch Architek-
+     tin).
+
+16           2. Gemäß § 3 RDG ist die selbständige Erbringung außergerichtlicher
+     Rechtsdienstleistungen nur in dem Umfang zulässig, in dem sie durch das
+     Rechtsdienstleistungsgesetz oder durch oder aufgrund anderer Gesetze erlaubt
+                                            -8-
+
+
+
+
+     wird. Danach dürfen Rechtsdienstleistungen lediglich aufgrund gesetzlicher Er-
+     laubnis erbracht werden; im Übrigen sind sie verboten. Bereits die Bewerbung
+     oder das Angebot einer unerlaubten Rechtsdienstleistung ist unzulässig, weil da-
+     durch die Gefahr begründet wird, dass sich die Adressaten mit ihren Rechtsan-
+     gelegenheiten an den Werbenden oder den Anbieter wenden werden (zu Art. 1
+     § 1 RBerG vgl. BGH, Urteil vom 6. Dezember 2001 - I ZR 214/99, GRUR 2002,
+     985, 986 [juris Rn. 35] = WRP 2002, 952 - WISO; Urteil vom 24. Februar 2005
+     - I ZR 128/02, GRUR 2005, 604, 606 [juris Rn. 21] = WRP 2005, 739 - Fördermit-
+     telberatung). Die Bestimmung des § 3 RDG ist eine Marktverhaltensregelung im
+     Sinne des § 3a UWG (BGH, GRUR 2011, 539 Rn. 25 - Rechtsberatung durch
+     Lebensmittelchemiker; BGH, Urteil vom 14. Januar 2016 - I ZR 107/14, GRUR
+     2016, 820 Rn. 12 = WRP 2016, 861 - Schadensregulierung durch Versicherungs-
+     makler; BGH, GRUR 2016, 1189 Rn. 18 - Rechtsberatung durch Entwicklungsin-
+     genieur; GRUR 2021, 758 Rn. 28 - Rechtsberatung durch Architektin).
+
+17         3. Das Berufungsgericht hat angenommen, die Beklagte verstoße durch
+     das Angebot "smartlaw" nicht gegen § 3 RDG, weil sie mit dem Rechtsdokumen-
+     tengenerator keine Rechtsdienstleistung erbringe. Diese Beurteilung hält der
+     rechtlichen Nachprüfung stand.
+
+18         a) Eine Rechtsdienstleistung ist nach § 2 Abs. 1 RDG jede Tätigkeit in kon-
+     kreten fremden Angelegenheiten, sobald sie eine rechtliche Prüfung des Einzel-
+     falls erfordert. Abzustellen ist nicht auf die berufliche oder geschäftliche Gesamt-
+     tätigkeit, sondern auf die im Rahmen der jeweiligen beruflichen oder geschäftli-
+     chen Tätigkeit erbrachte einzelne Dienstleistung (Begründung des Regierungs-
+     entwurfs eines Gesetzes zur Neuregelung des Rechtsberatungsrechts,
+     BT-Drucks. 16/3655, S. 37; Deckenbrock/Henssler in Deckenbrock/Henssler,
+     RDG, 5. Aufl., § 2 Rn. 16; Krenzler/Krenzler, RDG, 2. Aufl., § 2 Rn. 12).
+                                           -9-
+
+
+
+
+19          b) Die Erstellung eines Vertragsdokuments mithilfe des digitalen Genera-
+     tors "smartlaw" stellt keine Rechtsdienstleistung der Beklagten in diesem Sinne
+     dar. Die Erzeugung eines Vertragsentwurfs anhand der Eingaben des Nutzers
+     stellt zwar eine Tätigkeit der Beklagten dar (dazu B II 3 b bb). Die Beklagte er-
+     bringt diese Tätigkeit jedoch nicht in einer konkreten fremden Angelegenheit
+     (dazu B II 3 b cc).
+
+20          aa) Anders als das Berufungsgericht meint, gebietet die mit dem Rechts-
+     dienstleistungsgesetz erfolgte Neuausrichtung des Rechts der außergerichtli-
+     chen Rechtsdienstleistungen allerdings keine enge Auslegung der Tatbestands-
+     merkmale der Rechtsdienstleistung.
+
+21          (1) Der Gesetzgeber hat mit dem Rechtsdienstleistungsgesetz das Ziel
+     verfolgt, das Berufsrecht zu deregulieren und zu liberalisieren und das Rechts-
+     dienstleistungsrecht für künftige Entwicklungen neuer Dienstleistungsberufe zu
+     öffnen (vgl. BT-Drucks. 16/3655, S. 38 und 42). Er wollte der systematischen
+     Neuausrichtung des Rechtsdienstleistungsgesetzes allerdings nicht im Rahmen
+     der Definition der Rechtsdienstleistung in § 2 Abs. 1 RDG, sondern im Rahmen
+     des Erlaubnistatbestands des § 5 RDG Rechnung tragen (BT-Drucks. 16/3655,
+     S. 37). Der durch den Begriff der Rechtsdienstleistung eröffnete Anwendungsbe-
+     reich des Rechtsdienstleistungsgesetzes sollte deshalb weit gefasst und erst in-
+     nerhalb des für zulässige Nebenleistungen geschaffenen Erlaubnistatbestands
+     des § 5 Abs. 1 RDG unter Berücksichtigung der Schutzzwecke des Rechtsdienst-
+     leistungsgesetzes entschieden werden, ob eine Tätigkeit als Nebenleistung zu-
+     lässig ist (BT-Drucks. 16/3655, S. 37 und 51 f.). Der danach mit dem Rechts-
+     dienstleistungsgesetz verfolgte Kontrollzweck gibt keinen Anlass zu einer restrik-
+     tiven Auslegung des Begriffs der Rechtsdienstleistung (BGH, GRUR 2016, 820
+     Rn. 47 f. - Schadensregulierung durch Versicherungsmakler).
+                                          - 10 -
+
+
+
+
+22         (2) Nichts anderes ergibt sich aus der vom Berufungsgericht angeführten
+     Entscheidung des Bundesgerichtshofs vom 27. November 2019 (VIII ZR 285/18,
+     BGHZ 224, 89). Der VIII. Zivilsenat des Bundesgerichtshofs hat nicht den Begriff
+     der Rechtsdienstleistung (§ 2 Abs. 1 RDG) eng ausgelegt, sondern - im Rahmen
+     des mit dem Rechtsdienstleistungsgesetz verfolgten Schutzzwecks (§ 1 Abs. 1
+     Satz 2 RDG) - eine eher großzügige Auslegung des Begriffs der registrierungs-
+     fähigen Inkassodienstleistung (§ 2 Abs. 2 Satz 1, § 10 Abs. 1 Satz 1 Nr. 1 RDG)
+     für geboten erachtet (BGHZ 224, 89 Rn. 141).
+
+23         bb) Bei der softwarebasierten Erstellung eines Vertragsdokuments handelt
+     es sich um eine Tätigkeit der Beklagten im Sinne des § 2 Abs. 1 RDG.
+
+24         (1) Das Berufungsgericht hat angenommen, eine Tätigkeit setze eine
+     menschliche oder zumindest mitdenkende Aktivität voraus. Aus der Gesetzesbe-
+     gründung zur rechtlichen Prüfung ergebe sich, dass ein juristischer Subsumtions-
+     vorgang auf Seiten des Dienstleistenden notwendig sei, der bei einem Compu-
+     terprogramm, das vorgegebene Ja-/Nein-Entscheidungsstrukturen schematisch
+     abarbeite, nicht vorliege. Als Tätigkeiten verblieben daher nur das Programmie-
+     ren und Bereitstellen des Computerprogramms durch die Beklagte einerseits und
+     die Anwendung des Programms durch den Nutzer andererseits. Dieser Einschät-
+     zung kann im Ergebnis nicht zugestimmt werden.
+
+25         (2) Der Gesetzgeber hat bei der Schaffung der Legaldefinition der Rechts-
+     dienstleistung zwar die Tätigkeit einer natürlichen oder juristischen Person vor
+     Augen gehabt. Er hat es jedoch als unerheblich angesehen, mit welchen techni-
+     schen Mitteln eine Rechtsdienstleistung erbracht wird (BT-Drucks. 16/3655,
+     S. 47 f.). Auch für andere Fälle ist anerkannt, dass eine Person eine geschäftli-
+     che Handlung - etwa mithilfe eines von ihr entwickelten oder genutzten Compu-
+     terprogramms - technisch gestützt oder automatisiert vornehmen kann (vgl.
+     BGH, Urteil vom 14. Mai 2013 - VI ZR 269/12, BGHZ 197, 213 Rn. 17; Urteil vom
+                                           - 11 -
+
+
+
+
+     15. Februar 2018 - I ZR 138/16, GRUR 2018, 924 Rn. 30 = WRP 2018, 1074
+     - ORTLIEB I; BeckOK.UWG/Alexander, 13. Edition [Stand 1. August 2021], § 2
+     Rn. 43 f.).
+
+26          (3) Nach diesen Maßstäben umfasst die Tätigkeit der Beklagten nicht nur
+     die Programmierung und die Bereitstellung der Software, sondern auch die Ver-
+     wendung des Computerprogramms zur Generierung eines Rechtsdokuments.
+     Ihre Dienstleistung gegenüber dem Kunden besteht darin, mithilfe der Software
+     ein individuelles Rechtsdokument zu erstellen. Die Programmierung und Bereit-
+     stellung des Rechtsdokumentengenerators und die Erzeugung des Rechtsdoku-
+     ments mithilfe des Generators können daher nicht in eigenständige Vorgänge
+     aufgespalten werden, sondern sind unselbständige Bestandteile einer einheitli-
+     chen Tätigkeit der Beklagten im Rahmen ihres softwarebasierten Online-Ange-
+     bots "smartlaw" (vgl. Remmertz, BRAK-Mitt. 2017, 55, 57 f.; ders., BRAK-Mitt.
+     2018, 231, 232; Plog/Lose, AnwBl Online 2021, 131; Rack, CB 2021/Sonderbei-
+     lage 1, S. 10; Timmermann/Hundertmark, RDi 2021, 269 Rn. 28; Krenzler/Krenz-
+     ler aaO § 2 Rn. 14 und 44; aA Wormit, InTeR 2021, 22, 24 f.). Insofern ist es
+     unerheblich, dass die Beklagte das vom Nutzer gewünschte Rechtsdokument
+     nicht persönlich erstellt, sondern sich hierzu des technischen Hilfsmittels der von
+     ihr programmierten und bereitgestellten Software bedient (vgl. Wettlaufer, MMR
+     2018, 55; Dahns, NJW-Spezial 2019, 766; Krenzler, BRAK-Mitt. 2020, 119, 120;
+     Wessels, MMR 2020, 59; aA Deckenbrock/Henssler in Deckenbrock/Henssler
+     aaO § 2 Rn. 54b).
+
+27          cc) Durch die Erstellung eines Vertragsdokuments mithilfe des Generators
+     "smartlaw" wird die Beklagte jedoch nicht im Sinne des § 2 Abs. 1 RDG in kon-
+     kreten fremden Angelegenheiten tätig.
+                                            - 12 -
+
+
+
+
+28          (1) Das Berufungsgericht hat angenommen, das Programmieren und Be-
+     reitstellen des Computerprogramms erfolgten nicht in einer konkreten Angele-
+     genheit, weil sie sich nicht auf einen tatsächlichen Fall, sondern auf eine Vielzahl
+     fiktiver Fälle bezögen. Die Anwendung des Programms durch den Nutzer ge-
+     schehe zwar in einem konkreten Einzelfall, aber in seiner eigenen Sache. Sie sei
+     der Beklagten nicht als Tätigkeit in fremder Angelegenheit zuzurechnen, weil der
+     von ihr angebotene Rechtsdokumentengenerator keine Gefahr begründe, vor der
+     das Rechtsdienstleistungsgesetz schützen wolle. Indem der Anwender mithilfe
+     des Programms selbst ein Rechtsdokument erstelle, erledige er unter Verwen-
+     dung eines Hilfsmittels - wie beim Gebrauch eines Vorstücks oder eines Formu-
+     larhandbuchs - eine eigene Rechtsangelegenheit in eigener Verantwortung, oh-
+     ne dass er eine rechtliche Beratung bei der Formulierung des Rechtsdokuments
+     erwarte.
+
+29          Diese Beurteilung hält der rechtlichen Nachprüfung im Ergebnis stand. Ihr
+     liegt zwar die unzutreffende Annahme zugrunde, die Tätigkeit der Beklagten er-
+     schöpfe sich in der Programmierung und Bereitstellung des Computerpro-
+     gramms. Auch unter Einbeziehung der digitalen Erzeugung des Vertragsdoku-
+     ments ist das Online-Angebot "smartlaw" der Beklagten jedoch nicht auf die Be-
+     arbeitung einer konkreten fremden Angelegenheit des Nutzers gerichtet.
+
+30          (2) Bei der Erstellung des vom Nutzer gewünschten Vertragsdokuments
+     handelt es sich allerdings um eine fremde Angelegenheit. Ob die Tätigkeit sich
+     auf eine eigene oder auf eine fremde Angelegenheit bezieht, richtet sich danach,
+     in wessen wirtschaftlichem Interesse die Besorgung der Angelegenheit liegt
+     (BGH, GRUR 2016, 1189 Rn. 26 - Rechtsberatung durch Entwicklungsingenieur;
+     GRUR 2021, 758 Rn. 32 - Rechtsberatung durch Architektin; vgl. auch BT-
+     Drucks. 16/3655, S. 48). Wird der Handelnde primär im fremden wirtschaftlichen
+     Interesse tätig und verfolgt lediglich mittelbar ein wirtschaftliches Eigeninteresse,
+     liegt eine fremde Rechtsangelegenheit vor (vgl. BGH, GRUR 2016, 1189 Rn. 26
+                                            - 13 -
+
+
+
+
+     - Rechtsberatung durch Entwicklungsingenieur). Das Online-Angebot der Be-
+     klagten zielt darauf ab, dem Kunden ein anhand seiner Vorgaben erzeugtes Ver-
+     tragsdokument zur Verfügung zu stellen, das er für seine persönlichen Zwecke
+     einsetzen kann. Die Anfertigung des Rechtsdokuments dient damit in erster Linie
+     dem wirtschaftlichen Interesse des Nutzers, auch wenn die Beklagte mit Blick auf
+     die dafür anfallende Vergütung mittelbar ein eigenes finanzielles Interesse ver-
+     folgt.
+
+31            (3) Durch die Erzeugung des vom Anwender gewünschten Dokuments
+     wird die Beklagte jedoch nicht in einer konkreten Angelegenheit im Sinne des § 2
+     Abs. 1 RDG tätig.
+
+32            Die als Rechtsdienstleistung einzuordnende Tätigkeit muss auf einen kon-
+     kreten Sachverhalt gerichtet sein. Entscheidend ist, ob es sich um eine nicht fin-
+     gierte, sondern wirkliche, sachverhaltsbezogene Rechtsfrage einer bestimmten
+     ratsuchenden Person handelt (BT-Drucks. 16/3655, S. 48; zu Art. 1 § 1 RBerG
+     BGH, Urteil vom 13. Dezember 1955 - I ZR 20/54, GRUR 1957, 425, 426 - Rat-
+     geber). Durch das Tatbestandsmerkmal der konkreten Angelegenheit sollen
+     Konstellationen ausgeschieden werden, in denen nur ein fiktiver oder abstrakter
+     Fall zu beurteilen ist (BGH, GRUR 2011, 539 Rn. 30 - Rechtsberatung durch Le-
+     bensmittelchemiker). Das Angebot von standardisierten Rechtsdokumenten oder
+     von fertigen Textbausteinen, etwa in einem Formularhandbuch, ist nicht auf einen
+     konkreten Sachverhalt gerichtet (Remmertz, BRAK-Mitt. 2017, 55, 58; Wormit,
+     InTeR 2021, 22, 25; Krenzler/Krenzler aaO § 2 Rn. 43). Auch die Unterstützung
+     beim Ausfüllen eines dem Kunden überlassenen, alle wesentlichen rechtlichen
+     Gesichtspunkte vorgebenden Formulars in Form der Abfrage und Einfügung von
+     tatsächlichen Sachverhaltsangaben stellt keine Rechtsdienstleistung in einem
+     konkreten Fall dar (vgl. zur rechtlichen Prüfung des Einzelfalls OLG Karlsruhe,
+     WRP 2010, 1553, 1554 [juris Rn. 14]).
+                                          - 14 -
+
+
+
+
+33         (4) Nach diesen Kriterien befasst sich die Beklagte bei der softwarebasier-
+     ten Erzeugung eines Vertragsentwurfs nicht mit einer konkreten Angelegenheit.
+     Die Generierung des Dokuments erfolgt nicht auf der Grundlage eines der Be-
+     klagten von einer bestimmten Person unterbreiteten konkreten Sachverhalts.
+
+34         Das hierzu verwendete Computerprogramm ist nicht auf einen individuel-
+     len realen Fall zugeschnitten, sondern erfasst allgemeine Sachverhalte mit übli-
+     cherweise auftretenden Fragen, zu denen die Beklagte Antworten in Form von
+     standardisierten Vertragsklauseln und Textbausteinen entwickelt hat. Dabei mag
+     sie die Programmierung der Software darauf ausgerichtet haben, durch ein um-
+     fangreiches und detailliertes Frage-Antwort-System möglichst alle typischen und
+     in der Praxis häufig vorkommenden Fallkonstellationen vorwegzunehmen. Dies
+     ändert jedoch nichts daran, dass es sich bei der Vielzahl möglicher Kombinatio-
+     nen von Textbausteinen um Lösungen für fiktive Einzelfälle eines unbestimmten
+     Personenkreises handelt (vgl. Wettlaufer, MMR 2018, 55, 56; Deckenbrock,
+     AnwBl Online 2020, 178, 179; Wormit, InTeR 2021, 22, 25 f.). Insoweit unter-
+     scheidet sich der Vertragsdokumentengenerator "smartlaw" nicht von einem de-
+     taillierten Formularhandbuch, in dem den Lesern für gewisse Sachverhaltskons-
+     tellationen bestimmte Vertragsklauseln empfohlen werden (vgl. Weberstaedt,
+     AnwBl 2016, 535, 537; Deckenbrock, AnwBl Online 2020, 178, 179 f.; Timmer-
+     mann/Hundertmark, RDi 2021, 269 Rn. 29; aA Fries, ZRP 2018, 161, 162; Wes-
+     sels, MMR 2020, 59, 59 f.; Krenzler, BRAK-Mitt. 2020, 119, 121).
+
+35         Eine solche abstrakte Angelegenheit wird nicht dadurch zu einer konkre-
+     ten Angelegenheit, dass der Nutzer des Rechtsdokumentengenerators durch die
+     Beantwortung der vorgegebenen Fragen Angaben zu einem realen Sachverhalt
+     macht. Seine Eingaben bewirken lediglich, dass die Textbausteine, die die Be-
+     klagte den Antworten bereits zuvor zugeordnet hat, abgerufen und zu einem Ver-
+     tragsdokument zusammengestellt werden. Das auf diese Weise individualisierte
+                                           - 15 -
+
+
+
+
+     Dokument wird daher nicht in Ansehung eines der Beklagten unterbreiteten kon-
+     kreten Falls, sondern mit Blick auf die im Vorhinein konzipierten fiktiven Einzel-
+     fälle erstellt (vgl. Deckenbrock, AnwBl 2020, 178, 181; aA Krenzler, BRAK-Mitt.
+     2020, 119, 121 f.).
+
+36         Auch die Vielzahl der Antworten des Nutzers auf die standardisierten Fra-
+     gen bewirkt nicht, dass der erstellte Vertrag auf seinen konkreten Fall zugeschnit-
+     ten ist (aA Dahns, NJW-Spezial 2019, 766). Rückfragen der Beklagten oder er-
+     gänzende Angaben des Nutzers zu Besonderheiten des tatsächlichen Sachver-
+     halts sind nicht vorgesehen. Eine Berücksichtigung über den Standardfall hinaus-
+     gehender Umstände des Einzelfalls, die eine Anpassung der Vertragsklauseln
+     (vgl. BGH, GRUR 2016, 820 Rn. 51 - Schadensregulierung durch Versicherungs-
+     makler), ihre Ergänzung um bestimmte Textpassagen oder die Vervollständigung
+     des Vertragstexts um zusätzliche Regelungen ermöglichen würde, findet daher
+     nicht statt. Soweit der Nutzer auf offene Fragen individuelle Antworten geben
+     kann, handelt es sich im Wesentlichen um allgemeine Vorgaben - etwa beim
+     "Content-Lizenzvertrag" der Verwendungszweck des Lizenzgegenstands oder
+     beim "Grafikdesignervertrag" der Vertragsgegenstand - oder um tatsächliche Da-
+     ten wie etwa die Höhe und der Zeitpunkt der zu zahlenden Vergütung, die in den
+     Vertragstext eingesetzt werden. Sie ermöglichen ebenfalls nicht die rechtliche
+     Erfassung der individuellen Verhältnisse des Anwenders.
+
+37         c) Der Sinn und Zweck des Rechtsdienstleistungsgesetzes, die Rechtsu-
+     chenden, den Rechtsverkehr und die Rechtsordnung vor unqualifizierten Rechts-
+     dienstleistungen zu schützen (§ 1 Abs. 1 Satz 2 RDG), gebietet keine erweitern-
+     de Auslegung der Legaldefinition des § 2 Abs. 1 RDG dahin, dass die digitale
+     Erstellung eines Vertragsdokuments mithilfe des Generators "smartlaw" eine
+     Rechtsdienstleistung darstellt.
+                                          - 16 -
+
+
+
+
+38         aa) Das Berufungsgericht hat angenommen, der Vertragsdokumentenge-
+     nerator gefährde weder den Rechtsverkehr oder die Rechtsordnung, noch führe
+     sein Verbot zu einem verbesserten Schutz der Rechtsuchenden. Ein Schutz des
+     Nutzers vor unqualifizierter Rechtsberatung müsse nicht gewährleistet werden.
+     Der Kunde nutze den Generator nicht in der Erwartung, dass sein Anliegen recht-
+     lich geprüft werde. Ihm sei klar, dass er durch die ausgewählten Antworten
+     eigenverantwortlich einen Lebenssachverhalt in ein vorgegebenes Raster ein-
+     füge, bei dem mithilfe eines schematisch ablaufenden Computerprogramms vor-
+     gegebene Textbausteine miteinander kombiniert würden. Für ihn sei ohne weite-
+     res erkennbar, dass das erzielte Ergebnis von der Qualität der Bausteine und
+     den im Programm vorgegebenen logischen Verknüpfungen einerseits sowie von
+     der Richtigkeit, Sinnhaftigkeit und Stimmigkeit seiner eigenen Angaben anderer-
+     seits abhänge.
+
+39         bb) Die tatgerichtliche Beurteilung, der Nutzer erwarte aufgrund der für ihn
+     erkennbaren Arbeitsweise des Vertragsdokumentengenerators keine auf seinen
+     persönlichen Fall ausgerichtete Rechtsberatung, stellt sich weder als erfahrungs-
+     widrig dar, noch lässt sie sonst einen Rechtsfehler erkennen. Die Revision führt
+     vergeblich an, die Erläuterungen der Beklagten zu Bedeutung und Rechtsfolge
+     der Fragen und Antworten, ihre Beschreibung der zu erbringenden Vertragsleis-
+     tung, die Hinweise im Anschluss an das erstellte Dokument sowie ihre ergänzen-
+     den werblichen Angaben erweckten bei dem Nutzer die Erwartung, er erhalte
+     mithilfe des Frage-Antwort-Systems eine komplexe individuelle Rechtsberatung,
+     als deren Ergebnis er einen auf seine konkreten Verhältnisse zugeschnittenen
+     Vertrag erhalte. Mit dem im Revisionsverfahren in Rede stehenden Klageantrag
+     wendet sich die Klägerin gegen die Erstellung von Vertragsentwürfen mithilfe des
+     Rechtsdokumentengenerators "smartlaw", weil sie die Funktionsweise des Ge-
+     nerators unter Berücksichtigung der Art und Komplexität des erzeugten Rechts-
+     dokuments als Rechtsdienstleistung ansieht. Das Berufungsgericht hat zu Recht
+                                           - 17 -
+
+
+
+
+     angenommen, dass für die Frage, ob das Geschäftsmodell als solches unzuläs-
+     sig ist, die ergänzenden Angaben der Beklagten im Rahmen des Internetange-
+     bots ohne Bedeutung sind.
+
+40          cc) Auf der Grundlage der rechtsfehlerfreien tatgerichtlichen Feststellun-
+     gen geht der Nutzer davon aus, anhand seiner Angaben werde ein standardisier-
+     tes Vertragsformular erzeugt, ohne dass sein konkreter Fall geprüft und einer auf
+     seine individuellen Verhältnisse zugeschnittenen rechtlichen Lösung zugeführt
+     werde. Für den Nutzer ist danach erkennbar, dass die Beklagte keine Rechts-
+     dienstleistung erbringt, die eine entsprechende Fachkunde erfordert.
+
+41          C. Danach ist die Revision der Klägerin mit der Kostenfolge aus § 97
+     Abs. 1 ZPO zurückzuweisen.
+
+
+     Koch                                Feddersen                               Pohl
+
+
+                     Schmaltz                                   Wille
+
+
+
+     Vorinstanzen:
+     LG Köln, Entscheidung vom 08.10.2019 - 33 O 35/19 -
+     OLG Köln, Entscheidung vom 19.06.2020 - 6 U 263/19 -
+

@@ -1,0 +1,232 @@
+Case 1:26-cv-00786-RP
+
+Document 9
+
+Filed 08/18/26
+
+Page 1 of 6
+
+IN THE UNITED STATES DISTRICT COURT
+FOR THE WESTERN DISTRICT OF TEXAS
+AUSTIN DIVISION
+GILBERTO GARCIA PEREZ,
+
+§
+§
+Petitioner,
+§
+§
+v.
+§
+§
+TODD BLANCHE, Attorney General of the United §
+States,1 et al.,
+§
+§
+Respondents.
+§
+
+1:26-CV-786-RP
+
+ORDER
+Before the Court is Petitioner Gilberto Garcia Perez’s (“Petitioner”) Petition for Writ of
+Habeas Corpus under 28 U.S.C. § 2241, filed on March 30, 2026. (Dkt. 1). On April 2, 2026, the
+Court ordered Respondents to show cause as to why the petition should not be granted. (Order to
+Show Cause, Dkt. 3). On April 6, 2026, Respondents Todd Blanche, United States Attorney
+General; Warden, T. Don Hutto Detention Center; Sylvester Ortega, Field Office Director,
+Immigration and Customs Enforcement (“ICE”); Todd M. Lyons, Director of United States ICE;
+Markwayne Mullin, Secretary of the United States Department of Homeland Security; and Daren K.
+Margolin, Director of the Executive Office for Immigration Review (together, “Respondents”) filed
+a Response.2 (Resp., Dkt. 4). Petitioner thereafter filed a Reply in support of his Petition, (Dkt. 6), as
+well as a Motion to Expedite, (Dkt. 8). Having considered the parties’ arguments, evidence
+presented, and relevant law, the Court will order additional briefing on Petitioner’s due process
+argument related to his bond hearing.
+
+1 Todd Blanche is automatically substituted in as Defendant pursuant to Federal Rule of Civil Procedure
+
+25(d).
+2 The Response is filed only on behalf of the federal employees in this action. (Dkt. 4, at 1 n.1).
+
+1
+
+Case 1:26-cv-00786-RP
+
+Document 9
+
+Filed 08/18/26
+
+Page 2 of 6
+
+I. BACKGROUND
+Petitioner, a citizen of Mexico, is detained at T. Don Hutto Detention Center in Taylor,
+Texas. (Pet., Dkt. 1, at 4). He pleads that that he “has resided in the United States for more than
+twenty years and is the beneficiary of a qualifying family-based visa petition that renders him eligible
+for adjustment of status under INA § 245(i).” (Id.). More specifically, “Petitioner is the beneficiary of
+a Form I-130, Petition for Alien Relative, filed by his United States citizen sister, with a priority date
+of April 29, 2001 and case number SRC0121154017.” (Id. at 5). He claims that his “filing date
+squarely qualifies him for adjustment of status under INA § 245(i), 8 U.S.C. § 1255(i), upon visa
+availability.”3 (Id.). Petitioner also states that he “has no disqualifying criminal history, poses no
+danger to the community, and has strong family and community ties in the United States.” (Id. at
+11).
+On March 17, 2026—approximately two weeks prior to the filing of the instant habeas
+action—an immigration judge denied Petitioner bond, stating:
+The Court finds that the Respondent poses a significant flight risk. Aside from
+remaining in the United States for approximately 28 years after violating the terms of
+his nonimmigrant visa, the Court observes that the Respondent worked without
+employment authorization for several years during which time he failed to file federal
+income tax returns and also has operated motor vehicles in the U.S. for several years
+without a valid driver’s license. The Court also notes that the Respondent failed to
+demonstrate property ties to the U.S. or his immediate eligibility to adjust status.
+While the Respondent stated that he provides assistance to a 12-year-old girl in the
+U.S. who he considers his daughter although he has not formally adopted her, the
+Court finds the numerous negative equities present in the Respondent’s claim militate
+against his release on bond because they indicate that he is less likely to appear for a
+removal hearing.
+
+3 When Petitioner was detained, “[t]he U.S. Department of State Visa Bulletin for Mexico [was] currently at
+
+April 30, 2001 for the relevant preference category, meaning that Petitioner’s April 29, 2001 priority date is
+effectively current.” (Id.). He therefore asserts that he “is now eligible to apply for adjustment of status and
+obtain lawful permanent residence” and “was days away from eligibility” when he was detained. (Id.).
+
+2
+
+Case 1:26-cv-00786-RP
+
+Document 9
+
+Filed 08/18/26
+
+Page 3 of 6
+
+(Immigr. J. Order, Dkt. 4-3, at 1). Respondents assert that the Court lacks jurisdiction to hear a
+“challenge to ‘a discretionary judgment by the Attorney General or a decision that the Attorney
+General has made regarding his detention or release.’” (Resp., Dkt. 4, at 4). Rather, they state that
+review of the Immigration Judge’s “discretionary determination is proper before the Board.” (Id. at
+4).
+Petitioner replies that “Respondents’ reliance on 8 U.S.C. § 1226(e) is misplaced. Section
+1226(e) bars judicial review of the Attorney General’s discretionary “judgment” regarding the
+application of § 1226 and of individual discretionary bond decisions; it does not bar constitutional or
+statutory challenges to the legality of detention itself, or to the procedures used to justify
+that detention.” (Reply, Dkt. 6, at 3). He emphasizes that he “does not seek review of the IJ’s
+discretionary weighing of evidence. He challenges the sufficiency of the procedures governing his
+continued detention and whether those procedures meet constitutional standards. That type of claim
+falls within this Court’s habeas jurisdiction under § 2241.” (Id. at 4). He then cites a variety of cases
+supporting this contention, the majority of which do not exist.4 The Court will nonetheless consider
+Petitioner’s due process argument, as it will not punish Petitioner for his counsel’s mistakes.
+
+4 The Court notes that an alarming number of cases cited by Petitioner for support in his Reply are
+
+nonexistent, “hallucinated” cases, such as Kostak v. Garland, No. 24-cv-11024-ADB, 2025 WL 2472136, at *4–
+6 (D. Mass. May 22, 2025); Martinez Lopez v. Garland, No. 1:25-cv-00069, 2026 WL 1200000, at *4–5 (D. Colo.
+Mar. 24, 2026); Cruz-Reyes v. Decker, No. 1:25-cv-01719-MKV, 2025 WL 332315, at *4–6 (S.D.N.Y. Jan. 21,
+2025); Castanon Nava v. Garland, No. 2:25-cv-01308-JHC, 2026 WL 1234567, at *5–7 (W.D. Wash. Feb. 11,
+2026); Duarte Escobar v. Garland, No. 1:25-cv-00963-MSN-LRV, 2025 WL 7061234, at *2–4 (E.D. Va. Dec. 2,
+2025). (See Reply, Dkt. 6, at 2–4). None of these cases exist on Westlaw or on the purported courts’ dockets.
+Indeed, Petitioner also hallucinates a case purportedly written by this Court: Garcia v. Mullin, No.
+1:25-cv-00836-RP, 2026 WL 1045678, at *2–4 (W.D. Tex. Mar. 9, 2026). (Reply, Dkt. 6, at 3). Petitioner’s
+counsel is strongly cautioned that future inaccurate citations “hallucinated” by generative artificial intelligence
+tools may result in sanctions. See Fed. R. Civ. P. 11(b) (providing that by filing a document with a court, an
+attorney “certifies to the best of the person’s knowledge . . . [that the] claims, defenses, and other legal
+contentions are warranted” and providing for sanctions if Rule 11(b) has been violated).
+
+3
+
+Case 1:26-cv-00786-RP
+
+Document 9
+
+Filed 08/18/26
+
+Page 4 of 6
+
+II. ANALYSIS
+It is well-settled that “‘[f]ederal courts are courts of limited jurisdiction,’ possessing ‘only that
+power authorized by Constitution and statute.’” Gunn v. Minton, 568 U.S. 251, 256 (2013) (quoting
+Kokkonen v. Guardian Life Ins. Co. of Am., 511 U.S. 375, 377 (1994)). Certain provisions of the
+Immigration and Nationality Act (“INA”) divest federal court jurisdiction over certain claims.
+Relevant to this action, Section § 1226(e) provides: “The Attorney General’s discretionary judgment
+regarding the application of this section shall not be subject to review. No court may set aside any
+action or decision by the Attorney General under this section regarding the detention of any alien or
+the revocation or denial of bond or parole.” 8 U.S.C. § 1226(e). Respondents assert that, under this
+subsection, the Court lacks jurisdiction to review a discretionary decision made by the Attorney
+General through an immigration judge. (Resp., Dkt. 4, at 4).
+The Fifth Circuit has held, however, that “[s]ection 1226(e) may strip us of jurisdiction to
+review judgments designated as discretionary under the pertinent language of the statute, but it does
+not deprive us of all authority to review statutory and constitutional challenges. We retain
+jurisdiction to review [the petitioner’s] detention insofar as that detention presents constitutional
+issues, such as those raised in a habeas petition.” Oyelude v. Chertoff, 125 F. App’x 543, 546 (5th Cir.
+2005) (per curiam). See also Nielsen v. Preap, 586 U.S. 392, 401 (2019) (quoting Jennings v. Rodriguez, 583
+U.S. 281, 295–96 (2018)) (stating that the jurisdictional bar in § 1226(e) “applies only to
+‘discretionary’ decisions about the ‘application’ of § 1226 to particular cases. It does not block
+lawsuits over ‘the extent of the Government's detention authority under the “statutory framework”
+as a whole.’”); Zadvydas v. Davis, 533 U.S. 678, 688 (2001) (explaining that “the extent of the Attorney
+General’s authority . . . is not a matter of discretion” and is therefore within a court’s jurisdiction to
+review, even where the INA bars review “of the Attorney General’s exercise of discretion”); Gul v.
+Rozos, 163 F. App’x 317, 319 (5th Cir. 2006) (per curiam) (“To the extent that [the petitioner’s]
+
+4
+
+Case 1:26-cv-00786-RP
+
+Document 9
+
+Filed 08/18/26
+
+Page 5 of 6
+
+petition challenged his continued detention rather than the final order of removal, nothing in the
+Real ID Act precluded the district court from adjudicating the claim.”); Hernandez v. Sessions, 872
+F.3d 976, 987 (9th Cir. 2017) (holding that § 1226(e) “does not . . . preclude habeas jurisdiction over
+constitutional claims or questions of law. Claims that the discretionary [bond] process itself was
+constitutionally flawed are cognizable in federal court on habeas because they fit comfortably within
+the scope of § 2241”) (citations omitted).
+Here, Petitioner has pleaded that, as of March 2026,5 Petitioner was “now eligible to apply
+for adjustment of status and obtain lawful permanent residence.” (Pet., Dkt. 1, at 6). At his bond
+hearing before an immigration judge, however, the immigration judge found Petitioner to be a
+“significant flight risk,” in part because he “failed to demonstrate . . . his immediate eligibility to
+adjust status.” (Immigr. J. Order, Dkt. 4-3, at 1). Given that Petitioner alleges that he was eligible or
+imminently eligible to apply for adjustment of status and become a lawful permanent resident, it
+appears possible that the immigration judge relied on inaccurate information in choosing to deny
+Petitioner bond.
+Some courts have held that, when an immigration judge denies bond based on false
+information, the denial violates the petitioner’s right to due process. See, e.g., Montero-Martinez v.
+Mattos, No. 2:25-CV-02391-CDS-DJA, 2026 WL 674497, at *1–2 (D. Nev. Mar. 9, 2026); Arellano v.
+Sessions, No. 6:18-CV-06625-MAT, 2019 WL 3387210, at *7 (W.D.N.Y. July 26, 2019) (stating that
+courts can consider whether an immigration judge “may have misinterpreted or failed to consider
+probative evidence . . . on habeas review”). See also Roberts v. United States, 445 U.S. 552, 556 (1980)
+(explaining that, in the criminal sentencing context, the Court has “sustained due process objections
+to sentences imposed on the basis of ‘misinformation of constitutional magnitude’”). The Court will
+
+5 The exact date upon which Petitioner became eligible to adjust his status to that of a lawful permanent
+
+resident is not clear. However, the record supports that that date was surely around or very close to the date
+of the immigration judge’s bond hearing.
+
+5
+
+Case 1:26-cv-00786-RP
+
+Document 9
+
+Filed 08/18/26
+
+Page 6 of 6
+
+therefore order additional briefing on whether the immigration judge exceeded his discretion when
+he found Petitioner was a flight risk based on his failing to demonstrate “immediate eligibility to
+adjust status” and whether the potential exceeding of discretion was a due process violation.
+Accordingly, IT IS ORDERED that Respondents shall file supplemental briefing regarding
+whether the immigration judge incorrectly found that Petitioner was not immediately eligible to
+adjust status and, if so, whether this finding amounts to a due process violation, on or before
+August 25, 2026.
+IT IS FURTHER ORDERED that Petitioner may respond to Respondents’ supplemental
+briefing on or before September 1, 2026.
+SIGNED on August 18, 2026.
+_____________________________________
+ROBERT PITMAN
+UNITED STATES DISTRICT JUDGE
+
+6
+
+

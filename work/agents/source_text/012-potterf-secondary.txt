@@ -1,0 +1,756 @@
+Case 1:26-cv-10860-MFL-PTM ECF No. 107, PageID.1550 Filed 08/26/26 Page 1 of 16
+
+
+
+
+                      UNITED STATES DISTRICT COURT
+                      EASTERN DISTRICT OF MICHIGAN
+                           SOUTHERN DIVISION
+
+ KRYSTAL FAYE POTTERF, et al.,
+
+       Plaintiffs,                                  Case No. 26-cv-10860
+                                                    Hon. Matthew F. Leitman
+ v.
+
+ DREW F. WESSELS, et al.,
+
+      Defendants.
+ __________________________________________________________________/
+
+  ORDER (1) OVERRULING PLAINTIFFS OBJECTIONS (ECF No. 80) TO
+     REPORT AND RECOMMENDATION (ECF No. 79); (2) ADOPTING
+             RECOMMENDED DISPOSITION OF REPORT AND
+  RECOMMENDATION; (3) DENYING PLAINTIFFS’ MOTIONS (ECF No.
+      59, 76, 77, 78), (4) TERMINATING DEFENDANTS’ MOTIONS TO
+     DISMISS AS MOOT (ECF Nos. 53, 55); (5) VACATING ORDER OF
+      REFERENCE TO THE MAGISTRATE JUDGE (ECF No. 37); AND
+   (5) TERMINATING PLAINTIFFS’ MOTIONS WITHOUT PREJUDICE
+                           (ECF Nos. 82, 83, 89, 93, 94, 95)
+
+       Plaintiffs Joshua Raymond Potterf (“Joshua”) and Krystal Faye Potterf
+
+ (“Krystal”)1 are criminal defendants in two separate criminal cases pending in two
+
+ separate Michigan state courts. See People v. Joshua Potterf, Case No. 25-016761-
+
+ FH (Mich. 54th Judicial Circuit Court, Tuscola County); People v. Krystal Potterf,
+
+ Case No. 25-0340-SM (Mich. 7-1B District Court). In their pro se Complaint in this
+
+
+
+ 1
+  As the Court has done in previous orders, the Court will refer to Joshua Potterf as
+ “Joshua” and Krystal Potterf as “Krystal” because Plaintiffs share the same last
+ name.
+
+
+                                          1
+Case 1:26-cv-10860-MFL-PTM ECF No. 107, PageID.1551 Filed 08/26/26 Page 2 of 16
+
+
+
+
+ action, the Potterfs ask the Court, among other things, to enjoin both state-court
+
+ prosecutions. (See, e.g., Compl., ECF No. 1.)          Now before the Court is an
+
+ “emergency motion” to enjoin Joshua’s state-court criminal proceedings. (See Mot.,
+
+ ECF No. 78.) That motion is one of over twenty motions that the Potterfs have filed
+
+ in the less than six months that this case has been pending.
+
+       On July 8, 2026, the assigned Magistrate Judge issued a report and
+
+ recommendation in which she recommended that the Court deny the motion to
+
+ enjoin Joshua’s state-court criminal case (the “R&R”). (See R&R, ECF 79.) In the
+
+ R&R, the Magistrate Judge also recommended that the Court deny several other
+
+ pending motions and restrict all future filings to filings related to Defendants’
+
+ pending motions to dismiss. (See id.) Just six hours after the Magistrate Judge issued
+
+ the R&R, the Potterfs filed twenty-one pages of objections to that recommendation.
+
+ (See Obj., ECF No. 80.) The Court held a virtual hearing on the objections on
+
+ August 20, 2026.         For the reasons explained below, the objections are
+
+ OVERRULED.
+
+                                            I
+
+       The Potterfs are not entitled to relief on any of their objections because they
+
+ failed to take reasonable steps to ensure that the legal citations in the objections were
+
+ accurate. As the Potterfs acknowledged during the virtual hearing on August 20,
+
+ 2026, they used artificial intelligence to prepare their objections. Perhaps for that
+
+
+
+                                            2
+Case 1:26-cv-10860-MFL-PTM ECF No. 107, PageID.1552 Filed 08/26/26 Page 3 of 16
+
+
+
+
+ reason. the objections are replete with false and/or materially inaccurate citations of
+
+ cited cases. For example:
+
+           • The Potterfs quoted the Supreme Court as saying in United States v.
+             Sineneng-Smith, 140 S. Ct. 1575, 1579 (2020), that federal courts “do
+             not as a rule initiate torts or explore legal pathways on their own, but
+             rather sit as arbiters of legal issues presented and argued by the parties.”
+             (Obj., ECF No. 80, PageID.948.) That quotation does not appear in the
+             Sineneng-Smith case in any form.
+
+           • The Potterfs argued that “the Sixth Circuit clarified in United States v.
+             Abdi, 827 F.3d 533, 538 (6th Cir. 2016), while a court possesses
+             inherent docket-management authority, it cannot sua sponte rule on
+             substantive motions in a manner that short-circuits a party’s
+             opportunity to have the adversarial loop fully play out.” (Obj., ECF No.
+             80, PageID.948.) That case does not appear to exist. The case located
+             at 827 F.3d 533 is Van Houten v. City of Fort Worth from the Fifth
+             Circuit, and Van Houten does not include the principle identified by the
+             Potterfs. Nor does United States v. Abdi, 827 F. App’x 499 (6th Cir.
+             2020), the only other case by that name in the Sixth Circuit that the
+             Court could locate.
+
+           • Hill v. Synder, 814 F.3d 408 (6th Cir. 2016), which the Potterfs listed
+             in their “Index [of] Authorities” (Obj., ECF No. 80, PageID.955), does
+             not appear to exist.
+
+           • The Potterfs cited Ability Center of Greater Toledo v. City of Sandusky,
+             385 F.3d 901, 907 (6th Cir. 2004) for the proposition that “[u]nder Sixth
+             Circuit law, a public entity fails to provide a reasonable accommodation
+             when it forces a disabled individual to utilize an alternative channel that
+             actively exacerbates their underlying impairment or fails to address
+             their specific cognitive and communicative restrictions.” (Obj., ECF
+             80, PageID.944.) Ability Center of Greater Toledo does not stand for
+             that proposition, or any similar proposition. The case has nothing to do
+             with cognitive or communicative restrictions.
+
+           • The Potterfs argued that “[u]nder the binding standard in Tindall v.
+             Wayne County Friend of the Court, 269 F.3d 533, 539 (6th Cir. 2001),
+
+
+                                            3
+Case 1:26-cv-10860-MFL-PTM ECF No. 107, PageID.1553 Filed 08/26/26 Page 4 of 16
+
+
+
+
+              when a state prosecution relies on engineered legal predicates, Younger
+              abstention is completely inapplicable, and the federal court must retain
+              jurisdiction.” (Obj., ECF No. 80, PageID.951.) But in Tindall, the Sixth
+              Circuit reached the opposite conclusion and held that Younger
+              abstention was required.
+
+
+       The Court is convinced that the Potterfs would have caught the fictitious
+
+ and/or erroneous citations if they had sufficiently reviewed the authorities in their
+
+ AI-generated objections before they filed those objections. Thus, it appears that the
+
+ Potterfs violated Rule 11(b)(2) of the Federal Rules of Civil Procedure when they
+
+ signed the objections and thereby certified that “to the best of [their] knowledge,
+
+ information, and belief, formed after an inquiry reasonable under the circumstances
+
+ … the claims, defenses, and other legal contentions [they presented were] warranted
+
+ by existing law or by a nonfrivolous argument for extending, modifying, or reversing
+
+ existing law or for establishing new law.” Fed.R.Civ.Proc. 11(b)(2). And the Court
+
+ declines to grant any relief based upon objections that violate that rule. Cf. Mattox
+
+ v. Prod. Innovations Rsch., LLC, 807 F.Supp.3d 1341, (E.D. Okla. 2025) (holding
+
+ that counsel violated Rule 11(b) where counsel submitted pleadings containing
+
+ fabricated authority from an AI program, striking from the record pleadings
+
+ containing such fabricated authority, and sanctioning and publicly reprimanding
+
+ counsel for submitting such pleadings); Braica v. Frankowski, 826 F.Supp.3d 286,
+
+ 295-96 (D. Conn. 2025) (striking pleadings submitted by pro se plaintiff who
+
+
+
+
+                                          4
+Case 1:26-cv-10860-MFL-PTM ECF No. 107, PageID.1554 Filed 08/26/26 Page 5 of 16
+
+
+
+
+ “repeatedly violat[ed] Rule 11 by submitting inaccurate, unverified AI-generated
+
+ content to this [c]ourt”).
+
+       The Court hereby advises the Potterfs that if they file any additional papers
+
+ that fail to comply with Rule 11 and/or that contain false, hallucinated, or patently
+
+ inaccurate citations, the Court may impose sanctions, up to and including dismissal
+
+ of this action with prejudice. The Court appreciates that the Potterfs, as pro se
+
+ litigants, are entitled to have their papers liberally construed, and the Court likewise
+
+ understands that the use of artificial intelligence can greatly assist pro se litigants
+
+ who lack formal legal training. There is, however, no excuse for the Potterfs’ failure
+
+ to verify the accuracy of their submissions to this Court.
+
+                                           II
+
+       Separate and apart from the fact that the Potterfs’ objections do not comply
+
+ with Rule 11, they fail on the merits.
+
+                                            A
+
+       The Court begins with the Potterfs’ argument that the Magistrate Judge erred
+
+ when she recommended that the Court deny their motion to enjoin Joshua’s state-
+
+ court criminal prosecution. As the Sixth Circuit has explained, “federal injunctions
+
+ against a state criminal law enforcement process [should] be issued only ‘under
+
+ extraordinary circumstances where the danger of irreparable loss is both great and
+
+ immediate.’” Fieger v. Cox, 524 F.3d 770, 774 (6th Cir. 2008) (quoting Younger v.
+
+
+
+                                            5
+Case 1:26-cv-10860-MFL-PTM ECF No. 107, PageID.1555 Filed 08/26/26 Page 6 of 16
+
+
+
+
+ Harris, 401 U.S. 37, 45 (1971)). See also Ohio C.R. Comm’n v. Dayton Christian
+
+ Schs., 477 U.S. 619, 626 (1986) (“[A] federal court should not enjoin a pending state
+
+ criminal proceeding except in the very unusual situation that an injunction is
+
+ necessary to prevent great and immediate irreparable injury”). The Potterfs have not
+
+ satisfied that very demanding standard.
+
+       The Potterfs insist that a stay of the state court criminal proceedings against
+
+ Joshua is essential because (1) Joshua has mental health disabilities and financial
+
+ limitations that prevent him from filing papers in-person or by regular mail and (2)
+
+ the state court has refused to accommodate Joshua by permitting him to
+
+ electronically file papers. (See Obj., ECF No. 80, PageID.944-946.) But the Potterfs
+
+ have failed to persuade the Court that Joshua would suffer great and immediate harm
+
+ without the ability to electronically file papers in his criminal case. As the docket
+
+ sheet in Joshua’s criminal case shows, he has been represented by counsel
+
+ throughout those proceedings. (See St. Ct. Dkt., ECF No. 104-3.) And he has told
+
+ this Court repeatedly that he does not want to represent himself in that case. (See,
+
+ e.g., ECF No. 24, PageID.136; ECF No. 78-2, PageID.925; ECF No. 78,
+
+ PageID.915.) Since Joshua has a lawyer who has the ability to file papers in Joshua’s
+
+ case, Joshua has no urgent need to file papers on his own behalf. Nor does Joshua
+
+ have any general right to file papers in addition to those filed by his lawyer on his
+
+ behalf. See, e.g., United States v, McNoriell, 176 F.4th 413, 425 (6th Cir. 2026)
+
+
+
+                                           6
+Case 1:26-cv-10860-MFL-PTM ECF No. 107, PageID.1556 Filed 08/26/26 Page 7 of 16
+
+
+
+
+ (explaining that a criminal defendant has “no constitutional right to hybrid
+
+ representation” in which he represents himself at the same time that he is represented
+
+ by counsel) (internal quotation omitted); People v. Kevorkian, 639 N.W.2d 291, 320
+
+ (Mich. App. 2001) (affirming denial of defendant’s request for hybrid
+
+ representation). Simply put, Joshua has not shown that prohibiting him from filing
+
+ papers electronically while he is represented by counsel has caused or will cause him
+
+ to suffer great and immediate irreparable injury.       Thus, the Magistrate Judge
+
+ correctly concluded that the Court should deny the request to enjoin Joshua’s state
+
+ court proceedings.
+
+       The Potterfs counter that the fact that Joshua has been represented by
+
+ appointed counsel in his criminal case is essentially meaningless because, according
+
+ to the Potterfs, Joshua has been “completely abandoned” by his attorneys. (Mot.,
+
+ ECF No. 78, PageID.915.) The Potterfs are mistaken. Their belief that Joshua has
+
+ been “abandoned” by his appointed attorneys appears to be premised largely on the
+
+ fact that those attorneys would not take steps to remove his state criminal case to
+
+ federal court. (See id.: “Court-appointed defense counsel Michael Andrew
+
+ Murawski has completely abandoned his indigent client, maintaining a total
+
+ communication blackout and completely ignoring a time-sensitive June 19, 2026,
+
+ formal demand regarding mandatory federal removal actions under 28 U.S.C. §
+
+ 1455(b)(1).”) Indeed, Joshua sent one of his appointed attorneys an email stating
+
+
+
+                                           7
+Case 1:26-cv-10860-MFL-PTM ECF No. 107, PageID.1557 Filed 08/26/26 Page 8 of 16
+
+
+
+
+ that the attorney’s failure to take action to remove Joshua’s case to federal court
+
+ would be tantamount to a failure to provide “critical” legal services and that removal
+
+ was a “formal, non-negotiable demand regarding your court-appointed
+
+ representation of my defense.” (Joshua Email, ECF No. 63-4, PageID.598.)
+
+       But any attempt by counsel to effectuate the removal demanded by Joshua
+
+ would have been frivolous. The only removal statute that could possibly authorize
+
+ the removal of Joshua’s state court criminal case is 28 U.S.C. § 1443(1).2 For a case
+
+ to be properly removed under Section 1443(1), “the right denied [the] defendant
+
+ must be one that arises under a federal law that provides for specific civil rights
+
+ stated in terms of racial equality.” Conrad v. Robinson, 871 F.2d 612, 614-15 (6th
+
+ Cir. 1989) (emphasis added). “Broad general allegations of deprivation of civil rights
+
+ are not sufficient to permit removal” under Section 1443(1). State of Ohio v.
+
+ Denman, 462 F.2d 1292, 1292 (6th Cir. 1972) (per curiam). Since Joshua does not
+
+ allege that the state court prosecution infringes his right to racial equality, he could
+
+ not remove that prosecution under Section 1443(1). Because the removal demanded
+
+ by Joshua would have been frivolous, his attorneys did not abandon him when they
+
+ declined to effectuate the removal. And because they did not abandon him, he has
+
+ no pressing need to electronically file papers on his own behalf.
+
+
+ 2
+   Joshua referenced 28 U.S.C. § 1455(b)(1) in his email to counsel quoted above in
+ text, but that statute is purely procedural and does not create any substantive grounds
+ for removal.
+
+                                            8
+Case 1:26-cv-10860-MFL-PTM ECF No. 107, PageID.1558 Filed 08/26/26 Page 9 of 16
+
+
+
+
+       Moreover, the Potterfs are mistaken in their apparent belief that the refusal by
+
+ Joshua’s attorneys to follow his direction as to any and all matters related to his
+
+ defense amounts to abandonment. The Potterfs ignore “the longstanding and sound
+
+ principle that matters of trial strategy are left to counsel’s discretion.” Dixon v.
+
+ Houk, 737 F.3d 1003, 1012 (6th Cir. 2013). Thus, while it is “recognized that the
+
+ accused has the ultimate authority to make certain fundamental decisions regarding
+
+ the case, [such] as to whether to plead guilty, waive a jury, testify in his or her own
+
+ behalf, or take an appeal,” an indigent defendant does not have a “constitutional right
+
+ to compel appointed counsel to press nonfrivolous points requested by the client, if
+
+ counsel, as a matter of professional judgment, decides not to present those points.”
+
+ Jones v. Barnes, 463 U.S. 745, 751 (1983).
+
+       Next, the Potterfs appear to suggest that blocking Joshua from electronic filing
+
+ has caused him significant hardship because it has prevented him from filing motions
+
+ (1) raising concerns about the performance of his lawyers and/or (2) seeking the
+
+ appointment of new counsel. However, the Potterfs have not persuaded the Court
+
+ that electronic filing is the only way for Joshua to present concerns about the
+
+ performance of his lawyers to the state court. More specifically, the Potterfs have
+
+ not shown why Joshua could not raise these concerns in a motion filed through
+
+ regular mail. They say that they do not have a printer and have very limited financial
+
+ resources, but they have not shown why Joshua could not handwrite a motion raising
+
+
+
+                                           9
+Case 1:26-cv-10860-MFL-PTM ECF No. 107, PageID.1559 Filed 08/26/26 Page 10 of 16
+
+
+
+
+ concerns about the performance of his lawyers and pay the cost of the single stamp
+
+ necessary to mail such a motion to the state court. Moreover, the act of mailing the
+
+ motion should not be unduly burdensome because a United States Post Office is
+
+ located directly across the street from the Potterfs’ residence.3
+
+       Finally, the Potterfs appear to suggest that Joshua must be granted electronic
+
+ filing privileges in order to ensure that he receives electronic notice of the filings in
+
+ his case. (See Obj., ECF No. 80, PageID.950.) They say that without electronic
+
+ filing privileges, Joshua will not receive any notice of filings because there is no
+
+ United States mail delivery to their residence. But Joshua does not need electronic
+
+ filing access to keep up with the filings in his case. The docket for his case is
+
+ available on-line at https://micourt.courts.michigan.gov/case-search/.4 He can
+
+
+
+
+ 3
+   The Potterfs live at 2765 Clifford Road in Silverwood, Michigan. The United
+ States Post Office in Silverwood is located at 2760 Clifford Road, in Silverwood,
+ Michigan. Viewing the two addresses on Google Maps, they appear to be located
+ directly across the street from one another.
+ 4
+   On that website, an individual can search for a specific court – in this case the 54th
+ Circuit Court – and then search for an individual party by name. Once that search is
+ completed, links appear under the “Results” heading for all cases involving the
+ searched-for party. Clicking on a link for a specific case takes the website visitor to
+ a “Case Details” page. For criminal cases, that page includes a list of the parties, the
+ criminal charges, the posted bond (if any), and a list of hearings that have taken place
+ in that case. Finally, the Case Details page has an “Events” tab that lists every event
+ that has taken place in the case. Thus, that website would provide the Potterfs full
+ access to and notice of every filing and every activity that has taken place in Joshua’s
+ criminal case.
+
+                                            10
+Case 1:26-cv-10860-MFL-PTM ECF No. 107, PageID.1560 Filed 08/26/26 Page 11 of 16
+
+
+
+
+ simply check the docket on-line on a regular basis to stay abreast of the filings in his
+
+ case.
+
+         For all of these reasons, and the additional reasons explained on the record
+
+ during the hearing on the Potterfs’ objections, the Magistrate Judge properly
+
+ recommended that the Court decline to enjoin Jousha’s state-court prosecution. The
+
+ objections directed at that recommendation are therefore OVERRULED. That
+
+ recommendation is ADOPTED, and the Potterfs’ motion to enjoin Joshua’s state-
+
+ court prosecution (ECF No. 78) is DENIED.
+
+                                            B
+
+         The Magistrate Judge made several other recommendations in the R&R
+
+ regarding other motions that are now pending before the Court. More specifically,
+
+ the Magistrate Judge recommended that the Court:
+
+         • Deny the Potterfs’ motion to stay administrative proceedings that the
+
+            Potterfs’ initiated before the Michigan Department of Civil Rights. (See
+
+            R&R, ECF No. 79, PageID.930-931.);
+
+         • Deny the Potterfs’ “motion for constitutional notice and cross-motion for
+
+            declaratory relief” (see Mots., ECF Nos. 76, 775) that was filed in response
+
+            to Defendants’ motions to dismiss because it is inappropriate under the
+
+
+
+
+ 5
+     Docket number 77 is a revised version of the cross-motion at docket number 76.
+
+                                           11
+Case 1:26-cv-10860-MFL-PTM ECF No. 107, PageID.1561 Filed 08/26/26 Page 12 of 16
+
+
+
+
+          Court’s rules to file such a “cross-motion” that combined two filings into
+
+          a single document. (R&R, ECF No. 79, PageID.931-932.); and
+
+       • Deny the Defendants’ initially-filed motions to dismiss (ECF Nos. 53, 55)
+
+          as moot because they have been superseded by later-filed motions. (R&R,
+
+          ECF No. 79, PageID.937.)
+
+       The only one of these recommendations that the Potterfs object to is the
+
+ recommended denial of their cross-motion.          The Potterfs argue that that
+
+ recommendation relied “on a total misinterpretation of local rules.” (Obj., ECF No.
+
+ 947.) They insist that no local rule prevents them from combining a motion and
+
+ separate cross-motion in a single filing. They are mistaken. Rule 5 of the Court’s
+
+ rules on electronic filing plainly prohibits the Potterfs’ cross-motion. That rule
+
+ provides that “[m]otions must not be combined with any other stand-alone
+
+ document. For example, [….] [a] counter-motion must not be combined with a
+
+ response or reply.” (Eastern District of Michigan Electronic Filing Policies and
+
+ Procedures Rev. 11/2025.) That is precisely what the Potterfs attempted to do here.
+
+ The Court therefore OVERRULES this objection and ADOPTS the Magistrate
+
+ Judge’s recommendation to deny the Potterfs’ cross-motion.
+
+       With respect to the Magistrate Judge’s recommendations regarding the other
+
+ pending motions, no party has filed any objections to those recommendations. The
+
+ failure to object to an R&R releases the Court from its duty to independently review
+
+
+                                         12
+Case 1:26-cv-10860-MFL-PTM ECF No. 107, PageID.1562 Filed 08/26/26 Page 13 of 16
+
+
+
+
+ the matter. See Thomas v. Arn, 474 U.S. 140, 149 (1985). See also Ivey v. Wilson,
+
+ 832 F.2d 950, 957 (6th Cir. 1987) (explaining that where party fails to file “timely
+
+ objections” to report and recommendation, court may accept that recommendation
+
+ “without expressing any view on the merits of the magistrate’s conclusions”). In
+
+ addition, the failure to file objections to an R&R waives any further right to appeal.
+
+ See Howard v. Sec’y of Health & Hum. Servs., 932 F.2d 505 (6th Cir. 1991); Smith
+
+ v. Detroit Fed’n of Tchrs. Loc. 231, Am. Fed’n of Tchrs., AFL-CIO, 829 F.2d 1370,
+
+ 1373 (6th Cir. 1987). The Court nonetheless has reviewed the Magistrate Judge’s
+
+ recommendations and agrees with those recommendations. The recommendations
+
+ are therefore ADOPTED.
+
+                                             C
+
+       Finally, the Court turns to the Magistrate Judge’s recommendation that the
+
+ Court “[r]estrict [all] future filings in this matter to briefing on the motions to dismiss
+
+ the amended complaint (ECF Nos. 68, 69) until those motions are resolved.” (R&R,
+
+ ECF No. 79, PageID.936.)         The Court agrees with that recommendation and
+
+ OVERRULES the Potterfs’ objections to the recommendation
+
+       As noted above, despite the fact that this case has been pending on the Court’s
+
+ docket for less than six months, the Potterfs have filed over twenty motions. They
+
+ have also filed approximately twenty-five additional “notices” and “status reports”
+
+ regarding their ongoing state-court prosecutions. Some of these filings are frivolous.
+
+
+
+                                             13
+Case 1:26-cv-10860-MFL-PTM ECF No. 107, PageID.1563 Filed 08/26/26 Page 14 of 16
+
+
+
+
+ For example, in one motion, the Potterfs sought sanctions against attorney Alexandra
+
+ Lee Page, counsel for record for Defendant Drew Wessels. (See Mot., ECF No. 83.)
+
+ In that motion, the Potterfs argued that the Court should sanction Page because when
+
+ they made a settlement demand that called for the dismissal of the criminal case
+
+ against Joshua, Page responded that she and her client lacked the power to “stop the
+
+ state criminal proceedings.’” (Id., PageID.976.) The Potterfs insist that “[t]his
+
+ assertion is a bad-faith manipulation of the record and basic federal civil rights
+
+ doctrines.” (Id.) The Potterfs are wrong. Neither Page nor her client (a police
+
+ officer) is prosecuting Joshua. A county prosecutor filed the charges in that case and
+
+ controls the prosecution. Thus, as Page properly told the Potterfs, she has no
+
+ authority to withdraw the criminal prosecutions of Joshua. The Potterfs’ insistence
+
+ that Page be sanctioned for her accurate statement of the law is, itself, sanctionable.
+
+ Some of the Pottfers’ other motions are equally frivolous. (See, e.g., Mot. for
+
+ Sanctions, ECF No. 82, PageID.968, in which the Potterfs wrongly accuse counsel
+
+ for Defendants Shelia Long and Tuscola County of “deliberately utiliz[ing] an
+
+ aggressive, wealth-based litigation model to exhaust the resources of an indigent pro
+
+ se family”).
+
+       In contrast to many of the Potterfs’ filings, the Defendants’ pending motions
+
+ to dismiss raise serious arguments attacking the viability of the Potterfs’ claims. If
+
+ the Court accepts those arguments, the Potterfs’ Complaint would be dismissed and
+
+
+
+                                           14
+Case 1:26-cv-10860-MFL-PTM ECF No. 107, PageID.1564 Filed 08/26/26 Page 15 of 16
+
+
+
+
+ this action closed. The Court concludes that judicial efficiency would be well served
+
+ by having both the Magistrate Judge and the Court now focus exclusively on the
+
+ motions to dismiss before turning to the Potterfs’ voluminous and extraneous filings.
+
+ To that end (and for the time being), the Court will (1) prohibit the Potterfs from
+
+ making any additional filings beyond filings that relate to the motions to dismiss and
+
+ (2) terminate without prejudice all pending motions filed by the Potterfs, except their
+
+ motion for preparation of hearing transcript (ECF No. 105) and their motion for
+
+ leave to supplement their opposition to the motions to dismiss (ECF No. 106).6
+
+       Accordingly, the Court ORDERS as follows:
+
+           • The order of reference to the Magistrate Judge is temporarily
+
+               VACATED. (See Order, ECF No. 37.);
+
+           • All of the Potterfs’ pending motions not addressed by the R&R except
+
+               for the Potterfs’ motion for preparation of hearing transcript (ECF No.
+
+               105) and their motion for leave to supplement their opposition to the
+
+               motions to dismiss (ECF No. 106) are TERMINATED WITHOUT
+
+               PREJUDICE.7 Those motions are located on the Court’s docket at
+
+
+ 6
+  Terminating the other motions without prejudice may actually benefit the Potterfs
+ because it eliminates the very substantial risk that the Potterfs would be sanctioned
+ for filing at least some of those motions.
+ 7
+  The Court will address the Potterfs’ motion for preparation of hearing transcript in
+ a separate order. When the Court re-refers this case to the Magistrate Judge, the
+ Magistrate Judge may rule on the motion to supplement.
+
+                                           15
+Case 1:26-cv-10860-MFL-PTM ECF No. 107, PageID.1565 Filed 08/26/26 Page 16 of 16
+
+
+
+
+              ECF Nos. 82, 83, 89, 93, 94, and 95. The Potterfs may re-file those
+
+              motions, if appropriate, if this case continues following resolution of
+
+              Defendants’ motions to dismiss; and
+
+           • Until further order of the Court, all further filings in this action by the
+
+              Potterfs shall be limited to filings addressing Defendants’ currently-
+
+              pending motions to dismiss;
+
+       IT IS SO ORDERED.
+
+                                        s/Matthew F. Leitman
+                                        MATTHEW F. LEITMAN
+                                        UNITED STATES DISTRICT JUDGE
+ Dated: August 26, 2026
+
+        I hereby certify that a copy of the foregoing document was served upon the
+ parties and/or counsel of record on August 26, 2026, by electronic means and/or
+ ordinary mail.
+
+                                        s/Holly A. Ryan
+                                        Case Manager
+                                        (313) 234-5126
+
+
+
+
+                                          16
+

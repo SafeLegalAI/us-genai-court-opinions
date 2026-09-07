@@ -1,0 +1,193 @@
+Lagac v. Capital One, N.A., Slip Copy (2026)
+WESTLAW © 2026 Thomson Reuters. No claim to original U.S. Government Works. 1
+2026 WL 1454205
+Only the Westlaw citation is currently available.
+United States District Court, C.D. California.
+Gilbert M. LAGAC
+v.
+CAPITAL ONE, N.A. et al.
+Case No. 2:26-cv-02964-RGK-MAA
+|
+Filed 05/22/2026
+Attorneys and Law Firms
+Gilbert M. Lagac, West Hollywood, CA, Pro Se.
+Hunter R. Eley, Doll Amir and Eley LLP, Los Angeles, CA,
+for Defendant Capital One, N.A.
+Regina Marie Slowey, Barron and Newburger PC, Auburn
+Hills, MI, for Defendant Zwicker and Associates P.C.
+Proceedings: (IN CHAMBERS) Order Re: Defendant
+Capital One's Motion to Dismiss and Plaintiff's Motion to
+Remand [DEs 38, 46]
+R. GARY KLAUSNER., UNITED STATES DISTRICT
+JUDGE
+I. INTRODUCTION
+*1 On March 19, 2026, Gilbert M. Lagac (“Plaintiff”) filed
+a First Amended Complaint (“FAC”) in the Los Angeles
+County Superior Court against Capital One, N.A., successor
+by merger to Discover Bank (“Capital One”); Clarity Debt
+Resolution Inc. (“Clarity”); Wahib Joseph Al-Mashini (“Al-
+Mashini”): and Zwicker & Associates, P.C. (“Zwicker”).
+Plaintiff'sclaimsarisefromhisengagementofdebtsettlement
+services that failed to resolve an outstanding debt, resulting
+in a collection action against him. Plaintiff asserts sixteen
+claims. Two of these claims invoke federal law, both of
+which are brought under 12 U.S.C. § 5531 of the Consumer
+Financial Protection Act (“CFPA”). On March 19, 2026,
+Capital One removed the case to this Court on the basis of
+federal question jurisdiction.
+Presently before the Court are (1) Capital One's Motion to
+Dismiss the FAC and (2) Plaintiff's Motion to Remand. For
+the following reasons, the Court GRANTS the Motion to
+Dismiss in part and REMANDS the case to state court for
+further proceedings. In light of this ruling, Plaintiff's Motion
+to Remand is moot.
+II. FACTUAL BACKGROUND
+The following facts are alleged in the FAC, unless otherwise
+noted:
+On some unspecified date, Plaintiff incurred a debt owed to
+Discover Bank, which resulted in a collection action against
+him in state court. On December 12, 2023, Plaintiff entered
+into a “Customer Service Agreement” with Clarity for debt
+settlement services. During the settlement process, Clarity
+engaged in conduct that obstructed settlement negotiations
+and resulted in a breakdown of the settlement process.
+Subsequently, on February 24, 2025, Plaintiff contacted
+Zwicker, counsel for Discover Bank, in an effort to settle
+the debt directly. Discover Bank rejected the proposal and
+demanded terms Plaintiff could not afford.
+The following day, Plaintiff filed an answer to Discover
+Bank's collection action. In his answer, Plaintiff described
+Clarity's fraud and potential sabotage of the settlement
+negotiations. Despite this notice and an April 2025
+consent order requiring Discover Bank to implement
+enhanced oversight of third-party relationships, Discover
+Bank continued litigating the collection action without
+investigating or otherwise addressing the misconduct.
+Additionally, although Discover Bank merged into Capital
+One, effective May 18, 2025, Zwicker continued litigating
+the collection action in the name of “Discover Bank” for
+approximately seven months, concealing the merger from
+both the state court and Plaintiff. Zwicker eventually moved
+tosubstituteCapitalOneasplaintiffinthecollectionactionon
+December 30, 2025. During that same seven-month period,
+Capital One extended unsolicited credit offers to Plaintiff
+despite the pending collection action.
+III. JUDICIAL STANDARD
+A. Motion to Dismiss
+Under Federal Rule of Civil Procedure (“Rule”) 8(a), a
+complaint must contain a “short and plain statement of the
+claimshowingthatthe[plaintiff]isentitledtorelief.”BellAtl.
+Corp. v. Twombly, 550 U.S. 544, 555 (2007). If a complaint
+fails to adequately state a claim for relief, the defendant may
+move to dismiss the claim under Rule 12(b)(6) to dismissLagac v. Capital One, N.A., Slip Copy (2026)
+WESTLAW © 2026 Thomson Reuters. No claim to original U.S. Government Works. 2
+for failure to state a claim upon which relief can be granted.
+Fed. R. Civ. P. 12(b)(6). “To survive a motion to dismiss,
+a complaint must contain sufficient factual matter, accepted
+as true, to ‘state a claim to relief that is plausible on its
+face.’ ” Ashcroft v. Iqbal, 556 U.S. 662, 678 (2009) (quoting
+Twombly, 550 U.S. at 570). A claim is facially plausible if
+the plaintiff alleges enough facts to allow the court to draw a
+reasonableinferencethatthedefendantisliable.Id.Aplaintiff
+neednotprovidedetailedfactualallegations,butmustprovide
+more than mere legal conclusions. Twombly, 550 U.S. at 555.
+However, “[t]hreadbare recitals of the elements of a cause
+of action, supported by mere conclusory statements, do not
+suffice.” Iqbal, 556 U.S. at 678.
+*2 When ruling on a 12(b)(6) motion, the court must accept
+the allegations in the complaint as true and construe them in
+the light most favorable to the non-moving party. Cahill v.
+Liberty Mut. Ins. Co., 80 F.3d 336, 337–38 (9th Cir. 1996).
+“Factual allegations must be enough to raise a right to relief
+above the speculative level.” Twombly, 550 U.S. at 555.
+Dismissal is “appropriate only where the complaint lacks
+a cognizable legal theory or sufficient facts to support a
+cognizable legal theory.” Mendiondo v. Centinela Hosp. Med.
+Ctr., 521 F.3d 1097, 1104 (9th Cir. 2008).
+B. Motion to Remand
+Under the federal removal statute, a defendant may remove
+any case over which a federal court has original jurisdiction
+from state court to federal court. 28 U.S.C. § 1441(a). Federal
+courts have original jurisdiction over civil claims arising
+under federal law. Id. § 1331. Upon removal, the defendant
+bears the burden of showing the federal court's jurisdiction.
+Wilson v. Republic Iron & Steel Co., 257 U.S. 92, 97 (1921).
+Courts must “strictly construe the removal statute against
+removal jurisdiction” and must remand an action “if there is
+anydoubtastotherightofremovalinthefirstinstance.”Gaus
+v. Miles, Inc., 980 F.2d 564, 566 (9th Cir. 1992).
+IV. DISCUSSION
+A. Motion to Dismiss
+Capital One asserts that all of Plaintiff's claims fail to
+adequately state a claim for relief. As discussed below,
+the Court finds that dismissal of Plaintiff's federal claim is
+warranted, and it need not address Capital One's challenge to
+the remaining state claims.
+Plaintiff asserts claims against Capital One, Clarity, and
+Al-Mashini under 12 U.S.C. § 5531. This statute allows
+the Consumer Financial Protection Bureau to bring a claim
+against any person “committing or engaging in an unfair,
+deceptive, or abusive act or practice ... in connection with
+any transaction with a consumer for a consumer financial
+product or service, or the offering of a consumer financial
+product or service.” 12 U.S.C. § 5531. The statute, however,
+expressly authorizes only the Consumer Financial Protection
+Bureau to bring a claim, and does not extend that right to
+private citizens. See Williams v. Lobel Fin. Corp., 673 F.
+Supp. 3d 1101, 1106 (C.D. Cal. 2023) (“[T]he CFPA does
+not provide for a private right of action.”); Goziker v. Wells
+Fargo Bank, N.A., 2023 WL 8872294, at *7 (C.D. Cal. Oct.
+17, 2023) (finding that 12 U.S.C. § 5531 “lack[s]... a private
+right of action” and collecting cases); Diaz v. Argon Agency
+Inc., 2015 WL 7737317, at *3 (D. Haw. Nov. 30, 2015)
+(same). Because 12 U.S.C. § 5531 does not provide a private
+right of action, Plaintiff's federal claims against Capital One,
+Clarity,andAl-Mashinifail.1
+Further,becausethisdeficiency
+cannot be cured by amendment, Plaintiff's federal claims are
+DISMISSED with prejudice.2
+*3 Having dismissed all claims that provided grounds
+for removal jurisdiction, the Court declines to exercise
+supplemental jurisdiction over Plaintiff's remaining state
+law claims and REMANDS the case to state court for all
+further proceedings. 28 U.S.C. § 1367(c)(3); Ove v. Gwinn,
+264 F.3d 817, 826 (9th Cir. 2001) (“A court may decline
+to exercise supplemental jurisdiction over related state-law
+claims once it has dismissed all claims over which it has
+original jurisdiction.”); San Pedro Hotel Co., Inc. v. City of
+Los Angeles, 159 F.3d470, 478 (9th Cir. 1998) (holding that
+a district court is not required to provide explanation when
+declining jurisdiction under 28 U.S.C. § 1367(c)(3)).
+B. Motion to Remand
+Having declined to exercise supplemental jurisdiction over
+Plaintiff's remaining claims, Plaintiff's Motion to Remand is
+rendered moot.
+V. CONCLUSION
+For the foregoing reasons, the Court GRANTS the Motion to
+Dismiss the FAC [38] in part. The Court DISMISSES with
+prejudice all of Plaintiff's federal claims asserted in the FAC.
+The Court declines to exercise supplemental jurisdiction over
+the remaining state law claims and REMANDS the case toLagac v. Capital One, N.A., Slip Copy (2026)
+WESTLAW © 2026 Thomson Reuters. No claim to original U.S. Government Works. 3
+state court for further proceedings. In light of this ruling,
+Plaintiff's Motion to Remand [46] is
+MOOT. Accordingly, all other pending motions, hearings
+and deadlines are vacated
+IT IS SO ORDERED.
+All Citations
+Slip Copy, 2026 WL 1454205
+Footnotes
+1 Although this Motion to Dismiss has been brought by Capital One only, the Court addresses all of Plaintiff's federal claims
+because resolution of each turn on the same legal question: whether there is a private right of action under 12 U.S.C.
+§ 5531. See Silverton v. Dep't of Treasury, 644 F.2d 1341, 1345 (9th Cir. 1981)(“A [d]istrict [c]ourt may properly on its
+own motion dismiss an action as to defendants who have not moved to dismiss where such defendants are in a position
+similar to that of moving defendants.”).
+2 The Court notes that Plaintiff's Opposition contains citations to several cases and quotations that do not appear to exist.
+“Although courts make some allowances for the pro se Plaintiff's failure to cite to proper legal authority, courts may not
+condone actions by a party who cites to false, nonexistent, or misleading authorities.” Meriland Keith Dillard v. CBS
+Studios, Inc., 2026 WL 790882, at * 11 (C.D. Cal. Mar. 16, 2026) (internal quotation marks omitted). Plaintiff is reminded
+that all litigants, including those proceeding pro se, are expected to ensure the validity of all sources cited in their filings.
+See Fed. R. Civ. P. 11(b); Munoz v. United States, 28 F.4th 973, 978 (9th Cir. 2022) (“[I]t is axiomatic that pro se litigants,
+whatever their ability level, are subject to the same procedural requirements as other litigants.”).
+End of Document © 2026 Thomson Reuters. No claim to original U.S.
+Government Works.

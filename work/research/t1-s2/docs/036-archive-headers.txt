@@ -1,0 +1,21 @@
+HTTP/2 302 
+server: nginx
+date: Mon, 07 Sep 2026 21:03:37 GMT
+content-type: text/html; charset=utf-8
+content-length: 374
+location: https://web.archive.org/web/20260907210335/https://media.ca11.uscourts.gov/opinions/pub/files/202511166.pdf
+x-app-server: wwwb-app223-dc8
+x-ts: 302
+x-tr: 6054
+server-timing: TR;dur=0,Tw;dur=0,Tc;dur=0
+set-cookie: wb-save-SERVER=wwwb-app223; path=/
+x-location: save-sync
+x-rl: 0
+x-na: 0
+x-page-cache: MISS
+server-timing: MISS
+x-nid: Atria Convergence Technologies Pvt. Ltd. Broadband Internet Service Provider INDIA
+referrer-policy: no-referrer-when-downgrade
+permissions-policy: interest-cohort=()
+x-sd: 0
+

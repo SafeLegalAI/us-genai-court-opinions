@@ -1,0 +1,443 @@
+BANK OF AMERICA v. MAPP                                                                 Doc. 15
+
+
+
+
+                             IN THE UNITED STATES DISTRICT COURT
+                          FOR THE MIDDLE DISTRICT OF NORTH CAROLINA
+
+          BANK OF AMERICA,                   )
+                                             )
+                             Plaintiff,      )
+                                             )
+                v.                           )         1:26cv77
+                                             )
+          JARREL MAPP,                       )
+                                             )
+                             Defendant.      )
+
+                                MEMORANDUM OPINION AND ORDER
+
+          THOMAS D. SCHROEDER, District Judge.
+
+                Before the court is the motion to remand by Plaintiff Bank of
+
+          America (the “Bank”).      (Doc. 10.)   Defendant Jarrel Mapp has filed
+
+          a response in opposition (Doc. 12), to which Plaintiff has replied
+
+          (Doc. 13).      Mapp has also filed a surreply, although without court
+
+          permission.      (Doc. 14.)   The motion is fully briefed and ready for
+
+          resolution.
+
+                For the following reasons, the motion will be granted, the
+
+          case will be remanded, and the court will require Mapp to show
+
+          cause within 14 days why his frivolous removal and briefing has
+
+          not violated Rule 11(b)(2) of the Federal Rules of Civil Procedure
+
+          and why he should not be sanctioned accordingly.        Further, because
+
+          a party may receive “just costs and any actual expenses, including
+
+          attorney fees, incurred as a result of the removal,” 28 U.S.C.
+
+          § 1447(c), the court shall grant the Bank 14 days, if it so elects,
+
+          within which to file an appropriate motion for costs and expenses,
+
+
+
+
+                                                                              Dockets.Justia.com
+supported by affidavit and timekeeping records.
+
+I.     BACKGROUND
+
+       The Bank commenced this action against Mapp on July 24, 2025,
+
+in    the General Court of Justice,        District Court Division, of
+
+Guilford County, North Carolina.        (Doc. 4.)    The complaint seeks
+
+collection of $4,732.70 allegedly owed by Mapp on a credit account,
+
+along with post-judgment interest and costs.        (See id.)   Mapp filed
+
+a petition for removal on January 21, 2026, “due to State Court
+
+lacking     subject-matter    jurisdiction     to    adjudicate     Mapp’s
+
+Counterclaim and Answer.”1     (Doc. 2.)
+
+       On February 10, 2026, Mapp filed an answer to the complaint
+
+and asserted a counterclaim against the Bank, charging violations
+
+of federal banking laws, among other things.
+
+       On April 7, 2026, the Bank moved to remand the case, contending
+
+that the court lacks subject matter jurisdiction over the case.
+
+(Docs. 10, 11.)     Mapp filed a response (Doc. 12), and the Bank filed
+
+a reply (Doc. 13).      Mapp thereafter filed a surreply.       (Doc. 14.)
+
+The motion is ready for decision.
+
+II.    ANALYSIS
+
+       Mapp appears pro se.   Thus, the court does not scrutinize his
+
+filings “with such technical nicety that a meritorious claim should
+
+
+
+1
+  Mapp erroneously contends that his counterclaim (not filed until after
+removal) seeking $143,000, which exceeds the jurisdiction of the North
+Carolina District Court, is a basis for lack of state court subject
+matter jurisdiction. (Doc. 12 at 13.)
+
+
+                                    2
+be defeated.” Gordon v. Leeke, 574 F.2d 1147, 1151 (4th Cir. 1978).
+
+But the liberal construction of a pro se litigant's filing does not
+
+require the court to ignore clear defects in it.          Bustos v.
+
+Chamberlain, No. 09-1760, 2009 WL 2782238, at *2 (D.S.C. Aug. 27,
+
+2009).   Or to become an advocate for the pro se party.   Weller v.
+
+Dep't of Soc. Servs., 901 F.2d 387, 391 (4th Cir. 1990); see also
+
+Beaudett v. City of Hampton, 775 F.2d 1274, 1278 (4th Cir. 1985)
+
+(noting that “[d]istrict judges are not mind readers”).   Moreover,
+
+pro se parties are expected to comply with applicable procedural
+
+rules.   See Chrisp v. Univ. of N.C.-Chapel Hill, 471 F. Supp. 3d
+
+713, 715–16 (M.D.N.C. 2020) (requiring pro se plaintiff to comply
+
+with the Federal Rules of Civil Procedure); M.D.N.C. L.R. 11.1(a)
+
+(requiring pro se litigants to comply with the Federal Rules of
+
+Civil Procedure, the court's Local Rules, “and all other applicable
+
+law”).
+
+     The Bank argues that remand is necessary for several reasons.
+
+Principal among them is the contention that the complaint fails to
+
+raise a claim under federal law and there is no diversity between
+
+the parties.   Mapp’s answer makes clear there is no diversity of
+
+citizenship under 28 U.S.C. § 1332.   (Doc. 7 at 2 (alleging that
+
+the Bank and Mapp are citizens of North Carolina “for diversity
+
+purposes”).)   The question is whether federal question subject
+
+matter jurisdiction exists.
+
+     Removal is governed by 28 U.S.C. § 1441, which permits a
+
+
+                                 3
+defendant to remove any action over which federal courts have
+
+original jurisdiction. Determination of the court’s subject matter
+
+jurisdiction is made at the time of removal.           Wis. Dep't of Corr.
+
+v. Schacht, 524 U.S. 381, 390 (1998); McDonald v. AutoMoney, Inc.,
+
+21CV114, 2021 WL 5599501, at *2 (M.D.N.C. Nov. 30, 2021) (“The
+
+removability of a case depends upon the state of the pleadings and
+
+the record at the time of the application for removal.” (quoting
+
+Francis v. Allstate Ins. Co., 709 F.3d 362, 367 (4th Cir. 2013))).
+
+Subject   matter   jurisdiction   must   appear   on    the   face   of   the
+
+complaint, not by way of a defense raised or in a counterclaim.
+
+Holmes Grp., Inc. v. Vornado Air Circulation Sys., Inc., 535 U.S.
+
+826, 831-32 (2002). The burden of establishing federal jurisdiction
+
+rests with the party seeking removal, and if it is at all doubtful,
+
+remand is necessary.    Mulcahey v. Columbia Organic Chems. Co., 29
+
+F.3d 148, 151 (4th Cir. 1994).     A motion to remand the case based
+
+on lack of subject matter jurisdiction may be made at any time.            28
+
+U.S.C. § 1447(c) (“If at any time before final judgment it appears
+
+that the district court lacks subject matter jurisdiction, the case
+
+shall be remanded.”).
+
+     Mapp’s attempt to remove this action is patently frivolous.
+
+Mapp lacked any reasonable basis for seeking removal.          The parties
+
+are not diverse, and there is no federal claim raised by the
+
+complaint.   Plainly, the court lacks subject matter jurisdiction.
+
+     Worse, Mapp has grossly misapplied federal law in his response
+
+
+                                    4
+brief.     As just one example, his citation to 28 U.S.C. § 1348 for
+
+the proposition that this court has jurisdiction over any action
+
+brought by or against a bank (Doc. 12 at 13) misrepresents the
+
+statute.     Section 1348 by its express terms applies only to “any
+
+civil action commenced by the United States, or by direction of any
+
+officer thereof, against any national banking association, any
+
+civil action to wind up the affairs of any such association, and
+
+any action by a banking association established in the district for
+
+which the court is held, under chapter 2 of Title 12, to enjoin the
+
+Comptroller of the Currency, or any receiver acting under his
+
+direction, as provided by such chapter.”      This case is none of
+
+those.
+
+     Another example is Mapp’s filing of a frivolous surreply with
+
+irrelevant attachments.     “[A] surreply is not generally allowed
+
+under this district’s Local Rules.”     Pathfinder Software, LLC v.
+
+Core Cashless, LLC, 127 F. Supp. 3d 531, 537 (M.D.N.C. 2015)
+
+(quoting Luna-Reyes v. RFI Constr., LLC, 57 F. Supp. 3d 495, 498
+
+(M.D.N.C 2014)).     Mapp did not seek court approval to file his
+
+surreply.     “Generally, courts allow a party to file a surreply
+
+only when fairness dictates based on new arguments raised in the
+
+previous reply.”     Fulk v. Norfolk S. Ry. Co., 35 F. Supp. 3d 749,
+
+751 n.1 (M.D.N.C. 2014) (quoting DiPaulo v. Potter, 733 F. Supp.
+
+2d 666, 670 (M.D.N.C. 2010)).     Absent a new argument, “a surreply
+
+is unnecessary.”     Adefila v. Select Specialty Hosp., 28 F. Supp.
+
+
+                                   5
+3d 517, 522 n.3 (M.D.N.C. 2014).          Here, the Bank did not raise any
+
+new argument in its reply, so the surreply is totally unnecessary.
+
+Moreover, it and its attachments are filled with citations to
+
+irrelevant legal authority.
+
+      Mapp’s   filings   bear   all   the    hallmarks   of   a   product   of
+
+Artificial Intelligence.        Whether or not Mapp used Artificial
+
+Intelligence, he, like any other litigant, whether pro se or
+
+represented, is bound by the Federal Rules of Civil Procedure.
+
+Johnson v. Town of Smithfield, No. 23-CV-349, 2024 WL 1336466, at
+
+*10 (E.D.N.C. Mar. 28, 2024) (citing McNeil v. United States, 508
+
+U.S. 106, 113 (1993)).     Rule 11(b)(2) provides that by signing a
+
+filing, an attorney or unrepresented party certifies that, to the
+
+best of his knowledge and after a reasonable inquiry, “the claims,
+
+defenses, and other legal contentions are warranted by existing
+
+law or by a nonfrivolous argument for extending, modifying, or
+
+reversing existing law or for establishing new law.”                The rule
+
+permits courts to sanction litigants for citations to non-existent
+
+case law, misrepresentations of case law, or frivolous legal
+
+arguments, regardless of the filer’s pro se status.               See, e.g.,
+
+Ferris v. Amazon.com Servs., LLC, 778 F. Supp. 3d 879, 882 (N.D.
+
+Miss. 2025) (ordering a pro se plaintiff to pay the defendant’s
+
+costs incurred in responding to fabricated citations).               “Courts
+
+across the country have issued sanctions against attorneys and
+
+pro   se   parties   for   submitting       fictitious   case     citations,
+
+
+                                      6
+fictitious   quotations,   and    related     misrepresentations     to   the
+
+court.”   United States v. Hayes, 763 F. Supp. 3d 1054, 1071 (E.D.
+
+Cal. 2025) (emphasis added) (collecting cases).
+
+     This    court   has   seen   an       increased   use   of    Artificial
+
+Intelligence in briefs, especially by pro se filers.              Any user of
+
+such tools, including a pro se filer, is still “obligated to read
+
+the legal authority he intends to rely upon, confirm its existence
+
+and validity, and confirm that it supports his legal contentions,
+
+before citing to that authority in any submission to this Court.”
+
+Allen v. W. Governors Univ., No. 25-cv-00325, 2026 WL 893368, at
+
+*1 (D. Nev. Mar. 31, 2026) (emphasis omitted).               Obviously, Mapp
+
+did not do that.
+
+     Troublingly, Mapp has been warned in the past against pursuing
+
+frivolous claims:
+
+     Mr. Mapp is warned that if he continues to file paper
+     writings with no basis in fact or law, he is subject to
+     sanctions. Lawsuits like this one waste the court's time
+     and resources and are an abuse of the judicial process.
+     If the plaintiff continues to make patently ludicrous
+     assertions in court filings, the Court has inherent
+     authority to impose sanctions. These may include a fine
+     or a pre-filing injunction that restricts his access to
+     the federal courts. See 28 U.S.C. § 1651(a); Cromer v.
+     Kraft Foods N. Am., Inc., 390 F.3d 812, 817-18 (4th Cir.
+     2004); Pippen v. Slaughter, No. 19-CV-891, 2020 WL
+     2086136, at *5 (M.D.N.C. Apr. 30, 2020).
+
+Mapp v. Discover Bank, 25cv144, 2025 WL 1431144, at *2 (M.D.N.C.
+
+Apr. 29, 2025).
+
+     Though the court lacks subject matter jurisdiction and will
+
+
+
+                                       7
+remand the action, it does retain jurisdiction to consider the
+
+imposition of sanctions and/or reimbursement of actual expenses,
+
+including attorney fees, for Mapp’s wholly frivolous filings.          28
+
+U.S.C. § 1447(c) (“An order remanding the case may require payment
+
+of just costs and any actual expenses, including attorney fees,
+
+incurred as a result of the removal.”); see Barlow v. Colgate
+
+Palmolive Co., 772 F.3d 1001, 1009 (4th Cir. 2014) (en banc)
+
+(“[D]istrict courts have jurisdiction to decide Rule 11 sanctions
+
+motions on the merits, even when they are filed after the underlying
+
+action is remanded to state court.”).       In light of the fact that
+
+over a year ago Mapp was warned not to make frivolous filings,
+
+the court will require Mapp to show cause why he has not violated
+
+Rule 11(b)(2) and why he should not be sanctioned.           Further, if
+
+the Bank elects to file a motion and appropriate documentation
+
+for just costs and any actual expenses, including attorney fees,
+
+incurred as a result of the removal, the court may require Mapp
+
+to pay the Bank’s such costs and expenses in lieu of any sanction
+
+that would be imposed pursuant to Rule 11.
+
+III. CONCLUSION
+
+     For the reasons stated,
+
+     IT IS ORDERED that the Bank’s motion to remand (Doc. 10) is
+
+GRANTED, and the action shall be REMANDED to the General Court of
+
+Justice,    District   Court   Division,   of   Guilford   County,   North
+
+Carolina.
+
+
+                                    8
+     IT IS FURTHER ORDERED that Mapp shall file a document within
+
+14 days, consistent with Rule 11, that shows cause why his patently
+
+frivolous   removal   of   this   action   and   his   filing   of   briefing
+
+containing wholly inapplicable legal citations and propositions
+
+have not violated Rule 11(b)(2) and why he should not be sanctioned
+
+accordingly.
+
+     IT IS FURTHER ORDERED that the Bank shall have 14 days within
+
+which to file a motion for just costs and actual expenses, including
+
+attorney fees, incurred as a result of the removal, with supporting
+
+documentation, if it desires to receive reimbursement of such costs
+
+and expenses from Mapp.     If the Bank files such motion, Mapp shall
+
+have 14 days to file a response.
+
+
+
+                                      /s/   Thomas D. Schroeder
+                                   United States District Judge
+May 15, 2026
+
+
+
+
+                                     9
+

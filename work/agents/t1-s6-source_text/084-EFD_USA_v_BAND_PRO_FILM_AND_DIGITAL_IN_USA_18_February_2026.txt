@@ -1,0 +1,694 @@
+EFD USA, INC., et al., Plaintiffs and Appellants, v. BAND..., Not Reported in...
+
+
+                                                                  on its claims against defendants Band Pro Film & Digital,
+                    2026 WL 457265                                Inc. (Band Pro), Amnon Band (Band), and Direct Video
+                 Not Officially Published                         Warehouse, Inc. (DVWI) (together, the Band Defendants),
+  (Cal. Rules of Court, Rules 8.1105 and 8.1110, 8.1115)          and Brandon Brooks. A jury awarded EFD all damages
+     Only the Westlaw citation is currently available.            it requested, and the trial court awarded EFD additional
+                                                                  damages based on a restitution claim. On appeal, EFD argues
+       California Rules of Court, rule 8.1115, restricts          that the trial court erred by offsetting those damages based
+    citation of unpublished opinions in California courts.        on a pretrial settlement. In addition, EFD challenges the
+                                                                  trial court's resolution of its unfair competition law (UCL)
+              NOT TO BE PUBLISHED IN                              claims following a bench trial, the court's denial of its request
+               THE OFFICIAL REPORTS                               for prejudgment interest, and several factual findings in the
+        Court of Appeal, Second District, California.             statement of decision.
+                   DIVISION THREE.
+                                                                  EFD separately appeals from a default judgment
+     EFD USA, INC., et al., Plaintiffs and Appellants,
+                                                                  entered against defendant GroundSeven Ventures, Inc.
+                            v.                                    (GroundSeven) and an order denying its motion for a new
+          BAND PRO FILM AND DIGITAL                               trial. EFD contends the award as to GroundSeven was
+       INC., et al., Defendants and Respondents.                  inadequate.
+
+                            B329314
+                                                                  For the reasons discussed herein, we affirm.
+                                |
+                        Filed 2/18/2026
+
+Editor's Note: This decision contains discussion of citation         FACTUAL AND PROCEDURAL BACKGROUND
+references that are incorrect or do not actually exist. These
+invalid citations appeared in the original court opinion and      I. The underlying dispute
+have been preserved as written since they are part of the         EFD is a television and film production company. Among
+official record. Any links to these invalid citations have been   other things, EFD purchases and leases cinematography
+removed.                                                          equipment and rents the equipment to other entities.
+
+                                                                  EFD began leasing equipment from Band Pro in 2012. The
+APPEAL from judgment and an order of the Superior Court           leases involved financing agreements. Band Pro employee
+of Los Angeles County, Daniel S. Murphy and Michael               Brandon Brooks managed some of the transactions. Some of
+Linfield, Judges. Affirmed. (Los Angeles County Super. Ct.        the transactions involved DVWI, which is owned by Band.
+No. BC661332)                                                     Greg Bisel, AKT Enterprises LLC (AKT), MaxPro Leasing
+                                                                  LLC, and Technijian Inc. (together, the Bisel Defendants)
+Attorneys and Law Firms
+                                                                  were also involved in some transactions.
+Azar Law Group, David E. Azar; Keiter Appellate Law and
+                                                                  In 2017, EFD and its owner and operator, Georgina Teran,
+Mitchell Keiter, for plaintiffs and appellants EFD USA, Inc.
+                                                                  sued the Band Defendants, Brooks, the Bisel Defendants,
+and Georgina Teran.
+                                                                  and several Does. In the operative amended complaint, EFD
+Enenstein Pham Glass & Rabbatt, Teri T. Pham and Matthew          brought claims against all defendants for fraud, negligent
+W. Rosene, for defendants and respondents Band Pro Film &         misrepresentation, aiding and abetting fraud, a violation of
+Digital, Inc., Direct Video Warehouse, Inc., and Amnon Band.      California's Unfair Competition Law (UCL) (Bus. & Prof.
+                                                                  Code § 17200 et seq.), breach of fiduciary duty, breach of
+Opinion                                                           implied contract, intentional interference with prospective
+
+HANASONO, J.                                                      economic relations, and money had and received. 1 The
+                                                                  complaint alleged that “each Defendant acted as the actual
+ *1 Plaintiff EFD USA, Inc. (EFD) appeals from the                or ostensible agent, employee, and/or co-conspirator of each
+judgment entered following a jury trial and a bench trial         other Defendant and, in performing the actions alleged
+
+
+               © 2026 Thomson Reuters. No claim to original U.S. Government Works.                                              1
+EFD USA, INC., et al., Plaintiffs and Appellants, v. BAND..., Not Reported in...
+
+
+herein, acted within the course and scope of such agency,
+employment, and/or conspiracy.” The complaint further            On November 4, 2022, the Band Defendants moved to offset
+alleged that defendants’ conduct caused damages to EFD           the jury's damages award under section 877. That statute
+exceeding $2 million.                                            provides that a good faith settlement with one defendant
+                                                                 “shall reduce” a judgment against nonsettling joint tortfeasors
+EFD brought a separate claim for breach of an implied            “claimed to be liable for the same tort.” (§ 877.) The motion
+contract against Band Pro and DVWI, and a conversion claim       argued that all defendants were “claimed to be liable” for
+against the Bisel Defendants. Finally, EFD and Teran brought     the claims that proceeded to trial because the complaint
+claims for civil extortion and defamation against Band Pro       brought those claims against all defendants and alleged that
+and Band.                                                        all defendants were one another's agents, principals, and co-
+                                                                 conspirators. Thus, the motion asserted that the judgment
+Plaintiffs later named GroundSeven as a Doe defendant. The       should be reduced by the amount of the Bisel Settlement.
+record on appeal does not include an amended complaint or
+other filing reflecting what specific claims or facts, if any,   EFD's opposition argued that section 877 is inapplicable.
+plaintiffs alleged as to GroundSeven.                            It contended that each disputed transaction was a separate
+                                                                 injury and a separate tort, and “there was no claim” that
+                                                                 the nonsettling defendants were liable for the transactions
+II. Settlement with the Bisel Defendants                         resolved by the Bisel Settlement. Alternatively, the opposition
+ *2 EFD executed a “full and complete settlement” of its         argued that even if section 877 applied, the Bisel Settlement
+claims against the Bisel Defendants for $375,000 in June 2021    had been allocated to about 40 transactions. The opposition
+(the Bisel Settlement). The Bisel Settlement also resolved       asserted that if the Bisel Settlement had not already been
+a cross-complaint filed by AKT and a separate invasion of        allocated, the court should allocate that settlement. In
+privacy lawsuit that Bisel had filed against EFD and Teran.      support of the opposition, Teran and EFD's damages expert,
+                                                                 Jeffrey Bussell, both declared that they understood the Bisel
+The trial court granted plaintiffs’ unopposed motion for         Settlement to cover 38 specific transactions but not the 16
+a determination of good faith settlement with the Bisel          transactions addressed at trial.
+Defendants. (Code Civ. Proc., § 877.6.) 2 In the motion,
+plaintiffs asserted: “No allocation is required here, as the     In its statement of decision, the trial court granted the Band
+interests of both plaintiffs are aligned, as Teran is EFD's      Defendants’ request for an offset. The court recognized
+founder, President, and CEO of EFD.” Neither the motion nor      that EFD proceeded to trial on claims brought against all
+the order discussed allocation any further.                      defendants, and that EFD alleged that all defendants acted
+                                                                 as the “agent, employee, and/or coconspirator of each other
+                                                                 Defendant” in committing the acts identified in the complaint.
+III. Resolution of plaintiffs’ remaining claims                  Because the Band Defendants and Brooks were nonsettling
+The trial court granted the Band Defendants’ motion for          tortfeasors whom EFD claimed to be liable for the same torts,
+summary adjudication on plaintiffs’ claims for civil extortion   the trial court concluded that section 877 required an offset.
+and defamation. That ruling resolved all claims brought by
+Teran.                                                            *3 The court recognized that an offset may be allocated
+                                                                 to certain causes of action. However, it determined that
+EFD proceeded to a jury trial against Band, Band Pro, and        EFD presented no evidence that the Bisel Settlement had
+Brooks on its claims for fraud, aiding and abetting fraud, and   been allocated, and the court declined to consider the post-
+money had and received. At trial, EFD focused on 16 specific     settlement declarations offered by EFD. Therefore, the court
+transactions and asked the jury to award it $109,958.17 in       granted the motion for a section 877 offset and reduced EFD's
+economic damages. On October 19, 2022, the jury found            damages by the amount of the Bisel Settlement, to zero.
+Band Pro and Brooks liable on all three counts and found
+Band liable for aiding and abetting fraud. The jury awarded      The statement of decision also concluded that EFD was
+EFD $109,958.17. The special verdict attributed $49,481.176      entitled to compound prejudgment interest. However, since
+to Band Pro, $49,481.176 to Brooks, and $10,995.817 to           the judgment was fully offset by the Bisel Settlement, the
+Band. 3 The jury also awarded EFD prejudgment interest.
+
+
+
+               © 2026 Thomson Reuters. No claim to original U.S. Government Works.                                           2
+EFD USA, INC., et al., Plaintiffs and Appellants, v. BAND..., Not Reported in...
+
+
+court determined that there was no balance on which interest     It concluded that EFD had only proved that GroundSeven's
+could have accrued.                                              conduct resulted in $49,481 in damages (i.e., the same amount
+                                                                 as the special verdict as to Brooks). The court also found that
+Next, the statement of decision addressed EFD's UCL claims,      Bussell's declaration was “quite different” from his testimony
+which the court heard in a bench trial. The court rejected       at trial, and that Bussell was not “persuasive.”
+EFD's UCL claims against the Band Defendants and Brooks
+because EFD sought damages, which are unavailable in a           EFD timely appealed from the judgment as to the Band
+UCL claim. (Korea Supply Co. v. Lockheed Martin Corp.            Defendants and Brooks (the “R” appeal). EFD also timely
+(2003) 29 Cal.4th 1134, 1150–1151 (Korea Supply).) The           appealed from the default judgment as to GroundSeven
+court found that DVWI was liable under the UCL and               and from “all orders that are separately appealable” (the
+accepted EFD's contention that it was entitled to around         GroundSeven appeal). 4
+$23,500. But the court concluded that this amount was fully
+offset by the Bisel Settlement.
+
+The statement of decision also resolved defendants’ unclean                              DISCUSSION
+hands defense. The court found that EFD and Teran “actively
+                                                                 I. Inaccurate citations in EFD's appellate briefing
+participated in a scheme to defraud financial lenders.”
+                                                                  *4 We begin by discussing several fabricated quotations and
+However, the court determined that EFD “purged its fraud” by
+                                                                 inaccurate descriptions of legal authority in EFD's appellate
+paying off all relevant loans, and therefore it concluded that
+                                                                 briefing.
+EFD's claims were not barred by the unclean hands doctrine.
+In the statement of decision and the judgment, the court found
+                                                                 In the “R” appeal, EFD's leading argument is that “California
+that Teran was not credible.
+                                                                 law mandates treating separate obligations as distinct claims
+                                                                 when determining the applicability and scope of a good
+Finally, the statement of decision resolved EFD's claims
+                                                                 faith settlement offset. Lilienthal & Fowler v. Superior Court
+against GroundSeven. GroundSeven did not respond to the
+                                                                 [(1993) 12 Cal.App.4th 1848 (Lilienthal)].” EFD further
+complaint. EFD requested a default judgment and sought
+                                                                 asserts that “Lilienthal clarified the meaning of ‘same tort’
+damages of $591,126.23 plus $444,760.19 in prejudgment
+                                                                 in the context of settlement offsets, holding that claims are
+interest. Its request assumed that GroundSeven could be held
+                                                                 distinct when they involve different: ‘(1) times of services
+responsible for all damages requested in the complaint. EFD's
+                                                                 performed; (2) specific obligations involved; and (3) resulting
+damages expert, Bussell, submitted a declaration in support
+                                                                 damages.’ Lilienthal & Fowler v. Superior Court, supra, 16
+of EFD's damages claim under that same assumption.
+                                                                 Cal.Rptr.2d at p. 461.” This quotation does not appear in
+                                                                 Lilienthal. More significantly, contrary to EFD's assertion, the
+Brooks, acting pro per, opposed the request for default
+judgment as to GroundSeven. In the opposition, Brooks            case does not address settlement offsets at all. 5
+asserted that he had testified at trial that he was the sole
+owner and agent of GroundSeven. He therefore argued              EFD also contends that the trial court erred by failing
+that GroundSeven's liability could not exceed Brooks's own       to consider two declarations in determining whether the
+liability, as determined by the jury. Brooks also urged          Bisel Settlement had been allocated. Citing Riverisland Cold
+that GroundSeven's liability should be offset by the Bisel       Storage, Inc. v. Fresno-Madera Prod. Credit [Assn.] (2013)
+Settlement.                                                      55 Cal.4th 1169, 1182 [(Riverisland)], EFD asserts that “
+                                                                 ‘[e]xtrinsic evidence is admissible to interpret the terms
+The court entered a default judgment in favor of EFD and         of a written settlement agreement reached in a mediation
+against GroundSeven and awarded EFD $49,481 in damages           containing a valid arbitration clause.’ ” Riverisland contains
+plus $41,847.37 in prejudgment interest.                         no such quotation, and it does not mention settlements,
+                                                                 mediation, or arbitration. And while the case discusses
+EFD moved for a new trial as to GroundSeven, arguing             the role of extrinsic evidence in contract interpretation, it
+in relevant part that the court's damages award was              correctly explains that such evidence generally “may not be
+inadequate. The court denied the motion. It determined that      relied upon to alter or add to the terms of the writing.” (Id.
+“GroundSeven's liability was dependent on Brooks’ actions.”      at p. 1174.)
+
+
+
+               © 2026 Thomson Reuters. No claim to original U.S. Government Works.                                            3
+EFD USA, INC., et al., Plaintiffs and Appellants, v. BAND..., Not Reported in...
+
+
+Relatedly, EFD asserts that the Bisel Settlement “should be        to use an unidentified “AI system” to shorten the draft. Azar
+interpreted like a contract, ‘by applying the objective theory     directed the system to “keep all citations to authority, factual
+of contracts to determine the mutual intent of the parties         and legal, unless duplicative.” There is no indication that Azar
+as evidenced by their communications and other objective           took any steps to confirm whether the AI system changed
+manifestations of their intent.’ Leaf v. City of San Mateo         any citations, such as asking a paralegal to cite check the
+(1980) 104 Cal.App.3d 398, 411.” The Leaf case does not            brief for a second time. As we have discussed, EFD's opening
+include this quotation nor any similar language; it is a           brief in the “R” appeal included several fabricated quotations.
+nuisance case and did not involve a contested contract.            Azar investigated the matter after receiving the OSC, and he
+                                                                   attributes these errors to the AI system that he used to shorten
+While Lilienthal, Riverisland and Leaf represent just three        the opening brief.
+of the 28 cases cited in EFD's opening brief in the “R”
+appeal, they are the only three cases discussed in the first       Azar also used an AI system to reduce the word count in
+13 pages of its argument section. Respondents’ brief pointed       EFD's reply brief in the “R” appeal. He asked an “appellate
+out the deficiencies we have described, and other potential        specialist” to cite check the reply brief after that process was
+misrepresentations. 6 In its reply, EFD failed to acknowledge      complete. As we have discussed, the reply brief nonetheless
+or explain these inaccuracies. In fact, EFD's reply continues      included at least two fabricated quotations from real cases.
+the trend: the leading argument therein is that a respondent's     After filing the reply, Azar discovered citation errors in the
+“ ‘failure to respond to an argument raised in the opening         brief, and he and Keiter prepared a notice of errata and a
+brief waives any objection.’ (Rudick v. State Bd. of Optometry     corrected reply brief. Azar asserts that he and Keiter both
+(2019) 41 Cal.App.5th 77, 90 [(Rudick)].)” The Rudick case         believed that the other had submitted these documents, and
+                                                                   the corrected reply was never filed.
+includes no such quotation. 7 EFD's reply also argues that “
+‘[a] judgment by default admits all material allegations of the
+                                                                   Azar accepts responsibility for the errors in both briefs.
+complaint.’ (Milstein v. Sartain (1943) 56 Cal.App.2d 924,
+                                                                   He urges this court not to dismiss the appeal, but he
+933.)” While perhaps a correct statement of law, Milstein does
+                                                                   acknowledges that monetary sanctions would be justified.
+not include this language.
+
+                                                                   Keiter's response to the OSC asserts that he was responsible
+ *5 Prior to oral argument, we issued an order to show cause
+                                                                   only for formatting and filing the final version of EFD's
+(OSC) why this court should not sanction EFD's attorneys,
+                                                                   reply brief. He received the reply brief just three hours
+David Azar and Mitchell Keiter, for pursuing a frivolous
+                                                                   before the filing deadline, and did not have time to cite
+appeal. The OSC noted that several quotations in EFD's
+                                                                   check it before filing. Keiter acknowledges that the mistakes
+briefing in the “R” appeal appear to be fabricated. Azar, who
+                                                                   in the briefing are “unacceptable,” but he asserts that
+signed the opening brief, and Keiter, who signed the reply,
+                                                                   sanctions are unnecessary because the fabricated quotations
+both filed written responses to the OSC.
+                                                                   are substantively similar to propositions in the cases cited.
+
+According to his response to the OSC, Azar was EFD's
+                                                                   “To state the obvious, it is a fundamental duty of attorneys to
+trial counsel. Azar hired Keiter, a Certified Appellate Law
+                                                                   read the legal authorities they cite in appellate briefs or any
+Specialist, to assist with the appeal. Azar ultimately prepared
+                                                                   other court filings to determine that the authorities stand for
+the opening brief and most of the reply brief. Keiter formatted
+                                                                   the propositions for which they are cited. Plainly, counsel did
+and filed the reply brief.
+                                                                   not read the cases he cited before filing his appellate briefs:
+                                                                   Had he read them, he would have discovered, as we did,
+Azar asked an artificial intelligence (AI) “consultant” to use
+                                                                   that the cases did not contain the language he purported to
+AI to prepare a draft opening brief using trial court briefs
+                                                                   quote [and] did not support the propositions for which they
+filed in the underlying lawsuit and an outline that Azar had
+                                                                   were cited ....” (Noland v. Land of the Free, L.P. (2025) 114
+prepared. The AI consultant cautioned Azar to double check
+                                                                   Cal.App.5th 426, 445 (Noland).) These failures violate the
+the citations in the draft to confirm that the AI system had
+                                                                   California Rules of Court, which require that arguments be
+not fabricated any legal authorities. After completing the draft
+                                                                   supported “with citations to real (as opposed to fabricated)
+opening brief, Azar asked a paralegal to cite check the legal
+                                                                   legal authority.” (Id. at p. 447, citing Cal. Rules of Court,
+authorities. He then realized the brief exceeded the word limit
+                                                                   rule 8.204(a)(1)(B).) On our own motion, we may impose
+by around 6,000 words. Azar and his AI consultant decided
+
+
+                © 2026 Thomson Reuters. No claim to original U.S. Government Works.                                             4
+EFD USA, INC., et al., Plaintiffs and Appellants, v. BAND..., Not Reported in...
+
+
+sanctions for reliance on nonexistent legal authority and for        words, “when one of a number of tort defendants enters
+unreasonable violations of the California Rules of Court.            into a settlement agreement with a plaintiff, the nonsettling
+(Noland, at p. 445; Cal. Rules of Court, 8.276.)                     defendants’ liability to the plaintiff is reduced by the amount
+                                                                     of the settlement.” (Bay Development, Ltd. v. Superior Court
+ *6 Sanctions may be awarded to compensate “the clerk                (1990) 50 Cal.3d 1012, 1018.)
+of the court for conduct that unnecessarily burdens the
+court and the taxpayers.” 8 (Noland, supra, 114 Cal.App.5th          “[T]he language of section 877 is significant—its drafters did
+at p. 447.) The fabricated citations in EFD's briefing               not use the narrow term ‘joint tortfeasors,’ they used the broad
+required this court to spend unnecessary time attempting             term ‘tortfeasors claimed to be liable for the same tort.’ This
+to locate nonexistent quotations and legal propositions              language was meant to eliminate the distinction between joint
+and independently researching the issues presented. Under            tortfeasors and concurrent or successive tortfeasors [citation],
+these circumstances, an award of sanctions payable to                and to permit broad application of the statute.” (Mesler
+this court is appropriate. Because the errors were caused            v. Bragg Management Co. (1985) 39 Cal.3d 290, 302.)
+primarily by Azar's failure to adequately safeguard against          Relatedly, “section 877 does not require any defendant to
+AI hallucinations, the sanctions will be imposed against Azar        prove that settling codefendants were in fact liable, only that
+alone.                                                               they were ‘claimed to be liable’ for the same tort.” (Knox
+                                                                     v. County of Los Angeles (1980) 109 Cal.App.3d 825, 833
+As for the amount of sanctions, this court recently explained        (Knox).)
+that as of 2013, “appellate sanctions for frivolous appeals
+recently had ranged from $6,000 to $12,500, ‘generally, but          “We generally review a ruling granting or denying a
+not exclusively, based on the estimated cost to the court            section 877 settlement credit under the deferential abuse of
+of processing a frivolous appeal.’ ” (Noland, supra, 114             discretion standard. [Citation.] To the extent that we must
+Cal.App.5th at p. 448.) In Noland, we imposed a sanction             decide whether the trial court's ruling was consistent with
+of $10,000 because “nearly all of the quotations in plaintiff's      statutory requirements, we apply the independent standard of
+opening brief, and many of the quotations in plaintiff's             review.” (Wade v. Schrader (2008) 168 Cal.App.4th 1039,
+reply brief, [were] fabricated.” (Id. at pp. 430, 448.) The          1044.)
+deficiencies in this case, while similar in kind, are far less
+widespread. And Azar accepts responsibility for the errors,
+                                                                        B. The trial court did not abuse its discretion in applying
+which he asserts were inadvertent. We will impose a sanction
+                                                                        section 877
+of $900, which shall be payable by Azar to the clerk of this
+                                                                      *7 In the operative complaint, EFD alleged that all
+court within 30 days after the remittitur is filed.
+                                                                     defendants were liable for fraud, aiding and abetting fraud,
+                                                                     and money had and received, and alleged that each defendant
+II. The trial court did not err or abuse its discretion by           acted as the agent or co-conspirator of all other defendants
+offsetting the judgment based on the Bisel Settlement                in committing all the acts leading to EFD's injuries. In short,
+In the “R” appeal, EFD primarily argues that the trial court         all defendants were “tortfeasors claimed to be liable for the
+erred and abused its discretion when it offset the jury's            same tort[s] ....” (§ 877.) The Bisel Defendants settled all
+damages award as to the Band Defendants and Brooks by the            of EFD's claims against them for $375,000, and the court
+amount of the Bisel Settlement. We disagree and affirm.              determined that this was a good faith settlement. (§ 877.6.)
+                                                                     EFD proceeded to a jury trial on its claims against the Band
+                                                                     Defendants and Brooks for fraud, aiding and abetting fraud,
+   A. Legal framework and standard of review                         and money had and received. It won a $109,958.17 verdict.
+“Where a release, dismissal with or without prejudice, or
+a covenant not to sue or not to enforce judgment is given            Under these circumstances, section 877 required that the
+in good faith before verdict or judgment to one or more of           judgment against the nonsettling defendants “shall” be
+a number of tortfeasors claimed to be liable for the same            reduced. And because the Bisel Settlement did not stipulate
+tort ... [¶] (a) ... it shall reduce the claims against the others   the amount of the reduction, the statute required that the
+in the amount stipulated by the release, the dismissal or the        judgment be reduced by the full amount of the settlement.
+covenant, or in the amount of the consideration paid for             (§ 877.) Since “the settlement amount is greater than the
+it, whichever is the greater.” (§ 877, subd. (a).) In other          damage award, the award is entirely offset, resulting in a
+
+
+                © 2026 Thomson Reuters. No claim to original U.S. Government Works.                                               5
+EFD USA, INC., et al., Plaintiffs and Appellants, v. BAND..., Not Reported in...
+
+
+zero judgment.” (Goodman v. Lozano (2010) 47 Cal.4th 1327,           to justify such allocation”]; Alcal Roofing & Insulation
+1330.) The court did not abuse its discretion by complying           v. Superior Court (1992) 8 Cal.App.4th 1121, 1124–1125
+with the statute.                                                    [“where the cash amount of the settlement does not dictate
+                                                                     the amount of the offset, the settling parties must include an
+EFD argues that section 877 does not apply, citing Carr              allocation or a valuation in their agreement”].)
+v. Cove (1973) 33 Cal.App.3d 851, in which the appellate
+court affirmed the trial court's denial of a motion to offset         *8 Thus, unless a plaintiff establishes that there was a “good
+a verdict under section 877. (Carr, at pp. 853, 857.) Carr           faith agreement between plaintiffs and [settling defendants]
+is distinguishable. There, the plaintiff was injured in two          allocating the settlement consideration as between the ...
+car accidents involving different drivers that occurred on           causes of action in which joint tortfeasor status was alleged,
+different dates. The plaintiff sued both drivers in a single         defendants [are] entitled to a setoff of the entire settlement
+lawsuit. She settled with the first driver and proceeded to          figure.” (Knox, supra, 109 Cal.App.3d at p. 836; Dole Food
+trial against the second. The trial court declined to offset         Co., Inc. v. Superior Court (2015) 242 Cal.App.4th 894,
+the verdict against the second driver based on the settlement        916–917 [where settlement was “entirely unallocated,” entire
+against the first. The appellate court affirmed, reasoning           settlement was “theoretically available as a setoff”].)
+that section 877 did not require an offset “where separate
+tortfeasors cause separate injuries,” noting that there was “no      The Bisel Settlement did not stipulate to allocate the
+suggestion that [the first driver] was liable for the second         settlement payment to any specific disputes or transactions.
+accident.” (Carr, at p. 854.)                                        Under these facts, the trial court did not abuse its discretion
+                                                                     in concluding that the nonsettling defendants were “entitled
+Unlike in Carr, the operative complaint in this case alleged         to a setoff of the entire settlement figure.” (Knox, supra, 109
+that all defendants were responsible for all of the fraudulent       Cal.App.3d at p. 836; Dillingham, supra, 64 Cal.App.4th at
+conduct that proceeded to trial. And on appeal, EFD concedes         p. 287 [absent any allocation, the “court must allocate in
+that the Bisel Settlement included a release for claims based        the manner which is most advantageous to the nonsettling
+on the transactions that were presented to the jury, and that        party”].)
+part of the settlement is “attributable” to those transactions.
+Because EFD “claimed” that all defendants were “liable for           EFD's arguments to the contrary are not persuasive. EFD
+the same tort[s],” section 877 applied. (§ 877.)                     contends that the court erred by failing to consider two
+                                                                     declarations filed in support of its opposition to the section
+                                                                     877 offset. Citing contract law principles, EFD asserts that the
+  C. EFD has not established that the trial court erred by           declarations clarify the meaning of the Bisel Settlement. In
+  declining to allocate the Bisel Settlement                         one declaration, Teran claimed that the Bisel Settlement was
+EFD also argues that the Bisel Settlement was allocated to           based on about 38 transactions and “did not include” any of
+certain specific claims or transactions, and the trial court was     the transactions presented to the jury. In the second, EFD's
+required to limit the offset accordingly. We again disagree.         damages expert, Bussell, opined that the Bisel Settlement
+                                                                     resolved “approximately 40 transactions” which “do not
+The parties to a settlement may allocate portions of the             overlap with the 16 leases” addressed at trial. But courts
+settlement payment to certain parties, claims, or categories of      may only consider extrinsic evidence to construe ambiguous
+harm. (Cf. Erreca's v. Superior Court (1993) 19 Cal.App.4th          terms in a contract, not “to alter or add to the terms of the
+1475, 1488 [settlement in construction lawsuit allocated             writing.” (Riverisland, supra, 55 Cal.4th at p. 1174.) The
+between damages attributable to grading errors and damages           Bisel Settlement includes no reference to allocation nor to
+arising from other problems].) “Where there is a complete            any specific transactions. The declarations therefore would
+dismissal of a defendant, and a plaintiff seeks an allocation of     not clarify any ambiguous term; they would “add to” the
+the settlement with that defendant for purposes of limiting the      settlement, and the trial court did not err in ignoring the
+setoff against another defendant's liability, the burden is on the   declarations. (Ibid.)
+plaintiff to establish facts to justify the allocation.” (Ehret v.
+Congoleum Corp. (1999) 73 Cal.App.4th 1308, 1322 (Ehret);            EFD also notes that the Bisel Settlement resolved some
+Erreca's, at p. 1491 [“Where the settling parties have agreed        disputes that were unrelated to the claims that proceeded
+to allocate less than all of the settlement amount to a portion      to trial. It therefore asserts that the overlap between the
+of the causes of action, an evidentiary showing is required
+
+
+                © 2026 Thomson Reuters. No claim to original U.S. Government Works.                                               6
+EFD USA, INC., et al., Plaintiffs and Appellants, v. BAND..., Not Reported in...
+
+
+settlement and the judgment cannot justify a full offset. But        Dills v. Redwoods Associates, Ltd. (1994) 28 Cal.App.4th
+EFD's own authority recognizes that nonsettling defendants           888, 890, fn. 1 [appellate court will not develop appellant's
+are entitled to an offset “absent a showing by plaintiffs that       arguments].) 9
+none of the consideration paid for the settlement related to the
+joint causes of action.” (Dillingham, supra, 64 Cal.App.4th          EFD also claims the trial court erred by failing to compel
+at p. 288.) EFD has not established that the Bisel Settlement        arbitration of the allocation issue. The Bisel Settlement
+was unrelated to the joint causes of action. To the contrary:        specified that any “disagreements over the form or content
+EFD concedes that the Bisel Settlement included a release            of the [Bisel Settlement] shall be decided in a binding
+of liability as to the transactions that proceeded to trial, and     arbitration.” However, EFD did not move to compel
+that some portion of the settlement can be attributed to those       arbitration. Rather, in its motion for a new trial, EFD argued
+transactions.                                                        that the mediator who oversaw the Bisel Settlement “should
+                                                                     be given the opportunity to decide” whether the settlement
+To the extent EFD means to argue that the court should have          “inherently included an allocation and what the nature and
+considered defendants’ relative responsibility, California           extent of that allocation should be.” In short, EFD moved for
+courts have “rejected a plaintiff's contention that the              a new trial on the basis that a hypothetical arbitration might
+nonsettling defendant was only entitled to have the judgment         result in new evidence of allocation. “A motion for a new trial
+against it ‘ “reduced by the proportion of liability attributable    on the grounds of newly discovered evidence is generally ‘a
+to settled co-tortfeasors rather than by the amount of               matter which is committed to the sound discretion of the trial
+consideration given for the settlement.” ’ ” (Knox, supra, 109       court,’ and ‘a reviewing court will not interfere unless a clear
+Cal.App.3d at p. 833, quoting Jaramillo v. State of California       abuse of discretion is shown.’ ” (Aron v. WIB Holdings (2018)
+(1978) 81 Cal.App.3d 968, 970; McGee v. Cessna Aircraft Co.          21 Cal.App.5th 1069, 1078.) The trial court did not abuse its
+(1978) 82 Cal.App.3d 1005, 1022 [same].)                             discretion in declining to order a new trial based on EFD's
+                                                                     speculation that the mediator might retroactively allocate the
+ *9 In addition, EFD contends that the trial court erred
+                                                                     settlement in arbitration. 10
+by failing to “perform the mandatory equitable balancing
+analysis” when resolving defendants’ offset motion. EFD
+refers to one of the “major goals” of sections 877 and               III. EFD has not identified any prejudicial error relating
+877.6: “the equitable sharing of costs among the parties at          to prejudgment interest
+fault ....” (Abbott Ford, Inc. v. Superior Court (1987) 43           Next, EFD argues that the trial court erred by failing
+Cal.3d 858, 872.) But equitable sharing of costs is only             to calculate prejudgment interest. The jury awarded EFD
+relevant to the section 877.6 good faith settlement analysis.        prejudgment interest in its special verdict. (Civ. Code §
+Specifically, a settlement must be “ ‘in the ballpark’ ” of the      3288 [jury may award prejudgment interest in fraud cases].)
+settling defendants’ alleged proportionate liability in order to     The court determined that EFD was entitled to compound
+be approved as a good faith settlement, so that there is “at least   prejudgment interest. However, the court concluded that
+some rough measure of fair apportionment of loss between             no interest could be calculated because, in light of the
+the settling and nonsettling defendants.” (Abbott, at p. 874.)       offset, “there is no balance for interest to accrue on.” It
+EFD does not challenge the trial court's good faith settlement       explained that “a plaintiff, who in good faith settles with
+ruling, and it has not identified any authority establishing that    a joint tortfeasor before judgment against a nonsettling
+equitable sharing of costs plays any role in the subsequent          joint tortfeasor, may thereafter recover from the nonsettling
+section 877 offset analysis.                                         defendants: (a) prejudgment interest up to the date of
+                                                                     settlement on the total judgment; and (b) prejudgment interest
+Next, EFD asserts that the trial court should have                   after the date of settlement only on the balance of the total
+considered certain evidence of Brooks's role in the fraudulent       judgment remaining after its reduction by the settlement sum
+transactions. EFD claims that this supports its assertion that       paid.” (Newby v. Vroman (1992) 11 Cal.App.4th 283, 288
+the court should have allocated the Bisel Settlement in some         (Newby).)
+way. But EFD also fails to explain how the actions of Brooks,
+who was not a party to the Bisel Settlement, could help               *10 The Band Defendants concede that EFD is entitled to
+EFD meet its burden of establishing that the settlement had          “prejudgment interest up to the date of settlement,” which
+been allocated. (Ehret, supra, 73 Cal.App.4th at p. 1322;            was June 5, 2021, “on the total judgment.” (Newby, supra, 11
+
+
+
+                © 2026 Thomson Reuters. No claim to original U.S. Government Works.                                               7
+EFD USA, INC., et al., Plaintiffs and Appellants, v. BAND..., Not Reported in...
+
+
+Cal.App.4th at p. 288.) We agree. But EFD was not entitled to        shown.” (Cortez v. Purolator Air Filtration Products Co.
+interest after the date of settlement, because by that time the      (2000) 23 Cal.4th 163, 180.) 11
+“balance” of the judgment was reduced to zero. (Ibid.)
+
+Even so, “the error was harmless, because it is not reasonably       V. EFD has not established any basis for reversal based
+probable [plaintiff] would have obtained a more favorable            on the trial court's credibility and unclean hands
+result in its absence.” (Soule v. General Motors Corp.               findings
+(1994) 8 Cal.4th 548, 570; see Cal. Const., art. VI, § 13            Next, EFD argues that the judgment must be reversed
+[reversal appropriate only where error caused prejudice].)           because it stated that the court “did not find Georgina
+According to EFD's damages expert, prejudgment compound              Teran to be credible.” According to EFD, the jury's verdict
+interest through June 5, 2021 amounts to $44,418.40. When            reflects an implied finding that Teran was credible, and EFD
+this figure is added to the judgment, the total damages              contends that the jury's implied finding contradicts the court's
+award comes to $153,376.56. The $375,000 Bisel Settlement            credibility finding. However, the court resolved EFD's UCL
+exceeded and fully offset this amount. Thus, although                claims and defendants’ unclean hands arguments at a bench
+plaintiffs were entitled to prejudgment interest through the         trial. As the factfinder on those claims, the court was entitled
+date of the Bisel Settlement, the court correctly concluded that     to make credibility findings, and we defer to those findings.
+EFD's total award was offset by the settlement, and that EFD         (Niko v. Foreman (2006) 144 Cal.App.4th 344, 365.) And
+should take nothing on its complaint.                                even if this finding was in error, EFD fails to explain why
+                                                                     inclusion of the finding in the judgment warrants reversal.
+                                                                     The only authority that EFD cites is Horstmann v. Sheldon
+IV. EFD has not identified any basis to reverse the trial            (1962) 202 Cal.App.2d 184, which noted that statements in
+court's rulings on EFD's UCL claims                                  a memorandum decision “are not a part of the findings or
+EFD also challenges the trial court's treatment of its UCL           judgment.” (Id. at p. 189.) But that rule is irrelevant here, since
+claims. None of its arguments warrants reversal.                     EFD challenges a finding in the judgment itself.
+
+EFD argues that the trial court failed to resolve its UCL claim       *11 EFD also argues that the judgment must be reversed
+against the Band Defendants and Brooks. Not so. The trial            based on the trial court's findings relating to defendants’
+court determined that this claim, though framed as one for           unclean hands defense. This defense was resolved by the
+restitution, was in truth an improper “claim for damages”            trial court, and was not presented to the jury. The court
+and rejected it. (Korea Supply, supra, 29 Cal.4th at p. 1150         found that “EFD, Teran, Band Pro, Brooks, Bisel, and Amnon
+[“individuals may not recover damages” in an action under            Band actively participated in a scheme to defraud financial
+the UCL].) EFD's appellate briefing does not challenge this          lenders.” But the court also found that EFD “purged its fraud”
+aspect of the trial court's ruling, and therefore EFD forfeited      by paying of all loans to those lenders. It therefore concluded
+any claim of error. (Wall Street Network, Ltd. v. New York           that EFD's claims were not barred by the unclean hands
+Times Co. (2008) 164 Cal.App.4th 1171, 1177.) EFD also               defense.
+asserts that the trial court failed to provide any relief on
+its UCL claims against DVWI. In fact, the court concluded            Ordinarily, we review a trial court's factual findings for
+that DVWI was liable under the UCL and accepted EFD's                substantial evidence. (SFPP v. Burlington Northern & Santa
+argument that it was entitled to $23,527.29 in restitution. But      Fe Ry. Co. (2004) 121 Cal.App.4th 452, 462.) EFD does
+the court determined that this amount would be offset by the         not argue that the court's findings are unsupported by
+Bisel Settlement. EFD does not acknowledge or challenge              substantial evidence. Instead, it asserts that the findings
+that decision. It therefore forfeited any challenge to the ruling.   warrant reversal because they contradict the jury's verdict,
+(Ibid.)                                                              which, according to EFD, implies a finding that EFD did
+                                                                     not engage in any fraud. In support of this claim, EFD
+EFD also argues that the court should have issued an                 cites the jury instructions on intentional misrepresentation,
+injunction. But EFD did not request that remedy. And                 concealment, the statute of limitations, and agency. However,
+while EFD claims injunctive relief is required for any               those instructions demonstrate only that the jury was asked
+UCL violation, in truth the UCL “does not mandate ...                to determine whether EFD was harmed when Band Bro,
+injunctive relief when an unfair business practice has been          Band, and Brooks concealed and intentionally misrepresented
+
+
+
+                © 2026 Thomson Reuters. No claim to original U.S. Government Works.                                                  8
+EFD USA, INC., et al., Plaintiffs and Appellants, v. BAND..., Not Reported in...
+
+
+certain information. The instructions say nothing about            585. “The court shall hear the evidence offered by the
+financial lenders. EFD has not established that any finding        plaintiff, and shall render judgment in the plaintiff's favor for
+implied by the judgment contradicts the trial court's finding      that relief, not exceeding the amount stated in the complaint ...
+that plaintiffs participated in fraud against lenders.             as appears by the evidence to be just.” (§ 585, subd. (b).) The
+                                                                   plaintiff need only make a prima facie showing of entitlement
+Even if the court's findings conflicted with the verdict, we       to damages. (Johnson v. Stanhiser (1999) 72 Cal.App.4th
+would find no error. EFD asserts that the findings require         357, 361 (Johnson).) Nonetheless, “ ‘[p]laintiffs in a default
+reversal under Hoopes v. Dolan (2008) 168 Cal.App.4th 146,         judgment proceeding must prove they are entitled to the
+which recognized that a court may not “ ‘grant equitable relief    damages claimed.’ ” (Kim v. Westmoore Partners, Inc. (2011)
+inconsistent with the jury's findings.’ ” (Id. at p. 159.) But     201 Cal.App.4th 267, 288.)
+the trial court did not grant relief that is inconsistent with
+any implied finding—rather, the court rejected the equitable       The reviewing court may set aside a damages award
+defense of unclean hands that would have barred plaintiffs’        following a default judgment only when the award is “ ‘so
+recovery.                                                          disproportionate to the evidence as to suggest that the verdict
+                                                                   was the result of passion, prejudice or corruption [citations]
+EFD similarly argues that the judgment should be reversed          or where the award is so out of proportion to the evidence that
+because the court's findings are inconsistent with its ultimate    it shocks the conscience of the appellate court.’ ” (Johnson,
+rejection of the unclean hands defense. We discern no              supra, 72 Cal.App.4th at p. 361.)
+inconsistency. The court found that EFD participated in fraud
+against financial lenders. It separately determined that EFD
+purged that fraud by paying the lenders in full, thus rendering       B. EFD has not established that the award as to
+the unclean hands defense inapplicable. It is difficult to            GroundSeven was disproportionate to the evidence
+imagine how the court could have assessed the latter question      In its request for a default judgment as to GroundSeven,
+without first resolving the former—there was no reason for         EFD asked for $591,126.23 in damages plus $444,760.19
+the court to consider whether EFD had purged any fraud             in prejudgment interest. The court's statement of decision
+unless the court had already found that it had engaged in fraud.   and judgment awarded EFD $49,481 in damages against
+                                                                   GroundSeven and $41,847.37 in prejudgment interest. The
+Finally, EFD asserts that the court was “not authorized” to        statement of decision did not provide any reasoning for this
+make findings relating to the rejected unclean hands defense.      ruling. However, in its order denying GroundSeven's motion
+We again disagree. A court must “issue a statement of              for a new trial, the court found that Brooks was the sole
+decision explaining the factual and legal basis for its decision   owner and agent of GroundSeven. It concluded that EFD had
+as to each of the principal controverted issues at trial upon      not established that Brooks or GroundSeven had caused any
+the request of any party appearing at the trial.” (§ 632.) EFD     damages beyond those awarded by the jury, and therefore it
+itself requested a statement of decision on the unclean hands      limited the damages against GroundSeven to the amount that
+defense, and the trial court was required to explain the factual   the jury allocated to Brooks.
+basis for its ruling on that issue.
+                                                                   EFD argues that the damages award was disproportionate
+                                                                   to the evidence. It contends that the court ignored evidence
+VI. EFD has not established any basis for reversal of the          that Brooks participated in fraudulent transactions beyond
+GroundSeven default judgment                                       those presented to the jury—namely, trial exhibits 603a and
+EFD also appeals from the default judgment as to                   603b. These two exhibits are spreadsheets that list certain
+GroundSeven and the order denying its motion for a new trial.      details, including Brooks's commission, for several invoices
+EFD primarily argues that the court's damages award was            issued by Novation between 2012 and 2015. Although
+inadequate. We again conclude that EFD has not identified          the two exhibits do not mention GroundSeven, Brooks
+any basis for reversal.                                            testified that GroundSeven “absorbed” Novation in 2014.
+                                                                   According to EFD and its expert Bussell, the two exhibits
+                                                                   were produced by Brooks, and they establish that Novation
+   A. Legal framework and standard of review                       received commissions from about 24 fraudulent transactions.
+ *12 When a defendant fails to answer the complaint, the           EFD asserts that GroundSeven should be held liable for all
+plaintiff may request a default judgment pursuant to section
+
+
+                © 2026 Thomson Reuters. No claim to original U.S. Government Works.                                              9
+EFD USA, INC., et al., Plaintiffs and Appellants, v. BAND..., Not Reported in...
+
+
+
+damages described in exhibits 603a and 603b, and not just the        Student, Inc. (2019) 37 Cal.App.5th 270, 277 [appellant's
+damages that the jury allocated to Brooks.                           burden is to “provide adequate record citations” supporting
+                                                                     arguments on appeal].)
+This argument fails. Aside from its expert's declaration, EFD
+has not cited anything in the record to support its assertion that   Finally, in both appeals, EFD contends that the trial
+the two exhibits are “Brooks’ own summary of transactions            court erred by declining to offset the GroundSeven default
+presented at the jury trial.” The documents do not include any       judgment by the amount of the Bisel Settlement, and that
+title or Bates number establishing their provenance. Although        any offset should be allocated pro rata among all defendants.
+we have no obligation to do so, we have independently                We presume EFD intended for these arguments to depend
+searched the reporter's transcript provided to this court, and       on the success of its argument that the GroundSeven default
+we found no testimony discussing either exhibit number.              judgment was inadequate. Otherwise, offsetting the default
+                                                                     judgment would reduce the award against GroundSeven to
+(Dills, supra, 28 Cal.App.4th at p. 890, fn. 1 [appellate court
+                                                                     zero. Because we affirm the GroundSeven default judgment,
+will not develop appellant's arguments].)
+                                                                     we decline to reach these contingent points.
+EFD also asserts that GroundSeven should be held liable
+for all damages identified in the complaint because, by
+defaulting, it admitted all well-pleaded allegations therein                                 DISPOSITION
+—including the allegations that all defendants were joint
+tortfeasors who were jointly and severally liable for EFD's          We affirm the judgment as to the Band Defendants and
+damages. This argument also fails. “ ‘[A] defendant who fails        Brooks, the default judgment as to GroundSeven, and the
+to answer admits only facts that are well pleaded.’ ” (Falahati      order denying EFD's motion for a new trial.
+v. Kondo (2005) 127 Cal.App.4th 823, 829.) Joint and several
+                                                                     Attorney David E. Azar is directed to pay $900 in sanctions,
+liability is a legal conclusion. 12 (Cf. Wimberly v. Derby
+                                                                     payable to the clerk of this court, no later than 30 days after
+Cycle Corp. (1997) 56 Cal.App.4th 618, 628.) Conceivably, a
+                                                                     the remittitur is filed. The clerk is directed to deposit this sum
+complaint could include well-pleaded allegations such that a
+                                                                     into the court's general fund.
+defaulting defendant might admit facts supporting his or her
+joint liability. But the operative complaint included no factual
+                                                                     Respondents shall recover their costs on appeal.
+allegations about GroundSeven, meaning there were no facts
+for it to admit. According to the trial court, plaintiffs named
+                                                                     NOT TO BE PUBLISHED IN THE OFFICIAL
+GroundSeven as a Doe defendant on September 19, 2019. But
+                                                                     REPORTS
+the record on appeal does not include any filings from that
+date, meaning the record does not reflect what well-pleaded
+facts, if any, were alleged about GroundSeven's role. 13
+                                                                     We concur:
+ *13 Next, EFD argues that the trial court ruling must be
+                                                                     EDMON, P. J.
+reversed if the court relied on Brooks's opposition to EFD's
+application for a default judgment as to GroundSeven. But the        ADAMS, J.
+statement of decision did not mention Brooks's opposition,
+and EFD has not identified anything in the record to support         All Citations
+its speculative argument that the court relied on it. We
+therefore reject this point as forfeited. (Hernandez v. First        Not Reported in Cal.Rptr., 2026 WL 457265
+
+
+
+
+                                                             Footnotes
+
+
+1       Because the exact nature of the fraud is not relevant to any issue on appeal, we do not describe it any further.
+
+
+
+
+                © 2026 Thomson Reuters. No claim to original U.S. Government Works.                                               10
+EFD USA, INC., et al., Plaintiffs and Appellants, v. BAND..., Not Reported in...
+
+
+2      Undesignated statutory references are to the Code of Civil Procedure.
+
+3      The jury's special verdict specified damages to three decimal points.
+
+4      Both notices of appeal also identify Teran as an appellant. However, appellants’ briefing does not challenge
+       the trial court's grant of summary adjudication on the only two counts brought by Teran. Similarly, the notice
+       of appeal in the “R” appeal purports to challenge postjudgment orders, but EFD's appellate briefing does not
+       separately challenge any such orders. We therefore reject any argument as to these issues as abandoned.
+       (Case v. State Farm Mutual Automobile Ins. Co., Inc. (2018) 30 Cal.App.5th 397, 402 (Case) [“[O]ur review
+       is limited to contentions adequately raised in [appellant's] briefs”].)
+
+5      Lilienthal addressed “whether the trial court may refuse to rule on the merits of a summary adjudication
+       motion made pursuant to [section 437c, subdivision (f)], when such an adjudication would not dispose of an
+       entire cause of action because two separate and distinct wrongful acts are combined in the same cause of
+       action.” (Lilienthal, supra, 12 Cal.App.4th at p. 1850.) EFD does not explain why this rule could or should be
+       applied in the context of section 877 settlement offsets.
+
+6      For example, EFD claims that in Dell'Oca v. Bank of New York Trust Co., N.A. (2008) 159 Cal.App.4th 531,
+       the court held that an offset was “improper,” but in fact the court expressly declined to resolve the offset issue
+       raised on appeal. (Id. at p. 561.) EFD also asserts that this case “mirrors Dillingham [Construction], N.A., Inc.
+       v. Nadel [Partnership], Inc. (1998) 64 Cal.App.4th 264 [(Dillingham)].” But a section 877 offset was “not an
+       issue” in Dillingham. (Dillingham, at p. 282.)
+
+7      The case reasoned that the appellants “implicitly concede[d]” a point by failing to respond to it in their reply.
+       (Rudick, supra, 41 Cal.App.5th at p. 90.) Of course, appellants bear the burden of establishing error on appeal.
+       A respondent has no such burden, and “even a respondent's complete failure to address an appellant's
+       argument does not require us to treat the failure to respond as a concession the argument has merit.” (Griffin
+       v. The Haunted Hotel, Inc. (2015) 242 Cal.App.4th 490, 505.)
+
+8      Sanctions may also be awarded to compensate a party for the costs of responding to a frivolous appeal.
+       Respondents did not request a sanctions award on this basis.
+
+9      Relatedly, in the “R” appeal, EFD asserts that the trial court should have awarded greater damages as
+       to GroundSeven based on Brooks's conduct, and that the court should have considered that award when
+       determining how to apply the section 877 offset. Because EFD raised these same arguments in its separate
+       appeal from the GroundSeven default judgment, we address these issues in our analysis of that appeal.
+
+10     For the first time in its reply brief in the “R” appeal, EFD asks this court to reverse postjudgment orders
+       awarding costs to respondents, vacate the associated cost awards, and declare EFD the prevailing party.
+       EFD has not articulated any independent basis for these requests, and they appear to depend on the success
+       of its arguments relating to the section 877 offset. Because we affirm the trial court ruling on the offset, we
+       deny these requests.
+
+11     EFD claims that People v. Pacific Land Research Co. (1977) 20 Cal.3d 10, stands for the proposition that
+       “injunctive relief [is] mandatory to prevent future violations” of the UCL. Not so. The case stated that “[t]he
+       purpose of injunctive relief is to prevent continued violations of law,” not that an injunction is required under
+       any particular circumstances. (Id. at p. 17.)
+
+12     For example, as EFD acknowledges in its reply in the “R” appeal, “[t]he agency allegation at issue is a legal
+       conclusion, not a factual admission.”
+
+
+
+
+               © 2026 Thomson Reuters. No claim to original U.S. Government Works.                                   11
+EFD USA, INC., et al., Plaintiffs and Appellants, v. BAND..., Not Reported in...
+
+
+13     In support of this point, EFD cites several cases discussing the treatment of joint and several liability for
+       noneconomic damages. These cases are inapposite, because EFD only sought economic damages, i.e., “
+       ‘objectively verifiable monetary losses ....’ ” (DaFonte v. Up-Right, Inc. (1992) 2 Cal.4th 593, 600.)
+
+
+
+End of Document                                             © 2026 Thomson Reuters. No claim to original U.S. Government Works.
+
+
+
+
+               © 2026 Thomson Reuters. No claim to original U.S. Government Works.                                         12
+

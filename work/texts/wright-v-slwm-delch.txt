@@ -1,0 +1,1067 @@
+     IN THE COURT OF CHANCERY OF THE STATE OF DELAWARE
+
+JEFFREY WRIGHT,                           )
+                                          )
+             Plaintiff,                   )
+                                          )
+      v.                                  ) C.A. No. 2024-1339-JTL
+                                          )
+SLWM, LLC,                                )
+                                          )
+             Defendant.                   )
+
+               OPINION GRANTING MOTION TO COMPEL
+
+                          Date Submitted: May 19, 2025
+                           Date Decided: June 25, 2025
+
+Seth A. Niederman, FOX ROTHSCHILD LLP, Wilmington, Delaware; Adam Wolek,
+FOX ROTHSCHILD LLP, West Palm Beach, Florida; Clarissa Sullivan, FOX
+ROTHSCHILD LLP, Philadelphia, Pennsylvania; Counsel for Plaintiff Jeffrey
+Wright.
+
+David S. Eagle, KLEHR HARRISON HARVEY BRAZNBURG LLP, Wilmington,
+Delaware; Bonita L. Stone, KATTEN MUCHIN ROSEN LLP, Chicago, Illinois;
+Counsel for Defendant SLWM, LLC.
+
+
+
+LASTER, V.C.
+      The plaintiff served interrogatories and requests for production of documents.
+
+The defendant bobbed and weaved, relying on a host of general objections. The parties
+
+met and conferred, but made little progress. The plaintiff moved to compel. This
+
+decision grants the motion. By separate order, the court will appoint a discovery
+
+facilitator to help the parties develop and implement a reasonable process for
+
+collecting, reviewing, and producing documents.
+
+                        I.     FACTUAL BACKGROUND
+
+      The facts are drawn from the submissions made in connection with the motion
+
+to compel.1 The following discussion does not comprise findings of fact in the post-
+
+trial sense, but represents how the record appears at this preliminary stage.
+
+A.    The Employment Agreements
+
+      In February 2010, Jeffrey Wright started work at Webb-Mason, Inc., a
+
+predecessor to SLWM, Inc. (the “Company”). Wright sold branded print and
+
+promotional products.
+
+      When Wright joined the Company, he signed an employment agreement
+
+containing restrictive covenants (the “2010 Agreement”). In 2022, he signed an
+
+“Employee Confidentiality, Non-Competition, Non-Solicitation and Assignment of
+
+
+
+
+      1 Citations in the form “Mot. ¶___” refer to paragraphs in Wright’s motion to
+
+compel. Citations in the form “Opp. ¶___” refer to paragraphs in the opposition to the
+motion to compel. Citations in the form “Compl. ¶ ___” refer to paragraphs of the
+operative complaint. Citations in the form “Marchetti Dec. ¶ ___” refer to paragraphs
+in the Declaration of Michael Marchetti. Citations to “[Filing] Ex. [Number]” refer to
+exhibits submitting with filings.
+Work Product Agreement” (the “2022 Agreement”). In 2023, he signed an
+
+“Amendment to Employment Agreement” (the “2023 Agreement”) that changed his
+
+commission schedule. In 2024, Wright signed a letter agreement that changed his
+
+title and commission schedule (the “2024 Agreement”).
+
+      In the waning days of summer 2024, Wright contacted one of the Company’s
+
+competitors about possible employment. In September, he spoke with the Company’s
+
+CEO about his intent to resign and continue working in the industry. The next day,
+
+Wright formally resigned. In his resignation email, he stated he was “keenly aware
+
+of the Non-compete, Non-solicit, and all facets.” Dkt. 44 Ex. L.
+
+      Wright asked to be released from the 2022 Agreement, and he offered to agree
+
+to restrictions to avoid competition. The Company responded that Wright remained
+
+bound by the 2010 Agreement and the 2022 Agreement. Wright countered that the
+
+2024 Agreement superseded all prior agreements.
+
+B.    This Litigation
+
+      On December 23, 2024, Wright filed this lawsuit. He seeks declaratory relief
+
+establishing that the restrictive covenants do not bind him and injunctive relief
+
+barring the Company from enforcing them. The court granted expedition and
+
+scheduled a preliminary injunction hearing.
+
+      On January 23, 2025, after briefing and argument, the court granted a
+
+preliminary injunction in Wright’s favor. The preliminary injunction prevents the
+
+Company from “enforcing or attempting to enforce restrictive covenants . . . until
+
+
+
+
+                                          2
+further order of the Court or the resolution of the underlying action, whichever occurs
+
+first.” Dkt. 54. ¶¶ 2–3.
+
+C.    The Discovery Dispute
+
+      The preliminary injunction did not end the case, and the parties continue to
+
+litigate. On February 7, 2025, Wright served his First Set of Requests for Documents
+
+and First Set of Interrogatories. The deadline to respond was March 9. On March 5,
+
+the Company asked for a twenty-one-day extension. Wright granted the Company
+
+that courtesy.
+
+      On March 31, 2025, the Company served its responses. They consisted of a host
+
+of objections. The Company did not respond substantively to any of Wright’s requests.
+
+The Company did not produce any documents.
+
+      On April 10, 2025, Wright sent the Company a deficiency letter. The parties
+
+met and conferred on April 15 and April 17. The Company agreed to respond to only
+
+a few requests.
+
+      Later on April 17, 2025, Wright emailed the Company a summary of his
+
+understanding of the agreements reached at the meet-and-confer session. The email
+
+highlighted the remaining deficiencies. Wright asked for a response by April 24. The
+
+Company did not meet that deadline, citing a scheduling conflict. On April 28, the
+
+Company provided its own summary of the parties’ agreements and remaining issues.
+
+The two sides differed about what took place.
+
+
+
+
+                                          3
+      On May 6, 2025, Wright moved to compel. He seeks supplemental responses to
+
+his requests and interrogatories. Wright also asks for an order directing the Company
+
+to identify custodians and conduct searches.
+
+                              II.   LEGAL ANALYSIS
+
+      “[P]retrial discovery rules are to be afforded broad and liberal treatment.” Levy
+
+v. Stern, 687 A.2d 573 (Del. 1996) (TABLE). “The scope of discovery pursuant to Court
+
+of Chancery Rule 26(b) is broad and far-reaching[.]” Cal. Pub. Emps. Ret. Sys. v.
+
+Coulter, 2004 WL 1238443, at *1 (Del. Ch. May 26, 2004) (cleaned up). “[T]he spirit
+
+of Rule 26(b) calls for all relevant information, however remote, to be brought out for
+
+inspection not only by the opposing party but also for the benefit of the Court[.]” Boxer
+
+v. Husky Oil Co., 1981 WL 15479, at *2 (Del. Ch. Nov. 9, 1981). “Discovery is called
+
+that for a reason. It is not called hide the ball.” Twitter, Inc. v. Musk, 2022 WL
+
+3591142, at *1 (Del. Ch. Aug. 23, 2022) (cleaned up).
+
+      Rule 26(b)(1) states:
+
+      Parties may obtain discovery regarding any non-privileged matter that
+      is relevant to any party's claim or defense and proportional to the needs
+      of the case, including the existence, description, nature, custody,
+      condition and location of any documents, electronically stored
+      information, or tangible things and the identity and location of persons
+      having knowledge of any discoverable matter. It is not ground for
+      objection that the information sought will be inadmissible at the trial.
+
+Ct. Ch. R. 26(b)(1). The burden therefore is on the objecting party to show why and
+
+how the information requested is privileged or otherwise improperly requested.” Van
+
+de Walle v. Unimation, Inc., 1984 WL 8270, at *2 (Del. Ch. Oct. 15, 1984).
+
+
+
+
+                                           4
+      For that purpose, generic and formulaic objections are insufficient.2
+
+      For an objecting party to carry its burden, the objection must be specific,
+      the party making it must explain why it applies on the facts of the case
+      to the request being made, and if the party is providing information
+      subject to the objection, the party must articulate how it is applying the
+      objection to limit the information it is providing.3
+
+Objections must be “plain enough and specific enough so that the Court can
+
+understand in what way the discovery is claimed to be objectionable.” Van de Walle,
+
+1984 WL 8270, at *2.
+
+
+
+
+      2 In re Oxbow Carbon LLC Unitholder Litig., 2017 WL 959396, at *2 (Del. Ch.
+
+Mar. 13, 2017); accord Byte Fed., Inc. v. Lux Vending LLC, 2024 WL 1912950, at *2
+(M.D. Fla. May 1, 2024); Weatherspoon v. 739 Iberville, LLC, 2022 WL 824618, at *5–
+6 (E.D. La. Mar. 18, 2022).
+
+      3 Oxbow, 2017 WL 959396, at *3; see In re Appraisal of Dell Inc., C.A. No. 9322-
+
+VCL, at 14 (Del. Ch. April 10, 2014) (TRANSCRIPT) (“[I]n terms of responses and
+objections [to discovery requests] . . . responses and objections need to be meaningful.
+They need to be not obfuscatory.”); id. (“So when you make your discovery responses,
+you need to actually tell the other side what you are doing.”); DuraSeal Coatings Co.
+v. Rose, C.A. No. 8660-VCL (Del. Ch. Aug. 28, 2013) (TRANSCRIPT) (rejecting
+“objections like declining to produce documents that otherwise are publicly available
+or declining to produce documents that you believe to be in the other party's custody
+and control.”).
+
+       Ample federal authorities reach the same conclusion. See Josephs v. Harris
+Corp., 677 F.2d 985, 992 (3d Cir. 1982) (explaining that a party's objections must
+“show specifically how each interrogatory is not relevant or how each question is
+overly broad, burdensome or oppressive” (cleaned up)); DL v. District of Columbia,
+251 F.R.D. 38, 43 (D.D.C. 2008) (explaining that if party's objections “are not applied
+with sufficient specificity to enable this Court to evaluate their merits . . . this Court
+will overrule [the party's] objections in their entirety”); In re Folding Carton Antitrust
+Litig., 83 F.R.D. 260, 264 (N.D. Ill 1979) (“Objections to interrogatories must be
+specific and [be] supported by a detailed explanation why the interrogatories are
+improper.”). Federal decisions can be persuasive because the Court of Chancery Rules
+are modeled on the Federal Rules of Civil Procedure. See Plummer v. Sherman, 861
+A.2d 1238, 1242 (Del. 2004).
+
+                                            5
+A.    The Company’s Improper Boilerplate Objections
+
+      Wright contends that the Company’s responses contain boilerplate objections
+
+that make it impossible to determine what the Company will provide. Boilerplate
+
+objections are broad, generalized objections that make no effort to explain how the
+
+request is objectionable and do not state how the responding party interprets the
+
+request. Classic examples include objections that a term or request is overly broad,
+
+unduly burdensome, vague, irrelevant, or not proportionate to the needs of the case,
+
+each without specific details.
+
+       Boilerplate objections “persist despite a litany of decisions from courts . . . that
+
+such objections are improper unless based on particularized facts.” 4 Besides
+
+contravening extensive case law, they violate the Court of Chancery Rules. Rule
+
+34(b), which governs responses to document requests, requires that “the grounds and
+
+reasons for objection(s) shall be stated with specificity.” Rule 33(b)(4), which governs
+
+interrogatories, requires that “[a]ll grounds for an objection to an interrogatory shall
+
+be stated with specificity.”
+
+
+
+
+      4 Mancia v. Mayflower Textile Servs. Co., 253 F.R.D. 354, 358–59 (D. Md. 2008)
+
+(collecting authorities)); accord McLeod, Alexander, Powel & Apffel, P.C. v. Quarles,
+894 F.2d 1482, 1485–86 (5th Cir.1990) (explaining that simply objecting to requests
+as “overly broad, burdensome, oppressive and irrelevant,” without showing
+“specifically how each [request] is not relevant or how each question is overly broad,
+burdensome or oppressive” is inadequate to “voice a successful objection.”); A. Farber
+& Partners, Inc. v. Garber, 234 F.R.D. 186, 188 (C.D. Cal. 2006) (“As an initial matter,
+general or boilerplate objections such as ‘overly burdensome and harassing’ are
+improper—especially when a party fails to submit any evidentiary declarations
+supporting such objections.” (citations omitted)).
+
+                                            6
+      Demanding specific objections is not persnicketiness. Boilerplate objections
+
+obfuscate. Matthew L. Jarvey, Boilerplate Discovery Objections: How They Are Used,
+
+Why They Are Wrong, and What We Can Do About Them, 61 Drake L. Rev. 913, 918
+
+(2013). “Boilerplate isn’t just empty content; it is the enemy of content.” Steven S.
+
+Gensler & Lee H. Rosenthal, Breaking the Boilerplate Habit in Civil Discovery, 51
+
+Akron L. Rev. 683, 683 (2017). Boilerplate objections are unfair to the requesting
+
+party, because they fail to inform the requesting party why its request is specifically
+
+objectionable. They also force parties to expend resources unnecessarily, because the
+
+requesting party must follow up with deficiency letters and meet-and-confer sessions
+
+to find out what, if anything, the boilerplate objections mean.5 And they waste judicial
+
+resources, because courts end up having to rule on the boilerplate objections
+
+themselves or attempt to assess the validity of responses laden with objections.6
+
+      Consequently, “boilerplate, generalized objections” are “inadequate and
+
+tantamount to not making any objection at all.” Oxbow, 2017 WL 959396, at *2
+
+(collecting authorities). Indeed, asserting boilerplate objections constitutes “prima
+
+facie evidence of a Rule 26 violation, which causes the objecting party to waive any
+
+
+
+
+      5 Weatherspoon, 2022 WL 824618, at *6 (“Objections that fail to provide an
+
+appropriate factual basis make it difficult for the parties to discuss any alleged
+defects even informally in a discovery request or response in hope of fixing the defects.
+This inhibits the parties’ abilities to resolve discovery disputes on their own, as
+intended by the Rules.” (citation omitted)).
+
+      6 Id. at *5 (“A judge should not have to wade through a sea of boilerplate
+
+objections only to discover that the objections did not represent the party's actual
+position but were merely used to make the discovery process more difficult.”)
+
+                                           7
+legitimate objections that they may or may not have had.” Id. (internal quotation
+
+marks omitted); accord Bocock v. Innovate Corp., 2023 WL 8453525, at *3 (Del. Ch.
+
+Dec. 6, 2023).
+
+      1.     “To the extent that” Objections
+
+      One type of boilerplate objection is the “to the extent that” objection. That type
+
+typically begins with or contains the phrase “to the extent that” or some variant, such
+
+as “Defendant objects to the results to the extent that they fail to comply with the
+
+Court of Chancery Rules.” If the objecting party does not identify how the objection
+
+fails to comply with the Court of Chancery rules, then the requesting party has no
+
+way to know what the responding party is asserting. Pfizer, Inc. v. Amgen Fremont
+
+Inc., C.A. No. 10667-VCL, at 7, 10 (Del. Ch. July 6, 2015) (TRANSCRIPT). Objections
+
+of this type are improper because they do not provide any information about what the
+
+responding party will provide. Lake Treasure Hldgs. Ltd. v. Foundry Hill GP LLC,
+
+No. 6546-VCL, 22 (Del. Ch. Sept. 11, 2012) (TRANSCRIPT).
+
+      A sibling version of the “to the extent” objection starts with a list of general
+
+objections and then states that the party will produce documents or provide
+
+interrogatory responses “subject to the objections.” Here again, the requesting party
+
+has no way to evaluate where the responding party is drawing the line. Objections of
+
+this type are similarly improper.7
+
+
+
+
+      7 Oxbow, 2017 WL 959396, at *2 (noting that is “particularly evasive for a
+
+response to recite broad, generic, and formulaic objections, then purport to answer
+‘subject to the objections.’”); accord Chevron Midstream Pipelines LLC v. Settoon
+Towing LLC, 2015 WL 269051, at *4 (E.D. La. Jan. 21, 2015) (explaining that a “to
+                                          8
+      The Company violated these principles. The Company objects to “the Requests
+
+to the extent they seek to impose objections on SLWM greater than or different from
+
+those established by the applicable Chancery Court rules.” Mot. Ex. 2 at 1. That
+
+objection is obfuscatory. It is overruled.
+
+      Next, the Company objects to requests to the extent that they seek documents
+
+subject to attorney-client privilege, work-product doctrine, or any other privilege or
+
+immunity. Objecting to producing documents subject to attorney-client privilege and
+
+work-product doctrine is legitimate, but only if the Company promptly provides a
+
+privilege log. The reference to any “other privilege or immunity” is improper. If the
+
+Company believes it has other privileges or immunities to assert, then it must say so.
+
+Otherwise the requesting party cannot know what to challenge. The objection
+
+invoking an unidentified privilege or immunity is overruled.
+
+      Next, the Company objects to producing documents to the extent the requests
+
+contain implicit or explicit characterizations of discovery materials. That objection is
+
+inscrutable. It is overruled.
+
+
+
+
+the extent” objection “is not really an objection at all and it comes nowhere near
+complying with the requirement of Rule 26”); Guzman v. Irmadan, Inc., 249 F.R.D.
+399, 401 (S.D. Fla. 2008) (“Parties shall not recite a formulaic objection followed by
+an answer to the request. It has become common practice for a party to object on the
+basis of any of the above reasons, and then state that ‘notwithstanding the above,’
+the party will respond to the discovery request, subject to or without waiving such
+objection. Such objection and answer preserves nothing, and constitutes only a waste
+of effort and the resources of both the parties and the court.”).
+
+                                             9
+      Finally, the Company objects to producing discovery to the extent that Wright
+
+has greater or equal access. That is not a proper objection, because the Company does
+
+not say what it has in mind. Is the Company improperly objecting to producing emails
+
+where Wright was an addressee on the theory he must have received them? Does the
+
+Company think Wright has a cache of records somewhere? The objection is overruled.
+
+      2.     Vagueness and Ambiguity Objections
+
+      A second type of boilerplate objection involves assertions that a term, request,
+
+or interrogatory is vague or ambiguous.8 Often these objections dispute the way the
+
+requesting party has defined a term. A general objection to that effect is improper.
+
+Proficient English language speakers can usually discern what the request or
+
+interrogatory seeks, while also recognizing that the requester does not want to shoot
+
+themselves in the foot by artificially limiting the request in a way that could have
+
+unforeseen effects. The responding party therefore must specifically object to what is
+
+vague or ambiguous and explain how the responding party will interpret the request
+
+to make a good-faith effort to respond. An objection that does not do both is
+
+
+
+
+      8 See VeroBlue Farms USA Inc. v. Wulf, 111 Fed. R. Serv. 3d 505 (N.D. Tex.
+
+2021) ([A] party objecting to discovery as vague or ambiguous has the burden to show
+such vagueness or ambiguity); Rogers v. Giurbino, 288 F.R.D. 469, 487 (S.D. Cal.
+2012) (“To assert that institutional safety would be compromised by answering the
+interrogatory, the Defendant must provide more than a vague boilerplate objection).
+
+                                         10
+inadequate.9 Objections to familiar terms or phrases with a commonly understood
+
+meaning are improper.10
+
+      The Company initially objected to nine requests and interrogatories as vague.
+
+The Company did not say how it was interpreting the requests and interrogatories in
+
+a good-faith effort to provide discovery. Through the meet-and-confer process, the
+
+parties resolved seven of the disputes, but that does not mean the original objections
+
+were proper. They were not.
+
+      Two vagueness objections remain. The Company objected twice to the phrase
+
+“status of the account” as vague and ambiguous. Mot. Ex 2 at 21–22. Both requests
+
+seek documents relating to the “status of the account . . . including any missed or late
+
+payments.” Id. Read in context, the reference to the “status of the account” refers to
+
+whether the account is active, in good standing, in arrears, subject to late or missed
+
+
+
+
+      9 See Moreno Rivera v. DHL Glob. Forwarding, 272 F.R.D. 50, 57 (D.P.R. 2011)
+
+(finding general objections to vagueness were themselves “vague and impermissibly
+overbroad”).
+
+      10 Oxbow, 2017 WL 959396, at *6 (“The objections to straightforward English
+
+terms are not credible.”); Pfizer Inc. v. Amgen Fremont Inc., C.A. No. 10667-VCL, at
+16–19 (Del. Ch. July 6, 2015) (TRANSCRIPT) (“You guys don't get to say things like,
+‘Oh, we don't understand this word,’ or ‘Oh, this word is vague.’ I read the [discovery]
+requests. . . . It is not credible and does not score you points with me to pretend that
+you have lost the ability to speak the English language.”); see Chesapeake Operating,
+Inc. v. Stratco Operating Co., 2009 WL 426101, at *5 (M.D. La. 2009) (finding that
+“the term ‘operational’ is not overly vague and is one commonly used in the oil and
+gas industry, as is evidenced by jurisprudence dealing with the industry”); Frost v.
+Perry, 161 F.R.D. 434, 487 (D. Nev. 1995) (finding phrase “the operating location near
+[specified lake]” was not vague); Frontier-Kemper Constructors, Inc. v. Elk Run Coal
+Co., 246 F.R.D. 522, 531 (S.D. W. Va. 2007) (finding phrase “increased cost and time”
+was not vague).
+
+                                          11
+payments, or otherwise impaired. If one of the Company’s executives asked about the
+
+status of an account, an employee would not have asked what she meant. The
+
+employee would answer. The objections to this phrase were improper and are
+
+overruled. For reasons discussed below, the other objections to these requests are
+
+overruled as well. The Company must produce responsive documents.
+
+      Not all of the Company’s objections were improper. To give credit where credit
+
+is due, the Company properly objected to Request 8, which asked for “[c]opies of all
+
+monthly commission statements for Plaintiff and Customers Serviced by Plaintiff
+
+from January 1, 2024 through December 31, 2024.” Mot. Ex. 2 at 8. The Company
+
+objected to the request as vague and confusing and explained that “customers do not
+
+receive commission statements.” Id. That is a proper objection because the Company
+
+explained what it was talking about.
+
+      3.     Relevance Objections
+
+      A third type of boilerplate objections invokes relevance. The concept of
+
+relevance lies at the heart of discovery. Court of Chancery Rule 26 allows parties to
+
+obtain discovery regarding “any non-privileged matter that is relevant to any party’s
+
+claim or defense.” Ct. Ch. R. 26(b)(1). The standard for relevant evidence is a liberal
+
+one: The evidence need only tend to make it more or less probable that a fact of
+
+consequence to the case is true. See D.R.E. 401. The standard of relevance for
+
+discovery builds on that test: The requesting party need only show some possibility
+
+that the discovery will lead to relevant evidence. See Loretto Literary & Benevolent
+
+Inst. v. Blue Diamond Coal Co., 1980 WL 268060, at *4 (Del. Ch. Oct. 24, 1980).
+
+
+                                          12
+      The Company objected to twenty-one requests and interrogatories as seeking
+
+information that is “not relevant.” The Company did not explain why. Not until its
+
+response to the motion to compel did the Company offer details, asserting that
+
+requests about vendor holds, shipping delays, or customer complaints were not
+
+central to Wright’s claims. The Company also argues that requests targeting account
+
+status, payment histories, or performance improvement plans sought irrelevant
+
+internal information.
+
+      The requested material is relevant. Request 1 seeks “[a]ll Documents and
+
+Communications referring to or related to Plaintiff’s resignation from SLWM.” That
+
+information is obviously relevant. It is the core issue in the case.
+
+      Request 2 seeks documents and communications related to “Plaintiff’s
+
+employment, Plaintiff’s resignation, Customers Serviced by Plaintiff, and Plaintiff’s
+
+performance as a Vice President of Sales and/or Sales Account Executive from
+
+October 16, 2024 to present.” That information is also relevant—and obviously so.
+
+      Requests 13–15, 20, 2–24, 27 and Interrogatory 7 seek information about
+
+Merry Maids, one of Wright’s principal accounts. Wright alleges that the Company
+
+made “false and/or misleading statements to its customers and potential customers”
+
+to the effect that he was to blame for delays, and the alleged statements related to
+
+his performance with Merry Maid, one of his key customers. Compl. ¶¶ 153, 267.
+
+Documents relating to Merry Maids, including internal discussions about the
+
+relationship, the alleged performance improvement plan, and post-resignation
+
+communications are relevant; they relate to whether Wright was underperforming;
+
+                                           13
+whether a performance improvement plan existed and had merit; whether the
+
+Company internally acknowledged another cause of customer dissatisfaction;
+
+whether the Company falsely told customers Wright was to blame. That information
+
+is relevant.
+
+      Requests 1–2 and 21–22 seek documents related to Wright’s resignation. The
+
+Company asserts that Wright resigned voluntarily. Wright contends that the
+
+Company forced him to resign by creating a hostile and untenable work environment.
+
+Documents relating to his resignation, complaints about his performance,
+
+disciplinary actions, and customer expectations are relevant.
+
+      Requests 24–28 and Interrogatories 8–9 seek information about post-
+
+resignation communications and the status of Wright’s former accounts. Wright
+
+alleges that after he resigned, the Company disparaged him to customers. He also
+
+claims the Company obstructed or undermined his customer relationships by
+
+claiming he failed at his job. Discovery into communications with customers after
+
+Wright’s resignation, the account transitions, and the status of the accounts is
+
+relevant.
+
+      In short, all of the requested material maps to one or more elements of Wright’s
+
+claims. The Company’s relevance objections are overruled.
+
+      4.       Burden, Overbreadth, and Proportionality Objections
+
+      Yet another species of boilerplate objections involves assertions that a term,
+
+request, or interrogatory is unduly burdensome or overly broad. Both objections
+
+relate to the concept of proportionality. Court of Chancery Rule 26 allows parties to
+
+
+                                         14
+obtain relevant discovery that is “proportional to the needs of the case.” Ct. Ch. R.
+
+26(b)(1). The rule thus “expressly include[s] a requirement that discovery be
+
+proportionate to what is at stake in the litigation.” Wei v. Zoox, Inc., 268 A.3d 1207,
+
+1213 (Del. Ch. 2022).
+
+      Court of Chancery Rule 26(b)(1) identifies factors for the court to consider when
+
+evaluating proportionality:
+
+      The frequency or extent of use of the discovery methods set forth in
+      paragraph (a) shall be limited by the Court if it determines that: (i) the
+      discovery sought is unreasonably cumulative or duplicative, or is
+      obtainable from some other source that is more convenient, less
+      burdensome, or less expensive; (ii) the party seeking discovery has had
+      ample opportunity by discovery in the action to obtain the information
+      sought; or (iii) the discovery sought is not proportional to the needs of
+      the case, considering the importance of the issues at stake in the action,
+      the amount in controversy, the parties' relative access to relevant
+      information, the parties' resources, the importance of the discovery in
+      resolving the issues, and whether the burden or expense of the proposed
+      discovery outweighs its likely benefit.
+
+Ct. Ch. R. 26(b)(1).
+
+      When a party responds to a discovery request with a proportionality objection,
+
+the party should frame its response using the Rule 26 factors. J. Douglas Grimes and
+
+Joshua D. Neighbors, Work Up-Front For Clarity Later Objecting and Responding to
+
+Document Requests Under Amended Rule 34, 58 No. 7 DRI For Def. 38 (2016). But
+
+the factors do not “permit the opposing party to refuse discovery simply by making a
+
+boilerplate objection that it is not proportional.” Fed. R. Civ. P. 26 cmt. The
+
+responding party must state why the discovery sought is overbroad, unduly
+
+burdensome, or disproportionate and explain what it will produce in a good-faith
+
+effort to provide responsive materials. Without more, objecting that a discovery
+                                          15
+request is overly broad, unduly burdensome, or disproportionate is improper. 11
+
+Merely claiming some incremental burden from searching for additional information
+
+is also insufficient.12 A party must explain what the additional burden entails and
+
+explain what it will do to make a good-faith effort to provide discovery that is
+
+appropriate. See Byte Fed, 2024 WL 1912950, at *3 (explaining that an attorney
+
+receiving a request for documents has a responsibility to interpret the request in a
+
+reasonable way).
+
+      The Company objected to twenty-one requests and interrogatories as overly
+
+broad, burdensome, and disproportionate. Each objection is rote boilerplate. The
+
+
+
+
+      11 Oxbow, 2017 WL 959396, at *4 (finding it is “insufficient” to only object to a
+
+request as “excessive, overbroad, and unduly burdensome” without explaining the
+objection); accord St. Paul Reinsurance Co. v. Com. Fin. Corp., 198 F.R.D. 508, 512
+(N.D. Iowa 2000) (“In this case, the plaintiffs have failed to sustain their burden of
+demonstrating that the discovery sought is outside the scope of Rule 26(b)(1). Rather,
+they have merely asserted boilerplate objections that the discovery sought is vague,
+ambiguous, overbroad, unduly burdensome, etc. without specifying how each request
+for production is deficient and without articulating the particular harm that would
+accrue if they were required to respond to CFC's discovery requests. “); Oleson v.
+Kmart Corp., 175 F.R.D 560, 565 (D. Kan. 1997) (“The objecting party must show
+specifically how each discovery request is burdensome or oppressive by submitting
+affidavits or offering evidence revealing the nature of the burden.”); Roesberg v.
+Johns-Manville Corp., 85 F.R.D. 292, 295–97 (E.D. Pa. 1980) (explaining that an
+objecting party “must show specifically how . . . each interrogatory is not relevant or
+how each question is overly broad, burdensome or oppressive . . . by submitting
+affidavits or offering evidence revealing the nature of the burden” (internal citations
+omitted)).
+
+      12 Solow v. Aspect Res., LLC, 2007 WL 3256944, at *1 (Del. Ch. Oct. 30, 2007)
+
+(“Merely stating, however, that searching for documents generated from 1993 to 2000
+would add to some undue burden . . . does not describe with any precision or
+particularity does not make that search unduly burdensome.”).
+
+                                          16
+Company never said why a particular request was overbroad or what burden the
+
+request would impose.
+
+      In its response to the motion to compel, the Company submitted a declaration
+
+of Michael Marchetti, the Company’s President, that provides facts about why the
+
+requests and interrogatories are burdensome. Marchetti asserts that the Company
+
+has employed more than 400 people since its formation, each with a company-issued
+
+email address, and currently employs around 237. He notes that Wright serviced
+
+thirteen customers, requiring the Company to search through the email boxes and
+
+devices of “25 or more employees” to locate communications involving those
+
+customers. For another firm, he asserts that the Company would have to review data
+
+from “at least ten (10) and potentially more.” For another, he asserts that responsive
+
+material could be spread across the accounts of “approximately 130 employees” in
+
+departments such as finance, supply, and strategic sourcing.
+
+      Marchetti’s declaration offers the types of factual details that the Company
+
+should have provided before the motion to compel. A response to a motion to compel
+
+is too late to provide a post hoc justification for a previously unsupported and
+
+otherwise improper objection. E.g., Lorenzano v. Sys., Inc., 2018 WL 3827635, at *3
+
+(M.D. Fla. Jan. 24, 2018) (“[T]he Court will not rely on Systems’ post hoc justifications
+
+for its boilerplate objections. To the extent that Systems tried to raise specific
+
+objections in its Response, the Court finds that Systems waived these objections.”).
+
+Regardless, his assertions remain generalized. The Marchetti declaration also falls
+
+short because he does not offer compromises or solutions. It seeks to justify shutting
+
+                                           17
+down discovery, rather than proposing an efficient means of providing Wright with
+
+the information he needs to litigate the case.
+
+      The Company argues that Wright’s requests were overly burdensome because
+
+he did not identify custodians or provide search terms. That is not the requesting
+
+party’s job. “[R]esponding parties are best situated to evaluate the procedures,
+
+methodologies, and technologies for preserving            and producing        their own
+
+electronically   stored   information.”   The    Sedona   Principles,   Best    Practices,
+
+Recommendations & Principles for Addressing Electronic Document Production, 19
+
+Sedona Conf. J. 1, 118 (2018). “Just as a requesting party does not have a right to
+
+dictate the processes, methodologies, or technologies to be used by a responding party
+
+in fulfilling its preservation or discovery obligations …, the corollary is that a
+
+responding party has no right to demand a requesting party actively assist the
+
+responding party with evaluating and selecting the procedures, methodologies, and
+
+technologies for meeting the responding party’s preservation and production
+
+obligations.” Id. at 124. Thus, “a responding party cannot unilaterally demand the
+
+requesting party submit proposed search terms and a list of custodians against which
+
+to run the search terms, or use the requesting party’s reluctance to provide search
+
+terms as a shield to defend its own inadequate search terms. “ Id.
+
+      Under the Court of Chancery Rules, the requesting party serves document
+
+requests. The responding party bears the obligation to design and implement a
+
+reasonable process that will lead to the production of relevant evidence. The
+
+responding party has unique access to and knowledge of its own data environment,
+
+                                          18
+and the responding party’s attorneys can work with their clients. The responding
+
+party must figure out how to obtain the information covered by the requests by
+
+identifying relevant custodians, developing a collection process, and determining how
+
+to identify responsive documents (which may include using search terms or more
+
+advanced methods). Demanding that the requesting party identify custodians and
+
+propose search terms represents an improper effort by the responding party to offload
+
+their discovery obligations onto the requesting party. And if the requesting party
+
+offers up terms, the result represents the worst in “Go Fish” searching.13
+
+      That does not mean the requesting party cannot help. Nor does it mean that
+
+the responding party should develop its own protocol without conferring with the
+
+requesting party. Although the American legal system involves an adversarial
+
+process, discovery requires cooperation and transparency. “Candor and fair-dealing
+
+are, or should be, the hallmark of litigation and require attributes of those who resort
+
+to the judicial process. The rules of discovery demand no less.” E.I. DuPont de
+
+Nemours & Co. v. Fla. Evergreen Foliage, 744 A.2d 457, 461 (Del. 1999). “When
+
+parties are transparent, they can cooperate to address problems without judicial
+
+
+
+
+      13 See Da Silva Moore v. Publicis Group & MSL Group, 287 F.R.D. 182, 190–
+
+91 (S.D.N.Y. 2012) (“In too many cases, however, the way lawyers choose key words
+is the equivalent of the child’s game of ‘Go Fish.” (citing Ralph C. Lose, Child’s Game
+of “Go Fish” is a Poor Model for e-Discovery Search, Adventures in Electronic
+Discovery 209–10 (2011)); see also William A. Gross Constr. Assocs., Inc. v. Am. Mfrs.
+Mut. Ins. Co., 256 F.R.D. 134, 134 (S.D.N.Y. 2009) (“This Opinion should serve as a
+wake-up call . . . about the need for careful thought, quality control, testing, and
+cooperation with opposing counsel in designing search terms or ‘keywords’ to be used
+to produce emails or other electronically stored information.”).
+
+                                          19
+involvement.” In re ExamWorks Gp., Inc. S’holder Appraisal Litig., 2018 WL 1008439,
+
+at *6 (Del. Ch. Feb. 21, 2018). As officers of the court, “attorneys can find solutions to
+
+keep a case on track and prepare the matter for decision. Attorneys shirk their
+
+obligations to the court and make matters worse when they fail to communicate with
+
+the other side[.]” Id. Notably, the attorney’s duty as an officer of the court always
+
+“takes precedence over the interests of the client because officers of the Court are
+
+obligated to represent these clients zealously within the bounds of both the positive
+
+law and the rules of ethics.” In re Abbott, 925 A.2d 482, 487–88 (Del.2007) (internal
+
+quotation marks omitted).
+
+      Embarking on empirically and informationally blind negotiations over search
+
+terms will rarely be an effective way to proceed. See WorkCo, Inc. v. Liquifi, Inc., 2025
+
+WL 1168234, at *3–4 (Del. Ch. Apr. 21, 2025). Nor do terms that generate more hits
+
+necessary result in more responsive information. Id.
+
+      One good way to start is by discussing the categories of information that the
+
+requesting party wants. There may be several different requests that touch on a
+
+particular category, but a shared understanding of the topic at issue can offer a
+
+superior foundation for building a discovery plan. See id. at *4. With a shared
+
+understanding of the topics, a responding party can develop a search plan designed
+
+to obtain the information sought using a combination of techniques, including
+
+metadata searches, sampling, and technology assisted review. Id. at *5. Searches
+
+tailored by category can often generate better results, more efficiently, than a single
+
+broad collection. Id. A cooperative discovery effort also requires that the producing
+
+                                           20
+party share details about the search and culling techniques that were applied and
+
+provide related metrics, including search set volumes and test results relating to the
+
+effectiveness of the searches. Id. WorkCo provides a concrete example of how parties
+
+can use sampling and testing to collect documents in a cost-effective and efficient
+
+way.
+
+       The Company’s objections to burdensomeness are overruled. By separate
+
+order, the court will appoint Tara Emory, an experienced discovery professional, as a
+
+discovery facilitator to help the parties design and implement a reasonable discovery
+
+protocol. That effort will include determining an appropriate time period for
+
+production, which may include different time periods for different types of
+
+information.
+
+B.     The Duty To Prepare A Privilege Log
+
+       The next dispute is over privilege. Under Rule 26(b)(1) “[p]arties may obtain
+
+discovery into any matter, not privileged, which is relevant to the subject matter
+
+involved in the pending action.” Like other discovery objections, “[t]he burden of
+
+establishing that otherwise discoverable information is privileged rests ‘on the party
+
+asserting the privilege.’” Mechel Bluestone, Inc. v. James C. Justice Companies, Inc.,
+
+2014 WL 7011195, at * 4 (Del. Ch. Dec. 12, 2014) (collecting authorities).
+
+       [A] bare allegation that information and documents are protected from
+       discovery by . . . privilege is insufficient without making more
+       information available . . .. It is incumbent on one asserting the privilege
+       to make a proper showing that each of the criteria [underlying the
+       privilege] exist[s] . . .. A proper claim of privilege requires a specific
+
+
+
+
+                                           21
+      designation and description of the documents within its scope as well as
+      precise and certain reasons for preserving their confidentiality.14
+
+The party asserting the privilege must provide “sufficient facts as to bring the
+
+identified and described document within the narrow confines of privilege.” Mechel
+
+Bluestone, 2014 WL 7011195, at * 4 (quoting Int’l Paper, 63 F.R.D. at 94); accord
+
+Thermo Fisher Sci. PSG Corp. v. Arranta Bio MA, LLC, 2023 WL 300150, at *2 (Del.
+
+Ch. Jan. 18, 2023) (“[The party asserting privilege] must provide precise and certain
+
+reasons why privilege applies for each document over which privilege is claimed.”
+
+(cleaned up)).
+
+      To meet its burden, a party asserting privilege typically prepares a privilege
+
+log. Mechel Bluestone, 2014 WL 7011195, at *4. At a minimum, a privilege log must
+
+identify
+
+      (a) the date of the communication, (b) the parties to the communication
+      (including their names and corporate positions), (c) the names of the
+      attorneys who were parties to the communication, and (d) [a description
+      of] the subject of the communication sufficient to show why the privilege
+      applies, as well as [the issue to which] it pertains.... With regard to this
+      last requirement, the privilege log must show sufficient facts as to bring
+      the identified and described document within the narrow confines of the
+      privilege.
+
+Id. “The requirements for preparing a satisfactory log under Delaware law are
+
+‘readily established and easily available.’” Thermo Fisher, 2023 WL 300150, at *2
+
+
+
+
+      14  Int'l Paper Co. v. Fibreboard Corp., 63 F.R.D. 88, 93–94 (D. Del. 1974)
+(internal citations omitted); accord Sokol Hldgs., Inc. v. Dorsey & Whitney, LLP, 2009
+WL 2501542, at *8 (Del. Ch. Aug. 5, 2009); Deutsch v. Cogan, 580 A.2d 100, 107 (Del.
+Ch. 1990); Reese v. Klair, 1985 WL 21127, at *5 (Del. Ch. Feb. 20, 1985).
+
+                                          22
+(quoting Klig v. Deloitte LLP, 2010 WL 3489735, at *5 (Del. Ch. Sept. 7, 2010)
+
+(TRANSCRIPT)).
+
+      The Company argues it does not need to produce a privilege log because
+
+“[p]laintiff has yet to meet the threshold requirement of showing his requests are
+
+reasonable and SLWM is required to produce documents and information.” Opp. at 7.
+
+For the reasons stated above, the Company’s objections are largely boilerplate and
+
+overruled. The Company needs to start working on a log so that it can be produced
+
+promptly.
+
+                               III.   CONCLUSION
+
+      Wright’s motion to compel is granted. Because the Company’s objections were
+
+not substantially justified, Wright is entitled to the expenses (including attorneys’
+
+fees) incurred pursuing the motion. That natural consequence forces the Company to
+
+internalize the burdens that its improper objections created. If the parties cannot
+
+agree on an amount, Wright will file a short motion to quantify the amount of the fee
+
+award, supported by a Rule 88 affidavit.
+
+
+
+
+                                           23
+

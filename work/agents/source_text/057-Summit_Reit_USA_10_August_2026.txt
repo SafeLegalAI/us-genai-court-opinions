@@ -1,0 +1,294 @@
+NOTICE: NOT FOR OFFICIAL PUBLICATION.
+UNDER ARIZONA RULE OF THE SUPREME COURT 111(c), THIS DECISION IS NOT PRECEDENTIAL
+AND MAY BE CITED ONLY AS AUTHORIZED BY RULE.
+
+IN THE
+
+ARIZONA COURT OF APPEALS
+DIVISION ONE
+WRI SUMMIT REIT LP, et al., Plaintiffs/Appellees,
+v.
+STEFANIE A. KUERSCHNER, Defendant/Appellant.
+No. 1 CA-CV 25-0854
+FILED 08-10-2026
+Appeal from the Superior Court in Maricopa County
+No. CV2024-002481
+The Honorable Mary Collins Cronin, Judge Pro Tempore
+DISMISSED
+COUNSEL
+Fletcher Barnes Law PLC, Tempe
+By Timothy H. Barnes, Sheryl L. Andrew
+Counsel for Plaintiff/Appellee WRI
+Frazer, Ryan, Goldberg, Phoenix
+By Scott Erickson, Philip B. Whitaker
+Counsel for Plaintiffs/Appellees James T. Kuerschner, et al.
+Stefanie Kuerschner, Carefree
+Defendant/Appellant
+
+WRI SUMMIT, et al. v. KUERSCHNER
+Decision of the Court
+
+MEMORANDUM DECISION
+Presiding Judge Jennifer M. Perkins delivered the decision of the Court, in
+which Judge Brian Y. Furuya and Judge D. Andrew Gaona joined.
+
+P E R K I N S, Judge:
+¶1
+Stefanie Kuerschner appeals from superior court judgments
+awarding WRI Summit REIT, LP (“Summit”) unpaid rent under a
+commercial lease, and sanctioning her for issuing improper subpoenas. We
+dismiss her appeal because Stefanie has repeatedly violated our rules by
+omitting references to the record and inaccurately citing legal authorities.
+FACTS AND PROCEDURAL BACKGROUND
+¶2
+In May 2019, Summit executed a lease, agreeing to rent a unit
+in a Scottsdale shopping center to Summit Aesthetics, LLC, (“Aesthetics”).
+Stefanie agreed to “absolutely and unconditionally guarantee[] the full
+performance” of Aesthetics under the lease.
+¶3
+In February 2024, Summit filed a forcible detainer action
+against Aesthetics and Stefanie in superior court, seeking $96,535.75 for
+“unpaid monthly rent, common area maintenance, taxes, late fees, interest
+and other charges.” Summit later amended its complaint to remove
+Aesthetics after it filed for bankruptcy, and sought to recover the unpaid
+rent from Stefanie alone.
+¶4
+Before this case began, Stefanie was involved in litigation
+with the estate of her deceased husband (“the probate case”). See In re Est.
+of Kuerschner, 1 CA-CV 25-0108 PB, 2025 WL 2780806 (Ariz. App. Sept. 30
+2025) (mem. decision). In February 2025, the probate court issued a
+temporary restraining order enjoining Stefanie from filing subpoenas
+“directly or indirectly” relating to the probate case without prior
+permission from the court because Stefanie had “willful[ly] violat[ed] prior
+rulings” denying her third party subpoena authority.
+¶5
+In July 2025, Stefanie served subpoenas, in this case, on James
+Kuerschner (“the personal representative”) of the estate and two of his
+banks. The subpoenas, among other things, directed the personal
+representative and the banks to produce financial documents dating back
+12 years.
+2
+
+WRI SUMMIT, et al. v. KUERSCHNER
+Decision of the Court
+¶6
+The personal representative warned Stefanie three times that
+he would move for sanctions if she did not withdraw the subpoenas. She
+did not, and the personal representative moved the court in this case to
+quash the subpoenas and sought sanctions under Arizona Revised Statutes
+Section 12-349(A)(4) (engaging in abuse of discovery), requesting his
+attorney fees and double damages up to $5,000. The court granted the
+personal representative’s motions to quash the subpoenas and sanctioned
+Stefanie, ordering her to pay the personal representative’s attorney fees, his
+costs, and an additional $5,000.
+¶7
+The case eventually proceeded to trial “regarding damages
+pertaining to unpaid rents” on July 25, 2025. On July 18, the deadline to
+submit exhibits for trial, Stefanie requested an extension to submit her
+exhibits, which the court denied. Stefanie submitted her exhibits three days
+later. The court precluded the exhibits from trial because Stefanie had
+received multiple warnings about the deadline and because allowing the
+untimely exhibits would be unfair to opposing counsel.
+¶8
+Stefanie represented herself at the July 25 bench trial. The
+court ultimately found that Summit was entitled to a judgment of
+$146,029.45 for the past due rent and its reasonable attorney fees and costs.
+The court entered final judgments awarding Summit $146,000 for unpaid
+rent and $44,193.69 in attorney fees and costs, and awarding the personal
+representative $7,871 in attorney fees and $5,000 in additional sanctions.
+Stefanie filed a notice of appeal from those judgments on September 29,
+2025, and an amended notice of appeal on October 2, 2025. We have
+jurisdiction over Stefanie’s appeal from those judgments. See A.R.S. § 122101(A)(1).
+¶9
+Stefanie moved the superior court to stay the execution of the
+unpaid rent judgment during her appeal without requiring her to post a
+supersedeas bond. After a hearing, the court set a $190,193 supersedeas
+bond—the total amount of the judgment. Stefanie filed several motions
+asking the court to reconsider the bond amount, which the court denied.
+DISCUSSION
+¶10
+Stefanie argues on appeal that the court erred by
+(1) precluding her trial exhibits, (2) sanctioning her, (3) and setting the
+amount of the supersedeas bond.
+¶11
+Our appellate rules require opening briefs to include a
+statement of facts “relevant to the issues presented for review with
+appropriate references to the record.” ARCAP 13(a)(5). The opening brief
+3
+
+WRI SUMMIT, et al. v. KUERSCHNER
+Decision of the Court
+must also include citations to the legal authorities on which it relies.
+ARCAP 13(a)(7). Self-represented litigants must “comply with [all] relevant
+rules of procedural and substantive law,” State v. Gomez, 231 Ariz. 219, 223,
+¶ 15 (2012), and are not afforded any special leniency, Ramos v. Nichols, 252
+Ariz. 519, 522, ¶ 8 (App. 2022) (we hold unrepresented litigants “to the same
+standards as attorneys”). If a party violates our procedural rules, we “may
+impose sanctions that are appropriate in the circumstances of the case, and
+to discourage similar conduct in the future.” ARCAP 25. Such “sanctions
+may include contempt, dismissal, or withholding or imposing costs or
+attorneys’ fees.” Id.
+¶12
+Stefanie’s opening brief does not include a single citation to
+the record. Her opening brief also consistently misquotes cases and cites
+cases for propositions either not mentioned or directly contradicted by the
+case. And one case she cites appears not to exist. We highlight these
+examples:
+•
+
+On page 27, the brief quotes State ex rel. Dep’t of Econ. Sec. v. Burton,
+205 Ariz. 27, 30, ¶ 14 (App. 2003) as saying that an appellate court
+will find an abuse of discretion if a ruling was “manifestly
+unreasonable, or exercised on untenable grounds, or for untenable
+reasons.” But Burton contains none of that language.
+
+•
+
+On page 28, the brief quotes Bennett v. Baxter Grp., Inc., 223 Ariz.
+414, 418, ¶ 10 (App. 2010) as saying: “We review de novo whether
+the trial court complied with the procedural requirements of
+§ 12-350.” But that paragraph in Bennett does not mention Section
+12-350 and nowhere does it say that we review the trial court’s
+compliance with Section 12-350 de novo.
+
+•
+
+On page 46, the brief quotes the following language: “Rulings
+which prevent a party from presenting evidence strike at the heart
+of due process,” citing “Brown v. U.S. Fidelity & Guar. Co., 194 Ariz.
+85, 91 ¶ 30 (1999).” But Brown was an Arizona Court of Appeals
+decision from 1998, not an Arizona Supreme Court decision from
+1999. See Brown v. U.S. Fidelity & Guar. Co., 194 Ariz. 85 (App. 1998).
+And more importantly, that case did not mention due process at all.
+
+•
+
+On page 48, the brief cites Cruz v. Superior Court (Ramirez), 172 Ariz.
+462, 464 (App. 1992). We cannot locate a case with this name in the
+Arizona appellate courts.
+
+4
+
+WRI SUMMIT, et al. v. KUERSCHNER
+Decision of the Court
+•
+
+On page 58, the brief asserts that the court in Takieh v. O’Meara, 252
+Ariz. 51 (App. 2021) reversed a fee sanction because the trial court
+“failed to make explicit findings” under Section 12-350, holding
+that such failure is reversible error per se. But Takieh did not
+contain the quoted language, and it affirmed the trial court’s fee
+sanction—the opposite of what the brief asserted.
+
+These citation errors are consistent with the misuse of generative AI.
+¶13
+Stefanie failed to comply with ARCAP 13 by failing to cite the
+record and by submitting inaccurate and misleading legal citations. We
+may dismiss her appeal on that basis. See ARCAP 25; Matter of Est. of
+Acciavatti, 1 CA-CV 25-0606 PB, 2026 WL 2041963, at *2 , ¶¶ 8–10 (Ariz. App.
+July 15, 2026) (dismissing appeal when the opening brief provided “no
+citations to the record” and contained “inaccurate and false [legal]
+citations” as a result of appellant’s reliance on generative AI). But, we
+generally prefer to resolve cases on their merits, see DeLong v. Merrill, 233
+Ariz. 163, 166, ¶ 9 (App. 2013), so we will look further into “the
+circumstances of [this] case,” to determine whether to dismiss the appeal,
+ARCAP 25.
+¶14
+Stefanie was on notice of ARCAP 13’s requirements when she
+filed her opening brief in this appeal. This Court’s September 2025 decision
+in her probate case informed Stefanie that her “opening brief is . . . devoid
+of the record citations required by ARCAP 13(a)(7)(A), and her case
+citations are often inaccurate.” Kuerschner, 1 CA-CV 25-0108 PB, at *5, ¶ 29.
+The panel in that case opted to address the substance of her arguments, but
+noted that it could “hold that the deficiencies in Stefanie’s opening brief
+effect a waiver of her right to appellate review of her claims.” Id. at ¶ 31.
+Yet, three months later, in December 2025, she made the same mistakes
+when she filed her opening brief in this appeal.
+¶15
+Stefanie received additional warnings about violating
+ARCAP 13 before she filed her reply brief in this appeal. In January 2026,
+we issued an order in this case which warned Stefanie about potential
+sanctions should she continue to file pleadings relying on “miscited,
+misrepresented, or nonexistent legal authorities.” In March 2026, this Court
+issued another decision in her probate case, and dismissed that appeal
+because of Stefanie’s “repeated and unrepentant violations” of ARCAP 13.
+Kuerschner v. Kuerschner, 1 CA-CV 25-0491 PB, 2026 WL 619894, at *2, ¶ 13
+(Ariz. App. Mar. 5, 2026) (mem. decision). Yet, Stefanie’s reply brief—filed
+over a month later—once again failed to cite to the record and included
+multiple inaccurate legal citations. We highlight the following:
+5
+
+WRI SUMMIT, et al. v. KUERSCHNER
+Decision of the Court
+•
+
+On page 32, she cites “Starr Pass Resort Developments, LLC v.
+Harrington, 237 Ariz. 537 (App. 2015).” But the actual reporter
+number and date in that case is 245 Ariz. 495 (App. 2018).
+
+•
+
+On page 34, she incorrectly asserts that Arizona Rule of Evidence
+201 requires judicial notice to have been “sought for a proper and
+limited purpose.”
+
+•
+
+On page 35, she cites “Hertz v. Coy, 213 Ariz. 264 (App. 2006).” The
+correct citation is Hertz v. Coy, 1 CA-CV 12-0608, 2014 WL 3610893
+(Ariz. App. July 22, 2014) (mem. decision). Representing Hertz as a
+published opinion, when it is an unpublished memorandum
+decision that cannot be cited, even for persuasive value, is
+particularly problematic. See Ariz. R. Sup. Ct. 111(c)(1)(C)
+(memorandum decisions issued before January 1, 2015, may not be
+cited for persuasive value).
+
+¶16
+Dismissal of Stefanie’s appeal is warranted under ARCAP 25
+because she continued to violate ARCAP 13 despite receiving repeated
+warnings about its requirements and of the consequences for failing to
+comply. See Acciavatti, 1 CA-CV 25-0606 PB, at *2, ¶ 10.
+¶17
+We note that Stefanie filed a motion on July 16 titled
+“Corrective Motion to Rely on Verified Authorities,” notifying this Court
+that her opening brief contained incorrect case descriptions and sought to
+withdraw those case descriptions. We appreciate her candor and always
+encourage litigants to correct mistakes in their briefs. But Stefanie filed this
+motion several months after the briefing was completed in this case. This is
+too little, too late. We therefore deny her motion.
+¶18
+Summit requests its attorney fees and costs incurred on
+appeal under the guaranty agreement that Stefanie and Summit entered. In
+that agreement, Stefanie “agree[d] to indemnify and hold harmless
+[Summit] from all loss, damage, cost, and expense (including without
+limitation costs of court and attorneys’ fees incurred by [Summit]) in the
+event of a default by [Aesthetics] under [the lease].” Accordingly, we award
+Summit its reasonable attorney fees and taxable costs on appeal upon
+compliance with ARCAP 21.
+¶19
+The personal representative requests attorney fees on appeal
+under Section 12-349(A)(1)–(3) and ARCAP 25. We may impose sanctions
+on a “party for a violation of these Rules” and such “[s]anctions may
+include . . . costs or attorneys’ fees.” ARCAP 25. As we have explained,
+
+6
+
+WRI SUMMIT, et al. v. KUERSCHNER
+Decision of the Court
+Stefanie violated ARCAP 13 because she failed to cite the record and made
+many inaccurate and misleading legal citations. Therefore, we award the
+personal representative his reasonable attorney fees and taxable costs on
+appeal upon compliance with ARCAP 21.
+CONCLUSION
+¶20
+
+We dismiss the appeal under ARCAP 25.
+
+MATTHEW J. MARTIN • Clerk of the Court
+FILED:
+
+JR
+
+7
+
+

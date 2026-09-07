@@ -1,0 +1,1633 @@
+   IN THE COURT OF CHANCERY OF THE STATE OF DELAWARE
+
+STEPHEN J. PALUMBO and LORI A.             )
+PALUMBO, as Co-Trustees of the             )
+Carmen John Palumbo Revocable Trust        )
+Dated October 30, 1997, as completely      )
+amended February 4, 2023,                  )
+                                           ) C.A. No. 2024-0661-DH
+            Petitioner,                    )
+                                           )
+      v.                                   )
+                                           )
+GREGORY M. PALUMBO,                        )
+                                           )
+            Respondent.                    )
+                                           )
+
+
+                                    REPORT
+
+                             Report: August 10, 2026
+                          Date Submitted: April 23, 2026
+
+
+Brian J. Ferry, Ferry Joseph, P.A., Wilmington, DE; Attorney for Petitioners Stephen
+J. Palumbo and Lori A. Palumbo.
+
+Gregory M. Palumbo; Pro se.
+
+
+
+
+HUME, IV, M.
+         This case involves the Plaintiff siblings’ attempt to remove their Respondent
+
+brother as a co-trustee and his cross-request for trust accounting. Boiling beneath
+
+the surface is an intense personal dislike between the parties. The waves of discord
+
+crested the parties’ interpersonal relationship and made their way into the trial and
+
+post-trial submissions.     The self-represented Respondent, a disbarred attorney,
+
+allowed his animus for his siblings to take charge of his better judgment. His
+
+bitterness triggered acts in bad faith during and after trial. This opinion resolves
+
+Petitioners’ request for removal of a trustee and Respondent’s counter-petition for
+
+accounting.
+
+I.       BACKGROUND 1
+         On October 30, 1997, Carmen John Palumbo (“Carmen” or “Decedent”)
+
+entered a Revocable Trust Agreement, naming himself as settlor and trustee.2 Three
+
+years later, he entered a First Supplemental Agreement.3 Finally, in 2003, Carmen
+
+
+
+1
+ The facts set forth herein were proven by a preponderance of the evidence at trial. Factual
+citations are to: the Pre-Trial Stipulation and Order (“PTO”), D.I. 54; Resp’t’s Draft Joint
+Pre-Trial Stipulation and Proposed Order (“RPTO”), D.I. 55; Pet’rs’ Post-Trial Summation
+(“PPTB”), D.I. 68; Resp’t’s Post Trial Brief (“RPTB”), D.I. 86; Stephen J. Palumbo and
+Lori A. Palumbo’s Trial Witness Identification (“JX”), D.I. 32; and Trial Transcript
+(“Tr.”), D.I, 67. Additional Citations are to Pet’rs’ Amended Petition for Removal of Co-
+Trustee (“Compl.”), D.I. 9; Palumbo, Gregory Resp’t’s Answer to Petitioners Amended
+Petition for Removal of Co Trustee (“Resp’t’s Ans.”), D.I. 11; and Pet’rs’ Answer to
+Respondent’s Petition for Accounting (“Pet’rs’ Ans.”), D.I. 15.
+2
+    PTO ¶ 3; Compl., ¶ 4.
+3
+    PTO ¶ 4; Compl., ¶ 4.
+                                             1
+executed the Complete Amendment to Carmen John Palumbo Revocable Trust
+
+Agreement (“2003 Amended Trust”).4 Carmen had three children: Stephen J.
+
+Palumbo (“Stephen”), Lori A. Palumbo (“Lori”), and Gregory M. Palumbo
+
+(“Gregory”).5 The 2003 Amended Trust named Carmen’s three children as equal
+
+beneficiaries of the residual trust assets. 6 Additionally, the 2003 Amended Trust
+
+named Gregory, Stephen, and Lori as successor trustees should Carmen no longer
+
+be able to serve.7
+
+           In 2012, Carmen executed a Supplemental Amendment to the trust, which
+
+directed all of Carmen’s stock and interest in Palumbo Car Care Center, Inc. to
+
+Stephen.8
+
+           Gregory was an attorney and member of the Pennsylvania bar. 9 In 2018, the
+
+Supreme Court of Pennsylvania placed him on temporary suspension.10 Five years
+
+
+
+
+4
+    PTO ¶ 5; Compl., Ex. A.
+5
+ Compl., ¶¶ 1–3, 5. For ease of comprehension I refer to the children by their first names
+and intend no disrespect to the parties.
+6
+    Id. at Ex. A at B.(2); PTO ¶ 7.
+7
+    PTO ¶ 6; Compl., Ex. A, Art. 12.
+8
+    PTO ¶ 9.
+9
+    Id. at ¶ 11.
+10
+     Id.
+                                            2
+later, in 2023, Gregory was convicted of multiple felonies.11 Several months
+
+following, he submitted his unconditional resignation from the Pennsylvania bar,
+
+and the Supreme Court disbarred him in 2024.12
+
+         On May 3, 2022, Carmen passed away. 13 Immediately following, Stephen,
+
+Lori, and Gregory assumed their roles as trustees over the 2003 Amended Trust.14
+
+         A.    Before Decedent’s death, Gregory forges documents related to the
+               estate.
+
+         Stephen testified that even before Decedent passed away, Gregory committed
+
+misconduct against Decedent and the prospective estate.             In September 2021,
+
+Stephen filed for emergency temporary guardianship over Decedent. 15 Stephen
+
+explained that Gregory abused his Durable Power of Attorney for Decedent to
+
+misappropriate funds, incur $11,000 in unauthorized charges on Decedent’s
+
+
+
+
+11
+   PTO ¶ 13. Additionally, Gregory stipulated at trial to the existence of his “criminal
+issues in Pennsylvania.” Tr. 44:06–11. The Complaint alleges that on September 6, 2023,
+Gregory was found guilty of six discrete criminal offenses. See Compl. ¶ 9. Gregory’s
+Answer supplemented that “all offenses other than robbery and carrying a firearm . . . were
+dismissed at sentencing due to the doctrine of merger.” Resp’t’s Ans. ¶ 9.
+12
+     PTO ¶¶ 14–15; see JX 5 (Pennsylvania Supreme Court temporary suspension order).
+13
+     PTO ¶ 10; Compl. ¶ 7; JX 6 (Pennsylvania Supreme Court disbarment order).
+14
+   “Q: So fast-forward to today. Who are the three trustees today?
+    A: Greg, Steve, and Lori.” Tr. 24:06–19.
+15
+   JX 16 (Emergency Guardianship Motion in the Circuit Court for Cecil County); Tr.
+24:22–25:03.
+                                            3
+American Express Card, and withdraw funds from Decedent’s bank account for
+
+Gregory’s “own personal use.”16
+
+           In the course of the emergency guardianship proceedings, Lori challenged the
+
+validity of “a number of documents, including financial and medical powers of
+
+attorney presented by Gregory Palumbo.” 17 The Maryland Court heard evidence
+
+and found that these documents are “invalid and of no force or effect . . . .”18 The
+
+Maryland Court adopted in full the findings of an independent investigator. 19
+
+           The investigator’s report details numerous allegations by all three siblings.
+
+Lori alleged that Gregory forged the Durable POA and Healthcare directive, noting
+
+the Decedent’s incapacity to sign during the previous two years. 20 Lori accused
+
+Gregory of emotional and financial abuse, such as purchasing an automobile for
+
+Decedent when Decedent could no longer drive, then retaining that vehicle and
+
+allegedly committing crimes in the vehicle. 21 She contended that Gregory stole
+
+
+
+
+16
+     JX 16, ¶¶ 10–15; Tr. 25:06–10.
+17
+     JX 14 (Order Regarding Validity of Documents and Jurisdiction for Guardianship Case).
+18
+     Id.
+19
+     Id.; see JX 19 (Report of Independent Investigator); Tr. 32:10–20.
+20
+     JX 19, 3.
+21
+     Id.
+                                              4
+medication from Decedent, poisoned the proverbial well against Stephen, and
+
+emotionally manipulated Decedent to give Gregory money. 22
+
+           Stephen testified that Decedent’s initial Advance Medical Directive named
+
+both Stephen and Gregory as medical decision makers, and that he was unaware of
+
+the amended Power of Attorney and Advance Medical Directive until after
+
+Decedent’s stroke in 2021. 23 Stephen also testified that Gregory proceeded to take
+
+“nearly $80,000” out of Decedent’s company account in the fall of 2021, after
+
+Decedent had suffered a stroke and “was incapacitated.” 24
+
+           Gregory alleged in response that Stephen abused and neglected Decedent,
+
+plotted to remove Decedent from Decedent’s business, and that Stephen’s neglect
+
+resulted in Decedent falling and suffering from a brain hemorrhage and stroke.25
+
+Gregory alleged that Lori had minimal contact with Decedent, only seeing him a
+
+handful of times per year, and “often cancelling planned visits . . . caus[ing]
+
+[Decedent] depression.” 26
+
+
+
+
+22
+     Id.
+23
+     Id. at 6.
+24
+     Tr. 25:13–16.
+25
+     Id. at 5.
+26
+     Id.
+                                           5
+         The investigator concluded that the Durable Powers of Attorney (both
+
+executed in 2019), and Appointment of Agent and Power of Attorney (including an
+
+Advance Medical Directive) should be “viewed with skepticism by the Court absent
+
+compelling testimony by parties familiar with the document and its execution.”27
+
+         B.     Prior to Decedent’s death, Gregory wrongfully took money from
+                Decedent and his businesses.
+
+         Both Lori and Stephen testified that Gregory misappropriated their father’s
+
+money prior to his death. Lori estimated that Gregory expended $15,000–$20,000
+
+per month on credit cards belonging to Decedent’s store. 28 Gregory also allegedly
+
+took $275,000 from Decedent’s UBS account. 29
+
+
+
+
+27
+   Id. at 14–15. On myriad occasions throughout trial, Gregory launched a collateral attack
+of the veracity and credibility of the handwriting expert’s report, which the Maryland Court
+adopted. See, e.g., id. at 98:13–100:21; see also Pet’rs’ Ans., ¶ 1 (“[M]any if not all of
+these issues have already been addressed in Court proceedings in Maryland and the
+allegations have been shown to be false.”). At trial, I articulated that I would not entertain
+any such collateral attack, and that examination regarding the handwriting expert exceeded
+the proceeding’s proper scope. Tr. 100:13–17 (“[I]f we’re going to relitigate whether [the
+handwriting expert’s] analysis was appropriate, that’s too far. The court’s order is the
+court’s order. I’m not going to find something different than the court did.”).
+28
+   Id. at 26, 16–18, 109:01–08; see JX 11 (2022 UBS account statements). Lori testified
+that independent documentation and a tax accountant who reviewed the relevant bank
+statements corroborated that Gregory had wrongfully withdrawn money. Tr. 109:10–19.
+29
+     Tr. 92:17–20.
+                                              6
+         C.     Following Decedent’s death, Lori and Stephen are appointed
+                executors and administer his estate.
+
+         Fourteen to fifteen months following the Maryland Court’s grant of
+
+emergency guardianship, Decedent passed away. 30 The State of Maryland appointed
+
+Lori and Stephen as personal representatives of the estate. 31
+
+         Lori and Stephen retained an attorney, C. Edward Hartman, III, to aid in
+
+administering their estate.32 Mr. Hartman presented to the Maryland court his
+
+clients’ belief that Gregory would not be an appropriate personal representative,
+
+given his recent criminal charges.33 Even though Decedent’s will enumerated all
+
+three children as personal representatives, the Maryland Court granted Lori and
+
+Stephen’s motion, and Gregory was not appointed.34
+
+         Decedent’s estate proved exceedingly complex. The primary assets within
+
+the estate included a home in Elkton, Maryland, personal property within the home,
+
+and a UBS account.35 However, Decedent owned numerous properties, many of
+
+which through different LLCs, and each LLC tended to have “a different ownership
+
+
+
+
+30
+     Id. at 33:02–05.
+31
+     JX 12 (Maryland Letters of Administration); Tr. 33:10–34:03.
+32
+     Tr. 61:04–08.
+33
+     Id. at 62:19–63:08.
+34
+     Id. at 63:23–64:05.
+35
+     Id. at 34:07–09.
+                                             7
+status.”36     Mr. Hartman admitted that Gregory’s interference with Lori’s and
+
+Stephen’s administration of the estate further complicated affairs and “ma[de] things
+
+more difficult.”37
+
+         As administrators, Lori and Stephen ensured payment of taxes on the estate
+
+and distribution of property to the beneficiaries of the estate: Lori, Stephen, and
+
+Gregory.38       While Lori and Stephen wrapped up administration of the estate,
+
+Gregory instituted a Maryland lawsuit against them, bringing exceptions to the estate
+
+accounting.39 Gregory challenged, inter alia, (1) failure to account for $26,000, (2)
+
+failure to file timely tax returns, and (3) improper distributions of personal
+
+property. 40 The Maryland Court denied exceptions and permitted Lori and Stephen
+
+to close out the estate. 41
+
+         D.     Lori and Stephen sell the Elkton, Maryland property.
+
+         As administrators of the estate, Lori and Stephen determined to sell
+
+Decedent’s Elkton, Maryland property. 42 Decedent had titled the property in an
+
+
+
+36
+     Id. at 64:09–65:19.
+37
+     Id. at 65:07–19.
+38
+  JX 8 (Disbursements), 9 (Distribution and inheritance tax). The distributions to the
+beneficiaries were made in trust. Tr. 36:08–11.
+39
+     JX 23 (summarizing the exceptions).
+40
+     See id.; Tr. 65:24–67:21.
+41
+     Tr. 41:14–20.
+42
+     Id. at 42:02–07.
+                                           8
+LLC, 120 Riverside Drive, LLC.43 The LLC granted Stephen and Lori authority to
+
+act on its behalf.44 Due to their joint 66% ownership in the LLC, they were able to
+
+sell the property without Gregory’s authorization. 45
+
+          Lori’s husband, Tim Lukk, served as real estate agent in the sale. 46 Despite
+
+Gregory’s current protestations that using a family member as a real estate agent
+
+creates a conflict of interest, Lori’s and Stephen’s Maryland counsel advised them
+
+that using Lukk would not create any such legal problems. 47
+
+
+
+
+43
+     Id. at 68:03–05.
+44
+     Id. at 69:01–05.
+45
+     Id. at 69:05–07.
+46
+     Id. at 42:17–21.
+47
+   Id. at 43:13–16. Stephen and Lori first petitioned the Maryland Orphans’ Court for
+authority to appoint Mr. Lukk as realtor. Id. at 68:12–16. However, once they realized
+that an LLC owned the property, not the estate, they withdrew the petition and sold the
+property with Mr. Lukk as realtor. Id. at 68:17–24. Mr. Hartman explained that no conflict
+of interest would lie with Mr. Lukk’s appointment because the incentives of all parties were
+aligned:
+         There’s no benefit for anyone, especially for Mr. Lukk in this instance, to
+         take action that would reduce the purchase price of the property. That would
+         hurt his wife and his brother-in-law, and himself if he’s working on a
+         commission, as realtors do. His interests are actually aligned with those of
+         the owners -- with those of the LLC and of the members of the LLC in
+         maximizing the return for the sale of the property, which I understand he did.
+Id. at 69:18–70:02.
+                                               9
+         Lukk obtained an appraisal of the property for $625,000.48 He ultimately sold
+
+it for $610,000, which is 97.6% of the appraised price.49 Mr. Lukk took a reduced
+
+commission on the sale. 50
+
+         E.     The three siblings reach a deadlock in overseeing the trust.
+
+         At trial, Lori testified that she and Stephen had encountered numerous
+
+problems working with Greg as co-trustees.51 While several issues arose prior to
+
+Decedent’s death and administration of the estate, the siblings found themselves at
+
+loggerheads regarding the sale of real estate in New Castle, Delaware.
+
+         Lori testified that while she and Stephen agreed to sell, they sent the necessary
+
+papers to Gregory while he was incarcerated, and he rejected the sale.52 Gregory
+
+objected only after the property spent nearly a year on the market and a buyer signed
+
+
+
+
+48
+     Id. at 151: 17–19.
+49
+     Id. at 151:20–21, 152:02–03.
+50
+   Mr. Lukk took a 3% commission on the sale, totaling approximately $18,000. Id. at
+152:04–05. Mr. Lukk acknowledged that there is no commission “standard rate” for
+realtors in the area, but that his usual commission is 6%. Id. at 139:01–13. Mr. Lukk
+calculated his commission as 5.5%, with 2.5% going to the buyer’s realtor, and 3% going
+to him. Id. at 138:13–16.
+51
+   “Q: Do you remember who the trustees were of the trust?
+A: Me, Steve, and Greg.
+Q: Are those still the three trustees today?
+A: Correct.
+Q: How is that working out for everyone?
+A: It’s not.” Id. at 105:02–09.
+52
+   Id. at 106:08–19.
+                                            10
+a contract on the house, obtained a mortgage, and conducted final inspection.53 Were
+
+Gregory to be removed as trustee, Lori believed that she and Stephen could quickly
+
+finalize the sale of the New Castle property, free from “issues or problems or
+
+exceptions or a continuation or an appeal.” 54 Stephen acknowledged that only a few
+
+items remain for the trustees to close out the trust, such as selling the remaining
+
+properties, submitting a final accounting to the court, and disbursing remaining
+
+funds to the beneficiaries. 55
+
+         Testimony also indicated that Gregory’s conduct constituted a significant
+
+roadblock. Mr. Lukk observed Gregory’s personal misfeasance toward Lori: “Just
+
+drama, phone calls, harassment, it’s been year after year -- it’s been since Mr.
+
+Palumbo passed, it’s just been nothing but drama.”56 Stephen recounted that
+
+Gregory has been “hostile, argumentative unagreeable.”57 During the pendency of
+
+
+
+
+53
+     Id. at 137:14–19, 140:02–08; JX 1 (Contract of sale for the New Castle property).
+54
+     Tr. 117:13–18.
+55
+     Id. at 46:23–47:03.
+56
+     Id. at 137:01–03.
+57
+  Id. at 45:19–20. See id. at 45:22–46:01 (“[Gregory] has made threats to Lori and I,
+whether it’s veiled or not veiled. Having the pleasure of taking me down next two years
+was one comment, taking me out at the knees.”). During Gregory’s cross of Stephen,
+Stephen clarified that the harassment had been constant and numerous: “You had been
+hostile to myself and my sister and [Mr. Lukk] and my wife . . . a number of times. . . .
+Dozens and dozens of times.” Id. at 55:23–56:06. As a result of such harassment, Stephen
+had even gone to the police, although the police had informed him that absent an “outright
+physical threat of harm,” Stephen lacked any recourse. Id. at 57:13–24.
+                                              11
+this case, Gregory filed an action against Stephen and Lori in Pennsylvania state
+
+court alleging some combination of defamation, malice, and fraud.58
+
+          F.    Procedural History
+
+          Despite the routine claims and counterclaims at issue, the travel of the case
+
+was replete with twists, speedbumps, and delays.
+
+                1.     Initial Petition and Counter-Petition.
+
+          On August 14, 2024, Stephen and Lori filed an Amended Petition for Removal
+
+of Co-Trustee.59 The Amended Complaint requested removal of Gregory as a co-
+
+trustee, arguing that Gregory’s removal is permitted under 12 Del. C. § 3327 and
+
+mandated under both Pennsylvania law and the Pennsylvania Rules of Disciplinary
+
+Enforcement.60
+
+          Gregory initially obtained an attorney and filed his answer to the Petition.61
+
+The Answer contained a counterclaim entitled Petition for Accounting.” 62 In the
+
+counterclaim, Gregory admitted his “willing[ness] to resign as Trustee,” and
+
+
+
+
+58
+   Id. at 116:14–21; see also RPTB, 9, D.I. 86 (“Same is now being litigation [sic] in a
+Court of Common Pleas Civil Action entitled Gregory and Lisa Palumbo v. Stephen
+Palumbo and Lori Palumbo Lukk, Philadelphia CCP, Docket No. 260102722 . . . .”) (italics
+in original).
+59
+     D.I. 9.
+60
+     Compl., ¶¶ 13, 15–17, (a).
+61
+     D.I. 11.
+62
+     Resp’t’s Ans. ¶¶ 19–22.
+                                            12
+requested that the Court either “appoint a new Trustee . . . to prevent further
+
+misconduct by Petitioners in Respondent’s absence,” or replace all three siblings as
+
+“trustees in light of Petitioners’ misconduct . . . .”63 The counterclaim further
+
+included an express request for trust accounting under 12 Del. C. § 3581(4).
+
+          The Petition for Accounting further included a summary of alleged
+
+misconduct committed by the Petitioners:
+
+          a. Removed valuable tangible property from the Estate Home,
+          including, without limitation, valuable artwork, statutes, furniture,
+          electronics, $35,000.00 in cash from the Estate Home’s safe, and two
+          motor vehicles;
+          b. Acting without Respondent’s consent; and
+          c. Misappropriating over $200,000.00 from the UBS account managed
+          by the Trustees;
+          d. The wrongful sale of Decedent’s home in Elkton, MD for less than
+          appropriate value and without notice or consent of respondent; and
+          e. The attempted wrongful sale of the decedents second home in New
+          Castle, DE without any notice or consent of respondent which
+          respondent quashed a day before closing by written notice sent by
+          federal express; and
+          f. The wrongful use (in both above instances) of a realtor married to
+          trustee Lori Palumbo-Lukk (Timothy Lukk) without notice or consent
+          of respondent and which is a conflict of interest in itself.64
+
+
+
+
+63
+     Resp’t’s Ans. ¶ 22.
+64
+     Id. at ¶ 19.
+                                           13
+Lori and Steve filed an answer denying the propriety of an accounting and the
+
+request to appoint a replacement trustee for Gregory. 65 The parties proceeded to
+
+discovery, and the Court scheduled a one-day trial for September 30, 2025.66
+
+                 2.    The initial trial date is delayed due to scheduling order
+                       violations and withdrawal of Gregory’s counsel.
+         Several weeks prior to the trial, Petitioners filed a Motion in Limine to
+
+preclude Respondent from introducing documents at trial due to discovery violations
+
+on Respondent’s behalf.67 Respondent had also failed to participate in the Pre-Trial
+
+stipulation, and accordingly only Petitioners’s portions were included.68 Respondent
+
+also failed to file his exhibits in the joint exhibit submission, and the Court only
+
+received Petitioners’s exhibits.69
+
+         And the filing continued. Respondent’s attorney filed a Motion to Withdraw,
+
+and Gregory requested a sixty-day continuance to obtain replacement Delaware
+
+counsel.        While represented, Gregory attempted to file his own Joint Pre-Trial
+
+Stipulation one week past the deadline, but Greg’s stipulation lacked signatures from
+
+his own attorney and opposing counsel.
+
+
+
+
+65
+     D.I. 15.
+66
+     D.I. 26.
+67
+     D.I. 33.
+68
+     D.I. 34.
+69
+     D.I. 36.
+                                           14
+         I granted Respondent’s counsel’s Motion to Withdraw and approved
+
+Petitioners’ Motion in Limine.70 I also postponed trial and rescheduled it for
+
+February 12, 2026.71 Despite the more than four-month delay, Greg never obtained
+
+replacement counsel and instead proceeded pro se.72 Because of Respondent’s
+
+failure to comply with the case deadlines, I limited Respondent to “documentary
+
+evidence provided by [September 12, 2025] notwithstanding discovery stipulated by
+
+petitioners.” 73
+
+                3.      Just before the trial date, Gregory seeks to file for Summary
+                        Judgment and injects new arguments into the case.
+         Before the February trial date, Gregory submitted a letter to the Court
+
+requesting leave to file a Motion for Summary Judgment.74 The letter offered
+
+Respondent’s explanation for the behavior that led to his incarceration and
+
+disbarment. 75       Respondent again alleged a flurry of illegitimate behavior by
+
+Petitioners regarding assets in Decedent’s estate, including (1) removal and
+
+
+
+
+70
+     D.I. 44.
+71
+     D.I. 47.
+72
+  See Tr. 119:08–120:04 (reflecting that Gregory only ever had one attorney during the
+pendency of the action). I note that although Gregory is technically pro se, he was a
+practicing Pennsylvania attorney for approximately 30 years. He is not unsophisticated in
+matters of the law.
+73
+     D.I. 44.
+74
+     Letter to the Court from Gregory Palumbo (hereinafter “MSJ Letter”), D.I. 50.
+75
+     MSJ Letter, 1–3.
+                                             15
+conversion of personal property, (2) sale of the Elkton, Maryland residence below
+
+fair market value, and (3) attempted sale of the New Castle, Delaware residence, all
+
+previously alleged in the paragraphs accompanying Respondent’s Cross-Petition for
+
+Accounting. 76       In the letter, Respondent for the first time explicitly alleged
+
+Petitioners’ breach of the fiduciary duty of loyalty due to purported self-dealing,
+
+aiding and abetting the breach of fiduciary duty, and unclean hands (although not
+
+stylized as an affirmative defense).77 I denied Respondent’s leave to file a Motion
+
+for Summary Judgment noting that while “Respondent has had ample opportunity
+
+to file a dispositive motion,” he only submitted his request “at the eleventh hour . . .
+
+.” 78
+
+                4.     At trial, the Court excluded numerous pieces of evidence
+                       proffered by Gregory.
+         Three days before trial, Gregory filed an exhibit list spanning twenty-six
+
+exhibits and 201 pages.79 Petitioners relied upon the same exhibit list filed on
+
+September 12, 2025. In response to Gregory’s new exhibit list, Petitioners filed a
+
+
+
+
+76
+     Compare MSJ Letter, 3, with Resp’t’s Ans. ¶ 19.
+77
+     See MSJ Letter, 4–6.
+78
+     Letter from the Court to Gregory Palumbo, 1, D.I. 51.
+79
+  See Letter from Brian J. Ferry to Magistrate Hume in response to exhibit list filed by
+Gregory M. Palumbo (“Pet’rs’ Motion in Limine”), D.I. 56. No docket entry for Gregory’s
+evidentiary exhibit list exists because the Register in Chancery rejected Gregory’s filing
+for noncompliance with the Court’s filing procedures.
+                                             16
+motion in limine to exclude eleven of the proposed exhibits. 80 Petitioners objected
+
+to ten of these exhibits on the ground that Gregory had failed to produce them during
+
+discovery, and one of them would be “overly prejudicial” to Petitioners.81
+
+Petitioners objected to one exhibit as subject to Attorney-Client Privilege and only
+
+inadvertently produced during discovery.82
+
+         At trial, prior to Petitioners’ case-in-chief, I heard brief argument on the
+
+parties’ evidentiary objections. During this colloquy, I inquired about the relevance
+
+of the challenged evidentiary exhibits. Gregory asserted that the exhibits met the
+
+D.R.E. 401 relevance test because he believed the evidence went to “bias and
+
+credibility” and impeachment on cross-examination.83
+
+
+
+
+80
+    See id. Petitioner further advanced the general objection that “the majority of
+Respondent’s Exhibits are not relevant to this Petition” and reserved further objections for
+trial. Id. at 1.
+81
+  Id. at 2 (objecting to Respondent Exhibits G, H, I, J, Q, R, V, W, Y, and Z). Petitioners’
+motion accorded with my previous order restricting Gregory’s ability to introduce evidence
+due to his failure to comply with discovery deadlines in advance of the planned September
+2025 trial date. See Tr. 03:10–14 (“[W]hen we had our last meeting or prior to our pretrial
+conference, we had our meeting back in September where the trial was continued, and I
+granted the motion in limine to proscribe any additional items being presented in
+discovery.”).
+82
+     See Pet’rs’ Motion in Limine, 2 (objecting to Respondent Exhibit U).
+83
+  See Tr. 03:21–24 (“As Your Honor has stated, these go to bias and credibility, which, of
+course, is a proper area to explore on cross-examination for any witness.”); id. at 04:23–
+05:03 (“[B]ut I believe that these are grounds that I should be able to explore on cross-
+examination if [Stephen] goes to the issue of perhaps his inability or his desire not to harm
+his father, which is rooted in this.”).
+                                             17
+         I reminded Gregory that the trial concerned two claims: (1) removal of
+
+Gregory as trustee and (2) trust accounting, again raising the relevance question.
+
+Gregory asserted that he would rely on the Pennsylvania law of familial trusts, which
+
+provided a general exception to Delaware law recognizing that “the Trust and its
+
+assets should not be placed at unnecessary risk by having a convicted felon as
+
+trustee.84 In the Matter of Trust U/A McKinley, 2002 WL 1271684, at *5 (Del. Ch.
+
+May 24, 2022). Gregory also asserted that even if he were removed as trustee, Lori
+
+and Stephen would still bear “the burden to show that they have the ability to be
+
+trustees . . . .” 85
+
+         Gregory again relied on Petitioners’ purported burden to demonstrate
+
+entitlement to remain as trustees in response to my questioning about the Attorney-
+
+Client Privilege waiver question.86 Despite never having filed a counterclaim for
+
+removal of trustees, Gregory maintained that he had raised the issue in his answer
+
+
+
+
+84
+   See id. at 06:11–14 (“There’s an exception to this law that we speak about, at least in
+Pennsylvania, and familial trusts, trusts within the family are not part of what the statute
+indicates.”). Gregory failed to ever produce any citations to law supporting his proposition.
+See PPTB, 7 (“The only response that Respondent could muster was that he believes that
+there are exceptions to that rule, but he did not have any such exceptions available in front
+of him. Of course, the exception referenced by Respondent does not exist.”) (internal
+citations omitted).
+85
+     Tr. 06:06–07.
+86
+     See id. at 10:08–12:19.
+                                             18
+and “as an affirmative defense and as part of new matters, so to speak, in that
+
+pleading.”87
+
+         Following the brief hearing on the evidentiary objections, I ruled to exclude
+
+the exhibits as substantive evidence from Gregory’s case-in-chief for lack of
+
+relevance to the two claims at issue.88 I also ruled that Petitioners did not waive
+
+attorney-client privilege through the inadvertent production of one document.89
+
+                5.       The Court holds a one-day trial and hears witness testimony
+                         from both parties.
+         Immediately following the pre-trial Motion in Limine hearing, the case
+
+proceeded to trial. There, Petitioners called four witnesses. Respondent called only
+
+one witness in his case-in-chief.         At the close of trial, I requested post-trial
+
+summations from both parties.90
+
+         Amid submitting their summations, Gregory filed a motion for an amended
+
+petition under Court of Chancery Rule 15(b), which permits an amendment to
+
+
+
+
+87
+     Id. at 13:04–07.
+88
+   Id. at 13:17–16:03. In my ruling, I clarified that “I don’t think an affirmative defense is
+a claim,” and that the removal of Lori and Stephen as trustees was not at issue in the case.
+Id. at 13:17–24. I acknowledged that Gregory may be able to rely on the exhibits in cross-
+examination, although the “right to cross-examination is not absolute” because I possessed
+discretion to not bar “cross-examination on topics of marginal or minimal relevance solely
+on the conjecture that bias or prejudice might be disclosed.” Id. at 14:15–21 (quoting Allen
+v. State, 970 A.2d 203, 214 (Del. 2009)).
+89
+     See Tr. 131:13–133:05.
+90
+     Id. at 173:11–15.
+                                             19
+conform the evidence to the pleadings presented. See Ct. Ch. R. 15(b)(2) (“When
+
+an issue not raised by the pleadings is tried with the parties’ express or implied
+
+consent, it must be treated in all respects as if raised in the pleadings. A party may
+
+move—at any time, even after judgment—to amend the pleadings to conform to the
+
+evidence and to raise an unpled issue.”). Gregory argued that the Court heard
+
+evidence objecting to “Petitioners’ fitness to remain trustees,” despite not being
+
+included “in a separate pleading or a heading which was entitled ‘Removal of
+
+Petitioners as Trustees.’”91
+
+           I denied Gregory’s motion to amend.92 In my denial, I expressly noted that
+
+prior to trial “I declined to allow Respondent to present extraneous evidence to
+
+support this unfiled claim.”93 I again articulated that asserting an affirmative defense
+
+is not tantamount to bringing a petition or claim and consequently excluded affiliated
+
+evidence.94
+
+
+
+
+91
+  Motion to File Amended Complaint (Petition), ¶ 5, D.I. 78. Gregory maintained that the
+lack of an express heading asserting a claim to remove the trustees did not mean he did not
+counterplead a claim to remove Petitioners as trustees. See id.
+92
+     D.I. 85.
+93
+     Id.
+94
+  Id. (“I ruled that this claim was not properly pled and that the evidence was irrelevant
+and inadmissible. Thus, there was limited factual development of this issue at trial and no
+opportunity for Petitioners to confront the issue.”).
+                                            20
+       I received the parties’ post-trial summations and took the matter under
+
+advisement. 95 This is my ruling granting Lori and Stephen’s petition to remove
+
+Gregory as trustee and denying Gregory’s cross-petition for an accounting.
+
+II.    ANALYSIS
+
+       A.     Gregory’s removal as trustee is appropriate both because of his
+              stipulation to do so and under 12 Del. C. § 3227.
+
+       The first issue is removal of Gregory as trustee. Lori and Stephen presented
+
+three primary reasons why Gregory should be removed: (1) Gregory’s criminal
+
+convictions and disbarment, (2) Gregory’s lack of cooperation in trust
+
+administration, and (3) Gregory’s treatment of Decedent while alive.
+
+       Lori and Stephen’s first argument, that Gregory’s criminal history and
+
+disbarment render him ineligible to continue serving as trustee, provides sufficient
+
+basis to grant Petitioners’ request for removal.
+
+
+
+
+95
+   I note for the record that Gregory belatedly filed his post-trial summation. I find his
+reasoning for delayed filing spurious and unconvincing. The parties had jointly stipulated
+to filing summations “within 45 days of the Parties receipt of the trial transcript.” Letter
+from Brian J. Ferry to Magistrate Hume regarding post trial summations, 1, D.I. 71. The
+Court reporter made the transcript available on February 23, 2026, and notified the parties.
+See id. at Exs. A, B. Petitioners’ counsel notified Respondent of the finalized transcript on
+February 25, 2026 and expressly clarified that the post-trial briefs would be due on April
+9, 2026. Id. at Ex. C. Gregory acknowledged receipt of opposing counsel’s email. See id.
+Despite documentary evidence to the contrary, Gregory asserted that he never received
+contemporaneous notice from opposing counsel due to international travel and only saw
+the email on April 4. Letter to the Hon. David Hume, IV, 2, D.I. 77. Gregory never
+explained his February 25th acknowledgement of receipt. Gregory ultimately filed his post-
+trial summation on April 22, 2026. See RPTB.
+                                             21
+      Delaware Code empowers this Court to remove a trustee on several grounds:
+
+      [T]he Court of Chancery may remove an officeholder . . . on petition of
+      a trustor, another officeholder, or beneficiary if:
+      (1) The officeholder has committed a breach of trust; or
+      (2) The continued service of the officeholder substantially impairs the
+      administration of the trust; or
+      (3) The court, having due regard for the expressed intention of the
+      trustor and the best interests of the beneficiaries, determines that
+      notwithstanding the absence of a breach of trust, there exists:
+             a. A substantial change in circumstances;
+             b. Unfitness, unwillingness or inability of the officeholder to
+      administer the trust or perform its duties properly; or
+             c. Hostility between the officeholder and beneficiaries or other
+      officeholders that threatens the efficient administration of the trust.”
+12 Del. C. § 3327.
+
+      While I have the discretionary power to “remove a trustee who fails to perform
+
+his duties through more than mere negligence,” McNeil v. McNeil, 798 A.2d 503,
+
+513 (Del. 2002), I also acknowledge that “removal of a trustee is an extreme form
+
+of equitable relief that should be exercised sparingly.” Tigani v. Tigani, 2021 WL
+
+1197576, at *21 (Del. Ch. Mar. 30, 2021) (internation quotations omitted), aff’d, 271
+
+A.3d 741 (Del. 2002).      Our caselaw distinguishes between “a mere lack of
+
+confidence in the trustee by some [beneficiaries]” or “mere negligent breach of
+
+duty,” which provide insufficient grounds to remove a trustee, and endangering trust
+
+property “by a lack of capacity, honesty, or fidelity,” which supports removal.
+
+Sweeney v. Sweeney, 2024 WL 3040424, at *13 (Del. Ch. June 24, 2024) (quoting
+
+In re Catell’s Est., 38 A.2d 466, 469–70 (Del. Ch. 1944)).
+
+
+                                         22
+      Sister jurisdictions have found that “[i]f a trustee is found guilty of a crime or
+
+other conduct involving dishonesty, the court may find that he is unfit to be a trustee,
+
+even though the reprehensible actions were not connected with the trust
+
+administration.”   BOGERT’S THE LAW OF TRUSTS AND TRUSTEES Grounds for
+
+Removal § 527 (2026). For example, the New Jersey Supreme Court affirmed the
+
+Chancery Division’s removal of an executor trustee, attorney Dougal Herr, due to
+
+his “unethical conduct” regarding a separate inter vivos trust. In re Breckwoldt, 125
+
+A.2d 721, 723 (N.J. 1956). Breckwoldt deferred to the broader principle that
+
+“malfeasance in the one office is inconsistent with continuance in the other.” Id.
+
+(citing 1 SCOTT ON TRUSTS § 107 (1939)). Similarly, a Pennsylvania decision
+
+affirmed removal of a trustee where the trustee (1) had been convicted and sentenced
+
+for crimes of dishonesty and (2) subject to state bar disciplinary proceedings for such
+
+misconduct, because the removed trustee “is not one to whom this court could
+
+creditably entrust the management, even with others, of an estate the sole beneficiary
+
+whereof has no confidence in such person.” In re Rentschler’s Estate, 139 A.2d 910,
+
+916 (Pa. 1958); accord RESTATEMENT (THIRD) OF TRUSTS § 37 cmt. e (“A few
+
+statutes bar persons convicted of a felony from being fiduciaries. . . . Even without
+
+a specific statute, a convicted criminal may be removed under more general
+
+standard.”) (citing Jones v. McGuirt, 416 So. 2d 970 (Ala. 1982)).
+
+
+
+
+                                          23
+       Delaware lacks a statute specifically barring convicted felons from serving as
+
+fiduciaries, although it does bar “person[s] convicted of a crime” from receiving
+
+letters testamentary or of administration. 12 Del. C. § 1508. Nevertheless, this Court
+
+has previously recognized that a trust possesses a legitimate interest in protecting
+
+itself against a trustee with a criminal conviction. See In re Trust u/a McKinley,
+
+2002 WL 1271684, at *5 (Del. Ch. May 24, 2002) (holding that the removal of an
+
+“untrustworthy fiduciary” is a benefit that “would also inure to the Trust” and not
+
+constitute self-interested behavior).
+
+       Notably, Pennsylvania does prevent disbarred attorneys from serving as
+
+fiduciaries: Disbarred attorneys must “resign all appointments as personal
+
+representative, executor, administrator, guardian, conservator, receiver, trustee,
+
+agent under a power of attorney, or other fiduciary position.”              Pa. R.D.E.
+
+217(d)(3)(i). 96
+
+       Gregory stipulated at trial that the Pennsylvania Rules of Disciplinary
+
+Enforcement mandate his resignation as trustee because the Pennsylvania Supreme
+
+
+
+
+96
+   This is how Pennsylvania courts stylize the “Pennsylvania Rules of Disciplinary
+Enforcement.” See generally Att’y T. v. Off. of Disciplinary Counsel of Pa., 547 A.2d 350
+(Pa. 1988).
+                                           24
+Court disbarred him. 97       Gregory also stipulated to his “criminal issues in
+
+Pennsylvania.”98
+
+       While the parties have not briefed whether the Pennsylvania Rules of
+
+Disciplinary conduct applying to disbarred attorneys requires this Court to remove
+
+Gregory as trustee, Gregory’s stipulation permits me to assume and apply without
+
+deciding that Gregory is bound by the Rules and must resign. 99
+
+
+
+97
+   “ATTORNEY FERRY: Your Honor, I was intending to go through the Pennsylvania
+Rules of Disciplinary Enforcement, in particular the ones --
+GREGORY PALUMBO: Your Honor, I don’t believe that Stephen Palumbo would have
+full knowledge of those rules, but I’ll stipulate to that as well.
+ATTORNEY FERRY: If Mr. Palumbo will stipulate to Pennsylvania Rules of Disciplinary
+Enforcement, then I will --
+GREGORY PALUMBO: So stipulated, Judge.” Tr. 44:13–23.
+98
+   “Q: What can you tell the Court about your brother’s criminal issues in Pennsylvania?
+GREGORY PALUMBO: Your Honor, I would stipulate to those.” Id. 44:06–09; see
+Resp’t’s Ans. ¶ 9 (noting that Petitioners’ averment regarding his crimes “refer to a
+document which speaks for itself” and noting that offense “other than robbery and carrying
+a firearm” were dismissed at sentencing); JX 13 (Docket History from the Court of
+Common Pleas of Chester County reflecting eight discrete criminal charges against
+Respondent); PTO ¶ 12 (stating Respondent’s conviction of multiple felonies in
+Pennsylvania in September 2023).
+99
+   See Deutsche Bank Tr. Co. Ams. v. Royal Surplus Lines Co., 2012 WL 2898478, at *8
+(Del. Sup. July 12, 2012) (“stipulations are binding on the parties and are conclusive as to
+the subject matters of the stipulation.”); Merritt v. Utd. Parcel Serv., 956 A.2d 1196, 1201
+(Del. 2008) (“Voluntary and knowing concessions of fact made by a party during judicial
+proceedings . . . are termed ‘judicial admissions.’”). Principles of comity and respect for
+the state bars of sister courts also encourage me to recognize and apply the Pennsylvania
+Rules of Disciplinary Enforcement in this suit. Considering (1) the discretion afforded to
+me under 12 Del. C. § 3227, (2) Gregory’s breach of trust through his criminal behavior,
+and (3) Delaware’s interest in ensuring the trustworthiness of fiduciaries, the Pennsylvania
+Rule counsels me to remove Gregory from his position. See Columbia Cas. Co. v. Palytex
+FP, Inc., 584 A.2d 1214 (Del. 1991) (“Comity permits one state to give effect to the laws
+
+
+
+                                            25
+         Gregory’s criminal behavior and disbarment taken alone constitute sufficient
+
+breaches of trust to justify removal under the Delaware code. Independent from
+
+Gregory’s stipulated misconduct, however, I hold that Gregory’s “misgivings” in the
+
+recent past similarly recommend his removal as trustee.100
+
+         Lori and Stephen provided credible evidence that Gregory (1) forged estate
+
+planning documents, (2) withdrew money without authorization from Decedent’s
+
+accounts, and (3) substantially interfered with his co-trustees’ administration of the
+
+trust.
+
+         The Cecil County Court of Common Pleas held that Power of Attorney and
+
+Advanced Medical Directive documents relied upon by Gregory prior to his father’s
+
+death are “invalid and of no force or effect,” leading to a plausible inference that
+
+they were forged or at least invalid.101 Despite Gregory’s numerous attempts to
+
+collaterally attack the legitimacy of the Maryland guardianship proceedings, such
+
+attacks fall well beyond the scope of this proceeding and, even if considered, fail to
+
+overcome the Maryland court’s adoption of the investigator’s findings.
+
+
+
+
+of a sister state, not out of obligation, but out of respect and deference.”) (citing 16 AM.
+JUR. 2D, Conflict of Laws § 10 (1979)).
+100
+   See PPTB, 8 (“Greg had committed a number of misgivings over the years that have
+eroded his siblings’ trust and have rendered him unfit to serve as Co-Trustee.”).
+101
+      JX 14 at PALUMBO0110.
+                                            26
+      Moreover, Lori and Stephen presented credible testimony that Gregory
+
+misappropriated funds from Decedent’s UBS account and by unauthorized
+
+expenditures on Decedent’s company’s credit cards.
+
+      These findings alone constitute a breach of trust under 12 Del. C. § 3227(1).
+
+Forging documents to take advantage of an aged family member and
+
+misappropriating money from such family member’s financial accounts endangers
+
+trust property “by a lack of capacity, honesty, or fidelity.” Sweeney, 2024 WL
+
+3040424, at *13.
+
+      The ongoing hostility between Gregory and his family members, especially
+
+Lori and Stephen, further indicates “[h]ostility between the officeholder and
+
+beneficiaries or other officeholders that threatens the efficient administration of the
+
+trust.” 12 Del. C. § 3227(3)(c). Making threats that results in a co-trustee seeking
+
+recourse from the police and subjecting co-trustees to verbal harassment interferes
+
+with the proper management of trust assets. While Gregory’s refusal to close on the
+
+New Castle property alone would not threaten “efficient administration,” his
+
+aggressive and malicious behavior toward his fellow trustees constitutes such
+
+hostility to throw into question whether the trust can be properly administered.
+
+      B.     Gregory’s cross-petition for accounting is denied for want of any
+             evidence or argument in support.
+
+      Gregory’s sole cross-petition was for a trust accounting. Surprisingly, at trial,
+
+Gregory only presented one witness, whose testimony had no bearing on the petition
+                                          27
+for accounting.102 Gregory’s post-trial summation focuses on breaches of fiduciary
+
+duties committed by Lori and Stephen, not his entitlement to a trust accounting.103
+
+Because Gregory has failed to provide any argument or evidence in support of his
+
+petition, it must be denied. See Robinson v. Darbeau, 2021 WL 776226, at *10
+
+n.114 (Del. Ch. Mar. 01, 2021) (“Typically, a failure to brief an argument constitutes
+
+waiver of the argument”); accord Emerald P’rs v. Berlin, 726 A.2d 1215, 1224 (Del.
+
+1999) (“Issues not briefed are deemed waived.”).             And yet, Gregory devotes
+
+significant verbiage to claims inadequately pleaded in his cross-petition. I address
+
+these in turn.
+
+               1. Respondent failed to adequately plead a claim for removal of his
+                  co-trustees.
+
+         Gregory first contends that he adequately pleaded a claim to remove Lori and
+
+Stephen as trustees. Our Court rules require a party to “plead a short and plain
+
+statement of a claim for relief showing that the pleader is entitled to relief, and a
+
+demand for judgment for the relief to which the party deems itself entitled.” Matters
+
+
+
+
+102
+    Respondent’s sole witness, Michael Zacco, testified about the veracity of Decedent’s
+signature on several documents. See Tr. 165–171. Gregory appears to have called Mr.
+Zacco as part and parcel of his collateral attack on the Maryland Court ruling regarding the
+forged documents. I already rejected Gregory’s line of argument on this point and will not
+further consider it here. See supra n.25.
+103
+      See generally RPTB.
+                                            28
+of Estate and Tr. of Kalil, 2018 WL 793718, at *17 (Del. Ch. Feb. 7, 2018) (citing
+
+Ct. Ch. R. 8(a)).
+
+      In his counter-petition, Gregory included the heading “Petition for
+
+Accounting,” followed by allegations of Petitioners’ misconduct and two claims for
+
+relief: (1) a trust accounting under 12 Del. C. § 3581(4) and (2) “appoint[ment] of a
+
+new Trustee in his place to as to prevent further misconduct by Petitioners in
+
+Respondent’s absence, or that this Honorable Court replace all trustees in light of
+
+Petitioners’ misconduct as set forth hereinabove.”
+
+      Respondent likely intended to cite 12 Del. C. § 3581(b)(4), which permits the
+
+court to “remedy a breach of trust that has occurred or may occur” by “ordering a
+
+trustee to account.” The same statute also permits the Court to suspend or remove a
+
+trustee for a breach of trust. Id. at § 3581(b)(6). Notably, however, Respondent
+
+never invoked this code section in his counter-petition, in his pre-trial stipulation, or
+
+in his post-trial summation.
+
+      Respondent cites numerous Delaware cases for the proposition that his
+
+counter-petition to remove co-trustees meets Delaware’s notice-pleading standard.
+
+He argues that even if the Court considers his pleadings to be “unclear” or “inartfully
+
+
+
+
+                                           29
+pled,”104 then the proper procedural rejoinder is a motion for a more definite
+
+statement under Court of Chancery Rule 12(e), not dismissal.
+
+         Such argument cannot prevail.          First, Respondent misapprehends the
+
+objections of the opposing party and the statements of the Court. No motion to
+
+dismiss is before me. Instead, I have continuously articulated that Respondent’s
+
+counter-petition only requests an accounting, and that he never adequately pleaded
+
+a claim for removal.
+
+         Moreover, many of the cases cited by Respondent in support of his proposition
+
+neither expressly state nor even suggest the statements for which he invokes them.
+
+Respondent cites Kuroda v. SPJS Holdings, LLC for the proposition that (1) the
+
+proper procedural retort to a confusing claim is a Rule 12(e) motion for a more
+
+definite statement, (2) that Delaware courts routinely reject “objections as to style”
+
+in pleadings, (3) “[e]ven if the pleading is imperfect, dismissal is not warranted
+
+where the defendant is on notice of the claim,” and (4) that Delaware courts evaluate
+
+“based on their substance, not the heading under which they appear.” 2009 WL
+
+4345724 (Del. Ch. Dec. 1, 2009).105 Unfortunately for Respondent, Kuroda never
+
+
+
+
+104
+    See id. at 5 (misciting In re Santa Fe Pac. Corp. S’holder Litig., 669 A.2d 59 (Del.
+1995) for the proposition that a “court will not dismiss a claim simply because it is
+‘inartfully or confusingly pled.’”); see infra n.106 and accompanying text.
+105
+      RPTB, 5–6.
+                                           30
+discusses Rule 12(e) nor stands for any of these principles. Respondent even
+
+purports to cite Kuroda on two occasions in his post-trial briefing, yet the cited words
+
+never appear in the Kuroda decision. 106 Respondent’s invocation of Koninklijke v.
+
+Philips Electronics N.V. fares no better. 2009 WL 4345724 (Del. Ch. Dec. 1, 2009).
+
+Koninklijke similarly does not stand for the proposition that a 12(e) is the appropriate
+
+response to unclear pleading that “mixes theories.”107 Respondent’s citations seem
+
+equally specious as his claim to have properly pleaded removal of his co-trustees.108
+
+And Gregory is not the typical self-represented litigant seeking to use artificial
+
+intelligence to obtain access to the Court. He is a seasoned attorney who understands
+
+the repercussions of submitting false authority to a court.
+
+
+
+
+106
+    See id. at 5 (“Even if the pleading is imperfect, dismissal is not warranted where the
+defendant is on notice of the claim.”) (emphasis in RPTB, but no emphasis in original
+because the language does not appear in Kuroda), 6 (stating that the Court “looks to the
+substance of the allegations rather than the form,” but Kuroda never says nor suggests this).
+Inclusion of fictitious quotations from cases constitutes one of the hallmarks of Artificial
+Intelligence usage. See An v. Archblock, 2025 WL 1024661 at *1 n.10 (Del. Ch. Apr. 4,
+2025) (“AI hallucination is a phenomenon wherein a large language model (LLM)—often
+a generative AI chatbot or computer vision tool—perceives patterns or objects that are
+nonexistent or imperceptible to human observers, creating outputs that are nonsensical or
+altogether inaccurate.”) (citing Harris as Next Friend of RNH v. Adams, --- F. Supp. 3d --
+-, 2024 WL 4843837, at *1 n.3 (D. Mass Nov. 20, 2024)). Abuse of AI in litigation filings
+comprises an “abuse of the adversary system” and is sanctionable conduct. See id. at *2
+n.12.
+107
+      RPTB, 5.
+108
+   Respondent inadequately reckons with my continued articulation that his petition to
+remove his co-trustees was not before me. See Tr. 11:10–12, 18–19, 13:2–3.
+                                             31
+                    2.   Even if Removal of the co-trustees was before me, Gregory
+                         failed to prove his case at trial.
+
+          Assuming briefly that Gregory had filed a cross-petition to remove his co-
+
+trustees, this claim must nevertheless fail. As stated above, the only evidence in
+
+Gregory’s case-in-chief related to the validity of a signature already found to be
+
+invalid by the Maryland Court. Nevertheless, Gregory argues that he “raised issues
+
+of Petitioners’ inability to manage the subject estate with credibility, trustworthiness,
+
+and fair dealing.”109
+
+          First, Gregory challenges Stephen’s and Lori’s failure to provide him notice
+
+regarding “the sales of either of Decedent’s Delaware or Maryland LLC properties
+
+and the removal of assets contained, or receipt of monies.”110 Gregory suggests that
+
+failure to provide notice violated the fiduciary duties of care and loyalty.111 These
+
+contentions fail on both factual and legal levels.
+
+          As discussed above, a Maryland LLC held title to the Maryland property.112
+
+Gregory never put the LLC agreement before me. Thus, I cannot find, hold, or even
+
+opine on (1) whether Lori and Stephen complied with the notice requirements or (2)
+
+which law even governs the LLC documents. The only credible testimony on this
+
+
+
+109
+      RPTB, 3.
+110
+      Id. at 6–7.
+111
+      Id. at 7.
+112
+      Tr. 68:03–09.
+                                           32
+topic came from Mr. Hartman, who relayed his belief that Lori and Stephen had
+
+authority to sell the property, without any breach of fiduciary duty or conflict of
+
+interest. 113
+
+         As for the Delaware property, Gregory encounters a serious problem with his
+
+lack of notice argument because he did receive notice and objected to the sale,
+
+resulting in the sale’s termination. Consequently, it is difficult to ascertain what
+
+harm Gregory has suffered.
+
+         Second, Gregory challenges Lori and Stephen’s use of Mr. Lukk as realtor in
+
+the sale of the Maryland property and attempted sale of the Delaware property. Mr.
+
+Lukk is not a party in this matter, so any implication that he breached a fiduciary
+
+duty to the trust is beyond the scope of this matter. Second, Lori and Stephen
+
+presented credible testimony that they relied on the opinion of their lawyer in
+
+constructing the relevant trust and LLC documents.114 Gregory has failed to present
+
+any evidence that any of their actions were made in bad faith. 115
+
+
+
+113
+      Id. at 85:11–20.
+114
+      See supra n.47 and accompanying text.
+115
+    In his post-trial briefing, Gregory argues that testimony revealed that “Petitioners
+planned and formulated a campaign to influence this Court . . . to harm Respondent, and in
+this present matter to gain control over the subject trust and estate for their own benefit and
+gain.” RPTB, 14–15. The testimony overwhelmingly indicated that Petitioners acted
+appropriately and in good faith in instituting the Maryland emergency guardianship motion
+(in which they prevailed), appropriately withdrew a petition concerning the sale of property
+
+
+
+                                              33
+         Third, Gregory challenges the misappropriation of the UBS monies. Minimal
+
+evidence on this topic was presented at trial, and none from Gregory. On cross-
+
+examination, Stephen represented that the accountant identified that $200,000 was
+
+missing from the UBS account, 116 and that Stephen believed that Gregory took
+
+$275,000 from the account between 2015 and 2019. 117 Gregory provides a factual
+
+argument in his post-trial brief, but this is extrajudicial testimony. 118
+
+         Gregory broadly misconstrues impeachment evidence as substantive evidence
+
+in his arguments.119 For example, he suggests that Lori’s misstatement that Gregory
+
+had two attorneys in this case, instead of one, as substantive evidence that she
+
+negligently manages the trust: “How could she not even know, if she is on the pulse
+
+of administration of this estate - is remarkable.”120 But Gregory introduced no
+
+
+
+
+that was governed by the LLC documents, and not in the estate, and properly instituted this
+petition to remove a trustee (relief to which the respondent stipulated prior to trial). The
+evidence does not support Respondent’s protestations.
+116
+      Tr. 93:11–15.
+117
+      Id. at 92:17–20.
+118
+    Gregory “testifies” in his briefing that the $200,000 in question was jointly owned by
+himself and Decedent for investment purposes. RPTB, 8. Gregory also indicates that he
+is suing the Petitioners in Pennsylvania state court on theories of “false and derogatory
+statements.” Id. at 9. The record is not before me, I am not bound by any prior ruling on
+this issue, and it was not presented in evidence.
+119
+      See D.R.E. 607, 613.
+120
+      RPTB, 19.
+                                            34
+substantive evidence that Lori negligently managed the trust, apart from his
+
+collateral attacks on actions prescribed and permitted by Maryland courts.
+
+         Respondent’s Cross-Petition for Accounting is denied. Any other relief, such
+
+as removal of Lori and Stephen as trustees, is also denied.
+
+         C.    I shift fees and costs in Petitioner’s favor for Respondent’s bad
+               faith conduct throughout the course of the litigation.
+
+         Petitioners request that I shift fees and costs in Petitioner’s favor because of
+
+Respondent’s bad faith litigation context. The American Rule, “provid[ing] that
+
+each party is generally expected to pay its own attorneys’ fees” normally governs in
+
+Delaware. Shawe v. Elting, 157 A.3d 142, 149 (Del. 2017). One relevant exception
+
+to the American Rule is the Bad Faith Exception. Johnston v. Arbitrium (Cayman
+
+Islands) Handels AG, 720 A.2d 542, 545 (Del. 1998). While no “single definition
+
+of bad faith conduct” exits, this court has recognized it where “parties have
+
+unnecessarily prolonged or delayed litigation, falsified records[,] or knowingly
+
+asserted frivolous claims[,]” in addition to “misle[a]d[ing] the court, alter[ing]
+
+testimony, or chang[ing] his position on an issue. Shawe, 157 A.3d at 149. “The
+
+party seeking fees must demonstrate by clear evidence that the other party acted in
+
+subjective bad faith.” Id. at 150.
+
+         Petitioners identify the following conduct as supportive of subjective bad
+
+faith:
+
+
+
+                                            35
+      • Misrepresenting to the court that an exception exists to the rule preventing
+        disbarred attorneys from serving as a fiduciary; 121
+      • Focusing his cross-examination of Petitioners’ witnesses on irrelevant matters
+        beyond the scope of the pleadings, with Petitioners successfully excluding
+        much of the proposed evidence; 122
+      • Excessive questioning revealing Gregory’s desire to “settle a score” with his
+        siblings through “arguing about personal grievances”;123 and
+      • Failing to provide any argument or evidence regarding the Petition for
+        Accounting, requiring Petitioner to prepare evidence in defense of this
+        proposed relief.124
+
+      While Respondent is pro se in this matter, he is sophisticated due to his years of
+
+practice as an attorney in Pennsylvania. He possesses training and practice in law
+
+and submitted himself to be governed by the rules of the Delaware Court of
+
+Chancery. Respondent’s behavior throughout litigation, including in trial, indicates
+
+
+
+121
+     Tr. 05:10–06:14. Gregory represented that “there’s an exception to this law . . . in
+Pennsylvania, and familial trusts,” and that he didn’t have the law with him because he did
+not anticipate “this was going to be made an issue by the Court without the case in chief .
+. . .” Tr. 06:10–20. Gregory stipulated before trial that his removal was appropriate and
+that the Pennsylvania law obligated his resignation, yet invoked law contrary to his
+stipulation, which does not appear to exist, Gregory having failed to alert me to its
+existence.
+122
+    See, e.g., id. at 161:24–162:01 (Respondent arguing that cross-examination about
+alleged “fraud on the court” in Cecil County Maryland is relevant and goes to “bias, and
+bias is admissible, as well as credibility is.”). Id. at 162:02–05, 163:14–16.
+123
+    “[Gregory]: You’re big on threats; correct?
+[Stephen]: Am I big on threats? What do you mean?
+Q: Did you ever threaten your father?
+A: I have not.
+Q: Are you sure about that?
+A: I’m certain.
+Q: okay.”). Id. at 90:08–15.
+124
+    See generally supra at § II.B (“Gregory’s cross-petition for accounting is denied for
+want of any evidence or argument in support.”).
+                                            36
+subjective bad faith conduct. Respondent misrepresented law to the court, knowing
+
+it was material to the present issues, and failed to correct his statement. Respondent
+
+continuously deployed his opportunity for cross-examination to press witnesses
+
+about matters ancillary or irrelevant to the petitions. Respondent committed critical
+
+errors in citing law in his post-trial brief, relying on Delaware cases for propositions
+
+neither supported nor implicated in the case.            Respondent misrepresented
+
+communications between himself and Petitioner’s counsel regarding the scheduling
+
+of the post-trial briefs and claimed to have not timely received opposing counsel’s
+
+email, despite documentary proof he responded immediately. 125 Respondent’s
+
+failure to make any case in support of his petition for accounting imposed undue
+
+burdens on the Petitioners. Petitioners had to expend time and money to prepare a
+
+defense in anticipation of Respondent’s probable case. Consequently, the trial
+
+consisted of only rebuttal evidence on Respondent’s cross-petition, and no evidence
+
+in support.
+
+         This concert of action supports my finding that Respondent conducted this
+
+litigation with subjective bad faith. As a result, I shift fees and costs to the
+
+Petitioners.
+
+
+
+
+125
+      See supra n.95 and accompanying text.
+                                              37
+III.   CONCLUSION
+
+       For the reasons explained above I recommend the following: Petitioners’
+
+motion to remove a trustee is granted; Respondent’s cross-petition for an accounting
+
+is denied.; and fees and costs are awarded to the Petitioner under the bad faith
+
+exception to the American Rule.
+
+       This is a final report pursuant to Court of Chancery Rule 144.
+
+                                              Sincerely,
+
+                                              /s/ David Hume, IV
+                                              David Hume, IV
+                                              Magistrate in Chancery
+
+
+cc:    All counsel of record (by File & ServeXpress)
+
+
+
+
+                                         38
+

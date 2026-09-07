@@ -1,0 +1,870 @@
+Perry v. Social Security Administration, Commissioner                                                Doc. 44
+                                                                                                   FILED
+                                                                                          2026 Aug-03 PM 02:30
+                                                                                          U.S. DISTRICT COURT
+                                                                                              N.D. OF ALABAMA
+
+
+                                      UNITED STATES DISTRICT COURT
+                                     NORTHERN DISTRICT OF ALABAMA
+                                           SOUTHERN DIVISION
+
+              DOMENEQUE PERRY,                          )
+                                                        )
+                      Plaintiff,                        )
+                                                        )
+              v.                                        )   Case No. 2:26-cv-00048-AMM
+                                                        )
+              SOCIAL SECURITY                           )
+              ADMINISTRATION,                           )
+              COMMISSIONER,                             )
+                                                        )
+                      Defendant.                        )
+
+
+                                              MEMORANDUM OPINION
+
+                     This case proceeds before the court on the Commissioner of the Social
+
+             Security Administration’s (“Commissioner”) Motion to Dismiss, Doc. 15, as well as
+
+             Plaintiff Domeneque Perry’s various motions: motions to expedite this judicial
+
+             review, Docs. 2, 8, 10, 12, 13, 14, 16, 22; Motion to Waive Pacer Fees, Doc. 25;
+
+             Motion for Temporary Restraining Order and Preliminary Injunction, Doc. 30;
+
+             Motion to Amend Complaint Nunc Pro Tunc, Doc. 31; Motion and [Proposed] Order
+
+             for Administrative Resolution and Settlement Mandate, Doc. 34; Motion to Clarify
+
+             Use of Assistive Tools and For Protective Order Regarding Collateral Discovery,
+
+             Doc. 36; Motion to Advise the Court of Executive Correspondence Regarding
+
+             Intentional Litigation Delay, Doc. 39; Motion to Advise the Court of Defendant’s
+
+             Awareness of Settlement Track Options and Resolution Alternatives, Doc. 40;
+
+
+
+
+                                                                                         Dockets.Justia.com
+Motion to Deny or Narrow Defendant’s Request for a 60-Day Review Time, Doc.
+
+41; and Motion to Submit Attached Records Into the Litigation Docket, Doc. 42. For
+
+the reasons set forth herein, the court GRANTS the Commissioner’s Motion to
+
+Dismiss pursuant to Federal Rule of Civil Procedure 12(b)(6) and DISMISSES Ms.
+
+Perry’s claim WITHOUT PREJUDICE. The court also DENIES Ms. Perry’s
+
+Motion for Temporary Restraining Order and Preliminary Injunction and Motion to
+
+Amend Complaint Nunc Pro Tunc. The court GRANTS IN PART Ms. Perry’s
+
+Motion to Submit Attached Records Into the Litigation Docket to the extent such
+
+documents are reflected on the docket. Furthermore, the court DENIES Ms. Perry’s
+
+other various motions as MOOT.
+
+I.    LEGAL STANDARD
+
+      Federal Rule of Civil Procedure Rule 12(b)(6) permits a court to dismiss a
+
+complaint if it fails to state a claim for which relief may be granted. In Ashcroft v.
+
+Iqbal, 556 U.S. 662 (2009), the Court revisited the applicable standard governing
+
+Rule 12(b)(6) motions to dismiss. First, courts must take note of the elements a
+
+plaintiff must plead to state the applicable claims at issue. Id. at 675. After
+
+establishing the elements of the claim at issue, the court identifies all well-pleaded,
+
+non-conclusory factual allegations in the complaint and assumes their veracity. Id.
+
+at 678. Well-pleaded factual allegations do not encompass mere “labels and
+
+conclusions,” legal conclusions, conclusory statements, or formulaic recitations and
+
+
+                                          2
+threadbare recitals of the elements of a cause of action. Id. Third, a court assesses
+
+the complaint’s well-pleaded allegations to determine if they state a plausible cause
+
+of action based upon the identified claim’s elements. Id. at 679.
+
+      Although the court should extend pro se complaints some measure of
+
+leniency, see Trawinski v. United Techs., 313 F.3d 1295, 1297 (11th Cir. 2002),
+
+plaintiffs must comply with the Federal Rules of Civil Procedure. Loren v. Sasser,
+
+309 F.3d 1296, 1304 (11th Cir. 2002) (“Despite construction leniency afforded pro
+
+se litigants, we nevertheless have required them to conform to procedural rules.”);
+
+Moon v. Newsome, 863 F.2d 835, 837 (11th Cir. 1989) (a pro se litigant “is subject
+
+to the relevant law and rules of court, including the Federal Rules of Civil
+
+Procedure”).
+
+      The Eleventh Circuit has prescribed a two-step inquiry for assessing a motion
+
+to dismiss for failure to exhaust administrative remedies:
+
+             First, the court looks to the factual allegations in the defendant’s
+      motion to dismiss and those in the plaintiff’s response, and if they
+      conflict, takes the plaintiff’s version of the facts as true. If, in that light,
+      the defendant is entitled to have the complaint dismissed for failure to
+      exhaust administrative remedies, it must be dismissed . . . .
+
+             If the complaint is not subject to dismissal at the first step, where
+      the plaintiff’s allegations are assumed to be true, the court then
+      proceeds to make specific findings in order to resolve the disputed
+      factual issues related to exhaustion. The defendant[] bear[s] the burden
+      of proving that the plaintiff has failed to exhaust his available
+      administrative remedies. Once the court makes findings on the disputed
+      issues of fact, it then decides whether under those findings the
+      [plaintiff] has exhausted his available administrative remedies.
+                                             3
+Turner v. Burnside, 541 F.3d 1077, 1082–83 (11th Cir. 2008) (internal citations
+
+omitted). “[P]rocedurally the defense is treated ‘like a defense for lack of
+
+jurisdiction,’ although it is not a jurisdictional matter.” Id. at 1082 (citing Bryant v.
+
+Rich, 530 F.3d 1368, 1374 (11th Cir. 2008)).
+
+      In ruling on a motion to dismiss for failure to exhaust administrative remedies,
+
+“[w]here exhaustion . . . is treated as a matter in abatement and not an adjudication
+
+on the merits, it is proper for a judge to consider facts outside of the pleadings and
+
+to resolve factual disputes so long as the factual disputes do not decide the merits
+
+and the parties have sufficient opportunity to develop a record.” Bryant, 530 F.3d at
+
+1376 (footnotes omitted).
+
+      “A party may amend its pleading once as a matter of course no later than . . .
+
+21 days after serving it, or . . . 21 days after service of a responsive pleading or 21
+
+days after service of a motion under Rule 12(b), (e) or (f), whichever is earlier.” Fed.
+
+R. Civ. P. 15(a)(1)(A)–(B). “In all other cases, a party may amend its pleading only
+
+with the opposing party’s written consent or the court’s leave.” Fed. R. Civ. P.
+
+15(a)(2). “[A] district court may properly deny leave to amend the complaint under
+
+Rule 15(a) when such amendment would be futile.” Hall v. United Ins. Co. of Am.,
+
+367 F.3d 1255, 1262–63 (11th Cir. 2004). “[D]enial of leave to amend is justified
+
+by futility when the complaint as amended is still subject to dismissal.” Id. at 1263
+
+(cleaned up).
+                                           4
+       “A plaintiff seeking a preliminary injunction must establish that [s]he is likely
+
+to succeed on the merits, that [s]he is likely to suffer irreparable harm in the absence
+
+of preliminary relief, that the balance of equities tips in [her] favor, and that an
+
+injunction is in the public interest.” Winter v. Nat. Res. Def. Council, Inc., 555 U.S.
+
+7, 20 (2008). “A preliminary injunction is an extraordinary remedy never awarded
+
+as of right.” Id. at 24.
+
+II.    ALLEGATIONS IN PLAINTIFF’S COMPLAINT
+
+       On January 12, 2026, Ms. Perry, proceeding pro se, filed a Complaint with
+
+the court. Doc. 1. In her complaint, Ms. Perry alleges she filed an application for
+
+Supplemental Security Income (“SSI”) disability benefits on September 27, 2025.
+
+Id. at 3. She asserts she “documented circumstances constituting dire and critical
+
+need, including lack of income, inability to meet basic living expenses, and risk of
+
+loss of housing.” Id. Ms. Perry alleges she then “timely and fully complied with all
+
+agency requests for information,” and “[b]y early December 2025, [she] had
+
+uploaded all required forms and supporting documentation to the SSA portal,
+
+including disability reports, function reports, authorizations, and available medical
+
+records.” Id. at 2. Ms. Perry states, “[a]s part of claim development, the agency
+
+ordered consultative examinations[,]” and “[t]he final consultative examination
+
+relating to mental health was completed on December 31, 2025.” Id. “At that point,”
+
+Ms. Perry claims, “the evidentiary record was fully developed, and no further action
+
+
+                                           5
+by Plaintiff was required for the agency to proceed to adjudication.” Id. However,
+
+Ms. Perry alleges, “[a]s of the filing of this action, the Social Security Administration
+
+has not completed adjudication of [her] claim, has not provided required expedited
+
+handling for a documented dire-need case, and has not issued interim relief or a final
+
+decision, despite having all information necessary to do so.” Id. at 6. Because of this,
+
+Ms. Perry asserts she “escalated the matter through multiple channels” including
+
+contacting the agency field office, escalating to Administration headquarters, and
+
+seeking assistance through congressional inquiry. Id. at 2. Ms. Perry alleges that the
+
+agency’s failure to process her claim within this time frame, spanning less than four
+
+months, represents a “prolonged delay [which] has caused ongoing and concrete
+
+harm.” Id. at 6.
+
+       On January 20, 2026, in a subsequent motion, Ms. Perry states the Social
+
+Security Administration issued a determination denying her application, which
+
+stated some medical records and documentation “were unavailable or not received.”
+
+Doc. 8 at 2. However, Ms. Perry claims “those assertions are factually incorrect and
+
+inconsistent with the materials contained in the SSA[’s] electronic portal at the time
+
+of decision.” Id. Ms. Perry’s proposed Amended Complaint states “the medical
+
+record was fully-sufficient for a records-based determination. Doc. 26 at 3.
+
+III.   ANALYSIS
+
+       A. MS. PERRY FAILED TO EXHAUST HER ADMINISTRATIVE
+          REMEDIES BEFORE FILING THIS CIVIL ACTION.
+                                           6
+      The Commissioner argues that Ms. Perry failed to exhaust her administrative
+
+remedies because she filed the present civil action before “obtain[ing] a ‘final
+
+decision’ that this Court can review.” Doc. 15 at 1.
+
+      Congress amended the Social Security Act in 1939 and gave the Social
+
+Security Administration (“SSA”) the “‘full power and authority . . . to carry out’ the
+
+Act.” Smith v. Berryhill, 587 U.S. 471, 474–75 (2019) (quoting 42 U.S.C. § 405(a)).
+
+Nevertheless, Congress “provided for judicial review of ‘any final decision of the
+
+[SSA] made after a hearing.’” Id. at 475 (quoting 42 U.S.C. § 405(g)). Thus,
+
+congressional authorization provided by the Social Security Act affords federal
+
+courts the authority to review appeals from final decisions issued by the SSA
+
+regarding disability benefits. Id. at 474. However, Congress explicitly limited such
+
+appeals, particularly indicating such “review would be available only ‘as herein
+
+provided’—that is, only under the terms of [Section] 405(g).” Id. at 475 (quoting 42
+
+U.S.C. § 405(h)).1
+
+
+1
+ Ms. Perry asserts in her Complaint “[t]his court has subject-matter jurisdiction
+under 28 U.S.C. § 1331.” Doc. 1 at 5. However, in her later filings, Ms. Perry states
+she filed this claim pursuant to sentence four of 42 U.S.C. § 405(g). See Doc. 8 at 2,
+Doc. 10 at 1, Doc. 14 at 1–2, Doc. 16 at 1–2, Doc. 22 at 1. Title 42, United States
+Code, Section 405(h) proscribes actions to recover on Social Security claims under
+28 U.S.C. §§ 1331 or 1346. See 42 U.S.C. § 405(h) (“No action against the United
+States, the Commissioner of Social Security, or any officer or employee thereof shall
+be brought under section 1331 or 1346 of Title 28 to recover on any claim arising
+under this subchapter.”); see also Comack v. Comm’r, Soc. Sec. Admin., No. 23-
+11115, 2024 WL 4719238, at *3 (11th Cir. Nov. 8, 2024) (“[T]he Social Security
+Act provides that no action against the Commissioner may be brought pursuant to
+                                          7
+      Section 405(g), the exclusive statutory provision authorizing judicial review,
+
+“contains two separate elements: first, a ‘jurisdictional’ requirement that claims be
+
+presented to the agency, and second, a ‘waivable . . . requirement that the
+
+administrative remedies prescribed by the Secretary be exhausted.’” Id. at 478
+
+(alteration in original) (quoting Mathews v. Eldridge, 424 U.S. 319, 328 (1976)).
+
+The Supreme Court has described the second element as “nonjurisdictional.” Id.
+
+      As an initial matter, Ms. Perry asserted in her Complaint she “filed a
+
+Supplemental Security Income (‘SSI’) disability application on September 27,
+
+2025.” Doc. 1 at 1. The Commissioner does not contest this assertion. See Doc. 15
+
+at 5 (“[Ms. Perry] is not asking the Court to consider a matter that has never been
+
+before the Agency, rather her claim is currently pending with [the SSA].”)). This
+
+acknowledgement satisfies Section 405(g)’s jurisdictional requirement, requiring
+
+Ms. Perry to present her claim to the SSA in the first instance. The Commissioner,
+
+however, contends Ms. Perry failed to satisfy the second element of Section 405(g),
+
+
+
+[Section] 1331.”), cert. denied sub nom. Comack v. Dudek, 145 S. Ct. 1964 (2025).
+Moreover, the Eleventh Circuit has held the only basis for federal court jurisdiction
+in social security cases arises from 42 U.S.C. § 405. See Jackson v. Astrue, 506 F.3d
+1349, 1353 (11th Cir. 2007) (“[T]he remedies outlined in [42 U.S.C. § 405] are the
+exclusive source of federal court jurisdiction over cases involving SSI.”); see also
+Meisner v. Kijakazi, No. 22-CV-100 (PKC), 2022 WL 4458981, at *2 (E.D.N.Y.
+Sept. 22, 2022) (“Because the [Administrative Procedure Act] does not provide a
+source of federal court jurisdiction in this case, any jurisdiction must arise under the
+Social Security Act itself.”). Therefore, the court will review this action pursuant to
+the subject matter jurisdiction exclusively granted under 42 U.S.C. § 405(g).
+                                           8
+exhaustion of the administrative remedies prescribed by the SSA. Id.
+
+      Exhaustion is generally required as a matter of preventing premature
+      interference with agency processes, so that the agency may function
+      efficiently and so that it may have an opportunity to correct its own
+      errors, to afford the parties and the courts the benefit of its experience
+      and expertise, and to compile a record which is adequate for judicial
+      review.
+
+Rouzard v. Comm’r of Soc. Sec., No. 6:24-cv-585-CEM-LHP, 2025 WL 404917, at
+
+*5 (M.D. Fla. Jan. 28, 2025) (quoting Crayton v. Callahan, 120 F.3d 1217, 1222
+
+(11th Cir. 1997)), report and recommendation adopted, No. 6:24-cv-585-CEM-
+
+LHP, 2025 WL 404915 (M.D. Fla. Feb. 5, 2025). “[T]he doctrine of administrative
+
+exhaustion should be applied with a regard for the particular administrative scheme
+
+at issue.” Smith, 587 U.S. at 482 (quoting Weinberger v. Salfi, 422 U.S. 749, 765
+
+(1975)).
+
+      The Social Security Act requires administrative exhaustion in most
+
+circumstances. See 42 U.S.C. § 405(g). Section 405(g) limits judicial review to “any
+
+final decision of the Commissioner of Social Security.” “The term ‘final decision’ is
+
+. . . left undefined by the Act, but its meaning is left to the Secretary to flesh out by
+
+regulation.” Weinberger, 422 U.S. at 766 (citing 42 U.S.C. § 405(a)); see also Smith,
+
+587 U.S. at 478 (“[Section] 405(g) delegates to the SSA the authority to dictate
+
+which steps are generally required . . . .”).
+
+      The Supreme Court has summarized the procedure prescribed by the SSA for
+
+individuals to obtain a judicially reviewable final decision:
+                                            9
+      Modern-day claimants must generally proceed through a four-step
+      process before they can obtain review from a federal court. First, the
+      claimant must seek an initial determination as to h[er] eligibility.
+      Second, the claimant must seek reconsideration of the initial
+      determination. Third, the claimant must request a hearing, which is
+      conducted by an ALJ. Fourth, the claimant must seek review of the
+      ALJ’s decision by the Appeals Council. See 20 C.F.R. § 416.1400. If a
+      claimant has proceeded through all four steps on the merits, all agree,
+      [Section] 405(g) entitles h[er] to judicial review in federal district court.
+
+Smith, 587 U.S. at 475–76; see also 20 C.F.R. § 416.1400(a) (“The administrative
+
+review process consists of several steps . . . . When you have completed the steps of
+
+the administrative review process . . . , we will have made our final decision. If you
+
+are dissatisfied with our final decision, you may request judicial review by filing an
+
+action in a Federal district court.”). Therefore, a claimant obtains a final decision
+
+only if she appeals her claim through the administrative process and the Appeals
+
+Council issues a decision or a notice it has denied a claimant’s request for review.
+
+See 20 C.F.R. §§ 416.1400(a), 416.1481.
+
+      Ms. Perry does not allege she exhausted her administrative remedies as
+
+required by 42 U.S.C. § 405(g). See Doc. 1 at 2, 6. Ms. Perry asserts she filed an
+
+application for benefits on September 27, 2025, id. at 3, she uploaded all required
+
+forms and documentation by December 2025, id. at 2, and she completed a
+
+consultative examination on December 31, 2025, id. Less than two weeks later, on
+
+January 12, 2026, she filed the present Complaint. Id. at 1. In her Complaint, she
+
+alleges that, as of the date of her filing, “the Social Security Administration ha[d]
+
+
+                                           10
+not completed adjudication of [her] claim, ha[d] not provided required expedited
+
+handling for a documented dire-need case, and ha[d] not issued interim relief or a
+
+final decision, despite having all the information necessary to do so.” Id. at 6.
+
+      In a January 20, 2026, motion seeking the court’s judgment, Ms. Perry
+
+asserted the Social Security Administration issued a determination denying her
+
+application for benefits. Doc. 8 at 2 (“The Social Security Administration issued a
+
+denial determination . . . .”); see also Doc. 14 at 2 (requesting the court “[r]everse
+
+the Commissioner’s final administrative decision denying benefits”), Doc. 16 at 2
+
+(same), Doc. 34 at 1 (requesting “a revised, fully favorable determination, officially
+
+erasing the prior denial and updating [her] file status to ‘Approved’”). Despite Ms.
+
+Perry’s assertion this determination represents a final decision, Ms. Perry has not
+
+alleged she proceeded through all of the steps of the administrative process to appeal
+
+a denial. In addition, she has not provided a final decision for the court to review in
+
+the form of an Appeal’s Council decision or denial of request for review. Therefore,
+
+the SSA’s denial of her claim, which likely represents an initial decision, does not
+
+suffice to demonstrate Ms. Perry has exhausted her administrative remedies. 2
+
+
+2
+ Furthermore, the January 20, 2026, motion requests correction of a “record-based
+error” related to a dispute between her and the SSA over the availability of certain
+medical records. Doc. 8 at 3. The court declines to address this issue, as it constitutes
+the exact type of issue best addressed in the first instance through the administrative
+process. See Rouzard, 2025 WL 404917, at *5 n.9 (“To the extent that Plaintiff
+argues that the records are deficient, missing, redacted, or inconsistent, the
+submissions Plaintiff provides in support do not demonstrate that a final decision
+                                           11
+      Nonetheless, the SSA or the courts may waive the administrative exhaustion
+
+requirement. Smith, 587 U.S. at 478. The Eleventh Circuit applies “a three-part test
+
+to determine whether waiver is applicable: (1) are the issues entirely collateral to the
+
+claim for benefits; (2) would failure to waive cause irreparable injury; and (3) would
+
+exhaustion be futile.” Id. (quoting Crayton, 120 F.3d at 1220). “Exhaustion may be
+
+excused when the only contested issue is constitutional, collateral to the
+
+consideration of claimant’s claim, and its resolution therefore falls outside the
+
+agency’s authority. . . .” Crayton, 120 F.3d at 1222.
+
+      Based upon the foregoing factors, Ms. Perry cannot obtain waiver of the Act’s
+
+exhaustion requirements. She does not assert a “collateral constitutional issue that
+
+would allow the [c]ourt to excuse compliance with the requirement to exhaust
+
+administrative remedies.” Mineo v. Comm’r of Soc. Sec., No. 8:19-cv-3180-T-
+
+36JBT, 2020 WL 7383449, at *2 (M.D. Fla. Dec. 16, 2020). Although Ms. Perry
+
+asserts a due process violation alleging “[t]he agency’s prolonged failure to act—
+
+despite full development of the record and repeated documentation of dire need—
+
+has deprived [her] of meaningful access to the administrative process and exposed
+
+
+has been issued in this case (nor does Plaintiff argue that they do). Nor does Plaintiff
+argue that the allegedly deficient records prevented him from exhausting his
+administrative remedies. Instead, it appears that Plaintiff relies on these materials to
+support the merits of his applications, requests for reconsideration, and/or waiver
+requests before the SSA, or his argument that the SSA did not timely or adequately
+respond to his requests. Because the documents do not go to the issue of exhaustion,
+these submissions are not further addressed herein.”) (internal citations omitted).
+                                          12
+[her] to ongoing and preventable harm[,]” Doc. 1 at 7, a “generic allegation is not
+
+enough to raise a colorable constitutional claim.” Pretzer v. Comm’r of Soc. Sec.,
+
+No. 2:19-cv-735-SPC-NPM, 2023 WL 2706729, at *3 (M.D. Fla. Mar. 30, 2023);
+
+see also Gonzalez v. U.S. Att’y Gen., 729 F. App’x 853, 856 (11th Cir. 2018).
+
+      Ms. Perry’s “alleged delay by the SSA in the process of adjudicating the
+
+application[] and/or reconsideration and waiver requests at issue is not sufficient by
+
+itself to state a constitutional claim or demonstrate that waiver of the exhaustion
+
+requirements is warranted.” Rouzard, 2025 WL 404917, at *6. While the court
+
+understands Ms. Perry’s repeated assertions she needs financial support for basic
+
+necessities, see Doc. 1 at 7, Doc. 12 at 1, Doc. 13 at 1, Doc. 14 at 2–3, Doc. 16 at 2–
+
+3, “[Section] 405(b) does not provide a time by which the Social Security
+
+Administration must respond to a request for reconsideration.”           Montalvo v.
+
+O’Malley, No. 8:23-cv-02262-AAS, 2024 WL 711035, at *3 (M.D. Fla. Feb. 21,
+
+2024).
+
+      Moreover, in Heckler v. Day, the Supreme Court held courts do not have the
+
+authority “to prescribe deadlines for agency adjudication of Title II disability claims
+
+and to order payment of interim benefits in the event of noncompliance.” 467 U.S.
+
+104, 110 (1984); see also id. at 110–11 (“[T]he legislative history makes clear that
+
+Congress, fully aware of the serious delays in resolution of disability claims, has
+
+declined to impose deadlines on the administrative process.”). Courts have
+
+
+                                          13
+recognized “[t]he four steps preceding judicial review . . . can drag on for years.”
+
+Smith, 587 U.S. at 482; see also Waddell v. Apfel, No. 99-0578-CB-M, 2001 WL
+
+102365, at *6 (S.D. Ala. Jan. 22, 2001) (“Delays are an unfortunate but inevitable
+
+aspect of both the administrative and judicial processes. . . .”).
+
+      “[T]he principle that the judiciary cannot impose time tables for the Social
+
+Security Administration to complete its duties when Congress has not explicitly laid
+
+out time tables in the pertinent statute . . . appl[ies] here.” Dokic-Vukojevic v. Colvin,
+
+No. 15-80044-CIV-MARRA/MATTHEWMAN, 2015 WL 7566688, at *5 (S.D.
+
+Fla. Oct. 26, 2015), report and recommendation approved in part, No. 15-80044-
+
+CIV-MARRA, 2015 WL 7566533 (S.D. Fla. Nov. 24, 2015). A “mere delay in one’s
+
+ability to obtain a final decision does not trigger an exception to the exhaustion
+
+doctrine.” Waddell, 2001 WL 102365, at *6.
+
+      In addition, some of Ms. Perry’s claims do not constitute collateral issues. In
+
+the motions she filed after her Complaint, Ms. Perry repeatedly seeks reversal of the
+
+SSA’s denial decision, remand of the case for further consideration by the SSA, and
+
+an award of retroactive benefits. See Doc. 8 at 3, Doc. 14 at 2, Doc. 16 at 3–4, Doc.
+
+19 at 2, Doc. 21 at 2–3, Doc. 22 at 3, Doc. 34 at 1. These claims are not collateral
+
+issues; rather, they are requests for rulings on the merits of Ms. Perry’s substantive
+
+application. See Rouzard, 2025 WL 404917, at *6 (recommending dismissal for
+
+failure to exhaust despite plaintiff referencing a due process issue when “at bottom,
+
+
+                                           14
+Plaintiff takes issue with how the SSA is handling his claims and alleged delay
+
+related thereto”); Comack, 2024 WL 4719238, at *3 (holding waiver of exhaustion
+
+inapplicable because “Comack’s allegations of error stem directly from his claim for
+
+benefits”).
+
+      Finally, Ms. Perry does not claim administrative exhaustion represents a futile
+
+enterprise or that resolution of her claims falls outside the authority of the SSA. See
+
+Comack, 2024 WL 4719238, at *2. Ms. Perry seeks favorable resolution of her claim
+
+for benefits, a matter that lies squarely within the SSA’s authority, and her
+
+“continued pursuit of [her] claim at the administrative level could potentially result
+
+in a disability determination in [her] favor.” Id. at *3. Therefore, Ms. Perry has failed
+
+to demonstrate the rare circumstances required for the court to waive the
+
+administrative exhaustion requirement. See Montalvo, 2024 WL 711035, at *3.
+
+      Because Ms. Perry has not completed the administrative process before
+
+seeking judicial review, and she has not asserted sufficient reasons to waive the
+
+exhaustion requirement, this court must dismiss her complaint for failure to state a
+
+claim for relief. See Comack, 2024 WL 4719238, at *2; Montalvo, 2024 WL 711035.
+
+      B. MS. PERRY HAS NOT DEMONSTRATED ENTITLEMENT TO
+         RELIEF UNDER THE ADMINISTRATIVE PROCEDURE ACT OR
+         MANDAMUS RELIEF.
+
+      Ms. Perry also seeks relief under the Administrative Procedure Act (“APA”),
+
+specifically 5 U.S.C. §§ 555(b) and 706(1), and mandamus relief under 28 U.S.C. §
+
+
+                                           15
+1361. Doc. 1 at 4–8.
+
+      The Mandamus Act provides a district court original jurisdiction “to compel
+
+an officer or employee of the United States or any agency thereof to perform a duty
+
+owed to the plaintiff.” 28 U.S.C. § 1361. Although 42 U.S.C. § 405(g) generally
+
+establishes the exclusive jurisdiction for federal courts to hear actions under the
+
+Social Security Act, see 42 U.S.C. § 405(h), the Eleventh Circuit has “assume[d],
+
+without deciding, that mandamus jurisdiction is not barred by 42 U.S.C. § 405(h).”
+
+Lifestar Ambulance Serv., Inc. v. U.S., 365 F.3d 1293, 1295 n.3 (11th Cir. 2004).
+
+Accordingly, the court will assume, without deciding, Ms. Perry can assert a claim
+
+to mandamus relief for her social security case. Even so, the court finds she fails to
+
+establish jurisdiction for judicial review under the Mandamus Act.
+
+      “Mandamus is an extraordinary remedy which should be utilized only in the
+
+clearest and most compelling of cases.” Cash v. Barnhart, 327 F.3d 1252, 1257 (11th
+
+Cir. 2003) (citation omitted). “Mandamus jurisdiction may be exercised ‘only if (1)
+
+the plaintiff has a clear right to the relief requested; (2) the defendant has a clear duty
+
+to act; and (3) no other adequate remedy is available.’” Hakki v. Sec’y, Dep’t of
+
+Veterans Affs., 7 F.4th 1012, 1036 (11th Cir. 2021) (quoting Serrano v. U.S. Att’y
+
+Gen., 655 F.3d 1260, 1263 (11th Cir. 2011)). “Mandamus jurisdiction is appropriate
+
+only where (1) the defendant owes a clear nondiscretionary duty to the plaintiff and
+
+(2) the plaintiff has exhausted all other avenues of relief.” Lifestar Ambulance Serv.,
+
+
+                                            16
+365 F.3d at 1295 (footnote omitted).
+
+      As previously discussed, Ms. Perry “fails to establish a clear right to her
+
+requested relief or a clear duty on the Commissioner to act in favor of her requested
+
+relief.” Zachery-Holt v. Kijakazi, No. 8:22-cv-2506-MSS-AAS, 2023 WL 4931215,
+
+at *2 (M.D. Fla. May 22, 2023), report and recommendation adopted, No. 8:22-cv-
+
+2506-MSS-AAS, 2023 WL 4931170 (M.D. Fla. June 15, 2023). Moreover, Ms.
+
+Perry did not exhaust all other avenues of relief. She may still pursue the
+
+“administrative remedy . . . that [s]he failed to exhaust before filing” this Complaint.
+
+Pretzer, 2023 WL 2706729, at *3.
+
+      Consequently, the court finds Ms. Perry has not demonstrated the
+
+Commissioner possessed a clear, nondiscretionary duty to act on her claim in the
+
+several months that have passed since she first filed it. Hence, she cannot obtain
+
+mandamus relief. See Cherleatha B., 2025 WL 3771287, at *8.
+
+      C. MS. PERRY’S AMENDED COMPLAINT IS UNTIMELY AND
+         FUTILE.
+
+      Ms. Perry initiated this action by filing her Complaint on January 12, 2026.
+
+Doc. 1. After the Commissioner moved to dismiss the Complaint on March 13, 2026,
+
+Ms. Perry filed a response to that motion on March 24, 2026. Docs. 15, 19.
+
+Subsequently, Ms. Perry filed an Amended Complaint on May 26, 2026, and she
+
+moved to amend her Complaint on June 9, 2026. Docs. 26, 31.
+
+      First, Ms. Perry’s Amended Complaint does not meet the requirements of
+                                          17
+Federal Rule of Civil Procedure 15. It was filed more than twenty-one days after the
+
+Commissioner filed his motion to dismiss. Additionally, Ms. Perry did not receive
+
+the Commissioner’s written consent nor the court’s leave.
+
+      Second, Ms. Perry’s Amended Complaint is futile. It is based on the same core
+
+facts as her Complaint, specifically her interactions with the SSA. Doc. 26 at 2–4.
+
+Ms. Perry alleges “severe procedural violations, arbitrary barriers to access, and due
+
+process infractions that resulted in severe financial, housing, and medical harm.” Id.
+
+at 1. Ms. Perry alleges this court has federal question jurisdiction pursuant to 28
+
+U.S.C. § 1331, and she purports to sue Frank Bisignano in his individual capacity.
+
+Id. Ms. Perry includes three counts in her Amended Complaint: (1) Administrative
+
+Stagnation and Denial of Equal Access to Benefits; (2) Failure to Apply Emergency
+
+Protections and POMS Authorities; and (2) Violation of Due Process Through
+
+Arbitrary and Conflicting Procedures. Id. at 5–6. She seeks: a declaratory judgment;
+
+an order “directing the prompt, constitutionally compliant review of the
+
+administrative record”; and punitive and emotional distress damages against
+
+Commissioner Bisignano. Id. at 7.
+
+      With respect to this court’s jurisdiction, as discussed above, the only basis for
+
+federal court jurisdiction in social security cases arises from 42 U.S.C. § 405. See
+
+supra n.1. To the extent Ms. Perry seeks review of the SSA’s action, her Amended
+
+Complaint fails to state a claim for the same reasons her Complaint fails to state a
+
+
+                                         18
+claim. See supra III.A. To the extent Ms. Perry seeks relief from Commissioner
+
+Bisignano in his individual capacity pursuant to a Bivens action, such relief is
+
+foreclosed. Schweiker v. Chilicky, 487 U.S. 412, 424–25 (1988).
+
+      D. MS. PERRY IS NOT ENTITLED TO A TEMPORARARY
+         RESTRAINING ORDER OR A PRELIMINARY INJUNCTION.
+
+      On June 9, 2026, Ms. Perry filed a motion for a temporary restraining order
+
+and preliminary injunction. Doc. 30. She seeks “immediate injunctive relief to halt
+
+ongoing constitutional due process infractions, compel compliance with internal
+
+emergency safety-net protocols, and mitigate escalating, irreparable severe financial,
+
+housing, and medical injuries.” Id. at 1. Ms. Perry alleges this court has federal
+
+question jurisdiction pursuant to 28 U.S.C. § 1331. Id. Ms. Perry’s motion is based
+
+on the same core facts as her Complaint, specifically her interactions with the SSA.
+
+Id. at 2–5. Ms. Perry requests a temporary restraining order against Mr. Bisignano
+
+and the SSA, an order “directing the prompt, constitutionally compliant review of
+
+the administrative record,” an order waiving the security bond requirement, and an
+
+order extending “Emergency Restraints” against Mr. Bisignano, the SSA, “and
+
+essential third parties (explicitly including Heritage Place Apartment Homes, L.L.C.,
+
+Alabama Power Company, and T-Mobile US, Inc.).” Id. at 13–14.
+
+      With respect to this court’s jurisdiction, as discussed above, the only basis for
+
+federal court jurisdiction in social security cases arises from 42 U.S.C. § 405. See
+
+supra n.1. Because Ms. Perry failed to exhaust her administrative remedies and did
+                                         19
+not establish an alternative basis for this court’s jurisdiction, the court lacks
+
+jurisdiction over her claims for injunctive relief. See id. at *6. As discussed above,
+
+Ms. Perry does not present constitutional collateral issues. See supra III.A. Instead,
+
+all of her claims are part and parcel of the SSA’s handling of her individual claim
+
+for benefits.
+
+       Finally, independent of the jurisdictional hurdles facing Ms. Perry, she does
+
+not satisfy the first Winter factor for injunction relief: she cannot establish a
+
+likelihood of success on the merits. Not only has Ms. Perry failed to exhaust her
+
+administrative remedies so this court may properly exercise judicial review of a final
+
+decision of the SSA, but Ms. Perry has not alleged a claim for relief that is plausible
+
+on its face.
+
+                                    *      *     *        *
+
+       The SSA raised an issue of “fabricated citations” and misrepresentations in
+
+Ms. Perry’s motion for a temporary restraining order. See Doc. 30; Doc. 33 at 23–
+
+24. The court is aware that Ms. Perry has been warned by another court against such
+
+practices. The court warns Ms. Perry that fabricated citations and misrepresentations
+
+will not be tolerated. This is the only warning Ms. Perry will receive. Ms. Perry
+
+should    expect   that   any   future   instances   of       fabricated   citations   and
+
+misrepresentations, in this case or any case in this court, will be sanctioned.
+
+IV.    CONCLUSION
+
+
+                                          20
+      For the foregoing reasons, the court GRANTS the Commissioner’s motion,
+
+Doc. 15, and DISMISSES Ms. Perry’s claim WITHOUT PREJUDICE. The court
+
+GRANTS IN PART Ms. Perry’s Motion to Submit Attached Records Into the
+
+Litigation Docket, Doc. 42, to the extent such documents are reflected on the docket.
+
+The court also DENIES Ms. Perry’s Motion for Temporary Restraining Order and
+
+Preliminary Injunction and Motion to Amend Complaint Nunc Pro Tunc. Docs. 30,
+
+31. Additionally, the court DENIES Ms. Perry’s remaining motions as MOOT
+
+given the court has issued its Memorandum Opinion.
+
+      DONE and ORDERED this 3rd day of August, 2026.
+
+
+
+                                    _________________________________
+                                    ANNA M. MANASCO
+                                    UNITED STATES DISTRICT JUDGE
+
+
+
+
+                                         21
+

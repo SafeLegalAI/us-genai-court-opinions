@@ -1,0 +1,2221 @@
+   IN THE COURT OF CHANCERY OF THE STATE OF DELAWARE
+
+
+ATG CAPITAL OPPORTUNITIES                )
+FUND LP,                                 )
+             Plaintiff,                  )
+                                         )
+     v.                                  )     C.A. No. 2026-0447-LWW
+                                         )
+RYAN LANE, JOHN KIM,                     )
+JONATHAN P. FOSTER, ADRIAN               )
+SOLGAARD, ÖRN ÓLASON,                    )
+ROHAN CHAUHAN, MATTHEW                   )
+HOMER, IAN READ,                         )
+                                         )
+                 Defendants,             )
+                                         )
+     and                                 )
+                                         )
+EMPERY DIGITAL, INC.                     )
+                                         )
+                 Nominal Defendant.      )
+
+
+                        MEMORANDUM OPINION
+
+                       Date Submitted: August 19, 2026
+                        Date Decided: August 28, 2026
+
+
+A. Thompson Bayliss, John M. Seaman, Caitlin C. Bozman, Bryan M. Blaylock,
+ABRAMS & BAYLISS LLP, Wilmington, Delaware; Adrienne M. Ward, Lori
+Marks-Esterman, Jacqueline Y. Ma, Daniel M. Stone, Joseph M. Calder, Jr.,
+OLSHAN FROME WOLOSKY LLP, New York, New York; Attorneys for Plaintiff
+ATG Capital Opportunities Fund LP
+
+John P. DiTomo, Jacob M. Perrone, Nicholas R. Gottemoller, MORRIS NICHOLS
+ARSHT & TUNNELL LLP, Wilmington, Delaware; David Livshiz, Andrew
+Gladstein, Nicholas Caselli, Alexandra Carlton, Penina Cohen, Jordan McGuffee,
+FRESHFIELDS US LLP, New York, New York; Attorneys for Defendants Ryan
+Lane, John Kim, Jonathan P. Foster, Adrian Solgaard, Örn Ólason, Rohan
+Chauhan, Matthew Homer and Ian Read and Nominal Defendant Empery Digital,
+Inc.
+
+
+
+
+WILL, Vice Chancellor
+      Advance notice bylaws are commonplace and vital tools for Delaware
+
+corporations. They promote orderly meetings and election contests, giving boards
+
+time to evaluate candidates and information to make recommendations to
+
+stockholders. Given the important corporate purposes such bylaws serve, this court
+
+routinely enforces unambiguous provisions. The court cannot, however, enforce a
+
+requirement that a bylaw does not contain.
+
+      In this case, an activist investor sought to nominate a full slate of director
+
+candidates to the board of Empery Digital, Inc.—a digital asset treasury company.
+
+The board rejected the nomination, citing suspicions that the investor was
+
+coordinating with another stockholder who had plans to take control of Empery and
+
+liquidate its Bitcoin assets. The board also noted that the investor failed to disclose
+
+a massive short position in Bitcoin exchange-traded funds, which the board felt
+
+misaligned the investor with other Empery stockholders.
+
+      During the ensuing expedited trial, evidence came to light that lends credence
+
+to the board’s beliefs. Yet the board’s rejection suffers from a fatal flaw: Empery
+
+had no advance notice bylaw provision requiring disclosure of the information the
+
+board identified as missing. The board instead invokes general bylaw provisions
+
+incorporating federal proxy rules—some of which were not raised until trial, and
+
+others that do not call for the information the board demands.
+
+
+
+
+                                          1
+       Advance notice bylaws do not authorize incumbent boards to exclude director
+
+candidates based on the incumbents’ views of their unsuitability for office. It is the
+
+fundamental right of the stockholders—not the directors—to select the individuals
+
+who will determine the strategic direction of the company. Empery’s board is free
+
+to raise its views during the proxy contest. But, given the lack of relevant bylaws, it
+
+was both contractually improper and inequitable to reject the nomination notice
+
+entirely.
+
+       Separately, the investor seeks a reopening of the nomination window
+
+following Empery’s post-deadline announcement of an AI data-center transaction.
+
+Because the nomination notice is valid and the investor’s slate will stand for election,
+
+no further equitable intervention is required. This decision leaves the choice with
+
+Empery’s stockholders.
+
+I.     FACTUAL BACKGROUND
+
+       The following were stipulated to by the parties or proven by a preponderance
+
+of the evidence after trial.1
+
+
+1
+ See Joint Pre-trial Stipulation and Order (Dkt. 248) (“PTO”). Trial occurred over three
+days, during which five fact witnesses and five expert witnesses testified live. Testimony
+of five fact witnesses was presented by deposition. See Trial Tr. Vols. I-III (Dkts. 265-67).
+Trial testimony is cited as “[Name] Tr. __.” The trial record contains 895 joint exhibits and
+28 deposition transcripts. Exhibits are cited by the numbers provided on the parties’ joint
+exhibit list as “JX __,” unless otherwise defined. Pincites are to pagination on joint exhibits
+where available, and to the last four digits of Bates stamps where unavailable. See Final
+Joint Ex. List (Dkt. 220); Deposition transcripts are cited as “[Name] Dep. __.” See Am.
+Notice of Lodging of Dep. Trs. (Dkt. 237).
+
+
+                                              2
+          A.     Empery and its Bitcoin DAT
+
+          Empery Digital, Inc. (“Empery” or the “Company”) is a Delaware corporation
+
+headquartered in Texas.2 Its stock is traded on the Nasdaq Global Select Market.3
+
+          In July 2025, Empery’s predecessor adopted a digital asset treasury (“DAT”)
+
+strategy to acquire and hold Bitcoin.4 A DAT is a publicly traded company that holds
+
+cryptocurrency as a primary asset.5 At the time, DAT share prices were generally
+
+trading at a premium to the net asset value (“NAV”) of their underlying
+
+cryptocurrency.6
+
+          Also in July 2025, Empery announced the closing of a $500 million private
+
+investment in public equity (PIPE), led by defendant Ryan Lane and his hedge fund,
+
+Empery Asset Management.7 The PIPE closed at $10 per share.8 Afterward, Lane
+
+was appointed Co-Chief Executive Officer alongside legacy CEO, defendant John
+
+Kim.9 Empery’s reconstituted Board of Directors (the “Board”) included Chairman
+
+
+
+
+2
+    PTO ¶ 13.
+3
+    Id. ¶ 14.
+4
+    Id. ¶¶ 16, 25.
+5
+    JX 677 (Expert Report of Angelo Chan (“Chan Report”)) ¶¶ 24-25.
+6
+    Id. ¶ 24 n.7; id. ¶ 25.
+7
+    PTO ¶ 17; Lane Tr. 272-74, 298.
+8
+    PTO ¶ 17.
+9
+    Id. ¶ 18.
+
+
+                                            3
+Lane, Kim, and Jonathan Foster, Adrian Solgaard, Örn Ólason, Ian Read, Rohan
+
+Chauhan, and Matthew Homer.10
+
+         B.      Empery’s NAV Gap
+
+         Empery soon struggled. By the end of 2025, its stock price had fallen to
+
+$4.57.11 Stockholders who held shares since the PIPE “lost a lot of money.”12
+
+Empery’s Chief Operating Officer Tim Silver, who had joined the Company from
+
+EAM, anticipated activist pressure.13
+
+         Cryptocurrency prices began to sharply decline in the fall of 2025.14 The
+
+premiums that had incentivized stockholders to invest in DATs began to flip. Rather
+
+than trading at a premium, many DATs began trading at a discount to their
+
+underlying assets.15
+
+         Empery was no exception. By January 8, 2026, it was trading at a market-to-
+
+net-asset value of 0.73, meaning the market valued the Company at just 73% of the
+
+value of its Bitcoin.16 Thus, to the extent a stockholder could acquire control of
+
+
+
+
+10
+     Id. ¶¶ 16, 18.
+11
+     Lane Tr. 306; JX 437, “Daily Summary.”
+12
+     Lane Tr. 307.
+13
+     Silver Tr. 550.
+14
+     JX 707 (Rebuttal Expert Report of Angelo Chan) ¶ 31.
+15
+     JX 217.
+16
+     Chan Report ¶ 41.
+
+
+                                              4
+Empery for 73% of the value of its Bitcoin and force a sale of that Bitcoin at market
+
+price, the stockholder could capture the spread.17
+
+         C.      Brown’s and Gliksberg’s Investments
+
+         Tice Brown—a self-described “fundamental value investor”—was one of
+
+Empery’s PIPE investors.18 Brown had invested $2 million alongside his friend
+
+Jacob Ma-Weaver.19 In September 2025, Brown began contacting Lane and Silver
+
+about Empery’s poor performance and advocated for share repurchases.20 To
+
+capitalize on the growing NAV gap, Brown bought more Empery stock throughout
+
+the fall of 2025.21 Brown began to consider whether he could take Empery “private
+
+at 100% nav.”22
+
+         Gabi Gliksberg—an activist investor—had also noticed Empery’s “very
+
+significant discount” to NAV.23 Gliksberg had recently launched plaintiff ATG
+
+
+
+
+17
+     Id. ¶¶ 12, 80.
+18
+     Brown Tr. 160, 171.
+19
+     Id. 160, 194.
+20
+     E.g., JX 225 at 41, 66, 72-79; Brown Tr. 162-63; Lane Tr. 311.
+21
+     See DDX2; Brown Tr. 160-61, 251-52.
+22
+     JX 82; see JX 83; see also JX 81; JX 86; JX 89.
+23
+     Gliksberg Tr. 11; see also id. at 12, 20-22.
+
+
+                                                    5
+Capital Opportunities Fund LP.24 His marketing materials touted ATG’s willingness
+
+to use litigation and pursue “liquidations” to force value realization.25
+
+          Gliksberg set out to purchase “as much Empery stock as possible.” 26 On the
+
+morning of January 15, ATG placed nineteen limit orders for approximately
+
+1.36 million shares of Empery common stock.27 Later that day, Gliksberg called
+
+Ma-Weaver, with whom he had previously invested, to investigate why Empery was
+
+trading at such a “steep discount.”28
+
+          Brown had also called Ma-Weaver on January 15 to discuss Empery. Two
+
+days earlier, Brown had texted Ma-Weaver to “come do empd,” to which Ma-
+
+Weaver—who had previously faced group allegations alongside Gliksberg—
+
+replied: “Not a group!”29 Ma-Weaver had no interest in taking an activist position
+
+and did not “want to inadvertently trigger a 13D.”30 He put Brown and Gliksberg in
+
+touch by email, writing: “You both called me on the same topic today, and you
+
+should get to know one another regardless.”31
+
+
+
+24
+     Id. at 5-6.
+25
+     JX 117 at 8-10; Gliksberg Tr. 101-03.
+26
+     Gliksberg Tr. 90-91, 117-18.
+27
+     JX 825 at ‘0554.
+28
+     Gliksberg Tr. 26-27; see Brown Tr. 171.
+29
+     JX 109; see Brown Tr. 211-12.
+30
+     JX 940; see JX 58; JX 59.
+31
+     JX 169; see PTO ¶ 28.
+
+
+                                               6
+         D.     Brown and Gliksberg Meet
+
+         Within minutes of Ma-Weaver’s introduction, Brown called Gliksberg—the
+
+first of several phone calls that afternoon that totaled over an hour.32 Brown and
+
+Gliksberg testified that they spoke about everything from religion, to their children,
+
+to Brown’s fine art trading, and current events.33 They also spoke about Empery.34
+
+Brown and Gliksberg testified that their discussion of Empery was minimal and did
+
+not include their respective investment theses, positions, or hedges.35 The weight of
+
+the evidence suggests otherwise.
+
+         Less than an hour after Gliksberg’s first call with Brown, ATG submitted
+
+multiple orders for Empery stock, bringing ATG’s total January 15 purchases to
+
+1,686,245 shares.36 In between his calls with Brown on January 15, Gliksberg called
+
+his longtime counsel on activism-related matters and investments—Aaron Morris—
+
+whom ATG later named as a candidate for nomination to Empery’s Board.37
+
+Gliksberg also instructed his broker to move 1,000 Empery shares into record
+
+
+
+
+32
+  JX 169 (Ma-Weaver’s introductory email at 1:36 p.m. on January 15); JX 108 (call log
+showing the first call between Gliksberg and Brown at 1:39 p.m.); see Brown Tr. 164-66.
+33
+     Gliksberg Tr. 28-30, 31-32, 79; Brown Tr. 170-72, 180-81.
+34
+     Gliksberg Tr. 28; Brown Tr. 171.
+35
+     Gliksberg Tr. 29; Brown Tr. 172.
+36
+     JX 868; Gliksberg Tr. 87-88, 123; JX 825 at ‘0554.
+37
+     JX 111.
+
+
+                                              7
+name.38 Shortly afterward, Brown consulted with his analyst to see if he had the
+
+funds to “buy up to 9.9%” of Empery.39
+
+         Brown and Gliksberg’s calls resumed the next morning, on January 16.40 Just
+
+before that call, Gliksberg texted Ronald Davies—one of ATG’s Board nominees—
+
+to tell him that he “might have a proxy fight coming up” and would “need to
+
+nominate directors.”41 Brown and Gliksberg spoke over the phone twice more that
+
+afternoon.42 During the day, Brown requested the transfer of 1,000 Empery shares
+
+to record name.43 Brown also pressed his broker and analyst on freeing up cash to
+
+make a large purchase of Empery shares.44
+
+         E.     Schedule 13 Filings
+
+         Gliksberg and Brown continued to speak over the ensuing days, while
+
+Gliksberg planned for a proxy contest.
+
+
+
+
+38
+     JX 961; Gliksberg Tr. 76, 82-83.
+39
+     JX 114; Boshans Tr. 260.
+40
+     JX 108.
+41
+     JX 118.
+42
+     JX 108.
+43
+     JX 960.
+44
+     See JX 120; JX 121.
+
+
+                                          8
+           On January 18, Gliksberg asked ChatGPT for a “full timeline on all the
+
+important tasks” to “do a shareholder activist campaign against Empery Digital.”45
+
+He then spoke to two other future nominees: James Elbaor and Christopher Novak.46
+
+           On January 19, Gliksberg and Brown spoke on the phone twice.47 One of their
+
+calls lasted 34 minutes.48
+
+           By January 20, Brown wired $2 million to his broker to purchase Empery
+
+shares.49 One hour after Brown’s first purchase of the day, Gliksberg attempted to
+
+call him, but the call did not go through.50 Brown purchased a total of 813,779 shares
+
+of Empery stock that day.51
+
+           Gliksberg’s attempted call to Brown on January 20 is the last in the record.
+
+From then on, Gliksberg and Brown communicated solely by Signal.52 Both testified
+
+that they did so due to poor cellular reception.53 Brown was at his home in
+
+Manhattan; Gliksberg was at his home in Miami.54 The auto-delete feature was
+
+
+45
+     JX 124 at ‘1246.
+46
+     JX 123; JX 125.
+47
+     JX 108.
+48
+     Id.
+49
+     JX 120 at ‘3194; JX 133 at ‘3218.
+50
+     JX 108.
+51
+     JX 821.
+52
+     Gliksberg Tr. 31; Brown Tr. 166-67.
+53
+     Gliksberg Tr. 31; Brown Tr. 166-67.
+54
+     Brown Tr. 185.
+
+
+                                             9
+enabled on both of their Signal accounts, ensuring that their subsequent
+
+communications were destroyed.55
+
+          On January 23, Brown filed a Schedule 13G disclosing his 9.7% ownership
+
+of Empery.56 Later that evening, Brown requested an in-person meeting with Lane
+
+and Silver, which was set for January 28 at Empery’s offices.57
+
+          ATG also continued to purchase Empery shares, amassing another 934,822
+
+shares by January 26.58 On January 26, ATG filed a Schedule 13D disclosing a 5.6%
+
+ownership stake in Empery.59 Its Form 13D stated that ATG “may in the future”
+
+engage “in short selling” or “hedging[.]”60 At the time of the filing, however, ATG
+
+had already hedged over 80% of its Empery position by shorting Bitcoin exchange-
+
+traded funds (ETFs).61
+
+          F.     Brown’s Meeting and Bloomberg Story
+
+          On January 28, Brown and his analyst met with Lane and Silver at Empery’s
+
+offices.62 The meeting quickly grew contentious. Brown demanded that Empery
+
+
+
+55
+     Gliksberg Tr. 31; Brown Tr. 167-69.
+56
+     JX 151.
+57
+     JX 162; JX 164.
+58
+     JX 825 at ‘0554.
+59
+     JX 158 at 2.
+60
+     Id. at 7.
+61
+     See Grundfest Tr. 606-08; see also Chan Report ¶ 45.
+62
+     See Silver Tr. 551.
+
+
+                                             10
+immediately liquidate its Bitcoin to maximize returns.63 During the meeting, Brown
+
+claimed that other stockholders shared his views and maintained similar hedges. The
+
+only stockholder Brown named was ATG, referring to Gliksberg informally as
+
+“Gabi.”64 Unprompted, Brown volunteered: “I am not working with ATG.”65 To
+
+Lane and Silver, this unsolicited denial—coupled with Brown’s shifting stories
+
+about how he met Gliksberg—suggested the opposite.66 After Brown refused to
+
+leave, Lane called security to escort him out.67
+
+         On February 3, Brown sent a letter to the Board demanding Lane’s
+
+resignation, the replacement of the entire Board, and the “immediate sale of all
+
+Bitcoin” with the proceeds returned to stockholders.68 Brown attached this letter to
+
+a Schedule 13D filed the same day, which disclosed a roughly 9% stake in the
+
+Company.69
+
+         That evening, Brown emailed Bloomberg columnist Matt Levine, writing:
+
+“I’d like to liquidate a bitcoin treasury company. I’d like to speak publicly about
+
+
+
+
+63
+     Id. at 551-52; Lane Tr. 284.
+64
+     Silver Tr. 554-55.
+65
+     Id. at 555; Lane Tr. 285.
+66
+     Lane Tr. 285; Silver Tr. 555.
+67
+     Silver Tr. 553; Boshans Tr. 266.
+68
+     JX 215.
+69
+     JX 211; see PTO ¶ 35.
+
+
+                                         11
+it[.]”70 The next day, Levine published an article titled “Cracking Open the DATs,”
+
+which named both Brown and ATG.71 It described an arbitrage and liquidation
+
+strategy whereby an investor buys a stake in a DAT company that is trading at a
+
+discount to its NAV, and agitates for the company to liquidate its cryptocurrency to
+
+return the money to its stockholders.72 Shortly after publication, Gliksberg texted a
+
+link to the article to one of his Board nominees, instructing him: “Read it now! And
+
+then don’t text me about it.”73
+
+           G.    The Rights Plan and the Competing Nominations
+
+           On January 28, ATG filed an amended Schedule 13D, disclosing that it had
+
+nearly doubled its ownership from 5.6% to 10.4%.74 In response, on February 2, the
+
+Board adopted a limited duration stockholder rights plan (the “Rights Plan”) that
+
+would be triggered if a stockholder acquired 12.5% or more of the Company’s
+
+stock.75
+
+           The official minutes reflect the Board’s conclusion that the Rights Plan would
+
+protect stockholders while the Company “continu[ed] to execute on its plan to close
+
+
+
+70
+     JX 234.
+71
+     JX 217.
+72
+     Id.
+73
+     JX 219; see Gliksberg Tr. 139-40.
+74
+     JX 177.
+75
+     JX 202; JX 210.
+
+
+                                             12
+the NAV gap.”76 AI-generated transcripts of the meeting show Lane told the Board
+
+that capping ATG’s ownership at 12.5% would limit its financial upside, making it
+
+“not worth it to put up [a] slate to go through the proxy solicitation process.” 77 He
+
+further advised that the Rights Plan was “necessary in order for the board to remain
+
+in its position.”78 The Board terminated the Rights Plan in July 2026.79
+
+         Meanwhile, Gliksberg solidified his slate of directors. The candidates he
+
+selected lacked cryptocurrency experience.80 Gliksberg enabled auto-deleting
+
+message settings when discussing the proxy contest with several of his nominees.81
+
+In mid-February, he introduced his prospective slate to his counsel at Olshan Frome
+
+Wolosky LLP.82
+
+         On February 26—just days before the nomination window closed—ATG
+
+nominated Gliksberg, Arati Batta, Aaron Morris, Christopher Novak, Evan Ratner,
+
+Heather Powers, James Elbaor, Meredith Kirshenbaum, and Ron Davies for election
+
+to the Board (the “Nomination Notice”).83 The exact same day, after having
+
+
+
+76
+     JX 202 at ‘0425-28.
+77
+     JX 203 at ‘0373; see Lane Tr. 330-31.
+78
+     JX 203 at ‘0371; see Lane Tr. 327-28.
+79
+     PTO ¶ 68(h).
+80
+     See Gliksberg Tr. 52-53; JX 263.
+81
+     Id. at 42-43, 50-51.
+82
+     JX 285; JX 287; JX 292; JX 294; JX 296; JX 298; JX 299; JX 300.
+83
+     JX 359.
+
+
+                                             13
+requested the nomination materials just two days prior, Brown submitted his own—
+
+partially handwritten—notice nominating himself.84
+
+         H.    The Board’s Rejection
+
+         The Board met on March 16 to discuss the activist stockholders. During that
+
+meeting, the directors conferred about their “understanding that ATG had a short
+
+position on Bitcoin”—a fact that concerned them.85 The Board members were “very
+
+suspicious” that Gliksberg and Brown were “acting together” and attempting “to
+
+hide it.”86
+
+         On March 25, Empery’s Chief Financial Officer circulated counsel’s draft
+
+deficiency letters.87 The Board and the Nominating and Corporate Governance
+
+Committee convened the next day, on March 26.88 At the meeting, they discussed
+
+their concerns with respect to Brown and ATG’s nominations. The directors focused
+
+on what they perceived as an undisclosed relationship between Brown and ATG, as
+
+well as ATG’s failure to disclose its Bitcoin short, which they felt was “important
+
+
+
+
+84
+     JX 381; see Brown Tr. 249-50.
+85
+     JX 417; see Read Dep. 147.
+86
+  Lane Dep. 371; see also JX 416 at ‘1403 (AI-generated notes indicating Lane’s belief
+that “T[i]ce and ATG were acting together . . . as a group”).
+87
+     JX 490.
+88
+     JX 496.
+
+
+                                          14
+for shareholders to know.”89 The directors also considered the “sheer volume of
+
+deficiencies” in the nominees’ questionnaires.90
+
+           The Nominating and Corporate Governance Committee recommended that
+
+the Board reject the nominations.91 The Board unanimously agreed.92 Empery,
+
+through counsel, subsequently issued substantially identical letters to ATG (the
+
+“Rejection Letter”) and Brown informing them that their nominations were
+
+deficient.93
+
+           The Rejection Letter cited three primary grounds for the Board’s decision,
+
+tied to provisions of Empery’s advance notice bylaws (the “Bylaws”).94 First, ATG
+
+did not disclose Brown as a “participant” in its solicitation, and omitted required
+
+participant disclosures about Brown—including his stock ownership and
+
+arrangements.95 Second, ATG did not disclose its short position in a Bitcoin ETF,
+
+which the Board contended misaligned ATG’s interests with other stockholders and
+
+was required to be disclosed under Schedule 14A.96 And third, ATG’s nominees’
+
+
+
+89
+     Homer Tr. 535-37; see also Solgaard Dep. 91-92.
+90
+     JX 496; see JX 495 (AI-generated notes of the March 26 meeting).
+91
+     JX 496.
+92
+     Id.
+93
+     JX 496; JX 497 (“Rejection Letter”); JX 494.
+94
+     See JX 52 (“Bylaws”).
+95
+     Rejection Letter 3-4, 8-10.
+96
+     Id. at 5.
+
+
+                                             15
+questionnaires contained biographical omissions and inaccuracies regarding their
+
+employment histories and outside directorships.97
+
+         I.      The Litigation and the Strategic Pivot
+
+         On April 2, ATG filed this suit against the Board to invalidate the rejection of
+
+its Nomination Notice and seat its nominees.98 While this litigation proceeded,
+
+Empery’s annual meeting was delayed. During that delay, on June 30, Empery
+
+announced a $65 million investment to acquire a 25% stake in an AI data center.99
+
+Concurrently, the Company took its online treasury dashboard offline, declaring that
+
+reporting NAV based on Bitcoin holdings “no longer fully reflect[ed] the total NAV
+
+of the Company” and was no longer a useful tool for investors.100 In July, Empery
+
+sold approximately half of its remaining Bitcoin.101 On July 23, the Company
+
+announced an additional $20 million strategic investment in another data center
+
+affiliate.102        After Empery announced the AI data center investment, ATG
+
+supplemented its complaint to demand that the nomination window be reopened.103
+
+
+
+
+97
+     Id. at 10-12.
+98
+     See Verified Compl. (Dkt. 1).
+99
+     JX 658; JX 856.
+100
+      JX 856; JX 857.
+101
+      See Lane Tr. 429, 436.
+102
+      Id. at 429-30.
+103
+      Verified Suppl. Compl. (Dkt. 207).
+
+
+                                            16
+          ATG advances a multitude of claims arising from this proxy contest. Beyond
+
+the core electoral dispute, ATG challenges a series of allegedly entrenching
+
+defensive measures. It asserts that the Board breached its fiduciary duties by
+
+adopting a direct offering transaction and a share repurchase program, and by issuing
+
+materially misleading disclosures.104 ATG also seeks a mootness fee for the Board’s
+
+post-filing termination of the Rights Plan.105
+
+          Given the impending annual meeting on October 14, the parties proceeded to
+
+an expedited trial to resolve the immediate threat to the stockholder franchise. This
+
+post-trial decision addresses only those expedited claims: whether the Board
+
+breached the Company’s bylaws or its fiduciary duties by rejecting ATG’s
+
+Nomination Notice, and whether the Company’s strategic pivot requires reopening
+
+the nomination window in equity. The plaintiff’s remaining claims were bifurcated
+
+to ensure the timely resolution of the electoral dispute. They will be addressed in a
+
+subsequent decision.
+
+II.       ANALYSIS
+
+          ATG contends the Board interfered with the stockholder franchise when it
+
+rejected its Nomination Notice and refused to extend the nomination deadline. It
+
+
+
+
+104
+      See PTO ¶¶ 63(b)-(d), 68(b)-(c), 68(g).
+105
+      Id. ¶ 68(h).
+
+
+                                                17
+has the burden to prove its claims by a preponderance of the evidence. “Proof by a
+
+preponderance of the evidence means proof that something is more likely than not.”
+
+       My analysis of these claims proceeds in two parts. First, I evaluate whether
+
+the Board’s rejection of ATG’s Nomination Notice was contractually and equitably
+
+permissible. Second, I address whether the Company’s post-deadline strategic pivot
+
+required the Board to reopen the nomination window.
+
+       A.     The Nomination Notice Rejection
+
+       Under Delaware law, corporate actions touching upon the stockholder
+
+franchise are “twice-tested”—once by the law and again in equity.106 I begin with
+
+the legal question of whether ATG complied with the Bylaws, and whether the
+
+Board’s rejection breached the Bylaws.107 I then proceed to an equitable review of
+
+whether the Board inequitably impaired ATG’s nomination right.108
+
+
+106
+   Strategic Inv. Opportunities LLC v. Lee Enters., Inc., 2022 WL 453607, at *14 (Del.
+Ch. Feb. 14, 2022) (“Put simply, directors’ inequitable acts towards stockholders do not
+become permissible because they are legally possible.” (citing Schnell v. Chris-Craft
+Indus., Inc., 285 A.2d 437, 439 (Del. 1971))).
+107
+   See, e.g., id. at *9 (“Because bylaws are part of a flexible contract between corporations
+and stockholders, consideration of an advance notice bylaw’s application begins with a
+contractual analysis.” (citation omitted)); Jorgl v. AIM ImmunoTech Inc., 2022 WL
+16543834, at *10 (Del. Ch. Oct. 28, 2022) (beginning the analysis of an advance notice
+bylaw by determining “whether the notice complied with the bylaws”).
+108
+    See Kellner v. AIM ImmunoTech Inc., 320 A.3d 239, 259 (Del. 2024) (noting that
+advance notice bylaws “can be misused to thwart stockholder choice and entrench the
+existing board of directors,” requiring courts to “scrutinize closely corporate acts that affect
+stockholder voting”); see also Coster v. UIP Cos., Inc., 300 A.3d 656, 672-73 (Del. 2023)
+(outlining the equitable standard of review for board action that interferes with a corporate
+election or a stockholder’s voting rights).
+
+
+                                              18
+                 1.     The Contractual Review
+
+          ATG seeks a declaration that the Board breached the Bylaws by rejecting its
+
+Nomination Notice.           It claims that it timely submitted a compliant notice on
+
+February 26 to replace the full Board with nine qualified nominees, and that the
+
+Board’s stated grounds for rejecting the nomination were pretextual.109
+
+          The defendants respond that the Board properly rejected the Nomination
+
+Notice because it violated the Bylaws. The thirteen-page Rejection Letter detailed
+
+a litany of purported violations.110 At trial, the defendants winnowed their focus to
+
+two main justifications for the Board’s rejection: (1) that ATG failed to disclose
+
+Brown as a “participant” in its proxy solicitation; and (2) that ATG failed to disclose
+
+its short position in Bitcoin ETFs.111
+
+          As the party seeking to enforce its nomination, ATG bears the burden of
+
+demonstrating that its notice fulfilled the Bylaws’ requirements.112 “[A]dvance
+
+notice bylaw conditions act, in some respects, as conditions precedent to companies
+
+being contractually obligated to take certain actions.”113 Because corporate bylaws
+
+
+
+109
+      See Pl.’s Post-trial Br. (Dkt. 260) 15, 52.
+110
+      See generally Rejection Letter.
+111
+      See Defs.’ Post-trial Br. (Dkt. 261) 6.
+112
+   See Kellner v. AIM ImmunoTech Inc., 307 A.3d 998, 1037-38 (Del. Ch. 2023) (noting
+that the plaintiff “bears the burden of showing that his notice fulfills the bylaws’
+requirements”), aff’d in part and rev’d in part, 320 A.3d 239 (Del. 2024).
+113
+      Lee Enters., 2022 WL 453607, at *13 n.142.
+
+
+                                                    19
+constitute part of a broader binding contract among directors, officers, and
+
+stockholders, the court employs principles of contract interpretation when construing
+
+them. Clear and unambiguous terms are given their commonly accepted meaning,
+
+and any ambiguity in an advance notice bylaw is resolved in favor of the
+
+stockholder’s electoral rights.114
+
+                        a.      The Group Allegations
+
+          The defendants’ overarching theory is that Gliksberg and ATG formed an
+
+undisclosed group with Brown.115 The Board was focused on this belief during the
+
+March 26 meeting where it voted to reject the Nomination Notice. According to the
+
+AI-generated transcript of that meeting, Lane told the Board that ATG and Brown
+
+“may still be acting[] as a group together”—though he did not “know it to be true”—
+
+and that highlighting this “narrative” was a “powerful part of th[e] rejection.”116
+
+          To be sure, the Board had reason to be suspicious. The Rejection Letter noted
+
+Brown’s strange preemptive statement during the January 28 meeting at Empery’s
+
+office that he was not working with Gliksberg—a statement that led the Board to
+
+suspect otherwise.117 At trial, the defendants elicited evidence supporting the
+
+
+114
+  See Hill Int’l, Inc. v. Opportunity P’rs L.P., 119 A.3d 30, 38 (Del. 2015); Jorgl, 2022
+WL 16543834, at *10.
+115
+      Defs.’ Post-trial Br. 7-14.
+116
+      JX 495.
+117
+  See Rejection Letter 3 (“Based on statements made by Tice Brown (‘Mr. Brown’) to
+members of the Company’s management (including at the Company’s New York office on
+
+                                             20
+Board’s suspicion that Brown and Gliksberg were coordinating regarding Empery
+
+securities—even without the evidence lost to Brown and Gliksberg’s use of Signal
+
+with auto-delete enabled.118 It is more likely than not that Brown and Gliksberg’s
+
+multiple communications in mid-January went beyond sharing pleasantries and
+
+focused on their plans for Empery. After Ma-Weaver declined to work with Brown
+
+on his plan to “crack open the DAT,” Brown and Gliksberg’s activity—phone calls,
+
+stock purchases, and outreach to prospective nominees by Gliksberg—rapidly
+
+intensified.
+
+         The defendants analogize these facts to precedent where the court held that an
+
+undisclosed agreement, arrangement, or understanding (“AAU”) provided
+
+contractual or equitable grounds to reject a nomination.119 Yet there is a significant
+
+difference between the bylaws in those cases and the Bylaws at issue here. In prior
+
+
+
+
+January 28, 2026), the Company understands that Mr. Brown and ATG Capital have had
+specific discussions regarding the acquisition of the Company’s securities, as well as the
+timing of such acquisitions-actions that strongly indicate coordination between Mr. Brown
+and ATG Capital.”).
+118
+      See supra Sections I.C-G.
+119
+    See Defs.’ Post-trial Br. 9-10. The defendants’ pre-trial brief relied heavily on this
+precedent, arguing that “[t]his Court has already explained the applicability of the
+definition of ‘participant’ in the context of a stockholder nomination.” Defs.’ Pre-trial Br.
+(Dkt. 224) 43-44. None of the cited cases concern the disclosure of a “participant,” much
+less a participant as defined in Schedule 14A.
+
+
+                                             21
+cases, the bylaws at issue explicitly required a nominating stockholder to disclose
+
+AAUs.120 Empery’s Bylaws do not.
+
+       Section 2.5 of Empery’s Bylaws, which governs “Notice of Nominations for
+
+Election to the Board,” lacks any provision requiring a nominating stockholder to
+
+disclose an AAU concerning Empery or the nomination. This omission is striking
+
+because Section 2.4 of the Bylaws, which governs notices of business proposals to
+
+be brought before a meeting, requires the disclosure of all agreements, arrangements,
+
+and understandings in connection with the proposal.121 Nor does Empery have a
+
+bylaw requiring the disclosure of a Section 13(d) group.122
+
+
+
+
+120
+   See Jorgl, 2022 WL 16543834, at *12 (“Article I, Section 1.4, subsection (i) . . . requires
+the disclosure of ‘a description of all arrangements or understandings’ between the
+nominating stockholder ‘and each proposed nominee and any other person or persons ...
+pursuant to which the nomination(s) are being made.’”); Kellner I, 307 A.3d at 1028
+(interpreting the phrase “arrangements or understandings” in a bylaw).
+121
+   See Bylaws § 2.4(c)(iii) (requiring the disclosure of “a reasonably detailed description
+of all agreements, arrangements and understandings (x) between or among any of the
+Proposing Persons or (y) between or among any Proposing Person and any other record or
+beneficial holder(s) or person(s) who have a right to acquire beneficial ownership at any
+time in the future of the shares of any class or series of the Corporation or any other person
+or entity (including their names) in connection with the proposal of such business by such
+stockholder”). Section 2.5 does not incorporate this provision.
+122
+    Empery’s Bylaws mention Section 13(d) or its implementing regulations just twice.
+First, Section 2.4(c)(i) requires a proposing person or nominating stockholder to disclose
+shares that are “directly or indirectly, owned of record or beneficially owned (within the
+meaning of Rule 13d-3 under the Exchange Act).” Bylaws § 2.4(c)(i)(B). Second, Section
+2.4(c)(ii)(A) mentions “Rule 13d” by referencing an inapplicable exception to the
+disclosure requirement for Schedule 13G filers. Id. § 2.4(c)(ii)(A).
+
+
+                                             22
+         The defendants point to two provisions in the Bylaws that they believe
+
+required ATG to disclose its relationship with Brown. They first cite a bylaw that
+
+requires a nominating stockholder to disclose any “participant” in a proxy
+
+solicitation (the “Participant Bylaw”).123 They also cite bylaws that require a
+
+nomination to include information required to be disclosed by Section 14(a) of the
+
+Securities Exchange Act of 1934 (the “Section 14(a) Bylaws”).124 ATG has met its
+
+burden to demonstrate that the Nomination Notice complied with both provisions
+
+with respect to the deficiencies the Board invoked in the Rejection Letter.
+
+                              i.   The Participant Bylaw
+
+         Empery’s Rejection Letter stated that the Nomination Notice was deficient
+
+because it failed to identify Brown as a “participant” in ATG’s proxy solicitation.125
+
+Section 2.5 of the Bylaws defines “Nominating Person” to include “the stockholder
+
+providing the notice . . . and any other participant in such solicitation.”126 If Brown
+
+
+
+
+123
+   Defs.’ Post-trial Br. 13 (“[B]rown was a ‘participant in such solicitation’ as the term is
+used in Section 2.5.”).
+124
+   Id. at 8 (“The disclosure of Gliksberg and Brown’s arrangement was easily required
+under the Section 14(a) Bylaws.”).
+125
+      Rejection Letter ¶ 4.
+126
+      Bylaws § 2.5(c) (emphasis added).
+
+
+                                             23
+were a participant, the Bylaws would have required ATG to disclose details about
+
+Brown as a Nominating Person.127
+
+         Section 2.4(c) of the Bylaws defines “participant” by reference to “paragraphs
+
+(a)(ii)-(vi) of Instruction 3 to Item 4 of Schedule 14A.”128 Although Section 2.5(c)
+
+does not explicitly define participant,129 the parties agree that the Section 2.4(c)
+
+definition applies equally to Section 2.5.130
+
+         A Schedule 14A is a required disclosure form that must be filed with the
+
+Securities and Exchange Commission (SEC) in connection with certain proxy
+
+solicitations.131 Paragraph 3(a) of Instruction 3 to Item 4 of Schedule 14A delineates
+
+
+
+
+127
+      See Rejection Letter 3-4.
+128
+    Bylaws § 2.4(c) (“For purposes of this Section 2.4, the term ‘Proposing Person’ shall
+mean (i) the stockholder providing the notice of business proposed to be brought before an
+annual meeting, (ii) the beneficial owner or beneficial owners, if different, on whose behalf
+the notice of the business proposed to be brought before the annual meeting is made, and
+(iii) any participant (as defined in paragraphs (a)(ii)-(vi) of Instruction 3 to Item 4 of
+Schedule 14A) with such stockholder in such solicitation.” (emphasis added)).
+129
+   Compare Bylaws § 2.5(c) (“For purposes of this Section 2.5, the term ‘Nominating
+Person’ shall mean (i) the stockholder providing the notice of the nomination proposed to
+be made at the meeting, (ii) the beneficial owner or beneficial owners, if different, on whose
+behalf the notice of the nomination proposed to be made at the meeting is made, and (iii)
+any other participant in such solicitation.” (emphasis added)), with id. § 2.4(c); see supra
+note 128.
+130
+   See Pl.’s Post-trial Br. 29-30; Defs.’ Post-trial Br. 43. This reading is reasonable, since
+Sections 2.4 and 2.5 provide parallel tracks for stockholder action at an annual meeting. It
+would be illogical for Empery to apply a regulation-based standard for “participants”
+backing a proposal (Section 2.4), but apply a vague standard for “participants” seeking to
+nominate director candidates (Section 2.5).
+131
+      17 C.F.R. § 240.14a-101.
+
+
+                                             24
+the persons deemed to be a “participant” or a “participant in a solicitation” in a proxy
+
+contest.       The five subparagraphs that Empery’s Bylaws incorporate define
+
+“participant” as:
+
+                 (ii) In the case of a solicitation . . . each of the soliciting person’s
+                 nominees for election as a director;
+
+                 (iii) Any committee or group which solicits proxies, any member
+                 of such committee or group, and any person whether or not
+                 named as a member who, acting alone or with one or more other
+                 persons, directly or indirectly takes the initiative, or engages, in
+                 organizing, directing, or arranging for the financing of any such
+                 committee or group;
+                 (iv) Any person who finances or joins with another to finance the
+                 solicitation of proxies . . . ;
+                 (v) Any person who lends money or furnishes credit or enters
+                 into any other arrangements, pursuant to any contract or
+                 understanding with a participant, for the purpose of financing or
+                 otherwise inducing the purchase, sale, holding or voting of
+                 securities of the registrant by any participant or other persons, in
+                 support of or in opposition to a participant; except that such terms
+                 do not include a bank, broker or dealer who, in the ordinary
+                 course of business, lends money or executes orders for the
+                 purchase or sale of securities and who is not otherwise a
+                 participant; and
+
+                 (vi) Any person who solicits proxies.132
+
+          The defendants focus on subparagraph (v). They argue that this subparagraph
+
+broadly captures anyone who “‘enters into any . . . understanding with a participant,
+
+for the purpose of . . . purchas[ing] . . . or voting’ securities ‘in support of’ a
+
+
+
+132
+      Id. at Item 4, Instruction 3(a)(ii)-(vi) (2025).
+
+
+                                                 25
+participant.”133      This interpretation excises the core limiting language of the
+
+regulation, however.
+
+         Section 14(a) “control[s] the conditions under which proxies may be
+
+solicited.”134 The definition of “participant” reflects that focus by covering a person
+
+who “‘solicits,’ ‘takes the initiative,’ and ‘engages in organizing, directing, or
+
+arranging’ for financing.”135 Federal case law interpreting Item 4, Instruction 3 of
+
+Schedule 14A confirms its narrow focus on proxy solicitation and financing.136
+
+Courts have rejected attempts to classify individuals as “participants” where they
+
+neither financed the proxy contest nor directly participated in the solicitation.137
+
+Instruction 3(a)(v) is therefore directed at persons providing financial support or
+
+other economic inducements for a solicitation.
+
+
+133
+      Defs.’ Post-trial Br. 11 (citing 17 C.F.R. § 240.14a-101, Item 4, Instruction 3(a)(v)).
+134
+      J.I. Case Co. v. Borak, 377 U.S. 426, 431 (1964) (citation omitted).
+135
+   IBS Fin. Corp. v. Seidman & Assoc., LLC, 954 F. Supp. 980, 989 (D.N.J. 1997), rev’d
+on other grounds, 136 F.3d 940 (3d Cir. 1998).
+136
+   See id. (holding that defendants were not “participants” because they neither financed
+nor arranged financing for the proxy contest (citing Chris-Craft Indus. v. Indep. S’holders
+Comm., 354 F. Supp. 895, 907-08 (D. Del. 1973))).
+137
+   See id.; see also Lone Star Steakhouse & Saloon, Inc. v. Adams, 148 F. Supp. 2d 1141,
+1153-54 (D. Kan. 2001); Atl. Coast Airlines Hldgs., Inc. v. Mesa Air Gp., Inc., 295 F. Supp.
+2d 75, 85 (D.D.C. 2003) (noting “there is no evidence” that alleged participant provided
+funds “in furtherance of the solicitation”). The defendants cite Lane v. Page in support of
+their position, which stated that “[p]articipation in solicitation and financing solicitation
+are [] distinct concepts” and “one can be labeled a participant without being a financier.”
+649 F. Supp. 2d 1256, 1287 (D.N.M. 2009). Defs.’ Post-trial Br. 12 n.6. Lane interpreted
+paragraph (a)(iii) of Instruction 3 to Item 4 of Schedule 14A. It did not mention
+subparagraph (v).
+
+
+                                                26
+         The canon of ejusdem generis further undermines the defendants’ broad
+
+reading. When general words follow specific words in an enumeration, the general
+
+words ordinarily embrace only objects similar in nature to those specifically
+
+enumerated.138 Here, the general phrase “any other arrangements” follows “lends
+
+money” and “furnishes credit” within a clause concerning “financing” and
+
+“otherwise inducing.”139 These surrounding terms indicate that “any other
+
+arrangements” must refer to arrangements of a similar financial or economic
+
+character—not to any tacit agreement that might facilitate an activist campaign.
+
+         The phrase “otherwise inducing” does not alter this conclusion. Basic
+
+grammatical structure dictates that “otherwise inducing” is part of the prepositional
+
+phrase “for the purpose of,” which describes the intent behind the lending of money,
+
+furnishing of credit, or other similar arrangements.               Reading “any other
+
+arrangements” to encompass a non-monetary agreement to purchase shares on the
+
+open market severs the clause from its financial context and renders it redundant to
+
+subparagraph (iii), which addresses coordination in soliciting proxies. A plain
+
+reading gives each provision distinct meaning: subparagraph (iii) governs
+
+
+138
+   See Triple C Railcar Serv., Inc. v. City of Wilmington, 630 A.2d 629, 631 (Del. 1993)
+(“[W]here general words follow an enumeration of persons or things, by words of a
+particular and specific meaning, such general words are not to be construed in their widest
+extent, but are to be held as applying only to persons or things of the same general kind or
+class as those specifically mentioned.” (quoting Black’s Law Dictionary 464 (5th ed.
+1979))).
+139
+      17 C.F.R. § 240.14a-101, Item 4, Instruction 3(a)(v).
+
+
+                                              27
+coordination in soliciting proxies, while subparagraph (v) governs persons who
+
+provide financing, credit, or comparable economic inducements for the solicitation.
+
+          Applying the proper definition, Brown is not a participant in ATG’s
+
+solicitation. ATG did not nominate Brown.             Brown did not “finance” ATG’s
+
+nomination, nor did he “lend money or furnish credit” to ATG to induce its
+
+“purchase, sale, holding or voting of securities.” The record contains no evidence
+
+whatsoever that Brown participated in ATG’s proxy contest or assisted with
+
+financing for ATG’s proxy. The Rejection Letter also did not suggest that Brown
+
+lent money, furnished credit, or had a similar arrangement with ATG, but focused
+
+solely on suspected coordination between Brown and Gliksberg.140
+
+                             ii.       The Section 14(a) Bylaws
+
+          The defendants also cite the Section 14(a) Bylaws as requiring ATG to
+
+disclose its coordination with Brown.141 Bylaw Section 2.5(c)(iii)(B) requires a
+
+nomination notice to set forth all information relating to a director candidate “that is
+
+required to be disclosed in a proxy statement . . . in a contested election pursuant to
+
+Section 14(a) under the Exchange Act.”142 Similarly, Bylaw Section 2.5(c)(ii)
+
+
+
+140
+      See Rejection Letter 3.
+141
+      See Defs.’ Post-trial Br. 7-8.
+142
+    Bylaws § 2.5(c)(iii)(B) (requiring the disclosure of “[a]ll information relating to such
+candidate for nomination that is required to be disclosed in a proxy statement or other
+filings required to be made in connection with solicitations of proxies for election of
+directors in a contested election pursuant to Section 14(a) under the Exchange Act
+
+                                              28
+requires the nomination notice to disclose any “Disclosable Interests” for each
+
+Nominating Person, incorporating a requirement to provide any information “that
+
+would be required to be disclosed in a proxy statement . . . pursuant to Section 14(a)
+
+of the Exchange Act.”143
+
+          The defendants read these provisions as catch-alls that permitted the Board to
+
+request any information that, in the Board’s estimation, would be material under
+
+Section 14(a) or the regulations it incorporates. In post-trial briefing, they advance
+
+two theories for why the Section 14(a) Bylaws required ATG to disclose any
+
+arrangement or understanding with Brown about Empery securities.                     Neither
+
+succeeds.
+
+          First, the defendants focus on Item 5(b)(1)(viii) of Schedule 14A, which
+
+requires specified disclosures in proxy solicitations regulated under Section 14(a) of
+
+the Exchange Act.144           Item 5(b)(1)(viii) contains a disclosure requirement for
+
+
+(including such candidate’s written consent to being named in the proxy statement as a
+nominee and to serving as a director if elected)”).
+143
+    Id. § 2.5(c)(ii) (adopting the definition of “Disclosable Interest” in Section 2.4(c)(ii),
+except that “the term ‘Nominating Person’ shall be substituted for the term ‘Proposing
+Person’ in all places it appears in Section 2.4(c)(ii) and the disclosure with respect to the
+business to be brought before the meeting in Section 2.4(c)(ii) shall be made with respect
+to the election of directors at the meeting)”); see id. § 2.4(c)(ii)(G) (defining “Disclosable
+Interest” to include “any other information relating to such Proposing Person that would
+be required to be disclosed in a proxy statement or other filing required to be made in
+connection with solicitations of proxies or consents by such Proposing Person in support
+of the business proposed to be brought before the meeting pursuant to Section 14(a) of the
+Exchange Act”).
+144
+      Defs.’ Post-trial Br. 8-9.
+
+
+                                              29
+“arrangements or understandings” that the defendants contend is “similar” to and
+
+“broader” than the Section 13(d) “group” standard.145 Under Item 5(b)(1), a proxy
+
+solicitation by any stockholder for the election of directors at an annual meeting must
+
+describe “any substantial interest, direct or indirect, by security holdings or
+
+otherwise, of each participant” in “any matter to be acted upon at the meeting.”146
+
+          For purposes of this provision, the defendants treat Gliksberg as the
+
+“participant” in ATG’s solicitation.            The regulation requires that, for each
+
+participant, the proxy:
+
+                  (viii) State whether or not the participant is, or was within the
+                  past year, a party to any contract, arrangements or
+                  understandings with any person with respect to any securities of
+                  the registrant, including, but not limited to joint ventures, loan
+                  or option arrangements, puts or calls, guarantees against loss or
+                  guarantees of profit, division of losses or profits, or the giving or
+                  withholding of proxies. If so, name the parties to such contracts,
+                  arrangements or understandings and give the details thereof.147
+
+The defendants argue that because this regulation is incorporated into Section 14(a),
+
+and Section 14(a)’s requirements are incorporated into the Bylaws, ATG was
+
+required to disclose any AAU Gliksberg had with Brown concerning Empery’s
+
+securities.148
+
+
+
+145
+      Id. at 8.
+146
+      17 C.F.R. § 240.14a-101, Item 5(b)(1).
+147
+      Id. at Item 5(b)(1)(viii) (emphasis added).
+148
+      See Defs.’ Post-trial Br. 9.
+
+
+                                               30
+         Second, the defendants argue that ATG was required to disclose any AAU
+
+with Brown because it was information material to voting stockholders under
+
+Rule 14a-9.149 Rule 14a-9 prohibits materially false or misleading statements or
+
+omissions in proxy solicitations under Section 14(a), including statements that omit
+
+“any material fact necessary in order to make the statements therein not false or
+
+misleading.”150 “An omitted fact is material if there is a substantial likelihood that
+
+a reasonable shareholder would consider it important in deciding how to vote.”151
+
+         I need not decide whether, or to what extent, Rule 14a-9 supplies an additional
+
+disclosure obligation through the Bylaws’ incorporation of Section 14(a). The
+
+defendants did not preserve that theory as a basis for rejecting ATG’s Nomination
+
+Notice. The Rejection Letter did not mention the Section 14(a) Bylaws as requiring
+
+disclosure of any agreement or understanding with Brown, or reference Rule 14a-9
+
+as an independent basis for rejection. Nor did it assert that the Section 14(a) Bylaws
+
+operate as a general requirement to disclose any information the Board deems
+
+material.152      Rather, the Rejection Letter’s reference to the AAU disclosure
+
+
+149
+   See id. at 7-8; see also id. at 10 (“To the extent the Court determines the undisclosed
+arrangement or understanding was material, it also should have been disclosed under Rule
+14a-9.”).
+150
+      17 C.F.R. § 240.14a-9(a).
+151
+      TSC Indus., Inc. v. Northway, Inc., 426 U.S. 438, 449 (1976).
+152
+   At post-trial argument, defendants’ counsel contended that the Rejection Letter invoked
+the Section 14(a) and Rule 14a-9 requirements as an independent, broadly applicable
+disclosure obligation. See Tr. of Post-trial Oral Arg. (Dkt. 273) (“Post-trial Arg. Tr.”) 44-
+
+                                              31
+requirement of Item 5(b)(1)(viii) was explicitly grounded in Brown’s status as an
+
+undisclosed “participant”:
+
+                Further, because the Notice Letter fails to include a description
+                of Mr. Brown as a participant or Nominating Person, it fails to
+                include any other information relating to Mr. Brown that would
+                be required to be disclosed in a proxy statement or other filing
+                required to be made in connection with solicitations of proxies
+                or consents in support of the election of directors at the 2026
+                Annual Meeting pursuant to Section 14(a) of the Exchange
+                Act[.]153
+         Perhaps recognizing the challenge of proving that Brown met the technical
+
+regulatory definition of a “participant” under Schedule 14A, the defendants now
+
+attempt to decouple the purported disclosure failure from Brown’s participant status
+
+entirely. Their post-trial brief maintains that the disclosure requirement for any
+
+AAU between Gliksberg and Brown applied “irrespective” of whether Brown was a
+
+participant.154 This pivot is impermissible. When a board rejects a nomination, it
+
+
+48. He cited language in the Rejection Letter that states: “Section 2.5(c)(iii)(B) of the
+Bylaws requires that the Notice Letter include all information relating to each Nominee
+that is required to be disclosed in a proxy statement or other filings required to be made in
+connection with solicitations of proxies for election of directors in a contested election
+pursuant to Section 14(a) under the Exchange Act (including such candidate’s written
+consent to being named in the proxy statement as a nominee and to serving as a director if
+elected).” Rejection Letter ¶ 3. This paragraph merely states what the Bylaws require. It
+does not say that ATG breached Section 14(a) broadly or Rule 14a-9 for failing to disclose
+an AAU between Gliksberg and Brown. See Post-trial Arg. Tr. 50-52.
+153
+      Rejection Letter ¶ 4 (emphasis added).
+154
+    Defs.’ Post-trial Br. 10 (“[I]rrespective of whether Brown is a “participant” in ATG’s
+nomination, if Gliksberg had any arrangement or understanding with Brown concerning
+the acquisition or voting of their Empery Digital securities, that information was required
+to be disclosed under the Section 14(a) Bylaws.”).
+
+
+                                               32
+must give the nominating stockholder sufficient notice of the contractual basis for
+
+rejection. Having grounded its rejection in the asserted failure to disclose Brown as
+
+a participant, the defendants cannot wait until trial to abandon that basis and advance
+
+a different theory of contractual noncompliance. Advance notice bylaws are not
+
+moving targets.
+
+         Although ATG bears the burden of proving its compliance with the Bylaws,
+
+the court does not conduct a de novo audit of the Nomination Notice to seek out
+
+unasserted breaches. The plaintiff’s burden is bounded by the deficiencies the Board
+
+fairly identified in its Rejection Letter.155 Because advance notice bylaws operate
+
+as conditions precedent, a board seeking to reject a nomination must identify a
+
+contractual basis for doing so.156 I therefore hold the defendants to the contractual
+
+grounds they invoked and limit my review to the reasons fairly stated in the
+
+Rejection Letter.
+
+         The defendants’ pre-trial brief confirms the point. It did not argue that the
+
+Nomination Notice violated the Section 14(a) Bylaws by failing to disclose an AAU
+
+
+
+
+155
+   See Rosenbaum v. CytoDyn Inc., 2021 WL 4775140, at *21 (Del. Ch. Oct. 13, 2021)
+(“The Board cannot base its decision to reject the Nomination Notice on after-discovered
+facts.”); cf. Paragon Techs., Inc. v. Cryan, 2023 WL 8269200, at *7 n.116 (Del. Ch. Nov.
+30, 2023) (questioning whether the defendants could raise alleged nomination notice
+deficiencies that were “litigation constructs” raised after the board’s rejection).
+156
+      See Lee Enters., 2022 WL 453607, at *13 n.142.
+
+
+                                            33
+with Brown irrespective of Brown’s status as a participant.157 That theory appeared
+
+only in post-trial briefing. It is waived.158 For that independent reason, I need not
+
+decide whether the Section 14(a) Bylaws would otherwise require disclosure of an
+
+AAU with Brown under Rule 14a-9.
+
+                               *              *             *
+
+       ATG carried its burden of demonstrating that its Nomination Notice complied
+
+with the Bylaws with respect to the specific deficiencies the Board invoked. Brown
+
+does not meet the definition of a “participant” incorporated into the Bylaws. ATG’s
+
+Nomination Notice therefore did not violate the Participant Bylaw.159
+
+
+
+
+157
+   See Defs.’ Pre-trial Br. 43-47 (arguing only that ATG was required to disclose Brown
+under the Participant Bylaw).
+158
+   See Zaman v. Amedeo Holdings, Inc., 2008 WL 2168397, at *16 (Del. Ch. May 23,
+2008) (“Raising this argument in the post-trial briefs is unfair, too late, and does not
+preserve this argument. It is waived.”); see also Roth v. Sotera Health Co., 2026 WL
+847180, at *15 n.212 (Del. Ch. Mar. 26, 2026) (same); In re Mindbody, Inc., S’holder Litig.,
+332 A.3d 349, 412 (Del. 2024).
+159
+    The defendants moved for an adverse inference based on Gliksberg’s spoliation of
+Signal messages, arguing that the destroyed communications would have proven that ATG
+and Brown were coordinating as a group. See Defs.’ Mot. For Adverse Inferences Due to
+Spoliation of Evid. (Dkt. 212). I need not resolve the spoliation motion to decide this claim.
+Even if I assume that the destroyed messages would prove that ATG (or Gliksberg) and
+Brown formed a group and coordinated their efforts to liquidate Empery, my conclusion
+would remain the same. The asserted Bylaw provisions did not require the disclosure of
+general coordination, and coordination alone does not necessarily transform Brown into a
+‘participant’ under Schedule 14A, Item 4, Instruction 3(a). Because the requested inference
+would not amend the Bylaws, it would not cure the contractual invalidity of the Board’s
+rejection. The defendants’ request for adverse inferences is therefore denied as moot.
+
+
+                                             34
+                        b.       The Bitcoin Hedge Allegations
+
+         The Rejection Letter’s second main ground for rejecting ATG’s Nomination
+
+Notice was its failure to disclose a Bitcoin hedge.160 At the time ATG submitted
+
+the Nomination Notice, it had hedged its Empery equity position “dollar for dollar”
+
+to isolate and eliminate the risk of Bitcoin price movement by shorting Bitcoin
+
+ETFs.161 The defendants assert that this undisclosed hedge misaligned ATG with
+
+Empery’s long-only stockholders and incentivized ATG to push for the liquidation
+
+of the Company’s Bitcoin.162
+
+         To determine what a stockholder must disclose, the court looks first to the
+
+plain text of the contract.163 Empery’s Bylaws are specific regarding the disclosure
+
+of economic hedges.             Section 2.4(c)(ii) requires the disclosure of derivatives,
+
+synthetic equity, and short positions in Empery’s own stock.164                 Some DAT
+
+
+160
+      Rejection Letter ¶ 3.a.
+161
+      See Chan Tr. 501; JX 563 at 3.
+162
+    See Defs.’ Post-trial Br. 6-7; see also Rejection Letter ¶ 3.a (“ATG Capital’s interests
+are adverse to such shareholders because an increase in the price of Bitcoin negatively
+impacts ATG Capital, requiring ATG Capital to post additional collateral and further
+increasing its financing costs without the benefit of the increase in the price of Bitcoin due
+to ATG Capital’s [Bitcoin] hedge. Thus, ATG Capital is incentivized to push the Company
+to liquidate its Bitcoin as quickly as possible.”).
+163
+   See, e.g., Vejseli v. Duffy, 2025 WL 1452842, at *14 (Del. Ch. May 21, 2025) (“Bylaws
+are contracts between the stockholders and the corporation, interpreted according to their
+‘commonly accepted meaning unless the context clearly requires a different one or unless
+legal phrases having a special meaning are used.’” (quoting BlackRock Credit Allocation
+Income Tr. v. Saba Cap. Master Fund, Ltd., 224 A.3d 964, 977 (Del. 2020))).
+164
+      Bylaws § 2.4(c)(ii).
+
+
+                                               35
+corporations’ bylaws require the disclosure of commodity hedges.165 By contrast,
+
+neither Empery’s Bylaws nor its questionnaire for director candidates require the
+
+disclosure of commodity hedges, cryptocurrency hedges, or positions in unrelated
+
+ETFs.166
+
+            Given this contractual silence, the defendants look to the Bylaws’ general
+
+incorporation of Section 14(a) and Schedule 14A. The Rejection Letter specified
+
+that the non-disclosure of the Bitcoin hedge violated Item 5(b)(1) of Schedule 14A,
+
+which is incorporated into Section 2.5(c)(iii)(b) of the Bylaws. 167 Item 5(b)(1)
+
+requires that a proxy statement describe “any substantial interest, direct or indirect,
+
+by security holdings or otherwise, of each participant . . . in any matter to be acted
+
+upon at the meeting.”168           The regulation then identifies twelve categories of
+
+information, most of which are expressly sought by Empery’s bylaws and
+
+questionnaire (e.g., name, address, and occupation).169 None of those categories
+
+expressly requires disclosure of investments in unrelated assets or issuers, much less
+
+a nominating stockholder’s purported “misalignment” with other stockholders.
+
+
+
+
+165
+   See JX 708 (Rebuttal Report of Edward Rock (“Rock Report”)) ¶¶ 58-66; JX 845
+§ 8(C)(3)(d)-(e); PTO ¶ 47.
+166
+      See Rock Report ¶¶ 39-40 (citing JX 52).
+167
+      Rejection Letter ¶ 3.a; see Bylaws §§ 2.5(c)(iii)(B), 2.5(c)(ii).
+168
+      17 C.F.R. § 240.14a-101, Item 5(b)(1) (2025).
+169
+      Id.
+
+
+                                                36
+          The defendants also argue that ATG’s Bitcoin hedge was material information
+
+that Empery “[s]tockholders were entitled to know” under Rule 14a-9.170 As with
+
+their arguments concerning Rule 14a-9 and the disclosure of an AAU, this theory
+
+was not asserted as a basis for rejection and is waived. I need not reach whether
+
+Rule 14a-9 would otherwise require disclosure of ATG’s Bitcoin hedge, whether the
+
+hedge was material under Rule 14a-9, or whether the Bylaws incorporate that
+
+requirement.171
+
+          If the Board wanted to know about commodity hedges, it could have adopted
+
+a bylaw expressly requiring that information, included such a request in its nominee
+
+questionnaire, or asked ATG directly.172 ATG could not fairly be expected to guess
+
+that the Board would interpret the Bylaws to require the disclosure of a Bitcoin short
+
+position. To the extent the interplay between the Bylaws and Section 14(a) creates
+
+any ambiguity, Delaware law resolves that doubt in favor of the stockholder’s
+
+electoral rights.173
+
+
+
+
+170
+      Defs.’ Post-trial Br. 30-31; see also JX 657 (Expert Report of Joseph A. Grundfest) ¶ 42.
+171
+      See supra note 158.
+172
+   The Board never asked ATG for information about its Bitcoin hedge, although the
+Bylaws expressly contemplate that the Board may request additional information from a
+nominating stockholder. See Bylaws § 2.5(g).
+173
+   See Jorgl, 2022 WL 16543834, at *10 (“Any ambiguity in an advance notice bylaw is
+resolved ‘in favor of the stockholder’s electoral rights.’” (quoting Hill Int’l, 119 A.3d at
+38)).
+
+
+                                               37
+          The defendants also insist that the Board properly rejected ATG’s Nomination
+
+Notice because a “reasonable stockholder” would view the hedge as a “divergence
+
+of interests” material to their election decision.174 This line of argument is consistent
+
+with the Board’s view that it was conducting a “suitability” inquiry rather than
+
+evaluating ATG’s compliance with the Bylaws.175 It reflects a misunderstanding of
+
+not only basic contract interpretation, but also the purpose advance notice bylaws
+
+serve under Delaware law.
+
+          Advance notice bylaws are “designed and function to permit orderly meetings
+
+and election contests and to provide fair warning to the corporation so that it may
+
+have sufficient time to respond to shareholder nominations.”176 They have both
+
+“information-gathering and disclosure functions,”177 so that boards of directors can
+
+“knowledgeably make recommendations about nominees” that permit stockholders
+
+to “cast well-informed votes.”178 An advance notice bylaw does not authorize
+
+incumbent directors to exclude candidates based on the directors’ disagreement with
+
+their business plans or economic incentives.
+
+
+174
+      Defs.’ Post-trial Br. 31-32.
+175
+    Read Tr. 727 (“[I]t was not so much about the bylaws as about the suitability of having
+a long-term shareholder who is actively betting against the value of bitcoin.”); see Foster
+Tr. 708 (noting a “guttural reaction” that the Bitcoin short should have been disclosed).
+176
+  Openwave Sys. Inc. v. Harbinger Cap. P’rs Master Fund I Ltd., 924 A.2d 228, 239 (Del.
+Ch. 2007); see Rock Tr. 631-32.
+177
+      Lee Enters., 2022 WL 453607, at *18.
+178
+      Id. at *9.
+
+
+                                             38
+      Because the Bylaws did not require the disclosure of commodity hedges, ATG
+
+could not have breached the Bylaws by failing to disclose its Bitcoin hedge in its
+
+Nomination Notice.
+
+                              *             *             *
+
+      ATG has carried its burden to prove that its Nomination Notice complied with
+
+the Bylaws regarding the two deficiencies the defendants advanced at trial. Brown
+
+does not meet the definition of a “participant” incorporated into the Bylaws, and the
+
+Bylaws did not require the disclosure of commodity hedges. Because the defendants
+
+abandoned the remaining purported violations listed in the Rejection Letter, those
+
+arguments are waived.179 The Board therefore lacked contractual grounds to reject
+
+the Nomination Notice.
+
+      My analysis proceeds to the second step of Delaware’s twice-tested
+
+framework: an equitable review of the Board’s actions.180
+
+
+
+
+179
+   Wimbledon Fund LP v. SV Special Situations LP, No. 4780-VCS, 2011 WL 378827, at
+*7 n.44 (Del. Ch. Feb. 4, 2011) (“Wimbledon did not raise that argument in its briefs, and
+generally arguments not raised in a party’s briefs are deemed waived because they have not
+been fairly asserted.”); see also In re PNB Holding Co. S’holders Litig., No. CIV.A. 28-N,
+2006 WL 2403999, at *18 (Del. Ch. Aug. 18, 2006) (“The argument is untimely because it
+was not addressed in the pre-trial order and was not raised until trial.”).
+180
+  Kellner II, 320 A.3d at 259 (“In other words, when corporate action is challenged, it
+must be twice-tested – first for legal authorization, and second by equity.”).
+
+
+                                           39
+                 2.     The Equitable Review
+
+          ATG alleges that the directors breached their fiduciary duties by rejecting its
+
+Nomination Notice.181 When a board takes defensive action that interferes with a
+
+corporate election or a stockholder’s voting rights in a contest for control, the board’s
+
+conduct is subject to enhanced scrutiny.182 Under this intermediate standard of
+
+review, the Board bears the burden to establish: (1) that it “faced a threat to an
+
+important corporate interest or to the achievement of a significant corporate benefit,”
+
+which threat was “real and not pretextual,” and that the board’s motivations were
+
+proper; and (2) that its response was “reasonable in relation to the threat posed and
+
+was not preclusive or coercive to the stockholder franchise.”183 The inquiry is a
+
+“‘situationally specific’ application of Unocal,” and “[f]undamentally, the standard
+
+to be applied is one of reasonableness.”184
+
+          If the defendants relied solely on ATG’s purported Bylaw violations, the
+
+Board could not satisfy the first prong. The contractual violations asserted in the
+
+Rejection Letter did not exist.185 But the Board’s mistaken view of the Bylaws does
+
+
+181
+      See Pl.’s Post-trial Br. 53-57.
+182
+      See Coster, 300 A.3d at 672-73; Kellner I, 307 A.3d at 1025.
+183
+      Coster, 300 A.3d at 672-73.
+184
+   Kellner I, 307 A.3d at 1025, 1042 (citation omitted); see also Coster, 300 A.3d at
+671-73.
+185
+  An AI-generated transcript of the March 26 Board meeting reflects a discussion that the
+Rejection Letter “threw [in] the kitchen sink” and that though no “single” omission in the
+Nomination Notice was “detrimental . . . in the aggregate [ATG was] sloppy.” JX 495 at 1.
+
+                                              40
+not, standing alone, establish that its underlying concerns were false or pretextual.
+
+The first Unocal inquiry asks whether the Board had a reasonable and good-faith
+
+basis for concluding that a threat to an important corporate interest existed.186 I
+
+therefore consider the additional justification the defendants advance for the
+
+rejection.
+
+         The defendants contend that the Board rejected the Nomination Notice
+
+because it suspected ATG and Brown were hatching a plan to take control of Empery
+
+and liquidate its Bitcoin.187 The record provides some support for that concern.
+
+Brown demanded that the Company liquidate its Bitcoin during his January 28
+
+meeting with Lane and Silver.188 Days later, Brown planted a story with Bloomberg
+
+columnist Matt Levine titled “Cracking Open the DATs,” which detailed a playbook
+
+for forcing a Bitcoin treasury to liquidate.189 Shortly after publication, Gliksberg
+
+texted a link to the article to one of his Board nominees, warning the recipient not to
+
+
+
+
+Lane acknowledged that the “objective” was to “reject” the Nomination Notice and “see
+what” ATG and Brown did in response. Id. at 2.
+186
+   See Kellner I, 307 A.3d at 1025-26 (explaining that the first prong requires a reasonable
+and good-faith investigation supporting grounds for concluding that a threat to the
+corporate enterprise existed).
+187
+      See Defs.’ Post-trial Br. 16-19.
+188
+      Silver Tr. 551-52; Lane Tr. 284.
+189
+      JX 234; JX 217.
+
+
+                                            41
+“text [Gliksberg] about it.”190 Gliksberg’s testimony that he had no plans to liquidate
+
+the Company’s Bitcoin is difficult to credit against this backdrop.191
+
+         These facts give the Board a reasonable basis for concern about the slate’s
+
+plans for Empery’s Bitcoin strategy. But that concern must be distinguished from
+
+the notion that the Board was entitled to prevent stockholders from voting on those
+
+plans. Directors’ fiduciary duties do not empower them to interfere with a contest
+
+for control merely because they believe that the insurgent’s business plan is unwise
+
+or destructive. As Delaware courts consistently hold, defensive actions “cannot be
+
+justified on the grounds that the board knows what is in the best interests of the
+
+stockholders.”192 The relevant question is whether the Board identified a threat to
+
+an important corporate interest—not whether it preferred its own policy choices to
+
+those advocated by the insurgents.193
+
+
+
+
+190
+    JX 219. Gliksberg testified that he sent the text to keep business and personal texts
+separate. Gliksberg Tr. 139-40. This explanation makes little sense in the context of his
+other text message chains. Instead, the timing and context of the message suggest an intent
+to conceal coordination.
+191
+      See Gliksberg Tr. 56, 85 (testifying that he has no plans to liquidate Empery’s Bitcoin).
+192
+    Coster, 300 A.3d at 672; see also Mercier v. Inter-Tel (Del.), Inc., 929 A.2d 786, 811
+(Del. Ch. 2007) (noting that the “we know better” defense “is no justification at all” for
+interfering with a contest for corporate control); Pell v. Kill, 135 A.3d 764, 790 (Del. Ch.
+2016) (“[T]he belief that directors know better than stockholders is not a legitimate
+justification when the question involves who should serve on the board of a Delaware
+corporation.”).
+193
+   See Kellner I, 307 A.3d at 1025-26 (explaining that the threat must concern matters of
+“corporate policy and effectiveness which touches on issues of control,” rather than the
+
+                                               42
+         Assuming, without deciding, that the Board reasonably perceived a legitimate
+
+threat, the Board nevertheless fails the second Unocal prong.          Its response—
+
+rejecting the Nomination Notice—was not reasonable in relation to the threat it
+
+perceived.
+
+         A comparison to Kellner v. AIM ImmunoTech Inc. is instructive. There, the
+
+board’s rejection of a nomination notice was upheld because the notice concealed
+
+arrangements and understandings central to the nomination effort, which frustrated
+
+the disclosure function of the advance notice bylaws. The board in Kellner had a
+
+legitimate interest in obtaining that information, and the timing of the notice left no
+
+meaningful opportunity to cure the deficiencies.194 Here, the Board rejected the
+
+Nomination Notice despite its compliance with the disclosure requirements on which
+
+the Board relied. In contrast to Kellner, the Board was not enforcing a valid
+
+disclosure requirement designed to protect the corporate electoral process.
+
+         Rejection was a disproportionate response to the perceived threat of ATG’s
+
+plans for Empery. The Board could have informed stockholders of the evidence
+
+concerning ATG’s and Brown’s relationship, their apparent views concerning
+
+Empery’s Bitcoin strategy, and the risks the Board believed a change in control
+
+
+
+
+board’s belief that “certain director nominees would be worse for the company than
+themselves”).
+194
+      See id. at 1042-44.
+
+
+                                          43
+presented.195 Those arguments could then have been tested through the electoral
+
+process. Nothing in the record suggests that permitting Empery’s stockholders to
+
+consider ATG’s slate would have prevented the Board from making its case to the
+
+electorate or from disclosing the information it regarded as material.
+
+         That distinction is meaningful under Coster v. UIP Companies, Inc.196 The
+
+issue is not whether the Board had reason to distrust ATG or disagree with its plans,
+
+but whether rejecting a nomination that complied with the Bylaws was a reasonable
+
+means of addressing the perceived threat.           Because the Board lacked valid
+
+contractual grounds to reject the Nomination Notice and had available means to
+
+communicate its concerns to the stockholders, the Board failed to show that rejection
+
+was a reasonable response to the perceived threat.
+
+         The rejection was also preclusive in its practical effect. By removing ATG’s
+
+nominees from the ballot entirely, the Board effectively foreclosed ATG from
+
+presenting its slate to the stockholders and assured the incumbents an uncontested
+
+election. That is not to say that every rejection of a nomination notice is necessarily
+
+preclusive or inequitable. A board may reasonably reject a nomination when its
+
+failure to satisfy valid advance-notice requirements poses a meaningful threat to a
+
+195
+   If the Board believed ATG’s proxy materials were materially misleading under federal
+or state law by omitting this coordination or the Bitcoin short, its proper recourse was to
+seek injunctive relief to compel corrective disclosures, not to unilaterally disenfranchise
+the electorate.
+196
+      300 A.3d at 672-73.
+
+
+                                            44
+legitimate corporate interest.197        But where, as here, the asserted contractual
+
+deficiencies were nonexistent and the Board could address its substantive concerns
+
+through disclosure and advocacy, rejecting the nomination was a disproportionate
+
+response.
+
+          The Board’s complaints about ATG’s plans, suitability, and perceived
+
+economic misalignment are arguments for the electorate—not a basis for removing
+
+ATG’s slate from the electoral process. The Board was—and is—entitled to tell
+
+stockholders why it believes ATG’s strategy is harmful to Empery and to urge them
+
+to reject the slate. It was not entitled to use an erroneous interpretation of its Bylaws
+
+to prevent stockholders from making that choice themselves. On this record, the
+
+Board’s rejection of the Nomination Notice was inequitable and constituted a breach
+
+of the directors’ fiduciary duties.198
+
+          B.     The Nomination Reopening Claim
+
+          ATG argues the Board breached its fiduciary duties by refusing to reopen the
+
+nomination window after announcing a pivot from a Bitcoin DAT strategy to an AI
+
+data-center business.199 Relying on Hubbard v. Hollywood Park Realty Enterprises,
+
+Inc., it contends that the data center transaction supports reopening the window
+
+
+
+197
+      See Kellner I, 307 A.3d at 1042-44.
+198
+      See Coster, 300 A.3d at 667; Kellner I, 307 A.3d at 1025, 1044.
+199
+      See Pl.’s Post-trial Br. 67-69.
+
+
+                                              45
+because it is an “unanticipated” and “material” change to Empery’s business
+
+announced after the nomination deadline.200 The defendants insist that Hubbard
+
+lends no support to ATG’s request because, among other reasons, ATG already
+
+nominated its slate and no other stockholder seeks to nominate.201
+
+          Hubbard presents a “context-specific application of Schnell.”202 In Hubbard,
+
+after the advance notice deadline passed, the board settled with an insurgent, shifted
+
+the allegiance of a board majority to his radical new agenda, and contractually bound
+
+itself not to waive the advance notice bylaw.203 The court reopened the nomination
+
+window         because     this   post-deadline,   board-driven   “material   change   of
+
+circumstances” locked stockholders out of mounting a dissident slate.204
+
+          The harm Hubbard addressed was the denial of a choice between competing
+
+slates. The opinion opens by identifying the harm in precisely those terms: absent
+
+an injunction, “the enforcement of the advance notice by-law” would have resulted
+
+in the management “slate of candidates running unopposed.”205 Hubbard does not
+
+
+200
+   Id.; see Hubbard v. Hollywood Park Realty Enters., 1991 WL 3151 (Del. Ch. Jan. 14,
+1991).
+201
+      See Defs.’ Post-trial Br. 55.
+202
+  Sternlicht v. Hernandez, 2023 WL 3991642, at *15 (Del. Ch. June 14, 2023) (citing
+AB Value P’rs, LP v. Kreisler Mfg. Corp., 2014 WL 7150465, at *5 (Del. Ch. Dec. 16,
+2014)).
+203
+      Hubbard, 1991 WL 3151, at *3-4, *11.
+204
+      Id. at *12.
+205
+      Id. at *1.
+
+
+                                              46
+stand for the notion that a dissident is entitled to a do-over of its nomination
+
+whenever a company undertakes a post-deadline commercial transaction. The
+
+overarching principle is that Schnell and its progeny protect electoral fairness, not
+
+business strategy.206
+
+         Here, Empery’s stockholders will not be disenfranchised. Because I have
+
+found that ATG’s Nomination Notice is valid and that the Board's rejection was
+
+inequitable, ATG’s nominees will stand for election. Empery’s stockholders will
+
+therefore have a choice between the incumbent Board and ATG’s slate, which
+
+publicly committed to evaluate strategic alternatives.207 Even if the data center
+
+transaction radically altered the Company’s strategic direction, it did not manipulate
+
+the corporate machinery or result in the sort of uncontested election Hubbard sought
+
+to prevent. ATG therefore did not prove that the Board breached its fiduciary duties
+
+by declining to reopen the nomination window after announcing the data center
+
+transaction.
+
+
+
+
+206
+   See, e.g., AB Value, 2014 WL 7150465, at *7 (declining to reopen a nomination window
+based on post-deadline executive compensation increases, and finding that routine
+governance friction did not justify reopening the nomination window); Sternlicht, 2023
+WL 3991642, at *22-23 (refusing to reopen a nomination window following the post-
+deadline formation of a special committee); Vejseli v. Duffy, 2025 WL 1452842, at *18
+(Del. Ch. May 21, 2025) (reopening a nomination window to cure a board’s inequitable
+reduction of available director seats on the eve of a proxy contest).
+207
+      JX 453 at 14 (ATG preliminary proxy statement).
+
+
+                                            47
+III.   CONCLUSION
+
+       Because the Board lacked contractual grounds to reject ATG’s Nomination
+
+Notice, judgment on Count III is entered for ATG. Insofar as Count I concerns the
+
+Board’s rejection of ATG’s nomination notice, judgment on Count I is entered for
+
+ATG in part. ATG’s Nomination Notice is valid. ATG’s nominees may stand for
+
+election at Empery’s annual meeting. Judgment on Count V is entered for the
+
+defendants.
+
+       The parties are to confer on a form of order to implement this decision, which
+
+must be filed within three business days. Within 14 business days, they are to
+
+provide the court with a proposed schedule for resolving the remainder of the claims.
+
+
+
+
+                                         48
+

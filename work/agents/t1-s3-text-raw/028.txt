@@ -1,0 +1,529 @@
+UNITED STATES DISTRICT COURT
+EASTERN DISTRICT OF NEW YORK
+ANN M. DONNELLY, United States District Judge:
+The plaintiff claims that the defendant violated the Real Estate Settlement Procedures Act
+(“RESPA”), 12 U.S.C. 2605 et seq., the Truth in Lending Act (“TILA”), 15 U.S.C. § 1601 et
+seq., and the Fair Debt Collection Practices Act (“FDCPA”), 15 U.S.C. § 1692 et seq. He also
+brings a claim for equitable accounting. Before the Court is the defendant’s motion to dismiss
+the complaint pursuant to Federal Rule of Civil Procedure 12(b)(6). As explained below, the
+motion is granted in part and denied in part.
+BACKGROUND1
+Factual Background
+On May 22, 2006, the plaintiff purchased the home at 14 Ocean Avenue, Valley Stream,
+New York 11580, and executed a note for $352,000, secured by a mortgage on the property in
+favor of WMC Mortgage Corporation. (ECF No. 14 ¶¶ 10–11.) J.P. Morgan Chase Bank,
+1
+This section is based on the complaint and the loan documents that are “integral” to it. Chambers v. Time
+Warner, Inc., 282 F.3d 147, 153 (2d Cir. 2002); see also Santhosh v. Wells Fargo Bank, N.A., No. 25-CV-
+1447, 2026 WL 1413883, at *1 (E.D.N.Y. May 20, 2026).
+--------------------------------------------------------------- X
+ISAIAH OWENS,
+Plaintiff,
+– against –
+SELECT PORTFOLIO SERVICING, INC.,
+Defendant.
+:
+:
+:
+:
+:
+:
+:
+:
+MEMORANDUM DECISION AND
+ORDER
+25-CV-0622 (AMD) (ST)
+--------------------------------------------------------------- X
+Owens v. Select Portfolio Servicing, Inc. Doc. 38
+Dockets.Justia.com2
+National Association serviced the loan until June 1, 2013, when it transferred servicing to the
+defendant. (Id. ¶ 12.)
+On April 1, 2018, the parties agreed to a “Loan Modification” agreement. (ECF No. 14 ¶
+13; see also ECF No. 14-3 (agreement).) The plaintiff does not include any facts in the amended
+complaint about the events that led to the loan modification, but according to the initial
+complaint and a document attached to the amended complaint, the plaintiff became delinquent on
+his mortgage payments. (See ECF No. 1 ¶ 18 (alleging servicer violated obligation to make
+contact with delinquent borrower); ECF No. 14-7 at 95 (foreclosure services invoice).) The loan
+modification increased the principal balance from $352,000.00 to $663,554.70 (ECF No. 14 ¶
+14), and provided that the “modified principal balance of the Note will include all amounts and
+arrearages that will be past due as of the Modification Effective Date (including unpaid and
+deferred interest, fees, escrow advances and other costs but excluding late charges, collectively
+‘Unpaid Amounts’).” (ECF No. 14-3 ¶ 2(b).)
+More than five years later, on May 7, 2024, the plaintiff sent the defendant a letter in
+which he asked for 30 categories of documentation regarding the loan account and history from
+origination to present, including an “itemized statement and explanation of all fees, costs,
+advances, charges, and other expenses,” among other things. (ECF No. 14 ¶¶ 19–21; ECF No
+14-5.) The defendant acknowledged receipt on May 14, 2024, and sent the plaintiff 159 pages of
+documents, including the plaintiff’s transaction history, corporate advance history, fee
+itemizations, and escrow statements for certain years. (ECF No. 14 ¶¶ 23–24; see also ECF Nos.
+16 (acknowledgement), 14-7 (defendant’s response).) The defendant did not give the plaintiff
+everything he requested, and did not explain its incomplete responses in some areas, but said
+generally that the requests were “overbroad and unduly burdensome.” (ECF No. 14 ¶ 25.) The3
+defendant included its customer service phone number, the hours it would be available, and its
+website address, where the plaintiff could get account information, “schedule payments,” and
+“review loss mitigation status.” (ECF No. 14-7 at 7.)
+Procedural History
+The plaintiff filed the complaint in this action on February 4, 2025. (ECF No. 1.) The
+Court held a pre-motion conference on the defendant’s anticipated motion to dismiss on June 10,
+2025. The next day, June 11, 2025, the plaintiff filed an amended complaint in which he brought
+three claims under RESPA, one under TILA, two under the FDCPA, and one common law
+demand for equitable accounting. (ECF No. 14.)2
+The RESPA claims include: “failure to
+adequately respond to borrower inquiries,” 12 U.S.C. § 2605(e),(k) (Count I), “improper
+administration of escrow accounts,” 12 U.S.C. § 2605(g) (Count II), and “violation of servicer
+prohibitions,” 12 U.S.C. § 2605(k) (Count III). (ECF No. 14 ¶¶ 61–79.) The plaintiff also
+asserts a claim under TILA for “failure to comply with provide required disclosures” and “failure
+to adhere to required servicing practices” under 15 U.S.C. § 1601 (Count IV). (Id. ¶¶ 80–86.)
+The plaintiff’s remaining statutory claims arise under the FDCPA, 15 U.S.C. §§ 1692e and
+1692f, for “collection of prohibited fees” (Count V) and “use of false, deceptive, or misleading
+representations” (Count VI). (Id. ¶¶ 87–97.) The plaintiff also asserts a common law claim for
+equitable accounting (Count VII). (Id. ¶¶ 98–104). The plaintiff seeks actual and statutory
+damages, an order requiring the defendant to provide a full accounting of the plaintiff’s loan
+account, attorneys’ fees and costs, and pre- and post-judgment interest. (Id. at 33–34.)
+2
+After the plaintiff filed the amended complaint, the defendant filed another request for a pre-motion
+conference, to which the plaintiff responded. (ECF Nos. 19, 22.) The Court waived the pre-motion
+conference requirement and set a briefing schedule. (ECF Order dated Aug. 8, 2025.)4
+LEGAL STANDARD
+To survive a Federal Rule of Civil Procedure 12(b)(6) motion to dismiss, a complaint
+must plead “enough facts to state a claim to relief that is plausible on its face.” Bell Atl. Corp. v.
+Twombly, 550 U.S. 544, 570 (2007). “A claim is plausible ‘when the plaintiff pleads factual
+content that allows the court to draw the reasonable inference that the defendant is liable for the
+misconduct alleged.’” Matson v. Bd. of Educ., 631 F.3d 57, 63 (2d Cir. 2011) (quoting Ashcroft
+v. Iqbal, 556 U.S. 662, 678 (2009)). Pleadings are construed in the light most favorable to the
+plaintiff. Hayden v. Paterson, 594 F.3d 150, 160 (2d Cir. 2010). However, the Court is “not
+bound to accept as true a legal conclusion couched as a factual allegation.” Iqbal, 556 U.S. at
+678.
+A court deciding a Rule 12(b)(6) motion may examine “any written instrument attached
+to [the complaint] as an exhibit or any statements or documents incorporated in it by
+reference.” Chambers v. Time Warner, Inc., 282 F.3d 147, 152 (2d Cir. 2002) (citation
+omitted).
+DISCUSSION
+RESPA Claims
+a. Count I: Inadequate Response to Qualified Written Requests and Correct
+Errors
+The plaintiff alleges that he sent the defendant a “qualified written request” (“QWR”) as
+defined by RESPA, and that the defendant’s response “failed to provide substantial and critical
+categories of requested information” in violation of the statute. (ECF No. 14 ¶ 26.) The
+defendant maintains that the plaintiff’s claims are untimely, and that the May 7, 2024 letter is not
+a QWR. (See ECF No. 25-1 at 12–13.) In addition, the defendant argues that its response
+complied with the statute, and that the plaintiff has not alleged a violation. (Id. at 13–15.)5
+Finally, the defendant claims that the plaintiff has not pled actual or statutory damages. (Id. at
+20–22.) The Court addresses these arguments in turn.
+i. Statute of Limitations
+A RESPA claim accrues on the date of the alleged violation, and for a violation of
+Section 2605, must be brought within three years of its occurrence. 12 U.S.C. § 2614. Here, the
+plaintiff alleges that the defendant violated the statute when it did not respond adequately to the
+plaintiff’s qualified written request, which the plaintiff sent on May 7, 2024. (ECF No. 14-5.)
+The defendant responded substantively on May 29, 2024. (ECF No 14-7.) That response —
+which the plaintiff claims violated RESPA’s Section 2605(e) and (k) — is the basis of the
+allegations in Count I. (ECF No. 14 ¶ 65.) The plaintiff filed his lawsuit on February 4, 2025
+(ECF No. 1), less than a year after he received the defendant’s response, and well within the
+three-year statute of limitations. Therefore, the plaintiff’s RESPA claims under 12 U.S.C. §
+2605 are not time-barred.
+ii. Qualified Written Request
+RESPA gives borrowers the right to request and receive information about their mortgage
+loan accounts. See 12 C.F.R. § 1024.36.3
+It also permits borrowers to notify their loan servicers
+of perceived errors in their accounts, and to have the servicer correct the error or explain why
+there is no error. See 12 C.F.R. § 1024.35. RESPA defines a QWR as follows:
+For purposes of this subsection, a qualified written request shall be
+a written correspondence, other than notice on a payment coupon or
+other payment medium supplied by the servicer, that—
+(i) includes, or otherwise enables the servicer to identify, the name
+and account of the borrower; and
+3
+RESPA’s implementing regulations are collectively called “Regulation X.” 78 Fed. Reg. 10696 (Feb.
+14, 2013).6
+(ii) includes a statement of the reasons for the belief of the borrower,
+to the extent applicable, that the account is in error or provides
+sufficient detail to the servicer regarding other information sought
+by the borrower.
+12 U.S.C. § 2605(e)(1)(B); see also Roth v. CitiMortgage Inc., 756 F.3d 178, 181 (2d Cir. 2014)
+(defining qualified written requests). In addition, RESPA includes requirements mortgage loan
+servicers must meet in responding to QWRs.
+In his May 7, 2024 letter, the plaintiff asked the defendant to “[p]lease treat this letter as a
+[QWR].” (ECF No. 14-5.) He asked for information about his loan, including the servicing of it.
+(Id.) For example, the plaintiff requested “a complete and itemized statement” of the “payment
+history from the inception of the loan to the date of this letter” (Request 12) and of “all advances
+or charges against the loan” (Request 13). (ECF No. 14-5 at 3.) The letter included the
+plaintiff’s name, property address, and loan number. (Id. at 2.) These requests gave the
+defendant “sufficient detail,” 12 U.S.C. § 2605(e)(1)(B), about the information that the plaintiff
+sought. Accordingly, the plaintiff’s May 7, 2024 letter was a QWR.
+However, the QWR did not, as the plaintiff claims, notify the defendant of errors or
+require it to correct errors, including with respect to the “unexplained capitalization of over
+$311,000.” (ECF No. 27 at 12.) “A court need not accept the allegations in a complaint as true
+if they are ‘contradicted by . . . documentary evidence . . . from the exhibits attached’ to the
+complaint.” Yu Mei Chen v. Nielsen, 363 F. Supp. 3d 333, 340 (E.D.N.Y. 2019) (quoting L-7
+Designs, Inc. v. Old Navy, LLC, 647 F.3d 419, 422 (2d Cir. 2011) (alterations in original)); In re
+Griffin, No. 10-22431, 2010 WL 3928610, at *4–6 (Bankr. S.D.N.Y. Aug. 31, 2010) (“Some
+error or potential error must be identified in the QWR . . . .”). The plaintiff sought information
+and documents only about his loan. (See ECF No. ECF No. 14-5.) See Jackson v. Caliber Home7
+Loans, No. 18-CV-4282, 2019 WL 3426240, at *6 (E.D.N.Y. July 30, 2019) (differentiating
+between requests for information and notices of error).
+In short, the plaintiff’s QWR was a request for information only, and the Court evaluates
+his allegations under 12 U.S.C. § 2605(e)(2)(C).
+iii. Alleged Violation of Obligations to Respond to QWR
+The defendant also argues that the complaint does not allege a RESPA violation. (ECF
+No. 25-1 at 15.) As explained above, the complaint does not sufficiently allege the defendant
+failed to correct errors in his account. The allegations are sufficient to make out a claim that the
+defendant’s response to the QWR was incomplete.
+Under RESPA a loan servicer must acknowledge receipt of a QWR within five business
+days, unless it takes the requested action during that period. 12 U.S.C. § 2605(e)(1)(A). As
+relevant here, the servicer must do an investigation and give the borrower the requested
+information or explain why the information is not available or cannot be obtained. 12 U.S.C.
+§ 2605(e)(2)(C). The servicer must also give the borrower the name and telephone number of
+someone who can assist the borrower. See id. RESPA provides a private cause of action for any
+violation of these or other requirements in the statute. 12 U.S.C. § 2605(f).
+The defendant complied with some aspects of the statute; it gave the plaintiff more than
+100 pages of documents, and explained that it could not respond to all the plaintiff’s requests
+because the “requests are overbroad and unduly burdensome,” or the documents are “privileged
+or proprietary.” (ECF No. 14-7 at 6–7.) Nevertheless, the defendant’s response was incomplete.
+For example, the plaintiff asked for “[a] copy of the escrow account analysis performed on the
+loan from inception to the date of this letter, and proof each escrow account analysis was sent to
+borrower,” and “[a] copy of all escrow disbursements made by the servicer.” (ECF No. 14-5 at 28
+(emphasis added).) The defendant gave this response: “[i]n the inquiry, you requested
+information regarding the escrow account. We have enclosed the Annual Escrow Account
+Disclosure Statements dated July 7, 2021, July 20, 2022, and July 25, 2023, and the Escrow
+Disbursement History.” (ECF No. 14-6 at 5.) The defendant did not address the plaintiff’s
+requests for escrow account information for any other years it serviced the loan — from 2013 to
+2021.
+RESPA requires more. The servicer must “provide the borrower with a written
+explanation or clarification that includes . . . an explanation of why the information requested is
+unavailable or cannot be obtained by the servicer.” 12 U.S.C. § 2605(e)(2)(C)(i). It is true that
+servicers do not need to respond to overbroad requests, see 12 C.F.R. § 1024.36(f)(1)(iv), but at
+this stage of the litigation, it is at least plausible that the plaintiff’s requests were not overbroad
+or unduly burdensome. See e.g., Alcantar v. Flagstar Bank, N.A., No. 2:23-CV-1609, 2024 WL
+4368193, at *4 (E.D. Cal. Oct. 1, 2024) (allowing RESPA claim where plaintiff may be able to
+show that her requests were not actually overbroad). Accordingly, the plaintiff has sufficiently
+alleged that the defendant violated its statutory obligation to respond adequately to a borrower’s
+request for information.
+iv. Damages
+A plaintiff bringing a claim under Section 2605 “must allege injury and resulting
+damages that are proximately caused by the loan servicer’s failure to adhere to its obligations
+under § 2605.” Urquizo v. Community Loan Servicing LLC, No. 24-CV-909, 2025 WL 1093073,
+at *10 (E.D.N.Y. Apr. 11, 2025) (quoting Manzolillo v. Nationstar Mortg., LLC, No. 22-CV-
+3570, 2025 WL 411754, at *6 (E.D.N.Y. Feb. 6, 2025)).9
+The plaintiff has not adequately alleged that he suffered actual damages because of the
+defendant’s alleged violation of Section 2605(e). Out-of-pocket costs are recoverable only when
+they are a result of the servicer’s incomplete or insufficient response. In other words, claiming
+damages for conduct before violation will not suffice. Santhosh v. Wells Fargo Bank, N.A., No.
+25-CV-1447, 2026 WL 1413883, at *5 (E.D.N.Y. May 20, 2026); see also Evans v. Select
+Portfolio Servicing, Inc., No. 18-CV-5985, 2020 WL 5848619, at *13 (E.D.N.Y. Sept. 30, 2020)
+(“[C]osts incurred before the violation occurred, such as the expenses of preparing an initial
+request for information, cannot serve as the basis for actual damages.” (citing Tanasi v.
+CitiMortgage, Inc., 257 F. Supp. 3d 232, 271 (D. Conn. 2017))).
+The plaintiff claims the following damages: (1) “excess principal paid/accrued due to
+unverified capitalized amounts;” (2) “excess interest paid/accrued on inflated principal;” and (3)
+“emotional distress” including “anxiety, frustration, helplessness from SPS’s nontransparency
+regarding $311,554.70 capitalized sum, 7+ year information gap, ‘overbroad’ claim, and fear of
+collection/foreclosure on unverified debt.” (ECF No. 14 ¶ 54.) But these allegations have
+nothing to do with the allegedly inadequate response to the QWR. Rather, the claims are based
+on the allegedly inflated charges in connection with the loan modification. See Murray v.
+Newrez LLC, No. 24-CV-6160, 2025 WL 1158090, at *8 (E.D.N.Y. Apr. 21, 2025) (holding that
+damages from improperly imposed fees, interest, and other charges were not proximately caused
+by the defendant’s failure to respond to borrower inquiries).
+It is true that if a borrower states accurately in a QWR that certain fees were unwarranted,
+and the servicer does not correct the error, damages from the improper charges would be readily
+ascertainable. See Murray, 2025 WL 1158090, at *7. As explained above, however, the plaintiff
+did not claim any error in the QWR; he only requested information. (See ECF No. 14-5 at 2–4.)10
+Thus, the plaintiff “cannot maintain that [he] was damaged by [the defendant’s] claimed failure
+to correct any specific error in [his] account.” Jackson, 2019 WL 3426240, at *8.
+Nor can the plaintiff “disentangle the distress” “that was occasioned by the loan
+modification in which [he] voluntarily entered from that which may have been occasioned by
+Defendant’s failure to respond fully to . . . [his] request[] for information . . . and for this reason
+[he] has not alleged actionable . . . damages.” Sutton v. CitiMortgage, Inc., 228 F. Supp. 3d 254,
+275 (S.D.N.Y. 2017); see also Roth v. CitiMortgage Inc., No. 12-CV-2446, 2013 WL 5205775,
+at *8 (E.D.N.Y. 2013) (“Even if plaintiff and her husband suffered emotional distress from the
+possible loss of their home, plaintiff has not alleged that this injury was proximately caused by
+defendant’s failure to comply with RESPA, i.e., the form and timing of its response to plaintiff’s
+letters.”), aff’d on other grounds, 756 F.3d 178 (2d Cir. 2014). For this reason, the plaintiff has
+not sufficiently pled damages for emotional distress.
+The plaintiff argues that in any event, he states a plausible claim for statutory damages.
+Under RESPA, plaintiffs may recover statutory damages of no more than $2,000 “in the case of a
+pattern or practice of noncompliance.” 12 U.S.C. § 2605(f)(1)(B). However, courts in this
+circuit have held that Section 2605 does not support a claim for statutory damages or fees absent
+actual damages. See, e.g., Dolan v. Select Portfolio Servicing, No. 03-CV-3285, 2016 WL
+4099109, at *5 (E.D.N.Y. Aug. 2, 2016) (collecting cases); Murray, 2025 WL 1158090, at *8;
+Urquizo, 2025 WL 1093073, at *10. Consequently, the plaintiff’s claim for statutory damages
+under RESPA fails because he has not pled actual damages.
+Accordingly, Count I is dismissed.11
+b. Count II: Improper Administration of Escrow Accounts
+Mortgage loan servicers that require borrowers to make payments “into an escrow
+account for the purpose of assuring payment of taxes, insurance premiums, and other charges
+with respect to the property” must make the tax, insurance, or other payments from the escrow
+account “in a timely manner.” 12 U.S.C. § 2605(g).
+To state a claim under § 2605(g), a plaintiff must allege that “(1) the borrower had a
+federally related mortgage loan; (2) the terms of the loan agreement require the borrower to
+make payments to an escrow account; (3) the borrower owed taxes or premiums that were to be
+paid out of the escrow accounts; (4) the servicer failed to make such payments in a timely
+manner . . . ; and (5) at the time the premium payment was due, the borrower was not more than
+30 days delinquent in making mortgage payments.” Baxa v. Seterus, Inc., No. 17-CV-5434,
+2018 WL 3632361, at *2 (E.D. La. July 31, 2018).
+The plaintiff has not satisfied this requirement. He first alleges that the defendant
+violated its escrow account administration duties because it did not give the plaintiff escrow
+account statements from 2006 through 2013, before the defendant started servicing the loan.
+(ECF No. 14 ¶ 71(a).) He also asserts that the statements the defendant did provide are “missing
+required information” and “contain inaccurate and contradictory information,” in violation of the
+implementing regulation, 12 C.F.R. § 1024.17. (Id. ¶ 71(b).) Finally, the plaintiff alleges that
+the defendant “grossly mismanag[ed]” his escrow account by “failing to make timely payments
+of taxes and/or insurance (leading to penalties that may have been improperly charged to
+Plaintiff or capitalized), failing to conduct accurate annual analyses, and/or intentionally
+misrepresenting figures and calculations to manufacture ongoing escrow deficiencies and thereby
+illegally collect additional fees, interest, and other amounts from Plaintiff.” (Id. ¶ 71(c).)12
+The first two claims — that the defendant did not provide account statements for certain
+years and that the statements it did provide were incomplete or contradictory — are not
+violations of escrow account administration obligations under the statute. Rather, the plaintiff
+appears to challenge the incomplete disclosure of statements, not the defendant’s administration
+of the escrow account itself. The third claim — that the defendant “grossly mismanage[d]” his
+escrow account (Id. ¶ 71(c)) — is conclusory. The plaintiff does not allege any facts to support
+this allegation, or describe what the defendant did to mismanage his account or when it did so.
+Nor does he claim that he had to pay a penalty because the defendant made a late payment. See
+Matson v. Bd. of Educ., 631 F.3d 57, 63 (2d Cir. 2011) (“While a complaint need not contain
+‘detailed factual allegations,’ it requires ‘more than an unadorned, the defendant-unlawfully-
+harmed-me accusation.’” (quoting Iqbal, 556 U.S. at 678)). The plaintiff’s only support for this
+conclusory allegation is the “history of consumer complaints against SPS regarding escrow
+mismanagement.” (ECF No. 14 ¶ 71(c).) But other consumers’ complaints are no substitute for
+facts that support the plaintiff’s own complaint. Speculation and “naked assertions devoid of
+further factual enhancement” are insufficient to state a claim. Iqbal, 556 U.S. at 678 (quotations
+and alterations omitted).
+Moreover, the plaintiff asserts violations of 12 C.F.R. § 1024.17, which does not provide
+a private right of action. That regulation is authorized by 12 U.S.C. § 2609, which provides no
+private right of action either. See Herman v. Mr. Cooper Grp. Inc., No. 22-CV-8952, 2023 WL
+6960283, at *2.
+Accordingly, Count II is dismissed.13
+c. Count III: Violation of Servicer Prohibitions and Failure to Maintain
+Proper Policies and Procedures
+In Count III, the plaintiff alleges that the defendant violated 12 C.F.R. § 1024.38 by
+failing to “maintain policies and procedures that are reasonably designed to achieve the
+objectives” of 12 C.F.R. § 1024.38, including by failing to “(i) provide accurate and timely
+information,” (ii) “identify and obtain necessary documents or information from the prior
+servicer,” J.P. Morgan Chase Bank, and (iii) “retain and provide access to records documenting
+actions taken with respect to Plaintiff’s mortgage loan account for the full history of the loan.”
+(ECF No. 14 ¶ 77.) The plaintiff also alleges that the defendant violated 12 U.S.C. § 2605(l)(1)
+by “imposing a force-placed hazard insurance disbursement of $29,356.00 on Plaintiff’s account
+without meeting the specific notice requirements mandated by 12 U.S.C. § 2605(l)(1)(A)-(C).”
+(Id.)
+i. Violation of 12 C.F.R. § 1024.38
+“[D]istrict courts around the country have confirmed” that borrowers do not have a
+private right of action “to enforce the requirements set forth in § 1024.38.” Mohamed v.
+Nationstar Mortg., LLC, No. 20-CV-216, 2024 WL 4132351, at *6 (E.D.N.Y. Sept. 10, 2024);
+see also 78 Fed. Reg. at 10817–18 (“[B]orrowers do not . . . have a private right of action under
+the [Consumer Financial Protection Bureau’s] rules to enforce the requirements set forth in
+§ 1024.38 . . . .”); Ramirez v. Wells Fargo Bank, N.A., No. 19-CV-5074, 2021 WL 9564023, at
+*6 (E.D.N.Y. Mar. 24, 2021). To the extent Count III is premised on a violation of 12 C.F.R. §
+1024.38, it must be dismissed.
+ii. Violation of 12 U.S.C. §2605(l)(1)
+The plaintiff also alleges that the defendant took out a “force-placed hazard” insurance
+policy and charged the plaintiff $29,356.00 for the policy, without satisfying the notice14
+requirements of 12 U.S.C. § 2605(l)(1). (ECF No. 14 ¶ 77(a)(iii).) That claim is barred by the
+statute of limitations.
+The plaintiff does not allege when the defendant charged him for the policy, nor does he
+include the charge in his list of allegedly problematic fees and charges. (See ECF Nos. 14-8, 14-
+9.) The documents the plaintiff attached to his complaint show that hazard insurance charges
+were included on escrow account statements as early as September 2020. (See ECF No. 14-7 at
+102.) And all but one of the charges in the plaintiff’s addenda — one line item for $2,960.69 on
+May 17, 2023 — was incurred more than three years before the plaintiff filed suit. (See ECF
+Nos. 14-8; 14-9.) Under these circumstances, this claim is time-barred.
+Neither the equitable tolling doctrine nor the continuing violation doctrine justifies tolling
+the statute of limitations here. When a “defendant fraudulently conceals the wrong, the [statute
+of limitations] does not begin running until the plaintiff discovers, or by the exercise of
+reasonable diligence should have discovered, the cause of action.” Ying Li v. City of New York,
+246 F. Supp. 3d 578, 602 (E.D.N.Y. 2017) (quoting Pinaud v. Cnty. of Suffolk, 52 F.3d 1139,
+1157 (2d Cir. 1995)) (alteration in original). A plaintiff “seeking equitable tolling bears the
+burden of establishing two elements: (1) that he has been pursuing his rights diligently, and (2)
+that some extraordinary circumstance stood in his way.” Phillips v. Generations Fam. Health
+Ctr., 657 F. App’x 56, 58 (2d Cir. 2016) (quoting A.Q.C. ex rel. Castillo v. United States, 656
+F.3d 135, 144 (2d Cir. 2011)). A plaintiff can establish extraordinary circumstances by showing
+“that it would have been impossible for a reasonably prudent person to learn about his or her
+cause of action.” Conklin v. Jeffrey A. Maidenbaum, Esq., No. 12-CV-3606, 2013 WL 4083279,
+at *5 (S.D.N.Y. Aug. 13, 2013) (quoting Pearl v. City of Long Beach, 296 F.3d 76, 85 (2d Cir.
+2004)) (emphasis in original). Even then, the statute of limitations is tolled “only until such time15
+as a reasonable party relying on it actually knew, or should have known, of the unlawful conduct
+of the opposing party.” Coveal v. Consumer Home Mortg., Inc., No. 04-CV-4755, 2005 WL
+704835, at *4 (E.D.N.Y. Mar. 29, 2005); see also Blum v. Heller, No. 24-CV-3130, 2025 WL
+2470327, at *13 (E.D.N.Y. Aug. 6, 2025).
+Nothing in the complaint suggests that the plaintiff did anything before 2024 — when he
+sent the QWR — to investigate the insurance or fees after the defendant took out the policy. The
+plaintiff also claims that the defendant affirmatively concealed the fees, which hampered him
+from pursuing a timely claim, but this claim is conclusory. Thus, the plaintiff has not established
+that equitable tolling should apply. See Coveal v. Consumer Home Mortg., Inc., No. 04-CV-
+4755, 2005 WL 704835, at *4 (E.D.N.Y. Mar. 29, 2005) (“Th[e] due diligence requirement
+prevents a party from intentionally burying his or her head in the sand.”).
+Nor has he established that the continuing violation doctrine should apply. That doctrine,
+an exception to the normal rule that a claim accrues when the violation occurs, applies to claims
+that are “composed of a series of separate acts that collectively constitute one unlawful . . .
+practice.” Olivieri v. Stifel, Nicolaus & Co., Inc., 112 F.4th 74, 88 (2d Cir. 2024) (quoting
+National R.R. Passenger Corp. v. Morgan, 536 U.S. 101, 117 (2002)) (other citations and
+quotations omitted). “[T]he continuing violation doctrine is heavily disfavored in the Second
+Circuit and courts have been loath to apply it absent a showing of compelling circumstances.”
+Hernandez v. Coca Cola Refreshments USA, Inc., No. 12-CV-234, 2013 WL 6388654, at *5
+(E.D.N.Y. Dec. 6, 2013) (quoting Trinidad v. New York City Dep’t of Corr., No. 04-CV-3261,
+2006 WL 704163 at *9, n. 11 (S.D.N.Y. Mar. 21, 2006)). The doctrine is typically asserted in
+hostile work environment claims. See id. The few courts in the Second Circuit that have
+addressed the continuing violation doctrine in the RESPA context have found that it does not16
+apply. See Speer v. Select Portfolio Servicing, No. 23-CV-192, 2023 WL 4850556, at *7 (D.
+Conn. July 28, 2023) (noting that the plaintiff did not explain how her allegations, if true,
+constituted a continuing practice or policy of violating her rights under RESPA); Papapietro v.
+Litton Loan Servicing, LP, No. 13-CV-2433, 2020 WL 13179529, at *7 (E.D.N.Y. Mar. 31,
+2020) (“Plaintiff has failed to establish any continuing policy or practice violative of RESPA.”).
+Courts in this circuit have determined that it does not apply to analogous statutes — TILA and
+the FDCPA. See Craig v. Saxon Mortg. Services, Inc., at No. 13-CV-4526, 2015 WL 171234, at
+*9 (E.D.N.Y. Jan. 13, 2015) (collecting TILA and FDCPA cases).
+The doctrine would not apply to these claims in any event, because the plaintiff alleges
+only one violation — that the defendant took out the policy without notifying him. The plaintiff
+cannot avoid this result by grouping the notice violation claim with the 12 C.F.R. § 1024.38
+violation claim. (See ECF No. 14 ¶ 77.) Unlike hostile work environment claims, where the
+“very nature” of the violation “involves repeated conduct,” Morgan, 536 U.S. at 115, failure to
+notify is a single unlawful act, premised on a different statute than the alleged regulatory
+violations, which themselves create no right of action. They cannot be considered together.
+Accordingly, the continuing violation doctrine does not apply.
+Because 12 C.F.R. § 1024.38 provides no private right of action, and the plaintiff’s claim
+under 12 U.S.C. § 2605(1) is time-barred, Count III is dismissed.
+TILA Claim (Count IV: Failure to Provide Required Disclosures and Adhere to
+Servicing Practices)
+The plaintiff alleges that the defendant did not give him the disclosures required under
+TILA and its implementing regulations when he agreed to modify his mortgage loan on April 1,
+2018. (ECF No. 14 ¶ 83.) The plaintiff also accuses the defendant of “improperly retaining
+funds paid by Plaintiff in a suspense or unapplied funds account and/or by failing to credit17
+periodic payments to Plaintiff’s loan account as of the date of receipt, except where a delay
+would not result in any charge or negative reporting,” in violation of 12 C.F.R. § 1026.36(c)(1).
+(ECF No. 14 ¶ 85.) The defendant moves to dismiss this claim as time-barred.
+An action under TILA must be brought “within one year from the date of the occurrence
+of the violation.” 15 U.S.C. § 1640(e). According to the complaint, the alleged violation
+occurred on or around April 1, 2018, the date of the modification pursuant to which such
+disclosures were allegedly required. (ECF No. 14 ¶ 13.) The plaintiff did not initiate this action
+until well after the statute of limitations had expired — more than five years after the
+modification. (See ECF No. 1.)
+“To survive a motion to dismiss an otherwise untimely TILA claim, the pleading must
+first allege, with specificity, ‘efforts by the defendant, above and beyond the wrongdoing upon
+which the plaintiff’s claim is founded, to prevent . . . the plaintiff from suing in time.’” Latouche
+v. Well[s] Fargo Home Mortg. Inc., No. 16-CV-1175, 2017 WL 8776975, at *7 (E.D.N.Y. Aug.
+25, 2017) (quoting McAnaney v. Astoria Fin. Corp., No. 04-CV-1101, 2007 WL 2702348, at *9
+(E.D.N.Y. Sept. 12, 2007)). The plaintiff has made no such allegations. The complaint is
+similarly devoid of any assertions that the plaintiff was diligently pursuing his rights in the years
+since the modification. “[A]n untimely TILA complaint ‘wholly devoid of any allegations [of]
+diligence on [plaintiff’s] part’ is subject to dismissal.” Latouche, 2017 WL 8776975, at *7
+(quoting Arroyo v. PHH Mortg. Corp., No. 13-CV-2335, 2014 WL 2048384, at *12 (E.D.N.Y.
+May 19, 2014)).
+As explained above, the Court declines to toll the statute of limitations on the plaintiff’s
+TILA claim. Accordingly, Count IV is dismissed.18
+FDCPA Claims
+Counts V and VI allege FDCPA violations under 15 U.S.C. §§ 1692e and 1692f,
+respectively. (ECF No. 14 ¶¶ 87–97.) The FDCPA prohibits debt collectors from using any
+“unfair or unconscionable means” or “any false, deceptive, or misleading representation or
+means” to collect debt. 15 U.S.C. §§ 1692e, 1692f. “The FDCPA is ‘remedial in nature, [so] its
+terms must be construed in [a] liberal fashion if the underlying Congressional purpose is to be
+effectuated.’” Chandler v. NCB Mgmt. Servs., Inc., 528 F. Supp. 3d 92, 97 (E.D.N.Y. 2021)
+(quoting Vincent v. The Money Store, 736 F.3d 88, 98 (2d Cir. 2013)).
+To state a claim under the FDCPA, a plaintiff must allege that (1) he is a “‘consumer’
+who allegedly owes the debt or a person who has been the object of efforts to collect a consumer
+debt,” (2) “the defendant collecting the debt [is] a ‘debt collector,’” and (3) the defendant
+“engaged in an act or omission in violation of the FDCPA’s requirements.” Perez v. Experian,
+No. 20-CV-9119, 2021 WL 4784280, at *12 (S.D.N.Y. Oct. 14, 2021) (quoting Skvarla v. MRS
+BPO, LLC, No. 21-CV-55, 2021 WL 2941118 at *2 (S.D.N.Y. July 12, 2021)); see also Lewis v.
+Experian Info. Sols. Inc., No. 23-CV-857, 2024 WL 1308705, at *10 (E.D.N.Y. Mar. 27, 2024).
+The Court assumes that the plaintiff is a “consumer” and the defendant is a “debt collector”
+within the meaning of the FDCPA. (See ECF No. 14 ¶ 88.) Thus, only the third element is at
+issue here. For the reasons explained below, the FDCPA claim under 15 U.S.C. § 1692f may
+proceed to the extent it captures alleges unlawful conduct up to one year before the plaintiff filed
+suit.
+a. Count V: Collection of Prohibited Fees
+15 U.S.C. § 1692f lists “unfair or unconscionable” debt collection practices, including
+attempting to collect a debt amount not “expressly authorized by the agreement creating the debt19
+or permitted by law.” 15 U.S.C. § 1692f(1). The plaintiff alleges that the defendant collected or
+attempted to collect “unauthorized fees and charges” including “lender paid expenses,” “property
+preservation fees,” “escrow disbursements,” and “attorney’s fees,” from loan origination to the
+present, “particularly in the amounts capitalized into the 2018 Loan Modification.” (ECF No. 14
+¶¶ 90–91.) The defendant argues these categories of fees were authorized by the mortgage,
+which states that the plaintiff promised to pay “with interest, any amounts that Lender spends
+under this Security Instrument to protect the value of the Property and Lender’s rights in the
+Property.” (ECF No. 14-2 at 3.) But whether the categories of fees alleged were incurred to
+“protect the value of the Property” or otherwise authorized involves questions of fact that the
+Court cannot resolve on a motion to dismiss. See DeSimone v. Select Portfolio Servicing, Inc.,
+786 F. Supp. 3d 509, 518 (E.D.N.Y. 2025).
+i. Statute of Limitations
+However, claims brought under the FDCPA have a one-year statute of limitations. 15
+U.S.C. § 1692k(d). Because “FDCPA causes of action accrue with each communication in
+violation of the Act,” claims based on separate, discrete violations within the statute of
+limitations period can proceed — while those occurring outside of that period are barred. Evans
+v. Select Portfolio Servicing, Inc., No. 18-CV-5985, 2020 WL 5848619, at *7 (E.D.N.Y. Sept.
+30, 2020) (quoting Ehrich v. RJM Acquisitions LLC, No. 09-CV-2696, 2009 WL 4545179, at *2
+n.4 (E.D.N.Y. Dec. 4, 2009)); see also Scott v. Greenberg, No. 15-CV-05527, 2017 WL
+1214441, at *5 (E.D.N.Y. Mar. 31, 2017).
+As explained above, the equitable tolling doctrine does not apply to the claims in this
+case. The plaintiff does not sufficiently allege that he pursued the FDCPA claims with
+reasonable diligence between April 2018 and May 2024. Nor does the continuing violation20
+doctrine apply to the FDCPA claims. See Weaver v. Boriskin, No. 16-CV-688, 2020 WL
+13558738, at *3 (E.D.N.Y. Mar. 10, 2020) (“No court of appeals has held that debt-collection
+litigation (or a misleading statement made in connection with that litigation) is a continuing
+violation of the FDCPA.” (quoting Slorp v. Lerner, Sampson & Rothfuss, 587 F. App’x 249, 257
+(6th Cir. 2014))). Each alleged violation — in this case each alleged instance of collecting
+unauthorized fees — is a discrete violation, and therefore the continuing violation doctrine is not
+applicable.
+Accordingly, only FDCPA claims based on the alleged collection of unauthorized fees
+and charges up to one year before the plaintiff filed suit are permitted to proceed.
+b. Count VI: Use of False, Deceptive, or Misleading Representations
+To plead a violation of Section 1692e, a plaintiff must identify a false, deceptive, or
+misleading representation or means in connection with the collection of a debt. Cohen v.
+Rosicki, Rosicki & Assocs., P.C., 897 F.3d 75, 84–85 (2d Cir. 2018). The Second Circuit has
+held that “statements must be materially false or misleading to be actionable under the FDCPA.”
+Id. at 84.
+Courts determining whether a representation is false, misleading, or deceptive “use an
+objective standard measured by whether the alleged misrepresentation would mislead ‘the least
+sophisticated consumer.’” Rojas v. Forster & Garbus LLP, No. 13-CV-2825, 2014 WL
+3810124, at *4 (E.D.N.Y. July 31, 2014) (citing Greco v. Trauner, Cohen & Thomas, L.L.P., 412
+F.3d 360, 363 (2d Cir. 2005)). This is a question of law. See Corcia v. Asset Acceptance, 2014
+WL 3656049, at *4 (E.D.N.Y. July 22, 2014) (noting that the “Court can resolve whether a
+communication violates § 1692e on a motion to dismiss”). A plaintiff must show “more than a21
+sheer possibility that a defendant has acted unlawfully,” and cannot rely on mere “labels and
+conclusions” to support a claim. Ashcroft, 556 U.S. at 678; Twombly, 550 U.S. at 555.
+The plaintiff has not met that standard. He alleges in the complaint that the defendant
+gave misleading and deceptive responses to the QWR because it falsely represented the
+“character, amount, or legal status” of the debt, see 15 U.S.C. 1692e(2)(A), but he does not
+plausibly allege how the defendant falsely represented the “character, amount, or legal status”
+(ECF No. 14 ¶ 95(a)). Providing non-itemized statements about the components of a capitalized
+sum, (see ECF No. 27 at 25), are not false representations. The defendant’s statement that the
+plaintiff’s requests were “overbroad and unduly burdensome” was not a factual
+misrepresentation; it is the defendant’s opinion. Bd. of Forensic Document Examiners, Inc. v.
+Am. Bar Ass’n, 287 F. Supp. 3d 726, 738 (N.D. Ill. 2018) (“An opinion cannot be a misleading
+representation of fact.”), aff’d, 922 F.3d 827 (7th Cir. 2019). Nor are mortgage statements false,
+deceptive, or misleading merely because they include fees that are “unexplained.” (ECF No. 14
+¶ 95).
+The plaintiff has not sufficiently alleged a violation of Section 1692e. Accordingly,
+Count VI is dismissed.
+Count VII: Demand for Equitable Accounting
+To state a claim for equitable accounting under New York law, a plaintiff must show:
+“(1) a fiduciary relationship (2) entrustment of money or property (3) no other remedy and (4) a
+demand and refusal of an accounting.” Fuller Landau Advisory Servs. Inc. v. Gerber Fin. Inc.,
+333 F. Supp. 3d 307, 315 (S.D.N.Y. 2018); see also Sulieman v. Igbara, 599 F. Supp. 3d 113,
+126 (E.D.N.Y. 2022). The plaintiff does not allege the existence of a fiduciary relationship, but
+argues that “special circumstances” warrant the equitable relief he seeks. (ECF No. 27 at 26.)
+He has not cited any case law to support his claim that special circumstances without a fiduciary22
+relationship warrant such relief. In any event, the plaintiff does not describe any special
+circumstances; he merely recites his RESPA violation allegations. Accordingly, Count VII is
+dismissed.23
+CONCLUSION
+For these reasons, the Court grants in part and denies in part the defendants’ motion to
+dismiss. Counts I, II, III, IV, VI, and VII are dismissed. Count V may proceed.
+As the defendant points out, at least four of the cases the plaintiff cites do not include the
+language that the plaintiff purports to quote, or provide support for the propositions he asserts.
+(ECF No. 28 at 7 n.2, 9 n.4, 14 n.10, 16 n.11.) Two of the citations are not to decisions at all.
+(Id. at 11 n.8). These citation issues suggest that the plaintiff is relying on artificial intelligence
+(“AI”) to conduct legal research or draft legal filings, without confirming the accuracy of AI-
+generated material. Federal Rule of Civil Procedure 11(b) prohibits parties from making legal
+arguments that are not “warranted by existing law.” Fed. R. Civ. P. 11(b). The use of fake or
+misleading citations violates this rule and wastes the opposing party’s and the Court’s time by
+requiring them to parse through the citations to determine which points of law, if any, are
+accurate. See Perez v. Evans, 24-CV-356, 2025 WL 2726792, at *4 (S.D.N.Y. Sept. 25, 2025)
+(determining that a plaintiff’s use of “hallucinated” citations violated Rule 11). The plaintiff is
+warned that he must exercise caution in relying on AI software to draft court filings or to conduct
+legal research. The Court will impose sanctions for any further violations, including summary
+dismissal of his claims.
+SO ORDERED.
+___________________________
+ANN M. DONNELLY
+United States District Judge
+Dated: Brooklyn, New York
+June 4, 2026
+s/Ann M. Donnelly

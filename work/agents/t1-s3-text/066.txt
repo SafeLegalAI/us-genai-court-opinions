@@ -1,0 +1,265 @@
+SAQIB KAFEEL, Plaintiff, v. CJDROPSHIPPING, Defendant., Slip Copy (2026)
+
+
+                                                                  behalf of those online retailers. (R. 1, Compl. at 1-2.)
+                     2026 WL 1453740                              He says he filed this lawsuit after he suffered “significant
+     Only the Westlaw citation is currently available.            financial loss” when Blue Spring Partners, LLC (“Blue
+United States District Court, N.D. Illinois, Eastern Division,    Spring”) sued Whimsyverse because Whimsyverse listed
+                  EASTERN DIVISION.                               infringing products for sale on those platforms and the
+                                                                  court in that action froze his PayPal, Payoneer, and eBay
+                                                                  accounts. (Id.) Blue Spring in fact named Whimsyverse a
+             SAQIB KAFEEL, Plaintiff,
+                                                                  defendant in Blue Spring Partners, LLC v. The Individuals,
+                      v.                                          Corporations, Limited Liability Companies, Partnerships,
+           CJDROPSHIPPING, Defendant.                             and Unincorporated Associations Identified on Schedule A,
+                                                                  No. 24 CV 1548 (N.D. Ill.), after it determined that the
+                       No. 24 CV 11929                            subject site was selling or offering for sale counterfeit goods
+                                |                                 infringing upon its trademarks, patents, and copyrights. (R.
+                       Filed: 05/22/2026                          1, Compl. at 1; see also R. 49.) Kafeel alleges he contacted
+                                                                  Defendant about his frozen accounts on June 28, 2024, but
+                                                                  while Defendant “quickly deleted the infringing product from
+Magistrate Judge Young B. Kim
+                                                                  [its] website,” it “offer[ed] no support or resolution” for
+                                                                  issues related to the frozen accounts, further “contribut[ing]
+MEMORANDUM OPINION and ORDER                                      to [his] financial losses and ongoing difficulties,” including
+                                                                  the liquidation of certain crypto and stock accounts. (R. 1,
+ *1 Plaintiff Saqib Kafeel sues Defendant CJDropshipping          Compl. at 2.)
+for contributory trademark infringement and false designation
+of origin under the Lanham Act, 15 U.S.C. § 1125(a), and          In the SAC Kafeel adds a Lanham Act claim based on
+breach of implied warranty, negligence, and indemnification       contributory trademark infringement and false designation
+under Illinois law. Kafeel says he suffered damages after         of origin, in an apparent effort to cure defects in prior
+being sued for selling infringing products he first purchased     versions of the complaint—namely, the lack of subject matter
+from Defendant. The court previously dismissed Kafeel's           jurisdiction. (R. 52, SAC ¶¶ 1, 5, 9-24, 26-28.) Defendant
+complaint and an amended version for lack of subject matter       now moves to dismiss the SAC on jurisdictional and other
+jurisdiction. (See R. 6; R. 7; R. 49.) Kafeel now contends that   grounds, (see generally R. 54, Def.’s Mot. to Dismiss), and for
+the inclusion of the Lanham Act claim in his second amended       sanctions based on Kafeel's reliance on AI-hallucinated case
+complaint (“SAC”) establishes the requisite jurisdiction for      citations and quotations in court filings, (R. 59, Def.’s Mot.
+the court to adjudicate his case. Defendant disagrees, arguing    for Sanctions).
+that the SAC suffers the same defects as Kafeel's prior
+versions, and then some. Before the court are Defendant's
+motions: (1) to dismiss the SAC under Federal Rules of Civil
+Procedure 12(b)(1), 12(b)(2), and 12(b)(6) and the doctrine       Analysis
+of forum non conveniens; and (2) for sanctions. For the
+                                                                  A. Motion to Dismiss
+following reasons, the court grants the motion to dismiss
+                                                                   *2 Defendant moves to dismiss the SAC under: (1) Rule
+with prejudice but denies the motion for sanctions without
+                                                                  12(b)(1) for lack of subject matter jurisdiction; (2) Rule 12(b)
+prejudice as moot:
+                                                                  (2) for failure to establish personal jurisdiction; (3) Rule 12(b)
+                                                                  (6) for failure to state a claim; and (4) the doctrine of forum
+                                                                  non conveniens pursuant to a forum selection clause included
+Background1                                                       in the parties’ user agreement. (See generally R. 54, Def.’s
+                                                                  Mot. to Dismiss.)
+Kafeel alleged in his original complaint that he used
+Defendant's international dropshipping platform, which
+connects online retailers like his online store “Whimsyverse”       1. Rule 12(b)(6)
+with platforms such as Amazon, eBay, and Shopify,                 The court turns first to Defendant's principal argument—that
+fulfilling orders and handling payment and shipment on            Kafeel has not sufficiently stated a Lanham Act claim. (R.
+
+
+
+ WESTLAW           © 2026 Thomson Reuters. No claim to original U.S. Government Works.                                           1
+SAQIB KAFEEL, Plaintiff, v. CJDROPSHIPPING, Defendant., Slip Copy (2026)
+
+
+54, Def.’s Mot. to Dismiss at 1-5.) To survive a Rule 12(b)(6)       2025) (citing Balle v. Kennedy, 73 F.4th 545, 557 (7th Cir.
+motion, the complaint must assert a facially plausible claim         2023)), the plaintiff must still supply a “set of facts consistent”
+and provide fair notice of its basis. Bell Atl. Corp. v. Twombly,    with those allegations to establish a right to recovery, Small
+550 U.S. 544, 555 (2007). A claim is facially plausible “when        v. Chao, 398 F.3d 894, 898 (7th Cir. 2005). Here, even
+the plaintiff pleads factual content that allows the court to        construing Kafeel's allegations liberally, he fails to “raise a
+draw the reasonable inference that the defendant is liable for       right to relief above the speculative level.” Twombly, 550 U.S.
+the misconduct alleged.” Ashcroft v. Iqbal, 556 U.S. 662,            at 555.
+678 (2009). Under this standard, “[t]hreadbare recitals of the
+elements of a cause of action, supported by mere conclusory           *3 Kafeel alleges that Defendant “committed a contributory
+statements, do not suffice.” Id. (citing Twombly, 550 U.S. at        violation of the Lanham Act by knowingly [sic] or having
+555).                                                                reason to know that the Infringing Product would be sold
+                                                                     to U.S. consumers, directly profiting from the deception”
+Kafeel generally alleges that Defendant is engaged in                and by engaging in acts of bad faith, rendering “Defendant
+“ongoing violations of the Lanham Act” via “an ongoing               [ ] an ongoing danger to the U.S. commercial environment”
+pattern of introducing infringing products into U.S.                 and causing damages to Kafeel. (R. 52, SAC ¶¶ 12-14,
+commerce” and “false designation of origin.” (R. 52, SAC             19-24 (emphasis omitted).) Such “[t]hreadbare recitals,”
+¶¶ 1, 5, 15 (emphasis omitted).) The Lanham Act imposes              Iqbal, 556 U.S. at 678, and “allegations in the form of legal
+liability for trademark infringement when a defendant “              conclusions,” McReynolds v. Merrill Lynch & Co., 694 F.3d
+‘use[s] in commerce,’ without consent, ‘any reproduction,            873, 885 (7th Cir. 2012), are insufficient. Noticeably absent
+counterfeit, copy, or colorable imitation of a registered mark       from the SAC are allegations of “concrete facts” explaining
+in connection with the sale, offering for sale, distribution, or     Defendant's “contributory” role in selling infringing goods.
+advertising of any goods or services,” and “such use is likely       Shenzhen Kangmingcheng Tech. Co., Ltd. v. PDD Holdings
+to cause confusion, or to cause mistake, or to deceive.’ ”           Inc., No. 23 CV 2697, 2024 WL 5221272, at *4 (N.D.
+Davis v. Entities Listed on Ex. 1, No. 23 CV 10799, 2026 WL          Ill. Dec. 23, 2024). Specifically, Kafeel does not plead
+893345, at *5 (N.D. Ill. March 31, 2026). To state a claim for       facts alleging that Defendant “intentionally induce[d] another
+contributory trademark infringement, a plaintiff must allege         to infringe” a trademark, or that Defendant continued to
+that: “a manufacturer or distributor intentionally induce[d]         supply goods knowing or having reason to know that
+another to infringe a trademark”; or that a manufacturer or          it was infringing trademarks. Inwood, 456 U.S. at 854;
+distributor “continues to supply its product” to someone it          see also PDD Holdings, Inc., 2024 WL 5221272, at *4
+“knows or has reason to know is engaging in trademark                (dismissing contributory infringement claim because the
+infringement.” Inwood Lab'ys., Inc. v. Ives Lab'ys, Inc., 456        complaint included “no allegations about [the defendant]’s
+U.S. 844, 854 (1982). Regarding the false designation of             inducement of the [allegedly infringing] acts or its knowledge
+origin claim, a plaintiff must show that the designation is “        of the trademark infringement”).
+‘likely to cause confusion, or to cause mistake, or to deceive ...
+as to the origin, sponsorship, or approval of his or her goods.’     The same is true as to Kafeel's false designation of
+” Phoenix Ent. Partners v. Rumsey, 829 F.3d 817, 822 (7th Cir.       origin claim. Kafeel alleges in the SAC that: (1) “the
+2016) (citation omitted). The plaintiff must also show: “ ‘(1)       false designation of the Infringing Product was ... the
+that its mark is protectable[;] and (2) that the defendant's use     proximate cause of [Kafeel's] damages”; (2) “Defendant's
+of that mark is likely to cause confusion among consumers.’          act of supplying the infringing product constituted a false
+” Id. (citing CAE, Inc. v. Clean Air Eng'g, Inc., 267 F.3d 660,      designation of compliance that proximately causes the
+673-74 (7th Cir. 2001) (collecting cases)).                          commercial injury”; and (3) “[t]he harm suffered ... flowed
+                                                                     directly from [ ] Defendant's violation.” (R. 52, SAC
+Defendant asserts that the SAC—which it says is “more a list         ¶¶ 15-24.) But as discussed, “[t]hreadbare recitals” and
+of topics” than “a recitation of well-pleaded facts” as required     “conclusory statements” are not enough to raise a reasonable
+by Rules 8 and 9—fails to state a facially plausible claim           inference that Defendant is liable for false designation of
+under the Lanham Act. (R. 54, Def.’s Mot. to Dismiss at 1-5.)        origin. See Iqbal, 556 U.S. at 678. Kafeel fails to plead
+The court agrees. While pro se allegations are “construed            facts showing a likelihood of confusion, mistake, or deceit
+liberally in favor of the plaintiff,” Johnson v. McDonald, No.       regarding “the origin, sponsorship, or approval of his [ ]
+23 CV 3200, 2025 WL 965703, at *1 (N.D. Ill. March 31,               goods,” or that he owns a protectable mark and Defendant
+
+
+
+ WESTLAW            © 2026 Thomson Reuters. No claim to original U.S. Government Works.                                              2
+SAQIB KAFEEL, Plaintiff, v. CJDROPSHIPPING, Defendant., Slip Copy (2026)
+
+
+used such a mark. Phoenix Ent. Partners, 829 F.3d at 822.         there is a federal question or diversity of citizenship. (R. 49
+Indeed, Kafeel admits that he “does not assert ownership of       at 6 (citing Smart v. Local 702 Int'l Bhd. of Elec. Workers,
+the underlying trademark.” (See R. 55, Pl.’s Resp. at 3.) While   562 F.3d 798, 802 (7th Cir. 2009)).) Kafeel presented neither
+Kafeel says that nonparty Blue Spring owns intellectual           a federal question nor a sufficient basis to establish diversity
+property related to “Children's Mermaid Swimsuit, SPU:            jurisdiction in his prior complaints. (See R. 6; R. 7; R. 49.)
+CJYD1648529,” and that entity is “[t]he party initially           And while Kafeel attempts to cure this jurisdictional defect by
+harmed by the Defendant's conduct,” (R. 52, SAC ¶ 9), he also     pleading a federal claim under the Lanham Act, as explained,
+indicates that Blue Spring “has no stake in this action,” (id.    he fails to do so. And as with the prior iteration, the SAC
+¶ 18). And notably, Kafeel does not plead facts explaining        does not sufficiently allege diversity of citizenship. (R. 49 at
+how Blue Spring's mark relates to the Lanham Act claim            6-7; see also R. 52, SAC ¶¶ 7-8 (alleging only that Kafeel
+he brings here. In short, Kafeel fails to plead a cognizable      is “an individual citizen of the Islamic Republic of Pakistan”
+claim connecting any protectable mark owned by him to             and Defendant “is a sophisticated international commercial
+Defendant's use thereof as part of an effort to confuse or        supplier that systematically targets and services the U.S.
+deceive others regarding the origin of goods so marked.           market,” without specifying citizenship).)2 It is not enough
+                                                                  to allege that a defendant is a “foreign” entity to establish
+Kafeel cites to “Lexmark” in the SAC to support his assertion     citizenship for diversity purposes. (See R. 49 at 7 (citing
+that he has standing and proximate causation to bring this        Zeocrystal Indus., Inc. v. Fox Broad. Co., 923 F. Supp. 132,
+suit. (R. 52, SAC ¶¶ 15-18 (emphasis omitted); see also R.        135 (N.D. Ill. 1996)).) Accordingly, dismissal is also required
+54, Def.’s Mot. to Dismiss at 3-4.) But assuming Kafeel           on this ground.
+is referring to Lexmark International, Inc. v. Static Control
+Components, Inc., 572 U.S. 118 (2014), that decision does not
+focus on the sufficiency of Lanham Act-related allegations,          3. Rule 12(b)(2)
+which Defendant challenges here, (R. 54, Def.’s Mot. to           Defendant further contends that, even if Kafeel had stated a
+Dismiss at 3). The Supreme Court in Lexmark made clear            claim and this court had subject matter jurisdiction to hear
+that even if a plaintiff has Article III standing to bring a      his case, personal jurisdiction is absent. (R. 54, Def.’s Mot. to
+lawsuit, meaning that his injury is “fairly traceable to the      Dismiss at 9-13.) Defendant “bears the burden of proving the
+defendant's conduct,” “the complaint must be dismissed”           court's lack of personal jurisdiction.” Liu v. Monthly, 170 F.4th
+when the plaintiff fails to plead sufficient facts to establish   1090, 1093 (7th Cir. 2026). Because Kafeel asserts federal
+an element required for the claim asserted. 572 U.S. at 134       question jurisdiction based on the addition of the Lanham Act
+n.6; see also Lynn Scott, LLC v. Grubhub Inc., No. 20 CV          claim, this court “has personal jurisdiction over [Defendant]
+6334, 2024 WL 3673718, at *4 (N.D. Ill. Aug. 6, 2024)             if either federal law or the law of [Illinois] authorizes service
+(citing Lexmark for the proposition that “establishing Article    of process” to Defendant. Id. The federal law at issue—the
+III standing should not be conflated with stating a claim”        Lanham Act—does not supply a personal jurisdiction rule, so
+under the Lanham Act).                                            Illinois's long-arm statute applies, see id., and this court may
+                                                                  exercise jurisdiction on any basis “permitted by the Illinois
+ *4 At bottom, Kafeel pleads the same cause of action             Constitution and the Constitution of the United States,” 735
+—“shifting blame from Kafeel as an unwitting participant in       ILCS 5/2-209(c).
+infringement to Defendant as the supplier of the infringing
+goods”—that he alleges in prior versions of the complaint,        In the SAC Kafeel alleges only specific personal jurisdiction,
+albeit cloaked in a Lanham Act disguise this time. (R. 49 at      not general personal jurisdiction. (See R. 52, SAC ¶ 5.) For
+6; see also R. 52, SAC ¶¶ 12-14, 18.) Dismissal of the SAC        Defendant to be subject to specific personal jurisdiction:
+is therefore warranted because Kafeel has failed to state a
+facially plausible claim to survive a Rule 12(b)(6) motion.         (i) [its] contacts with the forum state must show that it
+                                                                    purposefully availed itself of the privilege of conducting
+                                                                    business in the forum state or purposefully directed its
+   2. Rule 12(b)(1)                                                 activities at the state; (ii) the plaintiff's alleged injury must
+Defendant argues that Rule 12(b)(1) also requires dismissal         have arisen out of the defendant's forum-related activities;
+for lack of subject matter jurisdiction. (R. 54, Def.’s Mot. to     and (iii) the exercise of personal jurisdiction must comport
+Dismiss at 5.) As this court has stated, Congress conferred         with traditional notions of fair play and substantial justice.
+subject matter jurisdiction on the district courts only where
+
+
+ WESTLAW           © 2026 Thomson Reuters. No claim to original U.S. Government Works.                                            3
+SAQIB KAFEEL, Plaintiff, v. CJDROPSHIPPING, Defendant., Slip Copy (2026)
+
+
+ *5 Liu, 170 F.4th at 1093. The Seventh Circuit has                verified by [Kafeel].” (R. 59, Def.’s Mot. for Sanctions at 1.)
+“cautioned that merely operat[ing] a website, even a highly        As an initial matter, Section 1927 applies only to an “attorney
+interactive website, that is accessible from, but does not         or other person admitted to conduct cases in any court of the
+target, the forum state is not enough to sustain jurisdiction.”    United States or any Territory thereof.” 28 U.S.C. § 1927.
+Id. (internal citations and quotations omitted).                   That said, this court may invoke Rule 11 or its inherent
+                                                                   authority to sanction a pro se plaintiff who “ ‘willful[ly]
+Kafeel alleges here that Defendant had “continuous                 abuse[s] ... the litigation process.” Allen v. Casper, No. 25
+commercial contacts” with Illinois and the Northern District       CV 10438, 2026 WL 674309, at *9 (N.D. Ill. March 10,
+of Illinois based on Defendant's use of its platform “to solicit   2026). To be sure, one of the courts in this district recently
+and facilitate the sale, shipment, and fulfillment of goods        sanctioned a pro se plaintiff $1,500 for “[f]iling a document
+to consumers and retailers.” (R. 52, SAC ¶ 5 (emphasis             that contains citations to nonexistent cases, quotes language
+omitted).) To support such allegations, Kafeel attaches to the     that comes from no real case, or [ ] contains arguments wholly
+SAC sample orders of infringing products he says can be            unsupported by the record” because such misrepresentations
+shipped through Defendant's platform to a Chicago residence.       violate Rule 11. Id. at *10 (explaining that “fail[ing] to make
+(Id., Ex. A.) But it is not enough to show that it is “possible    a reasonable inquiry into the supporting law or facts ... wastes
+to order [Defendant's] products and have them shipped to           both the parties’ and the Court's time attempting to locate
+Illinois.” Liu, 170 F.4th at 1093. Instead, the evidence must      nonexistent cases and unpack made up factual assertions”).
+show “a completed purchase” of infringing goods sold to            In so finding, the court emphasized that “ ‘[p]ro se status
+Illinois and other United States residents to establish specific   does not shelter plaintiffs from sanctions pursuant to Rule 11.”
+personal jurisdiction. Id. at 1093-94. Such evidence is lacking    Id. at *9. Instead, any “self-represented party [that] files a
+here, and Defendant offers a declaration attesting that it did     document in federal court ... [must] certify[ ] to the court that
+not ship any infringing products or direct business to Illinois.   the legal contentions contained in it ‘are warranted by existing
+(See R. 56, Def.’s Reply at 4 (citing R. 22-1, Penju Zhou Decl.    law.’ ” Id.
+¶¶ 4, 9 & Ex. K).) Accordingly, dismissal is required on this
+ground too. Liu, 170 F.4th at 1094.                                 *6 Given the number of citations to fake cases and
+                                                                   quotations in Kafeel's briefing on the current motion to
+Taken together, Kafeel's allegations in the SAC remain             dismiss and other court filings in this case, the court certainly
+“baseless and futile.” (R. 56, Def.’s Reply at 7.) The court has   shares Defendant's concerns about Kafeel's carelessness,
+already given him three opportunities to state a valid claim       which borders on willful abuse in making misrepresentations
+and/or allege proper jurisdiction. While the court understands     to the court. (See R. 59, Def.’s Mot. for Sanctions, Exs. 1,
+that Kafeel is proceeding pro se, and Rule 15(a) “provides         2 (documenting numerous instances in which Kafeel cites
+that leave to amend ‘shall be freely given when justice so         to nonexistent cases and quotations as well as to citations
+requires,’ ” Kafeel's “repeated failure to cure deficiencies”      that conflict with his claims)); see also D'Ambrosio v. Meta
+warrants dismissal with prejudice at this stage. Johnson v.        Platforms Inc., ___F.4th___, 2026 WL 1361951, *8 (7th
+Cypress Hill, 641 F.3d 867, 872 (7th Cir. 2011) (finding           Cir. May 15, 2026) (holding that submission of a brief
+that “[t]here must be a point at which a plaintiff makes a         with nonexistent cases amounts to making a false statement
+commitment to the theory of [his] case” (internal citations        to the court). Although the court could invoke Rule 11
+omitted)). Defendant should not be forced to incur additional      or its inherent authority to sanction Kafeel for the alleged
+fees and costs to defend against claims that lack plausibility     “hallucination” offenses, it need not do so here because
+in federal court.3                                                 dismissal with prejudice is already required for the reasons
+                                                                   set forth above. The motion for sanctions is therefore denied
+                                                                   without prejudice as moot.
+B. Motion for Sanctions
+Defendant seeks sanctions under 28 U.S.C. § 1927 and this
+court's inherent authority based on Kafeel's submissions to
+                                                                   Conclusion
+the court that “appear to be produced using Chat-GPT or a
+similar generative AI platform” and include “ ‘hallucinated’       For the foregoing reasons, Defendant's motion to dismiss is
+citations to cases that don't exist as well as ‘hallucinated’      granted and this case is dismissed with prejudice.
+direct quotations from real court opinions that have not been
+
+
+
+ WESTLAW             © 2026 Thomson Reuters. No claim to original U.S. Government Works.                                         4
+SAQIB KAFEEL, Plaintiff, v. CJDROPSHIPPING, Defendant., Slip Copy (2026)
+
+
+
+ENTER:                                                            All Citations
+
+                                                                  Slip Copy, 2026 WL 1453740
+
+
+Footnotes
+1     The court accepts as true all well-pleaded facts in the SAC and draws all reasonable inferences in Kafeel's favor. See
+      Lewert v. P.F. Chang's China Bistro, Inc., 819 F.3d 963, 966 (7th Cir. 2016).
+
+2     Kafeel admits that he used the incorrect name for Defendant in the SAC and that “the correct operating name” is Yiwu Cu
+      Jia Trade Co., Ltd. (R. 55, Pl.’s Resp. at 2.) In his response, he asks the court for leave to amend any “technical pleading
+      defect” in the SAC. (Id. at 5.) The court denies the request, as it is improper to seek leave to amend in a responsive
+      pleading. In any event, there are several bases for dismissal beyond the technical defect in misnaming the defendant.
+
+3     Because dismissal of the SAC is appropriate on several grounds, the court need not also determine whether there is
+      a more convenient forum for this action. See Instituto Mexicano Del Seguro Social v. Zimmer Biomet Holdings, Inc.,
+      29 F.4th 351, 357 (7th Cir. 2022) (“The doctrine of forum non conveniens, effectively a supervening venue provision,
+      empowers a court to dismiss a suit when litigating in that court as opposed to an alternative forum unreasonably burdens
+      the defendant.” (citation omitted)).
+
+
+
+End of Document                                                      © 2026 Thomson Reuters. No claim to original U.S.
+                                                                                                 Government Works.
+
+
+
+
+ WESTLAW          © 2026 Thomson Reuters. No claim to original U.S. Government Works.                                          5
+

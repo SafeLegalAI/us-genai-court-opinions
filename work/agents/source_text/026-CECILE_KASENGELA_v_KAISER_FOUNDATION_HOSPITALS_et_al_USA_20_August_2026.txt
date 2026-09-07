@@ -1,0 +1,630 @@
+CECILE KASENGELA, Plaintiff, v. KAISER FOUNDATION HOSPITALS, et al., Defendants., Slip Copy (2026)
+
+2026 WL 2447454
+Only the Westlaw citation is currently available.
+United States District Court, C.D. California.
+CECILE KASENGELA, Plaintiff,
+v.
+KAISER FOUNDATION
+HOSPITALS, et al., Defendants.
+Case No. 2:26-cv-01666-WLH-CTS
+|
+Filed 08/20/2026
+Attorneys and Law Firms
+Cecile Kasengela, Chula Vista, CA, Pro Se.
+Christian J. Rowley, Peter Walrod, Seyfarth Shaw LLP, San
+Francisco, CA, for Defendants Kaiser Foundation Hospitals,
+Kaiser Foundation Health Plan Inc., Southern California
+Permanente Medical Group.
+
+ORDER RE PLAINTIFF'S
+MOTION TO REMAND [49]
+HON. WESLEY L. HSU UNITED STATES DISTRICT
+JUDGE
+*1 The Court is in receipt of Plaintiff Cecile Kasengela's
+(“Plaintiff”) Motion to Remand (the “Motion”). (Mot., Dkt.
+No. 49). Pursuant to Federal Rule of Civil Procedure 78 and
+Local Rule 7-15, the Court finds this matter appropriate for
+decision without oral argument. For the foregoing reasons, the
+Court GRANTS the Motion to Remand.
+I. BACKGROUND
+A. Factual Background
+Plaintiff is a former employee of Defendant Kaiser
+Foundation Hospitals (“Kaiser”) where she worked as a
+nurse. (First Amended Complaint (“FAC”), Dkt. No. 14 at
+3). Plaintiff alleges that (1) she was discriminated against,
+harassed and experienced a hostile work environment on
+multiple occasions, (2) in response, she filed complaints with
+human resources and spoke up to managers and (3) due to
+managers' discriminatory motives and in retaliation for her
+whistleblower activities, performance issues were fabricated
+
+WESTLAW
+
+about her, and she was suspended several times and finally
+terminated. (See generally FAC).
+Plaintiff alleges that her manager, Brad Umsted (“Umsted”),
+made comments profiling her based on her race and national
+origin in June 2022, and, thereafter, in July 2022 she filed
+her first complaint reporting harassment, discrimination,
+hostile work environment and retaliation. (Id. ¶¶ 13-14).
+Plaintiff claims that, in September 2022, Umsted launched
+a “campaign of unlawful harassment and retaliation” against
+her. (Id. at 3). The alleged harassment included Umsted's
+statements that Plaintiff posed a patient safety risk, stole
+money from Kaiser and created a hostile work environment.
+(Id. ¶ 1). Plaintiff reported these statements to HR, and, two
+weeks later, in October 2022 Umsted suspended Plaintiff,
+claiming that she overmedicated patients and created a
+hostile work environment. (Id. ¶ 2). Plaintiff filed a
+complaint with human resources in January 2023 regarding
+harassment, discrimination and retaliation, after which human
+resources instructed Umsted to lift the suspension. (Id. ¶ 3).
+Following her return to work, Plaintiff claims Umsted further
+discriminated against her and retaliated against her for two
+years by, among other actions, isolating her from her clinical
+unit, removing her charge nurse duties, moving her to a lower
+level care unit, threatening her if she tried to return to her
+original unit, fabricating performance issues about her and
+refusing to address the safety concerns she had reported. (Id. ¶
+4). For instance, on one occasion in December 2023, Plaintiff
+alleges that Umsted punished her, a Black nurse, for a mistake
+related to her administration of Insulin, in a harsher manner
+than he punished non-Black nurses for more severe offenses.
+(Id. ¶ 38). Plaintiff further alleges that in July 2024, Umsted
+suspended her for five months—three days after she filed a
+report related to patient safety violations and gross negligence
+—and later terminated her employment in November 2024.
+(Id. ¶ 5). Separately, Plaintiff alleges that she experienced a
+hostile work environment due to the actions of other nurses,
+who refused to help her, and other managers, who retaliated
+against her when she raised concerns. (Id. ¶ 10).
+*2 In Plaintiff's original complaint 1 , she also alleged
+a pattern of Kaiser denying her a proper fact-finding
+investigation, (Notice of Removal (“NOR”), Dkt. No. 1,
+Decl. of Christian Rowley ISO Def.'s NOR (“Rowley Decl.”),
+Dkt. No. 1-3, Ex. A ¶¶ 14, 15, 25 (Compl.)), that she
+was suspended “without due process nor evidence” (id. ¶
+34) and “in violation of just cause” (id. at 3), that her
+manager refused to schedule her for “her contractual 36
+hours a week” (id. ¶ 40), that Umsted and her union
+
+© 2026 Thomson Reuters. No claim to original U.S. Government Works.
+
+1
+
+CECILE KASENGELA, Plaintiff, v. KAISER FOUNDATION HOSPITALS, et al., Defendants., Slip Copy (2026)
+
+“organized and instructed nurses to strike against [her] and
+forced her out of her job” (id. ¶ 78)and that Kaiser violated
+Collective Bargaining Agreement (the “CBA”) requirements
+for imposing progressive discipline (see e.g., id. ¶ 61).
+Plaintiff's employment was subject to a CBA executed, in
+relevant part, by Kaiser and Southern California Permanente
+Medical Group (together, the “Employer”) and United
+Nurses Associations of California / Union of Health Care
+Professionals (“UNAC / UHCP” or commonly called
+“UNAC” only) and other affiliated associations (together,
+the “Union”). (See Decl. of Jeremy Lyon ISO Def.'s NOR
+(“Lyon Decl.”), Dkt. No. 1-1, Ex. A). UNAC is a union that
+represents registered nurses in Southern California, including
+Plaintiff. (Lyon Decl. at 1). Certain provisions of the CBA
+provide standards for employee discipline and discharge
+(Lyon Decl., Ex. A, Section 907 (“The Employer shall
+discipline, suspend or discharge any Health Care Professional
+for just cause only”); Section 912 (“The discipline imposed
+will be appropriate to the offense.”); id. (“Health Care
+Professionals may be discharged for gross misconduct or
+gross neglect of duty without prior warning.”)), procedures
+for raising and resolving grievances (id., Article 10) and
+requirements for hours of work and overtime (id., Sections
+1601-23).
+
+in Violation of Public Policy, Labor Code § 1102.5, Health &
+Safety Code § 1278.5 and FEHA, Ca1. Gov. Code § 12940.
+Plaintiff initiated this action in the Los Angeles Superior
+Court on January 6, 2026. (See Compl.). On February 17,
+2026, Kaiser filed its Notice of Removal on the basis
+of federal question jurisdiction, arguing (1) preemption of
+state law claims by Section 301 of the Labor Management
+Relations Act (“LMRA”), codified in relevant part at 28
+U.S.C. § 185 (“Section 301”), (2) interpretation of a health
+and welfare plan governed by the Employee Retirement
+Income Security Act (“ERISA”), 29 U.S.C. § 1001 et
+seq., under ERISA § 1132(a)(1)(B) 2 and (3) supplemental
+jurisdiction pursuant to 28 U.S.C. § 1367. (See NOR at 2). On
+March 10, Plaintiff filed her First Amended Complaint. (See
+FAC).
+*3 On June 23, 2026, Plaintiff filed the Motion before this
+Court. 3 (See Mot.). Kaiser filed its Opposition on July 14,
+2026 (Def.'s Opp'n Re Mot. to Remand (“Opp'n”), Dkt. No.
+60), and Plaintiff filed her Reply on July 28, 2026. (Pl.'s Reply
+to Def.'s Opp'n Re Mot. to Remand (“Reply”), Dkt. No. 64).
+The Motion is fully briefed.
+II. DISCUSSION
+
+B. Procedural Background
+Plaintiff filed this action against Defendants Kaiser
+Foundation Hospitals, Kaiser Foundation Health Plan Inc.,
+Southern California Permanente Medical Group, Chantelle
+Loustalet, UNAC / UHCP, Brad Umsted, Lillian Lim, Tracey
+McNamara, Robert Brannen, and Does 1-100, inclusive.
+The remaining Defendants following Plaintiff's filing of the
+First Amended Complaint (hereinafter, the “Complaint”)
+are Kaiser Foundation Hospitals, Kaiser Foundation Health
+Plan Inc., Southern California Permanente Medical Group,
+Brad Umsted, and Does 1-100, inclusive (collectively,
+“Defendants”). (See FAC). The Complaint alleges six state
+law claims: (1) Retaliation for Engaging in a Protected
+Activity under California's Fair Employment and Housing
+Act (the “FEHA”), Ca1. Gov. Code § 12900, (2) Race
+Discrimination in Violation of FEHA, Ca1. Gov. Code §
+12940, (3) Failure to Prevent Discrimination, Harassment,
+and/or Retaliation in Violation of FEHA, Ca1. Gov. Code
+§ 12940, (4) Retaliation for Complaints of Discrimination,
+Harassment, and/or Retaliation in Violation of FEHA, Ca1.
+Gov. Code § 12940, (5) Retaliation in Violation of Cal. Labor
+Code § 1102.5 and (6) Wrongful Termination of Employment
+
+WESTLAW
+
+A. Legal Standard
+A defendant may remove an action from state court to federal
+court if the plaintiff could have originally filed the action in
+federal court. See 28 U.S.C. § 1441(a). “If at any time before
+final judgment it appears that the district court lacks subject
+matter jurisdiction, the case shall be remanded.” 28 U.S.C. §
+1447(c).
+Pursuant to 28 U.S.C. § 1331, this Court has original
+jurisdiction over civil claims “arising under” federal law.
+Removal based on Section 1331 is governed by the “wellpleaded complaint” rule, which provides that “federal
+jurisdiction exists only when a federal question is presented
+on the face of the plaintiff's properly pleaded complaint.”
+Caterpillar Inc. v. Williams, 482 U.S. 386, 392 (1987).
+“[R]emoval statutes should be construed narrowly in favor of
+remand to protect the jurisdiction of state courts.” Harris v.
+Bankers Life and Cas. Co., 425 F.3d 689, 698 (9th Cir. 2005)
+(citing to Shamrock Oil & Gas Corp. v. Sheets, 313 U.S. 100,
+108-09 (1941)); Nevada v. Bank of Am. Corp., 672 F.3d 661,
+667 (9th Cir. 2012).
+
+© 2026 Thomson Reuters. No claim to original U.S. Government Works.
+
+2
+
+CECILE KASENGELA, Plaintiff, v. KAISER FOUNDATION HOSPITALS, et al., Defendants., Slip Copy (2026)
+
+The party invoking the federal court's removal jurisdiction
+bears the burden of establishing federal jurisdiction, see
+Emrich v. Toche Ross & Co., 846 F.2d 1190, 1195 (9th Cir.
+1988), and “federal jurisdiction must be rejected if there is any
+doubt as to the right of removal in the first instance,” Duncan
+v. Stuetzle, 76 F.3d 1480, 1485 (9th Cir. 1996) (internal
+quotation and citation omitted). “To determine whether the
+removing party has met its burden, a court may consider the
+contents of the removal petition and ‘summary-judgmenttype evidence.’ ” Tanious v. Gattoni, 533 F. Supp. 3d 770, 775
+(N.D. Cal. 2021) (quoting Valdez v. Allstate Ins. Co., 372 F.3d
+1115, 1117 (9th Cir. 2004)).
+B. Analysis
+1. LMRA Preemption Does Not
+Confer Federal Question Jurisdiction
+Plaintiff argues that Kaiser has not established federal
+question jurisdiction in the removal of this action. 4 (See
+generally Mot.; Reply). Kaiser argues that complete federal
+preemption under Section 301 of the LMRA provides a proper
+basis for removal. (Opp'n at 6). “A corollary to the wellpleaded complaint rule is the ‘complete preemption’ doctrine,
+which applies in cases in which ‘the preemptive force of a
+statute is so extraordinary that it converts an ordinary state
+common-law complaint into one stating a federal claim for
+purposes of the well-pleaded complaint rule.’ ” In re NOS
+Commc'ns, MDL No. 1357, 495 F.3d 1052, 1057 (9th Cir.
+2007) (quoting Caterpillar, 482 U.S. at 393). “Section 301
+of the LMRA has such ‘extraordinary’ preemptive power.”
+Padilla v. Ames Constr., Inc., 2025 WL 1738656, at *4 (C.D.
+Cal. June 20, 2025) (citing Curtis v. Irwin Indus., Inc., 913
+F.3d 1146, 1152 (9th Cir. 2019) (citing Metro. Life Ins. v.
+Taylor, 481 U.S. 58, 65 (1987))). “[T]he Supreme Court has
+long interpreted the LMRA as authorizing federal courts to
+create a uniform body of federal common law to adjudicate
+disputes that arise out of labor contracts.” Id. (Curtis, 913
+F.3d at 1151 (citing Allis-Chalmers Corp. v. Lueck, 471 U.S.
+202, 210 (1985); Teamsters v. Lucas Flour Co., 369 U.S. 95,
+103-4 (1962))). In short, LMRA preemption may exist where
+a plaintiff asserts state law claims but her employment was
+governed by a collective bargaining agreement.
+*4 The complete preemption doctrine does have its limits,
+however. Section 301 of the LMRA cannot “pre-empt
+nonnegotiable rights conferred on individual employees as a
+matter of state law.” Curtis, 913 F.3d at 1152 (quoting Livadas
+
+WESTLAW
+
+v. Bradshaw, 512 U.S. 107, 123 (1994)). When a “claim is
+plainly based on state law, [Section] 301 preemption is not
+mandated simply because the defendant refers to the CBA in
+mounting a defense.” Cramer v. Consol. Freightways, Inc.,
+255 F.3d 683, 691 (9th Cir. 2001); Lueck, 471 U.S. at 211
+(“[N]ot every dispute concerning employment, or tangentially
+involving a provision of a collective-bargaining agreement, is
+pre-empted by [Section] 301.”).
+The Ninth Circuit in Burnside v. Kiewit Pacific Corporation,
+491 F.3d 1053 (9th Cir. 2007), established a two-step analysis
+to determine whether LMRA preemption applies. The first
+step is to ask whether the cause of action involves a “right
+[that] exists solely as a result of the [collective bargaining
+agreement],” in which case the claim is preempted and step
+two is unnecessary. Curtis, 913 F.3d at 1152 (quoting Kobold,
+832 F.3d at 1032; Burnside, 491 F.3d at 1059). “[C]laims are
+not simply CBA disputes by another name ... if they just refer
+to a CBA-defined right; rely in part on a CBA's terms of
+employment; run parallel to a CBA violation; or invite use of
+the CBA as a defense.” Alaska Airlines Inc. v. Schurke, 898
+F.3d 904, 921 (9th Cir. 2018) (en banc) (citations omitted).
+If the right does exist independently of the CBA, then the
+court turns to the second step of the analysis: whether the state
+law right is “substantially dependent” on an interpretation
+of the CBA. Burnside, 491 F.3d at 1059. In other words,
+the claim can only be resolved by “interpreting,” not merely
+“look[ing],” to the CBA. Curtis, 913 F.3d at 1153 (citing
+Kobold, 832 F.3d at 1033). “[T]he bare fact that a [CBA] will
+be consulted in the course of state-law litigation plainly does
+not require” preemption where the meaning of contract terms
+is not in dispute. Livadas, 512 U.S. at 124; see also Cramer,
+255 F.3d at 690 (“[E]ven if dispute resolution pursuant to a
+[CBA], on the one hand, and state law, on the other, would
+require addressing precisely the same set of facts, as long as
+the state law claim can be resolved without interpreting the
+agreement itself, the claim is ‘independent’ of the agreement
+for § 301 purposes.” (citation omitted)). Thus, if resolution of
+the claim is dependent on the interpretation of the CBA, the
+claim is preempted.
+Kaiser argues that Plaintiff's Causes of Action 1-2, and 4-6 are
+preempted by Section 301 of the LMRA. Plaintiff disagrees.
+The Court thus addresses each below. 5
+
+a. Retaliation and Wrongful Termination
+(Fifth and Sixth Causes of Action)
+
+© 2026 Thomson Reuters. No claim to original U.S. Government Works.
+
+3
+
+CECILE KASENGELA, Plaintiff, v. KAISER FOUNDATION HOSPITALS, et al., Defendants., Slip Copy (2026)
+
+Kaiser argues that Plaintiff's Causes of Action 5 and 6 are
+preempted under Burnside Step 1 because the rights they
+implicate “arise solely from the CBA and not from state
+law.” (Opp'n at 7). Kaiser specifically points to Plaintiff's
+original complaint wherein she alleged a pattern of Kaiser
+denying her a proper fact-finding investigation, (Compl. ¶¶
+14, 15, 25), that she was suspended “without due process nor
+evidence” (id. ¶ 34) and “in violation of just cause” (id. at 3),
+that her manager refused to schedule her for “her contractual
+36 hours a week” (id. ¶ 40), that Umsted and her union
+“organized and instructed nurses to strike against [her] and
+forced her out of her job” (id. ¶ 78) and that Kaiser violated
+CBA requirements for imposing progressive discipline (see
+e.g., id. ¶ 61). Kaiser then provides the language from the
+CBA to assert that such provisions must be interpreted to
+determine whether the corrective actions taken by Kaiser
+violated the CBA's “just cause” requirement and whether
+she had a right to fact-finding investigation as a protection.
+(Opp'n at 7-8 (citing CBA Section 912 (“The discipline
+imposed will be appropriate to the offense.”); Section 907
+(“The Employer shall discipline, suspend or discharge any
+Health Care Professional for just cause only.”)). In its Notice
+of Removal, Kaiser also cited to the CBA's procedures related
+to raising and resolving grievances. (NOR at 7 (citing CBA
+Section 1002)).
+*5 Plaintiff argues that the timing of certain adverse actions
+taken against her “evidence [Kaiser's] retaliatory motives
+and violations of Plaintiff['s] independent statutory rights
+protected under state laws.” (Mot. at 12). In the Motion,
+Plaintiff underscores two of the circumstances of retaliation
+and wrongful discharge that she referenced in the Complaint,
+alleging they were based on a “lack of evidence”: (1) the first
+allegedly two weeks after she asked her manager “why he
+targeted her,” and (2) the second allegedly three days after
+she “filed an occurrence report for patient safety violation and
+gross negligence.” (Mot. at 12-13).
+“A claim that a discharge violates public policy is preempted
+if it is not based on any genuine state public policy, or if it
+is bound up with interpretation of the collective bargaining
+agreement and furthers no state policy independent of the
+employment relationship.” Jackson v. S. Cal. Gas Co., 881
+F.2d 638, 643-44 (9th Cir. 1989) (cleaned up). Conversely, a
+claim of wrongful discharge in violation of public policy “is
+not preempted if it poses no significant threat to the collective
+bargaining process and furthers a state interest in protecting
+the public transcending the employment relationship.” Id. at
+644. California has adopted a clear “public policy against
+
+WESTLAW
+
+workplace discrimination.” Brown v. Brotman Med. Ctr., 571
+F. App'x 572, 575 (9th Cir. 2014); see, e.g., Cal. Gov't Code
+§ 12920 (“It is hereby declared as the public policy of this
+state that it is necessary to protect and safeguard the right
+and opportunity of all persons to seek, obtain, and hold
+employment without discrimination ...”).
+Plaintiff's fifth and sixth causes of action are premised on
+wrongful termination and retaliation for raising concerns
+about racial discrimination and Plaintiff's lodging of
+complaints regarding alleged noncompliance with health and
+safety standards. These claims further genuine state public
+policies of preventing retaliation against employees who act
+as whistleblowers, raising concerns of racial discrimination
+and health and safety. See, e.g., Stearns v. Davis Wire
+Corp., 2016 WL 3008167, at *7 (C.D. Cal. May 23, 2016)
+(finding wrongful termination claim not preempted where it
+was premised on race-based termination and retaliation for
+complaints about discrimination and workplace safety and
+assault); Steib v. Sony Pictures Television Inc., 2023 WL
+3292865, at *6 (C.D. Cal. May 5, 2023) (same regarding
+race-based wrongful discharge). The right Plaintiff has
+to be free from wrongful termination and retaliation for
+raising concerns about racial discrimination and manager
+noncompliance with health and safety standards are not rights
+that exist solely as a result of the CBA but rather are protected
+by California state law and directly serve the purposes of
+California state laws, including Labor Code § 1102.5, Health
+& Safety Code § 1278.5 and FEHA, Ca1. Gov. Code § 12940.
+Kaiser alternatively argues that even if Causes of Action 5
+and 6 are not preempted by Section 301 under the first prong
+of the Burnside analysis, they are nevertheless preempted
+under the second because they “are substantially dependent
+upon analysis of the terms of [the CBA].” (Opp'n at 9 (citing
+Lueck, 471 U.S. at 211; Metro. Life, Ins. Co, 481 U.S. at
+63-64)). Kaiser claims that the alleged “adverse employment
+actions will require interpretation of the CBA's progressive
+discipline procedures, the just cause requirements, and the
+termination restrictions set forth in the CBA.” (Id. at 10).
+Kaiser does not actually explain why specific terms in the
+CBA must be interpreted to resolve the fifth and sixth causes
+of action, and, as it is the removing party's burden to put
+forth this explanation, the Court will not surmise one for
+Kaiser. In the Court's view, interpretation of the CBA is not
+necessary to resolve the instant claims because a finding that
+Kaiser had “just cause” under the CBA to discharge Plaintiff,
+for example, would not affect whether any such discharge
+nonetheless violated California public policy proscribing
+
+© 2026 Thomson Reuters. No claim to original U.S. Government Works.
+
+4
+
+CECILE KASENGELA, Plaintiff, v. KAISER FOUNDATION HOSPITALS, et al., Defendants., Slip Copy (2026)
+
+termination on prohibited grounds (e.g., racial discrimination
+or whistleblower activity).
+*6 Therefore, the fifth and sixth causes of action are not
+preempted by Section 301 of the LMRA.
+
+straightforward discrimination claim that does not resort to
+analyzing the terms of the CBA to resolve. Thus, the Court
+finds that holding Plaintiff's FEHA claims as not preempted
+is consistent with the holding in Madison.
+For the foregoing reasons, the Court finds that Plaintiff's
+FEHA claims are not preempted by the LMRA. 6
+
+b. FEHA (First, Second, Fourth Causes of Action)
+Kaiser argues that the FEHA Causes of Action are also
+preempted by the LMRA. The Ninth Circuit has “consistently
+held that the LMRA does not preempt FEHA claims” because
+the rights underlying FEHA claims are “independent” of
+CBAs. Brown, 571 F. App'x at 574-75 (citing Ramirez v.
+Fox Television Station, Inc., 998 F.2d 743, 748 (9th Cir.
+1993)); Schrader v. Noll Mfg. Co., 91 F. App'x 553, 555
+(9th Cir. 2004) (finding no Section 301 preemption of FEHA
+disability discrimination claim because the right not to be free
+from disability discrimination is “defined and enforced under
+state law without reference to the terms of any collective
+bargaining agreement”). “These rights are ‘nonnegotiable’
+and ‘cannot be removed by private contract.’ ” Ramirez,
+998 F.2d at 748; see Stearns, 2016 WL 3008167, at *5 n.3
+(collecting cases). Nevertheless, Kaiser correctly notes that
+some “courts in this Circuit have found preemption when
+a plaintiff's discrimination claims require interpretation of
+a CBA,” Armstrong v. WB Studio Enters., Inc., 2020 WL
+1967566, at *3 (C.D. Cal. Apr. 24, 2020) (collecting cases).
+At least one of the cases cited by Armstrong is inapplicable
+here. See Audette v. Int'l Longshoremen's & Warehousemen's
+Union, 195 F.3d 1107 (9th Cir. 1999) (plaintiff claimed that
+defendants discriminated against him by failing to comply
+with a settlement agreement that had expressly incorporated
+the terms of an underlying CBA).
+Another case cited by Armstrong is only superficially
+analogous. In Madison v. Motion Picture Set Painters & Sign
+Writers Local 729, 132 F. Supp. 2d 1244 (C.D. Cal. 2000),
+plaintiff sued his union claiming that it had discriminated
+against him in the manner in which it had handled a grievance
+procedure, and, therefore, the Court had to determine what
+the CBA's grievance procedures were and whether they had
+been applied to plaintiff in a discriminatory manner. But
+in that case, the claims of discrimination and retaliation
+were premised upon an analysis of the CBA grievance
+procedures themselves: plaintiff claimed that his grievance
+was handled differently from other grievances filed by
+claimants of other races and inconsistently with the CBA.
+Id. at 1255. Here, in contrast, the Complaint posits a more
+
+WESTLAW
+
+c. Kaiser's Possible Defenses
+*7 Kaiser's reference to provisions of the CBA for its
+possible defenses does not mandate Section 301 preemption.
+Kaiser argues that any defenses it “pleads will necessarily
+require an interpretation of the CBA,” for instance, that it
+properly assigned shifts to employees in compliance with the
+terms of the CBA or that it denied promotion to someone for a
+legitimate business-related reason. (Opp'n at 11). Meanwhile,
+Plaintiff argues that “Section 301 preemption is not mandated
+simply because the defendant relies on the CBA to mount a
+defense.” (Mot. at 11).
+The Court agrees with Plaintiff that “[Section] 301
+preemption is not mandated simply because the defendant
+refers to the CBA in mounting a defense.” Cramer, 255
+F.3d at 691. Rather, “adjudication of the claim must require
+interpretation of a provision of the CBA.” Id. at 691-92.
+Therefore, Kaiser's potential to wield the CBA as a shield has
+no impact on the Court's preemption analysis; the Court need
+only analyze the Plaintiff's swords.
+
+2. Garmon Preemption Does Not
+Confer Federal Question Jurisdiction
+In the alternative to Kaiser's LMRA preemption arguments,
+Kaiser contends that Plaintiff's claims are all subject to
+Garmon preemption, San Diego Building Trades Council,
+Millmen's Union, Local 2020 v. Garmon, 359 U.S. 236, 245
+(1959), “because the allegations supporting these claims fall
+within the primary jurisdiction of the NLRB.” (Opp'n at 11).
+The Ninth Circuit has held, however, that “district courts
+do not have original federal question jurisdiction over statelaw claims which are” merely “subject to a defense of
+Garmon preemption ... and [ ] such claims may not be
+removed to federal court.” Bud Antle, Inc. v. Barbosa, 35 F.3d
+1355, 1363 (9th Cir. 1994) (clarifying Ethridge v. Harbor
+House Rests., 861 F.2d 1389, 1396-1401 (9th Cir. 1988)).
+
+© 2026 Thomson Reuters. No claim to original U.S. Government Works.
+
+5
+
+CECILE KASENGELA, Plaintiff, v. KAISER FOUNDATION HOSPITALS, et al., Defendants., Slip Copy (2026)
+
+Only in a few specific circumstances can lower federal
+courts undertake the Garmon analysis: when a party has
+raised Garmon as a defense to a state law claim that is
+otherwise properly before the district court through diversity
+or supplemental jurisdiction, when enjoining the enforcement
+of state regulations that are preempted by the NLRB's
+decision to exercise jurisdiction and when a private party has
+brought an action to enjoin enforcement of a state statute
+on the ground that the statute regulated activity which was
+arguably protected or prohibited by the NLRA. Id. at 1363
+(collecting cases). None of these special circumstances exist
+in the instant case. As such, this Court will not determine
+whether Garmon preemption applies as a defense for Kaiser
+because its existence would not confer federal question
+jurisdiction to the Court.
+
+3. Supplemental Jurisdiction Does Not
+Confer Federal Subject Matter Jurisdiction
+Kaiser further asserts that, if the Court finds that any one
+of Plaintiff's claims is not preempted by Section 301 of
+the LMRA, “it may extend supplemental jurisdiction over
+that claim.” (Opp'n at 14). Because the Court lacks federal
+question jurisdiction over Plaintiff's claims, it cannot exercise
+supplemental jurisdiction.
+
+4. Use of Artificial Intelligence and Third-Party Websites
+Lastly, the Court underscores its Standing Order to remind
+Plaintiff that the inclusion of non-existent quotations in
+Plaintiff's briefing submitted to this Court is unacceptable.
+(See Opp'n at 3-4; Order Re Amended Civil Case Standing
+Order, Dkt. No. 65 at 18-20 (“caution[ing] that unqualified
+reliance on AI-generated content can result in filings that
+
+rely on misrepresentations and hallucinated, nonexistent
+caselaw”)). While the Court understands that Plaintiff is
+proceeding pro se, the Court does not condone the submission
+of misstated case law from any litigant and is concerned by
+Plaintiff's doubling-down in her Reply where she claims that
+Kaiser pointed out her incorrect quotations in bad faith to
+improperly attack her, rather than correcting her citations.
+(Reply at 10-13). Pro se litigants, as with all litigants, must
+comply with the Federal Rules of Civil Procedure and the
+Local Rules. See Chapman v. Horace Mann Prop. & Cas.
+Ins. Co., 2025 WL 3724904, at *2 (C.D. Cal. Aug. 14, 2025).
+Quoting paraphrased language generated from artificial
+intelligence tools, published on websites explaining case law
+(e.g., law.cornell.edu), or from personal manipulation without
+appropriate signals (e.g., without bracketing, ellipses, etc.) as
+if those quotations came directly from the cases themselves
+is squarely prohibited. If Plaintiff were a lawyer, the Court
+would be imposing significant sanctions for this conduct.
+III. CONCLUSION
+*8 For the foregoing reasons, the Court GRANTS the
+Motion to Remand. This action is REMANDED to the
+Superior Court of California, County of Los Angeles, Case
+No. 26STCV00245. Kaiser's Motion to Dismiss (Dkt. No. 17)
+and Plaintiff's Motion for Default Judgment (Dkt. No. 21) are
+DENIED as moot because the case is remanded. The Clerk is
+INSTRUCTED to administratively close the case and vacate
+all pending deadlines. The Clerk shall transmit a certified
+copy of this Order to the Superior Court of California, County
+of Los Angeles forthwith.
+IT IS SO ORDERED.
+All Citations
+Slip Copy, 2026 WL 2447454
+
+Footnotes
+1
+
+The Court takes judicial notice of the factual allegations in Plaintiff's original complaint that were omitted
+in the FAC. Nevarez v. FedEx Supply Chain Inc., 2024 WL 734227, at *1 n.1 (C.D. Cal. Feb. 21, 2024)
+(“Proceedings ... including orders and filings, are the proper subject of judicial notice when directly related to
+the case, though not for the truth of the contents of the underlying documents.”) (collecting cases).
+
+WESTLAW
+
+© 2026 Thomson Reuters. No claim to original U.S. Government Works.
+
+6
+
+CECILE KASENGELA, Plaintiff, v. KAISER FOUNDATION HOSPITALS, et al., Defendants., Slip Copy (2026)
+
+2
+
+The ERISA basis for removal was mentioned in the Notice of Removal but was omitted from Kaiser's
+opposition briefing to Plaintiff's Motion to Remand.
+
+3
+
+The Court will consider the Motion to Remand filed at Dkt. No. 49 to be the operative Motion. The other
+Motions to Remand have been stricken. (Order Striking Redundant Mots. to Remand, Dkt. No. 66).
+
+4
+
+Plaintiff argues that for the CBA “to supersede Plaintiff['s] state statutory claims ... the CBA must contain a
+‘clear and unmistakable’ waiver that explicitly names [FEHA] and all state laws involved in the waiver.” (Reply
+at 7-8). None of the cases Plaintiff cites evaluate a CBA on a motion to remand, and all are distinguishable
+because they demonstrate the clear waiver requirement in contexts unrelated to FEHA, namely the waiver
+of the right to litigate in a judicial forum. See Wright v. Universal Mar. Servs. Corp, 525 U.S. 70, 7981 (1998)
+(waiver of right to litigate in a judicial forum in place of arbitration), Mendez v. Mid-Wilshire Health Care Ctr.
+(2013) 220 Cal. App. 4th 534 (same); Volpei v. County of Ventura (2013) 221 Cal. App. 4th 391 (same);
+Metropolitan Edison Co. v. N.L.R.B., 460 U.S. 693 (1983) (no clear waiver of right under the National Labor
+Relations Act to be free of antiunion discrimination). As such, no explicit waiver of FEHA is required here for
+Section 301 of the LMRA to preempt the state claims.
+
+5
+
+The Parties do not dispute that the CBA between Kaiser and the Union governs Plaintiff's employment by
+Kaiser as a nurse. (See NOR at 6 (citing Compl.)).
+
+6
+
+The Court recognizes that the jurisdictional inquiry must occur based on the allegations at the time of the
+Notice of Removal. See, e.g., Chavez v. JPMorgan Chase & Co., 888 F.3d 413, 417 (9th Cir. 2018) (assessing
+amount-in-controversy based on that claimed at the time of removal). At the time that Kaiser filed its Notice
+of Removal, the operative complaint was the original complaint, which included additional causes of action
+and factual allegations that were omitted from Plaintiff's later-filed First Amended Complaint. On their face,
+none of the omitted causes of action pose federal questions as they are all state law claims. Further, Kaiser,
+which bears the burden as the removing party, does not attempt to argue in its Opposition to the Motion
+to Remand that the Court can find federal question jurisdiction based on LMRA preemption of the omitted
+causes of action. Rather, Kaiser argues in favor of LMRA preemption for the remaining causes of action, while
+referencing several facts from the original complaint which were omitted in the First Amended Complaint.
+The Court has considered those factual allegations, as discussed, supra note 1, to evaluate the remaining
+causes of action, but the facts referenced by Kaiser are still insufficient to convert the remaining causes of
+action into those that require interpretation of the CBA to be effectively adjudicated.
+
+End of Document
+
+WESTLAW
+
+© 2026 Thomson Reuters. No claim to original U.S. Government Works.
+
+© 2026 Thomson Reuters. No claim to original U.S. Government Works.
+
+7
+
+

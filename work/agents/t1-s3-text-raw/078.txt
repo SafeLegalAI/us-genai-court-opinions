@@ -1,0 +1,800 @@
+UNITED STATES DISTRICT COURT
+NORTHERN DISTRICT OF ALABAMA
+SOUTHERN DIVISION
+JACKIE L. MILLER,
+Plaintiff,
+v. Case No. 2:24-cv-1324-HDM
+REGIONS BANK,
+Defendant.
+ORDER
+This case is before the court for ongoing disciplinary proceedings against
+Attorney H. Gregory Harp, a solo practitioner, following Attorney Harp’s misuse of
+generative artificial intelligence to make false statements to the court. The court
+previously issued two orders to show cause: one for Attorney Harp to show good
+causewhy heshouldnotbesanctioned formakingfalsestatementstothecourt,(doc.
+29 at 2–3), and the other for Attorney Harp to show good cause why he should not
+be held in civil contempt for disobeying a court order and sanctioned for bad faith
+obstruction of the judicial process and spoliation of evidence, (doc. 35 at 4–5).
+The court is deeply troubled by Attorney Harp’s apparent contempt and utter
+lack of respect for the court and the judicial process that it represents. He has
+obfuscated the truth at every turn. He has pleaded ignorance as to any wrongdoing,
+then turned around and destroyed the evidence that likely would have exposed him.
+FILED
+2026 May-21 PM 12:57
+U.S. DISTRICT COURT
+N.D. OF ALABAMA
+Case 2:24-cv-01324-HDM Document 39 Filed 05/21/26 Page 1 of 342
+He has consumed substantial judicial resources as the court has had to sift through
+an ever-evolving series of distortions, evasions, and half-explanations designed to
+obscure rather than illuminate the truth. The court never imagined that it would be
+faced withsuch atrocious conduct from anofficerofthe court, and it willnottolerate
+it.
+The court is not sanctioning Attorney Harp merely for using generative AI.
+Attorneys may use such tools responsibly. The sanctionable conduct here includes
+Attorney Harp’s submission of false legal authority, lack of reasonable inquiry, lack
+of candor to the court, and destruction of evidence during the ensuing sanctions
+investigation.
+For the reasons more thoroughly explained below, the court SANCTIONS
+Attorney Harp.
+BACKGROUND
+On November 30, 2025, Plaintiff Jackie Miller, through her attorney, H.
+Gregory Harp, filed a Response in Opposition, (doc. 23), to Defendant Regions
+Bank’s Motion for Summary Judgment, (doc. 19).
+In his Response, Mr. Harp includes four false quotations. (See Doc. 23 at 22,
+24, 25, 32). These quotations—along with the cases to which they are attributed and
+any language necessary for context—are as follows:
+Case 2:24-cv-01324-HDM Document 39 Filed 05/21/26 Page 2 of 343
+SeeHolly v. Clairson Indus., L.L.C., 492 F.3d 1247, 1256–57 (11th Cir.
+2007) (questions regarding the extent of limitations and need for
+accommodation are “classic jury issues”).
+Id. at 22;
+See EEOC v. St. Joseph’s Hosp., Inc., 842 F.3d 1333, 1345 (11th Cir.
+2016) (“The ADA does not mandate a particular interactive process,
+but it does require the employer to provide a reasonable
+accommodation when one is needed.”).
+Id. at 24;
+See, e.g., Breen v. Dep’t of Transp., 282 F.3d 839, 842 (D.C. Cir. 2002)
+(“The interactive process does not end with generic, non-responsive
+offers untethered to the employee’s disability-related limitations.”).
+Id. at 25;
+The Eleventh Circuit broadly interprets adverse action in the FMLA
+retaliation context to include “any action that might dissuade a
+reasonable worker from exercising FMLA rights.” Batson v. Salvation
+Army, 897 F.3d 1320, 1329 (11th Cir. 2018).
+Id. at 32. The court conducted a thorough search for each of these quotations.
+Although the cases are real, the court was unable to find the quotations within them
+or in any other authority the court reviewed.
+Based on these events, the court issued a show cause order, in which it stated:
+The presence of these four quotations leads the court to believe that Mr.
+Harp, possibly using generative artificial intelligence, fabricated
+quotations from legal authority. Accordingly, Mr. Harp is ORDERED
+to review all of his filings in this case, and if any other
+misrepresentationsoflaw—betheynonexistentquotations,nonexistent
+cases,oranyothermisrepresentationoflaw—arebroughttoMr.Harp’s
+attention by his own review or otherwise, they shall be subject to this
+Order.
+Case 2:24-cv-01324-HDM Document 39 Filed 05/21/26 Page 3 of 344
+Mr. Harp, as the only attorney to have appeared on behalf of Ms. Miller
+and the only signatory on the response brief primarily in question, is
+ORDERED to show good cause, if there be any, why he should not be
+sanctioned—based on the quotations identified in this order and any
+additional misrepresentations of law discovered in Mr. Harp’s filings
+in this case—under Federal Rule of Civil Procedure 11, the court’s
+inherent authority, Local Rule 83.1(f), and/or Alabama Rule of
+Professional Conduct 3.3 for making false statements of fact or law to
+the court, not later than 3:00 PM Central Daylight Time on
+Thursday, April 16, 2026. Mr. Harp is ORDERED to append to his
+filingscopiesofeachlegalauthority fromwhichanallegedlyfabricated
+passage was quoted, with the quotation highlighted. If any other
+misrepresentations of law exist in any other of his filings in this case,
+Mr. Harp is ORDERED to similarly append copies of the cited
+authoritywithrelevantportionshighlighted. IfMr.Harpcannotprovide
+such copies for each alleged misrepresentation, he is further
+ORDERED to submit a sworn declaration that provides a thorough
+explanation for how any disputed filing, including the response brief,
+(doc. 23), was generated. Specifically, the declaration must explain
+precisely how the allegedly fabricated quotations (or other alleged
+misrepresentations) were generated. Finally, Mr. Harp is ORDERED
+to append to his filings a sworn certification that he has thoroughly
+reviewedallofhisfilingsinthiscaseand,ifnoothermisrepresentations
+of law are found, that each representation of law is true and accurate.
+(Doc. 29 at 2–3). In that Order, the court also set a show cause hearing on the issue.
+Id.
+In his Response to the court’s Order, Attorney Harp stated that he does not
+know how the false quotations ended up in his submitted brief, but that he did not
+use AI to generate them. (Doc. 30). At the subsequent hearing, which took place on
+April 20, 2026, Attorney Harp stated that while he used “ChatGPT to do a general
+search,” neither ChatGPT nor any other AI “wrote a single word” of his brief.
+Transcript of Show Cause Hearing, at 12–13 (April 20, 2026) [hereinafter, “Hearing
+Case 2:24-cv-01324-HDM Document 39 Filed 05/21/26 Page 4 of 345
+Transcript”]. When pressed on whether the false quotations were originally
+generated by ChatGPT, Attorney Harp stated, “Not to my knowledge.” Id. at 7.
+Attorney Harp admitted, however, that he did not go back and check his ChatGPT
+search history. Id. at 10. He later clarified that he was “happy to go back and try to
+pull a log” of his ChatGPT history after the hearing. Id. at 47.
+Accordingly, on April 20, right after the hearing concluded, the court ordered
+Attorney Harp to submit to the court for in camera inspection “[s]creenshots of [his]
+ChatGPThistoryshowingtheentiretyofallconversationsrelatedtothiscase.”(Doc.
+31). On April 29, Attorney Harp submitted a flash drive in response to the court’s
+order. That flash drive contained, among other things not relevant here, a one-page,
+unsigned PDF entitled “Your Honor” which states, in its entirety:
+I have attempted to comply with the Court’s Order requiring me to
+furnish ChatGPT screenshots and native files; however, my account
+has been deleted, and the files are no longer available. I have
+attempted, in good faith, to recover the account, but I was unable to do
+so. From my review, it appears that it is not able to be recovered.
+(Doc. 37 (emphasis added)).
+On suspicion that Attorney Harp intentionally deleted his ChatGPT account
+in order to destroy evidence of AI misuse, the court, on April 29, ordered Attorney
+Harp to submit a sworn declaration explaining “the specific steps he undertook to
+comply with the court’s April 20, 2026, Order” and “in granular detail exactly how,
+when, why, and by whom his ChatGPT account was deleted.” (Doc. 33 at 3). The
+Case 2:24-cv-01324-HDM Document 39 Filed 05/21/26 Page 5 of 346
+court also ordered Attorney Harp to “[s]ubmit screenshots of every email, text
+message, or other communication AttorneyHarp has received,on any email address,
+from or relating to OpenAI or ChatGPT.” Id. Specifically, the court made clear that
+it wanted screenshots of emails confirming Attorney Harp’s ChatGPT account
+creation and deletion. Id. at 3–4. At a minimum, once the court ordered Attorney
+Harp to produce his ChatGPT history, he had a clear and specific duty to preserve
+that evidence. See In re Skanska USA Civ. Se. Inc., 340 F.R.D. 180, 185 (N.D. Fla.
+2021) (“The obligation to preserve evidence arises when a party has notice the
+evidence is relevant to litigation or when a party should have known the evidence
+may be relevant to future litigation.”).
+Attorney Harp submitted his response on May 1. In it, he states that he deleted
+his ChatGPT account, though he does not know the exact date and time of such
+action. (Doc. 34 at 2). However, he states that “[a]fter the hearing I was extremely
+upset that I had used ChatGPT at all. I went to ChatGPT.com and initiated actions
+to completely deactivate the account.” Id. (emphasis added).
+AttorneyHarp’ssubmittedemailscreenshotsshowthathesignedupforapaid
+ChatGPT Plus subscription on November 26, 2025. (Doc. 38 at 20). This is contrary
+to Attorney Harp’s statement at the April 20 show cause hearing that he used the
+free version of ChatGPT. Hearing Transcript at 21. Indeed, because Attorney Harp’s
+brief was submitted on November 30, 2025—only four days after he purchased
+Case 2:24-cv-01324-HDM Document 39 Filed 05/21/26 Page 6 of 347
+ChatGPT Plus—the implication is that he purchased ChatGPT Plus specifically to
+useit in this case. (See Doc.23).AttorneyHarp’s emails alsoshowthat his ChatGPT
+account was deleted on April 23, 2026. (Doc. 38 at 4–5). An email from OpenAI on
+April 23 at 6:21 AM states, “Your ChatGPT Plus subscription will not renew and
+will be canceled, but is still available until the end of your billing period on April
+30, 2026. If you change your mind, you can renew your subscription.” Id. An email
+attachment—that appears to be from a separate email from OpenAI on April 23 at
+6:25 AM—states thatAttorney Harp “requested”aproratedrefundfortheremaining
+part of the billing period, which OpenAI initiated in the amount of five dollars and
+twenty-seven cents. (Doc. 38 at 1, 41–46).
+These emails indicated to the court that Attorney Harp canceled his ChatGPT
+account on April 23, three days after he was ordered to turn information from that
+account over to the court. Even so, he would have maintained access to his account
+until April 30—one day beyond the court’s April 29 deadline for turning over his
+ChatGPThistory—but herequestedandreceivedaproratedrefundfortheremaining
+portion of the billing period rather than maintaining access through April 30.
+Based on these events, the court issued a second show cause order, in which
+it stated:
+This sequence of events demonstrates that Attorney Harp, after being
+ordered to produce his ChatGPT history, affirmatively took multiple
+steps to delete his account before the production deadline. This conduct
+supports a strong inference that Attorney Harp acted in bad faith to
+Case 2:24-cv-01324-HDM Document 39 Filed 05/21/26 Page 7 of 348
+preventthe court from obtaining evidence directly bearing on the issues
+raised in the show cause proceedings, evidence that the court had
+specifically and unequivocally ordered Attorney Harp to produce. This
+also casts significant doubt—to put it mildly—on Attorney Harp’s
+April 29 written statement that he “attempted, in good faith, to recover
+the account” that he had, we now know, taken pains to delete just a few
+days before.
+Accordingly, Attorney Harp is ORDERED to show good cause, if
+there be any, on or before May 11, 2026, at 3:00 PM CST, why he
+should not be held in civil contempt for willfully disobeying the court’s
+April 20, 2026, Order; sanctioned under the court’s inherent authority
+for bad faith obstruction of the judicial process and spoliation of
+evidence—including, but not limited to, the imposition of an adverse
+inference of AI usage; or otherwise sanctioned under the court’s
+inherent authority for violations of Alabama Rule of Professional
+Conduct 3.4(a) (destruction of material having potential evidentiary
+value), 3.4(c) (knowingly disobeying an obligation under the rules of a
+tribunal), and 8.4 (engaging in conduct involving dishonesty, fraud,
+deceit, or misrepresentation and conduct that is prejudicial to the
+administration of justice).
+(Doc. 35 at 4–5).
+In his Response to the Second Show Cause Order, Attorney Harp stated,
+I have reviewed the Court’s show cause order (Doc. 35) and can offer
+no grounds for the avoidance of sanctions and a finding of civil
+contempt other than the information I have previously provided. The
+Court is correct that I filed a submitted Document 23 which contained
+misstatements of law that included misrepresented quotes to legal
+authorities. The Court is correct that I deleted ChatGPT. . . . I remain
+contrite . . . .”
+(Doc. 36 at 1–2).
+DISCUSSION
+Discipline is appropriate both for Attorney Harp’s false statements of law and
+his obstruction of the judicial process. The court separates these sanctions in order
+Case 2:24-cv-01324-HDM Document 39 Filed 05/21/26 Page 8 of 349
+to distinguish the consequences of making unintentional false statements—
+generated by AI or otherwise—to the court from the much more serious sanctions
+imposed for obfuscating the truth, refusing to own up to one’s mistakes, and
+destroying evidence to cover one’s tracks. As the court warned Attorney Harp in its
+April 29 Order, “any attempt to conceal evidence from the court will result in further
+investigation and rapidly escalating sanctions.” (Doc. 33 at 4).
+I. False Statements of Law
+Citations to fake legal authority pose a serious threat to the fair administration
+of justice and the integrity of the judicial system, and they require an equally serious
+sanction. Johnson v. Dunn, 792 F. Supp. 3d 1241, 1246 (N.D. Ala. 2025). This court
+has stated,
+Even in cases . . . where lawyers who cite AI hallucinations accept
+responsibility and apologize profusely, much damage is done. . . .
+[T]he court spends time reviewing materials, holding hearings,
+deliberating about sanctions, and explaining its ruling; the substance of
+the case is delayed; and public confidence about the trustworthiness of
+legal proceedings may be diminished.
+State Nat’l Ins. Co., Inc. v. Treadwell, No. 2:24-cv-1424-HDM, 2026 WL 861076,
+at *2 (N.D. Ala. Mar. 27, 2026) (quoting Johnson, 792 F. Supp. 3d at 1246). Other
+harms affect the judicial system more broadly:
+There is potential harm to the reputation of judges and courts whose
+names are falsely invoked as authors of the bogus opinions and to the
+reputation of a party attributed with fictional conduct. It promotes
+cynicism about the legal profession and the American judicial system.
+Case 2:24-cv-01324-HDM Document 39 Filed 05/21/26 Page 9 of 3410
+And a future litigant may be tempted to defy a judicial ruling by
+disingenuously claiming doubt about its authenticity.
+Johnson, 792 F. Supp. 3d at 1257 (quoting Mata v. Avianca, Inc., 678 F. Supp. 3d
+443, 448 (S.D.N.Y. 2023)).
+As this court has previously stated,
+If any lawyer is under the misapprehension that, as long as he brings
+the correct issues to the court’s attention, the court will come to the
+correct conclusion onits own andtherefore he need not worry about the
+granular accuracy of his citations, that lawyer must shift his mindset.
+The importance of this topic is not solely rooted in some high-minded
+ideal of the legal profession as an honorable one. In order to fairly,
+efficiently, and, above all, accurately adjudicate cases, federal courts
+must be able to rely on the specific authorities cited by parties, not
+simply the broad principles of law they state. The federal judiciary has
+neither the resources nor the obligation to do a lawyer’s job for him,
+especially given his clients are already paying him to do that job. Every
+secondthe courtspendsdoing alawyer’s job for him—as this courtwas
+compelled to do for [Attorney Harp]—is a disservice to his clients and
+a waste of taxpayer dollars that needlessly defers other necessary work.
+Treadwell, 2026 WL 861076, at *2.
+Accordingly, the court makes the following conclusions of law and findings
+of fact based on Attorney Harp’s conduct.
+A. SanctionsAuthority
+Rule 11(b) provides that “[b]y presenting to the court a pleading, written
+motion, or other paper[,] . . . an attorney . . . certifies that to the best of the person’s
+knowledge, information, and belief, formed after an inquiry reasonable under the
+circumstances . . . the claims, defenses, and other legal contentions are warranted by
+Case 2:24-cv-01324-HDM Document 39 Filed 05/21/26 Page 10 of 3411
+existing law.” Fed. R. Civ. P. 11(b)(2) (emphasis added). “If, after notice and a
+reasonable opportunity to respond, the court determines that Rule 11(b) has been
+violated, the court may impose an appropriate sanction on any attorney, law firm, or
+party that violated the rule or is responsible for the violation.” Fed. R. Civ. P.
+11(c)(1). “A sanction imposed under [Rule 11] must be limited to what suffices to
+deter repetition of the conduct or comparable conduct by others similarly situated”
+and “may include nonmonetary directives.” Fed. R. Civ. P. 11(c)(4).
+Rule 11 “imposes an objective standard of reasonable inquiry which does not
+mandate a finding of bad faith.” Chambers v. NASCO, Inc., 501 U.S. 32, 47
+(1991). Rule 11 focuses on “the signer’s conduct” “at the time of filing.” Jones v.
+Int’l Riding Helmets, Ltd., 49 F.3d 692, 695 (11th Cir. 1995) (emphasis and internal
+quotation marks omitted). “[T]he purpose of Rule 11 as a whole is to bring home to
+the individual signer his personal, nondelegable responsibility.” Pavelic & LeFlore
+v. Marvel Ent. Grp., 493 U.S. 120, 126 (1989).
+To impose Rule 11 sanctions sua sponte, the court must find that offending
+conduct is “akin to contempt.” Kaplan v. DaimlerChrysler, A.G., 331 F.3d 1251,
+1255 (11th Cir. 2003). But, as this court has stated,
+This court does not understand that standard to require a finding of
+subjective bad faith. Such a requirement would be inconsistent with
+explanations from the Supreme Court and the Eleventh Circuit that
+Rule11isobjective, see,e.g.,Chambers,501U.S.at47; Jones,49F.3d
+at 695, and the reality that “[a]s originally drafted, Rule 11 set out a
+subjective standard, but the Advisory Committee determined that this
+Case 2:24-cv-01324-HDM Document 39 Filed 05/21/26 Page 11 of 3412
+standard was not working,” Bus. Guides, Inc. v. Chromatic Commc’ns
+Enters., Inc., 498 U.S. 533, 549 (1991).
+Johnson, 792 F. Supp. 3d at 1258.
+Local Rule 83.1(f) provides that attorneys may be disciplined for acts or
+omissions that are inconsistent with the local rules, the Alabama Rules of
+Professional Conduct, and the American Bar Association Model Rules of
+Professional Conduct. N.D. Ala. R. 83.1(f). It further provides that “[d]iscipline
+under this Rule may consist of disbarment, suspension, censure, reprimand, removal
+from a particular case, ineligibility for appointment as court-appointed counsel,
+ineligibility to appear [pro hac vice or on behalf of the United States], monetary
+sanctions, or any other sanction the court may deem appropriate.” Id.
+Alabama Rule of Professional Conduct 3.3 provides that “[a] lawyer shall not
+knowingly . . . [m]ake a false statement of material fact or law to a tribunal.” Ala.
+Rules of Pro. Conduct r. 3.3(a)(1). The comments to the Rule provide that “an
+assertion purporting to be on the lawyer’s own knowledge, as in an affidavit by the
+lawyer or in a statement in open court, may properly be made only when the lawyer
+knows the assertion is true or believes it to be true on the basis of a reasonably
+diligent inquiry.” Ala. Rules of Pro. Conduct r. 3.3. cmt. They further provide that
+“[l]egal argument based on a knowingly false representation of law constitutes
+dishonesty toward the tribunal.” Id.
+Case 2:24-cv-01324-HDM Document 39 Filed 05/21/26 Page 12 of 3413
+The court’s sanctioning authority is not limited to these rules, as it may also
+sanction attorneys under its inherent authority. Chambers, 501 U.S. at 43
+(citing United States v. Hudson, 11 U.S. (7 Cranch) 32, 34 (1812)); Johnson, 792 F.
+Supp. 3d at 1258. See also Section II(C), infra.
+B. False Statements of Law and Conclusions as to Attorney Harp
+The court finds, based upon its own careful review and Attorney Harp’s
+eventual admission, (doc. 36 at 1–2), that the purported quotations in the filing at
+issue were made up and thus to attribute those quotes to the quoted authority was to
+make false statements of law.
+Attorney Harp has never admitted thathe used generativeAI to draft the filing
+or create the specific quotations at issue.1
+However, the Eleventh Circuit has
+established that “an adverse inference is drawn from a party’s failure to preserve
+evidence . . . when the absence of that evidence is predicated on bad faith.” Hill v.
+Cundiff, 797 F.3d 948, 967 n.10 (11th Cir. 2015). As is discussed below, the court
+finds that Attorney Harp in bad faith deleted his ChatGPT account after being
+ordered to produce it to the court. See Section II(A)(ii), infra. Accordingly, the court
+1
+Where the court speculates that generative AI was used but has no proof of such usage, the court
+need not make a finding of AI usage to sanction an attorney for making misrepresentations to the
+court. See Wilson v. City of Athens, 5:24-cv-1757-LCB (N.D. Ala. Feb. 3, 2026). Accordingly, the
+court’s imposed sanctions stand regardless of any AI usage. See id. Nonetheless, because the court
+can, in this case, make an adverse inference of AI usage against Attorney Harp, it will do so.
+Unchecked generative AI usage has become a scourge on the courts, and it must be called out and
+reined in at every opportunity.
+Case 2:24-cv-01324-HDM Document 39 Filed 05/21/26 Page 13 of 3414
+draws an adverse inference against Attorney Harp and concludes that his ChatGPT
+account, had he not deleted it, would have shown that the four quotations at issue—
+and likely other statements of law that the court drew to Attorney Harp’s attention
+as incorrect,2
+see, e.g., Hearing Transcript at 12–13—were generated by ChatGPT.
+Accordingly, despite Attorney Harp’s continued refusal to admit as much, the court
+infers that the missing ChatGPT history would have shown that ChatGPT generated
+the fabricated quotations and related legal misrepresentations contained in the
+Response Brief. The court finds that Attorney Harp submitted those
+misrepresentations to the court, “certif[ying] that to the best of [his] knowledge,
+information, and belief, formed after an inquiry reasonable under the circumstances,
+. . . [those] legal contentions are warranted by existing law.” See Fed. R. Civ. P.
+11(b).
+The court finds that Attorney Harp’s conduct is “akin to contempt,” Kaplan,
+331 F.3d at 1255, as it flagrantly disregardshis obligations as an attorney under Rule
+11. As the court understands Attorney Harp’s position, although he does not admit
+that generative AI drafted sections of his Response Brief, he does not contest that he
+made misrepresentations to the court. (Doc. 36 at 1 (“The Court is correct that I filed
+2
+See Footnote 3, infra (explaining the court’s choice not to pursue sanctions for these other
+misrepresentations).
+Case 2:24-cv-01324-HDM Document 39 Filed 05/21/26 Page 14 of 3415
+a submitted Document 23 which contained misstatements of law that included
+misrepresented quotes to legal authorities.”)).
+C. Sanctions
+Rule 11 states that if an attorney presents to the court “legal contentions” that
+“are [not] warranted by existing law,” that attorney may be sanctioned after notice
+and a reasonable opportunity to respond. Fed. R. Civ. P. 11(b)(2), (c)(1). Attorney
+Harp presented to thecourt four purportedquotations as legal contentions,3
+and none
+are warranted by existing law. Attorney Harp has been given notice and a reasonable
+opportunity to respond. (See Docs. 30, 34, 36). See also Hearing Transcript.
+Accordingly, the court must now determine an appropriate sanction under
+Rule 11.4
+This court has stated that “[a]n appropriate and reasonable sanction must
+. . . correspond to the extreme dereliction of professional responsibility that sham
+citations reflect (whether generated by artificial or human intelligence), and . . .
+effectively communicate that made-up authorities have no place in a court of law.”
+Johnson, 792 F. Supp. 3d at 1246. “Rule 11 assigns particular value to the deterrent
+3
+Although Attorney Harp’s Response Brief is rife with other errors, the court chooses to focus
+solely on his false quotations for purposes of administering sanctions, as a finding that his other
+misrepresentations of law constitute violations of Rule 11 would not alter the court’s sanctions
+analysis. No attorney should take this as an indication, however, that the court will not vigorously
+investigate each and every misrepresentation of law that any attorney files, regardless of format.
+4
+Because Rule 11 provides adequate sanctions in this case, the court, in its discretion, chooses not
+to pursue sanctions for these misrepresentations of law under other statutes or its inherent
+authority.
+Case 2:24-cv-01324-HDM Document 39 Filed 05/21/26 Page 15 of 3416
+function of a sanction.” Id. at 1265 (citing Fed. R. Civ. P. 11(c)(4) (providing that
+sanctions “must be limited to what suffices to deter repetition of the conduct or
+comparable conduct by others similarly situated”)).
+Here, the court finds a public reprimand with a limited publication
+requirement to be fitting. Some meaningful sanction for these misrepresentations is
+absolutely necessary, but the court reserves imposition of harsher sanctions for
+AttorneyHarp’sdishonesty inattemptingtocoveruphisAIusage. Compare Section
+II(C)(iii), infra (disqualifying Attorney Harp from this case, suspending him from
+practicingintheNorthernDistrictofAlabama,andreferringthecasetotheAlabama
+State Bar), with Treadwell, 2026 WL 861076, at *4 (“Mindful of the fact that Mr.
+May has been apologetic and forthcoming with his lack of diligence and use of
+generative AI, the court finds that any greater sanction is unnecessary. Specifically,
+the court will not, in this instance, refer this matter to the Alabama State Bar, order
+a monetary fine, disqualify Mr. May from this case, or suspend him from practice in
+the Northern District of Alabama . . . .”).
+II. Spoliation of Evidence and Civil Contempt
+Although making false statements of law to the court is undoubtedly
+unacceptable, the more serious offense committed by Attorney Harp is spoliation of
+evidence and direct contravention of a court order. Attorney Harp did not admit to
+Case 2:24-cv-01324-HDM Document 39 Filed 05/21/26 Page 16 of 3417
+using generative AI, and then he lied and destroyed evidence to cover up his AI
+usage.
+In response to the court’s First Show Cause Order, (doc. 29), Attorney Harp
+gave what he averred to be a full exposition of his process for writing the Response
+Brief in question, (doc. 30). In it, he states that he used vLex for legal research, id.,
+¶ 21, wrote his brief based on that legal research, id., ¶¶ 21–25, and then used the
+CoPilot attachment to Microsoft Word to check for grammar, punctuation, and
+spelling errors, id., ¶ 25. At no point in his Response did Attorney Harp mention
+using ChatGPT for any purpose. See id.
+At the April 20 hearing, Attorney Harp, when pressed on the issue, stated that
+he did use ChatGPT “to do a general search” and then “went to vLex and . . . pulled
+each one of those cases” that ChatGPT found. Hearing Transcript at 5. He then
+clarified that “ChatGPT did generate” text, but “the words that were typed in the
+document [were his] words.” Id. at 6. When pressed further, he stated that “to [his]
+knowledge,” the quotations at issue were not generated by ChatGPT. Id. at 7. He
+then hedged on that statement and stated that they “could have been generated by
+ChatGPT.” Id.
+He then, confusingly, stated that he “know[s] it was not ChatGPT that created
+[the] quotes because [he] went back and checked them,” id. at 8, though he cannot
+account for how, if he checked each quote, four completely fabricated quotations
+Case 2:24-cv-01324-HDM Document 39 Filed 05/21/26 Page 17 of 3418
+ended up in the Response Brief. And he simultaneously admitted that “it’s possible
+that I did get out over my skis and allow ChatGPT to lead me in the manner in which
+it shouldn’t have led me.” Id. at 9.
+Attorney Harp’s prevarication frustrated the court. When asked whether he
+had checked his ChatGPT history to confirm that the quotations were not AI
+generated, Attorney Harp stated that he had not. Id. at 10. This frustrated the court
+further. It was at this point that Attorney Harp clarified that he was “happy to go
+back and try to pull a log” of his ChatGPT history after the hearing. Hearing
+Transcript at 47.
+Because of Attorney Harp’s continued obfuscation of the truth and based on
+his offer to produce his ChatGPT history, the court, on April 20, 2026, right after the
+hearing,orderedAttorneyHarptoproducescreenshotsofhisChatGPThistory,(doc.
+31), to which Attorney Harp stated in vague terms that his “account has been
+deleted,”(doc.37).FromtheemailsthatthecourtorderedAttorneyHarptoproduce,
+it became clear that he had deleted his ChatGPT account on April 23—three days
+after being ordered to produce his ChatGPT history—and undertook further steps to
+ensure that he lost access immediately rather than at the end of the current pay cycle.
+Accordingly, the court makes the following conclusions of law and findings
+of fact based on Attorney Harp’s conduct.
+Case 2:24-cv-01324-HDM Document 39 Filed 05/21/26 Page 18 of 3419
+A. Spoliation of Evidence
+“Spoliation is the destruction or significant alteration of evidence, or the
+failure to preserve property for another’s use as evidence in pending or reasonably
+foreseeable litigation.” Graff v. Baja Marine Corp., 310 F. App’x 298, 301 (11th
+Cir. 2009).
+i. SanctionsAuthority
+In a diversity action such as this one, federal law governs spoliation
+sanctions. Tesoriero v. Carnival Corp., 965 F.3d 1170, 1184 (11th Cir. 2020).
+However, a court may look to state law for guidance to the extent it is consistent
+with federal law. Flury v. DaimlerChrysler Corp., 427 F.3d 939, 944 (11th Cir.
+2005), superseded on other grounds by Skanska USA Civ. Se. Inc. v. Bagelheads,
+Inc., 75 F.4th 1290, 1311 (11th Cir. 2023) (holding that in cases involving loss of
+electronicallystoredinformation governedbyFederalRuleofCivilProcedure37(e),
+Rule 37(e)’s sanctions analysis, not Flury’s, applies).5
+5
+The court recognizes that the present case involves electronically stored information in the form
+of ChatGPT query history and thus may appear on its surface to be governed by Rule 37(e).
+However, Rule 37(e) applies only “upon finding prejudice to another party from loss of the
+information,” Fed. R. Civ. P. 37(e)(1), or “upon finding that the party acted with the intent to
+deprive another party of the information’s use in the litigation,” Fed. R. Civ. P. 37(e)(2). It is not
+clear that Rule 37(e) applies when a party intends to deprive the court, rather than another party,
+of the information’s use in a sanctions inquiry. It is exactly in situations such as this one where the
+court’s inherent authority to sanction is most useful. Regardless, if Rule 37(e) does apply to the
+present situation, the “‘intent to deprive another party of the information’s use in the litigation’ is
+the equivalent of bad faith in other spoliation contexts.” Skanska USA Civ. Se. Inc. v. Bagelheads,
+Inc., 75 F.4th 1290, 1312 (11th Cir. 2023) (quoting Fed. R. Civ. P. 37(e)(2)). Because the court
+makes a finding of bad faith here, Rule 37(e)(2) is satisfied, and the court may “presume that the
+lost information was unfavorable to [Attorney Harp].” Fed. R. Civ. P. 37(e)(2)(A). Accordingly,
+Case 2:24-cv-01324-HDM Document 39 Filed 05/21/26 Page 19 of 3420
+“Spoliation sanctions are often imposed under the broad discretion of the
+district court, which has inherent power to ‘manage its own affairs and to achieve
+the orderly and expeditious disposition of cases.’” Skanska USA Civ. Se. Inc., 75
+F.4th at 1311 (quoting Flury, 427 F.3d at 944). The court’s inherent power to
+sanction attorneys has been recognized for more than two hundred years. Chambers,
+501 U.S. at 43 (quoting Hudson, 11 U.S. at 34). “It has long been understood that
+‘[c]ertain implied powers must necessarily result to our Courts of justice from the
+nature of their institution,’ powers ‘which cannot be dispensed with in a Court,
+because they are necessary to the exercise of all others.’” Id. “The key to unlocking
+a court’s inherent power is a finding of bad faith.” Barnes v. Dalton, 158 F.3d 1212,
+1214 (11th Cir. 1998).
+Generally, “[a] party seeking spoliation sanctions must prove that (1) the
+missing evidence existed at one time; (2) the defendant had a duty to preserve the
+evidence; and (3) the evidence was crucial to the plaintiff’s prima facie case.”
+Coward v. Forestar Realty, Inc., No. 4:15-cv-0245, 2017 WL 8948347, at *7 (N.D.
+Ga.Nov.30,2017);seealsoPenickv.HarborFreightTools,USA,Inc.,481F.Supp.
+3d 1286, 1291 (S.D. Fla. 2020). “Even if all three elements are met, a party’s failure
+to preserve evidence rises to the level of sanctionable spoliation only where the
+regardlessofwhetherRule37(e)orthecourt’sinherentauthoritygoverns,thecourtproperlydraws
+an adverse inference against Attorney Harp.
+Case 2:24-cv-01324-HDM Document 39 Filed 05/21/26 Page 20 of 3421
+absence[]ofthatevidenceispredicatedonbadfaith,suchaswhereapartypurposely
+loses or destroys relevant evidence.” Penick, 481 F. Supp. 3d at 1292 (citing Bashir
+v. Amtrak, 119 F.3d 929, 931 (11th Cir. 1997)) (internal quotation marks and
+brackets omitted).
+If direct evidence of bad faith is unavailable, the moving party may establish
+bad faith through circumstantial evidence. Alabama Aircraft Indus., Inc. v. Boeing
+Co., 319 F.R.D. 730, 746 (N.D. Ala. 2017), aff’d, No. 20-11141, 2022 WL 433457
+(11th Cir. Feb. 14, 2022). Circumstantial evidence of bad faith includes:
+(1) evidence once existed that could fairly be supposed to have been
+material to the proof or defense of a claim at issue in the case; (2)
+the spoliating party engaged in an affirmative act causing the evidence
+to be lost; (3) the spoliating party did so while it knew or should have
+known of its duty to preserve the evidence; and (4) the affirmative act
+causing the loss cannot be credibly explained as not involving bad faith
+by the reason proffered by the spoliator.
+Id. (quoting Managed Care Sols., Inc. v. Essent Healthcare, Inc., 736 F. Supp. 2d
+1317, 1323 (S.D. Fla. 2010)).
+Where the court finds that an attorney has engaged in spoliation of evidence,
+the court may use its inherent authority to sanction that attorney. Skanska USA Civ.
+Se. Inc., 75 F.4th at 1311. In doing so, the court may make an adverse inference
+against the spoliating attorney. Martinez v. Brink’s, Inc., 171 F. App’x 263, 268 n.7
+(11th Cir. 2006). “The adverse inference makes a finding or imposes a rebuttable
+presumption that the missing evidence would have been unfavorable to the party
+Case 2:24-cv-01324-HDM Document 39 Filed 05/21/26 Page 21 of 3422
+engaging in the misconduct.” F.T.C. v. First Universal Lending, LLC, 773 F. Supp.
+2d 1332, 1352 (S.D. Fla. 2011).
+ii. Findings as toAttorney Harp
+Here, the first two elements are easily met. First, Attorney Harp had a
+ChatGPT account until April 23, meaning his ChatGPT history was available to him
+until that date. On April 23, he deleted his account, meaning he would lose access to
+his ChatGPT history on April 30. But on April 23, he took the additional step of
+requesting a prorated refund for the remaining portion of the billing period and thus
+cutting off his access immediately. As to the second element, the court ordered
+Attorney Harp to produce his ChatGPT history on April 20, creating an
+unambiguous duty to preserve that evidence. See In re Skanska USA Civ. Se. Inc.,
+340 F.R.D. at 185.
+The third element requires the moving party to show that the destroyed
+evidence was crucial to its case. Here, there is no moving party—the court is
+sanctioning sua sponte. The court ordered Attorney Harp to produce his ChatGPT
+history in order to determine whether he had submitted hallucinated AI quotations
+to the court as part of a sanctions inquiry distinct from the underlying case. Attorney
+Harp’s ChatGPT history is, of course, crucial to that inquiry.
+The court also finds that Attorney Harp acted in bad faith. The epitome of bad
+faith is “where a party purposely loses or destroys relevant evidence,” Penick, 481
+Case 2:24-cv-01324-HDM Document 39 Filed 05/21/26 Page 22 of 3423
+F. Supp. 3d at 1292 (citing Bashir, 119 F.3d at 931), which is precisely what
+Attorney Harp did here. Knowing that he had a duty to preserve and produce
+evidence that was highly relevant to the court’s inquiry, he knowingly and
+intentionally deleted that evidence, and he has been unable to proffer any reason
+beyond bad faith for his actions. See Alabama Aircraft Indus., Inc., 319 F.R.D. at
+746. Therefore, bad faith is established.
+iii. Sanctions
+Because the court finds that Attorney Harp in bad faith engaged in spoliation
+of evidence, it may make an adverse inference against him. Skanska USA Civ. Se.
+Inc., 75 F.4th at 1311. Accordingly, the court draws an adverse inference against
+Attorney Harp and concludes that his ChatGPT account, had henot deleted it, would
+have shown that the four quotations at issue—and likely other statements of law that
+thecourt drewtoAttorneyHarp’sattentionas incorrect, see,e.g.,HearingTranscript
+at 12–13—were generated by ChatGPT.
+B. Civil Contempt
+A civil contempt judgment is appropriate when an attorney fails to comply
+with a court order. See, e.g., United States v. Coulton, 594 F. App’x 563 (11th Cir.
+2014).
+Case 2:24-cv-01324-HDM Document 39 Filed 05/21/26 Page 23 of 3424
+i. SanctioningAuthority
+This court has the inherent authority to enforce its own orders by the exercise
+of contempt powers. Citronelle-Mobile Gathering, Inc. v. Watkins, 943 F.2d 1297,
+1301 (11th Cir. 1991) (citing Shillitani v. United States, 384 U.S. 364, 370 (1966)).
+Under Eleventh Circuit precedent, the court may “make a finding of civil
+contempt—that is, willful disregard of the authority of this Court—only upon a
+showing that the alleged contempt is clear and convincing.” Georgia Power Co. v.
+NLRB, 484 F.3d 1288, 1291 (11th Cir. 2007) (emphasis omitted). “The clear and
+convincing evidence must establish that: (1) the allegedly violated order was valid
+and lawful; (2) the order was clear and unambiguous; and (3) the alleged violator
+had the ability to comply with the order.” Id.
+In determining whether a party is in contemptof a court order, theorder
+is subject to reasonable interpretation, though it may not be expanded
+beyond the meaning of its terms absent notice and an opportunity to be
+heard. Moreover, we will construe any ambiguities or uncertainties in
+such a court order in a light favorable to the person charged with
+contempt. Our focus in a civil contempt proceeding is not on the
+subjective beliefs orintent ofthe alleged contemners in complying with
+the order, but whether in fact their conduct complied with the order at
+issue.
+Id. (internal quotation marks and citations omitted).
+Due process requires that a civil contempt defendant receive notice and an
+opportunity to be heard. F.T.C. v. Leshin, 719 F.3d 1227, 1235 (11th Cir. 2013). But
+“the requirements ofdue process in a civil contempt proceeding are flexible, varying
+Case 2:24-cv-01324-HDM Document 39 Filed 05/21/26 Page 24 of 3425
+with the circumstances of each case.” In re McLean, 794 F.3d 1313, 1324 (11th Cir.
+2015) (quoting Mercer v. Mitchell, 908 F.2d 763, 769 n.11 (11th Cir. 1990))
+(brackets omitted). As long as the civil contempt defendant has some opportunity to
+respond, “when there are no disputed factual matters that require an evidentiary
+hearing, the court might properly dispense with the hearing prior to finding the
+defendant in contempt and sanctioning him.” In re Roth, 935 F.3d 1270, 1278 (11th
+Cir. 2019) (quoting In re McLean, 794 F.3d at 1324 n.4).
+ii. Findings as toAttorney Harp
+Here, the court informed Attorney Harp of the alleged contemptuous conduct
+on May 4, 2026, in the form of a Show Cause Order, (doc. 35), and Attorney Harp
+filed a Response to that Order on May 11, 2026, (doc. 36). He stated in that
+Response, “I have reviewed the Court’s show cause order (Doc. 35) and can offer
+no grounds for the avoidance of sanctions and a finding of civil contempt other than
+the information I have previously provided.” Id. at 1. He further stated that “at some
+point after the hearing, for the reasons previously given, I deleted my ChatGPT
+account.” Id. at 2. This leaves no disputed factual matters that require an evidentiary
+hearing. Attorney Harp has been provided with notice and an opportunity to be
+heard, and thus due process is satisfied. In re Roth, 935 F.3d at 1278.
+The elements of civil contempt are also satisfied. As to the first element, the
+Order in question—the court’s April 20, 2026, production order, (doc. 31)—was
+Case 2:24-cv-01324-HDM Document 39 Filed 05/21/26 Page 25 of 3426
+valid and lawful. That order was issued as part of an investigation into Attorney
+Harp’s sanctionable conduct, and courts have broad inherent authority to conduct
+independent investigations to determine whether attorneys or parties have engaged
+in misconduct. See Chambers, 501 U.S. at 44. “[N]either party challenges whether
+the Court’s Orders at issue are valid and lawful, and there is no basis for finding
+otherwise.” Stratos v. AIG Prop. Cas. Co., No. 21-cv-23018, 2024 WL 2782195, at
+*10 (S.D. Fla. Feb. 5, 2024).
+The second element—that the order be clear and unambiguous—is likewise
+satisfied. The order unambiguously required Attorney Harp to produce
+“[s]creenshots of Attorney Harp’s ChatGPT history showing the entirety of all
+conversations related to this case.” (Doc. 31). The order must be construed using an
+objective standard, Georgia Power Co., 484 F.3d at 1291, and, objectively, there is
+only one way to read this: Attorney Harp was required to provide the screenshots.
+Thus, the order was clear and unambiguous.
+Finally, the third element—that the alleged violator had the ability to comply
+with the order—is met. Attorney Harp admits that he did not delete his ChatGPT
+accountuntilafterthehearing,whichwasheldthesameday—April20—asthecourt
+ordered him to submit the screenshots. Furthermore, his submitted emails show that
+hedeletedhisChatGPTaccountonApril23,threedaysafterbeingorderedtosubmit
+his ChatGPT history. Finally, he would have maintained access to his ChatGPT
+Case 2:24-cv-01324-HDM Document 39 Filed 05/21/26 Page 26 of 3427
+account and thus would have maintained the ability to comply with the court’s order
+until April 30—one day beyond the court’s April 29 deadline for turning over his
+ChatGPThistory—but herequestedandreceivedaproratedrefundfortheremaining
+portion of the billing period rather than maintaining access through April 30. This
+demonstrates that Attorney Harp had the ability to comply with the court’s order,
+but rather than doing so, he took multiple steps to delete the evidence requested by
+the court. The third element is met.
+Accordingly, all of the requirements for a finding of civil contempt are met:
+the court issued a valid and unambiguous order for Attorney Harp to submit his
+ChatGPT history, Attorney Harp had the ability to comply with the court order, and
+Attorney Harp did not comply, choosing instead to destroy the evidence that the
+court ordered him to produce. Attorney Harp’s due process rights have been
+protected, and the court hereby finds him in civil contempt of court.
+iii. Sanctions
+Although the elements of civil contempt are satisfied, “[t]he purpose of civil
+contempt sanctions is to (1) compensate the complainant for losses and expenses it
+incurred because of the contemptuous act, and (2) coerce the contemnor into
+complying with the court order.” JoveEng’g, Inc. v. I.R.S., 92 F.3d 1539,1557 (11th
+Cir. 1996) (emphasis added). No party suffered losses or expenses due to Attorney
+Harp’s contemptuous act—excepting the significant time spent by the court on this
+Case 2:24-cv-01324-HDM Document 39 Filed 05/21/26 Page 27 of 3428
+issue, for which it will not pursue reimbursement—and Attorney Harp cannot now
+be coerced into complying with the production order, as he has destroyed the
+evidence that was to be produced. Accordingly, the court finds counsel in civil
+contempt for violating its lawful orders and separately exercises its inherent
+authority to protect the integrity of judicial proceedings and vindicate the authority
+of the court. See Section II(C), infra.
+C. Court’s InherentAuthority
+The sanctions imposed thus far leave a significant disciplinary gap, circling
+theissuewithoutaddressingitdirectly.Rule11allowsthecourttosanctionAttorney
+Harp for making false representations to the court. Spoliation allows the court to
+drawanadverseinferenceagainstAttorneyHarp,butitintroducesnorealstandalone
+sanctions for the destruction of evidence. Civil contempt allows the court to enforce
+its orders but does not allow for other sanctions beyond forcing compliance and
+compensatinginjuredpartiesfortheirlosses,neitherofwhicharehelpfulhere.Thus,
+none of these address the elephant in the room—that Attorney Harp in bad faith
+destroyed evidence that the court had explicitly ordered him to produce. Such
+behavior cannot go undisciplined.
+i. SanctioningAuthority
+As this court has previously explained it,
+“Courtshavelongrecognizedan inherentauthoritytosuspendordisbar
+lawyers derived from the lawyer’s role as an officer of the court which
+Case 2:24-cv-01324-HDM Document 39 Filed 05/21/26 Page 28 of 3429
+granted admission.” In re Snyder, 472 U.S. 634, 643 (1985). Thus, “a
+federal court has the power to control admission to its bar and to
+discipline attorneys who appear before it.” Chambers, 501 U.S. at 43
+(citing Ex parte Burr, 22 U.S. 529, 530 (1824)). “An attorney who
+violates his or her ethical obligations is subject to professional
+discipline, including sanctions, suspension, and disbarment.” Connick
+v. Thompson, 563 U.S. 51, 66 (2011).
+. . . “[T]he inherent power extends to a full range of litigation
+abuses.” Chambers, 501 U.S. at 46. “A court must exercise caution in
+invoking its inherent power,” and “when there is bad-faith conduct in
+the course of litigation that could be adequately sanctioned under the
+Rules, the court ordinarily should rely on the Rules rather than the
+inherent power.” Id. at 50. “If in the informed discretion of the court,
+neither the statute nor the Rules are up to the task, the court may safely
+rely on its inherent power.” Id.
+“Because oftheirvery potency,inherentpowers must be exercised with
+restraint and discretion.” Id. at 44. “A primary aspect of that discretion
+is the ability to fashion an appropriate sanction for conduct which
+abuses the judicial process.” Id. at 44–45. The Supreme Court has held
+that even “particularly severe sanctions” are “within the court’s
+discretion.” Id. at 45 (discussing “outright dismissal of a lawsuit” as a
+sanction). A finding of subjective bad faith or something tantamount to
+it isnecessary tosupportasanctionissuedpursuanttoacourt’sinherent
+power. See Purchasing Power, LLC v. Bluestem Brands, Inc., 851 F.3d
+1218, 1223 (11th Cir. 2017).
+Johnson, 792 F. Supp. 3d at 1258–59 (brackets and ellipses omitted).
+ii. Findings as toAttorney Harp
+This is precisely such a case in which the court’s other sanctioning powers are
+not “up to the task.” Chambers, 501 U.S. at 46. Thus, the court, having already made
+a finding that Attorney Harp acted in bad faith in deleting his ChatGPT account, see
+Section II(A)(ii), supra, “may safely rely on its inherent power.” Id.
+Case 2:24-cv-01324-HDM Document 39 Filed 05/21/26 Page 29 of 3430
+iii. Sanctions
+The court finds a public reprimand with a limited publication requirement to
+be fitting.6
+“[I]t makes other clients, counsel, and courts aware of the lawyer’s
+misconduct so that they may assess whether any measures are needed to protect their
+proceedings.” Johnson, 792 F. Supp. 3d at 1267. Disqualification is also necessary:
+“lawyers should know that if they [commit such misconduct], they will no longer
+have the professional opportunity to participate in those proceedings.”7
+Id. at 1266.
+Additionally, “the referral to licensing authorities is a bare minimum in the light of
+the primary nature of a lawyer’s professional responsibility” not to flout court orders
+and destroy evidence. Id. at 1267.
+Finally, the court finds suspension from practice in the Northern District of
+Alabama to be appropriate. The court does not come to such a conclusion lightly.
+“[T]he power to disbar is one that ought always to be exercised with great caution;
+and ought never be exercised except in clear cases of misconduct, which affect the
+standing and character of the party as an attorney.” Schlumberger Techs., Inc. v.
+Wiley, 113 F.3d 1553, 1562 (11th Cir. 1997) (quoting Ex parte Wall, 107 U.S. 265,
+6
+This is the same sanction that the court imposes under Rule 11 for Attorney Harp’s
+misrepresentations to the court. See Section I(C), supra. Of course, this does not require Attorney
+Harp to publish twice, as one single publication will give effect to the two sanctions.
+7
+Attorney Harp’s misconduct has no effect on any decision the court has made or will make as to
+the merits of Ms. Miller’s underlying case, as there is no indication that Ms. Miller was involved
+in any way in such misconduct.
+Case 2:24-cv-01324-HDM Document 39 Filed 05/21/26 Page 30 of 3431
+288 (1883)) (brackets omitted). Suspension is proper if “the attorney can be deemed
+to have been on notice that the courts would condemn the conduct for which he was
+sanctioned. This would necessarily include behavior which responsible attorneys
+would recognize as improper for a member of the profession.” In re Finkelstein, 901
+F.2d 1560, 1564 (11th Cir. 1990) (citing In re Ruffalo, 390 U.S. 544, 554–55 (1968)
+(White, J., concurring)).
+Attorney Harp’s is a clear case of misconduct which indeed affects his
+standing and character as an attorney. If the court cannot trust an individual not to
+destroy evidence, that individual must not be allowed to practice in front of that
+court. It goes without saying that responsible attorneys would recognize Attorney
+Harp’s behavior as improper for a member of the profession.
+The court considered lesser sanctions but concludes that they are inadequate
+given the combination of false statements to the court, lack of candor during the
+ensuing inquiry, and intentional destruction of evidence after a direct court order. It
+is vital that lying, destroying evidence, or otherwise obfuscating the truth in an AI-
+related inquiry result in greater sanctions than does simply making
+misrepresentations to the court, due to AI usage or otherwise. If such behavior does
+not lead to rapidly escalating sanctions, lawyers will have no incentive to be candid
+with the court when they are caught making such misrepresentations in their filings.
+It is essential, then, that the sanctions imposed for obstructing the court’s
+Case 2:24-cv-01324-HDM Document 39 Filed 05/21/26 Page 31 of 3432
+investigation be severe enough to dissuade others from conducting themselves in
+such a manner. Accordingly, Attorney Harp is suspended from practicing in the
+Northern District of Alabama for a period of six months.
+CONCLUSION
+The court is not ordering the harshest of Attorney Harp’s sanctions because
+he made a mistake. The court is ordering them because, when confronted with that
+mistake, he chose dishonesty over candor and destruction over disclosure.
+Lawyers make errors. Competent and ethical lawyers own them.
+When lawyers are caught submitting AI-generated misrepresentations to the
+court, they have two options: they can either admit to their mistakes and show
+contrition, or they can attempt to cover up their mistakes and demonstrate a
+weakness of character unsuited to the legal profession. If they choose the former
+path, they will likely preserve their standing before the court. If they choose the
+latter, they may well lose their career.
+The court sincerely wishes that Attorney Harp had chosen the former path
+rather than the latter, and it warns anyone who may find themselves in a similar
+position to carefully consider the consequences of their next move and to confront
+their situation with upfront honesty and contrition. Any lawyer who believes this
+court will hesitate to vigorously investigate and impose career-altering sanctions for
+such misconduct is gravely mistaken.
+Case 2:24-cv-01324-HDM Document 39 Filed 05/21/26 Page 32 of 3433
+Accordingly, the court ORDERS as follows:
+1. The court PUBLICLY REPRIMANDS Attorney Harp for his misconduct
+described in this order;
+2. To effectuate his reprimand, Attorney Harp is ORDERED to provide a copy
+of this Order to his clients, opposing counsel, and presiding judge in every
+pendingstateorfederalcaseinwhich heis counselofrecord. Hemustcomply
+with this requirement within ten days from the date of this Order and must
+certify to the court within twenty-four hours of that compliance that the
+requirement has been met;
+3. To further effectuate the reprimand and deter similar misconduct by others,
+the Clerk of Court is DIRECTED to submit this order for publication in the
+Federal Supplement;
+4. Attorney Harp is DISQUALIFIED from further participation in this case.All
+deadlines are STAYED for sixty days to allow Ms. Miller time to associate
+new counsel, should she so desire;
+5. Attorney Harp is SUSPENDED from practice in the United States District
+Court for the Northern District of Alabama for a period of six months. This
+suspension is effective fourteen days from the entry of this Order;
+Case 2:24-cv-01324-HDM Document 39 Filed 05/21/26 Page 33 of 3434
+6. Attorney Harp is DIRECTED to provide the Clerk of Court with a listing of
+jurisdictions in which he is licensed to practice law within twenty-four hours
+of this Order; and
+7. TheClerkofCourtis DIRECTED toserveacopyofthisorderontheGeneral
+Counsel of the Alabama State Bar and any other applicable licensing
+authorities for further proceedings as appropriate.
+DONE and ORDERED on May 21, 2026.
+_________________________________
+HAROLD D. MOOTY III
+UNITED STATES DISTRICT JUDGE
+Case 2:24-cv-01324-HDM Document 39 Filed 05/21/26 Page 34 of 34

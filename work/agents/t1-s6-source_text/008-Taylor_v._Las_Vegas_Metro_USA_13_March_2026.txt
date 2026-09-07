@@ -1,0 +1,274 @@
+            Case 2:25-cv-00840-APG-NJK           Document 53       Filed 03/13/26       Page 1 of 5
+
+
+
+
+ 1                                UNITED STATES DISTRICT COURT
+
+ 2                                        DISTRICT OF NEVADA
+
+ 3 ALBERT TAYLOR,                                            Case No.: 2:25-cv-00840-APG-NJK
+
+ 4              Plaintiff                                  Order (1) Granting in Part Plaintiff’s
+                                                           Motion for Leave to File, (2) Denying
+ 5 v.                                                      Clark County and University Medical
+                                                            Center’s Motion to Dismiss, and (3)
+ 6 LAS VEGAS METROPOLITAN POLICE                            Denying All Other Motions as Moot
+   DEPARTMENT, et al.,
+ 7                                                                 [ECF Nos. 27, 30, 34, 48]
+        Defendants
+ 8
+
+ 9            Albert Taylor sues the Las Vegas Metropolitan Police Department (LVMPD), two
+
+10 unidentified officers, the City of Las Vegas, 1 Clark County, University Medical Center (UMC),
+
+11 Medic West Incorporated, and one of Medic West’s unidentified EMTs for 12 claims arising
+
+12 from a medical emergency during his arrest in July 2023. Taylor asserts both federal and state
+
+13 law claims: (1) excessive force, (2) failure to intervene, (3) civil rights conspiracy, (4) false
+
+14 imprisonment, (5) deliberate indifference to medical needs, (6) Fourteenth Amendment denial of
+
+15 due process, (7) negligence, (8) battery, (9) intentional infliction of emotional distress,
+
+16 (10) violation under the Americans with Disabilities Act, (11) Monell 2 liability, and (12) First
+
+17 Amendment retaliation.
+
+18            Taylor filed a complaint, but later filed a first amended complaint (FAC) after receiving
+
+19 leave to amend. ECF Nos. 1-1; 4; 11; 12. Unlike his first complaint, his FAC did not contain a
+
+20 statement regarding jurisdiction and venue or identify the parties to the suit. ECF Nos. 1-1 at 1-2;
+
+21 12. That led LVMPD to move to dismiss, arguing that the FAC did not establish subject matter
+
+22
+
+23 1 Taylor voluntarily dismissed all claims against the City of Las Vegas. ECF No. 14.
+     2
+         Monell v. Dep’t of Soc. Servs. of City of New York, 436 U.S. 658 (1978).
+         Case 2:25-cv-00840-APG-NJK            Document 53        Filed 03/13/26     Page 2 of 5
+
+
+
+
+ 1 jurisdiction, personal jurisdiction, or venue. ECF No. 27. Clark County and UMC also moved to
+
+ 2 dismiss the FAC because they characterized all of Taylor’s claims as professional negligence and
+
+ 3 argued that he failed to support his complaint with the required affidavit by a medical expert
+
+ 4 under NRS § 41A.071. 3 ECF No. 30. Taylor then sought leave to file a corrected FAC that
+
+ 5 includes a statement about jurisdiction, venue, and the parties’ identities. ECF No. 34. Medic
+
+ 6 West thereafter moved for a more definite statement because the FAC did not detail which
+
+ 7 claims applied to it and the FAC was too vague for it to respond to. ECF No. 48.
+
+ 8         I grant in part Taylor’s motion for leave to file an amended complaint. He may file a
+
+ 9 second amended complaint that corrects the deficiencies in the FAC. I deny Clark County and
+
+10 UMC’s motion to dismiss because expert medical affidavits are not required in federal court.
+
+11 Because I grant Taylor leave to amend, I deny as moot LVMPD’s motion to dismiss and Medic
+
+12 West’s motion for a more definite statement.
+
+13 I.      I GRANT IN PART TAYLOR’S MOTION FOR LEAVE TO FILE.
+
+14         Federal Rule of Civil Procedure 15 requires district courts to “grant leave to amend freely
+
+15 when justice so requires.” Owens v. Kaiser Found. Health Plan, Inc., 244 F.3d 708, 712 (9th Cir.
+
+16 2001) (simplified). I apply this policy with “extreme liberality.” Id. (quotation omitted). I take
+
+17 five factors into account “to assess the propriety of a motion for leave to amend: bad faith, undue
+
+18 delay, prejudice to the opposing party, futility of amendment, and whether the plaintiff has
+
+19 previously amended the complaint.” Johnson v. Buckley, 356 F.3d 1067, 1077 (9th Cir. 2004).
+
+20
+
+21
+     3
+    Under NRS § 41A.071, a district court “shall dismiss” without prejudice a professional
+22
+   negligence suit “if the action is filed without an affidavit that . . . [s]upports the allegations
+   contained in the action” that is “submitted by a medical expert who practices or has practiced in
+23
+   an area that is substantially similar to the type of practice engaged in at the time of the alleged
+   professional negligence.”
+
+                                                     2
+         Case 2:25-cv-00840-APG-NJK            Document 53        Filed 03/13/26      Page 3 of 5
+
+
+
+
+ 1          Taylor’s FAC does not identify the parties to the suit or contain a statement of
+
+ 2 jurisdiction and venue. Taylor requests leave to correct his FAC to include a statement of
+
+ 3 jurisdiction and venue, identify the parties, and modify his allegations and claims. 4 However,
+
+ 4 even his corrected version does not identify which defendants he is suing for which claims and
+
+ 5 does not support each claim with factual allegations regarding each defendant’s actions. ECF No.
+
+ 6 34-1. I therefore deny Taylor’s motion to file his proposed corrected FAC, but I grant him leave
+
+ 7 to file a second amended complaint in compliance with the following guidelines.
+
+ 8          The amended complaint must be a complete document in and of itself and will supersede
+
+ 9 the FAC in its entirety. Ramirez v. Cnty. of San Bernardino, 806 F.3d 1002, 1008 (9th Cir.
+
+10 2015). Any allegations, parties, or requests for relief from prior papers that are not carried
+
+11 forward in the second amended complaint will no longer be before the court. The second
+
+12 amended complaint should identify the basis for the jurisdiction and venue of this court and
+
+13 identify each party.
+
+14          I advise Taylor to support each claim with factual allegations because all complaints
+
+15 “must contain sufficient allegations of underlying facts to give fair notice and to enable the
+
+16 opposing party to defend itself effectively.” Starr v. Baca, 652 F.3d 1202, 1216 (9th Cir.
+
+17 2011). When claims are alleged against multiple defendants, the complaint should clearly
+
+18 indicate which claims apply to which defendant. McHenry v. Renne, 84 F.3d 1172, 1178 (9th
+
+19 Cir. 1996). The plaintiff should specifically identify each defendant and support each claim with
+
+20 factual allegations about each defendant’s actions. Where multiple claims are alleged, the
+
+21 complaint should identify which factual allegations give rise to each particular claim. Taylor
+
+22
+     4
+       Clark County and UMC argue amendment would be futile because Taylor did not attach an
+23
+     affidavit by a medical expert as required by NRS § 41A.071. However, as discussed below, this
+     requirement does not apply in federal court.
+
+                                                     3
+             Case 2:25-cv-00840-APG-NJK           Document 53      Filed 03/13/26     Page 4 of 5
+
+
+
+
+ 1 should be aware that Federal Rule of Civil Procedure 8 requires “a short and plain statement of
+
+ 2 the claim.” Thus, the second amended complaint should not include lengthy repetitions of
+
+ 3 statutes, rules, and filings in other cases.
+
+ 4             In sum, I grant Taylor leave to file a second amended complaint that complies with these
+
+ 5 guidelines. I do not grant leave to file the corrected FAC that Taylor attached to his motion.
+
+ 6 II.         I DENY CLARK COUNTY AND UMC’S MOTION TO DISMISS.
+
+ 7             Clark County and UMC argue that all of Taylor’s claims must be dismissed because they
+
+ 8 sound in professional negligence and therefore require a medical expert affidavit under
+
+ 9 NRS § 41A.071. 5 NRS § 41A.071 does not apply in federal court because it is displaced by
+
+10 Federal Rule of Civil Procedure 8, which requires only “a short and plain statement of the claim”
+
+11 to file a complaint. See Berk v. Choy, 607 U.S. ----, 146 S. Ct. 546, 556-57 (2026). I therefore
+
+12 deny Clark County and UMC’s motion to dismiss.
+
+13 III.        I DENY ALL OTHER MOTIONS AS MOOT.
+
+14             LVMPD’s motion to dismiss and Medic West’s motion for a more definite statement
+
+15 both identify deficiencies in Taylor’s operative complaint. Because I grant Taylor’s motion for
+
+16 leave to file an amended complaint that will cure these deficiencies, I deny the motions as moot.
+
+17 But I encourage Taylor to review the arguments the defendants make in those motions when
+
+18 crafting his second amended complaint.
+
+19 / / / /
+
+20 / / / /
+
+21
+
+22 5
+     Taylor opposes this motion with hallucinogenic citations to non-existent cases. To the extent
+   Taylor has relied on artificial intelligence to write his papers, I caution him that it is his
+23
+   responsibility to check his case citations to ensure they are accurate and say what he claims they
+   do. The failure to do so may expose him to sanctions under Federal Rule of Civil Procedure 11.
+
+                                                       4
+         Case 2:25-cv-00840-APG-NJK        Document 53      Filed 03/13/26    Page 5 of 5
+
+
+
+
+ 1 IV.     CONCLUSION
+
+ 2         I THEREFORE ORDER that plaintiff Albert Taylor’s motion for leave to file (ECF No.
+
+ 3 34) is GRANTED IN PART. He may file a second amended complaint that conforms with the
+
+ 4 above guidelines by April 10, 2026.
+
+ 5         I FURTHER ORDER that defendants Clark County and University Medical Center’s
+
+ 6 motion to dismiss (ECF No. 30) is DENIED.
+
+ 7         I FURTHER ORDER that all other pending motions (ECF Nos. 27, 48) are DENIED as
+
+ 8 moot.
+
+ 9         DATED this 13th day of March, 2026.
+
+10
+
+11
+                                             ANDREW P. GORDON
+                                             CHIEF UNITED STATES DISTRICT JUDGE
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+
+
+                                                 5
+

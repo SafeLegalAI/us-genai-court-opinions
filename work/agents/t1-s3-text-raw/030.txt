@@ -1,0 +1,138 @@
+- 1 -
+IN THE UNITED STATES DISTRICT COURT
+FOR THE DISTRICT OF COLORADO
+Chief Judge Daniel D. Domenico
+Civil Action No. 1:25-cv-03129-DDD-KAS
+Y.S.,
+Plaintiff,
+v.
+JOHN DOE, et al.,
+Defendant.
+ORDER OVERRULING OBJECTIONS
+Plaintiff, proceeding pro se, is attempting to recover bitcoin that he
+alleges was improperly taken by scammers. Plaintiff does not know the
+identity of the scammers and so has been granted limited discovery to
+try to uncover the identities. He has asked to proceed pseudonymously
+because of threats he has received. Plaintiff now objects to two orders
+related to non-party subpoenas and his motion to proceed under pseu-
+donym.
+LEGAL STANDARDS
+“A pro se litigant’s pleadings are to be construed liberally and held
+to a less stringent standard than formal pleadings drafted by lawyers.”
+Hall v. Bellmon, 935 F.2d 1106, 1110 (10th Cir. 1991) (citing Haines v.
+Kerner, 404 U.S. 519, 520–21 (1972)). I cannot, however, act as a pro se
+litigant’s advocate. See Yang v. Archuleta, 525 F.3d 925, 927 n.1 (10th
+Cir. 2008). Pro se parties also must “follow the same rules of procedure
+that govern other litigants.” Nielsen v. Price, 17 F.3d 1276, 1277 (10th
+Cir. 1994) (quoting Green v. Dorrell, 969 F.2d 915, 917 (10th Cir. 1992)).
+Case No. 1:25-cv-03129-DDD-KAS Document 115 filed 06/04/26 USDC Colorado
+pg 1 of 5- 2 -
+When reviewing a magistrate judge’s order that is not dispositive of
+a party’s claim or defense, a Court should “modify or set aside any part
+of the order that is clearly erroneous or is contrary to law.” Fed. R. Civ.
+P. 72(a); 28 U.S.C. § 636(b)(1)(A). The magistrate judge’s factual find-
+ings may not be set aside unless “on the entire evidence [the court] is
+left with the definite and firm conviction that a mistake has been com-
+mitted.” United States v. U.S. Gypsum Co., 333 U.S. 364, 395 (1948);
+Residences at Olde Town Square Assoc. v. Travelers Cas. Ins. Co. of Am.,
+413 F. Supp. 3d 1070, 1072 (D. Colo. 2019) (citing Ocelot Oil Corp. v.
+Sparrow Indus., 847 F.2d 1458, 1464 (10th Cir. 1988)). Legal determi-
+nations may be set aside if the magistrate judge applied the wrong legal
+standard or applied the appropriate legal standard incorrectly. Olde
+Town Square, 413 F. Supp. 3d at 1072 (citing 12 Charles Alan Wright &
+Arthur R. Miller, Federal Practice and Procedure § 3069 (2d ed.)).
+DISCUSSION
+I. Motion to Compel Production
+The Court granted expedited discovery for the sole purpose of obtain-
+ing information to identify the unknown defendants. Doc. 48 at 6–7. Pur-
+suant to that order, the Court permitted Plaintiff to subpoena non-party
+Coinbase, the exchange he used to send the cryptocurrency. In the sub-
+poena, Plaintiff provided addresses to his own wallets and to wallets he
+believes are associated with the scammers, either because Plaintiff sent
+currency to or received currency from these wallets in connection with
+the scam. See Doc. 52-1 at 4–5. He then requested that Coinbase identify
+“[a]ny Coinbase customer account that Coinbase’s internal records at-
+tribute to the wallet addresses.” Id. at 4.
+Coinbase, although it listed several objections, informed Plaintiff
+that it had no responsive records because the owners of the wallets in
+question are not Coinbase customers. Plaintiff then moved to compel the
+Case No. 1:25-cv-03129-DDD-KAS Document 115 filed 06/04/26 USDC Colorado
+pg 2 of 5- 3 -
+production of the names and identifying information of any Coinbase
+customers who have interacted with the wallets at issue.
+Magistrate Judge Starnella denied Plaintiff’s motion to compel. She
+concluded that even if the language of the subpoena could support Plain-
+tiff’s broad reading, that reading would result in an overbroad sub-
+poena—both broader than the Court authorized and broader than Fed.
+R. Civ. P. 45 permits. See generally Doc. 83 and Doc. 90.
+Plaintiff now objects. He argues that Judge Starnella erred in con-
+cluding that Coinbase had no responsive records because Coinbase itself
+admitted that it had identified 70 accounts that transacted with the wal-
+lets at issue. And he argues that he should be permitted to subpoena
+these records because they may reveal individuals attributable to the
+scam wallets.
+I agree with Judge Starnella. The Court granted expedited discovery
+to obtain “only the names, current and permanent addresses, billing ad-
+dresses, telephone numbers, email addresses, and IP addresses associ-
+ated with each unknown defendant.” Doc. 48 at 7. And the subpoena’s
+language should be understood in that light, meaning that the custom-
+ers Coinbase can “attribute” to the wallets are the Coinbase customers
+that own the wallets.
+Plaintiff argues that Judge Starnella applied the wrong legal stand-
+ard either because she misconstrued Doc. 48, applied an unduly narrow
+relevance standard, or mischaracterized the request as a fishing expedi-
+tion. But Judge Starnella properly applied the relevant standards. As to
+the interpretation of Doc. 48 and the relevant standard, Plaintiff inac-
+curately claims that Judge Starnella created a categorical bar to discov-
+ery because the information would also include innocent customers. But
+Judge Starnella simply concluded that the request is overbroad because
+Plaintiff has no evidence about the 70 accounts and does not know
+Case No. 1:25-cv-03129-DDD-KAS Document 115 filed 06/04/26 USDC Colorado
+pg 3 of 5- 4 -
+whether the information would even be useful. The fact that the 70 ac-
+counts likely include other victims weighs in favor of their being irrele-
+vant under Rule 26 and unduely burdensome under Rule 45. For those
+same reasons, Judge Starnella correctly concluded that Plaintiff’s re-
+quest was a “fishing expedition.” And I agree with her conclusion that
+Plaintiff’s proposed temporal narrowing does not solve the problems
+identified.
+Plaintiff’s objections are overruled.1
+II. Motion to Proceed Under Pseudonym
+Plaintiff also objects to Judge Starnella’s order denying reconsidera-
+tion of his motion to proceed pseudonymously. He argues that Judge
+Starnella applied the wrong legal standard, but the transcript shows
+that Judge Starnella, after considering the new information Plaintiff
+provided, walked through (1) the severity of the threatened harm, (2)
+the reasonableness of the his fears, and (3) his vulnerability to retalia-
+tion—the same three-part test plaintiff cites. See Doc. 88 at 2 (citing Doe
+v. Megless, 654 F.3d 404, 408–10 (3d Cir. 2011)).
+Judge Starnella concluded that pseudonymity is not warranted in
+this case because the record shows that the individuals that threatened
+Plaintiff already know his name and address, and that he has not faced
+1 In his argument that Judge Starnella mischaracterized his request as
+a fishing expedition, Plaintiff cites to hallucinated cases and misattrib-
+utes conclusions that cannot be found in real cases. He cites a nonex-
+istent case, Diamond Fortress Techs., Inc. v. EverID, Inc., No. 19-337-
+LPS, 2022 WL 2239826, at *3–4 (D. Del. June 22, 2022), and gives the
+opposite holding of another case, Hard Drive Prods., Inc. v. Does 1-90,
+No. C11-03825 HRL, 2012 WL 1094653, *2–*3 (N.D. Cal. Mar. 30,
+2012). This is a sufficient alternative ground for overruling his objec-
+tions. See Doc. 90 at 21:18–20 (“I am warning you that if you continue
+to miscite cases and misstate cases, I will likely recommend that the
+district judge impose filing restrictions on you.”).
+Case No. 1:25-cv-03129-DDD-KAS Document 115 filed 06/04/26 USDC Colorado
+pg 4 of 5- 5 -
+any further threats. Plaintiff correctly notes that repeated threats are
+not strictly necessary, but he has not shown that Judge Starnella based
+her conclusions on an incorrect standard or incorrect information. While
+I understand Plaintiff’s apprehension and disagreement with the deci-
+sion, the bar to overturn a non-dispositive motion is high, and he has
+not shown error, clear or otherwise.
+CONCLUSION
+It is ORDERED that:
+Plaintiff’s objections, Doc. 88 and Doc. 104 are OVERRULED.
+DATED: June 4, 2026 BY THE COURT:
+Daniel D. Domenico
+Chief United States District Judge
+Case No. 1:25-cv-03129-DDD-KAS Document 115 filed 06/04/26 USDC Colorado
+pg 5 of 5

@@ -1,0 +1,52 @@
+[
+  {
+    "idx": 4,
+    "case": "Whiting v. City of Athens, Tenn.",
+    "reason": "CourtListener search throttled before a usable document could be retrieved."
+  },
+  {
+    "idx": 5,
+    "case": "John A. Griffiths",
+    "reason": "CourtListener search returned no matching fetchable court document."
+  },
+  {
+    "idx": 12,
+    "case": "In re Scott Mitchell Obeginski",
+    "reason": "CourtListener search throttled before a usable document could be retrieved."
+  },
+  {
+    "idx": 13,
+    "case": "Bolden v. Baltimore Gas & Electric Co (In re: Eric Chibueze Nwaubani)",
+    "reason": "CourtListener search returned no results."
+  },
+  {
+    "idx": 34,
+    "case": "Zack Jones v. Target Corporation",
+    "reason": "CourtListener search returned no results."
+  },
+  {
+    "idx": 52,
+    "case": "Horton v. Colvin",
+    "reason": "document mentions citation problems only in passing and does not substantively discuss AI or fabricated-citation sanctions"
+  },
+  {
+    "idx": 78,
+    "case": "Gerow v. Falcone",
+    "reason": "document mentions citation problems only in passing and does not substantively discuss AI or fabricated-citation sanctions"
+  },
+  {
+    "idx": 82,
+    "case": "Bixler v. Church of Scientology",
+    "reason": "CourtListener search returned no matching fetchable court document."
+  },
+  {
+    "idx": 83,
+    "case": "Kosel Equity v. McGregor",
+    "reason": "CourtListener search throttled before a usable document could be retrieved."
+  },
+  {
+    "idx": 103,
+    "case": "Creditors Adjustment Bureau, Inc. v. All Season Power LLC, et al.",
+    "reason": "CourtListener search throttled before a usable document could be retrieved."
+  }
+]

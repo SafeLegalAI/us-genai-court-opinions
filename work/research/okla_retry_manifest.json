@@ -1,0 +1,12 @@
+[
+  {
+    "id":"okla-rule-2026",
+    "kind":"decisions",
+    "source_url":"https://www.oscn.net/applications/oscn/deliverdocument.asp?citeid=551159",
+    "fetch_url":"https://storage.courtlistener.com/html/2026/02/18/in_re_addition_of_a_new_rule_to_the_rules_of_the_court_of_criminal_appeals.html",
+    "courtlistener_url":"https://www.courtlistener.com/opinion/10795792/x/",
+    "cluster_id":10795792,
+    "lead":"user brief; CourtListener anonymous search",
+    "used_storage":true
+  }
+]

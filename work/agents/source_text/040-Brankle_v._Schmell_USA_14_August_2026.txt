@@ -1,0 +1,340 @@
+MEMORANDUM DECISION
+Pursuant to Ind. Appellate Rule 65(D), this Memorandum Decision is not
+binding precedent for any court and may be cited only for persuasive value
+or to establish res judicata, collateral estoppel, or law of the case.
+
+IN THE
+
+Court of Appeals of Indiana
+FILED
+David W. Brankle,
+Appellant-Plaintiff
+
+Aug 14 2026, 9:10 am
+
+CLERK
+
+Indiana Supreme Court
+Court of Appeals
+and Tax Court
+
+v.
+
+Brooke Schmell,
+Appellee-Defendant
+
+August 14, 2026
+Court of Appeals Case No.
+26A-PL-887
+Appeal from the Marion Superior Court
+The Honorable John M. T. Chavis II, Judge
+Trial Court Cause No.
+49D05-2501-PL-003598
+
+Memorandum Decision by Judge Felix
+Chief Judge Tavitas and Judge Bradford concur.
+
+Court of Appeals of Indiana | Memorandum Decision 26A-PL-887 | August 14, 2026
+
+Page 1 of 10
+
+Felix, Judge.
+
+Statement of the Case
+[1]
+
+During discovery in his defamation lawsuit against Brooke Schmell, David
+Brankle propounded more than 25 interrogatories on Schmell without first
+seeking and obtaining the trial court’s permission to do so, as required by a
+local rule of court. When Schmell refused to respond to the unauthorized
+interrogatories, Brankle filed a motion to compel, which the trial court denied.
+The trial court also ordered Brankle to pay Schmell’s motion-to-compel-related
+expenses. Brankle now appeals from that sanctions order, and the parties
+collectively raise three issues for our review:
+1. Whether the trial court erred by denying Brankle’s motion to compel;
+2. Whether the trial court abused its discretion by ordering Brankle to pay
+Schmell’s motion-to-compel-related expenses; and
+3. Whether Schmell is entitled to appellate attorneys’ fees pursuant to
+Indiana Trial Rule 37(A)(4).
+
+[2]
+
+We affirm and remand with instructions.
+
+Facts and Procedural History
+[3]
+
+In January 2025, Brankle sued Schmell for defamation in Marion County,
+Indiana. As relevant here, Marion County Local Rule LR49-TR33-213(A)
+limits the number of interrogatories a party may propound to 25, including
+subparts; if a party wants to serve more than 25 interrogatories, the party must
+obtain leave of court and make a good cause showing. In July, both parties
+filed motions for leave to serve more than 25 interrogatories on one another,
+Court of Appeals of Indiana | Memorandum Decision 26A-PL-887 | August 14, 2026
+
+Page 2 of 10
+
+and both parties attached their proposed interrogatories to their motions. After
+a hearing, the trial court granted those motions.
+[4]
+
+In December, without seeking and obtaining leave of court, Brankle served a
+second set of interrogatories on Schmell. Schmell refused to answer the
+interrogatories without a court order, believing Brankle had failed to comply
+with Marion County Local Rule LR49-TR33-213(A). Brankle filed a motion to
+compel based on Indiana Commercial Court Rule 7 and Trial Rules 26, 33, and
+37. The trial court denied Brankle’s motion, stating in relevant part as follows:
+Brankle’s motion is totally without merit. First, Commercial
+Court Rules are inapplicable to this case[,] and Brankle should
+not cite to them again. Brankle’s repeated citations to rules that
+do not exist or fictitious cases leads the Court to opine that
+Brankle is using ChatGPT or other form of artificial intelligence
+to prepare his numerous motions, responses, and notices to the
+Court which is a violation of Ind. Trial Rule 11(A).
+Secondly, Marion County Local Rule 49-TR33-213(A) limits the
+number of interrogatories to 25 including subparts. To serve any
+interrogatories in excess of 25 requires leave of court. On
+November 18, 2025, the Court granted both parties’ motions for
+leave to serve additional interrogatories beyond 25 . . . . The
+interrogatories were attached to the parties’ motions and the
+Court’s November 18, 2025[,] order pertained to only those
+additional interrogatories. Under no circumstances did the Court
+authorize[] a blanket request to serve an unlimited number of
+additional interrogatories in perpetuity. If Brankle intends to
+serve additional interrogatories upon Schmell, he is required to
+seek leave of court to do so. The Court will then decide if he is
+allowed to serve those interrogatories. Regardless, Brankle has
+
+Court of Appeals of Indiana | Memorandum Decision 26A-PL-887 | August 14, 2026
+
+Page 3 of 10
+
+maintained a motion to compel that is premature, improper, and
+not supported by the trial rules.
+Appellant’s App. Vol. II at 48–49. The trial court awarded attorneys’ fees to
+Schmell for “having to respond to [Brankle’s] baseless motion,” instructing her
+to “file a fee request with an itemized statement within 7 days.” Id. at 49.
+[5]
+
+Schmell complied with the trial court’s instruction and requested $1,636.00 in
+motion-to-compel-related expenses. Specifically, Schmell’s attorneys spent ten
+hours reviewing the motion, preparing a response thereto and proposed order,
+reviewing Brankle’s reply in support of the motion, reviewing the trial court’s
+fee-granting order, and drafting the fee request and proposed order. Schmell’s
+counsel charged “$180 per hour for partner time and $160 per hour for associate
+attorney time. Both rates are at or below market value for work of this type in
+Indianapolis.” Appellee’s App. Vol. II at 52.
+
+[6]
+
+After a hearing, the trial court ordered Brankle to pay $1,546.00 of Schmell’s
+motion-to-compel-related expenses (the “Expenses Award”). Brankle then
+initiated this interlocutory appeal as of right pursuant to Indiana Appellate Rule
+14(A)(1). 1
+
+1
+
+Brankle fails to support numerous statements of fact with citations to the Record, as required by Indiana
+Appellate Rule 46(A)(5), (6)(a), and (8)(a). Brankle improperly includes statements of law in his Statement of
+Case. See Ind. Appellate Rule 46(A)(5) (providing the Statement of Case is a brief description of “the nature
+of the case, the course of the proceedings relevant to the issues presented for review, and the disposition of
+these issues by the trial court”). Additionally, instead of attaching to his appellate brief the order he is
+appealing herein, as required by Appellate Rule 46(A)(12), Brankle attached an order from this court that is
+Court of Appeals of Indiana | Memorandum Decision 26A-PL-887 | August 14, 2026
+
+Page 4 of 10
+
+Discussion and Decision
+[7]
+
+Brankle challenges the trial court’s denial of his motion to compel and the
+Expenses Award. See AMW Invs., Inc. v. Town of Clarksville, 246 N.E.3d 1213,
+1218–19 (Ind. 2024) (holding a party may challenge a contempt sanction and
+underlying discovery order on interlocutory appeal). “We review discovery
+orders and discovery sanctions for an abuse of discretion.” Id. at 1222 (citing
+State v. Int’l Bus. Machs. Corp., 964 N.E.2d 206, 209 (Ind. 2012); Care Grp. Heart
+Hosp., LLC v. Sawyer, 93 N.E.3d 745, 751 (Ind. 2018)). An abuse of discretion
+occurs if the trial court’s decision is “clearly against the logic and effect of the
+facts and circumstances and the error affects a party’s substantial rights.”
+Jennings v. Smiley, 249 N.E.3d 1071, 1075 (Ind. 2025) (quoting Hall v. State, 36
+N.E.3d 459, 466 (Ind. 2015)), reh’g denied (Mar. 25, 2025). “This deferential
+standard gives way to de novo review when it comes to interpreting” rules of
+court. Id. (citing Minges v. State, 192 N.E.3d 893, 896 (Ind. 2022)); see also
+Morrison v. Vasquez, 124 N.E.3d 1217, 1219 (Ind. 2019) (citing State v. Holtsclaw,
+977 N.E.2d 348, 349 (Ind. 2012)).
+
+[8]
+
+First, we address Brankle’s challenge to the denial of his motion to compel.
+Second, we address Brankle’s challenge to the Expenses Award. Third, we
+address Schmell’s request for appellate attorneys’ fees.
+
+unrelated to the instant appeal. We remind Brankle that his decision to proceed pro se does not loosen the
+requirements of our Appellate Rules. See Auto. Fin. Corp. v. Liu, 250 N.E.3d 406, 410 (Ind. 2025).
+Court of Appeals of Indiana | Memorandum Decision 26A-PL-887 | August 14, 2026
+
+Page 5 of 10
+
+1. The Trial Court Did Not Err by Denying Brankle’s Motion to
+Compel
+[9]
+
+Brankle contends the trial court erred by denying his motion to compel because
+“[u]nder the plain meaning of LR49-TR33-213 once the court granted leave to
+exceed the 25[-]interrogatory limit, the numerical ceiling was lifted.”
+Appellant’s Br. at 11. In construing Marion County Local Rule LR49-TR33213(A)’s meaning, “our objective is to ascertain and give effect to the intent
+underlying” it, In re P.R., 267 N.E.3d 1101, 1104 (Ind. Ct. App. 2025) (quoting
+Coronado v. Coronado, 243 N.E.3d 1121, 1124 (Ind. Ct. App. 2024)), trans. not
+sought. If the rule’s language “is clear and unambiguous, it is not subject to
+judicial interpretation.” Id. (citing Coronado, 243 N.E.3d at 1125). “We do not
+presume that the language was intended to be applied illogically or to bring
+about an unjust or absurd result.” Id. (citing Anderson v. Gaudin, 42 N.E.3d 82,
+86 (Ind. 2015)).
+
+[10]
+
+Marion County Local Rule LR49-TR33-213(A) provides as follows:
+“Interrogatories shall be limited to a total of 25 including subparts and shall be
+used solely for the purpose of discovery and shall not be used as a substitute for
+the taking of a deposition. For good cause shown and upon leave of Court
+additional interrogatories may be propounded.” This language simply does not
+give litigants carte blanche to serve interrogatories ad infinitum once they have
+obtained leave of court. Even if Marion County Local Rule LR49-TR33213(A) is ambiguous on this point, Brankle’s reading would defeat the rule’s
+
+Court of Appeals of Indiana | Memorandum Decision 26A-PL-887 | August 14, 2026
+
+Page 6 of 10
+
+purpose of regulating discovery and render superfluous the good cause
+requirement. 2
+[11]
+
+And the trial court here did not “lift[]” Marion County Local Rule LR49-TR33213(A)’s “numerical ceiling,” Appellant’s Br. at 11, nor did Brankle request it to
+do so. In Brankle’s first motion for leave to serve more than 25 interrogatories
+on Schmell, he sought only leave to serve the interrogatories attached to his
+motion: “[Brankle] respectfully requests this Court GRANT leave to serve
+thirty-one (31) interrogatories, inclusive of subparts upon [Schmell].”
+Appellee’s App. Vol. II at 3. Furthermore, nothing about the trial court’s order
+granting Brankle’s motion for leave granted him free rein to propound as many
+interrogatories as he saw fit. The trial court thus did not err by denying
+Brankle’s motion to compel.
+
+2. The Trial Court Did Not Abuse Its Discretion by Entering the
+Expenses Award
+[12]
+
+Brankle contends the trial court erred by entering the Expenses Award. 3
+Pursuant to Trial Rule 37(A)(4), when a trial court denies a motion to compel,
+
+2
+
+For the first time in his reply brief, Brankle argues that Marion County Local Rule LR49-TR33-213(A)
+conflicts with the Indiana Trial Rules. Because Brankle did not raise this argument in his opening brief, he
+has waived appellate review thereof. See Ind. Appellate Rule 46(C) (“No new issues shall be raised in the
+reply brief.”); Bowman v. State, 51 N.E.3d 1174, 1179–80 (Ind. 2016) (citing Curtis v. State, 948 N.E.2d 1143,
+1148 (Ind. 2011)) (explaining parties may not raise an issue for the first time in a reply brief).
+3
+
+As noted by Schmell, Brankle does not expressly challenge the amount of the Expenses Award. Brankle
+instead focuses his arguments on the propriety of the Expenses Award. To the extent his appellate arguments
+can be read to challenge the reasonableness of that award, Brankle does not present any cogent reasoning in
+support thereof, so he has waived that claim for our review. See App. R. 46(A)(8)(a)(requiring cogent
+reasoning); Miller v. Patel, 212 N.E.3d 639, 657 (Ind. 2023) (quoting Dridi v. Cole Kline LLC, 172 N.E.3d 361,
+Court of Appeals of Indiana | Memorandum Decision 26A-PL-887 | August 14, 2026
+
+Page 7 of 10
+
+it must award the party “who opposed the motion the reasonable expenses
+incurred in opposing the motion, including attorney[s’] fees, unless the court
+finds that the making of the motion was substantially justified or that other
+circumstances make an award of expenses unjust.”
+[13]
+
+First, Brankle claims the motion to compel was substantially justified. A party
+is “substantially justified” in filing a motion to compel “if reasonable persons
+could conclude that a genuine issue existed as to whether a person was bound
+to comply with the requested discovery.” Yount v. Carpenter Co. Inc., 219 N.E.3d
+127, 132 (Ind. Ct. App. 2023) (quoting Huber v. Montgomery Cnty. Sheriff, 940
+N.E.2d 1182, 1186 (Ind. Ct. App. 2010)). A motion riddled with citations to
+hallucinated authorities is hardly “substantially justified.” And while the
+parties clearly disagreed regarding the plain meaning of Marion County Local
+Rule LR49-TR33-213(A), that disagreement does not create ambiguity, cf.
+Sawyer, 93 N.E.3d at 753 (citing Jernas v. Gumz, 53 N.E.3d 434, 444 (Ind. Ct.
+App. 2016), trans. denied) (holding parties’ disagreement over plain meaning of
+contract does not create ambiguity), and thus did not mean a genuine issue
+existed as to whether Schmell was bound to comply with the requested
+discovery, see Ledden v. Kuzma, 858 N.E.2d 186, 189–90 (Ind. Ct. App. 2006)
+(quoting Pierce v. Underwood, 487 U.S. 552, 565 (1988)) (explaining
+“substantially justified” is “satisfied” if “reasonable people” could differ as to
+
+364 (Ind. Ct. App. 2021)) (explaining we will not “‘address arguments’ that are ‘too poorly developed or
+improperly expressed to be understood’”).
+Court of Appeals of Indiana | Memorandum Decision 26A-PL-887 | August 14, 2026
+
+Page 8 of 10
+
+the contested action’s “appropriateness”). The trial court did not abuse its
+discretion by determining that Brankle’s motion was not substantially justified.
+[14]
+
+Second, Brankle asserts the Expenses Award is unjust. Brankle’s arguments on
+this front are wholly unsupported by citations to authority and the record, as
+required by Indiana Appellate Rule 46(A)(8)(a), so he has waived them for our
+review. See Pierce v. State, 29 N.E.3d 1258, 1267 (Ind. 2015). Waiver
+notwithstanding, Brankle does not address the trial court’s findings that he cited
+to inapplicable Commercial Court Rules and hallucinated authorities. Brankle
+also fails to fully appreciate that as a pro se litigant, he is “‘held to the same
+standards as a trained attorney’ and ‘afforded no inherent leniency simply by
+virtue of being self-represented.’” Auto. Fin. Corp. v. Liu, 250 N.E.3d 406, 410
+(Ind. 2025) (quoting Zavodnik v. Harper, 17 N.E.3d 259, 266 (Ind. 2014)). On
+the facts of this case, we cannot say the trial court abused its discretion by
+determining that “other circumstances” did not make the Expenses Award
+unjust.
+
+3. Schmell Is Entitled to Appellate Attorneys’ Fees Pursuant to Trial
+Rule 37(A)(4)
+[15]
+
+Schmell requests that we award her reasonable appellate attorneys’ fees
+incurred in responding to Brankle’s appeal. A Trial Rule 37(A)(4) award
+“includes the reasonable expenses incurred by the party in defending the award
+on appeal.” M.S. ex rel. Newman v. K.R., 871 N.E.2d 303, 315 (Ind. Ct. App.
+2007) (citing City of Hammond v. Marina Entm’t Complex, Inc., 681 N.E.2d 1139,
+1145 (Ind. Ct. App. 1997), trans. denied), trans. denied. Schmell has prevailed in
+Court of Appeals of Indiana | Memorandum Decision 26A-PL-887 | August 14, 2026
+
+Page 9 of 10
+
+this appeal, so she is entitled to recover reasonable attorneys’ fees pursuant to
+Trial Rule 37(A)(4).
+
+Conclusion
+[16]
+
+In sum, the trial court did not err by denying Brankle’s motion to compel or
+entering the Expenses Award, and Schmell is entitled to her reasonable
+appellate attorneys’ fees incurred in responding to Brankle’s appeal. We
+therefore affirm the trial court on all issues raised and remand for a
+determination of Schmell’s reasonable appellate attorneys’ fees.
+
+[17]
+
+Affirmed and remanded.
+
+Tavitas, C.J., and Bradford, J., concur.
+
+APPELLANT PRO SE
+David W. Brankle
+Franklin, Indiana
+
+ATTORNEYS FOR APPELLEE
+Rori L. Goldman
+Brandais H. Hagerty
+Hill Knotts & Goldman, LLC
+Indianapolis, Indiana
+
+Court of Appeals of Indiana | Memorandum Decision 26A-PL-887 | August 14, 2026
+
+Page 10 of 10
+
+

@@ -1,0 +1,848 @@
+                    FOR PUBLICATION
+
+     UNITED STATES COURT OF APPEALS
+          FOR THE NINTH CIRCUIT
+
+UNITED STATES OF AMERICA,                         No. 25-3366
+                                                    D.C. No.
+               Plaintiff - Appellee,
+                                                 3:23-cr-00217-
+                                                    WHA-1
+    v.
+
+FERNANDO AGUILERA, AKA
+Fernando Aguilera,                                  OPINION
+
+               Defendant - Appellant.
+
+         Appeal from the United States District Court
+           for the Northern District of California
+          William Alsup, District Judge, Presiding
+          Argued and Submitted December 1, 2025
+                 San Francisco, California
+                     Filed August 24, 2026
+    Before: Johnnie B. Rawlinson and Gabriel P. Sanchez,
+     Circuit Judges, and Jennifer G. Zipps, Chief District
+                           Judge. *
+                    Opinion by Judge Zipps;
+              Partial Dissent by Judge Rawlinson
+
+
+*
+  The Honorable Jennifer G. Zipps, United States Chief District Judge
+for the District of Arizona, sitting by designation.
+2                        USA V. AGUILERA
+
+
+                          SUMMARY **
+
+
+                          Criminal Law
+
+    The panel affirmed Fernando Aguilera’s conviction
+following a bench trial for being a felon in possession of
+ammunition under 18 U.S.C. § 922(g)(1), vacated his
+sentence, and remanded for resentencing.
+    Affirming the district court’s denial of Aguilera’s motion
+to suppress, the panel held that the district court properly
+found that Aguilera’s seizure was supported by reasonable
+suspicion that Aguilera was the shooter who fired a gun
+outside a bar, where the district court considered officers’
+collective knowledge, and the totality of the circumstances,
+including that the officers apprehended Aguilera based on
+reports of specific criminal activity and the fact that Aguilera
+closely matched an eyewitness description in physical
+aspects and temporal proximity to the gunshots.
+    The panel vacated the sentence because the district court
+applied the wrong legal standard and relied on impermissible
+factors in denying Aguilera a two-level reduction for
+acceptance of responsibility under U.S.S.G. § 3E1.1(a). It is
+apparent from the record that the district court believed
+either that a defendant must unconditionally plead guilty to
+be eligible for the reduction, or that it could consider and
+hold against Aguilera his constitutionally protected
+conduct—i.e., his motion to suppress, motions to dismiss the
+indictment, and decision to go to trial to preserve those
+issues for appeal. This reflects a misapprehension of the
+
+**
+  This summary constitutes no part of the opinion of the court. It has
+been prepared by court staff for the convenience of the reader.
+                      USA V. AGUILERA                      3
+
+
+legal standard. The panel held that the error was not
+harmless.
+    Judge Rawlinson dissented from the portion of the
+opinion vacating the sentence and remanding for
+resentencing. In her view, the district court did not
+misapprehend the law or hold Aguilera’s constitutionally
+protected conduct against him in denying his request to
+reduce his sentence for acceptance of responsibility, and
+disagreed with the majority that the declared error was not
+harmless.
+
+
+
+                        COUNSEL
+
+Elizabeth R. Berenguer (argued) and Kelsey Davidson,
+Assistant United States Attorneys; Sophia Cooper, Attorney;
+Merry J. Chan, Assistant United States Attorney, Chief,
+Appellate Section; Criminal Division; Craig H. Missakian,
+United States Attorney; Office of the United States Attorney,
+United States Department of Justice, San Francisco,
+California; for Plaintiff-Appellee.
+Lisset M. Pino (argued), Taylor Fatherree, and Daniel P.
+Blank, Assistant Federal Public Defenders; Jodi Linker,
+Federal Public Defender; Office of the Federal Public
+Defender, San Francisco, California; for Defendant-
+Appellant.
+4                          USA V. AGUILERA
+
+
+                              OPINION
+
+ZIPPS, Chief District Judge:
+    This case arises from a police encounter following
+reports of an active shooter in San Francisco’s Mission
+District. Defendant-Appellant Fernando Aguilera was
+convicted of being a felon in possession of ammunition
+under 18 U.S.C. § 922(g)(1). His appeal raises two issues.
+First, Aguilera appeals the district court’s denial of his
+motion to suppress the ammunition evidence, asserting
+officers did not have reasonable suspicion to conduct a
+warrantless seizure of his person. Second, Aguilera appeals
+his sentence, arguing the district court erred by denying him
+a offense level reduction for acceptance of responsibility and
+relying on impermissible sentencing factors. 1 We have
+jurisdiction under 28 U.S.C. § 1291 and 18 U.S.C. § 3742.
+We affirm Aguilera’s conviction but vacate his sentence and
+remand for resentencing.
+    I. Factual Background
+    Shortly before 2:00 a.m. on April 7, 2023, the San
+Francisco Police Department received two SpotSpotter
+alerts of multiple gunshots in the Mission District. 2 The
+alerts originated near the El Trebol Bar, located on the corner
+
+
+1
+ Aguilera acknowledges that our precedent forecloses his appeal of the
+district court’s denial of his motions to dismiss the indictment on
+constitutional grounds. See United States v. Duarte, 137 F.4th 743, 748
+(9th Cir. 2025) (en banc); United States v. Latu, 479 F.3d 1153, 1156
+(9th Cir. 2007) (collecting cases). Accordingly, we summarily affirm the
+district court’s denial of these motions. We discuss these motions only
+as they pertain to Aguilera’s sentencing challenge.
+2
+  ShotSpotter is a service that detects gunshots and alerts local police to
+the precise coordinates where the gunshots were detected.
+                       USA V. AGUILERA                       5
+
+
+of 22nd and Capp Streets. Several officers arrived near the
+El Trebol bar around 2:00 a.m., within minutes of receiving
+the reports of gunshots at that location. A witness, later
+identified as Briseno, said he saw the shooter—a Hispanic
+male wearing a blue jacket—fire into the air and head
+westbound down 22nd Street. A second person outside El
+Trebol pointed officers in the same direction and said, “they
+went that way.” Officers Hurtado and Frisk saw a person
+walking away in that direction, and Officer Frisk saw the
+suspect turn left onto Mission Street.
+    Officers Grech and Hurtado took off after the suspect in
+their police vehicle. When they turned left onto Mission,
+Officer Hurtado confirmed that one of the two people within
+view matched the description provided by Briseno. Officer
+Grech stopped her vehicle near the suspect, and the two
+exited and ordered the suspect to stop and get on the ground.
+The suspect took off running, and Hurtado chased after him.
+During the chase, the suspect turned towards Officer
+Hurtado and “punched his arm out” in what Hurtado
+believed to be a shooting motion. Hurtado ducked behind a
+trashcan briefly, losing sight of him. Officer Hurtado then
+resumed the chase, following the suspect down 23rd Street
+until again losing sight of him at the intersection of 23rd and
+Bartlett.
+    Officer Hurtado broke off the chase outside of a
+restaurant on the southeast corner of the intersection and re-
+entered Officer Grech’s vehicle, which had caught up with
+him. As they drove up Bartlett Street, Officer Grech
+broadcast that the suspect was hiding on Bartlett Street,
+somewhere between 22nd and 23rd. Officer Hurtado
+provided an expanded description of the fleeing suspect—
+“Hispanic male, dark skin, long hair, blue jacket, and jeans,
+6                     USA V. AGUILERA
+
+
+and black shoes,” which was broadcast to the rest of the
+officers.
+    Several officers were in the area searching for the
+suspect. Around 2:08 a.m., Officer Frisk approached a
+person standing in the doorway of the restaurant on the
+southeast corner of the intersection of Bartlett and 23rd and
+asked if she saw where “the guy that was running went to.”
+She told Officer Frisk and Officer Hurtado that she saw him
+run to the intersection, attempt to hide by a parked car, and
+then relocate behind the white fence at the northeast corner
+of the intersection. The person confirmed the man was still
+hidden there.
+    A few seconds later, Officer Frisk peered through a large
+gap in the fence, shined his flashlight directly at Aguilera,
+and spotted him lying in a narrow strip of weeds. Officer
+Frisk pointed his firearm at Aguilera and yelled, “Hands!”
+Aguilera was detained at 2:08 a.m., roughly two blocks from
+the location of the alerts.
+    In the course of Aguilera’s detention, officers found the
+gun at issue in this case. The gun had a bullet jammed in the
+chamber, a malfunction caused by the gun attempting to fire
+the wrong-sized ammunition. Officers also found
+ammunition in a bag Aguilera was carrying across his body
+and found a magazine in his pocket. Aguilera fit the
+description of the suspect provided by Officer Hurtado,
+except that Aguilera was wearing tan boots, not black shoes.
+Aguilera also wore a bright red and white bandana around
+his neck.
+    Aguilera subsequently filed motions to suppress the
+evidence obtained from his stop and to dismiss the
+indictment against him. After the district court denied both,
+Aguilera offered to enter a conditional plea and proposed a
+                      USA V. AGUILERA                       7
+
+
+stipulated-testimony bench trial so he could preserve his
+right to appeal the denial of the three pretrial motions.
+Aguilera stated he intended to “stipulate to the testimony of
+all the witnesses that the Government may wish to call,” and
+stated he was “not intending to contest his guilt in any way.”
+At the bench trial, the Government called two witnesses.
+Aguilera did not cross-examine the witnesses and did not
+present a defense. The trial lasted 48 minutes, and the court
+found Aguilera guilty.
+    At a presentence interview, Aguilera cooperated with the
+probation officer and submitted a statement, through
+counsel, “tak[ing] full responsibility for this offense.” The
+probation officer calculated Aguilera’s offense level as 18
+and the Guidelines sentencing range as 51 to 63 months. The
+calculation did not include a two-level reduction for
+acceptance of responsibility. The probation officer
+concluded Aguilera had “not clearly demonstrated
+acceptance of responsibility,” under U.S.S.G. § 3E1.1(a),
+but acknowledged that “the Court is in the best position to
+make the determination as to whether or not a reduction for
+Acceptance of Responsibility is applicable.” The probation
+officer recommended a sentence of 41 months.
+    At his sentencing hearing, Aguilera argued that he was
+entitled to a two-point reduction in his Guidelines
+calculation for his acceptance of responsibility and that the
+applicable range was 41 to 51 months. After considering
+arguments, the district court found Aguilera was not entitled
+to the reduction because he had gone to trial and sentenced
+Aguilera based on the original 51 to 63 months range. The
+court ultimately imposed a sentence of 45 months.
+8                     USA V. AGUILERA
+
+
+    II. Discussion
+     A. Aguilera’s Motion to Suppress
+    Aguilera challenges the district court’s denial of his
+motion to suppress, arguing that officers lacked reasonable
+suspicion to detain him before he was seized. “We review
+the denial of a motion to suppress de novo, and any
+underlying findings of fact for clear error.” United States v.
+Vandergroen, 964 F.3d 876, 879 (9th Cir. 2020) (citing
+United States v. Torres, 828 F.3d 1113, 1118 (9th Cir.
+2016)). We may affirm on any basis fairly supported by the
+record. See United States v. Mayer, 560 F.3d 948, 956 (9th
+Cir. 2009).
+    Under the Fourth Amendment, law enforcement officers
+must have reasonable suspicion to conduct an investigatory
+stop of an individual. United States v. Brignoni-Ponce, 422
+U.S. 873, 878 (1975). “Reasonable suspicion is defined as ‘a
+particularized and objective basis for suspecting the
+particular person stopped of criminal activity.’” United
+States v. Cotterman, 709 F.3d 952, 968 (9th Cir. 2013) (en
+banc) (quoting United States v. Cortez, 449 U.S. 411, 417–
+18 (1981)). Courts measure reasonable suspicion “by what
+the officers knew before they conducted their search [or
+seizure],” Florida v. J.L., 529 U.S. 266, 271 (2000), and
+assess the totality of the circumstances, rather than certain
+factors in isolation, see United States v. Valdes-Vega, 738
+F.3d 1074, 1078–79 (9th Cir. 2013) (en banc) (citing United
+States v. Arvizu, 534 U.S. 266, 273–74 (2002)). Reasonable
+suspicion requires more than a hunch, but “considerably less
+than proof of wrongdoing by a preponderance of the
+evidence.” United States v. Glover, 589 U.S. 376, 380 (2020)
+(citation omitted).
+                          USA V. AGUILERA                             9
+
+
+    The district court properly found Aguilera’s seizure was
+supported by reasonable suspicion. The court considered the
+collective knowledge of the officers, see United States v.
+Ramirez, 473 F.3d 1026, 1032 (9th Cir. 2007), and the
+totality of the circumstances, in concluding the officers
+reasonably suspected that Aguilera was the shooter who
+fired a gun outside El Trebol. Eyewitnesses identified the
+shooter to the responding officers, and Officer Hurtado
+visually identified a person matching the suspect’s
+description, location, and direction of travel. At one point,
+Officer Hurtado was as little as five feet from the suspect.
+    When officers caught up and ordered the suspect to stop,
+he fled. 3 A few minutes later, officers found Aguilera hiding
+behind a fence, in close proximity to where Officer Hurtado
+had last seen the suspect, and a witness stated she saw the
+“running” man hide in that exact location. This is sufficient
+evidence to trigger reasonable suspicion that Aguilera had
+committed a crime. Before conducting the seizure, the
+officers had far more than a hunch that the person hiding
+behind the fence was the shooter. See Glover, 589 U.S. at
+381 (citing Arvizu, 534 U.S. at 274) (“The reasonable
+suspicion inquiry ‘falls considerably short’ of 51%
+accuracy.”).
+    Aguilera argues police lacked reasonable suspicion to
+stop him for three reasons: (1) Briseno’s tip that the shooter
+was a Hispanic male wearing a blue jacket was unreliable
+
+
+3
+  We do not consider whether reasonable suspicion existed to stop the
+suspect before he fled, as Aguilera urges, because no seizure had
+occurred at that point in time. See United States v. Hamilton, 131 F.4th
+1087, 1093 (9th Cir. 2025) (reasoning an attempted seizure, where a
+defendant flees “before the officers could do anything other than order
+him to stop,” does not trigger the Fourth Amendment).
+10                     USA V. AGUILERA
+
+
+and lacked particularity; (2) the pedestrian’s flight was
+insufficient because it was not in a high-crime area and was
+provoked by the officers; and (3) police did not confirm
+whether Aguilera matched the description of the shooter
+until after seizing him. Aguilera’s arguments are
+unpersuasive.
+    Briseno’s initial tip was reliable because it was provided
+directly to Officer Hurtado and was based on a
+contemporaneous eyewitness account of recent gunfire. See
+United States v. Terry-Crespo, 356 F.3d 1170, 1176–77 (9th
+Cir. 2004) (reasoning first-hand information under stress of
+recent excitement contributes to reliability); United States v.
+Palos-Marquez, 591 F.3d 1272, 1275–76 (9th Cir. 2010)
+(reasoning in-person tips provide substantial indicia of
+reliability when officers are able to observe the informant’s
+demeanor and “determine whether the informant seems
+credible enough to justify immediate police action without
+further questioning”). While Aguilera claims Briseno had a
+drunken demeanor and that there was no evidence of an
+excited utterance, Briseno appears coherent in the body-
+worn camera footage and asks Hurtado to act quickly to
+prevent the suspect from getting away.
+    The particularity of Briseno’s description further
+supports a finding of reasonable suspicion. Contrary to
+Aguilera’s claims that a description of a Hispanic male in a
+blue jacket was too general to allow officers to pick such a
+person out of an area with a high concentration of Hispanic
+residents that was “bustling” with nightlife, the officers’
+body-worn camera footage reveals nearly empty streets and
+                           USA V. AGUILERA                            11
+
+
+few open businesses. 4 And before attempting to stop the
+pedestrian on Mission Street, Officer Hurtado confirmed that
+the pedestrian either was, or matched the description of, the
+individual on 22nd Street that witnesses pointed to and that
+Officer Hurtado had seen.
+     Aguilera’s argument that the suspect’s flight on Mission
+Street did not warrant reasonable suspicion because it was
+provoked and did not occur in a high-crime area relies in
+large part on an assumption that flight was the only factor
+contributing to the officers’ reasonable suspicion here. See
+Illinois v. Wardlow, 528 U.S. 119, 124–25 (2000) (holding
+officers had reasonable suspicion to stop suspect based on an
+unprovoked flight in “an area of heavy narcotics
+trafficking”). As discussed above, officers apprehended
+Aguilera based on reports of specific criminal activity, an
+eyewitness description and visual of the suspect, and the fact
+that Aguilera closely matched the description in physical
+aspects and temporal proximity to the gunshots. Aguilera’s
+flight was simply an additional factor supporting the
+officers’ reasonable suspicion, not the sole factor. See id.
+(“[N]ervous, evasive behavior is a pertinent factor in
+determining reasonable suspicion.”).
+    Aguilera suggests that, prior to seizing the individual
+hiding behind the fence, officers should have (1) provided
+the witness at the restaurant with Hurtado’s description of
+the pedestrian, and (2) confirmed the hiding person’s
+
+4
+  Aguilera identifies 12 pedestrians who are seen in body-worn camera
+footage during the entire pursuit. Police talk to seven of them when they
+arrive on scene. Three are later seen in the restaurant where police
+receive the tip that Aguilera is hiding behind the white fence. Two are
+not seen on camera footage until after Aguilera was arrested. This was
+far from a situation where police arbitrarily picked one of many
+pedestrians wearing a blue jacket out of a crowd.
+12                      USA V. AGUILERA
+
+
+appearance matched the description. Neither course of action
+is required under our caselaw to establish reasonable
+suspicion. In light of the totality of the circumstances
+described above and the officers’ collective belief that the
+suspect had a loaded firearm, it is clear the officers had
+reasonable suspicion to detain the individual hiding behind
+a white fence in a manner that did not jeopardize their safety.
+See Wardlow, 528 U.S. at 124–25 (citing Cortez, 449 U.S. at
+418) (“[T]he determination of reasonable suspicion must be
+based on commonsense judgments and inferences about
+human behavior.”). Contrary to what Aguilera suggests,
+Officer Frisk had a clear view of Aguilera’s clothing through
+“a large gap in the fence, and pointed his flashlight directly
+at defendant before detaining him,” and therefore, he would
+have been able to see if Aguilera matched the eyewitness
+descriptions. Thus, we agree with the district court’s findings
+that officers possessed adequate reasonable suspicion to
+detain Aguilera.
+     B. Sentencing Reduction           for    Acceptance       of
+        Responsibility
+    Aguilera argues his sentence should be vacated because
+the district court applied the wrong legal standard and relied
+on impermissible factors in denying the acceptance of
+responsibility reduction. “We review de novo whether the
+district court misapprehended the law with respect to the
+acceptance of responsibility reduction.” United States v.
+Tuan Ngoc Luong, 965 F.3d 973, 990 (9th Cir. 2020)
+(quoting United States v. Garrido, 596 F.3d 613, 617 (9th
+Cir. 2010)). “Whether or not the defendant has accepted
+responsibility . . . is a factual finding that we review for clear
+error.” Id. Because we conclude the district court applied the
+wrong legal standard, we remand for resentencing.
+                        USA V. AGUILERA                       13
+
+
+    The Sentencing Guidelines allow for a two-level
+reduction to a defendant’s offense level, “[i]f the defendant
+clearly demonstrates acceptance of responsibility for his
+offense.” U.S.S.G. § 3E1.1(a). The defendant has the burden
+of proving he is entitled to a reduction. United States v. Innie,
+7 F.3d 840, 848 (9th Cir. 1993). In deciding whether the
+reduction should apply, “[t]he focus . . . must be ‘on the
+defendant’s personal contrition, rather than on his exercise
+of his constitutional rights.’” Tuan Ngoc Luong, 965 F.3d at
+991 (quoting United States v. McKinney, 15 F.3d 849, 853
+(9th Cir. 1994)). “When a defendant’s ‘statements and
+conduct make it clear that his contrition is sincere, he is
+entitled to the reduction.’” United States v. Green, 940 F.3d
+1038, 1042 (9th Cir. 2019) (cleaned up) (quoting United
+States v. Cortes, 299 F.3d 1030, 1038 (9th Cir. 2002)).
+Although “there can be a fine line between putting on a
+defense at trial, and expressing contrition at sentencing,” this
+determination “is not a binary, ‘either/or’ proposition.”
+United States v. Hernandez, 894 F.3d 1104, 1111 (9th Cir.
+2018).
+    A defendant’s decision to go to trial does not preclude
+him from receiving this offense-level decrease. U.S.S.G.
+§ 3E1.1 cmt. 2. As explained in comment 2 of the United
+States Sentencing Guidelines:
+
+        In rare situations a defendant may clearly
+        demonstrate an acceptance of responsibility
+        for his criminal conduct even though he
+        exercises his constitutional right to a trial.
+        This may occur, for example, where a
+        defendant goes to trial to assert and preserve
+        issues that do not relate to factual guilt (e.g.,
+        to make a constitutional challenge to a statute
+14                     USA V. AGUILERA
+
+
+       or a challenge to the applicability of a statute
+       to his conduct).
+
+Id. Like the decision to go to trial or a constitutional
+challenge to a criminal statute, a motion to suppress evidence
+under the Fourth Amendment “is an assertion of a
+constitutional right.” United States v. Vance, 62 F.3d 1152,
+1157 (9th Cir. 1995). In Vance, the panel noted that a district
+court erred by “holding it against [the defendant] that he
+moved to suppress evidence before pleading guilty.” Id. We
+have repeatedly emphasized that “a sentencing court cannot
+consider against a defendant any constitutionally protected
+conduct.” Hernandez, 894 F.3d at 1109 (citation omitted)
+(emphasis in original). Indeed, “a judge cannot rely upon the
+fact that a defendant refuses to plead guilty and insists on his
+right to trial as the basis for denying an acceptance of
+responsibility adjustment.” Id. (citing United States v.
+Ochoa-Gaytan, 265 F.3d 837, 842 (9th Cir. 2001) (internal
+quotation marks and citation omitted)).
+    In the full context of the proceedings, it is apparent that
+the district court misapprehended the law regarding the
+acceptance of responsibility reduction and held Aguilera’s
+constitutionally protected conduct against him. The record
+does not support the Government’s contention that the
+context of the district court’s comments shows its denial was
+based on Aguilera’s conduct and statements as a whole. At
+the sentencing hearing, the district court repeatedly focused
+on Aguilera’s constitutionally protected conduct, i.e.,
+Aguilera’s motion to suppress, motions to dismiss the
+indictment, and decision to go to trial to preserve those
+issues for appeal. At the outset, the district court expressed
+skepticism that Aguilera could receive a reduction for
+acceptance of responsibility while preserving his right of
+                           USA V. AGUILERA                             15
+
+
+appeal. When defense counsel stated Aguilera tried to accept
+responsibility, the court responded: “He hasn’t. He has not.
+He insisted on taking an appeal, and it’s like a conditional
+acceptance of responsibility. . . . he’s picking and choosing
+the things that he wants to contest, and he made two motions
+to dismiss -- so one to suppress, one to dismiss.” The district
+court suggested that a conditional plea of guilty could not be
+treated the same as an unconditional guilty plea because, by
+pleading guilty conditionally, “you’re still hoping to stay out
+of prison by getting the Ninth Circuit to say that . . . all the
+evidence should be suppressed, and he walks free.”
+    The district court subsequently made statements
+acknowledging a lack of certainty about the applicable legal
+standard. When defense counsel mentioned the Guidelines
+commentary which states a defendant, who goes to trial to
+preserve for appeal issues that do not relate to factual guilt,
+may qualify for the reduction (U.S.S.G. § 3E1.1 cmt. n.2),
+the district court stated, “I didn’t realize that.” 5 The
+Government argued that the court should deny acceptance
+based in part on Aguilera’s exercise of his constitutional
+rights. For example, in its sentencing memorandum, the
+Government asserted Aguilera “never admitted guilt and is
+appealing a motion to suppress and two motions to dismiss.”
+At the sentencing hearing, the Government emphasized that
+Aguilera did not unconditionally plead guilty and a bench
+
+5
+  When the discussion returned to this commentary, the district court
+stated, “That doesn’t call out suppression motions, does it?” and inquired
+from counsel whether a defendant’s entry of a conditional guilty plea to
+preserve their right to appeal a motion to suppress should count as
+acceptance of responsibility. Government counsel replied that they had
+not found Ninth Circuit guidance on point. Later, the district court again
+stated, “I don’t see where the contrition is,” in Aguilera’s offer to
+conditionally plead guilty.
+16                       USA V. AGUILERA
+
+
+trial took place, and the district court appeared to echo the
+government’s incorrect interpretation of the standard. When
+the court denied Aguilera a reduction for acceptance of
+responsibility, the district court specifically identified
+Aguilera’s exercise of his rights as the basis for the denial:
+
+        [T]o me, acceptance of responsibility is
+        somebody comes in and says: I did it. I’m
+        sorry. I’m going to make amends. I want to
+        get on with my life and the victims’ lives, and
+        I don’t have any quibbles.
+            But when somebody comes in and says,
+        “I want to suppress under the Fourth
+        Amendment,” lose, and now, “I want to
+        dismiss because I don’t think the statute
+        applies to me,” or “It’s unconstitutional.”
+        And then they lose, and then they come in and
+        say, “Well, I want to preserve all that for
+        appeal, but I otherwise will plead guilty.” It’s
+        not acceptance of responsibility. So all of this
+        is denied. He gets no acceptance of
+        responsibility, period.
+
+The court never acknowledged the correct legal standard—
+that it could not hold Aguilera’s constitutionally-protected
+conduct against him.
+    The district court also did not state that it was relying on
+other, permissible factors to deny the reduction. 6 Nor did the
+
+6
+ The Guidelines commentary sets out a non-exhaustive list of factors
+courts may consider in evaluating whether to grant the reduction. See
+U.S.S.G. § 3E1.1 cmt. n.1. We have explained that pursuing “less
+                            USA V. AGUILERA                                17
+
+
+court address any of Aguilera’s personal conduct or
+statements, such as his statement to Probation, although
+defense counsel raised it as evidence of contrition. See
+Hernandez, 894 F.3d at 1111 (reversing denial of reduction
+where “the district court’s comments regarding [the
+defendant]’s decision to go to trial comprised virtually the
+entirety of the explanation for the sentence”). 7
+
+
+rigorous avenues of preserving legal challenges,” including entering a
+conditional guilty plea, agreeing to a bench trial, or stipulating to facts at
+trial, are ways a defendant may demonstrate their sincerity in accepting
+factual responsibility while advancing a legal challenge. United States v.
+Gambino-Ruiz, 91 F.4th 981, 991 (9th Cir. 2024). Here, Aguilera did all
+of these things, and he did not put on a defense at trial or cross-examine
+any of the government’s witnesses.
+7
+  The dissent, relying on Hernandez, suggests “a district court does not
+commit reversible error simply because it notes the fact that the
+defendant went to trial, so long as the court bases its final decision on the
+facts of the case and record as a whole.” Dissenting Opinion at 23
+(quoting Hernandez, 894 F.3d at 1111). But the dissent fails to consider
+whether the district court correctly calculated the Guidelines range when
+it denied the acceptance of responsibility reduction. Instead, the dissent
+reviews only whether the district court based its final sentencing decision
+on the facts of the case and record as a whole. Dissenting Opinion at 23.
+We have held that we must analyze “whether the district court correctly
+calculated the Guidelines range as the first step in our review of criminal
+sentences.” United States v. Ramos-Medina, 706 F.3d 932, 941 (9th Cir.
+2013) (emphasis added); see also United States v. Carty, 520 F.3d 984,
+993 (9th Cir. 2008) (en banc) (explaining that “[o]n appeal, we first
+consider whether the district court committed significant procedural
+error,” e.g., “fail[ure] to calculate—or to calculate incorrectly—the
+Guidelines range,” before “consider[ing] the substantive reasonableness
+of the sentence”). And our case law is clear “that a judge cannot rely
+upon the fact that a defendant refuses to plead guilty and insists on his
+right to trial as the basis for denying an acceptance of responsibility
+adjustment.” Hernandez, 894 F.3d at 1111; see also, e.g., Ramos-
+18                          USA V. AGUILERA
+
+
+    It is apparent from the record that the district court
+believed either that a defendant must unconditionally plead
+guilty to be eligible for the reduction, or that it could
+consider Aguilera’s constitutional motions and decision to
+go to trial against him. As discussed above, this reflects a
+misapprehension of the relevant legal standard. See
+Gambino-Ruiz, 91 F.4th at 991. 8
+     C. The Error Was Not Harmless
+   Given that the two-point acceptance of responsibility
+reduction would change Aguilera’s Guidelines range and
+may have resulted in a shorter sentence, we find this error to
+
+Medina, 706 F.3d at 942 n.4 (“[A] district court may deny the reduction
+after ‘balancing all relevant factors,’ . . . but—in doing so—it ‘may not
+consider against the defendant any constitutionally protected conduct.’”
+(internal citations & brackets omitted)). Here, the district court
+misapprehended the law in denying the reduction for acceptance of
+responsibility when it calculated the Guidelines range. The fact that the
+district court subsequently—in a separate analysis of the length of the
+final sentence—considered other § 3553(a) factors, such as Aguilera’s
+impoverished upbringing and the seriousness of the offense, does not
+affect our holding.
+8
+  Under the circumstances present here, the court also improperly
+penalized Aguilera for exercising his constitutional rights to trial and
+against self-incrimination by relying on his decision not to stipulate to
+all the facts and elements underlying his conviction. The Government
+consistently argued that the reduction was not warranted because
+Aguilera did not stipulate to all facts underlying the offense of conviction
+and the Government had to prepare for trial. The district court agreed.
+But Aguilera is correct that a defendant’s stipulation to all elements of
+his crime would render an appeal of a suppression ruling moot. See
+United States v. Larson, 302 F.3d 1016, 1019–20 (9th Cir. 2002). To
+avoid this outcome and ensure the appellate court retains jurisdiction, a
+defendant may seek a conditional guilty plea or stipulate to the admission
+of testimony and evidence at trial. Id. at 1019 & n.1 (citing Fed. R. Crim.
+P. 11(a)(2)). That is precisely what Aguilera did.
+                       USA V. AGUILERA                       19
+
+
+be prejudicial. “To establish harmlessness, the Government
+must show that ‘it is more probable than not’ that the error
+did not affect the sentence.” United States v. Dominguez-
+Caicedo, 40 F.4th 938, 963 (9th Cir. 2022) (quoting United
+States v. Morales, 108 F.3d 1031, 1040 (9th Cir. 1997) (en
+banc)). “When a defendant is sentenced under an incorrect
+Guidelines range—whether or not the defendant’s ultimate
+sentence falls within the correct range—the error itself can,
+and most often will, be sufficient to show a reasonable
+probability of a different outcome absent the error.” Molina-
+Martinez v. United States, 578 U.S. 189, 198 (2016). If the
+district court acknowledges the correct Guidelines range is
+in dispute and analyzes both the correct and incorrect ranges,
+the sentencing error may be harmless. United States v.
+Munoz-Camarena, 631 F.3d 1028, 1030 n.5 (9th Cir. 2011).
+    Here, the district court acknowledged what the
+Guidelines range would have been with the reduction, 41 to
+51 months, and without it, 51 to 63 months, but analyzed
+only the 51- to 63-month range. The court considered the
+standard sentencing factors and imposed a below-range
+sentence of 45 months. Because the district court did not
+conduct a separate analysis of the alternative Guidelines
+range, it did not satisfy the requirements for harmless error.
+See Munoz-Camarena, 631 F.3d at 1031. A court “must
+explain . . . the reason for the extent of a variance” which
+“necessarily is different when the range is different.” Id.
+Contrary to our dissenting colleague’s position, a district
+court’s mere acknowledgement of an alternative Guidelines
+range or “mere statement that it would impose the same
+above-Guidelines sentence no matter what the calculation”
+is not sufficient to establish harmless error. Id. Additionally,
+the probation office’s recommended sentence, 41 months,
+was at the low end of the lower range. Thus, a reasonable
+20                     USA V. AGUILERA
+
+
+probability exists that the court may have imposed a lower
+sentence had it started from the 41 to 51-month range. See
+Dominguez-Caicedo, 40 F.4th at 963–64. The Government
+has not shown that the error was harmless under the
+circumstances.
+   Because this error was not harmless, we vacate
+Aguilera’s sentence and remand for resentencing. See Tuan
+Ngoc Luong, 965 F.3d at 992–93.
+  III. Conclusion
+    We affirm the district court’s denial of Aguilera’s motion
+to suppress and motions to dismiss the indictment, and we
+affirm Aguilera’s conviction. We vacate Aguilera’s sentence
+and remand for resentencing consistent with this opinion.
+
+
+Rawlinson, Circuit Judge, dissenting in part:
+
+    I respectfully dissent from the portion of the opinion
+vacating the sentence imposed and remanding for
+resentencing. In my view, the district court did not
+“misapprehend[] the law” or “[hold] [Fernando] Aguilera’s
+constitutionally protected conduct against him” in denying
+Aguilera’s request to reduce his sentence based on
+acceptance of responsibility. Majority Opinion, p. 14.
+    As noted by the majority, Aguilera filed a motion to
+suppress evidence and motions to dismiss the indictment.
+Aguilera went to trial to preserve these issues for appeal. See
+id.
+    At sentencing, the district court referenced these actions
+in denying the request for a sentencing reduction based on
+acceptance of responsibility.
+                       USA V. AGUILERA                      21
+
+
+   The district court observed that in its view:
+
+       [A]cceptance of responsibility is somebody
+       comes in and says: I did it. I’m sorry. I’m
+       going to make amends. I want to get on with
+       my life and the victims’ lives. . . .
+       But when someone says, “I want to suppress
+       under the Fourth Amendment,” lose, and
+       now, “I want to dismiss because I don’t think
+       the statute applies to me,” or “It’s
+       unconstitutional.” And then they lose, and
+       then they come in and say “Well, I want to
+       preserve all that for appeal, but I otherwise
+       will plead guilty.” It’s not acceptance of
+       responsibility.
+
+     The district court also noted that the prosecution was put
+to its burden of proving Aguilera’s guilt beyond a reasonable
+doubt. Nevertheless, the district court clarified that even
+though it was denying a sentence reduction based on
+acceptance of responsibility, that didn’t mean that the court
+wouldn’t go below the guideline range in imposing sentence.
+The court described the possibility of sentencing below the
+guideline range as “a different thing altogether.” The court
+thus limited its comments regarding going to trial solely to
+the determination of “the starting point.”
+    Before imposing sentence, the district court discussed at
+some length the factors it considered in imposing the
+sentence, remarking that:
+
+       [I]t is true that his upbringing and his life was
+       very shameful; not so much for him, I’m
+22                     USA V. AGUILERA
+
+
+        talking about the circumstances under which
+        he was raised.
+        But here’s the thing: I can understand
+        somebody stealing a loaf of bread out of the
+        grocery [store] because their family is hungry
+        and they have had [a] terrible upbringing.
+        But I don’t understand why a terrible
+        upbringing—that brings somebody to a state
+        of a mind that they feel like they can take a
+        gun, as a convicted felon, knowing they
+        cannot—and shoot it up in the air and
+        endanger people. There’s nothing about that
+        poverty and that terrible upbringing that
+        should excuse that. So I don’t buy that
+        argument.
+
+     The court, however, stated further:
+
+        But what I do buy [as] a reduction is . . .—
+        I’m taking into account the seriousness of—
+        the standard factors. I think 51 months is too
+        harsh for what he did here and for the needs
+        of deterrence. But 45 months is the lowest
+        sentence that will take into account the
+        statutory factors.
+
+    Finally, the district court referenced the lack of
+contrition, stating that: “I don’t see where the contrition is.
+He still thinks he should walk free.” In sum, the facts of this
+case significantly undermine the majority’s reliance on
+United States v. Hernandez, 894 F.3d 1104 (9th Cir. 2018).
+   Unlike the facts in this case, in Hernandez the “district
+court’s comments regarding Hernandez’s decision to go to
+                          USA V. AGUILERA                            23
+
+
+trial comprised virtually the entirety of the explanation for
+the sentence.” Id. at 1111. Unlike the facts in this case, the
+district court did not “specify which factors it
+considered . . . or whether it considered any facts at all
+beyond Hernandez’s decision to exercise his constitutional
+rights.” Id. Indeed, we explained that our decision in
+Hernandez is limited to the unique circumstance when the
+court “[e]nhanc[es] a sentence solely because a defendant
+chooses to go to trial.” Id. at 1112 (emphasis added). We
+observed that “[i]t does not appear that the court based its
+final decision on the facts of this case and on this particular
+record as a whole.” Id. at 1111 (citation and internal
+quotation marks omitted). We clarified that “a district court
+does not commit reversible error simply because it notes the
+fact that the defendant went to trial, so long as the court bases
+its final decision on the facts of the case and record as a
+whole.” Id. (quoting United States v. Rojas-Pedroza, 716
+F.3d 1253, 1270 (9th Cir. 2013)) (internal quotation marks
+omitted). The facts of this case fit squarely within our
+holding in Rojas-Pedroza, cited with approval in Hernandez.
+    To summarize, unlike the circumstances in Hernandez,
+the district court in this case discussed the circumstances of
+the offense, Aguilera’s background, its consideration of the
+sentencing factors, and the lack of contrition. These facts
+confirm that the district court “base[d] its final [sentencing]
+decision on the facts of the case and record as a whole,”
+Hernandez, 894 F.3d at 1111 (citations omitted), and not
+solely on Aguilera’s election to proceed to trial. See id. at
+1112. 1
+
+1
+  The majority accuses me of “fail[ing] to consider whether the district
+court correctly calculated the Guidelines range when it denied the
+24                         USA V. AGUILERA
+
+
+    Finally, the majority opines that the declared error was
+not harmless because the district “court did not conduct “a
+separate analysis” of the 41 to 51-month range.” Majority
+Opinion, p. 19. I disagree. The district court explicitly
+stated that “45 months is the lowest sentence that will take
+into account the statutory factors.” The court could have not
+been any plainer regarding its view of the appropriate
+sentence considering the facts of this case. See Molina-
+Martinez v. United States, 578 U.S. 189, 200 (2016)
+(explaining that a sentencing error may be harmless despite
+an incorrect guidelines calculation if the record shows that
+“the district court thought the sentence it chose was
+appropriate irrespective of the Guidelines range”).
+     I respectfully dissent.
+
+
+
+
+acceptance of responsibility reduction.” Majority Opinion, p. 17 n.7.
+However, this reasoning assumes that the district court erred in denying
+the acceptance of responsibility reduction, an assumption I do not share.
+

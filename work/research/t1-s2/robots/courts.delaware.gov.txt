@@ -1,0 +1,15 @@
+User-agent: *
+Disallow: /opinions/download.aspx?ID=144670
+Disallow: /opinions/download.aspx?ID=135640
+Disallow: /opinions/download.aspx?ID=80280
+Disallow: /opinions/download.aspx?ID=160340
+Disallow: /opinions/download.aspx?ID=213920
+Disallow: /opinions/download.aspx?ID=71240
+Disallow: /OPINIONS/download.ASPx?ID=71240
+Disallow: /opinions/download.aspx?ID=206330
+Disallow: /Superior/pdf/admin_order_2015_1.pdf
+Disallow: /opinions/download.aspx?ID=203680
+Disallow: /opinions/download.aspx?ID=237150
+Disallow: /_declt
+
+ 

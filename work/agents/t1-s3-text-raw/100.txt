@@ -1,0 +1,261 @@
+UNITED STATES DISTRICT COURT
+SOUTHERN DISTRICT OF OHIO
+WESTERN DIVISION
+FELICIA BROCK, et al.,
+Plaintiffs,
+v.
+HAMILTON COUNTY JFS
+CHILDREN SERVICES, et al.,
+Defendants.
+Case No. 1:25-cv-685
+JUDGE DOUGLAS R. COLE
+Magistrate Judge Bowman
+OPINION AND ORDER
+Plaintiff Felicia Brock, proceeding pro se and in forma pauperis, asks this
+Court to intervene in ongoing state child custody proceedings. Magistrate Judge
+Bowman issued a Supplemental Report and Recommendation (Supplemental R&R,
+Doc. 18) advising the Court to dismiss Brock’s case with prejudice based on Younger
+abstention1 and lack of jurisdiction under Rooker-Feldman.2 For the reasons
+discussed below, the Court ADOPTS the Supplemental R&R (Doc. 18) and
+DISMISSES Brock’s Amended Complaint (Doc. 14), but does so WITHOUT
+PREJUDICE. Accordingly, the initial R&R (Doc. 5) and the Defendant’s pending
+Motions to Dismiss (Docs. 9, 15), are DISMISSED as MOOT.
+1 Under Younger v. Harris, a federal court confronting a state proceeding must abstain from
+ruling on such a case where (1) it “is currently pending,” (2) it “involves an important state
+interest,” and (3) “[the state forum] affords the plaintiff an adequate opportunity to raise
+constitutional claims,” unless bad faith exists. Carroll v. City of Mount Clemens, 139 F.3d
+1072, 1074 (6th Cir. 1998) (citations omitted); Moore v. Sims, 442 U.S. 415, 432 (1979).
+2 In a similar vein, the Rooker-Feldman doctrine precludes lower federal courts “from
+exercising appellate jurisdiction over final state-court judgments.” Lance v. Dennis, 546 U.S.
+459, 463 (2006).
+Brock et al v. Hamilton County JFS Children Services et al Doc. 25
+Dockets.Justia.com2
+BACKGROUND
+Felicia Brock filed the instant action alleging that the Hamilton County Job
+and Family Services (JFS) “removed her children from her custody in violation of the
+Fourteenth Amendment.” (R&R, Doc. 5, #769). Specifically, Brock argues that the
+Defendants here “stated false allegations in court,” and interfered with the custody
+of her children. (Id.). Interestingly, though, Brock had previously filed suit in the
+Hamilton County Court of Common Pleas “seeking to reverse a ruling of the Juvenile
+Division” and also seeking to return her children to her custody. (Id. at #770). In that
+case, JFS had moved to dismiss, arguing “lack of subject matter jurisdiction and
+failure to state a claim,” as well as qualified immunity. (Id.). The Common Pleas court
+granted the motion to dismiss on December 8, 2023. (Id.).
+Then, on September 17, 2025, Brock initiated her action in this Court, filing a
+motion for leave to proceed in forma pauperis, attaching a proposed complaint. (Doc.
+1). On September 26, 2025, the Magistrate Judge granted her leave to proceed IFP.
+(Doc. 3). But that same day, the Magistrate Judge issued an R&R (Doc. 5) exercising
+her screening authority under 28 U.S.C. § 1915. There, she recommended that this
+Court “lacks jurisdiction” to consider Brock’s Complaint under the Rooker-Feldman
+doctrine. (Id. at #770). Based on that, the Magistrate Judge further recommended
+that Brock’s Complaint be dismissed with prejudice for “failure to state a claim for
+relief.” (Id. at #771).
+On September 29, 2025, Brock timely objected to the initial R&R, arguing that
+(1) “the recommendation fails to consider over 300 pages of submitted evidence,”
+(2) “the recommendation is prejudiced and ignores material facts,” and (3) “Plaintiff’s3
+arguments are based on law and fact.” (Doc. 7, #1010–11 (cleaned up)). Based on that,
+she makes a “request for de novo review.” (Id. at #1011). A day later, Brock also
+submitted additional objections, alleging (1) “the Magistrate Judge erred in
+concluding plaintiff failed to state a claim,” (2) “violation of plaintiff’s First
+Amendment rights,” (3) “violation of Plaintiff’s Fourteenth Amendment rights
+(family integrity and due process),” (4) “defamation and false statements,”
+(5) “neglect and abuse in foster care,” and (6) “emotional harm and PTSD.” (Doc. 11,
+#1029–30).
+The same day Brock filed the additional objections, Defendants also moved to
+dismiss Brock’s Complaint. (Doc. 9). Brock then subsequently filed an Amended
+Complaint with the Court on October 3, 2025. (Doc. 14). Defendants responded to that
+by collectively moving to dismiss that Amended Complaint under Rules 12(b)(1) and
+12(b)(6), (Doc. 15), to which Brock responded, (Doc. 16).
+Given the two-part objections, the motions to dismiss, and the Amended
+Complaint, Magistrate Judge Bowman elected to issue a Supplemental R&R (Doc.
+18). There, she once again recommends that the Court dismiss the action because,
+despite the additional allegations the Amended Complaint supplies, this Court “lacks
+subject matter jurisdiction” under Rooker-Feldman and must abstain under Younger.
+(Id. at #2392–93). Finding those grounds dispositive, she declined to reach any of the
+other issues the Defendants raised, but she did observe that Brock had “failed to
+identify any HCJFS policy that would serve as a basis for her claims.” (Id. at #2394
+(citation omitted)). Brock timely filed additional objections to the Supplemental R&R,4
+raising six “fundamental legal errors.” (Doc. 21, #2419–20). The matter is now ripe
+for review.
+LEGAL STANDARD
+If a party objects to an R&R within the allotted time, the Court “shall make a
+de novo determination of those portions of the report or specified proposed findings
+or recommendations to which objection is made.” 28 U.S.C. § 636(b)(1)(C); see also
+Fed. R. Civ. P. 72(b)(3). But the de novo review requirement applies “only to any
+portion to which a proper objection was made.” Bates v. Ohio Dep’t of Rehab. & Corr.,
+No. 1:22-cv-337, 2023 WL 4348835, at *1 (S.D. Ohio July 5, 2023) (emphasis added)
+(citation modified). In response to such an objection, the Court “may accept, reject, or
+modify, in whole or in part, the findings or recommendations made by the magistrate
+judge.” 28 U.S.C. § 636(b)(1)(C).
+“Only specific objections are entitled to de novo review under … 28 U.S.C.
+§ 636.” Wischer ex rel. Ernst v. Comm’r of Soc. Sec., No. 1:13-cv-810, 2015 WL
+1107543, at *1 (S.D. Ohio Mar. 11, 2015) (citations omitted). By contrast, if a party
+makes a general objection, that “has the same effect[] as would a failure to object.”
+Howard v. Sec’y of Health & Hum. Servs., 932 F.2d 505, 509 (6th Cir. 1991). In other
+words, a litigant must identify each issue in the R&R to which she objects with
+sufficient clarity for the Court to identify it, or else the litigant waives the Court’s de
+novo review of the issue. Miller v. Currie, 50 F.3d 373, 380 (6th Cir. 1995) (“The
+objections must be clear enough to enable the district court to discern those issues5
+that are dispositive and contentious.” (citation omitted)). The reason for the
+specificity requirement is:
+The district court’s attention is not focused on any specific issues
+for review [when a party generally objects to an R&R], thereby
+making the initial reference to the magistrate useless. The
+functions of the district court are effectively duplicated as both
+the magistrate and the district court perform identical tasks. This
+duplication of time and effort wastes judicial resources rather
+than saving them, and runs contrary to the purposes of [28 U.S.C.
+§ 636].
+Howard, 932 F.2d at 509. Each objection to an R&R should thus “include how the
+analysis is wrong, why it was wrong, and how de novo review will obtain a different
+result on that particular issue.” Wischer, 2015 WL 1107543, at *1 (citation omitted).
+“Merely restating arguments previously presented, merely stating a disagreement
+with a magistrate judge’s suggested resolution, or simply summarizing what has been
+presented before is not a specific objection that alerts the district court to the alleged
+errors on the part of the magistrate judge.” Id. (citations omitted).
+For any unobjected portions of an R&R, “the advisory committee notes to
+Federal Rule of Civil Procedure 72(b) suggest that the Court still must ‘satisfy itself
+that there is no clear error on the face of the record in order to accept the
+recommendation.’” Redmon v. Noel, No. 1:21-cv-445, 2021 WL 4771259, at *1 (S.D.
+Ohio Oct. 13, 2021) (collecting cases).
+The statute on which the Magistrate Judge relies, 28 U.S.C. § 1915(e)(2)(B),
+requires a court, at any time, to dismiss a case that it determines (1) “is frivolous or
+malicious,” (2) “fails to state a claim upon which relief may be granted,” or (3) “seeks
+monetary relief against a defendant who is immune from such relief.” In making6
+those assessments, the Court analyzes a pro se complaint less stringently than one
+drafted by a lawyer. Erickson v. Pardus, 551 U.S. 89, 94 (2007) (citing Estelle v.
+Gamble, 429 U.S. 97, 106 (1976)). But, notably, “[t]he liberal treatment of pro se
+pleadings does not require lenient treatment of substantive law.” Johnson v. Stewart,
+No. 08-1521, 2010 WL 8738105, at *3 (6th Cir. May 5, 2010) (citation omitted).
+LAW AND ANALYSIS
+The Supplemental R&R recommends dismissing Brock’s Amended Complaint
+both due to the Rooker-Feldman doctrine and Younger abstention. (Doc. 18, #2392–
+93). Construed liberally, Brock raises six objections to that R&R. (Doc. 21).
+Specifically, in this second round of objections, Brock asserts (1) “[the] misapplication
+of Rooker Feldman,” (2) “[the] misapplication of Younger,” (3) “[the] failure to accept
+well-pleaded allegations,” (4) the Magistrate Judge prematurely granted qualified
+immunity, (5) “[there is] an error on [the] statute of limitations,” and (6) “[there is an]
+error on [the] Monell claim.” (Id. at #2420 (cleaned up)). Because the Court rejects
+her first two objections, it concludes that it lacks jurisdiction, and so the Court need
+not and thus does not reach the remaining objections.
+Start with Rooker-Feldman. In the Supplemental R&R, the Magistrate Judge
+found that the Rooker-Feldman doctrine bars this Court from “exercising jurisdiction
+over plaintiff’s claims challenging the rulings of the state court.” (Doc. 18, #2392
+(citation omitted)). Specifically, the Magistrate Judge pointed to “a prior action filed
+by Plaintiff against the same defendants in the instant action, seeking to reverse a
+ruling of the Juvenile Division of the Hamilton County Court of Common Pleas and7
+return her children to her.” (Id. at #2391). The Magistrate Judge concluded that
+Brock’s action here, while “couched in terms of a civil rights action,” “essentially
+amount[s] to a collateral attack of a state-court judgment terminating the plaintiff’s
+parental rights.” (Id. at #2392 (citing Lee v. Johnson-Wharton, No. 1:14-cv-868, 2014
+WL 7015178, at *4 (S.D. Ohio Aug. 11, 2014))).
+Brock contends that the Magistrate Judge misapplied Rooker-Feldman.
+Specifically, she says that Rooker-Feldman protects only state court judgments, while
+she is attacking misconduct that led to the judgment. (Doc. 21, #2407–08).
+While she is not entirely wrong about the limited scope of Rooker-Feldman, the
+Court ultimately finds her objection lacks merit. To start it appears her objection on
+this front relies on hallucinated case law. Brock cites to Jansen v. City of Cincinnati,
+904 F.3d 336, 349–50 (6th Cir. 2018), which she describes as specifically holding that
+“§ 1983 claims against child welfare workers for fabricating evidence are not barred
+by Rooker-Feldman.” (Doc. 21, #2408 (emphasis omitted)). She further says that the
+case is “directly on point and binding.” (Id. at #2409 (emphasis in original)). But
+there are a couple of problems with that. First, 904 F.3d 336 is the citation for Gilkers
+v. Vannoy, a Fifth Circuit case involving a habeas petition. Admittedly, there is a
+Jansen v. City of Cincinnati, 904 F.2d 336 (6th Cir. 1990). And as Brock is proceeding
+pro se, the Court could perhaps forgive her referring to F.3d, as opposed to F.2d. But
+that still leaves the second problem—that Jansen opinion likewise says nothing about
+childcare workers and § 1983. Rather, it involves a challenge to race-based quotas for
+city employment. Id. at 338–39. In sum, the Court is left with the distinct impression8
+that Brock is using artificial intelligence tools to craft her objections and is not
+checking the resulting citations with care. Accordingly, the Court specifically advises
+Brock that if future filings contain misstatements about the contents of precedent,
+the Court will not hesitate to sanction her.
+Putting aside her reliance on what appears to be a fabricated case law citation,
+her objection also lacks merit. True, the Sixth Circuit has recently confirmed that
+Rooker-Feldman is a narrow doctrine. See HPIL Holding Inc. v. Zhang, 168 F.4th
+944, 948 (6th Cir. 2026). But even at its narrowest, it covers “cases brought by state-
+court losers complaining of injuries caused by state-court judgments rendered before
+the district court proceedings commenced and inviting district court review and
+rejection of those judgments.” Id. at 949 (quoting Exxon Mobil Corp. v. Saudi Basic
+Indus. Corp., 544 U.S. 280, 284 (2005)). That is exactly what Brock seeks to
+accomplish here. Her sole injury is the allegedly wrongful deprivation of access to her
+children. Yet, that deprivation is exclusively a result of the state-court custody
+determination. Stated differently, to provide the relief she seeks, the Court perforce
+would need to revisit that custody determination, which is precisely what Rooker-
+Feldman says this Court cannot do.
+Brock attempts to avoid that result by claiming that she is attacking the
+procedures that the defendants used in securing that custody determination (e.g.,
+allegedly fabricating evidence and lying). (Doc. 21, #2406–07). And, had those
+procedures imposed an independent harm on her, she may be on to something. But
+they didn’t. Instead, the entirety of her claimed harm flows directly from the state9
+court judgment. Thus, her challenge here falls within Rooker-Feldman, no matter
+how narrowly confined.
+The Court similarly rejects Brock’s objection that the Magistrate Judge
+misapplied Younger. The Magistrate Judge found that the abstention doctrine set out
+in Younger v. Harris applies to this case, specifically noting that the Younger
+umbrella “include[s] certain ... ‘civil proceedings involving certain orders that are
+uniquely in furtherance of the state courts’ ability to perform their judicial functions,’
+such as divorce and custody orders.” (Doc. 18, #2393 (citations omitted)); see also
+Meyers v. Franklin Cty. Ct. of Common Pleas, 23 F. App’x 201, 204 (6th Cir. 2001)
+(“[C]ases out of the Supreme Court and [the Sixth Circuit] make it clear that
+abstention is generally appropriate in matters of family relations such as child
+custody.”). In Brock’s case, the Magistrate Judge concluded that abstention is
+ultimately warranted because “the dependency case is currently pending in the
+Hamilton County juvenile court,” and further, “the dependency case implicates
+important state interests in child custody and parental rights.”3 (Id. (citations
+omitted)). Finally, Brock has made “no allegation that the state juvenile court
+proceedings [have not provided] an opportunity for plaintiff to raise any
+constitutional claims in connection with the dependency proceedings.” (Id. at #2393–
+94 (citation omitted)).
+3 The Court has been advised that, as of the date of this Order, the dependency case is still
+pending before the Hamilton County Juvenile Court.10
+Brock, though, argues that Magistrate Judge erred in applying Younger
+abstention here. She once again notes that it is a narrow doctrine and argues that it
+applies in only three exceptional circumstances: “(1) parallel state criminal
+proceedings, (2) civil enforcement actions akin to criminal prosecutions; and (3) civil
+proceedings involving certain orders uniquely in furtherance of state courts’ judicial
+functions.” (Doc. 21, #2410). She says she is instead bringing a “damages action,”
+which does not fall within any of the three categories. (Id.).
+Once again, the Court agrees with Brock that Younger abstention, like Rooker-
+Feldman, is a narrow doctrine. But it still applies here. She asks the Court to
+interfere with ongoing child welfare proceedings. But, as she acknowledges, in Moore,
+442 U.S. 415, the Supreme Court applied Younger in just that setting. She says her
+case is distinguishable because Moore involved prospective relief, while she seeks
+damages for “completed violations.” (Doc. 21, #2410). But her Amended Complaint
+tells a different story. There, she distinctly requests “[i]njunctive relief ordering
+Defendants to cease interference with Plaintiff’s visitation and relationship with her
+children.” (Doc. 14, #1071). In short, her attempt at distinguishing Moore falls short,
+and thus her objection does, too.
+For both of these reasons, the Court agrees with the Supplemental R&R that
+the Court lacks jurisdiction to consider this matter. But that leads to the one issue on
+which the Court parts ways with the R&R. Because the dismissal is on essentially
+jurisdictional grounds, whether Rooker-Feldman or Younger abstention, the Court
+dismisses the action without prejudice, rather than with prejudice as the R&R11
+suggests. See Aaron v. O’Connor, 914 F.3d 1010, 1020–21 (6th Cir. 2019) (holding that
+dismissals on Younger abstention grounds must be without prejudice); Pancake v.
+McCowan, 64 F. App’x 464, 465 (6th Cir. 2003) (affirming district court order
+dismissing claim without prejudice on Rooker-Feldman grounds); see also English v.
+Crochet, 154 F.4th 369, 372 n.2 (5th Cir. 2025) (citations omitted) (“The Rooker–
+Feldman doctrine is jurisdictional. Accordingly, the claim should have been
+dismissed without prejudice.”).4
+CONCLUSION
+For the reasons discussed above, the Court OVERRULES Plaintiff’s Objection
+(Doc. 21), largely ADOPTS the Supplemental R&R (Doc. 18), and DISMISSES
+Brock’s Amended Complaint (Doc. 14), but does so WITHOUT PREJUDICE.
+Therefore, the Court ORDERS the Clerk to enter judgment and to TERMINATE
+this matter from the docket. The initial R&R (Doc. 5) and the Defendant’s pending
+Motions to Dismiss (Docs. 9, 15), are DISMISSED as MOOT.
+SO ORDERED.
+May 15, 2026
+DATE DOUGLAS R. COLE
+UNITED STATES DISTRICT JUDGE
+4 Technically, abstention under Younger is not jurisdictional. It is instead a “limited carve-
+out to federal courts’ ‘virtually unflagging obligation’ to exercise their jurisdiction.” Hill v.
+Snyder, 878 F.3d 193, 205 (6th Cir. 2017) (quoting Deakins v. Monaghan, 484 U.S. 193, 203
+(1988)). That is, it “permits federal courts to withhold authorized jurisdiction in certain
+circumstances to avoid undue interference with state court proceedings. Id. at 204 (citation
+omitted). But for purposes of deciding whether dismissals are with or without prejudice,
+courts treat it as jurisdictional.
+ED as MOO O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O OT T T. T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T
+UGLAS R. COLE
+ITED STATES DISTRICT J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J JU

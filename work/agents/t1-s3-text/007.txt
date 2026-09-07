@@ -1,0 +1,265 @@
+                     NOTICE: NOT FOR OFFICIAL PUBLICATION.
+ UNDER ARIZONA RULE OF THE SUPREME COURT 111(c), THIS DECISION IS NOT PRECEDENTIAL
+                 AND MAY BE CITED ONLY AS AUTHORIZED BY RULE.
+
+
+
+
+                                    IN THE
+             ARIZONA COURT OF APPEALS
+                                DIVISION ONE
+
+
+                              In re the Matter of:
+
+         NATASHIA LYNN VILLANUEVA, Petitioner/Appellant,
+
+                                        v.
+
+             CORD CHANTRY BOWERS, Respondent/Appellee.
+
+                           No. 1 CA-CV 25-0345 FC
+                               FILED 06-11-2026
+
+
+           Appeal from the Superior Court in Mohave County
+                       No. S8015DO202400364
+              The Honorable Richard D. Lambert, Judge
+
+                 VACATED IN PART AND REMANDED
+
+
+                                   COUNSEL
+
+Natashia Villanueva, Galena, OH
+Petitioner/Appellant
+
+Berkshire Law Office PLLC, Tempe, AZ
+By Keith Berkshire, Alexandra Sandlin, Elizabeth Nanez, Alicia Derr
+Counsel for Respondent/Appellee
+                       VILLANUEVA v. BOWERS
+                          Decision of the Court
+
+
+
+                     MEMORANDUM DECISION
+
+Judge James B. Morse Jr. delivered the decision of the Court, in which
+Presiding Judge Andrew M. Jacobs and Judge Brian Y. Furuya joined.
+
+
+M O R S E, Judge:
+
+¶1           Natashia Villanueva ("Mother") appeals the superior court's
+child support order. For the following reasons, we vacate the order and
+remand.
+
+            FACTS AND PROCEDURAL BACKGROUND
+
+¶2            Mother and Cord Bowers ("Father") divorced in Texas in 2015.
+In 2018, Mother lived in Iowa, and the Texas court awarded Father sole
+legal decision-making authority for the parties' three children, named him
+the primary residential parent, and granted Mother limited parenting time
+in Texas. The court continued Mother's obligation to pay $334.54 in child
+support each month as set forth in the dissolution decree.
+
+¶3           Father later relocated to Mohave County with the children. In
+June 2024, Mother—who then resided in Ohio—registered the Texas decree
+and modification order in Arizona and petitioned to modify legal decision-
+making authority, parenting time, and child support.
+
+¶4            After a hearing, the superior court found a significant and
+continuing change in circumstances warranted modifying the previous
+orders. It granted Father sole legal decision-making authority and
+designated him the primary residential parent. The court ordered that
+Mother have parenting time on holidays and school breaks and required
+her to exercise that parenting time in Mohave County. The superior court
+also modified Mother's child support payment from $344.54 per month to
+$1,997 per month.
+
+¶5            Mother appealed the superior court's modification order. We
+have jurisdiction under A.R.S. § 12-2101(A)(2).
+
+                             DISCUSSION
+
+¶6           Mother challenges the superior court's child support order,
+arguing the court abused its discretion by imputing income to her without
+
+
+                                    2
+                        VILLANUEVA v. BOWERS
+                           Decision of the Court
+
+competent evidence. Mother also challenged the legal decision-making and
+parenting time orders, but after the superior court modified those orders on
+March 10, 2026, the parties agreed that her appeal of those rulings is moot.
+
+I.     Waiver under ARCAP 13.
+
+¶7            Mother's opening and reply briefs failed to comply with
+ARCAP Rule 13 and Arizona Rule of the Supreme Court 111(c)(1). Mother's
+opening brief contained citations to a non-existent case, citations to cases
+with incorrect and impossible pin cites, citations to a memorandum
+decision issued before 2015, and other errors. Father noted these issues in
+his answering brief and argued Mother's arguments should be considered
+waived. Mother responded to this argument by denying the errors and
+insisting her citations were correct. This Court ordered Mother to file a
+supplemental brief to address her citation problems, and she then confessed
+she used generative artificial intelligence to produce her briefs and failed to
+check the accuracy of her briefs' citations.
+
+¶8             We may consider an argument waived if it is "not supported
+by adequate explanation, citations to the record, or authority." Ramos v.
+Nichols, 252 Ariz. 519, 522, ¶ 8 (App. 2022) (quoting In re Aubuchon, 233 Ariz.
+62, 64–65, ¶ 6 (2013)). Mother's briefs are inadequately supported by legal
+authority. But waiver is a discretionary doctrine. Logan B. v. Dep't of Child
+Safety, 244 Ariz. 532, 536, ¶ 9 (App. 2018). We generally decline to find
+waiver when a child's best interests are at issue. Solorzano v. Jensen, 250
+Ariz. 348, 350, ¶ 8 (App. 2020). Because the calculation of child support
+affects the best interests of the children here, we decline to find waiver. See
+id.
+
+II.    Child Support.
+
+¶9            We review a superior court's award of child support for an
+abuse of discretion and accept its findings of fact unless they are clearly
+erroneous. Engel v. Landman, 221 Ariz. 504, 510, ¶ 21 (App. 2009). The
+Arizona Child Support Guidelines, A.R.S. § 25-320 app. ("Guidelines") state
+that child support income—income for purposes of calculating child
+support—includes income from any source. Guidelines § II.A.1.a–b.
+Mother did not give the superior court any tax returns, paystubs, or wage
+and tax statements to establish her income for purposes of calculating child
+support. The Affidavit of Financial Information ("AFI") she submitted to
+the court listed gross monthly income of $2,511, monthly expenses of
+$10,480, and debt totaling $2,088. Mother indicated that she had paid her
+attorney $20,000 in fees and noted the source of those funds as "self." She
+
+
+
+                                      3
+                         VILLANUEVA v. BOWERS
+                            Decision of the Court
+
+left blank the portion of the AFI requesting her total gross income for the
+last three tax years.
+
+¶10          At the evidentiary hearing, Mother testified that she owns a
+business and her income from the business varies monthly. She stated:
+
+       There's some times I will have a really good month, where I'll
+       do a lot of jobs, and I'll make—I'll bank personally, maybe
+       35—40—5 grand tops, monthly. There's other months, for
+       example, winter months where you don't really work in the
+       winter. * * * So in the winter months I bring home, I mean, let's
+       see, I brought home $2,300 in the winter months.
+
+¶11          Mother also testified that she had not filed a tax return for the
+prior two years and did not know her income for those years.
+
+¶12           The superior court found Mother's testimony vague and
+abstract and determined that the $2,511 gross income listed in her AFI was
+not credible given her $10,000 monthly expenses. It concluded that Mother
+makes at least $10,000 per month, "if not substantially more."
+
+¶13          Although Mother claims her uncontroverted testimony
+established that her income fluctuates and averages around $2,500 per
+month, that is not supported by the record. She testified that $2,500 was
+her income in a slower month, not her average income.
+
+¶14            Further, we are not persuaded by Mother's argument that the
+superior court erred by rejecting her testimony and the $2,511 income she
+claimed in her AFI without any "contrary testimony, expert analysis, or
+vocational evidence." As the trier of fact, the superior court determines the
+credibility of witnesses and the weight to give their testimony and other
+evidence. Gutierrez v. Gutierrez, 193 Ariz. 343, 347, ¶ 13 (App. 1998). It could
+consider Mother's testimony and exhibits in deciding how to resolve the
+petition to modify child support. We will not reweigh the evidence or
+second-guess the court's credibility determinations. Id.
+
+¶15           By way of explaining why her monthly expenses greatly
+exceed her income, Mother notes that she receives financial assistance from
+her partner for her living expenses. She maintains the superior court erred
+by not crediting this testimony. Again, we will not reweigh the evidence or
+second-guess the court's credibility determinations. Id. We note, however,
+that Mother testified that her partner had only started providing financial
+assistance after she completed the AFI and she admitted that she had
+
+
+
+                                       4
+                         VILLANUEVA v. BOWERS
+                            Decision of the Court
+
+offered the court no evidence of the amount of her partner's contribution to
+her living expenses.
+
+¶16           Finally, Mother contends the superior court failed to follow
+the Guidelines, which require the court to base any attribution of income
+on an analysis of specific factors, including past work history, occupational
+qualifications, and the availability of work. See Guidelines, § II.A.4.d. The
+superior court presumes that a parent is capable of full-time employment
+and may attribute income to a parent for purposes of calculating child
+support when the parent is unemployed or working below his or her full
+earning capacity. Little v. Little, 193 Ariz. 518, 520–21, ¶ 6 (1999); Guidelines
+§ II.A.4. That is not what happened here. There is no dispute that Mother
+works at her full earning capacity; the question is how much money she
+makes. The court did not attribute income to Mother, it determined the
+amount of her income based on the evidence presented at the hearing. The
+court found that Mother had offered no credible evidence of her income
+and did not abuse its discretion by determining Mother's income at least
+equaled her monthly expenses. Gutierrez, 193 Ariz. at 347, ¶ 13.
+
+¶17            However, the superior court's finding that Mother has income
+of $10,000 per month is not supported by the record. The court based this
+amount on the expenses Mother identified in her AFI. But, $3,400 of the
+expenses listed on Mother's AFI were designated as "anticipated" expenses
+for the children, not actual expenses that Mother had been paying with her
+income. While the superior court did not abuse its discretion by treating
+Mother's expenses as a proxy for her current income in the absence of other
+evidence, the court should only have included Mother's current expenses,
+not her anticipated future expenses.
+
+III.   Attorney Fees on Appeal.
+
+¶18            Both Mother and Father request attorney fees on appeal.
+Mother requests attorney fees under ARCAP 21(a), but ARCAP 21 does not
+create a substantive right to attorney fees. Bed Mart, Inc. v. Kelley, 202 Ariz.
+370, 375, ¶ 24 (App. 2002). Additionally, Mother only requested attorney
+fees in her reply brief, in violation of ARCAP 21(a)(1). ARCAP 21(a)(1) ("A
+party claiming attorneys' fees must do so in an opening or an answering
+brief on appeal."). Because Mother failed to identify applicable authority to
+justify her request for attorney fees, her request is denied. See Bank of New
+York Mellon v. Dodev, 246 Ariz. 1, 12, ¶ 41 (App. 2018).
+
+¶19         Father requested attorney fees under A.R.S. § 25-324. As
+previously discussed, supra ¶ 7, Mother's briefs on appeal contained
+
+
+
+                                       5
+                       VILLANUEVA v. BOWERS
+                          Decision of the Court
+
+numerous citation errors and presented false and inapposite legal
+authority. When confronted by Father, Mother doubled down and lied to
+the Court in her reply brief instead of admitting to her use of artificial
+intelligence. Mother's behavior on appeal is unreasonable. We award
+Father his reasonable attorney fees and costs under A.R.S. § 25-324 and
+ARCAP 25 upon compliance with ARCAP 21.
+
+                              CONCLUSION
+
+¶20         For the foregoing reasons, we vacate the child support order
+and remand for further proceedings consistent with this decision.
+
+
+
+
+                        MATTHEW J. MARTIN • Clerk of the Court
+                         FILED:          JR
+
+
+
+
+                                          6
+

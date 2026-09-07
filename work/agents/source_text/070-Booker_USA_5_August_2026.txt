@@ -1,0 +1,1090 @@
+          Case 3:25-cv-01205-VDO        Document 33      Filed 08/05/26    Page 1 of 21
+
+
+
+
+                                UNITED STATES DISTRICT COURT
+                                    DISTRICT OF CONNECTICUT
+------------------------------------------------------------------ x
+ULISH KERRY TERRACE BOOKER, III,                                   :
+                                                                   :
+                                          Appellant,               :
+                                                                   : MEMORANDUM &
+                -against-                                          : ORDER
+                                                                   :
+U.S. BANK NATIONAL ASSOCIATION AS                                  : 25-CV-1205 (VDO)
+LEGAL TITLE TRUSTEE FOR TRUMAN 2016                                :
+SC6 TITLE TRUST,                                                   :
+                                                                   :
+                                          Appellee.                :
+------------------------------------------------------------------ x
+VERNON D. OLIVER, United States District Judge:
+
+           Appellant-Debtor Ulish Kerry Terrace Booker III (“Booker III”) appeals the July 18,
+
+2025, Order of the United States Bankruptcy Court for the District of Connecticut, denying
+
+Booker III’s motions (1) to dismiss or strike Appellee’s motion for relief from stay (“Motion
+
+to Dismiss or Strike”), (2) for reconsideration of relief from automatic stay, and (3) (“Motion
+
+for Reconsideration) for sanctions (“Motion for Sanctions”). 1
+
+           For the reasons set forth below, Booker III is ADMONISHED; the Bankruptcy Court’s
+
+Order is AFFIRMED; and Booker III’s appeal is DISMISSED.
+
+I.         BACKGROUND
+
+           The underlying action concerns the property located at 9 Sanford Street, West Haven,
+
+Connecticut 06516, where at all relevant times, Booker III and his family resided. 2 In 2017,
+
+foreclosure proceedings commenced against Booker’s parents, Ulish Booker Jr. and Linda
+
+
+
+
+1
+    Notice of Appeal, ECF No. 1 at 2 ¶ 5.
+2
+    Id. at 6.
+          Case 3:25-cv-01205-VDO        Document 33       Filed 08/05/26    Page 2 of 21
+
+
+
+
+Booker. 3 The Connecticut Superior Court entered a final judgment of foreclosure with respect
+
+to 9 Sanford Street on January 25, 2021, at which point ownership vested in Appellee-Creditor
+
+U.S. Bank National Bank Association as Legal Title Trustee for Truman 2016 SC6 Title
+
+Trust’s (“U.S. Bank”). 4
+
+           Following the foreclosure judgment, Booker Jr. (Booker III’s father), Mrs. Booker
+
+(Booker III’s mother), and Booker III pursued multiple unsuccessful post-judgment motions
+
+and appeals challenging the foreclosure. U.S. Bank subsequently initiated eviction proceedings
+
+in 2024, but those efforts were stayed by bankruptcy filings.
+
+           Specifically, Booker Jr. filed for Chapter 7 bankruptcy in January 2025, three days
+
+before the Booker family’s scheduled eviction date from 9 Sanford St. The filing resulted in
+
+an automatic stay, which prevented U.S. Bank from evicting the Bookers. 5 Two weeks later,
+
+U.S. Bank sought relief from the automatic stay under 11 U.S.C. § 362, which the Bankruptcy
+
+Court granted. 6 The new eviction date was set for April 4, 2026. 7
+
+           On April 1, 2025, three days before the rescheduled eviction date, Booker III filed a
+
+new Chapter 7 bankruptcy case in the Bankruptcy Court for the District of Connecticut. 8 U.S.
+
+
+
+
+3
+    Id.
+4
+ Id.; see also U.S. Bank Nat’l Assoc. v. Booker, Case No. NNH-CV-17-6069965-S (Conn. Super.
+Ct. Jan. 25, 2021), Doc. No. 163.
+5
+    ECF No. 1 at 7.
+6
+    Id.
+7
+    Id. at 8.
+8
+    Id.
+
+
+                                                 2
+          Case 3:25-cv-01205-VDO       Document 33       Filed 08/05/26   Page 3 of 21
+
+
+
+
+Bank once again sought relief from the stay, which the Bankruptcy Court granted on May 30,
+
+2025. 9
+
+          Booker III filed the Motion for Sanctions and Motion to Dismiss or Strike on May 28,
+
+2025. 10 Booker III then filed the Motion for Reconsideration on June 13, 2025. 11 All three of
+
+those motions—the Motion to Dismiss or Strike, the Motion for Sanctions, and the Motion for
+
+Reconsideration—were denied on July 18, 2025 (“July 18 Order”). 12
+
+          Booker III timely filed a Notice of Appeal of the July 18 Order on July 29, 2025. 13
+
+Booker III filed his brief on November 20, 2025. 14 U.S. Bank filed its opposition on December
+
+22, 2025, 15 and Booker III replied on January 5, 2026. 16
+
+          On June 25, 2026, this Court issued an Order to Show Cause after discovering that
+
+Booker III’s briefs were riddled with cases that do not exist, incorrect quotes, and erroneous
+
+citations. 17 Specifically, in its Show-Cause Order, the Court identified the following
+
+hallucinations:
+
+                    Case                                         Notes
+    ECF No. 22 at 8: Federal Rule of       Incorrect quote. Actual quote: “An action must
+    Civil Procedure § 17(a), “every action be prosecuted in the name of the real party in
+                                           interest,” (emphasis added).
+
+9
+    Id. at 8, 12.
+10
+ In re Booker, Case No. 25-30293 (Bankr. D. Conn.), Mot. to Dismiss or Strike, Doc. No. 46;
+Mot. for Sanctions, Doc. No. 50.
+11
+     Id. at Doc. No. 55.
+12
+     Id. at Doc. No. 59.
+13
+     ECF No. 1.
+14
+     ECF No. 22.
+15
+     ECF No. 23.
+16
+     ECF No. 24.
+17
+     O.T.S.C., ECF No. 25.
+
+
+                                                3
+     Case 3:25-cv-01205-VDO         Document 33       Filed 08/05/26     Page 4 of 21
+
+
+
+
+shall be prosecuted in the name of the
+real party in interest.”
+ECF No. 22 at 8: Fed. R. Bankr. P. §     Incorrect quote. Actual quote: “for any improper
+9011(b) prohibits filing papers “for     purpose, such as to harass, cause unnecessary
+any improper purpose, such as to         delay, or needlessly increase litigation costs,”
+harass, cause unnecessary delay, or      (emphasis added). Appellant’s quote is from
+needlessly increase the cost of          Fed. R. Civ. P. 11.
+litigation.”
+ECF No. 22 at 3, 9: BCB Contracting      Nonexistent case. Page 771 of Volume 104 of
+Services, LLC v. United States, 104      the Bankruptcy Reporter lands in the middle of
+B.R. 771, 775 (S.D. Ariz. 2021)          In re Crouch, a bankruptcy case from West
+                                         Virginia (104 B.R. 770). That is a case from
+                                         1989. That case does not discuss sanctions.
+ECF No. 22 at 3, 9: In re Gorges, 590    Erroneous citation. This case is from Michigan,
+B.R. 771 (Bankr. D. Ariz. 2018).         not Arizona.
+ECF No. 22 at 10: In re Mann, 513        Nonexistent case. This citation leads to a case
+B.R. 34, 42-43 (Bankr. E.D.N.Y.          called In re Richmond.
+2014) (holding that a bankruptcy
+court may not overturn a state-court
+foreclosure judgment)
+ECF No. 22 at 10: Carter v. Flagler      Erroneous citation. This case is from M.D. Fla.,
+Hospital, Inc., 411 B.R. 730 (Bankr.     not S.D. Fla.
+S.D. Fla. 2009) (rejecting a
+bankruptcy court’s attempt to re-
+examine a state-court foreclosure).
+ECF No. 22 at 4: Torres v. First Nat. Nonexistent case. This citation goes to the
+Bank of Connecticut, 201 Conn. 247,   middle of State v. Silva (201 Conn. 244). That
+251 (1991) (emphasizing the statutory was a criminal case in the CT Supreme Court in
+requirement of a recorded decree)     1986 concerning admissibility of testimony.
+ECF No. 22 at 4: In re Nassau, 411    Erroneous citation. This is the citation to In re
+B.R. 730 (S.D. Fla. 2009).            Carter, a previously cited case.
+ECF No. 22 at 12: Mathews v. Dillon,  Nonexistent case. Page 567 lands in the middle
+489 U.S. 567 (1989) (due-process      of a case called Coit Independence Joint Venture
+requires a meaningful opportunity to  v. Federal Sav. and Loan Ins. Corp. (489 U.S.
+be heard).                            561). That case explicitly does not discuss due
+                                      process. The Court could not find any case
+                                      called “Mathews v. Dillon.”
+ECF No. 24 at 2, 7–8: Boyd, v.        Nonexistent case. There are three “Boyd v.
+Connecticut, 2022 Conn. Dist. LEXIS Connecticut” cases; they are from 1992, 1995,
+10098140 (D. Conn. Aug. 24 2022)      and 2011. None of these cases have the provided
+                                      Lexis number.
+ECF No. 24 at 2: In re Sherry Easley, Nonexistent case. There are no “Easley”
+2022 Bankr. LEXIS 10455845            bankruptcy cases in Connecticut, nor were any
+(Bankr. D. Conn. Mar. 30 2022)
+
+
+                                             4
+          Case 3:25-cv-01205-VDO       Document 33        Filed 08/05/26      Page 5 of 21
+
+
+
+
+                                            bankruptcy cases decided on March 20, 2022 in
+                                            Connecticut. This Lexis number does not exist.
+ ECF No. 24 at 2: Baerga v. Hartford,       Erroneous citation. The case exists, but the Lexis
+ 2022 Conn. Dist. LEXIS 10098455            number is inaccurate. Appellant also does not
+ (D. Conn. Nov. l0 2022)                    reference this case outside the Table of
+                                            Authorities.
+
+          In sum, the Court was able to identify at least two inaccurate quotes, four erroneous
+
+citations, and six fabricated cases. These hallucinations clearly indicated to the Court the use
+
+of generative artificial intelligence (“AI”) in the preparation of these briefs.
+
+          Booker III responded to the Order to Show Cause on July 30, 2026. 18 In his response,
+
+Booker III apologized to the Court “for the citation errors, incorrect quotations, and erroneous
+
+authorities contained in the briefs.” 19 However, the bulk of his response was devoted to
+
+reasserting the merits of his appeal and advancing new arguments, rather than addressing the
+
+issues raised in the Order to Show Cause.
+
+          A Show-Cause hearing was held on August 3, 2026. 20 At the hearing, Booker III again
+
+apologized to the Court and admitted that he had used several generative AI programs—
+
+including Gemini Pro, Perplexity, Cetient Legal AI, and ChatGPT—to prepare his filings. He
+
+explained that he developed the legal arguments himself based on the Federal Rules of Civil
+
+Procedure, which he accessed through Justia Law. He then attempted to supplement those
+
+arguments by entering the relevant rules—particularly Rule 17—and the accompanying cases
+
+from Justia into the AI programs to generate additional supporting authority. Although Booker
+
+III initially maintained that he had “cross-checked” and “verified” most of the cited cases
+
+
+
+18
+     Reply to Order to Show Cause, ECF No. 31.
+19
+     Id. ¶ 1.
+20
+     ECF No. 32.
+
+
+                                                 5
+      Case 3:25-cv-01205-VDO           Document 33        Filed 08/05/26    Page 6 of 21
+
+
+
+
+through Google, Justia, or other AI tools, he ultimately admitted that he had only “briefly read”
+
+some of the cited cases and had not read others at all. At other points during the hearing,
+
+however, he stated that because he had drafted the briefing nearly a year earlier, he could not
+
+confirm that he had read any of the cited cases before including them in his filings.
+
+II.    RULING ON VIOLATION OF RULE 11
+
+       A.      Legal Standard
+
+       Rule 11 of the Federal Rules of Civil Procedure (“Rule 11”) dictates that “[e]very
+
+pleading, written motion, and other paper must be signed by . . . a party personally if the party
+
+is unrepresented.” Rule 11(b) states, in relevant part, that:
+
+       By presenting to the court a pleading, written motion, or other paper—whether
+       by signing, filing, submitting, or later advocating it—an attorney or
+       unrepresented party certifies that to the best of the person’s knowledge,
+       information, and belief, formed after an inquiry reasonable under the
+       circumstances:
+
+       (1) it is not being presented for any improper purpose, such as to harass, cause
+           unnecessary delay, or needlessly increase the cost of litigation;
+
+       (2) the claims, defenses, and other legal contentions are warranted by existing
+           law or by a nonfrivolous argument for extending, modifying, or reversing
+           existing law or for establishing new law…
+
+       Fed. R. Civ. P. 11(b). Rule 11 “is not aspirational; it is the minimal standard of honesty
+
+that keeps the adversarial process tethered to reality.” Mattox v. Prod. Innovations Rsch., LLC,
+
+807 F. Supp. 3d 1341, 1347–48 (E.D. Okla. 2025). In short, Rule 11(b) imposes an affirmative
+
+duty on parties and counsel to ensure that all papers filed with the Court are factually and
+
+legally well-founded. “Under Rule 11, a court may sanction an attorney [or unrepresented
+
+party] for, among other things, misrepresenting facts or making frivolous legal arguments.”
+
+Muhammad v. Walmart Stores East, L.P., 732 F.3d 104, 108 (2d Cir. 2013) (per curiam).
+
+
+
+                                                6
+      Case 3:25-cv-01205-VDO          Document 33        Filed 08/05/26     Page 7 of 21
+
+
+
+
+       “Merely incorrect legal statements are not sanctionable under Rule 11(b)(2).” Storey v.
+
+Cello Holdings, L.L.C., 347 F.3d 370, 391 (2d Cir. 2003). “The fact that a legal theory is a
+
+long-shot does not necessarily mean it is sanctionable.” Fishoff v. Coty Inc., 634 F.3d 647, 654
+
+(2d Cir. 2011). A legal contention is frivolous because it has “no chance of success” and there
+
+“is no reasonable argument to extend, modify or reverse the law as it stands.” Id. (quoting
+
+Morley v. Ciba–Geigy Corp., 66 F.3d 21, 25 (2d Cir.1995)). The filing of papers “without
+
+taking the necessary care in their preparation” is an “abuse of the judicial system” that is
+
+subject to Rule 11 sanction. Cooter & Gell v. Hartmarx Corp., 496 U.S. 384, 398 (1990). Rule
+
+11 creates an “incentive to stop, think and investigate more carefully before serving and filing
+
+papers.” Id. (cleaned up).
+
+       Rule 11 obligations take on particular significance in the context of filings prepared
+
+with the assistance of generative AI. “Federal courts increasingly confront filings prepared
+
+with the assistance of generative artificial intelligence. While such tools can enhance
+
+efficiency, they also create a new professional hazard, synthetic authority presented as
+
+precedent.” Mattox, 807 F. Supp. 3d at 1347. The main problem with filings that rely on
+
+generative AI, of course, is that they often include hallucinations. The Court has defined a
+
+“hallucination” in the context of AI-assisted legal research as one of three errors:
+
+       (1) fabricated cases (whether a nonexistent case name and citation, an existing
+       case name with an invented or erroneous citation, or a real citation that leads to
+       a wholly unrelated decision); (2) fabricated quotations from actual cases; and
+       (3) misstatements of law (representations of legal rules, standards, or holdings
+       that are inaccurate, incomplete, or unsupported by any real authority, including
+       AI-generated summaries that distort or materially alter what a case actually
+       decided).
+
+See Andre v. Warden, FCI Danbury, 827 F. Supp. 3d 294, 305 (D. Conn. 2025).
+
+
+
+
+                                               7
+      Case 3:25-cv-01205-VDO           Document 33        Filed 08/05/26      Page 8 of 21
+
+
+
+
+       “In an adversarial system that depends on litigants to candidly present accurate
+
+authority, such hallucinations mislead the Court, forcing it either to expend substantial
+
+resources verifying fabricated material or, worse, risk reliance on an erroneous statement of
+
+the law.” Id. Numerous additional concerns abound:
+
+       “Many harms flow from the submission of fake opinions . . . The Court’s time
+       is taken from other important endeavors. The client may be deprived of
+       arguments based on authentic judicial precedents. There is potential harm to the
+       reputation of judges and courts whose names are falsely invoked as authors of
+       the bogus opinions and to the reputation of a party attributed with fictional
+       conduct. It promotes cynicism about the legal profession and the American
+       judicial system. And a future litigant may be tempted to defy a judicial ruling
+       by disingenuously claiming doubt about its authenticity.”
+
+Id. at 305–06 (quoting Mata v. Avianca, Inc., 678 F. Supp. 3d 443, 448–49 (S.D.N.Y. 2023)).
+
+       The Court previously adopted, in part, the analytical framework set forth by the Mattox
+
+court while confronting a pro se party who used artificial intelligence in drafting his
+
+pleadings. 21 Id. at 306. Under that framework, once “a pleading containing fabricated citations
+
+or nonexistent law has been identified and a hearing held,” the court considers two principal
+
+factors in determining whether sanctions are warranted. Id. Specifically, the Court considers:
+
+       1. Verification and Inquiry — Whether counsel [or the unrepresented party]
+       conducted a reasonable, human-based verification of every cited authority
+       before filing. A reasonable inquiry requires more than reliance on an automated
+       tool; it demands independent confirmation through recognized primary legal
+       sources. The signature of an attorney [or the unrepresented party] certifies
+       human diligence, not mechanical output.
+
+
+
+21
+   The full Mattox test includes an additional factor titled “Accountability and Supervision.” The
+Mattox court explained the factor as: “Whether supervising or associated attorneys exercised
+oversight consistent with [ABA] Model Rules [of Professional Conduct] 5.1 and 5.3 and whether
+firm-level safeguards existed to prevent recurrence. The inquiry extends beyond the drafter to the
+institutional culture that permitted unverified authority to reach the docket. A firm’s silence or
+absence of policy does not immunize it; it implicates it.” 807 F. Supp. 3d at 1348. As in Andre, the
+Court omits this factor, finding it to be inapplicable to pro se litigants.
+
+
+                                                 8
+      Case 3:25-cv-01205-VDO          Document 33       Filed 08/05/26     Page 9 of 21
+
+
+
+
+       2. Candor and Correction — Whether counsel [or the unrepresented party]
+       promptly disclosed the use of AI and corrected the record once inaccuracies
+       were discovered. Candor after filing weighs heavily in mitigation; concealment
+       or minimization aggravates the violation. The duty of candor extends beyond
+       the moment of signature, it continues for as long as the filing remains before the
+       Court.
+
+       Id. (quoting Mattox, 807 F. Supp. 3d at 1348).
+
+       A court may “initiate sanctions sua sponte by issuing an order ‘to show cause why
+
+conduct specifically described in the order has not violated Rule 11(b).” Kyros L. P.C. v. World
+
+Wrestling Ent., Inc., 78 F.4th 532, 543 (2d Cir. 2023) (quoting Fed. R. Civ. P. 11(c)(3)). The
+
+power to sua sponte impose Rule 11 sanctions is akin to a court’s inherent power of contempt,
+
+and like contempt, a district court may sua sponte sanction a litigant only upon finding they
+
+acted with “subjective bad faith.” In re Pennie & Edmonds LLP, 323 F.3d 86, 90 (2d. Cir.
+
+2003). Subjective bad faith is a “heightened mens rea standard” designed to promote zealous
+
+advocacy while deterring improper submissions. Id. at 91. The heightened standard can be
+
+satisfied upon finding that a litigant made a “misleading representation to a district court for
+
+an improper purpose.” Rankin v. City of Niagara Falls, 293 F.R.D. 375, 387 (W.D.N.Y. 2013),
+
+aff’d sub nom, 569 F. App’x 25 (2d Cir. 2014). “Courts in this circuit have repeatedly found
+
+that presenting AI-generated hallucinations as valid caselaw constitutes subjective bad faith.”
+
+Andre, 827 F. Supp. 3d at306 (collecting cases).
+
+       B.     Discussion
+
+              1.      Application of Rule 11
+
+       Booker III’s briefs are riddled with hallucinations, clearly indicating the use of
+
+generative artificial intelligence in drafting them. Applying the framework set forth in Mattox
+
+the Court finds the first factor—verification and inquiry—weighs in favor of sanctions because
+
+
+
+                                               9
+      Case 3:25-cv-01205-VDO          Document 33       Filed 08/05/26     Page 10 of 21
+
+
+
+
+Booker III failed to conduct a reasonable verification of the authorities cited in his briefing
+
+before submitting them. As he admitted at the hearing, Booker III relied on several AI
+
+platforms to generate additional legal authorities, but he only “briefly read” some of the cited
+
+cases and did not read others at all. He also acknowledged that, rather than independently
+
+verifying the authorities through recognized legal sources, he often attempted to verify the
+
+output of one AI program by consulting another AI program. At other points during the
+
+hearing, he stated that because he drafted the briefs nearly a year earlier, he could not confirm
+
+that he had read any of the cited cases before including them in his filings. Rule 11, however,
+
+requires more than reliance on AI-generated output or cursory review; it requires a reasonable
+
+inquiry into the legal and factual basis of every filing before it is presented to the Court. Had
+
+Booker III undertaken the verification that Rule 11 requires, he would have discovered the
+
+fabricated citations, quotations, and misstatements of law that the Court later identified. His
+
+failure to do so violated Rule 11’s duty of reasonable inquiry.
+
+       On the second factor—candor and correction—the Court finds this factor weighs
+
+neither in favor nor in mitigation of sanctions. Booker III apologized to the Court in his
+
+response to the Order to Show Cause, but he did not disclose in that response that he had used
+
+AI to prepare his briefs. At the Show-Cause hearing, although Booker III eventually admitted
+
+using multiple AI platforms, he was not immediately forthcoming about the extent of his
+
+reliance on those tools or the manner in which he verified the authorities they generated.
+
+Instead, he repeatedly emphasized that he had developed the legal arguments himself using the
+
+Federal Rules of Civil Procedure and cases identified through Justia. Only after sustained
+
+questioning by the Court did Booker III acknowledge that he had only “briefly read” some of
+
+the cited cases, had not read others, and ultimately could not say whether he had read any of
+
+                                               10
+      Case 3:25-cv-01205-VDO          Document 33        Filed 08/05/26      Page 11 of 21
+
+
+
+
+them before filing because the briefs had been drafted nearly a year earlier. Likewise, when
+
+asked what he would do differently in the future, Booker III did not initially identify the need
+
+to independently read and verify the authorities cited in his filings, arriving at that answer only
+
+after repeated questioning by the Court. Although the Court credits Booker III’s apology and
+
+accepts that he ultimately acknowledged his deficient verification practices, his disclosures
+
+were neither prompt nor complete. Accordingly, this factor does not meaningfully mitigate the
+
+Rule 11 violation, but neither does it independently warrant enhanced sanctions.
+
+       “Courts in this circuit have repeatedly found that presenting AI-generated
+
+hallucinations as valid caselaw constitutes subjective bad faith.” Andre, 827 F. Supp. 3d at 306
+
+(collecting cases). Accordingly, the Court has the power here to impose sanctions sua sponte.
+
+               2.     Imposition of Sanctions
+
+       “A sanction imposed under [Rule 11] must be limited to what suffices to deter repetition
+
+of the conduct or comparable conduct by others similarly situated.” Fed. R. Civ. P. 11(c)(4).
+
+A court has available a variety of possible sanctions to impose for Rule 11 violations,
+
+including, but not limited to, “nonmonetary directives; an order to pay a penalty into court; or,
+
+if imposed on motion and warranted for effective deterrence, an order directing payment to the
+
+movant of part or all of the reasonable attorney’s fees and other expenses directly resulting
+
+from the violation.” Id. A court could also “strik[e] the offending paper” and “issu[e] an
+
+admonition.” Fed. R. Civ. P. 11, advisory committee’s note to 1993 Amendments.
+
+       Courts across the country have issued a variety of sanctions and other consequences
+
+against pro se litigants who engaged in the use of unverified AI. Some have stricken filings
+
+containing hallucinations or even dismissed cases based on those filings. See, e.g., Andre, 827
+
+F. Supp. 3d at 313 (striking motion containing AI-generated hallucinations where the pro se
+
+
+                                                11
+     Case 3:25-cv-01205-VDO          Document 33       Filed 08/05/26     Page 12 of 21
+
+
+
+
+litigant used an undisclosed ghostwriter and initially denied using AI); Merritt v. Moore, No.
+
+W2025-01131-COA-R3-CV, 2026 WL 2098349, at *5 (Tenn. Ct. App. July 21, 2026)
+
+(dismissing appeal of matter based, in part, on pro se litigant’s inclusion of inaccurate
+
+authorities); P-Three Dev., LLC v. Therm Flo, Inc., 2026 IL App (1st) 250567-U, ¶ 51, 2026
+
+WL 1880326 (Ill. App. Ct. June 30, 2026) (striking pro se intervenor-appellant’s brief and
+
+dismissing appeal). Others have issued admonishments and warnings. See, e.g., Andre, 827 F.
+
+Supp. 3d at 313 (admonishing pro se litigant for inclusion of AI-generated hallucinations);
+
+Munoz Corrales v. BPG Inspection, LLC, No. 25CA1824, 2026 WL 1915733, at *2 n.3 (Colo.
+
+App. July 2, 2026) (same); Otteson v. JPMorgan Chase Bank NA, No. CV-25-08198-PCT-
+
+DWL, 2026 WL 2069919, at *7 n.16 (D. Ariz. July 17, 2026) (warning pro se litigant after
+
+court discovered inaccurate AI-generated citation).
+
+       In imposing consequences here, the Court has considered the particular circumstances
+
+of this case and recognizes that the cases discussed above involve a range of conduct
+
+warranting different forms and levels of sanctions. Booker III’s conduct was serious. His briefs
+
+contained numerous fabricated authorities, erroneous citations, and inaccurate quotations that
+
+required the Court to expend substantial time and resources identifying and verifying the cited
+
+authorities. Moreover, Booker III did not promptly disclose his use of AI and was not fully
+
+forthcoming regarding his verification process until after sustained questioning at the Show-
+
+Cause hearing. These considerations weigh in favor of a meaningful sanction.
+
+       At the same time, Rule 11 sanctions “must be limited to what suffices to deter repetition
+
+of the conduct or comparable conduct by others similarly situated.” Fed. R. Civ. P. 11(c)(4).
+
+Although some courts have stricken AI-generated filings or dismissed actions, the Court
+
+concludes that those sanctions are unnecessary here. This is the first time Booker III has been
+
+                                              12
+       Case 3:25-cv-01205-VDO         Document 33       Filed 08/05/26     Page 13 of 21
+
+
+
+
+confronted by this Court regarding his improper use of AI, and there is no indication that a
+
+lesser sanction would be insufficient to deter future misconduct. The Court therefore declines
+
+to strike the briefs. Instead, the Court concludes that a formal admonishment and warning
+
+appropriately balance the seriousness of Booker III’s conduct with Rule 11’s deterrent purpose.
+
+        For the foregoing reasons, Booker III is ADMONISHED for violating Rule 11 and is
+
+WARNED that any future filing containing fabricated authorities, inaccurate quotations,
+
+erroneous citations, or other AI-generated hallucinations—or any future failure to conduct a
+
+reasonable, human-based verification of authorities before filing—may result in substantially
+
+more severe sanctions, including monetary sanctions, the striking of filings, dismissal of claims
+
+or appeals, or any other sanction authorized by Rule 11 or the Court’s inherent authority.
+
+III.    RULING ON THE MERITS
+
+        Having addressed the Rule 11 issue, the Court turns to the merits of Booker III’s appeal,
+
+which fail for the reasons set forth below.
+
+        A.     Legal Standard
+
+        Under 28 U.S.C. § 158(a)(1), district courts have jurisdiction to hear appeals from
+
+bankruptcy cases. See In re Porzio, 622 B.R. 134, 137 (D. Conn 2020). On appeal, an appellant
+
+waives issues when he “provides no explanation why the bankruptcy court erred . . . .” In re
+
+Kirwan Offices S.à.R.L., 792 Fed. App’x 99, 104 (2d Cir. 2019). Additionally, an appellant
+
+waives any issue that is not raised in bankruptcy court or raised only in passing reference. In
+
+re Nordlicht, 115 F.4th 90, 114 (2d Cir. 2024).
+
+        With respect to pro se litigants, it is well-established that “[p]ro se submissions are
+
+reviewed with special solicitude, and ‘must be construed liberally and interpreted to raise the
+
+strongest arguments that they suggest.’” Matheson v. Deutsche Bank Nat’l Tr. Co., 706 F.
+
+
+                                               13
+      Case 3:25-cv-01205-VDO          Document 33       Filed 08/05/26      Page 14 of 21
+
+
+
+
+App’x 24, 26 (2d Cir. 2017) (quoting Triestman v. Fed. Bureau of Prisons, 470 F.3d 471, 474–
+
+75 (2d Cir. 2006) (per curiam)). At the same time, this special solicitude does not mean courts
+
+will “excuse mistakes [or] . . . frivolous or vexatious filings by pro se litigants.” Iwachiw v.
+
+N.Y. State Dep’t of Motor Vehicles, 396 F.3d 525, 529 n.1 (2d Cir. 2005) (cleaned up).
+
+               1.     Review of Orders on Dismissal
+
+       In an order denying a Motion to Dismiss or Strike, “[t]he bankruptcy court’s legal
+
+conclusions are evaluated de novo [and] its findings of fact are subject to a clearly erroneous
+
+standard.” In re Ames Dep’t Stores, Inc., 582 F.3d 422, 426 (2d Cir. 2009). De novo review
+
+allows a court “to decide the issue as if no decision had been previously rendered.” In re Reilly,
+
+245 B.R. 768, 772 (2d Cir. BAP 2000) (cleaned up). “A finding is only clearly erroneous when
+
+although there is evidence to support it, the reviewing court on the entire evidence is left with
+
+the definite and firm conviction that a mistake has been committed.” In re Vincent Andrews
+
+Mgmt. Corp., 507 B.R. 78, 81 (D. Conn. 2014) (cleaned up).
+
+               2.     Review of Orders On Reconsideration and Sanctions
+
+       A bankruptcy court’s denial of a motion for reconsideration is reviewed for abuse of
+
+discretion. In re BDC 56 LLC, 330 F.3d 111, 123 (2d Cir. 2003). A bankruptcy court’s decision
+
+regarding sanctions is also reviewed for abuse of discretion. In Re Highgate Equities, Ltd., 279
+
+F.3d 148, 152 (2d Cir. 2002). A bankruptcy court “abuses” or “exceeds” its discretion “when
+
+(1) its decision rests on an error of law (such as application of the wrong legal principle) or a
+
+clearly erroneous factual finding, or (2) its decision—though not necessarily the product of a
+
+legal error or a clearly erroneous factual finding—cannot be located within the range of
+
+permissible decisions.” Zervos v. Verizon N.Y., Inc., 252 F.3d 163, 169 (2d Cir. 2001).
+
+
+
+
+                                               14
+           Case 3:25-cv-01205-VDO        Document 33       Filed 08/05/26     Page 15 of 21
+
+
+
+
+            B.     Discussion
+
+            Booker III appeals three rulings within the July 18 Order, and the Court considers each
+
+of them in turn.
+
+                   1.     Motion to Dismiss or Strike
+
+            Booker III first objects to the Bankruptcy Court’s denial of his Motion to Dismiss or
+
+Strike, primarily challenging the Bankruptcy Court’s finding that the U.S. Bank has standing
+
+in the underlying case. 22 In the Bankruptcy Court, Booker III advanced two arguments in
+
+support of his motion. The Court takes each of these arguments in turn.
+
+            First, Booker III claims that the Bankruptcy Court erred by holding that U.S. Bank has
+
+standing because the party designation, in the case caption, lists “‘U.S. Bank National
+
+Association as legal title trustee for Truman 2016 SC6 Title Trust, together with successors
+
+and assigns’ and adds Trucap REO Corp.” 23 Booker III contends that adding the language
+
+“successors and assigns” defeats U.S. Bank’s standing because the successors and assigns are
+
+unknown, and thus the action is not being “prosecuted in the name of the real party in interest,”
+
+as required by Fed. R. Civ. P. 17. 24 Accordingly, per Booker III, U.S. Bank does not have
+
+standing. 25
+
+
+
+
+22
+  Booker III appeals the Bankruptcy Court’s denial of his Motion to Dismiss or Strike, Motion for
+Reconsideration, and Motion for Sanctions. Because his appellate brief does not identify which
+arguments are directed to each challenged order, the Court construes the brief liberally and
+addresses any argument that could reasonably be understood as challenging the denial of the
+Motion to Dismiss or Strike in that section of the opinion. Arguments that pertain exclusively to
+the denial of reconsideration or sanctions are addressed only in those respective sections.
+23
+     ECF No. 22 at 8.
+24
+     Id.
+25
+     Id.
+
+
+                                                  15
+           Case 3:25-cv-01205-VDO        Document 33       Filed 08/05/26     Page 16 of 21
+
+
+
+
+            Booker III next claims that the foreclosure decision from the state court is void under
+
+Conn. Gen. Stat. § 49-17 because there was no recorded disclosure decree. 26 Booker III is
+
+likely referring to that statute’s requirement that a “decree of foreclosure [must] be recorded
+
+in the land records in the town in which the land lies.” Conn. Gen. Stat. § 49-17. Booker III
+
+claims that, despite the certificates of foreclosure in the West Haven land records, the lack of
+
+a formal disclosure decree in the land records means title of 9 Sanford St. never vested in U.S.
+
+Bank. 27 Therefore, per Booker III, “U.S. Bank never acquired a valid interest in the property
+
+. . . [so] it lacked the statutory standing required under 11 U.S.C. § 362(d)(1) to obtain relief
+
+from the automatic stay.” 28
+
+            The state court has already addressed Booker’s standing arguments and found they do
+
+not have merit. 29 Therefore, the Rooker-Feldman doctrine, which prevents federal district
+
+courts from reviewing state court decisions, bars both challenges to U.S. Bank’s standing.
+
+“[T]he only federal court to which a litigant may appeal from a state-court judgment is the
+
+Supreme Court of the United States.” Hunter v. McMahon, 75 F.4th 62, 67 (2d Cir. 2023); see
+
+also Rooker v. Fidelity Tr. Co., 263 U.S. 413 (1923); D.C. Ct. of Appeals v. Feldman, 460 U.S.
+
+462 (1983). The state court ruled that title to 9 Sanford Street had, in fact, vested in U.S. Bank,
+
+
+
+
+26
+     Id. at 11.
+27
+     Id.
+28
+     Id.
+29
+  See In re Booker, Case No. 25-30293 (Bankr. D. Conn.), Doc. No. 95 at 5 (recounting the times
+Booker III and his family have raised similar arguments); In re Booker, Case No. 25-30017 (Bankr.
+D. Conn.), Doc. No. 77 (“the state court previously determined U.S. Bank has standing to foreclose
+on the mortgage here.”).
+
+
+                                                  16
+      Case 3:25-cv-01205-VDO          Document 33       Filed 08/05/26      Page 17 of 21
+
+
+
+
+and the Bankruptcy Court correctly followed that judgment. 30 Accordingly, this Court will not
+
+revisit or disturb those findings.
+
+       Booker III’s arguments also fail on the merits. As to his first argument, the inclusion of
+
+the phrase “successors and assigns” in the caption or party designation does not alter U.S.
+
+Bank’s status as the holder of title or otherwise defeat its standing. Nor do the two cases relied
+
+upon by Booker III, or any other case of which the Court is aware, compel a different result. 31
+
+       As to Booker III’s second argument, Conn. Gen. Stat. § 49-17 is inapplicable in this
+
+case because it governs situations where legal title was never conveyed to the mortgagee.
+
+Under Connecticut law, however, execution of a mortgage conveys legal title to the mortgagee.
+
+See Conf. Ctr. Ltd. v. TRC-The Rsch. Corp. of New England, 455 A.2d 857, 860 (Conn. 1983);
+
+Conn. Gen. Stat. § 47-36h. 32 Accordingly, § 49-16—not § 49-17—controls here. Conn. Gen.
+
+Stat. § 49-16 requires only that certificates of foreclosure be recorded after title becomes
+
+absolute. Booker III acknowledges that the West Haven land records contain three certificates
+
+of foreclosure, so his argument that the absence of a recorded foreclosure decree invalidates
+
+U.S. Bank’s interest fails.
+
+       Booker III also raises additional arguments that this Court cannot consider because they
+
+were not raised in the underlying case. 33 See In re Nordlicht, 115 F.4th at 114. Because Booker
+
+
+30
+   ECF No. 1 at 11, 13; see also In re Booker, Case No. 19-30787 (Bankr. D. Conn.), Mem.
+Decision and Order, Doc. No. 120. at 1–2; Case No. 25-30017, ECF No. 99 at 2 (noting that title
+to 9 Sanford St. vested in U.S. Bank in 2021).
+31
+  Booker III cites “In re Vargas, 396 B.R. 511, 514,” which is not a real case, and Summers v.
+Perkins, 81 P.3d 1141 (Colo. Ct. App. 2003), which is not relevant to Booker III’s argument.
+32
+   See U.S. Bank Nat’l Assoc. v. Booker, Case No. NNH-CV-17-6069965-S (Conn. Super. Ct. May
+9, 2018), Doc. No. 119 at 59–71 (“Open-End Mortgage Deed”).
+33
+  Nevertheless, the Court notes that none of these newly-introduced arguments are persuasive. For
+example, Booker III contends the Bankruptcy Court failed to enforce 11 U.S.C. § 524(a), which
+
+
+                                               17
+      Case 3:25-cv-01205-VDO            Document 33         Filed 08/05/26      Page 18 of 21
+
+
+
+
+III’s standing arguments are barred by the Rooker-Feldman doctrine and his remaining
+
+arguments were not raised in the underlying case, the Bankruptcy Court properly denied
+
+Booker III’s Motion to Dismiss or Strike.
+
+                2.      Motion for Reconsideration
+
+        Booker III contends that the Bankruptcy Court erred in denying his Motion for
+
+Reconsideration. Because the Court has already concluded that Booker III’s arguments fail
+
+under the less deferential standards applicable to the Motion to Dismiss or Strike, those same
+
+arguments necessarily fail under the more deferential abuse-of-discretion standard governing
+
+the denial of reconsideration. As to Booker III’s arguments directed specifically to the denial
+
+of reconsideration, the Bankruptcy Court did not base its decision on an error of law or apply
+
+the wrong legal standard, rely on clearly erroneous findings of fact, or otherwise render a
+
+decision outside the range of permissible outcomes.
+
+        Because Booker III did not specify the rule under which he sought reconsideration, the
+
+Bankruptcy Court construed the motion as seeking relief under both Rule 59 and Rule 60 of
+
+the Federal Rules of Civil Procedure, as incorporated by Federal Rules of Bankruptcy
+
+Procedure 9023 and 9024, respectively. Reconsideration under Rule 59 is reserved for rare
+
+
+
+voids personal liability of the debtor after a discharge order. ECF No. 22 at 11–12. But Booker III
+did not receive a discharge order until March 5, 2026, almost eight months after the July 18, 2025,
+Order. Case No. 25-30293, Order of Discharge, ECF No. 102. Since the Discharge Order had not
+yet existed at the time the court decided the underlying motions, Booker III did not and could not
+raise a challenge based on a discharge order in the underlying case. The Court thus declines to
+consider it here.
+Booker III also asserts that Linda Booker—who transferred her interest in the foreclosed-on
+property to Booker Jr. in 2013—was deprived of due process because of her “heir interest” in the
+property. See Quit Claim Deed, ECF No. 22-3; ECF No. 22 at 12. Not only does Booker III not
+raise this issue in the underlying case, he also does not cite any relevant cases or statutes explaining
+how the purported doctrine of “heir interest” applies in this matter.
+
+
+                                                  18
+           Case 3:25-cv-01205-VDO         Document 33        Filed 08/05/26     Page 19 of 21
+
+
+
+
+occasions and “will generally be denied unless the moving party can point to controlling
+
+decisions or data that the court overlooked.” Analytical Survs., Inv. v. Tonga Partners, L.P.,
+
+684 F.3d 36, 52 (2d Cir. 2012) (cleaned up). Rule 60(a) allows a court to grant a party relief
+
+from a final judgment or order in cases or clerical mistakes or oversights, while “Rule 60(b)
+
+provides a mechanism for extraordinary judicial relief available only if the moving party
+
+demonstrates exceptional circumstances . . . such as where the court failed to consider evidence
+
+or binding authority.” Schneiderman v. Am. Chem. Soc’y, 172 F.4th 158, 190 (2d Cir. 2026)
+
+(cleaned up).
+
+            Here, Booker III requested reconsideration of the court’s “[o]rder dated June 2, 2025.” 34
+
+Since the Bankruptcy Court did not enter any orders on that day, it interpreted Booker III’s
+
+motion as a request for reconsideration of the order granting U.S. Bank relief from the
+
+automatic stay dated May 30, 2025. 35 The Bankruptcy Court then correctly held that
+
+reconsideration under either Rule 59 or 60 was not appropriate. Booker III agrees that he
+
+“raised no new evidence or change in law.” 36 Although he nevertheless argues that the
+
+Bankruptcy Court erred in denying reconsideration under Rules 59 and 60, he identifies no
+
+alternative basis that would have justified reconsideration.
+
+            Booker III has not raised valid grounds for reconsideration, so the Bankruptcy Court
+
+did not abuse its discretion when it denied Booker III’s Motion for Reconsideration.
+
+
+
+
+34
+     ECF No. 1 at 11–12.
+35
+     Id.
+36
+     ECF No. 22 at 7.
+
+
+                                                    19
+        Case 3:25-cv-01205-VDO        Document 33       Filed 08/05/26    Page 20 of 21
+
+
+
+
+                3.      Motion for Sanctions
+
+         Booker also challenges the Bankruptcy Court’s denial of his Motion for Sanctions. The
+
+Bankruptcy Court denied the Motion for Sanctions, at least in part, because Booker III did not
+
+follow the safe harbor provision, which requires a movant to serve the opposing party with a
+
+motion for sanctions at least twenty-one days before filing with the court. Fed. R. Bankr. P.
+
+9011(c)(2)(B). 37 In doing so, the Bankruptcy Court did not abuse its discretion.
+
+         Booker III does not claim, and the record does not indicate, that he served U.S. Bank
+
+with a copy of the Motion for Sanctions twenty-one days before filing with the Bankruptcy
+
+Court, or at any point prior to filing. “Compliance with the safe harbor is a necessary
+
+precondition to the imposition of Bankruptcy Rule 9011 sanctions.” In re Feldman, 606 B.R.
+
+189, 197–98 (Bankr. E.D.N.Y. 2019) (citing Hadges v. Yonkers Racing Corp., 48 F.3d 1320,
+
+1328 (2d Cir. 1995)). Thus, Booker III did not comply with Rule 11, and the Bankruptcy Court
+
+did not abuse its discretion when it denied Booker III’s Motion for Sanctions. The Bankruptcy
+
+Court used the correct legal standard, did not rely on erroneous facts, and reached a decision
+
+within the range of permissible decisions. The Court thus affirms the Bankruptcy Court’s
+
+denial of sanctions.
+
+IV.      CONCLUSION
+
+         Accordingly, the Court ADMONISHES Booker III for his Rule 11 violations,
+
+AFFIRMS the Bankruptcy Court’s July 18, 2025 Order, and DISMISSES Booker III’s
+
+appeal. The Clerk of Court is respectfully directed to close the case.
+
+
+
+
+37
+     ECF No. 1 at 15.
+
+
+                                               20
+     Case 3:25-cv-01205-VDO   Document 33   Filed 08/05/26     Page 21 of 21
+
+
+
+
+                                         SO ORDERED.
+
+Hartford, Connecticut
+August 5, 2026
+
+                                         /s/Vernon D. Oliver
+                                         VERNON D. OLIVER
+                                         United States District Judge
+
+
+
+
+                                    21
+

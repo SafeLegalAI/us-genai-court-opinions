@@ -1,0 +1,1027 @@
+             In the
+        Court of Appeals
+Second Appellate District of Texas
+         at Fort Worth
+     ___________________________
+          No. 02-25-00279-CV
+     ___________________________
+
+      SHADDAI HARRIS, Appellant
+
+                    V.
+
+          ILIAC, LLC, Appellee
+
+
+
+  On Appeal from the 141st District Court
+          Tarrant County, Texas
+      Trial Court No. 141-342989-23
+
+
+  Before Birdwell, Womack, and Walker, JJ.
+  Memorandum Opinion by Justice Walker
+                            MEMORANDUM OPINION
+
+                                 I. INTRODUCTION
+
+        Appellant Shaddai Harris, proceeding pro se, appeals the trial court’s order
+
+granting no-evidence summary judgment on her negligence claim against Appellee Iliac,
+
+LLC.1
+
+        In eight issues, some of which overlap, Harris complains that the trial court erred
+
+by (1) allowing her attorney to withdraw, (2) denying her motions for continuance,
+
+(3) granting Iliac’s no-evidence motion for summary judgment, (4) denying her motion
+
+for new trial, (5) allowing for deficiencies in the appellate record, and (6) making
+
+cumulative errors that deprived her of due course of law. We will affirm.
+
+              II. FACTUAL AND PROCEDURAL BACKGROUND
+
+        Harris asserts that in 2022, while she was in a Chick-fil-A drive-thru line to pick
+
+up her food, a store employee forcefully shoved a Styrofoam cup into her left hand,
+
+bending it backwards, injuring her wrist, and causing her “serious and permanent
+
+
+
+        During the trial court proceedings and this appeal’s pendency, Harris also
+        1
+
+represented herself pro se in our sister court. See Harris v. Lyotard, No. 05-24-01449-
+CV, 2026 WL 1716615, at *2 (Tex. App.—Dallas June 12, 2026, no pet. h.). In her
+reply brief in the instant case, Harris argues that Iliac’s prayer for sanctions and
+attorney’s fees for a frivolous appeal under Texas Rule of Appellate Procedure 45
+should be denied. Iliac’s brief contains no such request. See id. (noting that the court
+struck Harris’s first pro se brief and ordered her to file an amended brief after appellees
+challenged her brief for containing at least four hallucinated citations and at least twenty
+citations that did not stand for the proposition or holding for which they were
+presented).
+
+
+                                             2
+injuries.” Harris retained an attorney and sued Chick-fil-A in June 2023, alleging
+
+negligence and negligent hiring, training, supervision, and retention. She later amended
+
+her petition in August 2023, bringing claims against Iliac2 and then nonsuiting her claims
+
+against Chick-fil-A.3 In October 2024, Harris’s jury trial was set for the week of
+
+December 9, 2024, when opposing counsel requested a reset. On October 31, 2024,
+
+the trial court reset the trial date to April 28, 2025.
+
+        Approximately twelve weeks before the reset trial date, Harris’s first attorney
+
+moved to withdraw. The attorney’s motion, among other things, explained that good
+
+cause existed for her withdrawal because there had been a fundamental break-down in
+
+the attorney-client relationship and that Harris was aware of the motion but that she
+
+did not consent to it. See Tex. R. Civ. P. 10. The motion informed Harris of her next
+
+step:
+
+        You are hereby notified that this Motion to Withdraw has been filed. This
+        Motion will be set by submission only. If you object to this Motion, you
+        need to file a written objection within 10 days of the filing of this Motion.
+        Since you wish to contest the withdrawal of KRISTINA N. KASTL and
+        KASTL LAW, P.C., as your attorney, you should file a written objection
+        to this Motion within 10 days of the filing of this Motion.
+
+
+
+
+        According to Iliac’s brief, it is a franchisee of Chick-fil-A.
+        2
+
+
+
+        Harris’s amended petition alleged the same facts and claims as her original
+        3
+
+petition.
+
+
+                                              3
+      More than ten days passed, and Harris did not file an objection or otherwise
+
+present to the trial court a timely request, objection, or motion regarding her attorney’s
+
+withdrawal.
+
+      On February 20, the trial court granted the attorney’s motion to withdraw. That
+
+same day, Iliac moved for no-evidence summary judgment on Harris’s claims, alleging
+
+that there was no evidence of a legal duty owed to Harris, a breach of that duty, or
+
+damages proximately resulting from the alleged breach. Iliac’s no-evidence motion for
+
+summary judgment was set for a March 21 hearing by submission.
+
+      On March 5, Harris’s second attorney filed a notice of appearance. The attorney
+
+moved to continue the summary-judgment hearing, and, in the alternative, responded
+
+to the summary-judgment motion.4 The response included Harris’s medical records
+
+and excerpts from her deposition testimony. Iliac replied and argued that Harris was
+
+an interested witness whose self-serving statements could not defeat summary
+
+judgment, that her medical records did not reference the incident or support proximate
+
+cause, and that she had “failed to offer more than a scintilla of evidence to support her
+
+allegations as to duty, breach, and/or causation.”
+
+      On March 21, Harris, while still represented by the second attorney, filed a pro
+
+se motion for continuance “due to ineffective legal counsel” by her “previous counsel”
+
+
+
+      4
+        In the motion, Harris’s second attorney acknowledged that “discovery had
+already been completed” when the trial court allowed the first attorney to withdraw.
+
+
+                                            4
+and complained that her new attorney had not had sufficient time to prepare for trial. 5
+
+Later that day, Harris’s second attorney moved to withdraw. The motion explained
+
+that good cause existed for the withdrawal because there had been a fundamental break-
+
+down in the attorney-client relationship and that the attorney was unable to effectively
+
+communicate with Harris in a manner consistent with good attorney-client relations,
+
+that Harris had received notice of motion, and that she did not oppose it. The trial
+
+court granted the motion to withdraw that day without having ruled on the second
+
+attorney’s motion for continuance. Four days later, the trial court denied Harris’s pro
+
+se ineffective-assistance-based motion for continuance.
+
+      On April 1, Harris filed a pro se motion to extend pretrial deadlines and for
+
+reconsideration of her ineffective-assistance-based continuance motion. On April 4,
+
+she filed another pro se motion to extend the discovery period and pretrial deadlines.
+
+Iliac opposed her extension requests, asserting that since her counsel’s withdrawal,
+
+Harris had “filed multiple, baseless motions with the sole goal of delaying trial.” Harris
+
+replied to Iliac’s response the next day and again prayed for the trial court to extend the
+
+pretrial deadlines and reconsider the continuance.
+
+
+
+
+      5
+       Iliac filed a response and argued that the motion for continuance should be
+denied because it was defective on its face. Specifically, Iliac complained that Harris’s
+motion was (1) unverified, (2) without a certificate of conference, and (3) filed while
+she was represented by an attorney.
+
+
+                                            5
+       On April 9, the trial court denied Harris’s pro se motion to extend pretrial
+
+deadlines and for reconsideration of her ineffective-assistance-based continuance but
+
+nonetheless—during a hearing that day—noted the extension of the summary-
+
+judgment hearing from March 21 to April 18. On April 15, Harris filed another motion
+
+to extend pretrial deadlines and to reopen discovery but did not secure a ruling on her
+
+motion before the trial court granted Iliac’s no-evidence summary-judgment motion—
+
+without specifying a basis for its ruling—six days later.
+
+       Harris moved for a new trial, reurging the same arguments that she had made in
+
+her summary-judgment response—that Iliac had a duty to her, that it had breached that
+
+duty, and that she had damages proximately resulting from the breach. Almost a month
+
+after filing her motion for new trial, Harris retained a third attorney.
+
+       The trial court denied Harris’s motion for new trial.
+
+       After Harris filed a pro se notice of appeal, her third attorney moved to withdraw.
+
+The motion to withdraw explained that good cause existed for withdrawal because the
+
+attorney and Harris had agreed to terminate the attorney-client relationship. The trial
+
+court granted the third attorney’s motion to withdraw.
+
+       After the court reporter filed the record with this court, Harris filed a motion to
+
+“determine and enforce completion of reporter’s record,” claiming that the court
+
+reporter had failed to “provide all hearing transcripts and recordings.” We requested a
+
+response, and the court reporter filed a statement asserting that “all court reporter’s
+
+records have been transcribed, completed, and delivered to the 2nd Court of Appeals.”
+
+                                             6
+Harris then filed a motion to compel the court reporter, maintaining that the filed
+
+reporter’s record did not contain all the hearing transcripts. Because Harris disagreed
+
+with the court reporter’s statement that the entire reporter’s record had been filed, we
+
+abated the appeal and submitted the dispute to the trial court for resolution.
+
+      On February 6, 2026, the trial court held a hearing to determine whether the
+
+reporter’s record was complete. After hearing testimony from Harris and the court
+
+reporter and reviewing its records, the trial court found that there were no inaccuracies
+
+or omissions in the reporter’s record. The trial court filed its findings, Harris filed no
+
+request for additional or amended findings, and we denied Harris’s motion to compel
+
+and reinstated the appeal.
+
+                                  III. DISCUSSION
+
+                      A. HARRIS’S ATTORNEY’S WITHDRAWAL
+
+      In her first issue, Harris complains that the trial court abused its discretion by
+
+allowing her attorney to withdraw.6 This issue is unpreserved.
+
+
+
+
+      6
+       Harris does not clearly identify upon which of her three attorneys’ withdrawals
+that she bases this complaint. However, the record reflects that Harris consented to
+her second and third attorneys’ withdrawals, and she complains in her appellate brief
+that the withdrawal occurred “during a critical stage of the litigation, leaving [her]
+unrepresented when [Iliac] filed a dispositive no-evidence motion for summary
+judgment.” Because Harris consented to the withdrawals of her second and third
+attorneys and because the trial court granted her first attorney’s motion to withdraw on
+the same day that Iliac moved for no-evidence summary judgment, we construe this
+complaint to be based on her first attorney’s withdrawal.
+
+
+                                            7
+                                  1. Applicable Law
+
+       To preserve a complaint for appellate review, a party must present to the trial
+
+court a timely request, objection, or motion that states the specific grounds for the
+
+desired ruling, if not apparent from the request’s, objection’s, or motion’s context. See
+
+Tex. R. App. P. 33.1(a)(1)(A). If a party fails to do this, error is not preserved. Bushell
+
+v. Dean, 803 S.W.2d 711, 712 (Tex. 1991) (op. on reh’g).
+
+                                       2. Analysis
+
+       Harris’s first attorney moved to withdraw on February 4, 2025. The motion
+
+explained that good cause existed for her withdrawal, noted that Harris was aware of
+
+the motion but did not consent to it, and informed Harris that she had to file a written
+
+objection to the motion within ten days. Harris did not file an objection to her
+
+attorney’s withdrawal, and the trial court granted the motion sixteen days later.
+
+       Although Harris argues that the trial court allowed her attorney to withdraw
+
+without good cause at a critical stage of the litigation, she did not present this argument
+
+to the trial court or even mention her opposition to the withdrawal until the April 9,
+
+2025 hearing. At that hearing, she acknowledged not having sent any objection to the
+
+withdrawal to the trial court.7 See Tex. R. App. P. 33.1(a)(1)(A); Aduli v. Aduli,
+
+
+       7
+        During the April 9, 2025 hearing, the trial court noted, “It says in [the
+motion] . . . you are hereby notified that this motion has been filed, and if you object to
+this motion, you need to file a written objection within 10 days,” and then noted that
+Harris “didn’t file anything with the court.” Notwithstanding the motion’s instructions,
+Harris insisted, “I did not know that I needed to [object].” Instead of arguing lack of
+good cause, cf. Tex. R. Civ. P. 10, or that the withdrawal had occurred at a critical stage
+
+                                            8
+368 S.W.3d 805, 818 (Tex. App.—Houston [14th Dist.] 2012, no pet.) (holding that
+
+appellant who opposed his counsel’s withdrawal motion failed to preserve timing error
+
+because he did not specifically object to the withdrawal’s timing and “request time to
+
+obtain new counsel”). Accordingly, we hold that this issue was not preserved.
+
+      We overrule Harris’s first issue.
+
+                     B. HARRIS’S MOTION FOR CONTINUANCE
+
+      In her second issue, Harris contends that the trial court abused its discretion by
+
+denying her motions for continuance. We disagree.
+
+                     1. Standard of Review & Applicable Law
+
+      We review a trial court’s ruling on a motion for continuance for an abuse of
+
+discretion. See BMC Software Belg., N.V. v. Marchand, 83 S.W.3d 789, 800 (Tex. 2002).
+
+A trial court abuses its discretion if it acts without reference to any guiding rules or
+
+principles—that is, if its act is arbitrary or unreasonable. Low v. Henry, 221 S.W.3d 609,
+
+614 (Tex. 2007); Cire v. Cummings, 134 S.W.3d 835, 838–39 (Tex. 2004). We may not
+
+substitute our own judgment for the trial court’s judgment with respect to matters
+
+
+
+
+in the litigation, Harris argued that her first attorney had performed poorly by “being
+untimely” and by failing to depose the Chick-fil-A employee who had allegedly injured
+her. The trial court informed her, “It’s not fair to you, but you need to call the State
+Bar of Texas and file a grievance against these people for not being fair to you. It’s not
+the court that’s not being fair to you. It’s because you chose these lawyers, and so you
+need to call the State Bar of Texas and tell them what they did.”
+
+
+                                            9
+committed to the trial court’s discretion. McAleer v. McAleer, 394 S.W.3d 613, 617 (Tex.
+
+App.—Houston [1st Dist.] 2012, no pet.).
+
+      Texas Rule of Civil Procedure 251 provides that a trial court may not grant a
+
+continuance “except for sufficient cause supported by affidavit,” or two exceptions—
+
+consent of the parties or operation of law—not applicable here. See Tex. R. Civ. P. 251.
+
+“A motion for continuance must be in writing, state the specific facts supporting the
+
+motion, and be verified or supported by an affidavit.” Serrano v. Ryan’s Crossing Apts.,
+
+241 S.W.3d 560, 564 (Tex. App.—El Paso 2007, pet. denied). When a movant fails to
+
+comply with these requirements, it is presumed that the trial court did not abuse its
+
+discretion by denying the motion. In re G.Z., No. 02-21-00122-CV, 2021 WL 3796049,
+
+at *7 (Tex. App.—Fort Worth Aug. 26, 2021, no pet.).
+
+      Further, if the movant does not obtain a ruling or a refusal to rule on the request,
+
+objection, or motion, the error is not preserved. See Tex. R. App. P. 33.1(2). And we
+
+review the denial of a motion for continuance to conduct discovery for an abuse of
+
+discretion on a case-by-case basis. Joe v. Two Thirty Nine Joint Venture, 145 S.W.3d 150,
+
+161 (Tex. 2004). We may consider the following nonexclusive factors when deciding
+
+whether a trial court abused its discretion in denying a motion for continuance seeking
+
+additional time to conduct discovery: the length of time the case has been on file, the
+
+materiality and purpose of the discovery sought, and whether the party seeking the
+
+continuance has exercised due diligence to obtain the discovery sought. Id.
+
+
+
+                                           10
+                                     2. Analysis
+
+      Harris references four motions for continuance in her appellate brief—a verified
+
+motion filed by her second attorney (which was combined with her summary-judgment
+
+response) and three subsequently filed pro se motions. The trial court expressly denied
+
+two of the three pro se motions, but her second attorney withdrew before obtaining a
+
+ruling on his verified motion, which Harris did not expressly reurge or adopt—relying
+
+on her pro se motions—before the trial court granted the no-evidence summary
+
+judgment the following month. Accordingly, we will consider only Harris’s preserved
+
+complaints: the denial of her two pro se motions. See Tex. R. App. P. 33.1(2).
+
+      Harris filed, while represented by her second attorney, a pro se “Motion for
+
+Continuance Due to Ineffective Legal Counsel.” She alleged that she needed a
+
+continuance because her first attorney had not conducted adequate discovery, deposed
+
+Iliac’s employee, filed necessary motions, communicated material developments to her,
+
+or properly prepared for trial. Her pro se motion was not verified or supported by an
+
+affidavit. Iliac objected to the motion and complained that it was not verified.8 The
+
+trial court denied the motion.
+
+
+
+
+      8
+        Iliac also complained that Harris’s motion was filed pro se while represented by
+an attorney, lacked a certificate of conference, failed to clearly state whether the
+continuance was for the summary-judgment hearing or the trial, and failed to properly
+assert the grounds for which the continuance was sought.
+
+
+                                          11
+       Although Harris’s ineffective-assistance motion for continuance was in writing
+
+and stated some facts to support her request for relief, it was not verified or supported
+
+by an affidavit.9 Because Harris failed to comply with Rule 251’s requirements, we
+
+presume that the trial court did not abuse its discretion by denying the motion. 10 See
+
+id.; Tex. R. Civ. P. 251.
+
+       Harris’s other pro se motion that the trial court expressly denied was her “Motion
+
+to Extend Pre-Trial Deadlines and for Reconsideration of Continuance,” which she
+
+filed after her second attorney withdrew. In the motion, Harris again complained that
+
+
+       9
+        A pro se litigant is held to the same standards as a licensed attorney and must
+comply with all rules of procedure, see Thomas v. EFI Glob., Inc., No. 02-16-00379-CV,
+2017 WL 5494254, at *3 n.6 (Tex. App.—Fort Worth Nov. 16, 2017, pet. withdrawn),
+in order to ensure fairness through the use of a single set of rules, see Barcroft v. Walton,
+No. 02-16-00110-CV, 2017 WL 3910911, at *5 (Tex. App.—Fort Worth Sep. 7, 2017,
+no pet.). In her reply brief, Harris argues that denying a pro se litigant a continuance
+“after her attorney leaves her stranded” is an abuse of discretion, but the record reflects
+that she had counsel when she filed this motion, and the case she cites, “Valdez v.
+Robertson, No. 01-19-00624-CV, 2021 Tex. App. LEXIS 5211, at *9–11 (Tex. App.
+Houston [1st Dist.] June 29, 2021, no pet.),” is an inaccurate citation that does not
+support the proposition for which she cites it. Specifically, Valdez v. Robertson is an
+appeal of an order dismissing an application to probate a will and concluding that an
+opposing party had standing to contest the will. No. 01-14-00563-CV, 2016 WL
+1644550, at *1 (Tex. App.—Houston [1st Dist.] Apr. 26, 2016, no pet.). Appellate cause
+number 01-19-00624-CV, on the other hand, belongs to an original proceeding in which
+a relator sought to compel a trial court to withdraw its order denying a motion to recuse
+and amended motion to disqualify and in which the relator subsequently filed a motion
+to dismiss his mandamus petition. In re Lechin, No. 01-19-00624-CV, 2020 WL 894455,
+at *1 (Tex. App.—Houston [1st Dist.] Feb. 25, 2020, orig. proceeding).
+
+        We note, however, that following Harris’s second attorney’s withdrawal—
+       10
+
+despite having denied her pro se motion for continuance—the trial court rescheduled
+the summary-judgment submission date and provided the parties four additional weeks.
+
+
+                                             12
+her first attorney had been ineffective, causing “material evidence such as medical
+
+records, billing affidavits, and key witness testimony” to not be properly submitted or
+
+preserved. She asked for reconsideration of the denial of her previous motion for
+
+continuance and an extension of all pre-trial deadlines by sixty to ninety days. Harris
+
+supported this motion with an affidavit and set the motion for hearing on April 9, after
+
+which the trial court denied her motion.
+
+       Harris filed her lawsuit on June 16, 2023, and the trial court heard her
+
+continuance motion on April 9, 2025. During the hearing, the trial court repeatedly
+
+chastised Harris for not having diligently sought the discovery she asserted that she still
+
+needed and reminded her that the trial court could not treat her differently from how
+
+it treated attorneys. See Thomas, 2017 WL 5494254, at *3 n.6; Barcroft, 2017 WL 3910911,
+
+at *5. Harris informed the trial court that she “would like to have more time to look at
+
+everything” and listed some items, but she did not explain the items’ materiality and
+
+purpose. Iliac’s counsel pointed out that the case had “a pretty small file,” explaining
+
+that this “is why they were able to timely file the response to the motion for summary
+
+judgment.” The trial court denied Harris’s continuance.
+
+       Based on the record before us, we cannot say that the trial court abused its
+
+discretion by denying Harris’s motion when the case had been on file for almost two
+
+years, Harris failed to explain the materiality and purpose of the additional discovery
+
+she sought, and the trial court expressly found that she had not exercised diligence.
+
+See Joe, 145 S.W.3d at 161.
+
+                                            13
+      We overrule Harris’s second issue.
+
+                   C. ILIAC’S MOTION FOR SUMMARY JUDGMENT
+
+      In her third issue, Harris argues that the trial court erred by granting no-evidence
+
+summary judgment because (1) Iliac’s no-evidence motion for summary judgment
+
+“failed to meet the specificity requirements of Rule 166a(i)” and (2) the record contains
+
+more than a scintilla of evidence supporting her negligence claim.11 We disagree.
+
+                                1. Standard of Review
+
+      After an adequate time for discovery, the party without the burden of proof may,
+
+without presenting evidence, move for summary judgment on the ground that no
+
+evidence supports an essential element of the nonmovant’s claim or defense. Tex. R.
+
+Civ. P. 166a(i).12 The motion must specifically state the elements for which no evidence
+
+exists. Id.; Timpte Indus., Inc. v. Gish, 286 S.W.3d 306, 310 (Tex. 2009). A properly filed
+
+no-evidence motion shifts the burden to the nonmovant to present evidence raising a
+
+
+
+      11
+        The trial court granted summary judgment on all of Harris’s claims, including
+claims of negligent hiring, training, supervision, and retention. She does not complain
+of the trial court’s summary judgment on her claims of negligent hiring, training,
+supervision, and retention.
+      12
+         While this appeal was pending, the Texas Supreme Court amended Rule 166a.
+See Sup. Ct. of Tex., Final Approval of Amendments to Rule 166a of the Texas Rules of Civil
+Procedure, Misc. Docket No. 26-9012 (Feb. 27, 2026). But the “amendments apply only
+to a motion for summary judgment filed on or after March 1, 2026,” id., so they are
+inapplicable here. All citations to Texas Rule of Civil Procedure 166a in this opinion
+reference the version applicable to motions for summary judgment filed before
+March 1, 2026.
+
+
+                                            14
+genuine issue of material fact supporting each element contested in the no-evidence
+
+motion. Wal-Mart Stores, Inc. v. Xerox State & Local Sols., Inc., 663 S.W.3d 569, 576 (Tex.
+
+2023). The trial court must grant the motion unless the nonmovant produces summary-
+
+judgment evidence that raises a genuine, material fact issue. See Tex. R. Civ. P. 166a(i)
+
+& 1997 cmt.; B.C. v. Steak N Shake Operations, Inc., 598 S.W.3d 256, 259 (Tex. 2020).
+
+      When reviewing a no-evidence summary judgment, we examine the entire record
+
+in the light most favorable to the nonmovant, indulging every reasonable inference and
+
+resolving any doubts against the motion. Sudan v. Sudan, 199 S.W.3d 291, 292 (Tex.
+
+2006). We review a no-evidence summary judgment for evidence that would enable
+
+reasonable and fair-minded jurors to differ in their conclusions. Hamilton v. Wilson,
+
+249 S.W.3d 425, 426 (Tex. 2008) (citing City of Keller v. Wilson, 168 S.W.3d 802, 822 (Tex.
+
+2005)). We credit evidence favorable to the nonmovant if reasonable jurors could, and
+
+we disregard evidence contrary to the nonmovant unless reasonable jurors could not.
+
+Timpte Indus., 286 S.W.3d at 310 (citing Mack Trucks, Inc. v. Tamez, 206 S.W.3d 572, 582
+
+(Tex. 2006)). If the nonmovant brings forward more than a scintilla of probative
+
+evidence that raises a genuine issue of material fact, then a no-evidence summary
+
+judgment is not proper. Smith v. O’Donnell, 288 S.W.3d 417, 424 (Tex. 2009); King Ranch,
+
+Inc. v. Chapman, 118 S.W.3d 742, 751 (Tex. 2003).
+
+               2. Iliac’s No-Evidence Summary-Judgment Motion
+
+      As an initial matter, we address Harris’s complaint that Iliac’s no-evidence
+
+summary-judgment motion was defective because it failed to meet the specificity
+
+                                            15
+requirements outlined in Rule 166a(i). She asserts that Iliac’s motion “relied on
+
+generalized, boilerplate assertion that there was ‘no evidence’ of duty, breach, and
+
+causation without identifying any specific evidentiary deficiency.”13
+
+      Texas Rule of Civil Procedure 166a(i) provides that “[t]he motion must state the
+
+elements as to which there is no evidence.” Tex. R. Civ. P. 166a(i). The challenge must
+
+be specific, and the movant cannot make “general challenges” that do not identify the
+
+specific elements lacking evidence. See Lopez v. Laroche, No. 02-24-00467-CV, 2025 WL
+
+2370937, at *8 (Tex. App.—Fort Worth Aug. 14, 2025, no pet.).
+
+      Here, Iliac’s no-evidence summary-judgment motion contended that “there
+
+[was] no evidence of a legal duty owed to [Harris], a breach of that duty, or damages
+
+proximately resulting from the breach.” Iliac did not make general challenges; instead,
+
+it identified the specific elements of Harris’s negligence claim for which it alleged there
+
+
+       Harris miscomprehends Rule 166a(i). She claims in her appellate brief that Iliac
+      13
+
+was aware of her medical records, video footage, police documentation, and injury
+photographs but
+
+      failed to identify any specific evidentiary gap or explain how such evidence
+      was insufficient. While a no-evidence motion does not require the movant
+      to produce evidence, it must identify specific deficiencies. The complete
+      failure to do so particularly in the face of known, material evidence
+      demonstrates that the motion was not a proper Rule 166a(i) challenge, but
+      rather a conclusory attempt to shift the burden.
+
+       Nothing in Rule 166a(i) requires the movant to “identify specific deficiencies.”
+See Tex. R. Civ. P. 166a(i). And the burden does shift to the nonmovant. Id. Rule 166a(i)
+provides that the trial court “must grant the motion unless the respondent produces
+summary[-]judgment evidence raising a genuine issue of material fact.” Id. (emphasis
+added).
+
+                                            16
+was no evidence. See id.; see also Dukes v. Philip Johnson/Alan Ritchie Architects, P.C.,
+
+252 S.W.3d 586, 591–92 (Tex. App.—Fort Worth 2008, pet. denied) (listing common-
+
+law negligence elements of duty, breach, causation, and damages). We conclude that
+
+Iliac’s motion provided Harris with fair notice that it was challenging her ability to prove
+
+duty, breach, and damages proximately resulting from the breach. Accordingly, we hold
+
+that Iliac’s no-evidence summary-judgment motion was not defective. See Nelson v.
+
+Regions Mortg., Inc., 170 S.W.3d 858, 861–62 (Tex. App.—Dallas 2005, no pet.) (holding
+
+that “by specifically identifying each challenged element,” the party’s no-evidence
+
+summary-judgment motion complied with the requirements of Rule 166a(i)).
+
+                                       3. Analysis
+
+       To prevail on a common-law negligence claim, a plaintiff must establish (1) a
+
+legal duty owed to the plaintiff, (2) a breach of that duty, and (3) damages proximately
+
+resulting from the breach. Dukes, 252 S.W.3d at 591–92. In its no-evidence summary-
+
+judgment motion, Iliac asserted that there was no evidence of any of these elements,
+
+and the trial court granted the motion without specifying the grounds on which the
+
+order was based.
+
+       When a trial court’s order granting summary judgment does not specify the
+
+grounds on which the order is based, the appealing party must negate each ground upon
+
+which the judgment could have been based. Rosetta Res. Operating, LP v. Martin,
+
+645 S.W.3d 212, 226 (Tex. 2022). A party may negate each ground in one of two ways:
+
+either by raising separate issues or by asserting a general issue that the trial court erred
+
+                                            17
+by granting summary judgment and, within that issue, providing an argument negating
+
+all possible grounds upon which summary judgment could have been granted. Id.
+
+at 227. An appellate court “must affirm a summary judgment if any ground on which
+
+the judgment could have been based stands unchallenged—‘regardless of the merits of
+
+the unchallenged ground[s].’” Madhu Lodging Partners, LP v. AmGuard Ins. Co., No. 02-
+
+23-00379-CV, 2024 WL 2760482, at *2 (Tex. App.—Fort Worth May 30, 2024, pet.
+
+denied) (quoting McCurley v. Tex. Motor Speedway, Inc., No. 02-19-00108-CV, 2019 WL
+
+6606103, at *1 (Tex. App.—Fort Worth Dec. 5, 2019, pet. denied)).
+
+       Here, in her third issue, Harris challenges two of the summary-judgment
+
+grounds: breach and damages proximately resulting from the breach. But she does not
+
+address Iliac’s other summary-judgment ground—that there is no evidence it had a duty
+
+to her. Indeed, there is no argument—let alone any mention—of Iliac’s supposed duty
+
+to Harris in her appellate brief.14
+
+       Because the trial court did not specify the grounds on which it based its
+
+summary-judgment ruling, the trial court could have relied upon the unchallenged
+
+ground in granting summary judgment. See id. Thus, because Harris did not challenge
+
+every ground on which the summary judgment could have been based, we are
+
+procedurally required to affirm the trial court’s summary-judgment ruling without
+
+
+       14
+          Harris argues that her evidence “created a genuine issue of material fact
+regarding breach of duty and causation.” She makes no such mention whatsoever of
+Iliac’s alleged duty to her.
+
+
+                                         18
+regard to the merits of Harris’s claim. See id. (affirming summary judgment because
+
+“the trial court could have granted summary judgment on [the appellant’s] contract
+
+claim by relying on one or both of [the appellee’s] two unchallenged no-evidence
+
+grounds”); McCurley, 2019 WL 6606103, at *2 (affirming summary judgment because
+
+the appellants did not challenge all of the summary-judgment grounds raised by the
+
+appellee); Rollins v. Denton Cnty., No. 02-14-00312-CV, 2015 WL 7817357, at *2 (Tex.
+
+App.—Fort Worth Dec. 3, 2015, no pet.) (“Because [the appellant’s] sole issue
+
+challenges only the denial of his motion for summary judgment . . . without addressing
+
+the immunity ground asserted in [the appellees’] cross-motion for summary judgment,
+
+we are procedurally constrained to affirm the trial court’s summary judgment without
+
+regard to the merits of [the appellees’] immunity claim.”). Accordingly, we hold that
+
+this issue is rendered moot by the unchallenged ground supporting the trial court’s
+
+summary judgment. See McCurley, 2019 WL 6606103, at *2 (“Accordingly, we affirm
+
+the trial court’s [no-evidence summary] judgment on the unchallenged grounds without
+
+reaching the merits and overrule the McCurleys’ issues as moot.”); see also Wagley v.
+
+Neighborhood Ins. Specialists, No. 14-16-00859-CV, 2018 WL 2139196, at *6 (Tex. App.—
+
+Houston [14th Dist.] May 10, 2018, no pet.) (affirming no-evidence summary judgment
+
+on negligence claim where trial court did not specify the grounds on which it relied in
+
+granting summary judgment, and the appellant did not challenge the summary-
+
+judgment ground of duty).
+
+      We overrule Harris’s third issue.
+
+                                          19
+                      D. HARRIS’S MOTION FOR NEW TRIAL
+
+      In her fourth and fifth issues, Harris maintains that the trial court abused its
+
+discretion by denying her motion for new trial. We disagree.
+
+                     1. Standard of Review & Applicable Law
+
+      “After a court grants a summary[-]judgment motion, the court generally has no
+
+obligation to consider further motions on the issues adjudicated by the summary
+
+judgment.” Corley v. Hendricks, No. 02-16-00293-CV, 2017 WL 1536210, at *3 (Tex.
+
+App.—Fort Worth Apr. 27, 2017, pet. denied) (quoting Macy v. Waste Mgmt., Inc.,
+
+294 S.W.3d 638, 651 (Tex. App.—Houston [1st Dist.] 2009, pet. denied) (cleaned up)).
+
+We review a trial court’s denial of a new-trial motion after granting summary judgment
+
+for an abuse of discretion. Id.; Macy, 294 S.W.3d at 651. A trial court does not abuse
+
+its discretion by denying a new-trial motion “if the movant cites no additional evidence
+
+beyond [that] available to [her]” when the summary judgment was granted. See Tex.
+
+Petroleum Land Mgmt., LLC v. McMillan, 641 S.W.3d 831, 851 (Tex. App.—Eastland
+
+2022, no pet.); Macy, 294 S.W.3d at 651.
+
+                                     2. Analysis
+
+      Harris’s new-trial motion recycled the same arguments she made in her
+
+summary-judgment response and did not cite additional evidence beyond that available
+
+to her when the trial court granted summary judgment.15 Instead, she maintained that
+
+
+      15
+         Even if Harris had cited to new evidence, her new-trial motion did not allege
+that (1) the evidence came to her knowledge after trial, (2) her failure to discover the
+
+                                           20
+there was sufficient evidence to prove her claim of ordinary negligence. Accordingly,
+
+we cannot conclude that the trial court abused its discretion by denying Harris’s new-
+
+trial motion. See Evans v. Tex. Dep’t of Crim. Just.–Institutional Div., No. 01-07-00847-CV,
+
+2008 WL 2548986, at *5 (Tex. App.—Houston [1st Dist.] June 26, 2008, no pet.)
+
+(holding that trial court did not err by denying new-trial motion when the motion did
+
+not raise any new arguments or attach any new evidence).
+
+       We overrule Harris’s fourth and fifth issues.
+
+                                E. APPELLATE RECORD
+
+       In her sixth issue, Harris asserts that alleged deficiencies in the appellate record
+
+impaired her ability to obtain meaningful appellate review.16
+
+       The clerk’s record contains Harris’s request to the court reporter to prepare the
+
+reporter’s record, designating “all hearing dates” to be included. Once an appellant has
+
+
+
+evidence earlier was not due to her lack of diligence, (3) the evidence was not merely
+cumulative or impeachment evidence, and (4) the evidence was so material that it would
+probably produce a different result if a new trial were granted. See Waffle House, Inc. v.
+Williams, 313 S.W.3d 796, 813 (Tex. 2010).
+       16
+          Although Harris asserts that “[a]n appellate court must ensure that the record
+is sufficient to permit meaningful appellate review,” we note that it is the appellant who
+bears the burden to bring forward an appellate record that enables the appellate court
+to determine whether her complaints constitute reversible error. Enter. Leasing Co. of
+Houston v. Barrios, 156 S.W.3d 547, 549 (Tex. 2004); see Valdez, 2016 WL 1644550, at *4
+(“It is an appellant’s burden to bring forth a record demonstrating that a complained-
+of ruling of a trial court was erroneous.”); see also Tex. R. App. P. 34.5(b)–(c), 34.6(b),
+(d), (e). The trial and appellate courts are jointly responsible for ensuring that the
+appellate record is timely filed. Tex. R. App. P. 35.3(c).
+
+
+                                            21
+requested that the reporter’s record be prepared, it is the court reporter’s responsibility
+
+to prepare, certify, and file the reporter’s record. See Tex. R. App. P. 35.3(b). The
+
+reporter’s record was filed, but Harris maintained that it was incomplete. The court
+
+reporter filed a response stating that all court reporter’s records had been transcribed,
+
+completed, and delivered to this court. Harris disagreed.
+
+      Because Harris disagreed with the court reporter’s statement that the entire
+
+reporter’s record had been filed, we abated the appeal and submitted the dispute to the
+
+trial court for resolution in accordance with Rule 34.6(e)(2)–(3) of the Texas Rules of
+
+Appellate Procedure. See Tex. R. App. P. 34.6(e)(2)–(3). We instructed the trial court
+
+to resolve whether the record was incomplete as described by Harris and either
+
+(1) require the court reporter to transcribe the omitted proceedings and certify and file
+
+a supplemental reporter’s record in this court or (2) inform this court in writing of its
+
+finding that there are no inaccuracies or omissions in the reporter’s record.
+
+      The trial court conducted a hearing, heard testimony from Harris and the court
+
+reporter, and reviewed its records. Following the hearing, the trial court found that
+
+“there are no inaccuracies or omissions in the reporter’s record” and filed its finding
+
+with this court.17 Harris, however, maintains that “multiple hearing transcripts remain
+
+
+      17
+        Harris maintains that there are missing transcripts from hearings on
+September 4, 2024; March 25, 2025; April 21, 2025; April 22, 2025; May 30, 2025; and
+June 6, 2025. The trial court’s findings reflect that all these dates were unreported
+hearings, concerned matters set by submission, or were hearings rescheduled to a later
+date.
+
+
+                                            22
+missing despite [her] documented and repeated requests that they be prepared and
+
+included” and that “[t]hese missing transcripts involve critical proceedings related to
+
+counsel withdrawal, denial of continuance, failure to honor a deadline extension, and
+
+post-judgment rulings.”
+
+       Rule 34.6(e)(2) provides that if the parties cannot agree on whether or how to
+
+correct a reporter’s record, then “the trial court must . . . settle the dispute,” and it did
+
+so at the abatement hearing. Tex. R. App. P. 34.6(e)(2); Magana v. Citibank, 454 S.W.3d
+
+667, 679 (Tex. App.—Houston [14th Dist.] 2014, pet. denied) (describing Rule 34.6(e)
+
+as the remedy for inaccurate transcription). The trial court made findings of fact, and
+
+Harris did not attempt to challenge these findings by requesting additional or amended
+
+findings. Cf. Tex. R. Civ. P. 298. Based on the record before us, we are thus satisfied
+
+that the trial court correctly reviewed and resolved Harris’s complaint under
+
+Rule 34.6(e)(3).
+
+       We overrule Harris’ sixth issue.
+
+                                 F. CUMULATIVE HARM
+
+       In her seventh and eighth issues, Harris contends that “the cumulative effect of
+
+the trial court’s procedural errors deprived [her] of due course of law” and that the
+
+“errors were harmful under Texas Rule of Appellate Procedure 44.1.” We disagree.
+
+       Having overruled all of Harris’s other issues, we conclude that there was no harm
+
+to cumulate or to cause the rendition of an improper judgment. See Mincer v. Simmons,
+
+No. 02-21-00150-CV, 2022 WL 1573715, at *17 (Tex. App.—Fort Worth May 19, 2022,
+
+                                             23
+pet. denied) (concluding that cumulative-error challenge fails when other issues have
+
+been overruled); Michael Nazarian MD Assoc. LLC v. Aetna Life Ins. Co., No. 02-22-
+
+00109-CV, 2023 WL 3114203, at *9 (Tex. App.—Fort Worth Apr. 27, 2023, no pet.)
+
+(overruling Rule 44.1 complaint after having overruled other issues); see also Arreola v.
+
+Union Pac. R.R., 657 S.W.3d 789, 825 (Tex. App.—El Paso 2022, no pet.) (“[W]e have
+
+not found that the trial court committed multiple errors in its rulings, and we have
+
+therefore overruled all of Arreola’s issues. As a result, we find no cumulative error on
+
+this record.”); Haynes v. Union Pac. R.R. Co., 598 S.W.3d 335, 357 (Tex. App.—Houston
+
+[1st Dist.] 2020, pet. dism’d) (explaining that appellate courts do not need to conduct a
+
+Rule 44.1 harm analysis if they find no error in the relevant complaint). Accordingly,
+
+we hold that Harris’s cumulative-error challenge and her Rule 44.1 complaint fail.
+
+See Mincer, 2022 WL 1573715, at *17; Tex. R. App. P. 44.1(a)(1).
+
+      We overrule Harris’s seventh and eighth issues.
+
+                                IV. CONCLUSION
+
+      Having overruled Harris’s eight issues, we affirm the trial court’s judgment.
+
+                                                      /s/ Brian Walker
+
+                                                      Brian Walker
+                                                      Justice
+
+Delivered: July 16, 2026
+
+
+
+
+                                           24
+

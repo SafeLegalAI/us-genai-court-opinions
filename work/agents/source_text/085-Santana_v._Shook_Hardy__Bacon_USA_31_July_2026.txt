@@ -1,0 +1,266 @@
+FERNANDO JUSTINO SANTANA, Plaintiff, v. SHOOK HARDY & BACON; KELLY FRAZIER; SCOTT..., Slip Copy
+(2026)
+
+
+
+                    2026 WL 2212887                                                     BACKGROUND
+      Only the Westlaw citation is currently available.
+       United States District Court, S.D. New York.                The following facts are drawn from the parties’ submissions
+                                                                   and, unless disputed, are presumed true for the purposes
+       FERNANDO JUSTINO SANTANA, Plaintiff,                        of resolving the motion to compel arbitration. Melendez v.
+                       v.                                          Ethical Culture Fieldston Sch., 789 F. Supp. 3d 316, 322 n.1
+          SHOOK HARDY & BACON; KELLY                               (S.D.N.Y. 2025). Plaintiff was hired by Forrest in February
+         FRAZIER; SCOTT CHESIN; FORREST                            2023 and assigned to work for two companies during the
+     SOLUTIONS; and GARY STANEK, Defendants.                       course of his tenure. He worked as a concierge for the first
+                                                                   company and was then assigned to Shook in September 2023
+                       25-CV-5088 (RA)                             as the Lead Office Services Associate. Dkt. No. 31 (“Am.
+                               |                                   Compl.”) ¶¶ 15–16. As part of his onboarding with Forrest
+                       Filed 07/31/2026                            on January 20, 2023, Plaintiff electronically signed a Mutual
+                                                                   Dispute Resolution Agreement, one of several documents
+Attorneys and Law Firms                                            included in Forrest's onboarding packet. See Dkt. No. 56
+                                                                   (“Tysz Decl.”) ¶¶ 5–6; Dkt. No. 56-1 (“Mutual Dispute
+Fernando Justino Santana, Brooklyn, NY, Pro Se.
+                                                                   Resolution Agreement” or “Agreement”) at 5; id. at 19 (“NY
+Barbara E. Hoey, Nicholas James Kromka, Kelley Drye &              Field-Policy Acknowledgment Documents”).
+Warren LLP, New York, NY, for Defendants Shook Hardy &
+Bacon, Kelly Frazier, Scott Chesin.                                The Agreement requires parties to it, as well as certain non-
+                                                                   signatories including clients, to arbitrate “any controversy,
+Adam Granek Guttell, Alessandro G. Villanella, Ashley              dispute, or claim that could otherwise be raised in court,”
+Flores, Jackson Lewis P.C., Melville, NY, for Defendants           where Forrest's internal resources did not lead to resolution
+Forrest Solutions, Gary Stanek.                                    in the first instance. See Agreement §§ 1–2. It also includes
+                                                                   a delegation clause, which gives an arbitrator rather than a
+                                                                   court exclusive authority to decide threshold questions of
+          MEMORANDUM OPINION & ORDER                               arbitrability. See Jager v. DoorDash, Inc., 2026 WL 851375,
+                                                                   at *4 (S.D.N.Y. Mar. 26, 2026); Rent-A-Center, W., Inc. v.
+Ronnie Abrams United States District Judge                         Jackson, 561 U.S. 63, 68–69 (2010). The clause reads:
+
+ *1 This is a discrimination action brought by Plaintiff
+Fernando Justino Santana, proceeding pro se against his
+                                                                               Authority to Determine Arbitrability
+former employer, a staffing agency called Forrest Solutions
+                                                                               - Except as provided in Section
+and its employee Gary Stanek (the “Forrest Defendants”), as
+                                                                               III, the arbitrator shall have the
+well as the law firm to which he was assigned, Shook Hardy
+                                                                               exclusive authority to resolve any
+& Bacon, and its employees Kelly Frazier and Scott Chesin
+                                                                               dispute relating to the arbitrability
+(the “Shook Defendants”) (collectively the “Defendants”). He
+                                                                               of any individual claim or the
+alleges violations of Title VII of the Civil Rights Act of 1964,
+                                                                               enforceability or formation of this
+42 U.S.C. § 2000e et seq. (“Title VII”), the New York State
+                                                                               Agreement (including all defenses to
+Human Rights Law (“NYSHRL”), N.Y. Exec. Law § 296, and
+                                                                               contract enforcement such as, for
+the New York City Human Rights Law (“NYCHRL”), N.Y.
+                                                                               example, waiver of the right to compel
+City Admin. Code § 8-101, et seq. Although the gravamen
+                                                                               arbitration).
+of the Complaint involves employment discrimination, the
+limited question now before the Court is whether Plaintiff
+should be required to pursue his claims through arbitration
+rather than litigation. For the reasons that follow, the Court     Agreement § IV; see Dkt. No. 38 (“Forrest Defs. Br.”) at 4–5.
+finds that he must.
+                                                                   In the years that followed, Plaintiff's relationship with
+                                                                   his supervisors at Shook soured. He accused them of
+
+
+ WESTLAW           © 2026 Thomson Reuters. No claim to original U.S. Government Works.                                       1
+FERNANDO JUSTINO SANTANA, Plaintiff, v. SHOOK HARDY & BACON; KELLY FRAZIER; SCOTT..., Slip Copy
+(2026)
+
+discriminating against him as the “only male professional          586 U.S. 63, 72 (2019) (quoting First Options, Inc. v. Kaplan,
+staff member of color (Hispanic American) at the Shook New         514 U.S. 938, 944 (1995)). Finally, the FAA requires courts
+York office,” Am. Compl. ¶ 14, and he was ultimately fired         to stay proceedings “after all claims have been referred to
+from his position on February 28, 2025. Id. ¶ 41. Shortly          arbitration and a stay” has been requested. Katz v. Cellco
+thereafter, he filed a Charge of Discrimination with the Equal     P'ship, 794 F.3d 341, 345 (2d Cir. 2015).
+Employment Opportunity Commission (“EEOC”). Id. ¶ 45.
+
+ *2 Plaintiff commenced this action on June 12, 2024. See
+                                                                                          DISCUSSION
+Dkt. No. 1 (“Compl.”). On August 14, 2025, the Forrest
+Defendants filed a motion to compel arbitration pursuant to           I. Agreement to Arbitrate
+the Federal Arbitration Act (“FAA”), 9 U.S.C. § 1, et seq.         Although questions as to the validity and scope of an
+and to stay this action during the pendency of arbitration         arbitration agreement can be delegated to an arbitrator, which
+proceedings. See Dkt. Nos. 10–13. The Shook Defendants             the parties have done here, they “may not delegate to the
+moved to join that motion. See Dkt. Nos. 17–19. Because the        arbitrator the fundamental question of whether they formed
+Complaint failed to allege discrimination on the basis of a        the agreement to arbitrate in the first place.” Schwartz
+protected characteristic—even affording Plaintiff the “special     v. Sterling Ent. Enters., LLC, 2021 WL 4321106, at *4
+solicitude” pro se litigants are due in this Circuit, Triestman    (S.D.N.Y. Sept. 23, 2021) (citing Doctor's Assocs., Inc. v.
+v. Fed. Bureau of Prisons, 470 F.3d 471, 477 (2d Cir. 2006)—       Alemayehu, 934 F.3d 245, 251 (2d Cir. 2019)). Therefore,
+on September 2, 2025, the Court sua sponte dismissed it with       regardless of any delegation clause, the Court must first
+leave to replead. See Dkt. No. 30 (“Mem. Opinion & Order”).        determine whether the parties agreed to arbitrate in the first
+Plaintiff filed an Amended Complaint on October 1, 2025,           instance and then turn to whether a valid delegation clause
+and both sets of Defendants re-filed their respective motions      exists.
+to compel arbitration. See Dkt. Nos. 37, 41.
+                                                                   Under New York law, the party seeking arbitration “need
+For the reasons that follow, Defendants’ motion to compel          only prove the existence of a valid arbitration agreement by
+arbitration and stay the matter is granted.                        a preponderance of the evidence.” Kutluca v. PQ N.Y. Inc.,
+                                                                   266 F. Supp. 3d 691, 700–01 (S.D.N.Y. 2017). Moreover,
+                                                                   “New York contract law presumes that a written agreement
+                   LEGAL STANDARD                                  is valid and that it accurately reflects the intention of the
+                                                                   parties, and imposes a heavy burden on the party seeking
+In deciding motions to compel, courts “apply a standard            to disprove those presumptions.” Chen-Oster v. Goldman,
+similar to that applicable for a motion for summary                Sachs & Co., 449 F. Supp. 3d 216, 241–42 (S.D.N.Y. 2020).
+judgment.” Meyer v. Uber Techs., Inc., 868 F.3d 66, 74 (2d         “Under such principles, in the absence of fraud or other
+Cir. 2017). 1 That requires the Court to “consider all relevant,   wrongful act on the part of another contracting party, a
+admissible evidence submitted by the parties and contained         party who signs or accepts a written contract is conclusively
+in pleadings, depositions, answers to interrogatories, and         presumed to know its contents and to assent to them.”
+admissions on file, together with affidavits.” Chambers v.         Gold v. Deutsche Aktiengesellschaft, 365 F.3d 144, 149 (2d
+Time Warner, Inc., 282 F.3d 147, 155 (2d Cir. 2002).               Cir. 2004). “This conclusive presumption of knowledge and
+                                                                   assent applies also to the terms of a separate document that
+The party moving to compel arbitration “bears an initial           is incorporated into a contract by reference, even when the
+burden of demonstrating that an agreement to arbitrate was         party resisting arbitration contends that he never received the
+made.” Barrows v. Brinker Rest. Corp., 36 F.4th 45, 50             incorporated document.” Schwartz, 2021 WL 4321106, at *3
+(2d Cir. 2022). Once that burden is carried, it shifts to the      (citing Pagaduan v. Carnival Corp., 709 F. App'x 713, 716
+party resisting arbitration to show that the agreement is          (2d Cir. 2017)).
+unenforceable. See id. When the agreement contains a clause
+that delegates questions of enforceability to the arbitrator,       *3 Despite Plaintiff's contentions to the contrary, the Court
+the Court looks to whether there is “clear and unmistakable        finds the evidence that he and the Forrest Defendants formed
+evidence” that the parties delegated enforceability to the         an agreement to arbitrate more than sufficient. Although
+arbitrator. Henry Schein, Inc. v. Archer & White Sales, Inc.,      Plaintiff disputes that he “ever saw, reviewed, or signed
+
+
+
+ WESTLAW           © 2026 Thomson Reuters. No claim to original U.S. Government Works.                                         2
+FERNANDO JUSTINO SANTANA, Plaintiff, v. SHOOK HARDY & BACON; KELLY FRAZIER; SCOTT..., Slip Copy
+(2026)
+
+any arbitration agreement,” Dkt. No. 48 (“Pl. Opp'n”) at             The final question is whether any of the issues Plaintiff raises
+1–2, the SignNow audit log submitted with the Forrest                are not arbitrable. He argues that even if he did enter into
+Defendants’ Chief Human Resource Officer's declaration               the Agreement, it expired upon the termination of his first
+reflects that Plaintiff electronically executed the NY Field-        assignment and therefore did not control during his tenure
+Policy Documents, including the Mutual Dispute Resolution            at Shook. Pl. Opp'n at 2, 11, 14–15. He next contends that
+Agreement, on January 20, 2023. See Agreement at 3;                  the Shook Defendants, as non-signatories, “cannot invoke an
+NY Field-Policy Acknowledgment Documents; Tysz Decl.                 agreement it never signed and that never mentioned it.” Id.
+¶¶ 4–8. Where, as here, the moving party has “produced               at 2; see also id. at 16–18. Finally, he maintains that the
+an arbitration agreement that appears to bear [Plaintiff's]          Agreement is procedurally and substantively unconscionable.
+electronic signature,” courts routinely conclude that an             Id. at 12–13, 18–21. Defendants respond that questions like
+arbitration agreement was formed. Barrows, 36 F.4th at 50;           these, which go to the validity, scope, and enforceability of the
+see also Ross v. Silver Oak Servs. Partners, LLC, 2026 WL            Agreement must be resolved by an arbitrator. Forrest Defs.
+1520743, at *10 (E.D.N.Y. June 1, 2026) (collecting cases).          Br. at 4; Dkt. No. 42 (“Shook Defs. Br.”) at 2; Foran v. Nat'l
+The Court does so here as well.                                      Football League, 2019 WL 2408030, at *3 (S.D.N.Y. June 7,
+                                                                     2019). The Court again agrees with Defendants.
+
+   II. Delegation Clause                                             First, with respect to Plaintiff's argument regarding the
+Having established that an agreement to arbitrate was                temporal dimension of the Agreement, courts have held that
+formed, the Court turns to whether the Agreement includes            the applicability of an arbitration agreement after termination
+a valid delegation clause. Just as parties may agree to              and re-hire, which is what Plaintiff alleges occurred after his
+have an arbitrator decide the merits of a dispute, they may          first assignment, is a question of arbitrability since it goes
+further agree, by way of a delegation clause, to have the            to the scope of the contract. Kassim v. CVS Albany, LLC,
+arbitrator decide “gateway questions of arbitrability, such          2022 WL 4357465, at *10 (E.D.N.Y. Sept. 20, 2022). In other
+as whether the parties have agreed to arbitrate or whether           words, it can be delegated. So too here.
+their agreement covers a particular controversy.” Rent-A-
+Center, W., Inc. v. Jackson, 561 U.S. 63, 68–69 (2010).               *4 Plaintiff's argument that he is not bound to arbitrate
+“Where the parties clearly and unmistakably agree to arbitrate       his claims against the Shook Defendants, non-signatories to
+threshold questions such as whether the arbitration clause           the Agreement, presents a closer question but is ultimately
+applies to a particular dispute, or whether it is enforceable,”      unpersuasive. “To be sure, a signatory's agreement to arbitrate
+courts must honor that agreement and “leave such questions           issues of arbitrability with another signatory ... does not
+to the arbitrator,” Schwartz, 2021 WL 4321106, at *4.                necessarily indicate an intent to arbitrate the same issues
+The delegation clause in the Mutual Dispute Resolution               with a non-signatory.” Ross v. Finzer, 2025 WL 2860070,
+Agreement gives the arbitrator “exclusive authority to resolve       at *5 (S.D.N.Y. Oct. 8, 2025). In Contec Corp. v. Remote
+any dispute relating to the arbitrability of any individual          Solution, Co., Ltd., the Second Circuit addressed the question
+claim or the enforceability or formation of this Agreement.”         of whether the ability of a non-signatory to enforce an
+Agreement § IV. There is thus “clear and unmistakable                arbitration agreement is an issue “pertaining to the existence,
+evidence” that the parties delegated questions of arbitrability      scope or validity of the arbitration agreement,” which can
+to the arbitrator. Henry Schein, 586 U.S. at 72; Jacobson v.         be delegated. 398 F.3d 205, 209 (2d Cir. 2005). It held that
+Live Nation Ent., 2026 WL 1864990, at *7 (S.D.N.Y. June              if “there is a sufficient relationship between the signatory ...
+29, 2026). “When a contract contains a valid delegation to           and the non-signatory seeking to compel arbitration ... the
+the arbitrator of the power to determine arbitrability, such         question of arbitrability can be delegated to the arbitrator,
+a clause will be enforced absent a specific challenge to the         where, as here, clear evidence exists of an intent to have such
+delegation clause by the party resisting arbitration.” Id. (citing   issues decided by the arbitrator.” Id.
+Long v. Amway Corp., 306 F. Supp. 3d 601, 608 (S.D.N.Y.
+2018)). Given that Plaintiff does not specifically challenge the     A sufficient relationship exists here. Parties are sufficiently
+validity of the delegation clause, the Court must enforce it. Id.    related “if [a] non-signatory defendant has a corporate
+(citing Rent-A-Center, 561 U.S. at 71–72).                           relationship to a signatory party including cases involving
+                                                                     subsidiaries, affiliates, agents, and other related business
+                                                                     entities.” Awad v. Extended Nursing Pers., 2025 WL 753865,
+  III. Arbitrability
+
+
+ WESTLAW            © 2026 Thomson Reuters. No claim to original U.S. Government Works.                                            3
+FERNANDO JUSTINO SANTANA, Plaintiff, v. SHOOK HARDY & BACON; KELLY FRAZIER; SCOTT..., Slip Copy
+(2026)
+
+                                                                    Forrest Defendants do not seek sanctions pursuant to Rule
+at *8 (S.D.N.Y. Mar. 10, 2025). Plaintiff alleges that Forrest
+and Shook jointly employed him and shared control over the          11 given that Plaintiff is pro se, but express frustration at
+                                                                    the unnecessary resources they spent verifying his inaccurate
+terms and conditions of his employment. See Am. Compl. ¶
+                                                                    citations. Forrest Defs. Repl. at 2.
+10. Moreover, the Agreement expressly extends to Forrest's
+clients like Shook. See Agreement § II. Those allegations
+                                                                    Whether this Court has adopted an individual rule regarding
+are sufficient to delegate the question of whether Shook may
+                                                                    the use of AI or not, Rule 11 requires parties to certify that
+invoke the Agreement to the arbitrator.
+                                                                    their legal contentions “are warranted by existing law.” Fed.
+                                                                    R. Civ. P. 11. Even though he is proceeding pro se, Plaintiff
+Plaintiff's remaining arguments sound in procedural and
+                                                                    “is required to comply with the Local Rules and Federal
+substantive unconscionability. See Pl. Opp'n at 12–13; 18–
+                                                                    Rules of Civil Procedure.” McClellon v. Rickard, 2026
+21. These too are arbitrable. “[T]he law is clear that
+                                                                    WL 686499, at *9 (S.D.N.Y. Mar. 11, 2026). Accordingly,
+absent a specific challenge, the delegation of the questions
+                                                                    whether the deficiencies in Plaintiff's filings stem from his
+of unconscionability and enforceability of an arbitration
+                                                                    use of AI or some other source, the Court cautions him that
+agreement to an arbitrator must be upheld.” Schwartz, 2021
+                                                                    future submissions to any court must contain only accurate
+WL 4321106, at *6. The delegation clause here explicitly
+                                                                    citations and representations. If they do not—because of
+delegates questions of “enforceability and formation,” and
+                                                                    AI hallucinating case citations or otherwise—he may be
+accordingly, these arguments are also arbitrable. Agreement
+                                                                    sanctioned, id., although the Court declines to do so now.
+§ IV.
+
+
+    IV. Stay                                                                               CONCLUSION
+Defendants also seek a stay of these proceedings pending
+arbitration. See Forrest Defs. Br. at 9–10; Shook Defs. Br. at 1,    *5 For the reasons set forth above, the Court grants
+3. “Pursuant to the FAA, if a matter is arbitrable, a stay of the   Defendants’ motion to compel arbitration and stays all claims
+litigation is entered pending completion of the arbitration.”       pending the outcome of arbitration. Defendants shall file a
+Xiaohong v. Dingledine, 2025 WL 1604001, at *5 (S.D.N.Y.            status report concerning the progress of arbitration ninety (90)
+June 6, 2026). Because the Court concludes that this dispute        days from the issuance of this order, and every ninety (90)
+is arbitrable, the litigation shall be stayed pending resolution    days thereafter. The parties shall promptly and jointly file a
+of the motion to compel arbitration.                                notice on the docket when arbitration is completed and state
+                                                                    their positions as to whether the case can now be dismissed or
+                                                                    additional motion practice is necessary. The Clerk of Court is
+   V. Use of Artificial Intelligence                                hereby respectfully directed to terminate the motions pending
+As a final matter, the Court addresses Defendants’ concern          at Dkt. Nos. 37 and 41.
+that Plaintiff's opposition brief contained citations and
+quotations to non-existent case authority, which they attribute     SO ORDERED.
+to his use of artificial intelligence (“AI”). Dkt. No. 55
+(“Forrest Defs. Repl.”) at 1–2; Dkt. No. 58 (“Shook Defs.
+Repl.”) at 1. The Shook Defendants urge the Court to sanction       All Citations
+Plaintiff, including by striking his opposition and treating
+the motions as unopposed. Shook Defs. Reply at 1–2. The             Slip Copy, 2026 WL 2212887
+
+
+
+
+                                                            Footnotes
+
+
+1       Unless otherwise indicated, case quotations omit all internal citations, quotations, footnotes, omissions, and
+        alterations.
+
+
+
+
+ WESTLAW            © 2026 Thomson Reuters. No claim to original U.S. Government Works.                                          4
+FERNANDO JUSTINO SANTANA, Plaintiff, v. SHOOK HARDY & BACON; KELLY FRAZIER; SCOTT..., Slip Copy
+(2026)
+
+
+
+End of Document                                      © 2026 Thomson Reuters. No claim to original U.S. Government Works.
+
+
+
+
+ WESTLAW          © 2026 Thomson Reuters. No claim to original U.S. Government Works.                                 5
+

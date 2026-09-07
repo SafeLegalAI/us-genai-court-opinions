@@ -1,0 +1,53 @@
+People v Wright
+
+2026 NY Slip Op 04580
+
+July 24, 2026
+
+Appellate Division, Fourth Department
+
+Published by New York State Law Reporting Bureau pursuant to Judiciary Law § 431.
+
+This decision is uncorrected and subject to revision before publication in the Official Reports.
+
+THE PEOPLE OF THE STATE OF NEW YORK, RESPONDENT,
+
+v
+
+CLIFTON WRIGHT, DEFENDANT-APPELLANT.
+
+Supreme Court of the State of New York, Appellate Division, Fourth Judicial Department
+
+Decided on July 24, 2026
+
+299 KA 23-00567
+
+Present: Lindley, J.P., Curran, Ogden, Nowak, And Delconte, JJ.
+
+JULIE CIANCA, PUBLIC DEFENDER, ROCHESTER (AARON FRIEDMAN OF COUNSEL), FOR DEFENDANT-APPELLANT. 
+
+BRIAN P. GREEN, DISTRICT ATTORNEY, ROCHESTER (BRIDGET L. FIELD OF COUNSEL), FOR RESPONDENT.
+
+Appeal from a judgment of the Monroe County Court (Michael L. Dollinger, J.), rendered February 15, 2023. The judgment convicted defendant upon a plea of guilty of criminal possession of a weapon in the second degree (two counts). 
+
+[*1]
+
+It is hereby ORDERED that the judgment so appealed from is unanimously affirmed.
+
+Memorandum: Defendant appeals from a judgment convicting him upon his plea of guilty of two counts of criminal possession of a weapon in the second degree (Penal Law § 265.03 [1] [b]; [3]). We affirm.
+
+Even assuming, arguendo, that defendant's waiver of the right to appeal is invalid (see People v Thomas, 34 NY3d 545, 565-566 [2019], cert denied 589 US 1302 [2020]; People v Strange, 244 AD3d 1811, 1811 [4th Dept 2025], lv denied 45 NY3d 939 [2026]) and thus does not preclude our review of his challenges to County Court's suppression ruling, we conclude, for the following reasons, that those challenges do not require reversal or modification of the judgment. With respect to the merits, defendant primarily contends that the court should have suppressed the loaded firearm he was charged with possessing because police officers unlawfully pursued him without reasonable suspicion. He asserts that the gun, which was recovered from the ground after he dropped it during the police pursuit, should be suppressed as a fruit of the unlawful pursuit. We reject that contention.
+
+"[T]he police may forcibly stop or pursue an individual if they have information which, although not yielding the probable cause necessary to justify an arrest, provides them with a reasonable suspicion that a crime has been, is being, or is about to be committed" (People v Martinez, 80 NY2d 444, 447 [1992]; see People v De Bour, 40 NY2d 210, 223 [1976]). Reasonable suspicion is defined as the "quantum of knowledge sufficient to induce an ordinarily prudent and cautious [person] under the circumstances to believe criminal activity is at hand" (Martinez, 80 NY2d at 448 [internal quotation marks omitted]; see People v Cantor, 36 NY2d 106, 112-113 [1975]). "Flight alone, however, or even in conjunction with equivocal circumstances that might justify a police request for information . . . , is insufficient to justify pursuit because an individual has a right 'to be let alone' and refuse to respond to police inquiry" (People v Holmes, 81 NY2d 1056, 1058 [1993]). On the other hand, a suspect's flight in response to a lawful approach and common-law inquiry by the police may justify pursuit (see People v Sierra, 83 NY2d 928, 929 [1994]; Martinez, 80 NY2d at 448). "In determining whether a pursuit was justified by reasonable suspicion, the emphasis should not be narrowly focused on . . . any . . . single factor, but [rather] on an evaluation of the totality of circumstances, which takes into account the realities of everyday life unfolding before a trained officer" (People v Bachiller, 93 AD3d 1196, 1197 [4th Dept 2012], lv dismissed 19 NY3d 861 [2012] [internal [*2]quotation marks omitted]).
+
+Here, the People presented evidence at the suppression hearing that, while responding to an unrelated traffic stop at around 4:30 a.m. on the day in question, the police heard what they perceived—based on their training and experience—to be a gunshot ring out nearby, causing them to immediately respond to that area. While driving to the location, they received a ShotSpotter activation corroborating what they had heard. Arriving at the scene within a minute of hearing the gunshot, the police encountered just two individuals in the area, one of whom was defendant. The police observed that defendant was walking away from the scene, and was attempting to conceal a "small black object in his right hand," which he "kind of turned, [by] mov[ing] his hand in a manner" away from the police. One of the responding officers exited his vehicle and told defendant to stop and show his hands, at which point defendant started to run away, causing the police to chase after him in pursuit. During the ensuing pursuit, defendant dropped a handgun on the ground, which was recovered after the police apprehended defendant.
+
+It is undisputed that, at the start of the police encounter with defendant, the officers had a "founded suspicion that criminal activity [was] afoot" (De Bour, 40 NY2d at 223), thereby justifying a common-law approach and inquiry of the two men that they found in the area (see People v Drake, 93 AD3d 1158, 1159 [4th Dept 2012], lv denied 19 NY3d 1102 [2012]). Contrary to defendant's contention, we conclude that his flight when lawfully approached by the police justified the ensuing pursuit, inasmuch as it was "combined with other specific circumstances indicating that the suspect may be engaged in criminal activity" that were known to the police at the time that defendant fled (People v Anderson, 217 AD3d 1559, 1560 [4th Dept 2023], lv denied 40 NY3d 1091 [2024] [internal quotation marks and emphasis omitted]). Specifically, at that point, it was reasonable for the police officers to suspect that defendant possessed a firearm or was otherwise involved in the shooting that just occurred (see People v Watkins, 221 AD3d 1430, 1432 [4th Dept 2023], affd 42 NY3d 1074 [2024]; People v Walker, 149 AD3d 1537, 1538 [4th Dept 2017], lv denied 30 NY3d 954 [2017]; People v Lindsay, 249 AD2d 937, 937 [4th Dept 1998], lv denied 92 NY2d 900 [1998]).
+
+Defendant further contends that, prior to his flight, the police unlawfully engaged him in a level three encounter without reasonable suspicion when they told him, purportedly at gunpoint, to stop and show his hands. We conclude, however, that defendant's contention is unpreserved for our review inasmuch as he did not raise that specific argument before the motion court, and the motion court did not expressly rule on that issue (see generally CPL 470.05 [2]; Watkins, 42 NY3d at 1074; People v Brundige, 243 AD3d 1329, 1330-1331 [4th Dept 2025], lv denied 44 NY3d 1064 [2026]). In any event, we conclude that defendant's contention is without merit because the record simply does not support defendant's assertion that, as he exited his vehicle, a police officer had his gun drawn and pointed at defendant when he told defendant to stop and show his hands. The officer testified at the hearing that he drew his gun only after he exited the vehicle and after defendant started running away—he denied instantaneously drawing the gun when he first encountered defendant. That testimony was corroborated by the body-worn camera footage entered in evidence at the hearing; the gun only appears in the footage after the police begin their pursuit of defendant, i.e., after they obtained reasonable suspicion to justify that action. Thus, given that the evidence does not establish that the police had a gun pointed at defendant when they told him to stop and show his hands, we conclude that their instructions to defendant were permissible as part of the common-law approach that started the relevant police encounter (see People v Simmons, 149 AD3d 1464, 1465 [4th Dept 2017], affd 30 NY3d 957 [2017]; People v Bora, 83 NY2d 531, 535-536 [1994]).
+
+Entered: July 24, 2026
+
+Ann Dillon Flynn
+
+Clerk of the Court

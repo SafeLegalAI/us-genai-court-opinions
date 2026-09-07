@@ -1,0 +1,746 @@
+       COURT OF APPEALS
+           DECISION                                        NOTICE
+        DATED AND FILED                    This opinion is subject to further editing. If
+                                           published, the official version will appear in
+                                           the bound volume of the Official Reports.
+            July 30, 2026
+                                           A party may file with the Supreme Court a
+            Samuel A. Christensen          petition to review an adverse decision by the
+           Clerk of Court of Appeals       Court of Appeals. See WIS. STAT. § 808.10
+                                           and RULE 809.62.
+
+
+
+
+Appeal No.        2025AP1045                                            Cir. Ct. No. 2025SC117
+
+STATE OF WISCONSIN                                     IN COURT OF APPEALS
+                                                            DISTRICT IV
+
+
+FIRST COMMUNITY CREDIT UNION,
+
+       PLAINTIFF-RESPONDENT,
+
+  V.
+
+NATHANIEL SMITH,
+
+       DEFENDANT,
+
+ASHLEY SMITH,
+
+       DEFENDANT-APPELLANT.
+
+
+
+
+                 APPEAL from a judgment of the circuit court for Rock County:
+KARL HANSON, Judge. Affirmed.
+                                                                                   No. 2025AP1045
+
+
+
+
+        ¶1      KLOPPENBURG, J.1 Ashley Smith, pro se, appeals a judgment for
+replevin in favor of First Community Credit Union (First Community), which the
+circuit court granted after a court trial. First Community has filed a motion for
+costs, fees, and attorney fees for what it asserts is a frivolous appeal. I affirm the
+circuit court judgment and deny the motion.
+
+                                      BACKGROUND
+
+        ¶2      On January 9, 2025, First Community filed a small claims summons
+and complaint against Ashley and Nathaniel Smith.2 The complaint alleged that
+the Smiths defaulted on a note for which a 2018 Chevrolet Traverse (“the
+Traverse” or “the vehicle”) is collateral by failing to make payments in November
+and December 2024, and that the balance due under the loan is $28,931.91 plus
+interest and costs. First Community demanded judgment against the Smiths “for
+recovery of possession” of the Traverse, plus costs and disbursements. Attached
+to the complaint were credit applications, a retail installment sales contract, a right
+to cure notice, and an account statement. On January 16, First Community filed a
+confidential disclosure of protected information, attaching redacted copies of the
+documents attached to the complaint, as well as a motor vehicle purchase contract
+and a certificate of title.
+
+
+
+
+        1
+         This appeal is decided by one judge pursuant to WIS. STAT. § 752.31(2)(a) (2023-24),
+and was assigned to me in June 2026. All references to the Wisconsin Statutes are to the 2023-24
+version.
+        2
+          For ease of reading, this opinion will refer to Ashley Smith, the appellant, as “Smith”;
+to Nathaniel Smith, who did not file a notice of appeal, as “Nathaniel”; and to Smith and
+Nathaniel collectively as “the Smiths.”
+
+
+
+
+                                                2
+                                                                       No. 2025AP1045
+
+
+
+
+       ¶3      In April 2025, the case went to trial before the circuit court. Smith
+appeared pro se on her own behalf, Nathaniel did not appear, and Brett Watring
+and Jack Gill appeared pro se on behalf of First Community.
+
+       ¶4      Watring, an agent in the collection department at First Community,
+testified as follows. The Smiths signed for a loan via a retail installment sales
+contract with the Frank Boucher car dealership. Frank Boucher assigned the retail
+installment sales contract to First Community. First Community “gave [Frank
+Boucher] the money,” and the Smiths “got the vehicle,” which is a 2018 Chevrolet
+Traverse. The last payment that First Community received on the loan was made
+in August 2024, and a balance of $28,931.91 remains. This information is detailed
+in the documents included in the exhibit presented by First Community at trial.
+
+       ¶5      Smith testified as follows. “[T]here is a finance contract here which
+was securitized, and there were funds made available on [her] personal security,
+and those funds were then deposited into an account for [her] at First
+Community.” She is “supposed to be able to use those funds and transfer them
+back to First Community each month to pay the debt that [she] owe[s] them.” The
+finance contract and the “security report from the third party” were not made
+available to her and should be made available to her pursuant to federal
+regulations.
+
+       ¶6      Smith further testified that she and Nathaniel executed the credit
+application included in the exhibit presented by First Community.               This
+application was for Frank Boucher to “apply for credit in [the Smiths’] name and
+acquire financing for [the Smiths]” to purchase a vehicle. The loan was assigned
+to First Community, she owed the money financed by the loan to First
+Community, and she was making the monthly payments to First Community to
+
+
+                                          3
+                                                                         No. 2025AP1045
+
+
+
+
+repay the loan so that she could “have [the] car.” The account statement included
+in the exhibit presented by First Community shows payments that the Smiths made
+to First Community from an account at a different financial institution.
+
+       ¶7     Smith introduced an exhibit showing her “statement of accounts” at
+First Community. She testified that the “loan account” on that statement “is
+designated to make the payment for the Traverse,” and that while there is a debt
+associated with the loan, “it’s still an account” which “has deposits put into it” and
+can have “withdrawals and deposits in it just like any other account.” The loan
+account has a positive balance in her name with money provided by First
+Community because she “signed the finance contract allowing them to obtain
+those funds for us.” She initially made payments to First Community because she
+had the “same misconception that most people have that this is simply an evidence
+of debt,” but “after going through the UCC and seeing the way that an account is
+set up” she realized she has the “right to use the proceeds that are in that account.”
+
+       ¶8     Smith further testified that the “finance contract,” which was not
+provided to the circuit court by First Community or Smith, would represent a
+signed agreement between the Smiths and First Community and name First
+Community as a party, and would include credit terms, the amount financed, the
+payment schedule, the annual percentage rate, loan disclosures, and truth-in-
+lending disclosures.
+
+       ¶9     Smith testified that, when she left the Frank Boucher dealership, she
+agreed to pay $26,210 for the Traverse and to financing terms of 7.19% interest,
+for a total payment of $43,407.78; and that Frank Boucher’s interest in the retail
+installment sales contract was assigned to First Community.
+
+
+
+
+                                          4
+                                                                         No. 2025AP1045
+
+
+
+
+       ¶10    Gill, president of First Community, testified in rebuttal that there are
+only two accounts at First Community related to the Smiths’ loan: a savings
+account containing $5, which the Smiths were required to have to be members of
+First Community, and the loan account, which contains the payments made from
+the Smiths’ account at a different financial institution.
+
+       ¶11    The circuit court found that the witnesses’ testimony was “overall”
+credible. It found that the Smiths were party to and aware of the retail installment
+sales contract, which laid out the cost of the Traverse, the financing arrangement,
+and the monthly payment. The court further found that, as the Smiths were also
+aware, Frank Boucher assigned its interest in the contract to First Community, and
+the Traverse itself was “the collateral for the contract,” “meaning that if the
+contract isn’t fulfilled by the buyers, then the seller, which became First
+Community Credit Union holding the contract, would have the right to obtain that
+collateral to secure their interest.” The court granted judgment in favor of First
+Community, ordering replevin along with costs.              The court also found that
+Nathaniel was in default based on his failure to appear at the trial and granted
+judgment against him on that basis.
+
+       ¶12    The following day, Smith filed a motion to reconsider and a motion
+to stay enforcement of the replevin judgement.
+
+       ¶13    In May 2025, the circuit court held a hearing on the motion to
+reconsider.   Smith argued that the error at issue was “the acceptance of the
+document from Frank Boucher as the finance contract … [because] [t]here’s
+nowhere listed on that contract of any indication of First Community’s
+relationship to [her].” The court found “that there is absolutely no error of fact or
+law here” and denied the motion for reconsideration. The court also stated that
+
+
+                                           5
+                                                                          No. 2025AP1045
+
+
+
+
+default judgment had been granted against Nathaniel because he did not appear at
+trial, and that that judgment still stands.
+
+       ¶14     The circuit court entered an order for judgment and judgment for
+replevin of the Traverse and granted First Community all court costs and fees
+associated with the case. Smith appeals.
+
+                                    DISCUSSION
+
+       ¶15     Pursuant to WIS. STAT. § 425.205, “a creditor seeking to obtain
+possession of collateral” as a result of a customer’s default on a consumer credit
+transaction “shall commence an action for replevin of the collateral.” A replevin
+action under § 425.205 may be commenced at any time after the customer’s
+default. § 425.205(6). The action shall be conducted pursuant to small claims
+procedures, except that the creditor seeking replevin must conform its summons
+and complaint to the requirements of § 425.205(2) and (3). § 425.205(1).
+
+       ¶16     This court reviews a circuit court’s decisions after a bench trial
+under a well-established standard. Our review is highly deferential to the circuit
+court’s findings of fact. Royster-Clark, Inc. v. Olsen’s Mill, Inc., 2006 WI 46,
+¶11, 290 Wis. 2d 264, 714 N.W.2d 530. This court will not disturb the circuit
+court’s findings of fact unless they are clearly erroneous. WIS. STAT. § 805.17(2).
+“A circuit court’s findings of fact are clearly erroneous when the finding is against
+the great weight and clear preponderance of the evidence.” Royster-Clark, Inc.,
+290 Wis. 2d 264, ¶12; see also Figliuzzi v. Carcajou Shooting Club, 184 Wis. 2d
+572, 589 n.7, 516 N.W.2d 410 (1994) (whether a factual finding is clearly
+erroneous is identical to whether the finding is contrary to the great weight and
+clear preponderance of the evidence).             Furthermore, “[i]t is not within our
+province to reject an inference drawn by a fact finder when the inference drawn is
+
+                                              6
+                                                                         No. 2025AP1045
+
+
+
+
+reasonable.” Global Steel Prods. Corp. v. Ecklund Carriers, Inc., 2002 WI App
+91, ¶10, 253 Wis. 2d 588, 644 N.W.2d 269. “We will search the record for
+evidence to support the findings that the [circuit] court made, not for findings that
+the [circuit] court could have made but did not.” Id. “The [circuit] court is the
+arbiter of the credibility of witnesses, and its findings will not be overturned on
+appeal unless they are inherently or patently incredible or in conflict with the
+uniform course of nature or with fully established or conceded facts.” Id.
+
+       ¶17    I now address in turn Smith’s arguments as she frames them.
+
+        A. First Community failed to produce the complete agreement
+
+       ¶18    Smith argues that First Community cannot enforce the security
+agreement because First Community failed to produce the “complete agreement”
+as required by WIS. STAT. § 409.203 and Gielow v. Napiorkowski, 2003 WI App
+249, ¶19, 268 Wis. 2d 673, 673 N.W.2d 351.
+
+       ¶19    WISCONSIN STAT. § 409.203(2) provides that “a security interest is
+enforceable against the debtor … with respect to collateral only if:” (1) value has
+been given; (2) the debtor has rights in the collateral or the power to transfer rights
+in the collateral; and, pertinent here, (3) the debtor authenticated a security
+agreement describing the collateral. § 409.203(2)(a)-(c). For the purposes of WIS.
+STAT. ch. 409, “authenticated” means “signed,” and “security agreement” means
+“an agreement that creates or provides for a security interest.”          WIS. STAT.
+§ 409.102(1)(bm)1., (1)(s). I understand Smith to argue that First Community did
+not present a security agreement, signed by her, describing the collateral, because
+it did not produce something that she calls the “finance contract.”
+
+
+
+
+                                          7
+                                                                         No. 2025AP1045
+
+
+
+
+       ¶20    The circuit court determined that the retail installment sales contract
+introduced as an exhibit at trial is authentic and accurately evidences the
+transaction between the Smiths and Frank Boucher. Smith does not dispute the
+authenticity of that contract. The court found that the contract is signed by the
+Smiths and states that the Smiths give Frank Boucher a security interest in the
+Traverse to secure payment of what they owe on the contract. It also found that
+the contract states that Frank Boucher “assigns its interests in this contract to”
+First Community, and found that the collateral so assigned is the Traverse. The
+contract on its face identifies the vehicle serving as collateral, the Traverse, by its
+Vehicle Identification Number (VIN). I conclude that the record supports all of
+these findings. Accordingly, First Community presented a security agreement
+authenticated by Smith describing the collateral, that is, the Traverse, and Smith’s
+argument that First Community cannot enforce the security agreement based on
+noncompliance with WIS. STAT. § 409.203 fails.
+
+       ¶21    Smith asserts that the retail installment sales contract’s reference to
+“other contracts we finance for you” means that First Community was required to
+produce some “other contract.” Smith cites Gielow, 268 Wis. 2d 673, ¶19, for the
+proposition that “[w]here a contract incorporates other documents by reference,
+those documents must be produced,” or the contract is rendered “incomplete and
+unenforceable.” This proposition is not supported by Gielow, which addressed the
+
+
+
+
+                                          8
+                                                                                       No. 2025AP1045
+
+
+
+
+propriety of a grant of summary judgment based on a release of claims.3 See id.,
+¶¶13-19. Smith further asserts that WIS. STAT. § 409.608 “limits a secured party’s
+ability to enforce and collect to the rights established under an authenticated
+security agreement,” and that “[w]ithout production of the complete agreement,
+[First Community] could not establish enforceable rights in the alleged collateral.”
+Section 409.608 does not address a secured party’s ability to enforce or collect on
+a security interest. Accordingly, I reject these assertions as unsupported by legal
+authority. See Industrial Risk Insurers v. American Eng’g Testing, Inc., 2009
+WI App 62, ¶25, 318 Wis. 2d 148, 769 N.W.2d 82 (“Arguments unsupported by
+legal authority will not be considered, … and we will not abandon our neutrality to
+develop arguments.”).          Moreover, Smith provides no citations to the record
+supporting her assertion that First Community did not produce the “complete
+agreement,” or showing that there are “other contracts” financed by First
+Community in addition to the contract that First Community seeks to enforce in
+this case.
+
+        ¶22      Citing Milwaukee Mack Sales, Inc. v. First Wisconsin National
+Bank, 93 Wis. 2d 589, 604, 287 N.W.2d 708 (1980), Smith asserts that our
+supreme court has “long required creditors to establish their rights in collateral
+before enforcement is possible.”                The proposition for which Smith cites
+
+
+        3
+           Smith’s briefs include false legal citations, of which her citation to Gielow is one
+example. Specifically, and as noted throughout this opinion, some citations misrepresent the
+content of the cited cases and statutes, and some citations are to legal authorities that exist but are
+wholly unrelated to the proposition for which they are cited. The inclusion of false legal citations
+in Smith’s briefing violates WIS. STAT. RULE 809.19(1)(e) and (4)(b). This court cautions Smith
+not to repeat this violation in any future filings in this or any court. I offer an additional note of
+caution—if the root of the problem is that Smith used generative AI for legal research and trusted
+it to provide accurate results, she should be aware that there are many reported instances in which
+generative AI has hallucinated nonexistent cases and misreported the holdings of existing cases.
+
+
+
+
+                                                  9
+                                                                               No. 2025AP1045
+
+
+
+
+Milwaukee Mack Sales does not appear at the cited page, which is not part of that
+opinion. Moreover, Smith does not develop an argument that First Community
+has not established its rights in the Traverse as collateral, beyond the assertions
+that I have rejected above.         I accordingly reject this additional assertion as
+undeveloped. See Industrial Risk Insurers, 318 Wis. 2d 148, ¶25.
+
+           B. First Community violated WIS. STAT. § 425.109 by failing to
+                   produce the writings evidencing the transaction
+
+       ¶23      Smith argues that First Community violated WIS. STAT. § 425.109
+by failing to produce the writings evidencing the transaction, and that, as a result,
+“the judgment rests on speculation rather than competent evidence and therefore
+requires reversal under … § 425.109(1).”
+
+       ¶24      The statute governing actions by creditors to recover collateral, WIS.
+STAT. § 425.205, provides that “[t]he complaint in such action shall conform with
+the requirements of [WIS. STAT. §] 425.109.” § 425.205(3). Section 425.109 sets
+forth eight items that a merchant must include in its complaint “to enforce any
+cause of action arising from a consumer credit transaction.” § 425.109(1). Smith
+asserts that First Community failed to include the item set forth in § 425.109(1)(h):
+“an accurate copy of the writings, if any, evidencing the transaction.”4 Smith
+asserts that the retail installment sales contract is “insufficient to satisfy this
+burden.”      The contract identifies the buyers (the Smiths) and seller (Frank
+Boucher); specifically identifies the Traverse by its VIN; contains truth-in-lending
+disclosures including the annual percentage rate, finance charge, amount financed,
+
+
+       4
+           Smith also refers to requirements that she asserts are found in WIS. STAT.
+§ 425.109(1)(a), (b), and (e), but none of those subsections contain the requirements that she
+identifies, nor are those requirements found elsewhere in the statute.
+
+
+
+
+                                             10
+                                                                          No. 2025AP1045
+
+
+
+
+total sale price, and amount and number of monthly payments; contains a clause
+giving the seller a security interest in the Traverse; is signed by the Smiths and a
+representative of Frank Boucher; and states that Frank Boucher assigns its interest
+in the contract to First Community. Smith does not explain what additional
+information is required to be included in the “writings … evidencing the
+transaction,” and she cites no legal authority in support of her conclusory assertion
+that this contract does not satisfy § 425.109(1)(h).       Accordingly, I reject her
+assertion that First Community did not comply with § 425.109(1). See State v.
+McMorris, 2007 WI App 231, ¶30, 306 Wis. 2d 79, 742 N.W.2d 322 (this court
+“may choose not to consider arguments unsupported by references to legal
+authority, arguments that do not reflect any legal reasoning, and arguments that
+lack proper citations to the record”).
+
+       ¶25    Smith also asserts that the credit applications signed by the Smiths
+do not contain financing terms, and that those applications are insufficient to
+comply with WIS. STAT. § 425.109(1). As explained above, the retail installment
+sales contract contains those terms, so it is irrelevant that the credit applications do
+not.
+
+             C. First Community’s evidence lacked probative value
+                        under WIS. STAT. § 799.209(2)
+
+       ¶26    Smith argues that First Community’s evidence “lacked probative
+value,” and that, as a result, the judgment is “based on speculation and hearsay” in
+violation of WIS. STAT. § 799.209(2) “because the statute requires competent
+evidence with reasonable probative value, which [First Community] failed to
+provide.”
+
+
+
+
+                                          11
+                                                                             No. 2025AP1045
+
+
+
+
+       ¶27     WISCONSIN STAT. § 799.209(2) provides that in all small claims
+proceedings,
+
+               [t]he proceedings shall not be governed by the common law
+               or statutory rules of evidence except those relating to
+               privileges under [WIS. STAT.] ch. 905 or to admissibility
+               under [WIS. STAT. §] 901.05. The [circuit] court or circuit
+               court commissioner shall admit all other evidence having
+               reasonable probative value, but may exclude irrelevant or
+               repetitious evidence or arguments. An essential finding of
+               fact may not be based solely on a declarant’s oral hearsay
+               statement unless it would be admissible under the rules of
+               evidence.
+
+       ¶28     Smith asserts that First Community “relied … on speculative
+testimony from its agents” who “lack[ed] … personal knowledge,” regarding what
+Smith purports is “the missing finance contract.” Smith points to two excerpts of
+the testimony of First Community’s witnesses, that “the loan was through the
+dealership” and that they had “never been provided with any documentation,” to
+argue that the witnesses “admitted lack of personal knowledge.” As to the first
+excerpt, that the contract assigning the collateral to First Community, which the
+Smiths signed, originated with the dealership does not mean that the First
+Community officers who testified lacked personal knowledge of the contract at
+issue. The second excerpt is taken out of context and refers to Smith’s failure to
+provide First Community with documentation of the “loan account” from which
+she asserts First Community was supposed to be withdrawing her loan payments.
+To the extent that either quote shows that the testifying officers had no personal
+knowledge of another contract of which Smith herself provided no evidence,
+Smith fails to explain why that matters in this case to enforce the contract at issue.
+
+       ¶29     Moreover, Smith fails to point to any of the circuit court’s findings
+about the contract at issue that are based on these testimony excerpts. Smith also
+fails to explain how the evidence that the court did rely on—specifically, the retail
+
+
+                                           12
+                                                                       No. 2025AP1045
+
+
+
+
+installment sales contract, which Smith does not dispute is authentic, and her own
+testimony about that contract—is not competent evidence that is probative of First
+Community’s right to enforce the security agreement. Accordingly, I conclude
+that Smith fails to show that the court relied on inadmissible evidence or evidence
+that lacked probative value in violation of WIS. STAT. § 799.209(2).
+
+                   D. First Community violated federal law
+
+      ¶30    Smith makes the conclusory assertion that First Community failed to
+comply with 12 C.F.R. §§ 1002.2 and 1002.9, which she asserts provide that
+“creditors may not take action unless an application is complete and must provide
+the applicant with the required adverse action disclosures.”      Smith does not
+identify with citation to the record or legal authority what portion of her
+application was incomplete, nor does she identify what adverse action was taken
+that required disclosures to be provided.       I reject Smith’s conclusory and
+undeveloped assertion on this issue. See McMorris, 306 Wis. 2d 79, ¶30. For the
+sake of completeness, I also note that “adverse action,” as defined by 12 C.F.R.
+§ 1002.2(c)(2), does not include “[a]ny action or forbearance relating to an
+account taken in connection with inactivity, default, or delinquency as to that
+account.”
+
+      ¶31    Smith also asserts that First Community “violated the Fair Credit
+Reporting Act, which strictly limits access to consumer reports to circumstances
+involving [a] permissible purpose, 15 U.S.C. § 1681b.”         15 U.S.C. § 1681b
+governs the permissible purposes under which a consumer reporting agency may
+issue consumer reports. Smith cites no relevant legal authority, and points to
+nothing in the record, to support her implicit assertion that First Community is a
+“consumer reporting agency.” I reject this undeveloped argument on that basis.
+
+
+                                        13
+                                                                          No. 2025AP1045
+
+
+
+
+See McMorris, 306 Wis. 2d 79, ¶30. Moreover, I note that the credit applications
+signed by the Smiths, which Smith testified are authentic, explicitly allow “the
+dealer, and … the financial institution(s) selected to receive [the Smiths’]
+application[s]” to “obtain a consumer credit report periodically … in connection
+with the proposed transaction.”
+
+       E. The circuit court entered default judgment against Nathaniel
+                         without competent evidence
+
+       ¶32     Smith argues that the circuit court erred in entering default judgment
+against Nathaniel without competent evidence, in violation of WIS. STAT.
+§ 799.209(2). This argument fails for at least the following reasons.
+
+       ¶33     First, Smith lacks authority to make this argument challenging the
+judgment against Nathaniel. Because she is not an attorney licensed to practice in
+Wisconsin, she may not represent any party but herself. See Jadair Inc. v. U.S.
+Fire Ins. Co., 209 Wis. 2d 187, 202-03, 562 N.W.2d 401 (1997) (a person may
+not appear on behalf of another person or entity in any action or proceeding before
+a court of this state, with one limited exception not applicable here).
+
+       ¶34     Second, because Nathaniel has not appealed the judgment against
+him, this court lacks jurisdiction to review that judgment.          See WIS. STAT.
+§ 809.10(1)(e) (a party must file a timely notice of appeal to give this court
+jurisdiction over the appeal); Jadair Inc., 209 Wis. 2d at 211 (when the notice of
+appeal is signed and filed by a nonlawyer on behalf of another person or entity,
+this court lacks jurisdiction).
+
+       ¶35     Third, default judgments in small claims proceedings cannot be
+appealed. WIS. STAT. § 799.29(1)(a) (“There shall be no appeal from default
+
+
+
+
+                                          14
+                                                                          No. 2025AP1045
+
+
+
+
+judgments, but the [circuit] court may, by order, reopen default judgments upon
+notice and motion or petition duly made and good cause shown.”).
+
+            F. The circuit court improperly shifted the burden of proof
+
+          ¶36   Smith asserts that the circuit court erred by excusing First
+Community’s evidentiary deficiencies and improperly shifting the burden of proof
+onto her, in violation of WIS. STAT. § 799.209(1). Section 799.209(1) provides:
+“The [circuit] court or circuit court commissioner shall conduct the proceeding
+informally, allowing each party to present arguments and proofs and to examine
+witnesses to the extent reasonably required for full and true disclosure of the
+facts.”     Smith asserts that the court “failed this duty by relieving [First
+Community] of its evidentiary burden” and instead “repeatedly demand[ing] that
+… Smith prove where funds came from and how the transaction was financed.”
+This assertion is unsupported by the record. My review of the trial transcript, as
+cited by Smith in support of her assertion, shows that the court allowed both
+parties to present arguments and examined the witnesses “to the extent reasonably
+required for full and true disclosure of the facts.” See § 799.209(1). The court did
+not shift the burden of proof onto Smith by “demand[ing]” that she explain where
+funds came from, but instead examined her to ensure that it understood her
+arguments.      Moreover, I have explained above why I conclude that First
+Community presented sufficient evidence, in the form of the retail installment
+sales contract, to meet its burden to establish its entitlement to replevin.
+
+          ¶37   Smith asserts in one sentence that “[t]his error violated both due
+process and the statutory framework governing consumer credit actions.” I reject
+this undeveloped assertion as unsupported by citation to relevant legal authority.
+See Industrial Risk Insurers, 318 Wis. 2d 148, ¶25.
+
+
+                                          15
+                                                                         No. 2025AP1045
+
+
+
+
+               G. The circuit court prejudged Smith’s credibility
+
+       ¶38    Smith asserts that the circuit court erred by “substitut[ing] personal
+impressions for legal analysis.” I understand her to be arguing that the court was
+objectively biased. “Whether a circuit court’s partiality can be questioned is a
+matter of law that we review independently.” State v. Goodson, 2009 WI App
+107, ¶7, 320 Wis. 2d 166, 771 N.W.2d 385. There is a rebuttable presumption that
+the court has acted fairly, impartially, and without bias. Id., ¶8. A defendant can
+rebut the presumption by showing either subjective or objective bias by a
+preponderance of the evidence. Miller v. Carroll, 2020 WI 56, ¶21, 392 Wis. 2d
+49, 944 N.W.2d 542. While subjective bias “is not at issue” if the court believes
+itself to be fair and impartial, objective bias—actual bias or a serious risk of actual
+bias or prejudgment—depends on the perception of an objective and reasonable
+observer. Id., ¶¶21-22. Objective bias exists when “a reasonable person could
+question the court’s impartiality based on the court’s statements.” Goodson, 320
+Wis. 2d 166, ¶9. “[I]t is the exceptional case with ‘extreme facts’ which rises to
+the level of a ‘serious risk of actual bias.’” Miller, 392 Wis. 2d 49, ¶24 (quoted
+source omitted).
+
+       ¶39    In support of this assertion, Smith cites the circuit court’s statements
+at trial that it did not want to go down a “dubious line of fraud” with respect to one
+of Smith’s arguments about the UCC, and that it appeared Smith was “grasping at
+straws to evade making payment for a vehicle that [she] bought.” She also cites
+the court’s statements at the hearing on her motion for reconsideration that it was
+not sure whether she was “trying to concoct an argument … to get out of having to
+pay for a car,” and that she should “pay for [the car].” Smith fails to show that the
+court’s statements regarding its evaluation of her arguments and the evidence
+constitute “personal impressions” or “preconceived views.” The trial transcript
+
+                                          16
+                                                                          No. 2025AP1045
+
+
+
+
+shows that the court made these statements as an alternative way to view Smith’s
+arguments, but that the court was choosing to “give [her] the benefit of the doubt
+… that there’s just a misunderstanding on [her] part as to what [the contract and
+other documents in the exhibits are] and what [they] mean[].” The transcript
+shows that the court carefully and respectfully questioned Smith and allowed her
+to present her arguments, and then presented its assessment of those arguments
+based on the evidence before it. In other words, all of the court’s comments were
+made after hearing the evidence and Smith’s arguments, and represent the court’s
+assessments of the arguments, not personal impressions or preconceived views of
+Smith.
+
+         ¶40   Smith asserts that her case is distinguishable from State v. Rochelt,
+165 Wis. 2d 373, 477 N.W.2d 659 (Ct. App. 1991), in which this court concluded
+that the defendant received a fair trial, because “here the record demonstrates
+repeated reliance on personal impressions in place of statutory analysis. This
+prejudgment denied the Smiths a fair trial.” But Smith fails to show that the
+circuit court here conducted the trial and made its ruling based on personal
+impressions or prejudgment, and the record establishes to the contrary.
+
+         ¶41   Smith also asserts that the circuit court “failed its statutory duty
+under [WIS. STAT.] § 805.17(2)” by prejudging her credibility and relying on non-
+probative testimony, but she does not explain how the court violated this statute,
+which states, in part, “the court shall find the ultimate facts and state separately its
+conclusions of law thereon.” Moreover, as stated above, the court found her
+testimony credible and did not rely on non-probative testimony.
+
+
+
+
+                                          17
+                                                                         No. 2025AP1045
+
+
+
+                             H. Additional assertions
+
+       ¶42    Smith generally asserts that First Community “routinely … engages
+in pledging member receivables as part of its ordinary business practices,” and that
+this is relevant because “[w]hether the Smiths’ receivable was retained by [First
+Community] or pledged to another party affects whether [First Community] had
+standing to enforce.” But, Smith does not argue that First Community pledged the
+Smiths’ “receivable” to another party. Smith also does not cite legal authority in
+support of her assertion that First Community may have lacked standing. I reject
+whatever argument Smith means to make in support of this assertion as
+undeveloped. See Industrial Risk Insurers, 318 Wis. 2d 148, ¶25.
+
+       ¶43    Smith asserts that the circuit court’s actions in entering default
+judgment against Nathaniel, prejudging her credibility, and shifting the burden of
+proof onto her, “deprived both Mr. and Mrs. Smith of their constitutional right to
+due process.”     However, as I explain above, the default judgment against
+Nathaniel is not before this court, and the court neither prejudged Smith’s
+credibility nor shifted the burden of proof onto her. Regardless, Smith does not
+develop this conclusory assertion with citation to legal authority, and I reject it on
+that basis. See McMorris, 306 Wis. 2d 79, ¶30.
+
+       ¶44    Smith asserts that the errors she identifies above “were not
+harmless,” based on information outside of the record. Because I conclude that
+the circuit court did not err in any of the respects asserted by Smith, I consider this
+assertion no further.
+
+       ¶45    In this section of her brief, Smith also asserts in a single sentence
+that “the judgment rests on evidence obtained unlawfully.”           Smith does not
+
+
+
+
+                                          18
+                                                                                    No. 2025AP1045
+
+
+
+
+develop this assertion into a supported argument, and I accordingly consider it no
+further.
+
+        ¶46     In her reply brief, Smith asserts that “First Community … never
+proved it was a party to, or assignee of, the consumer credit contract.” I could
+reject this assertion because it is raised for the first time in the reply brief. See
+Bilda v. County of Milwaukee, 2006 WI App 57, ¶20 n.7, 292 Wis. 2d 212, 713
+N.W.2d 661 (“It is a well-established rule that we do not consider arguments
+raised for the first time in a reply brief.”). However, I also conclude that Smith
+fails to show that the circuit court’s finding—that the retail installment sales
+contract, which contains the security agreement, was assigned to First
+Community—is clearly erroneous. That agreement states that Frank Boucher
+assigned its interest in the contract to First Community, and Smith does not
+support her conclusory assertion that this is insufficient to prove the assignment
+with citation to relevant legal authority.
+
+                                     I. Frivolous appeal
+
+        ¶47     First Community has filed a motion for costs, fees, and attorney fees
+based on a claim that Smith’s appeal is frivolous under WIS. STAT.
+RULE 809.25(3).5 “Whether an appeal is frivolous is a question of law.” Kraemer
+v. Traun, 2025 WI App 8, ¶55, 415 Wis. 2d 125, 17 N.W.3d 49 (2024).
+“Sanctions for a frivolous appeal will be imposed if the court concludes that the
+party ‘knew, or should have known, that the appeal ... [had no] reasonable basis in
+
+
+        5
+          First Community’s brief refers to the parties by their status on appeal, and not by their
+names, contrary to WIS. STAT. RULE 809.19(1)(i). Use of these designations can easily create
+confusion that is an unnecessary burden for this high-volume court.
+
+
+
+
+                                                19
+                                                                       No. 2025AP1045
+
+
+
+
+law or equity and could not be supported by a good faith argument for an
+extension, modification, or reversal of existing law.’” Id. (quoted source omitted);
+RULE 809.25(3)(c). This court “‘resolve[s] all doubt in favor of finding the claim
+nonfrivolous.’” Dietscher v. Pension Bd. of Emps.’ Ret. Sys. of Milwaukee, 2019
+WI App 37, ¶56, 388 Wis. 2d 225, 932 N.W.2d 446 (quoted source omitted).
+
+       ¶48    This court awards attorney fees under WIS. STAT. RULE 809.25 only
+when the entire appeal is frivolous. Thompson v. Ouellette, 2023 WI App 7, ¶30,
+406 Wis. 2d 99, 986 N.W.2d 338. While many if not most of Smith’s arguments
+are not supported by the record or by citations to relevant authority, I cannot
+conclude that the entire appeal is frivolous.           Accordingly, I deny First
+Community’s motion.
+
+                                  CONCLUSION
+
+       ¶49    For the reasons set forth above, I affirm the judgment of the circuit
+court and deny First Community’s motion.
+
+              By the Court.—Judgment affirmed.
+
+              This    opinion   will   not    be   published.   See   WIS. STAT.
+RULE 809.23(1)(b)4.
+
+
+
+
+                                         20
+

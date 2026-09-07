@@ -1,0 +1,261 @@
+Case 0:25-cv-62431-MD Document 37 Entered on FLSD Docket 02/19/2026 Page 1 of 5
+
+
+
+                             UNITED STATES DISTRICT COURT
+                             SOUTHERN DISTRICT OF FLORIDA
+
+                   CASE NO. 0:25-CV-62431-DAMIAN/AUGUSTIN-BIRCH
+
+
+ JUANDEL PENA and MARTINA RUIZ,
+
+        Plaintiffs,
+
+ v.
+
+ WELLS FARGO BANK, N.A.,
+
+       Defendant.
+ ________________________________________/
+
+                      REPORT AND RECOMMENDATION ON
+         PLAINTIFFS’ RENEWED MOTION FOR PRELIMINARY INJUNCTION
+
+        This cause comes before the Court on Juandel Pena and Martina Ruiz’s Renewed Motion
+
+ for Preliminary Injunction. DE 14. The Honorable Melissa Damian, United States District Judge,
+
+ referred the Motion to the undersigned United States Magistrate Judge for a report and
+
+ recommendation. See DE 24. Defendant Wells Fargo Bank, N.A. filed a response, DE 16, and
+
+ Plaintiffs filed a reply. DE 17. Having carefully considered the record and the briefing and being
+
+ otherwise fully advised, the Court RECOMMENDS DENYING Plaintiffs’ Renewed Motion for
+
+ Preliminary Injunction [DE 14].
+
+                                           I. Background
+
+        Plaintiffs have sued Defendant for, among other purported violations, violating section
+
+ 1681s-2(b) of the Fair Credit Reporting Act (“FCRA”). DE 1. Although Plaintiffs’ allegations are
+
+ at times unclear and disjointed, the Court understands their allegations to be as follows. On
+
+ December 15, 2022, Plaintiffs financed a 2015 BMW X5M through Defendant. Id. ¶ 9. Two years
+
+ later, Plaintiff Pena was involved in an accident and has been “financially disabled” since then. Id.
+
+ ¶ 6. In 2025, due to Plaintiff Pena’s financial hardship, Plaintiffs requested a deferment of their
+Case 0:25-cv-62431-MD Document 37 Entered on FLSD Docket 02/19/2026 Page 2 of 5
+
+
+
+ payments but were denied. Id. ¶ 10. On June 16, 2025, Defendant sent Plaintiffs a delinquency
+
+ letter, demanding $1,498.20, and, on July 18, 2025, “vaguely threatened ‘possible’ repossession.”
+
+ Id. ¶¶ 11, 12. On August 1, 2025, Defendant allegedly made good on its threat of repossession and
+
+ repossessed Plaintiffs’ BMW. Id. ¶ 13. Defendant mailed a post-repossession notice to Plaintiffs
+
+ that same day. Id. ¶ 14. According to Plaintiffs, Defendant’s agent improperly secured the BMW
+
+ during repossession, which caused $34,183.26 in damage. Id. ¶¶ 13, 15.
+
+        On August 5, 2025, a “Manager Angelo granted a 21-day redemption extension to August
+
+ 28.” Id. ¶ 16. A week later, “Defendant posted fabricated $12,894 ‘deficiency balance adjustment’
+
+ before reinstatement despite no sale of the” BMW. Id. ¶ 17. Plaintiffs called Defendant on August
+
+ 13, 2025, and a representative confirmed that the redemption extension was still in place until
+
+ August 28, 2025, and that there was still time to reinstate. Id. ¶ 18. Plaintiffs made two
+
+ reinstatement payments, but the $12,894 deficiency remained visible despite Plaintiffs making the
+
+ final reinstatement payment. Id. ¶¶ 20–22. However, on August 21, 2025, “Defendant deducted
+
+ $12,894 as ‘charge-off adjustment.’” Id. ¶ 23.
+
+        A week later, Plaintiffs picked up their BMW, noticed damage, and called Defendant to
+
+ demand that Defendant repair the BMW. Id. ¶ 24. Plaintiffs “disputed Equifax,” and “Defendant
+
+ verified false July repo” on September 6, 2025. Id. ¶ 25. Plaintiffs later sent an email to Defendant
+
+ detailing the damage to the BMW, and Defendant requested additional time to respond. Id. ¶¶ 26,
+
+ 27. Not receiving a response on time, Plaintiff Pena sent Defendant a “Final Escalation” email,
+
+ demanding repairs and estimating the damage to be $34,183.26. Id. ¶ 28. Defendant did not
+
+ respond to Plaintiff Pena’s email, so Plaintiffs filed a complaint with the Consumer Financial
+
+ Protection Bureau. Id. ¶ 29. Plaintiffs allege that “Defendant reports July 2025 repo inconsistently,
+
+ despite August 1 event + August 14 reinstatement; inconsistent bureau status.” Id. ¶ 34.
+
+
+
+                                                  2
+Case 0:25-cv-62431-MD Document 37 Entered on FLSD Docket 02/19/2026 Page 3 of 5
+
+
+
+          Plaintiffs allege that Defendant has violated section 1681s-2(b) of the FCRA in three
+
+ ways. 1 First, Plaintiffs contend that Defendant “[f]alsely reported July 2025 repossession despite
+
+ August 1, 2025 event, August 14 reinstatement, and August 28 return.” Id. ¶ 37. Second, Plaintiffs
+
+ maintain that Defendant “[f]abricated $12,894 deficiency posted August 12 and visible until
+
+ August 21––6 days post-reinstatement.” Id. ¶ 38. Lastly, Plaintiffs assert that Defendant “[f]ailed
+
+ to reasonably reinvestigate after August 28 . . . and September 6 disputes, verifying false tradeline.”
+
+ Id. ¶ 39.
+
+          After filing their Complaint, Plaintiffs filed the present Renewed Motion for Preliminary
+
+ Injunction. 2 DE 14. Therein, Plaintiffs argue that they have suffered “concrete harm from
+
+ [Defendant’s] inaccurate reporting” and that “Defendant’s post-service admissions and continued
+
+ false reporting constitute willful violation of the FCRA and irreparable harm requiring immediate
+
+ injunctive relief.” Id. at 2.
+
+                                                     II. Analysis
+
+          Before evaluating whether Plaintiffs have satisfied the four requirements for a preliminary
+
+ injunction, the Court must first determine whether Plaintiffs can even obtain injunctive relief under
+
+ the FCRA. See Stolfat v. Equifax, Inc., No. 24-80856-CV, 2024 WL 4881239, at *1 (S.D. Fla.
+
+ Sept. 19, 2024) (“Before a court reaches the merits of whether to grant a preliminary injunction, it
+
+ must first be assured it has the authority to grant the requested equitable relief.”). Plaintiffs cannot.
+
+ See id. (“[T]he FCRA does not, itself, confer upon this court the power to issue a preliminary
+
+ injunction in consumer cases.”); Gonzalez v. Macy’s/DSNB, No. 06-61571-CIV, 2006 WL
+
+ 5849317, at *1 (S.D. Fla. Dec. 12, 2006) (“Upon a review of the FCRA’s civil remedy provisions,
+
+
+ 1
+  Plaintiffs raise other causes of action in addition to the FCRA. See DE 1 at 11–17. The Court does not discuss those
+ causes of action because they are not pertinent to Plaintiffs’ Motion for Preliminary Injunction.
+ 2
+   This Court denied Plaintiffs’ first Motion for Preliminary Injunction give that Plaintiffs filed it before perfecting
+ service upon Defendant. See DE 11.
+                                                           3
+Case 0:25-cv-62431-MD Document 37 Entered on FLSD Docket 02/19/2026 Page 4 of 5
+
+
+
+ the plain language of the statute reveals that a private plaintiff can only obtain compensatory
+
+ damages, punitive damages and attorney’s fees. Declaratory or injunctive relief is not available to
+
+ a private plaintiff . . . .” (citations omitted)); Mangio v. Equifax, Inc., 887 F. Supp. 283, 285 (S.D.
+
+ Fla. 1995) (“[I]njunctive relief is not available to Mangio under the FCRA.”); see also Washington
+
+ v. CSC Credit Servs. Inc., 199 F.3d 263, 268 (5th Cir. 2000) (“We hold that the affirmative grant
+
+ of power to the [Federal Trade Commission] to pursue injunctive relief, coupled with the absence
+
+ of a similar grant to private litigants when they are expressly granted the right to obtain damages
+
+ and other relief, persuasively demonstrates that Congress vested the power to obtain injunctive
+
+ relief [under the FCRA] solely with the FTC.”).
+
+        Defendant maintains that Plaintiffs cannot obtain injunctive relief under the FCRA in its
+
+ response, citing much of the same caselaw as above. DE 16 at 3–5. But Plaintiffs contend in their
+
+ reply that this body of caselaw is outdated given the Eleventh Circuit’s opinion in Holden v.
+
+ Holiday Inn Club Vacations, Inc., 98 F.4th 1359 (11th Cir. 2024), which Plaintiffs incorrectly
+
+ contend permits a private litigant to obtain injunctive relief under the FCRA. DE 17 at 3–4
+
+ (“Defendant’s primary argument––that private plaintiffs lack standing for injunctive relief under
+
+ the FCRA––is based on outdated authority. The Eleventh Circuit permits such relief where
+
+ irreparable harm is shown. Holden v. Holiday Inn Club Vacations, Inc. 98 F.4th 1359, 1371 (11th
+
+ Cir. 2024).”).
+
+        At best, Plaintiffs have wholly misread Holden. As the Eleventh Circuit explained in
+
+ Holden, the question before the Court was “what amounts to an actionable inaccuracy under the
+
+ FCRA,” Holden, 98 F.4th at 1363, not whether private litigants can obtain injunctive relief under
+
+ the FCRA. Indeed, Holden never discusses or mentions injunctive relief. At worst, Plaintiffs have
+
+ obtained their Holden analysis and citation from an unreliable source, such as artificial intelligence
+
+ (“AI”). The best indication of this possibility is Plaintiffs’ citation to page 1371 of Holden. Holden,
+
+                                                   4
+Case 0:25-cv-62431-MD Document 37 Entered on FLSD Docket 02/19/2026 Page 5 of 5
+
+
+
+ however, ends on page 1369. No level of misreading would cause Plaintiffs to cite to a non-existent
+
+ page.
+
+         This Court previously admonished Plaintiffs for potentially using AI hallucinated legal
+
+ citations. DE 11 at 2. The Court should not have to warn Plaintiffs again. If Plaintiffs include any
+
+ other false or inaccurate legal citations in briefing that the Court suspects were generated by AI,
+
+ the Court will order Plaintiffs to appear in person to explain those citations and why they should
+
+ not be sanctioned for their conduct.
+
+                                        III. Recommendation
+
+         Because Plaintiffs cannot obtain injunctive relief under the FCRA, the Court
+
+ RECOMMENDS DENYING Plaintiffs’ Renewed Motion for Preliminary Injunction [DE 14].
+
+         Within fourteen days after being served with a copy of this Report and Recommendation,
+
+ any party may serve and file written objections to any of the above findings and recommendations.
+
+ 28 U.S.C. § 636(b)(1); S.D. Fla. Mag. R. 4(a). The parties are hereby notified that a failure to
+
+ timely object waives the right to challenge on appeal the District Court’s order based on
+
+ unobjected-to factual and legal conclusions contained in this Report and Recommendation.
+
+ 11th Cir. R. 3-1 (2014).
+
+         DONE AND SUBMITTED in Chambers at Fort Lauderdale, Florida, this 19th day of
+
+ February, 2026.
+
+
+                                                       ___________________________________
+                                                       PANAYOTTA AUGUSTIN-BIRCH
+                                                       UNITED STATES MAGISTRATE JUDGE
+
+
+
+
+                                                  5
+

@@ -1,0 +1,322 @@
+Case 2:25-cv-00354-SDN        Document 40 Filed 05/05/26        Page 1 of 6    PageID #:
+                                     <pageID>
+
+
+
+                          UNITED STATES DISTRICT COURT
+
+                                 DISTRICT OF MAINE
+
+JESSICA FULLER,                              )
+                                             )
+                 Plaintiff,                  )
+                                             )
+v.                                           )      2:25-cv-00354-SDN
+                                             )
+HYDE SCHOOL, et al.,                         )
+                                             )
+                 Defendants.                 )
+
+                          ORDER IMPOSING SANCTIONS
+
+      This issue comes before the Court on the matter of whether Plaintiff’s counsel,
+
+Attorney Kelly Guagenty, should be sanctioned for submitting two filings to the Court
+
+which used artificial intelligence (“AI”) to generate erroneous legal citations. See ECF
+
+Nos. 25, 29. On April 14, 2026, the Court issued a show cause order to Attorney Guagenty
+
+asking why she should not be sanctioned for making false statements of fact or law to the
+
+Court. ECF No. 38. After considering the record, applicable law, and counsel’s response
+
+to the Court’s show cause order, ECF No. 39, the Court determines it is appropriate to
+
+impose non-monetary sanctions.
+
+                                   BACKGROUND
+
+      Plaintiff Jessica Fuller brought claims against her former school, the Hyde School,
+
+and other institutional defendants alleging child exploitation of students. See ECF No. 1.
+
+On October 7, 2025, Defendants moved to dismiss the complaint for failure to state a
+
+claim. ECF No. 20. Plaintiff responded in opposition on November 25, 2025. ECF No. 25
+
+(“the Response”). In their reply, Defendants asserted the Response contained inaccurate,
+
+misleading, and potentially fabricated sources. See ECF No. 26 at 2–6.
+
+
+
+                                            1
+Case 2:25-cv-00354-SDN         Document 40 Filed 05/05/26          Page 2 of 6   PageID #:
+                                      <pageID>
+
+
+
+       Plaintiff subsequently filed a “Notice of Errata” attempting to address these
+
+concerns but instead introduced additional inaccuracies in the challenged citations. See
+
+ECF No. 29. Defendants objected to the Notice of Errata. ECF No. 30. After independently
+
+reviewing the sources cited in both the Response and the Notice of Errata, the Court found
+
+that several cases were cited for unsupported propositions; some quoted language could
+
+not be located in the cited sources; and other quotations contained inaccurate pincites,
+
+all consistent with Defendants’ objections.
+
+       On March 4, 2026, Plaintiff’s counsel responded to Defendants’ objection to the
+
+Notice of Errata, seeking to clarify the issues in the two filings. ECF No. 36. She explained
+
+that the inaccuracies were not fabrications and were not intended to mislead the Court
+
+but instead resulted from an “admittedly poorly overseen” drafting process which
+
+involved multiple attorneys and drafts. Id. at 3.
+
+       In April 2026, the Court issued an order to show cause directing counsel to explain
+
+why she should not be sanctioned for making false statements of law or fact to the Court.
+
+ECF No. 38. She responded on April 28, 2026, apologizing to the Court and accepting
+
+responsibility for the errors. ECF No. 39. For the first time, she disclosed that she or
+
+someone on her team had used AI—either Claude or ChatGPT—in the drafting process.
+
+Id. at 2. She also acknowledged that she had not conducted a line-by-line citation check.
+
+Id. She further stated she had apologized to her client, retained new local counsel and
+
+additional firm oversight for her filings, implemented new firm policies on AI use and
+
+disclosure, and registered for a continuing legal education (“CLE”) program on AI on
+
+April 29, 2026. Id. at 7–8. She also indicated a willingness to file an amended opposition
+
+to Defendants’ motion to dismiss. Id. at 10.
+
+
+
+                                               2
+Case 2:25-cv-00354-SDN         Document 40 Filed 05/05/26           Page 3 of 6    PageID #:
+                                      <pageID>
+
+
+
+                                        ANALYSIS
+
+       Federal Rule of Civil Procedure 11 establishes the standard that attorneys and
+
+parties must meet when filing documents in federal court. Rule 11(b)(2) requires the
+
+attorney filing any litigation document to certify “the claims, defenses, and other legal
+
+contentions are warranted by existing law or by a nonfrivolous argument for extending,
+
+modifying, or reversing existing law or for establishing new law.” Fed. R. Civ. P. 11(b)(2).
+
+Filing papers “without taking the necessary care in their preparation” is an “abuse of the
+
+judicial system” subject to Rule 11 sanctions. Cooter & Gell v. Hartmarx Corp., 496 U.S.
+
+384, 398 (1990). Rule 11 creates an incentive for attorneys “to stop, think and investigate
+
+more carefully before serving and filing papers,” id., which in practice means an attorney
+
+must, at a minimum, read and “thereby confirm the existence and validity of, the legal
+
+authorities on which they rely,” Park v. Kim, 91 F.4th 610, 615 (2d Cir. 2024).
+
+       When Rule 11 is violated, the Court may consider sanctions either sua sponte or on
+
+motion. See Fed. R. Civ. P. 11(c)(2)–(3). Any sanction “must be limited to what suffices to
+
+deter repetition of the conduct or comparable conduct by others similarly situated.” Fed.
+
+R. Civ. P. 11(c)(4). The determination of whether to impose sanctions is conducted under
+
+an “objective standard of reasonableness” and “based upon what was reasonable at the
+
+time the attorney acted.” Cruz v. Savage, 896 F.2d 626, 631 (1st Cir. 1990). The misuse
+
+of generative AI in litigation poses particular risks to the integrity of the judicial process,
+
+as illustrated in the seminal federal case on this topic. See Mata v. Avianca, Inc., 678 F.
+
+Supp. 3d 443 (S.D.N.Y. 2023). When unverified, AI-generated citations are submitted,
+
+the opposing party must expend time and resources to uncover the errors, the Court must
+
+divert attention from other matters to verify fictitious authorities, and clients may be
+
+deprived of arguments grounded in real precedent. False attributions to parties can harm
+
+                                              3
+Case 2:25-cv-00354-SDN         Document 40 Filed 05/05/26          Page 4 of 6    PageID #:
+                                      <pageID>
+
+
+
+reputations and erode public confidence in the legal system, and repeated incidents risk
+
+fostering cynicism about both the legal profession and the judiciary. At a time when public
+
+confidence in the judiciary is increasingly fragile, these lapses do more than merely delay
+
+proceedings; they foster a corrosive cynicism toward the legal profession and the rule of
+
+law. Furthermore, such conduct creates the risk that future litigants may disingenuously
+
+question the authenticity of genuine rulings, thereby undermining the finality of judicial
+
+decisions. Ultimately, while technology may evolve, the attorney’s nondelegable duty to
+
+exercise independent professional judgment and verify all representations made to the
+
+tribunal remains a cornerstone of our legal system—one that cannot be sacrificed to the
+
+convenience of automation.
+
+       All of those issues are at play here. Counsel relied on generative AI to draft a filing
+
+that included inaccurate case citations and descriptions, and those inaccuracies were
+
+presented to the Court as though they reflected genuine legal authorities. Although AI can
+
+be a useful aid in research and drafting, its use does not diminish an attorney’s
+
+nondelegable duties of diligence, candor, and reasonable inquiry under Rule 11. An
+
+attorney who chooses to use such tools must ensure that every citation and quoted
+
+passage has been independently confirmed using reliable legal sources, and that any
+
+limitations of AI tools are fully understood and accounted for. Here, the Court finds that
+
+several specific aspects of counsel’s conduct did not satisfy the standard required by Rule
+
+11. She relied on generative AI to produce case citations and descriptions but did not
+
+confirm that those authorities existed or accurately stated the law before filing. After
+
+Defendants identified significant errors in the original filing, she did not promptly
+
+withdraw or correct it, and it remains on the docket. In her Notice of Errata, she repeated
+
+and extended some of the same problems instead of fully remedying them. She has not
+
+                                              4
+Case 2:25-cv-00354-SDN         Document 40 Filed 05/05/26          Page 5 of 6    PageID #:
+                                      <pageID>
+
+
+
+shown that she reimbursed her client for time spent on the faulty filings. She did not
+
+candidly disclose her use of AI in her initial filings and did so only after the Court issued
+
+a show cause order, further frustrating the Court’s ability to understand the source of the
+
+errors and implicating her duty of candor.
+
+       At the same time, the Court credits several specific mitigating factors that reflect
+
+counsel’s appropriate response once the seriousness of the issue became clear. She has
+
+accepted responsibility for the errors in her filings and expressed genuine remorse, rather
+
+than attempting to deny the inaccuracies or shift blame to others. She has no history of
+
+prior disciplinary violations, and there is nothing in the record to suggest that her conduct
+
+was willful, repeated, or undertaken for strategic advantage. She has already begun to take
+
+concrete steps to educate herself about the risks of AI in legal practice, including enrolling
+
+in continuing legal education courses focused on generative AI and its proper use in
+
+litigation. She represents that she is implementing firm-level policies and procedures
+
+aimed at ensuring that any future use of AI is accompanied by meaningful human review
+
+and verification of all citations and quoted authorities. These actions weigh in favor of a
+
+sanction focused on education, process improvement, and public admonition, rather than
+
+a severe monetary or disciplinary penalty.
+
+       The Court emphasizes that generative AI is not inherently improper and may,
+
+when used responsibly, assist attorneys with drafting and research—but its use does not
+
+abdicate an attorney’s duties of responsibility and candor to the Court. Accordingly, the
+
+Court issues an admonition to Attorney Guagenty for her misuse of AI in this case, and a
+
+broader admonition to the Bar regarding the need for caution, verification, and
+
+transparency whenever generative AI is used in litigation.
+
+
+
+                                              5
+Case 2:25-cv-00354-SDN        Document 40 Filed 05/05/26         Page 6 of 6    PageID #:
+                                     <pageID>
+
+
+
+                                     CONCLUSION
+
+       The Court finds the following sanctions are appropriate to deter future improper
+
+submissions. Plaintiff’s counsel is ordered to:
+
+          •   Attend a continuing legal education course on the topic of generative AI in
+
+              the legal field and submit proof to the Court of her attendance. She may
+
+              submit proof of the course for which she registered to attend on April 29,
+
+              2026;
+
+          •   Create clear procedures at her law firm to prevent such errors from
+
+              happening again, and to explain those procedures to the Court in her
+
+              Certification as ordered below;
+
+          •   Provide a copy of this Order to Plaintiff; and
+
+          •   File certification on the docket in this case attesting that she has complied
+
+              with the provisions of this Order within 45 days of this Order.
+
+       Additionally, Plaintiff is ORDERED to file an amended response in opposition to
+
+Defendants’ motion to dismiss for failure to state a claim. The Court STRIKES Plaintiff’s
+
+response in opposition to the motion to dismiss, ECF No. 25, from the docket. Defendants’
+
+objection to Plaintiff’s Notice of Errata, ECF No. 30, is DISMISSED AS MOOT.
+
+       SO ORDERED.
+
+       Dated this 5th day of May, 2026.
+
+
+                                                  /s/ Stacey D. Neumann
+                                                  U NITED STATES D ISTRICT JUDGE
+
+
+
+
+                                             6
+

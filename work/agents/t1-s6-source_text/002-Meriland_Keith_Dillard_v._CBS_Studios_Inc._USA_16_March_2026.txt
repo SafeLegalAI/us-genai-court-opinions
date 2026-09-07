@@ -1,0 +1,1071 @@
+     Case 8:25-cv-02091-JAK-KES            Document 73 Filed 03/16/26               Page 1 of 18 Page ID
+                                                 #:748
+                                     UNITED STATES DISTRICT COURT
+                                    CENTRAL DISTRICT OF CALIFORNIA                                  JS-6
+                                        CIVIL MINUTES – GENERAL
+
+ Case No.       8:25-cv-02091-JAK (KESx)                                          Date    March 16, 2026
+ Title          Meriland Keith Dillard v. CBS Studios, Inc.
+
+
+
+
+ Present: The Honorable             JOHN A. KRONSTADT, UNITED STATES DISTRICT JUDGE
+
+                     M. Lindaya                                                Not Reported
+                    Deputy Clerk                                        Court Reporter / Recorder
+           Attorneys Present for Plaintiff(s):                     Attorneys Present for Defendant(s):
+                      Not Present                                               Not Present
+
+
+ Proceedings:              (IN CHAMBERS) ORDER RE PLAINTIFF’S MOTION TO STAY (DKT. 40);
+                           DEFENDANT’S MOTION TO DISMISS (DKT. 44)
+                           [JS-6: CASE TERMINATED]
+
+I.       Introduction
+
+On September 16, 2025, Meriland Keith Dillard (“Plaintiff”) brought this copyright infringement action
+against CBS Studios, Inc. (“Defendant”). Dkt. 1. The Complaint advances the following causes of
+action:
+
+         (1) Copyright infringement, 17 U.S.C. §§ 101, et seq.;
+         (2) Unfair competition, Cal. Bus. & Prof. Code § 17200;
+         (3) Breach of implied contract;
+         (4) Misappropriation of ideas; and
+         (5) Declaratory relief. 1
+
+Id. ¶¶ 41–63.
+
+Concurrently with the filing of the Complaint, Plaintiff filed a Motion for Temporary Restraining Order
+and Preliminary Injunction, Dkt. 2 (“TRO Motion”), which sought to bar Defendant from broadcasting,
+distributing, marketing, or otherwise exploiting the television series DMV (the “Accused Television
+Series”), which was scheduled to air on October 13, 2025, and which allegedly infringes Plaintiff’s work,
+Department of Labor (the “Screenplay”). On September 29, 2025, an Order issued denying the TRO
+Motion. Dkt. 31 (“TRO Order”).
+
+
+
+1 The Complaint also brings counts for “Injunctive Relief” (Count VI) and “Accounting & Disgorgement” (Count
+
+VII). Because those are remedies, not causes of action, neither states a claim for relief. See Jensen v. Quality
+Loan Serv. Corp., 702 F. Supp. 2d 1183, 1201 (E.D. Cal. 2010) (“A request for injunctive relief by itself does not
+state a cause of action.” (quoting Mbaba v. Indymac Fed. Bank F.S.B., No. 09-CV-1452, 2010 WL 424363, at *4
+(E.D. Cal. Jan. 27, 2010)); Schaffer Fam. Invs., LLC v. Sonnier, 120 F. Supp. 3d 1028, 1049 (C.D. Cal. 2015)
+(“[A]ccounting is a remedy and not a cause of action.”); Arcell v. Google LLC, No. 22-CV-2499, 2025 WL 210877,
+at *3 (N.D. Cal. Jan. 16, 2025) (“Divestiture and disgorgement are equitable remedies, rather than standalone
+causes of action.”). Accordingly, the Motion to Dismiss is GRANTED as to Counts VI and VII, which are
+DISMISSED WITH PREJUDICE, i.e., without leave to amend.
+                                                                                                      Page 1 of 18
+      Case 8:25-cv-02091-JAK-KES              Document 73 Filed 03/16/26                   Page 2 of 18 Page ID
+                                                    #:749
+                                       UNITED STATES DISTRICT COURT
+                                      CENTRAL DISTRICT OF CALIFORNIA
+
+
+                                           CIVIL MINUTES – GENERAL
+
+ Case No.      8:25-cv-02091-JAK (KESx)                                                 Date     March 16, 2026
+ Title         Meriland Keith Dillard v. CBS Studios, Inc.
+
+On September 30, 2025, Plaintiff filed a notice of appeal to as to the TRO Order. Dkt. 34. Plaintiff also
+filed with the Ninth Circuit an Emergency Motion for Injunction Pending Appeal, which was denied by
+the Ninth Circuit on October 10, 2025. Dkt. 25, No. 25-6180 (9th Cir. Oct. 10, 2025). The TRO Order
+was affirmed by the Ninth Circuit in a memorandum order issued on January 28, 2026. Dkt. 71. There
+are thus no pending appellate proceedings.
+
+On October 7, 2025, Plaintiff filed, in the district court, an Administrative Motion for Stay Pending
+Appeal. Dkt. 40 (“Motion to Stay”). On October 15, 2025, Defendant filed an opposition to the Motion to
+Stay. Dkt. 52. On October 16, 2025, Plaintiff filed a reply in support of the Motion to Stay. Dkt. 54.
+
+On October 9, 2025, Defendant filed a Motion to Dismiss Plaintiff’s Complaint. Dkt. 44 (“Motion to
+Dismiss”). On October 23, 2025, Plaintiff filed an opposition to the Motion to Dismiss. Dkt. 57. On
+October 29, 2025, Defendant filed a reply in support of the Motion to Dismiss. Dkt. 61.
+
+In accordance with Local Rule 7-15, it was determined that the Motion to Dismiss and the Motion to
+Stay (collectively, “Motions”) could be decided without oral argument, and they were taken under
+submission. 2 Dkt. 62. For the reasons stated in this Order, the Motion to Dismiss is GRANTED and the
+Complaint is DISMISSED WITH PREJUDICE. The Motion to Stay is DENIED as moot because there
+are no pending appellate proceedings.
+
+II.      Background
+
+Because the parties are familiar with the allegations and factual matters relevant to the Motion to
+Dismiss, and do not dispute the description of the facts and corresponding evidence in the TRO Order,
+that discussion in the TRO Order is incorporated here by this reference.
+
+III.     Legal Standards
+
+Federal Rule of Civil Procedure 8(a) provides that a “pleading that states a claim for relief must
+contain . . . a short and plain statement of the claim showing that the pleader is entitled to relief.” The
+pleading must allege facts that, if established, would be sufficient to show that a claim for relief is
+plausible on its face. See Bell Atl. Corp. v. Twombly, 550 U.S. 544, 570 (2007).
+
+A complaint need not include detailed factual allegations but must provide more than a “formulaic
+recitation of the elements of a cause of action.” Id. at 555.
+
+         The plausibility standard is not akin to a “probability requirement,” but it asks for more than
+         a sheer possibility that a defendant has acted unlawfully. Where a complaint pleads facts
+         that are “merely consistent with” a defendant’s liability, it stops short of the line between
+         possibility and plausibility of entitlement to relief.
+
+Ashcroft v. Iqbal, 556 U.S. 662, 678 (2009) (cleaned up) (quoting Twombly, 550 U.S. at 556–57).
+
+
+
+2 Plaintiff filed a motion for leave to file a surreply, Dkt. 63, which was denied. Dkt. 65. Further, Plaintiff filed an
+
+unauthorized supplemental brief, Dkt. 64, which was stricken. Dkt. 66.
+                                                                                                              Page 2 of 18
+  Case 8:25-cv-02091-JAK-KES              Document 73 Filed 03/16/26               Page 3 of 18 Page ID
+                                                #:750
+                                   UNITED STATES DISTRICT COURT
+                                  CENTRAL DISTRICT OF CALIFORNIA
+
+
+                                        CIVIL MINUTES – GENERAL
+
+ Case No.     8:25-cv-02091-JAK (KESx)                                           Date    March 16, 2026
+ Title        Meriland Keith Dillard v. CBS Studios, Inc.
+
+Pursuant to Federal Rule of Civil Procedure 12(b)(6), a party may move to dismiss a complaint for
+failure to state a claim. It is appropriate to grant such a motion only where the complaint lacks a
+cognizable legal theory or sufficient facts to support one. Mendiondo v. Centinela Hosp. Med. Ctr., 521
+F.3d 1097, 1104 (9th Cir. 2008). Under this standard, a complaint “must be dismissed when a plaintiff’s
+allegations fail to set forth a set of facts that, if true, would entitle the complainant to relief.” Parents for
+Priv. v. Barr, 949 F.3d 1210, 1221 (9th Cir. 2020). In assessing whether a plaintiff has sufficiently stated
+a claim, courts accept as true all well-pleaded factual allegations and construe all factual inferences in
+the light most favorable to the plaintiff. Id. However, courts “are not required to accept as true legal
+conclusions couched as factual allegations.” Id. “Taken together, Iqbal and Twombly require well-
+pleaded facts, not legal conclusions, that ‘plausibly give rise to an entitlement to relief.’ The plausibility
+of a pleading thus derives from its well-pleaded factual allegations.” Whitaker v. Tesla Motors, Inc., 985
+F.3d 1173, 1176 (9th Cir. 2021) (citations omitted) (quoting Iqbal, 556 U.S. at 679).
+
+“In evaluating whether a complaint states a plausible claim for relief, [courts] rely on ‘judicial experience
+and common sense’ to determine whether the factual allegations, which are assumed to be true,
+‘plausibly give rise to an entitlement to relief.’” Landers v. Quality Commc’ns, Inc., 771 F.3d 638, 641
+(9th Cir. 2014) (quoting Iqbal, 556 U.S. at 679). Therefore, courts “need not accept as true factual
+allegations that are not plausible on their face.” Blantz v. Cal. Dep’t of Corr. & Rehab., Div. of Corr.
+Health Care Servs., 727 F.3d 917, 922 (9th Cir. 2013). Further, “[c]onclusory allegations and
+unreasonable inferences are . . . insufficient to defeat a motion to dismiss.” Sanders v. Brown, 504 F.3d
+903, 910 (9th Cir. 2007).
+
+When considering a motion to dismiss, a court “may . . . consider certain materials” outside of the
+pleadings, including “documents attached to the complaint, documents incorporated by reference in the
+complaint, or matters of judicial notice . . . without converting the motion to dismiss into a motion for
+summary judgment.” United States v. Ritchie, 342 F.3d 903, 908 (9th Cir. 2003).
+
+If a motion to dismiss is granted, the court should “freely give leave [to amend] when justice so
+requires.” Fed. R. Civ. P. 15(a)(2). Although this policy is to be applied “with extreme liberality,” Owens
+v. Kaiser Found. Health Plan, Inc., 244 F.3d 708, 712 (9th Cir. 2001) (quoting Morongo Band of Mission
+Indians v. Rose, 893 F.2d 1074, 1079 (9th Cir. 1990)), allowing leave to amend is inappropriate in
+circumstances where an amendment would be futile. See Foman v. Davis, 371 U.S. 178, 182 (1962);
+Allen v. City of Beverly Hills, 911 F.2d 367, 374 (9th Cir. 1990).
+
+IV.      Analysis
+
+         A.     Copyright Claim (Count I)
+
+                1.      Legal Standards
+
+To establish direct copyright infringement, Plaintiffs must establish: “(1) ownership of a valid copyright,
+and (2) copying of constituent elements of the work that are original.” Feist Publ’ns., Inc. v. Rural Tel.
+Serv. Co., Inc., 499 U.S. 340, 361 (1991). A valid copyright registration creates a rebuttable
+presumption of ownership. See Three Boys Music Corp. v. Bolton, 212 F.3d 477, 488–89 (9th Cir.
+2000) (“Registration is prima facie evidence of the validity of a copyright.”).
+
+
+                                                                                                    Page 3 of 18
+  Case 8:25-cv-02091-JAK-KES                Document 73 Filed 03/16/26                 Page 4 of 18 Page ID
+                                                  #:751
+                                     UNITED STATES DISTRICT COURT
+                                    CENTRAL DISTRICT OF CALIFORNIA
+
+
+                                         CIVIL MINUTES – GENERAL
+
+ Case No.      8:25-cv-02091-JAK (KESx)                                             Date     March 16, 2026
+ Title         Meriland Keith Dillard v. CBS Studios, Inc.
+
+“The second prong of the infringement analysis contains two separate components: ‘copying’ and
+‘unlawful appropriation.’” Skidmore v. Led Zeppelin, 952 F.3d 1051, 1064 (9th Cir. 2020) (en banc)
+(quoting Rentmeester v. Nike, Inc., 883 F.3d 1111, 1117 (9th Cir. 2018)). They are also referred to as
+factual copying and legal copying, respectively. “Although these requirements are too often referred to
+in shorthand lingo as the need to prove ‘substantial similarity,’ they are distinct concepts.” Id.
+
+“In the absence of direct evidence of copying, . . . the plaintiff ‘can attempt to prove it circumstantially by
+showing that the defendant had access to the plaintiff’s work and that the two works share similarities
+probative of copying.’” Id. (quoting Rentmeester, 883 F.3d at 1117). A showing of both access and
+probative similarity are required to prove factual copying through circumstantial evidence. Three Boys
+Music Corp., 212 F.2d at 481. “Where there is no direct evidence of access, circumstantial evidence
+can be used to prove access either by (1) establishing a chain of events linking the plaintiff’s work and
+the defendant’s access, or (2) showing that the plaintiff’s work has been widely disseminated.” Art
+Attacks Ink, LLC v. MGA Ent. Inc., 581 F.3d 1138, 1143 (9th Cir. 2009).
+
+“On the other hand, the hallmark of ‘unlawful appropriation’ is that the works share substantial
+similarities.” Skidmore, 952 F.3d at 1064. Such substantial similarity, also known as legal copying, is
+evaluated under a two-part test. Id. First, the “extrinsic” test “compares the objective similarities of
+specific expressive elements in the two works.” Id. Second, the “intrinsic” test looks “for similarity of
+expression from the standpoint of the ordinary reasonable observer, with no expert assistance.” Id.
+(quoting Jada Toys, Inc. v. Mattel, Inc., 518 F.3d 628, 637 (9th Cir. 2008)).
+
+                2.       Application
+
+The TRO Order, whose analysis is incorporated by this reference, concluded that Plaintiff failed to show
+even a serious question as to the merits of his copyright claim. Dkt. 31 at 5–8. Specifically, Plaintiff’s
+copyright claim failed as a matter of law because the facts and evidence proffered failed to show that
+Defendant engaged in factual or legal copying. Id.
+
+In connection with the Motion to Dismiss and the prior TRO Order, the parties have submitted extrinsic
+evidence outside of the pleadings. As discussed in the TRO Order, Dkt. 31 at 6, Defendant has
+submitted the declaration of Dana Klein, the creator of the Accused Television Series, who has
+declared that, prior to this litigation, she had “not heard of Plaintiff or his Screenplay, and [had] never
+read Plaintiff’s Screenplay.” Dkt. 21-2 ¶ 6. Klein also declared that the Accused Television Series is
+actually based on the short story, Chicken-Flavored and Lemon-Scented, by award-winning author
+Katherine Heiny (the “Heiny Story”). Id. ¶ 3.
+
+Plaintiff has submitted a declaration from Jane Roe, 3 who is purportedly a “script consultant and
+industry consultant.” Dkt. 58-4. According to Roe’s declaration, Roe has assisted Plaintiff since
+
+3 In the Motion to Seal, Plaintiff argues that the names of these persons should be redacted from the public
+
+record to protect the privacy interests of nonparties Roe and Doe. Dkt. 58. Because the privacy of nonparties is a
+compelling reason to seal this material, the Motion to Seal is GRANTED. See, e.g., Cat Coven LLC v. Shein
+Fashion Grp., Inc., 19-cv-07967, 2019 WL 10856813, at *1 (C.D. Cal. Dec. 20, 2019) (collecting cases). This
+portion of the Order may be subject to reconsideration, in whole or in part at any time, if on the application of any
+party or other interested person it is shown that the interest of the public in access to this information outweighs
+the need to protect privacy.
+                                                                                                         Page 4 of 18
+  Case 8:25-cv-02091-JAK-KES                 Document 73 Filed 03/16/26                 Page 5 of 18 Page ID
+                                                   #:752
+                                      UNITED STATES DISTRICT COURT
+                                     CENTRAL DISTRICT OF CALIFORNIA
+
+
+                                          CIVIL MINUTES – GENERAL
+
+ Case No.      8:25-cv-02091-JAK (KESx)                                               Date    March 16, 2026
+ Title         Meriland Keith Dillard v. CBS Studios, Inc.
+
+February 2008 in distributing his creative works to producers. Id. ¶ 1. Roe declares that she
+communicated with John Doe, an industry professional, in January 2021, February 2021, and
+September 2024 regarding Plaintiff’s scripts. Id. ¶ 2. Roe further declares that Doe has implied that he
+“maintains professional relationships with Kapital Entertainment,” which was the production company
+for the Accused Television Series. Id. Plaintiff also submitted what is purportedly an email chain
+between Roe and Doe. 4 Dkt. 58-3. This email chain does not reference Plaintiff’s works in general or
+the Screenplay. Id.
+
+Unlike the circumstances and procedures that applied to the consideration of TRO Motion, the parties’
+evidentiary submissions cannot be considered as part of the consideration of a motion to dismiss
+pursuant to Rule 12(b)(6). See Hal Roach Studios, Inc. v. Richard Feiner & Co., 896 F.2d 1542, 1555
+n.19 (9th Cir. 1990). When “matters outside the pleadings are presented to and not excluded by the
+court, the motion must be treated as one for summary judgment under Rule 56.” Fed. R. Civ. P. 12(d).
+The Court declines to convert the Motion to Dismiss into one for summary judgment. Accordingly, the
+evidence submitted by the parties will not be considered, but the well-pleaded allegations in the
+Complaint will be deemed true, and all inferences will be drawn in the light most favorable to Plaintiff in
+reviewing the Motion to Dismiss, as required by Rule 12(b)(6). 5
+
+Applying these standards, the Complaint fails to state a claim for copyright infringement for the same
+reasons as those set forth in the TRO Order.
+
+
+
+
+4 Plaintiff did not submit copies of the emails themselves, but appears to have copied the alleged contents of the
+
+emails, and then pasted them into a separate document.
+5 Pursuant to Federal Rule of Evidence 201, Plaintiff has requested judicial notice of the following: (1) the
+
+broadcasted pilot episode of the Accused Television Series; (2) Plaintiff’s copyright registration; and (3) the Heiny
+Story. Dkt. 57 at 25. A court “may judicially notice a fact that is not subject to reasonable dispute because it: (1) is
+generally known within the trial court’s territorial jurisdiction; or (2) can be accurately and readily determined from
+sources whose accuracy cannot reasonably be questioned.” Fed. R. Evid. 201(b). Further, the doctrine of
+incorporation by reference allows courts to consider extrinsic “documents in situations where the complaint
+necessarily relies upon a document or the contents of the document are alleged in a complaint, the document’s
+authenticity is not in question and there are no disputed issues as to the document's relevance.” Coto Settlement
+v. Eisenberg, 593 F.3d 1031, 1038 (9th Cir. 2010). Defendant does not contest the authenticity of any of these
+documents. Because the first two documents are significant to assessing the Motion to Dismiss, and are relied
+upon by the Complaint, the material in them is considered in resolving the Motion to Dismiss. The Heiny Story,
+however, is not relevant to the Motion to Dismiss, because all extrinsic evidence, including Defendant’s evidence
+regarding the Heiny Story, will not be considered in determining the sufficiency of Plaintiff’s allegations. Therefore,
+neither Defendant’s evidence concerning the Heiny Story, nor the Heiny Story itself, is considered. Finally, the
+documents attached to the Complaint will be considered because they were incorporated by reference into the
+Complaint.
+                                                                                                           Page 5 of 18
+  Case 8:25-cv-02091-JAK-KES                 Document 73 Filed 03/16/26                Page 6 of 18 Page ID
+                                                   #:753
+                                     UNITED STATES DISTRICT COURT
+                                    CENTRAL DISTRICT OF CALIFORNIA
+
+
+                                          CIVIL MINUTES – GENERAL
+
+ Case No.      8:25-cv-02091-JAK (KESx)                                              Date     March 16, 2026
+ Title         Meriland Keith Dillard v. CBS Studios, Inc.
+
+                         a)       Factual Copying
+
+As previously held, Dkt. 31 at 6, 6 the Complaint does not set plausibly allege that Defendant had
+access to the Screenplay, which is required to demonstrate factual copying based on circumstantial
+evidence. 7 First, there are no plausible allegations that the Screenplay was “widely disseminated.”
+Loomis v. Cornish, No. 12-CV-5525, 2013 WL 6044349, at *5 (C.D. Cal. Nov. 13, 2013) (“[I]n order for
+a work to be widely disseminated, it must achieve a high degree of commercial success or be readily
+available in the relevant market.”), aff’d, 836 F.3d 991 (9th Cir. 2016). Second, Plaintiff’s chain-of-
+events theory of access is impermissibly speculative. The Complaint’s theory of access -- based on
+Plaintiff’s unsolicited dissemination of the Screenplay to industry professionals -- has already been
+rejected because it failed to “demonstrate any plausible nexus connecting these industry professionals
+to the Accused Television Series . . . .” Dkt. 31 at 7. Plaintiff argues that the new evidence that has
+been proffered, which is not alleged in the Complaint, warrants a change in this conclusion. Dkt. 57 at
+15–16. However, as noted, this evidence is not appropriate to consider on review of a Rule 12(b)(6)
+motion. 8 Minor v. Fedex Office & Print Servs., Inc., 182 F. Supp. 3d 966, 977 (N.D. Cal. 2016) (“Plaintiff
+may not use his opposition to raise and argue new allegations or claims not in the complaint.”).
+Moreover, even if this evidence were considered, it still fails to plausibly support Plaintiff’s
+circumstantial theory of factual copying for reasons later addressed.
+
+For these reasons, because there “can be no infringement of copyright” absent a showing of factual
+copying at the threshold, the Complaint fails to state a claim for copyright infringement. Mazer v. Stein,
+347 U.S. 201, 218 (1954).
+
+                         b)       Legal Copying
+
+As previously held, Dkt. 31 at 8, the Screenplay and the Accused Television Series (collectively, the
+“Works”) are not similar in any meaningful respect except when considered at the highest level of
+abstraction. This is not the kind of similarity that would constitute infringement of a copyright. See
+Nichols v. Universal Pictures Corp., 45 F.2d 119, 120–23 (2d Cir. 1930) (setting forth the “abstractions”
+test and holding that similarity at a highly abstract level is not legally actionable); Briggs v. Blomkamp,
+70 F. Supp. 3d 1155, 1170 (N.D. Cal. 2014) (“[N]one of the ‘plot features’ identified by plaintiff is similar
+in the two works, except at the highest level of abstraction . . . .”), aff’d sub nom. Briggs v. Sony
+Pictures Ent., Inc., 714 F. App’x 712 (9th Cir. 2018).
+
+
+6 The Ninth Circuit affirmed the determination that Plaintiff had failed to establish a likelihood of success on the
+
+merits of his copyright claim due to his failure to establish factual copying. Dkt. 71 at 2. Although the Ninth
+Circuit’s memorandum order only concerned Plaintiff’s likelihood of success in the context of preliminary relief,
+that decision provides insight into the “merits of the underlying issue” whether Plaintiff can state a claim for
+copyright infringement. Cooper v. Rimmer, 379 F.3d 1029, 1033–34 (9th Cir. 2004) (Browning, J., concurring).
+7 Plaintiff does not allege direct evidence of copying.
+8 Roe’s Declaration and its attached exhibits are not subject to judicial notice because the facts stated in them are
+
+not generally known or readily determinable from sources whose accuracy cannot reasonably be questioned.
+Moreover, this evidence is not incorporated by reference because the Complaint does not mention Doe or Roe, or
+any of the particular communications at issue. Thus, although this evidence will not be considered in determining
+whether the Complaint states a claim, it bears on whether leave to amend the Complaint should be granted, i.e.,
+whether a claim could be stated if Plaintiff properly incorporated this evidence into an amended complaint. That
+issue is addressed later in this Order.
+                                                                                                          Page 6 of 18
+  Case 8:25-cv-02091-JAK-KES                Document 73 Filed 03/16/26                Page 7 of 18 Page ID
+                                                  #:754
+                                     UNITED STATES DISTRICT COURT
+                                    CENTRAL DISTRICT OF CALIFORNIA
+
+
+                                         CIVIL MINUTES – GENERAL
+
+ Case No.      8:25-cv-02091-JAK (KESx)                                             Date    March 16, 2026
+ Title         Meriland Keith Dillard v. CBS Studios, Inc.
+
+Plaintiff responds that the Accused Television Series copies a “unique four-step comedic sequence”
+from the Screenplay, which constitutes the misappropriation of protectible expression. Dkt. 57 at 23.
+This sequence, according to Plaintiff, involves: “(1) A manager’s directive; (2) An employee’s illogical,
+literal-minded refusal; (3) The authority’s absurd acquiescence; (4) A stalled workflow as the
+punchline.” Id. at 10. 9
+
+The Court has conducted an independent review of the Screenplay, the July 2024 script for the
+Accused Television Series, Dkt. 1 at 46–83, and the broadcasted pilot for the Accused Television
+Series, which is now publicly available. 10 See YouTube, DMV | Series Premiere (S1, E1) | Full Episode
+| CBS, https://www.youtube.com/watch?v=KzxHE5BgGqE&t (Oct. 14, 2025). Based on this review,
+once again, it has been determined that the Works have not been shown to be substantially similar.
+
+In arguing that the Works are substantially similar, Plaintiff first refers to five lines of dialogue in the
+Screenplay:
+
+         DAVIDSON: Charlise, can you get this line moving?
+
+         CHARLISE: I don’t have a pencil or pen.
+
+         DAVIDSON: What’s a pencil and pen got to do with this line?
+
+         CHARLISE: The only way I can move this line is to draw it. These people move too slow.
+
+         DAVISON: Well, use your eraser.
+
+Dkt. 24 at 2–3. These lines, according to Plaintiff, involve an order from a superior, the subordinate’s
+absurd and non-sequitur interpretation of the order, and the superior’s ultimate embrace of the absurd
+interpretation. Id.
+
+///
+
+///
+
+///
+
+
+
+9 Plaintiff does not describe which sequences in the Screenplay embody the “four-step” sequences, and does not
+
+point to any specific sequences in the Accused Television Series that are substantially similar. Plaintiff has an
+obligation to identify with specificity the aspects of the works that were copied, but he has failed to do so in
+opposing the Motion to Dismiss. See TVB Holdings USA Inc. v. Enom Inc., No. 13-cv-624, 2014 WL 12581778, at
+*3 (C.D. Cal. Jan. 6, 2014). However, because in Plaintiff’s previous filings he argued that there are substantial
+similarities involving a “three-beat” comedic structure, those purported similarities are analyzed. Dkt. 24.
+10 Defendant has previously argued that the proper comparison in a copyright infringement action is the “final
+
+version of a work, presented to the public,” rather than a draft of a work. Dkt. 21 at 14 n.2 (citing Chase-Riboud v.
+Dreamworks, 987 F. Supp. 1222, 1227 n.5 (C.D. Cal. 1997)). Although the July 2024 script and the broadcasted
+pilot do have slight differences, they are immaterial to the determinations made in this Order because both the
+July 2024 script and the broadcasted pilot have not been shown to be substantially similar to the Screenplay.
+                                                                                                        Page 7 of 18
+  Case 8:25-cv-02091-JAK-KES                Document 73 Filed 03/16/26             Page 8 of 18 Page ID
+                                                  #:755
+                                     UNITED STATES DISTRICT COURT
+                                    CENTRAL DISTRICT OF CALIFORNIA
+
+
+                                         CIVIL MINUTES – GENERAL
+
+ Case No.      8:25-cv-02091-JAK (KESx)                                          Date   March 16, 2026
+ Title         Meriland Keith Dillard v. CBS Studios, Inc.
+
+The dialogue Plaintiff cites from the Accused Television Series, however, does not involve the same
+themes or structure:
+
+         VIC: Rotation ignores our individual strengths!
+
+         AJ: That’s the system!
+
+         AJ drops a file onto Vic’s desk: “You’ve got one on deck.”
+
+         ...
+
+         BARBARA: Ooo, AJ, your trash’s almost full.
+
+         JOCELYN: (tattle-tale) He waits til it gets to the top.
+
+         AJ: And then I empty it. That’s how garbage works.
+
+         BARBARA: (picking up can) On regular days, maybe . . .
+
+This dialogue is structurally different from the dialogue cited in the Screenplay. Thus, this dialogue does
+not involve an order from a superior, nor any absurd or non-sequitur interpretations.
+
+Next, Plaintiff refers to a scene in the Screenplay in which a government employee encounters a job
+seeker:
+
+         THOR hands Charlise his paper.
+
+         CHARLISE (reading, incredulous): Are you kidding? You came here for a job or a meth lab?
+
+         THOR: No, really. I can do the work.
+
+         CHARLISE: You can’t do the work if you’re high. Are you crazy?
+
+Id. at 4. That scene, which involved a government employee’s incredulous response to a job seeker
+who is high on methamphetamine, is dissimilar from the scene in the Accused Television Series to
+which Plaintiff draws a comparison:
+
+         BRENT hands AJ an expired passport.
+
+         AJ: This isn’t valid ID. I can’t process you without current identification.
+
+         Brent: It’s still me. You can see that. Just let it go.
+
+         AJ: I can’t let it go. Rules are rules.
+
+
+
+                                                                                                 Page 8 of 18
+  Case 8:25-cv-02091-JAK-KES                Document 73 Filed 03/16/26                Page 9 of 18 Page ID
+                                                  #:756
+                                     UNITED STATES DISTRICT COURT
+                                    CENTRAL DISTRICT OF CALIFORNIA
+
+
+                                         CIVIL MINUTES – GENERAL
+
+ Case No.     8:25-cv-02091-JAK (KESx)                                             Date     March 16, 2026
+ Title        Meriland Keith Dillard v. CBS Studios, Inc.
+
+Finally, Plaintiff appeals to a purported similarity in scenes where government employees in the Works
+failed to resolve an issue. Id. at 5. However, in the Screenplay, it is the government employee who fails
+to resolve the issue and walks away from the situation. By contrast, in the Accused Television, it is the
+customer receiving services who “stomps off” in frustration. Id.
+
+This comparison shows that the Works are not similar in fact, or similar with respect to protected
+expression. Short jokes, like those identified in the Screenplay, receive only thin copyright protection
+because they are “constrained by the limited number of variations” given the nature of the expression.
+Kaseberg v. Conaco, LLC, 260 F. Supp. 3d 1229, 1245 (S.D. Cal. 2017). Accordingly, the particular
+comedic sequencing and dialogue in the Screenplay cited by Plaintiff merits only “thin protection,”
+which requires a showing of “virtual identity” for infringement. Id. Given the substantial differences
+between the dialogue of the Works, as noted above, the Accused Television Series is not “virtually
+identical” to the Screenplay. 11 There is no showing of infringement under these circumstances.
+
+Moreover, to the extent that the comedic rhythm in the Works is similar, that reflects the kind of
+conventional deadpan, sarcastic humor that is common to the genre of situational comedies. “The mere
+fact that a theme is comedic or ironic is not protectable.” Shame on You Prods., Inc. v. Banks, 120 F.
+Supp. 3d 1123, 1155 (C.D. Cal. 2015), aff’d, 690 F. App’x 519 (9th Cir. 2017). Although both Works
+involve sarcastic humor that plays on bureaucratic absurdity, such similarities are not actionable in
+copyright law under the doctrine of scènes à faire, which filters out any similarities that flow naturally
+from the setting, premise, or genre of a work. Id. at 1151 (disregarding similarities that flowed from a
+“basic premise” of the works, including “[g]etting drunk, spending a ‘one-nighter’ with someone you just
+met, waking up disoriented the next morning at the individual’s house or apartment, and putting on the
+clothes worn the night before”).
+
+Because the Works both involve the same, central premise -- a situational comedy set in a public-facing
+government office -- the comedic similarities in the Works does not constitute the misappropriation of
+protectible expression. The kind of similarity identified by Plaintiff -- involving a “specific rhythm of
+setup, absurd twist, illogical escalation, and thematic payoff,” Dkt. 57 at 12 -- can be identified in
+countless creative works involving the workplace. See, e.g., Dkt. 61 at 10 n.4 (identifying an 1853 short
+story that embodies the sequence for which Plaintiff asserts copyright protection).
+
+Plaintiff has correctly identified that individually unprotectible elements of a work may be protectible as
+a sequence or pattern of expression. Dkt. 57 at 10 (citing Metcalf v. Bochno, 294 F.3d 1069, 1074 (9th
+Cir. 2002)). However, the comedic beats identified in the Works here are, itself, generic structural
+elements of any situational comedy placed in a government office. See Shame on You Prods., 120 F.
+
+
+
+
+11 Plaintiff attempts to analogize to the Abbott and Costello’s Who’s on First comedic routine, arguing that the
+
+structure of the Screenplay’s dialogue resembles the protectible structure of the Who’s on First routine. Dkt. 57 at
+20–21. This argument lacks merit because the structure of a joke is only entitled to thin protection, which requires
+verbatim copying to make out a case for infringement. Indeed, reviewing an allegation of infringement of the
+Abbott and Costello routine, the Second Circuit found infringement plausible only where the routine was copied
+“at some length, almost verbatim” and without any “alter[ation] . . . at all.” TCA Television Corp. v. McCollum, 839
+F.3d 168, 181–82 (2d Cir. 2016).
+                                                                                                        Page 9 of 18
+ Case 8:25-cv-02091-JAK-KES              Document 73 Filed 03/16/26             Page 10 of 18 Page ID
+                                                #:757
+                                   UNITED STATES DISTRICT COURT
+                                  CENTRAL DISTRICT OF CALIFORNIA
+
+
+                                       CIVIL MINUTES – GENERAL
+
+ Case No.      8:25-cv-02091-JAK (KESx)                                        Date   March 16, 2026
+ Title         Meriland Keith Dillard v. CBS Studios, Inc.
+
+Supp. 3d at 1151–54 (similarities in generic plot sequence does not constitute infringement). In Metcalf,
+by contrast, the patterns of expression in the works were “striking[ly] similar” in non-generic ways:
+
+         The similarities between the relevant works are striking: Both the Metcalf and Bochco
+         works are set in overburdened county hospitals in inner-city Los Angeles with mostly black
+         staffs. Both deal with issues of poverty, race relations and urban blight. The works’ main
+         characters are both young, good-looking, muscular black surgeons who grew up in the
+         neighborhood where the hospital is located. Both surgeons struggle to choose between
+         the financial benefits of private practice and the emotional rewards of working in the inner
+         city. Both are romantically involved with young professional women when they arrive at
+         the hospital, but develop strong attractions to hospital administrators. Both new
+         relationships flourish and culminate in a kiss, but are later strained when the administrator
+         observes a display of physical intimacy between the main character and his original love
+         interest. Both administrators are in their thirties, were once married but are now single,
+         without children and devoted to their careers and to the hospital. In both works, the
+         hospital’s bid for reaccreditation is vehemently opposed by a Hispanic politician.
+
+Metcalf, 294 F.3d at 1073–74.
+
+Although these similarities were not protectible “individually,” the Ninth Circuit held that the “presence of
+so many generic similarities and the common patterns in which they ar[o]se” -- the “totality of the
+similarities” -- went beyond the “necessities of the theme” and genre, and thus, gave rise to a triable
+issue as to infringement of protectible expression. Id. at 1074 (emphasis added). In contrast, Plaintiff
+has merely pointed to “randomly scattered” similarities that lack any “concrete pattern” in common,
+which is not sufficient to show legal copying. See Flynn v. Surnow, No. 02-CV-9058, 2003 WL
+23411877, at *9 (C.D. Cal. Dec. 9, 2003) (distinguishing Metcalf on that ground); Satava v. Lowry, 323
+F.3d 805, 811–12 (9th Cir. 2003) (limiting the reach of Metcalf based on the principle that “a
+combination of unprotectable elements is eligible for copyright protection only if those elements are
+numerous enough and their selection and arrangement original enough that their combination
+constitutes an original work of authorship”).
+
+Plaintiff does not argue that the Works are substantially similar in any other respects. Indeed, the
+Works are dissimilar in their mood and theme for the reasons stated by CBS Studios. Dkt. 44 at 20–21.
+Other than common plot elements arising out of their setting, e.g., scenes involving government
+employees providing services to members of the public, which are scènes à faire, the Works’ plots and
+sequencing also are not similar in any respect. Id. at 20, 22. Further, there is no substantial similarity in
+the dialogue of the Works. Id. at 21. Nor do the characters in the Works share any protectible traits. Id.;
+see also Silas v. Home Box Off., Inc., 201 F. Supp. 3d 1158, 1177 (C.D. Cal. 2016) (“[C]ourts require a
+very high degree of similarity between characters.”), aff’d, 713 F. App’x 626 (9th Cir. 2018).
+
+For these reasons, the Complaint fails plausibly to allege legal copying.
+
+                        c)      Leave to Amend
+
+It is determined that granting leave to amend would be futile and prejudicial to Defendant under these
+circumstances. See Mujica v. AirScan Inc., 771 F.3d 580, 593 & n.8 (9th Cir. 2014) (permitting
+                                                                                                Page 10 of 18
+ Case 8:25-cv-02091-JAK-KES             Document 73 Filed 03/16/26            Page 11 of 18 Page ID
+                                               #:758
+                                  UNITED STATES DISTRICT COURT
+                                 CENTRAL DISTRICT OF CALIFORNIA
+
+
+                                      CIVIL MINUTES – GENERAL
+
+ Case No.    8:25-cv-02091-JAK (KESx)                                        Date    March 16, 2026
+ Title       Meriland Keith Dillard v. CBS Studios, Inc.
+
+dismissal with prejudice where amendment would be futile); Thakur v. Cofiroute USA, LLC, No. 19-CV-
+2233, 2021 WL 304389, at *5 (C.D. Cal. Jan. 29, 2021) (denying leave to amend where it “would unduly
+prolong resolution of this protracted litigation, and it would unduly prejudice Defendants by forcing them
+to continue to defend against meritless claims”), aff’d, No. 21-55364, 2022 WL 1115874 (9th Cir. Apr.
+14, 2022)
+
+First, as to circumstantial proof of factual copying, Plaintiff cannot adduce any facts or circumstances
+that are necessary to allege a viable theory of access based on a non-speculative chain of events. In
+the Complaint, Plaintiff has alleged only that two industry professionals affiliated with CBS Studios were
+sent the Screenplay in 2014. From this, Plaintiff infers that CBS Studios had access to the Screenplay
+and copied it. That inference has already been rejected because Plaintiff has failed to allege “any
+plausible nexus” between these “industry professionals” and the Accused Television Series. Dkt. 31
+at 6.
+
+The new evidence submitted by Plaintiff further confirms that granting leave to amend would be futile.
+Roe’s declaration does not reference the Screenplay; the emails between Roe and Doe do not mention
+any of Plaintiff’s works, much less the Screenplay at issue here. Rather, Roe declares only that Dillard’s
+“creative material” and “some scripts” authored by Plaintiff were disseminated to Doe. Dkt. 58-4 ¶¶ 2, 4.
+Roe’s vague reference to certain of Plaintiff’s works does not establish that she disseminated the
+Screenplay at issue. Moreover, because Roe expressly did not declare that she disseminated the
+Screenplay to Doe, which is a key fact that Plaintiff must establish to prove access, it is unreasonable
+to infer that she did so. See Esparza v. Kohl’s, Inc., 723 F. Supp. 3d 934, 939 (S.D. Cal. 2024) (“It is
+also improper for the court to assume ‘the plaintiff can prove facts that he or she has not alleged.’”
+(cleaned up) (quoting Associated Gen. Contractors of Cal., Inc. v. Cal. State Council of Carpenters, 459
+U.S. 519, 526 (1983))).
+
+Moreover, even if it were established that Roe sent the Screenplay to Doe, Plaintiff cannot draw a
+plausible connection between Doe and Defendant. Roe’s declaration includes a hearsay statement that
+Doe has “indicated that he maintains professional relationships with Kapital Entertainment,” which is the
+production company that worked with Defendant on the Accused Television Series. However, Plaintiff
+has not proffered any evidence as to the nature and the extent of Doe’s alleged relationship with Kapital
+Entertainment. An inference of access requires “more than a mere allegation that someone known to
+the defendant possessed the work in question.” Herzog v. Castle Rock Ent., 193 F.3d 1241, 1252 (11th
+Cir. 1999 (quoting Palmieri v. Estefan, No. 91-CV- 3098, 1995 WL 331719, at *1 (S.D.N.Y. June 5,
+1995)); Towler v. Sayles, 76 F.3d 579, 583 (4th Cir. 1996) (rejecting claim of access based upon a
+“tortious [sic] chain of hypothetical transmittals”). That the Screenplay was sent to one individual with an
+indeterminate “professional relationship[]” with a nonparty production company does not constitute a
+“sufficiently strong” nexus between Doe and Defendant required to “raise a reasonable possibility of
+access by” Defendant. Meta-Film Assocs., Inc. v. MCA, Inc., 586 F. Supp. 1346, 1355 (C.D. Cal. 1984).
+
+More substantial theories of access that are considerably stronger than Plaintiff’s have been dismissed
+with prejudice on a motion to dismiss. See, e.g., Washington v. ViacomCBS, Inc., No. 20-CV-435, 2021
+WL 2640105, at *2 (C.D. Cal. May 21, 2021), aff’d, No. 21-55668, 2023 WL 2658749 (9th Cir. Mar. 28,
+2023) (dismissing complaint with prejudice because the following theories of access were unduly
+speculative: “(1) Defendant’s predecessor company, CBS, had a ‘first look’ deal with Imagine Impact, to
+which Plaintiff submitted her Works for its consideration; (2) Dan Lerner, who is the credited director of
+                                                                                               Page 11 of 18
+  Case 8:25-cv-02091-JAK-KES                Document 73 Filed 03/16/26                 Page 12 of 18 Page ID
+                                                   #:759
+                                      UNITED STATES DISTRICT COURT
+                                     CENTRAL DISTRICT OF CALIFORNIA
+
+
+                                          CIVIL MINUTES – GENERAL
+
+ Case No.      8:25-cv-02091-JAK (KESx)                                               Date    March 16, 2026
+ Title         Meriland Keith Dillard v. CBS Studios, Inc.
+
+the [accused work], once worked with Brian Grazer, the co-founder of Imagine Entertainment, on the
+television series Friday Night Lights; (3) Paul Attanasio, who is credited as one of the co-creators of the
+[accused series], once worked with Mr. Grazer and Ron Howard, Imagine Entertainment’s other co-
+founder, on a project entitled Eden; and (4) Plaintiff allegedly sent her Works by email to Shima Azarafa
+and Olivia Hass, who Plaintiff alleges are producers employed by CBS.”).
+
+Despite extensively briefing the issue of access before this Court and the Ninth Circuit, and submitting
+evidence in support of the opposition, “Plaintiff has not suggested that [he] can allege additional facts
+which support [his] claim for relief.” U.S. Care, Inc. v. Pioneer Life Ins. Co. of Ill., 244 F. Supp. 2d 1057
+(C.D. Cal. 2002); see also Brewster v. Dretke, 587 F.3d 764, 768 (5th Cir. 2009) (per curiam) (leave to
+amend should not be granted when plaintiff has already plead his or her “best case”). It would be
+conjectural to predicate granting leave to amend on the unlikely possibility that Plaintiff may have
+additional facts -- which he has not already raised, despite having had multiple opportunities to do so
+here and in the Ninth Circuit -- showing that CBS Studios had access to the Screenplay.
+
+Second, as to legal copying, a review of the Works themselves demonstrates that there is no
+substantial similarity between them as a matter of law. Even if Plaintiff were able plausibly to allege
+factual copying, which is unlikely for the reasons already stated, Plaintiff’s failure to demonstrate legal
+copying cannot be cured by amendment because the Court’s independent review of the Works
+confirms that they are not substantially similar. See Rentmeester, 883 F.3d at 1125 (affirming district
+court’s dismissal with prejudice where “the allegedly infringing works are as a matter of law not
+substantially similar” and “amending the complaint would have been futile”), overruled on other grounds
+by, Skidmore v. Led Zeppelin, 952 F.3d 1051 (9th Cir. 2020); see also Gallagher v. Lions Gate Ent.
+Inc., No. 15-CV-2739, 2015 WL 12481504, at *2 (C.D. Cal. Sept. 11, 2015) (“[W]hen substantial
+similarity is absent after a review of the works at issue no amendment could cure the complaint’s
+deficiencies, thus, dismissal with prejudice is not uncommon.”).
+
+Permitting leave to amend will also prejudice Defendant, which has already defended Plaintiff’s
+inadequate claims in expedited proceedings before this Court and the Ninth Circuit, and litigated certain
+collateral issues raised by Plaintiff that lack merit. See, e.g., Eminence Cap., LLC v. Aspeon, Inc., 316
+F.3d 1048, 1052 (9th Cir. 2003) (“It is the consideration of prejudice to the opposing party that carries
+the greatest weight [in determining whether to grant leave to amend].”); Thakur, 2021 WL 304389, at *5
+(denying leave to amend where it “would unduly prolong resolution of this protracted litigation, and it
+would unduly prejudice Defendants by forcing them to continue to defend against meritless claims”).
+
+Plaintiff’s submissions in this case may have been prepared by using generative artificial intelligence.
+Plaintiff’s filings have misrepresented the Works at issue here and have mischaracterized Defendant’s
+conduct and the prior orders issued in this case. See Goddard v. Sares-Regis Grp. Inc.., No. 25-CV-
+5882, 2025 WL 2969295, at *3 (N.D. Cal. Oct. 21, 2025) (systematic factual misrepresentations are
+indicia of generative artificial intelligence). Plaintiff’s unauthorized supplemental briefing contains
+images that appear to have been created by generative artificial intelligence. 12 See Dkt. 64. Plaintiff’s
+
+
+12 The images in this brief contain nonsensical spellings that are characteristic of images generated by artificial
+
+intelligence. See Dkt. 64 at 12 (“Twombly/idqal + Three Bays”); id. (“Access need not be proven beyond doubt–
+only alausibly.”); id. at 11 (“Comedie Freeze”); id. at 11 (“cafeteira tone”); id. at 11 (“Misúrstranding”); see also
+Amanda Silberling, Why Is AI So Bad At Spelling? Because Image Generators Aren’t Actually Reading Text,
+                                                                                                         Page 12 of 18
+ Case 8:25-cv-02091-JAK-KES               Document 73 Filed 03/16/26               Page 13 of 18 Page ID
+                                                 #:760
+                                    UNITED STATES DISTRICT COURT
+                                   CENTRAL DISTRICT OF CALIFORNIA
+
+
+                                        CIVIL MINUTES – GENERAL
+
+ Case No.     8:25-cv-02091-JAK (KESx)                                            Date    March 16, 2026
+ Title        Meriland Keith Dillard v. CBS Studios, Inc.
+
+opposition also cites to several opinions that do not exist, 13 which is a hallmark of the “hallucinations”
+observed in the use of generative artificial intelligence to conduct legal research and drafting. See
+United States v. Hayes, 763 F. Supp. 3d 1054, 1065 (E.D. Cal. 2025) (“The citation has all the
+markings of a hallucinated case created by generative artificial intelligence (AI) tools such as ChatGPT
+and Google Bard that have been widely discussed by courts grappling with fictitious legal citations and
+reported by national news outlets.”).
+
+Although courts “make some allowances for the pro se Plaintiff’s failure to cite to proper legal authority,”
+courts may not condone actions by a party who cites to false, nonexistent, or misleading authorities.
+James v. Wadas, 724 F.3d 1312, 1315 (10th Cir. 2013); see also Munoz v. United States, 28 F.4th 973,
+978 (9th Cir. 2022) (“[I]t is axiomatic that pro se litigants, whatever their ability level, are subject to the
+same procedural requirements as other litigants.”). Like every other person who appears before a
+federal court, Plaintiff has an obligation under Rule 11 to confirm that his arguments are supported by
+the facts and the law. Plaintiff failed to meet that obligation here. The unsupported theories and legal
+contentions advanced by Plaintiff, which appear to be the result of his use of generative artificial
+intelligence, further confirm that granting leave to amend will allow Plaintiff to raise additional
+unsupported allegations. See, Alexander v. Metro-Goldwyn-Mayer Studios Inc., No. 17-CV-3123, 2017
+WL 5633407, at *9 (C.D. Cal. Aug. 14, 2017) (“Affording Plaintiff the chance to amend his Complaint is
+likely to raise even more baseless allegations, is unlikely to cure the current deficiencies, and is even
+more unlikely to render Plaintiff’s Complaint ‘plausible on its face.’” (quoting ZL Techs., Inc. v. Gardner,
+Inc., No. 09-CV-2393, 2009 WL 3706821, at *13 (N.D. Cal. Nov. 4, 2009)); Merz v. City of Kalama, No.
+24-cv-5588, 2025 WL 2382030, at *1 (W.D. Wash. Apr. 15, 2025) (“If future filings include what appears
+to be fabricated authority, this case will be promptly dismissed with prejudice, at least.”).
+
+Finally, Plaintiff’s repeated failure to comply with Court orders and the Local Rules also supports
+dismissal with prejudice. See, e.g., Brown v. CA DMV, No. 18-CV-1418, 2019 WL 8580417, at *3 (C.D.
+Cal. Apr. 8, 2019) (“[Pro se] Plaintiff’s repeated failure to comply with the Court’s orders could justify
+dismissal of the Third Amended Complaint and the action without leave to amend . . . .”); see Dkt. 64
+(unauthorized supplemental brief); Dkt. 40 (motion filed in violation of L.R. 7-3 & 7-4); Dkt. 43 (improper
+ex parte application); compare Dkt. 46 (Court order: “No reply is necessary.”) with Dkt. 54 (Plaintiff’s
+reply). Granting leave to amend would risk prejudice to Defendant in having to respond to filings like
+
+
+
+
+TechCrunch (Mar. 21, 2024), https://techcrunch.com/2024/03/21/why-is-ai-so-bad-at-spelling/ (discussing similar
+nonsensical spellings in images generated by artificial intelligence).
+13 Plaintiff cited to a case with an apparently real case name, decided by an actual court on a certain date, and
+
+assigned an apparently real citation by the Federal Reporter: Jorgensen v. CBS, Inc., 728 F.2d 958 (8th Cir.
+1984). Dkt. 57 at 15. The case reported at 728 F.2d 958 is not an Eighth Circuit case from 1984 captioned
+Jorgensen v. CBS, Inc., but rather, is a Seventh Circuit case from 1984 captioned United States v. Johns. See
+United States v. Johns, 728 F.2d 953 (7th Cir. 1984). Moreover, no case captioned “Jorgensen v. CBS, Inc.” has
+been decided by the Eighth Circuit. Similarly, Plaintiff cited to Lamon v. Godbolt, which is purportedly a Central
+District of California opinion dated March 30, 2015. Dkt. 57 at 8 (citing “Lamon v. Godbolt, 2015 WL 13647670, at
+3 (C.D. Cal. Mar. 30, 2025)”). The Westlaw database number for that case, however, refers to a complaint filed in
+the Los Angeles Superior Court in an unrelated case: United Walnut Taxpayers v. Mt. San Antonio Community
+Coll. Dist., No. BC600860, 2015 WL 13647670 (L.A. Sup. Ct. Nov. 10, 2015). Moreover, no case captioned
+“Lamon v. Godbolt” has been filed in the Central District of California.
+                                                                                                     Page 13 of 18
+ Case 8:25-cv-02091-JAK-KES             Document 73 Filed 03/16/26              Page 14 of 18 Page ID
+                                               #:761
+                                   UNITED STATES DISTRICT COURT
+                                  CENTRAL DISTRICT OF CALIFORNIA
+
+
+                                       CIVIL MINUTES – GENERAL
+
+ Case No.     8:25-cv-02091-JAK (KESx)                                         Date    March 16, 2026
+ Title        Meriland Keith Dillard v. CBS Studios, Inc.
+
+these, as well as litigating another motion to dismiss based on Plaintiff’s fundamentally flawed
+allegations.
+
+For the foregoing reasons, the Motion to Dismiss is GRANTED as to Count I, which is DISMISSED
+WITH PREJUDICE, i.e., without leave to amend.
+
+         B.    Copyright Preemption (Counts II and IV)
+
+Defendant argues that Plaintiff’s unfair competition claim (Count II), and idea misappropriation claim
+(Count IV), are preempted by Section 301 of the Copyright Act. Dkt. 44 at 21. Defendant contends that,
+because these claims are merely a “restate[ment]” of Plaintiff’s copyright claim, both are preempted.
+Dkt. 44 at 21–23.
+
+               1.      Legal Standards
+
+The Ninth Circuit has established a two-part test to determine whether a state law claim is preempted
+by the Copyright Act. First, it must be determined “whether the ‘subject matter’ of the state law claim
+falls within the subject matter of copyright as described in 17 U.S.C. §§ 102 and 103.” Laws v. Sony
+Music Ent., Inc., 448 F.3d 1134, 1137 (9th Cir. 2006). Section 102 of the Copyright Act affords
+copyright protection to “original works of authorship fixed in any tangible medium of expression,”
+including “pictorial, graphic, and sculptural works.” 17 U.S.C. § 102.
+
+Second, if the claim does fall within the subject matter of copyright, it must be determined “whether the
+rights asserted under state law are equivalent to the rights contained in 17 U.S.C. § 106, which
+articulates the exclusive rights of copyright holders.” Laws, 448 F.3d at 1137-38. The exclusive rights
+provided in Section 106 include the right “to reproduce the copyrighted work in copies[,]” “to prepare
+derivate works[,]” “to distribute copies . . . to the public by sale or other transfer of ownership,” and “to
+display the copyrighted work publicly.” 17 U.S.C. § 106. “To survive preemption, the state cause of
+action must protect rights which are qualitatively different from the copyright rights. The state claim
+must have an extra element which changes the nature of the action.” Laws, 448 F.3d at 1143 (quoting
+Del Madera Props. v. Rhodes & Gardner, 820 F.2d 973 (9th Cir. 1987), overruled on other grounds,
+Fogerty v. Fantasy, Inc., 510 U.S. 517 (1994)).
+
+               2.      Application
+
+The Complaint alleges that Defendant violated the California Unfair Competition Law (“UCL”), Cal. Bus.
+& Prof. Code § 17200, et seq., by “misappropriating” his work and “misrepresenting” its origin. Dkt. 1
+¶ 48. Further, the Complaint alleges that Defendant misappropriated his ideas, including the “unique
+premise, character types, and comedic motifs” of his work, without authorization. Id. ¶ 55.
+
+These claims concern Defendant’s use of his literary work, which falls within the “subject matter” of
+copyright. See 17 U.S.C. § 102(a)(1). Further, the state-law rights that Plaintiff asserts are substantially
+equivalent to rights protected by the Copyright Act because these claims are based on the
+unauthorized copying of Plaintiff’s literary work. See Sybersound Recs., Inc. v. UAV Corp., 517 F.3d
+1137, 1152 (9th Cir. 2008) (“To the extent the improper business act complained of [under the UCL] is
+based on copyright infringement, the claim was properly dismissed because it is preempted.”). Plaintiff
+                                                                                                 Page 14 of 18
+  Case 8:25-cv-02091-JAK-KES                 Document 73 Filed 03/16/26                 Page 15 of 18 Page ID
+                                                    #:762
+                                      UNITED STATES DISTRICT COURT
+                                     CENTRAL DISTRICT OF CALIFORNIA
+
+
+                                          CIVIL MINUTES – GENERAL
+
+ Case No.      8:25-cv-02091-JAK (KESx)                                               Date     March 16, 2026
+ Title         Meriland Keith Dillard v. CBS Studios, Inc.
+
+has not demonstrated that either of these claims involves an “extra element” that changes the nature of
+these actions and makes them qualitatively different from a copyright infringement claim. 14
+
+Accordingly, Plaintiff’s unfair competition claim and misappropriation claim are preempted by the
+Copyright Act. See, e.g., Ricketts v. CBS Corps., 439 F. Supp. 3d 1199, 1210 (C.D. Cal. 2020) (“To the
+extent these allegations can be interpreted to state an unfair or unlawful business act, presumably that
+Defendants’ copied Plaintiff’s work without giving him any credit, this claim is substantially equivalent to
+the rights protected under the Copyright Act and is preempted.”), aff’d sub nom. Ricketts v. Berlanti
+Prods., No. 20-55912, 2022 WL 1046252 (9th Cir. Apr. 7, 2022); Litchfield v. Spielberg, 736 F.2d 1352,
+1358 (9th Cir. 1984) (“The district court dismissed plaintiff’s state claims for unfair competition and
+misrepresentation. In so far as these state claims are restatements of the copyright infringement claims,
+they are preempted by federal copyright law.”). 15
+
+Plaintiff’s response is unpersuasive. He presents no argument as to the sufficiency of his idea
+misappropriation claim. 16 As to his unfair competition claim, Plaintiff argues that CBS’s “fraudulent
+manipulation of the judicial process” provides the “extra element” necessary to avoid copyright
+preemption. Dkt. 57 at 21. Plaintiff proffers no evidence to support his accusation that CBS engaged in
+“fraud.” Moreover, this argument is untethered to the allegations advanced in the Complaint. Minor v.
+Fedex Office & Print Servs., Inc., 182 F. Supp. 3d 966, 977 (N.D. Cal. 2016) (“Plaintiff may not use his
+opposition to raise and argue new allegations or claims not in the complaint.”). Further, even if this
+theory was properly pled and factually supported, which it is not, it likely fails as a matter of law
+because California’s litigation privilege generally immunizes litigants from UCL liability for
+communications related to litigation. See, e.g., People v. Persolve, LLC, 218 Cal. App. 4th 1267, 1274
+(2013) (“Here, as found by the trial court, the communications upon which the complaint is based were
+related to judicial proceedings. At a minimum, these communications had some relation to anticipated
+litigation. Thus, the litigation privilege would generally apply.”).
+
+For these reasons, the Motion to Dismiss is GRANTED as to Counts II and IV, which are DISMISSED
+WITH PREJUDICE, i.e., without leave to amend. Because these claims are preempted as a matter of
+
+14 Plaintiff’s implied contract cause of action is not preempted because it involves additional, contractual-based
+
+elements that are distinct from copyright infringement. See Selby v. New Line Cinema Corp., 96 F. Supp. 2d
+1053, 1059 (C.D. Cal. 2000) ("Courts . . . have concluded that a defendant’s very promise to refrain from using
+the plaintiff's ideas or copyrighted materials without compensation provides the extra element.”).
+15 Plaintiff’s misappropriation claim also fails to state a claim for relief because California law does not recognize
+
+the misappropriation of ideas as an actionable tort independent of copyright infringement. See Melchior v. New
+Line Productions, Inc., 106 Cal. App. 4th 779, 793 (2003) (“The tort of conversion does not apply to ideas.”). That
+provides an independent ground to dismiss Count IV with prejudice.
+16 Plaintiff’s failure to respond to the Motion to Dismiss as to this cause of action amounts to an abandonment of
+
+the claim. See Walsh v. Nev. Dep’t of Human Res., 471 F.3d at 1037 (holding that where the plaintiff’s opposition
+to a motion to dismiss “failed to address any of the arguments presented” in the defendant’s motion to dismiss,
+“the district court had no reason to consider the contention” that the claim in question “could not be dismissed,”
+and the plaintiff “effectively abandoned the claim”); Pers. Elec. Transports, Inc. v. Off. of U.S. Tr., 313 F. App’x 51,
+52 (9th Cir. 2009) (“[T]he district court correctly opined that Appellants had waived their . . . argument for failing to
+raise it in their opposition to the Trustee’s motion to dismiss.”). “In instances where a plaintiff simply fails to
+address a particular claim in its opposition to a motion to dismiss that claim, courts generally dismiss it with
+prejudice.” See Homsy v. Bank of Am., N.A., No. 13-CV-1608, 2013 WL 2422781, at *5 (N.D. Cal. June 3, 2013).
+
+                                                                                                          Page 15 of 18
+ Case 8:25-cv-02091-JAK-KES            Document 73 Filed 03/16/26             Page 16 of 18 Page ID
+                                              #:763
+                                  UNITED STATES DISTRICT COURT
+                                 CENTRAL DISTRICT OF CALIFORNIA
+
+
+                                     CIVIL MINUTES – GENERAL
+
+ Case No.     8:25-cv-02091-JAK (KESx)                                      Date    March 16, 2026
+ Title        Meriland Keith Dillard v. CBS Studios, Inc.
+
+law, an amendment would be futile. See, e.g., Reyes v. Premier Home Funding, Inc., 640 F. Supp. 2d
+1147, 1160 (N.D. Cal. 2009) (“Since such claims are preempted, dismissal is with prejudice.”).
+
+         C.    Breach of Implied Contract (Count III)
+
+               1.      Legal Standards
+
+California common law recognizes that an implied-in-fact contract may be created where one party
+furnishes an idea to another, even absent any express promise to pay. Desny v. Wilder, 46 Cal. 2d 715,
+737–39 (1956). “To establish a Desny claim for breach of implied-in-fact contract, the plaintiff must
+show that the plaintiff prepared the work, disclosed the work to the offeree for sale, and did so under
+circumstances from which it could be concluded that the offeree voluntarily accepted the disclosure
+knowing the conditions on which it was tendered and the reasonable value of the work.” Grosso v.
+Miramax Film Corp., 383 F.3d 965, 967 (9th Cir. 2004).
+
+               2.      Application
+
+The Complaint alleges that Plaintiff disclosed the Screenplay to Defendant under “circumstances giving
+rise to an implied-in-fact contract for compensation if used,” which Defendant breached by exploiting
+the Screenplay without compensating Plaintiff. Dkt. 1 ¶ 51. Defendant argues that these allegations fail
+to state a claim for relief because Plaintiff does not plausibly allege any contractual relationship, even
+an implied one, between the parties. Dkt. 44 at 24–25. Plaintiff responds that he disseminated the
+Screenplay “to the industry” with an understanding that he would be paid if the Screenplay were used.
+Dkt. 21 at 21–22.
+
+Defendant’s arguments are persuasive. The Complaint does not plausibly allege that Plaintiff submitted
+the Screenplay to Defendant, as opposed to two individuals affiliated with Defendant more than ten
+years ago. Nor does it aver that Plaintiff’s submission was conditioned on Defendant’s obligation to pay
+Plaintiff and that Defendant received and exploited the Screenplay with the understanding that it had
+formed an implied agreement with Plaintiff in so doing. See Meta-Film Assocs., 586 F. Supp. 1346 at
+1357–58 (observing that “countless unsolicited scripts are submitted to numbers of individuals on studio
+lots every day,” and, as such, “it is clearly unreasonable to attribute the knowledge of any one
+individual—especially a non-employee—to every other individual just because they occupy offices on
+the same studio lot”).
+
+Plaintiff’s bare allegation that he submitted the Screenplay to several industry professionals, only two of
+whom are identified as associated with Defendants, also does not plausibly demonstrate that an implied
+contractual relationship was formed with Defendant. See, e.g., Alexander v. Metro-Goldwyn-Mayer
+Studios Inc., No. 17-CV-3123, 2017 WL 5633407, at *9 (C.D. Cal. Aug. 14, 2017) (dismissing theory of
+“implied contract . . . by mass-mailing of” screenplay because plaintiff failed to allege a reasonable
+expectation of payment for unsolicited submission of the work and failed to allege that defendants, who
+never responded to the submission, accepted plaintiff’s implied offer). “Even in cases where the plaintiff
+alleged a more concrete exchange between the parties, courts have been wary to let an implied
+contract claim proceed at the motion to dismiss stage.” Id.
+
+
+
+                                                                                              Page 16 of 18
+ Case 8:25-cv-02091-JAK-KES                Document 73 Filed 03/16/26                 Page 17 of 18 Page ID
+                                                  #:764
+                                     UNITED STATES DISTRICT COURT
+                                    CENTRAL DISTRICT OF CALIFORNIA
+
+
+                                         CIVIL MINUTES – GENERAL
+
+ Case No.      8:25-cv-02091-JAK (KESx)                                             Date     March 16, 2026
+ Title         Meriland Keith Dillard v. CBS Studios, Inc.
+
+For reasons similar to those discussed with respect to Plaintiff’s deficient copyright claim, granting
+leave to amend the Desny claim would be futile under these circumstances and unduly prejudicial to
+Defendant. Plaintiff’s new evidence suggests that, at most, he had a bilateral expectation of payment
+from Roe, who promoted certain of Plaintiff’s works on his behalf. There is no evidence, however, that
+Roe promoted the Screenplay, as opposed to other works not at issue in this action, on his behalf.
+Moreover, there is no evidence that Plaintiff or Roe has ever dealt with Defendant, either directly or
+indirectly, with respect to the Screenplay. Indeed, there is no evidence that Defendant even received
+the Screenplay. Accordingly, Defendant could not have misappropriated it because there was no
+“bilateral exchange through which an implied contract could be inferred.” Alexander, 2017 WL 5633407,
+at *11. “Affording Plaintiff the chance to amend his Complaint is likely to raise even more baseless
+allegations, is unlikely to cure the current deficiencies, and is even more unlikely to render Plaintiff’s
+Complaint ‘plausible on its face.’” Id. (quoting ZL Techs., Inc. v. Gardner, Inc., No. 09-CV-2393, 2009
+WL 3706821, at *13 (N.D. Cal. Nov. 4, 2009).
+
+For the foregoing reasons, the Motion to Dismiss is GRANTED as to Count III, which is DISMISSED
+WITH PREJUDICE, i.e., without leave to amend.
+
+         D.     Declaratory Relief (Count V)
+
+“It is well established that declaratory relief is an equitable remedy,” not a standalone cause of action.
+See Baker v. Baker, No. 16-CV-8931, 2018 WL 3216509, at *6 (C.D. Cal. June 27, 2018) (collecting
+cases), aff’d in part and vacated in part on other grounds, 860 F. App’x 502 (9th Cir. 2021). “The
+availability of declaratory judgments, therefore, depends on the presence of an underlying legally-
+cognizable cause of action.” Kidd v. Am. Reliable Ins. Co., No. 15-CV-1720, 2016 WL 4502459, at *3
+(C.D. Cal. Aug. 23, 2016). When the underlying claim is dismissed, the declaratory relief claim must
+also be dismissed. Vaughan v. Quicken Loans Inc., No. 25-CV-4020, 2025 WL 2104273, at *6 (C.D.
+Cal. July 8, 2025). Because each of Plaintiff’s substantive claims fail, the declaratory relief claim also
+fails to state a plausible claim for relief.17
+
+Therefore, the Motion to Dismiss is GRANTED as to Count V, which is DISMISSED WITH
+PREJUDICE, i.e., without leave to amend.
+
+         E.     Plaintiff’s Remaining Arguments
+
+Plaintiff raises several other arguments that are collateral to the issues raised by the Motion to Dismiss.
+None are persuasive.
+
+First, Plaintiff argues that CBS Studios failed to meet and confer in good faith, as required by Local
+Rule 7-3, because the parties’ conference was “perfunctory” and Defendant’s counsel failed to
+articulate the basis for its motion. Dkt. 57 at 6. Even taking Plaintiff’s allegations as true, this does not
+provide grounds to deny the Motion to Dismiss because the parties were both on notice of the legal and
+factual bases for the Motion to Dismiss, which have already been litigated in connection with the TRO
+Order. The sole case cited by Plaintiff, Singer v. Live Nation Worldwide Inc., is distinguishable. There,
+
+
+17 Plaintiff did not respond to the Motion to Dismiss as to this cause of action, and therefore, he has also
+
+abandoned the claim for the reasons set forth in n.17.
+                                                                                                        Page 17 of 18
+ Case 8:25-cv-02091-JAK-KES             Document 73 Filed 03/16/26                 Page 18 of 18 Page ID
+                                               #:765
+                                  UNITED STATES DISTRICT COURT
+                                 CENTRAL DISTRICT OF CALIFORNIA
+
+
+                                      CIVIL MINUTES – GENERAL
+
+ Case No.    8:25-cv-02091-JAK (KESx)                                          Date    March 16, 2026
+ Title       Meriland Keith Dillard v. CBS Studios, Inc.
+
+the conference consisted of an unanswered letter sent three days before the motion was filed. No. 11-
+CV-427, 2012 WL 123146, at *2 (C.D. Cal. Jan. 13, 2012).
+
+Second, Plaintiff argues that CBS Studios should be “judicially estopped” because it falsely claimed that
+the August 2024 script had been superseded by a later script. Even if that allegation were true -- and
+Plaintiff proffers no evidence in support of it -- judicial estoppel does not apply because the TRO Order
+did not depend on whether the August 2024 script had been superseded. Dkt. 31 at 3 n.3; see also
+Hamilton v. State Farm Fire & Cas. Co., 270 F.3d 778, 783 (9th Cir. 2001) (“This court has restricted
+the application of judicial estoppel to cases where the court relied on, or ‘accepted,’ the party’s previous
+inconsistent position.”).
+
+Third, Plaintiff argues that CBS Studios falsely claimed to the Court that the Heiny Story was the source
+of the Accused Television Series. Dkt. 57 at 10. Plaintiff offers no evidence for this assertion. Moreover,
+as previously noted, this is immaterial to resolving the Motion to Dismiss because any evidence
+concerning the Heiny Story has not been considered in this analysis.
+
+Finally, Plaintiff argues that CBS Studios has engaged in a “coordinated pattern” of misconduct that
+warrants denial of the Motion to Dismiss. Dkt. 57 at 22. However, Plaintiff offers no evidence or
+nonconclusory argument in support of this contention. That Plaintiff disagrees with the legal arguments
+raised by Defendant does not provide a basis to deny the Motion to Dismiss.
+
+V.       Conclusion
+
+For the reasons stated in this Order, the Motion to Stay is DENIED as moot and the Motion to Dismiss
+is GRANTED. The Complaint is DISMISSED WITH PREJUDICE, i.e., without leave to amend.
+
+After meeting and conferring with Plaintiff to determine if the parties can agree on the form of a
+proposed judgment consistent with this Order, Defendant’s counsel shall lodge a proposed judgment
+within 14 days of the issuance of this Order. If the parties have reached an agreement as to its form,
+the proposed judgment shall include a signature from Plaintiff stating such an agreement. If the parties
+have not reached an agreement as to form, Defendant’s counsel shall submit Defendant’s form of the
+proposed judgment, and Plaintiff shall file any objections within seven days thereafter and in
+conformance with the Local Rules. Based on a review of the materials that are filed, the form of the
+judgment will be determined, and then filed.
+
+
+IT IS SO ORDERED.
+
+                                                                                                :
+
+                                                            Initials of Preparer      LC3
+
+
+
+
+                                                                                               Page 18 of 18
+

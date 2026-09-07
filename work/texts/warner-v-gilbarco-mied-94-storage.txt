@@ -1,0 +1,640 @@
+Case 2:24-cv-12333-GAD-APP ECF No. 94, PageID.1009 Filed 02/10/26 Page 1 of 14
+
+
+
+
+                     UNITED STATES DISTRICT COURT
+                     EASTERN DISTRICT OF MICHIGAN
+                          SOUTHERN DIVISION
+
+SOHYON WARNER,
+
+       Plaintiff,                             Case No. 2:24-cv-12333
+
+v.                                            District Judge Gershwin A. Drain
+                                              Magistrate Judge Anthony P. Patti
+GILBARCO, INC., GILBARCO, INC.
+(d/b/a GILBARCO VEEDER-ROOT), and
+VONTIER CORPORATION,
+
+      Defendants.
+___________________________________/
+
+ORDER DENYING PLAINTIFF’S MOTION FOR SANCTIONS BASED ON
+NON-COMPLIANCE WITH A COURT ORDER (ECF No. 68), GRANTING
+IN PART, DENYING IN PART, AND DEEMING WITHDRAWN IN PART
+  DEFENDANTS’ MOTION TO COMPEL (ECF No. 80), and STRIKING
+           THE NON-JOINT STATEMENT (ECF No. 89)
+
+A.    Pending Matters
+
+      On August 28, 2025, the Court entered an amended scheduling order, which
+
+set the fact discovery deadline for December 5, 2025. (ECF No. 41.) To date, the
+
+Undersigned has handled several discovery-related motions (see, e.g., ECF No. 45,
+
+47, 48, 49, 50) via orders dated September 26, 2025 (ECF No. 56) and October 30,
+
+2025 (ECF No. 66).
+
+      Currently pending before the Court are: (1) Plaintiff’s November 10, 2025
+
+notice of Defendants’ non-compliance with the Court’s October 30, 2025 order and
+
+request for sanctions under Fed. R. Civ. P. 37 (ECF No. 68), as to which
+
+                                        1
+Case 2:24-cv-12333-GAD-APP ECF No. 94, PageID.1010 Filed 02/10/26 Page 2 of 14
+
+
+
+
+Defendants filed a response (ECF No. 73), and Plaintiff filed a reply (ECF No. 77);
+
+and, (2) Defendants’ December 23, 2025 motion to compel and request for
+
+sanctions (ECF No. 80), as to which Plaintiff has filed a response (ECF No. 86)
+
+and Defendants have filed a reply (ECF No. 87). Additionally, the parties have
+
+filed statements of resolved and unresolved issues. (See ECF Nos. 89, 90.)1
+
+      Judge Drain has referred each of these motions to me for hearing and
+
+determination (ECF No. 69, 81). The Undersigned conducted a video status
+
+conference on January 12, 2026. (ECF Nos. 85, 93.) Pursuant to the Court’s
+
+January 13, 2026 notice, Plaintiff, on her own behalf, and defense counsel
+
+(Attorney Richard W. Warren) appeared on February 5, 2026 in person for a
+
+hearing on these motions. (ECF Nos. 82, 88.)
+
+B.    Order
+
+      1.     Plaintiff’s motion (ECF No. 68) is DENIED.
+
+      Upon consideration of the motion papers and the parties’ arguments and
+
+representations at the hearing, and for all the reasons stated on the record by the
+
+
+1
+  Plaintiff’s “notice” (ECF No. 68) has been treated as a motion. The usual path to
+gaining relief from the Court is to file a motion, and notices are generally not
+permitted unless previously requested by the Court (e.g., ECF No. 51); more often
+than not, they are stricken. Plaintiff is cautioned about filing notices going
+forward, as she has, on more than one occasion, filed unauthorized “notices” on the
+docket. (See, e.g., ECF No. 58, 68.) Also, Plaintiff’s emergency supplement (ECF
+No. 72) was stricken pursuant to the Court’s November 26, 2025 text-only order.
+Finally, at the February 5, 2026 motion hearing, the Court struck the non-joint
+statement (ECF No. 89) from the record.
+                                          2
+Case 2:24-cv-12333-GAD-APP ECF No. 94, PageID.1011 Filed 02/10/26 Page 3 of 14
+
+
+
+
+Court, which are hereby incorporated by reference as though fully restated herein,
+
+Plaintiff’s motion (ECF No. 68) is DENIED as set forth in the prayer for relief
+
+(see ECF No. 68, PageID.662-663 ¶¶ 1-6.):
+
+      •      To the extent Plaintiff asked the Court to “[f]ind Defendants in non-
+
+compliance with ECF 66 and the Federal Rules of Civil Procedure[,]” the motion is
+
+DENIED. Inter alia, the Court agrees that Defendants complied with the direction
+
+regarding Bates ranges 162-462 (see ECF No. 66, PageID.630 ¶ 4), when it
+
+submitted its November 7, 2025 supplemental response (see ECF No. 73,
+
+PageID.735; ECF No. 73-1). To the extent that Defendants provided additional
+
+information after Court-ordered deadlines, the Court is satisfied that it did so in
+
+compliance with its duty to supplement under Fed. R. Civ. P. 26(e).
+
+
+
+      •      To the extent Plaintiff asks Defendants to “[o]rder immediate,
+
+complete production of all comparator files, HR investigations, and ESI—requiring
+
+Defendants to re-run all searches using the expanded custodian and term list
+
+provided on October 27, 2025, and to re-produce the results in an organized,
+
+labeled format consistent with Rule 34(b)(2)(E)[,]” the motion is DENIED.
+
+Defense counsel, as an officer of the Court, provided answers to the Court’s
+
+extensive questioning on this subject, and the Court is satisfied that Defendants
+
+have produced the comparator files (see ECF No. 68, PageID.651-653) within their
+
+                                           3
+Case 2:24-cv-12333-GAD-APP ECF No. 94, PageID.1012 Filed 02/10/26 Page 4 of 14
+
+
+
+
+“possession, custody, or control[,]” Fed. R. Civ. P. 34(a)(1); thus, there is nothing
+
+for the Court to order. The two investigation reports listed in the privilege log will
+
+be addressed below.
+
+
+
+      Although not spelled out in her prayer for relief, Plaintiff complains that
+
+Defendants’ production of Bates range 463-4427 on October 27, 2025 and
+
+November 7, 2025 did not comply with the Court’s October 30, 2025 order (ECF
+
+No. 66). (ECF No. 68, PageID.656-658). However, Defendants’ November 7,
+
+2025 supplemental response reads: “Not long before Plaintiff’s counsel withdrew
+
+their representation, Defendants agreed to run an ESI search with specific search
+
+parameters—date range: December 1, 2021 to December 31, 2023—custodians:
+
+Ivan Ayma, Emily Heuser, Rosanna Hurst and Robert Steffler—and the search
+
+terms below[,]” below which appears a list of search terms. (ECF No. 73-1,
+
+PageID.754.) Immediately below the chart of search terms, Defendants state: “As
+
+a result of this search, see documents at Bates Nos. G000463-1378 and G001379-
+
+4427.” (ECF No. 73-1, PageID.754 [No. 16].) The Court finds that this suffices
+
+and complies with its prior order.
+
+
+
+      •      To the extent Plaintiff asked the Court to “[r]equire Defendants to
+
+serve an updated, itemized privilege log identifying each withheld document with
+
+
+                                          4
+Case 2:24-cv-12333-GAD-APP ECF No. 94, PageID.1013 Filed 02/10/26 Page 5 of 14
+
+
+
+
+sufficient detail to assess the claim of privilege, and to produce all non-privileged
+
+portions of the HR investigations[,]” the motion is DENIED. Instead, the Court
+
+performed Plaintiff’s suggested in camera review. Having considered the two
+
+investigation reports listed on Defendants’ November 21, 2025 privilege log (ECF
+
+No. 73-3), one by compliance counsel Kathy Martorell dated March 3, 2023 (see
+
+ECF No. 73-6) and the other by compliance investigator Kate S. Gibson dated
+
+December 14, 2022 (see ECF No. 73-4), along with the declarations filed in
+
+support of privileges with respect to those two documents, one by Kate Gibson,
+
+Esq. (ECF No. 73-5) and the other by Kathy Hunt, Esq. (ECF No. 73-7), the Court
+
+concludes these investigations and the reports they generated were done in
+
+anticipation of litigation, both subjectively and objectively, as opposed to the
+
+ordinary course of business. See, e.g., Upjohn Co. v. United States, 449 U.S. 383,
+
+386 (1981); Lee v. EUSA Pharma US LLC, No. 2:22-CV-11145, 2024 WL 250064
+
+(E.D. Mich. Jan. 23, 2024) (Patti, M.J.) (order after in camera review); United
+
+States v. Nobles, 422 U.S. 225, 238–39 (1975) (“the doctrine protect[s] material
+
+prepared by agents for the attorney as well as those prepared by the attorney
+
+himself.”). Because these documents are protected by both the attorney-client
+
+privilege and the work product doctrine, the Court will not order their production.
+
+Although Plaintiff argued that any factual accounts given in those reports should
+
+be produced, the Court extensively questioned defense counsel at the hearing and
+
+
+                                          5
+Case 2:24-cv-12333-GAD-APP ECF No. 94, PageID.1014 Filed 02/10/26 Page 6 of 14
+
+
+
+
+is satisfied that no witnesses interviewed by in-house counsel gave written,
+
+recorded, sworn, or transcribed verbatim statements. As this Court has noted,
+
+“even attorney interview notes of fact witnesses (if any exist), which are inevitably
+
+funneled through the attorney-interviewers’ ears, minds, fingers and/or voices (if
+
+dictated), are also protected as work product and, thus, not discoverable.” Lee,
+
+2024 WL 250064, at *4. See In re General Motors LLC Ignition Switch Lit., 80
+
+F.Supp.3d 521, 532 (S.D.N.Y. 2015) (“[i]nterview notes and memoranda produced
+
+in the course of ... internal investigations have long been considered classic
+
+attorney work product.”) As the Supreme Court has explained: “Forcing an
+
+attorney to disclose notes and memoranda of witnesses’ oral statements is
+
+particularly disfavored because it tends to reveal the attorney’s mental processes . .
+
+. .” Upjohn, 449 U.S. at 399 (citation omitted). See also United States v. One Tract
+
+of Real Prop. Together With all Bldgs., Improvements, Appurtenances & Fixtures,
+
+95 F.3d 422, 427 (6th Cir. 1996); 6 Moore’s Federal Practice § 26.70[2][a]
+
+(Matthew Bender 3d ed.) (“Thus, while the facts themselves are not privileged, a
+
+chart or other compilation of facts may be protected as work product.”).2 The
+
+Court confirmed that Plaintiff was provided with all of the names of the people
+
+
+
+2
+ This is in contrast with government documents protected by the deliberative
+process privilege, where factual summaries may be discoverable because they are
+not “deliberative.” See EEOC v. Peoplemark, Inc., No. 1:08-cv-907, 2010 WL
+748250, at *2 (W.D. Mich. Feb. 26, 2010).
+                                          6
+Case 2:24-cv-12333-GAD-APP ECF No. 94, PageID.1015 Filed 02/10/26 Page 7 of 14
+
+
+
+
+interviewed by in-house counsel in the internal investigation, and, though she had
+
+the opportunity to depose them to obtain whatever factual information they had,
+
+she did not.
+
+
+
+      •        To the extent Plaintiff asked the Court to “[i]mpose sanctions under
+
+[Fed. R. Civ. P. 37(b) and Fed. R. Civ. P. 26(g)] . . . [,]” such as assessing
+
+expenses and fees, deeming facts established, imposing an adverse inference /
+
+spoliation, imposing an evidentiary preclusion, deeming a privilege waived, or
+
+providing a warning of further sanctions, the motion is DENIED;
+
+
+
+      •        To the extent Plaintiff asked the Court to “[d]irect Defendants to
+
+certify, under oath, the preservation and completeness of all ESI and hard-copy
+
+materials associated with departed custodians (Schoultz, Hurst, Blaser, McClellan,
+
+Posada, Heuser, and Martorell) and to describe their data-retention measures in
+
+writing[,]” the motion is DENIED, as that certification was given on the record in
+
+open court; and,
+
+
+
+      •        To the extent Plaintiff sought an extension of the discovery period “to
+
+ensure Plaintiff receives a meaningful opportunity to review all compelled
+
+productions, conduct follow-up discovery, and complete depositions after
+
+                                            7
+Case 2:24-cv-12333-GAD-APP ECF No. 94, PageID.1016 Filed 02/10/26 Page 8 of 14
+
+
+
+
+compliance is achieved[,]” the motion is DENIED. For example, although
+
+Plaintiff claims to have requested depositions of Human Resources (HR) in
+
+September 2025, she never took a deposition, purportedly because she did not have
+
+related documents. She also never sought to compel that deposition at any time, let
+
+alone within the discovery period. Nonetheless, defense counsel confirmed that
+
+Plaintiff was given a list of those witnesses interviewed in the investigation, and, as
+
+the Court explained from the bench, although documents may be beneficial in
+
+deposing a witness, they are not absolutely necessary; indeed, a deposition may
+
+sometimes be used to identify documents to be sought in discovery, the revelation
+
+of which may occasionally become the basis for continuing a deposition. If
+
+Plaintiff was concerned about the completeness of personnel records produced to
+
+her, she was free to explore the contents that she had been given and whether other
+
+material exists or should have been included in document productions by deposing
+
+the HR director or some other appropriate custodian. She did not avail herself of
+
+this opportunity.
+
+
+
+
+      Given the Court’s denial of Plaintiff’s motion, the Court has considered
+
+whether to require Plaintiff to pay Defendants their “reasonable expenses incurred
+
+in opposing the motion, including attorney’s fees[,]” but the Court declines to do
+
+so, finding “the motion was substantially justified or other circumstances make an
+                                          8
+Case 2:24-cv-12333-GAD-APP ECF No. 94, PageID.1017 Filed 02/10/26 Page 9 of 14
+
+
+
+
+award of expenses unjust[,]” Fed. R. Civ. P. 37(a)(5), particularly the need for the
+
+Court to engage in its in camera review. Plaintiff can hardly be faulted for making
+
+that request under these circumstances.
+
+      2.     Defendants’ motion (ECF No. 80) is GRANTED IN PART,
+             DENIED IN PART, and DEEMED WITHDRAWN IN PART.
+
+      Upon consideration of the motion papers and the parties’ arguments and
+
+representations at the hearing, and for all the reasons stated on the record by the
+
+Court, which are hereby incorporated by reference as though fully restated herein,
+
+Defendants’ motion (ECF No. 80) is GRANTED IN PART, DENIED IN PART,
+
+and DEEMED WITHDRAWN IN PART. Preliminarily, the initial and amended
+
+scheduling orders provide: “Discovery shall be completed on or before the date set
+
+forth in the scheduling order. The court will not order discovery to take place
+
+subsequent to the discovery cutoff date.” (ECF No. 14, PageID.81; ECF No. 41,
+
+PageID.257 (emphasis in original).) Judge Drain’s and the Undersigned’s Practice
+
+Guidelines contain similar provisions. (See www.mied.uscourts.gov.) Plaintiff
+
+served her responses to Defendants’ second request to produce on October 23,
+
+2025 (ECF No. 80-4), she was deposed on November 25, 2025, and the discovery
+
+deadline in this case was extended to December 5, 2025 (ECF No. 41,
+
+PageID.257.) Defendants have made no showing that it was impossible or
+
+impractical to have filed the December 23, 2025 motion before the close of
+
+discovery, nor did Defendants file a motion to extend discovery or otherwise
+                                          9
+Case 2:24-cv-12333-GAD-APP ECF No. 94, PageID.1018 Filed 02/10/26 Page 10 of 14
+
+
+
+
+ demonstrate good cause for filing their motion outside of the discovery period.
+
+ Therefore, the motion is DENIED AS UNTIMELY, except as specified below.
+
+ See Santifer v. Inergy Auto Sys., LLC, No. 5:15-cv-11486, 2016 WL 4011268, at
+
+ *2 (E.D. Mich. Jul. 27, 2016) (E.D. Mich. July 27, 2016) (requiring good cause for
+
+ bringing a motion to compel after the close of discovery). Alternatively, as set
+
+ forth in the prayer for relief:
+
+
+        •      To the extent Defendants seek production of “all documents and
+
+ information concerning her use of third-party AI tools in connection with this
+
+ lawsuit, as requested in Defendants’ discovery requests,” this request is DENIED,
+
+ as the information sought is not discoverable. See Fed. R. Civ. P. 26(b)(3)(A)
+
+ (“Ordinarily, a party may not discover documents and tangible things that are
+
+ prepared in anticipation of litigation or for trial by another party or its
+
+ representative ….”) (emphases added). Moreover, it is not relevant, or, even if
+
+ marginally relevant, is not proportional. See Fed. R. Civ. P. 26(b)(1). 3
+
+
+
+
+ 3
+   Notably, the Court previously confirmed that Defendants have no evidence of
+ Plaintiff having violated the protective order by uploading documents marked
+ confidential onto an AI platform. (ECF No. 93, PageID.1002.) The Court also
+ reviewed pertinent and highlighted portions of Plaintiff’s deposition transcript
+ (ECF No. 80-2), which reveals an inordinate amount of questioning about
+ Plaintiff’s use of AI, but again, no suggestion that she uploaded prohibited items.
+ Defendants’ preoccupation with Plaintiff’s use of AI needs to abate.
+                                            10
+Case 2:24-cv-12333-GAD-APP ECF No. 94, PageID.1019 Filed 02/10/26 Page 11 of 14
+
+
+
+
+       •      To the extent Defendants ask the Court to “[o]verrule[] Plaintiff’s
+
+ attorney–client privilege and work-product objections to the AI materials,” or
+
+ alternatively, “if the Court sustains any privilege or protection as to any item,
+
+ require Plaintiff, within seven days, to serve a Rule 26(b)(5)(A)-compliant
+
+ privilege log[,]” the request is DENIED. Even if this information were
+
+ discoverable, it is subject to protection under the work-product doctrine, which
+
+ Plaintiff is permitted to assert. See, e.g., Systemes v. Childress, No. 09-10534,
+
+ 2013 WL 12181774 (E.D. Mich. Nov. 22, 2013) (Hluchaniuk, M.J.) (order
+
+ granting in part and denying in part motion to quash subpoenas); Anderson v.
+
+ Furst, No. 2:17-12676, 2019 WL 2284731, *4 (E.D. Mich. May 29, 2019) (Patti,
+
+ M.J.) (“Plaintiff, as a pro se litigant, has a right to assert work product protection
+
+ over such material.”); see also Fed. R. Civ. P. 26(b)(3). Moreover, to the extent
+
+ Defendants argue that Plaintiff waived the work-product protection by using
+
+ ChatGPT, the work-product waiver has to be a waiver to an adversary or in a way
+
+ likely to get in an adversary’s hand. In re Columbia/HCA Healthcare Corp.
+
+ Billing Pracs. Litig., 293 F.3d 289, 306 n.28 (6th Cir. 2002) (explaining
+
+ differences in waiver of attorney-client privilege and work product protection);
+
+ Schanfield v. Sojitz Corp. of Am., 258 F.R.D. 211, 214 (S.D.N.Y. 2009) (“It is
+
+ well-established that voluntary disclosure of confidential material to a third party
+
+ waives any applicable attorney-client privilege.”). See also United States v. Am.
+
+                                            11
+Case 2:24-cv-12333-GAD-APP ECF No. 94, PageID.1020 Filed 02/10/26 Page 12 of 14
+
+
+
+
+ Tel. & Tel. Co., 642 F.2d 1285, 1299 (D.C. Cir. 1980) (“while the mere showing of
+
+ a voluntary disclosure to a third person will generally suffice to show waiver of the
+
+ attorney-client privilege, it should not suffice in itself for waiver of the work
+
+ product privilege.”). And ChatGPT (and other generative AI programs) are tools,
+
+ not persons, even if they may have administrators somewhere in the background.
+
+ As Plaintiff noted in her response, Defendants’ motion “asks the Court to compel
+
+ Plaintiff’s internal analysis and mental impressions—i.e., her thought process—
+
+ rather than any existing document or evidence, which is not discoverable as a
+
+ matter of law. The motion seeks intrusive post-discovery production based on
+
+ speculation about what might exist in Plaintiff’s internal drafting process,
+
+ untethered from Rule 26 relevance, disregarding the heightened protection
+
+ afforded to opinion work product, and improperly attempting to manufacture a
+
+ waiver where none exists. At its core, Defendants’ request is a fishing expedition.
+
+ . . .” (ECF No. 86, PageiD.917.) Additionally, the Court agrees with Plaintiff that
+
+ the pursuit of this information is “a distraction from the merits of this case[,]” and
+
+ that Defendants’ theory, which is supported by no case law but only a Law360
+
+ article posing rhetorical questions,4 “would nullify work-product protection in
+
+
+
+
+ 4
+  See ECF No.80, PageID.825-826. But as Plaintiff points out, “no cited case
+ orders the production of what Defendants seek here: a litigant’s internal mental
+ impressions reformatted through software.” (ECF No. 86, PageID.933.)
+                                            12
+Case 2:24-cv-12333-GAD-APP ECF No. 94, PageID.1021 Filed 02/10/26 Page 13 of 14
+
+
+
+
+ nearly every modern drafting environment, a result no court has endorsed.” (Id.,
+
+ PageID.920, 930.)
+
+
+
+       •      To the extent Defendants ask the Court to compel Plaintiff “to execute
+
+ HIPAA-compliant medical authorizations for the medical and mental-health
+
+ providers Plaintiff identified in her deposition[,]” this request is GRANTED.
+
+ Notwithstanding the untimeliness of this motion, pursuant to the Court’s broad
+
+ authority under Fed. R. Civ. P. 1 and Fed. R. Civ. P. 16(a)(2) & (d), Plaintiff is
+
+ required to produce signed HIPPA releases for Therapists Maria Yoo and Lemica
+
+ Cox, and Dr. Shazia Qumar (see ECF No. 80, PageID.818; ECF No. 80-2,
+
+ PageID.840 [pp. 23-24]) no later than Thursday, February 12, 2026. While
+
+ Plaintiff claims that her prior attorney obtained these releases from her and would
+
+ have given them to defense counsel, defense counsel represented that he did not
+
+ receive them. Even a minimal amount of cooperation on Plaintiff’s part could
+
+ have avoided this portion of Defendants’ motion to compel.
+
+
+
+       •      To the extent Defendants seek an order requiring Plaintiff “to bear
+
+ Defendants’ reasonable expenses, including attorneys’ fees, incurred in bringing
+
+ this Motion, pursuant to Rule 37(a)(5),” the request was WITHDRAWN at the
+
+ hearing.
+
+                                           13
+Case 2:24-cv-12333-GAD-APP ECF No. 94, PageID.1022 Filed 02/10/26 Page 14 of 14
+
+
+
+
+ (ECF No. 49, PageID.810-811.)
+
+                                       ******
+
+       In the end, both sides of this dispute seek to obtain each other’s thought
+
+ processes, while shielding their opponent from discovery of their own. The Court
+
+ will uphold the protections afforded the thought processes and litigation strategies
+
+ of both sides and will order production of neither.
+
+       IT IS SO ORDERED. 5
+
+
+
+
+ Dated: February 10, 2026
+                                            Anthony P. Patti
+                                        UNITED STATES MAGISTRATE JUDGE
+
+
+
+
+ 5
+  The attention of the parties is drawn to Fed. R. Civ. P. 72(a), which provides a
+ period of fourteen (14) days after being served with a copy of this order within
+ which to file objections for consideration by the district judge under 28 U.S.C. §
+ 636(b)(1).
+                                          14
+

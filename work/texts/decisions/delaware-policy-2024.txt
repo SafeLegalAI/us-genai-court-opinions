@@ -1,0 +1,115 @@
+       IN THE SUPREME COURT OF THE STATE OF DELAWARE
+
+IN RE:                                            §
+INTERIM POLICY ON THE USE OF                      §
+GENERATIVE AI BY JUDICIAL                         §
+OFFICERS AND COURT PERSONNEL                      §
+
+                                          ORDER
+
+      This 21st day of October 2024, it appears to the Court that:
+
+      WHEREAS, in 2013, the Court established the Delaware Commission on
+
+Law and Technology (“DCLT”) to provide Delaware lawyers with guidance and
+
+education when using technology in the practice of law;
+
+      WHEREAS, in 2023, the Court expanded the mission of the DCLT to assess
+
+developing technology and to identify critical needs and gaps;
+
+      WHEREAS, the DCLT has recommended adoption of the attached interim
+
+policy for the use of Generative Artificial Intelligence (“GenAI”) by judicial
+
+officers and court personnel;
+
+      WHEREAS, the Interim Policy is intended to ensure the safe and appropriate
+
+use of GenAI by judicial officers and court personnel, but not be used as a substitute
+
+for judicial, legal, or professional expertise.
+
+         NOW, THEREFORE, IT IS ORDERED that:
+
+         1. Judicial officers and court personnel using GenAI in their official duties
+
+            shall comply with the Interim Policy on the Use of Gen AI Policy by
+
+            Judicial Officers and Court Personnel (“the Interim Policy”), attached
+   as Exhibit A.
+
+2. The Interim Policy shall be added as Appendix O-1 to the
+
+   Judicial    Branch      Operating      Procedures,      available   at
+
+   https://courts.delaware.gov/aoc/operating-procedures/index.aspx.
+
+3. The DCLT shall monitor the Interim Policy and report to the Court
+
+   when further changes are needed.
+
+4. The Interim Policy shall go into effect on October 21, 2024.
+
+
+                              BY THE COURT:
+
+
+                               /s/ Collins J. Seitz, Jr.
+                                    Chief Justice
+EXHIBIT A
+          Interim Policy on the Use of GenAI by Judicial Officers and Court Personnel
+Purpose:
+This Interim Policy on the Use of GenAI by Judicial Officers and Court Personnel (this “Interim
+Policy”), reviewed and approved by the Delaware Commission on Law and Technology, is
+offered for consideration by the Chief Justice of the Delaware Supreme Court as the
+Administrative Head of all Delaware Courts. This Interim Policy is intended to ensure the safe
+and appropriate use of GenAI by Authorized Users. Generative AI tools are intended to provide
+assistance and are not a substitute for judicial, legal or other professional expertise.
+Scope:
+This Interim Policy applies to the use of GenAI by Authorized Users in the course and scope of
+their official duties and on State Technology Resources.
+Definitions:
+“Approved GenAI” means GenAI tools that have been approved by the Administrative Office for
+use by Authorized Users in the performance of their duties and using State Technology
+Resources.
+“Artificial Intelligence” or “AI” means technology that enables computers and machines to
+reason, learn, and act in a way that would typically require human intelligence.
+“Authorized Users” means all judicial branch judicial officers, employees, law clerks, interns,
+externs, and volunteers.
+“Generative AI” or “GenAI” means Artificial Intelligence trained on an existing set of data
+(which can include text, images, audio or video) with the intent to "generate" new data objects
+when prompted by a user. Generative AI creates new data objects contextually in response to
+user prompts based only on the data it has already been trained on.
+“Non-Public Information” means information to which an Authorized User has access to as a
+result of their official position and not otherwise publicly available through action of the
+Authorized User.
+“Non-Approved GenAI” means GenAI that is not Approved GenAI.
+“State Technology Resources” include any and all computer systems, software, network systems,
+telecommunications equipment and systems, email and messaging systems, data storage,
+hardware, peripherals and other electronic systems and devices owned, leased, and/or provided
+by the State of Delaware.
+Policy:
+   1. Authorized User Remains Responsible. Any use of GenAI output is ultimately the
+      responsibility of the Authorized User. Authorized Users are responsible to ensure the
+      accuracy of all work product and must use caution when relying on the output of GenAI.
+2. Informed Use. Authorized Users should not use Approved GenAI without a working
+   knowledge and understanding of the tools. Authorized Users should be trained in the
+   technical capabilities and limitations of Approved GenAI prior to use.
+
+3. Decision Making. Authorized Users may not delegate their decision-making function to
+   Approved GenAI.
+
+4. Compliance with Laws and Judicial Branch Policies. Use of GenAI must comply with
+   all applicable laws and judicial branch policies.
+
+5. Non-Approved GenAI. Authorized Users may not input any Non-Public Information
+   into Non-Approved GenAI. Non-Approved GenAI may not be used on State Technology
+   Resources.
+
+
+
+
+                                          2
+

@@ -1,0 +1,637 @@
+Case 4:26-cv-00029-DN                 Document 80          Filed 08/25/26         PageID.1240    Page 1 of 11
+
+
+
+
+                                  THE UNITED STATES DISTRICT COURT
+                                          DISTRICT OF UTAH
+
+
+     JACK FERM,
+                                                               MEMORANDUM DECISION AND
+                               Plaintiff,                      ORDER ADOPTING IN FULL REPORT
+                                                               AND RECOMMENDATION
+     v.
+                                      Case No. 4:26-cv-00029-DN-PK
+     AGRITECH PROPERTIES; DON GORDON;
+     DR. MICHAEL ORGAN; ANDY JAGPAL;  District Judge David Nuffer
+     RICHARD CINDRIC; and GLOBAL OIL
+     AND GAS RECOVERY CORP.,
+
+                               Defendants.
+
+
+            The Report and Recommendation 1 (“R & R”) issued by United States Magistrate Judge
+
+ Paul Kohler on June 10, 2026, recommends granting Defendants Agritech Properties, Richard
+
+ Cindric, Global Oil and Gas Recovery, Don Gordon, Andy Jagpal, and Dr. Michael Organ’s
+
+ (collectively “Defendants”) Motion to Dismiss for Lack of Jurisdiction and Failure to State a
+
+ Claim 2 (“Motion”) and denying both parties’ remaining seven motions as moot. 3 The parties
+
+ were notified of their right to file objections to the R & R within 14 days of its service pursuant
+
+
+
+
+ 1
+     Report and Recommendation (“R & R”), docket no. 78, filed June 10, 2026.
+ 2
+     Motion to Dismiss for Lack of Jurisdiction (“Motion”), docket no. 8, filed May 8, 2026.
+ 3
+  R & R at 1 (citing First Motion for Summary Judgment, docket no. 57, file May 6, 2026; Second Motion for
+ Summary Judgment, docket no. 62, filed May 12, 2026; Third Motion for Summary Judgment, docket no. 63, filed
+ May 13, 2026; Motion to Combine Dispositive Motion for Hearing, docket no. 64, filed May 13, 2026; Defendant’s
+ Motion to Stay Briefing Pending Ruling on [42] Motion to Dismiss per Rule 56(d), docket no. 66, filed May 15,
+ 2026; Motion for Sanctions, docket no. 69, filed May 15, 2026; Defendant’s Motion to Strike [62] Motion for
+ Summary Judgment, [57] Motion for Summary Judgment, [63] Motion for Summary Judgment, docket no. 67, filed
+ May 19, 2026).
+Case 4:26-cv-00029-DN                      Document 80                Filed 08/25/26               PageID.1241               Page 2 of 11
+
+
+
+
+ to 28 U.S.C. § 636 and Fed. R. Civ. P. 72. 4 On June 14, 2026, Plaintiff Jack Ferm filed an
+
+ objection to Judge Kohler’s R & R in its entirety (“Objection”). 5 Defendants do not object.
+
+            De novo review has been completed of those portions of the report, proposed findings
+
+ and recommendations to which objection was made, and of the record that was before Judge
+
+ Kohler and the reasoning set forth in the R &R. 6 For the reasons stated below, the R & R is
+
+ ADOPTED IN FULL.
+
+ 1     Contents
+ 2        DISCUSSION ..................................................................................................................... 2
+          2.1   Mr. Ferm’s Objection Does Not Comply with the Local Rules. ............................ 2
+          2.2   Personal Jurisdiction Exists Only as to the Signatories. ......................................... 5
+          2.3   Mr. Ferm’s Objection is Not Specific Enough to Overturn the R & R .................. 8
+ 3        ORDER ............................................................................................................................. 10
+
+                                                          2     DISCUSSION
+
+            Under 28 U.S.C. § 636(b)(1)(C), when a party files an objection to an R & R, the district
+
+ judge “shall make a de novo determination of those portions of the report or specified proposed
+
+ findings or recommendations to which objection is made. [The district judge] may accept, reject,
+
+ or modify, in whole or in part, the findings or recommendations made by the magistrate
+
+ judge.” 7 Apart from timely objections, “the court need only satisfy itself that there is no clear
+
+ error on the face of the record in order to accept the recommendation.” 8
+
+       2.1 Mr. Ferm’s Objection Does Not Comply with the Local Rules.
+
+            Under Federal Rule of Civil Procedure 72(b)(2) “Within 14 days after being served with
+
+ a copy of the recommended disposition, a party may serve and file specific written objections to
+
+
+
+ 4
+     R & R at 16.
+ 5
+     Objection to Report and Recommendation (“Objection”), docket no. 79, June 19, 2026.
+ 6
+     28 U.S.C. § 636(b).
+ 7
+     28 U.S.C. § 636(b)(1)(C).
+ 8
+     Fed. R. Civ. P. 72, Advisory Committee Notes.
+
+
+
+                                                                                                                                              2
+Case 4:26-cv-00029-DN                 Document 80          Filed 08/25/26          PageID.1242      Page 3 of 11
+
+
+
+
+ the proposed findings and recommendations.” 9 When a party is objecting to a magistrate judge’s
+
+ R & R, they must follow the local rules as well as the federal rules of civil procedure. “Local
+
+ rules that are consistent with the national rules have the force of law.” 10 “Local rules are
+
+ primarily housekeeping rules; their purpose is to facilitate operation of the court.” 11
+
+ “Considerable deference is accorded to the district courts’ interpretation and application of their
+
+ own rules of practice and procedure.” 12 Local Rule DUCivR 72-2(a) reads:
+
+            Objection. An objection to a magistrate judge’s order or report and
+            recommendation filed under Fed. R. Civ. P. 72(a) or (b) may not exceed 15 pages
+            or 4,650 words. 13
+
+            The Tenth Circuit has said “a party’s objections to the magistrate judge’s report and
+
+ recommendation must be both timely and specific to preserve an issue for de novo review by the
+
+ district court or for appellate review.” 14 In order to be “specific” an objection to a R & R must
+
+ not be “too long, too verbose, too vague, and too repetitive”. 15 Two courts have found that
+
+ “objections that are 46 pages over the allowable page limit are not ‘specific.’” 16 Mr. Ferm’s
+
+ Objection is 77 pages, which is 62 pages above the page limit set by DUCivR 72-2. The
+
+
+
+
+ 9
+     Fed. R. Civ. P. 72(b)(2) (emphasis added).
+ 10
+      Nahno-Lopez v. Houser, 625 F.3d 1279, 1284 (10th Cir. 2010) (citing Fed.R.Civ.P. 83(a)(1)).
+  Chilelli v. Signify N. Am. Corp., No. 25-3031, 2026 WL 522562, at *1, n.2 (10th Cir. Feb. 25, 2026) (quoting
+ 11
+
+ Hernandez v. George, 793 F.2d 264, 266 (10th Cir. 1986)).
+ 12
+      Id. (quoting Smith v. Ford Motor Co., 626 F.2d 784, 796 (10th Cir. 1980)).
+ 13
+      DUCivR 72-2(a).
+ 14
+   United States v. One Parcel of Real Prop., With Buildings, Appurtenances, Improvements, & Contents, Known as:
+ 2121 E. 30th St., Tulsa, Oklahoma, 73 F.3d 1057, 1060 (10th Cir. 1996) (emphasis added).
+ 15
+      Allison v. Boulder Cnty., No. 24-1434, 2025 WL 2169439 at *1 (10th Cir. July 31, 2025).
+ 16
+   New York City Dist. Council of Carpenters Pension Fund v. Forde, 341 F. Supp. 3d 334 (S.D.N.Y. 2018),
+ abrogated on other grounds by Nambiar v. Cent. Orthopedic Grp., LLP, 158 F.4th 349 (2d Cir. 2025); Twin Star
+ Energy, LLC v. Bd. of Adjustment of the City of Castle Pines, No. 21-CV-01451-GPG-NRN, 2024 WL 939220 (D.
+ Colo. Feb. 2, 2024), appeal dismissed sub nom. Twin Star Energy, LLC v. Bd. of Adjustment of City of Castle Pines,
+ No. 24-1077, 2025 WL 2495581 (10th Cir. July 17, 2025).
+
+
+
+                                                                                                                  3
+Case 4:26-cv-00029-DN                 Document 80          Filed 08/25/26        PageID.1243           Page 4 of 11
+
+
+
+
+ Objection also shows signs of drafting by artificial intelligence. 17 Federal courts often strike
+
+ briefs that do not comply with local rules, which the Tenth Circuit has upheld. 18 Instead, this
+
+ order confine review to Mr. Ferm’s one meritorious objection.
+
+             In his Objection Mr. Ferm raises four objections he calls “fundamental legal errors.” 19
+
+ The only meritorious objection is Mr. Ferm’s third objection. Mr. Ferm’s third objection is: “the
+
+ Recommendation applies the wrong jurisdictional standard by failing to apply the Calder v.
+
+ Jones, 465 U.S. 783 (1984), ‘effects test,’ which governs specific jurisdiction where a defendant
+
+ intentionally directs conduct at the forum knowing the resulting injury will be suffered there by a
+
+ forum resident.” 20 Federal courts must “address jurisdictional issues first, before proceeding to
+
+ the merits” 21 because “a court must have jurisdiction before it can rule on the merits.” 22
+
+             The remainder of Mr. Ferm’s Objection is “too long, too verbose, too vague, and too
+
+ repetitive” 23 to be considered specific enough for de novo review. The last 37 pages of Mr.
+
+ Ferm’s objection devolves into a series of bullets points that are a clear example of “A.I. Slop.” 24
+
+
+ 17
+   Mr. Ferm “is cautioned against the possible use of artificial intelligence to draft memorandums.” Christoffersen v.
+ Nucor Corp., No. 4:25-CV-00118-DN-PK, 2026 WL 1623190, at *2 n.15 (D. Utah June 5, 2026); Carey v. Breakell,
+ No. 4:25-CV-00108-AMA-PK, 2026 WL 2199063, at *3 (D. Utah July 30, 2026) (“The Court does not take
+ suggestions of the improper use of artificial intelligence lightly.”); Hack v. Preston, No. 4:25-CV-00096-DN, 2026
+ WL 2279536, at *1 (D. Utah Aug. 7, 2026) (quoting Picon-Diaz v. Bondi, No. 25-9530, 2026 WL 412348, at *5
+ (10th Cir. Feb. 13, 2026)) (“The Tenth Circuit has held that while ‘[t]here is nothing inherently problematic with the
+ use of artificial intelligence in the practice of law[;] its careless use can waste both judicial resources and the
+ opposing party’s time and money, and it can damage the credibility of the legal system.’).
+ 18
+      Fox v. Noram Energy Corp., 198 F.3d 257 (10th Cir. 1999).
+ 19
+      Objection at 6.
+ 20
+      Id. at 8.
+ 21
+   Universitas Educ., LLC v. Avon Cap., LLC, 124 F.4th 1231, 1241 (10th Cir. 2024), cert. denied, 146 S. Ct. 95,
+ 223 L. Ed. 2d 9 (2025), reh'g denied, 146 S. Ct. 842, 223 L. Ed. 2d 252 (2025)
+ 22
+      Trackwell v. U.S. Gov't, 472 F.3d 1242, 1245 (10th Cir. 2007).
+ 23
+      Allison v. Boulder Cnty., No. 24-1434, 2025 WL 2169439 at *1 (10th Cir. July 31, 2025).
+ 24
+    World Econ. Forum, What Is “AI Slop”?, https://www.weforum.org/videos/ai-slop/ (last visited Aug. 11, 2026);
+ see also Lexos Media IP, LLC v. Overstock.com, Inc., No. 22-2324-JAR, 2026 WL 265581, at *12 (D. Kan. Feb. 2,
+ 2026) (citing Evan Gorelick, Vigilante Lawyers Expose the Rising Tide of A.I. Slop in Court Filings, N.Y. Times
+ (Nov. 11, 2025), at B3 (referencing lawyer and researcher Damien Charlotin’s attempt to create online databases
+ tracking cases that deal with fabricated cases generated by A.I. and noting at that time that he had documented 509
+
+
+                                                                                                                       4
+Case 4:26-cv-00029-DN                 Document 80           Filed 08/25/26       PageID.1244           Page 5 of 11
+
+
+
+
+        2.2 Personal Jurisdiction Exists Only as to the Signatories.
+
+             Mr. Ferm and Mr. Cindric both signed a Written Finder’s Fee Agreement
+
+ (“Agreement”). 25 According to the Agreement Global Oil would pay Mr. Ferm a fee upon “the
+
+ successful close of the Public Company Reverse Merger and financing.” 26 The Agreement
+
+ contains a forum selection clause that reads as follows:
+
+             GOVERNING LAW; VENUE, THIS AGREEMENT HAS BEEN EXECUTED
+             IN AND SHALL BE GOVERNED EXCLUSIVELY BY THE LAWS OF THE
+             STATE OF UTAH, U.S.A. WITHOUT GIVING EFFECTS TO THE CONFLICT
+             OF LAWS RULES THEREOF OR OF ANY STATE, VENUE FOR ANY
+             ACTION BROUGHT HEREUNDER OR PURSUANT TO THIS AGREEMENT
+             SHALL BE PROPER ONLY IN A FEDERAL OR STATE COURT IN
+             WASHINGTON COUNTY, UTAH USA. 27
+
+             Judge Kohler identified a total of three signatories: Global Oil, Richard Cindric
+
+ (collectively “Global Defendants”), and Mr. Ferm. 28 Judge Kohler’s R & R found that because
+
+ of the forum-selection clause “the Court may properly exercise jurisdiction over the Global
+
+ Defendants based on the forum selection clause.” 29
+
+             Turning to the non-signatory defendants, Judge Kohler found “the Court cannot conclude
+
+ that this language is broad enough to bind non-signatories to the forum selection clause without
+
+ offending due process.” 30 Judge Kohler then applied the continuing relationships test 31 and the
+
+
+
+
+ such cases)); Kim v. Massachusetts Coll. of Pharmacy & Health Scis., No. 25-CV-13928-WGY, 2026 WL 1102860
+ (D. Mass. Mar. 23, 2026) (“Much of this appears to be so-called ‘AI slop,’ that this Court, upon reflection, finds was
+ intended to harass, disparage and intimidate.”)
+ 25
+      Exhibit A to the Complaint at 14, docket no. 1-1, filed March 16, 2026.
+ 26
+      Id. at 4.
+ 27
+      Id. at 8.
+ 28
+      R & R at 7.
+ 29
+      Id.
+ 30
+      Id.
+ 31
+      Id. at 10.
+
+
+
+                                                                                                                      5
+Case 4:26-cv-00029-DN                  Document 80            Filed 08/25/26   PageID.1245           Page 6 of 11
+
+
+
+
+ harmful effects test 32 to determine whether there were enough minimum contacts to extend
+
+ personal jurisdiction to the non-signatories. Judge Kohler found no personal jurisdiction and
+
+ ultimately recommended “dismissal of Plaintiff’s claims against Agritech, Gordon, Organ, and
+
+ Jagpal without prejudice for lack of personal jurisdiction.” 33
+
+             Mr. Ferm only disagrees with Judge Kohler’s analysis of the continuing relationships
+
+ test: “The R & R fails to apply the Supreme Court’s controlling purposeful-direction test . . .
+
+ Defendants intentionally targeted a Utah resident under a Utah contract, knowing the harm
+
+ would be felt in Utah. This satisfies all three Calder elements.” 34 Mr. Ferm repeatedly 35 argues
+
+ that Judge Kohler’s analysis is wrong because in Pohl, Inc. v. Webelhuth 36 the Utah Supreme
+
+ Court held “Utah’s long-arm statute extends to the full limits of due process and expressly
+
+ incorporated the United States Supreme Court’s Calder v. Jones ‘effects test.’” 37
+
+             Mr. Ferm’s reliance on Pohl is misplaced. This is because when a state’s long-arm
+
+ “confers the maximum jurisdiction permissible consistent with the Due Process Clause” then the
+
+ “first, statutory, inquiry effectively collapses into the second, constitutional, analysis.” 38 Since
+
+ Utah’s long-arm statute stretches to the constitutional limit, citing Pohl doesn’t add anything.
+
+ Pohl just brings us back to the same due process question Judge Kohler attempted to address
+
+
+
+ 32
+      Id. at 11.
+ 33
+      Id. at 13.
+ 34
+      Objection at 8 (emphasis added).
+ 35
+      Id. at 8, 14, 22, 24-25, 28-29, 35-36, 50, 54, 63-65, 71-73, 76-77.
+ 36
+      2008 UT 89, 201 P.3d 944.
+ 37
+      Objection at 76.
+ 38
+   Dudnikov v. Chalk & Vermilion Fine Arts, Inc., 514 F.3d 1063 (10th Cir. 2008); Carnrick v. Riekes Container
+ Corp., No. 15-CV-01899-CMA-KMT, 2016 WL 740998 (D. Colo. Feb. 24, 2016) (quoting Dudnikov v. Chalk &
+ Vermilion Fine Arts, Inc., 514 F.3d 1063, 1070 (10th Cir. 2008)) (“Because Colorado’s long-arm statute ‘confers the
+ maximum jurisdiction permissible consistent with the Due Process Clause [of the Fourteenth Amendment to the
+ United States Constitution],’ a personal jurisdiction analysis under Colorado’s long-arm statue is analytically
+ identical to a due process analysis under the Fourteenth Amendment.”)
+
+
+
+                                                                                                                  6
+Case 4:26-cv-00029-DN              Document 80          Filed 08/25/26        PageID.1246          Page 7 of 11
+
+
+
+
+ with the continuing relationships test. There is no reason to focus on Pohl when the R & R
+
+ applies Calder.
+
+             Mr. Ferm does make a non-Pohl related argument based on Calder:
+
+             Under Calder, specific jurisdiction exists where a defendant (1) commits
+             intentional acts, (2) expressly aimed at the forum, and (3) with knowledge that the
+             brunt of the harm will be felt in the forum. . . . Plaintiff’s allegations satisfy all
+             three elements: Defendants intentionally entered a Utah-governed contract with a
+             Utah resident; they directed communications, negotiations, and performance into
+             Utah; they accepted the benefits of Utah-based performance; and they
+             intentionally repudiated the contract knowing the economic injury would be
+             suffered in Utah. 39
+
+             This argument is a conclusory and threadbare recitation of Calder, and the argument does
+
+ not cite where these conclusory facts exist in the record. “‘Threadbare recitals of the elements of
+
+ a cause of action, supported by mere conclusory statements’ do not count as well-pleaded
+
+ facts.” 40
+
+             A de novo review of the Complaint and the Fee Agreement has been conducted. After
+
+ reviewing both, Judge Kohler is correct that “even affording Plaintiff a liberal reading of his
+
+ Complaint, the allegations that Defendants expressly aimed their conduct at Utah are sparse, if
+
+ they exist at all,” 41 and “[t]he fact that the Global Defendants entered into a legal relationship
+
+ with a Utah resident does not establish sufficient contacts to satisfy the purposeful direction
+
+ requirement as to the remaining Defendants.” 42 “In contrast, it was Plaintiff who reached out to
+
+
+
+
+ 39
+      Objection at 29.
+ 40
+   Warnick v. Cooley, 895 F.3d 746, 751 (10th Cir. 2018) (quoting Bell Atl. Corp. v. Twombly, 550 U.S. 544, 678
+ (2007)).
+ 41
+      R & R at 12.
+ 42
+      Id. at 10.
+
+
+
+                                                                                                                  7
+Case 4:26-cv-00029-DN                Document 80      Filed 08/25/26     PageID.1247       Page 8 of 11
+
+
+
+
+ the Agritech Defendants and any potential ongoing relationships amongst Defendants would
+
+ have been largely based in Canada.” 43
+
+             Mr. Ferm does not point to allegations in the Complaint where the non-signatories
+
+ reached out to him. Nor were any such facts found. The Objection alleges misapplication by the
+
+ R & R but presents no meritorious argument that Judge Kohler applied the Calder effects test
+
+ incorrectly. The absence of citations to facts in the Objection supports Judge Kohler’s finding
+
+ that such facts are “sparse, if they exist at all.” 44
+
+             Judge Kohler’s recommendation that the forum selection clause only confers jurisdiction
+
+ as to the signatories is ADOPTED. Defendants Agritech, Mr. Gordon, Mr. Organ, and Mr.
+
+ Jagpal are DISMISSED WITHOUT PREJUDICE for lack of personal jurisdiction.
+
+        2.3 Mr. Ferm’s Objection is Not Specific Enough to Overturn the R & R
+
+             Personal jurisdiction is established over the Global Defendants as signatories of the
+
+ Settlement Agreement. In the Complaint, Mr. Ferm raises claims of (1) anticipatory breach of
+
+ contract; 45 (2) unjust enrichment/quantum meruit; 46 and (3) civil conspiracy 47 against the Global
+
+ Defendants. 48 Judge Kohler recommends dismissal of each of these claims. 49
+
+             Mr. Ferm objects to the dismissal of his claims. In an “opening statement” section Mr.
+
+ Ferm makes clear his objections to Judge Kohler’s recommendation for dismissal of his claims:
+
+             Because the R&R treats the claim as if no breach can exist until the merger closes,
+             it necessarily concludes that the claim is “premature,” that no contractual
+             obligation was repudiated, that no tortious interference could occur, that no unjust
+
+ 43
+      Id. at 11.
+ 44
+      Id. at 12.
+ 45
+      Complaint at 8.
+ 46
+      Id. at 11-12.
+ 47
+      Id. at 22-24.
+ 48
+      R & R at 13-15; Complaint at 8-25.
+ 49
+      R & R at 13-16.
+
+
+
+                                                                                                       8
+Case 4:26-cv-00029-DN                 Document 80               Filed 08/25/26   PageID.1248   Page 9 of 11
+
+
+
+
+             enrichment exists, and that no conspiracy can lie. Each of these conclusions flows
+             directly from the same initial mistake: the R&R’s refusal to apply Utah’s
+             anticipatory-breach doctrine, which holds that repudiation is actionable
+             immediately and that a party cannot rely on the non-occurrence of a condition it
+             has itself prevented. 50
+
+ Once the Objection moves past its opening salvo, the Objection devolves into 29 pages of bullet
+
+ point lists that in no way is “specific [enough] to preserve an issue for de novo review by the
+
+ district court.” 51 Mr. Ferm’s argument is either a threadbare recitation of his anticipatory breach
+
+ claim; 52 attempts to raise arguments that were not presented to Judge Kohler; 53 or just one-to-
+
+ seven-word bullet points. 54 These bullet points do not meet the specificity requirement
+
+ articulated in Rule 72(b)(2). The inquiry stops here. Proceeding any further requires the reader of
+
+ Mr. Ferm’s Objection to interpret his arguments for him, which turns the reader into a legal
+
+ advocate.
+
+             Mr. Ferm is a pro se litigant, and while it is true that “we are lenient with pro se litigants,
+
+ we will not construct arguments for [him].” 55 It was Mr. Ferm’s responsibility to produce an
+
+ objection that follows Rule 72(b)(2); that follows Local Rule DUCivR 72-2(a); that makes
+
+ specific legal objections against Judge Kohler’s R & R; and that points to facts found in the
+
+ record. Mr. Ferm instead offers cryptic bullet points for the reader to construe and “the court
+
+ cannot take on the responsibility of serving as the litigant’s attorney in constructing arguments
+
+
+
+
+ 50
+      Objection at 10.
+ 51
+      One Parcel of Real Prop., 73 F.3d at 1060.
+ 52
+      Objection at 38-39.
+ 53
+      Id. at 39-41.
+ 54
+      Id. at 65-66.
+ 55
+      Jiron v. Swift, 671 F. App'x 705, 706 (10th Cir. 2016).
+
+
+
+                                                                                                           9
+Case 4:26-cv-00029-DN                 Document 80           Filed 08/25/26         PageID.1249           Page 10 of 11
+
+
+
+
+ and searching the record.” 56 A long and verbose objection, however forcefully stated, cannot
+
+ substitute for the specific legal argument Rule 72 requires.
+
+            Federal courts are obligated to review pro se filings generously; they do not rewrite
+
+ filings for the pro se party. Mr. Ferm has not met his Rule 72(b) burden in his Objection.
+
+ Therefore, Judge Kohler’s R & R is ADOPTED IN FULL.
+
+                                                       3   ORDER
+
+            IT IS HEREBY ORDERED that Magistrate Judge Paul Kohler’s Report and
+
+ Recommendation 57 is ADOPTED IN FULL.
+
+            IT IS FURTHER ORDERED:
+
+                     1. Defendant’s Motion to Dismiss for Lack of Jurisdiction and Motion to
+
+                          Dismiss for Failure to State a Claim is GRANTED; 58
+
+                     2. Mr. Ferm’s First Motion for Summary Judgment is DENIED AS MOOT; 59
+
+                     3. Mr. Ferm’s Second Motion for Summary Judgment is DENIED AS MOOT; 60
+
+                     4. Mr. Ferm’s Third Motion for Summary Judgment is DENIED AS MOOT; 61
+
+                     5. Mr. Ferm’s Motion to Combine Dispositive Motions for Hearing is DENIED
+
+                          AS MOOT; 62
+
+
+
+
+ 56
+      Garrett v. Selby Connor Maddux & Janer, 425 F.3d 836, 840 (10th Cir. 2005).
+ 57
+      Report and Recommendation, docket no. 78, filed June 10, 2026.
+ 58
+      Motion to Dismiss for Lack of Jurisdiction and for Failure to State a Claim, docket no. 42, filed April 28, 2026.
+ 59
+      Motion for Summary Judgment, docket no. 57, filed May 6, 2026.
+ 60
+      Motion for Summary Judgment, docket no. 62, filed May 12, 2026.
+ 61
+      Motion for Summary Judgment, docket no. 63, filed May 13, 2026.
+ 62
+      Motion to Combine Dispositive Motions for Hearing, docket no. 64, filed May 13, 2026.
+
+
+
+                                                                                                                          10
+Case 4:26-cv-00029-DN                Document 80          Filed 08/25/26        PageID.1250          Page 11 of 11
+
+
+
+
+                     6. Defendant’s Motion to Stay Briefing Pending Ruling on [42] Motion to
+
+                         Dismiss is DENIED AS MOOT; 63
+
+                     7. Mr. Ferm’s Motion for Sanctions is DENIED AS MOOT; 64
+
+                     8. Defendant’s Motion to Strike [62] Motion for Summary Judgment, [57]
+
+                         Motion for Summary Judgment, [63] Motion for Summary Judgment is
+
+                         DENIED AS MOOT; 65
+
+                     9. This matter is DISMISSED WITHOUT PREJUDICE;
+
+                     10. The Clerk of Court is Ordered to CLOSE THE CASE.
+
+            Signed August 24, 2026.
+
+                                                        BY THE COURT
+
+
+                                                        ________________________________________
+                                                        David Nuffer,
+                                                        United States District Judge
+
+
+
+
+ 63
+      Motion to Stay Briefing Pending Ruling on [42] Motion to Dismiss, docket no. 66, filed May 15, 2026.
+ 64
+      Motion for Sanctions, docket no. 69, filed May 15, 2026.
+ 65
+    Defendant’s Motion to Strike [62] Motion for Summary Judgment, [57] Motion for Summary Judgment, [63]
+ Motion for Summary Judgment, docket no. 67, filed May 19, 2026.
+
+
+
+                                                                                                              11
+

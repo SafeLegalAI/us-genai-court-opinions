@@ -1,0 +1,695 @@
+UNITED STATES DISTRICT COURT
+SOUTHERN DISTRICT OF NEWYORK
+MERCY WELLINGTON,
+Plaintiff,
+-against-
+THE CITY OF NEW YORK, et al.,
+Defendants.
+Case No. 1:24-cv-08743 (JLR)
+OPINION AND ORDER
+JENNIFER L. ROCHON, United States District Judge:
+Plaintiff Mercy Wellington (“Plaintiff” or “Wellington”) brings this action pro se against
+Defendants City of New York (the “City” or “New York City”), New York City Police
+Department (the “NYPD”), Lt. Darryl E. Fontaine (“Fontaine”), Police Officer Rawsan A.
+Jackson (“Jackson”), Police Officer Kyle M. LaGuardia (“LaGuardia”), Police Officer Kelvin
+Villegasalmazo (“Villegasalmazo”), Police Officer Rustam Mukhutdinov (“Mukhutdinov”),
+Perry Perlmutter (“Perlmutter”), Angela Mortimer (“Mortimer”), and Lynn Gore (“Gore”)
+(collectively the “Defendants”), alleging that Defendants’ conduct in relation to her eviction and
+arrest violated state and federal laws. Defendants move to dismiss all claims pursuant to Federal
+Rule of Civil Procedure (“Rule”) 12(b)(6).1
+For the following reasons, the Court GRANTS the motions to dismiss.
+1
+The City, Perlmutter, Mortimer, Gore, Jackson, LaGuardia, Villegasalmazo, and Mukhutdinov
+filed a joint motion to dismiss, see Dkt. 45, and Fontaine subsequently filed a motion to dismiss,
+Dkt. 83.
+Case 1:24-cv-08743-JLR Document 90 Filed 04/30/26 Page 1 of 282
+BACKGROUND
+The following facts are taken from the Amended Complaint and are accepted as true for
+purposes of the present motion. Chambers v. Time Warner, Inc., 282 F.3d 147, 152 (2d Cir.
+2002).
+I. Factual Background
+This action arises out of Wellington’s eviction (“log out”), from the homeless shelter
+Harmonia and her subsequent arrest on August 15, 2023. Wellington, a 54-year-old woman
+experiencing homelessness, resided at Harmonia adult homeless shelter with her three children
+from August 14, 2022, to August 15, 2023. See Dkt. 37 (“Amended Complaint” or “Am.
+Compl.”) ¶ 25; id. Ex. A ¶ 28. Harmonia is operated by Services for the Underserved (“S:US”),
+a private entity, which coordinates with the New York City Department of Homeless Services
+(“DHS”). Am. Compl. ¶ 25.
+The events leading to Wellington’s eventual log out and arrest began on August 12, 2023.
+On that day, a Harmonia staff member informed Wellington that she had been logged out
+because she had not signed the night sheet as mandated by Harmonia’s rules. Id. ¶ 26.
+Following a discussion with the staff, she was permitted to remain at Harmonia. Id. ¶ 30. Then,
+on August 14, 2023, Harmonia staff told Wellington that she needed to vacate the premises. Id.
+¶¶ 32-33. Wellington again refused to leave, and went to speak with Gore, an Administrative
+Assistant at Harmonia. Id. ¶ 34. Gore informed Wellington that Nelly Vasquez, a non-defendant
+DHS official, emailed the Harmonia staff that Wellington had been logged out. Id. ¶¶ 34-35.
+After this conversation, Wellington emailed Vasquez requesting clarification regarding the log
+out. Id. Vasquez responded the next day, informing Wellington that she had been properly
+logged out from Harmonia. Id. ¶ 35.
+Case 1:24-cv-08743-JLR Document 90 Filed 04/30/26 Page 2 of 283
+On August 15, 2023, Wellington went to speak with Mortimer, the program director at
+Harmonia, to ask why she had been logged out. Id. ¶ 37. Mortimer explained that Wellington
+had been logged out because the shelter was not receiving funds for Wellington and her children
+to stay at Harmonia. Id. While Wellington was speaking with Mortimer, police officers
+LaGuardia, Villegasalmazo, and Mukhutdinov arrived at Harmonia. Id. ¶¶ 38-39. Upon their
+arrival, Mortimer told the officers that Wellington had been logged out of the shelter but still
+refused to leave. Id. ¶ 39. The officers investigated the situation, speaking with Wellington and
+Mortimer. Id. ¶¶ 39-41. Harmonia staff provided the officers with documentation showing that
+Wellington was in violation of the DHS rules for staying in the shelter. Id. ¶ 42. After
+reviewing the documents, the officers told Wellington that she was trespassing and needed to
+leave Harmonia. Id. ¶ 43. Wellington then asked to speak with the officers’ supervisor,
+Fontaine, who arrived shortly thereafter. Id.
+After a private conversation with Mortimer, Fontaine told Wellington that he had been
+shown documentation indicating that she was logged out and had to leave the premises. Id. ¶ 44.
+Wellington asked one of her children to contact the office of a local councilman and Fontaine
+then ordered the other officers to arrest Wellington. Id. ¶ 47-48. Wellington again refused to
+comply, so one of the officers handcuffed her and escorted her to a police car. Id. ¶¶ 49-50.
+While in the police car, Wellington asked Fontaine to loosen her handcuffs because “it was really
+tight on her wrist.” Id. ¶ 53. Fontaine refused, saying that “it wasn’t meant to feel good” and
+slammed the car door. Id. Wellington was then taken to a local precinct and held in a jail cell
+for 1-2 hours. Id. ¶ 57.
+Wellington subsequently filed multiple state court and administrative suits, including
+requesting a State Fair Hearing on August 21, 2023, id. ¶ 71, filing an illegal lockout case in
+New York City Civil Court on August 28, 2023, id. ¶ 72, filing a subsequent action in New York
+Case 1:24-cv-08743-JLR Document 90 Filed 04/30/26 Page 3 of 284
+State Supreme Court challenging the log out, Dkt. 47-4, and filing a claim with the Comptroller’s
+Office on September 25, 2023, Am. Compl. ¶ 73. The New York City Civil Court case was
+dismissed for lack of subject matter jurisdiction on September 13, 2023. Dkt. 47-1.2
+On
+November 17, 2023, the New York State Supreme Court dismissed Wellington’s claims. Dkts.
+47-3, 47-4 (transcript of state court hearing and ruling). Wellington does not indicate the
+outcome of the comptroller decision.
+II. Procedural Background
+Wellington commenced this action on November 13, 2024, naming 22 defendants. See
+generally Dkt. 1 (“Compl.”). On January 7, 2025, the Court dismissed several defendants from
+the suit on the grounds that they were not suable entities, ordered the New York City Law
+Department to identify the John Doe defendants named in the suit, and granted Wellington
+permission to proceed in forma pauperis. Dkt. 6. In response to this order, the New York City
+Law Department identified Fontaine, Jackson, LaGuardia, Villegasalmazo, and Mukhutdinov as
+the responding officers. Dkt. 24.
+Wellington filed the Amended Complaint on July 9, 2025, bringing federal and state law
+claims against the City, the NYPD, Fontaine, Jackson, LaGuardia, Villegasalmazo,
+Mukhutdinov, Perlmutter, Mortimer, and Gore. See generally Am. Compl. Wellington brings
+seventeen different causes of action against these ten defendants. See Am. Compl. ¶¶ 75-171.
+The causes of action included federal law claims brought under 42 U.S.C. § 1983, see id. ¶¶ 75-
+101, 120-133; a state constitutional claim, see id. ¶¶ 158-163; and claims alleging violation of
+2
+The Court may take judicial notice of these state court decisions. See Pani v. Empire Blue
+Cross Blue Shield, 152 F.3d 67, 75 (2d Cir. 1998) (“It is well established that a district court may
+rely on matters of public record in deciding a motion to dismiss under Rule 12(b)(6), including
+case law and statutes.”); Williams v. New York City Hous. Auth., 816 F. App’x 532, 534 (2d Cir.
+2020) (summary order) (“The district court did not err in considering [an] Article 78 petition and
+state court decision because they were public records, and thus appropriate for judicial notice.”).
+Case 1:24-cv-08743-JLR Document 90 Filed 04/30/26 Page 4 of 285
+local city laws, see id. ¶¶ 134-157, and state common law, see id. ¶¶ 102-119, 164-168.
+Wellington also brings claims for “transitional homelessness,” “chronic homelessness,” and
+“duress.” Id. ¶¶ 169-171. On July 22, 2025, the Court ordered the U.S. Marshals to serve the
+Amended Complaint on the Defendants. See Dkt. 40. Prior to filing the present motion, all
+Defendants except for Fontaine had either been served or waived service. Dkt. 78.
+On August 25, 2025, all Defendants other than Fontaine filed a joint motion to dismiss
+the Amended Complaint in its entirety. Dkt. 45; Dkt. 47; Dkt. 48 (“Br.”). These Defendants
+subsequently requested that the Court stay discovery pending resolution of the motion to dismiss,
+see Dkts. 55, 57, which the Court granted on September 24, 2025, see Dkt. 60. Wellington filed
+her opposition on October 7, 2025, see Dkt. 65 (“Opp.”), and Defendants filed a reply on
+November 20, 2025, see Dkt. 77 (“Reply”).
+Fontaine waived service on October 15, 2025. See Dkt. 68. He then filed his motion to
+dismiss on February 5, 2026. Dkt. 83; Dkt. 85 (“Fontaine Br.”). Wellington filed her opposition
+on March 24, 2026, Dkt. 88 (“Fontaine Opp.”), and Fontaine replied on April 8, 2026, Dkt. 89
+(“Fontaine Reply”). Both motions are fully briefed.
+LEGAL STANDARD
+To survive a motion to dismiss under Rule 12(b)(6), a pleading “must contain sufficient
+factual matter, accepted as true, to ‘state a claim to relief that is plausible on its face.’” Ashcroft
+v. Iqbal, 556 U.S. 662, 678 (2009) (quoting Bell Atl. Corp. v. Twombly, 550 U.S. 544, 570
+(2007)). The Court accepts as true all non-conclusory allegations of fact and “draw[s] all
+reasonable inferences in the [nonmovant]’s favor.”3
+Francis v. Kings Park Manor, Inc., 992
+3
+Defendants ask the Court to disregard the declarations of Jordan Wilson, see Dkt. 62, Nyah
+Wilson, see Dkt. 63, and Ryan Wilson, see Dkt. 64, filed in support of Wellington’s opposition
+to the motion to dismiss. The Court declines to do so. When deciding a motion to dismiss a pro
+Case 1:24-cv-08743-JLR Document 90 Filed 04/30/26 Page 5 of 286
+F.3d 67, 72 (2d Cir. 2021) (en banc) (quoting Austin v. Town of Farmington, 826 F.3d 622, 625
+(2d Cir. 2016)). But a court need not “accept as true a legal conclusion couched as a factual
+allegation.” Iqbal, 556 U.S. at 678 (quoting Twombly, 550 U.S. at 555). “[T]he court’s task is to
+assess the legal feasibility of the [allegations]; it is not to assess the weight of the evidence that
+might be offered on either side[.]” Lynch v. City of New York, 952 F.3d 67, 75 (2d Cir. 2020).
+Determining whether a pleading states a claim is “a context-specific task that requires the
+reviewing court to draw on its judicial experience and common sense.” Iqbal, 556 U.S. at 679.
+Where a plaintiff proceeds pro se, as in this case, the Court construes the pleadings
+liberally, Harris v. Mills, 572 F.3d 66, 72 (2d Cir. 2009), and interprets them “to raise the
+strongest arguments that they suggest,” Triestman v. Fed. Bureau of Prisons, 470 F.3d 471, 474
+(2d Cir. 2006) (per curiam) (emphasis and citation omitted). However, “the liberal treatment
+afforded to pro se litigants does not exempt a pro se party ‘from compliance with relevant rules
+of procedural and substantive law.’” Bell v. Jendell, 980 F. Supp. 2d 555, 559 (S.D.N.Y. 2013)
+(italics added) (quoting Maisonet v. Metro. Hosp. & Health Hosp. Corp., 640 F. Supp. 2d 345,
+347 (S.D.N.Y. 2009)).
+DISCUSSION
+Defendants seek to dismiss all the federal claims contained in the Amended Complaint
+because the NYPD is a non-suable entity, the State of New York is entitled to immunity, and the
+pleadings do not allege claims under Section 1983 against Perlmutter, Mortimer, Jackson,
+LaGuardia, Villegasalmazo, Mukhutdinov, the City, and Fontaine. See Br. at 2; Fontaine Br. at
+se complaint, the court “may consider factual allegations made by a pro se party in [her] papers
+opposing the motion.” Walker v. Schult, 717 F.3d 119, 122 n.1 (2d Cir. 2013).
+Case 1:24-cv-08743-JLR Document 90 Filed 04/30/26 Page 6 of 287
+1.4
+Defendants also argue that the Court should dismiss the state law claims on the merits or at
+least decline to assert supplemental jurisdiction. Br. at 23-24. For the following reasons, the
+Court dismisses all of the federal claims and declines to exercise supplemental jurisdiction over
+the state claims.
+I. Nonexistent Legal Authority
+Before this Court begins its analysis, it must address Wellington’s pervasive citations to
+non-existent authority in her briefing. This is unacceptable.
+Defendants point out that Wellington’s initial opposition brief contains six “purported
+authorities that, on information and belief, do not appear in any legal database.” Reply at 1-2.
+The Court was likewise unable to locate these authorities, which seem to be cases that were
+“hallucinated” using an artificial intelligence tool. “Without question, it is improper and
+unacceptable for litigants — including pro se litigants — to submit ‘non-existent judicial
+opinions with fake quotes and citations.’” Anonymous v. New York City Dep’t of Educ., No. 24-
+cv-04232 (JLR), 2024 WL 3460049, at *7 (S.D.N.Y. July 18, 2024) (quoting Mata v. Avianca,
+Inc., 678 F. Supp. 3d 443, 448 (S.D.N.Y. 2023)); see also Kotler v. Jubert, 986 F.3d 147, 156
+(2d Cir. 2021) (“[S]olicitude for pro se litigants does not require [a court] to excuse failure to
+comply with understandable procedural rules[.]”); LoSacco v. City of Middletown, 71 F.3d 88, 92
+(2d Cir. 1995) (noting that it is “especially true in civil litigation” that pro se litigants must learn
+and comply with procedural rules).
+Sanctions may be imposed for submitting false and nonexistent legal authority to the
+Court. See, e.g., Park v. Kim, 91 F.4th 610, 613-16 (2d Cir. 2024) (per curiam) (referring
+4
+Although Fontaine filed a separate motion to dismiss, his arguments echo those made by the
+other police officer defendants. Compare Br. at 9-21, with Fontaine Br. at 4-17. Accordingly,
+the Court analyzes the two motions together, unless otherwise noted.
+Case 1:24-cv-08743-JLR Document 90 Filed 04/30/26 Page 7 of 288
+attorney to Court’s Grievance Panel where her brief, drafted in reliance on ChatGPT, included
+citations to fake opinions); Mata, 678 F. Supp. 3d at 459-66 (sanctioning counsel for similar
+conduct). That said, the Court is mindful of its “obligat[ion] to afford a special solicitude to pro
+se litigants.” Rosa v. Doe, 86 F.4th 1001, 1007 (2d Cir. 2023) (citation omitted). Therefore, the
+Court declines to sanction Plaintiff at this time and instead warns Plaintiff that any further
+misconduct in the future will not be tolerated.
+II. Claims against NYPD and the State of New York
+Moving to the merits, the Court will dismiss all claims against Defendant NYPD because
+it is not a suable entity. The New York City Charter provides that “[a]ll actions and proceedings
+for the recovery of penalties for the violation of any law shall be brought in the name of the city
+of New York and not in that of any agency, except where otherwise provided by law.” N.Y.C.
+Charter § 396. “Section 396 of the Charter has been construed to mean that New York City
+departments, as distinct from the City itself, lack the capacity to be sued.” Ximines v. George
+Wingate High Sch., 516 F.3d 156, 160 (2d Cir. 2008). Thus, courts have repeatedly held that the
+NYPD is a “non-suable agency of the City.” See, e.g., Jenkins v. City of New York, 478 F.3d 76,
+93 n.19 (2d Cir. 2007); see also Trujillo v. City of New York, No. 14-cv-08501 (PGG), 2016 WL
+10703308, at *5-6 (S.D.N.Y. Mar. 29, 2016) (collecting cases and holding that “[s]ince the
+NYPD is a non-suable entity, all claims against the NYPD will be dismissed”), aff’d, 696 F.
+App’x 560 (2d Cir. 2017) (summary order); E. Coast Novelty Co. v. City of New York, 781 F.
+Supp. 999, 1010 (S.D.N.Y. 1992) (“As an agency of the City, the [NYPD] is not a suable
+entity.”). Wellington does not identify any authority to the contrary or even address this
+argument in her opposition brief. Accordingly, all claims against Defendant NYPD are
+dismissed.
+Case 1:24-cv-08743-JLR Document 90 Filed 04/30/26 Page 8 of 289
+Furthermore, Wellington’s claim against the State of New York, Am. Compl. ¶¶ 129-33,
+must be dismissed because the State of New York is entitled to sovereign immunity. “‘[A]s a
+general rule, state governments may not be sued in federal court unless they have waived their
+Eleventh Amendment immunity,’ or unless Congress has ‘abrogated the states’ Eleventh
+Amendment immunity[.]’” Gollomp v. Spitzer, 568 F.3d 355, 366 (2d Cir. 2009) (alteration
+adopted) (quoting Woods v. Rondout Valley Sch. Dist. Bd. of Educ., 466 F.3d 232, 236 (2d Cir.
+2006)). New York has not waived its Eleventh Amendment immunity to suit in federal court,
+and Congress “d[id] not abrogate sovereign immunity” in enacting 42 U.S.C. § 1983. Mallet v.
+New York State Dep’t of Corr. & Cmty. Supervision, 126 F.4th 125, 138 (2d Cir. 2025)
+(collecting cases). Plaintiff’s Section 1983 claims against the State of New York are therefore
+barred by the Eleventh Amendment and are dismissed, just as the Court previously dismissed
+this claim in the context of the initial Complaint. See Dkt. 6 at 3.
+III. Federal Law Claims Against the Remaining Individual Defendants
+Wellington brings several claims under 42 U.S.C. § 1983 against the remaining
+Defendants. See Am. Compl. ¶¶ 75-101, 120-133. Under Section 1983, “[e]very person who,
+under color of any statute, ordinance, regulation, custom, or usage, of any State . . ., subjects, or
+causes to be subjected, any citizen of the United States or other person within the jurisdiction
+thereof to the deprivation of any rights, privileges, or immunities secured by the Constitution and
+laws, shall be liable to the party injured in an action at law, suit in equity, or other proper
+proceeding for redress.” 42 U.S.C. § 1983. “In order to maintain a section 1983 action, two
+essential elements must be present: (1) the conduct complained of must have been committed by
+a person acting under color of state law; and (2) the conduct complained of must have deprived a
+person of rights, privileges, or immunities secured by the Constitution or laws of the United
+States.” Pitchell v. Callan, 13 F.3d 545, 547 (2d Cir. 1994).
+Case 1:24-cv-08743-JLR Document 90 Filed 04/30/26 Page 9 of 2810
+Defendants argue the Amended Complaint does not plausibly allege that (1) Perlmutter,
+Mortimer, and Gore, who worked for S:US, acted under the color of state law, Br. at 21-22; (2)
+officers Jackson, LaGuardia, Villegasalmazo, Mukhutdinov, and Fontaine’s conduct violated
+Wellington’s constitutional rights, Br. at 9-21; Fontaine Br. at 4-15; or (3) the City had a custom
+or policy that caused a deprivation of her constitutional rights, necessary for any Monell claim
+against a municipality, Br. at 5-6. The Court agrees.
+A. Perlmutter, Mortimer, and Gore
+First, the Amended Complaint does not plausibly allege that Perlmutter, Mortimer, and
+Gore, employees of the private entity S:US, acted “under color of state law.” Pitchell, 13 F.3d at
+547. To act under color of state law, the defendant must “have exercised power ‘possessed by
+virtue of state law and made possible only because the wrongdoer is clothed with the authority of
+state law.’” West v. Atkins, 487 U.S. 42, 49 (1988) (quoting United States v. Classic, 313 U.S.
+299, 326 (1941)). “In analyzing whether a private entity acts under color of state law for
+purposes of § 1983,” a court begins “‘by identifying the specific conduct of which the plaintiff
+complains,’ rather than the general characteristics of the entity.” Fabrikant v. French, 691 F.3d
+193, 207 (2d Cir. 2012) (quoting Am. Mfrs. Mut. Ins. Co. v. Sullivan, 526 U.S. 40, 51 (1999)).
+For purposes of Section 1983, a private entity acts under color of state law “(1) when the entity
+acts pursuant to the coercive power of the state or is controlled by the state; (2) when the state
+provides significant encouragement to the entity, the entity is a willful participant in joint activity
+with the state, or the entity’s functions are entwined with state policies; or (3) when the entity has
+been delegated a public function by the state.” Id. (citation modified) (quoting Sybalski v. Indep.
+Grp. Home Living Program, Inc., 546 F.3d 255, 257 (2d Cir. 2008)). “The fundamental question
+under each test is whether the private entity’s challenged actions are ‘fairly attributable’ to the
+state.” Id. (quoting Rendell-Baker v. Kohn, 457 U.S. 830, 838 (1982)).
+Case 1:24-cv-08743-JLR Document 90 Filed 04/30/26 Page 10 of 2811
+Here, the parties do not dispute that Perlmutter, Mortimer, and Gore were employed by
+the private entity, S:US. Br. at 21; Opp. at 12, and their relevant conduct included logging out
+Wellington and then seeking police assistance. These are not actions “fairly attributable” to the
+state. Fabrikant, 691 F.3d at 207. There are no facts in the Amended Complaint that plausibly
+allege that these actions were compelled by the City. See Blum v. Yaretsky, 457 U.S. 991, 1004
+(1982) (“[A] State normally can be held responsible for a private decision only when it has
+exercised coercive power or has provided such significant encouragement, either overt or covert,
+that the choice must in law be deemed to be that of the State.”). Moreover, allegations that S:US
+relied on government funding or was regulated by DHS log out rules do not mean its employees
+acted under state law. Fabrikant, 691 F.3d at 207 (“[A] private entity does not become a state
+actor for purposes of § 1983 merely on the basis of ‘the private entity’s creation, funding,
+licensing, or regulation by the government.’” (quoting Cranley v. Nat’l Life Ins. Co. of Vt., 318
+F.3d 105, 112 (2d Cir. 2003))); Polk Cnty. v. Dodson, 454 U.S. 312, 318 (1981) (holding that a
+public defender paid for by public funding was not a state actor because, “[e]xcept for the source
+of payment,” the defendant and his clients’ relationship was “identical to that existing between
+any other lawyer and client”). Lastly, courts have recognized that “the provision of low-cost
+supportive housing is not a ‘public function’ within the meaning of section 1983 because ‘the
+provision of housing, for the poor or for anyone else, has never been the exclusive preserve [of]
+the state.’” George v. Pathways to Housing, Inc., No. 10-cv-09505 (ER), 2012 WL 2512964, at
+*4 (S.D.N.Y. June 29, 2012) (collecting cases) (quoting Young v. Halle Hous. Assocs., L.P., 152
+F. Supp. 2d 355, 365 (S.D.N.Y. 2001)).
+Wellington claims that Perlmutter, Mortimer, and Gore acted under color of state law
+because the Amended Complaint alleges that they “acted jointly with government officials in
+violating [Wellington’s] constitutional rights.” Opp. at 13. Specifically, she argues that “Gore
+Case 1:24-cv-08743-JLR Document 90 Filed 04/30/26 Page 11 of 2812
+produced falsified emails from Department of Homeless Services stating that [Wellington] was
+logged out” and “Mortimer contacted the New York Police Department who then” violated her
+constitutional rights. Id. at 12-13. But the Amended Complaint does not allege that Gore
+produced falsified emails, and, in any event, producing a false email does not establish that the
+S:US Defendants acted under color of state law. Moreover, “[m]erely calling the police is
+insufficient to give rise to § 1983 liability, insofar as calling the police, by itself, does not
+establish that the private actor and the police acted jointly.” See Lurch v. City of New York, No.
+19-cv-11253 (AJN), 2021 WL 1226927, at *4 (S.D.N.Y. Mar. 31, 2021) (collecting cases); see
+also Rae v. Cnty. of Suffolk, 693 F. Supp. 2d 217, 228 (E.D.N.Y. 2010) (holding that a defendant
+did not act under the color of state law when she reported plaintiff to the police).
+Wellington cites to Rendell-Baker v. Kohn, 457 U.S. 830 (1982) for the proposition that
+private individuals act under color of state law “in certain circumstances such as directing law
+enforcement to arrest a resident or falsifying documents used by police — if such conduct can be
+shown to be fairly attributable to the government.” Opp. at 12. Rendell-Baker does not support
+this proposition. In Rendell-Baker, the Supreme Court held that a private school that relied on
+public funds did not act under color of state law when it discharged an employee, because the
+decision was not “fairly attributable to the State.” 457 U.S. at 840-43. It provides no support for
+the assertion that falsifying an email or calling the police constitutes acting under color of state
+law. Thus, the federal claims against Perlmutter, Mortimer, and Gore must be dismissed because
+the Amended Complaint does not plausibly allege that they acted “under color of state law.”
+Pitchell, 13 F.3d at 547.
+B. Jackson, LaGuardia, Villegasalmazo, Mukhutdinov, and Fontaine
+Next, the Amended Complaint does not plausibly allege that the conduct of the NYPD
+officers Jackson, LaGuardia, Villegasalmazo, Mukhutdinov, and Fontaine deprived Wellington
+Case 1:24-cv-08743-JLR Document 90 Filed 04/30/26 Page 12 of 2813
+of a constitutional right. Wellington alleges that the five officers violated her Fourth
+Amendment rights by falsely arresting her, using excessive force, and failing to intervene to
+prevent such deprivations. See Am. Compl. ¶¶ 87-101, 120-33. Unlike Perlmutter, Mortimer,
+and Gore, there is no dispute that these five defendants acted under color of state law since they
+were police officers effectuating an arrest. See, e.g., Raysor v. Port Auth. of New York & New
+Jersey, 768 F.2d 34, 40 (2d Cir. 1985) (“[T]here is no question that the arresting officers acted
+under color of state law[.]”); Adams v. City of New York, No. 08-cv-05263 (JGK), 2010 WL
+743956, at *4 (S.D.N.Y. Mar. 2, 2010) (finding that there was “no dispute that the police officers
+who arrested the plaintiff did so under the color of state law”). However, even liberally
+construed, the Amended Complaint fails to adequately allege that the five officers’ conduct
+deprived Wellington of her “rights, privileges, or immunities secured by the Constitution or laws
+of the United States.” Pitchell, 13 F.3d at 547.
+1. False Arrest
+To start, the Amended Complaint does not allege a constitutional deprivation by false
+arrest because the facts show that the officers had probable cause to arrest Wellington. “In
+analyzing [Section] 1983 claims for unconstitutional false arrest,” the Court “generally look[s] to
+the law of the state in which the arrest occurred.” Jaegly v. Couch, 439 F.3d 149, 151-52 (2d
+Cir. 2006) (quoting Davis v. Rodriguez, 364 F.3d 424, 433 (2d Cir. 2004)). “Under New York
+law, the existence of probable cause is an absolute defense to a false arrest claim.” Id. at 152;
+see also Swanhart v. Jackson, No. 20-cv-06819 (NSR), 2023 WL 4534638, at *7 (S.D.N.Y. July
+13, 2023) (explaining that a Section 1983 claim for false arrest may be dismissed if “[the]
+plaintiff’s version of events . . . establish[es] probable cause to arrest” (first alteration in original)
+(quoting Jones v. Maples/Trump, No. 98-cv-07132 (SHS), 2002 WL 287752, at *6 (S.D.N.Y.
+Feb. 26, 2002)). “An officer has probable cause to arrest when he or she has ‘knowledge or
+Case 1:24-cv-08743-JLR Document 90 Filed 04/30/26 Page 13 of 2814
+reasonably trustworthy information of facts and circumstances that are sufficient to warrant a
+person of reasonable caution in the belief that the person to be arrested has committed or is
+committing a crime.’” Jaegly, 439 F.3d at 152 (quoting Weyant v. Okst, 101 F.3d 845, 852 (2d
+Cir. 1996)). “‘When determining whether probable cause exists courts must consider those facts
+available to the officer at the time of the arrest and immediately before it,’ as ‘probable cause
+does not require absolute certainty.’” Panetta v. Crowley, 460 F.3d 388, 395 (2d Cir. 2006)
+(citation omitted) (alteration adopted) (first quoting Caldarola v. Calabrese, 298 F.3d 156, 162
+(2d Cir. 2002); and then quoting Boyd v. City of New York, 336 F.3d 72, 76 (2d Cir. 2003)). “It
+is well-established that a law enforcement official has probable cause to arrest if he received his
+information from some person, normally the putative victim or eyewitness[.]” Id. (alteration
+adopted) (quoting Martinez v. Simonetti, 202 F.3d 625, 634 (2d Cir. 2000)). “In cases where a
+plaintiff attempts to plead false arrest despite the existence of a complaining victim or witness,
+the plaintiff must, at the very least, allege facts tending to show that the victim’s veracity should
+have been questioned.” Guerrero v. City of New York, No. 12-cv-02916, 2013 WL 673872, at *4
+(S.D.N.Y. Feb. 25, 2013); see also Khaja–Moinuddin v. City of New York, No. 09-cv-00646
+(CBA) (LB), 2010 WL 3861003, at *5-6 (E.D.N.Y. Sept. 28, 2010) (dismissing a claim for false
+arrest because the complaint alleged probable cause for the arrest).
+Drawing all inferences in favor of Wellington, the facts alleged in the Amended
+Complaint establish that Jackson, LaGuardia, Villegasalmazo, Mukhutdinov, and Fontaine had
+probable cause to arrest Wellington for trespassing. See Cabble v. City of New York, No. 04-cv-
+09413 (LTS), 2009 WL 890098, at *5 (S.D.N.Y. Mar. 30, 2009) (“Even where factual disputes
+exist, . . . courts have held that a Section 1983 claim may still be dismissed if the plaintiff’s own
+version of events in the [c]omplaint establishes a probable cause basis to arrest.”). Under New
+York law, “[a] person is guilty of trespass when he knowingly enters or remains unlawfully in or
+Case 1:24-cv-08743-JLR Document 90 Filed 04/30/26 Page 14 of 2815
+upon premises.” N.Y. Penal Law § 140.05. Jackson, LaGuardia, Villegasalmazo, and
+Mukhutdinov arrived at Harmonia in response to a call claiming that an individual was “refusing
+to leave.” Am. Compl. ¶ 39. After they arrived, the officers interviewed Wellington. Id. ¶ 40.
+The Harmonia staff showed the officers documents showing “that [Wellington] was in violation
+of DHS . . . rules and requirements for staying in the shelter.” Id. ¶ 42. When Fontaine arrived,
+he spoke with Mortimer regarding the situation. Id. ¶ 44. The statements of victims and
+witnesses, along with documentation, is enough “reasonably trustworthy information of facts and
+circumstances to warrant a person of reasonable caution in the belief that” Wellington was
+trespassing. Jaegly, 439 F.3d at 152.
+In her opposition, Wellington argues that probable cause did not exist because
+Defendants “failed to conduct a reasonable investigation, and . . . any information relied upon
+was insufficient, unreliable, [and] knowingly false.” Fontaine Opp. at 4. The Amended
+Complaint, however, does not allege any facts to support an inference that the officers had a
+reason to mistrust the statements of the Harmonia staff or documents presented, and
+Wellington’s reference in her opposition brief (but not her Amended Complaint) that the
+Harmonia staff presented a fabricated email is an insufficient basis because no facts are alleged
+to support that the officers had reason to know that false information was presented to them.
+Guerrero, 2013 WL 673872, at *4 (dismissing a Section 1983 false arrest claim when the
+pleadings “made no allegation — with regard to either arrest — that the arresting officers had
+reason to doubt the complaints leading to the [a]rrests”).
+Wellington also argues that probable cause did not exist because the District Attorney
+decided not to prosecute her for trespass. Opp. at 5. This fact is not alleged in the Amended
+Complaint, but even if it was, a District Attorney’s decision to “decline to prosecute does not,
+without more, shed meaningful light on the arresting officer’s probable cause.” Monahan v. City
+Case 1:24-cv-08743-JLR Document 90 Filed 04/30/26 Page 15 of 2816
+of New York, No. 20-cv-02610 (PKC), 2022 WL 954463, at *16 (S.D.N.Y. Mar. 30, 2022)
+(collecting cases). Accordingly, the Amended Complaint does not plausibly allege that Jackson,
+LaGuardia, Villegasalmazo, Mukhutdinov, or Fontaine deprived Wellington of her Fourth
+Amendment rights through a false arrest.
+2. Excessive Force
+Wellington’s Section 1983 claim that Jackson, LaGuardia, Villegasalmazo,
+Mukhutdinov, and Fontaine used excessive force when handcuffing her, see Am. Compl. ¶¶ 96-
+101, also fails because she does not adequately allege that the handcuffing was unreasonable
+under the circumstances. A police officer is liable under an excessive force-based Section 1983
+claim when the officer “employ[s] a degree of force beyond that which is warranted by the
+objective circumstances of an arrest.” Cugini v. City of New York, 941 F.3d 604, 612 (2d Cir.
+2019). “Determining whether the force used to effect a particular seizure is ‘reasonable’ under
+the Fourth Amendment requires a careful balancing of ‘the nature and quality of the intrusion on
+the individuals Fourth Amendment interests’ against the countervailing governmental interests at
+stake.” Graham v. Connor, 490 U.S. 386, 396 (1989) (citation omitted).
+“[E]xcessively tight handcuffing that causes injury can constitute excessive force in
+violation of the Fourth Amendment[.]” Shamir v. City of New York, 804 F.3d 553, 557 (2d Cir.
+2015). Courts consider three factors when “evaluating the reasonableness of a handcuffing: that
+‘(1) the [arrestee’s] handcuffs were unreasonably tight; (2) the defendants ignored the arrestee’s
+pleas that the handcuffs were too tight; and (3) the degree of injury to the [arrestee’s] wrists.’”
+Cugini, 941 F.3d at 612 (alterations in original) (quoting Esmont v. City of New York, 371 F.
+Supp. 2d 202, 215 (E.D.N.Y. 2005)). Although the Second Circuit was reviewing a summary
+judgment motion decision in Cugini, “evidence of these factors has often been employed
+by . . . courts in this Circuit to determine whether a plaintiff has sufficiently alleged a claim for
+Case 1:24-cv-08743-JLR Document 90 Filed 04/30/26 Page 16 of 2817
+excessive force in the process of handcuffing.” Cugini, 941 F.3d at 612-613; see id. at 613 n.5
+(collecting cases). While this test is a useful guide, the Second Circuit has cautioned that the
+reasonableness inquiry “is not limited to a factual checklist.” Id. at 613. For example, a plaintiff
+“need not always establish that she alerted an officer to the fact that her handcuffs were too tight
+or causing pain” so long as the “officer reasonably should have known during handcuffing that
+his use of force was excessive.” Id. Likewise, a plaintiff does not need to allege that she
+suffered “serious injury” from the handcuffing to state a claim for excessive force. See Ketcham
+v. City of Mount Vernon, 992 F.3d 144, 150-51 (2d Cir. 2021); accord Harvey v. Corneal, No.
+24-cv-07380 (JAV), 2025 WL 2345879, at *6 (S.D.N.Y. Aug. 13, 2025).
+Here, Wellington does not plausibly allege facts that could support an excessive force
+claim. According to the Amended Complaint, the officers placed Wellington into handcuffs
+after she refused to be arrested and “sat down on the floor.” Am. Compl. ¶¶ 49-50. She only
+began to comply when one of the officers demanded that she stand up, after which they
+“place[d]” her into handcuffs and led her to the police car. Id. ¶¶ 50-51. Placing secure
+handcuffs on an uncooperative alleged trespasser to gain compliance is not unreasonable per se.
+Cf. Esmont, 371 F. Supp. 2d at 214 (“Frequently, a reasonable arrest involves handcuffing the
+suspect, and to be effective handcuffs must be tight enough to prevent the arrestee’s hands from
+slipping out.”). Wellington alleges only that she complained to Fontaine that the handcuffs were
+too tight, Am. Compl. ¶ 53, but does not allege facts that support a finding that the use of
+handcuffs to gain her compliance was unreasonable, that the handcuffs were causing her pain,
+that she was handcuffed for an extended period of time, or that the handcuffs caused her any
+injury, cf. Harvey, 2025 WL 2345879, at *6 (finding bilateral wrist pain with bruising and
+swelling was sufficient for a handcuffing-based excessive force claim at the pleading stage);
+Moore v. City of New York, No. 22-cv-10957 (LGS), 2024 WL 3361193, at *5 (S.D.N.Y. July
+Case 1:24-cv-08743-JLR Document 90 Filed 04/30/26 Page 17 of 2818
+10, 2024) (considering allegations that the handcuffs “le[ft] marks and injuries on [p]laintiff’s
+wrists” relevant to assessing the adequacy of the pleading); Jimenez ex rel. J.M. v. Cnty. of
+Suffolk, No. 23-cv-09476 (AMD) (RLM), 2025 WL 948348, at *15 (E.D.N.Y. Mar. 28, 2025)
+(finding handcuffing-based excessive force claim adequately pleaded when officers handcuffed
+plaintiffs for three hours, “the handcuffs were too tight,” plaintiffs “complained to the officers,”
+and the handcuffing injured one plaintiff’s shoulder), even though the Court recognizes that
+“serious injury” is not required to maintain an excessive force claim, see Ketcham, 992 F.3d at
+151. Thus, Wellington does not plead sufficient facts to plausibly allege that Jackson,
+LaGuardia, Villegasalmazo, Mukhutdinov, or Fontaine used excessive force when handcuffing
+her such that there was a violation of her Fourth Amendment rights.
+3. Failure to Intervene
+Given that Wellington does not plausibly allege a Section 1983 claim for false arrest or
+excessive force, she also has not pleaded a claim for failure to intervene. “A police officer ‘has
+an affirmative duty to intercede on the behalf of a citizen whose constitutional rights are being
+violated in his presence by other officers.’” Ricciuti v. N.Y.C. Transit Auth., 124 F.3d 123, 129
+(2d Cir. 1997) (quoting O’Neill v. Krzeminski, 839 F.2d 9, 11 (2d Cir. 1988)). “An officer who
+fails to intercede is liable for the preventable harm caused by the actions of the other officers
+where that officer observes or has reason to know: (1) that excessive force is being used; (2) that
+a citizen has been unjustifiably arrested; or (3) that any constitutional violation has been
+committed by a law enforcement official.” Anderson v. Branen, 17 F.3d 552, 557 (2d Cir. 1994)
+(citations omitted). Failure to intervene requires that: “(1) the officer had a realistic opportunity
+to intervene and prevent the harm; (2) a reasonable person in the officer’s position would know
+that the victim’s constitutional rights were being violated; and (3) the officer does not take
+reasonable steps to intervene.” Jean-Laurent v. Wilkinson, 540 F. Supp. 2d 501, 512 (S.D.N.Y.
+Case 1:24-cv-08743-JLR Document 90 Filed 04/30/26 Page 18 of 2819
+2008), aff’d 461 F. App’x 18 (2d Cir. 2012) (summary order). “It is well established that absent
+an underlying constitutional violation, there can be no failure to intervene violation.” King-
+Knight v. City of New York, No. 23-cv-04648 (PKC), 2025 WL 950507, at *14 (S.D.N.Y. Mar.
+28, 2025)) (quoting Fincher v. City of New York, 19-cv-06206 (MKV), 2021 WL 4461161, at *6
+(S.D.N.Y. Sept. 29, 2021)); see also Nelson v. City of New York, No. 18-cv-04636 (PAE), 2019
+WL 3779420, at *7 (S.D.N.Y. Aug. 9, 2019) (“A failure to intervene under § 1983 cannot prevail
+when there is no underlying constitutional violation.”); Wieder v. City of New York, 569 F.
+App’x 28, 30 (2d Cir. 2014) (summary order) (affirming a dismissal of a failure to intervene
+claim when the “underlying constitutional claims were properly dismissed”). Given that Plaintiff
+does not adequately allege a constitutional violation against Jackson, LaGuardia,
+Villegasalmazo, Mukhutdinov, or Fontaine, there can be no failure to intervene violation, and
+those claims are dismissed.
+4. No Individualized Actions Pleaded
+In addition to the foregoing, Plaintiff fails to state a claim against Jackson, LaGuardia,
+Villegasalmazo, and Mukhutdinov under Section 1983 because she does not adequately allege
+each officer’s individual role in the alleged constitutional deprivations. The Amended
+Complaint only alleges that officers LaGuardia, Villegasalmazo, and Mukhutdinov arrived at
+Harmonia, then stops identifying what each officer did. See Am. Compl. ¶¶ 39-56. The
+Amended Complaint does not even allege that Jackson arrived at Harmonia. See id. ¶ 39. The
+only officer whose conduct is clearly identified is Fontaine. See id. ¶¶ 39-56. The Amended
+Complaint’s failure to identify each officer’s role in the alleged false arrest or excessive force, as
+required to state a claim, is an alternative ground for dismissal of her Section 1983 claims against
+Jackson, LaGuardia, Villegasalmazo, and Mukhutdinov. See Tangreti v. Bachmann, 983 F.3d
+609, 616 (2d Cir. 2020) (“[A] plaintiff must plead that each Government-official defendant,
+Case 1:24-cv-08743-JLR Document 90 Filed 04/30/26 Page 19 of 2820
+through the official’s own individual actions, has violated the Constitution.” (quoting Iqbal, 556
+U.S. at 676)).
+C. Additional Claims Raised by Plaintiff in Opposing Fontaine’s Motion
+In her opposition to Fontaine’s motion to dismiss, Wellington raised two additional
+claims that were not alleged in the Amended Complaint: (1) deprivation of her Fourteenth
+Amendment procedural due process rights, Fontaine Opp. at 5-6; and (2) malicious prosecution,
+id. at 6-7. Fontaine asks the Court to disregard these claims because Wellington “clearly
+enumerated all of the claims she intended to bring,” and considering these additional claims
+would not be consistent with those pleadings. Fontaine Reply at 4. “Given the liberality
+afforded pro se litigants, it is appropriate to consider new allegations in a pro se plaintiff’s
+opposition to a motion to dismiss where they are consistent with the allegations contained in the
+pleading.” Agapov v. UBIF Franchising Co., No. 23-cv-02178 (PMH), 2024 WL 5118408, at *3
+n.6 (S.D.N.Y. Dec. 16, 2024); accord Vail v. City of New York, 68 F. Supp. 3d 412, 427
+(S.D.N.Y. 2014). Here, the due process and malicious prosecution claims are not inconsistent
+with the facts alleged in the Amended Complaint, and thus the Court will consider these claims.
+While it is not clear if Wellington intends to bring these claims only against Fontaine, or
+against all Individual Defendants, her additional claims fail either way. Beginning with her due
+process claim, “[t]o prevail on this claim, the plaintiff must show that [she] ‘possessed a
+protected liberty or property interest, and that [s]he was deprived of that interest without due
+process.’” McMenemy v. City of Rochester, 241 F.3d 279, 285-86 (2d Cir. 2001) (quoting Hynes
+v. Squillace, 143 F.3d 653, 658 (2d Cir. 1998)); accord Duncan v. Sullivan Cnty., No. 18-cv-
+09269 (VB), 2020 WL 1033064, at *8 (S.D.N.Y. Mar. 2, 2020). Wellington argues that
+Defendants violated her procedural due process rights by evicting her and her children without
+“notice,” a “hearing,” or an “opportunity to contest.” Fontaine Opp. at 5-6. As with all other
+Case 1:24-cv-08743-JLR Document 90 Filed 04/30/26 Page 20 of 2821
+Section 1983 claims, a claim for procedural due process can only be sought against a state actor.
+See, e.g., Leary v. Civ. Serv. Emps. Ass’n, No. 11-cv-00716 (CS), 2012 WL 1622611, at *12
+(S.D.N.Y. May 9, 2012) (finding defendant that was not acting under state law “c[ould] [not] be
+held liable for a purported procedural due process violation pursuant to Section 1983”), aff’d sub
+nom. Leary v. Civ. Serv. Empls. Ass’n Region 3, 516 F. App’x 42 (2d Cir. 2013) (summary
+order). Thus, to the extent that Wellington seeks to bring claims against Perlmutter, Mortimer,
+and Gore, a due process claim would fail because they are not state actors. See supra Part III.A.
+As for Jackson, LaGuardia, Villegasalmazo, Mukhutdinov, and Fontaine, Wellington does not
+allege that they had any involvement with her log-out. Accordingly, Wellington does not state a
+claim for a violation of her procedural due process rights.
+Wellington’s malicious prosecution claim fails for similar reasons. “In order to prevail
+on a § 1983 claim against a state actor for malicious prosecution, a plaintiff must show a
+violation of his rights under the Fourth Amendment and must establish the elements of a
+malicious prosecution claim under state law.” Frost v. New York City Police Dep’t, 980 F.3d
+231, 242 (2d Cir. 2020) (quoting Manganiello v. City of New York, 612 F.3d 149, 160-61 (2d Cir.
+2010)). “To establish a malicious prosecution claim under New York law, a plaintiff must prove
+(1) the initiation or continuation of a criminal proceeding against plaintiff; (2) termination of the
+proceeding in plaintiff’s favor; (3) lack of probable cause for commencing the proceeding; and
+(4) actual malice as a motivation for defendant’s actions.” Id. (quoting Manganiello, 612 F.3d at
+161). “Because lack of probable cause is an element of a malicious prosecution claim, ‘the
+existence of probable cause is a complete defense to a claim of malicious prosecution.’”
+Stansbury v. Wertman, 721 F.3d 84, 94-95 (2d Cir. 2013) (quoting Manganiello, 612 F.3d at
+161-62). As discussed above, Perlmutter, Mortimer, and Gore were not state actors and thus
+cannot be liable under Section 1983 claim. As for Jackson, LaGuardia, Villegasalmazo,
+Case 1:24-cv-08743-JLR Document 90 Filed 04/30/26 Page 21 of 2822
+Mukhutdinov, and Fontaine, the circumstances alleged in the Amended Complaint demonstrate
+that the officers had probable cause to arrest Wellington for trespassing. Supra Part III.B.1.
+Thus, Wellington cannot state a claim for malicious prosecution.
+D. Federal Claims against New York City
+Finally, the Amended Complaint does not plausibly state a Section 1983 claim against
+New York City. In Monell v. Department of Social Services, 436 U.S. 658 (1978), the Supreme
+Court held that municipalities “can be sued directly under [Section] 1983” when “the action that
+is alleged to be unconstitutional implements or executes a policy statement, ordinance,
+regulation, or decision officially adopted and promulgated by that body’s officers.” Id. at 690.
+“[A] municipality cannot be held liable under [Section] 1983 on a respondeat superior theory.”
+Id. at 691; accord Lucente v. Cnty. of Suffolk, 980 F.3d 284, 297 (2d Cir. 2020). “To hold a
+[municipality] liable under [Section] 1983 for the unconstitutional actions of its employees, a
+plaintiff is required to plead and prove three elements: (1) an official policy or custom that (2)
+causes the plaintiff to be subjected to (3) a denial of a constitutional right.” Lucente, 980 F.3d at
+297 (first alteration in original) (quoting Wray v. City of New York, 490 F.3d 189, 195 (2d Cir.
+2007)). “To satisfy the first prong of the test on a motion to dismiss, [a plaintiff] must allege the
+existence of: (1) a formal policy which is officially endorsed by the municipality; (2) actions
+taken or decisions made by government officials responsible for establishing municipal policies
+which caused the alleged violation of the plaintiff’s civil rights; (3) a practice so persistent and
+widespread that it constitutes a ‘custom or usage’ and implies the constructive knowledge of
+policy-making officials; or (4) a failure by official policy-makers to properly train or supervise
+subordinates to such an extent that it ‘amounts to deliberate indifference to the rights of those
+with whom municipal employees will come into contact.’” Moray v. City of Yonkers, 924 F.
+Supp. 8, 12 (S.D.N.Y. 1996) (citations omitted) (quoting City of Canton v. Harris, 489 U.S. 378,
+Case 1:24-cv-08743-JLR Document 90 Filed 04/30/26 Page 22 of 2823
+388 (1989)). Importantly, “Monell does not provide a separate cause of action for the failure by
+the government to train its employees; it extends liability to a municipal organization where that
+organization’s failure to train, or the policies or customs that it has sanctioned, led to an
+independent constitutional violation.” Segal v. City of New York, 459 F.3d 207, 219 (2d Cir.
+2006).
+As a threshold matter, Wellington does not adequately plead a claim against the City
+because she fails to plausibly allege a deprivation of her constitutional rights. See supra Part
+III.B; Smith v. City of New York, No. 15-cv-07910 (GHW), 2016 WL 7471334, at *5 (S.D.N.Y.
+Dec. 28, 2016) (dismissing Monell claims when the complaint “fail[ed] to plausibly allege a
+constitutional violation”). But even setting aside that the Amended Complaint does not
+adequately allege a deprivation of Wellington’s constitutional rights, Wellington does not allege
+that the City had an “official policy or custom” that caused such a deprivation. Lucente, 980
+F.3d at 297. The Amended Complaint only makes conclusory allegations that “[i]t was the
+custom and policy of the City . . . to inadequately supervise, train, retain, and hire employees.”
+Am. Compl. ¶ 80. Moreover, the Amended Complaint only alleges facts regarding a single
+incident wherein Wellington was logged out and arrested. “Proof of a single incident of
+unconstitutional activity,” however, “is not sufficient to impose liability under Monell, unless
+proof of the incident includes proof that it was caused by an existing, unconstitutional municipal
+policy, which policy can be attributed to a municipal policymaker.” City of Oklahoma City v.
+Tuttle, 471 U.S. 808, 823-24 (1985); Brogdon v. City of New Rochelle, 200 F. Supp. 2d 411, 427
+(S.D.N.Y. 2002) (“A single incident by itself is generally insufficient to establish the affirmative
+link between the municipal policy or custom and the alleged unconstitutional violation.”).
+Wellington argues in a conclusory fashion in her brief that the City “has failed to
+adequately train or supervise the officers assigned to city shelters, particularly in recognizing the
+Case 1:24-cv-08743-JLR Document 90 Filed 04/30/26 Page 23 of 2824
+rights of shelter residents and the limits of lawful arrest authority.” Opp. at 6. She goes on to
+conclude that these “allegations are consistent with publicly reported abuses involving officers’
+using trespass arrests in shelters.” Id. at 7. However, the Amended Complaint does not allege
+claims of systemic abuses, nor does Wellington allege any facts to support an inference that the
+City “deliberately ignored ‘the risk that its employees would unconstitutionally apply its policies
+without more training.’” Williams v. City of New York, 690 F. Supp. 2d 338, 346 (S.D.N.Y.
+2010) (quoting Amnesty Am. v. Town of W. Hartford, 361 F.3d 113, 130 (2d Cir. 2004)).
+Furthermore, the cases cited by Wellington do not warrant a different conclusion. First,
+as discussed earlier, some of her cited cases do not exist, or are wholly unrelated to the Monell
+claim presented here, such as Diaz v. Consortium for Worker Educ., Inc., No. 10-cv-01848
+(LAP), 2010 WL 3910280 (S.D.N.Y. Sept. 28, 2010) which is a FLSA case. The remaining
+cases that do reference Monell claims do not support denial of the motion to dismiss. For
+example, Williams permitted a Monell claim to survive when a letter signed by an official
+policymaker was included in the complaint, but dismissed other Monell claims that did not set
+forth specific allegations connecting the alleged conduct causing a constitutional deprivation to
+an official policymaker. 690 F. Supp. 2d at 344-45. Here, Wellington has not set forth any
+factual allegations connecting the alleged constitutional violations to an official policy maker and
+does not allege facts that the City’s policymakers deliberately ignored “the risk that its
+employees would unconstitutionally apply its policies without more training.” Id. at 344
+(quoting Amnesty Am., 361 F.3d at 130). Likewise, in both Green v. City of New York, 465 F.3d
+65 (2d Cir. 2006) and Jenkins v. City of New York, 478 F.3d 76 (2d Cir. 2007), the courts
+determined that Monell claims could not survive summary judgment because the record lacked
+evidence supporting a municipal policy or custom that caused an alleged constitutional
+deprivation. See Green, 465 F.3d at 81 (“A reasonable jury could not find that evidence of one
+Case 1:24-cv-08743-JLR Document 90 Filed 04/30/26 Page 24 of 2825
+instance in which emergency personnel were not familiar with the correct protocol constituted a
+practice ‘so manifest as to imply the constructive acquiescence of senior policy-making
+officials.’” (quotingSorlucco v. New York City Police Dep’t, 971 F.2d 864, 871 (2d Cir. 1992)));
+Jenkins, 478 F.3d at 95 (“The mere fact that [plaintiff] was falsely arrested, without more, does
+not show that the City’s training program is inadequate. A training program is not inadequate
+merely because a few of its graduates deviate from what they were taught.”). These cases,
+therefore, support dismissal of the claim against the City here.
+In sum, Wellington fails to adequately allege a Monell claim, because she fails to
+plausibly allege that a constitutional deprivation occurred, and, even if she did, she does not
+allege that a municipal custom or policy caused the deprivation.5
+IV. State Law Claims and Supplemental Jurisdiction
+As for the remaining state law claims, Defendants argue that the claims should be
+dismissed on the merits. In the alternative, they assert that the Court should decline to exercise
+supplemental jurisdiction over these claims. See Br. at 23-24; Fontaine Br. at 16-17. 28 U.S.C.
+§ 1367 grants district courts “supplemental jurisdiction over all other claims that are so related to
+claims in the action within such original jurisdiction that they form part of the same case or
+controversy.” 28 U.S.C. § 1367(a). Section 1367(c) permits a court to “decline to exercise
+supplemental jurisdiction over a claim under subsection (a) if . . . the district court has dismissed
+all claims over which it has original jurisdiction.” Id. § 1367(c)(3). “[I]n the usual case in which
+all federal-law claims are eliminated before trial, the balance of factors to be considered under
+the pendent jurisdiction doctrine — judicial economy, convenience, fairness, and comity — will
+point toward declining to exercise jurisdiction over the remaining state-law claims.” Pension
+5
+Defendants also argue that the Court should dismiss the claims against the City because of
+Rooker-Feldman doctrine, see Br. at 6-9, but the Court need not reach this argument.
+Case 1:24-cv-08743-JLR Document 90 Filed 04/30/26 Page 25 of 2826
+Ben. Guar. Corp. ex rel. St. Vincent Cath. Med. Ctrs. Ret. Plan v. Morgan Stanley Inv. Mgmt.
+Inc., 712 F.3d 705, 727 (2d Cir. 2013) ((quoting Valencia ex rel. Franco v. Lee, 316 F.3d 299,
+306 (2d Cir. 2003))); see also Denney v. Deutsche Bank AG, 443 F.3d 253, 266 (2d Cir. 2006)
+(noting that courts “should decline the exercise of supplemental jurisdiction when all federal
+claims have been dismissed at the pleading stage”).
+Given that all of the federal law claims are dismissed, the balance of factors weighs in
+favor of declining supplemental jurisdiction over Wellington’s remaining state law claims. First,
+judicial economy favors dismissal because this action has not progressed past the pleading stage.
+Second, refiling the action in state court imposes only a minor inconvenience on the parties.
+Third, proceeding in state court will not place any of the parties at a disadvantage relative to their
+current positions in the litigation. Lastly, “given that only state-law issues remain in this case,
+comity dictates that the Court decline to decide those disputes.” Corley v. Vance, 365 F. Supp.
+3d 407, 463 (S.D.N.Y. 2019), aff’d sub nom. Corley v. Wittner, 811 F. App’x 62 (2d Cir. 2020)
+(summary order); see also Block v. City Univ. of New York, No. 23-cv-07715 (NGG) (VMS),
+2025 WL 1114738, at *7 (E.D.N.Y. Apr. 15, 2025) (“[A]lthough this case raises no novel or
+unresolved issues of state law, principles of comity support the court’s decision to have a state
+court adjudicate [plaintiff]’s purely state law claims.”). Therefore, the Court declines to assert
+supplemental jurisdiction over the remaining state law claims.
+V. Leave to Amend
+At the end of both of her opposition briefs, Wellington briefly requests leave to amend if
+the Court dismisses claims contained in the Amended Complaint. Opp. at 15; Fontaine Opp. at
+13-14. “While leave to amend a pleading shall be freely granted when justice so requires,
+amendment is not warranted in the case of, among other things, ‘futility.’” Oneida Indian Nation
+v. City of Sherrill, 337 F.3d 139, 168 (2d Cir. 2003) (citation omitted) (quoting Foman v. Davis,
+Case 1:24-cv-08743-JLR Document 90 Filed 04/30/26 Page 26 of 2827
+371 U.S. 178, 182 (1962)), rev’d and remanded on different grounds sub nom. City of Sherrill v.
+Oneida Indian Nation, 544 U.S. 197 (2005). “Futility is a determination, as a matter of law, that
+proposed amendments would fail to cure prior deficiencies or to state a claim under Rule
+12(b)(6)[.]” Panther Partners Inc. v. Ikanos Commc’ns, Inc., 681 F.3d 114, 119 (2d Cir. 2012).
+“[A]mendment to a pleading would be futile if it could not withstand a motion to dismiss
+pursuant to Rule 12(b)(6).” Oneida Indian Nation, 337 F.3d at 168.
+Wellington has already amended her complaint once and does not propose any additional
+factual allegations that she would include in a second amended complaint. Indeed, even
+considering materials outside her pleading, such as her opposition brief and declarations
+submitted in support of her opposition, there are no facts presented that would support a non-
+futile amendment. Moreover, the defects in Wellington’s claims are substantive and could not be
+cured by better pleading, such as suing entities that cannot be sued in this court and individuals
+who were not acting under color of state law, as well as failing to allege constitutional violations
+or related customs or policies that could support either individual claims or municipal liability,
+respectively. Thus, further amendment would be futile. See Cuoco v. Moritsugu, 222 F.3d 99,
+112 (2d Cir. 2000) (holding that when the problem in pleadings is “substantive,” and “better
+pleading will not cure it,” granting leave to amend “would . . . be futile”); Cora v. Lebron, No.
+24-cv-00327 (AMD) (LB), 2024 WL 308244, at *3 (E.D.N.Y. Jan. 26, 2024) (denying leave to
+amend following a dismissal of a pro se litigant’s complaint because defects identified in the
+motion to dismiss were “substantive”).
+CONCLUSION
+For the aforementioned reasons, the Court GRANTS the motions to dismiss as follows:
+• All claims against the NYPD are dismissed with prejudice;
+Case 1:24-cv-08743-JLR Document 90 Filed 04/30/26 Page 27 of 2828
+• The first, second, third, fourth, seventh, and eighth causes of action are dismissed,
+with prejudice, in their entirety;
+• The fifteenth and sixteenth causes of action for “transitional homelessness” and
+“chronic homelessness” are dismissed with prejudice because they are not
+appropriate causes of action; and
+• The Court declines to assert jurisdiction over the remaining state law claims and
+thus dismisses the fifth, sixth, ninth, tenth, eleventh, twelfth, thirteenth,
+fourteenth, and seventeenth state law causes of action, without prejudice.
+The Clerk of the Court is respectfully directed to terminate the motions at Dkt. 45 and
+Dkt. 83 and close the case.
+Dated: April 30, 2026
+New York, New York
+SO ORDERED.
+JENNIFER L. ROCHON
+United States District Judge
+Case 1:24-cv-08743-JLR Document 90 Filed 04/30/26 Page 28 of 28
