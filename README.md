@@ -138,4 +138,4 @@ Provided as is, without warranty. Not legal advice. SafeLegalAI (Cognesio LLP) r
 
 ## Cite
 
-> SafeLegalAI (Cognesio LLP), "US court decisions on generative AI", v0.1.0, 2026-09-07. https://huggingface.co/datasets/safelegalaidata/us-genai-court-opinions — CC BY 4.0. Canonical: https://safelegalai.com/courts
+> SafeLegalAI (Cognesio LLP), "US court decisions on generative AI", v0.1.1, 2026-09-07. https://huggingface.co/datasets/safelegalaidata/us-genai-court-opinions — CC BY 4.0. Canonical: https://safelegalai.com/courts

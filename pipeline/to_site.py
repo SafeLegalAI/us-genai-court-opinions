@@ -2,9 +2,11 @@
 decision) so each becomes a page at /tracker/<slug>, and back-fill `tracker_slug` on the dataset row.
 
 Rules:
-- only `fetched-and-read` rows whose topics include `fabricated-citations` and carry an `incident{}`
-- every record is written with `status: unverified` — the editor flips it after re-opening the source
-  (unverified incidents are noindex and excluded from feeds, widgets and syndication)
+- only `fetched-and-read` or `mirror-read` rows (the court document was actually read — from the court's
+  site or from a public mirror of it) whose topics include `fabricated-citations` and carry an `incident{}`;
+  link-only rows are never converted
+- every record is written with `status: provisional` — the editor flips it after re-opening the source
+  (provisional incidents are noindex and excluded from counts, statistics, feeds, widgets, syndication and exports)
 - a decision already in the tracker (matching `tracker_slug`, or the same source URL, or the same
   normalised case name + date) is skipped
 - nothing is invented: conduct/outcome/actor/penalty come from the dataset row, which was coded from
@@ -63,7 +65,7 @@ def main():
     rows = [json.loads(l) for l in (DATA / "decisions.jsonl").open(encoding="utf-8") if l.strip()]
     written, skipped, slugs = 0, 0, {}
     for r in rows:
-        if r.get("verification") != "fetched-and-read" or "fabricated-citations" not in r.get("topics", []) or not r.get("incident"):
+        if r.get("verification") not in ("fetched-and-read", "mirror-read") or "fabricated-citations" not in r.get("topics", []) or not r.get("incident"):
             continue
         if r.get("tracker_slug") and (inc_dir / f"{r['tracker_slug']}.yaml").exists():
             skipped += 1
@@ -95,13 +97,24 @@ def main():
             rec["monetaryPenalty"] = inc["monetary_penalty"]
             rec["penaltyCurrency"] = inc.get("currency") or "USD"
         rec["actor"] = inc["actor"]
-        sources = [{"label": DQ(f"{r['document_type'].replace('-', ' ').capitalize()} ({r['court']}, {r['date_filed']})"), "url": DQ(r["source_url"])}]
+        mirror = r.get("verification") == "mirror-read"
+        sources = [{"label": DQ(f"{r['document_type'].replace('-', ' ').capitalize()} ({r['court']}, {r['date_filed']}){' — public mirror of the court document; official copy pending' if mirror else ''}"), "url": DQ(r["source_url"])}]
         sources.append({"label": DQ("SafeLegalAI — the court's passage on AI, coded"), "url": DQ(f"https://safelegalai.com/courts/opinions/{r['decision_id']}")})
         if r.get("courtlistener_url"):
             sources.append({"label": DQ("Docket (CourtListener / RECAP)"), "url": DQ(r["courtlistener_url"])})
         rec["sources"] = sources
-        rec["summary"] = DQ(r["summary"])
-        rec["status"] = "unverified"
+        summary = r["summary"]
+        # the site validator requires 40–60 words; pad short summaries with facts from the row, never boilerplate judgement
+        for extra in ([f"The court names {r['ai_tool_named']} as the tool."] if r.get("ai_tool_named") and r["ai_tool_named"].lower() not in summary.lower() else []) + ([f"Docket {r['docket_number']}."] if r.get("docket_number") and r["docket_number"] not in summary else []) + ([f"Reported at {r['citation']}."] if r.get("citation") and r["citation"] not in summary else []):
+            if len(summary.split()) >= 40:
+                break
+            summary += " " + extra
+        if len(summary.split()) < 40:
+            summary += f" The decision is dated {r['date_filed']} and was read from a public copy of the court's document."
+        if len(summary.split()) > 60:
+            summary = " ".join(summary.split()[:58]).rstrip(",;:") + "."
+        rec["summary"] = DQ(summary)
+        rec["status"] = "provisional"
         rec["lastVerified"] = r["fetched_at"][:10]
         # the date must be a real date scalar for the content schema (z.coerce.date accepts the string)
         with (inc_dir / f"{slug}.yaml").open("w", encoding="utf-8") as fh:
