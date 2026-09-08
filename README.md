@@ -29,6 +29,8 @@ configs:
 
 # US court decisions on generative AI
 
+> Part of the [SafeLegalAI datasets](https://safelegalai.com/datasets) — CC BY 4.0, mirrored on [Hugging Face](https://huggingface.co/datasets/safelegalaidata/us-genai-court-opinions). Every row links to its record page and its primary source. Found an error in a row? [Open an issue](https://github.com/SafeLegalAI/us-genai-court-opinions/issues/new?template=row-error.yml) or use [safelegalai.com/report](https://safelegalai.com/report).
+
 **567 court-authored US documents (opinions, orders, concurrences, dissents, administrative orders) that substantively discuss generative AI, each coded by topic, with the public-domain passage quoted, plus 9 legal-AI litigation dockets with dated milestones.**
 
 Built 2026-09-07 by [SafeLegalAI](https://safelegalai.com) (Cognesio LLP). Canonical pages: [safelegalai.com/courts](https://safelegalai.com/courts) · repository, pipeline and issues: [https://github.com/SafeLegalAI/us-genai-court-opinions](https://github.com/SafeLegalAI/us-genai-court-opinions) · this mirror: [https://huggingface.co/datasets/safelegalaidata/us-genai-court-opinions](https://huggingface.co/datasets/safelegalaidata/us-genai-court-opinions).
