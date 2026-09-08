@@ -82,8 +82,8 @@
    },
    {
     "date": "2026-09-08",
-    "what": "Official-copy resolution: GovInfo (USCOURTS) API by docket with the quoted passage required to match; state-court archives by hand-briefed agents; CourtListener RECAP search within Free Law Project's published limits.",
-    "result": "298 of 566 rows now read from the court's own copy or the public RECAP archive (from 53). 268 remain read from a public copy of the court's PDF: the court does not publish the order online, or its site refuses the identified bot (69 rows, queued for hand download), or the host timed out."
+    "what": "Official-copy resolution: GovInfo (USCOURTS) API by docket with the quoted passage required to match; state-court archives by hand-briefed agents; CourtListener RECAP search within Free Law Project's published limits. (CourtListener: 106 searches on 8 Sep → 6 rows.)",
+    "result": "300 of 566 rows now read from the court's own copy or the public RECAP archive (from 53). 266 remain read from a public copy of the court's PDF: the court does not publish the order online, or its site refuses the identified bot (69 rows, queued for hand download), or the host timed out."
    }
   ],
   "limits": "The ai_mention column says whether the court itself names AI (435 rows), or only says the authorities do not exist or are misquoted (118); the corpus includes the last group because the pattern is the one courts associate with generative AI, and readers who want only decisions that name AI can filter on it. The outcome column is the most severe consequence the court imposed in that document, on a defined ladder; it is not a finding about any person. A quarterly 50-row independent re-read is standing practice and its result replaces this one."
