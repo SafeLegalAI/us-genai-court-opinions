@@ -84,6 +84,11 @@
     "date": "2026-09-08",
     "what": "Official-copy resolution: GovInfo (USCOURTS) API by docket with the quoted passage required to match; state-court archives by hand-briefed agents; CourtListener RECAP search within Free Law Project's published limits. (CourtListener: 106 searches on 8 Sep → 6 rows.)",
     "result": "300 of 566 rows now read from the court's own copy or the public RECAP archive (from 53). 266 remain read from a public copy of the court's PDF: the court does not publish the order online, or its site refuses the identified bot (69 rows, queued for hand download), or the host timed out."
+   },
+   {
+    "date": "2026-09-08",
+    "what": "Inter-rater check: one 95-row slice was independently coded twice from the same documents (the first agent finished late; its output was kept as a cross-check, not merged).",
+    "result": "Agreement on ai_mention 100%, monetary penalty 100%, tool 99%, primary topic 98%, actor 97%, outcome 89% (10 rows, mostly warning vs none/filing-struck), topics 81%, document type 76%. The 10 outcome disagreements are listed for the editor in work/recode/crosscheck-4-disagreements.json; the published coding is the second read's."
    }
   ],
   "limits": "The ai_mention column says whether the court itself names AI (435 rows), or only says the authorities do not exist or are misquoted (118); the corpus includes the last group because the pattern is the one courts associate with generative AI, and readers who want only decisions that name AI can filter on it. The outcome column is the most severe consequence the court imposed in that document, on a defined ladder; it is not a finding about any person. A quarterly 50-row independent re-read is standing practice and its result replaces this one."

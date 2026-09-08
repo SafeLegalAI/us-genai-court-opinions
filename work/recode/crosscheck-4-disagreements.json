@@ -1,0 +1,392 @@
+{
+ "outcome": [
+  {
+   "decision_id": "nysupct-2026-keefe-v-bmakin-film",
+   "read_A": "warning",
+   "read_B": "filing-struck"
+  },
+  {
+   "decision_id": "akd-2026-gunter-v-contango-ore",
+   "read_A": "warning",
+   "read_B": "dismissal"
+  },
+  {
+   "decision_id": "insd-2026-philip-d-dennison-v-june-caudill",
+   "read_A": "warning",
+   "read_B": null
+  },
+  {
+   "decision_id": "calctapp6-2026-in-re-marriage-of-joanne-rodrigues-and-nathan-craig",
+   "read_A": "warning",
+   "read_B": "none"
+  },
+  {
+   "decision_id": "nysupct-2026-group-p-c-v-james-kaloidis",
+   "read_A": "pending",
+   "read_B": "sanctions"
+  },
+  {
+   "decision_id": "nysupct-2026-ellen-michaelis-v-wilmington-savings-fund-society",
+   "read_A": "warning",
+   "read_B": "none"
+  },
+  {
+   "decision_id": "texapp-2026-stanford-v-leinart",
+   "read_A": "warning",
+   "read_B": "none"
+  },
+  {
+   "decision_id": "nvd-2026-edward-c-allen-v-western-governors-university",
+   "read_A": "dismissal",
+   "read_B": "costs-order"
+  },
+  {
+   "decision_id": "nywd-2026-beedemariam-kassaw-v-wal-mart",
+   "read_A": "warning",
+   "read_B": "filing-struck"
+  },
+  {
+   "decision_id": "mad-2026-souza-v-city-of-fitchburg",
+   "read_A": "warning",
+   "read_B": null
+  }
+ ],
+ "document_type": [
+  {
+   "decision_id": "ca10-2026-ryan-michael-jarvis-v-county-of-teton-wyoming",
+   "read_A": "opinion",
+   "read_B": "order"
+  },
+  {
+   "decision_id": "utd-2026-primerica-life-insurance-v-daniel-vett-finlayson-michelle-johnson",
+   "read_A": "order",
+   "read_B": "memorandum-opinion"
+  },
+  {
+   "decision_id": "mied-2026-alishia-monique-jones-v-ahmed-taylor",
+   "read_A": "order",
+   "read_B": "opinion"
+  },
+  {
+   "decision_id": "illapp1-2026-stance-strong-and-kinisha-strong-v-zubha-pop-foods-d-b-a-popeyes-chicken",
+   "read_A": "opinion",
+   "read_B": "order"
+  },
+  {
+   "decision_id": "msnd-2026-brian-smith-v-td-auto-finance",
+   "read_A": "order",
+   "read_B": "memorandum-opinion"
+  },
+  {
+   "decision_id": "fladistctapp6-2026-bruno-roberto-rodriguez-v-kathryn-louise-rodriguez",
+   "read_A": "memorandum-opinion",
+   "read_B": "opinion"
+  },
+  {
+   "decision_id": "illappct-2026-robert-s-hulvat-v-juli-gumina-stg",
+   "read_A": "opinion",
+   "read_B": "order"
+  },
+  {
+   "decision_id": "ilnd-2026-delliane-chinedu-obi-v-cook-county-illinois",
+   "read_A": "memorandum-opinion",
+   "read_B": "opinion"
+  },
+  {
+   "decision_id": "alnd-2026-pleasant-v-burns",
+   "read_A": "order",
+   "read_B": "memorandum-opinion"
+  },
+  {
+   "decision_id": "pacommwct-2026-nancy-parkinson-v-unemployment-compensation-board",
+   "read_A": "opinion",
+   "read_B": "memorandum-opinion"
+  },
+  {
+   "decision_id": "wawd-2026-ward-v-amazon-com-services",
+   "read_A": "opinion",
+   "read_B": "order"
+  },
+  {
+   "decision_id": "ctb-2026-in-re-kathleen-a-rabon",
+   "read_A": "order",
+   "read_B": "memorandum-opinion"
+  },
+  {
+   "decision_id": "texapp-2026-stanford-v-leinart",
+   "read_A": "opinion",
+   "read_B": "memorandum-opinion"
+  },
+  {
+   "decision_id": "ilcd-2026-feldman-and-trost-v-district-6-board",
+   "read_A": "order",
+   "read_B": "opinion"
+  },
+  {
+   "decision_id": "minnctapp-2026-rushing-v-rushing-and-christ",
+   "read_A": "opinion",
+   "read_B": "order"
+  },
+  {
+   "decision_id": "ilnd-2026-ella-and-ramin-v-travelers-insurance",
+   "read_A": "memorandum-opinion",
+   "read_B": "order"
+  },
+  {
+   "decision_id": "dcd-2026-zavadovsky-v-republic-of-austria",
+   "read_A": "order",
+   "read_B": "memorandum-opinion"
+  },
+  {
+   "decision_id": "ohsd-2026-quandel-construction-group-v-hunt-construction-group",
+   "read_A": "order",
+   "read_B": "opinion"
+  },
+  {
+   "decision_id": "arizctapp-2026-hampton-v-lofton",
+   "read_A": "opinion",
+   "read_B": "memorandum-opinion"
+  },
+  {
+   "decision_id": "cacd-2026-leonard-colbert-v-county-of-riverside",
+   "read_A": "order",
+   "read_B": "memorandum-opinion"
+  },
+  {
+   "decision_id": "moed-2026-jaii-leshawn-quinones-v-unknown-love",
+   "read_A": "order",
+   "read_B": "memorandum-opinion"
+  },
+  {
+   "decision_id": "ksd-2026-ford-v-sherwin-williams",
+   "read_A": "order",
+   "read_B": "memorandum-opinion"
+  },
+  {
+   "decision_id": "nysd-2026-route-6-holdings-v-town-of-yorktown",
+   "read_A": "order",
+   "read_B": "opinion"
+  }
+ ],
+ "primary_topic": [
+  {
+   "decision_id": "insd-2026-philip-d-dennison-v-june-caudill",
+   "read_A": "fabricated-citations",
+   "read_B": "rules-by-opinion"
+  },
+  {
+   "decision_id": "mad-2026-souza-v-city-of-fitchburg",
+   "read_A": "fabricated-citations",
+   "read_B": "pro-se-ai-use"
+  }
+ ],
+ "topics": [
+  {
+   "decision_id": "insd-2026-philip-d-dennison-v-june-caudill",
+   "read_A": [
+    "fabricated-citations",
+    "rules-by-opinion"
+   ],
+   "read_B": [
+    "rules-by-opinion"
+   ]
+  },
+  {
+   "decision_id": "orctapp-2026-carol-l-williams-v-tracy-honl",
+   "read_A": [
+    "fabricated-citations",
+    "competence-fees"
+   ],
+   "read_B": [
+    "fabricated-citations"
+   ]
+  },
+  {
+   "decision_id": "caed-2026-krista-c-geddes-v-loancare",
+   "read_A": [
+    "fabricated-citations",
+    "competence-fees"
+   ],
+   "read_B": [
+    "fabricated-citations"
+   ]
+  },
+  {
+   "decision_id": "nev-2026-yanling-zhang-v-yanhui-zhang",
+   "read_A": [
+    "fabricated-citations",
+    "competence-fees"
+   ],
+   "read_B": [
+    "fabricated-citations"
+   ]
+  },
+  {
+   "decision_id": "pr-2026-in-re-maria-v-irizarry-centeno-anissa-m-bonilla-irizarry",
+   "read_A": [
+    "fabricated-citations",
+    "competence-fees",
+    "rules-by-opinion"
+   ],
+   "read_B": [
+    "fabricated-citations",
+    "competence-fees"
+   ]
+  },
+  {
+   "decision_id": "txed-2026-laud-essandoh-v-capital-one-bank-na",
+   "read_A": [
+    "rules-by-opinion",
+    "discovery-ediscovery"
+   ],
+   "read_B": [
+    "rules-by-opinion",
+    "pro-se-ai-use"
+   ]
+  },
+  {
+   "decision_id": "ilnd-2026-allen-v-hunt",
+   "read_A": [
+    "fabricated-citations",
+    "rules-by-opinion"
+   ],
+   "read_B": [
+    "fabricated-citations"
+   ]
+  },
+  {
+   "decision_id": "bap8-2026-tahnee-r-young-v-happy-money",
+   "read_A": [
+    "fabricated-citations"
+   ],
+   "read_B": [
+    "fabricated-citations",
+    "unauthorized-practice"
+   ]
+  },
+  {
+   "decision_id": "nvd-2026-sims-v-souily-lefave",
+   "read_A": [
+    "fabricated-citations"
+   ],
+   "read_B": [
+    "fabricated-citations",
+    "discovery-ediscovery"
+   ]
+  },
+  {
+   "decision_id": "jpml-2026-in-re-philips-recalled-cpap-bi-level",
+   "read_A": [
+    "fabricated-citations",
+    "competence-fees"
+   ],
+   "read_B": [
+    "fabricated-citations"
+   ]
+  },
+  {
+   "decision_id": "ca6-2026-united-states-v-farris",
+   "read_A": [
+    "fabricated-citations",
+    "competence-fees"
+   ],
+   "read_B": [
+    "fabricated-citations"
+   ]
+  },
+  {
+   "decision_id": "nysupct-2026-group-p-c-v-james-kaloidis",
+   "read_A": [
+    "fabricated-citations",
+    "competence-fees"
+   ],
+   "read_B": [
+    "fabricated-citations"
+   ]
+  },
+  {
+   "decision_id": "cand-2026-najafpir-v-wells-fargo-bank-n-a",
+   "read_A": [
+    "fabricated-citations",
+    "rules-by-opinion"
+   ],
+   "read_B": [
+    "fabricated-citations"
+   ]
+  },
+  {
+   "decision_id": "innd-2026-joseph-maldonado-v-professional-animal-retirement-center",
+   "read_A": [
+    "fabricated-citations",
+    "competence-fees"
+   ],
+   "read_B": [
+    "fabricated-citations"
+   ]
+  },
+  {
+   "decision_id": "alsd-2026-heimkes-v-fairhope-motorcoach-resort",
+   "read_A": [
+    "fabricated-citations",
+    "competence-fees"
+   ],
+   "read_B": [
+    "fabricated-citations"
+   ]
+  },
+  {
+   "decision_id": "azd-2026-chelsea-montes-v-suns-legacy-partners",
+   "read_A": [
+    "fabricated-citations",
+    "competence-fees"
+   ],
+   "read_B": [
+    "fabricated-citations"
+   ]
+  },
+  {
+   "decision_id": "ksd-2026-ford-v-sherwin-williams",
+   "read_A": [
+    "fabricated-citations",
+    "rules-by-opinion"
+   ],
+   "read_B": [
+    "fabricated-citations"
+   ]
+  },
+  {
+   "decision_id": "mad-2026-souza-v-city-of-fitchburg",
+   "read_A": [
+    "fabricated-citations"
+   ],
+   "read_B": [
+    "pro-se-ai-use"
+   ]
+  }
+ ],
+ "actor": [
+  {
+   "decision_id": "insd-2026-philip-d-dennison-v-june-caudill",
+   "read_A": "litigant-in-person",
+   "read_B": null
+  },
+  {
+   "decision_id": "alnd-2026-pleasant-v-burns",
+   "read_A": "lawyer",
+   "read_B": "litigant-in-person"
+  },
+  {
+   "decision_id": "mad-2026-souza-v-city-of-fitchburg",
+   "read_A": "litigant-in-person",
+   "read_B": null
+  }
+ ],
+ "ai_tool": [
+  {
+   "decision_id": "alsd-2026-heimkes-v-fairhope-motorcoach-resort",
+   "read_A": "Westlaw CoCounsel",
+   "read_B": "Westlaw Cocounsel"
+  }
+ ],
+ "ai_mention": []
+}

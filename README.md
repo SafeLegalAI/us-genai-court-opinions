@@ -116,6 +116,7 @@ This release is the first after an independent audit. On 8 September 2026 a 50-r
 - **2026-09-08** — Independent re-read of a 50-row random sample (seed 20260908). 22 rows with ≥1 coding error (44%); 0 passage or identification errors. Threshold for a full re-read was 5%.
 - **2026-09-08** — Full second read of every row from the court document, six independent agents, one rubric. 555 of 569 rows re-coded; 14 could not be re-fetched (court hosts unreachable that day) and carry "Second read pending" in notes; 1 row withdrawn because the document was counsel's letter, not a court document. 3,025 field changes across 568 rows: 197 outcomes re-coded (58 from "other" to the new "none"; all 7 "strike-off" rows re-coded — none was a removal from the roll), 343 docket strings normalised, 95 generic "AI" labels moved out of the tool field into the new ai_mention column, 5 placeholder penalties set to null, topics changed on 133 rows.
 - **2026-09-08** — Official-copy resolution: GovInfo (USCOURTS) API by docket with the quoted passage required to match; state-court archives by hand-briefed agents; CourtListener RECAP search within Free Law Project's published limits. (CourtListener: 106 searches on 8 Sep → 6 rows.) 300 of 566 rows now read from the court's own copy or the public RECAP archive (from 53). 266 remain read from a public copy of the court's PDF: the court does not publish the order online, or its site refuses the identified bot (69 rows, queued for hand download), or the host timed out.
+- **2026-09-08** — Inter-rater check: one 95-row slice was independently coded twice from the same documents (the first agent finished late; its output was kept as a cross-check, not merged). Agreement on ai_mention 100%, monetary penalty 100%, tool 99%, primary topic 98%, actor 97%, outcome 89% (10 rows, mostly warning vs none/filing-struck), topics 81%, document type 76%. The 10 outcome disagreements are listed for the editor in work/recode/crosscheck-4-disagreements.json; the published coding is the second read's.
 
 The ai_mention column says whether the court itself names AI (435 rows), or only says the authorities do not exist or are misquoted (118); the corpus includes the last group because the pattern is the one courts associate with generative AI, and readers who want only decisions that name AI can filter on it. The outcome column is the most severe consequence the court imposed in that document, on a defined ladder; it is not a finding about any person. A quarterly 50-row independent re-read is standing practice and its result replaces this one.
 
@@ -141,14 +142,14 @@ Provided as is, without warranty. Not legal advice. SafeLegalAI (Cognesio LLP) r
 
 ## Cite
 
-> SafeLegalAI (Cognesio LLP), "US court decisions on generative AI", v0.2.1, 2026-09-08. https://huggingface.co/datasets/safelegalaidata/us-genai-court-opinions — CC BY 4.0. Canonical: https://safelegalai.com/courts
+> SafeLegalAI (Cognesio LLP), "US court decisions on generative AI", v0.2.2, 2026-09-08. https://huggingface.co/datasets/safelegalaidata/us-genai-court-opinions — CC BY 4.0. Canonical: https://safelegalai.com/courts
 
 ```bibtex
-@dataset{safelegalai_us_genai_court_opinions_0_2_1,
+@dataset{safelegalai_us_genai_court_opinions_0_2_2,
   title        = {US court decisions on generative AI},
   author       = {{SafeLegalAI (Cognesio LLP)}},
   year         = {2026},
-  version      = {0.2.1},
+  version      = {0.2.2},
   url          = {https://safelegalai.com/courts},
   note         = {Mirror: https://huggingface.co/datasets/safelegalaidata/us-genai-court-opinions. Data CC BY 4.0. Built 2026-09-08.}
 }
