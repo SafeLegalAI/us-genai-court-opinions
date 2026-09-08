@@ -130,7 +130,9 @@ A `decisions` row is one court-authored document: `case_name`, `court`, `court_l
 
 ## Method
 
-Leads came from Damien Charlotin's CC0 AI Hallucination Cases database, the CourtListener search index (discovery only, within its public rate limits; a partnership request to Free Law Project is pending), court-website searches and news reports; every document was then fetched from the issuing court's site, govinfo.gov or the public RECAP archive and read. Coding is conservative and the passage is quoted so readers can check it. Fabricated-citation decisions have one canonical page in the incident tracker; this corpus links to it rather than duplicating it.
+Leads came from Damien Charlotin's AI Hallucination Cases Database (CC BY 4.0, damiencharlotin.com — confirmed by the author on 8 September 2026; the Zenodo record 10.5281/zenodo.21845901 is a third-party snapshot he does not stand behind and is not cited here), the CourtListener search index (discovery only, within its public rate limits; a partnership request to Free Law Project is pending), court-website searches and news reports; every document was then fetched from the issuing court's site, govinfo.gov or the public RECAP archive and read. Coding is conservative and the passage is quoted so readers can check it. Fabricated-citation decisions have one canonical page in the incident tracker; this corpus links to it rather than duplicating it.
+
+**Attribution for leads.** Leads from Damien Charlotin's AI Hallucination Cases Database (CC BY 4.0), damiencharlotin.com; each decision re-read and coded by SafeLegalAI.
 
 SafeLegalAI records what courts, regulators, legislatures and vendors' own public pages state; it does not infer, rank or advise. Coding columns are SafeLegalAI's good-faith reading for comparison, not findings about any person or body. Corrections and right of reply: [safelegalai.com/report](https://safelegalai.com/report).
 
@@ -148,14 +150,14 @@ Provided as is, without warranty. Not legal advice. SafeLegalAI (Cognesio LLP) r
 
 ## Cite
 
-> SafeLegalAI (Cognesio LLP), "US court decisions on generative AI", v0.1.1, 2026-09-08. https://huggingface.co/datasets/safelegalaidata/us-genai-court-opinions — CC BY 4.0. Canonical: https://safelegalai.com/courts
+> SafeLegalAI (Cognesio LLP), "US court decisions on generative AI", v0.1.2, 2026-09-08. https://huggingface.co/datasets/safelegalaidata/us-genai-court-opinions — CC BY 4.0. Canonical: https://safelegalai.com/courts
 
 ```bibtex
-@dataset{safelegalai_us_genai_court_opinions_0_1_1,
+@dataset{safelegalai_us_genai_court_opinions_0_1_2,
   title        = {US court decisions on generative AI},
   author       = {{SafeLegalAI (Cognesio LLP)}},
   year         = {2026},
-  version      = {0.1.1},
+  version      = {0.1.2},
   url          = {https://safelegalai.com/courts},
   note         = {Mirror: https://huggingface.co/datasets/safelegalaidata/us-genai-court-opinions. Data CC BY 4.0. Built 2026-09-08.}
 }

@@ -13,7 +13,7 @@
   "public-domain"
  ],
  "what_a_row_is": "A `decisions` row is one court-authored document: `case_name`, `court`, `court_level`, `state`, `date_filed`, `citation`, `docket_number`, `document_type`, `topics[]` (fabricated-citations · court-ai-use · evidence-authentication · discovery-ediscovery · privilege-work-product · unauthorized-practice · criminal-justice-algorithms · pro-se-ai-use · competence-fees · rules-by-opinion · substantive-ai-law), `primary_topic`, `court_used_ai`, `ai_tool_named`, `disposition`, the verbatim public-domain `ai_passage`, `cited_authorities[]`, a 40–60-word `summary`, `incident{}` (conduct/outcome/actor/penalty when the row is a fabricated-citation decision) and `tracker_slug` (its canonical page in the SafeLegalAI incident tracker). A `litigation` row is one proceeding in which a legal-AI company or product is a party, with dated `milestones[]`.",
- "method": "Leads came from Damien Charlotin's CC0 AI Hallucination Cases database, the CourtListener search index (discovery only, within its public rate limits; a partnership request to Free Law Project is pending), court-website searches and news reports; every document was then fetched from the issuing court's site, govinfo.gov or the public RECAP archive and read. Coding is conservative and the passage is quoted so readers can check it. Fabricated-citation decisions have one canonical page in the incident tracker; this corpus links to it rather than duplicating it.",
+ "method": "Leads came from Damien Charlotin's AI Hallucination Cases Database (CC BY 4.0, damiencharlotin.com — confirmed by the author on 8 September 2026; the Zenodo record 10.5281/zenodo.21845901 is a third-party snapshot he does not stand behind and is not cited here), the CourtListener search index (discovery only, within its public rate limits; a partnership request to Free Law Project is pending), court-website searches and news reports; every document was then fetched from the issuing court's site, govinfo.gov or the public RECAP archive and read. Coding is conservative and the passage is quoted so readers can check it. Fabricated-citation decisions have one canonical page in the incident tracker; this corpus links to it rather than duplicating it.",
  "licence_note": "Opinions, orders and rules of United States courts are public domain (17 U.S.C. § 105; *Banks v. Manchester* (1888); *Georgia v. Public.Resource.Org* (2020)).",
  "banned_hosts": [
   "advance.lexis.com",
@@ -64,5 +64,6 @@
   }
  },
  "repo": "us-genai-court-opinions",
- "version": "0.1.0"
+ "version": "0.1.0",
+ "attribution": "Leads from Damien Charlotin's AI Hallucination Cases Database (CC BY 4.0), damiencharlotin.com; each decision re-read and coded by SafeLegalAI."
 }
