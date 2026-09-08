@@ -1,0 +1,2187 @@
+[
+ {
+  "decision_id": "ca5-2026-united-states-v-jose-marquez",
+  "case_name": "United States v. Jose Marquez",
+  "court": "United States Court of Appeals for the Fifth Circuit",
+  "court_level": "federal-appellate",
+  "docket_number": "25-50866 Summary Calendar",
+  "date_filed": "2026-04-24",
+  "source_url": "https://www.damiencharlotin.com/documents/2077/USA_v._MArquez_USA_24_April_2026.pdf",
+  "mirror_url": null,
+  "verification": "mirror-read",
+  "primary_topic": "fabricated-citations",
+  "topics": [
+   "fabricated-citations"
+  ],
+  "incident": {
+   "actor": "litigant-in-person",
+   "ai_tool": null,
+   "conduct": "The self-represented plaintiff filed a brief with one fabricated case citation, one false case quotation, and one mischaracterized case citation.",
+   "currency": null,
+   "monetary_penalty": null,
+   "outcome": "warning"
+  }
+ },
+ {
+  "decision_id": "nysupct-2026-keefe-v-bmakin-film",
+  "case_name": "Keefe v. BMakin Film Ltd",
+  "court": "Supreme Court of the State of New York",
+  "court_level": "state-trial",
+  "docket_number": "525621/2025. April 24, 2026",
+  "date_filed": "2026-04-24",
+  "source_url": "https://www.damiencharlotin.com/documents/2326/2_-_Keefe_v_BMakin_Film_Ltd.pdf",
+  "mirror_url": null,
+  "verification": "mirror-read",
+  "primary_topic": "fabricated-citations",
+  "topics": [
+   "fabricated-citations"
+  ],
+  "incident": {
+   "actor": "litigant-in-person",
+   "ai_tool": null,
+   "conduct": "The self-represented party filed a motion with one fabricated case citation, two false case quotations, and one mischaracterized case citation, including Klapper v. Graziano and Clark v. Velsiplast Corp.",
+   "currency": null,
+   "monetary_penalty": null,
+   "outcome": "warning"
+  }
+ },
+ {
+  "decision_id": "ca10-2026-ryan-michael-jarvis-v-county-of-teton-wyoming",
+  "case_name": "Ryan-Michael Jarvis v. County of Teton Wyoming",
+  "court": "United States Court of Appeals for the Tenth Circuit",
+  "court_level": "federal-appellate",
+  "docket_number": "25-8034",
+  "date_filed": "2026-04-24",
+  "source_url": "https://www.damiencharlotin.com/documents/2051/Jarvis_v._County_USA_24_April_2026.pdf",
+  "mirror_url": null,
+  "verification": "mirror-read",
+  "primary_topic": "fabricated-citations",
+  "topics": [
+   "fabricated-citations"
+  ],
+  "incident": {
+   "actor": "litigant-in-person",
+   "ai_tool": null,
+   "conduct": "The self-represented party filed a pleading with one false case quotation and one mischaracterized case citation.",
+   "currency": null,
+   "monetary_penalty": null,
+   "outcome": "warning"
+  }
+ },
+ {
+  "decision_id": "calctapp2-2026-o-k-v-melka",
+  "case_name": "O.K., LLC v. Melka",
+  "court": "California Court of Appeal, Second District",
+  "court_level": "state-appellate",
+  "docket_number": "LC103261",
+  "date_filed": "2026-04-23",
+  "source_url": "https://www.damiencharlotin.com/documents/2080/OK_v._Melka_USA_23_April_2026.pdf",
+  "mirror_url": null,
+  "verification": "mirror-read",
+  "primary_topic": "fabricated-citations",
+  "topics": [
+   "fabricated-citations"
+  ],
+  "incident": {
+   "actor": "litigant-in-person",
+   "ai_tool": null,
+   "conduct": "The self-represented party filed a reply brief with one fabricated case citation and one mischaracterized case citation.",
+   "currency": null,
+   "monetary_penalty": null,
+   "outcome": "other"
+  }
+ },
+ {
+  "decision_id": "mdapp-2026-fatima-meziane-v-abdelouahab-aitouche",
+  "case_name": "Fatima Meziane v. Abdelouahab Aitouche",
+  "court": "Appellate Court of Maryland",
+  "court_level": "state-appellate",
+  "docket_number": "C-15- FM-23-003513 Berger, Friedman, Sharer, J. Frederick",
+  "date_filed": "2026-04-23",
+  "source_url": "https://www.damiencharlotin.com/documents/2057/FATIMA_MEZIANE_v_ABDELOUAHAB_AITOUCHE_23_April_2026.pdf",
+  "mirror_url": null,
+  "verification": "mirror-read",
+  "primary_topic": "fabricated-citations",
+  "topics": [
+   "fabricated-citations"
+  ],
+  "incident": {
+   "actor": "litigant-in-person",
+   "ai_tool": null,
+   "conduct": "The self-represented appellant filed a brief with two fabricated case citations, including Hurd v. Hurd and Bradley v. Bradley.",
+   "currency": null,
+   "monetary_penalty": null,
+   "outcome": "other"
+  }
+ },
+ {
+  "decision_id": "texapp-2026-in-re-paula-m-miller",
+  "case_name": "IN RE PAULA M. MILLER, Relator",
+  "court": "Texas Court of Appeals",
+  "court_level": "state-appellate",
+  "docket_number": "01-26-00319-CV",
+  "date_filed": "2026-04-23",
+  "source_url": "https://www.damiencharlotin.com/documents/2050/IN_re_Paula_Miller_USA.pdf",
+  "mirror_url": null,
+  "verification": "mirror-read",
+  "primary_topic": "fabricated-citations",
+  "topics": [
+   "fabricated-citations"
+  ],
+  "incident": {
+   "actor": "lawyer",
+   "ai_tool": null,
+   "conduct": "Counsel filed a submission with one fabricated case citation and one false case quotation.",
+   "currency": null,
+   "monetary_penalty": null,
+   "outcome": "warning"
+  }
+ },
+ {
+  "decision_id": "akd-2026-gunter-v-contango-ore",
+  "case_name": "Gunter v. Contango ORE, Inc., et al.",
+  "court": "United States District Court for the District of Alaska",
+  "court_level": "federal-district",
+  "docket_number": null,
+  "date_filed": "2026-04-23",
+  "source_url": "https://www.damiencharlotin.com/documents/2059/Gunter_v._Contango_USA_23_April_2026.pdf",
+  "mirror_url": null,
+  "verification": "mirror-read",
+  "primary_topic": "fabricated-citations",
+  "topics": [
+   "fabricated-citations"
+  ],
+  "incident": {
+   "actor": "litigant-in-person",
+   "ai_tool": null,
+   "conduct": "The self-represented party filed a submission with three mischaracterized case citations, one fabricated legal rule, and one fabricated or AI-like submission item.",
+   "currency": null,
+   "monetary_penalty": null,
+   "outcome": "warning"
+  }
+ },
+ {
+  "decision_id": "insd-2026-philip-d-dennison-v-june-caudill",
+  "case_name": "Philip D. Dennison v. June Caudill et al.",
+  "court": "United States District Court for the Southern District of Indiana",
+  "court_level": "federal-district",
+  "docket_number": "2:26-cv-00255-JRO-MKK",
+  "date_filed": "2026-04-23",
+  "source_url": "https://www.damiencharlotin.com/documents/2049/Dennisson_v._Caudill_USA_23_April_2026.pdf",
+  "mirror_url": null,
+  "verification": "mirror-read",
+  "primary_topic": "fabricated-citations",
+  "topics": [
+   "fabricated-citations"
+  ],
+  "incident": {
+   "actor": "litigant-in-person",
+   "ai_tool": null,
+   "conduct": "The self-represented party filed a pleading with one fabricated case citation, including Coleman v. Hudson.",
+   "currency": null,
+   "monetary_penalty": null,
+   "outcome": "warning"
+  }
+ },
+ {
+  "decision_id": "texapp-2026-joann-crawford-v-buffalo-creek-properties",
+  "case_name": "Joann Crawford v. Buffalo Creek Properties, LLC",
+  "court": "Texas Court of Appeals",
+  "court_level": "state-appellate",
+  "docket_number": "03-24-00260-CV",
+  "date_filed": "2026-04-23",
+  "source_url": "https://www.damiencharlotin.com/documents/2027/Joann_Crawford_Appellant_v_Buffalo_Creek_Properties_LLC_Appellee.pdf",
+  "mirror_url": null,
+  "verification": "mirror-read",
+  "primary_topic": "fabricated-citations",
+  "topics": [
+   "fabricated-citations"
+  ],
+  "incident": {
+   "actor": "litigant-in-person",
+   "ai_tool": null,
+   "conduct": "The self-represented party filed a brief with two fabricated case citations and one invented legal doctrine, including Hercenberger v. Proctor' without a reporter citation and Hercenberger v. Proctor.",
+   "currency": null,
+   "monetary_penalty": null,
+   "outcome": "other"
+  }
+ },
+ {
+  "decision_id": "orctapp-2026-carol-l-williams-v-tracy-honl",
+  "case_name": "Carol L. Williams v. Tracy Honl",
+  "court": "Oregon Court of Appeals",
+  "court_level": "state-appellate",
+  "docket_number": null,
+  "date_filed": "2026-04-22",
+  "source_url": "https://www.damiencharlotin.com/documents/2017/Williams_v._Honl_USA_22_April_2026.pdf",
+  "mirror_url": null,
+  "verification": "mirror-read",
+  "primary_topic": "fabricated-citations",
+  "topics": [
+   "fabricated-citations"
+  ],
+  "incident": {
+   "actor": "lawyer",
+   "ai_tool": null,
+   "conduct": "Counsel filed an opening brief with one fabricated case citation, one false case quotation, and three mischaracterized case citations, including Tubra v. Cooke and Neumann v. Liles.",
+   "currency": "USD",
+   "monetary_penalty": 8044,
+   "outcome": "costs-order"
+  }
+ },
+ {
+  "decision_id": "caed-2026-krista-c-geddes-v-loancare",
+  "case_name": "Krista C. Geddes v. LoanCare, LLC, et al.",
+  "court": "United States District Court for the Eastern District of California",
+  "court_level": "federal-district",
+  "docket_number": "2:25-cv-02955-DMC",
+  "date_filed": "2026-04-22",
+  "source_url": "https://www.damiencharlotin.com/documents/2018/Geddes_v._Loancare_USA_22_April_2026.pdf",
+  "mirror_url": null,
+  "verification": "mirror-read",
+  "primary_topic": "fabricated-citations",
+  "topics": [
+   "fabricated-citations"
+  ],
+  "incident": {
+   "actor": "lawyer",
+   "ai_tool": null,
+   "conduct": "Counsel filed a submission with two false case quotations.",
+   "currency": "USD",
+   "monetary_penalty": 1000,
+   "outcome": "referral"
+  }
+ },
+ {
+  "decision_id": "nev-2026-yanling-zhang-v-yanhui-zhang",
+  "case_name": "Yanling Zhang v. Yanhui Zhang",
+  "court": "Supreme Court of Nevada",
+  "court_level": "state-supreme",
+  "docket_number": "90509 FILE . BROWN EME COURT IN THE SUPREME COURT O",
+  "date_filed": "2026-04-22",
+  "source_url": "https://www.damiencharlotin.com/documents/2088/Zhang_v._Zhang_USA_22_April_2026.pdf",
+  "mirror_url": null,
+  "verification": "mirror-read",
+  "primary_topic": "fabricated-citations",
+  "topics": [
+   "fabricated-citations"
+  ],
+  "incident": {
+   "actor": "lawyer",
+   "ai_tool": null,
+   "conduct": "Counsel filed an opening brief with two fabricated case citations and two mischaracterized case citations, including City of Henderson v. Bldg. & Constr. Trades Council and Blakeney v. State.",
+   "currency": "USD",
+   "monetary_penalty": 250,
+   "outcome": "referral"
+  }
+ },
+ {
+  "decision_id": "texapp4-2026-meyer-v-castroville-state-bank",
+  "case_name": "Meyer v. Castroville State Bank",
+  "court": "Texas Court of Appeals, Fourth District",
+  "court_level": "state-appellate",
+  "docket_number": "04-25-00278-CV Lance J. MEYER and Kerry L. Meyer, A",
+  "date_filed": "2026-04-22",
+  "source_url": "https://www.damiencharlotin.com/documents/2016/Meyer_v._Castrovill_USA_22_April_2026.pdf",
+  "mirror_url": null,
+  "verification": "mirror-read",
+  "primary_topic": "fabricated-citations",
+  "topics": [
+   "fabricated-citations"
+  ],
+  "incident": {
+   "actor": "litigant-in-person",
+   "ai_tool": null,
+   "conduct": "The self-represented party filed a submission with two fabricated case citations.",
+   "currency": null,
+   "monetary_penalty": null,
+   "outcome": "other"
+  }
+ },
+ {
+  "decision_id": "azd-2026-daniel-dagostino-v-circle-k-stores-incorporated",
+  "case_name": "Daniel D’Agostino v. Circle K Stores Incorporated, et al.",
+  "court": "United States District Court for the District of Arizona",
+  "court_level": "federal-district",
+  "docket_number": "2:26-cv-01225-JAT",
+  "date_filed": "2026-04-22",
+  "source_url": "https://www.damiencharlotin.com/documents/2073/DAgostino_v_Circle_K_Stores_Incorporated_USA_23_April_2026.pdf",
+  "mirror_url": null,
+  "verification": "mirror-read",
+  "primary_topic": "fabricated-citations",
+  "topics": [
+   "fabricated-citations"
+  ],
+  "incident": {
+   "actor": "litigant-in-person",
+   "ai_tool": null,
+   "conduct": "The self-represented plaintiff filed a motion with one fabricated case citation, including LLC v. Law Offices of Jeffrey Lohman.",
+   "currency": null,
+   "monetary_penalty": null,
+   "outcome": "other"
+  }
+ },
+ {
+  "decision_id": "utd-2026-primerica-life-insurance-v-daniel-vett-finlayson-michelle-johnson",
+  "case_name": "Primerica Life Insurance Company v. Daniel Vett Finlayson; Michelle Johnson",
+  "court": "United States District Court for the District of Utah",
+  "court_level": "federal-district",
+  "docket_number": "2:24-cv-00779-AMA-DBP",
+  "date_filed": "2026-04-22",
+  "source_url": "https://www.damiencharlotin.com/documents/2021/Primerica_USA_22_April_2026.pdf",
+  "mirror_url": null,
+  "verification": "mirror-read",
+  "primary_topic": "fabricated-citations",
+  "topics": [
+   "fabricated-citations"
+  ],
+  "incident": {
+   "actor": "lawyer",
+   "ai_tool": null,
+   "conduct": "Counsel filed an opposition with one fabricated case citation and one false case quotation.",
+   "currency": null,
+   "monetary_penalty": null,
+   "outcome": "warning"
+  }
+ },
+ {
+  "decision_id": "mied-2026-alishia-monique-jones-v-ahmed-taylor",
+  "case_name": "Alishia Monique Jones v. Ahmed Taylor, et al.",
+  "court": "United States District Court for the Eastern District of Michigan",
+  "court_level": "federal-district",
+  "docket_number": "2:25-cv-10681 v. Honorable Susan K. DeClercq United",
+  "date_filed": "2026-04-22",
+  "source_url": "https://www.damiencharlotin.com/documents/2019/Jones_v._Taylor_USA_22_April_2026.pdf",
+  "mirror_url": null,
+  "verification": "mirror-read",
+  "primary_topic": "fabricated-citations",
+  "topics": [
+   "fabricated-citations"
+  ],
+  "incident": {
+   "actor": "litigant-in-person",
+   "ai_tool": null,
+   "conduct": "The self-represented plaintiff filed a submission with two fabricated case citations, including Tokio Marine & Fire Insurance Company v. Flota Mercante Grancolombiana and United States v. Robinson.",
+   "currency": null,
+   "monetary_penalty": null,
+   "outcome": "warning"
+  }
+ },
+ {
+  "decision_id": "calctapp6-2026-in-re-marriage-of-joanne-rodrigues-and-nathan-craig",
+  "case_name": "In re the Marriage of Joanne Rodrigues and Nathan Craig",
+  "court": "California Court of Appeal, Sixth District",
+  "court_level": "state-appellate",
+  "docket_number": "20FL000750",
+  "date_filed": "2026-04-22",
+  "source_url": "https://www.damiencharlotin.com/documents/2048/Rodrigues_v._Craig_USA_22_April_2022.pdf",
+  "mirror_url": null,
+  "verification": "mirror-read",
+  "primary_topic": "fabricated-citations",
+  "topics": [
+   "fabricated-citations"
+  ],
+  "incident": {
+   "actor": "litigant-in-person",
+   "ai_tool": null,
+   "conduct": "The self-represented appellant filed a brief with nine fabricated case citations.",
+   "currency": null,
+   "monetary_penalty": null,
+   "outcome": "other"
+  }
+ },
+ {
+  "decision_id": "pr-2026-in-re-maria-v-irizarry-centeno-anissa-m-bonilla-irizarry",
+  "case_name": "In re: María V. Irizarry Centeno; Anissa M. Bonilla Irizarry",
+  "court": "Supreme Court of Puerto Rico",
+  "court_level": "state-supreme",
+  "docket_number": null,
+  "date_filed": "2026-04-21",
+  "source_url": "https://www.damiencharlotin.com/documents/2047/In_re_Mar%C3%ADa_V._IRIZARRY_CENTENO_USA_21_April_2026.pdf",
+  "mirror_url": null,
+  "verification": "mirror-read",
+  "primary_topic": "fabricated-citations",
+  "topics": [
+   "fabricated-citations"
+  ],
+  "incident": {
+   "actor": "lawyer",
+   "ai_tool": null,
+   "conduct": "Counsel filed a submission with six fabricated case citations, including Otero-Burgos v. Inter Med. Supplies and Rosado v. ELA.",
+   "currency": "USD",
+   "monetary_penalty": 1000,
+   "outcome": "fine"
+  }
+ },
+ {
+  "decision_id": "dcsuperct-2026-jurkowski-v-berkowitz",
+  "case_name": "Jurkowski v. Berkowitz",
+  "court": "Superior Court of the District of Columbia",
+  "court_level": "state-trial",
+  "docket_number": "2025-CAB-8255. April 21, 2026",
+  "date_filed": "2026-04-21",
+  "source_url": "https://www.damiencharlotin.com/documents/2327/3_-_Jurkowski_v_Berkowitz.pdf",
+  "mirror_url": null,
+  "verification": "mirror-read",
+  "primary_topic": "fabricated-citations",
+  "topics": [
+   "fabricated-citations"
+  ],
+  "incident": {
+   "actor": "litigant-in-person",
+   "ai_tool": null,
+   "conduct": "The self-represented plaintiff filed a pleading with one fabricated case citation and one mischaracterized case citation.",
+   "currency": null,
+   "monetary_penalty": null,
+   "outcome": "warning"
+  }
+ },
+ {
+  "decision_id": "alnd-2026-bridgett-watson-adams-v-3m",
+  "case_name": "Bridgett Watson Adams, et al. v. 3M Company",
+  "court": "United States District Court for the Northern District of Alabama",
+  "court_level": "federal-district",
+  "docket_number": "4:24-cv-00832-CLM",
+  "date_filed": "2026-04-20",
+  "source_url": "https://www.damiencharlotin.com/documents/2577/Adams_-_43.pdf",
+  "mirror_url": null,
+  "verification": "mirror-read",
+  "primary_topic": "fabricated-citations",
+  "topics": [
+   "fabricated-citations"
+  ],
+  "incident": {
+   "actor": "lawyer",
+   "ai_tool": null,
+   "conduct": "Counsel filed an opposition with two fabricated case citations, three false case quotations, and three mischaracterized case citations.",
+   "currency": null,
+   "monetary_penalty": null,
+   "outcome": "pending"
+  }
+ },
+ {
+  "decision_id": "washctapp-2026-arthur-west-v-lower-duwamish-waterway-group",
+  "case_name": "Arthur West v. Lower Duwamish Waterway Group",
+  "court": "Washington Court of Appeals",
+  "court_level": "state-appellate",
+  "docket_number": "87289-3-I",
+  "date_filed": "2026-04-20",
+  "source_url": "https://www.damiencharlotin.com/documents/2023/West_v._Lower_Duwamish_USA_20_April_2026.pdf",
+  "mirror_url": null,
+  "verification": "mirror-read",
+  "primary_topic": "fabricated-citations",
+  "topics": [
+   "fabricated-citations"
+  ],
+  "incident": {
+   "actor": "litigant-in-person",
+   "ai_tool": null,
+   "conduct": "The self-represented party filed a brief with one fabricated case citation and one false case quotation.",
+   "currency": null,
+   "monetary_penalty": null,
+   "outcome": "warning"
+  }
+ },
+ {
+  "decision_id": "nysb-2026-in-re-prince-global-holdings-limited",
+  "case_name": "In re Prince Global Holdings Limited, et al.",
+  "court": "United States Bankruptcy Court for the Southern District of New York",
+  "court_level": "federal-bankruptcy",
+  "docket_number": "26-10769 Dear Chief",
+  "date_filed": "2026-04-18",
+  "source_url": "https://www.damiencharlotin.com/documents/2002/In_re_Prince_USA_18_April_2026.pdf",
+  "mirror_url": null,
+  "verification": "mirror-read",
+  "primary_topic": "fabricated-citations",
+  "topics": [
+   "fabricated-citations"
+  ],
+  "incident": {
+   "actor": "lawyer",
+   "ai_tool": null,
+   "conduct": "The firm filed a bankruptcy motion with AI-hallucinated case citations, a misquoted authority, and a garbled citation, then corrected the errors by letter.",
+   "currency": null,
+   "monetary_penalty": null,
+   "outcome": "other"
+  }
+ },
+ {
+  "decision_id": "cacd-2026-robert-harris-v-elementis-specialties",
+  "case_name": "Robert Harris v. Elementis Specialties, Inc.",
+  "court": "United States District Court for the Central District of California",
+  "court_level": "federal-district",
+  "docket_number": "EDCV 26-00171-KK-DTBx",
+  "date_filed": "2026-04-17",
+  "source_url": "https://www.damiencharlotin.com/documents/2058/Robert_Harris_v_Elementis_Specialties_Inc_et_al_USA_17_April_2026.pdf",
+  "mirror_url": null,
+  "verification": "mirror-read",
+  "primary_topic": "fabricated-citations",
+  "topics": [
+   "fabricated-citations"
+  ],
+  "incident": {
+   "actor": "lawyer",
+   "ai_tool": null,
+   "conduct": "Counsel filed a motion with one fabricated case citation and one mischaracterized case citation.",
+   "currency": null,
+   "monetary_penalty": null,
+   "outcome": "warning"
+  }
+ },
+ {
+  "decision_id": "txed-2026-laud-essandoh-v-capital-one-bank-na",
+  "case_name": "Laud Essandoh v. Capital One Bank NA",
+  "court": "United States District Court for the Eastern District of Texas",
+  "court_level": "federal-district",
+  "docket_number": "4:25-CV-00746-ALM-BD",
+  "date_filed": "2026-04-16",
+  "source_url": "https://www.damiencharlotin.com/documents/2024/Essandoh_v._Capital_One_USA_16_Arpil_2026.pdf",
+  "mirror_url": null,
+  "verification": "mirror-read",
+  "primary_topic": "fabricated-citations",
+  "topics": [
+   "fabricated-citations"
+  ],
+  "incident": {
+   "actor": "litigant-in-person",
+   "ai_tool": null,
+   "conduct": "The self-represented plaintiff submitted an inaccurate joint discovery report after relying on generative AI without adequate verification.",
+   "currency": null,
+   "monetary_penalty": null,
+   "outcome": "warning"
+  }
+ },
+ {
+  "decision_id": "cod-2026-jamie-lee-saunders-v-albertsons-safeway",
+  "case_name": "Jamie Lee Saunders v. Albertsons/Safeway, LLC",
+  "court": "United States District Court for the District of Colorado",
+  "court_level": "federal-district",
+  "docket_number": "1:24-cv-00814-PAB-SBP",
+  "date_filed": "2026-04-16",
+  "source_url": "https://www.damiencharlotin.com/documents/1995/Saunders_v._Albertsons_USA_16_April_2026.pdf",
+  "mirror_url": null,
+  "verification": "mirror-read",
+  "primary_topic": "fabricated-citations",
+  "topics": [
+   "fabricated-citations"
+  ],
+  "incident": {
+   "actor": "litigant-in-person",
+   "ai_tool": null,
+   "conduct": "The self-represented party filed a reply brief with one fabricated case citation.",
+   "currency": null,
+   "monetary_penalty": null,
+   "outcome": "warning"
+  }
+ },
+ {
+  "decision_id": "gao-2026-matter-of-logmet-b-423066-2",
+  "case_name": "Matter of: LOGMET LLC, B-423066.2",
+  "court": "Government Accountability Office",
+  "court_level": "federal-specialty",
+  "docket_number": "FA810824RB001, issued by the Department of the Air",
+  "date_filed": "2026-04-15",
+  "source_url": "https://www.damiencharlotin.com/documents/2020/LOGMET_LLC_885266.pdf",
+  "mirror_url": null,
+  "verification": "mirror-read",
+  "primary_topic": "fabricated-citations",
+  "topics": [
+   "fabricated-citations"
+  ],
+  "incident": {
+   "actor": "litigant-in-person",
+   "ai_tool": null,
+   "conduct": "The self-represented party filed a submission with one fabricated case citation and one mischaracterized case citation.",
+   "currency": null,
+   "monetary_penalty": null,
+   "outcome": "warning"
+  }
+ },
+ {
+  "decision_id": "texapp5-2026-fofanah-v-rockwall-rental-properties",
+  "case_name": "Fofanah v. Rockwall Rental Properties",
+  "court": "Texas Court of Appeals, Fifth District",
+  "court_level": "state-appellate",
+  "docket_number": "118630-422",
+  "date_filed": "2026-04-15",
+  "source_url": "https://www.damiencharlotin.com/documents/2022/Fofanah_USA_15_April_2026.pdf",
+  "mirror_url": null,
+  "verification": "mirror-read",
+  "primary_topic": "fabricated-citations",
+  "topics": [
+   "fabricated-citations"
+  ],
+  "incident": {
+   "actor": "litigant-in-person",
+   "ai_tool": null,
+   "conduct": "The self-represented appellant filed a reply brief with one fabricated case citation and two mischaracterized case citations, including Khan v. GBAK Properties and Jones v. American Real Estate Services.",
+   "currency": null,
+   "monetary_penalty": null,
+   "outcome": "other"
+  }
+ },
+ {
+  "decision_id": "illapp1-2026-stance-strong-and-kinisha-strong-v-zubha-pop-foods-d-b-a-popeyes-chicken",
+  "case_name": "Stance Strong and Kinisha Strong v. Zubha Pop Foods LLC d/b/a Popeyes Chicken",
+  "court": "Appellate Court of Illinois, First District",
+  "court_level": "state-appellate",
+  "docket_number": "1-24-2451",
+  "date_filed": "2026-04-15",
+  "source_url": "https://www.damiencharlotin.com/documents/1996/Strong_v._Zhuba_USA_16_April_2026.pdf",
+  "mirror_url": null,
+  "verification": "mirror-read",
+  "primary_topic": "fabricated-citations",
+  "topics": [
+   "fabricated-citations"
+  ],
+  "incident": {
+   "actor": "litigant-in-person",
+   "ai_tool": "Centient AI",
+   "conduct": "The self-represented plaintiff filed an opening brief with one fabricated case citation and two mischaracterized case citations, including Dunn v. Old Orchard Ctr and People v. Maurice Dunn after using Centient AI.",
+   "currency": null,
+   "monetary_penalty": null,
+   "outcome": "strike-off"
+  }
+ },
+ {
+  "decision_id": "minnctapp-2026-nelson-v-derry",
+  "case_name": "Nelson v. Derry",
+  "court": "Minnesota Court of Appeals",
+  "court_level": "state-appellate",
+  "docket_number": "62-FA-21-428 ConsideredanddecidedbyLarson,Presiding",
+  "date_filed": "2026-04-15",
+  "source_url": "https://www.damiencharlotin.com/documents/2015/In_re_Nelson_USA_15_April_2026.pdf",
+  "mirror_url": null,
+  "verification": "mirror-read",
+  "primary_topic": "fabricated-citations",
+  "topics": [
+   "fabricated-citations"
+  ],
+  "incident": {
+   "actor": "litigant-in-person",
+   "ai_tool": null,
+   "conduct": "The self-represented party filed a brief with one fabricated case citation, including DeMars v. DeMars.",
+   "currency": null,
+   "monetary_penalty": null,
+   "outcome": "other"
+  }
+ },
+ {
+  "decision_id": "insd-2026-cynthia-white-v-walmart",
+  "case_name": "Cynthia White v. Walmart, Inc.",
+  "court": "United States District Court for the Southern District of Indiana",
+  "court_level": "federal-district",
+  "docket_number": "1:25-cv-01120-RLY-TAB",
+  "date_filed": "2026-04-14",
+  "source_url": "https://www.damiencharlotin.com/documents/1979/White_v._Walmart_USA_14_April_2026.pdf",
+  "mirror_url": null,
+  "verification": "mirror-read",
+  "primary_topic": "fabricated-citations",
+  "topics": [
+   "fabricated-citations"
+  ],
+  "incident": {
+   "actor": "lawyer",
+   "ai_tool": null,
+   "conduct": "Counsel relied on AI-generated discovery talking points that overstated every interrogatory response as deficient instead of conducting a real meet-and-confer.",
+   "currency": null,
+   "monetary_penalty": null,
+   "outcome": "warning"
+  }
+ },
+ {
+  "decision_id": "caed-2026-shaw-v-city-of-portola",
+  "case_name": "Shaw v. City of Portola, et al.",
+  "court": "United States District Court for the Eastern District of California",
+  "court_level": "federal-district",
+  "docket_number": "2:25-CV-02461-DJC-DMC",
+  "date_filed": "2026-04-14",
+  "source_url": "https://www.damiencharlotin.com/documents/1993/Shaw_v._Portola_USA_15_April_2026.pdf",
+  "mirror_url": null,
+  "verification": "mirror-read",
+  "primary_topic": "fabricated-citations",
+  "topics": [
+   "fabricated-citations"
+  ],
+  "incident": {
+   "actor": "litigant-in-person",
+   "ai_tool": null,
+   "conduct": "The self-represented plaintiff filed a reply brief with one fabricated case citation and five mischaracterized case citations, including People v. Dang and Boyd v. City of San Diego.",
+   "currency": null,
+   "monetary_penalty": null,
+   "outcome": "pending"
+  }
+ },
+ {
+  "decision_id": "calctapp6-2026-michael-t-alexander-v-michelle-baass",
+  "case_name": "Michael T-Alexander v. Michelle Baass et al.",
+  "court": "California Court of Appeal, Sixth District",
+  "court_level": "state-appellate",
+  "docket_number": "23CV01552",
+  "date_filed": "2026-04-14",
+  "source_url": "https://www.damiencharlotin.com/documents/1985/Alexander_v._Baas_USA_14_April_2026.pdf",
+  "mirror_url": null,
+  "verification": "mirror-read",
+  "primary_topic": "fabricated-citations",
+  "topics": [
+   "fabricated-citations"
+  ],
+  "incident": {
+   "actor": "litigant-in-person",
+   "ai_tool": null,
+   "conduct": "The self-represented appellant filed a reply brief with one fabricated case citation and two false case quotations, including Tennessee v. Lane that do not appear in that opinion and People v. Superior Court.",
+   "currency": null,
+   "monetary_penalty": null,
+   "outcome": "warning"
+  }
+ },
+ {
+  "decision_id": "msnd-2026-brian-smith-v-td-auto-finance",
+  "case_name": "Brian Smith v. TD Auto Finance LLC, et al.",
+  "court": "United States District Court for the Northern District of Mississippi",
+  "court_level": "federal-district",
+  "docket_number": "19-12130,2020WL3832606, at",
+  "date_filed": "2026-04-14",
+  "source_url": "https://www.damiencharlotin.com/documents/1988/Smith_v._Auto_Finance_USA_14_April_2026.pdf",
+  "mirror_url": null,
+  "verification": "mirror-read",
+  "primary_topic": "fabricated-citations",
+  "topics": [
+   "fabricated-citations"
+  ],
+  "incident": {
+   "actor": "litigant-in-person",
+   "ai_tool": null,
+   "conduct": "The self-represented party filed a motion with one fabricated case citation.",
+   "currency": null,
+   "monetary_penalty": null,
+   "outcome": "warning"
+  }
+ },
+ {
+  "decision_id": "ilnd-2026-allen-v-hunt",
+  "case_name": "Allen v. Hunt",
+  "court": "United States District Court for the Northern District of Illinois",
+  "court_level": "federal-district",
+  "docket_number": "25-cv-02275",
+  "date_filed": "2026-04-13",
+  "source_url": "https://www.damiencharlotin.com/documents/1987/Allen_v._Hunt_USA_13.pdf",
+  "mirror_url": null,
+  "verification": "mirror-read",
+  "primary_topic": "fabricated-citations",
+  "topics": [
+   "fabricated-citations"
+  ],
+  "incident": {
+   "actor": "litigant-in-person",
+   "ai_tool": null,
+   "conduct": "The self-represented plaintiff filed a brief with two fabricated case citations, including LLC v. Sotera Health Co.",
+   "currency": null,
+   "monetary_penalty": null,
+   "outcome": "warning"
+  }
+ },
+ {
+  "decision_id": "ohctapp3-2026-state-of-ohio-v-abdullah-m-alqahtani",
+  "case_name": "State of Ohio v. Abdullah M. Alqahtani",
+  "court": "Ohio Court of Appeals, Third District",
+  "court_level": "state-appellate",
+  "docket_number": "2-25-11",
+  "date_filed": "2026-04-13",
+  "source_url": "https://www.damiencharlotin.com/documents/1983/Ohio_v._Alqahtani_USA_10_April_2026.pdf",
+  "mirror_url": null,
+  "verification": "mirror-read",
+  "primary_topic": "fabricated-citations",
+  "topics": [
+   "fabricated-citations"
+  ],
+  "incident": {
+   "actor": "litigant-in-person",
+   "ai_tool": null,
+   "conduct": "The self-represented appellant filed a submission with one fabricated case citation, one mischaracterized case citation, and one misstated legal rule.",
+   "currency": null,
+   "monetary_penalty": null,
+   "outcome": "other"
+  }
+ },
+ {
+  "decision_id": "ord-2026-steven-nemec-v-kelsey-kanoelani-alao-and-alyssa-jade-alao",
+  "case_name": "Steven Nemec v. Kelsey Kanoelani Alao and Alyssa Jade Alao",
+  "court": "United States District Court for the District of Oregon",
+  "court_level": "federal-district",
+  "docket_number": "3:26-cv-00083-SI",
+  "date_filed": "2026-04-10",
+  "source_url": "https://www.damiencharlotin.com/documents/1994/Nemec_v._Alao_USA_10_April_2026.pdf",
+  "mirror_url": null,
+  "verification": "mirror-read",
+  "primary_topic": "fabricated-citations",
+  "topics": [
+   "fabricated-citations"
+  ],
+  "incident": {
+   "actor": "litigant-in-person",
+   "ai_tool": null,
+   "conduct": "The self-represented plaintiff filed a brief with four fabricated case citations, including Hernandez v. Cnty. of Yamhill and U.S. Bank Nat’l Ass’n v. Taylor.",
+   "currency": null,
+   "monetary_penalty": null,
+   "outcome": "other"
+  }
+ },
+ {
+  "decision_id": "fladistctapp6-2026-bruno-roberto-rodriguez-v-kathryn-louise-rodriguez",
+  "case_name": "Bruno Roberto Rodriguez v. Kathryn Louise Rodriguez",
+  "court": "Florida District Court of Appeal, Sixth District",
+  "court_level": "state-appellate",
+  "docket_number": "6D2025-3086 Lower Tribunal No. 2025-DR-002837-O",
+  "date_filed": "2026-04-10",
+  "source_url": "https://www.damiencharlotin.com/documents/1974/Rodriguez_v._Rodriguez_USA_10_April_2026.pdf",
+  "mirror_url": null,
+  "verification": "mirror-read",
+  "primary_topic": "fabricated-citations",
+  "topics": [
+   "fabricated-citations"
+  ],
+  "incident": {
+   "actor": "lawyer",
+   "ai_tool": null,
+   "conduct": "Counsel filed a brief with one fabricated case citation and one mischaracterized case citation.",
+   "currency": null,
+   "monetary_penalty": null,
+   "outcome": "pending"
+  }
+ },
+ {
+  "decision_id": "illappct-2026-robert-s-hulvat-v-juli-gumina-stg",
+  "case_name": "Robert S. Hulvat v. Juli Gumina, STG Divorce Law, and Jennifer B. Hulvat",
+  "court": "Illinois Appellate Court, Third District",
+  "court_level": "state-appellate",
+  "docket_number": "3-24-0628",
+  "date_filed": "2026-04-09",
+  "source_url": "https://www.damiencharlotin.com/documents/1966/Hulvat_v._Gumina_USA_9_April_2026.pdf",
+  "mirror_url": null,
+  "verification": "mirror-read",
+  "primary_topic": "fabricated-citations",
+  "topics": [
+   "fabricated-citations"
+  ],
+  "incident": {
+   "conduct": "The appellate brief used multiple false quotations, fabricated or nonexistent authorities and mischaracterized authorities, including In re Marriage of Lehr, which the court found nonexistent, misquoted, or unsupported.",
+   "outcome": "sanctions",
+   "actor": "litigant-in-person",
+   "monetary_penalty": 3178.0,
+   "currency": "USD",
+   "ai_tool": null
+  }
+ },
+ {
+  "decision_id": "lawb-2026-in-re-troylond-malon-wise",
+  "case_name": "In re Troylond Malon Wise",
+  "court": "U.S. Bankruptcy Court for the Western District of Louisiana",
+  "court_level": "federal-bankruptcy",
+  "docket_number": "25-51132",
+  "date_filed": "2026-04-09",
+  "source_url": "https://www.damiencharlotin.com/documents/1989/In_re_Troylond_USA_9_April_2026.pdf",
+  "mirror_url": null,
+  "verification": "mirror-read",
+  "primary_topic": "fabricated-citations",
+  "topics": [
+   "fabricated-citations"
+  ],
+  "incident": {
+   "conduct": "The filing used nonexistent or misstated legal provisions, fabricated or nonexistent authorities and mischaracterized authorities, including In re Garcia and In re Buttermilk Towne LLC, which the court found nonexistent, misquoted, or unsupported.",
+   "outcome": "sanctions",
+   "actor": "lawyer",
+   "monetary_penalty": 2750.0,
+   "currency": "USD",
+   "ai_tool": null
+  }
+ },
+ {
+  "decision_id": "ilnd-2026-delliane-chinedu-obi-v-cook-county-illinois",
+  "case_name": "Ifeoma Delliane Chinedu Obi v. Cook County, Illinois, et al. (1)",
+  "court": "U.S. District Court for the Northern District of Illinois",
+  "court_level": "federal-district",
+  "docket_number": "25 C 3096",
+  "date_filed": "2026-04-09",
+  "source_url": "https://www.damiencharlotin.com/documents/1982/gov.uscourts.ilnd.475370.97.0.pdf",
+  "mirror_url": null,
+  "verification": "mirror-read",
+  "primary_topic": "fabricated-citations",
+  "topics": [
+   "fabricated-citations"
+  ],
+  "incident": {
+   "conduct": "The complaint used 13 false quotations and fabricated or nonexistent authorities, including Marshall v. Marshall and Andrade v. Arby Concessions, which the court found nonexistent, misquoted, or unsupported.",
+   "outcome": "sanctions",
+   "actor": "litigant-in-person",
+   "monetary_penalty": 4999.0,
+   "currency": "USD",
+   "ai_tool": null
+  }
+ },
+ {
+  "decision_id": "bap8-2026-tahnee-r-young-v-happy-money",
+  "case_name": "James C. Young; Tahnee R. Young v. Happy Money",
+  "court": "U.S. Bankruptcy Appellate Panel for the Eighth Circuit",
+  "court_level": "federal-bankruptcy",
+  "docket_number": "25-6011",
+  "date_filed": "2026-04-08",
+  "source_url": "https://www.damiencharlotin.com/documents/1945/Young_v._Happy_Money_USA_8_April_2026.pdf",
+  "mirror_url": null,
+  "verification": "mirror-read",
+  "primary_topic": "fabricated-citations",
+  "topics": [
+   "fabricated-citations"
+  ],
+  "incident": {
+   "conduct": "The motion used fabricated or nonexistent authorities and mischaracterized authorities, including In re Cherrett and In re Pringle, which the court found nonexistent, misquoted, or unsupported.",
+   "outcome": "other",
+   "actor": "litigant-in-person",
+   "monetary_penalty": null,
+   "currency": null,
+   "ai_tool": null
+  }
+ },
+ {
+  "decision_id": "flsd-2026-joseph-c-zoghaib-v-societe-generale-de",
+  "case_name": "Joseph C. Zoghaib v. Societe Generale De Banque Au Liban, et al.",
+  "court": "U.S. District Court for the Southern District of Florida",
+  "court_level": "federal-district",
+  "docket_number": "25-CV-20097-MOORE/Elfenbein Zoghaib alleg",
+  "date_filed": "2026-04-08",
+  "source_url": "https://www.damiencharlotin.com/documents/1967/Zoghaib_v._Bank_Liban_USA_8_April_2026.pdf",
+  "mirror_url": null,
+  "verification": "mirror-read",
+  "primary_topic": "fabricated-citations",
+  "topics": [
+   "fabricated-citations"
+  ],
+  "incident": {
+   "conduct": "The response brief cited FSIA discovery authorities, including In re Clerici, for propositions those authorities did not support.",
+   "outcome": "warning",
+   "actor": "litigant-in-person",
+   "monetary_penalty": null,
+   "currency": null,
+   "ai_tool": null
+  }
+ },
+ {
+  "decision_id": "alnd-2026-pleasant-v-burns",
+  "case_name": "Pleasant v. Burns",
+  "court": "U.S. District Court for the Northern District of Alabama",
+  "court_level": "federal-district",
+  "docket_number": "2:25-cv-1658-ACA error in her email addre",
+  "date_filed": "2026-04-08",
+  "source_url": "https://www.damiencharlotin.com/documents/1946/Pleasant_v._Burns_USA_8_April_2026.pdf",
+  "mirror_url": null,
+  "verification": "mirror-read",
+  "primary_topic": "fabricated-citations",
+  "topics": [
+   "fabricated-citations"
+  ],
+  "incident": {
+   "conduct": "The complaint used at least one false quotations, fabricated or nonexistent authorities and mischaracterized authorities that the court found nonexistent, misquoted, or unsupported for the propositions asserted.",
+   "outcome": "pending",
+   "actor": "litigant-in-person",
+   "monetary_penalty": null,
+   "currency": null,
+   "ai_tool": null
+  }
+ },
+ {
+  "decision_id": "pacommwct-2026-nancy-parkinson-v-unemployment-compensation-board",
+  "case_name": "Nancy Parkinson v. Unemployment Compensation Board of Review",
+  "court": "Commonwealth Court of Pennsylvania",
+  "court_level": "state-appellate",
+  "docket_number": "1776 C.D. 2024",
+  "date_filed": "2026-04-07",
+  "source_url": "https://www.damiencharlotin.com/documents/1935/Parkison_v._Board_uSA_3_April_2026.pdf",
+  "mirror_url": null,
+  "verification": "mirror-read",
+  "primary_topic": "fabricated-citations",
+  "topics": [
+   "fabricated-citations"
+  ],
+  "incident": {
+   "conduct": "The petition used fabricated or nonexistent authorities, including Beck v. Unemployment Comp. Bd. of Rev, which the court found nonexistent, misquoted, or unsupported.",
+   "outcome": "warning",
+   "actor": "litigant-in-person",
+   "monetary_penalty": null,
+   "currency": null,
+   "ai_tool": null
+  }
+ },
+ {
+  "decision_id": "okwd-2026-blackburn-v-united-states",
+  "case_name": "Blackburn v. United States",
+  "court": "U.S. District Court for the Western District of Oklahoma",
+  "court_level": "federal-district",
+  "docket_number": "CIV-22-983-G",
+  "date_filed": "2026-04-07",
+  "source_url": "https://www.damiencharlotin.com/documents/1965/Blackburn_v_m5HCIWT._USA_USA_7_April_2026.pdf",
+  "mirror_url": null,
+  "verification": "mirror-read",
+  "primary_topic": "fabricated-citations",
+  "topics": [
+   "fabricated-citations"
+  ],
+  "incident": {
+   "conduct": "The motion used false quotations, fabricated or nonexistent authorities and mischaracterized authorities, including Hall v. United States and Poppino v. Berryhill, an unrelated decision, which the court found nonexistent, misquoted, or unsupported.",
+   "outcome": "warning",
+   "actor": "litigant-in-person",
+   "monetary_penalty": null,
+   "currency": null,
+   "ai_tool": null
+  }
+ },
+ {
+  "decision_id": "nvd-2026-sims-v-souily-lefave",
+  "case_name": "Sims v. Souily-Lefave (1)",
+  "court": "U.S. District Court for the District of Nevada",
+  "court_level": "federal-district",
+  "docket_number": "2:24-cv-00831-CDS-EJY that",
+  "date_filed": "2026-04-07",
+  "source_url": "https://www.damiencharlotin.com/documents/1942/Sims_v._Souilly-Lefave_USA_7_April_2026.pdf",
+  "mirror_url": null,
+  "verification": "mirror-read",
+  "primary_topic": "fabricated-citations",
+  "topics": [
+   "fabricated-citations"
+  ],
+  "incident": {
+   "conduct": "The motion cited fabricated or mischaracterized discovery cases, including Cruz and DuPont authorities, for propositions the cases did not support.",
+   "outcome": "warning",
+   "actor": "litigant-in-person",
+   "monetary_penalty": null,
+   "currency": null,
+   "ai_tool": null
+  }
+ },
+ {
+  "decision_id": "cand-2026-thanh-nguy-v-jabil",
+  "case_name": "Thanh Nguy v. Jabil Inc.",
+  "court": "U.S. District Court for the Northern District of California",
+  "court_level": "federal-district",
+  "docket_number": "24-cv-06798-EKL (VKD)",
+  "date_filed": "2026-04-07",
+  "source_url": "https://www.damiencharlotin.com/documents/1943/Nguy_v_Jabil_Inc_USA_7_April_2026.pdf",
+  "mirror_url": null,
+  "verification": "mirror-read",
+  "primary_topic": "fabricated-citations",
+  "topics": [
+   "fabricated-citations"
+  ],
+  "incident": {
+   "conduct": "The opposition brief used fabricated or nonexistent authorities that the court found nonexistent, misquoted, or unsupported for the propositions asserted.",
+   "outcome": "warning",
+   "actor": "lawyer",
+   "monetary_penalty": null,
+   "currency": null,
+   "ai_tool": null
+  }
+ },
+ {
+  "decision_id": "nvd-2026-and-rebecca-knepp-v-dan-heinrich-and",
+  "case_name": "Wendy Wolkenstein and Rebecca Knepp v. Dan Heinrich and Samual Tillery",
+  "court": "U.S. District Court for the District of Nevada",
+  "court_level": "federal-district",
+  "docket_number": "2:25-cv-01138-APG-NJK",
+  "date_filed": "2026-04-06",
+  "source_url": "https://www.damiencharlotin.com/documents/1940/Wolkenstein_et_al_v_Heinrich_et_al_USA_6_APril_2026.pdf",
+  "mirror_url": null,
+  "verification": "mirror-read",
+  "primary_topic": "fabricated-citations",
+  "topics": [
+   "fabricated-citations"
+  ],
+  "incident": {
+   "conduct": "The motion used nonexistent or misstated legal provisions, fabricated or nonexistent authorities and mischaracterized authorities, including Stanley v. University of Southern California and Shum v. Intel Corp, which the court found nonexistent, misquoted, or unsupported.",
+   "outcome": "warning",
+   "actor": "litigant-in-person",
+   "monetary_penalty": null,
+   "currency": null,
+   "ai_tool": null
+  }
+ },
+ {
+  "decision_id": "orctapp-2026-kelly-bartholomew-v-public-utility-commission",
+  "case_name": "Kelly Bartholomew v. Public Utility Commission of Oregon",
+  "court": "Oregon Court of Appeals",
+  "court_level": "state-appellate",
+  "docket_number": "Order No. 25-125",
+  "date_filed": "2026-04-06",
+  "source_url": "https://www.damiencharlotin.com/documents/1934/Kelly_Bartholomew_v_Public_Utility_Commission_of_Oregon_USA_6_April_2026.pdf",
+  "mirror_url": null,
+  "verification": "mirror-read",
+  "primary_topic": "fabricated-citations",
+  "topics": [
+   "fabricated-citations"
+  ],
+  "incident": {
+   "conduct": "The petition used 10 fabricated or nonexistent authorities, including Ass’n v. Washington County, 309 Or App 112, 124-25, 482 P3d 827, which the court found nonexistent, misquoted, or unsupported.",
+   "outcome": "dismissal",
+   "actor": "litigant-in-person",
+   "monetary_penalty": null,
+   "currency": null,
+   "ai_tool": null
+  }
+ },
+ {
+  "decision_id": "nysd-2026-viral-bhagat-v-anuja-sharad-shah",
+  "case_name": "Viral Bhagat v. Anuja Sharad Shah",
+  "court": "U.S. District Court for the Southern District of New York",
+  "court_level": "federal-district",
+  "docket_number": "P. 16(b)(4)(E)(i). (ECF 639",
+  "date_filed": "2026-04-06",
+  "source_url": "https://www.damiencharlotin.com/documents/1959/Bhagat_v._Shah_USA_6_April_2026.pdf",
+  "mirror_url": null,
+  "verification": "mirror-read",
+  "primary_topic": "fabricated-citations",
+  "topics": [
+   "fabricated-citations"
+  ],
+  "incident": {
+   "conduct": "The motion used false quotations and fabricated or nonexistent authorities, including In re SunEdison, Inc. Sec. Litig, which the court found nonexistent, misquoted, or unsupported.",
+   "outcome": "warning",
+   "actor": "litigant-in-person",
+   "monetary_penalty": null,
+   "currency": null,
+   "ai_tool": null
+  }
+ },
+ {
+  "decision_id": "caed-2026-gamez-v-county-of-fresno",
+  "case_name": "Gamez v. County of Fresno",
+  "court": "U.S. District Court for the Eastern District of California",
+  "court_level": "federal-district",
+  "docket_number": "1:26-cv-00297-KES-EPG",
+  "date_filed": "2026-04-06",
+  "source_url": "https://www.damiencharlotin.com/documents/1938/Gamez_v._County_of_Fresno_USA_6_April_2026.pdf",
+  "mirror_url": null,
+  "verification": "mirror-read",
+  "primary_topic": "fabricated-citations",
+  "topics": [
+   "fabricated-citations"
+  ],
+  "incident": {
+   "conduct": "The opposition brief used nonexistent or misstated legal provisions, false quotations, fabricated or nonexistent authorities and mischaracterized authorities, including Noland v. Land of the Free, L.P and United States v. Hayes, which the court found nonexistent, misquoted, or unsupported.",
+   "outcome": "pending",
+   "actor": "lawyer",
+   "monetary_penalty": null,
+   "currency": null,
+   "ai_tool": null
+  }
+ },
+ {
+  "decision_id": "jpml-2026-in-re-philips-recalled-cpap-bi-level",
+  "case_name": "In re: Philips Recalled CPAP, Bi-Level PAP, and Mechanical Ventilator Products Liability Litigation (Gravelyn)",
+  "court": "U.S. Judicial Panel on Multidistrict Litigation",
+  "court_level": "federal-specialty",
+  "docket_number": "MDL No. 3014",
+  "date_filed": "2026-04-06",
+  "source_url": "https://www.damiencharlotin.com/documents/1961/PHILIPS_RECALLED_CPAP_BI-LEVEL_USA_6_April_2026.pdf",
+  "mirror_url": null,
+  "verification": "mirror-read",
+  "primary_topic": "fabricated-citations",
+  "topics": [
+   "fabricated-citations"
+  ],
+  "incident": {
+   "conduct": "The filing used mischaracterized authorities, including In re Xarelto and In re Bard IVC Filters, which the court found nonexistent, misquoted, or unsupported.",
+   "outcome": "warning",
+   "actor": "lawyer",
+   "monetary_penalty": null,
+   "currency": null,
+   "ai_tool": null
+  }
+ },
+ {
+  "decision_id": "cacd-2026-james-jordan-v-usa-clinicas-del",
+  "case_name": "James Jordan v. USA, Clinicas Del Camino Real, Inc., et al.",
+  "court": "U.S. District Court for the Central District of California",
+  "court_level": "federal-district",
+  "docket_number": "P. 78",
+  "date_filed": "2026-04-06",
+  "source_url": "https://www.damiencharlotin.com/documents/1939/James_Jordan_v._Clinicas_Del_Camino_Real_Inc._USA_6_April_2026.pdf",
+  "mirror_url": null,
+  "verification": "mirror-read",
+  "primary_topic": "fabricated-citations",
+  "topics": [
+   "fabricated-citations"
+  ],
+  "incident": {
+   "conduct": "The filing used several false quotations and fabricated or nonexistent authorities, including Chicago v. International College of Surgeons and Co. v. Monsanto Co, which the court found nonexistent, misquoted, or unsupported.",
+   "outcome": "warning",
+   "actor": "litigant-in-person",
+   "monetary_penalty": null,
+   "currency": null,
+   "ai_tool": null
+  }
+ },
+ {
+  "decision_id": "mied-2026-hardy-v-genesee-county-community",
+  "case_name": "Hardy v. Genesee County Community Action Resource Department, et al. (2)",
+  "court": "U.S. District Court for the Eastern District of Michigan",
+  "court_level": "federal-district",
+  "docket_number": "24-11190",
+  "date_filed": "2026-04-06",
+  "source_url": "https://www.damiencharlotin.com/documents/1954/Hardy_v._Genesse_USA_3_April_2026.pdf",
+  "mirror_url": null,
+  "verification": "mirror-read",
+  "primary_topic": "fabricated-citations",
+  "topics": [
+   "fabricated-citations"
+  ],
+  "incident": {
+   "conduct": "The motion used false quotations, including Berndt v. Tennessee does not appear in and United States v. Frazier does not appear in, which the court found nonexistent, misquoted, or unsupported.",
+   "outcome": "strike-off",
+   "actor": "litigant-in-person",
+   "monetary_penalty": null,
+   "currency": null,
+   "ai_tool": null
+  }
+ },
+ {
+  "decision_id": "ca6-2026-united-states-v-farris",
+  "case_name": "United States v. Farris",
+  "court": "U.S. Court of Appeals for the Sixth Circuit",
+  "court_level": "federal-appellate",
+  "docket_number": "Name: 26a0105p.06",
+  "date_filed": "2026-04-03",
+  "source_url": "https://www.damiencharlotin.com/documents/1903/USA_v._Farris_USA_3_April_2026.pdf",
+  "mirror_url": null,
+  "verification": "mirror-read",
+  "primary_topic": "fabricated-citations",
+  "topics": [
+   "fabricated-citations"
+  ],
+  "incident": {
+   "conduct": "The brief used nonexistent or misstated legal provisions, false quotations and fabricated or nonexistent authorities, including United States v. Washington and United States v. Anthony, which the court found nonexistent, misquoted, or unsupported.",
+   "outcome": "referral",
+   "actor": "lawyer",
+   "monetary_penalty": null,
+   "currency": null,
+   "ai_tool": "Westlaw CoCounsel"
+  }
+ },
+ {
+  "decision_id": "wawd-2026-ward-v-amazon-com-services",
+  "case_name": "Ward v. Amazon.com Services LLC",
+  "court": "U.S. District Court for the Western District of Washington",
+  "court_level": "federal-district",
+  "docket_number": "C25-1671-KKE",
+  "date_filed": "2026-04-03",
+  "source_url": "https://www.damiencharlotin.com/documents/1936/Ward_v._Amazon_USA_3_April_2026.pdf",
+  "mirror_url": null,
+  "verification": "mirror-read",
+  "primary_topic": "fabricated-citations",
+  "topics": [
+   "fabricated-citations"
+  ],
+  "incident": {
+   "conduct": "The motion used fabricated or nonexistent authorities and mischaracterized authorities, including Gile v. Dolgen Cal., LLC and Britton v. Co-op Banking Grp., 4 F.4th 742, which the court found nonexistent, misquoted, or unsupported.",
+   "outcome": "warning",
+   "actor": "litigant-in-person",
+   "monetary_penalty": null,
+   "currency": null,
+   "ai_tool": null
+  }
+ },
+ {
+  "decision_id": "nysupct-2026-group-p-c-v-james-kaloidis",
+  "case_name": "Kleyman Law Group, P.C. v. James Kaloidis",
+  "court": "Supreme Court of the State of New York",
+  "court_level": "state-trial",
+  "docket_number": "D: KINGS COUNTY CLERK 04/14/2026 11: 19 A",
+  "date_filed": "2026-04-03",
+  "source_url": "https://www.damiencharlotin.com/documents/2026/Kleyman_L__Grp__P_C__v__Kaloidis.pdf",
+  "mirror_url": null,
+  "verification": "mirror-read",
+  "primary_topic": "fabricated-citations",
+  "topics": [
+   "fabricated-citations"
+  ],
+  "incident": {
+   "conduct": "The filing used fabricated or nonexistent authorities and mischaracterized authorities, including Matter of Winston & Strawn LLP and Matter of Witham v Witham, which the court found nonexistent, misquoted, or unsupported.",
+   "outcome": "sanctions",
+   "actor": "lawyer",
+   "monetary_penalty": null,
+   "currency": null,
+   "ai_tool": null
+  }
+ },
+ {
+  "decision_id": "nysupct-2026-ellen-michaelis-v-wilmington-savings-fund-society",
+  "case_name": "Ellen Michaelis v. Wilmington Savings Fund Society",
+  "court": "Supreme Court of the State of New York",
+  "court_level": "state-trial",
+  "docket_number": "2023-50982",
+  "date_filed": "2026-04-03",
+  "source_url": "https://www.damiencharlotin.com/documents/1957/Ellen_Michaelis_Plaintiff_v_Wilmington_Savings_Fund_Society_USA_3_April_2026.pdf",
+  "mirror_url": null,
+  "verification": "mirror-read",
+  "primary_topic": "fabricated-citations",
+  "topics": [
+   "fabricated-citations"
+  ],
+  "incident": {
+   "conduct": "The motion used false quotations, fabricated or nonexistent authorities and mischaracterized authorities, including Matter of Sakow and Kruger v. Kruger, 107 AD3d 1285, 1287, which the court found nonexistent, misquoted, or unsupported.",
+   "outcome": "other",
+   "actor": "litigant-in-person",
+   "monetary_penalty": null,
+   "currency": null,
+   "ai_tool": null
+  }
+ },
+ {
+  "decision_id": "ctb-2026-in-re-kathleen-a-rabon",
+  "case_name": "In re: Kathleen A Rabon",
+  "court": "U.S. Bankruptcy Court for the District of Connecticut",
+  "court_level": "federal-bankruptcy",
+  "docket_number": "25-21127 (JJT)",
+  "date_filed": "2026-04-03",
+  "source_url": "https://www.damiencharlotin.com/documents/1955/R_Rabon_USA_3_April_2026.pdf",
+  "mirror_url": null,
+  "verification": "mirror-read",
+  "primary_topic": "fabricated-citations",
+  "topics": [
+   "fabricated-citations"
+  ],
+  "incident": {
+   "conduct": "The motion used 7 false quotations that the court found nonexistent, misquoted, or unsupported for the propositions asserted.",
+   "outcome": "pending",
+   "actor": "lawyer",
+   "monetary_penalty": null,
+   "currency": null,
+   "ai_tool": null
+  }
+ },
+ {
+  "decision_id": "cand-2026-najafpir-v-wells-fargo-bank-n-a",
+  "case_name": "Najafpir v. Wells Fargo Bank, N.A.",
+  "court": "U.S. District Court for the Northern District of California",
+  "court_level": "federal-district",
+  "docket_number": "4:24-cv-03372-YGR",
+  "date_filed": "2026-04-03",
+  "source_url": "https://www.damiencharlotin.com/documents/1937/Najafpir_v._Wells_Fargo_Bank_N.A._USA_3_April_2026.pdf",
+  "mirror_url": null,
+  "verification": "mirror-read",
+  "primary_topic": "fabricated-citations",
+  "topics": [
+   "fabricated-citations"
+  ],
+  "incident": {
+   "conduct": "The complaint used multiple fabricated or nonexistent authorities and mischaracterized authorities that the court found nonexistent, misquoted, or unsupported for the propositions asserted.",
+   "outcome": "dismissal",
+   "actor": "litigant-in-person",
+   "monetary_penalty": null,
+   "currency": null,
+   "ai_tool": null
+  }
+ },
+ {
+  "decision_id": "cacd-2026-modern-floor-specialists-v-city-of-los",
+  "case_name": "Modern Floor Specialists, Inc. et al. v. City of Los Angeles et al.",
+  "court": "U.S. District Court for the Central District of California",
+  "court_level": "federal-district",
+  "docket_number": "d for Chapter 11 bankruptcy. (FAC",
+  "date_filed": "2026-04-03",
+  "source_url": "https://www.damiencharlotin.com/documents/1960/Modern_Floor_Specialists_v._LA_USA_3_April_2026.pdf",
+  "mirror_url": null,
+  "verification": "mirror-read",
+  "primary_topic": "fabricated-citations",
+  "topics": [
+   "fabricated-citations"
+  ],
+  "incident": {
+   "conduct": "The filing used fabricated or nonexistent authorities, including Mabee v. County of Orange and Cochran v. City of Wichita, which the court found nonexistent, misquoted, or unsupported.",
+   "outcome": "pending",
+   "actor": "lawyer",
+   "monetary_penalty": null,
+   "currency": null,
+   "ai_tool": null
+  }
+ },
+ {
+  "decision_id": "azd-2026-kevin-d-turnage-v-robert-f-kennedy",
+  "case_name": "Kevin D. Turnage v. Robert F. Kennedy, Jr., et al.",
+  "court": "U.S. District Court for the District of Arizona",
+  "court_level": "federal-district",
+  "docket_number": "CV-25-03367-PHX-SMB",
+  "date_filed": "2026-04-02",
+  "source_url": "https://www.damiencharlotin.com/documents/1910/Turnage_v._Kennedy_USA_2_April_2026.pdf",
+  "mirror_url": null,
+  "verification": "mirror-read",
+  "primary_topic": "fabricated-citations",
+  "topics": [
+   "fabricated-citations"
+  ],
+  "incident": {
+   "conduct": "The complaint used nonexistent or misstated legal provisions, false quotations, fabricated or nonexistent authorities and mischaracterized authorities, including Gao v. United States and Miller v. United States, which the court found nonexistent, misquoted, or unsupported.",
+   "outcome": "warning",
+   "actor": "litigant-in-person",
+   "monetary_penalty": null,
+   "currency": null,
+   "ai_tool": null
+  }
+ },
+ {
+  "decision_id": "texapp-2026-stanford-v-leinart",
+  "case_name": "Stanford v. Leinart",
+  "court": "Texas Court of Appeals",
+  "court_level": "state-appellate",
+  "docket_number": "02-25-00529-CV",
+  "date_filed": "2026-04-02",
+  "source_url": "https://www.damiencharlotin.com/documents/1929/Stanford_v._Leinart_USA_2_APril_2026.pdf",
+  "mirror_url": null,
+  "verification": "mirror-read",
+  "primary_topic": "fabricated-citations",
+  "topics": [
+   "fabricated-citations"
+  ],
+  "incident": {
+   "conduct": "The appellate brief used fabricated or nonexistent authorities, including Anderson v. Hood, which the court found nonexistent, misquoted, or unsupported.",
+   "outcome": "warning",
+   "actor": "litigant-in-person",
+   "monetary_penalty": null,
+   "currency": null,
+   "ai_tool": null
+  }
+ },
+ {
+  "decision_id": "innd-2026-joseph-maldonado-v-professional-animal-retirement-center",
+  "case_name": "Joseph Maldonado v. Professional Animal Retirement Center",
+  "court": "U.S. District Court for the Northern District of Indiana",
+  "court_level": "federal-district",
+  "docket_number": "1:25-cv-00454-HAB-ALT",
+  "date_filed": "2026-04-01",
+  "source_url": "https://www.damiencharlotin.com/documents/1963/Maldonado_Tiger_King_USA_1_April_2026.pdf",
+  "mirror_url": null,
+  "verification": "mirror-read",
+  "primary_topic": "fabricated-citations",
+  "topics": [
+   "fabricated-citations"
+  ],
+  "incident": {
+   "conduct": "The brief used mischaracterized authorities, including Animals v. NIH and FEC v. Akins, which the court found nonexistent, misquoted, or unsupported.",
+   "outcome": "referral",
+   "actor": "lawyer",
+   "monetary_penalty": 1500.0,
+   "currency": "USD",
+   "ai_tool": null
+  }
+ },
+ {
+  "decision_id": "arkctapp-2026-patrick-hrdlichka-v-samantha-bengston",
+  "case_name": "Patrick Hrdlichka v. Samantha Bengston",
+  "court": "Arkansas Court of Appeals",
+  "court_level": "state-appellate",
+  "docket_number": "CV-25-106 damages plus interest at t",
+  "date_filed": "2026-04-01",
+  "source_url": "https://www.damiencharlotin.com/documents/1894/Hrdlishcka_v._Bengston_USA_1_April_2026.pdf",
+  "mirror_url": null,
+  "verification": "mirror-read",
+  "primary_topic": "fabricated-citations",
+  "topics": [
+   "fabricated-citations"
+  ],
+  "incident": {
+   "conduct": "The appellate brief used multiple fabricated or nonexistent authorities that the court found nonexistent, misquoted, or unsupported for the propositions asserted.",
+   "outcome": "warning",
+   "actor": "litigant-in-person",
+   "monetary_penalty": null,
+   "currency": null,
+   "ai_tool": null
+  }
+ },
+ {
+  "decision_id": "cand-2026-saqib-kafeel-v-apple",
+  "case_name": "Saqib Kafeel v. Apple Inc., et al.",
+  "court": "U.S. District Court for the Northern District of California",
+  "court_level": "federal-district",
+  "docket_number": "26-cv-00330-RFL",
+  "date_filed": "2026-04-01",
+  "source_url": "https://www.damiencharlotin.com/documents/1893/Kafeel_v._Apple_USA_1_April_2026.pdf",
+  "mirror_url": null,
+  "verification": "mirror-read",
+  "primary_topic": "fabricated-citations",
+  "topics": [
+   "fabricated-citations"
+  ],
+  "incident": {
+   "conduct": "The motion used fabricated or nonexistent authorities, including In re Grand Jury Subpoena, which the court found nonexistent, misquoted, or unsupported.",
+   "outcome": "warning",
+   "actor": "litigant-in-person",
+   "monetary_penalty": null,
+   "currency": null,
+   "ai_tool": null
+  }
+ },
+ {
+  "decision_id": "iowactapp-2026-in-the-interest-of-w-g-minor",
+  "case_name": "In the Interest of W.G., Minor Child",
+  "court": "Iowa Court of Appeals",
+  "court_level": "state-appellate",
+  "docket_number": "25-1916 to intervene",
+  "date_filed": "2026-04-01",
+  "source_url": "https://www.damiencharlotin.com/documents/1895/Interest_of_WG_USA_1_April_2026.pdf",
+  "mirror_url": null,
+  "verification": "mirror-read",
+  "primary_topic": "fabricated-citations",
+  "topics": [
+   "fabricated-citations"
+  ],
+  "incident": {
+   "conduct": "The appellate brief used fabricated or nonexistent authorities and mischaracterized authorities that the court found nonexistent, misquoted, or unsupported for the propositions asserted.",
+   "outcome": "other",
+   "actor": "litigant-in-person",
+   "monetary_penalty": null,
+   "currency": null,
+   "ai_tool": "Perplexity"
+  }
+ },
+ {
+  "decision_id": "alsd-2026-heimkes-v-fairhope-motorcoach-resort",
+  "case_name": "Heimkes v. Fairhope Motorcoach Resort Condominium Owners Association, Inc.",
+  "court": "U.S. District Court for the Southern District of Alabama",
+  "court_level": "federal-district",
+  "docket_number": "ACT. NO. 1:22-cv-448-TFM-N",
+  "date_filed": "2026-03-31",
+  "source_url": "https://www.damiencharlotin.com/documents/1890/Heimkes_v._Fairhope_USA_31_March_2026.pdf",
+  "mirror_url": null,
+  "verification": "mirror-read",
+  "primary_topic": "fabricated-citations",
+  "topics": [
+   "fabricated-citations"
+  ],
+  "incident": {
+   "conduct": "The filing used multiple false quotations, fabricated or nonexistent authorities and mischaracterized authorities, including Park v. Kim, 91 F.4th 610, 615 and United States v. McGee, which the court found nonexistent, misquoted, or unsupported.",
+   "outcome": "referral",
+   "actor": "lawyer",
+   "monetary_penalty": 55597.0,
+   "currency": "USD",
+   "ai_tool": "Cocounsel (Westlaw)"
+  }
+ },
+ {
+  "decision_id": "nvd-2026-edward-c-allen-v-western-governors-university",
+  "case_name": "Edward C. Allen v. Western Governors University, et al.",
+  "court": "U.S. District Court for the District of Nevada",
+  "court_level": "federal-district",
+  "docket_number": "2:25-cv-00325-RFB-NJK",
+  "date_filed": "2026-03-31",
+  "source_url": "https://www.damiencharlotin.com/documents/1886/Allen_v._Western_Governors_University_USA_31_March_2026.pdf",
+  "mirror_url": null,
+  "verification": "mirror-read",
+  "primary_topic": "fabricated-citations",
+  "topics": [
+   "fabricated-citations"
+  ],
+  "incident": {
+   "conduct": "The filing used false quotations and nonexistent or mischaracterized authorities, including Christian and Warren cases the court found did not contain the quoted language.",
+   "outcome": "costs-order",
+   "actor": "litigant-in-person",
+   "monetary_penalty": 1.0,
+   "currency": "USD",
+   "ai_tool": null
+  }
+ },
+ {
+  "decision_id": "wawd-2026-maria-cabrera-thompson-v-seattle-public-schools",
+  "case_name": "Rosa Maria Cabrera Thompson v. Seattle Public Schools",
+  "court": "U.S. District Court for the Western District of Washington",
+  "court_level": "federal-district",
+  "docket_number": "2:25-cv-00468-TL",
+  "date_filed": "2026-03-31",
+  "source_url": "https://www.damiencharlotin.com/documents/1888/Thompson_v_Seattle_Public_Schools_USA_31_March_2026.pdf",
+  "mirror_url": null,
+  "verification": "mirror-read",
+  "primary_topic": "fabricated-citations",
+  "topics": [
+   "fabricated-citations"
+  ],
+  "incident": {
+   "conduct": "The motion used fabricated or nonexistent authorities that the court found nonexistent, misquoted, or unsupported for the propositions asserted.",
+   "outcome": "pending",
+   "actor": "litigant-in-person",
+   "monetary_penalty": null,
+   "currency": null,
+   "ai_tool": null
+  }
+ },
+ {
+  "decision_id": "ilcd-2026-feldman-and-trost-v-district-6-board",
+  "case_name": "Feldman & Trost v. District 6 Board of Education",
+  "court": "U.S. District Court for the Central District of Illinois",
+  "court_level": "federal-district",
+  "docket_number": "d: 03/31/26",
+  "date_filed": "2026-03-31",
+  "source_url": "https://www.damiencharlotin.com/documents/1947/Feldman__Trost_v._School_USA_31_March_2026.pdf",
+  "mirror_url": null,
+  "verification": "mirror-read",
+  "primary_topic": "fabricated-citations",
+  "topics": [
+   "fabricated-citations"
+  ],
+  "incident": {
+   "conduct": "The complaint used false quotations, fabricated or nonexistent authorities and mischaracterized authorities, including Rost v. Steamboat Springs RE-2 Sch. Dist and Busse v. Motorola, Inc, which the court found nonexistent, misquoted, or unsupported.",
+   "outcome": "warning",
+   "actor": "lawyer",
+   "monetary_penalty": null,
+   "currency": null,
+   "ai_tool": null
+  }
+ },
+ {
+  "decision_id": "azd-2026-federal-trade-commission-v-james-d-noland",
+  "case_name": "Federal Trade Commission v. James D. Noland, Jr., et al.",
+  "court": "U.S. District Court for the District of Arizona",
+  "court_level": "federal-district",
+  "docket_number": "CV-20-00047-PHX-DWL",
+  "date_filed": "2026-03-31",
+  "source_url": "https://www.damiencharlotin.com/documents/1891/FTC_v._Noland_USA_31_March_2025.pdf",
+  "mirror_url": null,
+  "verification": "mirror-read",
+  "primary_topic": "fabricated-citations",
+  "topics": [
+   "fabricated-citations"
+  ],
+  "incident": {
+   "conduct": "The motion used fabricated or nonexistent authorities, including Ghadimi v. Ariz. Bank & Trust, which the court found nonexistent, misquoted, or unsupported.",
+   "outcome": "warning",
+   "actor": "litigant-in-person",
+   "monetary_penalty": null,
+   "currency": null,
+   "ai_tool": null
+  }
+ },
+ {
+  "decision_id": "insd-2026-elbert-coleman-iv-v-nexo-capital",
+  "case_name": "Elbert Coleman, III; Elbert Coleman, IV v. Nexo Capital Inc.",
+  "court": "U.S. District Court for the Southern District of Indiana",
+  "court_level": "federal-district",
+  "docket_number": "106 at",
+  "date_filed": "2026-03-31",
+  "source_url": "https://www.damiencharlotin.com/documents/1986/Coleman_v._Nexo_Capital_USA_31_March_2026.pdf",
+  "mirror_url": null,
+  "verification": "mirror-read",
+  "primary_topic": "fabricated-citations",
+  "topics": [
+   "fabricated-citations"
+  ],
+  "incident": {
+   "conduct": "The motion used nonexistent or misstated legal provisions and fabricated or nonexistent authorities, including Kramer v. Trans-Lux Corp., 24 F.3d 1001 and Indiana Code § 23-2-1-2, which the court found nonexistent, misquoted, or unsupported.",
+   "outcome": "warning",
+   "actor": "litigant-in-person",
+   "monetary_penalty": null,
+   "currency": null,
+   "ai_tool": null
+  }
+ },
+ {
+  "decision_id": "ctd-2026-christopher-a-ambrose-v-bandy-x-lee",
+  "case_name": "Christopher A. Ambrose v. Bandy X. Lee",
+  "court": "U.S. District Court for the District of Connecticut",
+  "court_level": "federal-district",
+  "docket_number": "1 at 19",
+  "date_filed": "2026-03-31",
+  "source_url": "https://www.damiencharlotin.com/documents/1914/Ambrose_v._Lee_USA_31_March_2026.pdf",
+  "mirror_url": null,
+  "verification": "mirror-read",
+  "primary_topic": "fabricated-citations",
+  "topics": [
+   "fabricated-citations"
+  ],
+  "incident": {
+   "conduct": "The brief used fabricated or nonexistent authorities and mischaracterized authorities, including Tyler v. Tyler and Martin v. Hearst Corp, which the court found nonexistent, misquoted, or unsupported.",
+   "outcome": "warning",
+   "actor": "litigant-in-person",
+   "monetary_penalty": null,
+   "currency": null,
+   "ai_tool": null
+  }
+ },
+ {
+  "decision_id": "minnctapp-2026-rushing-v-rushing-and-christ",
+  "case_name": "Rushing v. Rushing et al. and Christ Temple Apostolic Church-Fridley",
+  "court": "Minnesota Court of Appeals",
+  "court_level": "state-appellate",
+  "docket_number": "APP. with Minn. R. Civ. P. 11.02(b)",
+  "date_filed": "2026-03-31",
+  "source_url": "https://www.damiencharlotin.com/documents/1889/Rushing_v._Rushing_USA_31_March_2026.pdf",
+  "mirror_url": null,
+  "verification": "mirror-read",
+  "primary_topic": "fabricated-citations",
+  "topics": [
+   "fabricated-citations"
+  ],
+  "incident": {
+   "conduct": "The complaint used fabricated or nonexistent authorities that the court found nonexistent, misquoted, or unsupported for the propositions asserted.",
+   "outcome": "dismissal",
+   "actor": "litigant-in-person",
+   "monetary_penalty": null,
+   "currency": null,
+   "ai_tool": null
+  }
+ },
+ {
+  "decision_id": "dcd-2026-nguedi-v-general-dynamics-information-technology",
+  "case_name": "Nguedi v. General Dynamics Information Technology",
+  "court": "U.S. District Court for the District of Columbia",
+  "court_level": "federal-district",
+  "docket_number": "23-2965 (RDM)",
+  "date_filed": "2026-03-31",
+  "source_url": "https://www.damiencharlotin.com/documents/1909/Nguedi_v._AO_USA_31_March_2026.pdf",
+  "mirror_url": null,
+  "verification": "mirror-read",
+  "primary_topic": "fabricated-citations",
+  "topics": [
+   "fabricated-citations"
+  ],
+  "incident": {
+   "conduct": "The filing used nonexistent or misstated legal provisions, false quotations, fabricated or nonexistent authorities and mischaracterized authorities, including Brady v. Office of Sergeant at Arms and Figueroa v. Pompeo, which the court found nonexistent, misquoted, or unsupported.",
+   "outcome": "other",
+   "actor": "litigant-in-person",
+   "monetary_penalty": null,
+   "currency": null,
+   "ai_tool": null
+  }
+ },
+ {
+  "decision_id": "ilnd-2026-ella-and-ramin-v-travelers-insurance",
+  "case_name": "Ella and Ramin LLC v. Travelers Insurance Company",
+  "court": "U.S. District Court for the Northern District of Illinois",
+  "court_level": "federal-district",
+  "docket_number": "24-cv-07870 as Defendants. Now befor",
+  "date_filed": "2026-03-31",
+  "source_url": "https://www.damiencharlotin.com/documents/1928/ELLA_AND_RAMIN_LLC_Plaintiff_v_TRAVELERS_INSURANCE_COMPANY_USA_31_March_2026.pdf",
+  "mirror_url": null,
+  "verification": "mirror-read",
+  "primary_topic": "fabricated-citations",
+  "topics": [
+   "fabricated-citations"
+  ],
+  "incident": {
+   "conduct": "The complaint and sanctions papers cited nonexistent or irrelevant Illinois insurance authorities while relying on admitted AI-drafted legal research.",
+   "outcome": "other",
+   "actor": "litigant-in-person",
+   "monetary_penalty": null,
+   "currency": null,
+   "ai_tool": null
+  }
+ },
+ {
+  "decision_id": "dcd-2026-zavadovsky-v-republic-of-austria",
+  "case_name": "Zavadovsky v. Republic of Austria, et al.",
+  "court": "U.S. District Court for the District of Columbia",
+  "court_level": "federal-district",
+  "docket_number": "25-1008 (RC)",
+  "date_filed": "2026-03-31",
+  "source_url": "https://www.damiencharlotin.com/documents/1921/Zavadovsky_v._Austria_USA_30_March_2026.pdf",
+  "mirror_url": null,
+  "verification": "mirror-read",
+  "primary_topic": "fabricated-citations",
+  "topics": [
+   "fabricated-citations"
+  ],
+  "incident": {
+   "conduct": "The filing used fake quotations, nonexistent cases, and misrepresented procedural rules in support of strike and response arguments.",
+   "outcome": "warning",
+   "actor": "litigant-in-person",
+   "monetary_penalty": null,
+   "currency": null,
+   "ai_tool": null
+  }
+ },
+ {
+  "decision_id": "ohsd-2026-quandel-construction-group-v-hunt-construction-group",
+  "case_name": "Quandel Construction Group, Inc. v. Hunt Construction Group, Inc.",
+  "court": "U.S. District Court for the Southern District of Ohio",
+  "court_level": "federal-district",
+  "docket_number": "2-24-cv-2362",
+  "date_filed": "2026-03-31",
+  "source_url": "https://www.damiencharlotin.com/documents/1892/Quandel_v._Hunt_USA_31_March_2026.pdf",
+  "mirror_url": null,
+  "verification": "mirror-read",
+  "primary_topic": "fabricated-citations",
+  "topics": [
+   "fabricated-citations"
+  ],
+  "incident": {
+   "conduct": "The brief cited nonexistent cases and quoted language that the court could not find in any actual decision.",
+   "outcome": "pending",
+   "actor": "lawyer",
+   "monetary_penalty": null,
+   "currency": null,
+   "ai_tool": null
+  }
+ },
+ {
+  "decision_id": "almd-2026-staley-v-city-of-elba",
+  "case_name": "Staley v. City of Elba, et al.",
+  "court": "U.S. District Court for the Middle District of Alabama",
+  "court_level": "federal-district",
+  "docket_number": "1:24-cv-00141-BL-SMD",
+  "date_filed": "2026-03-31",
+  "source_url": "https://www.damiencharlotin.com/documents/1911/Staley_USA_31_March_2026.pdf",
+  "mirror_url": null,
+  "verification": "mirror-read",
+  "primary_topic": "fabricated-citations",
+  "topics": [
+   "fabricated-citations"
+  ],
+  "incident": {
+   "conduct": "The motion used false quotations and fabricated or nonexistent authorities, including Kidd v. Mando Am. Corp and Osorio v. Miami-Dade Cnty, which the court found nonexistent, misquoted, or unsupported.",
+   "outcome": "other",
+   "actor": "litigant-in-person",
+   "monetary_penalty": null,
+   "currency": null,
+   "ai_tool": null
+  }
+ },
+ {
+  "decision_id": "azd-2026-chelsea-montes-v-suns-legacy-partners",
+  "case_name": "Chelsea Montes v. Suns Legacy Partners LLC",
+  "court": "U.S. District Court for the District of Arizona",
+  "court_level": "federal-district",
+  "docket_number": "CV-25-01295-PHX-GMS",
+  "date_filed": "2026-03-31",
+  "source_url": "https://www.damiencharlotin.com/documents/1872/Montes_v._Suns_Legacy_Partners_USA_31_March_2026.pdf",
+  "mirror_url": null,
+  "verification": "mirror-read",
+  "primary_topic": "fabricated-citations",
+  "topics": [
+   "fabricated-citations"
+  ],
+  "incident": {
+   "conduct": "The motion cited fake cases and quotations, including supposed Arizona privilege authorities, that looked real but did not exist as cited.",
+   "outcome": "costs-order",
+   "actor": "lawyer",
+   "monetary_penalty": null,
+   "currency": null,
+   "ai_tool": null
+  }
+ },
+ {
+  "decision_id": "arizctapp-2026-hampton-v-lofton",
+  "case_name": "Hampton v. Lofton",
+  "court": "Arizona Court of Appeals, Division One",
+  "court_level": "state-appellate",
+  "docket_number": "1 CA-CV 25-0650 FC",
+  "date_filed": "2026-03-31",
+  "source_url": "https://www.damiencharlotin.com/documents/1912/Hampton_v._Lofton_USA_31_March_2026.pdf",
+  "mirror_url": null,
+  "verification": "mirror-read",
+  "primary_topic": "fabricated-citations",
+  "topics": [
+   "fabricated-citations"
+  ],
+  "incident": {
+   "conduct": "The appellate brief used fabricated or nonexistent authorities and mischaracterized authorities that the court found nonexistent, misquoted, or unsupported for the propositions asserted.",
+   "outcome": "other",
+   "actor": "litigant-in-person",
+   "monetary_penalty": null,
+   "currency": null,
+   "ai_tool": null
+  }
+ },
+ {
+  "decision_id": "ctsuperct-2026-mohamed-hussain-v-mansoor-quraishi",
+  "case_name": "Mohamed Hussain et al. v. Mansoor Quraishi et al.",
+  "court": "Connecticut Superior Court",
+  "court_level": "state-trial",
+  "docket_number": "Entry 123 for a list of the AI generated/",
+  "date_filed": "2026-03-31",
+  "source_url": "https://www.damiencharlotin.com/documents/1958/Hussain_v._Mansoor_USA_31_March_2026.pdf",
+  "mirror_url": null,
+  "verification": "mirror-read",
+  "primary_topic": "fabricated-citations",
+  "topics": [
+   "fabricated-citations"
+  ],
+  "incident": {
+   "conduct": "The complaint used multiple false quotations, fabricated or nonexistent authorities and mischaracterized authorities that the court found nonexistent, misquoted, or unsupported for the propositions asserted.",
+   "outcome": "pending",
+   "actor": "lawyer",
+   "monetary_penalty": null,
+   "currency": null,
+   "ai_tool": null
+  }
+ },
+ {
+  "decision_id": "cacd-2026-leonard-colbert-v-county-of-riverside",
+  "case_name": "Leonard Colbert v. County of Riverside",
+  "court": "U.S. District Court for the Central District of California",
+  "court_level": "federal-district",
+  "docket_number": "d a Reply on October 28",
+  "date_filed": "2026-03-31",
+  "source_url": "https://www.damiencharlotin.com/documents/1956/Colbert_v._Riverside_USA_31_March_2026.pdf",
+  "mirror_url": null,
+  "verification": "mirror-read",
+  "primary_topic": "fabricated-citations",
+  "topics": [
+   "fabricated-citations"
+  ],
+  "incident": {
+   "conduct": "The opposition brief used multiple nonexistent or misstated legal provisions, false quotations and fabricated or nonexistent authorities, including Mata v. Avianca, Inc, which the court found nonexistent, misquoted, or unsupported.",
+   "outcome": "warning",
+   "actor": "lawyer",
+   "monetary_penalty": null,
+   "currency": null,
+   "ai_tool": null
+  }
+ },
+ {
+  "decision_id": "moed-2026-jaii-leshawn-quinones-v-unknown-love",
+  "case_name": "Jaii LeShawn Quinones v. Unknown Love, et al.",
+  "court": "U.S. District Court for the Eastern District of Missouri",
+  "court_level": "federal-district",
+  "docket_number": "d this action on August 8",
+  "date_filed": "2026-03-31",
+  "source_url": "https://www.damiencharlotin.com/documents/1913/Quinones_v._Love_USA_31_March_2026.pdf",
+  "mirror_url": null,
+  "verification": "mirror-read",
+  "primary_topic": "fabricated-citations",
+  "topics": [
+   "fabricated-citations"
+  ],
+  "incident": {
+   "conduct": "The filing used fabricated or nonexistent authorities and mischaracterized authorities, including Egelhoff v. Egelhoff and Wilkerson v. Wilkerson, which the court found nonexistent, misquoted, or unsupported.",
+   "outcome": "pending",
+   "actor": "litigant-in-person",
+   "monetary_penalty": null,
+   "currency": null,
+   "ai_tool": null
+  }
+ },
+ {
+  "decision_id": "nyed-2026-evgeny-yaroshevsky-v-karlin",
+  "case_name": "Evgeny Yaroshevsky v. Karlin et al.",
+  "court": "U.S. District Court for the Eastern District of New York",
+  "court_level": "federal-district",
+  "docket_number": "d 02/23/2026 cottages on the North Shore",
+  "date_filed": "2026-03-31",
+  "source_url": "https://www.damiencharlotin.com/documents/1592/Yaroshevsky_v._Karlin_USA_23_February_2026.pdf",
+  "mirror_url": null,
+  "verification": "mirror-read",
+  "primary_topic": "fabricated-citations",
+  "topics": [
+   "fabricated-citations"
+  ],
+  "incident": {
+   "conduct": "The complaint used multiple false quotations, fabricated or nonexistent authorities and mischaracterized authorities, including Ramirez v. Humala, 24-CV-242, which the court found nonexistent, misquoted, or unsupported.",
+   "outcome": "costs-order",
+   "actor": "litigant-in-person",
+   "monetary_penalty": null,
+   "currency": null,
+   "ai_tool": "Gemini"
+  }
+ },
+ {
+  "decision_id": "ksd-2026-ford-v-sherwin-williams",
+  "case_name": "Ford v. Sherwin-Williams",
+  "court": "U.S. District Court for the District of Kansas",
+  "court_level": "federal-district",
+  "docket_number": "25-1022-DDC-GEB",
+  "date_filed": "2026-03-31",
+  "source_url": "https://www.damiencharlotin.com/documents/1907/Ford_v_Sherwin-Williams_USA_31_March_2026.pdf",
+  "mirror_url": null,
+  "verification": "mirror-read",
+  "primary_topic": "fabricated-citations",
+  "topics": [
+   "fabricated-citations"
+  ],
+  "incident": {
+   "conduct": "The filing used false quotations and fabricated or nonexistent authorities, including Clark v. City of Shawnee, Kansas, No. 21-2223-EFM, which the court found nonexistent, misquoted, or unsupported.",
+   "outcome": "warning",
+   "actor": "litigant-in-person",
+   "monetary_penalty": null,
+   "currency": null,
+   "ai_tool": null
+  }
+ },
+ {
+  "decision_id": "ctd-2026-jacobs-v-payward",
+  "case_name": "Jacobs v. Payward, Inc.",
+  "court": "U.S. District Court for the District of Connecticut",
+  "court_level": "federal-district",
+  "docket_number": "45 at 7",
+  "date_filed": "2026-03-30",
+  "source_url": "https://www.damiencharlotin.com/documents/1878/Jacobs_v._Payward_USA_30_March_2026.pdf",
+  "mirror_url": null,
+  "verification": "mirror-read",
+  "primary_topic": "fabricated-citations",
+  "topics": [
+   "fabricated-citations"
+  ],
+  "incident": {
+   "conduct": "The brief relied on hallucinated or irrelevant CUTPA authorities, including Hottle and Wyndham citations that did not support the propositions asserted.",
+   "outcome": "warning",
+   "actor": "litigant-in-person",
+   "monetary_penalty": null,
+   "currency": null,
+   "ai_tool": null
+  }
+ },
+ {
+  "decision_id": "nywd-2026-beedemariam-kassaw-v-wal-mart",
+  "case_name": "Beedemariam Kassaw v. Wal-Mart Corporation",
+  "court": "U.S. District Court for the Western District of New York",
+  "court_level": "federal-district",
+  "docket_number": "1619",
+  "date_filed": "2026-03-30",
+  "source_url": "https://www.damiencharlotin.com/documents/1885/Kassaw_v._Walmart_USA_30_March_2026.pdf",
+  "mirror_url": null,
+  "verification": "mirror-read",
+  "primary_topic": "fabricated-citations",
+  "topics": [
+   "fabricated-citations"
+  ],
+  "incident": {
+   "conduct": "The filing used fabricated or nonexistent authorities that the court found nonexistent, misquoted, or unsupported for the propositions asserted.",
+   "outcome": "strike-off",
+   "actor": "litigant-in-person",
+   "monetary_penalty": null,
+   "currency": null,
+   "ai_tool": null
+  }
+ },
+ {
+  "decision_id": "mad-2026-souza-v-city-of-fitchburg",
+  "case_name": "Souza v. City of Fitchburg",
+  "court": "U.S. District Court for the District of Massachusetts",
+  "court_level": "federal-district",
+  "docket_number": "23-cv-10140-DJC",
+  "date_filed": "2026-03-30",
+  "source_url": "https://www.damiencharlotin.com/documents/1920/Souza_v._Fichtburg_USA_30_March_2026.pdf",
+  "mirror_url": null,
+  "verification": "mirror-read",
+  "primary_topic": "fabricated-citations",
+  "topics": [
+   "fabricated-citations"
+  ],
+  "incident": {
+   "conduct": "The opposition brief used multiple fabricated or nonexistent authorities, including Mata v. Avianca, Inc., No. 22-cv-1461 and Allbaugh v. U. of Scranton, No. 3:24-CV-2237, which the court found nonexistent, misquoted, or unsupported.",
+   "outcome": "warning",
+   "actor": "litigant-in-person",
+   "monetary_penalty": null,
+   "currency": null,
+   "ai_tool": null
+  }
+ },
+ {
+  "decision_id": "nysd-2026-route-6-holdings-v-town-of-yorktown",
+  "case_name": "76 Route 6 Holdings Inc. v. Town of Yorktown, NY",
+  "court": "U.S. District Court for the Southern District of New York",
+  "court_level": "federal-district",
+  "docket_number": "25-CV-693 (KMK)",
+  "date_filed": "2026-03-30",
+  "source_url": "https://www.damiencharlotin.com/documents/1882/76_Route_6_Holdings_Inc_v_Town_of_Yorktown_New_York_et_al_USA_30_March_2026.pdf",
+  "mirror_url": null,
+  "verification": "mirror-read",
+  "primary_topic": "fabricated-citations",
+  "topics": [
+   "fabricated-citations"
+  ],
+  "incident": {
+   "conduct": "The complaint quoted language from McEachin and Goel that the court found did not appear in those cases.",
+   "outcome": "warning",
+   "actor": "lawyer",
+   "monetary_penalty": null,
+   "currency": null,
+   "ai_tool": null
+  }
+ },
+ {
+  "decision_id": "indctapp-2026-nicole-olbera-v-tiara-sykes",
+  "case_name": "Nicole Olbera, et al. v. Tiara Sykes",
+  "court": "Indiana Court of Appeals",
+  "court_level": "state-appellate",
+  "docket_number": "25A-JP-2005 pregnant",
+  "date_filed": "2026-03-30",
+  "source_url": "https://www.damiencharlotin.com/documents/1876/Nicole_Olbera_et_al_Appellants_v_Tiara_Sykes_Appellee-Plaintiff.pdf",
+  "mirror_url": null,
+  "verification": "mirror-read",
+  "primary_topic": "fabricated-citations",
+  "topics": [
+   "fabricated-citations"
+  ],
+  "incident": {
+   "conduct": "The brief used fabricated or nonexistent authorities, including Pavan v. Smith, which the court found nonexistent, misquoted, or unsupported.",
+   "outcome": "warning",
+   "actor": "litigant-in-person",
+   "monetary_penalty": null,
+   "currency": null,
+   "ai_tool": null
+  }
+ },
+ {
+  "decision_id": "tnwd-2026-randel-edward-page-jr-v-apperson-crump",
+  "case_name": "Randel Edward Page, Jr. v. Apperson Crump",
+  "court": "U.S. District Court for the Western District of Tennessee",
+  "court_level": "federal-district",
+  "docket_number": "d on February 25",
+  "date_filed": "2026-03-30",
+  "source_url": "https://www.damiencharlotin.com/documents/1915/Page_v._Apperson_USA_30_March_2026.pdf",
+  "mirror_url": null,
+  "verification": "mirror-read",
+  "primary_topic": "fabricated-citations",
+  "topics": [
+   "fabricated-citations"
+  ],
+  "incident": {
+   "conduct": "The motion used fabricated or nonexistent authorities that the court found nonexistent, misquoted, or unsupported for the propositions asserted.",
+   "outcome": "warning",
+   "actor": "litigant-in-person",
+   "monetary_penalty": null,
+   "currency": null,
+   "ai_tool": null
+  }
+ },
+ {
+  "decision_id": "tnwd-2026-edward-reynolds-v-progressive-technologies",
+  "case_name": "Edward Reynolds v. Progressive Technologies, Inc.",
+  "court": "U.S. District Court for the Western District of Tennessee",
+  "court_level": "federal-district",
+  "docket_number": "15-2472",
+  "date_filed": "2026-03-30",
+  "source_url": "https://www.damiencharlotin.com/documents/1880/Reynolds_v_Progressive_Technologies_USA_30_March_2026.pdf",
+  "mirror_url": null,
+  "verification": "mirror-read",
+  "primary_topic": "fabricated-citations",
+  "topics": [
+   "fabricated-citations"
+  ],
+  "incident": {
+   "conduct": "The brief used multiple fabricated or nonexistent authorities that the court found nonexistent, misquoted, or unsupported for the propositions asserted.",
+   "outcome": "warning",
+   "actor": "litigant-in-person",
+   "monetary_penalty": null,
+   "currency": null,
+   "ai_tool": null
+  }
+ },
+ {
+  "decision_id": "ilnd-2026-williams-v-chicago-board-of-education",
+  "case_name": "Williams v. Chicago Board Of Education",
+  "court": "U.S. District Court for the Northern District of Illinois",
+  "court_level": "federal-district",
+  "docket_number": "s will be consolidated. See 1:24-cv-11729",
+  "date_filed": "2026-03-30",
+  "source_url": "https://www.damiencharlotin.com/documents/1919/Williams_v._Chicago_Board_of_Education_USA_30_March_2026.pdf",
+  "mirror_url": null,
+  "verification": "mirror-read",
+  "primary_topic": "fabricated-citations",
+  "topics": [
+   "fabricated-citations"
+  ],
+  "incident": {
+   "conduct": "The response brief used two false quotations, fabricated or nonexistent authorities and mischaracterized authorities, including EEOC v. Univ. of Chicago Hospitals and Doe v. Village of Arlington Heights, which the court found nonexistent, misquoted, or unsupported.",
+   "outcome": "pending",
+   "actor": "lawyer",
+   "monetary_penalty": null,
+   "currency": null,
+   "ai_tool": null
+  }
+ }
+]

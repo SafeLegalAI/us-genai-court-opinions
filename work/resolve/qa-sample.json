@@ -1,0 +1,1305 @@
+[
+ {
+  "decision_id": "ncwd-2026-smith-v-polk-county",
+  "case_name": "Wayne K. Smith, Sr. v. Polk County",
+  "court": "United States District Court for the Western District of North Carolina",
+  "date_filed": "2026-08-07",
+  "docket_number": "1:24-cv-00037-MR-WCM",
+  "source_url": "https://www.govinfo.gov/content/pkg/USCOURTS-ncwd-1_24-cv-00037/pdf/USCOURTS-ncwd-1_24-cv-00037-2.pdf",
+  "mirror_url": "https://www.damiencharlotin.com/documents/2834/Wayne_Smith_v._Polk_County_USA_7_August_2026.pdf",
+  "verification": "fetched-and-read",
+  "primary_topic": "fabricated-citations",
+  "topics": [
+   "fabricated-citations",
+   "competence-fees"
+  ],
+  "disposition": "The court discharged an AI-use show-cause order without sanctions but cautioned plaintiff's counsel about future filings.",
+  "ai_tool_named": null,
+  "court_used_ai": false,
+  "incident": {
+   "actor": "lawyer",
+   "ai_tool": null,
+   "conduct": "Plaintiff’s counsel filed briefing with fabricated quotations and did not submit timely AI-use certifications required by the court’s standing order.",
+   "currency": null,
+   "monetary_penalty": null,
+   "outcome": "warning"
+  },
+  "ai_passage": "On June 3, 2026, the Court directed counsel for the Plaintiff to show cause in writing as to why she should not be sanctioned for failure to comply with the Court’s Standing Order Regarding the Use of Artificial Intelligence. [Doc. 98 at 15]. The Court specifically directed counsel for the Plaintiff to explain both the origin of the fabricated quotations in briefing she filed with the Court and her repeated failure to provide timely certifications that complied with the Court’s Standing Order. ... Counsel represented that she “does not use AI to conduct legal research,” and that “[t]o ensure the accuracy of citations . . . [she] runs briefs through LexisNexis brief analysis” and fixes any error that appears “alarming.” ... Moreover, counsel has not explained the origin of the fabricated quotations other than to accept responsibility for them and assert that they were not produced by an artificial intelligence program. How such fabricated quotations could have appeared in the Plaintiff’s filings at all therefore remains a mystery. Finally, while counsel asserts that the artificial intelligence program embedded in her practice cannot hallucinate, she has provided no corroboration for that assertion, nor has she even provided the name of the artificial intelligence program that she uses. As a result, the Court finds that counsel’s response has fallen well short of the Court’s expectations. Nevertheless, because counsel has accepted responsibility for the errors in the Plaintiff’s filings, the Court will discharge the Show Cause Order. Counsel for the Plaintiff is cautioned, however, that any similar shortcomings in future filings will result in sanctions.",
+  "summary": "The Western District of North Carolina resolves summary-judgment and spoliation motions and discharges an AI show-cause order. The court says plaintiff’s counsel accepted responsibility for fabricated quotations but did not explain their origin or substantiate claims about an unnamed AI program."
+ },
+ {
+  "decision_id": "in-re-ap-ohio-2026",
+  "case_name": "In re A.P.",
+  "court": "Ohio Court of Appeals, Twelfth Appellate District",
+  "date_filed": "2026-07-27",
+  "docket_number": "CA2025-12-011",
+  "source_url": "https://www.supremecourt.ohio.gov/rod/docs/pdf/12/2026/2026-Ohio-2862.pdf",
+  "mirror_url": null,
+  "verification": "fetched-and-read",
+  "primary_topic": "pro-se-ai-use",
+  "topics": [
+   "pro-se-ai-use"
+  ],
+  "disposition": "The court affirmed and warned that erroneous AI-assisted citations may be disregarded or sanctioned.",
+  "ai_tool_named": "artificial intelligence",
+  "court_used_ai": false,
+  "incident": null,
+  "ai_passage": "Before we consider Father's assignments of error, we first address his acknowledged reliance on artificial intelligence in drafting his brief. We note that several case citations in Father's brief were erroneous in that they led to miscited cases and cases that exist but stand for different legal propositions than what is represented. We remind all parties and attorneys who may appear before our court that false citations not only will be disregarded by this court, but may result in sanctions. Chasteen v. Lynch, 2024-Ohio- 5857, ¶ 50 (12th Dist.). App.R. 16(A)(7) requires that an appellant set forth \"[a]n argument containing the contentions of the appellant with respect to each assignment of error presented for review and the reasons in support of the contentions, with citations to the authorities, statutes, and parts of the record on which the appellant relies.\" Father's status as a pro se litigant does not relieve him of his obligation to comply with the appellate rules because it is well established that pro se litigants are held to the same standard as all other litigants.",
+  "summary": "The Ohio appellate court pauses before the merits to address a father’s acknowledged AI-assisted brief. The court identifies erroneous citations, reminds parties that false authorities may lead to sanctions, and applies ordinary appellate standards to the self-represented parent."
+ },
+ {
+  "decision_id": "ca5-2026-guerra-quezada-v-united-states",
+  "case_name": "Guerra-Quezada v. United States",
+  "court": "United States Court of Appeals for the Fifth Circuit",
+  "date_filed": "2026-08-14",
+  "docket_number": "25-10372; 25-10555",
+  "source_url": "https://www.govinfo.gov/content/pkg/USCOURTS-ca5-25-10555/pdf/USCOURTS-ca5-25-10555-0.pdf",
+  "mirror_url": "https://www.damiencharlotin.com/documents/2900/Quezada_v._USA_USA_14_August_2026.pdf",
+  "verification": "fetched-and-read",
+  "primary_topic": "fabricated-citations",
+  "topics": [
+   "fabricated-citations"
+  ],
+  "disposition": "The court affirmed one dismissal, remanded the other to dismiss without prejudice, and warned counsel about defective citations.",
+  "ai_tool_named": null,
+  "court_used_ai": false,
+  "incident": {
+   "actor": "lawyer",
+   "ai_tool": null,
+   "conduct": "Appellants’ counsel filed briefs with false quotations, a misidentified circuit decision, and a quotation attributed to the wrong Supreme Court opinion.",
+   "currency": null,
+   "monetary_penalty": null,
+   "outcome": "warning"
+  },
+  "ai_passage": "Appellants have not adequately briefed these claims: They are completely unsubstantiated by citations to the record, and the case citations in the briefing are systematically defective. Accordingly, Appellants have forfeited these arguments. ... Troubling to the court is the fact that the briefs filed in both cases by Appellants’ counsel contain significant inaccuracies. Both briefs quote Ng Fung Ho v. White, 259 U.S. 276, 284 (1922), for the proposition that “[N]o deportable alien may be expelled until it has first been determined . . . that he is in fact an alien.” This court’s research has failed to locate this quote in Ng Fung Ho or in any other opinion. Additionally, in Guerra-Vasquez’s opening brief, a parenthetical cites the correct part of Ng Fung Ho but misquotes the majority. Both briefs also attribute the phrase, “[i]t is wrong to deport a United States citizen,” to Ng Fung Ho, but that phrase does not appear in the opinion. ... Federal Rule of Appellate Procedure 28 requires all filed briefs to contain arguments supported by “citations to the authorities,” disallowing citation to nonexistent or fabricated cases. ... The court takes no action now for the foregoing deficiencies, but counsel must take this obligation seriously in the future.",
+  "summary": "The Fifth Circuit resolves consolidated immigration appeals and warns appellants’ counsel about systematically defective authorities. The opinion identifies quotations falsely attributed to Ng Fung Ho, an incorrect circuit attribution for Doe v. McAleenan, and a quotation from an Afroyim dissent misattributed to the majority."
+ },
+ {
+  "decision_id": "fladistctapp-2026-hulse-gibson-v-hulse",
+  "case_name": "Hulse-Gibson v. Hulse",
+  "court": "District Court of Appeal of Florida, Second District",
+  "date_filed": "2026-07-08",
+  "docket_number": "2D2025-1144",
+  "source_url": "https://storage.courtlistener.com/pdf/2026/07/08/hulse-gibson_v._hulse.pdf",
+  "mirror_url": null,
+  "verification": "fetched-and-read",
+  "primary_topic": "fabricated-citations",
+  "topics": [
+   "fabricated-citations",
+   "pro-se-ai-use"
+  ],
+  "disposition": "The court affirmed without comment and cautioned Cynthia Hulse-Gibson to verify generative-AI-assisted pro se filings.",
+  "ai_tool_named": "generative AI",
+  "court_used_ai": false,
+  "incident": {
+   "actor": "litigant-in-person",
+   "ai_tool": "generative AI",
+   "conduct": "A self-represented appellant filed briefs with mismatches among legal propositions, case names and reporter citations after apparent generative-AI use.",
+   "currency": null,
+   "monetary_penalty": null,
+   "outcome": "warning"
+  },
+  "ai_passage": "We affirm the orders on appeal without comment. We write, however, to caution Cynthia Hulse-Gibson about using generative AI in any future pro se filings without verifying the accuracy of the results. Hulse-Gibson's briefs here are replete with mismatches involving the purported legal proposition, the case name, and the reporter citation. See Fletcher v. Experian Info. Sols., Inc., 168 F.4th 231, 233 (5th Cir. 2026) (\"This problem [the misuse of generative AI] now often manifests as false quotes or statements of law attributed to real cases, rather than the more easily recognizable fake cases.\"). Those who use generative AI to assist with legal research and brief writing must exercise special care to validate the results before signing and filing their briefs; their failure to do so exposes them to potential sanctions.",
+  "summary": "The Florida Second District Court of Appeal affirms orders against Cynthia Hulse-Gibson without comment. The panel separately cautions the self-represented appellant that her briefs contained mismatches among propositions, case names and citations, and warns that unverified generative-AI legal research can expose filers to sanctions."
+ },
+ {
+  "decision_id": "njd-2026-kurelko-v-ballard",
+  "case_name": "Kurelko v. Ballard",
+  "court": "United States District Court for the District of New Jersey",
+  "date_filed": "2026-08-25",
+  "docket_number": "3:25-cv-11917-ZNQ-JBD",
+  "source_url": "https://www.govinfo.gov/content/pkg/USCOURTS-njd-3_25-cv-11917/pdf/USCOURTS-njd-3_25-cv-11917-0.pdf",
+  "mirror_url": "https://www.damiencharlotin.com/documents/2944/KURELKO_v._BALLARD_JR._USA_25_August_2026.pdf",
+  "verification": "fetched-and-read",
+  "primary_topic": "fabricated-citations",
+  "topics": [
+   "fabricated-citations"
+  ],
+  "disposition": "The court denied Kurelko's motions to disqualify the New Jersey Office of the Attorney General.",
+  "ai_tool_named": null,
+  "court_used_ai": false,
+  "incident": {
+   "actor": "litigant-in-person",
+   "ai_tool": null,
+   "conduct": "Self-represented plaintiff filed a disqualification motion with inaccurate or nonexistent case citations and quotations.",
+   "currency": null,
+   "monetary_penalty": null,
+   "outcome": "warning"
+  },
+  "ai_passage": "Plaintiff’s first motion to disqualify contains several inaccurate or non-existent case citations and quotations. See [Dkt. 15.] “‘[I]t is improper and unacceptable for litigants—including pro se litigants—to submit ‘non-existent judicial opinions with fake quotes and citations.’” Fagan v. Barnhiser, Civ. No. 24-06012 (CCC), 2025 WL 2654994, at *2 (D.N.J. Sept. 17, 2025) (quoting Anonymous v. New York City Dep’t of Educ., Civ. No. 24-4232, 2024 WL 3460049, at *7 (S.D.N.Y. July 18, 2024) (further citations omitted)). “While some Courts have opted to sanction pro se litigants for this conduct, others have chosen to warn, rather than sanction, in these situations.” Id. (citation omitted). At this time, the Court will not impose sanctions. But plaintiff is now on notice: The Court “admonishes [p]laintiff for his improper conduct and warns that he will be subject to sanctions, including monetary penalties, should he [engage in similar conduct] again in the future.” Id.",
+  "summary": "The District of New Jersey denies Kurelko’s motions to disqualify state counsel and notes his first motion contained inaccurate or nonexistent case citations and quotations. The court declines sanctions at that time, admonishes the self-represented plaintiff, and warns that similar conduct may bring monetary penalties."
+ },
+ {
+  "decision_id": "pangelinan-guam-2026",
+  "case_name": "In re Estate of Pangelinan",
+  "court": "Supreme Court of Guam",
+  "date_filed": "2026-07-15",
+  "docket_number": "CVA25-007",
+  "source_url": "https://guamcourts.gov/sites/default/files/SupremeCourtOpinions/2026%20Guam%205.pdf",
+  "mirror_url": null,
+  "verification": "fetched-and-read",
+  "primary_topic": "pro-se-ai-use",
+  "topics": [
+   "pro-se-ai-use"
+  ],
+  "disposition": "The court affirmed in part and reversed in part while declining sanctions for two possible AI-attributed citations.",
+  "ai_tool_named": "generative artificial intelligence",
+  "court_used_ai": false,
+  "incident": null,
+  "ai_passage": "In Schacher’s opening brief, two nonexistent citations may be attributed to generative artificial intelligence use. See Appellant’s Am. Br. at 15 (June 30, 2025). We do not find sanctions warranted, considering Schacher’s pro se status and this being his initial appearance before the court. However, we reiterate that “[i]t is the responsibility of attorneys, judges, and self-represented litigants to ensure the integrity of their final submissions.” Re: Adoption of the Judiciary of Guam Policy on Artificial Intelligence, ADM25-001, Ex. A (Admin. Order No. ADM25-001, Apr. 30, 2025).",
+  "summary": "The Supreme Court of Guam observes that two nonexistent citations in a self-represented probate appellant’s brief may be attributable to generative AI. Considering pro se status and a first appearance, it finds sanctions unwarranted but reiterates final-submission duties."
+ },
+ {
+  "decision_id": "ark-rule-220-2025",
+  "case_name": "In re Adoption of Arkansas Supreme Court Administrative Order No. 25. Artificial Intelligence",
+  "court": "Supreme Court of Arkansas",
+  "date_filed": "2025-12-11",
+  "docket_number": null,
+  "source_url": "https://opinions.arcourts.gov/ark/supremecourt/en/524043/1/document.do",
+  "mirror_url": null,
+  "verification": "fetched-and-read",
+  "primary_topic": "rules-by-opinion",
+  "topics": [
+   "rules-by-opinion"
+  ],
+  "disposition": "The court adopted Administrative Order No. 25 on artificial intelligence effective immediately.",
+  "ai_tool_named": null,
+  "court_used_ai": false,
+  "incident": null,
+  "ai_passage": "On June 5, 2025, we published for comment a proposed Administrative Order No. 25: Artificial Intelligence. It specifically addressed the use of generative artificial intelligence with confidential court data. See In re Creation of Ark. Sup. Ct. Admin. Order No. 25, 2025 Ark. 117 (per curiam). The comment period closed without substantive comments. The court adopts Administrative Order No. 25 as provided below effective immediately. Order 25. Artificial Intelligence. Section 1. Awareness. Everyone participating in the court system must be mindful of the following when entering client or court data into any electronic system that generates responses or uses generative artificial intelligence (GAI): (a) Certain GAI tools retain the data submitted into their system and use it to keep building their large language models (LLM), or what you would consider their database. (b) Anyone who enters confidential or sealed information into a GAI should determine whether the system is retaining and using the confidential or sealed data. A public LLM is accessible to anyone",
+  "summary": "The Arkansas Supreme Court adopts Administrative Order No. 25 after a comment period with no substantive comments. The new order requires court participants to consider confidentiality and data-retention risks before entering court or client data into generative-AI systems."
+ },
+ {
+  "decision_id": "indctapp-2026-holstein-v-holstein",
+  "case_name": "Holstein v. Holstein",
+  "court": "Court of Appeals of Indiana",
+  "date_filed": "2026-06-16",
+  "docket_number": "25A-DC-2767",
+  "source_url": "https://storage.courtlistener.com/pdf/2026/06/16/jon_hansford_holstein_v._lacey_lawana_holstein.pdf",
+  "mirror_url": null,
+  "verification": "fetched-and-read",
+  "primary_topic": "fabricated-citations",
+  "topics": [
+   "fabricated-citations"
+  ],
+  "disposition": "The court affirmed the custody order and denied a $5,000 sanctions request after counsel corrected fictitious citations.",
+  "ai_tool_named": "artificial intelligence",
+  "court_used_ai": false,
+  "incident": {
+   "actor": "lawyer",
+   "ai_tool": "artificial intelligence",
+   "conduct": "Father’s counsel included two nonexistent cases and a fictitious quote provided by his client in an initial brief, then promptly disclosed and corrected the problem.",
+   "currency": null,
+   "monetary_penalty": null,
+   "outcome": "warning"
+  },
+  "ai_passage": "These circumstances present an opportunity for this court to reemphasize the importance of verifying every citation, holding, and quote a litigant selects for inclusion in his or her filings to a court. We expect this even more so from an attorney when case-related information is provided by his non-lawyer client for use in his brief. “All attorneys are officers of the legal system and have a duty of candor toward tribunals.” Brown v. State, 746 N.E.2d 63, 70 (Ind. 2001) (citing Ind. Professional Conduct Rule 3.3); see Ind. Trial Rule 11(A) (“The signature of an attorney constitutes a certificate by him that he has read the pleadings; [and] that to the best of his knowledge, information, and belief, there is good ground to support it[.]”). “[A] lawyer who uses . . . legal authority obtained from [artificial intelligence] in a pleading without independently confirming its accuracy fails to adhere to the obligation of candor to the court if those representations turn out to be false.” Maura R. Grossman et al., Is Disclosure and Certification of the Use of Generative AI Really Necessary? 107 Judicature 68, 75 (2023). “Courts nationwide have confronted this problem and imposed sanctions on attorneys . . . who file briefs containing fictitious authority.” Wilcox v. Gingrich, 274 N.E.3d 1269, 1276 (Ind. Ct. App. 2026). However, given the unique circumstances at issue here, we do not find sanctions are warranted. First, Father’s counsel brought this to the Court’s attention and sought to rectify the situation almost immediately upon discovering his mistake. In light of counsel’s honesty in bringing this matter to the Court’s attention and a lack of any alleged prejudice, we do not find monetary sanctions are appropriate in this case and therefore deny Mother’s request. Notwithstanding our decision, we echo the warnings issued by this Court and others around the country, especially to attorneys, of the risks posed by using artificial intelligence in litigation and the sanctions that can result from its misuse.",
+  "summary": "The Indiana Court of Appeals affirms a custody order in Holstein v. Holstein and denies Mother’s request for $5,000 in sanctions. The court says Father’s counsel included citations from his client without verification, corrected them promptly, and receives a warning rather than a monetary sanction."
+ },
+ {
+  "decision_id": "mathis-fl-2026",
+  "case_name": "Mathis v. Mathis",
+  "court": "Florida Fourth District Court of Appeal",
+  "date_filed": "2026-07-29",
+  "docket_number": "4D2025-2986",
+  "source_url": "https://flcourts-media.flcourts.gov/content/download/2492962/opinion/Opinion_2025-2986.pdf",
+  "mirror_url": null,
+  "verification": "fetched-and-read",
+  "primary_topic": "pro-se-ai-use",
+  "topics": [
+   "pro-se-ai-use"
+  ],
+  "disposition": "The court reversed and remanded a child-support order while disregarding phantom authorities in a pro se brief.",
+  "ai_tool_named": "artificial intelligence",
+  "court_used_ai": false,
+  "incident": null,
+  "ai_passage": "In his answer brief, the husband cites two cases which do not exist. As we recently explained: Such phantom authority cannot assist any litigant and must be expressly disregarded by this court. Attorneys and those, like appellee, who proceed pro se are responsible for the content of their submissions to the court. Those who use artificial intelligence to assist in these submissions must ensure their accuracy.",
+  "summary": "The Florida appellate court notes that a self-represented appellee cited two nonexistent cases. Without imposing sanctions, it disregards the phantom authority and reiterates that attorneys and pro se litigants remain responsible for verifying AI-assisted filings."
+ },
+ {
+  "decision_id": "illappct-2026-scott-v-illinois-human-rights-commission",
+  "case_name": "Scott v. Illinois Human Rights Commission",
+  "court": "Appellate Court of Illinois, First District",
+  "date_filed": "2026-07-28",
+  "docket_number": "1-25-1462",
+  "source_url": "https://ilcourtsaudio.blob.core.windows.net/antilles-resources/resources/23d7df84-ed51-48df-8477-3a6872db40d5/Scott%20v.%20IL%20Human%20Rights%20Commn%202026%20IL%20App%20(1st)%20251462.pdf",
+  "mirror_url": null,
+  "verification": "fetched-and-read",
+  "primary_topic": "fabricated-citations",
+  "topics": [
+   "fabricated-citations",
+   "competence-fees",
+   "rules-by-opinion"
+  ],
+  "disposition": "The court affirmed the Commission's dismissal, fined attorney Mason Cole $15,000, and referred the opinion to the ARDC.",
+  "ai_tool_named": "ChatGPT",
+  "court_used_ai": false,
+  "incident": {
+   "actor": "lawyer",
+   "ai_tool": "ChatGPT",
+   "conduct": "Attorney used ChatGPT in appellate briefing that contained four false statutory quotations, one nonexistent case, and five unsupported case quotations or principles.",
+   "currency": "USD",
+   "monetary_penalty": 15000,
+   "outcome": "sanctions"
+  },
+  "ai_passage": "We also sanction petitioner’s attorney Mason Cole for submitting briefs containing false citations and quotations that are the product of artificial intelligence (AI) hallucinations. ... Petitioner’s briefs also contain false case citations. One such case, “Harris v. Illinois Human Rights Comm’n, 2022 IL App (1st) 210454,” does not exist at all. The citation 2022 IL App (1st) 210454-U leads to a criminal case named People v. Riley-Palmer. ... Citations of fictitious legal authority do not automatically justify striking a brief and dismissing an appeal. ... However, we must address petitioner’s attorney’s pattern of presenting multiple fabricated quotes of statutory language and case citations. ... On June 30, 2026, we ordered petitioner’s attorney Mason Cole to file a response explaining the false quotations and citations in his briefs by July 14, 2026. Attorney Cole filed his response on July 2, 2026, 12 days early. His response concedes that all the quotations and citations set out above are false for the reasons we have explained. Attorney Cole states that he “frequently use[s] a premier corporate subscription of ChatGPT” to “synthesize complex matters,” including this case. ... We order attorney Cole to pay a $15,000 fine to the clerk of the Appellate Court, First District, within 30 days of this opinion. ... Attorney Cole’s briefs contain a total of 10 false citations: 4 false statutory quotations, 1 nonexistent case, and 5 cases that exist but do not contain the cited principle or quoted language. This sanction reflects a $1,500 fine for each false citation and quotation. ... The fact that AI hallucinated these citations does not mitigate their falsehood. AI-hallucinated citations are no different than false citations an attorney could create from his own imagination. ... In addition, the clerk of the Appellate Court, First District, shall send a copy of this opinion to the ARDC.",
+  "summary": "The Illinois First District affirms dismissal of Kimberly Scott’s discrimination charge and sanctions attorney Mason Cole. The opinion says ChatGPT produced 10 false citations or quotations, fines Cole $15,000 at $1,500 per misstatement, and directs the clerk to send the opinion to the ARDC."
+ },
+ {
+  "decision_id": "dc-2026-douglas-v-deutsche-bank-national-trust",
+  "case_name": "Douglas v. Deutsche Bank National Trust Company",
+  "court": "District of Columbia Court of Appeals",
+  "date_filed": "2026-09-03",
+  "docket_number": "24-CV-1099",
+  "source_url": "https://www.dccourts.gov/sites/default/files/2026-09/Douglas%20v.%20Deutsche%20Bank%20Nat%27l%20Trt%20Co.%2024-CV-1099%20ORDER.pdf",
+  "mirror_url": null,
+  "verification": "fetched-and-read",
+  "primary_topic": "fabricated-citations",
+  "topics": [
+   "fabricated-citations"
+  ],
+  "disposition": "The court struck Deutsche Bank's appellee brief and referred the matter to the Office of Disciplinary Counsel.",
+  "ai_tool_named": "Google’s generative artificial intelligence search tool",
+  "court_used_ai": false,
+  "incident": {
+   "actor": "lawyer",
+   "ai_tool": "Google’s generative artificial intelligence search tool",
+   "conduct": "Counsel cited four nonexistent cases in an appellee brief after using Google’s generative AI search tool without verifying the authorities.",
+   "currency": null,
+   "monetary_penalty": null,
+   "outcome": "referral"
+  },
+  "ai_passage": "While reviewing appellee’s brief, the court discovered that it contained multiple citations to cases that the court was unable to locate or confirm as legitimate. On June 22, we issued an order requiring appellee to show cause “why the court should not strike its brief for citing nonexistent cases that are possibly the product of artificial intelligence (AI) hallucinations.” The next day, one of appellee’s attorneys at the firm, Loishirl W. Hall, filed a response in her own capacity. Ms. Hall confirmed that four of the brief’s cited authorities did not exist. She acknowledged that these citations were “not legitimate legal authority” and “should not have appeared in a brief filed with this Court.” Ms. Hall explained that she had “used Google’s generative artificial intelligence search tool to assist in locating case authority” and did not verify the existence or accuracy of those citations before filing the brief.",
+  "summary": "The District of Columbia Court of Appeals strikes Deutsche Bank’s appellee brief after counsel admits that four cited authorities generated through Google’s AI search did not exist. The court also refers the matter to disciplinary counsel and stresses that signed appellate briefs require verified authorities."
+ },
+ {
+  "decision_id": "insd-2026-harris-v-wray",
+  "case_name": "Harris v. Wray",
+  "court": "United States District Court for the Southern District of Indiana",
+  "date_filed": "2026-08-14",
+  "docket_number": "1:26-cv-01342-JRO-MG",
+  "source_url": "https://www.govinfo.gov/content/pkg/USCOURTS-insd-1_26-cv-01342/pdf/USCOURTS-insd-1_26-cv-01342-0.pdf",
+  "mirror_url": "https://www.damiencharlotin.com/documents/2901/Harris_v._Wray_USA_14_August_2026.pdf",
+  "verification": "fetched-and-read",
+  "primary_topic": "fabricated-citations",
+  "topics": [
+   "fabricated-citations",
+   "pro-se-ai-use"
+  ],
+  "disposition": "The court dismissed the complaint without prejudice, allowed amendment, and warned Harris about Rule 11 and AI-policy compliance.",
+  "ai_tool_named": null,
+  "court_used_ai": false,
+  "incident": {
+   "actor": "litigant-in-person",
+   "ai_tool": null,
+   "conduct": "Self-represented plaintiff cited Walsh v. Kreiger with a docket number linked to another case and a Westlaw citation that led nowhere.",
+   "currency": null,
+   "monetary_penalty": null,
+   "outcome": "warning"
+  },
+  "ai_passage": "In Harris's motion for extension of time to effect service of process, he cites Walsh v. Kreiger, No. 19-cv-1764, 2020 WL 6325983, at 2 (E.D. Wis. Oct. 28, 2020) (citing United States v. McLaughlin, 470 F.3d 698, 700 (7th Cir. 2006)), for the proposition that “good cause” not the stricter “excusable neglect” standard is the appropriate test for Fed. R. Civ. P. 4(m) extensions. Dkt. 15 at 3. While the Court has found McLaughlin and Walsh to be real cases, the Walsh citation is wholly incorrect. The docket number listed following Harris's Walsh cite is linked to a different case in the Eastern District of Wisconsin, and the Westlaw citation leads to nowhere. While Walsh v. Kreiger appears to be a real case and there is an October 28, 2020, order referencing Mclaughlin, the incorrect cite gives the Court pause. ... Because the Court dismisses Harris's complaint in its entirety, it will not order him to show cause at this time. However, Harris is accordingly warned of the possibility of sanctions if any future filings violate Rule 11(b).",
+  "summary": "The Southern District of Indiana dismisses Darryl Harris’s complaint without prejudice and warns him about an incorrect citation in a service-extension motion. The court says the Walsh docket number linked to a different case, the Westlaw citation led nowhere, and future Rule 11 violations may be sanctioned."
+ },
+ {
+  "decision_id": "ca11-2024-snell-v-united-specialty",
+  "case_name": "Snell v. United Specialty Insurance Co.",
+  "court": "U.S. Court of Appeals for the Eleventh Circuit",
+  "date_filed": "2024-05-28",
+  "docket_number": "22-12581",
+  "source_url": "https://media.ca11.uscourts.gov/opinions/pub/files/202212581.pdf",
+  "mirror_url": null,
+  "verification": "fetched-and-read",
+  "primary_topic": "court-ai-use",
+  "topics": [
+   "court-ai-use"
+  ],
+  "disposition": "The court affirmed summary judgment for the insurer; Judge Newsom concurred and disclosed querying ChatGPT and Bard while considering ordinary meaning.",
+  "ai_tool_named": "ChatGPT; Bard",
+  "court_used_ai": true,
+  "incident": null,
+  "ai_passage": "And that’s when things got weird. Perhaps in a fit of frustration, and most definitely on what can only be described as a lark, I said to one of my clerks, “I wonder what ChatGPT thinks about all this.” So he ran a query: “What is the ordinary meaning of ‘landscaping’?” Here’s what ChatGPT said in response: “Landscaping” refers to the process of altering the visible features of an area of land, typically a yard, garden or outdoor space, for aesthetic or practical purposes. This can include activities such as planting trees, shrubs, ﬂowers, or grass, as well as installing paths, fences, water features, and other elements to enhance the appearance and functionality of the outdoor space. Interesting, for two reasons. First, ChatGPT’s explanation seemed more sensible than I had thought it might—and definitely less nutty than I had feared. Second, it squared with my own impression—informed by my own experience writing, reading, speaking, and listening to American English in the real world—that ordinary people might well use the word “landscaping” (1) to include more than just botanical and other natural improvements and (2) to cover both aesthetic and functional objectives. ... For good measure, I posed the same questions to Google’s Bard (since replaced by Gemini).",
+  "summary": "On 2024-05-28, the Eleventh Circuit affirms summary judgment in an insurance coverage dispute. Judge Newsom concurs and discloses that he asked ChatGPT and Bard ordinary-meaning questions about “landscaping,” then discusses potential uses, disclosure practices, and risks of LLMs in textual interpretation."
+ },
+ {
+  "decision_id": "nhd-2026-turgeon-v-fhlmc",
+  "case_name": "Turgeon v. Federal Home Loan Mortgage Corporation",
+  "court": "United States District Court for the District of New Hampshire",
+  "date_filed": "2026-08-26",
+  "docket_number": "1:25-cv-00510-SM-TSM",
+  "source_url": "https://storage.courtlistener.com/recap/gov.uscourts.nhd.66674/gov.uscourts.nhd.66674.18.0.pdf",
+  "mirror_url": null,
+  "verification": "fetched-and-read",
+  "primary_topic": "fabricated-citations",
+  "topics": [
+   "fabricated-citations"
+  ],
+  "disposition": "The district court affirmed dismissal of Turgeon's Chapter 13 petition and upheld striking her objection.",
+  "ai_tool_named": null,
+  "court_used_ai": false,
+  "incident": {
+   "actor": "litigant-in-person",
+   "ai_tool": null,
+   "conduct": "Self-represented debtor filed an objection containing false, hallucinated case citations that the bankruptcy court found inaccurate and misleading.",
+   "currency": null,
+   "monetary_penalty": null,
+   "outcome": "other"
+  },
+  "ai_passage": "The court then questioned Turgeon regarding her Objection to the Trustee’s motion to dismiss. Specifically, the court asked Turgeon about her use of “false, hallucinated case citations” within her brief. The bankruptcy court explained to Turgeon that the citations she referenced and relied upon in her objection were inaccurate and misleading. Accordingly, her objection to the motion to dismiss would be stricken. Turgeon protested that she had been trying to act in “good faith.” The court responded: “it’s not going well for you because items are not getting noticed, []proper forms are not getting used, and you’re misleading the Court. So I really strongly urge you to get an attorney in this case and to go that route. If you continue to proceed pro se, we’ll continue to monitor the case accordingly.”",
+  "summary": "The District of New Hampshire affirms bankruptcy dismissal and recounts that the bankruptcy court struck Noella Turgeon’s objection because it contained false, hallucinated case citations. The order rejects Turgeon’s due-process challenge, noting the bankruptcy court warned her about misleading filings and gave leave to amend."
+ },
+ {
+  "decision_id": "ca6-2025-smith-v-pam-transport",
+  "case_name": "Smith v. P.A.M. Transport, Inc.",
+  "court": "U.S. Court of Appeals for the Sixth Circuit",
+  "date_filed": "2025-09-25",
+  "docket_number": "24-5549",
+  "source_url": "https://www.opn.ca6.uscourts.gov/opinions.pdf/25a0264p-06.pdf",
+  "mirror_url": null,
+  "verification": "fetched-and-read",
+  "primary_topic": "court-ai-use",
+  "topics": [
+   "court-ai-use"
+  ],
+  "disposition": "The court reversed summary judgment and remanded; the majority noted and criticized the concurrence’s ChatGPT inquiry about a disputed phrase.",
+  "ai_tool_named": "ChatGPT",
+  "court_used_ai": true,
+  "incident": null,
+  "ai_passage": "The concurrence cites a ChatGPT inquiry asking, “What does monkey ass mean?” Conc. op. at 22. ChatGPT functions as a consolidator of information, synthesizing patterns from a vast body of text, but it does not independently verify the accuracy of any material or its unknown sources. The information provided in the concurrence’s permalink to Urban Dictionary speaks for itself. ... Does the term “monkey ass,” a phrase understandably not included in traditional dictionaries, have the same racial connotation as the term “monkey”? See Monkey Ass, Urban Dictionary (last visited Sep. 22, 2025), https://perma.cc/RRF9-D7ZC (offering definitions such as “One who acts badly or stupid,” “A stubborn child, esp[ecially] one that exhibits monkey-like traits (e.g. small, agile, and wild),” and “The resultant condition from prolonged periods of poor personal hygiene . . . .”); see also ChatGPT, “What does monkey ass mean?” (Sep. 23, 2025), https://perma.cc/SS32-JRUX (explaining that monkey ass can be “potentially racial (depending on context)” but also an “insult or put-down (non-specific),” “emphasizing someone acting wild or stupid,” or “used in joking or aggressive banter” (citation modified)).",
+  "summary": "On 2025-09-25, the Sixth Circuit remands hostile-work-environment claims for trial. The majority notes the concurrence’s ChatGPT inquiry into a workplace slur and warns that ChatGPT consolidates text patterns without verifying sources; the concurrence cites the ChatGPT response among context-specific interpretive materials."
+ },
+ {
+  "decision_id": "texas-rule-2026",
+  "case_name": "Preliminary Approval of Amendments to Texas Rule of Civil Procedure 13 and Texas Rules of Appellate Procedure 9 and 52",
+  "court": "Supreme Court of Texas",
+  "date_filed": "2026-06-26",
+  "docket_number": "26-9054",
+  "source_url": "https://www.txcourts.gov/media/1462936/269054.pdf",
+  "mirror_url": null,
+  "verification": "mirror-read",
+  "primary_topic": "rules-by-opinion",
+  "topics": [
+   "rules-by-opinion"
+  ],
+  "disposition": "The court preliminarily approved rule amendments addressing verification and sanctions for inaccurate filings.",
+  "ai_tool_named": null,
+  "court_used_ai": false,
+  "incident": null,
+  "ai_passage": "Rule 13 has been rewritten to modernize the rule and reinforce the obligation of attorneys and self-represented parties to verify documents filed with the court. Paragraphs (a) and (b) incorporate the requirements in current Rule 57. Paragraph (c)(1) is adopted principally to address concerns about the improper use of artificial intelligence in filings, which increases the risk of fabricated authorities, quotations, and holdings appearing in court filings. Verifying a filing for accuracy is important, regardless of whether artificial intelligence was Misc. Docket No. 26-9054 Page 5 used. The rule is not intended to govern disputes regarding the interpretation, application, or persuasive force of existing authorities. Paragraph (e)(1) requires the court to give the signer a reasonable opportunity to respond before imposing a sanction. Paragraph (e)(2) imports available sanctions from Rule 215, tailoring them for filings instead of discovery.",
+  "summary": "The Texas Supreme Court preliminarily approves amendments to civil and appellate filing rules. Comments explain that the changes address improper AI use by reinforcing attorneys’ and self-represented parties’ obligation to verify authorities, quotations, and holdings before filing."
+ },
+ {
+  "decision_id": "cod-2026-y-s-v-john-doe",
+  "case_name": "Y.S. v. John Doe, et al.",
+  "court": "United States District Court for the District of Colorado",
+  "date_filed": "2026-06-04",
+  "docket_number": "1:25-cv-03129-DDD-KAS",
+  "source_url": "https://www.damiencharlotin.com/documents/2521/YS_v._Doe_USA_4_June_2026.pdf",
+  "mirror_url": null,
+  "verification": "mirror-read",
+  "primary_topic": "fabricated-citations",
+  "topics": [
+   "fabricated-citations"
+  ],
+  "disposition": "The court warned the filer that future use of false, nonexistent, or unsupported authorities may result in sanctions.",
+  "ai_tool_named": null,
+  "court_used_ai": false,
+  "incident": {
+   "actor": "litigant-in-person",
+   "ai_tool": null,
+   "conduct": "A self-represented litigant submitted a filing using nonexistent or hallucinated authorities and authorities used for propositions they did not support.",
+   "currency": null,
+   "monetary_penalty": null,
+   "outcome": "warning"
+  },
+  "ai_passage": "Judge Starnella concluded that pseudonymity is not warranted in this case because the record shows that the individuals that threatened Plaintiff already know his name and address, and that he has not faced 1 In his argument that Judge Starnella mischaracterized his request as a fishing expedition, Plaintiff cites to hallucinated cases and misattrib- utes conclusions that cannot be found in real cases. He cites a nonex- istent case, Diamond Fortress Techs., Inc. v. EverID, Inc., No. 19-337- LPS, 2022 WL 2239826, at *3–4 (D. Del. June 22, 2022), and gives the opposite holding of another case, Hard Drive Prods., Inc. v. Does 1-90, No. C11-03825 HRL, 2012 WL 1094653, *2–*3 (N.D. Cal. Mar. 30, 2012). This is a sufficient alternative ground for overruling his objec- tions. See Doc. 90 at 21:18–20 (“I am warning you that if you continue to miscite cases and misstate cases, I will likely recommend that the district judge impose filing restrictions on you.”). Case No. 1:25-cv-03129-DDD-KAS Document 115 filed 06/04/26 USDC Colorado pg 4 of 5 - 5 - any further threats. Plaintiff correctly notes that repeated threats are not strictly necessary, but he has not shown that Judge Starnella based her conclusions on an incorrect standard or incorrect information.",
+  "summary": "On 2026-06-04, in Y.S. v. John Doe, et al, the District of Colorado warned the filer that future use of false, nonexistent, or unsupported authorities may result in sanctions. A self-represented litigant submitted a filing using nonexistent or hallucinated authorities and authorities used for propositions they did not support."
+ },
+ {
+  "decision_id": "nvd-2026-seeto-v-kendall",
+  "case_name": "Seeto v. Kendall",
+  "court": "United States District Court for the District of Nevada",
+  "date_filed": "2026-05-05",
+  "docket_number": "2:25-cv-00038-JAD-EJY Order Denying Motions",
+  "source_url": "https://www.damiencharlotin.com/documents/2109/Seeto_v._Kendall_USA_5_May_2026.pdf",
+  "mirror_url": null,
+  "verification": "mirror-read",
+  "primary_topic": "fabricated-citations",
+  "topics": [
+   "fabricated-citations"
+  ],
+  "disposition": "The court warned the self-represented plaintiff to verify legal authorities and cautioned that future hallucinated or nonexistent citations may bring sanctions.",
+  "ai_tool_named": null,
+  "court_used_ai": false,
+  "incident": {
+   "actor": "litigant-in-person",
+   "ai_tool": null,
+   "conduct": "The self-represented plaintiff filed a brief with one false case quotation, one mischaracterized case citation, and one fabricated factual or other assertion.",
+   "currency": null,
+   "monetary_penalty": null,
+   "outcome": "warning"
+  },
+  "ai_passage": "ECF No. 50 at 4. While AI tools can be useful, and this court does not prohibit litigants from using them, those services pull information from across the web—including from unreliable sources—and they often hallucinate (or make up fake) legal authority. Using AI to supply legal authority for briefs an unrepresented litigant or attorney signs any filing before this court, he certifies that “the claims, defenses, and other legal contentions are warranted by existing law. ”35 Parties must verify that the authorities they mention are accurate before presenting them to a court. Repeated violations of this sort may invite sanctions—including case dismissal. Conclusion IT IS THEREFORE ORDERED that plaintiff Ryne Seeto’s motion for summary judgment [ECF No.",
+  "summary": "The District of Nevada on 2026-05-05 warned the self-represented plaintiff to verify legal authorities and cautioned that future hallucinated or nonexistent citations may bring sanctions in Seeto v. Kendall. The self-represented plaintiff filed a brief with one false case quotation, one mischaracterized case citation, and one fabricated factual or other assertion, including Withrow v. Larkin."
+ },
+ {
+  "decision_id": "nmd-2026-rasheem-carter-v-uzglobal",
+  "case_name": "Rasheem Carter, et al. v. UZGlobal LLC, et al.",
+  "court": "United States District Court for the District of New Mexico",
+  "date_filed": "2026-05-01",
+  "docket_number": "1:23-cv-01013-MV-JHR",
+  "source_url": "https://www.damiencharlotin.com/documents/2106/Carter_et_al_v_UZGlobal_LLC_USA_1_May_2025.pdf",
+  "mirror_url": null,
+  "verification": "mirror-read",
+  "primary_topic": "fabricated-citations",
+  "topics": [
+   "fabricated-citations"
+  ],
+  "disposition": "The court fined counsel $1,000 payable to the clerk, ordered bar reporting, required proof of AI CLE, and barred passing costs to clients.",
+  "ai_tool_named": null,
+  "court_used_ai": false,
+  "incident": {
+   "actor": "lawyer",
+   "ai_tool": null,
+   "conduct": "Counsel filed a brief with four fabricated case citations.",
+   "currency": "USD",
+   "monetary_penalty": 1000,
+   "outcome": "referral"
+  },
+  "ai_passage": "On June 27, 2025, theCourtissued its first showcauseorder,identifying threeadditionalcases in theMarch response brief that it could not locate. [Doc. 101, at 2]. The Court ordered Plaintiffs to (1) produce PDF versions of every case cited in the March response brief and three motions to compel; (2) describetheactionsofeachattorneyinvolvedinthecreationofthebriefs; (3)describehowcounsel became aware of the non-existent cases; (4) identify any other filings that could contain nonexistent cases; and (5) show cause why counsel should not be sanctioned. Id. at 3. II. BRIEFING SUMMARY Plaintiffs identified sixteen total cases across the March response brief and two motions to compel that did not exist. [Doc.",
+  "summary": "The District of New Mexico on 2026-05-01 fined counsel $1,000 payable to the clerk, ordered bar reporting, required proof of AI CLE, and barred passing costs to clients in Rasheem Carter, et al. v. UZGlobal LLC, et al. Counsel filed a brief with four fabricated case citations."
+ },
+ {
+  "decision_id": "calctapp-2026-samuel-k-v-winsley-focia",
+  "case_name": "Samuel K. v. Winsley Focia",
+  "court": "California Court of Appeal",
+  "date_filed": "2026-02-26",
+  "docket_number": "No. 24STRO08015)",
+  "source_url": "https://www.damiencharlotin.com/documents/1587/Samuel_K._v._Focia_USA_26_February_2026.pdf",
+  "mirror_url": null,
+  "verification": "mirror-read",
+  "primary_topic": "fabricated-citations",
+  "topics": [
+   "fabricated-citations"
+  ],
+  "disposition": "The court dismissed the appeal, assessed appellate costs, and addressed the defective authorities.",
+  "ai_tool_named": null,
+  "court_used_ai": false,
+  "incident": {
+   "actor": "litigant-in-person",
+   "ai_tool": null,
+   "conduct": "The self-represented party's opening brief contained three citation defects, including Medical Board v. Superior Court and People v. Panah, involving nonexistent authorities, fabricated or misattributed quotations.",
+   "currency": null,
+   "monetary_penalty": null,
+   "outcome": "costs-order"
+  },
+  "ai_passage": "authorities necessarily dooms her appeal. (Id. at p. 436.) v. Frederickson (2020) 8 Cal.5th 963, 1000 [“Self-represented [parties] are ‘held to the same standard of knowledge of law In total, Focia's opening brief contains 12 quotations, 11 and procedure as is an attorney[.]’ ”]; Rappleyea v. Campbell of which are fabrications. Several of these fake quotations (1994) 8 Cal.4th 975, 985 [“A doctrine generally requiring are attributed to nonexistent cases. For example, Focia cites or permitting exceptional treatment of parties who represent Medical Board v. Superior Court (2022) 88 Cal.App.5th 459, themselves would lead to a quagmire in the trial courts, and 475 (Medical Board) for the propositions that “ ‘[i]n high- would be unfair to the other parties to litigation.”].) stakes civil hearings, due process requires confrontation of the actual evidence[ ]’ ”; “ ‘[i]n liberty-depriving hearings, “[E]xtensive reliance on nonexistent legal authority ... due process requires advisement of the dangers of self- justif[ies] striking appellant's opening brief or dismissing the representation[ ]’ ”; and “ ‘[c]ross-examination of adverse appeal. [Citations.]” 3 (Noland, supra, 114 Cal.App.5th at p. witnesses is constitutionally required in high-stakes civil 436.) Because Focia's opening brief relies almost completely proceedings.’ ” (Bolding omitted.) No case titled “Medical on fabricated and inapposite legal authority, we dismiss her Board v. Superior Court” was published in 2022; the appeal. reporter citations given by Focia correspond to two inapposite criminal cases published the following year (People v. Venable (2023) 88 Cal.App.5th 445, People v. Sedano (2023) DISPOSITION 88 Cal.App.5th 474); and the above quotations do not appear in any case, published or nonpublished. “Medical Board,” and The appeal is dismissed. Focia to bear her own costs on the quotes taken from it, appear to be “AI ‘hallucinations[.]’ appeal. ” (Noland, supra, 114 Cal.App.5th at p. 431.) Furthermore, Focia's “brief[ ] [is] peppered with inaccurate NOT TO BE PUBLISHED IN THE OFFICIAL REPORTS citations that do not support the propositions for which they are cited.” (Noland, supra, 114 Cal.App.5th at p. 436.) In one instance, Focia cites People v. Panah (2005) 35 Cal.4th 395, We concur: 475, as holding that “ ‘[a]dmitting a transcript without the original recording is reversible error.’ ” (Bolding omitted.) CHAVEZ, Acting P. J.",
+  "summary": "California Court of Appeal on 2026-02-26 in Samuel K. v. Winsley Focia found the self-represented party's opening brief contained three citation defects, including Medical Board v. Superior Court and People v. Panah, involving nonexistent authorities, fabricated or misattributed quotations. The court dismissed the appeal, assessed appellate costs, and addressed the defective authorities."
+ },
+ {
+  "decision_id": "mied-2026-hardy-v-genesee-county-community",
+  "case_name": "Hardy v. Genesee County Community Action Resource Department, et al. (2)",
+  "court": "U.S. District Court for the Eastern District of Michigan",
+  "date_filed": "2026-04-06",
+  "docket_number": "24-11190",
+  "source_url": "https://www.damiencharlotin.com/documents/1954/Hardy_v._Genesse_USA_3_April_2026.pdf",
+  "mirror_url": null,
+  "verification": "mirror-read",
+  "primary_topic": "fabricated-citations",
+  "topics": [
+   "fabricated-citations"
+  ],
+  "disposition": "The court struck the motion to consolidate and gave the plaintiff a final warning after he repeated fake quotations following an earlier AI-citation sanction order.",
+  "ai_tool_named": null,
+  "court_used_ai": false,
+  "incident": {
+   "conduct": "The motion used false quotations, including Berndt v. Tennessee does not appear in and United States v. Frazier does not appear in, which the court found nonexistent, misquoted, or unsupported.",
+   "outcome": "strike-off",
+   "actor": "litigant-in-person",
+   "monetary_penalty": null,
+   "currency": null,
+   "ai_tool": null
+  },
+  "ai_passage": "R&R explained, “Courts and opposing counsel are [ ] burdened by the careless use of AI by pro se filers.” Hardy v. Whitaker, ___ F.R.D. ___ 2026 WL 575225, at *10. Hardy apologized for his “inclusion of inaccurate citations generated by an AI tool” in his objections to the R&R. Case No. 24-cv-11270, ECF No. 213, PageID.2430. But he repeated the same offense in his motion to consolidate. More recently, the Sixth Circuit emphasized that the “even a single fake case can be sanctionable” and that “citing fake cases can harm the reputation of judges and courts whose names are falsely invoked as authors of the bogus opinions and the reputation of a party attributed with fictional conduct.” Whiting City of Athens Tennessee, ___ F. 4th ___, 2026 WL 710568, at *4 (6th Cir. Mar. 13, 2026) (cleaned up). Thus, district courts may sanction the misuse of AI under Federal Rule of Civil Procedure and their inherent authority. Id. at *5. Hardy’s misuse of AI in his motion to consolidate is not his only repeat transgression. The R&R in Hardy v. Whitaker also discussed how he had filed umpteen frivolous motions. Hardy v. Whitaker, ___ F.R.D. ___ 2026 WL 575225, at *4-*7, *12-*13. Because Hardy’s motion to consolidate falsely claims that this Court has a duty to address his mental capacity, the motion is frivolous. Thus, the Court STRIKES Hardy’s motion to consolidate (ECF No. 77). B. Hardy moved before to compel discovery and to determine the",
+  "summary": "On 2026-04-06, U.S. District Court for the Eastern District of Michigan struck the motion to consolidate and gave the plaintiff a final warning after he repeated fake quotations following an earlier AI-citation sanction order. A self-represented party submitted a motion with false quotations, including Berndt v. Tennessee does not appear in and United States v. Frazier does not appear in."
+ },
+ {
+  "decision_id": "arizctapp-2026-in-re-termination-of-parental-rights",
+  "case_name": "In re termination of parental rights (HK)",
+  "court": "Court of Appeals of Arizona",
+  "date_filed": "2026-02-25",
+  "docket_number": "No. 1 CA-JV 25-0131",
+  "source_url": "https://www.damiencharlotin.com/documents/1584/In_re_termination_of_parental_rights_USA_25_February_2026.pdf",
+  "mirror_url": null,
+  "verification": "mirror-read",
+  "primary_topic": "fabricated-citations",
+  "topics": [
+   "fabricated-citations"
+  ],
+  "disposition": "The court referred counsel to disciplinary authorities for the defective citations.",
+  "ai_tool_named": null,
+  "court_used_ai": false,
+  "incident": {
+   "actor": "lawyer",
+   "ai_tool": null,
+   "conduct": "Counsel's brief contained four citation defects, including Raymond F. v. Dep't, involving nonexistent authorities, fabricated or misattributed quotations.",
+   "currency": null,
+   "monetary_penalty": null,
+   "outcome": "referral"
+  },
+  "ai_passage": "on appeal. See Alma S., 245 Ariz. at 151, ¶ 18. Reasonable relying on inappropriate legal authorities). We will forward evidence supports the court's best interests findings. this decision to the State Bar of Arizona to determine whether Mother's counsel violated any rules of professional conduct. IV. Mother's Answering Brief ¶26 Mother's answering brief contains what appear to be CONCLUSION hallucinated quotations from statutes and cases. ¶31 We affirm. ¶27 Mother claims that Section 8-531(1) states that “[a]bandonment is measured by a parent's conduct, not 8-533(B)(1) provides that abandonment is established when the parent has failed to maintain a normal parental relationship",
+  "summary": "Arizona Court of Appeals on 2026-02-25 in In re termination of parental rights (HK) found counsel's brief contained four citation defects, including Raymond F. v. Dep't, involving nonexistent authorities, fabricated or misattributed quotations. The court referred counsel to disciplinary authorities for the defective citations."
+ },
+ {
+  "decision_id": "minnctapp-2026-young-v-young",
+  "case_name": "Young v. Young",
+  "court": "Minnesota Court of Appeals",
+  "date_filed": "2026-06-08",
+  "docket_number": "A25-0906",
+  "source_url": "https://www.damiencharlotin.com/documents/2402/Re_mariage_of_Young_USA_8_June_2026.pdf",
+  "mirror_url": null,
+  "verification": "mirror-read",
+  "primary_topic": "fabricated-citations",
+  "topics": [
+   "fabricated-citations"
+  ],
+  "disposition": "The court admonished the filer to verify authorities before presenting AI-assisted or otherwise unsupported legal citations.",
+  "ai_tool_named": "generative artificial intelligence",
+  "court_used_ai": false,
+  "incident": {
+   "actor": "litigant-in-person",
+   "ai_tool": "generative artificial intelligence",
+   "conduct": "A self-represented appellant filed a brief using record or transcript quotations not found in the record, quotations that did not appear in the cited source, nonexistent or hallucinated authorities, and authorities used for propositions they did not support.",
+   "currency": null,
+   "monetary_penalty": null,
+   "outcome": "warning"
+  },
+  "ai_passage": "Our review of father’s brief shows that it contains many citations to caselaw that either do not exist—sometimes referred to as “hallucinations”—or do not support his legal argument. And father’s brief inaccurately quotes statutes and the record. Our review also leads us to believe that father may have used generative artificial intelligence (AI) to write his brief. While AI can be a helpful tool and we do not suggest that court rules prohibit its use,weemphasizethat hallucinatedcaselawisnotvalidauthorityandthatallpartiesshould be mindful of the importance of accuracy in their submissions. Finally, as discussed below, father fails to cite authority that supports his position and to articulate an argument in support of some issues. This results in forfeiture, and the issue “will not be considered on appeal unless prejudicial error is obvious on mere inspection.” Schoepkev.AlexanderSmith& SonsCarpetCo.,187 N.W.2d133,135 (Minn. 1971). We reorganize the arguments in father’s brief into six issues and discuss each in turn. I.",
+  "summary": "On 2026-06-08, in Young v. Young, Minnesota Court of Appeals admonished the filer to verify authorities before presenting AI-assisted or otherwise unsupported legal citations. A self-represented appellant filed a brief using record or transcript quotations not found in the record, quotations that did not appear in."
+ },
+ {
+  "decision_id": "tnwd-2026-reaves-law-firm-pllc-v-baker-donelson-bearman",
+  "case_name": "Reaves Law Firm, PLLC v. Baker, Donelson, Bearman, Caldwell & Berkowitz, PC, et al.",
+  "court": "United States District Court for the Western District of Tennessee",
+  "date_filed": "2026-06-02",
+  "docket_number": "2:25-cv-2623-SHL-atc",
+  "source_url": "https://www.damiencharlotin.com/documents/2257/Reaves_Law_Firm_v._Baker_USA_2_June_2026.pdf",
+  "mirror_url": null,
+  "verification": "mirror-read",
+  "primary_topic": "fabricated-citations",
+  "topics": [
+   "fabricated-citations"
+  ],
+  "disposition": "The court ordered Reaves Law Firm to pay costs for improper citations and directed counsel to send the order to professional regulators.",
+  "ai_tool_named": "GAI",
+  "court_used_ai": false,
+  "incident": {
+   "actor": "lawyer",
+   "ai_tool": "GAI",
+   "conduct": "Counsel cited Press v. Vanderbilt University even though the court found the authority did not exist.",
+   "currency": "USD",
+   "monetary_penalty": 1,
+   "outcome": "costs-order"
+  },
+  "ai_passage": "Specifically, Defendants’ response to RLF’s Partial Motion to Dismiss asserts that Plaintiff relies on cases that do not stand for the propositions for which they are cited, and, even worse, RLF includes quotations from those cases that do not exist. (See ECF No. 19.) Two days after Defendants initially raised the GAI issues, RLF filed a response to the Motion for Judgment on the Pleadings. (ECF No. 20.) Then, three days after that, RLF filed a supplemental response. (ECF No. 23.) But, according to Defendants, those two filings contain more of the same issues that surfaced in RLF’s Partial Motion to Dismiss, and Plaintiff “remain(ed) steadfast in it misuse and abuse of GAI” even after being put on notice of the GAI issues. (ECF No. 24 at PageID 316.) For instance, the Response to the Motion for Judgment on the Pleadings cites to numbered paragraphs from RLF’s complaint that do not exist and to facts that the complaint does not allege. (See ECF No.",
+  "summary": "On 2026-06-02, in Reaves Law Firm, PLLC v. Baker, Donelson, Bearman, Caldwell & Berkowitz, PC, et al, the Western District of Tennessee ordered Reaves Law Firm to pay costs for improper citations and directed counsel to send the order to professional regulators. Counsel cited Press v. Vanderbilt University even though the court found the authority did not exist."
+ },
+ {
+  "decision_id": "cacd-2026-tqj-v-jennifer-esquivel",
+  "case_name": "TQJ, LLC v. Jennifer Esquivel et al.",
+  "court": "United States District Court for the Central District of California",
+  "date_filed": "2026-02-12",
+  "docket_number": "Case No.: 2:25-cv-09673-BFM",
+  "source_url": "https://www.damiencharlotin.com/documents/1500/TQJ_LLC_v_Jennifer_Esquivel_et_al.pdf",
+  "mirror_url": null,
+  "verification": "mirror-read",
+  "primary_topic": "fabricated-citations",
+  "topics": [
+   "fabricated-citations"
+  ],
+  "disposition": "The court ordered counsel to show cause why sanctions, striking, or referral should not issue for the defective authorities.",
+  "ai_tool_named": null,
+  "court_used_ai": false,
+  "incident": {
+   "actor": "lawyer",
+   "ai_tool": null,
+   "conduct": "Counsel's brief cited four defective authorities, including Steele v. County of San Mateo, Kogan v. Martin, and a Muller citation the court could not locate.",
+   "currency": null,
+   "monetary_penalty": null,
+   "outcome": "pending"
+  },
+  "ai_passage": "apparently even an awareness that they were present in the what steps to take with respect to the Motion and with respect brief—is equally troubling; it suggests he did not review the to sanctions. authority cited before he filed the Reply under his signature or before he appeared to argue the Motion. IT IS SO ORDERED No later than February 19, 2026, Mr. Charnley is cc: Counsel of Record ordered to show cause why he should not be sanctioned (either monetarily, or by the striking of his pleading) Initials of Preparer: ch under Rule 11, 28 U.S.C. § 1927, or the Court's inherent include an explanation for the inclusion of nonexistent legal",
+  "summary": "Central District of California on 2026-02-12 in TQJ, LLC v. Jennifer Esquivel et al. found counsel's brief cited four defective authorities, including Steele v. County of San Mateo, Kogan v. Martin, and a Muller citation the court could not locate. The court ordered counsel to show cause why sanctions, striking, or referral should not issue for the defective authorities."
+ },
+ {
+  "decision_id": "insd-2026-jana-james-v-national-board-of",
+  "case_name": "Jana James v. National Board of Osteopathic Examiners, Inc.",
+  "court": "U.S. District Court for the Southern District of Indiana",
+  "date_filed": "2026-03-19",
+  "docket_number": "6). As relief",
+  "source_url": "https://www.damiencharlotin.com/documents/1763/James_v._Board_USA_19_March_2026.pdf",
+  "mirror_url": null,
+  "verification": "mirror-read",
+  "primary_topic": "fabricated-citations",
+  "topics": [
+   "fabricated-citations"
+  ],
+  "disposition": "The court warned that future filings with nonexistent cases or unsupported authorities would result in Rule 11 sanctions.",
+  "ai_tool_named": null,
+  "court_used_ai": false,
+  "incident": {
+   "conduct": "The filing used fabricated or nonexistent authorities and mischaracterized authorities, including Knakmuhs v. Minneapolis Pub. Sch and Cooper v. Tokyo Elec. Power Co, which the court found nonexistent, misquoted, or unsupported.",
+   "outcome": "other",
+   "actor": "litigant-in-person",
+   "monetary_penalty": null,
+   "currency": null,
+   "ai_tool": null
+  },
+  "ai_passage": "stating that Ms. James would not receive in the U.S. Navy. Id. at 656. The Seventh Circuit held that accommodations on the COMAT exam because NBOME \"[plaintiff's] marred record is a continuing harm for which denied her testing accommodations. Dkt. 98-2 at 9. This he [could] seek redress.\" Id. at 666. On remand, the district only shows, however, past harm. Ms. James does not explain court found that he adequately alleged standing for injunctive how ATSU's past reliance on NBOME's accommodation relief because he alleged that his career in the Navy would be determination imminently threatens her future rights—she available to him if his guilty finding was expunged. Doe v. has not designated evidence, or even alleged, that she plans Purdue Univ., No. 2:17-cv-33, 2020 WL 2542674, at *9 (N.D. to re-enroll in ATSU, or any other medical school. See Simic, Ind. May 19, 2020). 851 F.3d at 738 (\"Unlike with damages, a past injury is insufficient to establish standing for purposes of prospective Here, Ms. James does not designate any evidence that the relief.\"); Perry L. v. Milwaukee Montessori Sch., No. 22- records of her two failed COMLEX-USA Level",
+  "summary": "On 2026-03-19, U.S. District Court for the Southern District of Indiana warned that future filings with nonexistent cases or unsupported authorities would result in Rule 11 sanctions. A self-represented party submitted a filing with fabricated or nonexistent authorities and mischaracterized authorities, including Knakmuhs v. Minneapolis Pub. Sch and Cooper v. Tokyo Elec. Power Co."
+ },
+ {
+  "decision_id": "nysupct-2026-doe-j-v-trustees-of-columbia-university",
+  "case_name": "DOE, J. et al v. The Trustees of Columbia University",
+  "court": "Supreme Court of the State of New York",
+  "date_filed": "2026-05-05",
+  "docket_number": "002 003 004",
+  "source_url": "https://www.damiencharlotin.com/documents/2392/Doe_v._Columbia_U_USA_5_May_2026.pdf",
+  "mirror_url": null,
+  "verification": "mirror-read",
+  "primary_topic": "fabricated-citations",
+  "topics": [
+   "fabricated-citations"
+  ],
+  "disposition": "The court granted dismissal motions, denied the Article 78 petition, and noted counsel’s withdrawal and apology for AI-fabricated citations.",
+  "ai_tool_named": null,
+  "court_used_ai": false,
+  "incident": {
+   "actor": "lawyer",
+   "ai_tool": null,
+   "conduct": "Counsel filed a reply brief with one fabricated case citation.",
+   "currency": null,
+   "monetary_penalty": null,
+   "outcome": "other"
+  },
+  "ai_passage": "For this reason, the Court need not reach the other dismissal arguments made, including those regarding service. A Caution on AI Hallucinations As a postscript to these motions, the Court must address certain AI-generated hallucinations in Petitioners’ papers. After the fake citations were pointed out in the reply papers, Petitioners’ counsel wrote a letter to the Court acknowledging the false citations, withdrawing them, and apologizing. At oral argument held on these motions, counsel reiterated the apology, acknowledged that the use of AI without proper checking was wrong, and identified the specific ways that steps were being taken by him and his firm to prevent future problems. While the Court does not deem it necessary to issue sanctions here, it does wish to issue a warning about the use of AI in preparing court documents.",
+  "summary": "The New York Supreme Court on 2026-05-05 granted dismissal motions, denied the Article 78 petition, and noted counsel’s withdrawal and apology for AI-fabricated citations in DOE, J. et al v. The Trustees of Columbia University. Counsel filed a reply brief with one fabricated case citation."
+ },
+ {
+  "decision_id": "nced-2026-curry-v-capital-one-auto-finance",
+  "case_name": "Curry v. Capital One Auto Finance",
+  "court": "U.S. District Court for the Eastern District of North Carolina",
+  "date_filed": "2026-03-26",
+  "docket_number": "P. 12(b)(6). The focus is on",
+  "source_url": "https://www.damiencharlotin.com/documents/1918/Curry_v._Capital_One_Finance_USA_26_March_2026.pdf",
+  "mirror_url": null,
+  "verification": "mirror-read",
+  "primary_topic": "fabricated-citations",
+  "topics": [
+   "fabricated-citations"
+  ],
+  "disposition": "The court denied leave to amend because the proposed amended complaint’s additional fabricated citations showed bad faith and amendment would be futile.",
+  "ai_tool_named": null,
+  "court_used_ai": false,
+  "incident": {
+   "conduct": "The complaint used nonexistent or misstated legal provisions and fabricated or nonexistent authorities, including Johnson v. Oroweat Foods Co and Katyle v. Penn Nat. Gaming, Inc, which the court found nonexistent, misquoted, or unsupported.",
+   "outcome": "other",
+   "actor": "litigant-in-person",
+   "monetary_penalty": null,
+   "currency": null,
+   "ai_tool": null
+  },
+  "ai_passage": "so requires. Fed. R. Civ. P. l 5(a). Leave to amend should only be denied where there is bad faith on the part of the moving party, the amended would be futile , or granting leave would prejudice the non-moving party. See Johnson v. Oroweat Foods Co., 785 F.2d 503 , 509 (4th Cir. 1986). Here, plaintiffs inclusion of more fabricated citations in the proposed amended complaint constitutes bad faith . The motion for leave to amend is also denied because amendment would be futile. \"Futility is apparent if the proposed amended complaint fails to state a claim under the applicable rules and accompanying standards[.]\" Katyle v. Penn Nat. Gaming, Inc. , 637 F.3d 462, 471 (4th Cir. 2011). An amendment is therefore futile where the plaintiff fails to state a facially plausible claim, meaning that the facts pled \"allow[] the court to draw the reasonable inference that the defendant is liable for the misconduct alleged.\" Iqbal, 556 U.S. at 678. Courts should be liberal in their construction of pro se complaints, but they should not go beyond deciphering the meaning of words written in the complaint to attempt to",
+  "summary": "On 2026-03-26, U.S. District Court for the Eastern District of North Carolina denied leave to amend because the proposed amended complaint’s additional fabricated citations showed bad faith and amendment would be futile. A self-represented party submitted a complaint with nonexistent or misstated legal provisions and fabricated or nonexistent authorities."
+ },
+ {
+  "decision_id": "ga-2026-hannah-renee-payne-v-state",
+  "case_name": "Hannah Renee Payne v. The State",
+  "court": "Supreme Court of Georgia",
+  "date_filed": "2026-05-05",
+  "docket_number": "S26A0459 Hannah Renee Payne v. The State On Appeal",
+  "source_url": "https://www.damiencharlotin.com/documents/2090/Payne_v._State.pdf",
+  "mirror_url": null,
+  "verification": "mirror-read",
+  "primary_topic": "fabricated-citations",
+  "topics": [
+   "fabricated-citations"
+  ],
+  "disposition": "The court vacated and remanded the trial-court order, barred the prosecutor from appearing for six months, and ordered twelve CLE hours.",
+  "ai_tool_named": null,
+  "court_used_ai": false,
+  "incident": {
+   "actor": "prosecutor",
+   "ai_tool": null,
+   "conduct": "The prosecutor’s appellate briefing and the trial-court order used AI-generated authorities that did not exist or did not support the propositions cited.",
+   "currency": null,
+   "monetary_penalty": null,
+   "outcome": "suspension"
+  },
+  "ai_passage": "1. On March 20, 2026, after oral argument in this case, this Court entered an order directing counsel for the State to file a supplemental brief explaining, among other things, how the September 12, 2025 order of the trial court denying Payne’s motion for new trial (which reflects that ADA Leslie prepared that order) came to include nine case citations that either do not exist or do not stand for the propositions for which they are cited. 1 On March 27, 2026, Clayton County ADA Leslie filed a supplemental brief and affidavit in which she acknowledged using artificial intelligence software to draft the State’s briefs in opposition to Payne’s motion for new trial and the trial court’s proposed order denying the motion for new trial. ADA Leslie acknowledged that the case citations generated by artificial intelligence software were not independently verified before inclusion in the State’s briefs or proposed order and represented that she had implemented safeguards to ensure that fictitious or misattributed authorities would not appear in any future filings.",
+  "summary": "The Supreme Court of Georgia on 2026-05-05 vacated and remanded the trial-court order, barred the prosecutor from appearing for six months, and ordered twelve CLE hours in Hannah Renee Payne v. The State. The prosecutor and trial court filed an opposition with two fabricated case citations and two mischaracterized case citations."
+ },
+ {
+  "decision_id": "iowactapp-2026-christ-apostolic-temple-dwight-reed-and-jordan",
+  "case_name": "Christ Apostolic Temple, Inc., Dwight Reed and Jordan Reed v. Demetrius Sinegal, et al.",
+  "court": "Iowa Court of Appeals",
+  "date_filed": "2026-05-27",
+  "docket_number": "24-1896",
+  "source_url": "https://www.damiencharlotin.com/documents/2216/Christ_Apostolic_v._Sinegal_USA_May_2026.pdf",
+  "mirror_url": null,
+  "verification": "mirror-read",
+  "primary_topic": "fabricated-citations",
+  "topics": [
+   "fabricated-citations"
+  ],
+  "disposition": "The court admonished the filer to verify authorities before presenting AI-assisted or otherwise unsupported legal citations.",
+  "ai_tool_named": "GAI",
+  "court_used_ai": false,
+  "incident": {
+   "actor": "litigant-in-person",
+   "ai_tool": "GAI",
+   "conduct": "A self-represented appellant filed a reply brief using nonexistent or hallucinated authorities and authorities used for propositions they did not support.",
+   "currency": null,
+   "monetary_penalty": null,
+   "outcome": "warning"
+  },
+  "ai_passage": "Sinegal’s appellate and reply briefs contain citations to cases that do not exist or donotstandforthepropositionforwhichtheyarecited. Thissuggeststhepossibilitythat he used generative artiﬁcial intelligence to prepare his briefs. If that is the case, we again “stress that self-represented litigants and attorneys alike have a duty to independently verify the authenticity and veracity of all sources and assertions when relying on artiﬁcial intelligence tools to prepare trial or appellate court ﬁlings.” Luke v. Dep’t. of Health and Human Servs., 29 N.W.3d 635, 636 (Iowa Ct. App. 2025). When considering whether Sinegal established excusable neglect, relevant considerations include timeliness of Sinegal’s ﬁlings,“whether [he] intendedtodefend,whether[he]assertedameritoriousdefenseingoodfaith, andwhether[he]ignoredorwillfullydeﬁedtherulesof procedure.” Id. The district court’s ruling took these considerations into account, and we agree with its analysis and conclusions. Accordingly, we aﬃrm without further opinion. Iowa Ct. R. 21.26(1)(d)(e) (authorizing memorandum opinions when“[a] full opinion would not augment or clarify existing case law”). AFFIRMED.",
+  "summary": "On 2026-05-27, in Christ Apostolic Temple, Inc., Dwight Reed and Jordan Reed v. Demetrius Sinegal, et al, Iowa Court of Appeals admonished the filer to verify authorities before presenting AI-assisted or otherwise unsupported legal citations. A self-represented appellant filed a reply brief using nonexistent or hallucinated authorities and authorities used for propositions they did not support."
+ },
+ {
+  "decision_id": "nmd-2026-neri-v-board-of-education-for-albuquerque-public-schools",
+  "case_name": "Neri v. Board of Education for Albuquerque Public Schools",
+  "court": "United States District Court for the District of New Mexico",
+  "date_filed": "2026-05-07",
+  "docket_number": "1:19-cv-00008-JCH-SCY",
+  "source_url": "https://www.damiencharlotin.com/documents/2129/Neri_v_Albuquerque_Public_Schools_et_USA_7_May_2026.pdf",
+  "mirror_url": null,
+  "verification": "mirror-read",
+  "primary_topic": "fabricated-citations",
+  "topics": [
+   "fabricated-citations"
+  ],
+  "disposition": "The court warned the self-represented plaintiff to verify legal authorities and cautioned that future hallucinated or nonexistent citations may bring sanctions.",
+  "ai_tool_named": null,
+  "court_used_ai": false,
+  "incident": {
+   "actor": "litigant-in-person",
+   "ai_tool": null,
+   "conduct": "The self-represented plaintiff filed a submission with one fabricated case citation and one fabricated or AI-like submission item, including United States v. Stone and Hall v. Western Production Co after using Centient AI.",
+   "currency": null,
+   "monetary_penalty": null,
+   "outcome": "warning"
+  },
+  "ai_passage": "262 at 1 (citing “United States v. Stone, 988 F. 2d 1056, 1061 (10th Cir. 1993). ”). The Court assumes Neri either erroneously combined a case name and legal citation or carelessly relied on an artificial intelligence program to craft this citation. 1 If this reference was indeed the product of artificial intelligence, then the Court issues a warning to Neri: courts “make some allowances for Upon review, the legal citation corresponds to Hall v. Western Production Co. , 988 F. 2d 1050 (10th Cir. 1993). the pro se plaintiff’s failure to cite proper legal authority,” but courts ordinarily do not coddle a plaintiff who cites to fake, nonexistent, or misleading authorities. Fomby v.",
+  "summary": "The District of New Mexico on 2026-05-07 warned the self-represented plaintiff to verify legal authorities and cautioned that future hallucinated or nonexistent citations may bring sanctions in Neri v. Board of Education for Albuquerque Public Schools. The self-represented plaintiff filed a submission with one fabricated case citation and one fabricated or AI-like submission item, including United States v. Stone."
+ },
+ {
+  "decision_id": "ned-2026-kadlaskar-v-uscis",
+  "case_name": "Kadlaskar v. United States Citizenship and Immigration Services",
+  "court": "United States District Court for the District of Nebraska",
+  "date_filed": "2026-08-06",
+  "docket_number": "4:25CV3025",
+  "source_url": "https://www.damiencharlotin.com/documents/2779/GIRIJA_KADLASKAR_Plaintiff_v_UNITED_STATES_CITIZENSHIP_AND_IMMIGRATION_SER_USA_Gg2IhwZ.pdf",
+  "mirror_url": null,
+  "verification": "mirror-read",
+  "primary_topic": "fabricated-citations",
+  "topics": [
+   "fabricated-citations",
+   "competence-fees"
+  ],
+  "disposition": "The court awarded EAJA fees and cautioned plaintiff's counsel about a hallucinated Eighth Circuit citation.",
+  "ai_tool_named": null,
+  "court_used_ai": false,
+  "incident": {
+   "actor": "lawyer",
+   "ai_tool": null,
+   "conduct": "Plaintiff’s counsel cited a nonexistent Eighth Circuit Peterson decision and quoted language that appeared elsewhere in a legislative-history footnote.",
+   "currency": null,
+   "monetary_penalty": null,
+   "outcome": "warning"
+  },
+  "ai_passage": "Plaintiff cites one case in her initial brief in support of the Motion for Attorney Fees. Filing No. 27-1 at 2. Plaintiff quotes Peterson v. U.S. Retirement Board, 785 F.2d 245 (8th Cir. 1986) as follows: Agency action found to be arbitrary and capricious or unsupported by substantial evidence is virtually certain not to have been substantially justified under the Act. Only the most extraordinary special circumstances could permit such an action to be found to be substantially justified under the Act. ... However, that case does not exist. The Court found a portion of this particular quotation in a footnote in Jackson v. Bowen, 807 F.2d 127, n. 5 (8th Cir. 1986) that Plaintiff incorrectly cites in her reply brief. ... While this apparent “hallucinated” case does not necessarily misstate the law, Plaintiff's counsel's reliance on it certainly undermines his credibility with this Court. ... A case of a similar name with a different citation, Peterson v. U.S. Railroad Retirement Board, 780 F.2d 1361 (8th Cir. 1985), does not contain the quoted language. 785 F.2d 245 does not exist. Counsel is cautioned that under the ABA Canons of Professional Ethics he has a duty of candor to the Court to not knowingly make false statements of fact or law to the Court and to correct any such false statement. In addition, counsel has an obligation under Fed. R. Civ. P. 11(b)(2) that the legal authority cited in his filings are based on “an inquiry reasonable the circumstances.” Finally, NECivR 7.1(d)(2) specifically admonishes that “parties are required, if using generative artificial intelligence programs, to verify the contents of their filings. Any filing not properly verified may be stricken and/or sanctions may be imposed on the filing party.”",
+  "summary": "The District of Nebraska grants an EAJA fee request and cautions plaintiff’s counsel over a cited Peterson decision. The order says the Eighth Circuit citation does not exist, a similarly named case lacks the quoted language, and Nebraska’s AI rule requires verification."
+ },
+ {
+  "decision_id": "wawd-2026-ledoux-v-outliers-summary-judgment",
+  "case_name": "LeDoux v. Outliers, Inc.",
+  "court": "United States District Court for the Western District of Washington",
+  "date_filed": "2026-08-18",
+  "docket_number": "3:24-cv-05808-TMC",
+  "source_url": "https://www.damiencharlotin.com/documents/2902/Ledoux_v._Outliers_USA_August_2026.pdf",
+  "mirror_url": null,
+  "verification": "mirror-read",
+  "primary_topic": "fabricated-citations",
+  "topics": [
+   "fabricated-citations",
+   "evidence-authentication"
+  ],
+  "disposition": "The court granted defendants' summary judgment motion and excluded an expert report after finding hallucinated citations undermined reliability.",
+  "ai_tool_named": "Claude or ChatGPT",
+  "court_used_ai": false,
+  "incident": {
+   "actor": "lawyer",
+   "ai_tool": "Claude or ChatGPT",
+   "conduct": "Counsel used Claude or ChatGPT to generate false academic citation tables supplied to experts; Dr. Holguin’s report also contained hallucinated citations.",
+   "currency": null,
+   "monetary_penalty": null,
+   "outcome": "sanctions"
+  },
+  "ai_passage": "The Court also issued sua sponte sanctions against Plaintiff’s attorney, Ms. Jocelyn Stewart, for generating numerous false citations with artificial intelligence and submitting them to the Court without verification. Dkt. 265. Multiple such citations existed in the expert reports of Mr. James Kababick and Dr. Ronald Shippee, where Plaintiff admitted that “she used Claude or ChatGPT to ‘generate a formatted citation table’ for academic articles and ‘provided the same AI-generated citation table to both experts as an appendix, and neither expert caught the errors in the citation data before signing their reports.’” Dkt. 265 at 7 (quoting Dkt. 245 at 17–18). ... The Court agrees with Defendants and finds that Dr. Holguin’s multiple hallucinated citations “shatter[] his credibility with this Court.” Kohls v. Ellison, No. 24-CV-3754 (LMP/DLM), 2025 WL 66514, at *4 (D. Minn. Jan. 10, 2025). ... This level of involvement from counsel in drafting (with AI) the list of materials supposedly relied upon by Dr. Holguin, and Dr. Holguin’s lack of diligence in verifying the sources that he represented were the basis for his opinion, prevent Plaintiff from meeting her burden to show that Dr. Holguin’s opinion is “based on sufficient facts or data,” is “the product of reliable principles and methods,” or “reflects a reliable application of the principles and methods to the facts of the case.” Fed. R. Evid. 702(b)–(d).",
+  "summary": "The Western District of Washington grants summary judgment for Outliers and addresses AI-generated citation tables used in expert materials. The court recounts sanctions against counsel, finds Dr. Holguin’s hallucinated citations undermine his report’s reliability, and excludes that expert opinion under Rule 702 and Daubert."
+ },
+ {
+  "decision_id": "asbca-2026-endure-industries-v-defense-health-agency",
+  "case_name": "Endure Industries, Inc. v. Defense Health Agency",
+  "court": "Armed Services Board of Contract Appeals",
+  "date_filed": "2026-03-23",
+  "docket_number": "ASBCA No. 64064",
+  "source_url": "https://www.damiencharlotin.com/documents/1981/1776341487278.pdf",
+  "mirror_url": null,
+  "verification": "mirror-read",
+  "primary_topic": "fabricated-citations",
+  "topics": [
+   "fabricated-citations"
+  ],
+  "disposition": "The Board granted dismissal and warned the self-represented contractor that future citations to non-existent authority may lead to sanctions.",
+  "ai_tool_named": null,
+  "court_used_ai": false,
+  "incident": {
+   "conduct": "The brief used fabricated or nonexistent authorities and mischaracterized authorities, including LLC v. United States and Corp. v. United States, which the court found nonexistent, misquoted, or unsupported.",
+   "outcome": "warning",
+   "actor": "litigant-in-person",
+   "monetary_penalty": null,
+   "currency": null,
+   "ai_tool": null
+  },
+  "ai_passage": "– have a tendency to hallucinate non-existent cases. Sanders v. United States, 176 Fed. Cl. 163, 169 (2025) (“It is no secret that generative AI programs are known to ‘hallucinate’ nonexistent cases, and with the advent of AI, courts have seen a rash of cases in which both counsel and pro se litigants have cited such fake, hallucinated cases in their briefs.”); Raven Investigations & Sec. Consulting, LLC, B-423447, 2025 CPD ¶ 81 at 3 (“[T]he use of AI programs to draft or assist in drafting legal briefs can—and seemingly often does—result in the citation of non-existent cases.”); see also Ralph Nash, Artificial Intelligence Hallucinations: Sanctions are Waiting, 39 NASH & CIBINIC REP. ¶ 44 (Aug. 2025) (“[I]t is well known that so far AI programs tend to hallucinate.”). The real decision near the hallucinated citation is Johns-Manville Corp. v. United States, 12 Cl. Ct. 1 (1987). “Fake cases generated by AI often have reporter citations that lead to cases with different names, in different courts, and about different subjects.” Sanders, 176 Fed. Cl. at 169 n.8. Endure asserts that the Johns-Manville decision supports the assertions made in its brief",
+  "summary": "On 2026-03-23, Armed Services Board of Contract Appeals the Board granted dismissal and warned the self-represented contractor that future citations to non-existent authority may lead to sanctions. A self-represented party submitted a brief with fabricated or nonexistent authorities and mischaracterized authorities, including LLC v. United States and Corp. v. United States."
+ },
+ {
+  "decision_id": "utd-2026-regan-wilkes-v-canyons-school-district",
+  "case_name": "Regan Wilkes, et al. v. Canyons School District, et al.",
+  "court": "United States District Court for the District of Utah",
+  "date_filed": "2026-05-04",
+  "docket_number": "2:25-cv-00218-CMR",
+  "source_url": "https://www.damiencharlotin.com/documents/2092/Wilkes_v._Canyon_School_USA_4_May_2026.pdf",
+  "mirror_url": null,
+  "verification": "mirror-read",
+  "primary_topic": "fabricated-citations",
+  "topics": [
+   "fabricated-citations"
+  ],
+  "disposition": "The court imposed Rule 11 sanctions and ordered plaintiffs’ counsel to pay defendants $7,000 for expenses caused by non-existent case law.",
+  "ai_tool_named": null,
+  "court_used_ai": false,
+  "incident": {
+   "actor": "lawyer",
+   "ai_tool": null,
+   "conduct": "Counsel filed an opposition with three fabricated case citations and one mischaracterized case citation, including A.S. v. Norwalk Public Schools and J.M. v. Francis Howell School District.",
+   "currency": "USD",
+   "monetary_penalty": 7000,
+   "outcome": "fine"
+  },
+  "ai_passage": "Defendants, during the hearing, asserted that they were wary of Plaintiffs’ explanation, given that the holdings of the “correct” cases were not the holdings that were cited to in the Amended Complaint, and likewise were not cited in Plaintiffs’ Opposition to the Motion to Dismiss. Defendants requested that the court, at a minimum, award attorney fees incurred due to theuseofnon-existentcaselaw. Further,Defendantsrequestedthatthecourt impose,as asanction, a dismissal of the entire Amended Complaint; or, in the alternative, grant partial or full dismissal of the Second Cause of Action as a sanction1 as requested by Defendants in their Motion to Dismiss. The court ordered the parties to meet and confer to determine whether they could stipulate to a monetary amount that Plaintiffs would pay Defendants for the attorney fees incurred.",
+  "summary": "The District of Utah on 2026-05-04 imposed Rule 11 sanctions and ordered plaintiffs’ counsel to pay defendants $7,000 for expenses caused by non-existent case law in Regan Wilkes, et al. v. Canyons School District, et al. Counsel filed an opposition with three fabricated case citations and one mischaracterized case citation, including A.S. v. Norwalk Public Schools."
+ },
+ {
+  "decision_id": "txsd-2026-kenneth-hawkins-v-i-c-system",
+  "case_name": "Kenneth Hawkins v. I.C. System, Inc.",
+  "court": "United States District Court for the Southern District of Texas",
+  "date_filed": "2026-02-23",
+  "docket_number": "Civil Action No. 4:25-CV-2194",
+  "source_url": "https://www.damiencharlotin.com/documents/1568/KENNETH_HAWKINS_Plaintiff_v_IC_SYSTEM_INC_et_al_Defendants.pdf",
+  "mirror_url": null,
+  "verification": "mirror-read",
+  "primary_topic": "fabricated-citations",
+  "topics": [
+   "fabricated-citations"
+  ],
+  "disposition": "The court warned the self-represented party to verify legal authorities before future filings.",
+  "ai_tool_named": null,
+  "court_used_ai": false,
+  "incident": {
+   "actor": "litigant-in-person",
+   "ai_tool": null,
+   "conduct": "The self-represented party's motion contained one citation defect involving nonexistent authorities, incorrect statutory or rule text.",
+   "currency": null,
+   "monetary_penalty": null,
+   "outcome": "warning"
+  },
+  "ai_passage": "“By presenting to the court a ... written motion ... an attorney or unrepresented party certifies that to the best of that person's knowledge, information, and belief, formed after an inquiry reasonable under circumstances the ... legal contentions are warranted by existing law.” FED R. CIV. P. 11(b)(2) (emphases added). Providing these nonexistent citations wastes this Court's and counsel's time. Plaintiff is cautioned that Rule 11's obligations and consequences—up to an including stricken filings or monetary sanctions—apply to all who present writings to the Court, including those appearing pro se. Fletcher v. Experian Info. Sols., Inc., No. 25-20086, 2026 WL 456842, at *5–6 (5th Cir. Feb. 18, 2026) (discussing the appropriateness of sanctions for “hallucinated” cases); Vargas v. Salazar, No. 4:23-CV-04267, 2024 WL 4804091, at *3 (S.D. Tex. Nov. 1, 2024) (noting that future presentation “of pleadings or motions that contain ‘made up’ citations” could subject the pro se plaintiff to sanctions), adopted, No. 4:23CV4267, 2024 WL 4804065 (S.D. Tex. Nov. 15, 2024). 11 Plaintiff filed his original state court petition on April 3, 2025. ECF No. 1-4 at 2–8. He then filed an amended state court petition on April 26, 2025. Id. at 13–19. After this case was removed to federal court, he filed the operative complaint on May 20, 2025, styled “First Amended Complaint,” even though it is his second amendment to his pleadings. ECF No. 3.",
+  "summary": "Southern District of Texas on 2026-02-23 in Kenneth Hawkins v. I.C. System, Inc. found the self-represented party's motion contained one citation defect involving nonexistent authorities, incorrect statutory or rule text. The court warned the self-represented party to verify legal authorities before future filings."
+ },
+ {
+  "decision_id": "kyctapp-2026-pamela-blair-v-sanctuary-bluff-homeowners-association",
+  "case_name": "Pamela Blair v. Sanctuary Bluff Homeowners Association, Inc., et al.",
+  "court": "Kentucky Court of Appeals",
+  "date_filed": "2026-03-20",
+  "docket_number": null,
+  "source_url": "https://www.damiencharlotin.com/documents/1770/Blair_USA_20_March_2026.pdf",
+  "mirror_url": null,
+  "verification": "mirror-read",
+  "primary_topic": "fabricated-citations",
+  "topics": [
+   "fabricated-citations"
+  ],
+  "disposition": "The court struck the appellant’s brief and allowed refiling after repeated hallucinated precedent and deficient AI certifications.",
+  "ai_tool_named": null,
+  "court_used_ai": false,
+  "incident": {
+   "conduct": "The appellate brief used nine false quotations, fabricated or nonexistent authorities and mischaracterized authorities, including Co. v. Thompson, 11, which the court found nonexistent, misquoted, or unsupported.",
+   "outcome": "strike-off",
+   "actor": "litigant-in-person",
+   "monetary_penalty": null,
+   "currency": null,
+   "ai_tool": null
+  },
+  "ai_passage": "principles. [Goodyear Tire & Rubber Co. v. Thompson, 11 to dismiss the appeal as Blair's latest brief again contained S.W.3d 575, 581 (Ky. 2000).] hallucinated precedent. Blair responded by admitting her brief contained one hallucinated case that was “erroneously ... repeated.” In an abundance of grace, this Court denied the HOA's motion to dismiss. Even so, Blair closed the appellate Consideration of a motion to dismiss under CR 41.02(1) briefing window by submitting a reply brief with yet another requires fact-specific determinations that are left to the hallucinated case12 and absent an AI certification. This sound discretion of the trial court. [Jaroszewski, 297 deliberate disregard for a Court's ruling, and her recalcitrant S.W.3d at 32.] The trial court must base its assessment on approach to litigation has become a pattern and such actions the totality of the circumstances. [See id. at 36.] have likely sabotaged her own litigation. Still, a trial court's discretion is not unfettered and is subject to an important limitation. Our courts have long recognized Nonetheless, we shall address the merits of the matter in order that CR 41.02(1) dismissal with prejudice is an “extreme to bring",
+  "summary": "On 2026-03-20, Kentucky Court of Appeals struck the appellant’s brief and allowed refiling after repeated hallucinated precedent and deficient AI certifications. A self-represented party submitted an appellate brief with nine false quotations, fabricated or nonexistent authorities and mischaracterized authorities, including Co. v. Thompson, 11."
+ },
+ {
+  "decision_id": "tnmd-2026-in-re-bfi-waste-systems",
+  "case_name": "In re BFI Waste Systems of Tennessee",
+  "court": "United States District Court for the Middle District of Tennessee",
+  "date_filed": "2026-08-06",
+  "docket_number": "3:22-cv-00605",
+  "source_url": "https://www.damiencharlotin.com/documents/2765/In_re_BFI_Waste_Sys._of_Tenn._2026_U.S._Dist._LEXIS_175482.Pdf",
+  "mirror_url": null,
+  "verification": "mirror-read",
+  "primary_topic": "fabricated-citations",
+  "topics": [
+   "fabricated-citations",
+   "competence-fees"
+  ],
+  "disposition": "The court publicly reprimanded attorney Louis W. Ringger III and imposed a $1,500 Rule 11 monetary sanction.",
+  "ai_tool_named": null,
+  "court_used_ai": false,
+  "incident": {
+   "actor": "lawyer",
+   "ai_tool": null,
+   "conduct": "Attorney filed a document containing hallucinated quotations and misleading citations after failing to check AI-generated content.",
+   "currency": "USD",
+   "monetary_penalty": 1500,
+   "outcome": "sanctions"
+  },
+  "ai_passage": "On July 30, 2026, the Court ordered several of plaintiff's attorneys to show cause why they should not be sanctioned-under either or both of Rule 11 of the Federal Rules of Civil Procedure and the Court's inherent authority-for filing a document at Doc. No. 293 that contained hallucinated quotations and misleading citations. ... Ringger has confirmed the Court's suspicion that a major factor in the deficiencies at Doc. No. 293-plus others that he identified (Doc. No. 328 at 6)-was the failure to check content generated through tools using artificial intelligence. ... The novel danger with artificial intelligence is how much easier a Rule 11 violation becomes when using it. Submitting false legal authority by conventional means requires either willfulness or a failure by multiple professionals involved in the preparation of a document. ... This is where Ringger fell short, with quotations that did not exist and with legal citations that gave the impression that an argument in his favor had support when it did not. This conduct must be swiftly addressed and deterred. For those reasons, Ringger must be sanctioned. ... Attorney Ringger has violated Rule 11 and is hereby publicly reprimanded through this order. Ringger also is assessed a monetary sanction of $1,500.00, payable to the Clerk of the Court within 30 days after entry of this order.",
+  "summary": "The Middle District of Tennessee sanctions attorney Louis W. Ringger III after a filing contained hallucinated quotations and misleading citations. The order says unchecked AI-generated content contributed to the deficiencies, publicly reprimands Ringger, and orders him to pay $1,500 to the clerk."
+ },
+ {
+  "decision_id": "nvd-2026-kim-elizabeth-harwell-v-westcare-nevada",
+  "case_name": "Kim Elizabeth Harwell v. WestCare Nevada, Inc.",
+  "court": "United States District Court for the District of Nevada",
+  "date_filed": "2026-03-06",
+  "docket_number": "No. 2:25-cv-00689-APG-BNW",
+  "source_url": "https://www.damiencharlotin.com/documents/1623/Harwell_v._Westcare_Nevada.pdf",
+  "mirror_url": null,
+  "verification": "mirror-read",
+  "primary_topic": "fabricated-citations",
+  "topics": [
+   "fabricated-citations"
+  ],
+  "disposition": "The court warned the self-represented party to verify legal authorities before future filings.",
+  "ai_tool_named": "ChatGPT",
+  "court_used_ai": false,
+  "incident": {
+   "actor": "litigant-in-person",
+   "ai_tool": "ChatGPT",
+   "conduct": "The self-represented party's brief contained one citation defect, including Saila v. Circle, involving nonexistent authorities, mischaracterized authority.",
+   "currency": null,
+   "monetary_penalty": null,
+   "outcome": "warning"
+  },
+  "ai_passage": "extends to attorneys and pro se litigants alike. FRCP 11(b). However, the complaint is unclear about which There has been a rise in fake authority cited in briefs, usually defendants Harwell is suing for negligence. In different as the result of using generative AI software, like ChatGPT, parts of her complaint, she alleges that the “[d]efendants,” to draft pleadings or other court filings. Johnson v. MINI of WestCare, Davisson, or unnamed WestCare staff had or Las Vegas, No. 2:25-cv-00725-APG-EJY, 2025 WL 2718525, breached a duty to her. ECF No. 11 at 6, 11. The defendants at *3 (D. Nev. Sept. 24, 2025). Generative AI often invents defendants she is suing for each claim. She is not given leave fake cases and legal precedent in its drafting, and using it is to add any additional claims. no excuse to not verify the veracity of citations. Having to research fake authority and spend time chasing down that it is in fact not a real case wastes the time and resources of IV. CONCLUSION opposing parties and the court. Going forward, the parties are *8 I THEREFORE ORDER that the defendants’ motion reminded of their duty under FRCP 11(b)(2) and that citing to dismiss and for a more definite statement (ECF No. fake cases drafted by generative AI may violate this rule. 15) is GRANTED in part. I dismiss Harwell's § 504 Failure to comply in the future may result in sanctions, such discrimination claim against all defendants and dismiss her as an order to pay a penalty into court or to the other side, or § 504 retaliation claim against WestCare, Irma Magrdichian, nonmonetary directives. FRCP 11(c)(4). Leo Magrdichian, and Melinda Minor. I FURTHER ORDER that plaintiff Harwell may file an III. LEAVE TO AMEND COMPLAINT amended complaint asserting her § 504 discrimination, § I should freely give leave to amend a complaint “if it appears at all possible that the plaintiff can correct the 504 retaliation, and negligence claims and specifically stating",
+  "summary": "District of Nevada on 2026-03-06 in Kim Elizabeth Harwell v. WestCare Nevada, Inc. found the self-represented party's brief contained one citation defect, including Saila v. Circle, involving nonexistent authorities, mischaracterized authority. The court warned the self-represented party to verify legal authorities before future filings."
+ },
+ {
+  "decision_id": "nmd-2026-sample-v-hilton-worldwide-holdings",
+  "case_name": "Sample et al v. Hilton Worldwide Holdings, Inc",
+  "court": "United States District Court for the District of New Mexico",
+  "date_filed": "2026-05-26",
+  "docket_number": "1:23-cv-00865-SMD-KRS",
+  "source_url": "https://www.damiencharlotin.com/documents/2235/Sample_USA_26_May_2026.pdf",
+  "mirror_url": null,
+  "verification": "mirror-read",
+  "primary_topic": "fabricated-citations",
+  "topics": [
+   "fabricated-citations"
+  ],
+  "disposition": "The court warned the filer that future use of false, nonexistent, or unsupported authorities may result in sanctions.",
+  "ai_tool_named": "GAI",
+  "court_used_ai": false,
+  "incident": {
+   "actor": "litigant-in-person",
+   "ai_tool": "GAI",
+   "conduct": "A self-represented litigant filed a response using quotations that did not appear in the cited source.",
+   "currency": null,
+   "monetary_penalty": null,
+   "outcome": "warning"
+  },
+  "ai_passage": "None of these grounds identifies a part of Although courts make some allowances for a pro se plaintiff's failure to cite to proper legal authority, courts do not excuse the use of fabricated or misleading authorities. Morgan v. Cmty. Against Violence, No. 23-cv-353-WPJ/JMR, 2023 WL 6976510, *7 (D.N.M. Oct. 23, 2023). Plaintiffs are cautioned that they must comply with this Court’s Local Rules, the Court’s Guidefor Pro Se Litigants, andthe Federal Rules of Civil Procedure. Any futurefilings thatcontain citations to nonexistent cases may result in sanctions, including the filing being stricken, filing restrictions being imposed, or dismissal of the case. See id at *8 (collecting cases where sanctions were deemed appropriate). Judge Sweazea’s November 19, 2025 Order that Plaintiffs seek to set aside, much less anything “clearly erroneous or contrary to law.” For at least the following reasons, Plaintiffs’ objection is denied. First, Judge Sweazea has not yet ruled on Plaintiffs’ requested accommodations. Judge Sweazea’s November 19, 2025 Order struck the Motion for Reasonable ADA Accommodation, but as the parties appear to agree, the relief requested in the Motion for Reasonable ADA Accommodation is not new. See Doc.",
+  "summary": "On 2026-05-26, in Sample et al v. Hilton Worldwide Holdings, Inc, the District of New Mexico warned the filer that future use of false, nonexistent, or unsupported authorities may result in sanctions. A self-represented litigant filed a response using quotations that did not appear in the cited source."
+ },
+ {
+  "decision_id": "pamd-2026-marble-v-o-malley",
+  "case_name": "Marble v. O'Malley",
+  "court": "United States District Court for the Middle District of Pennsylvania",
+  "date_filed": "2026-04-27",
+  "docket_number": "3:26-cv-00040-JKM",
+  "source_url": "https://www.damiencharlotin.com/documents/2070/Marble_v._OMalley_USA_27_April_2026.pdf",
+  "mirror_url": null,
+  "verification": "mirror-read",
+  "primary_topic": "fabricated-citations",
+  "topics": [
+   "fabricated-citations"
+  ],
+  "disposition": "The court admonished the self-represented plaintiff for unverified or fabricated authorities and cautioned against repeating the citation misconduct.",
+  "ai_tool_named": null,
+  "court_used_ai": false,
+  "incident": {
+   "actor": "litigant-in-person",
+   "ai_tool": null,
+   "conduct": "The self-represented plaintiff filed a brief with one fabricated case citation, one fabricated or AI-like submission item, and one invented legal doctrine.",
+   "currency": null,
+   "monetary_penalty": null,
+   "outcome": "warning"
+  },
+  "ai_passage": "See Kay v. Ehrler, 499 U. S. 432, 438 (1991). In this variety of hallucination, the Almodel appears to have provided the plaintiff with a legal doctrine that he wanted to exist without it actually existing. also filed an accompanying Al-aided motion for a temporary restraining order (“TRO”) along with an Al-aided brief in support. 2 Per the motion, Marble “is currently subject to criminal prosecution predicated on alleged criminal trespass and/or burglary. ” (Doc. 3 at 1). The motion references Marble’s ostensible preliminary hearing testimony, presented as an “Excerpt of an Official Court Transcript,” where plaintiff’s former landlord testified that he evicted the plaintiff and that plaintiff kept returning to the properties. 3 (Doc.",
+  "summary": "The Middle District of Pennsylvania on 2026-04-27 admonished the self-represented plaintiff for unverified or fabricated authorities and cautioned against repeating the citation misconduct. The self-represented plaintiff filed a brief with one fabricated case citation, one fabricated or AI-like submission item, and one invented legal doctrine, including TRO brief attributes a holding to Manuel v. City of Joliet that it…."
+ },
+ {
+  "decision_id": "iowactapp-2026-state-of-iowa-ex-rel-j-g-v-mynesia-a-anderson",
+  "case_name": "State of Iowa ex rel J.G. v. Mynesia A. Anderson",
+  "court": "Iowa Court of Appeals",
+  "date_filed": "2026-06-10",
+  "docket_number": "25-1022",
+  "source_url": "https://www.damiencharlotin.com/documents/2388/Iowa_v._Anderson_USA_10_June_2026.pdf",
+  "mirror_url": null,
+  "verification": "mirror-read",
+  "primary_topic": "fabricated-citations",
+  "topics": [
+   "fabricated-citations"
+  ],
+  "disposition": "The court dismissed the appeal after the appellant failed to comply with its order addressing fabricated authorities in her briefs.",
+  "ai_tool_named": null,
+  "court_used_ai": false,
+  "incident": {
+   "actor": "litigant-in-person",
+   "ai_tool": null,
+   "conduct": "A self-represented appellant filed a petition using quotations that did not appear in the cited source and at least eight nonexistent or hallucinated authorities.",
+   "currency": null,
+   "monetary_penalty": null,
+   "outcome": "other"
+  },
+  "ai_passage": "Her briefs also cited two Iowa cases that do not exist; the reporter citations provided are for other states and cases unrelated to the cited propositions. We have addressed this phenomenon—problematic ﬁlings apparently “written” by artiﬁcial intelligence (AI)—in other cases. See Nisland Asset Inv., LLC v. Gericke, No. 25-0659, 2026 WL 1162553, at *1 (Iowa Ct. App. Apr. 29, 2026); In re W.G., No. 25-1916, 2026 WL 892837, at *2–3 (Iowa Ct. App.Apr.1,2026);InreR.A.,No.24-1629,2025WL2793560,at*2–4(Iowa Ct.App.Oct.1,2025);Lukev.Dep’tofHealth&Hum.Servs.,29N.W.3d635, 636(IowaCt.App. 2025);Turnerv.Garrels,No.24-0895,2025WL2537738, at *1 n.1 (Iowa Ct. App. Sep. 4, 2025). Most pertinent here, using AI in legal matters carries the risk of AI“hallucinating” or fabricating legal authorities thatdonotactuallyexist.SeeThomasA.Mayes,ArtiﬁcialIntelligence,Special Education,and theLaw: Risks,Rewards,and OpportunitiesforLeadership, 20 J. Bus. & Tech. L. ... We have, in the recent past, stricken oﬀending portions of briefs and petitions containing a few AI-generated citations. See, e.g., W.G., 2026 WL 892837, at *3; In re R.A., 2025 WL 2793560, at *4. We decline to follow that path here for two reasons. First, the oﬀending parties in W.G. and R.A. both complied with our order and expressed remorse for submitting fabricated citations;Andersonhasdoneneither.Second,inbothofthosecaseswecould at least arguably sift out the hallucinated authorities and decide what remainedof properlegalargument;wecannotdosoheregiventhedepthand breadthof thefabricated casecitations.SeeNisland,2026WL 1162553,at*1. GivenAnderson’sfailuretocomplywithourorderorsupplyalegalargument upon which we could decide this appeal, we conclude the only available remedy is dismissal. Last, Anderson suggested in her ﬁling that we have ...",
+  "summary": "On 2026-06-10, in State of Iowa ex rel J.G. v. Mynesia A. Anderson, Iowa Court of Appeals dismissed the appeal after the appellant failed to comply with its order addressing fabricated authorities in her briefs. A self-represented appellant filed a petition using quotations that did not appear in the cited source and at least eight nonexistent or hallucinated authorities."
+ },
+ {
+  "decision_id": "ilnd-2026-hatch-v-college-ave-student-loans",
+  "case_name": "Hatch v. College Ave Student Loans",
+  "court": "United States District Court for the Northern District of Illinois",
+  "date_filed": "2026-03-06",
+  "docket_number": "No. 25-cv-05710",
+  "source_url": "https://www.damiencharlotin.com/documents/1621/Hatch_v._Equifax_USA_6_March_2026.pdf",
+  "mirror_url": null,
+  "verification": "mirror-read",
+  "primary_topic": "fabricated-citations",
+  "topics": [
+   "fabricated-citations"
+  ],
+  "disposition": "The court ordered counsel to show cause why sanctions, striking, or referral should not issue for the defective authorities.",
+  "ai_tool_named": null,
+  "court_used_ai": false,
+  "incident": {
+   "actor": "lawyer",
+   "ai_tool": null,
+   "conduct": "Counsel's brief contained two citation defects, including Jones v. TransUnion and Horan v. Equifax Info. Servs, involving nonexistent authorities, incorrect statutory or rule text.",
+   "currency": null,
+   "monetary_penalty": null,
+   "outcome": "pending"
+  },
+  "ai_passage": "question regarding the application of section 523(a)(8)(A) 1681i(a)), IV (willful violation of 15 U.S.C. § 1681i(a)), (i)”. Mader v. Equifax Info. Sols., Inc., 56 F.4th 264, 270 V (negligent violation of 15 U.S.C. § 1681e(b)), and VI (2d Cir. 2023) (plaintiff failed to allege an inaccuracy within (willful violation of 15 U.S.C. § 1681e(b)) are dismissed with the plain meaning of section 1681(e)(b) and the unresolved prejudice. Separately, the Court orders Plaintiff's counsel, legal question rendered his claim non-cognizable under the Attorney Heather Hersh, to show cause on April 9, 2026 at FCRA). This determination about Plaintiff's student loan 1:30 p.m. on why she should not be sanctioned pursuant to debt is outside the purview of Equifax. Chuluunbat, 4 (1) Rule 11(b)(2), (2) 28 U.S.C. § 1927, and (3) the inherent F.4th at 568; see also Denan, 959 F.3d at 297; Williams v. power of the Court, for citing potentially non-existent cases Equifax, 2025 WL 1733183, at *5 (N.D. Ga. June 17, 2025), to the Court in her opposition brief [29] and sur-reply [31]. report and recommendation adopted, No. 1:24-CV-04152- Indeed, the Court is concerned that counsel has misled the LMM-RDC, 2025 WL 2146367 (N.D. Ga. July 15, 2025) Court in citing cases that are nonexistent, or at a minimum, (granting defendant's motion to dismiss because the purported has failed to diligently cite check her submissions. In the event inaccuracy regarding the status of the plaintiff's student that the Court has simply been unable to find the cited cases loan debts would require the CRA to “step into the court's in its research, Plaintiff's counsel shall provide the Court with shoes to interpret section 523(a)(8)(A)(i))”); Johnson v. a true and accurate copy of Horan v. Equifax Info. Servs., TransUnion, No. 122CV02533JPBJKL, 2023 WL 6035573, LLC, No. 8:20-cv-02187-PWG, 2022 WL 2190906 (D. Md. at *4 (N.D. Ga. Aug. 11, 2023), report and recommendation June 17, 2022) and Jones v. TransUnion, LLC, No. 1:15- adopted, No. 1:22-CV-02533-JPB, 2023 WL 9315262 (N.D. cv-00489, 2015 WL 7566685 (N.D. Ill. Nov. 24, 2015). If Ga. Nov. 30, 2023) (“[T]he problem for Plaintiff is the counsel is unable to do so, Plaintiff's counsel shall submit a accuracy of the [disputed student loan debt] hinges entirely sworn declaration explaining to the Court how the opposition on whether the debt was discharged in bankruptcy, which, brief and sur-reply were generated and how counsel came under the circumstances of his case, presents a legal issue to locate Horan and Jones, by April 3, 2026. Show-cause and, therefore, is not actionable under either § 1681e(b) or § hearing set for April 9, 2026, at 1:30 pm via Webex (https:// 1681i.”). us-courts.webex.com/join/mary_rowlandilnd.uscourts.gov).",
+  "summary": "Northern District of Illinois on 2026-03-06 in Hatch v. College Ave Student Loans found counsel's brief contained two citation defects, including Jones v. TransUnion and Horan v. Equifax Info. Servs, involving nonexistent authorities, incorrect statutory or rule text. The court ordered counsel to show cause why sanctions, striking, or referral should not issue for the defective authorities."
+ },
+ {
+  "decision_id": "dcd-2026-andre-lamont-goddard-jr-v-city-university-of-seattle",
+  "case_name": "Andre Lamont Goddard, Jr. v. City University of Seattle",
+  "court": "United States District Court for the District of Columbia",
+  "date_filed": "2026-03-06",
+  "docket_number": "Case 1:25-cv-01881-JMC",
+  "source_url": "https://www.damiencharlotin.com/documents/1651/Lamont_v._City_U_of_Seattle_USA_6_March_2026.pdf",
+  "mirror_url": null,
+  "verification": "mirror-read",
+  "primary_topic": "fabricated-citations",
+  "topics": [
+   "fabricated-citations"
+  ],
+  "disposition": "The court admonished the self-represented party to verify cited authorities and avoid repeating the citation defects.",
+  "ai_tool_named": null,
+  "court_used_ai": false,
+  "incident": {
+   "actor": "litigant-in-person",
+   "ai_tool": null,
+   "conduct": "The self-represented party's motion contained five citation defects involving mischaracterized authority, incorrect statutory or rule text.",
+   "currency": null,
+   "monetary_penalty": null,
+   "outcome": "warning"
+  },
+  "ai_passage": "includes citation to several cases that do not appear to exist. 8 The cases bear the stamp of having been invented by artificial intelligence, given that they resemble authentic case citations, but when the reporter numbers are searched, turn up entirely unrelated cases that do not match the same name, date, or jurisdiction cited in the complaint, let alone support the propositions for which they are cited. Acknowledging that Plaintiff is a pro se litigant, Plaintiff is reminded that they have an obligation to comply with Rule 11, which imposes an affirmative duty to conduct a “‘reasonable [inquiry]’ into the substance of a filing before it is presented to the Court, including verifying that every citation is real.” Rubio v. District of Columbia, No. 23-cv-719, 2024 WL 4957373, at *4 (D.D.C. Dec. 3, 2024) (quoting Fed. R. Civ. P. 11(b)(2)). The failure to do so has led some courts to impose Rule 11 sanctions for the improper use of AI assistance. See id. The Court finds this admonition to abide by Rule 11 highly relevant given that Plaintiff has represented that they are a law student set to graduate this spring. ECF 1-2 at 6. Accordingly, it is hereby ORDERED that Defendant’s partial motion to dismiss, ECF 6, is DENIED as to Plaintiff’s CPPA claim, and GRANTED as to Plaintiff’s claims for (1) breach",
+  "summary": "District of Columbia on 2026-03-06 in Andre Lamont Goddard, Jr. v. City University of Seattle found the self-represented party's motion contained five citation defects involving mischaracterized authority, incorrect statutory or rule text. The court admonished the self-represented party to verify cited authorities and avoid repeating the citation defects."
+ },
+ {
+  "decision_id": "ca10-2026-ryan-michael-jarvis-v-county-of-teton-wyoming",
+  "case_name": "Ryan-Michael Jarvis v. County of Teton Wyoming",
+  "court": "United States Court of Appeals for the Tenth Circuit",
+  "date_filed": "2026-04-24",
+  "docket_number": "25-8034",
+  "source_url": "https://www.damiencharlotin.com/documents/2051/Jarvis_v._County_USA_24_April_2026.pdf",
+  "mirror_url": null,
+  "verification": "mirror-read",
+  "primary_topic": "fabricated-citations",
+  "topics": [
+   "fabricated-citations"
+  ],
+  "disposition": "The court warned the self-represented party to verify legal authorities and cautioned that future hallucinated or nonexistent citations may bring sanctions.",
+  "ai_tool_named": null,
+  "court_used_ai": false,
+  "incident": {
+   "actor": "litigant-in-person",
+   "ai_tool": null,
+   "conduct": "The self-represented party filed a pleading with one false case quotation and one mischaracterized case citation.",
+   "currency": null,
+   "monetary_penalty": null,
+   "outcome": "warning"
+  },
+  "ai_passage": "S. 213 (1983): “The mere assertion of a complaint ... without corroboration or personal knowledge of a crime, fails to establish probable cause. ” Aplt. Opening Br. at 21 (alteration in original) (internal quotation marks omitted). But we cannot find this quote (or any similar proposition) in Spinelli. Nor does the quotation appear in any other federal or state case. We therefore suspect that Mr. Jarvis's quotation is a fabrication generated by his use of a generative artificial intelligence (AI) tool. Cf. Wadsworth v. Walmart Inc. , 348 F. R. D. 489, 497 (D. Wyo. 2025) (“It is ... well-known in the legal community that AI resources generate fake cases. ”).",
+  "summary": "The Tenth Circuit on 2026-04-24 warned the self-represented party to verify legal authorities and cautioned that future hallucinated or nonexistent citations may bring sanctions in Ryan-Michael Jarvis v. County of Teton Wyoming. The self-represented party filed a pleading with one false case quotation and one mischaracterized case citation, including Spinelli v. United States that does not appear in the opinion."
+ },
+ {
+  "decision_id": "fladistctapp4-2026-innocent-v-meraki-installers",
+  "case_name": "Innocent v. Meraki Installers, LLC",
+  "court": "District Court of Appeal of Florida, Fourth District",
+  "date_filed": "2026-05-27",
+  "docket_number": "4D2025-1151",
+  "source_url": "https://www.damiencharlotin.com/documents/2210/Innocent_v._Meraki_Installers_LLC.pdf",
+  "mirror_url": null,
+  "verification": "mirror-read",
+  "primary_topic": "fabricated-citations",
+  "topics": [
+   "fabricated-citations"
+  ],
+  "disposition": "The court affirmed and referred counsel to the Florida Bar over trial-transcript quotations not found in the record.",
+  "ai_tool_named": null,
+  "court_used_ai": false,
+  "incident": {
+   "actor": "lawyer",
+   "ai_tool": null,
+   "conduct": "Counsel filed an initial brief using record or transcript quotations not found in the record, quotations that did not appear in the cited source, and multiple nonexistent or hallucinated authorities.",
+   "currency": null,
+   "monetary_penalty": null,
+   "outcome": "referral"
+  },
+  "ai_passage": "We write briefly, however, to address concerns regarding multiple quotations from the trial transcript contained in Appellant’s initial brief that do not appear to be found anywhere in the actual trial transcript or otherwise in the Record. In consideration of the arguments made on this point in the parties’ briefs, as well as during oral argument, we refer this matter to the Florida Bar for appropriate action. See Eclectic Synergy, LLC v. Seredin, et al., No. 4D26- 0781 (Fla. 4th DCA May 27, 2026) (citing Russell v. Mells, 426 So. 3d 913, 920 (Fla. 2d DCA 2025) (“When a lawyer cites imaginary legal authorities to our court as if they were law, we are compelled to refer that lawyer to the Bar because of the professional rules of conduct.”); Fla. Code of Jud. Conduct, Canon 3D(2) (“A judge who receives information or has actual knowledge that substantial likelihood exists that a lawyer has committed a violation of the Rules Regulating The Florida Bar shall take appropriate action.”); R. Regulating Fla.",
+  "summary": "On 2026-05-27, in Innocent v. Meraki Installers, LLC, District Court of Appeal of Florida, Fourth District affirmed and referred counsel to the Florida Bar over trial-transcript quotations not found in the record. Counsel filed an initial brief using record or transcript quotations not found in the record, quotations that did not appear in the."
+ },
+ {
+  "decision_id": "azctapp-2026-boettcher-v-boettcher",
+  "case_name": "Boettcher v. Boettcher",
+  "court": "Arizona Court of Appeals, Division One",
+  "date_filed": "2026-08-14",
+  "docket_number": "1 CA-SA 26-0121",
+  "source_url": "https://www.damiencharlotin.com/documents/2899/BOETTCHER_v._BOETTCHER_USA_14_August_2026.pdf",
+  "mirror_url": null,
+  "verification": "mirror-read",
+  "primary_topic": "fabricated-citations",
+  "topics": [
+   "fabricated-citations"
+  ],
+  "disposition": "The court accepted special action jurisdiction, granted relief in part, and struck an apparently false quotation.",
+  "ai_tool_named": null,
+  "court_used_ai": false,
+  "incident": {
+   "actor": "lawyer",
+   "ai_tool": null,
+   "conduct": "Petitioner’s filing attributed a jurisdictional quotation to two cases, but neither case contained it and the court could not find it in Arizona law.",
+   "currency": null,
+   "monetary_penalty": null,
+   "outcome": "other"
+  },
+  "ai_passage": "Father contends the superior court both lacked jurisdiction to hold him in contempt and abused its discretion by finding him in contempt. He also contends the court imposed improper sanctions. ... In making his jurisdictional argument, Father said, “Arizona appellate courts have consistently held that a trial court may not hold a party in contempt for violating a parenting plan that was never ordered. Without a valid court order, contempt is legally impossible.” He cited two cases for the quote, neither of which contains that language. And we could not find it in any Arizona case. We strike the apparently false quotation. Matter of Est. of Acciavatti, 1 CA-CV 25-0606 PB, 2026 WL 2041963, at *2, ¶ 9 (App. July 15, 2026). But because we identified no additional citation concerns, and opposing counsel raised none (including this one), we decline to impose sanctions. Id. at *4, ¶ 18 (“citing a hallucinated case in a legal filing is sanctionable conduct.”).",
+  "summary": "The Arizona Court of Appeals grants partial special-action relief in a contempt dispute and addresses a quotation in Father’s filing. The court says neither cited case contains the quoted jurisdictional rule, it cannot find the language in Arizona law, strikes the false quotation, and declines sanctions."
+ },
+ {
+  "decision_id": "vaed-2026-burnley-v-valentin",
+  "case_name": "Burnley v. Valentin",
+  "court": "U.S. District Court for the Eastern District of Virginia",
+  "date_filed": "2026-03-18",
+  "docket_number": "3:23-cv-00160-RCY",
+  "source_url": "https://storage.courtlistener.com/recap/gov.uscourts.vaed.535291/gov.uscourts.vaed.535291.195.0.pdf",
+  "mirror_url": null,
+  "verification": "mirror-read",
+  "primary_topic": "evidence-authentication",
+  "topics": [
+   "evidence-authentication"
+  ],
+  "disposition": "The court granted in part motions to enforce settlement after finding an audio recording authentic and identifying the caller as Burnley.",
+  "ai_tool_named": null,
+  "court_used_ai": false,
+  "incident": null,
+  "ai_passage": "Walburn maintains that Burnley, using the pseudonym “Tyrone Jackson,” materially breached the Walburn-Burnley Settlement Agreement’s express prohibition against contacting Walburn’s employers about Walburn. In defense, Burnley denies calling Walburn’s current employer and claims that the Court cannot assume it was him based on voice comparison alone. He adds that any connection to a former neighbor named “Tyrone Jackson” is incorrect, as the man who once lived across from Burnley was named “Tyrone Miller.” He argues that the Court cannot grant the Motion to Enforce because the audio recordings have not been “authenticated prior to admission” pursuant to Federal Rule of Evidence 901(a). Instead, he argues, the recordings are either someone else entirely or are a manipulated audio made by artificial intelligence to “clone” his voice. ... Here, the Court must determine whether the Walburn produced “evidence sufficient to support a finding” that the audio recording is what the Walburn claims it is. Fed. R. Evid. 901(a). Based on the evidence presented, which included two sworn declarations, the Court is satisfied that the audio recording is authentic and has not been materially altered.",
+  "summary": "On 2026-03-18, the Eastern District of Virginia enforces a settlement agreement after an evidentiary hearing. The plaintiff argued an audio recording was AI-cloned or manipulated; the court applied Rule 901, found the recording authentic, credited voice-identification evidence, and rejected the authentication challenge."
+ },
+ {
+  "decision_id": "vaeb-2026-in-re-mahar",
+  "case_name": "In re Mahar",
+  "court": "United States Bankruptcy Court for the Eastern District of Virginia",
+  "date_filed": "2026-07-31",
+  "docket_number": "25-72454-SCS; Adv. No. 25-07027-SCS",
+  "source_url": "https://www.damiencharlotin.com/documents/2780/Mahar_USA_31_July_2026.pdf",
+  "mirror_url": null,
+  "verification": "mirror-read",
+  "primary_topic": "fabricated-citations",
+  "topics": [
+   "fabricated-citations",
+   "competence-fees"
+  ],
+  "disposition": "The bankruptcy court dismissed the adversary complaint without prejudice for lack of subject-matter jurisdiction.",
+  "ai_tool_named": null,
+  "court_used_ai": false,
+  "incident": {
+   "actor": "lawyer",
+   "ai_tool": null,
+   "conduct": "Plaintiff’s counsel cited a nonexistent bankruptcy case and three existing-case names with incorrect court, Westlaw, or date information.",
+   "currency": null,
+   "monetary_penalty": null,
+   "outcome": "other"
+  },
+  "ai_passage": "At the March 26, 2026 hearing, the Court advised Ms. Mahar's counsel that one of the cases he cited in support of this proposition does not exist. ECF No. 61, Transcript of Mar. 26, 2026 hearing, at 9-10. Despite extensive efforts, the Court was unable to locate any case by the alleged name, and its case citation within the response returned a completely unrelated case that is criminal in nature. See ECF No. 34, at 4 (citing the non-existent case titled In re Coastal Carolina Fruit Company). ... In support of this argument, Ms. Mahar's counsel cites three cases for which the United States District Court and Westlaw case numbers, as well as the decision dates, are incorrect. See ECF No. 34, at 2 (cases of Jennings v. RoundPoint Mortgage Servicing Corporation; Mastin v. Ditech Financial, LLC; and Heflin v. PHH Mortgage Corporation). The Court advised Ms. Mahar's counsel of the discovery of the incorrect case information at the March 26, 2026 hearings. ECF No. 61, at 9-10. The Court further advised counsel of a fourth case name contained in the pleading that was nonexistent (the citation for which related to a criminal case). Id. at 10; see n.12, supra.",
+  "summary": "The Eastern District of Virginia bankruptcy court dismisses Alicia Mahar’s adversary complaint for lack of jurisdiction. Footnotes note that counsel cited a nonexistent In re Coastal Carolina Fruit Company decision and supplied incorrect court, Westlaw, or date information for three other mortgage cases."
+ },
+ {
+  "decision_id": "ncwd-2026-ebony-sherisse-lucas-v-charles-w-scharf",
+  "case_name": "Ebony Sherisse Lucas v. Charles W. Scharf, et al.",
+  "court": "United States District Court for the Western District of North Carolina",
+  "date_filed": "2026-02-24",
+  "docket_number": "CIVIL ACTION NO. 3:25-CV-01015-KDB-WCM",
+  "source_url": "https://www.damiencharlotin.com/documents/1626/Lucas_v._Wells_Fargo_USA_25_February_2026.pdf",
+  "mirror_url": null,
+  "verification": "mirror-read",
+  "primary_topic": "fabricated-citations",
+  "topics": [
+   "fabricated-citations"
+  ],
+  "disposition": "The court ordered the self-represented party to show cause why sanctions, striking, or referral should not issue for the defective authorities.",
+  "ai_tool_named": null,
+  "court_used_ai": false,
+  "incident": {
+   "actor": "litigant-in-person",
+   "ai_tool": null,
+   "conduct": "The self-represented party's brief contained 13 citation defects involving nonexistent authorities, mischaracterized authority, incorrect statutory or rule text.",
+   "currency": null,
+   "monetary_penalty": null,
+   "outcome": "pending"
+  },
+  "ai_passage": "Court.1 10. Lindner v. Countrywide Hom Loans, Inc., 447 F. Supp. 2d 999 (D. Minn. 2006) AI can be a powerful tool for pro se plaintiffs. However, the (Doc. No. 7). In her reply, Plaintiff cites two more fake cases Court cannot blindly ignore its risks, including the increased (Eaton v. Am. Bankers Life Assurance Co., 2020 U.S. Dist. LEXIS 150102 (W.D.N.C.), and Cox v. Chase Bank, N.A., likelihood of factual and legal hallucinations.2 2015 WL 13654749) and cites a real case for a proposition that the case does not support (Marash v. Morrill, 496 F.2d IT IS, THEREFORE, ORDERED that Plaintiff must show 1138 (2d Cir. 1974)). (Doc. Nos. 7, 9). cause as to why her complaint should not be dismissed with prejudice for failing to comply with this Court's Standing Plaintiff's AI generated pleading violates this Court's standing Order Regarding Use of Artificial Intelligence. Within 21 order and attempts to mislead the Court. The Court days of this Court's Order, Plaintiff shall (1) file a brief with understands that Plaintiff is proceeding pro se, but that does the Court explaining her fraudulent case citations, (2) file a not allow her to flaunt the Court's rules and haphazardly motion to amend her non-compliant pleadings, and (3) certify file pleadings without completing any due diligence. Even to the Court—in each motion or brief filed—that she has and a cursory Google search would reveal that these cases do will comply with this Court's Standing Order Regarding Use not exist. Furthermore, AI's limitations at this point are well- of Artificial Intelligence. Failure to do so will result in the documented, and its proclivity for hallucinating case citations dismissal of Plaintiff's complaint with prejudice. is broadly known. A pro se litigant doing the minimum due diligence would discover that fact. *3 Signed: February 24, 2026 The Court has been extremely lenient on pro se plaintiffs filing AI-generated pleadings in this Court and has generally 1 The Court notes that this is not Plaintiff's first warning with respect to these issues. See 3:25-cv-832, Doc. No. 10. Further, at least one other case reflects similar problems. See 3:25-cv-1008, Doc. No. 5. Plaintiff is forewarned that if she continues to file documents without the required AI certification or with AI hallucinations, then the Court may, without further warning, order that documents lacking in AI certification be returned to her without filing. Also, documents containing AI hallucinations (notwithstanding a certification) may be summarily stricken and not considered. 2 Pro se parties should also be aware that their “conversations” with AI tools such as ChatGPT are not privileged and may be subject to discovery. Government Works.",
+  "summary": "Western District of North Carolina on 2026-02-24 in Ebony Sherisse Lucas v. Charles W. Scharf, et al. found the self-represented party's brief contained 13 citation defects involving nonexistent authorities, mischaracterized authority, incorrect statutory or rule text. The court ordered the self-represented party to show cause why sanctions, striking, or referral should not issue for the defective authorities."
+ }
+]

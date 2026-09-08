@@ -1,0 +1,51 @@
+{
+ "date": "2026-09-08",
+ "overlays": 569,
+ "status": {
+  "unfetchable": 14,
+  "recoded": 554,
+  "not-court-document": 1
+ },
+ "rows_changed": 97,
+ "field_changes": 611,
+ "per_field": {
+  "case_name": 73,
+  "docket_number": 72,
+  "ai_mention": 94,
+  "disposition": 94,
+  "incident.conduct": 93,
+  "court": 69,
+  "citation": 11,
+  "document_type": 26,
+  "incident.outcome": 36,
+  "primary_topic": 4,
+  "topics": 8,
+  "incident": 4,
+  "incident.monetary_penalty": 4,
+  "date_filed": 2,
+  "incident.currency": 2,
+  "ai_passage": 9,
+  "incident.ai_tool": 5,
+  "ai_tool_named": 5
+ },
+ "outcome_moves": {
+  "warning \u2192 filing-struck": 1,
+  "other \u2192 none": 16,
+  "warning \u2192 dismissal": 2,
+  "fine \u2192 warning": 1,
+  "strike-off \u2192 dismissal": 1,
+  "sanctions \u2192 costs-order": 1,
+  "sanctions \u2192 fine": 2,
+  "pending \u2192 dismissal": 1,
+  "warning \u2192 none": 3,
+  "strike-off \u2192 filing-struck": 2,
+  "dismissal \u2192 sanctions": 1,
+  "other \u2192 filing-struck": 1,
+  "dismissal \u2192 none": 1,
+  "costs-order \u2192 referral": 1,
+  "pending \u2192 filing-struck": 1,
+  "costs-order \u2192 pending": 1
+ },
+ "rejected": [],
+ "unknown": []
+}

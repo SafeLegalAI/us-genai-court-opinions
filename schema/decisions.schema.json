@@ -115,6 +115,15 @@
    "type": "boolean",
    "description": "true only if the court states it used an AI tool itself"
   },
+  "ai_mention": {
+   "type": "string",
+   "enum": [
+    "explicit",
+    "implied",
+    "none"
+   ],
+   "description": "explicit = the court itself names AI/ChatGPT/a chatbot/LLM/'hallucination'; implied = the court does not name AI but states the fabrication pattern suggests AI or records a party's admission of AI use; none = the court only says the authorities do not exist or are misquoted"
+  },
   "ai_tool_named": {
    "type": [
     "string",
@@ -124,7 +133,7 @@
   },
   "disposition": {
    "type": "string",
-   "maxLength": 240,
+   "maxLength": 320,
    "description": "what the court did, in one sentence"
   },
   "ai_passage": {
@@ -156,22 +165,25 @@
    "properties": {
     "conduct": {
      "type": "string",
-     "maxLength": 300
+     "maxLength": 500
     },
     "outcome": {
      "type": "string",
      "enum": [
-      "sanctions",
-      "fine",
-      "costs-order",
-      "referral",
-      "warning",
       "strike-off",
       "suspension",
+      "referral",
+      "fine",
+      "costs-order",
+      "sanctions",
       "dismissal",
+      "filing-struck",
+      "warning",
       "pending",
+      "none",
       "other"
-     ]
+     ],
+     "description": "most severe consequence the court imposed in this document: strike-off = removed from the roll/disbarred; suspension = from practice; referral = to a bar/regulator/disciplinary body; fine = sum payable to the court; costs-order = fees/costs payable to a party; sanctions = other formal sanction (CLE, admonition entered as sanction, filing bar); dismissal = case/claim dismissed and tied to the conduct; filing-struck = offending filing struck or disregarded, nothing more; warning = caution/show-cause discharged without sanction; pending = show-cause issued, sanctions reserved; none = the court noted the defective authorities and imposed no consequence for them in this document; other = rare, explained in conduct"
     },
     "actor": {
      "type": "string",
@@ -241,6 +253,13 @@
    ],
    "description": "web.archive.org snapshot of source_url, or null"
   },
+  "mirror_url": {
+   "type": [
+    "string",
+    "null"
+   ],
+   "description": "the public copy of the court's document the row was first read from (e.g. the AI Hallucination Cases Database's PDF), kept once source_url has been upgraded to the court's own copy"
+  },
   "fetched_at": {
    "type": "string",
    "description": "ISO timestamp of the read"
@@ -267,7 +286,7 @@
     "string",
     "null"
    ],
-   "maxLength": 600
+   "maxLength": 900
   }
  },
  "required": [

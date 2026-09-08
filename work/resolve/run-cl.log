@@ -1,0 +1,7 @@
+mirror-read rows: 274 (federal 174, state/other 100)
+  ✓ cacd-2026-dotson-v-bob-evans-farms ← https://storage.courtlistener.com/recap/gov.uscourts.cacd.1000156/gov.uscourts.cacd.1000156.46.0.pdf (courtlistener-recap)
+  ✓ nysd-2026-jason-wimberly-v-verizon-new-york ← https://storage.courtlistener.com/recap/gov.uscourts.nysd.660301/gov.uscourts.nysd.660301.15.0.pdf (courtlistener-recap)
+  ✓ flmd-2026-stringer-v-white-cap-supply-holdings ← https://storage.courtlistener.com/recap/gov.uscourts.flmd.429607/gov.uscourts.flmd.429607.53.0.pdf (courtlistener-recap)
+  ✓ ilnd-2026-devore-v-mccombie ← https://storage.courtlistener.com/recap/gov.uscourts.ilnd.470835/gov.uscourts.ilnd.470835.30.0.pdf (courtlistener-recap)
+federal: upgraded 4, not found 170 (CourtListener daily quota reached); state/other rows queued for agents: 100 → work/resolve/state-queue.json
+now: python pipeline/build_release.py --version <next> --push

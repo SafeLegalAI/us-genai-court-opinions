@@ -1,0 +1,59 @@
+{"decision_id": "mied-2026-potterf-v-wessels", "result": "not-found", "routes": ["govinfo"], "ts": "2026-09-08T17:50:55"}
+{"decision_id": "mdd-2026-johnson-v-nationstar", "result": "not-found", "routes": ["govinfo"], "ts": "2026-09-08T17:51:30"}
+{"decision_id": "ilnd-2026-shelbert-v-baxter-international", "result": "not-found", "routes": ["govinfo"], "ts": "2026-09-08T17:51:33"}
+{"decision_id": "njd-2026-kurelko-v-ballard", "result": "not-found", "routes": ["govinfo"], "ts": "2026-09-08T17:51:46"}
+{"decision_id": "utd-2026-ferm-v-agritech-properties", "result": "not-found", "routes": ["govinfo"], "ts": "2026-09-08T17:51:49"}
+{"decision_id": "cand-2026-full-standard-properties-v-sj-6070", "result": "not-found", "routes": ["govinfo"], "ts": "2026-09-08T17:52:39"}
+{"decision_id": "ded-2026-disruptive-resources-v-ballistic-barrier", "result": "not-found", "routes": ["govinfo"], "ts": "2026-09-08T17:52:49"}
+{"decision_id": "cacd-2026-dotson-v-bob-evans-farms", "result": "not-found", "routes": ["govinfo"], "ts": "2026-09-08T17:52:52"}
+{"decision_id": "cacd-2026-kasengela-v-kaiser-foundation", "result": "not-found", "routes": ["govinfo"], "ts": "2026-09-08T17:52:55"}
+{"decision_id": "caed-2026-lohbeck-v-amazon", "result": "not-found", "routes": ["govinfo"], "ts": "2026-09-08T17:53:06"}
+{"decision_id": "nvd-2026-kelly-v-finra", "result": "not-found", "routes": ["govinfo"], "ts": "2026-09-08T17:53:09"}
+{"decision_id": "ilnd-2026-snisko-v-cascade-funding", "result": "not-found", "routes": ["govinfo"], "ts": "2026-09-08T17:53:10"}
+{"decision_id": "mied-2026-potterf-v-wessels", "result": "not-found", "routes": ["govinfo"], "ts": "2026-09-08T17:55:06+00:00"}
+{"decision_id": "mdd-2026-johnson-v-nationstar", "result": "not-found", "routes": ["govinfo"], "ts": "2026-09-08T17:55:39+00:00"}
+{"decision_id": "ilnd-2026-shelbert-v-baxter-international", "result": "not-found", "routes": ["govinfo"], "ts": "2026-09-08T17:55:42+00:00"}
+{"decision_id": "njd-2026-kurelko-v-ballard", "official_url": "https://www.govinfo.gov/content/pkg/USCOURTS-njd-3_25-cv-11917/pdf/USCOURTS-njd-3_25-cv-11917-0.pdf", "route": "govinfo", "package": "USCOURTS-njd-3_25-cv-11917", "granule": "USCOURTS-njd-3_25-cv-11917-0", "query": "collection:USCOURTS courtcode:njd \"25-cv-11917\"", "result": "upgraded", "dry_run": false, "ts": "2026-09-08T17:55:46+00:00"}
+{"decision_id": "utd-2026-ferm-v-agritech-properties", "result": "not-found", "routes": ["govinfo"], "ts": "2026-09-08T17:55:49+00:00"}
+{"decision_id": "cand-2026-full-standard-properties-v-sj-6070", "result": "not-found", "routes": ["govinfo"], "ts": "2026-09-08T17:56:39+00:00"}
+{"decision_id": "ded-2026-disruptive-resources-v-ballistic-barrier", "result": "not-found", "routes": ["govinfo"], "ts": "2026-09-08T17:56:49+00:00"}
+{"decision_id": "cacd-2026-dotson-v-bob-evans-farms", "result": "not-found", "routes": ["govinfo"], "ts": "2026-09-08T17:56:51+00:00"}
+{"decision_id": "cacd-2026-kasengela-v-kaiser-foundation", "result": "not-found", "routes": ["govinfo"], "ts": "2026-09-08T17:56:54+00:00"}
+{"decision_id": "caed-2026-lohbeck-v-amazon", "result": "not-found", "routes": ["govinfo"], "ts": "2026-09-08T17:57:04+00:00"}
+{"decision_id": "nvd-2026-kelly-v-finra", "result": "not-found", "routes": ["govinfo"], "ts": "2026-09-08T17:57:06+00:00"}
+{"decision_id": "ilnd-2026-snisko-v-cascade-funding", "result": "not-found", "routes": ["govinfo"], "ts": "2026-09-08T17:57:08+00:00"}
+{"decision_id": "txwd-2026-perez-v-blanche", "result": "not-found", "routes": ["govinfo"], "ts": "2026-09-08T17:57:10+00:00"}
+{"decision_id": "wawd-2026-ledoux-v-outliers-summary-judgment", "result": "not-found", "routes": ["govinfo"], "ts": "2026-09-08T17:57:13+00:00"}
+{"decision_id": "insd-2026-harris-v-wray", "official_url": "https://www.govinfo.gov/content/pkg/USCOURTS-insd-1_26-cv-01342/pdf/USCOURTS-insd-1_26-cv-01342-0.pdf", "route": "govinfo", "package": "USCOURTS-insd-1_26-cv-01342", "granule": "USCOURTS-insd-1_26-cv-01342-0", "query": "collection:USCOURTS courtcode:insd \"26-cv-01342\"", "result": "upgraded", "dry_run": false, "ts": "2026-09-08T17:57:17+00:00"}
+{"decision_id": "ca5-2026-guerra-quezada-v-united-states", "official_url": "https://www.govinfo.gov/content/pkg/USCOURTS-ca5-25-10555/pdf/USCOURTS-ca5-25-10555-0.pdf", "route": "govinfo", "package": "USCOURTS-ca5-25-10555", "granule": "USCOURTS-ca5-25-10555-0", "query": "collection:USCOURTS courtcode:ca5 \"Guerra\" \"Quezada\"", "result": "upgraded", "dry_run": false, "ts": "2026-09-08T17:57:22+00:00"}
+{"decision_id": "flmd-2026-rose-v-arts-bonita", "result": "not-found", "routes": ["govinfo"], "ts": "2026-09-08T17:57:24+00:00"}
+{"decision_id": "alnd-2026-chapman-v-city-of-priceville", "result": "not-found", "routes": ["govinfo"], "ts": "2026-09-08T17:57:39+00:00"}
+{"decision_id": "pawd-2026-davenport-v-churilla", "official_url": "https://www.govinfo.gov/content/pkg/USCOURTS-pawd-3_25-cv-00330/pdf/USCOURTS-pawd-3_25-cv-00330-0.pdf", "route": "govinfo", "package": "USCOURTS-pawd-3_25-cv-00330", "granule": "USCOURTS-pawd-3_25-cv-00330-0", "query": "collection:USCOURTS courtcode:pawd \"25-cv-00330\"", "result": "upgraded", "dry_run": false, "ts": "2026-09-08T17:57:44+00:00"}
+{"decision_id": "arwd-2026-nesbitt-v-trans-union", "official_url": "https://www.govinfo.gov/content/pkg/USCOURTS-arwd-5_26-cv-05085/pdf/USCOURTS-arwd-5_26-cv-05085-0.pdf", "route": "govinfo", "package": "USCOURTS-arwd-5_26-cv-05085", "granule": "USCOURTS-arwd-5_26-cv-05085-0", "query": "collection:USCOURTS courtcode:arwd \"26-cv-05085\"", "result": "upgraded", "dry_run": false, "ts": "2026-09-08T17:57:48+00:00"}
+{"decision_id": "pamd-2026-voyton-v-voyton", "result": "not-found", "routes": ["govinfo"], "ts": "2026-09-08T18:00:35+00:00"}
+{"decision_id": "ilnd-2026-united-states-v-smith", "result": "not-found", "routes": ["govinfo"], "ts": "2026-09-08T18:01:03+00:00"}
+{"decision_id": "utd-2026-hack-v-preston", "result": "not-found", "routes": ["govinfo"], "ts": "2026-09-08T18:02:06+00:00"}
+{"decision_id": "ncwd-2026-smith-v-polk-county", "official_url": "https://www.govinfo.gov/content/pkg/USCOURTS-ncwd-1_24-cv-00037/pdf/USCOURTS-ncwd-1_24-cv-00037-2.pdf", "route": "govinfo", "package": "USCOURTS-ncwd-1_24-cv-00037", "granule": "USCOURTS-ncwd-1_24-cv-00037-2", "query": "collection:USCOURTS courtcode:ncwd \"24-cv-00037\"", "result": "upgraded", "dry_run": false, "ts": "2026-09-08T18:02:15+00:00"}
+{"decision_id": "tnmd-2026-in-re-bfi-waste-systems", "result": "not-found", "routes": ["govinfo"], "ts": "2026-09-08T18:03:11+00:00"}
+{"decision_id": "ohnd-2026-burgess-v-greater-cleveland-rta", "official_url": "https://www.govinfo.gov/content/pkg/USCOURTS-ohnd-1_24-cv-01217/pdf/USCOURTS-ohnd-1_24-cv-01217-1.pdf", "route": "govinfo", "package": "USCOURTS-ohnd-1_24-cv-01217", "granule": "USCOURTS-ohnd-1_24-cv-01217-1", "query": "collection:USCOURTS courtcode:ohnd \"24-cv-01217\"", "result": "upgraded", "dry_run": false, "ts": "2026-09-08T18:03:18+00:00"}
+{"decision_id": "ned-2026-kadlaskar-v-uscis", "result": "not-found", "routes": ["govinfo"], "ts": "2026-09-08T18:03:19+00:00"}
+{"decision_id": "ctd-2026-booker-v-us-bank", "result": "not-found", "routes": ["govinfo"], "ts": "2026-09-08T18:03:22+00:00"}
+{"decision_id": "nynd-2026-calenzo-v-waste-management", "result": "not-found", "routes": ["govinfo"], "ts": "2026-09-08T18:03:25+00:00"}
+{"decision_id": "txwd-2026-cain-v-hyatt", "result": "not-found", "routes": ["govinfo"], "ts": "2026-09-08T18:03:27+00:00"}
+{"decision_id": "ctd-2026-barteca-v-tacobarn", "result": "not-found", "routes": ["govinfo"], "ts": "2026-09-08T18:03:30+00:00"}
+{"decision_id": "txsd-2026-cristancho-v-swbc-mortgage", "official_url": "https://www.govinfo.gov/content/pkg/USCOURTS-txsd-3_24-cv-00110/pdf/USCOURTS-txsd-3_24-cv-00110-0.pdf", "route": "govinfo", "package": "USCOURTS-txsd-3_24-cv-00110", "granule": "USCOURTS-txsd-3_24-cv-00110-0", "query": "collection:USCOURTS courtcode:txsd \"24-cv-00110\"", "result": "upgraded", "dry_run": false, "ts": "2026-09-08T18:03:34+00:00"}
+{"decision_id": "nced-2026-forney-v-township-of-cary", "result": "not-found", "routes": ["govinfo"], "ts": "2026-09-08T18:03:37+00:00"}
+{"decision_id": "alnd-2026-perry-v-social-security-administration", "official_url": "https://www.govinfo.gov/content/pkg/USCOURTS-alnd-2_26-cv-00048/pdf/USCOURTS-alnd-2_26-cv-00048-0.pdf", "route": "govinfo", "package": "USCOURTS-alnd-2_26-cv-00048", "granule": "USCOURTS-alnd-2_26-cv-00048-0", "query": "collection:USCOURTS courtcode:alnd \"26-cv-00048\"", "result": "upgraded", "dry_run": false, "ts": "2026-09-08T18:03:41+00:00"}
+{"decision_id": "txwd-2026-moore-v-aldridge-pite", "result": "not-found", "routes": ["govinfo"], "ts": "2026-09-08T18:03:44+00:00"}
+{"decision_id": "cacd-2026-jabbari-v-omidvar", "result": "not-found", "routes": ["govinfo"], "ts": "2026-09-08T18:03:47+00:00"}
+{"decision_id": "ord-2026-united-states-v-karnezis", "result": "not-found", "routes": ["govinfo"], "ts": "2026-09-08T18:03:49+00:00"}
+{"decision_id": "nysd-2026-santana-v-shook-hardy-bacon", "result": "not-found", "routes": ["govinfo"], "ts": "2026-09-08T18:03:52+00:00"}
+{"decision_id": "mied-2026-al-ali-v-cvs-pharmacy", "result": "not-found", "routes": ["govinfo"], "ts": "2026-09-08T18:04:35+00:00"}
+{"decision_id": "gao-2026-jaaw-group", "result": "not-found", "routes": ["govinfo"], "ts": "2026-09-08T18:04:35+00:00"}
+{"decision_id": "vaeb-2026-in-re-mahar", "result": "not-found", "routes": ["govinfo"], "ts": "2026-09-08T18:04:37+00:00"}
+{"decision_id": "utd-2026-carey-v-breakell", "result": "not-found", "routes": ["govinfo"], "ts": "2026-09-08T18:04:42+00:00"}
+{"decision_id": "nysd-2026-in-re-firestar-diamond", "result": "not-found", "routes": ["govinfo"], "ts": "2026-09-08T18:04:44+00:00"}
+{"decision_id": "msnd-2026-harris-v-bank-of-america", "result": "not-found", "routes": ["govinfo"], "ts": "2026-09-08T18:04:46+00:00"}
+{"decision_id": "cod-2026-maloit-v-maloit", "official_url": "https://www.govinfo.gov/content/pkg/USCOURTS-cod-1_24-cv-02383/pdf/USCOURTS-cod-1_24-cv-02383-2.pdf", "route": "govinfo", "package": "USCOURTS-cod-1_24-cv-02383", "granule": "USCOURTS-cod-1_24-cv-02383-2", "query": "collection:USCOURTS courtcode:cod \"24-cv-02383\"", "result": "upgraded", "dry_run": false, "ts": "2026-09-08T18:04:55+00:00"}
+{"decision_id": "ca10-2026-robinson-v-oglala-sioux-tribe", "official_url": "https://www.govinfo.gov/content/pkg/USCOURTS-ca10-25-06143/pdf/USCOURTS-ca10-25-06143-0.pdf", "route": "govinfo", "package": "USCOURTS-ca10-25-06143", "granule": "USCOURTS-ca10-25-06143-0", "query": "collection:USCOURTS courtcode:ca10 \"Robinson\" \"Oglala\" \"Sioux\"", "result": "upgraded", "dry_run": false, "ts": "2026-09-08T18:05:11+00:00"}
+{"decision_id": "utd-2026-ferm-v-agritech-properties", "official_url": "https://www.govinfo.gov/content/pkg/USCOURTS-utd-4_26-cv-00029/pdf/USCOURTS-utd-4_26-cv-00029-3.pdf", "route": "govinfo", "package": "USCOURTS-utd-4_26-cv-00029", "granule": "USCOURTS-utd-4_26-cv-00029-3", "query": "collection:USCOURTS courtcode:utd 26-cv-00029", "result": "upgraded", "dry_run": true, "ts": "2026-09-08T18:05:20+00:00"}

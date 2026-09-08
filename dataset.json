@@ -1,7 +1,7 @@
 {
  "pretty_name": "US court decisions on generative AI — coded corpus",
  "title": "US court decisions on generative AI",
- "headline": "{n_decisions} court-authored US documents (opinions, orders, concurrences, dissents, administrative orders) that substantively discuss generative AI, each coded by topic, with the public-domain passage quoted, plus {n_litigation} legal-AI litigation dockets with dated milestones.",
+ "headline": "{n_decisions} court-authored US documents (opinions, orders, concurrences, dissents, administrative orders) that address generative AI or the fabricated authorities courts associate with it — `ai_mention` says whether the court itself names AI — each coded by topic, with the public-domain passage quoted, plus {n_litigation} legal-AI litigation dockets with dated milestones.",
  "canonical_path": "/courts",
  "tags": [
   "courts",
@@ -12,7 +12,7 @@
   "evidence",
   "public-domain"
  ],
- "what_a_row_is": "A `decisions` row is one court-authored document: `case_name`, `court`, `court_level`, `state`, `date_filed`, `citation`, `docket_number`, `document_type`, `topics[]` (fabricated-citations · court-ai-use · evidence-authentication · discovery-ediscovery · privilege-work-product · unauthorized-practice · criminal-justice-algorithms · pro-se-ai-use · competence-fees · rules-by-opinion · substantive-ai-law), `primary_topic`, `court_used_ai`, `ai_tool_named`, `disposition`, the verbatim public-domain `ai_passage`, `cited_authorities[]`, a 40–60-word `summary`, `incident{}` (conduct/outcome/actor/penalty when the row is a fabricated-citation decision) and `tracker_slug` (its canonical page in the SafeLegalAI incident tracker). A `litigation` row is one proceeding in which a legal-AI company or product is a party, with dated `milestones[]`.",
+ "what_a_row_is": "A `decisions` row is one court-authored document: `case_name`, `court`, `court_level`, `state`, `date_filed`, `citation`, `docket_number`, `document_type`, `topics[]` (fabricated-citations · court-ai-use · evidence-authentication · discovery-ediscovery · privilege-work-product · unauthorized-practice · criminal-justice-algorithms · pro-se-ai-use · competence-fees · rules-by-opinion · substantive-ai-law), `primary_topic`, `court_used_ai`, `ai_mention` (explicit · implied · none — whether the court itself names AI, infers it or only says the authorities do not exist), `ai_tool_named` (only when the court names it), `disposition`, the verbatim public-domain `ai_passage`, `cited_authorities[]`, a 40–60-word `summary`, `incident{}` (conduct/outcome/actor/penalty when the row is a fabricated-citation decision; `outcome` is the most severe consequence the court imposed in that document, on a defined ladder from strike-off down to filing-struck, warning, pending and none) and `tracker_slug` (its canonical page in the SafeLegalAI incident tracker). A `litigation` row is one proceeding in which a legal-AI company or product is a party, with dated `milestones[]`.",
  "method": "Leads came from Damien Charlotin's AI Hallucination Cases Database (CC BY 4.0, damiencharlotin.com — confirmed by the author on 8 September 2026; the Zenodo record 10.5281/zenodo.21845901 is a third-party snapshot he does not stand behind and is not cited here), the CourtListener search index (discovery only, within its public rate limits; a partnership request to Free Law Project is pending), court-website searches and news reports; every document was then fetched from the issuing court's site, govinfo.gov or the public RECAP archive and read. Coding is conservative and the passage is quoted so readers can check it. Fabricated-citation decisions have one canonical page in the incident tracker; this corpus links to it rather than duplicating it.",
  "licence_note": "Opinions, orders and rules of United States courts are public domain (17 U.S.C. § 105; *Banks v. Manchester* (1888); *Georgia v. Public.Resource.Org* (2020)).",
  "banned_hosts": [
@@ -40,11 +40,12 @@
    "row_is": "one court-authored document discussing generative AI",
    "count_fields": [
     "primary_topic",
+    "verification",
+    "ai_mention",
     "court_level",
     "state",
     "document_type",
-    "court_used_ai",
-    "verification"
+    "court_used_ai"
    ]
   },
   "litigation": {
@@ -65,5 +66,26 @@
  },
  "repo": "us-genai-court-opinions",
  "version": "0.1.0",
- "attribution": "Leads from Damien Charlotin's AI Hallucination Cases Database (CC BY 4.0), damiencharlotin.com; each decision re-read and coded by SafeLegalAI."
+ "attribution": "Leads from Damien Charlotin's AI Hallucination Cases Database (CC BY 4.0), damiencharlotin.com; each decision re-read and coded by SafeLegalAI.",
+ "quality": {
+  "summary": "This release is the first after an independent audit. On 8 September 2026 a 50-row random sample was re-read by an agent that had not written the rows: every quoted passage was verbatim and every case, court and date was right, but 22 of the 50 rows (44%) had at least one error in a coding column — the outcome enum used loosely (\"other\" as a catch-all; \"strike-off\", which means removed from the roll, used for a filing being struck), docket fields holding caption fragments, a generic \"AI\" label recorded as a named tool, and passages that never reached the court's AI reference. Because the errors were systematic, every row was then re-read from the document by a second, independent pass against a written rubric (work/recode/RUBRIC.md); the changes were applied through a validated overlay with a field-level log (work/recode/applied-2026-09-08-*.jsonl).",
+  "checks": [
+   {
+    "date": "2026-09-08",
+    "what": "Independent re-read of a 50-row random sample (seed 20260908).",
+    "result": "22 rows with ≥1 coding error (44%); 0 passage or identification errors. Threshold for a full re-read was 5%."
+   },
+   {
+    "date": "2026-09-08",
+    "what": "Full second read of every row from the court document, six independent agents, one rubric.",
+    "result": "555 of 569 rows re-coded; 14 could not be re-fetched (court hosts unreachable that day) and carry \"Second read pending\" in notes; 1 row withdrawn because the document was counsel's letter, not a court document. 3,025 field changes across 568 rows: 197 outcomes re-coded (58 from \"other\" to the new \"none\"; all 7 \"strike-off\" rows re-coded — none was a removal from the roll), 343 docket strings normalised, 95 generic \"AI\" labels moved out of the tool field into the new ai_mention column, 5 placeholder penalties set to null, topics changed on 133 rows."
+   },
+   {
+    "date": "2026-09-08",
+    "what": "Official-copy resolution: GovInfo (USCOURTS) API by docket with the quoted passage required to match; state-court archives by hand-briefed agents; CourtListener RECAP search within Free Law Project's published limits.",
+    "result": "298 of 566 rows now read from the court's own copy or the public RECAP archive (from 53). 268 remain read from a public copy of the court's PDF: the court does not publish the order online, or its site refuses the identified bot (69 rows, queued for hand download), or the host timed out."
+   }
+  ],
+  "limits": "The ai_mention column says whether the court itself names AI (435 rows), or only says the authorities do not exist or are misquoted (118); the corpus includes the last group because the pattern is the one courts associate with generative AI, and readers who want only decisions that name AI can filter on it. The outcome column is the most severe consequence the court imposed in that document, on a defined ladder; it is not a finding about any person. A quarterly 50-row independent re-read is standing practice and its result replaces this one."
+ }
 }

@@ -1,0 +1,177 @@
+{"decision_id": "mied-2026-potterf-v-wessels", "result": "not-found", "routes": ["govinfo", "courtlistener"], "ts": "2026-09-08T20:55:49+00:00"}
+{"decision_id": "ilnd-2026-shelbert-v-baxter-international", "result": "not-found", "routes": ["govinfo", "courtlistener"], "ts": "2026-09-08T20:56:03+00:00"}
+{"decision_id": "ded-2026-disruptive-resources-v-ballistic-barrier", "result": "not-found", "routes": ["govinfo", "courtlistener"], "ts": "2026-09-08T20:57:01+00:00"}
+{"decision_id": "cacd-2026-dotson-v-bob-evans-farms", "official_url": "https://storage.courtlistener.com/recap/gov.uscourts.cacd.1000156/gov.uscourts.cacd.1000156.46.0.pdf", "route": "courtlistener-recap", "docket": 72058226, "document": 490794742, "result": "upgraded", "dry_run": false, "ts": "2026-09-08T20:57:19+00:00"}
+{"decision_id": "cacd-2026-kasengela-v-kaiser-foundation", "result": "not-found", "routes": ["govinfo", "courtlistener"], "ts": "2026-09-08T20:57:42+00:00"}
+{"decision_id": "nvd-2026-kelly-v-finra", "result": "not-found", "routes": ["govinfo", "courtlistener"], "ts": "2026-09-08T20:58:17+00:00"}
+{"decision_id": "ilnd-2026-snisko-v-cascade-funding", "result": "not-found", "routes": ["govinfo", "courtlistener"], "ts": "2026-09-08T20:58:17+00:00"}
+{"route": "courtlistener", "decision_id": "wawd-2026-ledoux-v-outliers-summary-judgment", "error": "HTTP Error 502: Bad Gateway", "ts": "2026-09-08T20:58:31+00:00"}
+{"decision_id": "wawd-2026-ledoux-v-outliers-summary-judgment", "result": "not-found", "routes": ["govinfo", "courtlistener"], "ts": "2026-09-08T20:58:31+00:00"}
+{"decision_id": "flmd-2026-rose-v-arts-bonita", "result": "not-found", "routes": ["govinfo", "courtlistener"], "ts": "2026-09-08T20:58:46+00:00"}
+{"decision_id": "alnd-2026-chapman-v-city-of-priceville", "result": "not-found", "routes": ["govinfo", "courtlistener"], "ts": "2026-09-08T20:58:46+00:00"}
+{"decision_id": "pamd-2026-voyton-v-voyton", "result": "not-found", "routes": ["govinfo", "courtlistener"], "ts": "2026-09-08T20:58:46+00:00"}
+{"decision_id": "ilnd-2026-united-states-v-smith", "result": "not-found", "routes": ["govinfo", "courtlistener"], "ts": "2026-09-08T20:59:00+00:00"}
+{"decision_id": "ned-2026-kadlaskar-v-uscis", "result": "not-found", "routes": ["govinfo", "courtlistener"], "ts": "2026-09-08T20:59:00+00:00"}
+{"route": "courtlistener", "decision_id": "nced-2026-forney-v-township-of-cary", "error": "HTTP Error 502: Bad Gateway", "ts": "2026-09-08T20:59:14+00:00"}
+{"decision_id": "nced-2026-forney-v-township-of-cary", "result": "not-found", "routes": ["govinfo", "courtlistener"], "ts": "2026-09-08T20:59:14+00:00"}
+{"decision_id": "cacd-2026-jabbari-v-omidvar", "result": "not-found", "routes": ["govinfo", "courtlistener"], "ts": "2026-09-08T20:59:29+00:00"}
+{"decision_id": "nysd-2026-santana-v-shook-hardy-bacon", "result": "not-found", "routes": ["govinfo", "courtlistener"], "ts": "2026-09-08T20:59:43+00:00"}
+{"decision_id": "mied-2026-al-ali-v-cvs-pharmacy", "result": "not-found", "routes": ["govinfo", "courtlistener"], "ts": "2026-09-08T20:59:43+00:00"}
+{"decision_id": "gao-2026-jaaw-group", "result": "not-found", "routes": ["govinfo", "courtlistener"], "ts": "2026-09-08T20:59:43+00:00"}
+{"decision_id": "vaeb-2026-in-re-mahar", "result": "not-found", "routes": ["govinfo", "courtlistener"], "ts": "2026-09-08T20:59:43+00:00"}
+{"decision_id": "nysd-2026-in-re-firestar-diamond", "result": "not-found", "routes": ["govinfo", "courtlistener"], "ts": "2026-09-08T20:59:43+00:00"}
+{"decision_id": "msnd-2026-harris-v-bank-of-america", "result": "not-found", "routes": ["govinfo", "courtlistener"], "ts": "2026-09-08T20:59:58+00:00"}
+{"decision_id": "mied-2026-ponder-v-bcg-equities", "result": "not-found", "routes": ["govinfo", "courtlistener"], "ts": "2026-09-08T20:59:58+00:00"}
+{"decision_id": "wawd-2026-ledoux-v-outliers-sanctions", "result": "not-found", "routes": ["govinfo", "courtlistener"], "ts": "2026-09-08T21:00:12+00:00"}
+{"decision_id": "nysd-2026-jason-wimberly-v-verizon-new-york", "official_url": "https://storage.courtlistener.com/recap/gov.uscourts.nysd.660301/gov.uscourts.nysd.660301.15.0.pdf", "route": "courtlistener-recap", "docket": 72532130, "document": 483169106, "result": "upgraded", "dry_run": false, "ts": "2026-09-08T21:00:31+00:00"}
+{"decision_id": "txed-2026-mccormick-v-texakoma-financial", "result": "not-found", "routes": ["govinfo", "courtlistener"], "ts": "2026-09-08T21:00:46+00:00"}
+{"decision_id": "innb-2026-in-re-garcia-martz", "result": "not-found", "routes": ["govinfo", "courtlistener"], "ts": "2026-09-08T21:00:46+00:00"}
+{"decision_id": "ilnd-2026-ifeoma-delliane-chinedu-obi-v-cook-county-illi", "result": "not-found", "routes": ["govinfo", "courtlistener"], "ts": "2026-09-08T21:00:46+00:00"}
+{"decision_id": "nysd-2026-livevideo-ai-v-redstone", "result": "not-found", "routes": ["govinfo", "courtlistener"], "ts": "2026-09-08T21:00:46+00:00"}
+{"decision_id": "flmd-2026-leafwell-v-doc-app", "result": "not-found", "routes": ["govinfo", "courtlistener"], "ts": "2026-09-08T21:01:00+00:00"}
+{"decision_id": "msnd-2026-withers-v-city-of-aberdeen", "result": "not-found", "routes": ["govinfo", "courtlistener"], "ts": "2026-09-08T21:01:14+00:00"}
+{"decision_id": "ilnd-2026-allison-v-shutterfly-lifetouch", "result": "not-found", "routes": ["govinfo", "courtlistener"], "ts": "2026-09-08T21:01:14+00:00"}
+{"decision_id": "cod-2026-y-s-v-john-doe", "result": "not-found", "routes": ["govinfo", "courtlistener"], "ts": "2026-09-08T21:01:28+00:00"}
+{"decision_id": "ncmd-2026-anthony-josue-grajales-v-santander-consumer", "result": "not-found", "routes": ["govinfo", "courtlistener"], "ts": "2026-09-08T21:01:43+00:00"}
+{"decision_id": "wawd-2026-fadi-el-bitar-v-julio-hernandez", "result": "not-found", "routes": ["govinfo", "courtlistener"], "ts": "2026-09-08T21:01:58+00:00"}
+{"decision_id": "mied-2026-patrick-c-shaltry-v-donna-collins", "result": "not-found", "routes": ["govinfo", "courtlistener"], "ts": "2026-09-08T21:01:58+00:00"}
+{"decision_id": "wied-2026-branden-driver-v-cna-financial", "result": "not-found", "routes": ["govinfo", "courtlistener"], "ts": "2026-09-08T21:02:31+00:00"}
+{"decision_id": "mad-2026-richard-a-cole-v-midland-states-bank", "result": "not-found", "routes": ["govinfo", "courtlistener"], "ts": "2026-09-08T21:02:46+00:00"}
+{"decision_id": "mied-2026-boyle-v-steven-kramer", "result": "not-found", "routes": ["govinfo", "courtlistener"], "ts": "2026-09-08T21:02:46+00:00"}
+{"decision_id": "ca1-2026-ex-rels-v-barton-associates", "result": "not-found", "routes": ["govinfo", "courtlistener"], "ts": "2026-09-08T21:02:46+00:00"}
+{"decision_id": "ded-2026-williamson-v-meyers-derivatively-on-behalf-of", "result": "not-found", "routes": ["govinfo", "courtlistener"], "ts": "2026-09-08T21:02:46+00:00"}
+{"decision_id": "nysd-2026-hodges-v-mcgough-enterprises", "result": "not-found", "routes": ["govinfo", "courtlistener"], "ts": "2026-09-08T21:02:46+00:00"}
+{"decision_id": "ilnd-2026-saqib-kafeel-v-cjdropshipping", "result": "not-found", "routes": ["govinfo", "courtlistener"], "ts": "2026-09-08T21:02:46+00:00"}
+{"decision_id": "cacd-2026-lagac-v-capital-one-n-a", "result": "not-found", "routes": ["govinfo", "courtlistener"], "ts": "2026-09-08T21:03:01+00:00"}
+{"decision_id": "nysd-2026-sana-hazina-butler-v-fidelity-management-resea", "result": "not-found", "routes": ["govinfo", "courtlistener"], "ts": "2026-09-08T21:03:20+00:00"}
+{"decision_id": "alnd-2026-jackie-l-miller-v-regions-bank", "result": "not-found", "routes": ["govinfo", "courtlistener"], "ts": "2026-09-08T21:03:36+00:00"}
+{"decision_id": "vawd-2026-sherwood-v-county-of-botetourt-virginia", "result": "not-found", "routes": ["govinfo", "courtlistener"], "ts": "2026-09-08T21:03:51+00:00"}
+{"decision_id": "njb-2026-in-re-nicholia-cherry-crockette", "result": "not-found", "routes": ["govinfo", "courtlistener"], "ts": "2026-09-08T21:03:51+00:00"}
+{"decision_id": "nysd-2026-chakma-v-sushi-katsuei", "result": "not-found", "routes": ["govinfo", "courtlistener"], "ts": "2026-09-08T21:04:09+00:00"}
+{"decision_id": "nysd-2026-waggeh-v-utility-workers-union-of-america-loca", "result": "not-found", "routes": ["govinfo", "courtlistener"], "ts": "2026-09-08T21:05:12+00:00"}
+{"decision_id": "ohsd-2026-brock-v-hamilton-county-jfs-children-services", "result": "not-found", "routes": ["govinfo", "courtlistener"], "ts": "2026-09-08T21:05:26+00:00"}
+{"decision_id": "cacd-2026-oscar-danilo-montealto-garcia-v-todd-lyons", "result": "not-found", "routes": ["govinfo", "courtlistener"], "ts": "2026-09-08T21:05:40+00:00"}
+{"decision_id": "flmd-2026-stringer-v-white-cap-supply-holdings", "official_url": "https://storage.courtlistener.com/recap/gov.uscourts.flmd.429607/gov.uscourts.flmd.429607.53.0.pdf", "route": "courtlistener-recap", "docket": 68913228, "document": 479205718, "result": "upgraded", "dry_run": false, "ts": "2026-09-08T21:06:04+00:00"}
+{"decision_id": "flsb-2026-in-re-latasha-transrina-kebe", "result": "not-found", "routes": ["govinfo", "courtlistener"], "ts": "2026-09-08T21:06:04+00:00"}
+{"decision_id": "cand-2026-joseph-guy-v-afge", "result": "not-found", "routes": ["govinfo", "courtlistener"], "ts": "2026-09-08T21:06:23+00:00"}
+{"decision_id": "cafc-2026-jones-v-department-of-army", "result": "not-found", "routes": ["govinfo", "courtlistener"], "ts": "2026-09-08T21:06:23+00:00"}
+{"decision_id": "dnj-2026-zena-l-powell-v-borough-of-bergenfield", "result": "not-found", "routes": ["govinfo", "courtlistener"], "ts": "2026-09-08T21:06:36+00:00"}
+{"decision_id": "wied-2026-armstrong-v-city-of-milwaukee", "result": "not-found", "routes": ["govinfo", "courtlistener"], "ts": "2026-09-08T21:06:51+00:00"}
+{"decision_id": "ilnd-2026-devore-v-mccombie", "official_url": "https://storage.courtlistener.com/recap/gov.uscourts.ilnd.470835/gov.uscourts.ilnd.470835.30.0.pdf", "route": "courtlistener-recap", "docket": 69538006, "document": 478844152, "result": "upgraded", "dry_run": false, "ts": "2026-09-08T21:07:08+00:00"}
+{"decision_id": "msnd-2026-joshua-harris-v-pinnacle-bank", "result": "not-found", "routes": ["govinfo", "courtlistener"], "ts": "2026-09-08T21:07:26+00:00"}
+{"decision_id": "mied-2026-eric-tobler-v-stephen-tobler", "result": "not-found", "routes": ["govinfo", "courtlistener"], "ts": "2026-09-08T21:07:26+00:00"}
+{"decision_id": "cacd-2026-song-dow-lee-v-hsbc-bank", "result": "not-found", "routes": ["govinfo", "courtlistener"], "ts": "2026-09-08T21:07:26+00:00"}
+{"decision_id": "nvd-2026-seeto-v-kendall", "result": "not-found", "routes": ["govinfo", "courtlistener"], "ts": "2026-09-08T21:07:41+00:00"}
+{"decision_id": "flmd-2026-richard-paul-smith-v-verra-mobility", "result": "not-found", "routes": ["govinfo", "courtlistener"], "ts": "2026-09-08T21:07:59+00:00"}
+{"decision_id": "mssd-2026-johnny-fuselier-v-john-s-riscassi", "result": "not-found", "routes": ["govinfo", "courtlistener"], "ts": "2026-09-08T21:08:15+00:00"}
+{"decision_id": "nysd-2026-mercy-wellington-v-city-of-new-york", "result": "not-found", "routes": ["govinfo", "courtlistener"], "ts": "2026-09-08T21:08:29+00:00"}
+{"decision_id": "ilnd-2026-faisal-rahman-v-michael-j-burton", "result": "not-found", "routes": ["govinfo", "courtlistener"], "ts": "2026-09-08T21:08:29+00:00"}
+{"decision_id": "iasd-2026-burnside-v-verdick", "result": "not-found", "routes": ["govinfo", "courtlistener"], "ts": "2026-09-08T21:08:44+00:00"}
+{"decision_id": "nysd-2026-sana-hazina-butler-v-fidelity-management-and-research", "result": "not-found", "routes": ["govinfo", "courtlistener"], "ts": "2026-09-08T21:09:03+00:00"}
+{"decision_id": "nysd-2026-sai-malena-jimenez-fogarty-v-thomas-fogarty", "result": "not-found", "routes": ["govinfo", "courtlistener"], "ts": "2026-09-08T21:09:27+00:00"}
+{"decision_id": "cacd-2026-tekoma-chaney-v-transdev-services", "result": "not-found", "routes": ["govinfo", "courtlistener"], "ts": "2026-09-08T21:09:41+00:00"}
+{"decision_id": "mied-2026-loyer-v-wayne-county-michigan", "result": "not-found", "routes": ["govinfo", "courtlistener"], "ts": "2026-09-08T21:09:41+00:00"}
+{"route": "courtlistener", "decision_id": "nysd-2026-rhonda-l-h-b-v-commissioner-of-social-security", "error": "The read operation timed out", "ts": "2026-09-08T21:10:54+00:00"}
+{"decision_id": "nysd-2026-rhonda-l-h-b-v-commissioner-of-social-security", "result": "not-found", "routes": ["govinfo", "courtlistener"], "ts": "2026-09-08T21:10:54+00:00"}
+{"decision_id": "pamd-2026-marble-v-o-malley", "result": "not-found", "routes": ["govinfo", "courtlistener"], "ts": "2026-09-08T21:11:08+00:00"}
+{"decision_id": "mied-2026-alishia-monique-jones-v-ahmed-taylor", "result": "not-found", "routes": ["govinfo", "courtlistener"], "ts": "2026-09-08T21:11:36+00:00"}
+{"decision_id": "alnd-2026-bridgett-watson-adams-v-3m", "result": "not-found", "routes": ["govinfo", "courtlistener"], "ts": "2026-09-08T21:11:58+00:00"}
+{"decision_id": "nysb-2026-in-re-prince-global-holdings-limited", "result": "not-found", "routes": ["govinfo", "courtlistener"], "ts": "2026-09-08T21:11:58+00:00"}
+{"decision_id": "cacd-2026-robert-harris-v-elementis-specialties", "result": "not-found", "routes": ["govinfo", "courtlistener"], "ts": "2026-09-08T21:11:58+00:00"}
+{"decision_id": "txed-2026-laud-essandoh-v-capital-one-bank-na", "result": "not-found", "routes": ["govinfo", "courtlistener"], "ts": "2026-09-08T21:12:39+00:00"}
+{"decision_id": "gao-2026-matter-of-logmet-b-423066-2", "result": "not-found", "routes": ["govinfo", "courtlistener"], "ts": "2026-09-08T21:12:39+00:00"}
+{"decision_id": "msnd-2026-brian-smith-v-td-auto-finance", "result": "not-found", "routes": ["govinfo", "courtlistener"], "ts": "2026-09-08T21:12:39+00:00"}
+{"decision_id": "ilnd-2026-allen-v-hunt", "result": "not-found", "routes": ["govinfo", "courtlistener"], "ts": "2026-09-08T21:12:53+00:00"}
+{"decision_id": "ilnd-2026-delliane-chinedu-obi-v-cook-county-illinois", "result": "not-found", "routes": ["govinfo", "courtlistener"], "ts": "2026-09-08T21:12:53+00:00"}
+{"decision_id": "bap8-2026-tahnee-r-young-v-happy-money", "result": "not-found", "routes": ["govinfo", "courtlistener"], "ts": "2026-09-08T21:12:53+00:00"}
+{"decision_id": "flsd-2026-joseph-c-zoghaib-v-societe-generale-de", "result": "not-found", "routes": ["govinfo", "courtlistener"], "ts": "2026-09-08T21:13:07+00:00"}
+{"decision_id": "alnd-2026-pleasant-v-burns", "result": "not-found", "routes": ["govinfo", "courtlistener"], "ts": "2026-09-08T21:13:33+00:00"}
+{"decision_id": "nvd-2026-sims-v-souily-lefave", "result": "not-found", "routes": ["govinfo", "courtlistener"], "ts": "2026-09-08T21:14:03+00:00"}
+{"decision_id": "nvd-2026-and-rebecca-knepp-v-dan-heinrich-and", "result": "not-found", "routes": ["govinfo", "courtlistener"], "ts": "2026-09-08T21:14:18+00:00"}
+{"decision_id": "nysd-2026-viral-bhagat-v-anuja-sharad-shah", "result": "not-found", "routes": ["govinfo", "courtlistener"], "ts": "2026-09-08T21:14:18+00:00"}
+{"decision_id": "caed-2026-gamez-v-county-of-fresno", "result": "not-found", "routes": ["govinfo", "courtlistener"], "ts": "2026-09-08T21:14:48+00:00"}
+{"decision_id": "jpml-2026-in-re-philips-recalled-cpap-bi-level", "result": "not-found", "routes": ["govinfo", "courtlistener"], "ts": "2026-09-08T21:14:48+00:00"}
+{"decision_id": "cacd-2026-james-jordan-v-usa-clinicas-del", "result": "not-found", "routes": ["govinfo", "courtlistener"], "ts": "2026-09-08T21:14:48+00:00"}
+{"decision_id": "mied-2026-hardy-v-genesee-county-community", "result": "not-found", "routes": ["govinfo", "courtlistener"], "ts": "2026-09-08T21:14:48+00:00"}
+{"decision_id": "ca6-2026-united-states-v-farris", "result": "not-found", "routes": ["govinfo", "courtlistener"], "ts": "2026-09-08T21:14:48+00:00"}
+{"decision_id": "wawd-2026-ward-v-amazon-com-services", "result": "not-found", "routes": ["govinfo", "courtlistener"], "ts": "2026-09-08T21:14:48+00:00"}
+{"decision_id": "cacd-2026-modern-floor-specialists-v-city-of-los", "result": "not-found", "routes": ["govinfo", "courtlistener"], "ts": "2026-09-08T21:14:48+00:00"}
+{"decision_id": "innd-2026-joseph-maldonado-v-professional-animal-retirement-center", "result": "not-found", "routes": ["govinfo", "courtlistener"], "ts": "2026-09-08T21:15:32+00:00"}
+{"decision_id": "nvd-2026-edward-c-allen-v-western-governors-university", "result": "not-found", "routes": ["govinfo", "courtlistener"], "ts": "2026-09-08T21:15:54+00:00"}
+{"decision_id": "wawd-2026-maria-cabrera-thompson-v-seattle-public-schools", "result": "not-found", "routes": ["govinfo", "courtlistener"], "ts": "2026-09-08T21:16:34+00:00"}
+{"decision_id": "ilcd-2026-feldman-and-trost-v-district-6-board", "result": "not-found", "routes": ["govinfo", "courtlistener"], "ts": "2026-09-08T21:16:34+00:00"}
+{"decision_id": "azd-2026-federal-trade-commission-v-james-d-noland", "result": "not-found", "routes": ["govinfo", "courtlistener"], "ts": "2026-09-08T21:16:34+00:00"}
+{"decision_id": "insd-2026-elbert-coleman-iv-v-nexo-capital", "result": "not-found", "routes": ["govinfo", "courtlistener"], "ts": "2026-09-08T21:16:34+00:00"}
+{"decision_id": "ilnd-2026-ella-and-ramin-v-travelers-insurance", "result": "not-found", "routes": ["govinfo", "courtlistener"], "ts": "2026-09-08T21:17:08+00:00"}
+{"decision_id": "almd-2026-staley-v-city-of-elba", "result": "not-found", "routes": ["govinfo", "courtlistener"], "ts": "2026-09-08T21:17:22+00:00"}
+{"decision_id": "cacd-2026-leonard-colbert-v-county-of-riverside", "result": "not-found", "routes": ["govinfo", "courtlistener"], "ts": "2026-09-08T21:17:22+00:00"}
+{"decision_id": "nyed-2026-evgeny-yaroshevsky-v-karlin", "result": "not-found", "routes": ["govinfo", "courtlistener"], "ts": "2026-09-08T21:17:22+00:00"}
+{"decision_id": "nysd-2026-route-6-holdings-v-town-of-yorktown", "result": "not-found", "routes": ["govinfo", "courtlistener"], "ts": "2026-09-08T21:18:23+00:00"}
+{"decision_id": "ilnd-2026-williams-v-chicago-board-of-education", "result": "not-found", "routes": ["govinfo"], "ts": "2026-09-08T21:18:23+00:00"}
+{"decision_id": "mied-2026-pizzimenti-v-city-of-detroit", "result": "not-found", "routes": ["govinfo"], "ts": "2026-09-08T21:18:23+00:00"}
+{"decision_id": "mied-2026-patrick-c-shaltry-i-v-brent-benzing", "result": "not-found", "routes": ["govinfo"], "ts": "2026-09-08T21:18:23+00:00"}
+{"decision_id": "mnd-2026-l-h-m-v-u-s-department", "result": "not-found", "routes": ["govinfo"], "ts": "2026-09-08T21:18:23+00:00"}
+{"decision_id": "wawd-2026-ryan-adam-dixon-v-multicare-health-system", "result": "not-found", "routes": ["govinfo"], "ts": "2026-09-08T21:18:23+00:00"}
+{"decision_id": "gao-2026-mission-critical-project-services", "result": "not-found", "routes": ["govinfo"], "ts": "2026-09-08T21:18:23+00:00"}
+{"decision_id": "nced-2026-curry-v-capital-one-auto-finance", "result": "not-found", "routes": ["govinfo"], "ts": "2026-09-08T21:18:23+00:00"}
+{"decision_id": "nvd-2026-anthony-wallace-v-pennymac-loan-services", "result": "not-found", "routes": ["govinfo"], "ts": "2026-09-08T21:18:23+00:00"}
+{"decision_id": "alnd-2026-state-national-insurance-v-damon-treadwell", "result": "not-found", "routes": ["govinfo"], "ts": "2026-09-08T21:18:23+00:00"}
+{"decision_id": "nysd-2026-fecteau-v-safety-national-casualty", "result": "not-found", "routes": ["govinfo"], "ts": "2026-09-08T21:18:23+00:00"}
+{"decision_id": "cacd-2026-jared-ashcraft-v-first-citizens-bank", "result": "not-found", "routes": ["govinfo"], "ts": "2026-09-08T21:18:23+00:00"}
+{"decision_id": "almd-2026-michael-a-devita-v-midtown-motors", "result": "not-found", "routes": ["govinfo"], "ts": "2026-09-08T21:18:23+00:00"}
+{"decision_id": "mied-2026-jane-doe-v-lincoln-consolidated-schools", "result": "not-found", "routes": ["govinfo"], "ts": "2026-09-08T21:18:23+00:00"}
+{"decision_id": "asbca-2026-endure-industries-v-defense-health-agency", "result": "not-found", "routes": ["govinfo"], "ts": "2026-09-08T21:18:23+00:00"}
+{"decision_id": "mied-2026-gregory-hardy-v-k-jones", "result": "not-found", "routes": ["govinfo"], "ts": "2026-09-08T21:18:23+00:00"}
+{"decision_id": "laed-2026-daniel-gentry-v-calvin-thompson", "result": "not-found", "routes": ["govinfo"], "ts": "2026-09-08T21:18:23+00:00"}
+{"decision_id": "cob-2026-keirton-v-mersad-rahmanovic", "result": "not-found", "routes": ["govinfo"], "ts": "2026-09-08T21:18:23+00:00"}
+{"decision_id": "insd-2026-jana-james-v-national-board-of", "result": "not-found", "routes": ["govinfo"], "ts": "2026-09-08T21:18:23+00:00"}
+{"decision_id": "ilnd-2026-pittman-v-hazel-and-olive", "result": "not-found", "routes": ["govinfo"], "ts": "2026-09-08T21:18:23+00:00"}
+{"decision_id": "wawd-2026-sarah-and-regina-alonso-v-jackson", "result": "not-found", "routes": ["govinfo"], "ts": "2026-09-08T21:18:23+00:00"}
+{"decision_id": "njd-2026-shaquan-pridgen-v-amazon-com-services", "result": "not-found", "routes": ["govinfo"], "ts": "2026-09-08T21:18:23+00:00"}
+{"decision_id": "cacd-2026-meriland-keith-dillard-v-cbs-studios", "result": "not-found", "routes": ["govinfo"], "ts": "2026-09-08T21:18:23+00:00"}
+{"decision_id": "asbca-2026-dsme-construction", "result": "not-found", "routes": ["govinfo"], "ts": "2026-09-08T21:18:23+00:00"}
+{"decision_id": "nvd-2026-albert-taylor-v-las-vegas-metropolitan-police-department", "result": "not-found", "routes": ["govinfo"], "ts": "2026-09-08T21:18:23+00:00"}
+{"decision_id": "vawd-2026-suiter-v-gm-general-motors", "result": "not-found", "routes": ["govinfo"], "ts": "2026-09-08T21:18:23+00:00"}
+{"decision_id": "nysd-2026-donte-mcclellon-v-e-rickard-warden-of-fci-otisville", "result": "not-found", "routes": ["govinfo"], "ts": "2026-09-08T21:18:23+00:00"}
+{"decision_id": "ilnd-2026-helen-allen-v-cass-casper-and-disparti-law-group", "result": "not-found", "routes": ["govinfo"], "ts": "2026-09-08T21:18:23+00:00"}
+{"decision_id": "nysd-2026-cartagena-v-dixon-blackburn-and-t-a-blackburn-law", "result": "not-found", "routes": ["govinfo"], "ts": "2026-09-08T21:18:23+00:00"}
+{"decision_id": "nysd-2026-m7-industria-e-comercio-de-compensados-e", "result": "not-found", "routes": ["govinfo"], "ts": "2026-09-08T21:18:23+00:00"}
+{"decision_id": "lawd-2026-kattom-v-bondi", "result": "not-found", "routes": ["govinfo"], "ts": "2026-09-08T21:18:23+00:00"}
+{"decision_id": "okwd-2026-dewayne-clark-v-corecivic", "result": "not-found", "routes": ["govinfo"], "ts": "2026-09-08T21:18:23+00:00"}
+{"decision_id": "ilnd-2026-hatch-v-college-ave-student-loans", "result": "not-found", "routes": ["govinfo"], "ts": "2026-09-08T21:18:23+00:00"}
+{"decision_id": "nvd-2026-kim-elizabeth-harwell-v-westcare-nevada", "result": "not-found", "routes": ["govinfo"], "ts": "2026-09-08T21:18:23+00:00"}
+{"decision_id": "wawd-2026-medal-v-amazon-com-services", "result": "not-found", "routes": ["govinfo"], "ts": "2026-09-08T21:18:23+00:00"}
+{"decision_id": "wawd-2026-ryan-adam-dixon-v-multicare-health-system", "result": "not-found", "routes": ["govinfo"], "ts": "2026-09-08T21:18:23+00:00"}
+{"decision_id": "nced-2026-derence-v-fivehouse-v-united-states-department-of-defense", "result": "not-found", "routes": ["govinfo"], "ts": "2026-09-08T21:18:23+00:00"}
+{"decision_id": "mied-2026-hardy-v-whitaker", "result": "not-found", "routes": ["govinfo"], "ts": "2026-09-08T21:18:23+00:00"}
+{"decision_id": "cacd-2026-estate-of-khallid-muhammad-v-tupac-shakur-estate", "result": "not-found", "routes": ["govinfo"], "ts": "2026-09-08T21:18:23+00:00"}
+{"decision_id": "nvd-2026-united-states-v-robert-ponce-jr", "result": "not-found", "routes": ["govinfo"], "ts": "2026-09-08T21:18:23+00:00"}
+{"decision_id": "oknd-2026-chapter-kris-jackson-v-bok-financial", "result": "not-found", "routes": ["govinfo"], "ts": "2026-09-08T21:18:23+00:00"}
+{"decision_id": "vawd-2026-gail-fung-v-liberty-university", "result": "not-found", "routes": ["govinfo"], "ts": "2026-09-08T21:18:23+00:00"}
+{"decision_id": "txed-2026-wells-fargo-bank-v-frances-w-dean", "result": "not-found", "routes": ["govinfo"], "ts": "2026-09-08T21:18:23+00:00"}
+{"decision_id": "utd-2026-ryan-lee-v-capital-one-bank", "result": "not-found", "routes": ["govinfo"], "ts": "2026-09-08T21:18:23+00:00"}
+{"decision_id": "ncwd-2026-ebony-sherisse-lucas-v-charles-w-scharf", "result": "not-found", "routes": ["govinfo"], "ts": "2026-09-08T21:18:23+00:00"}
+{"decision_id": "cbca-2026-louis-j-blazy-v-department-of-state", "result": "not-found", "routes": ["govinfo"], "ts": "2026-09-08T21:18:23+00:00"}
+{"decision_id": "cacd-2026-zeus-realty-group-v-1032-n-sycamore-owner", "result": "not-found", "routes": ["govinfo"], "ts": "2026-09-08T21:18:23+00:00"}
+{"decision_id": "mied-2026-zlatkin-v-gladwin-county", "result": "not-found", "routes": ["govinfo"], "ts": "2026-09-08T21:18:23+00:00"}
+{"decision_id": "flmd-2026-johnson-v-florida-department-of-juvenile-justice", "result": "not-found", "routes": ["govinfo"], "ts": "2026-09-08T21:18:23+00:00"}
+{"decision_id": "mad-2026-in-re-marrett", "result": "not-found", "routes": ["govinfo"], "ts": "2026-09-08T21:18:23+00:00"}
+{"decision_id": "txed-2026-shaerica-l-walder-v-experian-information-solutions", "result": "not-found", "routes": ["govinfo"], "ts": "2026-09-08T21:18:23+00:00"}
+{"decision_id": "gao-2026-matter-of-adapt-forward", "result": "not-found", "routes": ["govinfo"], "ts": "2026-09-08T21:18:23+00:00"}
+{"decision_id": "cacd-2026-doe-1-v-shirley-lai", "result": "not-found", "routes": ["govinfo"], "ts": "2026-09-08T21:18:23+00:00"}
+{"decision_id": "cand-2026-in-re-social-media-adolescent-addiction-litigation", "result": "not-found", "routes": ["govinfo"], "ts": "2026-09-08T21:18:23+00:00"}
+{"decision_id": "azd-2026-nia-elan-davis-v-american-airlines", "result": "not-found", "routes": ["govinfo"], "ts": "2026-09-08T21:18:23+00:00"}
+{"decision_id": "mad-2026-in-re-telexfree-securities-litigation", "result": "not-found", "routes": ["govinfo"], "ts": "2026-09-08T21:18:23+00:00"}
+{"decision_id": "wawd-2026-merz-v-city-of-kalama", "result": "not-found", "routes": ["govinfo"], "ts": "2026-09-08T21:18:23+00:00"}
+{"decision_id": "gao-2026-g2-ops", "result": "not-found", "routes": ["govinfo"], "ts": "2026-09-08T21:18:23+00:00"}
+{"decision_id": "ca10-2026-martha-liliana-picon-diaz-v-pamela-j-bondi", "result": "not-found", "routes": ["govinfo"], "ts": "2026-09-08T21:18:23+00:00"}
+{"decision_id": "insd-2026-virgil-v-experian-information-solutions", "result": "not-found", "routes": ["govinfo"], "ts": "2026-09-08T21:18:23+00:00"}
+{"decision_id": "gao-2026-cvtek", "result": "not-found", "routes": ["govinfo"], "ts": "2026-09-08T21:18:23+00:00"}
+{"decision_id": "cacd-2026-tqj-v-jennifer-esquivel", "result": "not-found", "routes": ["govinfo"], "ts": "2026-09-08T21:18:23+00:00"}
+{"decision_id": "vaed-2026-burnley-v-valentin", "result": "not-found", "routes": ["govinfo"], "ts": "2026-09-08T21:18:23+00:00"}
+{"decision_id": "nvd-2025-demissie-v-ford", "result": "not-found", "routes": ["govinfo"], "ts": "2026-09-08T21:18:23+00:00"}
+{"decision_id": "wawd-2025-kirkham-v-city-of-bellingham", "result": "not-found", "routes": ["govinfo"], "ts": "2026-09-08T21:18:23+00:00"}
+{"decision_id": "nysd-2026-united-states-v-heppner", "result": "not-found", "routes": ["govinfo"], "ts": "2026-09-08T21:18:23+00:00"}
+{"decision_id": "mied-2026-warner-v-gilbarco", "result": "not-found", "routes": ["govinfo"], "ts": "2026-09-08T21:18:23+00:00"}
+{"decision_id": "nysd-2024-jg-v-nyc-department-of-education", "result": "not-found", "routes": ["govinfo"], "ts": "2026-09-08T21:18:23+00:00"}
+{"decision_id": "joyner-dcd-2026", "result": "not-found", "routes": ["govinfo"], "ts": "2026-09-08T21:18:23+00:00"}

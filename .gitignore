@@ -11,3 +11,21 @@ work/**/*.pdf
 work/**/*.html
 __pycache__/
 *.pdf
+# re-coding and resolver scratch: fetched documents, extracted text, caches, backups
+work/recode/fetch-*/
+work/recode/cache/
+work/recode/docs-*/
+work/recode/text-*/
+work/recode/cards-*/
+work/recode/backup-*/
+work/recode/retry/
+work/recode/review-cards.jsonl
+work/resolve/qa-downloads/
+work/resolve/qa-text/
+work/resolve/tmp.pdf
+work/resolve/.pip-*/
+work/resolve/.pydeps-*/
+work/resolve/hand/
+work/resolve/qa-review-snippets.md
+work/resolve/run-cl2.log
+work/resolve/cl-quota.json

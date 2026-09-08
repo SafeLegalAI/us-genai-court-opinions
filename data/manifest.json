@@ -1,6 +1,6 @@
 {
  "dataset": "US court decisions on generative AI — coded corpus",
- "version": "0.1.2",
+ "version": "0.2.0",
  "built": "2026-09-08",
  "canonical": "https://safelegalai.com/courts",
  "repository": "https://github.com/SafeLegalAI/us-genai-court-opinions",
@@ -12,19 +12,28 @@
    "file": "data/decisions.jsonl",
    "schema": "schema/decisions.schema.json",
    "stats": {
-    "rows": 567,
+    "rows": 566,
     "rejected": 0,
+    "withdrawn": 1,
     "by_primary_topic": {
-     "fabricated-citations": 522,
-     "pro-se-ai-use": 10,
-     "rules-by-opinion": 8,
+     "fabricated-citations": 507,
+     "pro-se-ai-use": 18,
+     "rules-by-opinion": 10,
+     "evidence-authentication": 7,
      "criminal-justice-algorithms": 6,
      "substantive-ai-law": 5,
-     "evidence-authentication": 5,
+     "discovery-ediscovery": 4,
      "court-ai-use": 4,
-     "discovery-ediscovery": 3,
-     "competence-fees": 2,
+     "competence-fees": 3,
      "privilege-work-product": 2
+    },
+    "by_verification": {
+     "fetched-and-read": 298,
+     "mirror-read": 268
+    },
+    "by_ai_mention": {
+     "explicit": 435,
+     "none": 118
     },
     "by_court_level": {
      "federal-district": 319,
@@ -32,13 +41,13 @@
      "federal-appellate": 28,
      "state-supreme": 26,
      "state-trial": 26,
-     "federal-bankruptcy": 11,
+     "federal-bankruptcy": 10,
      "federal-specialty": 10,
      "other": 2
     },
     "by_state": {
      "CA": 53,
-     "NY": 49,
+     "NY": 48,
      "TX": 32,
      "FL": 28,
      "IL": 27,
@@ -79,22 +88,18 @@
      "ME": 2
     },
     "by_document_type": {
-     "order": 220,
-     "opinion": 172,
-     "memorandum-opinion": 122,
-     "report-and-recommendation": 36,
-     "other": 9,
+     "order": 249,
+     "opinion": 179,
+     "memorandum-opinion": 105,
+     "report-and-recommendation": 22,
+     "concurrence": 5,
      "administrative-order": 4,
-     "concurrence": 3,
-     "dissent": 1
+     "dissent": 1,
+     "other": 1
     },
     "by_court_used_ai": {
-     "False": 563,
-     "True": 4
-    },
-    "by_verification": {
-     "mirror-read": 514,
-     "fetched-and-read": 53
+     "False": 561,
+     "True": 5
     }
    }
   },
@@ -104,6 +109,7 @@
    "stats": {
     "rows": 9,
     "rejected": 0,
+    "withdrawn": 0,
     "by_status": {
      "judgment": 3,
      "dismissed": 2,
@@ -131,5 +137,26 @@
     }
    }
   }
+ },
+ "quality": {
+  "summary": "This release is the first after an independent audit. On 8 September 2026 a 50-row random sample was re-read by an agent that had not written the rows: every quoted passage was verbatim and every case, court and date was right, but 22 of the 50 rows (44%) had at least one error in a coding column — the outcome enum used loosely (\"other\" as a catch-all; \"strike-off\", which means removed from the roll, used for a filing being struck), docket fields holding caption fragments, a generic \"AI\" label recorded as a named tool, and passages that never reached the court's AI reference. Because the errors were systematic, every row was then re-read from the document by a second, independent pass against a written rubric (work/recode/RUBRIC.md); the changes were applied through a validated overlay with a field-level log (work/recode/applied-2026-09-08-*.jsonl).",
+  "checks": [
+   {
+    "date": "2026-09-08",
+    "what": "Independent re-read of a 50-row random sample (seed 20260908).",
+    "result": "22 rows with ≥1 coding error (44%); 0 passage or identification errors. Threshold for a full re-read was 5%."
+   },
+   {
+    "date": "2026-09-08",
+    "what": "Full second read of every row from the court document, six independent agents, one rubric.",
+    "result": "555 of 569 rows re-coded; 14 could not be re-fetched (court hosts unreachable that day) and carry \"Second read pending\" in notes; 1 row withdrawn because the document was counsel's letter, not a court document. 3,025 field changes across 568 rows: 197 outcomes re-coded (58 from \"other\" to the new \"none\"; all 7 \"strike-off\" rows re-coded — none was a removal from the roll), 343 docket strings normalised, 95 generic \"AI\" labels moved out of the tool field into the new ai_mention column, 5 placeholder penalties set to null, topics changed on 133 rows."
+   },
+   {
+    "date": "2026-09-08",
+    "what": "Official-copy resolution: GovInfo (USCOURTS) API by docket with the quoted passage required to match; state-court archives by hand-briefed agents; CourtListener RECAP search within Free Law Project's published limits.",
+    "result": "298 of 566 rows now read from the court's own copy or the public RECAP archive (from 53). 268 remain read from a public copy of the court's PDF: the court does not publish the order online, or its site refuses the identified bot (69 rows, queued for hand download), or the host timed out."
+   }
+  ],
+  "limits": "The ai_mention column says whether the court itself names AI (435 rows), or only says the authorities do not exist or are misquoted (118); the corpus includes the last group because the pattern is the one courts associate with generative AI, and readers who want only decisions that name AI can filter on it. The outcome column is the most severe consequence the court imposed in that document, on a defined ladder; it is not a finding about any person. A quarterly 50-row independent re-read is standing practice and its result replaces this one."
  }
 }
