@@ -66,7 +66,7 @@ def build_record(r: dict, DQ) -> dict:
         rec["penaltyCurrency"] = inc.get("currency") or "USD"
     rec["actor"] = inc["actor"]
     mirror = r.get("verification") == "mirror-read"
-    sources = [{"label": DQ(f"{r['document_type'].replace('-', ' ').capitalize()} ({r['court']}, {r['date_filed']}){' — public copy of the court document; the court does not publish it online or its site refuses automated access' if mirror else ''}"), "url": DQ(r["source_url"])}]
+    sources = [{"label": DQ(f"{r['document_type'].replace('-', ' ').capitalize()} ({r['court']}, {r['date_filed']}){' — public copy of the court document; the court’s own copy was not found online when checked (details on the decision page)' if mirror else ''}"), "url": DQ(r["source_url"])}]
     if r.get("mirror_url") and r["mirror_url"] != r["source_url"]:
         sources.append({"label": DQ("Public copy the row was first read from"), "url": DQ(r["mirror_url"])})
     sources.append({"label": DQ("SafeLegalAI — the court's passage on AI, coded"), "url": DQ(f"https://safelegalai.com/courts/opinions/{r['decision_id']}")})
